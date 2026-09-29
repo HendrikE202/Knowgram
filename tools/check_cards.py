@@ -59,8 +59,8 @@ def main():
         if len(c.get("points") or []) != 3:
             errs.append(f"{w}: `points` muss genau 3 Einträge haben")
         sl = c.get("slides") or []
-        if not 1 <= len(sl) <= 3:
-            errs.append(f"{w}: `slides` muss 1–3 Zusatz-Slides haben (hat {len(sl)}) – max. 6 Seiten je Karte insgesamt")
+        if not 2 <= len(sl) <= 3:
+            errs.append(f"{w}: `slides` muss 2–3 Zusatz-Slides haben (hat {len(sl)}) – max. 6 Seiten je Karte insgesamt")
         for s in sl:
             check_slide(w, s, errs)
     # Abwechslung in der neuesten Charge
@@ -97,8 +97,8 @@ def main():
                 continue
             if len(s.get("points", [])) < 2:
                 errs.append(f"Meldung {i}: mindestens 2 Stichpunkte")
-            if not s.get("slides"):
-                warns.append(f"Meldung {i}: kein Hintergrund-Slide (`slides`)")
+            if len(s.get("slides", [])) < 2:
+                errs.append(f"Meldung {i}: mindestens 2 Zusatz-Slides (z. B. „🧩 Hintergrund“ und „❓ Was noch unklar ist“)")
             for sl in s.get("slides", []):
                 check_slide("Meldung " + i, sl, errs)
         for i in sums:
