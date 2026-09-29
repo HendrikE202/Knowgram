@@ -237,6 +237,7 @@
     return { kind: "check", topic: k, shown: st[k].shown };
   };
 
+  const BATCH = 10;
   const nextBatch = () => {
     const st = topicStats(), W = weights(st), keep = (c) => ratingOf(c.id) >= 0 && !S.reports[c.id];   // 👎- und gemeldete Karten kommen nicht wieder
     const w = spread(weightedShuffle(wissenPool().filter(keep), W, st).sort((a, b) => SEEN.has(a.id) - SEEN.has(b.id))); // Ungesehenes zuerst
@@ -244,10 +245,14 @@
     if (topic === "brief") { finite = true; return n; }   // Reihenfolge = Wichtigkeit
     if (!w.length) { finite = true; return n.slice().sort((a, b) => SEEN.has(a.id) - SEEN.has(b.id)); }          // reine News-Ansicht: einmal durch, dann Ende
     finite = false;
-    if (w.length > 1 && w[0].id === lastId) w.push(w.shift());
-    lastId = w[w.length - 1].id;
+    // Nur eine kleine Charge auf einmal aufbauen (sonst hunderte Vollbild-Karten im Speicher → iPhone-Safari stürzt ab)
+    const inFeed = new Set([...feed.querySelectorAll(".card")].map((e) => e.dataset.id));
+    const fresh = w.filter((c) => !inFeed.has(c.id));
+    const list = (fresh.length ? fresh : w).slice(0, BATCH);
+    if (list.length > 1 && list[0].id === lastId) list.push(list.shift());
+    lastId = list[list.length - 1].id;
     const out = [];
-    w.forEach((c, i) => {
+    list.forEach((c, i) => {
       out.push(c);
       if ((i + 1) % 3 === 0 && newsPtr < n.length) out.push(n[newsPtr++]);   // jede Meldung höchstens einmal
     });
