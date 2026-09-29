@@ -88,7 +88,9 @@ def main():
         news = json.loads((ROOT / "news.json").read_text(encoding="utf-8"))
         sums = json.loads((ROOT / "summaries.json").read_text(encoding="utf-8"))
         top = [x["id"] for x in news.get("ranked", [])[:20]] or news.get("briefing", [])
-        have = {n["id"]: n for n in news["items"]}
+        otd = json.loads((ROOT / "onthisday.json").read_text(encoding="utf-8")).get("items", []) if (ROOT / "onthisday.json").exists() else []
+        top = top + [o["id"] for o in otd]                       # „Heute vor … Jahren“ gehört genauso dazu
+        have = {n["id"]: n for n in news["items"] + otd}
         for i in top:
             n = have.get(i)
             if not n or len((n.get("text") or "")) < 40:
