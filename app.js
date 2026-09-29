@@ -336,9 +336,11 @@
   };
   // Zusatz-Slides einer Karte (`slides: [{h, text, points}]`): so viele wie nötig – insgesamt höchstens 6 Slides pro Karte
   const MAX_SLIDES = 6;
-  const extraSlides = (c) => (Array.isArray(c.slides) ? c.slides : []).filter((x) => x && (x.text || (x.points && x.points.length))).map((x) =>
+  const extraSlides = (c) => (Array.isArray(c.slides) ? c.slides : []).filter((x) => x && (x.text || x.big || (x.points && x.points.length) || (x.steps && x.steps.length))).map((x) =>
     h("div", { class: "slide s2 x" }, h("span", { class: "stag" }, x.h || "Mehr dazu"), h("h3", { class: "slide-title" }, c.title),
+      ...(x.big ? [h("div", { class: "bignum" }, h("b", {}, x.big.n), h("span", {}, x.big.l))] : []),
       ...(x.text ? [h("p", { class: "xtext" }, x.text)] : []),
+      ...(x.steps && x.steps.length ? [h("ol", { class: "steps" }, ...x.steps.map((y) => h("li", {}, y)))] : []),
       ...(x.points && x.points.length ? [h("ul", { class: "pts" }, ...x.points.map((y) => h("li", {}, y)))] : []),
       h("div", { class: "meta" }, h("span", {}, "📚 KI-verfasst · ohne Gewähr"))));
 

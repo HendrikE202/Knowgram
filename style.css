@@ -133,3 +133,9 @@ html[data-big="1"] .card h2{font-size:1.9rem}
 .slide .refs p{font-size:.82rem;margin:4px 0 6px;color:var(--muted)}
 .slide .refs a{margin:2px 10px 2px 0;font-size:.85rem}
 .xtext{font-size:1.1rem;line-height:1.5;color:#f1f3f7;margin:0 0 14px}
+.bignum{display:flex;flex-direction:column;gap:6px;margin:0 0 14px}
+.bignum b{font-size:2.6rem;line-height:1.05;color:var(--c);letter-spacing:-.02em}
+.bignum span{font-size:1.05rem;line-height:1.4;color:#f1f3f7}
+.steps{list-style:none;counter-reset:st;margin:0 0 14px;padding:0;display:grid;gap:12px}
+.steps li{counter-increment:st;position:relative;padding-left:36px;font-size:1.05rem;line-height:1.45;color:#f1f3f7}
+.steps li::before{content:counter(st);position:absolute;left:0;top:0;width:26px;height:26px;border-radius:50%;background:var(--c);color:#0b0d12;font-weight:700;font-size:.9rem;display:grid;place-items:center}

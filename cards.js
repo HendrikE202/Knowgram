@@ -37,42 +37,49 @@ window.CARDS = [
   { id: "ge1", topic: "geschichte", title: "Der Frieden, der Staaten erfand", q: "Westfälischer Friede 1648",
     series: "Der Dreißigjährige Krieg", part: 5, of: 5,
     points: ["1648: Verträge von Münster und Osnabrück beenden den Dreißigjährigen Krieg", "Kernidee: Jeder Herrscher bestimmt im eigenen Gebiet, andere mischen sich nicht ein", "Grundlage des Prinzips souveräner Staaten und des heutigen Völkerrechts"],
-    slides: [{"h": "🧩 Was geregelt wurde", "text": "Der Friede regelte auch die Konfessionsfrage: Katholiken, Lutheraner und Reformierte wurden im Reich rechtlich anerkannt. Frankreich und Schweden gewannen Einfluss und Gebiete; die Reichsstände erhielten mehr Eigenständigkeit gegenüber dem Kaiser."}, {"h": "❓ Häufiges Missverständnis", "text": "„Westfälische Souveränität“ wird oft als plötzliche Erfindung des modernen Staats erzählt. Historiker sehen den Frieden eher als wichtigen Schritt in einer längeren Entwicklung."}],
+    slides: [{"h": "🕰️ Von 1618 bis 1648", "steps": ["1618: Prager Fenstersturz – der Krieg beginnt", "Über drei Jahrzehnte kämpfen europäische Mächte auf deutschem Boden", "1648: Verträge von Münster und Osnabrück beenden ihn"]}],
     text: "1648 beendeten die Verträge von Münster und Osnabrück den Dreißigjährigen Krieg. Sie gelten als Geburtsstunde des Prinzips souveräner Staaten: Jeder Herrscher bestimmt im eigenen Gebiet, andere mischen sich nicht ein. Die Grundidee prägt das Völkerrecht bis heute." },
   { id: "ge2", topic: "geschichte", title: "Ein Stein, der Hieroglyphen knackte", q: "Stein von Rosette Champollion",
     points: ["Fund 1799 durch französische Soldaten in Ägypten", "Derselbe Text in drei Schriften: Hieroglyphen, Demotisch, Altgriechisch", "Weil man Griechisch las, entzifferte Champollion 1822 die Hieroglyphen"],
+    slides: [{"h": "🪨 Der Trick", "steps": ["Derselbe Text in drei Schriften auf einem Stein", "Altgriechisch konnte man lesen", "Vergleich der Namen (z. B. Ptolemaios) zeigte, welche Zeichen welche Laute sind", "1822: Champollion legt die Entzifferung vor"]}, {"h": "🏛️ Heute", "text": "Der Stein gehört zum British Museum in London. Ägypten fordert ihn seit Jahren zurück."}],
     text: "Der Stein von Rosette, 1799 von französischen Soldaten in Ägypten gefunden, trägt denselben Text in drei Schriften: Hieroglyphen, Demotisch und Altgriechisch. Weil man Griechisch lesen konnte, gelang Jean-François Champollion 1822 die Entzifferung der Hieroglyphen." },
   { id: "ge3", topic: "geschichte", title: "Der Schwarze Tod", q: "Pest 1347 Schwarzer Tod Europa",
     points: ["1347–1353: Ein Drittel bis die Hälfte der Menschen in Europa starb (Schätzung)", "Ausbreitung wohl über Handelsschiffe aus dem Schwarzmeerraum nach Sizilien", "Folgen: Arbeitskräftemangel, steigende Löhne, tiefer gesellschaftlicher Wandel"],
+    slides: [{"big": {"n": "⅓ bis ½", "l": "der Bevölkerung Europas starb zwischen 1347 und 1353"}, "h": "🔢 Das Ausmaß"}, {"h": "🔄 Was danach kam", "text": "Arbeitskräfte wurden knapp, damit stiegen die Löhne und die Verhandlungsmacht der Überlebenden. Der Erreger, Yersinia pestis, ist heute bekannt und mit Antibiotika behandelbar."}],
     text: "Zwischen 1347 und 1353 raffte die Pest in Europa nach heutigen Schätzungen ein Drittel bis die Hälfte der Bevölkerung dahin. Sie kam wohl über Handelsschiffe aus dem Schwarzmeerraum nach Sizilien. Die Folgen: Arbeitskräftemangel, steigende Löhne und ein tiefer Wandel der Gesellschaft." },
 
   // Physik
   { id: "ph1", topic: "physik", title: "Ein Teilchen, zwei Spalten, ein Rätsel", q: "Doppelspaltexperiment",
     points: ["Einzelne Elektronen durch zwei Spalte ergeben nach und nach ein Interferenzmuster", "Misst man den gewählten Spalt, verschwindet das Muster", "Zeigt den Welle-Teilchen-Dualismus"],
-    slides: [{"h": "🧩 Was dahinter steckt", "text": "Ein Elektron ist weder „nur Welle“ noch „nur Teilchen“: Es trifft punktförmig auf dem Schirm auf, doch die Trefferverteilung folgt einer Wellenrechnung. Die Quantenmechanik beschreibt diese Wahrscheinlichkeiten sehr genau – wie man das Bild deuten soll, ist bis heute Streitfrage."}, {"h": "❓ Häufiges Missverständnis", "text": "„Das Bewusstsein des Beobachters verändert das Ergebnis“ stimmt so nicht. Entscheidend ist, dass die Messung physikalisch mit dem Elektron wechselwirkt – ein Mensch muss dafür nicht hinsehen."}],
+    slides: [{"h": "🧩 Was dahinter steckt", "text": "Ein Elektron trifft punktförmig auf dem Schirm auf, doch die Trefferverteilung folgt einer Wellenrechnung. Die Quantenmechanik sagt diese Wahrscheinlichkeiten sehr genau voraus – wie man das Bild deuten soll, ist bis heute Streitfrage."}, {"h": "🔬 Geht das auch größer?", "text": "Ja: Der Versuch gelang auch mit ganzen Molekülen, etwa mit Fullerenen aus 60 Kohlenstoffatomen (Gruppe um Anton Zeilinger, 1999). Je schwerer das Objekt, desto schwerer ist der Effekt nachzuweisen."}],
     text: "Schickt man Elektronen einzeln durch einen Doppelspalt, entsteht nach und nach ein Interferenzmuster – als wäre jedes Elektron gleichzeitig durch beide Spalte gegangen. Misst man, welchen Spalt es nimmt, verschwindet das Muster. Das Experiment zeigt den Welle-Teilchen-Dualismus." },
   { id: "ph2", topic: "physik", title: "Ohne Relativitätstheorie kein GPS", q: "GPS Relativitätstheorie Zeitdilatation",
     points: ["GPS-Uhren gehen rund 38 Mikrosekunden pro Tag vor", "Schwächere Gravitation beschleunigt sie, hohe Geschwindigkeit bremst sie ein wenig", "Ohne Korrektur wüchse der Ortungsfehler um etwa 10 km pro Tag"],
+    slides: [{"h": "🧮 Die Rechnung", "steps": ["Hohe Geschwindigkeit der Satelliten: Uhr geht langsamer (etwa −7 µs pro Tag)", "Schwächere Schwerkraft in rund 20.000 km Höhe: Uhr geht schneller (etwa +45 µs pro Tag)", "Unterm Strich: etwa +38 µs pro Tag – eingebaute Korrektur gleicht das aus"]}],
     text: "Die Uhren in GPS-Satelliten gehen im Vergleich zu Uhren am Boden etwa 38 Mikrosekunden pro Tag vor: Die schwächere Gravitation beschleunigt sie, die hohe Geschwindigkeit bremst sie ein wenig. Ohne Korrektur wüchse der Ortungsfehler um rund zehn Kilometer pro Tag." },
   { id: "ph3", topic: "physik", title: "Warum Kaffee nie von selbst heiß wird", q: "Entropie Zweiter Hauptsatz der Thermodynamik",
     points: ["Zweiter Hauptsatz: Entropie in einem abgeschlossenen System nimmt nicht ab", "Statistisch: unvorstellbar viele ungeordnete, nur wenige geordnete Zustände", "Darum kühlt Kaffee ab, wird aber nie von selbst wieder heiß"],
+    slides: [{"h": "☕ Das Kaffee-Beispiel", "text": "Heißer Kaffee gibt Wärme an die Luft ab, bis beides gleich warm ist. Der umgekehrte Weg ist nicht verboten, aber so unwahrscheinlich, dass er praktisch nie passiert – es gibt einfach viel mehr „gleichmäßige“ als „geordnete“ Zustände."}, {"h": "❓ Und der Kühlschrank?", "text": "Der macht Dinge kälter – scheinbar gegen den Trend. Er verbraucht dafür Strom und gibt an der Rückseite mehr Wärme ab. Die Entropie zählt nur im Gesamtsystem."}],
     text: "Der Zweite Hauptsatz der Thermodynamik besagt, dass die Entropie in einem abgeschlossenen System nicht abnimmt. Es ist eine statistische Aussage: Es gibt unvorstellbar viele ungeordnete Zustände und nur wenige geordnete. Deshalb kühlt Kaffee ab, aber wird nie von selbst wieder heiß." },
 
   // Kosmologie
   { id: "ko1", topic: "kosmologie", title: "Das Nachglühen des Urknalls", q: "Kosmische Hintergrundstrahlung Penzias Wilson",
     points: ["1965: Penzias und Wilson empfangen ein Rauschen aus allen Richtungen", "Es ist Licht aus der Zeit etwa 380.000 Jahre nach dem Urknall", "Heute nur noch 2,7 Kelvin kalt; Nobelpreis 1978"],
-    slides: [{"h": "🔢 Zahlen & Fakten", "points": ["Temperatur heute: rund 2,7 Kelvin (etwa −270,4 °C)", "Ausgesandt etwa 380.000 Jahre nach dem Urknall", "Ein kleiner Teil des alten Fernseh-Rauschens stammt von ihr"]}, {"h": "🔗 Warum das wichtig ist", "text": "Die Hintergrundstrahlung ist die älteste direkt beobachtbare Lichtquelle. Ihre winzigen Temperaturunterschiede zeigen, wie sich später Galaxien bilden konnten – Satelliten wie COBE, WMAP und Planck haben sie vermessen."}],
+    slides: [{"h": "🔢 Zahlen & Fakten", "points": ["Temperatur heute: rund 2,7 Kelvin (etwa −270,4 °C)", "Ausgesandt etwa 380.000 Jahre nach dem Urknall", "Winzige Temperaturunterschiede zeigen, wie sich später Galaxien bilden konnten"]}],
     text: "1965 empfingen Arno Penzias und Robert Wilson bei Tests einer Antenne ein hartnäckiges Rauschen aus allen Richtungen. Es war die kosmische Hintergrundstrahlung: Licht aus der Zeit etwa 380.000 Jahre nach dem Urknall, heute nur noch 2,7 Kelvin kalt. Dafür gab es 1978 den Nobelpreis." },
   { id: "ko2", topic: "kosmologie", title: "Größer als sein Alter", q: "Beobachtbares Universum Größe",
     points: ["Alter des Universums: rund 13,8 Milliarden Jahre", "Beobachtbares Universum: Radius etwa 46 Milliarden Lichtjahre", "Kein Widerspruch: Der Raum dehnt sich aus, während das Licht unterwegs ist"],
+    slides: [{"h": "🎈 Das Ballon-Bild", "text": "Stell dir Punkte auf einem Ballon vor, der aufgeblasen wird: Alle Punkte entfernen sich voneinander, obwohl keiner „läuft“. So dehnt sich der Raum aus – und trägt das Licht auf dem Weg mit."}],
     text: "Das Universum ist rund 13,8 Milliarden Jahre alt, doch das beobachtbare Universum hat einen Radius von etwa 46 Milliarden Lichtjahren. Kein Widerspruch: Der Raum selbst dehnt sich aus, während das Licht unterwegs ist. Die Quellen sind heute viel weiter weg, als ihr Licht alt ist." },
   { id: "ko3", topic: "kosmologie", title: "95 Prozent Unbekanntes", q: "Dunkle Materie Dunkle Energie Anteil",
     points: ["Gewöhnliche Materie: nur rund 5 % des Universums", "Dunkle Materie etwa 27 %, Dunkle Energie rund 68 %", "Was die beiden dunklen Anteile sind, weiß bis heute niemand"],
+    slides: [{"big": {"n": "5 %", "l": "gewöhnliche Materie – alles, woraus Sterne, Planeten und wir bestehen"}, "h": "🔢 Der kleine Rest"}, {"h": "🕵️ Woher weiß man das?", "points": ["Galaxien drehen sich zu schnell für die sichtbare Masse", "Licht wird von unsichtbarer Masse abgelenkt (Gravitationslinsen)", "Die Expansion des Universums beschleunigt sich"]}],
     text: "Gewöhnliche Materie, aus der Sterne, Planeten und wir bestehen, macht nur rund 5 Prozent des Universums aus. Etwa 27 Prozent sind Dunkle Materie und rund 68 Prozent Dunkle Energie. Was beide sind, weiß bis heute niemand." },
 
   // Philosophie
   { id: "pl1", topic: "philosophie", title: "Das Schiff des Theseus", q: "Schiff des Theseus Identität",
     points: ["Ein Schiff wird nach und nach komplett ersetzt – ist es noch dasselbe?", "Was, wenn aus den alten Brettern ein zweites Schiff entsteht?", "Überliefert von Plutarch; fragt nach dem Wesen von Identität"],
+    slides: [{"h": "🧱 Zwei Antworten", "points": ["Form zählt: Das Schiff bleibt dasselbe, solange es als Schiff besteht", "Material zählt: Das neu gebaute Schiff aus den alten Brettern wäre das Original", "Ähnlich: Sind wir noch dieselben, wenn sich unsere Zellen erneuern?"]}],
     text: "Ein Schiff wird über Jahre Brett für Brett ersetzt, bis kein Originalteil mehr übrig ist. Ist es noch dasselbe Schiff? Und was, wenn jemand die alten Bretter aufhebt und daraus ein zweites baut? Das Paradox, überliefert von Plutarch, fragt nach dem Wesen von Identität." },
   { id: "pl2", topic: "philosophie", title: "Schatten an der Höhlenwand", q: "Höhlengleichnis Platon",
     points: ["Gefangene halten Schatten an der Wand für die ganze Wirklichkeit", "Wer sich befreit, wird vom Licht geblendet und von den anderen nicht ernst genommen", "Bild für den mühsamen Weg zur Erkenntnis (Platon)"],
@@ -84,6 +91,7 @@ window.CARDS = [
   // Kunst
   { id: "ku1", topic: "kunst", title: "Wie die Tiefe ins Bild kam", q: "Zentralperspektive Brunelleschi Alberti",
     points: ["Um 1415 zeigt Brunelleschi in Florenz die mathematisch korrekte Darstellung von Räumen", "1435 beschreibt Alberti die Zentralperspektive schriftlich", "Sie veränderte die europäische Malerei von Grund auf"],
+    slides: [{"h": "📐 Das Prinzip", "text": "Alle Linien, die in die Tiefe führen, laufen auf einen Fluchtpunkt zu, und Gegenstände werden mit der Entfernung kleiner. Mit diesen Regeln ließ sich ein Raum auf der Fläche wie durch ein Fenster zeigen."}],
     text: "Um 1415 führte Filippo Brunelleschi in Florenz vor, wie sich dreidimensionale Räume mathematisch korrekt auf eine Fläche abbilden lassen. Leon Battista Alberti beschrieb die Zentralperspektive 1435 schriftlich. Sie veränderte die europäische Malerei von Grund auf." },
   { id: "ku2", topic: "kunst", title: "Ein Schimpfwort wird Kunstrichtung", q: "Impressionismus Monet Impression Sonnenaufgang",
     points: ["Name aus Spott: Kritiker Louis Leroy 1874 über Monets „Impression, Sonnenaufgang“ (1872)", "Er meinte damit bloß flüchtige „Impressionen“", "Die Künstler übernahmen den Begriff selbst"],
@@ -95,6 +103,7 @@ window.CARDS = [
   // IT
   { id: "it1", topic: "it", title: "Der erste echte „Bug\"", q: "Grace Hopper Bug Harvard Mark II",
     points: ["1947: Eine Motte im Relais des Harvard Mark II wird ins Logbuch geklebt", "Der Eintrag: „First actual case of bug being found“", "Das Wort „Bug“ für Fehler war älter; Grace Hopper machte die Anekdote bekannt"],
+    slides: [{"h": "🪲 Wahr oder Legende?", "text": "Die Motte gab es wirklich: Sie klebt im Logbuch des Harvard Mark II. Der Witz des Eintrags: „bug“ für Fehler war schon länger üblich, sogar bei Edison. Neu war nur der erste wörtliche Fall."}],
     text: "1947 fanden Ingenieure im Relais des Rechners Harvard Mark II eine Motte und klebten sie ins Logbuch: „First actual case of bug being found\". Das Wort „Bug\" für Fehler war schon älter, die Anekdote wurde durch Grace Hopper bekannt." },
   { id: "it2", topic: "it", title: "Das Jahr-2038-Problem", q: "Jahr-2038-Problem Unix-Zeit",
     points: ["Unix zählt Sekunden seit dem 1. Januar 1970", "Als vorzeichenbehaftete 32-Bit-Zahl läuft der Zähler am 19. Januar 2038 über", "64-Bit-Systeme sind nicht betroffen"],
@@ -106,6 +115,7 @@ window.CARDS = [
   // Politik
   { id: "po1", topic: "politik", title: "Warum es die Fünf-Prozent-Hürde gibt", q: "Fünf-Prozent-Hürde Sperrklausel Bundestag",
     points: ["Einzug in den Bundestag: mindestens 5 % der Zweitstimmen oder drei Direktmandate", "Lehre aus der Weimarer Republik mit ihrem zersplitterten Parlament", "Ziel: stabile Regierungsbildung"],
+    slides: [{"h": "🏛️ Weimar", "text": "In der Weimarer Republik zogen viele Kleinparteien in den Reichstag ein, Regierungen zerbrachen häufig. Die Fünf-Prozent-Hürde soll das verhindern – hat aber den Preis, dass Stimmen kleiner Parteien verfallen."}],
     text: "Im Bundestag ziehen Parteien nur ein, wenn sie mindestens 5 Prozent der Zweitstimmen oder drei Direktmandate erreichen. Die Sperrklausel ist eine Lehre aus der Weimarer Republik, deren zersplittertes Parlament Regierungsbildung und Stabilität erschwerte." },
   { id: "po2", topic: "politik", title: "Fünf Mächte mit Vetorecht", q: "UN-Sicherheitsrat Veto ständige Mitglieder",
     points: ["15 Mitglieder, davon 5 ständig mit Vetorecht", "USA, Russland, China, Frankreich, Vereinigtes Königreich", "Ein einziges Nein blockiert einen Beschluss; die 10 übrigen Sitze wechseln alle zwei Jahre"],
@@ -117,17 +127,21 @@ window.CARDS = [
   // Technik
   { id: "te1", topic: "technik", title: "Die Mikrowelle war ein Zufall", q: "Mikrowellenherd Percy Spencer",
     points: ["1945 bemerkt Percy Spencer am Radargerät, dass ein Schokoriegel schmilzt", "Mikrowellen (etwa 2,45 GHz) bringen Wassermoleküle zum Schwingen", "Die Reibung erzeugt Wärme direkt im Essen"],
+    slides: [{"h": "🍽️ Und der Drehteller?", "text": "Mikrowellen bilden im Garraum ein Muster mit heißen und kalten Stellen. Der Drehteller bewegt das Essen durch dieses Muster, damit es gleichmäßiger warm wird."}],
     text: "1945 bemerkte der Ingenieur Percy Spencer, dass ein Schokoriegel in seiner Tasche schmolz, während er an einem Radargerät arbeitete. Mikrowellen von etwa 2,45 Gigahertz bringen Wassermoleküle zum Schwingen – die Reibung erzeugt Wärme direkt im Essen." },
   { id: "te2", topic: "technik", title: "Anti-Lärm durch Gegen-Lärm", q: "Aktive Geräuschunterdrückung",
     points: ["Mikrofone messen den Umgebungsschall", "Ein Gegenschall in Gegenphase löscht ihn aus", "Am besten bei gleichmäßigem, tiefem Lärm; plötzliche Geräusche bleiben hörbar"],
+    slides: [{"h": "🎧 Grenzen der Methode", "text": "Das System braucht einen Moment, um den Gegenschall zu berechnen. Deshalb gelingt es bei gleichmäßigem Brummen gut, bei plötzlichem Lärm wie Türenknallen dagegen kaum."}],
     text: "Kopfhörer mit Noise-Cancelling messen Umgebungsschall mit Mikrofonen und erzeugen einen Gegenschall in Gegenphase. Beide Wellen löschen sich aus. Am besten funktioniert das bei gleichmäßigem, tiefem Lärm wie Triebwerken; plötzliche Geräusche bleiben hörbar." },
   { id: "te3", topic: "technik", title: "Wärmepumpe: Wärme umziehen statt erzeugen", q: "Wärmepumpe Funktionsweise Jahresarbeitszahl",
     points: ["Sie verbrennt nichts, sondern transportiert Wärme aus Luft, Erde oder Wasser", "Ein Kältemittelkreislauf hebt die Temperatur an", "Aus 1 kWh Strom werden typischerweise 3–4 kWh Wärme"],
+    slides: [{"big": {"n": "1 → 3–4", "l": "aus einer Kilowattstunde Strom werden typischerweise drei bis vier Kilowattstunden Wärme"}, "h": "🔢 Der Kniff"}, {"h": "❄️ Wie Kühlschrank rückwärts", "text": "Das Prinzip ist das gleiche wie beim Kühlschrank: Ein Kältemittel verdampft bei niedriger Temperatur, wird verdichtet und gibt dabei Wärme auf höherem Niveau ab."}],
     text: "Eine Wärmepumpe verbrennt nichts, sie transportiert Wärme aus Luft, Erde oder Wasser ins Haus. Mit einem Kältemittelkreislauf hebt sie die Temperatur an. Aus einer Kilowattstunde Strom werden typischerweise drei bis vier Kilowattstunden Wärme." },
 
   // Medizin
   { id: "me1", topic: "medizin", title: "Der Schimmel, der Millionen rettete", q: "Penicillin Alexander Fleming",
     points: ["1928: Fleming sieht, dass ein Schimmelpilz Bakterien in der Umgebung abtötet", "Der Pilz Penicillium liefert das erste Antibiotikum", "Florey und Chain machen es in den 1940ern nutzbar; Nobelpreis 1945 für alle drei"],
+    slides: [{"h": "⏳ Vom Zufall zum Medikament", "steps": ["1928: Fleming beobachtet die Wirkung des Schimmelpilzes", "1940er: Florey und Chain machen das Mittel nutzbar", "1945: Nobelpreis für Fleming, Florey und Chain"]}],
     text: "1928 bemerkte Alexander Fleming, dass ein Schimmelpilz auf seiner Bakterienkultur die Bakterien in der Umgebung abtötete. Der Pilz Penicillium brachte das erste Antibiotikum hervor. Howard Florey und Ernst Chain machten es in den 1940ern nutzbar; alle drei erhielten 1945 den Nobelpreis." },
   { id: "me2", topic: "medizin", title: "Die Türsteherin des Gehirns", q: "Blut-Hirn-Schranke",
     points: ["Dicht verbundene Zellen der Blutgefäße lassen nur ausgewählte Stoffe ins Gehirn", "Schutz vor Erregern und Giften", "Nachteil: Viele Medikamente kommen nicht durch"],
@@ -139,18 +153,21 @@ window.CARDS = [
   // Biologie
   { id: "bi1", topic: "biologie", title: "Kraftwerke mit eigener Vergangenheit", q: "Endosymbiontentheorie Mitochondrien Lynn Margulis",
     points: ["Mitochondrien haben eigene DNA und vermehren sich selbst", "Endosymbiontentheorie (Lynn Margulis): Sie stammen von aufgenommenen Bakterien ab", "Aufnahme vor über einer Milliarde Jahren durch eine Urzelle"],
-    slides: [{"h": "🔎 Belege für die Theorie", "points": ["Mitochondrien haben eine doppelte Membran", "Ihre Ringform-DNA ähnelt der von Bakterien", "Sie teilen sich unabhängig von der Zelle", "Auch Chloroplasten in Pflanzen stammen von aufgenommenen Bakterien"]}],
+    slides: [{"h": "🔎 Belege für die Theorie", "points": ["Mitochondrien haben eine doppelte Membran", "Ihre ringförmige DNA ähnelt der von Bakterien", "Sie teilen sich unabhängig von der Zelle", "Auch Chloroplasten in Pflanzen stammen von aufgenommenen Bakterien"]}],
     text: "Mitochondrien haben eigene DNA und vermehren sich selbst. Die Endosymbiontentheorie, populär gemacht von Lynn Margulis, erklärt das: Sie stammen von Bakterien ab, die vor über einer Milliarde Jahre von einer Urzelle aufgenommen wurden und blieben." },
   { id: "bi2", topic: "biologie", title: "CRISPR: Die Gen-Schere aus Bakterien", q: "CRISPR Cas9 Charpentier Doudna",
     points: ["CRISPR ist ein Abwehrsystem von Bakterien gegen Viren", "Es merkt sich Virus-DNA und schneidet sie bei erneutem Kontakt", "Charpentier und Doudna machten es zum Gen-Werkzeug; Nobelpreis Chemie 2020"],
+    slides: [{"h": "✂️ Schnitt für Schnitt", "steps": ["Eine Leit-RNA sucht die passende Stelle im Erbgut", "Das Enzym Cas9 schneidet dort die DNA", "Die Zelle repariert den Schnitt – dabei kann ein Gen abgeschaltet oder ersetzt werden"]}, {"h": "⚖️ Die Ethik-Frage", "text": "2018 verkündete der chinesische Forscher He Jiankui genmanipulierte Babys. Er wurde dafür verurteilt. Veränderungen an Keimzellen gelten weltweit als hochumstritten."}],
     text: "CRISPR ist ursprünglich ein Abwehrsystem von Bakterien gegen Viren: Es merkt sich Virus-DNA und schneidet sie bei erneutem Kontakt. Emmanuelle Charpentier und Jennifer Doudna machten daraus ein Werkzeug zum gezielten Umschreiben von Genen – Nobelpreis für Chemie 2020." },
   { id: "bi3", topic: "biologie", title: "Das „Wood Wide Web\"", q: "Mykorrhiza Wood Wide Web",
     points: ["Pilzgeflechte (Mykorrhiza) umhüllen Baumwurzeln", "Sie tauschen Nährstoffe gegen Zucker und verbinden viele Pflanzen", "Wie sehr Bäume darüber kommunizieren oder helfen, ist umstritten"],
+    slides: [{"h": "⚠️ Was umstritten ist", "text": "Dass Pilze und Wurzeln Stoffe austauschen, ist gut belegt. Ob Bäume darüber gezielt „Warnungen“ senden oder Nachwuchs „füttern“, wird in der Forschung kontrovers diskutiert."}],
     text: "Pilzgeflechte, sogenannte Mykorrhiza, umhüllen Baumwurzeln und tauschen Nährstoffe gegen Zucker. Sie verbinden dabei viele Pflanzen miteinander. Wie stark Bäume darüber „kommunizieren\" oder einander helfen, ist unter Forschenden allerdings umstritten." },
 
   // Zoologie
   { id: "zo1", topic: "zoologie", title: "Der Krake mit dem verteilten Gehirn", q: "Kraken Nervensystem drei Herzen",
     points: ["Drei Herzen und blaues, kupferbasiertes Blut", "Rund zwei Drittel der etwa 500 Millionen Nervenzellen sitzen in den Armen", "Die Arme handeln teils eigenständig"],
+    slides: [{"big": {"n": "3 Herzen", "l": "und blaues Blut: Es enthält Kupfer statt Eisen"}, "h": "🔢 Ungewöhnlich"}],
     text: "Kraken haben drei Herzen und blaues Blut auf Kupferbasis. Von ihren etwa 500 Millionen Nervenzellen sitzt rund zwei Drittel in den Armen, die teils eigenständig handeln. Ihr Gehirn ist ungewöhnlich verteilt aufgebaut – ganz anders als bei Wirbeltieren." },
   { id: "zo2", topic: "zoologie", title: "Bärtierchen: fast unzerstörbar", q: "Bärtierchen Tardigrada Kryptobiose",
     points: ["Kaum 1 mm groß", "Können in Kryptobiose fallen: überstehen Austrocknung, extreme Kälte, Strahlung", "2007 überlebten einige mehrere Tage im offenen Weltraum"],
@@ -165,23 +182,27 @@ window.CARDS = [
   // ---- Geschichte (+3)
   { id: "ge4", topic: "geschichte", title: "Gutenbergs Medienrevolution", q: "Johannes Gutenberg Buchdruck Mainz",
     points: ["Um 1450: Buchdruck mit beweglichen Metalllettern in Mainz, Bibel um 1455", "Bücher wurden billiger, Wissen verbreitete sich schneller", "Motor für Reformation und Wissenschaft; in Ostasien gab es Lettern schon früher"],
+    slides: [{"h": "🧩 Was neu war", "text": "Neu waren nicht Druck und Papier, sondern die Kombination: bewegliche, wiederverwendbare Metalllettern, eine Legierung für den Guss, Druckerpresse und ölhaltige Farbe. So entstanden ab 1455 viele gleiche Bibeln."}],
     text: "Um 1450 entwickelte Johannes Gutenberg in Mainz den Buchdruck mit beweglichen Metalllettern; die berühmte Bibel entstand um 1455. Bücher wurden billiger, Wissen und Ideen verbreiteten sich schneller – ein Motor für Reformation und Wissenschaft. Bewegliche Lettern gab es in Ostasien allerdings schon Jahrhunderte früher." },
   { id: "ge5", topic: "geschichte", title: "Auch Könige unterliegen dem Recht", q: "Magna Carta 1215",
     points: ["1215: Der Adel zwingt König Johann Ohneland zur Magna Carta", "Sie schränkt die Willkür des Königs ein", "Grundsatz: Auch der Herrscher ist an das Recht gebunden"],
     text: "1215 zwang der englische Adel König Johann Ohneland, die Magna Carta zu besiegeln. Sie schränkte die Willkür des Königs ein und legte den Grundsatz nieder, dass auch der Herrscher an das Recht gebunden ist. Viele Einzelregeln sind längst überholt, die Idee wirkt bis in moderne Verfassungen." },
   { id: "ge6", topic: "geschichte", title: "Ein Versprecher öffnet die Mauer", q: "Fall der Berliner Mauer 9. November 1989 Schabowski",
     points: ["9. November 1989: Schabowski sagt, die Reiseregelung gelte „sofort, unverzüglich“", "Tausende ziehen zu den Grenzübergängen, die Grenzer geben nach", "Die Mauer stand seit dem 13. August 1961"],
+    slides: [{"h": "🧭 Ablauf des Abends", "steps": ["Schabowski verkündet in einer Pressekonferenz die neue Reiseregelung", "Auf Nachfrage, ab wann: „sofort, unverzüglich“", "Tausende gehen zu den Grenzübergängen", "Am Übergang Bornholmer Straße öffnet der Grenzposten den Schlagbaum"]}],
     text: "Am Abend des 9. November 1989 erklärte Günter Schabowski auf einer Pressekonferenz, die neue Reiseregelung gelte „sofort, unverzüglich“. Tausende zogen zu den Grenzübergängen, die Grenzer gaben nach. Die Berliner Mauer hatte seit dem 13. August 1961 gestanden." },
 
   // ---- Physik (+3)
   { id: "ph4", topic: "physik", title: "Die Lichtgeschwindigkeit ist per Definition exakt", q: "Lichtgeschwindigkeit 299792458 Meter Definition",
     points: ["Lichtgeschwindigkeit im Vakuum: genau 299.792.458 m/s", "Das ist Definition, keine Messung mehr", "Seit 1983 ist der Meter über die Lichtstrecke definiert"],
+    slides: [{"big": {"n": "299.792.458 m/s", "l": "genau so viel – festgelegt, nicht gemessen"}, "h": "🔢 Die Zahl"}, {"h": "📏 Warum festlegen?", "text": "Seit 1983 ist der Meter die Strecke, die Licht in 1/299.792.458 Sekunde zurücklegt. Damit wird die Lichtgeschwindigkeit zum Fixpunkt, und die Länge folgt aus der Zeitmessung, die sich besonders präzise machen lässt."}],
     text: "Licht bewegt sich im Vakuum mit genau 299.792.458 Metern pro Sekunde. Das ist keine Messung mehr, sondern Definition: Seit 1983 wird der Meter über die Strecke festgelegt, die Licht in 1/299.792.458 Sekunde zurücklegt. Die Sekunde legt fest, wie lang der Meter ist." },
   { id: "ph5", topic: "physik", title: "Higgs: Was Masse wirklich erklärt", q: "Higgs-Boson CERN 2012",
     points: ["2012 am CERN nachgewiesen (ATLAS und CMS)", "Das Higgs-Feld verleiht Elementarteilchen Masse", "Den Großteil der Alltagsmasse liefert die Bindungsenergie in Protonen und Neutronen"],
     text: "2012 wiesen die Experimente ATLAS und CMS am CERN das Higgs-Teilchen nach. Das zugehörige Feld verleiht Elementarteilchen wie Elektronen ihre Masse. Der Großteil der Masse alltäglicher Materie stammt dagegen aus der Bindungsenergie in Protonen und Neutronen. 2013 gab es den Nobelpreis für Englert und Higgs." },
   { id: "ph6", topic: "physik", title: "Wenn Strom keinen Widerstand kennt", q: "Supraleitung Kamerlingh Onnes",
     points: ["1911: Kamerlingh Onnes sieht bei etwa 4,2 K den Widerstand von Quecksilber verschwinden", "Supraleiter verdrängen Magnetfelder (Meißner-Effekt)", "Genutzt in MRT-Geräten und Teilchenbeschleunigern"],
+    slides: [{"h": "🚄 Wo es gebraucht wird", "points": ["MRT-Geräte: Supraleitende Spulen erzeugen sehr starke Magnetfelder", "Teilchenbeschleuniger wie am CERN", "Forschung an Hochtemperatur-Supraleitern – aber immer noch bei sehr tiefen Temperaturen"]}],
     text: "1911 entdeckte Heike Kamerlingh Onnes, dass Quecksilber bei etwa 4,2 Kelvin seinen elektrischen Widerstand komplett verliert. Supraleiter erzeugen zudem den Meißner-Effekt: Sie verdrängen Magnetfelder. Genutzt wird das in MRT-Geräten und Teilchenbeschleunigern." },
 
   // ---- Kosmologie (+3)
@@ -242,6 +263,7 @@ window.CARDS = [
   // ---- Technik (+3)
   { id: "te4", topic: "technik", title: "Der Akku, ohne den es kein Smartphone gäbe", q: "Lithium-Ionen-Akku Nobelpreis Chemie 2019",
     points: ["Nobelpreis Chemie 2019: Goodenough, Whittingham, Yoshino", "Sony brachte den Akku 1991 auf den Markt", "Lithium-Ionen wandern beim Laden zwischen den Elektroden hin und her"],
+    slides: [{"h": "🔋 Wie der Akku arbeitet", "steps": ["Beim Laden wandern Lithium-Ionen zur Anode", "Beim Entladen wandern sie zurück zur Kathode", "Dabei fließen Elektronen durch das Gerät – das ist der Strom"]}],
     text: "Für die Entwicklung des Lithium-Ionen-Akkus erhielten John Goodenough, Stanley Whittingham und Akira Yoshino 2019 den Chemie-Nobelpreis. Sony brachte ihn 1991 auf den Markt. Beim Laden wandern Lithium-Ionen zwischen zwei Elektroden hin und her – ohne dass sich die Elektroden dabei verbrauchen." },
   { id: "te5", topic: "technik", title: "Kühlschrank: Wärme wird weggepumpt", q: "Kühlschrank Funktionsweise Kältemittel Kompressor",
     points: ["Ein Kältemittel verdampft innen und nimmt dabei Wärme auf", "Ein Kompressor verdichtet den Dampf", "Die Wärme geht an der Rückseite nach außen – deshalb ist sie warm"],
@@ -264,6 +286,7 @@ window.CARDS = [
   // ---- Biologie (+3)
   { id: "bi4", topic: "biologie", title: "Die Doppelhelix und das Foto 51", q: "DNA Doppelhelix Watson Crick Rosalind Franklin",
     points: ["1953: Watson und Crick beschreiben die DNA-Doppelhelix", "Entscheidende Hinweise: Rosalind Franklins Röntgenbild „Foto 51“", "Nobelpreis 1962 für Watson, Crick, Wilkins; Franklin war schon gestorben"],
+    slides: [{"h": "👩‍🔬 Rosalind Franklin", "text": "Franklin fotografierte die DNA mit Röntgenstrahlen; „Foto 51“ zeigte das X-förmige Muster einer Helix. Ohne ihr Wissen gelangte das Bild zu Watson und Crick. Sie starb 1958 und konnte den Nobelpreis von 1962 nicht mehr teilen."}],
     text: "1953 beschrieben James Watson und Francis Crick die Doppelhelix-Struktur der DNA. Entscheidende Hinweise lieferte Rosalind Franklins Röntgenbild „Foto 51“. Den Nobelpreis 1962 bekamen Watson, Crick und Maurice Wilkins; Franklin war da bereits gestorben – und wird bis heute zu wenig gewürdigt." },
   { id: "bi5", topic: "biologie", title: "Wer der Erde den Sauerstoff schenkte", q: "Große Sauerstoffkatastrophe Cyanobakterien",
     points: ["Vor etwa 2,4 Milliarden Jahren stieg der Sauerstoff in der Atmosphäre stark an", "Ursache: Cyanobakterien mit Photosynthese", "Für viele damalige Lebewesen giftig, für komplexes Leben die Voraussetzung"],
@@ -286,6 +309,7 @@ window.CARDS = [
   // ---- Wirtschaft (4)
   { id: "wi1", topic: "wirtschaft", title: "Warum die EZB genau zwei Prozent will", q: "EZB Inflationsziel 2 Prozent Preisstabilität",
     points: ["Ziel der EZB: mittelfristig 2 % Inflation", "Symmetrisch: Auch zu wenig Inflation ist ein Problem", "Etwas Preisanstieg gibt Spielraum gegen Deflation; zu viel entwertet Ersparnisse"],
+    slides: [{"h": "🤔 Warum nicht null?", "text": "Bei null Prozent wäre schon eine kleine Abwärtsbewegung Deflation. Dann verschieben Menschen Käufe in die Zukunft und die Wirtschaft kann lahmen. Ein kleiner Puffer nach oben macht es der Zentralbank leichter."}],
     text: "Die Europäische Zentralbank strebt mittelfristig eine Inflationsrate von 2 Prozent an – und zwar symmetrisch: Auch zu wenig Inflation wäre ein Problem. Ein bisschen Preisanstieg gibt Spielraum gegen Deflation, zu viel entwertet Ersparnisse." },
   { id: "wi2", topic: "wirtschaft", title: "Handel lohnt sich – auch für die Schwächeren", q: "David Ricardo komparativer Kostenvorteil",
     points: ["David Ricardo, 1817: Handel lohnt, auch wenn ein Land alles besser kann", "Jeder konzentriert sich auf das, was er im Vergleich am günstigsten kann", "Kernargument für Freihandel – Verlierer im Einzelnen nicht ausgeschlossen"],
@@ -314,13 +338,15 @@ window.CARDS = [
   // ---- Psychologie (4)
   { id: "ps1", topic: "psychologie", title: "Der Ankereffekt", q: "Ankereffekt Tversky Kahneman",
     points: ["Tversky und Kahneman, 1974: Schon eine willkürliche Zahl beeinflusst Schätzungen", "Wer vorher eine hohe Zahl im Kopf hat, schätzt höher", "Erklärt Statt-Preise und die Bedeutung von Verhandlungsanfängen"],
-    slides: [{"h": "🧩 Wie das Experiment lief", "text": "Bei Tversky und Kahneman drehten Versuchspersonen an einem Glücksrad und schätzten danach, wie viele afrikanische Staaten in der UNO sind. Wer eine hohe Zahl erhalten hatte, schätzte deutlich höher als bei einer niedrigen – obwohl das Rad offensichtlich Zufall war."}, {"h": "💡 Im Alltag", "text": "Anker wirken beim Gehaltsgespräch, beim Kauf am Flohmarkt oder bei Angeboten mit „Statt“-Preis. Tipp: Eine eigene Einschätzung vorher festlegen, bevor die erste Zahl fällt."}],
+    slides: [{"h": "🎡 Das Experiment", "text": "Versuchspersonen drehten an einem Glücksrad und schätzten danach, wie viele afrikanische Staaten in der UNO sind. Wer eine hohe Zahl erhalten hatte, schätzte deutlich höher – obwohl das Rad offensichtlich Zufall war."}, {"h": "💡 Im Alltag", "text": "Anker wirken beim Gehaltsgespräch, auf dem Flohmarkt oder bei „Statt“-Preisen. Tipp: eine eigene Einschätzung festlegen, bevor die erste Zahl fällt."}],
     text: "Tversky und Kahneman zeigten 1974: Schon eine willkürliche Zahl beeinflusst spätere Schätzungen. Wer vorher eine hohe Zahl im Kopf hat, schätzt höher. Deshalb sind Preisschilder mit durchgestrichenem „Statt“-Preis so wirksam – und Verhandlungsanfänge so wichtig." },
   { id: "ps2", topic: "psychologie", title: "Das Milgram-Experiment", q: "Milgram-Experiment Gehorsam Yale 1961",
     points: ["1961: Versuchspersonen sollten scheinbar Stromschläge geben, wenn der Versuchsleiter es verlangte", "In der bekanntesten Variante gingen etwa 65 % bis zur höchsten Stufe", "Zeigt die Macht von Autorität; ethisch und methodisch umstritten"],
+    slides: [{"h": "🔄 Variationen", "text": "Milgram änderte die Versuchsanordnung: Waren die Versuchsleiter nicht im Raum oder verweigerten andere „Teilnehmer“, sank der Gehorsam deutlich. Die Situation zählt – nicht nur der Charakter."}],
     text: "1961 ließ Stanley Milgram Versuchspersonen scheinbar Stromschläge an einen Schauspieler verabreichen, wenn ein Versuchsleiter es verlangte. In der bekanntesten Variante gingen etwa 65 Prozent bis zur höchsten Stufe. Das Experiment zeigt die Macht von Autorität – und ist ethisch wie methodisch umstritten." },
   { id: "ps3", topic: "psychologie", title: "Vergessen folgt einer Kurve", q: "Ebbinghaus Vergessenskurve Spacing-Effekt",
     points: ["Ebbinghaus, 1885: Neu Gelerntes wird anfangs besonders schnell vergessen", "Wiederholen in wachsenden Abständen (Spacing) hält länger als Pauken am Stück", "Grundlage vieler Lernkarteien und -apps"],
+    slides: [{"h": "🗂️ So nutzt du das", "steps": ["Lerne neuen Stoff und wiederhole ihn nach einem Tag", "Dann nach ein paar Tagen, dann nach ein paar Wochen", "Wer kurz vor Vergessen wiederholt, behält am längsten"]}],
     text: "Hermann Ebbinghaus fand 1885 durch Selbstversuche: Neu Gelerntes wird anfangs besonders schnell vergessen. Wiederholungen in wachsenden Abständen („Spacing“) prägen das Wissen dauerhafter ein als Pauken am Stück. Darauf beruhen viele Lernkarteien und -apps." },
   { id: "ps4", topic: "psychologie", title: "Warum bei vielen Zuschauern oft keiner hilft", q: "Bystander-Effekt Latané Darley",
     points: ["Latané und Darley, 1968: Je mehr Zuschauer, desto seltener greift eine Person ein", "Grund: Die Verantwortung verteilt sich", "In eindeutig gefährlichen Notfällen ist der Effekt schwächer"],
@@ -329,6 +355,7 @@ window.CARDS = [
   // ---- Sprache (4)
   { id: "sp1", topic: "sprache", title: "Formt Sprache unser Denken?", q: "Sapir-Whorf-Hypothese",
     points: ["Frage: Bestimmt Sprache, wie wir denken? (Sapir-Whorf)", "Starke Version (Sprache legt Denken fest): widerlegt", "Schwache Version belegt: Wörter beeinflussen Wahrnehmung und Gedächtnis leicht"],
+    slides: [{"h": "🌈 Ein Beispiel", "text": "Sprachen zerlegen Farben unterschiedlich. Studien zeigen, dass Muttersprachler mit mehr Wörtern für Blautöne bestimmte Blaus etwas schneller unterscheiden – ein kleiner Effekt, kein Denkgefängnis."}],
     text: "Die Sapir-Whorf-Hypothese fragt, ob Sprache bestimmt, wie wir denken. Die starke Version – Sprache legt Denken fest – gilt als widerlegt. Die schwache ist gut belegt: Wörter für Farben oder Richtungen können Wahrnehmung und Gedächtnis leicht beeinflussen." },
   { id: "sp2", topic: "sprache", title: "Der Duden entstand in Hessen", q: "Konrad Duden Bad Hersfeld Orthographisches Wörterbuch 1880",
     points: ["Konrad Duden leitete das Gymnasium in Bad Hersfeld (Hessen)", "Dort entstand sein Orthographisches Wörterbuch, erschienen 1880", "Es wurde zum Maßstab der deutschen Rechtschreibung"],
@@ -343,6 +370,7 @@ window.CARDS = [
   // ---- Mathematik (4)
   { id: "ma1", topic: "mathe", title: "Es gibt unendlich viele Primzahlen", q: "Euklid Beweis unendlich viele Primzahlen",
     points: ["Euklid, um 300 v. Chr.", "Beweis: Multipliziere alle Primzahlen, addiere 1 – die neue Zahl ist durch keine teilbar", "Also muss es weitere Primzahlen geben"],
+    slides: [{"h": "🧠 Der Beweis in vier Schritten", "steps": ["Nimm an, es gäbe nur endlich viele Primzahlen", "Multipliziere sie alle und addiere 1", "Die neue Zahl ist durch keine dieser Primzahlen teilbar", "Also gibt es eine weitere Primzahl – Widerspruch"]}],
     text: "Euklid bewies um 300 v. Chr.: Gäbe es nur endlich viele Primzahlen, multipliziere alle und addiere 1. Die neue Zahl ist durch keine der Primzahlen teilbar, also muss es weitere geben. Der Beweis gilt bis heute als Musterbeispiel mathematischer Eleganz." },
   { id: "ma2", topic: "mathe", title: "Die schönste Formel?", q: "Eulersche Identität",
     points: ["e^(iπ) + 1 = 0", "Verbindet fünf zentrale Zahlen: e, i, π, 1 und 0", "Gilt vielen als schönste Formel der Mathematik"],
@@ -357,6 +385,7 @@ window.CARDS = [
   // ---- Chemie (4)
   { id: "ch1", topic: "chemie", title: "Mendelejew sagte Elemente voraus", q: "Periodensystem Mendelejew 1869 Gallium Germanium",
     points: ["1869: Mendelejew ordnet die Elemente nach Atommasse und Eigenschaften", "Er lässt Lücken frei und sagt drei Elemente voraus", "Später entdeckt: Gallium, Scandium, Germanium; heute 118 Elemente"],
+    slides: [{"h": "🔮 Die Vorhersage", "text": "Mendelejew ließ Lücken frei und beschrieb die fehlenden Elemente im Voraus, etwa „Eka-Silicium“. Als 1886 Germanium entdeckt wurde, passten die Eigenschaften erstaunlich gut."}],
     text: "Dmitri Mendelejew ordnete 1869 die Elemente nach Atommasse und Eigenschaften und ließ Lücken frei. Er sagte drei unbekannte Elemente samt Eigenschaften voraus; sie wurden später als Gallium, Scandium und Germanium entdeckt. Heute kennt man 118 Elemente." },
   { id: "ch2", topic: "chemie", title: "Brot aus Luft: Haber-Bosch", q: "Haber-Bosch-Verfahren Ammoniak Kunstdünger",
     points: ["Haber und Bosch: Ammoniak aus Luftstickstoff und Wasserstoff, großtechnisch ab 1913", "Grundlage für Kunstdünger", "Schätzung: Ernährung von etwa der Hälfte der Menschheit hängt daran; hoher Energiebedarf"],
@@ -371,6 +400,7 @@ window.CARDS = [
   // ---- Erde & Klima (4)
   { id: "kl1", topic: "klima", title: "Ohne Treibhauseffekt wäre es eisig", q: "natürlicher Treibhauseffekt Durchschnittstemperatur",
     points: ["Ohne natürlichen Treibhauseffekt etwa −18 °C statt rund +15 °C", "Wasserdampf und CO₂ halten Wärme zurück", "Problem: der zusätzliche, vom Menschen verstärkte Effekt"],
+    slides: [{"big": {"n": "−18 °C", "l": "wäre die Durchschnittstemperatur der Erde ohne natürlichen Treibhauseffekt – statt rund +15 °C"}, "h": "🔢 Der Unterschied"}],
     text: "Ohne den natürlichen Treibhauseffekt läge die Durchschnittstemperatur der Erde bei etwa −18 °C statt bei rund +15 °C. Gase wie Wasserdampf und CO₂ halten einen Teil der Wärme zurück. Das Problem ist der zusätzliche, vom Menschen verstärkte Effekt." },
   { id: "kl2", topic: "klima", title: "CO₂ in der Atmosphäre", q: "CO2-Konzentration ppm Mauna Loa",
     points: ["Vor der Industrialisierung etwa 280 ppm CO₂", "Heute über 420 ppm (Messreihe Mauna Loa seit 1958)", "Anstieg vor allem durch fossile Energieträger"],
@@ -385,6 +415,7 @@ window.CARDS = [
   // ---- Raumfahrt (4)
   { id: "ra1", topic: "raumfahrt", title: "Sputnik: der Piepton, der die Welt aufschreckte", q: "Sputnik 1 1957",
     points: ["4. Oktober 1957: Sowjetunion startet Sputnik 1, den ersten Erdsatelliten", "84-kg-Kugel, die piepste", "Der „Sputnik-Schock“ löste den Wettlauf ins All aus; 1958 Gründung der NASA"],
+    slides: [{"h": "📡 Der Schock", "text": "Der Piepton war mit Amateurfunkgeräten weltweit zu hören. Für die USA war das ein politischer Schock: Die Sowjetunion war offenbar vorn – die Folge waren mehr Geld für Forschung und 1958 die NASA."}],
     text: "Am 4. Oktober 1957 startete die Sowjetunion Sputnik 1, den ersten künstlichen Erdsatelliten – eine 84-Kilogramm-Kugel, die piepste. Der „Sputnik-Schock“ löste den Wettlauf ins All aus und führte in den USA zur Gründung der NASA 1958." },
   { id: "ra2", topic: "raumfahrt", title: "Apollo 11", q: "Apollo 11 Mondlandung Armstrong Aldrin",
     points: ["20. Juli 1969 (UTC): Armstrong und Aldrin landen mit der „Eagle“ auf dem Mond", "Michael Collins bleibt im Orbit", "Etwa 21 kg Gestein mitgebracht, Rückkehr am 24. Juli"],
@@ -430,6 +461,7 @@ window.CARDS = [
   // ---- Datenbanken & Daten
   { id: "db1", topic: "db", title: "Normalformen: Ordnung gegen Redundanz", q: "Normalisierung Datenbank Normalformen Codd",
     points: ["Codd begründete 1970 das relationale Modell", "Normalformen (1NF–3NF u. a.): jede Information genau einmal", "Vermeidet Änderungs-, Einfüge- und Löschanomalien, kostet oft Joins"],
+    slides: [{"h": "🧾 Ein Beispiel", "text": "Steht die Adresse eines Kunden in jeder Bestellung, muss man sie bei einem Umzug überall ändern. In der Normalform steht sie einmal beim Kunden, die Bestellung verweist nur darauf."}],
     text: "Edgar F. Codd begründete 1970 das relationale Modell. Die Normalformen (1NF bis 3NF und weitere) helfen, Daten ohne Doppelungen abzulegen: Jede Information steht genau einmal. So vermeidet man Änderungs-, Einfüge- und Löschanomalien, muss aber oft mit Joins bezahlen." },
   { id: "db2", topic: "db", title: "ACID: Warum die Überweisung nicht halb passiert", q: "ACID Transaktion Datenbank",
     points: ["Atomarität: ganz oder gar nicht", "Konsistenz, Isolation (parallele Transaktionen stören sich nicht), Dauerhaftigkeit", "Schlägt ein Schritt fehl, wird alles zurückgerollt"],
@@ -447,6 +479,7 @@ window.CARDS = [
   // ---- IT-Sicherheit & Netze
   { id: "sc1", topic: "sc", title: "Die drei Schutzziele der IT-Sicherheit", q: "Schutzziele Vertraulichkeit Integrität Verfügbarkeit",
     points: ["Vertraulichkeit: nur Berechtigte lesen", "Integrität: Daten bleiben unverfälscht", "Verfügbarkeit: Systeme sind nutzbar, wenn man sie braucht"],
+    slides: [{"h": "🛡️ Beispiele für Angriffe", "points": ["Vertraulichkeit: Datendiebstahl, Phishing", "Integrität: Manipulierte Überweisungen oder Dateien", "Verfügbarkeit: DDoS, Ransomware, die Systeme lahmlegt"]}],
     text: "IT-Sicherheit dreht sich um drei Grundwerte: Vertraulichkeit (nur Berechtigte lesen), Integrität (Daten bleiben unverfälscht) und Verfügbarkeit (Systeme sind nutzbar, wenn man sie braucht). Bei jeder Maßnahme lohnt die Frage, welches Ziel sie schützt – und welches sie eventuell schwächt." },
   { id: "sc2", topic: "sc", title: "Sieben Schichten für ein Datenpaket", q: "OSI-Modell sieben Schichten TCP/IP",
     points: ["ISO-Modell von 1984 mit sieben Schichten", "Bitübertragung, Sicherung, Vermittlung, Transport, Sitzung, Darstellung, Anwendung", "In der Praxis dominiert TCP/IP (4 Schichten); OSI hilft bei der Fehlersuche"],
@@ -481,6 +514,7 @@ window.CARDS = [
   // ---- KI & Tools
   { id: "ki1", topic: "ki", title: "Wie ein Sprachmodell Text erzeugt", q: "Large Language Model Token nächstes Wort Vorhersage",
     points: ["Text wird in Tokens (Wortstücke) zerlegt", "Das Modell berechnet immer wieder das wahrscheinlichste nächste Token", "Nur Wahrscheinlichkeiten – das erklärt auch die Fehler"],
+    slides: [{"h": "🎲 Schritt für Schritt", "steps": ["Text wird in Tokens zerlegt", "Das Modell rechnet Wahrscheinlichkeiten für das nächste Token aus", "Ein Token wird gewählt und angehängt", "Das wiederholt sich, bis der Text fertig ist"]}],
     text: "Große Sprachmodelle zerlegen Text in Tokens (Wortstücke) und berechnen immer wieder, welches Token am wahrscheinlichsten als Nächstes folgt. Aus diesem einfachen Prinzip entstehen Antworten, Code und Übersetzungen. Dass es „nur“ Wahrscheinlichkeiten sind, erklärt auch ihre Fehler." },
   { id: "ki2", topic: "ki", title: "„Attention Is All You Need“", q: "Transformer Attention Is All You Need 2017",
     points: ["2017, Google: Transformer-Architektur im Aufsatz „Attention Is All You Need“", "Aufmerksamkeit gewichtet, welche Wörter zueinander wichtig sind", "Basis fast aller heutigen Sprachmodelle"],
@@ -520,10 +554,11 @@ window.CARDS = [
   // ---- Archäologie
   { id: "ar1", topic: "ar", title: "Göbekli Tepe: Tempel vor dem Ackerbau", q: "Göbekli Tepe Klaus Schmidt",
     points: ["Rund 11.000 Jahre alt, Südosttürkei; Ausgrabung durch Klaus Schmidt ab 1995", "Steinkreise mit mehrere Meter hohen, reliefverzierten Pfeilern", "Erbaut von Jägern und Sammlern – noch vor Ackerbau und Dörfern"],
+    slides: [{"h": "🔢 Zahlen", "points": ["Rund 11.000 Jahre alt – älter als Stonehenge und die Pyramiden", "UNESCO-Welterbe seit 2018", "Noch längst nicht vollständig ausgegraben"]}],
     text: "In der Südosttürkei legte der deutsche Archäologe Klaus Schmidt ab 1995 Göbekli Tepe frei: Steinkreise mit mehrere Meter hohen, reliefverzierten Pfeilern, rund 11.000 Jahre alt. Jäger und Sammler errichteten sie – noch vor Ackerbau und Dörfern. Das stellt die Annahme in Frage, erst Sesshaftigkeit habe Monumentalbauten ermöglicht." },
   { id: "ar2", topic: "ar", title: "Ötzi: der Mann aus dem Eis", q: "Ötzi Gletschermumie Similaun",
     points: ["1991 in den Ötztaler Alpen gefunden, rund 5.300 Jahre alt", "Trug ein Kupferbeil; starb durch eine Pfeilspitze in der Schulter", "Zu sehen im Südtiroler Archäologiemuseum in Bozen"],
-    slides: [{"h": "🔬 Was die Forschung fand", "text": "Bei Ötzi fanden Forschende Tätowierungen, Reste seiner letzten Mahlzeit und Erbgut. Aus dem Genom lässt sich einiges über Herkunft und Gesundheit ablesen – etwa, dass er wohl Laktose nicht gut vertrug."}, {"h": "❓ Häufiges Missverständnis", "text": "Ötzi ist keine „Eismumie aus der Steinzeit“ im strengen Sinn: Er lebte in der Kupferzeit, daher auch das Kupferbeil."}],
+    slides: [{"h": "🔬 Was die Forschung fand", "text": "Bei Ötzi fand man Tätowierungen, Reste seiner letzten Mahlzeit und Erbgut. Das Genom deutet unter anderem auf eine geringe Laktoseverträglichkeit."}, {"h": "❓ Kleiner Unterschied", "text": "Ötzi lebte nicht in der Steinzeit, sondern in der Kupferzeit – daher auch das Kupferbeil."}],
     text: "1991 fanden Wanderer in den Ötztaler Alpen eine Gletschermumie. Ötzi lebte vor rund 5.300 Jahren, trug ein Kupferbeil und starb durch eine Pfeilspitze in der Schulter. Seine Kleidung, Werkzeuge und sogar sein Mageninhalt geben ein seltenes Bild vom Alltag der Jungsteinzeit. Er ist im Südtiroler Archäologiemuseum in Bozen zu sehen." },
   { id: "ar3", topic: "ar", title: "Die C14-Methode: Uhr im Knochen", q: "Radiokohlenstoffdatierung Willard Libby",
     points: ["Lebewesen nehmen Kohlenstoff-14 auf, der nach dem Tod zerfällt", "Halbwertszeit rund 5.730 Jahre; datiert organische Funde bis etwa 50.000 Jahre", "Willard Libby, 1949; Nobelpreis Chemie 1960"],
