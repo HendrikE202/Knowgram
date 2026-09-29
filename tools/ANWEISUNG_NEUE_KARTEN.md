@@ -55,6 +55,9 @@ Zu den wichtigsten aktuellen Meldungen (**die ersten 20 in `ranked` von `news.js
 - **Notizen des Nutzers sind Aufträge:** Wer an einer Karte notiert „zu oberflächlich“, „mehr Details zu …“ oder „ich kenne die Regeln schon, zeig mir …“, bekommt die Karte in diesem Lauf überarbeitet (mehr Tiefe, andere Aspekte) und bei Bedarf neue Karten zum Thema. Erledigte Notizen in der Anweisung nicht neu bearbeiten.
 - Zusammen mit den Karten in einem Commit (`Neue Wissenskarten (<Datum>)`) oder – falls nur Einordnungen anfallen – in einem eigenen Commit „Einordnungen (<Datum>)“.
 
+## Vor allem anderen: `tools/NUTZERWUENSCHE.md` lesen
+Dort steht, was der Nutzer wirklich will (Tiefe für Fortgeschrittene, Folgefragen beantworten, Anwendung statt Regelkunde). Ein Kommentar zu einer Karte gilt für alle ähnlichen Karten und Themen. Ergänze die Datei, wenn du in den Notizen neue Wünsche findest, und arbeite pro Lauf 3 bestehende Karten nach (siehe Abschnitt „Überarbeitung bestehender Karten“ dort).
+
 ## Qualität (wichtig – es gibt keine automatische Faktenprüfung)
 - Schreibe nur Fakten, bei denen du dir sicher bist. Im Zweifel eine andere Karte wählen.
 - Umstrittenes oder unsichere Zahlen ausdrücklich so benennen („Schätzungen zufolge“, „umstritten“).

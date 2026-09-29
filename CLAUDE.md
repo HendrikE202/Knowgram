@@ -19,3 +19,4 @@ Hendrik will Tiefe statt Kurzinfo („ich will was erfahren, nicht nur das Cover
 - **Vor jedem Push:** `python3 tools/check_cards.py --new 10` muss ohne Fehler laufen (Format, Länge, Abwechslung der neuen Charge, Einordnungen der Top-Meldungen). Danach die Browser-Tests.
 - **„Heute vor … Jahren“** (`onthisday.json`) wird wie eine Meldung behandelt: Einordnung mit Stichpunkten und mindestens 2 Zusatz-Slides in `summaries.json`.
 - **Notizen des Nutzers (`notes`) sind Aufträge** („zu oberflächlich“, „mehr Details“): umsetzen, nicht nur lesen. Beim Umsetzen gilt der Standard oben; der Nutzer will Tiefe für Fortgeschrittene, keine Einsteiger-Kurzinfos.
+- **Vor dem Schreiben oder Überarbeiten von Karten immer `tools/NUTZERWUENSCHE.md` lesen** (Zielniveau, Folgefragen, Checkliste). Kommentare des Nutzers gelten für alle ähnlichen Karten, nicht nur die kommentierte; neue Wünsche dort ergänzen.
