@@ -1,17 +1,517 @@
 {
- "generated": "2026-09-29T14:22:43.155232+00:00",
+ "generated": "2026-09-29T19:26:45.252555+00:00",
  "briefing": [
   "n937d323c63",
-  "nba11c93ba1",
-  "n1d57bbac7b",
-  "nfb923ef92f",
-  "n2410508218",
-  "n800cc6c961",
-  "na19b532324",
-  "nf66625033b",
-  "na53b25528b"
+  "na0ab661f5f",
+  "n4c69b80fd9",
+  "n441c51bf60",
+  "nb8ba09fbf2",
+  "n6e7d0f6b78",
+  "n06a198c07f",
+  "n5fa53b3f3f",
+  "n123bbcfe9b",
+  "n1d57bbac7b"
+ ],
+ "ranked": [
+  {
+   "id": "n937d323c63",
+   "s": 31.7
+  },
+  {
+   "id": "na0ab661f5f",
+   "s": 27.1
+  },
+  {
+   "id": "n4c69b80fd9",
+   "s": 22.9
+  },
+  {
+   "id": "n441c51bf60",
+   "s": 22.9
+  },
+  {
+   "id": "nb8ba09fbf2",
+   "s": 22.9
+  },
+  {
+   "id": "n6e7d0f6b78",
+   "s": 22.8
+  },
+  {
+   "id": "n06a198c07f",
+   "s": 22.8
+  },
+  {
+   "id": "n5fa53b3f3f",
+   "s": 22.7
+  },
+  {
+   "id": "n123bbcfe9b",
+   "s": 21.9
+  },
+  {
+   "id": "n1d57bbac7b",
+   "s": 21.7
+  },
+  {
+   "id": "nfb923ef92f",
+   "s": 21.6
+  },
+  {
+   "id": "n800cc6c961",
+   "s": 21.5
+  },
+  {
+   "id": "na19b532324",
+   "s": 21.5
+  },
+  {
+   "id": "nf66625033b",
+   "s": 21.3
+  },
+  {
+   "id": "na53b25528b",
+   "s": 21.3
+  },
+  {
+   "id": "n8558bc8832",
+   "s": 19.5
+  },
+  {
+   "id": "ne3846961df",
+   "s": 19.3
+  },
+  {
+   "id": "n3f523023ae",
+   "s": 17.9
+  }
  ],
  "items": [
+  {
+   "id": "nf6f6e889ab",
+   "topic": "nfl",
+   "title": "Week 4 NFL odds, picks, predictions: Computer model backs Giants and Seahawks",
+   "text": "SportsLine's advanced model has simulated every game in the Week 4 NFL schedule 10,000 times and locked in its NFL best bets today",
+   "link": "https://www.cbssports.com/betting/news/week-4-2026-nfl-odds-picks-predictions-bets/",
+   "published": "2026-09-29T19:22:03+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-04T19:22:03+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/09/09/aa1d1300-01b9-4b95-aecb-9f3a46bba083/cam-skattebo-new-york-giants-imagn-images.jpg"
+  },
+  {
+   "id": "n23bfe99650",
+   "topic": "nfl",
+   "title": "Titans place OLs Fernando Carmona, Jackson Slater on injured reserve",
+   "text": "The Titans have made a few roster moves on Tuesday.",
+   "link": "https://sports.yahoo.com/articles/titans-place-ols-fernando-carmona-192045420.html",
+   "published": "2026-09-29T19:20:45+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-04T19:20:45+00:00"
+  },
+  {
+   "id": "n3c0e4b9814",
+   "topic": "nfl",
+   "title": "Tua Tagovailoa: Job description right now is to support Michael Penix",
+   "text": "Tua Tagovailoa's chance to be the Falcons' starting quarterback may have come and gone.",
+   "link": "https://sports.yahoo.com/articles/tua-tagovailoa-job-description-now-191656093.html",
+   "published": "2026-09-29T19:16:56+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-04T19:16:56+00:00"
+  },
+  {
+   "id": "n4c69b80fd9",
+   "topic": "welt",
+   "title": "Marokkos König ernennt erstmals eine Frau zur Ministerpräsidentin",
+   "text": "Als Favorit galt der populäre Chef des Königlichen Fußballverbandes. Doch Marokkos König ernannte eine Frau zur Regierungschefin - erstmals in der Geschichte des Landes: die bisheriger Wohnungsbauministerin El Mansouri.",
+   "link": "https://www.tagesschau.de/ausland/afrika/marokko-frau-regierungschefin-100.html",
+   "published": "2026-09-29T19:11:36+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-02T19:11:36+00:00",
+   "img": "https://images.tagesschau.de/image/d3a2589b-38c8-41aa-8129-bc45456360c2/AAABoO6P8-g/AAABnSSvrFg/16x9-big/el-mansouri-102.jpg?width=1920"
+  },
+  {
+   "id": "na0e77cca23",
+   "topic": "nfl",
+   "title": "Case Keenum's performance vs. Eagles shows Bears shouldn't rush Caleb Williams' return from injury",
+   "text": "Keenum surprised everyone with his primetime performance, and he should give Chicago time to get Williams back to full strength",
+   "link": "https://www.cbssports.com/nfl/news/case-keenums-performance-vs-eagles-bears-dont-rush-caleb-williams/",
+   "published": "2026-09-29T19:10:19+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-04T19:10:19+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/09/29/0da42429-4ebf-4162-9998-5aaa9971ffd5/keenumm.jpg"
+  },
+  {
+   "id": "n3f523023ae",
+   "topic": "politik",
+   "title": "Vor Kabinettsabstimmung - SPD fordert weiter Änderungen an Pflegereform",
+   "text": "Vor dem geplanten Kabinettsbeschluss zur Pflegereform zeichnet sich weiter keine Verständigung zwischen der Union und der SPD ab. Der SPD-Fraktionsvorsitzende im Bundestag, Miersch, sagte nach einer Konferenz in Bremen, nötig sei ein gemeinsames solidarisches System oder zumindest ein fairer finanzieller Ausgleich …",
+   "link": "https://www.deutschlandfunk.de/spd-fordert-weiter-aenderungen-an-pflegereform-102.html",
+   "published": "2026-09-29T19:01:55+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-01T19:01:55+00:00",
+   "img": "https://bilder.deutschlandfunk.de/34/19/41/72/34194172-1e17-4d97-9d25-ffa254a3225f/matthias-miersch-112-1920x1920.jpg"
+  },
+  {
+   "id": "n441c51bf60",
+   "topic": "politik",
+   "title": "Bericht - Russland plant Medienbericht zufolge mit 27 Prozent höheren Militärausgaben",
+   "text": "Die russische Regierung plant nach Informationen der Nachrichtenagentur Reuters für das kommende Jahr deutlich höhere Militärausgaben.",
+   "link": "https://www.deutschlandfunk.de/russland-plant-medienbericht-zufolge-mit-27-prozent-hoeheren-militaerausgaben-100.html",
+   "published": "2026-09-29T19:01:55+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-01T19:01:55+00:00",
+   "img": "https://bilder.deutschlandfunk.de/f2/90/e7/c7/f290e7c7-9fab-4b77-a760-6613eb1d8484/russland-parade-moskau-100-1280x1280.jpg"
+  },
+  {
+   "id": "nb8ba09fbf2",
+   "topic": "politik",
+   "title": "Verteidigungspolitik - Bremerhaven wird NATO-Drehscheibe - Milliarden-Investition geplant",
+   "text": "Der Hafen in Bremerhaven wird zur NATO-Drehscheibe ausgebaut. Zudem soll im ostfriesischen Emden ein neuer Marinehafen entstehen. Darauf verständigten sich der Bund, die Bundeswehr und das Land Bremen nach monatelangen Verhandlungen.",
+   "link": "https://www.deutschlandfunk.de/bremerhaven-wird-nato-drehscheibe-milliarden-investition-geplant-100.html",
+   "published": "2026-09-29T19:01:55+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-01T19:01:55+00:00",
+   "img": "https://bilder.deutschlandfunk.de/44/97/de/4f/4497de4f-8017-42ac-9c7d-22cd131d2eec/bremerhaven-pistorius-100-1920x1920.jpg"
+  },
+  {
+   "id": "n98ad403bcb",
+   "topic": "politik",
+   "title": "Großbritannien - Premierminister Burnham will Mehrheitswahlrecht abschaffen und Sozialsysteme reformieren",
+   "text": "Großbritanniens Premierminister Burnham hat in einer Grundsatzrede weitreichende Sozialreformen angekündigt. Zudem kritisierte er die politische Instabilität des Landes und warb für eine Abkehr vom traditionellen Mehrheitswahlrecht.",
+   "link": "https://www.deutschlandfunk.de/premierminister-burnham-will-mehrheitswahlrecht-abschaffen-und-sozialsysteme-reformieren-100.html",
+   "published": "2026-09-29T19:01:55+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-01T19:01:55+00:00",
+   "img": "https://bilder.deutschlandfunk.de/c2/7e/56/22/c27e5622-a488-45da-9853-ae4de2e90bed/andy-burnham-labour-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Burnham kündigt umfassende Sozialreformen für Großbritannien an",
+     "link": "https://www.tagesschau.de/ausland/europa/burnham-parteitag-rede-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n598d841d39",
+   "topic": "politik",
+   "title": "Gewerkschaftsaufruf - Landesweite Demonstrationen in Frankreich für höhere Bezahlung im öffentlichen Dienst",
+   "text": "In Frankreich haben landesweit zehntausende Menschen für eine höhere Bezahlung im öffentlichen Dienst demonstriert.",
+   "link": "https://www.deutschlandfunk.de/landesweite-demonstrationen-in-frankreich-fuer-hoehere-bezahlung-im-oeffentlichen-dienst-100.html",
+   "published": "2026-09-29T19:01:55+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-01T19:01:55+00:00",
+   "img": "https://bilder.deutschlandfunk.de/18/04/0e/15/18040e15-ab3a-42f8-af64-36617347317a/demo-paris-oeffentlicher-dienst-100-1920x1920.jpg"
+  },
+  {
+   "id": "n941e438426",
+   "topic": "politik",
+   "title": "Brüssel - EU-Kommission erwartet \"sehr hohe\" Energiepreise",
+   "text": "Die EU-Kommission erwartet im kommenden Winter hohe Energiepreise.",
+   "link": "https://www.deutschlandfunk.de/eu-kommission-erwartet-sehr-hohe-energiepreise-100.html",
+   "published": "2026-09-29T19:01:55+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-01T19:01:55+00:00",
+   "img": "https://bilder.deutschlandfunk.de/bd/2f/66/d0/bd2f66d0-1431-4857-a2ff-89920f3ed61e/dan-joergensen-eu-kommissar-energie-wohnungswesen-fluessiggas-100-1920x1920.jpg"
+  },
+  {
+   "id": "nedfe676648",
+   "topic": "ki",
+   "title": "Unabhängiger Benchmark zeigt: GPT-6 Astra ist OpenAIs bislang gefährlichste KI-Modell",
+   "text": "Das britische AI Security Institute hat OpenAIs GPT-6 Astra in Simulationen getestet: In 29,2 Prozent der Durchläufe führte das Modell eigenständig Supply-Chain-Angriffe durch, inklusive Fake-Identitäten und Schadcode. Beim Vorgänger GPT-5.6 Sol lag die Rate bei nur 6,3 Prozent. Explizite Einschränkungen reduzierten …",
+   "link": "https://the-decoder.de/unabhaengiger-benchmark-zeigt-gpt-6-astra-ist-openais-bislang-gefaehrlichste-ki-modell/",
+   "published": "2026-09-29T19:00:12+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-06T19:00:12+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/09/astra_cybersecuity_kraken-scaled.png"
+  },
+  {
+   "id": "n6e7d0f6b78",
+   "topic": "welt",
+   "title": "Akademie in Flammen: \"Angriff auf das Herz der Ukraine\"",
+   "text": "Das Gebäude der Akademie der Wissenschaften in Kyjiw ist von einer russischen Drohne getroffen worden. Was ist über den Angriff auf die traditionelle Institution bekannt, die als wissenschaftliche Zentrale im Land gilt?",
+   "link": "https://www.dw.com/de/akademie-in-flammen-angriff-auf-das-herz-der-ukraine/a-79474828?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-09-29T18:47:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-03T18:47:00+00:00",
+   "img": "https://static.dw.com/image/79459875_302.jpg"
+  },
+  {
+   "id": "n3d830b8fb5",
+   "topic": "politik",
+   "title": "Verdächtige stellt sich nach \"Hitlergruß\" bei MMA-Event in Frankfurt",
+   "text": "Die Zuschauerin, die beim MMA-Event im Stadion in Frankfurt den \"Hitlergruß\" gezeigt hatte, ist offenbar gefunden: Laut Polizei meldete sich die 50-Jährige selbst und zeigte sich geständig.",
+   "link": "https://www.hessenschau.de/sport/mehr-sport/verdaechtige-stellt-sich-nach-hitlergruss-bei-mma-event-in-frankfurt-v1,mma-hitlergruss-102.html",
+   "published": "2026-09-29T18:46:48+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-03T18:46:48+00:00",
+   "img": "https://www.hessenschau.de/sport/mehr-sport/mma-frankfurt-110~_t-1790600536909_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "n06a198c07f",
+   "topic": "wirtschaft",
+   "title": "Wirtschaft vor acht vom 29.09.2926",
+   "text": "Wirtschaft vor acht vom 29.09.2926",
+   "link": "https://www.tagesschau.de/video/video-1657780.html",
+   "published": "2026-09-29T18:36:27+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-02T18:36:27+00:00",
+   "img": "https://images.tagesschau.de/image/764b3755-e8c7-42ca-83ef-36016f63d66b/AAABoO50H34/AAABnSSvrFg/16x9-big/sendungsbild-1804450.jpg?width=1920"
+  },
+  {
+   "id": "n45bd4d2bb8",
+   "topic": "politik",
+   "title": "Reformdebatte in der schwarz-roten Koalition",
+   "text": "Die Bundesregierung beteuert es nahezu täglich: Deutschland braucht Reformen. Noch in diesem Herbst hat Schwarz-Rot viel vor - und droht sich in Diskussionen zu verlieren. Was auf der To-Do-Liste steht. Von Jan Willems.",
+   "link": "https://www.tagesschau.de/inland/reformen-bundesregierung-100.html",
+   "published": "2026-09-29T18:25:40+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-02T18:25:40+00:00",
+   "img": "https://images.tagesschau.de/image/d12ac541-6376-4d93-96d1-fc4e0a9713c6/AAABoO2w0wU/AAABnSSvrFg/16x9-big/klingenbeil-merz-100.jpg?width=1920"
+  },
+  {
+   "id": "na5df137b63",
+   "topic": "welt",
+   "title": "Schüler und Beamte protestieren gegen Sparkurs in Frankreich",
+   "text": "Schlechte Ausstattung, zu große Klassen, Ungleichheit: Seit Tagen machen Schüler in Frankreich bei Protesten ihrem Unmut Luft. Einige schlossen sich nun Beamten an, die gegen den Sparkurs der Regierung auf die Straße gingen. Von Julia Borutta.",
+   "link": "https://www.tagesschau.de/ausland/frankreich-proteste-schueler-100.html",
+   "published": "2026-09-29T18:25:01+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-02T18:25:01+00:00",
+   "img": "https://images.tagesschau.de/image/c3d78817-f2e0-4f50-afb8-efcfc887b331/AAABoO5ptjk/AAABnSSvrFg/16x9-big/frankreich-protest-122.jpg?width=1920"
+  },
+  {
+   "id": "n5fa53b3f3f",
+   "topic": "welt",
+   "title": "Religion stärkt den Zusammenhalt der Gesellschaft - meistens",
+   "text": "Hat der Staat etwas davon, ob die Menschen religiös sind? Im Prinzip schon, sagt eine neue Studie: mehr Engagement und Wertschätzung für das Gemeinwesen. Eine Gruppe falle raus aus diesem Schema.",
+   "link": "https://www.dw.com/de/religion-stärkt-den-zusammenhalt-der-gesellschaft-meistens/a-79476524?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-09-29T18:06:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-03T18:06:00+00:00",
+   "img": "https://static.dw.com/image/79470869_302.jpg"
+  },
+  {
+   "id": "n43226d9f89",
+   "topic": "ki",
+   "title": "1,2 Milliarden Nutzer pro Woche: OpenAI wächst mit ChatGPT und Codex rasant weiter",
+   "text": "OpenAI nähert sich einer jährlichen Umsatzrate von 70 Milliarden Dollar – ein Plus von rund 70 Prozent seit Quartalsbeginn. Getrieben wird das Wachstum vor allem durch Geschäftskunden, den Codex-Programmierassistenten und einen aggressiven Preiskampf. Anthropic liegt mit einer ähnlichen Umsatzrate dicht dahinter. Der …",
+   "link": "https://the-decoder.de/12-milliarden-nutzer-pro-woche-openai-waechst-mit-chatgpt-und-codex-rasant-weiter/",
+   "published": "2026-09-29T18:05:34+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-06T18:05:34+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/09/openai_gpt_6_stars_astra.png"
+  },
+  {
+   "id": "n28ec35a7c5",
+   "topic": "it",
+   "title": "Top 10: Bestes Smartphone bis 400 Euro – hier ist Preis-Leistung wirklich top",
+   "text": "Telelinsen, brillante Displays und flinke Chips – Smartphones bis 400 Euro liefern Ausstattung fast auf Top-Niveau. Wir zeigen die besten Modelle.",
+   "link": "https://www.heise.de/bestenlisten/testsieger/top-10-bestes-smartphone-bis-400-euro-hier-ist-preis-leistung-wirklich-top/22wwybb?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-09-29T18:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-04T18:00:00+00:00"
+  },
+  {
+   "id": "n74348283c2",
+   "topic": "ki",
+   "title": "Weniger Chatbot, mehr OS: OpenAI baut ChatGPT zur Arbeitsplattform um",
+   "text": "OpenAI öffnet ChatGPT auf dem DevDay zur Teamplattform: Gemeinsame Arbeitsbereiche (\"Space\"), kollaborative Dokumente, Slides und ein offenes Plugin-System mit MCP-Events-Automatisierung stehen bereit. Dazu kommen Integrationen in Slack und Microsoft Teams, ein Enterprise-Marketplace mit 32 Partnern und der neue …",
+   "link": "https://the-decoder.de/weniger-chatbot-mehr-os-openai-baut-chatgpt-zur-arbeitsplattform-um/",
+   "published": "2026-09-29T17:18:35+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-06T17:18:35+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/09/openai_chatgpt-2.png"
+  },
+  {
+   "id": "n798baccb9b",
+   "topic": "it",
+   "title": "Anzeige: Beliebtes Govee-Hygrometer bei Amazon schon zum Prime-Day-Preis",
+   "text": "Die viel gekauften Hygrometer-Thermometer des Anbieters Govee sind bei Amazon als frühes Prime-Day-Angebot zu haben. ( Prime Day , Technik/Hardware )",
+   "link": "https://www.golem.de/news/anzeige-beliebtes-govee-hygrometer-bei-amazon-schon-zum-prime-day-preis-2609-213554.html",
+   "published": "2026-09-29T16:59:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-04T16:59:02+00:00",
+   "img": "https://www.golem.de/2609/213554-600843-600841_rc.jpg"
+  },
+  {
+   "id": "n9732dcda1b",
+   "topic": "it",
+   "title": "Paid Peering: Telekom und Cloudflare beenden jahrelange Drosselung",
+   "text": "Der verbitterte Konflikt zwischen der Deutschen Telekom und Cloudflare um Paid Peering, künstlich überlastete Transit-Routen und das Sender-Pays-Prinzip ist offiziell Geschichte. ( Telekom , Wirtschaft )",
+   "link": "https://www.golem.de/news/paid-peering-telekom-und-cloudflare-beenden-jahrelangen-streit-2609-213555.html",
+   "published": "2026-09-29T16:55:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-04T16:55:02+00:00",
+   "img": "https://www.golem.de/2609/213555-600839-600837_rc.jpg"
+  },
+  {
+   "id": "nb9bc00f072",
+   "topic": "wirtschaft",
+   "title": "Marktbericht: Anleger weiter zuversichtlich",
+   "text": "Am deutschen Aktienmarkt regiert die Hoffnung. Nachrichten über weitere Verhandlungen im Iran-Konflikt verhalfen dem DAX zu einem leichten Plus.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-164.html",
+   "published": "2026-09-29T16:37:28+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-02T16:37:28+00:00",
+   "img": "https://images.tagesschau.de/image/b862f6fb-2e65-42e0-97a3-4a1c9ab57d4f/AAABm8CJNHQ/AAABnSSvrFg/16x9-big/boerse-476.jpg?width=1920"
+  },
+  {
+   "id": "nbf02f71e42",
+   "topic": "it",
+   "title": "Pentagon will 30 Millionen Dollar für KI-Lügendetektor ausgeben",
+   "text": "Das US-Verteidigungsministerium will in den kommenden Jahren rund 30 Millionen Dollar für einen KI-Lügendetektor ausgeben. Forscher zweifeln an dem Konzept.",
+   "link": "https://www.heise.de/news/Pentagon-will-30-Millionen-Dollar-fuer-KI-Luegendetektor-ausgeben-11470046.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-09-29T16:05:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-04T16:05:00+00:00"
+  },
+  {
+   "id": "n54324de65c",
+   "topic": "it",
+   "title": "Buchvorstellung: The Secret Life of Circuits",
+   "text": "Michal Zalewski erklärt Elektronik so, wie sie auf der Werkbank tatsächlich funktioniert – nicht so, wie sie in Lehrbüchern gerne vereinfacht wird.",
+   "link": "https://www.heise.de/news/Buchvorstellung-The-Secret-Life-of-Circuits-11470135.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-09-29T16:05:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-04T16:05:00+00:00"
+  },
+  {
+   "id": "n6a9ed48a36",
+   "topic": "wissenschaft",
+   "title": "Monatswechsel: Winterzeit, Tankrabatt und Co: Was sich im Oktober ändert",
+   "text": "Kein Alkohol mehr an Bahnhöfen, und die Uhren werden wieder umgestellt: Der neue Monat bringt Änderungen in verschiedenen Bereichen des Alltags mit sich.",
+   "link": "https://www.spektrum.de/news/winterzeit-tankrabatt-und-co-was-sich-im-oktober-aendert/2347298",
+   "published": "2026-09-29T16:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-13T16:00:00+00:00"
+  },
+  {
+   "id": "na0ab661f5f",
+   "topic": "welt",
+   "title": "Burnham kündigt umfassende Sozialreformen für Großbritannien an",
+   "text": "Der britische Premierminister Burnham hat beim Parteitag von Labour umfassende politische Reformen angekündigt. Sie sollen langfristig die Lebenshaltungskosten senken und das Sozialsystem neu sortieren. Von Lisa-Maria Röhling.",
+   "link": "https://www.tagesschau.de/ausland/europa/burnham-parteitag-rede-100.html",
+   "published": "2026-09-29T15:55:24+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-02T15:55:24+00:00",
+   "img": "https://images.tagesschau.de/image/f0147c5e-80fb-43f5-b3b0-f0399e33c65b/AAABoO3EEmI/AAABnSSvrFg/16x9-big/burnham-parteitag-labour-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Großbritannien - Premierminister Burnham will Mehrheitswahlrecht abschaffen und Sozialsysteme reformieren",
+     "link": "https://www.deutschlandfunk.de/premierminister-burnham-will-mehrheitswahlrecht-abschaffen-und-sozialsysteme-reformieren-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n945a8d97d6",
+   "topic": "welt",
+   "title": "Westjordanland: Siedler verhindern Rückkehr vertriebener Palästinenser",
+   "text": "Selbst Israels Premier schaltete sich in den Fall ein: Familie Tubassi wurde von jüdischen Siedlern aus ihrem Haus im Westjordanland vertrieben. Sie wehrte sich erfolgreich vor Gericht. Doch auch das half ihr nicht. Von Felicitas Boeselager.",
+   "link": "https://www.tagesschau.de/ausland/siedlergewalt-westjordanland-israel-100.html",
+   "published": "2026-09-29T15:50:53+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-02T15:50:53+00:00",
+   "img": "https://images.tagesschau.de/image/94261074-34b6-4e58-92ea-09743e3ca8b4/AAABoO3cmZc/AAABnSSvrFg/16x9-big/westjordanland-familie-tubassi-100.jpg?width=1920"
+  },
+  {
+   "id": "n26171af162",
+   "topic": "politik",
+   "title": "Sachsen-Anhalt: Die AfD braucht das BSW, aber traut ihm nicht",
+   "text": "Drei Wochen nach der Wahl sucht die AfD in Magdeburg eine Mehrheit. Das BSW lässt sich umwerben, will Ulrich Siegmund aber nicht wählen. Und die SPD versucht einen letzten Gegenentwurf, der nicht reichen wird. Von Lars Frohmüller.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/regierungsbildung-sachsen-anhalt-afd-bsw-100.html",
+   "published": "2026-09-29T15:32:12+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-02T15:32:12+00:00",
+   "img": "https://images.tagesschau.de/image/80b1bd90-4436-4212-a1e2-59789813149f/AAABoOznylU/AAABnSSvrFg/16x9-big/siegmund-156.jpg?width=1920"
+  },
+  {
+   "id": "n4d6509df31",
+   "topic": "wissenschaft",
+   "title": "Rätselhafte Vogelrufe: Warum schreien manche Vögel so ohrenbetäubend?",
+   "text": "Einige Glockenvögel rufen lauter als eine Kreissäge. Einer schaffte es mit 125 Dezibel sogar ins Guinness-Buch der Rekorde. Doch warum kreischen manche Vögel derart infernalisch?",
+   "link": "https://www.spektrum.de/news/warum-kreischt-der-lauteste-vogel-der-welt-so-markerschuetternd/2347161",
+   "published": "2026-09-29T15:30:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-13T15:30:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/bare_throated_bellbird.jpg.8412335.jpg?f=1280x720"
+  },
+  {
+   "id": "na0add94f4b",
+   "topic": "welt",
+   "title": "Bundeskanzler im Wartestand? Hendrik Wüst trifft Erdogan",
+   "text": "Nordrhein-Westfalens Ministerpräsident in der Türkei: Offiziell geht es beim Besuch um die Wirtschaft und um 65 Jahre deutsch-türkisches Anwerbeabkommen. Aber viele wollen wissen: Will Wüst den Kanzler beerben?",
+   "link": "https://www.dw.com/de/bundeskanzler-im-wartestand-hendrik-wüst-trifft-erdogan/a-79472966?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-09-29T15:01:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-03T15:01:00+00:00",
+   "img": "https://static.dw.com/image/79472729_302.jpg"
+  },
   {
    "id": "nbe5236cdf0",
    "topic": "wissenschaft",
@@ -26,17 +526,43 @@
    "img": "https://static.spektrum.de/fm/912/thumbnails/Juice_images_Earth_during_Earth_flyby_pillars_zuschnitt.jpg.8412649.jpg?f=1280x720"
   },
   {
+   "id": "n123bbcfe9b",
+   "topic": "wirtschaft",
+   "title": "Sonntagsfahrverbot für Lkw bleibt vielerorts ausgesetzt",
+   "text": "Die Flüsse in Deutschland haben sich noch nicht von dem Extremsommer erholt. Weil die Pegelstände weiter niedrig sind, verlängern viele Bundesländer ihre Ausnahmen beim Sonntags- und Feiertagsfahrverbot für Lkw.",
+   "link": "https://www.tagesschau.de/wirtschaft/lkw-sonntagsfahrverbot-ausnahme-verlaengerung-100.html",
+   "published": "2026-09-29T14:54:11+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-02T14:54:11+00:00",
+   "img": "https://images.tagesschau.de/image/7d1037e0-0edd-4522-83f9-1b463400d6e0/AAABn-Y7jCA/AAABnSSvrFg/16x9-big/09082026-sonntagsfahrverbot-mediathek-schwerpunkt-100.jpg?width=1920"
+  },
+  {
    "id": "nba11c93ba1",
    "topic": "welt",
    "title": "Spanische Regierung will Mietverträge entfristen und Zwangsräumungen verbieten",
    "text": "Angesichts der landesweiten Proteste hat die spanische Regierung zwei Dekrete gegen Wohnungsnot beschlossen. Die 87-Jährige, deren Zwangsräumung die Proteste ausgelöst hatte, konnte zurück in ihre Wohnung in Madrid.",
    "link": "https://www.tagesschau.de/ausland/europa/spanien-will-mietvertraege-entfristen-100.html",
-   "published": "2026-09-29T14:13:33+00:00",
+   "published": "2026-09-29T14:29:56+00:00",
    "source": "Tagesschau",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-02T14:13:33+00:00",
+   "expires": "2026-10-02T14:29:56+00:00",
    "img": "https://images.tagesschau.de/image/4dfecbf3-30a0-419f-b1b8-c9102a04bd5c/AAABoO1K-g8/AAABnSSvrFg/16x9-big/madrid-stadtansicht-104.jpg?width=1920"
+  },
+  {
+   "id": "ncb66484e91",
+   "topic": "politik",
+   "title": "Was wird aus den Eigenanteilen in der Pflege?",
+   "text": "Das Ringen um einen Kompromiss bei der Pflegereform dauert an. Die SPD lehnt Leistungskürzungen ab und verlangt einen \"Deckel\" für den Eigenanteil. Wie er funktionieren soll - und was eigentlich vorgesehen ist. Von Ilanit Spinner.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/pflegedeckel-eigenanteil-reform-100.html",
+   "published": "2026-09-29T14:28:39+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-02T14:28:39+00:00",
+   "img": "https://images.tagesschau.de/image/949f5f6f-9f4b-4bc3-93f1-1a2f15ce395f/AAABoO00ReI/AAABnSSvrFg/16x9-big/pflege-630.jpg?width=1920"
   },
   {
    "id": "n1d57bbac7b",
@@ -70,19 +596,6 @@
      "link": "https://www.dw.com/de/ungarn-die-abrechnung-mit-orbans-korruptionssystem-beginnt/a-79470436?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
-  },
-  {
-   "id": "n3f523023ae",
-   "topic": "politik",
-   "title": "Vor Kabinettsabstimmung - SPD fordert weiter Änderungen an Pflegereform",
-   "text": "Vor dem geplanten Kabinettsbeschluss zur Pflegereform zeichnet sich weiter keine Verständigung zwischen der Union und der SPD ab. Der SPD-Fraktionsvorsitzende im Bundestag, Miersch, sagte nach einer Konferenz in Bremen, nötig sei ein gemeinsames solidarisches System oder zumindest ein fairer finanzieller Ausgleich …",
-   "link": "https://www.deutschlandfunk.de/spd-fordert-weiter-aenderungen-an-pflegereform-102.html",
-   "published": "2026-09-29T14:11:25+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-01T14:11:25+00:00",
-   "img": "https://bilder.deutschlandfunk.de/34/19/41/72/34194172-1e17-4d97-9d25-ffa254a3225f/matthias-miersch-112-1920x1920.jpg"
   },
   {
    "id": "nce3b9b7088",
@@ -388,7 +901,7 @@
    "id": "n89f037c095",
    "topic": "welt",
    "title": "Oktoberfest München: Bedienungen fordern mehr Respekt",
-   "text": "Das Oktoberfest steht weltweit für Bier, Blasmusik und bayerische Tradition. Doch Wiesn-Bedienungen berichten auch von rassistischen und sexistischen Vorfällen und wehren sich gegen Diskriminierung.",
+   "text": "Das Oktoberfest steht weltweit für Bier, Blasmusik und bayerische Tradition. Doch Wiesn-Bedienungen berichten auch von rassistischen und sexistischen Vorfällen - und wehren sich gegen Diskriminierung.",
    "link": "https://www.dw.com/de/oktoberfest-münchen-bedienungen-fordern-mehr-respekt/a-79470843?maca=de-rss-de-all-1119-xml-mrss",
    "published": "2026-09-29T12:53:00+00:00",
    "source": "Deutsche Welle",
@@ -761,17 +1274,6 @@
    "img": "https://images.tagesschau.de/image/3b9818fd-876c-4b84-9d9a-44b353c8763d/AAABoOxkVtc/AAABnSSvrFg/16x9-big/vater-kind-krank-101.jpg?width=1920"
   },
   {
-   "id": "nb9bc00f072",
-   "topic": "wirtschaft",
-   "title": "Marktbericht: Anleger können sich nicht zum Kauf durchringen",
-   "text": "Die Ölpreise steigen und belasten die globalen Aktienmärkte. Positive Impulse sind Fehlanzeige. Können neue Hoffnungen auf eine diplomatische Einigung zwischen den USA und Iran den Markt stützen?",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-164.html",
-   "published": "2026-09-29T10:05:02+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de"
-  },
-  {
    "id": "nb18550fbb8",
    "topic": "ki",
    "title": "OpenAI öffnet sein 200-Dollar-Pro-Abo wieder, halbiert aber das API-Guthaben pro Dollar",
@@ -818,6 +1320,19 @@
    "source": "Tagesschau",
    "type": "Öffentlich-rechtlich",
    "lang": "de"
+  },
+  {
+   "id": "n32f846102d",
+   "topic": "politik",
+   "title": "Jens Spahn: Vom politischen Instinkt verlassen",
+   "text": "Jens Spahn wird zum Hinterbänkler. Nach seinem Rückzug als Fraktionschef hat er auch im Haushaltsausschuss aufgegeben. Doch wie geht es jetzt weiter für ihn, der bisher nur den Weg nach oben kannte? Von Benjamin Großkopff.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/spahn-ruecktritt-110.html",
+   "published": "2026-09-29T08:27:36+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-02T08:27:36+00:00",
+   "img": "https://images.tagesschau.de/image/7019887a-0a20-4348-bcea-f5d251624780/AAABoOvdatI/AAABnSSvrFg/16x9-big/spahn-806.jpg?width=1920"
   },
   {
    "id": "n13bb4d9501",
