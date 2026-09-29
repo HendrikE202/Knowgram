@@ -88,6 +88,8 @@ def main():
                 link = (link or "").strip()
                 if not (title and link.startswith(("http://", "https://")) and d):
                     continue
+                if any(k.lower() in title.lower() for k in f.get("skip", [])):
+                    continue  # z. B. Werbung/Webinare
                 got.append((d, {
                     "id": "n" + hashlib.sha1(link.encode()).hexdigest()[:10],
                     "topic": f["topic"], "title": clean(title, 160), "text": clean(desc),

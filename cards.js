@@ -27,6 +27,7 @@ window.TOPICS = {
   cd: { name: "Cloud & Architektur", emoji: "☁️", c: "#3b82f6", refs: [["Martin Fowler", "https://martinfowler.com"], ["The Twelve-Factor App", "https://12factor.net"], ["Azure Architecture Center", "https://learn.microsoft.com/azure/architecture"]] },
   ki: { name: "KI & Tools", emoji: "🤖", c: "#9333ea", refs: [["Anthropic News", "https://www.anthropic.com/news"], ["Stanford HAI", "https://hai.stanford.edu"], ["EU AI Act – Übersicht", "https://artificialintelligenceact.eu"]] },
   bf: { name: "Beruf & Alltag", emoji: "💼", c: "#d97706", refs: [["Gesetze im Internet", "https://www.gesetze-im-internet.de"], ["Bundesbeauftragte für den Datenschutz", "https://www.bfdi.bund.de"], ["Choose a License", "https://choosealicense.com"]] },
+  ar: { name: "Archäologie", emoji: "🏺", c: "#a3712a", refs: [["Deutsches Archäologisches Institut", "https://www.dainst.org"], ["Landesamt für Denkmalpflege Hessen", "https://denkmal.hessen.de"], ["LEIZA – Leibniz-Zentrum für Archäologie (Mainz)", "https://www.leiza.de"], ["Archaeological Institute of America", "https://www.archaeological.org"]] },
   // Nur für Nachrichten
   wissenschaft: { name: "Wissenschaft aktuell", emoji: "🔬", c: "#0369a1", refs: [["Spektrum der Wissenschaft", "https://www.spektrum.de"], ["Tagesschau Wissen", "https://www.tagesschau.de/wissen"]] }
 };
@@ -374,5 +375,20 @@ window.CARDS = [
   { id: "bf5", topic: "bf", title: "Wichtig oder nur dringend?", q: "Eisenhower-Matrix dringend wichtig",
     text: "Die Eisenhower-Matrix sortiert Aufgaben nach „dringend“ und „wichtig“. Wichtig und dringend: sofort erledigen. Wichtig, aber nicht dringend: einplanen – hier liegen Lernen und Vorsorge. Dringend, aber unwichtig: abgeben. Weder noch: streichen. Sie geht auf eine Rede von Dwight D. Eisenhower zurück." },
   { id: "bf6", topic: "bf", title: "MIT oder GPL? Lizenzen im Code", q: "Open-Source-Lizenzen MIT GPL Copyleft",
-    text: "Code ohne Lizenz darf man rechtlich nicht einfach verwenden. Die MIT-Lizenz erlaubt fast alles, solange der Lizenztext erhalten bleibt. Die GPL ist eine „Copyleft“-Lizenz: Wer GPL-Code weitergibt, muss abgeleitete Werke ebenfalls unter der GPL veröffentlichen." }
+    text: "Code ohne Lizenz darf man rechtlich nicht einfach verwenden. Die MIT-Lizenz erlaubt fast alles, solange der Lizenztext erhalten bleibt. Die GPL ist eine „Copyleft“-Lizenz: Wer GPL-Code weitergibt, muss abgeleitete Werke ebenfalls unter der GPL veröffentlichen." },
+  // ---- Archäologie
+  { id: "ar1", topic: "ar", title: "Göbekli Tepe: Tempel vor dem Ackerbau", q: "Göbekli Tepe Klaus Schmidt",
+    text: "In der Südosttürkei legte der deutsche Archäologe Klaus Schmidt ab 1995 Göbekli Tepe frei: Steinkreise mit mehrere Meter hohen, reliefverzierten Pfeilern, rund 11.000 Jahre alt. Jäger und Sammler errichteten sie – noch vor Ackerbau und Dörfern. Das stellt die Annahme in Frage, erst Sesshaftigkeit habe Monumentalbauten ermöglicht." },
+  { id: "ar2", topic: "ar", title: "Ötzi: der Mann aus dem Eis", q: "Ötzi Gletschermumie Similaun",
+    text: "1991 fanden Wanderer in den Ötztaler Alpen eine Gletschermumie. Ötzi lebte vor rund 5.300 Jahren, trug ein Kupferbeil und starb durch eine Pfeilspitze in der Schulter. Seine Kleidung, Werkzeuge und sogar sein Mageninhalt geben ein seltenes Bild vom Alltag der Jungsteinzeit. Er ist im Südtiroler Archäologiemuseum in Bozen zu sehen." },
+  { id: "ar3", topic: "ar", title: "Die C14-Methode: Uhr im Knochen", q: "Radiokohlenstoffdatierung Willard Libby",
+    text: "Lebewesen nehmen radioaktiven Kohlenstoff-14 auf; nach dem Tod zerfällt er mit einer Halbwertszeit von rund 5.730 Jahren. Aus dem Restanteil lässt sich das Alter organischer Funde bis etwa 50.000 Jahre bestimmen. Willard Libby entwickelte das Verfahren 1949 und erhielt dafür 1960 den Chemie-Nobelpreis." },
+  { id: "ar4", topic: "ar", title: "Die Himmelsscheibe von Nebra", q: "Himmelsscheibe von Nebra",
+    text: "1999 gruben Raubgräber in Sachsen-Anhalt eine bronzezeitliche Scheibe mit Goldsymbolen aus – Sonne oder Vollmond, Mondsichel und Sterne. Sie ist rund 3.600 Jahre alt und gilt als älteste konkrete Himmelsdarstellung der Welt. 2002 gelang der Polizei in Basel die Sicherstellung; 2013 wurde sie UNESCO-Weltdokumentenerbe." },
+  { id: "ar5", topic: "ar", title: "Der Keltenfürst vom Glauberg", q: "Keltenfürst vom Glauberg Hessen",
+    text: "1996 entdeckte man am Glauberg in der hessischen Wetterau ein keltisches Fürstengrab aus dem 5. Jahrhundert v. Chr. Aus einem Grabhügel-Graben barg man eine lebensgroße Sandsteinstatue, den „Keltenfürsten“ mit seiner auffälligen Blattkrone. Sie gehört zu den bedeutendsten keltischen Funden Europas – mitten in Hessen." },
+  { id: "ar6", topic: "ar", title: "Der Limes: Roms Grenze in Deutschland", q: "Obergermanisch-Raetischer Limes Saalburg Welterbe",
+    text: "Der Obergermanisch-Raetische Limes war rund 550 Kilometer lang und reichte vom Rhein bis zur Donau. Er ist seit 2005 UNESCO-Welterbe. In Hessen kann man bei Bad Homburg das rekonstruierte Kastell Saalburg besuchen und römischen Alltag erleben." },
+  { id: "ar7", topic: "ar", title: "Die Terrakotta-Armee", q: "Terrakotta-Armee Qin Shihuangdi Xi'an",
+    text: "1974 stießen Bauern bei Xi’an auf Tonfiguren aus dem Grabkomplex des ersten chinesischen Kaisers Qin Shihuangdi (gestorben 210 v. Chr.). Schätzungen sprechen von mehr als 8.000 lebensgroßen Soldaten, deren Gesichter individuell gestaltet sind. Ursprünglich waren sie farbig bemalt." }
 ];

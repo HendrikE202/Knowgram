@@ -107,7 +107,11 @@
       "source": "THE DECODER",
       "type": "Fachmedium (KI)",
       "topic": "ki",
-      "max": 3
+      "max": 3,
+      "skip": [
+        "Webinar",
+        "KI PRO"
+      ]
     }
   ]
 }
