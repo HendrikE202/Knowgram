@@ -10,6 +10,8 @@ Keine Quelle ist neutral. Knowgram zeigt deshalb bei jeder Karte, woher sie komm
 | Deutsche Welle | Öffentlich-rechtlich (Auslandsrundfunk) | Ausland |
 | hessenschau (hr) | Öffentlich-rechtlich | nur 1 Meldung pro Abruf (Hessen-Bezug) |
 | Spektrum der Wissenschaft | Wissenschaftsmagazin | Wissenschaft |
+| heise online, Golem.de | Fachmedien (IT) | IT |
+| THE DECODER | Fachmedium (KI) | KI & Tools |
 | CBS Sports, Yahoo Sports | Sportmedien (englisch) | NFL |
 
 - Angezeigt wird nur die **Vorschau des Anbieters** (Titel + Teaser) mit Link zum Original – keine KI-Zusammenfassung.

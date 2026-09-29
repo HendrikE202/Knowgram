@@ -84,6 +84,30 @@
       "topic": "nfl",
       "lang": "en",
       "max": 2
+    },
+    {
+      "id": "heise",
+      "url": "https://www.heise.de/rss/heise-atom.xml",
+      "source": "heise online",
+      "type": "Fachmedium (IT)",
+      "topic": "it",
+      "max": 3
+    },
+    {
+      "id": "golem",
+      "url": "https://rss.golem.de/rss.php?feed=RSS2.0",
+      "source": "Golem.de",
+      "type": "Fachmedium (IT)",
+      "topic": "it",
+      "max": 2
+    },
+    {
+      "id": "decoder",
+      "url": "https://the-decoder.de/feed/",
+      "source": "THE DECODER",
+      "type": "Fachmedium (KI)",
+      "topic": "ki",
+      "max": 3
     }
   ]
 }

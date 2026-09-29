@@ -21,6 +21,12 @@ window.TOPICS = {
   klima: { name: "Erde & Klima", emoji: "🌦️", c: "#0e7490", refs: [["IPCC", "https://www.ipcc.ch"], ["Deutscher Wetterdienst", "https://www.dwd.de"], ["Umweltbundesamt", "https://www.umweltbundesamt.de"], ["Copernicus Klimadienst", "https://climate.copernicus.eu"]] },
   raumfahrt: { name: "Raumfahrt", emoji: "🚀", c: "#7c3aed", refs: [["ESA", "https://www.esa.int"], ["NASA", "https://www.nasa.gov"], ["DLR", "https://www.dlr.de"]] },
   nfl: { name: "NFL", emoji: "🏈", c: "#15803d", refs: [["NFL.com", "https://www.nfl.com"], ["Pro Football Reference", "https://www.pro-football-reference.com"]] },
+  sw: { name: "Softwareentwicklung", emoji: "🛠️", c: "#0ea5e9", refs: [["Martin Fowler", "https://martinfowler.com"], ["Refactoring Guru (Entwurfsmuster)", "https://refactoring.guru"], ["Scrum Guide", "https://scrumguides.org"]] },
+  db: { name: "Datenbanken & Daten", emoji: "🗄️", c: "#0f9d8a", refs: [["PostgreSQL-Dokumentation", "https://www.postgresql.org/docs"], ["Snowflake-Dokumentation", "https://docs.snowflake.com"], ["Use The Index, Luke", "https://use-the-index-luke.com"]] },
+  sc: { name: "IT-Sicherheit & Netze", emoji: "🔐", c: "#be123c", refs: [["BSI", "https://www.bsi.bund.de"], ["Center for Internet Security", "https://www.cisecurity.org"], ["OWASP", "https://owasp.org"]] },
+  cd: { name: "Cloud & Architektur", emoji: "☁️", c: "#3b82f6", refs: [["Martin Fowler", "https://martinfowler.com"], ["The Twelve-Factor App", "https://12factor.net"], ["Azure Architecture Center", "https://learn.microsoft.com/azure/architecture"]] },
+  ki: { name: "KI & Tools", emoji: "🤖", c: "#9333ea", refs: [["Anthropic News", "https://www.anthropic.com/news"], ["Stanford HAI", "https://hai.stanford.edu"], ["EU AI Act – Übersicht", "https://artificialintelligenceact.eu"]] },
+  bf: { name: "Beruf & Alltag", emoji: "💼", c: "#d97706", refs: [["Gesetze im Internet", "https://www.gesetze-im-internet.de"], ["Bundesbeauftragte für den Datenschutz", "https://www.bfdi.bund.de"], ["Choose a License", "https://choosealicense.com"]] },
   // Nur für Nachrichten
   wissenschaft: { name: "Wissenschaft aktuell", emoji: "🔬", c: "#0369a1", refs: [["Spektrum der Wissenschaft", "https://www.spektrum.de"], ["Tagesschau Wissen", "https://www.tagesschau.de/wissen"]] }
 };
@@ -292,5 +298,81 @@ window.CARDS = [
   { id: "nf3", topic: "nfl", title: "Downs: das Herz des Spiels", q: "American Football Downs Regeln",
     text: "Das angreifende Team hat vier Versuche (Downs), um mindestens zehn Yards Raumgewinn zu erzielen. Gelingt das, gibt es vier neue Versuche. Wenn nicht, geht der Ball an den Gegner – deshalb kicken Teams beim vierten Versuch oft weg (Punt)." },
   { id: "nf4", topic: "nfl", title: "NFL in Deutschland", q: "NFL Germany Games Frankfurt München",
-    text: "Seit 2022 finden reguläre NFL-Spiele in Deutschland statt, unter anderem in München und Frankfurt. Der Frankfurter Stadtwald zog 2023 tausende Fans aus ganz Europa an. Die Liga sieht Deutschland als wichtigsten Markt außerhalb der USA." }
+    text: "Seit 2022 finden reguläre NFL-Spiele in Deutschland statt, unter anderem in München und Frankfurt. Der Frankfurter Stadtwald zog 2023 tausende Fans aus ganz Europa an. Die Liga sieht Deutschland als wichtigsten Markt außerhalb der USA." },
+
+  // ---- Softwareentwicklung
+  { id: "sw1", topic: "sw", title: "SOLID: fünf Regeln für wartbaren Code", q: "SOLID Prinzipien Robert C. Martin",
+    text: "SOLID fasst fünf Entwurfsprinzipien zusammen: Single Responsibility, Open/Closed, Liskov-Substitution, Interface-Segregation und Dependency-Inversion. Robert C. Martin formulierte sie, das Kürzel stammt von Michael Feathers. Gemeinsame Idee: Klassen sollen wenig Gründe zur Änderung haben und sich leicht austauschen lassen." },
+  { id: "sw2", topic: "sw", title: "23 Rezepte gegen Chaos im Code", q: "Entwurfsmuster Gang of Four Design Patterns 1994",
+    text: "1994 erschien das Buch „Design Patterns“ der „Gang of Four“ (Gamma, Helm, Johnson, Vlissides). Es beschreibt 23 bewährte Lösungen für wiederkehrende Entwurfsprobleme, sortiert in Erzeugungs-, Struktur- und Verhaltensmuster – etwa Singleton, Observer oder Factory. Muster sind Vokabular für Teams, keine Pflichtübung." },
+  { id: "sw3", topic: "sw", title: "Die Testpyramide", q: "Testpyramide Mike Cohn Unit-Test Integrationstest",
+    text: "Viele schnelle Unit-Tests, weniger Integrationstests, nur wenige langsame End-to-End-Tests über die Oberfläche: So sieht die Testpyramide aus (bekannt geworden durch Mike Cohn, 2009). Wer sie umdreht, bekommt lange Laufzeiten und wackelige Tests." },
+  { id: "sw4", topic: "sw", title: "Scrum in dreißig Sekunden", q: "Scrum Guide Sprint Rollen",
+    text: "Scrum arbeitet in Sprints von höchstens einem Monat. Drei Rollen: Product Owner (was), Entwickelnde (wie) und Scrum Master (Prozess). Feste Ereignisse sind Sprint Planning, Daily, Review und Retrospektive. Beschrieben ist das im Scrum Guide von Ken Schwaber und Jeff Sutherland." },
+  { id: "sw5", topic: "sw", title: "Technische Schulden", q: "Technische Schulden Ward Cunningham",
+    text: "Ward Cunningham verglich 1992 schnelle, unsaubere Lösungen mit einem Kredit: Man kommt schneller voran, zahlt aber Zinsen – jede spätere Änderung wird mühsamer. Ein bewusst aufgenommener Kredit kann sinnvoll sein, solange man ihn irgendwann zurückzahlt." },
+
+  // ---- Datenbanken & Daten
+  { id: "db1", topic: "db", title: "Normalformen: Ordnung gegen Redundanz", q: "Normalisierung Datenbank Normalformen Codd",
+    text: "Edgar F. Codd begründete 1970 das relationale Modell. Die Normalformen (1NF bis 3NF und weitere) helfen, Daten ohne Doppelungen abzulegen: Jede Information steht genau einmal. So vermeidet man Änderungs-, Einfüge- und Löschanomalien, muss aber oft mit Joins bezahlen." },
+  { id: "db2", topic: "db", title: "ACID: Warum die Überweisung nicht halb passiert", q: "ACID Transaktion Datenbank",
+    text: "Eine Überweisung muss ganz oder gar nicht passieren. Dafür stehen die ACID-Eigenschaften: Atomarität, Konsistenz, Isolation und Dauerhaftigkeit. Schlägt ein Schritt fehl, wird alles zurückgerollt; parallele Transaktionen stören sich nicht, und Bestätigtes geht bei Absturz nicht verloren." },
+  { id: "db3", topic: "db", title: "Ein Index ist wie ein Stichwortverzeichnis", q: "Datenbankindex B-Baum",
+    text: "Ohne Index liest eine Datenbank für eine Suche im Zweifel die ganze Tabelle. Ein Index (meist ein B-Baum) findet Einträge wie ein Stichwortverzeichnis im Buch – dafür kostet er Speicher und verlangsamt Schreibvorgänge. Mehr Indizes sind deshalb nicht automatisch besser." },
+  { id: "db4", topic: "db", title: "Snowflake trennt Speicher und Rechenpower", q: "Snowflake Architektur Storage Compute getrennt Virtual Warehouse",
+    text: "Das Cloud-Data-Warehouse Snowflake trennt Datenspeicher und Rechenleistung. Abfragen laufen auf „Virtual Warehouses“, die sich unabhängig vom Speicher hoch- und runterskalieren oder pausieren lassen. Mehrere Teams können so auf dieselben Daten zugreifen, ohne sich auszubremsen." },
+  { id: "db5", topic: "db", title: "Das CAP-Theorem", q: "CAP-Theorem Eric Brewer",
+    text: "Eric Brewer vermutete 2000: Ein verteiltes System kann nicht gleichzeitig Konsistenz, Verfügbarkeit und Partitionstoleranz garantieren. Da Netzwerkausfälle vorkommen, muss man bei einer Trennung wählen: alle sehen dieselben Daten (Konsistenz) oder das System antwortet immer (Verfügbarkeit)." },
+
+  // ---- IT-Sicherheit & Netze
+  { id: "sc1", topic: "sc", title: "Die drei Schutzziele der IT-Sicherheit", q: "Schutzziele Vertraulichkeit Integrität Verfügbarkeit",
+    text: "IT-Sicherheit dreht sich um drei Grundwerte: Vertraulichkeit (nur Berechtigte lesen), Integrität (Daten bleiben unverfälscht) und Verfügbarkeit (Systeme sind nutzbar, wenn man sie braucht). Bei jeder Maßnahme lohnt die Frage, welches Ziel sie schützt – und welches sie eventuell schwächt." },
+  { id: "sc2", topic: "sc", title: "Sieben Schichten für ein Datenpaket", q: "OSI-Modell sieben Schichten TCP/IP",
+    text: "Das OSI-Modell (ISO, 1984) teilt Netzkommunikation in sieben Schichten: Bitübertragung, Sicherung, Vermittlung, Transport, Sitzung, Darstellung und Anwendung. Im Alltag nutzt man meist das schlankere TCP/IP-Modell mit vier Schichten; OSI dient vor allem als gemeinsame Sprache zur Fehlersuche." },
+  { id: "sc3", topic: "sc", title: "Social Engineering: der Mensch als Einfallstor", q: "Social Engineering Phishing Warnsignale",
+    text: "Angreifer hacken oft nicht die Technik, sondern den Menschen: Sie erzeugen Zeitdruck, geben sich als Autorität aus oder locken mit Belohnungen. Warnsignale sind ungewöhnliche Bitten, Druck und Links zu Anmeldeseiten. Im Zweifel hilft ein Rückruf über einen bekannten, unabhängigen Kanal." },
+  { id: "sc4", topic: "sc", title: "Passkeys: Anmelden ohne Passwort", q: "Passkeys FIDO2 WebAuthn",
+    text: "Passkeys (auf Basis von FIDO2/WebAuthn) ersetzen Passwörter durch ein Schlüsselpaar: Der private Schlüssel bleibt auf deinem Gerät, der Dienst kennt nur den öffentlichen. Weil die Anmeldung an die echte Webseite gebunden ist, laufen Phishing-Seiten ins Leere." },
+  { id: "sc5", topic: "sc", title: "CIS Benchmarks: Härtungsanleitungen für alles", q: "CIS Benchmarks Hardening Center for Internet Security",
+    text: "Das Center for Internet Security veröffentlicht die CIS Benchmarks: herstellerunabhängige, in Gemeinschaft erarbeitete Konfigurationsempfehlungen zum Absichern („Härten“) von Systemen. Sie gibt es für Betriebssysteme, Cloud-Anbieter und Datenbanken, unter anderem auch für Snowflake. Viele Sicherheitsprüfungen messen die Einhaltung." },
+
+  // ---- Cloud & Architektur
+  { id: "cd1", topic: "cd", title: "Monolith oder Microservices?", q: "Microservices Monolith Vor- und Nachteile",
+    text: "Ein Monolith ist eine einzige ausgelieferte Anwendung, Microservices sind viele kleine, unabhängig deploybare Dienste. Microservices erlauben getrennte Skalierung und Teams, verlagern die Komplexität aber ins Netzwerk. Viele Projekte fahren mit einem gut strukturierten Monolithen zunächst besser." },
+  { id: "cd2", topic: "cd", title: "REST: die Idee hinter den meisten Web-APIs", q: "REST Roy Fielding Dissertation 2000",
+    text: "Roy Fielding beschrieb REST in seiner Dissertation im Jahr 2000. Kernidee: Alles ist eine Ressource mit einer Adresse, bearbeitet mit den HTTP-Verben GET, POST, PUT und DELETE. Der Server merkt sich keinen Zustand zwischen Anfragen – jede Anfrage bringt alles Nötige mit." },
+  { id: "cd3", topic: "cd", title: "Container sind keine virtuellen Maschinen", q: "Container versus virtuelle Maschine Docker",
+    text: "Eine virtuelle Maschine bringt ein komplettes Gastbetriebssystem mit. Container teilen sich den Kernel des Hosts und isolieren nur Prozesse und Dateien – das macht sie klein und schnell gestartet. Docker machte das Konzept ab 2013 populär." },
+  { id: "cd4", topic: "cd", title: "CI/CD: vom Commit zur Auslieferung", q: "Continuous Integration Continuous Delivery Deployment",
+    text: "Continuous Integration heißt: Bei jeder Änderung wird automatisch gebaut und getestet. Continuous Delivery hält das Ergebnis jederzeit auslieferbar, bei Continuous Deployment geht es sogar ohne manuellen Schritt live. Ziel: kleine Änderungen, schnelles Feedback, weniger Angst vor Releases." },
+  { id: "cd5", topic: "cd", title: "Skalieren: größer oder mehr?", q: "Vertikale Horizontale Skalierung",
+    text: "Vertikal skalieren heißt, einen Rechner stärker zu machen (mehr CPU, mehr RAM). Horizontal skalieren heißt, mehr Rechner nebeneinander zu betreiben. Vertikal ist einfach, stößt aber an Grenzen; horizontal wächst fast beliebig, verlangt aber Anwendungen, die verteilt arbeiten können." },
+
+  // ---- KI & Tools
+  { id: "ki1", topic: "ki", title: "Wie ein Sprachmodell Text erzeugt", q: "Large Language Model Token nächstes Wort Vorhersage",
+    text: "Große Sprachmodelle zerlegen Text in Tokens (Wortstücke) und berechnen immer wieder, welches Token am wahrscheinlichsten als Nächstes folgt. Aus diesem einfachen Prinzip entstehen Antworten, Code und Übersetzungen. Dass es „nur“ Wahrscheinlichkeiten sind, erklärt auch ihre Fehler." },
+  { id: "ki2", topic: "ki", title: "„Attention Is All You Need“", q: "Transformer Attention Is All You Need 2017",
+    text: "2017 stellte ein Forschungsteam bei Google die Transformer-Architektur vor, im Aufsatz „Attention Is All You Need“. Der Aufmerksamkeitsmechanismus lässt ein Modell gewichten, welche Wörter im Text zueinander wichtig sind. Fast alle heutigen Sprachmodelle bauen darauf auf." },
+  { id: "ki3", topic: "ki", title: "Halluzinationen: überzeugend und falsch", q: "KI Halluzination Sprachmodelle Retrieval",
+    text: "Sprachmodelle erfinden manchmal Fakten, Quellen oder Zitate, die glaubwürdig klingen, aber falsch sind. Der Grund: Sie optimieren Plausibilität, nicht Wahrheit. Abhilfe schaffen Belege aus verlässlichen Quellen (Retrieval), Nachprüfen und die Bitte an das Modell, Unsicherheit zuzugeben." },
+  { id: "ki4", topic: "ki", title: "Das Kontextfenster", q: "Kontextfenster Sprachmodell Token Limit",
+    text: "Ein Modell „sieht“ nur eine begrenzte Menge Text gleichzeitig: sein Kontextfenster, gemessen in Tokens. Was hinausrutscht, ist für das Modell nicht mehr vorhanden. Deshalb helfen kurze, klare Anweisungen und Zusammenfassungen bei langen Gesprächen und großen Projekten." },
+  { id: "ki5", topic: "ki", title: "Prompt Injection", q: "Prompt Injection Angriff KI-Agenten",
+    text: "Bei einer Prompt Injection schleust ein Angreifer Anweisungen in Text ein, den ein KI-Assistent später verarbeitet – etwa in einer Webseite, E-Mail oder Datei. Das Modell kann Daten und Befehle schlecht trennen. Deshalb sollten KI-Werkzeuge nur so viele Rechte bekommen wie nötig." },
+  { id: "ki6", topic: "ki", title: "Der EU AI Act", q: "EU AI Act Risikoklassen 2024",
+    text: "Der AI Act der EU trat im August 2024 in Kraft und gilt schrittweise. Er sortiert KI-Systeme nach Risiko: einige Anwendungen sind verboten, andere („hohes Risiko“) unterliegen strengen Pflichten, für viele reichen Transparenzregeln. Es ist das erste umfassende KI-Gesetz dieser Art." },
+
+  // ---- Beruf & Alltag
+  { id: "bf1", topic: "bf", title: "Die Feynman-Methode", q: "Feynman-Methode Lernen erklären",
+    text: "Wer etwas wirklich verstehen will, erklärt es in einfachen Worten, als säße ein Anfänger vor ihm – so die nach Richard Feynman benannte Lernmethode. Stockt die Erklärung, hat man eine Lücke gefunden. Zurück zur Quelle, Lücke schließen, noch einmal erklären." },
+  { id: "bf2", topic: "bf", title: "Abfragen schlägt Wiederlesen", q: "Testeffekt Roediger Karpicke Active Recall",
+    text: "Roediger und Karpicke zeigten 2006: Wer sich Stoff aus dem Gedächtnis abruft, behält ihn langfristig besser als jemand, der ihn mehrfach nur wieder liest. Das Anstrengende fühlt sich schlechter an, wirkt aber besser. Karteikarten und Übungsaufgaben nutzen genau diesen Testeffekt." },
+  { id: "bf3", topic: "bf", title: "Die Pomodoro-Technik", q: "Pomodoro-Technik Francesco Cirillo",
+    text: "Francesco Cirillo entwickelte die Pomodoro-Technik Ende der 1980er-Jahre: 25 Minuten konzentriert arbeiten, dann 5 Minuten Pause, nach vier Runden eine längere. Benannt ist sie nach seiner tomatenförmigen Küchenuhr. Die festen Blöcke erleichtern es, anzufangen und dranzubleiben." },
+  { id: "bf4", topic: "bf", title: "DSGVO in Kürze", q: "DSGVO Betroffenenrechte Bußgeld",
+    text: "Die DSGVO gilt seit dem 25. Mai 2018. Sie gibt Menschen Rechte wie Auskunft, Berichtigung und Löschung ihrer Daten. Verstöße können mit bis zu 20 Millionen Euro oder 4 Prozent des weltweiten Jahresumsatzes geahndet werden – je nachdem, was höher ist." },
+  { id: "bf5", topic: "bf", title: "Wichtig oder nur dringend?", q: "Eisenhower-Matrix dringend wichtig",
+    text: "Die Eisenhower-Matrix sortiert Aufgaben nach „dringend“ und „wichtig“. Wichtig und dringend: sofort erledigen. Wichtig, aber nicht dringend: einplanen – hier liegen Lernen und Vorsorge. Dringend, aber unwichtig: abgeben. Weder noch: streichen. Sie geht auf eine Rede von Dwight D. Eisenhower zurück." },
+  { id: "bf6", topic: "bf", title: "MIT oder GPL? Lizenzen im Code", q: "Open-Source-Lizenzen MIT GPL Copyleft",
+    text: "Code ohne Lizenz darf man rechtlich nicht einfach verwenden. Die MIT-Lizenz erlaubt fast alles, solange der Lizenztext erhalten bleibt. Die GPL ist eine „Copyleft“-Lizenz: Wer GPL-Code weitergibt, muss abgeleitete Werke ebenfalls unter der GPL veröffentlichen." }
 ];

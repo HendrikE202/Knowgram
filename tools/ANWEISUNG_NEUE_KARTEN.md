@@ -14,10 +14,11 @@ Du erweiterst die Wissenskarten von Knowgram (Repo HendrikE202/Knowgram, Branch 
 ```js
 { id: "<Themenkürzel><Nummer>", topic: "<Schlüssel aus TOPICS>", title: "...", q: "<Suchbegriff für Wikipedia>", text: "..." }
 ```
-- **id:** dasselbe Kürzel wie bei den vorhandenen Karten des Themas (ge, ph, ko, pl, ku, it, po, te, me, bi, zo, wi, we, ps, sp, ma, ch, kl, ra, nf) plus die nächste freie Nummer.
+- **id:** dasselbe Kürzel wie bei den vorhandenen Karten des Themas (ge, ph, ko, pl, ku, it, po, te, me, bi, zo, wi, we, ps, sp, ma, ch, kl, ra, nf, sw, db, sc, cd, ki, bf – im Zweifel das Kürzel aus vorhandenen IDs des Themas ablesen) plus die nächste freie Nummer.
 - **title:** kurz, weckt Neugier, gern als Frage oder überraschende Aussage.
 - **text:** 40–60 Wörter, EIN Gedanke, konkret (Name, Zahl oder Jahr), anschaulich, ohne Fachjargon. Deutsche Anführungszeichen „so“ verwenden, keine geraden `"`.
 - Mische Bekanntes mit echten Nischenthemen, die kaum jemand kennt.
+- Die Themen sw, db, sc, cd, ki, bf sind für Hendriks Ausbildung (Fachinformatiker Anwendungsentwicklung, AP2), sein Studium (Wirtschaftsinformatik) und die Arbeit gedacht: praxisnah, prüfungsrelevant und korrekt, mit konkretem Beispiel. Bei Fachbegriffen die übliche deutsche Schreibweise verwenden.
 
 ## Qualität (wichtig – es gibt keine automatische Faktenprüfung)
 - Schreibe nur Fakten, bei denen du dir sicher bist. Im Zweifel eine andere Karte wählen.
