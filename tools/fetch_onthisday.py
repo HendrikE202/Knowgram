@@ -19,7 +19,7 @@ COUNT = 3
 
 
 def clean(s, limit=340):
-    s = html.unescape(re.sub(r"<[^>]+>", " ", s or ""))
+    s = html.unescape(re.sub(r"<[^>]+>", " ", s or "")).replace("\u00ad", "")
     s = re.sub(r"\s+", " ", s).strip()
     if len(s) > limit:
         s = s[:limit].rsplit(" ", 1)[0].rstrip(",;:") + " …"
@@ -73,9 +73,10 @@ def main():
             continue
         seen.add(text)
         ago = now.year - e["year"]
+        name = clean((page.get("titles") or {}).get("normalized", ""), 60)
         items.append({
             "id": f"otd{now.year}{mm}{dd}{len(items)}", "kind": "otd", "topic": "geschichte", "md": md,
-            "year": e["year"], "title": f"Heute vor {ago} Jahren" if ago > 0 else "Heute",
+            "year": e["year"], "title": (f"Heute vor {ago} Jahren" if ago > 0 else "Heute") + (f": {name}" if name else ""),
             "text": text, "link": link, "source": "Wikipedia", "type": "Wikipedia · Am heutigen Tag",
             "date": f"{now.day}. {MONATE[now.month - 1]} {e['year']}",
         })

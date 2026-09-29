@@ -18,7 +18,7 @@ TAG = re.compile(r"<[^>]+>")
 
 
 def clean(s, limit=320):
-    s = html.unescape(TAG.sub(" ", s or ""))
+    s = html.unescape(TAG.sub(" ", s or "")).replace("\u00ad", "")
     s = re.sub(r"\s+", " ", s).strip()
     if len(s) > limit:
         s = s[:limit].rsplit(" ", 1)[0].rstrip(",;:") + " …"
