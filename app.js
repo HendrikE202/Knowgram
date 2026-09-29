@@ -348,7 +348,7 @@
       ...(x.text ? [h("p", { class: "xtext" }, x.text)] : []),
       ...(x.steps && x.steps.length ? [h("ol", { class: "steps" }, ...x.steps.map((y) => h("li", {}, y)))] : []),
       ...(x.points && x.points.length ? [h("ul", { class: "pts" }, ...x.points.map((y) => h("li", {}, y)))] : []),
-      h("div", { class: "meta" }, h("span", {}, "📚 KI-verfasst · ohne Gewähr"))));
+      h("div", { class: "meta" }, h("span", {}, x.note || "📚 KI-verfasst · ohne Gewähr"))));
 
   const share = async (c) => {
     const text = c.link ? `${c.title}\n${c.text}\n${c.link}\n– via Knowgram` : `${c.title}\n\n${c.text}\n\n– via Knowgram`;
