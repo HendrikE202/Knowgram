@@ -38,7 +38,7 @@ Installation als PWA später per HTTPS hosten).
 - **Serien:** Karten mit `series/part/of` erscheinen der Reihe nach („Teil 2/5“ erst nach Teil 1). **🕳️ Weiter im Thema** bzw. **Nächster Teil →** fügt verwandte Karten direkt darunter ein (auch verschachtelt). `more: ["id"]` in einer Karte setzt gezielte Verweise.
 - **🌍 Heute in der Welt:** `tools/fetch_news.py` gruppiert gleiche Ereignisse quellenübergreifend (`also`), wählt bis zu 10 (`briefing` in `news.json`); die App zeigt sie einmal pro Tag vorn und über den Chip „🌍 Heute“.
 - **Bildfilter (Meldungen):** Logos, Zählpixel, Werbung, Stockfotos und mehrfach verwendete Bilder werden verworfen.
-- **Abendmodus** (Mond oben, Auto 20–6 Uhr), **Schlaf-Timer** und größere Schrift: Profil → „Abend & Schlaf“.
+- **Abendmodus** (Mond oben, Auto standardmäßig 23–6 Uhr, einstellbar), **Schlaf-Timer** und größere Schrift: Profil → „Abend & Schlaf“.
 
 ## Feed sauber halten
 - Meldungen haben ein Verfallsdatum je Quelle (`ttl_days` in `feeds.json`, z. B. Nachrichten 2–4 Tage, Wissenschaft 14) und verschwinden dann aus `news.json` und dem Feed. Schon gesehene Meldungen kommen nicht wieder.

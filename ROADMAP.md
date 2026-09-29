@@ -36,7 +36,7 @@
 - [ ] Hinweis „Entwicklung läuft“ bei Nachrichten, die sich schnell ändern
 
 ### C) Abend-/Bett-Modus
-- [x] Abendmodus: wärmerer, gedimmter Farbton (Auto 20–6 Uhr / An / Aus, Mond oben), Schrift optional groß
+- [x] Abendmodus: wärmerer, gedimmter Farbton (Auto standardmäßig 23–6 Uhr, einstellbar / An / Aus, Mond oben), Schrift optional groß
 - [x] Optionaler **Schlaf-Timer** (20/40/60 Min., danach „Gute Nacht“, +10 Min. per Tipp oder ausschalten)
 - [ ] „Weiterlesen morgen“: Karte für später vormerken
 

@@ -5,7 +5,7 @@
   const feed = $("#feed"), chips = $("#chips"), sheet = $("#sheet"), toastEl = $("#toast");
 
   // --- Zustand (localStorage, darf fehlschlagen) ---
-  let S = { rate: {}, prefs: {}, dive: {}, strength: 0.5, wishes: [], reports: {}, checks: {}, lastCheck: 0, notes: {}, arch: {}, seenAt: {}, badImg: {}, badSrc: {}, night: "auto", sleep: 0, big: false, briefDay: "", profile: { name: "", emoji: "🙂" }, saved: [], savedNews: {}, seen: [] };
+  let S = { rate: {}, prefs: {}, dive: {}, strength: 0.5, wishes: [], reports: {}, checks: {}, lastCheck: 0, notes: {}, arch: {}, seenAt: {}, badImg: {}, badSrc: {}, night: "auto", nightFrom: 23, sleep: 0, big: false, briefDay: "", profile: { name: "", emoji: "🙂" }, saved: [], savedNews: {}, seen: [] };
   try { S = Object.assign(S, JSON.parse(localStorage.getItem("knowgram") || "{}")); } catch (e) {}
   for (const v of Object.values(S.rate)) if (!v.at) v.at = Date.now();   // Zeitstempel nachtragen (für das Abklingen alter Bewertungen)
   // Ältere Version: „liked“-Liste in Bewertungen (👍) überführen
@@ -502,7 +502,7 @@
   };
 
   // --- Profil (lokal, bleibt auf diesem Gerät) ---
-  const exportJson = () => JSON.stringify({ app: "knowgram", v: 1, at: new Date().toISOString(), profile: S.profile, prefs: S.prefs, dive: S.dive, strength: S.strength, checks: S.checks, wishes: S.wishes, reports: S.reports, notes: S.notes, arch: S.arch, badImg: S.badImg, badSrc: S.badSrc, night: S.night, sleep: S.sleep, rate: S.rate, saved: S.saved }, null, 1);
+  const exportJson = () => JSON.stringify({ app: "knowgram", v: 1, at: new Date().toISOString(), profile: S.profile, prefs: S.prefs, dive: S.dive, strength: S.strength, checks: S.checks, wishes: S.wishes, reports: S.reports, notes: S.notes, arch: S.arch, badImg: S.badImg, badSrc: S.badSrc, night: S.night, nightFrom: S.nightFrom, sleep: S.sleep, rate: S.rate, saved: S.saved }, null, 1);
   const importJson = (txt) => {
     const j = JSON.parse(txt);
     if (!j || j.app !== "knowgram" || j.v !== 1 || typeof j.rate !== "object") throw new Error("Format");
@@ -528,6 +528,7 @@
     S.badImg = Object.fromEntries(Object.keys(j.badImg || {}).slice(0, 2000).map((k) => [String(k).slice(0, 40), 1]));
     S.badSrc = Object.fromEntries(Object.entries(j.badSrc || {}).filter(([, v]) => Number.isFinite(v)).slice(0, 50).map(([k, v]) => [String(k).slice(0, 40), Math.min(99, v)]));
     if (["auto", "on", "off"].includes(j.night)) S.night = j.night;
+    if ([20, 21, 22, 23].includes(j.nightFrom)) S.nightFrom = j.nightFrom;
     if ([0, 20, 40, 60].includes(j.sleep)) S.sleep = j.sleep;
     S.rate = rate; S.prefs = prefs; S.dive = dive; if ([0, 0.5, 1, 1.5].includes(j.strength)) S.strength = j.strength;
     S.profile = { name: String((j.profile && j.profile.name) || "").slice(0, 24), emoji: String((j.profile && j.profile.emoji) || "🙂").slice(0, 4) };
@@ -609,8 +610,10 @@
       sec("Zuletzt 👍", h("div", { class: "pf-list" }, ...recent(1))),
       sec("Zuletzt 👎", h("div", { class: "pf-list" }, ...recent(-1))),
       sec("Abend & Schlaf",
-        h("p", { class: "pf-note" }, "Abendmodus: wärmerer, gedimmter Farbton. „Auto“ schaltet ihn von 20 bis 6 Uhr ein (Mond oben antippen wechselt schnell)."),
+        h("p", { class: "pf-note" }, "Abendmodus: wärmerer, gedimmter Farbton (Mond oben antippen wechselt schnell). „Auto“ schaltet ihn ab der gewählten Uhrzeit bis 6 Uhr ein."),
         seg([["Auto", "auto"], ["An", "on"], ["Aus", "off"]], S.night, (v) => { S.night = v; persist(); applyNight(); }),
+        h("p", { class: "pf-note" }, "Auto ab"),
+        seg([["20 Uhr", 20], ["21 Uhr", 21], ["22 Uhr", 22], ["23 Uhr", 23]], nightFrom(), (v) => { S.nightFrom = v; persist(); applyNight(); }),
         h("p", { class: "pf-note" }, "Schlaf-Timer: Nach der Zeit erscheint „Gute Nacht“. Mit einem Tipp gibst du dir 10 Minuten mehr."),
         seg([["Aus", 0], ["20 Min", 20], ["40 Min", 40], ["60 Min", 60]], S.sleep, (v) => { S.sleep = v; persist(); startSleep(v); }),
         h("p", { class: "pf-note" }, "Schrift"),
@@ -633,7 +636,7 @@
         h("button", { class: "act", onclick: async () => toast((await copy(exportJson())) ? "Geschmack kopiert" : "Kopieren nicht möglich") }, "📋 Geschmack kopieren", h("small", {}, "Als Text, z. B. zum Sichern oder um ihn Claude zu zeigen")),
         box,
         h("button", { class: "act", onclick: () => { try { importJson(box.value); toast("Geschmack geladen"); render(); } catch (e) { toast("Das ist kein gültiger Export"); } } }, "📥 Einfügen & laden"),
-        h("button", { class: "act", onclick: () => { if (confirm("Wirklich alles zurücksetzen (Bewertungen, Gespeichertes, Profil)?")) { S = { rate: {}, prefs: {}, dive: {}, strength: 0.5, wishes: [], reports: {}, checks: {}, lastCheck: 0, notes: {}, arch: {}, seenAt: {}, badImg: {}, badSrc: {}, night: "auto", sleep: 0, big: false, briefDay: "", profile: { name: "", emoji: "🙂" }, saved: [], savedNews: {}, seen: [] }; SEEN.clear(); persist(); render(); } } }, "🗑️ Alles zurücksetzen")));
+        h("button", { class: "act", onclick: () => { if (confirm("Wirklich alles zurücksetzen (Bewertungen, Gespeichertes, Profil)?")) { S = { rate: {}, prefs: {}, dive: {}, strength: 0.5, wishes: [], reports: {}, checks: {}, lastCheck: 0, notes: {}, arch: {}, seenAt: {}, badImg: {}, badSrc: {}, night: "auto", nightFrom: 23, sleep: 0, big: false, briefDay: "", profile: { name: "", emoji: "🙂" }, saved: [], savedNews: {}, seen: [] }; SEEN.clear(); persist(); render(); } } }, "🗑️ Alles zurücksetzen")));
   };
 
   const render = () => {
@@ -652,7 +655,8 @@
 
   // --- Abendmodus & Schlaf-Timer ---
   const moon = $("#moon");
-  const nightOn = () => S.night === "on" || (S.night !== "off" && (new Date().getHours() >= 20 || new Date().getHours() < 6));
+  const nightFrom = () => ([20, 21, 22, 23].includes(S.nightFrom) ? S.nightFrom : 23);   // „Auto“ gilt von dieser Uhrzeit bis 6 Uhr
+  const nightOn = () => S.night === "on" || (S.night !== "off" && (new Date().getHours() >= nightFrom() || new Date().getHours() < 6));
   const applyNight = () => {
     const r = document.documentElement;
     r.dataset.night = nightOn() ? "1" : ""; r.dataset.big = S.big ? "1" : "";
@@ -676,7 +680,7 @@
   };
   moon.addEventListener("click", () => {
     const order = ["auto", "on", "off"]; S.night = order[(order.indexOf(S.night) + 1) % 3]; persist(); applyNight();
-    toast(S.night === "auto" ? "Abendmodus: automatisch (20–6 Uhr)" : S.night === "on" ? "Abendmodus: an" : "Abendmodus: aus");
+    toast(S.night === "auto" ? `Abendmodus: automatisch (${nightFrom()}–6 Uhr)` : S.night === "on" ? "Abendmodus: an" : "Abendmodus: aus");
   });
   setInterval(applyNight, 5 * 60000);
 

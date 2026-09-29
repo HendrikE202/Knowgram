@@ -2,12 +2,8 @@ name: Titelbilder suchen
 
 on:
   schedule:
-    - cron: "23 4 * * *"      # täglich (pro Lauf max. 40 Karten, der Rest folgt)
+    - cron: "37 4 * * *"      # täglich, nach dem Karten-Lauf der Routine (pro Lauf max. 40 Karten, der Rest folgt)
   workflow_dispatch: {}
-  push:
-    paths:
-      - "cards.js"
-      - "tools/fetch_images.py"
 
 permissions:
   contents: write
@@ -25,6 +21,7 @@ jobs:
         with:
           python-version: "3.12"
       - name: Bilder zu neuen Karten suchen (Wikimedia Commons)
+        continue-on-error: true   # Bilder sind nur Zusatz: Probleme bei Wikimedia sollen keinen Fehler-Alarm auslösen
         run: python tools/fetch_images.py
       - name: Änderungen committen
         run: |
