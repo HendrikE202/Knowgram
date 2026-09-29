@@ -1,6 +1,6 @@
 # Knowgram – Vision, Stand und Aufgaben
 
-*Zuletzt aktualisiert: 30.09.2026. Diese Datei ist die zentrale To-do-Liste (für Hendrik und für Claude-Sitzungen).*
+*Zuletzt aktualisiert: 29.09.2026 (Abend). Diese Datei ist die zentrale To-do-Liste (für Hendrik und für Claude-Sitzungen).*
 
 ## Vision
 **Abends im Bett in Rabbit Holes fallen** – endlos scrollen, dabei etwas lernen, informativ bleiben und **auf dem Laufenden über das Weltgeschehen** sein. Kein Schul-Gefühl: keine Tests, kein Punktedruck. Neugier statt Pflicht.
@@ -14,71 +14,54 @@
 6. **Ehrlich:** KI-verfasste Inhalte sind gekennzeichnet; Fakten werden nicht automatisch geprüft.
 
 ## Erledigt (Stand jetzt)
-- Feed als PWA (Reels-artig), 142 Wissenskarten in 28 Themen (inkl. Beruf/Studium, Archäologie, NFL), Themen-Chips
+- Feed als PWA (Reels-artig), 146 Wissenskarten in 28 Themen (inkl. Beruf/Studium, Archäologie, NFL), Themen-Chips, „✓ gesehen“/„NEU“
 - Nachrichten: 13 Quellen per GitHub-Job alle 3 Std., Verfallsdatum je Quelle, Bild/Quelle/Alter sichtbar; „Am heutigen Tag“ (Wikipedia)
-- 👍/👎, ausgewogene Personalisierung, Themen-Check, Problem melden, Themenwünsche, Notizen (💬), lokales Profil mit Export/Import
-- Titelbilder (Wikimedia Commons, freie Lizenz) + eigene Cover; „✓ gesehen“; Aufräumen alter Daten
+- **🌍 Heute in der Welt** (bis 10 Ereignisse, mehrere Quellen verglichen), **Serien + „Weiter im Thema“** (erste Serie: Dreißigjähriger Krieg)
+- **Abendmodus** (Auto ab 23 Uhr, einstellbar) und **Schlaf-Timer** (20/40/60 Min., „Gute Nacht“)
+- 👍/👎, ausgewogene Personalisierung, Themen-Check, Problem melden, Themenwünsche, Notizen (💬), lokales Profil mit Export/Import, automatisches Aufräumen alter Daten
+- Bilder: Wissenskarten (Wikimedia Commons, frei lizenziert, mit Relevanzprüfung), Meldungen (ohne Logos/Werbung/Stockfotos), eigene Cover; „Bild passt nicht“ lernt pro Quelle
 - Täglicher Karten-Lauf als Routine (10 Karten/Tag) – Auftrag in `tools/ANWEISUNG_NEUE_KARTEN.md`
 
-## Als Nächstes (nach Priorität)
+# TO-DO-LISTE
 
-### A) Rabbit Holes – der Kern der Vision
-- [x] **„Weiter im Thema“:** Tipp fügt bis zu 5 verwandte Karten direkt darunter ein (Serien-Teile, `more`-Verweise, sonst konservativ im selben Thema). **Offen:** die Routine soll gezielte `more`-Verweise schreiben, weil reine Wortähnlichkeit bei kleinem Bestand nur grob taugt
-- [x] **Kartenserien:** „Teil n/N“, schalten sich der Reihe nach frei; erste Serie „Der Dreißigjährige Krieg“ (5 Teile) live. **Offen:** Routine schreibt regelmäßig neue Serien (Anweisung ist ergänzt)
-- [ ] **Vom Ereignis zum Hintergrund:** Meldung → verlinkte Hintergrundkarte („Wie kam es dazu?“, „Was steckt dahinter?“)
-- [ ] „Zufälliges Kaninchenloch“-Knopf: springt in ein selten gesehenes Thema
+## 1) Für dich (Hendrik) – kurz und konkret
+- [ ] **Am Handy testen:** `https://hendrike202.github.io/Knowgram/` öffnen, zum Startbildschirm hinzufügen, Scrollgefühl/Abendmodus/Timer ausprobieren und melden, was stört
+- [ ] **Routine „Neue Wissenskarten“ fertig einrichten** (claude.ai → Routinen): Repo `HendrikE202/Knowgram` zuweisen, Push auf `main` erlauben, Connectors abwählen, Namen ändern, einmal „Run now“ testen und prüfen, ob 10 Karten in `cards.js` landen
+- [ ] **Fehlgeschlagene Bilder-Jobs:** Link oder Fehlertext aus der GitHub-Mail schicken (Actions → roter Eintrag); falls es nach den Änderungen wieder rot wird
+- [ ] **Supabase-Projekt anlegen** (wenn du daheim bist, Region Frankfurt): nur Projekt-URL und **öffentlichen** Schlüssel schicken – niemals `service_role` oder Datenbank-Passwort
+- [ ] **Alten Branch löschen:** Repo `Abschlussprojekt` → Branches → `claude/gracious-heisenberg-82qzi8` → Papierkorb (nichts geht verloren)
+- [ ] **Stichproben gegenlesen:** ein paar neue Karten (KI-verfasst, nicht faktengeprüft) und die gefundenen Titelbilder ansehen; unpassende über „Problem melden“ markieren
+- [ ] Repo `Knowgram` auf **privat** stellen, falls gewünscht (Settings → General → Danger Zone; Pages braucht dann ein bezahltes Konto oder einen anderen Dienst)
 
-### B) Auf dem Laufenden bleiben (Weltgeschehen)
-- [x] **„Heute in der Welt“:** bis zu 10 Ereignisse, automatisch nach Berichterstattung mehrerer Quellen + Frische + harten Signalen gewählt (weiche Themen ausgeschlossen), als Startblock einmal pro Tag und über den Chip „🌍 Heute“; „🔀 Auch bei: …“ zeigt die anderen Quellen. **Offen:** Qualität an echten Tagen beobachten (Gewichtung nachschärfen)
-- [ ] **Einordnungskarte „Warum ist das wichtig?“** zu den Top-Meldungen (durch die Routine erzeugt, als „KI-Einordnung“ gekennzeichnet, mit Link zu den Originalquellen)
-- [ ] Abend-Zusammenfassung („Das war heute wichtig“) als letzte Karte des Tages; Wochenrückblick
-- [ ] Mehr Quellen/Perspektiven prüfen (z. B. weitere Fachmedien, Wirtschaft, Wissenschaft); Hessen nur bei wirklich Spannendem
-- [ ] Hinweis „Entwicklung läuft“ bei Nachrichten, die sich schnell ändern
+## 2) Entscheidungen von dir
+- [ ] **Schlaf-Timer:** Soll er erst ab 23 Uhr aktiv werden (vorher frei scrollen), oder wie jetzt jederzeit?
+- [ ] **Anmeldung:** nur lokal + Export / **Sync-Code** ohne E-Mail (mein Vorschlag) / E-Mail-Login
+- [ ] **Weltlage:** Zeitpunkt (morgens/abends) und ob eine **Abend-Zusammenfassung** („Das war heute wichtig“) gewünscht ist
+- [ ] **Illustrationen:** einfache SVG-Grafiken von Claude oder externer Bild-Dienst (Kosten)?
 
-### C) Abend-/Bett-Modus
-- [x] Abendmodus: wärmerer, gedimmter Farbton (Auto standardmäßig 23–6 Uhr, einstellbar / An / Aus, Mond oben), Schrift optional groß
-- [x] Optionaler **Schlaf-Timer** (20/40/60 Min., danach „Gute Nacht“, +10 Min. per Tipp oder ausschalten)
-- [ ] „Weiterlesen morgen“: Karte für später vormerken
+## 3) Für Claude – nach Priorität
+### Bald (Kern der Vision)
+- [ ] **Supabase-Anbindung** (sobald URL + Schlüssel da sind): Tabellen mit Row Level Security, lokal-zuerst + Sync, Migration des lokalen Profils, Aufbewahrungsregeln serverseitig, täglicher Ping gegen Pausierung, Lesezugriff der Routine auf Geschmack/Notizen/Wünsche/Meldungen (eingeschränkter Schlüssel als Routine-Geheimnis)
+- [ ] **Einordnungskarte „Warum ist das wichtig?“** zu den Top-Meldungen (KI-Einordnung, gekennzeichnet, mit Quellenlinks; Routine oder API)
+- [ ] **Gezielte Verknüpfungen:** Routine schreibt `more`-Verweise und regelmäßig neue Serien (Anweisung steht), Ergebnisse prüfen
+- [ ] **Vom Ereignis zum Hintergrund:** Meldung → verlinkte Hintergrundkarte („Wie kam es dazu?“)
+- [ ] **Qualität von „Heute in der Welt“** an echten Tagen beobachten und nachschärfen
+- [ ] **Bilder-Backfill** kontrollieren (täglich 40 Karten, 04:37 UTC), schwache Treffer über `tools/image_overrides.json` korrigieren
 
-### D) Sichtbar und lebendig (Kurzgesagt-Gefühl)
-- [x] Bildqualität: Wissenskarten nur mit passendem Artikel/relevanter Dateisuche, ohne Logos/Wappen/Flaggen, Mindestgröße; Meldungen ohne Logos/Zählpixel/Werbung/Stockfotos/Duplikate; „Bild passt nicht“ lernt pro Quelle (3× → Bilder dieser Quelle aus). **Offen:** gefundene Bilder stichprobenartig prüfen; Handkorrektur über `tools/image_overrides.json`
-- [ ] Eigene Illustrationen/Animationen (einfache SVGs) für Serien-Auftakt und Top-Themen
-- [ ] Sanfte Übergänge, Ladezustände, „Neue Meldungen“-Hinweis
+### Danach
+- [ ] Abend-Zusammenfassung als letzte Karte des Tages; Wochenrückblick
+- [ ] „Weiterlesen morgen“: Karte für später vormerken; „Zufälliges Kaninchenloch“-Knopf
+- [ ] Eigene Illustrationen/Animationen (Serien-Auftakt, Top-Themen); sanfte Übergänge, Ladezustände, „Neue Meldungen“-Hinweis
+- [ ] Hinweis „Entwicklung läuft“ bei sich schnell ändernden Nachrichten
+- [ ] Mehr Quellen/Perspektiven (Wirtschaft, Wissenschaft, Fachmedien); Hessen nur bei wirklich Spannendem
+- [ ] Inhaltsqualität: Zweitprüfung gemeldeter Karten durch die Routine, konkrete Quelle (Link) je Karte, Karten mit älterem „Stand“ zur Überprüfung vormerken, ausgewogene Darstellung bei Politik (Fakt vs. Einschätzung)
 
-### E) Konto und Sync (Supabase)
-- [ ] Hendrik legt Supabase-Projekt an (Region Frankfurt), schickt **nur** URL + öffentlichen Schlüssel
-- [ ] Login (E-Mail/Passwort), Tabellen mit Row Level Security, lokal-zuerst + Sync im Hintergrund, Migration des lokalen Profils
-- [ ] Aufbewahrungsregeln serverseitig (News-Bewertungen >30 Tage verdichten, „gesehen“ >120 Tage löschen, Notizen zu abgelaufenen Meldungen >90 Tage)
-- [ ] Täglicher Ping gegen die Pausierung kostenloser Projekte
-- [ ] Routine liest Geschmack, Notizen, Themenwünsche und Meldungen (eingeschränkter Lese-Schlüssel als geheimer Wert der Routine, nicht im Repo)
-
-### F) Inhaltsqualität
-- [ ] Einordnungskarte „Warum ist das wichtig?“ zu den Top-Meldungen (KI-Einordnung mit Quellenlinks) – braucht Routine oder API
-- [ ] Zweiter Prüfdurchlauf der Routine: gemeldete Karten prüfen/korrigieren/entfernen
-- [ ] Jede Karte mit konkreter Quelle (Link) statt nur Suchbegriff
-- [ ] Karten mit Zeitbezug automatisch zur Überprüfung vormerken („Stand“ älter als 12 Monate)
-- [ ] Ausgewogenheit bei Politik/Weltgeschehen (mehrere Sichtweisen, klare Trennung Fakt/Einschätzung)
-
-### G) Technik und Betrieb
-- [ ] Auf echtem Handy testen (iOS/Android): Scrollgefühl, Installation, Offline
-- [ ] `cards.js` → JSON, sobald >500 Karten; einfache automatische Tests (Konsole, Feed, Filter)
-- [ ] GitHub-Actions-Versionen aktualisieren (Node-20-Warnung); geplante Jobs können nach 60 Tagen Inaktivität pausieren → im Blick behalten
-- [ ] Bilder-Backfill: läuft täglich mit 40 Karten/Lauf (erster Durchgang: 23 von 40 mit Bild, Treffer inhaltlich passend); Ergebnis stichprobenartig kontrollieren
-- [ ] Datenschutz/Impressum, falls die App öffentlich wird (Rechte an Meldungs-Bildern beachten: dann nur Commons-Bilder + eigene Cover)
-
-## Aufgaben für Hendrik
-- [ ] App am Handy öffnen (`https://hendrike202.github.io/Knowgram/`), zum Startbildschirm hinzufügen, Eindruck melden
-- [ ] Routine „Neue Wissenskarten“ (claude.ai → Routinen): Repo `HendrikE202/Knowgram` zuweisen, Push auf `main` erlauben, Connectors abwählen, einmal „Run now“ testen; Name ändern
-- [ ] Supabase-Projekt anlegen (siehe E)
-- [ ] Alten Branch `claude/gracious-heisenberg-82qzi8` im Repo `Abschlussprojekt` auf GitHub löschen (Branches → Papierkorb)
-- [ ] Ein paar neue Karten stichprobenartig gegenlesen (KI-verfasst, nicht faktengeprüft)
-
-## Offene Entscheidungen
-- Konto: E-Mail+Passwort oder Link per E-Mail?
-- ~~Weltlage-Umfang~~ → entschieden: 10 Karten. ~~Schlaf-Timer~~ → entschieden: Abendmodus + Timer.
-- Konto: Ist ein Login überhaupt nötig? Alternativen für eine Einzelperson: (1) nur lokal + Export, (2) Sync-Code ohne E-Mail, (3) E-Mail-Login. Login war als Grundlage für Sync zwischen Geräten und für das Lesen deines Geschmacks durch die Routine gedacht.
-- Weltlage: Zeitpunkt (morgens/abends) und ob eine Abend-Zusammenfassung gewünscht ist
-- Illustrationen: einfache SVG-Grafiken von Claude oder externer Bild-Dienst (Kosten)?
+### Technik und Betrieb
+- [ ] Auf echtem Handy (iOS/Android) prüfen: Scrollgefühl, Installation, Offline
+- [ ] Automatische Tests (Konsole, Feed, Filter, Abendmodus) ins Repo übernehmen
+- [ ] `cards.js` → JSON, sobald >500 Karten
+- [ ] GitHub-Actions-Versionen aktualisieren (Node-20-Warnung); geplante Jobs können nach 60 Tagen ohne Aktivität pausieren → im Blick behalten
+- [ ] Datenschutz/Impressum, falls die App öffentlich wird (dann Meldungs-Bilder nur noch aus Commons + eigene Cover)
 
 ## Ideen-Speicher (ungeordnet)
 - Themenpfade wie „Von Gutenberg bis zum Internet“ (Serie über mehrere Themen)
