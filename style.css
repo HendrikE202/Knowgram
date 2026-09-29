@@ -139,3 +139,4 @@ html[data-big="1"] .card h2{font-size:1.9rem}
 .steps{list-style:none;counter-reset:st;margin:0 0 14px;padding:0;display:grid;gap:12px}
 .steps li{counter-increment:st;position:relative;padding-left:36px;font-size:1.05rem;line-height:1.45;color:#f1f3f7}
 .steps li::before{content:counter(st);position:absolute;left:0;top:0;width:26px;height:26px;border-radius:50%;background:var(--c);color:#0b0d12;font-weight:700;font-size:.9rem;display:grid;place-items:center}
+.card.cold>*{display:none!important}

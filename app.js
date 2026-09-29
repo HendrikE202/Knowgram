@@ -458,7 +458,9 @@
     const img = e.target;
     if (e.isIntersecting) { if (img.dataset.src && !img.getAttribute("src")) img.src = img.dataset.src; }
     else if (img.getAttribute("src")) { img.dataset.src = img.getAttribute("src"); img.removeAttribute("src"); }
-  }), { rootMargin: "250% 0px" });
+  }), { root: feed, rootMargin: "250% 0px" });
+  // Karten weit außerhalb des Bildschirms „einschlafen“ (Inhalt ausgeblendet, Höhe bleibt) – hält lange Abende im Bett speicherschonend
+  const coldObs = new IntersectionObserver((es) => es.forEach((e) => e.target.classList.toggle("cold", !e.isIntersecting)), { root: feed, rootMargin: "600% 0px" });
   const coverEl = (c, t) => {
     const el = h("div", { class: "cover" });
     el.style.backgroundImage = genCover(c.id, t.c, c.topic);
@@ -567,6 +569,7 @@
     if (!imgFor(c)) el.classList.add("illu");                  // ohne Foto: Illustration statt großem Emoji
     el.addEventListener("dblclick", () => rate(c, el, 1, true));
     seenObs.observe(el);
+    coldObs.observe(el);
     return el;
   };
 
