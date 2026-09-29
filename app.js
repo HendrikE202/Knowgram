@@ -5,7 +5,7 @@
   const feed = $("#feed"), chips = $("#chips"), sheet = $("#sheet"), toastEl = $("#toast");
 
   // --- Zustand (localStorage, darf fehlschlagen) ---
-  let S = { rate: {}, prefs: {}, dive: {}, strength: 0.5, wishes: [], reports: {}, checks: {}, lastCheck: 0, notes: {}, arch: {}, seenAt: {}, badImg: {}, badSrc: {}, night: "auto", nightFrom: 23, sleep: 0, big: false, briefDay: "", profile: { name: "", emoji: "🙂" }, saved: [], savedNews: {}, seen: [] };
+  let S = { rate: {}, prefs: {}, dive: {}, strength: 0.5, wishes: [], reports: {}, checks: {}, lastCheck: 0, notes: {}, arch: {}, seenAt: {}, badImg: {}, badSrc: {}, night: "auto", nightFrom: 23, sleep: 0, big: false, briefEd: "", briefSeen: null, profile: { name: "", emoji: "🙂" }, saved: [], savedNews: {}, seen: [] };
   try { S = Object.assign(S, JSON.parse(localStorage.getItem("knowgram") || "{}")); } catch (e) {}
   for (const v of Object.values(S.rate)) if (!v.at) v.at = Date.now();   // Zeitstempel nachtragen (für das Abklingen alter Bewertungen)
   // Ältere Version: „liked“-Liste in Bewertungen (👍) überführen
@@ -13,13 +13,22 @@
     for (const id of S.liked) { const c = ALL.find((x) => x.id === id); if (c && !S.rate[id]) S.rate[id] = { r: 1, title: c.title, topic: c.topic, at: Date.now() }; }
     delete S.liked;
   }
-  const persist = () => { try { localStorage.setItem("knowgram", JSON.stringify(S)); } catch (e) {} };
+  // Sync-Hook: wird nach jeder Änderung angestoßen (mit Wartezeit), außer beim stillen Speichern
+  let onChange = null;
+  const settingsSig = () => JSON.stringify([S.profile, S.prefs, S.strength, S.night, S.nightFrom, S.sleep, S.big]);
+  let lastSig = settingsSig();
+  const persist = (quiet) => {
+    const sg = settingsSig();
+    if (sg !== lastSig) { S.settingsAt = Date.now(); lastSig = sg; }   // Einstellungen: „wer zuletzt ändert, gewinnt“ beim Sync
+    try { localStorage.setItem("knowgram", JSON.stringify(S)); } catch (e) {}
+    if (quiet !== true && onChange) onChange();
+  };
   const has = (k, id) => S[k].includes(id);
   const flip = (k, id) => { S[k] = has(k, id) ? S[k].filter((x) => x !== id) : [...S[k], id]; persist(); };
 
   const ratingOf = (id) => (S.rate[id] && S.rate[id].r) || 0;
   let mode = "feed", topic = "", lastId = null, finite = false;
-  let NEWS = [], OTD = [], IMG = {}, BRIEF = [], CARD_BY_ID = {}, STEMS = {}, SERIES = {}, briefPending = false, newsPtr = 0, hiddenAt = 0;
+  let NEWS = [], OTD = [], IMG = {}, BRIEF = [], RANK = [], CARD_BY_ID = {}, STEMS = {}, SERIES = {}, briefPending = false, newsPtr = 0, hiddenAt = 0;
   const SEEN = new Set(S.seen);
 
   const h = (tag, attrs = {}, ...kids) => {
@@ -50,6 +59,7 @@
       NEWS = (j.items || []).map((n) => ({ ...n, kind: "news" }))
         .sort((a, b) => new Date(b.published) - new Date(a.published));
       BRIEF = Array.isArray(j.briefing) ? j.briefing : [];
+      RANK = Array.isArray(j.ranked) && j.ranked.length ? j.ranked.map((x) => x.id) : BRIEF;
       return true;
     } catch (e) { return false; }
   };
@@ -83,10 +93,22 @@
   // --- Feed-Aufbau: Wissenskarten gemischt, jede 3. Karte eine aktuelle Meldung ---
   // Meldungen haben ein Verfallsdatum (je Quelle); Abgelaufenes und schon Gesehenes kommt nicht mehr in den Feed
   const isFresh = (n) => (n.expires ? Date.parse(n.expires) : Date.parse(n.published) + 7 * 864e5) > Date.now();
-  const briefItems = () => BRIEF.map((id) => NEWS.find((n) => n.id === id)).filter((n) => n && isFresh(n)).map((n, i, a) => ({ ...n, _b: { i: i + 1, n: a.length } }));
+  // Weltlage in drei Ausgaben: morgens (10 wichtigste), mittags (nur NEUES), abends (Tagesrückblick)
+  const ED = { morgen: { icon: "🌅", name: "Weltlage am Morgen", chip: "🌅 Weltlage", n: 10 }, mittag: { icon: "☀️", name: "Update am Mittag", chip: "☀️ Update", n: 5 }, abend: { icon: "🌙", name: "Tagesrückblick", chip: "🌙 Rückblick", n: 7 } };
+  const edition = () => { const hh = new Date().getHours(); return hh >= 5 && hh < 11 ? "morgen" : hh >= 11 && hh < 17 ? "mittag" : "abend"; };
+  const dayKey = () => new Date().toDateString();
+  const rankedFresh = () => RANK.map((id) => NEWS.find((n) => n.id === id)).filter((n) => n && isFresh(n));
+  const briefItems = (ed = edition(), forBlock = false) => {
+    let list = rankedFresh();
+    if (ed === "abend") list = list.filter((n) => Date.now() - Date.parse(n.published) < 30 * 36e5);                 // was heute (und gestern Abend) wichtig war
+    else if (ed === "mittag") { const done = (S.briefSeen && S.briefSeen.day === dayKey()) ? S.briefSeen.ids : []; list = list.filter((n) => !done.includes(n.id)); }   // nur Neues seit dem Morgen
+    list = list.slice(0, ED[ed].n);
+    if (ed === "mittag" && list.length < 2) return forBlock ? [] : briefItems("morgen");                              // zu wenig Neues: Block auslassen, Chip zeigt die Morgenlage
+    return list.map((n, i, a) => ({ ...n, _b: { i: i + 1, n: a.length, ed } }));
+  };
   const newsPool = () => {
     if (topic === "brief") return briefItems();
-    const skip = new Set(BRIEF);                              // Überblick-Meldungen kommen nicht zusätzlich im normalen Strom
+    const skip = new Set(RANK);                              // Überblick-Meldungen kommen nicht zusätzlich im normalen Strom
     return NEWS.filter(isFresh).filter((n) => !topic || topic === "news" || n.topic === topic)
       .filter((n) => topic === "news" || (!SEEN.has(n.id) && !skip.has(n.id)));
   };
@@ -229,8 +251,13 @@
     if (ck) out.splice(Math.min(12, out.length), 0, ck);
     if (briefPending) {                                       // einmal pro Tag: „Heute in der Welt“ vorne
       briefPending = false;
-      const b = briefItems();
-      if (b.length >= 3) { S.briefDay = new Date().toDateString(); persist(); out.unshift(...b); }
+      const b = briefItems(edition(), true);
+      if (b.length >= 2) {
+        S.briefEd = `${dayKey()}|${edition()}`;
+        if (!S.briefSeen || S.briefSeen.day !== dayKey()) S.briefSeen = { day: dayKey(), ids: [] };
+        S.briefSeen.ids = [...new Set([...S.briefSeen.ids, ...b.map((x) => x.id)])];
+        persist(); out.unshift(...b);
+      }
     }
     return out;
   };
@@ -368,15 +395,16 @@
 
   // Eigenes Cover als Rückfall (immer da) – deterministisch aus der Karten-ID, in Themenfarbe
   const hash = (str) => { let x = 2166136261; for (let i = 0; i < str.length; i++) { x ^= str.charCodeAt(i); x = Math.imul(x, 16777619); } return x >>> 0; };
-  const genCover = (id, color) => {
+  const genCover = (id, color, topicKey) => {
     let seed = hash(id); const r = () => { seed = (Math.imul(seed, 1664525) + 1013904223) >>> 0; return seed / 4294967296; };
     let shapes = "";
-    for (let i = 0; i < 7; i++) {
+    for (let i = 0; i < 4; i++) {
       const x = +(r() * 100).toFixed(1), y = +(r() * 60).toFixed(1), z = +(10 + r() * 38).toFixed(1), o = (0.07 + r() * 0.16).toFixed(2);
       shapes += r() < 0.5
         ? `<circle cx='${x}' cy='${y}' r='${z}' fill='white' fill-opacity='${o}'/>`
         : `<rect x='${+(x - z / 2).toFixed(1)}' y='${+(y - z / 2).toFixed(1)}' width='${z}' height='${z}' rx='${+(z * 0.3).toFixed(1)}' transform='rotate(${Math.round(r() * 90)} ${x} ${y})' fill='white' fill-opacity='${o}'/>`;
     }
+    shapes += (window.ART && (window.ART[topicKey] || window.ART._default)) || "";
     const svg = `<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' preserveAspectRatio='xMidYMid slice'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='${color}'/><stop offset='1' stop-color='#0b0d12'/></linearGradient></defs><rect width='100' height='100' fill='url(#g)'/>${shapes}</svg>`;
     return `url("data:image/svg+xml,${encodeURIComponent(svg)}")`;
   };
@@ -390,11 +418,12 @@
   };
   const coverEl = (c, t) => {
     const el = h("div", { class: "cover" });
-    el.style.backgroundImage = genCover(c.id, t.c);
+    el.style.backgroundImage = genCover(c.id, t.c, c.topic);
     const im = imgFor(c);
+    if (!im) el.dataset.illu = "1";
     if (im) {
       const img = h("img", { alt: "", loading: "lazy", decoding: "async", referrerpolicy: "no-referrer", src: safeUrl(im.u) });
-      img.addEventListener("error", () => img.remove());
+      img.addEventListener("error", () => { img.remove(); if (el.parentElement) el.parentElement.classList.add("illu"); });
       img.addEventListener("load", () => el.parentElement && el.parentElement.classList.add("has-img"));
       el.append(img);
     }
@@ -462,7 +491,7 @@
     const el = h("article", { class: "card", "data-id": c.id, style: `--c:${t.c}` },
       coverEl(c, t),
       h("div", { class: "big" }, news ? "📰" : c.kind === "otd" ? "📅" : t.emoji),
-      h("span", { class: "tag" }, c._b ? `🌍 Heute in der Welt · ${c._b.i}/${c._b.n}` : `${t.emoji} ${news ? "Aktuell · " : c.kind === "otd" ? "Heute · " : ""}${t.name}`,
+      h("span", { class: "tag" }, c._b ? `${ED[c._b.ed].icon} ${ED[c._b.ed].name} · ${c._b.i}/${c._b.n}` : `${t.emoji} ${news ? "Aktuell · " : c.kind === "otd" ? "Heute · " : ""}${t.name}`,
         ...(opts.thread ? [h("b", { class: "seriestag" }, `🕳️ Faden ${opts.thread.i}/${opts.thread.n}`)] : []),
         ...(c.series ? [h("b", { class: "seriestag" }, `📖 ${c.series} · Teil ${c.part}/${c.of}`)] : []), ...(fresh ? [h("b", { class: "new" }, "NEU")] : mode === "feed" && wasSeen ? [h("b", { class: "seenchip" }, S.seenAt[c.id] ? `✓ gesehen ${fmtAge(new Date(S.seenAt[c.id]).toISOString()).replace("vor ", "vor ")}` : "✓ gesehen")] : [])),
       h("h2", {}, c.title),
@@ -477,6 +506,7 @@
         h("button", { class: "b-note" + (S.notes[c.id] ? " on" : ""), "aria-label": "Notiz", onclick: () => openNote(c) }, "💬"),
         h("button", { class: "b-save" + (has("saved", c.id) ? " on" : ""), "aria-label": "Speichern", onclick: () => toggleSave(c) }, "🔖"),
         h("button", { "aria-label": "Teilen", onclick: () => share(c) }, "↗")));
+    if (!imgFor(c)) el.classList.add("illu");                  // ohne Foto: Illustration statt großem Emoji
     el.addEventListener("dblclick", () => rate(c, el, 1, true));
     seenObs.observe(el);
     return el;
@@ -497,7 +527,7 @@
     const batch = nextBatch();
     if (!batch.length) { if (!feed.children.length) feed.append(h("div", { class: "empty" }, topic === "news" || NEWS.length === 0 && !wissenPool().length ? "Noch keine Meldungen. Der Nachrichten-Abruf läuft alle paar Stunden." : "Hier ist noch nichts.")); return; }
     feed.append(...batch.map(cardEl));
-    if (finite) feed.append(h("div", { class: "end" }, topic === "brief" ? "Das war die Weltlage für heute ✅ – jetzt in Ruhe stöbern" : "Du bist auf dem neuesten Stand ✅"));
+    if (finite) feed.append(h("div", { class: "end" }, topic === "brief" ? `Das war die ${ED[edition()].name} ✅ – jetzt in Ruhe stöbern` : "Du bist auf dem neuesten Stand ✅"));
     watchSentinel();
   };
 
@@ -614,7 +644,7 @@
         seg([["Auto", "auto"], ["An", "on"], ["Aus", "off"]], S.night, (v) => { S.night = v; persist(); applyNight(); }),
         h("p", { class: "pf-note" }, "Auto ab"),
         seg([["20 Uhr", 20], ["21 Uhr", 21], ["22 Uhr", 22], ["23 Uhr", 23]], nightFrom(), (v) => { S.nightFrom = v; persist(); applyNight(); }),
-        h("p", { class: "pf-note" }, "Schlaf-Timer: Nach der Zeit erscheint „Gute Nacht“. Mit einem Tipp gibst du dir 10 Minuten mehr."),
+        h("p", { class: "pf-note" }, `Schlaf-Timer: läuft erst ab ${nightFrom()} Uhr (bis 6 Uhr). Danach erscheint nach der eingestellten Zeit „Gute Nacht“; mit einem Tipp gibst du dir 10 Minuten mehr.`),
         seg([["Aus", 0], ["20 Min", 20], ["40 Min", 40], ["60 Min", 60]], S.sleep, (v) => { S.sleep = v; persist(); startSleep(v); }),
         h("p", { class: "pf-note" }, "Schrift"),
         seg([["Normal", false], ["Groß", true]], !!S.big, (v) => { S.big = v; persist(); applyNight(); })),
@@ -632,18 +662,19 @@
         h("div", { class: "pf-list" }, ...Object.entries(S.reports).slice(-8).reverse().map(([id, v]) => h("div", { class: "it" },
           h("span", {}, `${(TOPICS[v.topic] || {}).emoji || "•"} ${v.title} – ${v.reason}`),
           h("button", { onclick: () => { delete S.reports[id]; persist(); render(); } }, "aufheben"))))),
+      sec("Sync zwischen Geräten", syncBox()),
       sec("Sichern & Übertragen",
         h("button", { class: "act", onclick: async () => toast((await copy(exportJson())) ? "Geschmack kopiert" : "Kopieren nicht möglich") }, "📋 Geschmack kopieren", h("small", {}, "Als Text, z. B. zum Sichern oder um ihn Claude zu zeigen")),
         box,
         h("button", { class: "act", onclick: () => { try { importJson(box.value); toast("Geschmack geladen"); render(); } catch (e) { toast("Das ist kein gültiger Export"); } } }, "📥 Einfügen & laden"),
-        h("button", { class: "act", onclick: () => { if (confirm("Wirklich alles zurücksetzen (Bewertungen, Gespeichertes, Profil)?")) { S = { rate: {}, prefs: {}, dive: {}, strength: 0.5, wishes: [], reports: {}, checks: {}, lastCheck: 0, notes: {}, arch: {}, seenAt: {}, badImg: {}, badSrc: {}, night: "auto", nightFrom: 23, sleep: 0, big: false, briefDay: "", profile: { name: "", emoji: "🙂" }, saved: [], savedNews: {}, seen: [] }; SEEN.clear(); persist(); render(); } } }, "🗑️ Alles zurücksetzen")));
+        h("button", { class: "act", onclick: () => { if (confirm("Wirklich alles zurücksetzen (Bewertungen, Gespeichertes, Profil)?")) { S = { rate: {}, prefs: {}, dive: {}, strength: 0.5, wishes: [], reports: {}, checks: {}, lastCheck: 0, notes: {}, arch: {}, seenAt: {}, badImg: {}, badSrc: {}, night: "auto", nightFrom: 23, sleep: 0, big: false, briefEd: "", briefSeen: null, profile: { name: "", emoji: "🙂" }, saved: [], savedNews: {}, seen: [] }; SEEN.clear(); persist(); render(); } } }, "🗑️ Alles zurücksetzen")));
   };
 
   const render = () => {
     obs && obs.disconnect();
     feed.replaceChildren(); feed.scrollTop = 0; newsPtr = 0;
     $("#app").dataset.mode = mode;
-    briefPending = mode === "feed" && !topic && S.briefDay !== new Date().toDateString();
+    briefPending = mode === "feed" && !topic && S.briefEd !== `${dayKey()}|${edition()}`;
     if (mode === "profile") { feed.append(renderProfile()); return; }
     if (mode === "saved") {
       const list = [...ALL.filter((c) => has("saved", c.id)), ...Object.values(S.savedNews)]
@@ -662,20 +693,30 @@
     r.dataset.night = nightOn() ? "1" : ""; r.dataset.big = S.big ? "1" : "";
     moon.classList.toggle("on", nightOn());
   };
-  let sleepT, sleepTick, sleepEnd = 0;
-  const updateMoon = () => { const left = sleepEnd ? Math.max(0, Math.ceil((sleepEnd - Date.now()) / 60000)) : 0; moon.textContent = left ? `🌙 ${left}′` : "🌙"; };
+  let sleepT, sleepTick, sleepGate, sleepEnd = 0;
+  const inNight = () => { const hh = new Date().getHours(); return hh >= nightFrom() || hh < 6; };
+  const updateMoon = () => {
+    const left = sleepEnd ? Math.max(0, Math.ceil((sleepEnd - Date.now()) / 60000)) : 0;
+    moon.textContent = left ? `🌙 ${left}′` : S.sleep > 0 ? `🌙 ab ${nightFrom()}` : "🌙";   // „ab 23“ = Timer wartet auf die Uhrzeit
+  };
   const showGoodnight = () => {
     if ($("#goodnight")) return;
     const g = h("div", { id: "goodnight", class: "gn" },
       h("div", { class: "gn-moon" }, "🌙"), h("h2", {}, "Gute Nacht"),
       h("p", {}, "Genug für heute – der Rest wartet morgen auf dich."),
-      h("button", { class: "act", onclick: () => { g.remove(); startSleep(10); } }, "Noch 10 Minuten"),
+      h("button", { class: "act", onclick: () => { g.remove(); startSleep(10, true); } }, "Noch 10 Minuten"),
       h("button", { class: "gn-off", onclick: () => { g.remove(); S.sleep = 0; persist(); startSleep(0); } }, "Timer ausschalten"));
     $("#app").append(g);
   };
-  const startSleep = (min) => {
-    clearTimeout(sleepT); clearInterval(sleepTick); sleepEnd = 0;
-    if (min > 0) { sleepEnd = Date.now() + min * 60000; sleepT = setTimeout(showGoodnight, min * 60000); sleepTick = setInterval(updateMoon, 20000); }
+  // Der Timer ist erst in der Nacht-Zeit (Standard ab 23 Uhr) aktiv: davor wartet er, ab dann läuft die eingestellte Zeit
+  const startSleep = (min, force) => {
+    clearTimeout(sleepT); clearInterval(sleepTick); clearInterval(sleepGate); sleepEnd = 0;
+    const arm = () => { sleepEnd = Date.now() + min * 60000; sleepT = setTimeout(showGoodnight, min * 60000); updateMoon(); };
+    if (min > 0) {
+      if (force || inNight()) arm();
+      else sleepGate = setInterval(() => { if (inNight()) { clearInterval(sleepGate); arm(); } }, 30000);
+      sleepTick = setInterval(updateMoon, 20000);
+    }
     updateMoon();
   };
   moon.addEventListener("click", () => {
@@ -684,10 +725,112 @@
   });
   setInterval(applyNight, 5 * 60000);
 
+  // --- Sync zwischen Geräten (Supabase, ohne Konto: der Sync-Code ist das Geheimnis) ---
+  const CFG = window.KG_CONFIG || {}, CODE_KEY = "knowgram_code", DYN = /^n[0-9a-f]{10}$|^otd\d/;
+  const syncReady = () => !!(CFG.url && CFG.key);
+  const getCode = () => { try { return localStorage.getItem(CODE_KEY) || ""; } catch (e) { return ""; } };
+  const setCode = (c) => { try { if (c) localStorage.setItem(CODE_KEY, c); else localStorage.removeItem(CODE_KEY); } catch (e) {} };
+  const ALPHA = "ABCDEFGHJKLMNPQRSTUVWXYZ23456789";                     // 32 Zeichen, ohne verwechselbare (0/O, 1/I)
+  const newCode = () => Array.from(crypto.getRandomValues(new Uint8Array(24)), (b) => ALPHA[b % 32]).join("");   // 24 × 5 Bit = 120 Bit
+  const normCode = (t) => String(t || "").toUpperCase().split("").filter((ch) => ALPHA.includes(ch)).join("");
+  const fmtCode = (c) => c.match(/.{1,4}/g).join("-");
+  const rpc = async (fn, args) => {
+    const r = await fetch(`${CFG.url}/rest/v1/rpc/${fn}`, { method: "POST", headers: { "Content-Type": "application/json", apikey: CFG.key }, body: JSON.stringify(args) });
+    if (!r.ok) throw new Error(`${fn} ${r.status}`);
+    return r.json();
+  };
+  const canon = (v) => Array.isArray(v) ? v.map(canon) : v && typeof v === "object" ? Object.fromEntries(Object.keys(v).sort().map((k) => [k, canon(v[k])])) : v;
+  const SHARED = ["rate", "notes", "reports", "checks", "arch", "badImg", "badSrc", "dive", "seenAt", "seen", "saved", "savedNews", "wishes", "prefs", "profile", "strength", "night", "nightFrom", "sleep", "big", "settingsAt"];
+  const packState = () => Object.fromEntries(SHARED.map((k) => [k, S[k]]));
+  const newer = (a, b) => (((a && a.at) || 0) >= ((b && b.at) || 0) ? a : b);
+  const mergeMaps = (a = {}, b = {}) => { const o = { ...a }; for (const [k, v] of Object.entries(b)) o[k] = k in o ? newer(o[k], v) : v; return o; };
+  const maxMaps = (a = {}, b = {}) => { const o = { ...a }; for (const [k, v] of Object.entries(b)) o[k] = Math.max(o[k] || 0, v || 0); return o; };
+  // Zusammenführen: Hinzugefügtes bleibt erhalten, bei Widerspruch gewinnt der neuere Eintrag; Einstellungen als Ganzes die neuere Seite.
+  // (Gelöschtes wird nicht überall gelöscht – dafür geht nichts verloren.)
+  const mergeStates = (L, R) => {
+    const M = {};
+    M.rate = mergeMaps(L.rate, R.rate);
+    for (const [id, v] of Object.entries(M.rate)) if (DYN.test(id) && Date.now() - ((v && v.at) || 0) > 30 * 864e5) delete M.rate[id];   // alte Meldungs-Bewertungen sind schon verdichtet
+    M.notes = mergeMaps(L.notes, R.notes); M.reports = mergeMaps(L.reports, R.reports);
+    M.checks = mergeMaps(L.checks, R.checks); M.arch = mergeMaps(L.arch, R.arch);
+    M.badImg = { ...(R.badImg || {}), ...(L.badImg || {}) };
+    M.badSrc = maxMaps(L.badSrc, R.badSrc); M.dive = maxMaps(L.dive, R.dive); M.seenAt = maxMaps(L.seenAt, R.seenAt);
+    M.seen = [...new Set([...(R.seen || []), ...(L.seen || [])])].slice(-3000);
+    M.saved = [...new Set([...(R.saved || []), ...(L.saved || [])])];
+    M.savedNews = { ...(R.savedNews || {}), ...(L.savedNews || {}) };
+    const wl = {}; for (const w of [...(R.wishes || []), ...(L.wishes || [])]) if (w && w.t) wl[w.t] = wl[w.t] ? newer(wl[w.t], w) : w;
+    M.wishes = Object.values(wl).slice(0, 30);
+    const useR = (R.settingsAt || 0) > (L.settingsAt || 0), src = useR ? R : L, alt = useR ? L : R;
+    for (const k of ["prefs", "profile", "strength", "night", "nightFrom", "sleep", "big"]) M[k] = src[k] !== undefined ? src[k] : alt[k];
+    M.settingsAt = Math.max(L.settingsAt || 0, R.settingsAt || 0);
+    return M;
+  };
+  let syncBusy = false, syncTimer = 0, applying = false, syncMsg = "";
+  const applyMerged = (M) => {
+    applying = true;
+    for (const k of SHARED) if (M[k] !== undefined) S[k] = M[k];
+    SEEN.clear(); S.seen.forEach((id) => SEEN.add(id));
+    lastSig = settingsSig(); persist(true); applying = false;
+    if (typeof applyNight === "function") { applyNight(); startSleep(S.sleep); }
+  };
+  const syncNow = async (manual) => {
+    const code = getCode();
+    if (!code || !syncReady() || syncBusy) return;
+    syncBusy = true;
+    try {
+      const remote = await rpc("kg_get", { code });
+      const before = JSON.stringify(canon(packState()));
+      if (remote && remote.state) applyMerged(mergeStates(packState(), remote.state));
+      const body = packState();
+      if (!remote || !remote.state || JSON.stringify(canon(remote.state)) !== JSON.stringify(canon(body))) await rpc("kg_put", { code, new_state: body });
+      S.syncAt = Date.now(); syncMsg = ""; persist(true);
+      if (manual) toast("Synchronisiert");
+      if (mode === "profile" && before !== JSON.stringify(canon(packState()))) render();     // Profil neu zeichnen, wenn sich etwas geändert hat
+    } catch (e) { syncMsg = "Sync fehlgeschlagen – ich versuche es später erneut"; if (manual) toast(syncMsg); }
+    finally { syncBusy = false; }
+  };
+  onChange = () => { if (applying || !getCode() || !syncReady()) return; clearTimeout(syncTimer); syncTimer = setTimeout(() => syncNow(false), 8000); };
+
+  const syncBox = () => {
+    const box = h("div");
+    const draw = () => {
+      const code = getCode(); let shown = false;
+      const kids = [];
+      if (!syncReady()) kids.push(h("p", { class: "pf-note" }, "Sync ist noch nicht eingerichtet."));
+      else if (!code) {
+        const inp = h("input", { placeholder: "Code von deinem anderen Gerät", autocomplete: "off", autocapitalize: "characters" });
+        kids.push(
+          h("p", { class: "pf-note" }, "Ohne Konto und E-Mail: Ein geheimer Sync-Code verbindet deine Geräte. Ein Gerät erzeugt ihn, die anderen geben ihn einmal ein."),
+          h("button", { class: "act", onclick: () => { setCode(newCode()); syncNow(true); draw(); } }, "🔑 Sync einschalten", h("small", {}, "Erzeugt einen neuen Sync-Code")),
+          inp,
+          h("button", { class: "act", onclick: async () => {
+            const c = normCode(inp.value);
+            if (c.length !== 24) return toast("Der Code hat 24 Zeichen");
+            try { const r = await rpc("kg_get", { code: c }); if (!r || !r.state) return toast("Diesen Code kenne ich nicht – Tippfehler?"); }
+            catch (e) { return toast("Keine Verbindung zum Sync-Server"); }
+            setCode(c); await syncNow(true); render();
+          } }, "🔗 Mit Code verbinden", h("small", {}, "Lädt deine Daten von dort und führt sie zusammen")));
+      } else {
+        const codeEl = h("code", { class: "synccode" }, "••••-••••-••••-••••-••••-••••");
+        kids.push(
+          h("p", { class: "pf-note" }, "Sync ist an. Dein Code ist der Schlüssel zu deinen Daten – bewahre ihn sicher auf (z. B. im Passwortmanager). Ohne ihn kannst du die Daten nicht wiederherstellen; wer ihn kennt, kann sie lesen."),
+          codeEl,
+          h("div", { class: "segs" },
+            h("button", { class: "seg", onclick: () => { shown = !shown; codeEl.textContent = shown ? fmtCode(code) : "••••-••••-••••-••••-••••-••••"; } }, "Anzeigen"),
+            h("button", { class: "seg", onclick: async () => toast((await copy(fmtCode(code))) ? "Code kopiert" : "Kopieren nicht möglich") }, "Kopieren")),
+          h("button", { class: "act", onclick: async () => { await syncNow(true); draw(); } }, "🔄 Jetzt synchronisieren", h("small", {}, S.syncAt ? `Zuletzt: ${new Date(S.syncAt).toLocaleTimeString("de-DE", { hour: "2-digit", minute: "2-digit" })}${syncMsg ? " · " + syncMsg : ""}` : syncMsg || "Noch nicht synchronisiert")),
+          h("button", { class: "act", onclick: () => { if (confirm("Sync auf diesem Gerät beenden? Deine Daten bleiben hier und auf dem Server erhalten.")) { setCode(""); draw(); } } }, "Sync auf diesem Gerät beenden"));
+      }
+      box.replaceChildren(...kids);
+    };
+    draw();
+    return box;
+  };
+
   // --- Kopfbereich ---
   const drawChips = () => {
     const chip = (k, label, color) => h("button", { class: "chip" + (topic === k ? " on" : ""), "data-t": k, style: color ? `--c:${color}` : "", onclick: () => { topic = k; drawChips(); render(); } }, label);
-    chips.replaceChildren(chip("", "Alle"), ...(briefItems().length >= 3 ? [chip("brief", "🌍 Heute", "#2563eb")] : []), chip("news", "📰 Aktuell", "#e11d48"),
+    chips.replaceChildren(chip("", "Alle"), ...(briefItems().length >= 2 ? [chip("brief", ED[edition()].chip, "#2563eb")] : []), chip("news", "📰 Aktuell", "#e11d48"),
       ...Object.entries(TOPICS).filter(([k]) => ALL.some((c) => c.topic === k) || NEWS.some((n) => n.topic === k))
         .map(([k, t]) => chip(k, `${t.emoji} ${t.name}`, t.c)));
   };
@@ -700,10 +843,12 @@
   // Beim Zurückkehren in die App nach längerer Pause: Nachrichten neu laden
   document.addEventListener("visibilitychange", async () => {
     if (document.hidden) { hiddenAt = Date.now(); return; }
+    if (hiddenAt && Date.now() - hiddenAt > 2 * 60000) syncNow(false);
     if (hiddenAt && Date.now() - hiddenAt > 15 * 60000 && (await loadNews())) { indexMeta(); drawChips(); toast("Nachrichten aktualisiert"); }
   });
 
   applyNight(); startSleep(S.sleep);
+  setTimeout(() => syncNow(false), 1500);          // beim Start abgleichen (falls Sync an)
   (async () => { await Promise.all([loadNews(), loadOtd(), loadImages()]); indexMeta(); compact(); drawChips(); render(); })();
   if ("serviceWorker" in navigator && location.protocol.startsWith("http")) navigator.serviceWorker.register("sw.js").catch(() => {});
 })();

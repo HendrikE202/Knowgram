@@ -1,6 +1,6 @@
 {
   "max_age_days": 7,
-  "max_items_total": 80,
+  "max_items_total": 120,
   "feeds": [
     {
       "id": "ts-inland",
@@ -8,7 +8,7 @@
       "source": "Tagesschau",
       "type": "Öffentlich-rechtlich",
       "topic": "politik",
-      "max": 4,
+      "max": 8,
       "ttl_days": 3
     },
     {
@@ -17,7 +17,7 @@
       "source": "Tagesschau",
       "type": "Öffentlich-rechtlich",
       "topic": "welt",
-      "max": 4,
+      "max": 8,
       "ttl_days": 3
     },
     {
@@ -26,7 +26,7 @@
       "source": "Tagesschau",
       "type": "Öffentlich-rechtlich",
       "topic": "wirtschaft",
-      "max": 3,
+      "max": 6,
       "ttl_days": 3
     },
     {
@@ -44,7 +44,7 @@
       "source": "Deutschlandfunk",
       "type": "Öffentlich-rechtlich",
       "topic": "politik",
-      "max": 3,
+      "max": 6,
       "ttl_days": 2
     },
     {
@@ -53,7 +53,7 @@
       "source": "Deutsche Welle",
       "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
       "topic": "welt",
-      "max": 3,
+      "max": 6,
       "ttl_days": 4
     },
     {

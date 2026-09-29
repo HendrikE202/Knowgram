@@ -120,7 +120,7 @@ HARD = re.compile(r"krieg|angriff|regierung|minister|kanzler|präsident|wahl|ger
 PRIO = ["Tagesschau", "Deutschlandfunk", "Deutsche Welle", "hessenschau (hr)"]
 
 
-def build_briefing(items, now, size=10):
+def build_briefing(items, now, size=10, ranked_size=25):
     """„Heute in der Welt“: die wichtigsten Ereignisse – Wichtigkeit = von wie vielen Quellen berichtet, dazu Frische."""
     groups = cluster(items)
     scored = []
@@ -134,14 +134,18 @@ def build_briefing(items, now, size=10):
         age_h = (now - parse_date(rep["published"])).total_seconds() / 3600
         scored.append((10 * srcs + max(0.0, 24 - age_h) / 24 * 6 + (2 if rep.get("img") else 0) + (5 if HARD.search(rep["title"]) else 0), rep))
     scored.sort(key=lambda x: -x[0])
-    out, per_topic, per_source = [], Counter(), Counter()
-    for _, n in scored:
-        if per_topic[n["topic"]] >= 4 or per_source[n["source"]] >= 5:
+    # Rangliste für die drei Ausgaben am Tag (morgens/mittags/abends): gleiche Ausgewogenheit, aber länger
+    out, ranked, per_topic, per_source = [], [], Counter(), Counter()
+    for score, n in scored:
+        limit_t, limit_s = (4, 5) if len(ranked) < size else (7, 9)
+        if per_topic[n["topic"]] >= limit_t or per_source[n["source"]] >= limit_s:
             continue
-        out.append(n["id"]); per_topic[n["topic"]] += 1; per_source[n["source"]] += 1
-        if len(out) >= size:
+        ranked.append({"id": n["id"], "s": round(score, 1)}); per_topic[n["topic"]] += 1; per_source[n["source"]] += 1
+        if len(ranked) <= size:
+            out.append(n["id"])
+        if len(ranked) >= ranked_size:
             break
-    return out
+    return out, ranked
 
 
 def find_image(it):
@@ -238,8 +242,8 @@ def main():
         print("Kein Feed erreichbar – news.json bleibt unverändert.", file=sys.stderr)
         return 1
     fresh = drop_generic_images(fresh)
-    briefing = build_briefing(fresh, now)
-    out_path.write_text(json.dumps({"generated": now.isoformat(), "briefing": briefing, "items": fresh}, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    briefing, ranked = build_briefing(fresh, now)
+    out_path.write_text(json.dumps({"generated": now.isoformat(), "briefing": briefing, "ranked": ranked, "items": fresh}, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     print(f"{len(fresh)} Meldungen geschrieben ({ok} Feeds ok, {failed} fehlgeschlagen), Überblick: {len(briefing)} Ereignisse, Bilder: {sum(1 for n in fresh if n.get('img'))}")
     return 0
 

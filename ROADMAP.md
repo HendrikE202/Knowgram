@@ -34,14 +34,14 @@
 - [ ] Repo `Knowgram` auf **privat** stellen, falls gewünscht (Settings → General → Danger Zone; Pages braucht dann ein bezahltes Konto oder einen anderen Dienst)
 
 ## 2) Entscheidungen von dir
-- [ ] **Schlaf-Timer:** Soll er erst ab 23 Uhr aktiv werden (vorher frei scrollen), oder wie jetzt jederzeit?
-- [ ] **Anmeldung:** nur lokal + Export / **Sync-Code** ohne E-Mail (mein Vorschlag) / E-Mail-Login
-- [ ] **Weltlage:** Zeitpunkt (morgens/abends) und ob eine **Abend-Zusammenfassung** („Das war heute wichtig“) gewünscht ist
-- [ ] **Illustrationen:** einfache SVG-Grafiken von Claude oder externer Bild-Dienst (Kosten)?
+- ~~Schlaf-Timer~~ → entschieden und umgesetzt: aktiv erst ab 23 Uhr (folgt der Abendmodus-Zeit).
+- ~~Anmeldung~~ → entschieden: Sync-Code ohne E-Mail (umgesetzt).
+- ~~Weltlage~~ → entschieden und umgesetzt: drei Ausgaben (morgens 10, mittags nur Neues, abends Tagesrückblick).
+- ~~Illustrationen~~ → entschieden: eigene SVG-Grafiken (kostenlos) für Karten ohne Foto, umgesetzt; zusätzlich Bilder aus dem Netz (Wikimedia + Openverse).
 
 ## 3) Für Claude – nach Priorität
 ### Bald (Kern der Vision)
-- [ ] **Supabase-Anbindung** (sobald URL + Schlüssel da sind): Tabellen mit Row Level Security, lokal-zuerst + Sync, Migration des lokalen Profils, Aufbewahrungsregeln serverseitig, täglicher Ping gegen Pausierung, Lesezugriff der Routine auf Geschmack/Notizen/Wünsche/Meldungen (eingeschränkter Schlüssel als Routine-Geheimnis)
+- [x] **Supabase-Sync ohne Konto** (Sync-Code): Tabelle `kg_state` (gesperrt) + Funktionen `kg_get`/`kg_put`/`kg_summary`, App-Sync mit Zusammenführen, Profil → „Sync zwischen Geräten“. **Offen:** Sync am Handy einschalten und Code sicher aufbewahren; Routine bekommt `KNOWGRAM_SYNC_CODE` und darf `*.supabase.co` erreichen; täglicher Ping gegen die Pausierung des kostenlosen Projekts (der Sync selbst hält es meist wach)
 - [ ] **Einordnungskarte „Warum ist das wichtig?“** zu den Top-Meldungen (KI-Einordnung, gekennzeichnet, mit Quellenlinks; Routine oder API)
 - [ ] **Gezielte Verknüpfungen:** Routine schreibt `more`-Verweise und regelmäßig neue Serien (Anweisung steht), Ergebnisse prüfen
 - [ ] **Vom Ereignis zum Hintergrund:** Meldung → verlinkte Hintergrundkarte („Wie kam es dazu?“)

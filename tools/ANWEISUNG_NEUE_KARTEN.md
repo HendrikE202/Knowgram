@@ -27,6 +27,20 @@ Hendrik will abends in Rabbit Holes fallen. Deshalb gilt:
 - Reihenfolge der Felder: `id, topic, title, q, series, part, of, more, text` (nur die nötigen).
 - Gesamtzahl bleibt 10 Karten pro Lauf (eine Serie zählt mit ihren Teilen).
 
+## Geschmack und Wünsche berücksichtigen (optional)
+Nur wenn die Umgebungsvariable `KNOWGRAM_SYNC_CODE` gesetzt ist (der geheime Sync-Code von Hendrik – niemals ausgeben, loggen oder ins Repo schreiben):
+```
+curl -s -X POST "https://apipudwplhilusdqyemx.supabase.co/rest/v1/rpc/kg_summary" \
+  -H "apikey: sb_publishable_0QNoSsrwGFtS1BV2ZdkQUA_7-rfuwQI" -H "Content-Type: application/json" \
+  -d "{\"code\":\"$KNOWGRAM_SYNC_CODE\"}"
+```
+Die Antwort enthält: `ratings` (👍 `r:1` / 👎 `r:-1` mit Titel und Thema), `prefs` (Lieblingsthemen `1`, „weniger“ `-1`), `checks` (Antworten auf „Öfter/Wie bisher/Seltener“), `wishes` (Themenwünsche), `notes` (freie Notizen zu Karten), `reports` (gemeldete Karten mit Grund) und `arch` (verdichtete ältere Bewertungen). Schlägt der Aufruf fehl (Netz gesperrt, Variable fehlt), einfach ohne diese Infos weitermachen.
+So verwenden:
+- **Themenwünsche** (`wishes`) ernst nehmen: pro Lauf höchstens 2 Karten zu einem Wunsch, gern als Anfang einer Serie.
+- **Notizen** (`notes`) lesen: sie zeigen, was gefällt oder stört; daraus Tonfall, Länge und Themen ableiten.
+- **Gemeldete Karten** (`reports`): Karte in `cards.js` prüfen. „Sachlich falsch/veraltet“ → korrigieren oder streichen; „einseitig“ → ausgewogener formulieren. Erledigte Fälle in der Antwort erwähnen.
+- **Geschmack** (`ratings`, `prefs`, `checks`) nur als leichte Gewichtung: höchstens 3 der 10 Karten dürfen sich danach richten. Die übrigen gehen weiter an die Themen mit den wenigsten Karten. Nie ein Thema komplett weglassen (keine Filterblase).
+
 ## Qualität (wichtig – es gibt keine automatische Faktenprüfung)
 - Schreibe nur Fakten, bei denen du dir sicher bist. Im Zweifel eine andere Karte wählen.
 - Umstrittenes oder unsichere Zahlen ausdrücklich so benennen („Schätzungen zufolge“, „umstritten“).

@@ -98,3 +98,7 @@ html[data-big="1"] .card h2{font-size:1.9rem}
 .more.alt{background:transparent}
 .seriestag{margin-left:8px;background:#ffffff26;border-radius:6px;padding:0 6px;font-size:.68rem;font-weight:600}
 .also{font-size:.76rem;color:#c5cad6}.also a{color:#a5b4fc}
+
+.card.illu>.big{display:none}
+
+.synccode{display:block;text-align:center;font:600 1rem/1.4 ui-monospace,Menlo,Consolas,monospace;background:var(--panel);border:1px dashed var(--line);border-radius:10px;padding:12px;margin:8px 0;letter-spacing:.5px;word-break:break-all}

@@ -40,6 +40,16 @@ Installation als PWA später per HTTPS hosten).
 - **Bildfilter (Meldungen):** Logos, Zählpixel, Werbung, Stockfotos und mehrfach verwendete Bilder werden verworfen.
 - **Abendmodus** (Mond oben, Auto standardmäßig 23–6 Uhr, einstellbar), **Schlaf-Timer** und größere Schrift: Profil → „Abend & Schlaf“.
 
+## Sync zwischen Geräten (Supabase, ohne Konto)
+- Profil → „Sync zwischen Geräten“ → „Sync einschalten“ erzeugt einen geheimen **Sync-Code** (24 Zeichen). Auf dem zweiten Gerät „Mit Code verbinden“. Der Code ist der Schlüssel zu deinen Daten – sicher aufbewahren; er wird nirgends im Repo gespeichert.
+- Serverseitig (`supabase/schema.sql`): Tabelle `kg_state` ohne direkten Zugriff, nur die Funktionen `kg_get`, `kg_put`, `kg_summary` (verlangen den Code; gespeichert wird nur sein SHA-256-Hash; max. 20 Codes, 2 MB je Datensatz). `config.js` enthält nur URL und *publishable key* (darf öffentlich sein).
+- Zusammenführen: Hinzugefügtes bleibt erhalten, bei Widerspruch gewinnt der neuere Eintrag, Einstellungen als Ganzes die neuere Seite. Gelöschtes wird nicht überall gelöscht (dafür geht nichts verloren).
+- Die Routine kann mit `KNOWGRAM_SYNC_CODE` (Umgebungsvariable) über `kg_summary` Geschmack, Notizen, Wünsche und Meldungen lesen.
+
+## Weltlage in drei Ausgaben, Illustrationen
+- **🌅 Morgens** (5–11 Uhr): die 10 wichtigsten Ereignisse; **☀️ Mittags** (11–17): nur Neues seit dem Morgen; **🌙 Abends** (ab 17): Tagesrückblick der 7 wichtigsten. Je Ausgabe einmal pro Tag vorn im Feed, der Chip oben zeigt die aktuelle Ausgabe.
+- Karten ohne passendes Foto zeigen eine **eigene Illustration** je Thema (`art.js`, flache Motive auf dem Themenfarbverlauf). Bildquellen für Fotos: Wikipedia-Artikelbild → Commons-Dateisuche → Openverse (jeweils mit Relevanzprüfung).
+
 ## Feed sauber halten
 - Meldungen haben ein Verfallsdatum je Quelle (`ttl_days` in `feeds.json`, z. B. Nachrichten 2–4 Tage, Wissenschaft 14) und verschwinden dann aus `news.json` und dem Feed. Schon gesehene Meldungen kommen nicht wieder.
 - Schon gesehene Karten tragen „✓ gesehen“ und kommen erst nach und nach wieder (Abklingzeit ~7 Tage). Karten mit 👎 oder Meldung kommen nicht wieder.

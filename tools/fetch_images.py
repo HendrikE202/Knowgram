@@ -18,6 +18,7 @@ ROOT = Path(__file__).resolve().parent.parent
 UA = "Knowgram/1.0 (https://github.com/HendrikE202/Knowgram; persoenliche Lern-App, wenige Anfragen) python-urllib/3"
 WIKI = os.environ.get("WIKI_BASE", "https://de.wikipedia.org")
 COMMONS = os.environ.get("COMMONS_BASE", "https://commons.wikimedia.org")
+OPENVERSE = os.environ.get("OPENVERSE_BASE", "https://api.openverse.org")   # frei nutzbare Bilder aus dem Netz (u. a. Flickr, Wikimedia); leer = aus
 DELAY = float(os.environ.get("IMG_DELAY", "2.0"))        # Pause zwischen Anfragen (Wikimedia bittet um Zurückhaltung)
 MAX_PER_RUN = int(os.environ.get("IMG_MAX", "40"))       # pro Lauf höchstens so viele Karten; der Rest folgt beim nächsten Lauf
 OK_LICENSE = re.compile(r"^(CC0|CC[ -]BY(?![ -]?NC)(?![ -]?ND)|Public domain|PD|gemeinfrei)", re.I)
@@ -125,6 +126,26 @@ def find(q, title):
     return best
 
 
+def find_openverse(q, title):
+    """Letzter Versuch: Openverse (Suchmaschine für frei lizenzierte Bilder). Gleiche Relevanzprüfung wie bei Commons."""
+    if not OPENVERSE:
+        return None
+    want = stems(q + " " + title)
+    d = get(f"{OPENVERSE}/v1/images/?q={urllib.parse.quote(q)}&page_size=12&mature=false&category=photograph,illustration,digitized_artwork")
+    best, best_key = None, None
+    for r in d.get("results") or []:
+        url, w, h = r.get("url") or "", r.get("width") or 0, r.get("height") or 0
+        name = (r.get("title") or "") + " " + " ".join(t.get("name", "") for t in (r.get("tags") or []))
+        if not url.startswith("https://") or BAD_FILE.search(url + " " + (r.get("title") or "")) or (w and w < 800) or (w and h and not (0.55 <= w / h <= 2.4)):
+            continue
+        hits = len(want & stems(name))
+        if hits >= (1 if len(want) <= 2 else 2) and (best_key is None or (hits, w) > best_key):
+            lic = (r.get("license") or "").upper() + (" " + r["license_version"] if r.get("license_version") else "")
+            best, best_key = {"u": url, "by": strip(r.get("creator")) or "Unbekannt", "lic": lic.strip() or "CC",
+                              "desc": strip(r.get("title"), 110), "page": r.get("foreign_landing_url") or url, "art": "Openverse"}, (hits, w)
+    return best
+
+
 def main():
     refresh = "--refresh" in sys.argv
     out_path = ROOT / "images.json"
@@ -158,7 +179,7 @@ def main():
                     r = entry(ov, ii.get("thumburl") or ii.get("url"), m) if ii and OK_LICENSE.match(m["lic"]) else None
                 images[cid] = {**r, "ov": ov} if r else {"none": True, "ov": ov}
             else:
-                r = find(q, title)
+                r = find(q, title) or find_openverse(q, title)
                 images[cid] = r if r else {"none": True}       # „kein Bild“ merken, damit wir nicht ständig neu suchen
             found += bool(r); missed += not r
         except RateLimited:
