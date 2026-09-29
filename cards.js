@@ -37,6 +37,7 @@ window.CARDS = [
   { id: "ge1", topic: "geschichte", title: "Der Frieden, der Staaten erfand", q: "Westfälischer Friede 1648",
     series: "Der Dreißigjährige Krieg", part: 5, of: 5,
     points: ["1648: Verträge von Münster und Osnabrück beenden den Dreißigjährigen Krieg", "Kernidee: Jeder Herrscher bestimmt im eigenen Gebiet, andere mischen sich nicht ein", "Grundlage des Prinzips souveräner Staaten und des heutigen Völkerrechts"],
+    slides: [{"h": "🧩 Was geregelt wurde", "text": "Der Friede regelte auch die Konfessionsfrage: Katholiken, Lutheraner und Reformierte wurden im Reich rechtlich anerkannt. Frankreich und Schweden gewannen Einfluss und Gebiete; die Reichsstände erhielten mehr Eigenständigkeit gegenüber dem Kaiser."}, {"h": "❓ Häufiges Missverständnis", "text": "„Westfälische Souveränität“ wird oft als plötzliche Erfindung des modernen Staats erzählt. Historiker sehen den Frieden eher als wichtigen Schritt in einer längeren Entwicklung."}],
     text: "1648 beendeten die Verträge von Münster und Osnabrück den Dreißigjährigen Krieg. Sie gelten als Geburtsstunde des Prinzips souveräner Staaten: Jeder Herrscher bestimmt im eigenen Gebiet, andere mischen sich nicht ein. Die Grundidee prägt das Völkerrecht bis heute." },
   { id: "ge2", topic: "geschichte", title: "Ein Stein, der Hieroglyphen knackte", q: "Stein von Rosette Champollion",
     points: ["Fund 1799 durch französische Soldaten in Ägypten", "Derselbe Text in drei Schriften: Hieroglyphen, Demotisch, Altgriechisch", "Weil man Griechisch las, entzifferte Champollion 1822 die Hieroglyphen"],
@@ -48,6 +49,7 @@ window.CARDS = [
   // Physik
   { id: "ph1", topic: "physik", title: "Ein Teilchen, zwei Spalten, ein Rätsel", q: "Doppelspaltexperiment",
     points: ["Einzelne Elektronen durch zwei Spalte ergeben nach und nach ein Interferenzmuster", "Misst man den gewählten Spalt, verschwindet das Muster", "Zeigt den Welle-Teilchen-Dualismus"],
+    slides: [{"h": "🧩 Was dahinter steckt", "text": "Ein Elektron ist weder „nur Welle“ noch „nur Teilchen“: Es trifft punktförmig auf dem Schirm auf, doch die Trefferverteilung folgt einer Wellenrechnung. Die Quantenmechanik beschreibt diese Wahrscheinlichkeiten sehr genau – wie man das Bild deuten soll, ist bis heute Streitfrage."}, {"h": "❓ Häufiges Missverständnis", "text": "„Das Bewusstsein des Beobachters verändert das Ergebnis“ stimmt so nicht. Entscheidend ist, dass die Messung physikalisch mit dem Elektron wechselwirkt – ein Mensch muss dafür nicht hinsehen."}],
     text: "Schickt man Elektronen einzeln durch einen Doppelspalt, entsteht nach und nach ein Interferenzmuster – als wäre jedes Elektron gleichzeitig durch beide Spalte gegangen. Misst man, welchen Spalt es nimmt, verschwindet das Muster. Das Experiment zeigt den Welle-Teilchen-Dualismus." },
   { id: "ph2", topic: "physik", title: "Ohne Relativitätstheorie kein GPS", q: "GPS Relativitätstheorie Zeitdilatation",
     points: ["GPS-Uhren gehen rund 38 Mikrosekunden pro Tag vor", "Schwächere Gravitation beschleunigt sie, hohe Geschwindigkeit bremst sie ein wenig", "Ohne Korrektur wüchse der Ortungsfehler um etwa 10 km pro Tag"],
@@ -59,6 +61,7 @@ window.CARDS = [
   // Kosmologie
   { id: "ko1", topic: "kosmologie", title: "Das Nachglühen des Urknalls", q: "Kosmische Hintergrundstrahlung Penzias Wilson",
     points: ["1965: Penzias und Wilson empfangen ein Rauschen aus allen Richtungen", "Es ist Licht aus der Zeit etwa 380.000 Jahre nach dem Urknall", "Heute nur noch 2,7 Kelvin kalt; Nobelpreis 1978"],
+    slides: [{"h": "🔢 Zahlen & Fakten", "points": ["Temperatur heute: rund 2,7 Kelvin (etwa −270,4 °C)", "Ausgesandt etwa 380.000 Jahre nach dem Urknall", "Ein kleiner Teil des alten Fernseh-Rauschens stammt von ihr"]}, {"h": "🔗 Warum das wichtig ist", "text": "Die Hintergrundstrahlung ist die älteste direkt beobachtbare Lichtquelle. Ihre winzigen Temperaturunterschiede zeigen, wie sich später Galaxien bilden konnten – Satelliten wie COBE, WMAP und Planck haben sie vermessen."}],
     text: "1965 empfingen Arno Penzias und Robert Wilson bei Tests einer Antenne ein hartnäckiges Rauschen aus allen Richtungen. Es war die kosmische Hintergrundstrahlung: Licht aus der Zeit etwa 380.000 Jahre nach dem Urknall, heute nur noch 2,7 Kelvin kalt. Dafür gab es 1978 den Nobelpreis." },
   { id: "ko2", topic: "kosmologie", title: "Größer als sein Alter", q: "Beobachtbares Universum Größe",
     points: ["Alter des Universums: rund 13,8 Milliarden Jahre", "Beobachtbares Universum: Radius etwa 46 Milliarden Lichtjahre", "Kein Widerspruch: Der Raum dehnt sich aus, während das Licht unterwegs ist"],
@@ -136,6 +139,7 @@ window.CARDS = [
   // Biologie
   { id: "bi1", topic: "biologie", title: "Kraftwerke mit eigener Vergangenheit", q: "Endosymbiontentheorie Mitochondrien Lynn Margulis",
     points: ["Mitochondrien haben eigene DNA und vermehren sich selbst", "Endosymbiontentheorie (Lynn Margulis): Sie stammen von aufgenommenen Bakterien ab", "Aufnahme vor über einer Milliarde Jahren durch eine Urzelle"],
+    slides: [{"h": "🔎 Belege für die Theorie", "points": ["Mitochondrien haben eine doppelte Membran", "Ihre Ringform-DNA ähnelt der von Bakterien", "Sie teilen sich unabhängig von der Zelle", "Auch Chloroplasten in Pflanzen stammen von aufgenommenen Bakterien"]}],
     text: "Mitochondrien haben eigene DNA und vermehren sich selbst. Die Endosymbiontentheorie, populär gemacht von Lynn Margulis, erklärt das: Sie stammen von Bakterien ab, die vor über einer Milliarde Jahre von einer Urzelle aufgenommen wurden und blieben." },
   { id: "bi2", topic: "biologie", title: "CRISPR: Die Gen-Schere aus Bakterien", q: "CRISPR Cas9 Charpentier Doudna",
     points: ["CRISPR ist ein Abwehrsystem von Bakterien gegen Viren", "Es merkt sich Virus-DNA und schneidet sie bei erneutem Kontakt", "Charpentier und Doudna machten es zum Gen-Werkzeug; Nobelpreis Chemie 2020"],
@@ -310,6 +314,7 @@ window.CARDS = [
   // ---- Psychologie (4)
   { id: "ps1", topic: "psychologie", title: "Der Ankereffekt", q: "Ankereffekt Tversky Kahneman",
     points: ["Tversky und Kahneman, 1974: Schon eine willkürliche Zahl beeinflusst Schätzungen", "Wer vorher eine hohe Zahl im Kopf hat, schätzt höher", "Erklärt Statt-Preise und die Bedeutung von Verhandlungsanfängen"],
+    slides: [{"h": "🧩 Wie das Experiment lief", "text": "Bei Tversky und Kahneman drehten Versuchspersonen an einem Glücksrad und schätzten danach, wie viele afrikanische Staaten in der UNO sind. Wer eine hohe Zahl erhalten hatte, schätzte deutlich höher als bei einer niedrigen – obwohl das Rad offensichtlich Zufall war."}, {"h": "💡 Im Alltag", "text": "Anker wirken beim Gehaltsgespräch, beim Kauf am Flohmarkt oder bei Angeboten mit „Statt“-Preis. Tipp: Eine eigene Einschätzung vorher festlegen, bevor die erste Zahl fällt."}],
     text: "Tversky und Kahneman zeigten 1974: Schon eine willkürliche Zahl beeinflusst spätere Schätzungen. Wer vorher eine hohe Zahl im Kopf hat, schätzt höher. Deshalb sind Preisschilder mit durchgestrichenem „Statt“-Preis so wirksam – und Verhandlungsanfänge so wichtig." },
   { id: "ps2", topic: "psychologie", title: "Das Milgram-Experiment", q: "Milgram-Experiment Gehorsam Yale 1961",
     points: ["1961: Versuchspersonen sollten scheinbar Stromschläge geben, wenn der Versuchsleiter es verlangte", "In der bekanntesten Variante gingen etwa 65 % bis zur höchsten Stufe", "Zeigt die Macht von Autorität; ethisch und methodisch umstritten"],
@@ -518,6 +523,7 @@ window.CARDS = [
     text: "In der Südosttürkei legte der deutsche Archäologe Klaus Schmidt ab 1995 Göbekli Tepe frei: Steinkreise mit mehrere Meter hohen, reliefverzierten Pfeilern, rund 11.000 Jahre alt. Jäger und Sammler errichteten sie – noch vor Ackerbau und Dörfern. Das stellt die Annahme in Frage, erst Sesshaftigkeit habe Monumentalbauten ermöglicht." },
   { id: "ar2", topic: "ar", title: "Ötzi: der Mann aus dem Eis", q: "Ötzi Gletschermumie Similaun",
     points: ["1991 in den Ötztaler Alpen gefunden, rund 5.300 Jahre alt", "Trug ein Kupferbeil; starb durch eine Pfeilspitze in der Schulter", "Zu sehen im Südtiroler Archäologiemuseum in Bozen"],
+    slides: [{"h": "🔬 Was die Forschung fand", "text": "Bei Ötzi fanden Forschende Tätowierungen, Reste seiner letzten Mahlzeit und Erbgut. Aus dem Genom lässt sich einiges über Herkunft und Gesundheit ablesen – etwa, dass er wohl Laktose nicht gut vertrug."}, {"h": "❓ Häufiges Missverständnis", "text": "Ötzi ist keine „Eismumie aus der Steinzeit“ im strengen Sinn: Er lebte in der Kupferzeit, daher auch das Kupferbeil."}],
     text: "1991 fanden Wanderer in den Ötztaler Alpen eine Gletschermumie. Ötzi lebte vor rund 5.300 Jahren, trug ein Kupferbeil und starb durch eine Pfeilspitze in der Schulter. Seine Kleidung, Werkzeuge und sogar sein Mageninhalt geben ein seltenes Bild vom Alltag der Jungsteinzeit. Er ist im Südtiroler Archäologiemuseum in Bozen zu sehen." },
   { id: "ar3", topic: "ar", title: "Die C14-Methode: Uhr im Knochen", q: "Radiokohlenstoffdatierung Willard Libby",
     points: ["Lebewesen nehmen Kohlenstoff-14 auf, der nach dem Tod zerfällt", "Halbwertszeit rund 5.730 Jahre; datiert organische Funde bis etwa 50.000 Jahre", "Willard Libby, 1949; Nobelpreis Chemie 1960"],

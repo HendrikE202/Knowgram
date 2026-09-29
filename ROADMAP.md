@@ -95,3 +95,7 @@
 - Lokale hessenschau-Gerichtsmeldung stand in „Heute in der Welt“ → Lokales nur noch bei mehreren Quellen.
 - Mehrfach 503-Fehler beim Push/Fetch (Umgebung/Proxy) → Wiederholungen mit Wartezeit; GitHub-Werkzeuge zeitweise nicht erreichbar.
 
+
+## Variable Slides (neu)
+- Karten haben 2–6 Wisch-Seiten: Übersicht, „Das Wichtigste“, optionale `slides` (Hintergrund, Zahlen, Missverständnis …), „Tiefer eintauchen“. Maximal 6, so viele wie nötig.
+- Erste 6 Karten (ph1, ko1, ps1, ar2, bi1, ge1) haben Zusatz-Slides; weitere sollen nach und nach folgen (Routine schreibt sie bei neuen Karten selbst).

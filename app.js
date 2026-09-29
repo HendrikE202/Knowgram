@@ -334,6 +334,13 @@
     kids.push(h("div", { class: "meta" }, h("span", {}, sum ? (c.kind === "news" ? "🤖 KI-Einordnung aus Titel und Vorschau · ohne Gewähr" : c.kind === "otd" ? "📅 Aus der Wikipedia" : "📚 Zusammenfassung · KI-verfasst") : "🔀 Vergleich mehrerer Quellen")));
     return h("div", { class: "slide s2" }, ...kids);
   };
+  // Zusatz-Slides einer Karte (`slides: [{h, text, points}]`): so viele wie nötig – insgesamt höchstens 6 Slides pro Karte
+  const MAX_SLIDES = 6;
+  const extraSlides = (c) => (Array.isArray(c.slides) ? c.slides : []).filter((x) => x && (x.text || (x.points && x.points.length))).map((x) =>
+    h("div", { class: "slide s2 x" }, h("span", { class: "stag" }, x.h || "Mehr dazu"), h("h3", { class: "slide-title" }, c.title),
+      ...(x.text ? [h("p", { class: "xtext" }, x.text)] : []),
+      ...(x.points && x.points.length ? [h("ul", { class: "pts" }, ...x.points.map((y) => h("li", {}, y)))] : []),
+      h("div", { class: "meta" }, h("span", {}, "📚 KI-verfasst · ohne Gewähr"))));
 
   const share = async (c) => {
     const text = c.link ? `${c.title}\n${c.text}\n${c.link}\n– via Knowgram` : `${c.title}\n\n${c.text}\n\n– via Knowgram`;
@@ -515,16 +522,17 @@
       ...(opts.thread ? [h("b", { class: "seriestag" }, `🕳️ Faden ${opts.thread.i}/${opts.thread.n}`)] : []),
       ...(c.series ? [h("b", { class: "seriestag" }, `📖 ${c.series} · Teil ${c.part}/${c.of}`)] : []),
       ...(fresh ? [h("b", { class: "new" }, "NEU")] : mode === "feed" && wasSeen ? [h("b", { class: "seenchip" }, S.seenAt[c.id] ? `✓ gesehen ${fmtAge(new Date(S.seenAt[c.id]).toISOString())}` : "✓ gesehen")] : []));
-    const s2 = sumSlide(c);
+    const s2 = sumSlide(c), hasInfo = !!s2 || (Array.isArray(c.slides) && c.slides.length);
     const goSlide = (i) => slidesEl.scrollTo({ left: i * slidesEl.clientWidth, behavior: "smooth" });
     const s1 = h("div", { class: "slide s1" },
       tagEl, h("h2", {}, c.title), c.text ? h("p", {}, c.text) : "", metaLine(c),
       h("div", { class: "acts" },
         h("button", { class: "more", onclick: () => goSlide(slidesArr.length - 1) }, "Tiefer eintauchen →"),
         h("button", { class: "more alt", onclick: () => openThread(c, el) }, c.series && c.part < c.of ? "Nächster Teil →" : "🕳️ Weiter im Thema")),
-      ...(s2 && !S.swiped ? [h("div", { class: "swipehint" }, `‹ Wischen: ${summaryFor(c) ? "Das Wichtigste" : "Andere Quellen"}`)] : []));
+      ...(hasInfo && !S.swiped ? [h("div", { class: "swipehint" }, `‹ Wischen: ${summaryFor(c) ? "Das Wichtigste" : s2 ? "Andere Quellen" : "Mehr dazu"}`)] : []));
     const s3 = h("div", { class: "slide s3" }, h("span", { class: "stag" }, "🔎 Tiefer eintauchen"), h("h3", { class: "slide-title" }, c.title), ...deepPanel(c));
-    const slidesArr = [s1, s2, s3].filter(Boolean);
+    const info = [s2, ...extraSlides(c)].filter(Boolean).slice(0, MAX_SLIDES - 2);   // Übersicht und „Tiefer eintauchen“ sind immer dabei
+    const slidesArr = [s1, ...info, s3];
     const slidesEl = h("div", { class: "slides" }, ...slidesArr);
     const dots = h("div", { class: "dots" }, ...slidesArr.map((_, i) => h("i", { class: i === 0 ? "on" : "" })));
     slidesEl.addEventListener("scroll", () => {

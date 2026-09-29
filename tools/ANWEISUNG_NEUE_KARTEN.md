@@ -25,7 +25,8 @@ Du erweiterst die Wissenskarten von Knowgram (Repo HendrikE202/Knowgram, Branch 
 Hendrik will abends in Rabbit Holes fallen. Deshalb gilt:
 - **Mindestens jeden zweiten Tag eine Serie** aus 4–6 Karten zu einem spannenden Faden (z. B. ein Ereignis, eine Erfindung, eine Person). Die Karten einer Serie erhalten nach `q` die Felder `series: "Serientitel", part: 1, of: 5,`. Jede Karte hört mit einer Cliffhanger-Frage und `→ Teil n+1` auf. Alle Teile einer Serie gehören in denselben Lauf und dasselbe Thema (oder eng verwandte Themen).
 - Die übrigen Karten sind Einzelkarten. Jede Karte darf zusätzlich `more: ["id1", "id2"],` mit 1–3 IDs **bereits vorhandener**, inhaltlich verwandter Karten haben (auch aus anderen Themen) – das sind die Türen zum nächsten Kaninchenloch.
-- Reihenfolge der Felder: `id, topic, title, q, series, part, of, more, points, why, text` (nur die nötigen).
+- **slides (optional, nur wenn der Stoff es hergibt):** weitere Wisch-Seiten nach „Das Wichtigste“, z. B. `{ h: "🧩 Hintergrund", text: "..." }`, `{ h: "🔢 Zahlen & Fakten", points: ["...","..."] }`, `{ h: "❓ Häufiges Missverständnis", text: "..." }`, `{ h: "🔗 Zusammenhang", text: "..." }`. **So viele wie nötig, nicht schematisch:** viele Karten brauchen keine, manche 1–3. Insgesamt hat eine Karte **höchstens 6 Seiten** (Übersicht + „Das Wichtigste“ + max. 3 Zusatz-Slides + „Tiefer eintauchen“; zählt die App automatisch, Überschüssiges wird abgeschnitten). Jeder Slide: kurz (≤ ~60 Wörter), überprüfbare Fakten, nichts erfinden, kein Füllmaterial.
+- Reihenfolge der Felder: `id, topic, title, q, series, part, of, more, points, why, slides, text` (nur die nötigen).
 - Gesamtzahl bleibt 10 Karten pro Lauf (eine Serie zählt mit ihren Teilen).
 
 ## Geschmack und Wünsche berücksichtigen (optional)
