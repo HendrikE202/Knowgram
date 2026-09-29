@@ -809,8 +809,9 @@
   const newCode = () => Array.from(crypto.getRandomValues(new Uint8Array(24)), (b) => ALPHA[b % 32]).join("");   // 24 × 5 Bit = 120 Bit
   const normCode = (t) => String(t || "").toUpperCase().split("").filter((ch) => ALPHA.includes(ch)).join("");
   const fmtCode = (c) => c.match(/.{1,4}/g).join("-");
-  const rpc = async (fn, args) => {
-    const r = await fetch(`${CFG.url}/rest/v1/rpc/${fn}`, { method: "POST", headers: { "Content-Type": "application/json", apikey: CFG.key }, body: JSON.stringify(args) });
+  const rpc = async (fn, args, keep) => {
+    const body = JSON.stringify(args);
+    const r = await fetch(`${CFG.url}/rest/v1/rpc/${fn}`, { method: "POST", headers: { "Content-Type": "application/json", apikey: CFG.key }, body, keepalive: !!keep && body.length < 60000 });
     if (!r.ok) throw new Error(`${fn} ${r.status}`);
     return r.json();
   };
@@ -848,23 +849,27 @@
     lastSig = settingsSig(); persist(true); applying = false;
     if (typeof applyNight === "function") { applyNight(); startSleep(S.sleep); }
   };
-  const syncNow = async (manual) => {
+  let dirty = false;                                                  // es gibt Änderungen, die noch nicht hochgeladen sind
+  const syncNow = async (manual, keep) => {
     const code = getCode();
     if (!code || !syncReady() || syncBusy) return;
     syncBusy = true;
     try {
-      const remote = await rpc("kg_get", { code });
+      const remote = await rpc("kg_get", { code }, keep);
       const before = JSON.stringify(canon(packState()));
       if (remote && remote.state) applyMerged(mergeStates(packState(), remote.state));
       const body = packState();
-      if (!remote || !remote.state || JSON.stringify(canon(remote.state)) !== JSON.stringify(canon(body))) await rpc("kg_put", { code, new_state: body });
-      S.syncAt = Date.now(); syncMsg = ""; persist(true);
+      if (!remote || !remote.state || JSON.stringify(canon(remote.state)) !== JSON.stringify(canon(body))) await rpc("kg_put", { code, new_state: body }, keep);
+      dirty = false; S.syncAt = Date.now(); syncMsg = ""; persist(true);
       if (manual) toast("Synchronisiert");
       if (mode === "profile" && before !== JSON.stringify(canon(packState()))) render();     // Profil neu zeichnen, wenn sich etwas geändert hat
     } catch (e) { syncMsg = "Sync fehlgeschlagen – ich versuche es später erneut"; if (manual) toast(syncMsg); }
     finally { syncBusy = false; }
   };
-  onChange = () => { if (applying || !getCode() || !syncReady()) return; clearTimeout(syncTimer); syncTimer = setTimeout(() => syncNow(false), 8000); };
+  onChange = () => { if (applying || !getCode() || !syncReady()) return; dirty = true; clearTimeout(syncTimer); syncTimer = setTimeout(() => syncNow(false), 3000); };
+  // iOS pausiert Timer, sobald die App in den Hintergrund geht: deshalb beim Verlassen sofort hochladen (keepalive) und beim Zurückkommen nachholen
+  const flushSync = () => { if (dirty) { clearTimeout(syncTimer); syncNow(false, true); } };
+  window.addEventListener("pagehide", flushSync);
 
   const syncBox = () => {
     const box = h("div");
@@ -917,13 +922,13 @@
 
   // Beim Zurückkehren in die App nach längerer Pause: Nachrichten neu laden
   document.addEventListener("visibilitychange", async () => {
-    if (document.hidden) { hiddenAt = Date.now(); return; }
-    if (hiddenAt && Date.now() - hiddenAt > 2 * 60000) syncNow(false);
+    if (document.hidden) { hiddenAt = Date.now(); flushSync(); return; }
+    if (dirty || (hiddenAt && Date.now() - hiddenAt > 2 * 60000)) syncNow(false);
     if (hiddenAt && Date.now() - hiddenAt > 15 * 60000 && (await loadNews())) { indexMeta(); drawChips(); toast("Nachrichten aktualisiert"); }
   });
 
   applyNight(); startSleep(S.sleep);
-  setTimeout(() => syncNow(false), 1500);          // beim Start abgleichen (falls Sync an)
+  setTimeout(() => syncNow(false), 1500);          // beim Start abgleichen (falls Sync an; merged auch alles, was letztes Mal nicht mehr hochgeladen wurde)
   (async () => { await Promise.all([loadNews(), loadOtd(), loadImages(), loadSummaries()]); indexMeta(); compact(); drawChips(); render(); })();
   if ("serviceWorker" in navigator && location.protocol.startsWith("http")) navigator.serviceWorker.register("sw.js").catch(() => {});
 })();
