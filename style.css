@@ -86,7 +86,7 @@ h1{margin:0;font-size:1.35rem;letter-spacing:-.5px}h1 span{background:linear-gra
 /* Abend / Schlaf / Serien / Faden */
 .moon{padding:6px 7px!important;font-size:.95rem!important}
 .moon.on{color:#fbbf24!important}
-html[data-night="1"] #app{filter:brightness(.8) sepia(.28) saturate(.85)}
+html[data-night="1"] body::after{content:"";position:fixed;inset:0;pointer-events:none;z-index:9999;background:#d8a465;mix-blend-mode:multiply}
 html[data-night="1"] body{background:#07080b}
 html[data-big="1"] .card p{font-size:1.22rem;line-height:1.6}
 html[data-big="1"] .card h2{font-size:1.9rem}

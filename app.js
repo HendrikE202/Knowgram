@@ -448,6 +448,12 @@
     const i = IMG[c.id];
     return i && i.u ? i : null;
   };
+  // Bilder weit außerhalb des Bildschirms wieder freigeben (iPhone-Safari stürzt sonst bei langem Scrollen wegen Speicher ab)
+  const imgObs = new IntersectionObserver((es) => es.forEach((e) => {
+    const img = e.target;
+    if (e.isIntersecting) { if (img.dataset.src && !img.getAttribute("src")) img.src = img.dataset.src; }
+    else if (img.getAttribute("src")) { img.dataset.src = img.getAttribute("src"); img.removeAttribute("src"); }
+  }), { rootMargin: "250% 0px" });
   const coverEl = (c, t) => {
     const el = h("div", { class: "cover" });
     el.style.backgroundImage = genCover(c.id, t.c, c.topic);
@@ -458,6 +464,7 @@
       img.addEventListener("error", () => { img.remove(); if (el.parentElement) el.parentElement.classList.add("illu"); });
       img.addEventListener("load", () => el.parentElement && el.parentElement.classList.add("has-img"));
       el.append(img);
+      imgObs.observe(img);
     }
     return el;
   };
