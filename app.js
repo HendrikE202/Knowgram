@@ -341,7 +341,8 @@
   };
   // Zusatz-Slides einer Karte (`slides: [{h, text, points}]`): so viele wie nötig – insgesamt höchstens 6 Slides pro Karte
   const MAX_SLIDES = 6;
-  const extraSlides = (c) => (Array.isArray(c.slides) ? c.slides : []).filter((x) => x && (x.text || x.big || (x.points && x.points.length) || (x.steps && x.steps.length))).map((x) =>
+  const slidesOf = (c) => { const x = c.slides || (SUMS[c.id] && SUMS[c.id].slides); return Array.isArray(x) ? x : []; };
+  const extraSlides = (c) => slidesOf(c).filter((x) => x && (x.text || x.big || (x.points && x.points.length) || (x.steps && x.steps.length))).map((x) =>
     h("div", { class: "slide s2 x" }, h("span", { class: "stag" }, x.h || "Mehr dazu"), h("h3", { class: "slide-title" }, c.title),
       ...(x.big ? [h("div", { class: "bignum" }, h("b", {}, x.big.n), h("span", {}, x.big.l))] : []),
       ...(x.text ? [h("p", { class: "xtext" }, x.text)] : []),
@@ -538,7 +539,7 @@
       ...(opts.thread ? [h("b", { class: "seriestag" }, `🕳️ Faden ${opts.thread.i}/${opts.thread.n}`)] : []),
       ...(c.series ? [h("b", { class: "seriestag" }, `📖 ${c.series} · Teil ${c.part}/${c.of}`)] : []),
       ...(fresh ? [h("b", { class: "new" }, "NEU")] : mode === "feed" && wasSeen ? [h("b", { class: "seenchip" }, S.seenAt[c.id] ? `✓ gesehen ${fmtAge(new Date(S.seenAt[c.id]).toISOString())}` : "✓ gesehen")] : []));
-    const s2 = sumSlide(c), hasInfo = !!s2 || (Array.isArray(c.slides) && c.slides.length);
+    const s2 = sumSlide(c), hasInfo = !!s2 || slidesOf(c).length > 0;
     const goSlide = (i) => slidesEl.scrollTo({ left: i * slidesEl.clientWidth, behavior: "smooth" });
     const s1 = h("div", { class: "slide s1" },
       tagEl, h("h2", {}, c.title), c.text ? h("p", {}, c.text) : "", metaLine(c),

@@ -46,7 +46,8 @@ So verwenden:
 ## Meldungen einordnen: `summaries.json` (zweite Seite bei Nachrichten)
 Zu den wichtigsten aktuellen Meldungen (die IDs in `briefing` und die ersten ~12 in `ranked` von `news.json`) schreibst du kurze Einordnungen in `summaries.json` (Objekt: Meldungs-ID → `{ "points": ["...", "...", "..."], "why": "..." }`). Die App zeigt sie auf der zweiten Seite („Das Wichtigste“) mit dem Hinweis „KI-Einordnung“.
 - Grundlage NUR: Titel, Vorschautext (`text`) und die Titel der anderen Quellen (`also`) aus `news.json`. Wenn du Webzugriff hast, darfst du den Originalartikel (`link`) lesen – aber in **eigenen Worten**, ohne Sätze zu übernehmen.
-- 2–3 Stichpunkte (je höchstens ~18 Wörter), `why` = ein vorsichtiger Satz, warum es wichtig ist. Nichts dazuerfinden, Unklares weglassen („bisher unklar“ ist erlaubt), keine Wertungen, keine Prognosen.
+- **Ausführlicher, wenn du den Artikel lesen kannst:** 3–5 Stichpunkte (je höchstens ~22 Wörter) und optional `slides` wie bei den Wissenskarten (Format siehe oben), z. B. `{ "h": "🧩 Hintergrund", "text": "..." }`, `{ "h": "🔢 Zahlen", "points": ["..."] }`, `{ "h": "👥 Beteiligte", "points": ["..."] }`, `{ "h": "🕰️ Wie es dazu kam", "steps": ["..."] }`. Höchstens 2 Zusatz-Slides je Meldung und nur, wenn der Artikel das hergibt. Ohne Artikelzugriff bleibt es bei 2–3 Stichpunkten aus Titel und Vorschau.
+- `why` = ein vorsichtiger Satz, warum es wichtig ist. Nichts dazuerfinden, Unklares weglassen („bisher unklar“ ist erlaubt), keine Wertungen, keine Prognosen.
 - Bestehende Einträge behalten, solange die Meldung noch in `news.json` steht; Einträge zu verschwundenen Meldungen entfernen. Höchstens 25 Einträge.
 - Zusammen mit den Karten in einem Commit (`Neue Wissenskarten (<Datum>)`) oder – falls nur Einordnungen anfallen – in einem eigenen Commit „Einordnungen (<Datum>)“.
 
