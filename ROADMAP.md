@@ -1,6 +1,6 @@
 # Knowgram – Vision, Stand und Aufgaben
 
-*Zuletzt aktualisiert: 29.09.2026. Diese Datei ist die zentrale To-do-Liste (für Hendrik und für Claude-Sitzungen).*
+*Zuletzt aktualisiert: 30.09.2026. Diese Datei ist die zentrale To-do-Liste (für Hendrik und für Claude-Sitzungen).*
 
 ## Vision
 **Abends im Bett in Rabbit Holes fallen** – endlos scrollen, dabei etwas lernen, informativ bleiben und **auf dem Laufenden über das Weltgeschehen** sein. Kein Schul-Gefühl: keine Tests, kein Punktedruck. Neugier statt Pflicht.
@@ -23,25 +23,25 @@
 ## Als Nächstes (nach Priorität)
 
 ### A) Rabbit Holes – der Kern der Vision
-- [ ] **„Weiter im Thema“:** jede Karte verweist auf 2–3 verwandte Karten; Tipp darauf startet einen kurzen Faden (5–8 Karten), danach zurück in den Feed
-- [ ] **Kartenserien:** zusammengehörige Karten mit „Teil 2/6“ und Cliffhanger-Frage am Ende („Und was passierte danach?“); die Routine schreibt ganze Serien statt Einzelkarten
+- [x] **„Weiter im Thema“:** Tipp fügt bis zu 5 verwandte Karten direkt darunter ein (Serien-Teile, `more`-Verweise, sonst konservativ im selben Thema). **Offen:** die Routine soll gezielte `more`-Verweise schreiben, weil reine Wortähnlichkeit bei kleinem Bestand nur grob taugt
+- [x] **Kartenserien:** „Teil n/N“, schalten sich der Reihe nach frei; erste Serie „Der Dreißigjährige Krieg“ (5 Teile) live. **Offen:** Routine schreibt regelmäßig neue Serien (Anweisung ist ergänzt)
 - [ ] **Vom Ereignis zum Hintergrund:** Meldung → verlinkte Hintergrundkarte („Wie kam es dazu?“, „Was steckt dahinter?“)
 - [ ] „Zufälliges Kaninchenloch“-Knopf: springt in ein selten gesehenes Thema
 
 ### B) Auf dem Laufenden bleiben (Weltgeschehen)
-- [ ] **„Heute in der Welt“:** täglich die 5 wichtigsten Ereignisse (aus Tagesschau/DLF/DW/hessenschau) als kompakte Startkarten – jeweils mit Quelle, Uhrzeit und, wo sinnvoll, **mehreren Quellen zum Vergleich**
+- [x] **„Heute in der Welt“:** bis zu 10 Ereignisse, automatisch nach Berichterstattung mehrerer Quellen + Frische + harten Signalen gewählt (weiche Themen ausgeschlossen), als Startblock einmal pro Tag und über den Chip „🌍 Heute“; „🔀 Auch bei: …“ zeigt die anderen Quellen. **Offen:** Qualität an echten Tagen beobachten (Gewichtung nachschärfen)
 - [ ] **Einordnungskarte „Warum ist das wichtig?“** zu den Top-Meldungen (durch die Routine erzeugt, als „KI-Einordnung“ gekennzeichnet, mit Link zu den Originalquellen)
 - [ ] Abend-Zusammenfassung („Das war heute wichtig“) als letzte Karte des Tages; Wochenrückblick
 - [ ] Mehr Quellen/Perspektiven prüfen (z. B. weitere Fachmedien, Wirtschaft, Wissenschaft); Hessen nur bei wirklich Spannendem
 - [ ] Hinweis „Entwicklung läuft“ bei Nachrichten, die sich schnell ändern
 
 ### C) Abend-/Bett-Modus
-- [ ] Abenddunkel: wärmerer Farbton, gedimmt, größere Schrift optional, keine grellen Flächen
-- [ ] Optionaler sanfter **Schlaf-Timer** (z. B. nach 20/40 Min. „Gute Nacht – genug für heute“), damit der Feed nicht ungewollt bis 3 Uhr läuft
+- [x] Abendmodus: wärmerer, gedimmter Farbton (Auto 20–6 Uhr / An / Aus, Mond oben), Schrift optional groß
+- [x] Optionaler **Schlaf-Timer** (20/40/60 Min., danach „Gute Nacht“, +10 Min. per Tipp oder ausschalten)
 - [ ] „Weiterlesen morgen“: Karte für später vormerken
 
 ### D) Sichtbar und lebendig (Kurzgesagt-Gefühl)
-- [ ] Gefundene Titelbilder prüfen (passt Bild zur Karte?), schwache aussortieren
+- [x] Bildqualität: Wissenskarten nur mit passendem Artikel/relevanter Dateisuche, ohne Logos/Wappen/Flaggen, Mindestgröße; Meldungen ohne Logos/Zählpixel/Werbung/Stockfotos/Duplikate; „Bild passt nicht“ lernt pro Quelle (3× → Bilder dieser Quelle aus). **Offen:** gefundene Bilder stichprobenartig prüfen; Handkorrektur über `tools/image_overrides.json`
 - [ ] Eigene Illustrationen/Animationen (einfache SVGs) für Serien-Auftakt und Top-Themen
 - [ ] Sanfte Übergänge, Ladezustände, „Neue Meldungen“-Hinweis
 
@@ -53,6 +53,7 @@
 - [ ] Routine liest Geschmack, Notizen, Themenwünsche und Meldungen (eingeschränkter Lese-Schlüssel als geheimer Wert der Routine, nicht im Repo)
 
 ### F) Inhaltsqualität
+- [ ] Einordnungskarte „Warum ist das wichtig?“ zu den Top-Meldungen (KI-Einordnung mit Quellenlinks) – braucht Routine oder API
 - [ ] Zweiter Prüfdurchlauf der Routine: gemeldete Karten prüfen/korrigieren/entfernen
 - [ ] Jede Karte mit konkreter Quelle (Link) statt nur Suchbegriff
 - [ ] Karten mit Zeitbezug automatisch zur Überprüfung vormerken („Stand“ älter als 12 Monate)
@@ -74,8 +75,9 @@
 
 ## Offene Entscheidungen
 - Konto: E-Mail+Passwort oder Link per E-Mail?
-- Wie viel „Weltlage“ am Tag ist genug (5 Karten? 10)? Zeitpunkt (morgens/abends)?
-- Schlaf-Timer: gewünscht oder nur Abendmodus?
+- ~~Weltlage-Umfang~~ → entschieden: 10 Karten. ~~Schlaf-Timer~~ → entschieden: Abendmodus + Timer.
+- Konto: Ist ein Login überhaupt nötig? Alternativen für eine Einzelperson: (1) nur lokal + Export, (2) Sync-Code ohne E-Mail, (3) E-Mail-Login. Login war als Grundlage für Sync zwischen Geräten und für das Lesen deines Geschmacks durch die Routine gedacht.
+- Weltlage: Zeitpunkt (morgens/abends) und ob eine Abend-Zusammenfassung gewünscht ist
 - Illustrationen: einfache SVG-Grafiken von Claude oder externer Bild-Dienst (Kosten)?
 
 ## Ideen-Speicher (ungeordnet)

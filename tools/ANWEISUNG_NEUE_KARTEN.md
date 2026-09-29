@@ -20,6 +20,13 @@ Du erweiterst die Wissenskarten von Knowgram (Repo HendrikE202/Knowgram, Branch 
 - Mische Bekanntes mit echten Nischenthemen, die kaum jemand kennt.
 - Die Themen sw, db, sc, cd, ki, bf sind für Hendriks Ausbildung (Fachinformatiker Anwendungsentwicklung, AP2), sein Studium (Wirtschaftsinformatik) und die Arbeit gedacht: praxisnah, prüfungsrelevant und korrekt, mit konkretem Beispiel. Bei Fachbegriffen die übliche deutsche Schreibweise verwenden.
 
+## Rabbit Holes: Serien und Verweise (wichtig für die Vision)
+Hendrik will abends in Rabbit Holes fallen. Deshalb gilt:
+- **Mindestens jeden zweiten Tag eine Serie** aus 4–6 Karten zu einem spannenden Faden (z. B. ein Ereignis, eine Erfindung, eine Person). Die Karten einer Serie erhalten nach `q` die Felder `series: "Serientitel", part: 1, of: 5,`. Jede Karte hört mit einer Cliffhanger-Frage und `→ Teil n+1` auf. Alle Teile einer Serie gehören in denselben Lauf und dasselbe Thema (oder eng verwandte Themen).
+- Die übrigen Karten sind Einzelkarten. Jede Karte darf zusätzlich `more: ["id1", "id2"],` mit 1–3 IDs **bereits vorhandener**, inhaltlich verwandter Karten haben (auch aus anderen Themen) – das sind die Türen zum nächsten Kaninchenloch.
+- Reihenfolge der Felder: `id, topic, title, q, series, part, of, more, text` (nur die nötigen).
+- Gesamtzahl bleibt 10 Karten pro Lauf (eine Serie zählt mit ihren Teilen).
+
 ## Qualität (wichtig – es gibt keine automatische Faktenprüfung)
 - Schreibe nur Fakten, bei denen du dir sicher bist. Im Zweifel eine andere Karte wählen.
 - Umstrittenes oder unsichere Zahlen ausdrücklich so benennen („Schätzungen zufolge“, „umstritten“).

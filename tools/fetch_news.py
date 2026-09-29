@@ -6,6 +6,7 @@ alte Meldungen aus einem früheren news.json bleiben erhalten, bis sie zu alt si
 Verwendet wird nur die Vorschau (Titel + Teaser) des Anbieters plus Link zum Original.
 """
 import hashlib, html, json, re, sys, urllib.request
+from collections import Counter
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
@@ -47,6 +48,101 @@ def text(el, path):
     return x.text if x is not None and x.text else ""
 
 
+# Bilder, die erkennbar Logos, Zählpixel, Werbung oder Stockfotos sind (0815) – lieber gar kein Bild als ein unpassendes
+BAD_IMG = re.compile(
+    r"logo|icon|favicon|default|placeholder|platzhalter|fallback|avatar|sprite|blank|pixel|cpx\.php|tracking|/ads?/|promo|"
+    r"sponsor|betmgm|istock|shutterstock|adobestock|getty|depositphotos|stock[-_ ]?(photo|foto)|symbolbild|symbolfoto|"
+    r"blaulicht|geldscheine|euro-?scheine|sparschwein|justitia|handschellen|banner|button", re.I)
+
+
+def img_key(u):
+    return u.split("?")[0].rsplit("/", 1)[-1].lower()
+
+
+def drop_generic_images(items):
+    """Entfernt Bilder mit verdächtigem Namen und Bilder, die bei mehreren Meldungen gleichzeitig auftauchen (Platzhalter)."""
+    cnt = Counter(img_key(n["img"]) for n in items if n.get("img"))
+    for n in items:
+        u = n.get("img")
+        if u and (BAD_IMG.search(u) or cnt[img_key(u)] > 1):
+            n.pop("img", None)
+    return items
+
+
+STOP = set("""der die das den dem des ein eine einer eines einem einen und oder mit von für auf aus bei nach vor über unter
+gegen durch zwischen ohne wegen sowie nicht auch noch nur dass sich sind wird werden wurde wurden hat haben soll sollen
+will wollen kann können muss müssen mehr neue neuen neuer neues erste ersten ersten zwei drei vier fünf jahre jahren
+prozent millionen milliarden euro heute gestern nach sagt sagte fordert zeigt gibt geben bleibt bleiben kommt kommen""".split())
+
+
+def toks(title):
+    return {w for w in re.findall(r"[a-zäöüß0-9][a-zäöüß0-9-]{3,}", title.lower()) if w not in STOP}
+
+
+def similar(a, b):
+    i = len(a & b)
+    return i >= 3 or (i >= 2 and i / max(1, min(len(a), len(b))) >= 0.34)
+
+
+def cluster(items):
+    """Gruppiert Meldungen, die dasselbe Ereignis meinen (gemeinsame Kernwörter im Titel); ergänzt „also“ = andere Quellen."""
+    de = [n for n in items if n.get("lang", "de") == "de"]
+    tk = {n["id"]: toks(n["title"]) for n in de}
+    parent = {n["id"]: n["id"] for n in de}
+
+    def find(x):
+        while parent[x] != x:
+            parent[x] = parent[parent[x]]; x = parent[x]
+        return x
+    for i, a in enumerate(de):
+        for b in de[i + 1:]:
+            if similar(tk[a["id"]], tk[b["id"]]):
+                parent[find(a["id"])] = find(b["id"])
+    groups = {}
+    for n in de:
+        groups.setdefault(find(n["id"]), []).append(n)
+    for g in groups.values():
+        for n in g:
+            n.pop("also", None)
+            others = [{"source": o["source"], "title": o["title"], "link": o["link"]} for o in g if o["source"] != n["source"]]
+            seen, also = set(), []
+            for o in others:                                  # pro Quelle nur eine
+                if o["source"] not in seen:
+                    seen.add(o["source"]); also.append(o)
+            if also:
+                n["also"] = also[:3]
+    return list(groups.values())
+
+
+# Weiche Themen gehören nicht in „Heute in der Welt“; harte Nachrichten-Signale zählen mehr
+SOFT = re.compile(r"tipps?\b|ferien|kürbis|oktoberfest|wetter|horoskop|rezept|gewinnspiel|promi|royal|bundesliga|fußball|ticker|podcast|quiz|reise|urlaub|freizeit|kochen|garten|lifestyle|kino|serie\b|konzert|festival|mode\b|trend", re.I)
+HARD = re.compile(r"krieg|angriff|regierung|minister|kanzler|präsident|wahl|gericht|urteil|sanktion|abkommen|verhandl|nato|\beu\b|ukraine|russland|china|usa|israel|iran|gaza|haushalt|inflation|zins|börse|konjunktur|klima|streik|rücktritt|festgenommen|verhaftet|anschlag|drohnen|explosion|erdbeben|katastrophe|tote|gesetz|bundestag|wirtschaft|energie|öl|gas", re.I)
+PRIO = ["Tagesschau", "Deutschlandfunk", "Deutsche Welle", "hessenschau (hr)"]
+
+
+def build_briefing(items, now, size=10):
+    """„Heute in der Welt“: die wichtigsten Ereignisse – Wichtigkeit = von wie vielen Quellen berichtet, dazu Frische."""
+    groups = cluster(items)
+    scored = []
+    for g in groups:
+        cand = [n for n in g if n["topic"] in ("politik", "welt", "wirtschaft") and not SOFT.search(n["title"])]
+        if not cand:
+            continue
+        srcs = len({n["source"] for n in g})
+        rep = sorted(cand, key=lambda n: (0 if n.get("img") else 1, PRIO.index(n["source"]) if n["source"] in PRIO else 9, n["published"]))[0]
+        age_h = (now - parse_date(rep["published"])).total_seconds() / 3600
+        scored.append((10 * srcs + max(0.0, 24 - age_h) / 24 * 6 + (2 if rep.get("img") else 0) + (5 if HARD.search(rep["title"]) else 0), rep))
+    scored.sort(key=lambda x: -x[0])
+    out, per_topic, per_source = [], Counter(), Counter()
+    for _, n in scored:
+        if per_topic[n["topic"]] >= 4 or per_source[n["source"]] >= 5:
+            continue
+        out.append(n["id"]); per_topic[n["topic"]] += 1; per_source[n["source"]] += 1
+        if len(out) >= size:
+            break
+    return out
+
+
 def find_image(it):
     """Sucht ein Vorschaubild (enclosure, media:content/thumbnail, erstes <img>); nur https."""
     cands = []
@@ -62,7 +158,7 @@ def find_image(it):
         if m:
             cands.append(html.unescape(m.group(1)))
     for u in cands:
-        if u and u.startswith("https://") and len(u) < 500:
+        if u and u.startswith("https://") and len(u) < 500 and not BAD_IMG.search(u):
             return u
     return ""
 
@@ -140,8 +236,10 @@ def main():
     if ok == 0:
         print("Kein Feed erreichbar – news.json bleibt unverändert.", file=sys.stderr)
         return 1
-    out_path.write_text(json.dumps({"generated": now.isoformat(), "items": fresh}, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
-    print(f"{len(fresh)} Meldungen geschrieben ({ok} Feeds ok, {failed} fehlgeschlagen)")
+    fresh = drop_generic_images(fresh)
+    briefing = build_briefing(fresh, now)
+    out_path.write_text(json.dumps({"generated": now.isoformat(), "briefing": briefing, "items": fresh}, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    print(f"{len(fresh)} Meldungen geschrieben ({ok} Feeds ok, {failed} fehlgeschlagen), Überblick: {len(briefing)} Ereignisse, Bilder: {sum(1 for n in fresh if n.get('img'))}")
     return 0
 
 

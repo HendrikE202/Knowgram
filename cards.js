@@ -35,6 +35,7 @@ window.TOPICS = {
 window.CARDS = [
   // Geschichte
   { id: "ge1", topic: "geschichte", title: "Der Frieden, der Staaten erfand", q: "Westfälischer Friede 1648",
+    series: "Der Dreißigjährige Krieg", part: 5, of: 5,
     text: "1648 beendeten die Verträge von Münster und Osnabrück den Dreißigjährigen Krieg. Sie gelten als Geburtsstunde des Prinzips souveräner Staaten: Jeder Herrscher bestimmt im eigenen Gebiet, andere mischen sich nicht ein. Die Grundidee prägt das Völkerrecht bis heute." },
   { id: "ge2", topic: "geschichte", title: "Ein Stein, der Hieroglyphen knackte", q: "Stein von Rosette Champollion",
     text: "Der Stein von Rosette, 1799 von französischen Soldaten in Ägypten gefunden, trägt denselben Text in drei Schriften: Hieroglyphen, Demotisch und Altgriechisch. Weil man Griechisch lesen konnte, gelang Jean-François Champollion 1822 die Entzifferung der Hieroglyphen." },
@@ -390,5 +391,18 @@ window.CARDS = [
   { id: "ar6", topic: "ar", title: "Der Limes: Roms Grenze in Deutschland", q: "Obergermanisch-Raetischer Limes Saalburg Welterbe",
     text: "Der Obergermanisch-Raetische Limes war rund 550 Kilometer lang und reichte vom Rhein bis zur Donau. Er ist seit 2005 UNESCO-Welterbe. In Hessen kann man bei Bad Homburg das rekonstruierte Kastell Saalburg besuchen und römischen Alltag erleben." },
   { id: "ar7", topic: "ar", title: "Die Terrakotta-Armee", q: "Terrakotta-Armee Qin Shihuangdi Xi'an",
-    text: "1974 stießen Bauern bei Xi’an auf Tonfiguren aus dem Grabkomplex des ersten chinesischen Kaisers Qin Shihuangdi (gestorben 210 v. Chr.). Schätzungen sprechen von mehr als 8.000 lebensgroßen Soldaten, deren Gesichter individuell gestaltet sind. Ursprünglich waren sie farbig bemalt." }
+    text: "1974 stießen Bauern bei Xi’an auf Tonfiguren aus dem Grabkomplex des ersten chinesischen Kaisers Qin Shihuangdi (gestorben 210 v. Chr.). Schätzungen sprechen von mehr als 8.000 lebensgroßen Soldaten, deren Gesichter individuell gestaltet sind. Ursprünglich waren sie farbig bemalt." },
+  // ---- Serie: Der Dreißigjährige Krieg (Teil 5 ist ge1)
+  { id: "ge7", topic: "geschichte", title: "Ein Fenstersturz setzt Europa in Brand", q: "Prager Fenstersturz 1618",
+    series: "Der Dreißigjährige Krieg", part: 1, of: 5,
+    text: "Am 23. Mai 1618 warfen aufgebrachte böhmische Adlige zwei kaiserliche Statthalter und ihren Sekretär aus einem Fenster der Prager Burg. Alle drei überlebten – der Legende nach dank eines Misthaufens. Der Fenstersturz gilt als Auslöser des Dreißigjährigen Krieges. Doch wer führte ihn am Ende, und wie bezahlte man ihn? → Teil 2" },
+  { id: "ge8", topic: "geschichte", title: "Wallenstein: ein Krieg, der sich selbst bezahlt", q: "Albrecht von Wallenstein Kriegsunternehmer",
+    series: "Der Dreißigjährige Krieg", part: 2, of: 5,
+    text: "Albrecht von Wallenstein stellte für den Kaiser ein riesiges Söldnerheer auf und ließ es aus den besetzten Gebieten bezahlen – durch Zwangsabgaben, Kontributionen genannt. „Der Krieg ernährt den Krieg“, heißt es seither. 1634 wurde er im böhmischen Eger ermordet. Doch schon 1631 erschütterte ein Ereignis ganz Europa. → Teil 3" },
+  { id: "ge9", topic: "geschichte", title: "Magdeburg 1631: eine Stadt verschwindet", q: "Zerstörung Magdeburgs 1631 Tilly",
+    series: "Der Dreißigjährige Krieg", part: 3, of: 5,
+    text: "Am 20. Mai 1631 eroberten kaiserlich-ligistische Truppen unter Tilly die Stadt Magdeburg. Ein Großbrand zerstörte den größten Teil der Stadt; Schätzungen zufolge starben rund 20.000 Menschen. „Magdeburgisieren“ wurde zum Wort für völlige Zerstörung. Wer konnte die Kaiserlichen noch aufhalten? Ein König aus dem Norden. → Teil 4" },
+  { id: "ge10", topic: "geschichte", title: "Der Löwe aus dem Norden", q: "Gustav II. Adolf Schweden Lützen 1632",
+    series: "Der Dreißigjährige Krieg", part: 4, of: 5,
+    text: "1630 landete der schwedische König Gustav II. Adolf mit seinem Heer an der pommerschen Küste und griff für die Protestanten in den Krieg ein. Er siegte mehrfach, fiel aber 1632 in der Schlacht bei Lützen. Danach mischten immer mehr Mächte mit – bis alle erschöpft waren. Wie endete das Ganze? → Teil 5" }
 ];

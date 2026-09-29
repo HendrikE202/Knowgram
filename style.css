@@ -83,3 +83,18 @@ h1{margin:0;font-size:1.35rem;letter-spacing:-.5px}h1 span{background:linear-gra
 .seenchip{margin-left:8px;background:#ffffff26;color:#e6e9f0;border-radius:6px;padding:0 6px;font-size:.68rem;font-weight:600}
 .rail button.b-note.on{background:#38bdf8;color:#000}
 .sheet textarea{width:100%;background:var(--bg);color:var(--text);border:1px solid var(--line);border-radius:10px;padding:10px;font:inherit;margin:6px 0}
+/* Abend / Schlaf / Serien / Faden */
+.moon{padding:6px 7px!important;font-size:.95rem!important}
+.moon.on{color:#fbbf24!important}
+html[data-night="1"] #app{filter:brightness(.8) sepia(.28) saturate(.85)}
+html[data-night="1"] body{background:#07080b}
+html[data-big="1"] .card p{font-size:1.22rem;line-height:1.6}
+html[data-big="1"] .card h2{font-size:1.9rem}
+.gn{position:absolute;inset:0;z-index:50;background:#05060a;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px;padding:32px;text-align:center}
+.gn-moon{font-size:4rem}.gn h2{margin:0}.gn p{color:var(--muted);margin:0 0 12px}
+.gn .act{max-width:280px;text-align:center}
+.gn-off{background:none;border:0;color:var(--muted);text-decoration:underline;cursor:pointer;font:inherit;margin-top:6px}
+.acts{display:flex;gap:8px;flex-wrap:wrap;align-self:flex-start}
+.more.alt{background:transparent}
+.seriestag{margin-left:8px;background:#ffffff26;border-radius:6px;padding:0 6px;font-size:.68rem;font-weight:600}
+.also{font-size:.76rem;color:#c5cad6}.also a{color:#a5b4fc}
