@@ -7,7 +7,7 @@ Wikipedia selbst). Gespeichert werden NUR die Adresse und die Urheberangabe (ima
 keine Bildkopien. Bereits gefundene Karten werden übersprungen (`--refresh` für alles neu).
 Nur Standardbibliothek; Fehler einzelner Karten brechen den Lauf nicht ab.
 """
-import html, json, os, re, sys, time, urllib.parse, urllib.request
+import html, json, os, re, sys, time, urllib.error, urllib.parse, urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -15,13 +15,32 @@ UA = "Knowgram/1.0 (persoenliche Lern-App; kontakt: github.com/HendrikE202/Knowg
 WIKI = os.environ.get("WIKI_BASE", "https://de.wikipedia.org")
 COMMONS = os.environ.get("COMMONS_BASE", "https://commons.wikimedia.org")
 OK_LICENSE = re.compile(r"^(CC0|CC[ -]BY(?![ -]?NC)(?![ -]?ND)|Public domain|PD|gemeinfrei)", re.I)
+DELAY = float(os.environ.get("IMG_DELAY", "1.2"))        # Pause zwischen Anfragen (Wikimedia bittet um Zurückhaltung)
+MAX_PER_RUN = int(os.environ.get("IMG_MAX", "40"))       # pro Lauf höchstens so viele Karten; der Rest folgt beim nächsten Lauf
+
+
+class RateLimited(Exception):
+    pass
+
+
 CARD = re.compile(r'\{\s*id:\s*"([^"]+)",\s*topic:\s*"([^"]+)",\s*title:\s*"((?:[^"\\]|\\.)*)",\s*q:\s*"((?:[^"\\]|\\.)*)"')
 
 
 def get(url):
-    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/json"})
-    with urllib.request.urlopen(req, timeout=25) as r:
-        return json.loads(r.read().decode("utf-8"))
+    """GET mit Wartezeit bei 429/503 (Retry-After); nach 3 Versuchen wird der Lauf sauber abgebrochen."""
+    for attempt in range(3):
+        time.sleep(DELAY)
+        req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/json"})
+        try:
+            with urllib.request.urlopen(req, timeout=25) as r:
+                return json.loads(r.read().decode("utf-8"))
+        except urllib.error.HTTPError as e:
+            if e.code not in (429, 503):
+                raise
+            wait = min(int(e.headers.get("Retry-After", "30") or 30), 120) * (attempt + 1)
+            print(f"WARN  {e.code} – warte {wait}s (Versuch {attempt + 1}/3)", file=sys.stderr)
+            time.sleep(wait)
+    raise RateLimited()
 
 
 def unesc(s):
@@ -37,32 +56,27 @@ def strip(s, n=90):
 
 
 def find(card_id, q):
-    hits = get(f"{WIKI}/w/api.php?action=query&list=search&srsearch={urllib.parse.quote(q)}&srlimit=1&format=json").get("query", {}).get("search", [])
-    if not hits:
+    """Zwei Anfragen: (1) Suche + Artikelbild in einem Aufruf, (2) Lizenz des Bildes bei Commons."""
+    d = get(f"{WIKI}/w/api.php?action=query&generator=search&gsrsearch={urllib.parse.quote(q)}&gsrlimit=1"
+            "&prop=pageimages|pageprops&piprop=thumbnail|name&pithumbsize=960&ppprop=disambiguation&format=json&formatversion=2")
+    pages = (d.get("query") or {}).get("pages") or []
+    if not pages:
         return None
-    title = hits[0]["title"]
-    sm = get(f"{WIKI}/api/rest_v1/page/summary/{urllib.parse.quote(title.replace(' ', '_'), safe='')}")
-    if sm.get("type") == "disambiguation":
+    pg = pages[0]
+    if "disambiguation" in (pg.get("pageprops") or {}):
         return None
-    th, orig = (sm.get("thumbnail") or {}).get("source", ""), sm.get("originalimage") or {}
-    m = re.search(r"/wikipedia/commons/(?:thumb/)?[0-9a-f]/[0-9a-f]{2}/([^/]+)", th or orig.get("source", ""))
-    if not m:                       # kein Commons-Bild (z. B. lokales „Fair use“-Bild) -> nicht verwenden
+    th, name = (pg.get("thumbnail") or {}).get("source", ""), pg.get("pageimage") or ""
+    if not th or not name or "/wikipedia/commons/" not in th:   # kein Commons-Bild (z. B. lokales „Fair use“-Bild) -> nicht verwenden
         return None
-    fname = urllib.parse.unquote(m.group(1))
-    info = get(f"{COMMONS}/w/api.php?action=query&titles={urllib.parse.quote('File:' + fname)}&prop=imageinfo&iiprop=extmetadata&format=json&formatversion=2")
+    info = get(f"{COMMONS}/w/api.php?action=query&titles={urllib.parse.quote('File:' + name)}&prop=imageinfo&iiprop=extmetadata&format=json&formatversion=2")
     ii = ((info.get("query", {}).get("pages") or [{}])[0].get("imageinfo") or [{}])[0].get("extmetadata") or {}
     lic = strip((ii.get("LicenseShortName") or {}).get("value"), 40)
     if not OK_LICENSE.match(lic) or (ii.get("NonFree") or {}).get("value") in ("true", "1"):
         return None
-    width = orig.get("width") or 0
-    if width >= 960 and "/thumb/" in th:
-        url = re.sub(r"/\d+px-", "/960px-", th, count=1)
-    else:
-        url = orig.get("source") or th
-    if not url.startswith("https://"):
+    if not th.startswith("https://"):
         return None
-    return {"u": url, "by": strip((ii.get("Artist") or {}).get("value")) or "Unbekannt", "lic": lic,
-            "page": f"{COMMONS}/wiki/File:{urllib.parse.quote(fname.replace(' ', '_'))}", "art": title}
+    return {"u": th, "by": strip((ii.get("Artist") or {}).get("value")) or "Unbekannt", "lic": lic,
+            "page": f"{COMMONS}/wiki/File:{urllib.parse.quote(name.replace(' ', '_'))}", "art": pg.get("title", "")}
 
 
 def main():
@@ -74,20 +88,31 @@ def main():
         images = {}
     cards = [(i, t, unesc(ti), unesc(q)) for i, t, ti, q in CARD.findall((ROOT / "cards.js").read_text(encoding="utf-8"))]
     todo = [c for c in cards if refresh or c[0] not in images]
+    batch, rest = todo[:MAX_PER_RUN], max(0, len(todo) - MAX_PER_RUN)
     found = missed = failed = 0
-    for cid, _, title, q in todo:
+    stopped = False
+
+    def save():
+        valid = {c[0] for c in cards}
+        out_path.write_text(json.dumps({k: v for k, v in images.items() if k in valid}, ensure_ascii=False, indent=1, sort_keys=True) + "\n", encoding="utf-8")
+
+    for n, (cid, _, title, q) in enumerate(batch, 1):
         try:
             r = find(cid, q)
             images[cid] = r if r else {"none": True}       # „kein Bild“ merken, damit wir nicht ständig neu suchen
             found += bool(r); missed += not r
-        except Exception as e:
+        except RateLimited:
+            print("Wikimedia bremst weiter – Lauf wird beendet, der Rest folgt beim nächsten Mal.", file=sys.stderr)
+            stopped = True
+            break
+        except Exception as e:                              # einzelne Karte scheitert -> später erneut versuchen
             failed += 1
             print(f"WARN  {cid} ({q}): {type(e).__name__}: {e}", file=sys.stderr)
-        time.sleep(0.15)
-    valid = {c[0] for c in cards}
-    images = {k: v for k, v in images.items() if k in valid}   # gelöschte Karten aufräumen
-    out_path.write_text(json.dumps(images, ensure_ascii=False, indent=1, sort_keys=True) + "\n", encoding="utf-8")
-    print(f"{len(cards)} Karten, {len(todo)} bearbeitet: {found} Bilder gefunden, {missed} ohne passendes Bild, {failed} Fehler")
+        if n % 10 == 0:
+            save()
+    save()
+    print(f"{len(cards)} Karten, {len(batch)} versucht: {found} Bilder gefunden, {missed} ohne passendes Bild, {failed} Fehler"
+          f"{', abgebrochen (Rate-Limit)' if stopped else ''}; noch offen: {rest + (len(batch) - found - missed - failed if stopped else 0)}")
     return 0
 
 

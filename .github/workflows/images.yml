@@ -2,7 +2,7 @@ name: Titelbilder suchen
 
 on:
   schedule:
-    - cron: "23 4 * * 1"      # montags
+    - cron: "23 4 * * *"      # täglich (pro Lauf max. 40 Karten, der Rest folgt)
   workflow_dispatch: {}
   push:
     paths:
