@@ -5,7 +5,7 @@
   const feed = $("#feed"), chips = $("#chips"), sheet = $("#sheet"), toastEl = $("#toast");
 
   // --- Zustand (localStorage, darf fehlschlagen) ---
-  let S = { rate: {}, prefs: {}, dive: {}, strength: 0.5, wishes: [], reports: {}, checks: {}, lastCheck: 0, profile: { name: "", emoji: "🙂" }, saved: [], savedNews: {}, seen: [] };
+  let S = { rate: {}, prefs: {}, dive: {}, strength: 0.5, wishes: [], reports: {}, checks: {}, lastCheck: 0, notes: {}, arch: {}, seenAt: {}, badImg: {}, profile: { name: "", emoji: "🙂" }, saved: [], savedNews: {}, seen: [] };
   try { S = Object.assign(S, JSON.parse(localStorage.getItem("knowgram") || "{}")); } catch (e) {}
   for (const v of Object.values(S.rate)) if (!v.at) v.at = Date.now();   // Zeitstempel nachtragen (für das Abklingen alter Bewertungen)
   // Ältere Version: „liked“-Liste in Bewertungen (👍) überführen
@@ -19,7 +19,7 @@
 
   const ratingOf = (id) => (S.rate[id] && S.rate[id].r) || 0;
   let mode = "feed", topic = "", lastId = null, finite = false;
-  let NEWS = [], OTD = [], newsPtr = 0, hiddenAt = 0;
+  let NEWS = [], OTD = [], IMG = {}, newsPtr = 0, hiddenAt = 0;
   const SEEN = new Set(S.seen);
 
   const h = (tag, attrs = {}, ...kids) => {
@@ -54,6 +54,10 @@
   };
 
   // „Am heutigen Tag“ (onthisday.json): nur anzeigen, wenn die Daten zu heute passen
+  const loadImages = async () => {
+    try { const r = await fetch("images.json"); if (r.ok) IMG = await r.json(); } catch (e) { IMG = {}; }
+  };
+
   const loadOtd = async () => {
     try {
       const r = await fetch("onthisday.json?t=" + Date.now(), { cache: "no-store" });
@@ -76,7 +80,10 @@
   const isOld = (iso) => Date.now() - new Date(iso) > 3 * 864e5;
 
   // --- Feed-Aufbau: Wissenskarten gemischt, jede 3. Karte eine aktuelle Meldung ---
-  const newsPool = () => NEWS.filter((n) => !topic || topic === "news" || n.topic === topic);
+  // Meldungen haben ein Verfallsdatum (je Quelle); Abgelaufenes und schon Gesehenes kommt nicht mehr in den Feed
+  const isFresh = (n) => (n.expires ? Date.parse(n.expires) : Date.parse(n.published) + 7 * 864e5) > Date.now();
+  const newsPool = () => NEWS.filter(isFresh).filter((n) => !topic || topic === "news" || n.topic === topic)
+    .filter((n) => topic === "news" || !SEEN.has(n.id));
   const wissenPool = () => (topic === "news" ? [] : [...ALL, ...OTD].filter((c) => !topic || c.topic === topic));
 
   // --- Geschmack: vorsichtig und ausgewogen -----------------------------------
@@ -89,12 +96,33 @@
   const MIN_W = 0.35, MAX_W = 2, SMOOTH = 40, EXPLORE = 0.25, MAX_SHARE = 0.3;
 
   const checkVal = (k) => { const c = S.checks[k]; return c ? c.a * 0.5 * Math.pow(0.5, (Date.now() - c.at) / (90 * 864e5)) : 0; };
+  // Aufräumen beim Start: Bewertungen alter Meldungen (>30 Tage) werden zu einem Themen-Zähler verdichtet und einzeln gelöscht;
+  // alte „gesehen“-Zeitstempel (>120 Tage) und Notizen zu längst abgelaufenen Meldungen (>90 Tage) fallen weg.
+  const compact = () => {
+    const now = Date.now(), dyn = /^n[0-9a-f]{10}$|^otd\d/;
+    let changed = false;
+    for (const [id, v] of Object.entries(S.rate)) {
+      if (!dyn.test(id) || now - (v.at || now) < 30 * 864e5) continue;
+      const a = S.arch[v.topic] || (S.arch[v.topic] = { up: 0, down: 0, pos: 0, neg: 0, at: now });
+      const f = decay(a.at); a.pos *= f; a.neg *= f; a.at = now;
+      if (v.r > 0) { a.up++; a.pos += decay(v.at); } else { a.down++; a.neg += decay(v.at); }
+      delete S.rate[id]; changed = true;
+    }
+    for (const [id, t] of Object.entries(S.seenAt)) if (now - t > 120 * 864e5) { delete S.seenAt[id]; changed = true; }
+    for (const [id, v] of Object.entries(S.notes)) if (dyn.test(id) && now - (v.at || now) > 90 * 864e5) { delete S.notes[id]; changed = true; }
+    if (changed) persist();
+  };
+
   const topicStats = () => {
     const st = {};
     for (const k of Object.keys(TOPICS)) st[k] = { up: 0, down: 0, pos: 0, neg: 0, dive: S.dive[k] || 0, pref: (S.prefs[k] || 0) + checkVal(k), shown: 0 };
     for (const v of Object.values(S.rate)) {
       const x = st[v.topic]; if (!x) continue;
       if (v.r > 0) { x.up++; x.pos += decay(v.at); } else { x.down++; x.neg += decay(v.at); }
+    }
+    for (const [k, a] of Object.entries(S.arch)) {          // verdichtete alte Bewertungen
+      const x = st[k]; if (!x) continue;
+      x.up += a.up; x.down += a.down; x.pos += a.pos * decay(a.at); x.neg += a.neg * decay(a.at);
     }
     for (const id of SEEN) { const x = st[META[id]]; if (x) x.shown++; }
     for (const x of Object.values(st)) x.pos += 0.5 * Math.min(x.dive, 4);   // Vertiefen = schwaches Interesse
@@ -118,11 +146,13 @@
     return w;
   };
 
+  // Schon gesehene Karten kommen erst nach und nach wieder (nach ~7 Tagen wieder voll)
+  const cooldown = (id) => S.seenAt[id] ? Math.min(1, Math.max(0.05, (Date.now() - S.seenAt[id]) / (7 * 864e5))) : SEEN.has(id) ? 0.3 : 1;
   // gewichtetes Mischen; ein Teil der Plätze geht an selten gesehene Themen (Entdecken)
   const weightedShuffle = (list, W, st) => list
     .map((c) => {
       const explore = Math.random() < EXPLORE;
-      const wt = explore ? 1 / (1 + ((st[c.topic] || {}).shown || 0) / 3) : W[c.topic] || 1;
+      const wt = (explore ? 1 / (1 + ((st[c.topic] || {}).shown || 0) / 3) : W[c.topic] || 1) * cooldown(c.id);
       return { c, k: -Math.log(Math.random() || 1e-9) / wt };
     }).sort((a, b) => a.k - b.k).map((x) => x.c);
 
@@ -159,7 +189,7 @@
     const st = topicStats(), W = weights(st), keep = (c) => ratingOf(c.id) >= 0 && !S.reports[c.id];   // 👎- und gemeldete Karten kommen nicht wieder
     const w = spread(weightedShuffle(wissenPool().filter(keep), W, st).sort((a, b) => SEEN.has(a.id) - SEEN.has(b.id))); // Ungesehenes zuerst
     const n = newsPool().filter((x) => keep(x) && (W[x.topic] || 1) >= MIN_W);
-    if (!w.length) { finite = true; return n; }          // reine News-Ansicht: einmal durch, dann Ende
+    if (!w.length) { finite = true; return n.slice().sort((a, b) => SEEN.has(a.id) - SEEN.has(b.id)); }          // reine News-Ansicht: einmal durch, dann Ende
     finite = false;
     if (w.length > 1 && w[0].id === lastId) w.push(w.shift());
     lastId = w[w.length - 1].id;
@@ -203,6 +233,10 @@
       sheet.replaceChildren(h("div", { class: "sheet" },
         h("h3", {}, "Problem melden"),
         h("div", { class: "sub" }, "Das ist keine Geschmacks-Bewertung: Die Karte wird ausgeblendet und für die Prüfung vorgemerkt, dein Themen-Profil ändert sich dadurch nicht."),
+        ...(imgFor(c) ? [h("button", { class: "act", onclick: () => {
+          S.badImg[c.id] = 1; persist(); close(); toast("Bild ausgeblendet");
+          document.querySelectorAll(`.card[data-id="${c.id}"]`).forEach((e) => { e.classList.remove("has-img"); const im = e.querySelector(".cover img"); if (im) im.remove(); const cr = e.querySelector(".credit"); if (cr) cr.remove(); });
+        } }, "🖼️ Nur das Bild passt nicht", h("small", {}, "Die Karte bleibt, das Bild verschwindet"))] : []),
         ...REASONS.map((r) => h("button", { class: "act", onclick: () => {
           S.reports[c.id] = { reason: r, title: c.title, topic: c.topic, at: Date.now() }; persist();
           close(); toast("Danke – Karte wird nicht mehr gezeigt");
@@ -228,6 +262,7 @@
     el.querySelector(".b-up").classList.toggle("on", ratingOf(id) > 0);
     el.querySelector(".b-down").classList.toggle("on", ratingOf(id) < 0);
     el.querySelector(".b-save").classList.toggle("on", has("saved", id));
+    const nb = el.querySelector(".b-note"); if (nb) nb.classList.toggle("on", !!S.notes[id]);
   });
   // r = 1 (mehr davon) oder -1 (weniger davon); erneutes Tippen nimmt die Bewertung zurück
   const rate = (c, el, r, onlyAdd) => {
@@ -252,12 +287,16 @@
 
   // --- Karte ---
   const metaLine = (c) => {
+    const im = imgFor(c);
+    const credit = !im ? [] : c.kind === "news" ? [h("span", { class: "credit" }, `🖼️ Bild: ${c.source}`)]
+      : [h("a", { class: "credit", href: safeUrl(im.page), target: "_blank", rel: "noopener noreferrer" }, `🖼️ ${im.by} · ${im.lic}`)];
     if (c.kind === "otd") return h("div", { class: "meta" }, h("span", {}, `📅 ${c.date} · Wikipedia`));
-    if (c.kind !== "news") return h("div", { class: "meta" }, h("span", {}, `📚 Wissenskarte · KI-verfasst · Stand ${ASOF}`));
-    const old = isOld(c.published);
+    if (c.kind !== "news") return h("div", { class: "meta" }, h("span", {}, `📚 Wissenskarte · KI-verfasst · Stand ${ASOF}`), ...credit);
+    const old = isOld(c.published), expired = !isFresh(c);
     return h("div", { class: "meta" },
       h("span", {}, `📰 ${c.source} · ${c.type}`),
-      h("span", { class: old ? "old" : "" }, `${old ? "⏳ " : "🕒 "}${fmtAge(c.published)} · ${fmtDate(c.published)}`),
+      h("span", { class: old || expired ? "old" : "" }, `${expired ? "⏳ nicht mehr aktuell · " : old ? "⏳ " : "🕒 "}${fmtAge(c.published)} · ${fmtDate(c.published)}`),
+      ...credit,
       ...(c.tag ? [h("span", {}, `📍 ${c.tag}`)] : []),
       ...(c.lang === "en" ? [h("span", {}, "🇬🇧 englischsprachig")] : []));
   };
@@ -268,7 +307,7 @@
     if (!e.isIntersecting) return;
     const id = e.target.dataset.id;
     if (!SEEN.has(id)) {
-      SEEN.add(id); S.seen = [...SEEN].slice(-3000);
+      SEEN.add(id); S.seen = [...SEEN].slice(-3000); S.seenAt[id] = Date.now();
       clearTimeout(seenTimer); seenTimer = setTimeout(persist, 800);
     }
   }), { root: feed, threshold: 0.6 });
@@ -292,12 +331,73 @@
     return el;
   };
 
+  // Eigenes Cover als Rückfall (immer da) – deterministisch aus der Karten-ID, in Themenfarbe
+  const hash = (str) => { let x = 2166136261; for (let i = 0; i < str.length; i++) { x ^= str.charCodeAt(i); x = Math.imul(x, 16777619); } return x >>> 0; };
+  const genCover = (id, color) => {
+    let seed = hash(id); const r = () => { seed = (Math.imul(seed, 1664525) + 1013904223) >>> 0; return seed / 4294967296; };
+    let shapes = "";
+    for (let i = 0; i < 7; i++) {
+      const x = +(r() * 100).toFixed(1), y = +(r() * 60).toFixed(1), z = +(10 + r() * 38).toFixed(1), o = (0.07 + r() * 0.16).toFixed(2);
+      shapes += r() < 0.5
+        ? `<circle cx='${x}' cy='${y}' r='${z}' fill='white' fill-opacity='${o}'/>`
+        : `<rect x='${+(x - z / 2).toFixed(1)}' y='${+(y - z / 2).toFixed(1)}' width='${z}' height='${z}' rx='${+(z * 0.3).toFixed(1)}' transform='rotate(${Math.round(r() * 90)} ${x} ${y})' fill='white' fill-opacity='${o}'/>`;
+    }
+    const svg = `<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' preserveAspectRatio='xMidYMid slice'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='${color}'/><stop offset='1' stop-color='#0b0d12'/></linearGradient></defs><rect width='100' height='100' fill='url(#g)'/>${shapes}</svg>`;
+    return `url("data:image/svg+xml,${encodeURIComponent(svg)}")`;
+  };
+  // Foto: Wissenskarten aus images.json (Wikimedia Commons, freie Lizenz), Meldungen mit Bild aus dem Feed; sonst nur das Cover
+  const imgFor = (c) => {
+    if (S.badImg[c.id]) return null;
+    if (c.kind === "news") return c.img ? { u: c.img, news: true } : null;
+    if (c.kind) return null;
+    const i = IMG[c.id];
+    return i && i.u ? i : null;
+  };
+  const coverEl = (c, t) => {
+    const el = h("div", { class: "cover" });
+    el.style.backgroundImage = genCover(c.id, t.c);
+    const im = imgFor(c);
+    if (im) {
+      const img = h("img", { alt: "", loading: "lazy", decoding: "async", referrerpolicy: "no-referrer", src: safeUrl(im.u) });
+      img.addEventListener("error", () => img.remove());
+      img.addEventListener("load", () => el.parentElement && el.parentElement.classList.add("has-img"));
+      el.append(img);
+    }
+    return el;
+  };
+
+  // --- Notiz zu einer Karte (frei formuliert; ändert den Feed nicht automatisch)
+  const openNote = (c) => {
+    const close = () => { sheet.hidden = true; sheet.replaceChildren(); };
+    const ta = h("textarea", { rows: "5", maxlength: "500", placeholder: "Was gefällt dir hier, was nicht? Ideen, Fragen, Wünsche …" });
+    ta.value = (S.notes[c.id] && S.notes[c.id].t) || "";
+    const save = () => {
+      const t = ta.value.trim();
+      if (!t) delete S.notes[c.id];
+      else {
+        S.notes[c.id] = { t: t.slice(0, 500), title: c.title, topic: c.topic, at: Date.now() };
+        const keys = Object.keys(S.notes);
+        if (keys.length > 200) delete S.notes[keys.sort((a, b) => S.notes[a].at - S.notes[b].at)[0]];
+      }
+      persist(); syncRail(c.id); close(); toast(t ? "Notiz gespeichert" : "Notiz gelöscht");
+    };
+    sheet.replaceChildren(h("div", { class: "sheet" },
+      h("h3", {}, c.title), h("div", { class: "sub" }, "Deine Notiz zu dieser Karte"),
+      ta,
+      h("button", { class: "act", onclick: save }, "Speichern"),
+      ...(S.notes[c.id] ? [h("button", { class: "act", onclick: () => { ta.value = ""; save(); } }, "Notiz löschen")] : []),
+      h("button", { class: "act", onclick: close }, "Abbrechen")));
+    sheet.hidden = false; sheet.onclick = (e) => { if (e.target === sheet) close(); };
+    setTimeout(() => ta.focus(), 50);
+  };
+
   const cardEl = (c) => {
     if (c.kind === "check") return checkEl(c);
-    const t = topicOf(c), news = c.kind === "news", fresh = !SEEN.has(c.id) && !c.kind;
+    const t = topicOf(c), news = c.kind === "news", wasSeen = SEEN.has(c.id), fresh = !wasSeen && !c.kind;
     const el = h("article", { class: "card", "data-id": c.id, style: `--c:${t.c}` },
+      coverEl(c, t),
       h("div", { class: "big" }, news ? "📰" : c.kind === "otd" ? "📅" : t.emoji),
-      h("span", { class: "tag" }, `${t.emoji} ${news ? "Aktuell · " : c.kind === "otd" ? "Heute · " : ""}${t.name}`, ...(fresh ? [h("b", { class: "new" }, "NEU")] : [])),
+      h("span", { class: "tag" }, `${t.emoji} ${news ? "Aktuell · " : c.kind === "otd" ? "Heute · " : ""}${t.name}`, ...(fresh ? [h("b", { class: "new" }, "NEU")] : mode === "feed" && wasSeen ? [h("b", { class: "seenchip" }, S.seenAt[c.id] ? `✓ gesehen ${fmtAge(new Date(S.seenAt[c.id]).toISOString()).replace("vor ", "vor ")}` : "✓ gesehen")] : [])),
       h("h2", {}, c.title),
       c.text ? h("p", {}, c.text) : "",
       metaLine(c),
@@ -305,6 +405,7 @@
       h("div", { class: "rail" },
         h("button", { class: "b-up" + (ratingOf(c.id) > 0 ? " on" : ""), "aria-label": "Mehr davon", onclick: () => rate(c, el, 1) }, "👍"),
         h("button", { class: "b-down" + (ratingOf(c.id) < 0 ? " on" : ""), "aria-label": "Weniger davon", onclick: () => rate(c, el, -1) }, "👎"),
+        h("button", { class: "b-note" + (S.notes[c.id] ? " on" : ""), "aria-label": "Notiz", onclick: () => openNote(c) }, "💬"),
         h("button", { class: "b-save" + (has("saved", c.id) ? " on" : ""), "aria-label": "Speichern", onclick: () => toggleSave(c) }, "🔖"),
         h("button", { "aria-label": "Teilen", onclick: () => share(c) }, "↗")));
     el.addEventListener("dblclick", () => rate(c, el, 1, true));
@@ -332,7 +433,7 @@
   };
 
   // --- Profil (lokal, bleibt auf diesem Gerät) ---
-  const exportJson = () => JSON.stringify({ app: "knowgram", v: 1, at: new Date().toISOString(), profile: S.profile, prefs: S.prefs, dive: S.dive, strength: S.strength, checks: S.checks, wishes: S.wishes, reports: S.reports, rate: S.rate, saved: S.saved }, null, 1);
+  const exportJson = () => JSON.stringify({ app: "knowgram", v: 1, at: new Date().toISOString(), profile: S.profile, prefs: S.prefs, dive: S.dive, strength: S.strength, checks: S.checks, wishes: S.wishes, reports: S.reports, notes: S.notes, arch: S.arch, rate: S.rate, saved: S.saved }, null, 1);
   const importJson = (txt) => {
     const j = JSON.parse(txt);
     if (!j || j.app !== "knowgram" || j.v !== 1 || typeof j.rate !== "object") throw new Error("Format");
@@ -349,6 +450,12 @@
     const reports = {};
     for (const [id, v] of Object.entries(j.reports || {})) if (v && typeof v.reason === "string") reports[String(id).slice(0, 40)] = { reason: v.reason.slice(0, 60), title: String(v.title || "").slice(0, 200), topic: TOPICS[v.topic] ? v.topic : "", at: Number.isFinite(v.at) ? v.at : Date.now() };
     S.reports = reports;
+    const notes = {};
+    for (const [id, v] of Object.entries(j.notes || {})) if (v && typeof v.t === "string" && v.t.trim()) notes[String(id).slice(0, 40)] = { t: v.t.slice(0, 500), title: String(v.title || "").slice(0, 200), topic: TOPICS[v.topic] ? v.topic : "", at: Number.isFinite(v.at) ? v.at : Date.now() };
+    S.notes = Object.fromEntries(Object.entries(notes).slice(-200));
+    const num = (x) => (Number.isFinite(x) && x >= 0 ? Math.min(x, 1e6) : 0), arch = {};
+    for (const [k, a] of Object.entries(j.arch || {})) if (TOPICS[k] && a) arch[k] = { up: num(a.up), down: num(a.down), pos: num(a.pos), neg: num(a.neg), at: Number.isFinite(a.at) ? a.at : Date.now() };
+    S.arch = arch;
     S.rate = rate; S.prefs = prefs; S.dive = dive; if ([0, 0.5, 1, 1.5].includes(j.strength)) S.strength = j.strength;
     S.profile = { name: String((j.profile && j.profile.name) || "").slice(0, 24), emoji: String((j.profile && j.profile.emoji) || "🙂").slice(0, 4) };
     if (Array.isArray(j.saved)) S.saved = j.saved.filter((x) => typeof x === "string").slice(0, 2000);
@@ -421,6 +528,12 @@
         h("p", { class: "pf-note" }, "„Aus“ = reine Abwechslung. Selbst bei „Stark“ bleiben alle Themen im Feed: Lieblinge kommen höchstens doppelt so oft, andere mindestens etwa ein Drittel so oft. Ein 👎 betrifft vor allem die eine Karte. Rund jede vierte Karte ist ein Entdecker-Tipp aus selten gesehenen Themen.")),
       sec("Zuletzt 👍", h("div", { class: "pf-list" }, ...recent(1))),
       sec("Zuletzt 👎", h("div", { class: "pf-list" }, ...recent(-1))),
+      sec("Meine Notizen",
+        h("div", { class: "pf-list" }, ...(Object.keys(S.notes).length
+          ? Object.entries(S.notes).sort((a, b) => b[1].at - a[1].at).slice(0, 10).map(([id, v]) => h("div", { class: "it" },
+              h("span", {}, `${(TOPICS[v.topic] || {}).emoji || "•"} ${v.title}: „${v.t.length > 120 ? v.t.slice(0, 120) + " …" : v.t}“`),
+              h("button", { onclick: () => { delete S.notes[id]; persist(); render(); } }, "löschen")))
+          : [h("p", { class: "pf-empty" }, "Tippe bei einer Karte auf 💬, um eine Idee oder einen Gedanken festzuhalten. Notizen ändern den Feed nicht automatisch; sie sind für dich (und stehen im Export).")]))),
       sec("Feedback",
         h("p", { class: "pf-note" }, "Themenwunsch ohne Wertung: Was würdest du gern entdecken? Es fließt nicht in deine Bewertungen ein."),
         h("div", { class: "pf-wish" }, wishIn, h("button", { class: "seg", onclick: addWish }, "Hinzufügen")),
@@ -433,7 +546,7 @@
         h("button", { class: "act", onclick: async () => toast((await copy(exportJson())) ? "Geschmack kopiert" : "Kopieren nicht möglich") }, "📋 Geschmack kopieren", h("small", {}, "Als Text, z. B. zum Sichern oder um ihn Claude zu zeigen")),
         box,
         h("button", { class: "act", onclick: () => { try { importJson(box.value); toast("Geschmack geladen"); render(); } catch (e) { toast("Das ist kein gültiger Export"); } } }, "📥 Einfügen & laden"),
-        h("button", { class: "act", onclick: () => { if (confirm("Wirklich alles zurücksetzen (Bewertungen, Gespeichertes, Profil)?")) { S = { rate: {}, prefs: {}, dive: {}, strength: 0.5, wishes: [], reports: {}, checks: {}, lastCheck: 0, profile: { name: "", emoji: "🙂" }, saved: [], savedNews: {}, seen: [] }; SEEN.clear(); persist(); render(); } } }, "🗑️ Alles zurücksetzen")));
+        h("button", { class: "act", onclick: () => { if (confirm("Wirklich alles zurücksetzen (Bewertungen, Gespeichertes, Profil)?")) { S = { rate: {}, prefs: {}, dive: {}, strength: 0.5, wishes: [], reports: {}, checks: {}, lastCheck: 0, notes: {}, arch: {}, seenAt: {}, badImg: {}, profile: { name: "", emoji: "🙂" }, saved: [], savedNews: {}, seen: [] }; SEEN.clear(); persist(); render(); } } }, "🗑️ Alles zurücksetzen")));
   };
 
   const render = () => {
@@ -468,6 +581,6 @@
     if (hiddenAt && Date.now() - hiddenAt > 15 * 60000 && (await loadNews())) { indexMeta(); drawChips(); toast("Nachrichten aktualisiert"); }
   });
 
-  (async () => { await Promise.all([loadNews(), loadOtd()]); indexMeta(); drawChips(); render(); })();
+  (async () => { await Promise.all([loadNews(), loadOtd(), loadImages()]); indexMeta(); compact(); drawChips(); render(); })();
   if ("serviceWorker" in navigator && location.protocol.startsWith("http")) navigator.serviceWorker.register("sw.js").catch(() => {});
 })();

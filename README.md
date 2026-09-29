@@ -29,6 +29,17 @@ Installation als PWA später per HTTPS hosten).
 - Zusätzlich holt `tools/fetch_onthisday.py` täglich „Am heutigen Tag“-Karten aus der Wikipedia (`onthisday.json`).
 - Ungesehene Karten kommen im Feed zuerst und tragen das Label „NEU“.
 
+## Bilder
+- **Wissenskarten:** `tools/fetch_images.py` (GitHub-Job `images.yml`, montags und bei neuen Karten) sucht je Karte ein Bild bei Wikimedia Commons und schreibt Adresse + Urheberangabe nach `images.json`. Nur freie Lizenzen (CC0, CC BY, CC BY-SA, gemeinfrei); keine Bildkopien im Repo. Die Angabe „Autor · Lizenz“ steht auf der Karte und verlinkt zur Quelle. Passt ein Bild nicht: „Problem melden → Nur das Bild passt nicht“.
+- **Meldungen:** Das Vorschaubild aus dem Feed wird verlinkt (nicht kopiert) und mit „Bild: Quelle“ gekennzeichnet. Für den privaten Gebrauch gedacht; bei einer öffentlichen Version nur Commons-Bilder und eigene Cover verwenden.
+- **Eigene Cover:** Jede Karte hat ein automatisch erzeugtes Cover in der Themenfarbe (Rückfall, falls kein Foto passt).
+
+## Feed sauber halten
+- Meldungen haben ein Verfallsdatum je Quelle (`ttl_days` in `feeds.json`, z. B. Nachrichten 2–4 Tage, Wissenschaft 14) und verschwinden dann aus `news.json` und dem Feed. Schon gesehene Meldungen kommen nicht wieder.
+- Schon gesehene Karten tragen „✓ gesehen“ und kommen erst nach und nach wieder (Abklingzeit ~7 Tage). Karten mit 👎 oder Meldung kommen nicht wieder.
+- Aufräumen beim Start: Bewertungen alter Meldungen (>30 Tage) werden zu einem Themen-Zähler verdichtet und einzeln gelöscht; alte „gesehen“-Zeitstempel (>120 Tage) und Notizen zu längst abgelaufenen Meldungen (>90 Tage) fallen weg.
+- 💬 Notiz pro Karte (frei formuliert, max. 500 Zeichen). Notizen ändern den Feed nicht automatisch, sie stehen im Profil und im Export.
+
 ## Geschmack & Profil
 - Jede Karte: 👍 mehr davon / 👎 weniger davon (Doppeltipp = 👍). 👎-Karten kommen nicht wieder.
 - Der Feed gewichtet Themen nach Bewertungen, „Tiefer eintauchen“ und Lieblingsthemen; ca. jede 5. Karte ist bewusst eine Überraschung.

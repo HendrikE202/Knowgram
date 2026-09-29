@@ -70,3 +70,16 @@ h1{margin:0;font-size:1.35rem;letter-spacing:-.5px}h1 span{background:linear-gra
 .pf-wish{display:flex;gap:8px;margin:6px 0}.pf-wish input{flex:1;background:var(--panel);color:var(--text);border:1px solid var(--line);border-radius:10px;padding:10px;font:inherit;min-width:0}
 .pf-wish .seg{flex:none;padding:8px 14px}
 .opt{display:block;width:100%;text-align:left;margin:6px 0;border-radius:10px;border:1px solid #ffffff33;background:#ffffff12;color:var(--text);font:inherit;cursor:pointer}
+/* Titelbild / Cover */
+.card>*{position:relative;z-index:1}
+.card>.cover,.card>.big,.card>.rail,.card>.pop{position:absolute}
+.card>.cover{inset:0;z-index:0;background-size:cover;background-position:center;overflow:hidden}
+.cover img{width:100%;height:100%;object-fit:cover;display:block}
+.cover::after{content:"";position:absolute;inset:0;background:linear-gradient(to bottom,#0b0d1233 0%,#0b0d1266 35%,#0b0d12e6 72%,#0b0d12 100%)}
+.card.has-img>.big{display:none}
+.credit{display:none;font-size:.7rem;color:#c5cad6;text-decoration:none}
+.card.has-img .credit{display:inline}
+.credit:hover{text-decoration:underline}
+.seenchip{margin-left:8px;background:#ffffff26;color:#e6e9f0;border-radius:6px;padding:0 6px;font-size:.68rem;font-weight:600}
+.rail button.b-note.on{background:#38bdf8;color:#000}
+.sheet textarea{width:100%;background:var(--bg);color:var(--text);border:1px solid var(--line);border-radius:10px;padding:10px;font:inherit;margin:6px 0}

@@ -8,7 +8,8 @@
       "source": "Tagesschau",
       "type": "Öffentlich-rechtlich",
       "topic": "politik",
-      "max": 4
+      "max": 4,
+      "ttl_days": 3
     },
     {
       "id": "ts-ausland",
@@ -16,7 +17,8 @@
       "source": "Tagesschau",
       "type": "Öffentlich-rechtlich",
       "topic": "welt",
-      "max": 4
+      "max": 4,
+      "ttl_days": 3
     },
     {
       "id": "ts-wirtschaft",
@@ -24,7 +26,8 @@
       "source": "Tagesschau",
       "type": "Öffentlich-rechtlich",
       "topic": "wirtschaft",
-      "max": 3
+      "max": 3,
+      "ttl_days": 3
     },
     {
       "id": "ts-wissen",
@@ -32,7 +35,8 @@
       "source": "Tagesschau",
       "type": "Öffentlich-rechtlich",
       "topic": "wissenschaft",
-      "max": 3
+      "max": 3,
+      "ttl_days": 14
     },
     {
       "id": "dlf",
@@ -40,7 +44,8 @@
       "source": "Deutschlandfunk",
       "type": "Öffentlich-rechtlich",
       "topic": "politik",
-      "max": 3
+      "max": 3,
+      "ttl_days": 2
     },
     {
       "id": "dw",
@@ -48,7 +53,8 @@
       "source": "Deutsche Welle",
       "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
       "topic": "welt",
-      "max": 3
+      "max": 3,
+      "ttl_days": 4
     },
     {
       "id": "hessenschau",
@@ -57,7 +63,8 @@
       "type": "Öffentlich-rechtlich",
       "topic": "politik",
       "tag": "Hessen",
-      "max": 1
+      "max": 1,
+      "ttl_days": 4
     },
     {
       "id": "spektrum",
@@ -65,7 +72,8 @@
       "source": "Spektrum der Wissenschaft",
       "type": "Wissenschaftsmagazin",
       "topic": "wissenschaft",
-      "max": 3
+      "max": 3,
+      "ttl_days": 14
     },
     {
       "id": "cbs-nfl",
@@ -74,7 +82,8 @@
       "type": "Sportmedium",
       "topic": "nfl",
       "lang": "en",
-      "max": 2
+      "max": 2,
+      "ttl_days": 5
     },
     {
       "id": "yahoo-nfl",
@@ -83,7 +92,8 @@
       "type": "Sportmedium",
       "topic": "nfl",
       "lang": "en",
-      "max": 2
+      "max": 2,
+      "ttl_days": 5
     },
     {
       "id": "heise",
@@ -91,7 +101,8 @@
       "source": "heise online",
       "type": "Fachmedium (IT)",
       "topic": "it",
-      "max": 3
+      "max": 3,
+      "ttl_days": 5
     },
     {
       "id": "golem",
@@ -99,7 +110,8 @@
       "source": "Golem.de",
       "type": "Fachmedium (IT)",
       "topic": "it",
-      "max": 2
+      "max": 2,
+      "ttl_days": 5
     },
     {
       "id": "decoder",
@@ -111,7 +123,8 @@
       "skip": [
         "Webinar",
         "KI PRO"
-      ]
+      ],
+      "ttl_days": 7
     }
   ]
 }
