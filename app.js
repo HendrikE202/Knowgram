@@ -5,14 +5,15 @@
   const feed = $("#feed"), chips = $("#chips"), sheet = $("#sheet"), toastEl = $("#toast");
 
   // --- Zustand (localStorage, darf fehlschlagen) ---
-  let S = { liked: [], saved: [], savedNews: {} };
+  let S = { liked: [], saved: [], savedNews: {}, seen: [] };
   try { S = Object.assign(S, JSON.parse(localStorage.getItem("knowgram") || "{}")); } catch (e) {}
   const persist = () => { try { localStorage.setItem("knowgram", JSON.stringify(S)); } catch (e) {} };
   const has = (k, id) => S[k].includes(id);
   const flip = (k, id) => { S[k] = has(k, id) ? S[k].filter((x) => x !== id) : [...S[k], id]; persist(); };
 
   let mode = "feed", topic = "", lastId = null, finite = false;
-  let NEWS = [], newsPtr = 0, hiddenAt = 0;
+  let NEWS = [], OTD = [], newsPtr = 0, hiddenAt = 0;
+  const SEEN = new Set(S.seen);
 
   const h = (tag, attrs = {}, ...kids) => {
     const el = document.createElement(tag);
@@ -45,6 +46,17 @@
     } catch (e) { return false; }
   };
 
+  // „Am heutigen Tag“ (onthisday.json): nur anzeigen, wenn die Daten zu heute passen
+  const loadOtd = async () => {
+    try {
+      const r = await fetch("onthisday.json?t=" + Date.now(), { cache: "no-store" });
+      if (!r.ok) throw new Error(r.status);
+      const j = await r.json(), d = new Date();
+      const md = String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0");
+      OTD = j.md === md ? j.items || [] : [];
+    } catch (e) { OTD = []; }
+  };
+
   // --- Zeitangaben ---
   const fmtAge = (iso) => {
     const min = (Date.now() - new Date(iso)) / 60000;
@@ -58,10 +70,10 @@
 
   // --- Feed-Aufbau: Wissenskarten gemischt, jede 3. Karte eine aktuelle Meldung ---
   const newsPool = () => NEWS.filter((n) => !topic || topic === "news" || n.topic === topic);
-  const wissenPool = () => (topic === "news" ? [] : ALL.filter((c) => !topic || c.topic === topic));
+  const wissenPool = () => (topic === "news" ? [] : [...ALL, ...OTD].filter((c) => !topic || c.topic === topic));
 
   const nextBatch = () => {
-    const w = shuffle(wissenPool()), n = newsPool();
+    const w = shuffle(wissenPool()).sort((a, b) => SEEN.has(a.id) - SEEN.has(b.id)), n = newsPool(); // Ungesehenes zuerst
     if (!w.length) { finite = true; return n; }          // reine News-Ansicht: einmal durch, dann Ende
     finite = false;
     if (w.length > 1 && w[0].id === lastId) w.push(w.shift());
@@ -75,27 +87,28 @@
   };
 
   // --- Vertiefen ---
-  const promptFor = (c) => c.kind === "news"
+  const promptFor = (c) => c.kind === "news" || c.kind === "otd"
     ? `Ordne diese Nachricht ein (Hintergrund, Beteiligte, unterschiedliche Sichtweisen, was noch unklar ist). Antworte auf Deutsch und nenne Quellen.\n\n${c.title}\n${c.text}\n(${c.source}, ${fmtDate(c.published)})\n${c.link}`
     : `Erkläre mir das Thema „${c.title}“ ausführlich auf Deutsch (Kontext, Hintergründe, Streitpunkte, Quellen zum Weiterlesen). Ausgangspunkt:\n${c.text}`;
 
   const openSheet = (c) => {
-    const news = c.kind === "news";
-    const q = encodeURIComponent(news ? c.title : c.q);
+    const news = c.kind === "news", otd = c.kind === "otd", ext = news || otd;
+    const q = encodeURIComponent(otd ? c.text.slice(0, 80) : news ? c.title : c.q);
     const close = () => { sheet.hidden = true; sheet.replaceChildren(); };
     const link = (href, title, sub) => h("a", { class: "act", href, target: "_blank", rel: "noopener noreferrer" }, title, h("small", {}, sub));
     const parts = [h("h3", {}, c.title), h("div", { class: "sub" }, "Tiefer eintauchen")];
-    if (news) parts.push(link(safeUrl(c.link), "📰 Originalartikel lesen", `${c.source} · ${fmtDate(c.published)}`));
+    if (ext) parts.push(link(safeUrl(c.link), otd ? "📖 Wikipedia-Artikel lesen" : "📰 Originalartikel lesen", otd ? c.date : `${c.source} · ${fmtDate(c.published)}`));
     else parts.push(link(`https://de.wikipedia.org/w/index.php?search=${q}`, "📖 Bei Wikipedia lesen", "Suche nach: " + c.q));
     parts.push(link(`https://duckduckgo.com/?q=${q}`, "🔎 Im Web recherchieren", "Weitere Quellen finden"));
     parts.push(h("button", { class: "act", onclick: async () => toast((await copy(promptFor(c))) ? "Prompt kopiert – in Claude einfügen" : "Kopieren nicht möglich") }, "🤖 Mit Claude vertiefen", h("small", {}, "Kopiert einen fertigen Prompt")));
     const t = topicOf(c);
     parts.push(h("div", { class: "refs" },
-      h("b", {}, news ? "Einordnung" : "Wo du es prüfen kannst"),
-      h("p", {}, news
+      h("b", {}, ext ? "Einordnung" : "Wo du es prüfen kannst"),
+      h("p", {}, otd ? "Quelle: Wikipedia, Rubrik „Am heutigen Tag“ – von Freiwilligen gepflegt, mit Belegen im verlinkten Artikel."
+        : news
         ? `Angezeigt wird die Vorschau des Anbieters (${c.source}, ${c.type}), keine eigene Zusammenfassung. Vergleiche wichtige Themen mit mehr als einer Quelle.`
         : "Diese Karte wurde von einer KI geschrieben und ist nicht automatisch faktengeprüft. Verlässliche Anlaufstellen:"),
-      ...(news ? [] : t.refs.map(([n, u]) => h("a", { href: u, target: "_blank", rel: "noopener noreferrer" }, n)))));
+      ...(ext ? [] : t.refs.map(([n, u]) => h("a", { href: u, target: "_blank", rel: "noopener noreferrer" }, n)))));
     parts.push(h("button", { class: "act", onclick: close }, "Schließen"));
     sheet.replaceChildren(h("div", { class: "sheet" }, ...parts));
     sheet.hidden = false;
@@ -103,7 +116,7 @@
   };
 
   const share = async (c) => {
-    const text = c.kind === "news" ? `${c.title}\n${c.link}\n– via Knowgram` : `${c.title}\n\n${c.text}\n\n– via Knowgram`;
+    const text = c.link ? `${c.title}\n${c.text}\n${c.link}\n– via Knowgram` : `${c.title}\n\n${c.text}\n\n– via Knowgram`;
     if (navigator.share) { try { await navigator.share({ title: c.title, text }); return; } catch (e) { if (e.name === "AbortError") return; } }
     toast((await copy(text)) ? "Text kopiert" : "Teilen nicht möglich");
   };
@@ -120,13 +133,14 @@
   };
   const toggleSave = (c) => {
     flip("saved", c.id);
-    if (c.kind === "news") { if (has("saved", c.id)) S.savedNews[c.id] = c; else delete S.savedNews[c.id]; persist(); }
+    if (c.kind) { if (has("saved", c.id)) S.savedNews[c.id] = c; else delete S.savedNews[c.id]; persist(); }
     syncRail(c.id); toast(has("saved", c.id) ? "Gespeichert" : "Entfernt");
     if (mode === "saved") render();
   };
 
   // --- Karte ---
   const metaLine = (c) => {
+    if (c.kind === "otd") return h("div", { class: "meta" }, h("span", {}, `📅 ${c.date} · Wikipedia`));
     if (c.kind !== "news") return h("div", { class: "meta" }, h("span", {}, `📚 Wissenskarte · KI-verfasst · Stand ${ASOF}`));
     const old = isOld(c.published);
     return h("div", { class: "meta" },
@@ -136,11 +150,22 @@
       ...(c.lang === "en" ? [h("span", {}, "🇬🇧 englischsprachig")] : []));
   };
 
+  // Karte gilt als gesehen, wenn sie zu 60 % sichtbar ist
+  let seenTimer;
+  const seenObs = new IntersectionObserver((es) => es.forEach((e) => {
+    if (!e.isIntersecting) return;
+    const id = e.target.dataset.id;
+    if (!SEEN.has(id)) {
+      SEEN.add(id); S.seen = [...SEEN].slice(-3000);
+      clearTimeout(seenTimer); seenTimer = setTimeout(persist, 800);
+    }
+  }), { root: feed, threshold: 0.6 });
+
   const cardEl = (c) => {
-    const t = topicOf(c), news = c.kind === "news";
+    const t = topicOf(c), news = c.kind === "news", fresh = !SEEN.has(c.id) && !c.kind;
     const el = h("article", { class: "card", "data-id": c.id, style: `--c:${t.c}` },
-      h("div", { class: "big" }, news ? "📰" : t.emoji),
-      h("span", { class: "tag" }, `${t.emoji} ${news ? "Aktuell · " : ""}${t.name}`),
+      h("div", { class: "big" }, news ? "📰" : c.kind === "otd" ? "📅" : t.emoji),
+      h("span", { class: "tag" }, `${t.emoji} ${news ? "Aktuell · " : c.kind === "otd" ? "Heute · " : ""}${t.name}`, ...(fresh ? [h("b", { class: "new" }, "NEU")] : [])),
       h("h2", {}, c.title),
       c.text ? h("p", {}, c.text) : "",
       metaLine(c),
@@ -150,6 +175,7 @@
         h("button", { class: "b-save" + (has("saved", c.id) ? " on" : ""), "aria-label": "Speichern", onclick: () => toggleSave(c) }, "🔖"),
         h("button", { "aria-label": "Teilen", onclick: () => share(c) }, "↗")));
     el.addEventListener("dblclick", () => like(c, el, true));
+    seenObs.observe(el);
     return el;
   };
 
@@ -176,7 +202,7 @@
     obs && obs.disconnect();
     feed.replaceChildren(); feed.scrollTop = 0; newsPtr = 0;
     if (mode === "saved") {
-      const list = [...ALL.filter((c) => has("saved", c.id)), ...Object.values(S.savedNews).map((n) => ({ ...n, kind: "news" }))]
+      const list = [...ALL.filter((c) => has("saved", c.id)), ...Object.values(S.savedNews)]
         .filter((c) => !topic || topic === "news" ? (topic !== "news" || c.kind === "news") : c.topic === topic);
       if (!list.length) feed.append(h("div", { class: "empty" }, "Noch nichts gespeichert. Tippe auf 🔖, um Karten hier zu sammeln."));
       else feed.append(...list.map(cardEl));
@@ -202,6 +228,6 @@
     if (hiddenAt && Date.now() - hiddenAt > 15 * 60000 && (await loadNews())) { drawChips(); toast("Nachrichten aktualisiert"); }
   });
 
-  (async () => { await loadNews(); drawChips(); render(); })();
+  (async () => { await Promise.all([loadNews(), loadOtd()]); drawChips(); render(); })();
   if ("serviceWorker" in navigator && location.protocol.startsWith("http")) navigator.serviceWorker.register("sw.js").catch(() => {});
 })();

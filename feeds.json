@@ -2,14 +2,88 @@
   "max_age_days": 7,
   "max_items_total": 80,
   "feeds": [
-    { "id": "ts-inland", "url": "https://www.tagesschau.de/inland/index~rss2.xml", "source": "Tagesschau", "type": "Öffentlich-rechtlich", "topic": "politik", "max": 4 },
-    { "id": "ts-ausland", "url": "https://www.tagesschau.de/ausland/index~rss2.xml", "source": "Tagesschau", "type": "Öffentlich-rechtlich", "topic": "welt", "max": 4 },
-    { "id": "ts-wirtschaft", "url": "https://www.tagesschau.de/wirtschaft/index~rss2.xml", "source": "Tagesschau", "type": "Öffentlich-rechtlich", "topic": "wirtschaft", "max": 3 },
-    { "id": "ts-wissen", "url": "https://www.tagesschau.de/wissen/index~rss2.xml", "source": "Tagesschau", "type": "Öffentlich-rechtlich", "topic": "wissenschaft", "max": 3 },
-    { "id": "dlf", "url": "https://www.deutschlandfunk.de/nachrichten-100.rss", "source": "Deutschlandfunk", "type": "Öffentlich-rechtlich", "topic": "politik", "max": 3 },
-    { "id": "dw", "url": "https://rss.dw.com/xml/rss-de-all", "source": "Deutsche Welle", "type": "Öffentlich-rechtlich (Auslandsrundfunk)", "topic": "welt", "max": 3 },
-    { "id": "hessenschau", "url": "https://www.hessenschau.de/index.rss", "source": "hessenschau (hr)", "type": "Öffentlich-rechtlich", "topic": "politik", "tag": "Hessen", "max": 1 },
-    { "id": "spektrum", "url": "https://www.spektrum.de/alias/rss/spektrum-de-rss-feed/996406", "source": "Spektrum der Wissenschaft", "type": "Wissenschaftsmagazin", "topic": "wissenschaft", "max": 3 },
-    { "id": "espn-nfl", "url": "https://www.espn.com/espn/rss/nfl/news", "source": "ESPN", "type": "Sportmedium", "topic": "nfl", "lang": "en", "max": 3 }
+    {
+      "id": "ts-inland",
+      "url": "https://www.tagesschau.de/inland/index~rss2.xml",
+      "source": "Tagesschau",
+      "type": "Öffentlich-rechtlich",
+      "topic": "politik",
+      "max": 4
+    },
+    {
+      "id": "ts-ausland",
+      "url": "https://www.tagesschau.de/ausland/index~rss2.xml",
+      "source": "Tagesschau",
+      "type": "Öffentlich-rechtlich",
+      "topic": "welt",
+      "max": 4
+    },
+    {
+      "id": "ts-wirtschaft",
+      "url": "https://www.tagesschau.de/wirtschaft/index~rss2.xml",
+      "source": "Tagesschau",
+      "type": "Öffentlich-rechtlich",
+      "topic": "wirtschaft",
+      "max": 3
+    },
+    {
+      "id": "ts-wissen",
+      "url": "https://www.tagesschau.de/wissen/index~rss2.xml",
+      "source": "Tagesschau",
+      "type": "Öffentlich-rechtlich",
+      "topic": "wissenschaft",
+      "max": 3
+    },
+    {
+      "id": "dlf",
+      "url": "https://www.deutschlandfunk.de/nachrichten-100.rss",
+      "source": "Deutschlandfunk",
+      "type": "Öffentlich-rechtlich",
+      "topic": "politik",
+      "max": 3
+    },
+    {
+      "id": "dw",
+      "url": "https://rss.dw.com/xml/rss-de-all",
+      "source": "Deutsche Welle",
+      "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+      "topic": "welt",
+      "max": 3
+    },
+    {
+      "id": "hessenschau",
+      "url": "https://www.hessenschau.de/index.rss",
+      "source": "hessenschau (hr)",
+      "type": "Öffentlich-rechtlich",
+      "topic": "politik",
+      "tag": "Hessen",
+      "max": 1
+    },
+    {
+      "id": "spektrum",
+      "url": "https://www.spektrum.de/alias/rss/spektrum-de-rss-feed/996406",
+      "source": "Spektrum der Wissenschaft",
+      "type": "Wissenschaftsmagazin",
+      "topic": "wissenschaft",
+      "max": 3
+    },
+    {
+      "id": "cbs-nfl",
+      "url": "https://www.cbssports.com/rss/headlines/nfl/",
+      "source": "CBS Sports",
+      "type": "Sportmedium",
+      "topic": "nfl",
+      "lang": "en",
+      "max": 2
+    },
+    {
+      "id": "yahoo-nfl",
+      "url": "https://sports.yahoo.com/nfl/rss/",
+      "source": "Yahoo Sports",
+      "type": "Sportmedium",
+      "topic": "nfl",
+      "lang": "en",
+      "max": 2
+    }
   ]
 }

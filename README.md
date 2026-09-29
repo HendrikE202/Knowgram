@@ -25,7 +25,9 @@ Installation als PWA später per HTTPS hosten).
 - `feeds.json` listet die Quellen (siehe `SOURCES.md`), `tools/fetch_news.py` schreibt `news.json`.
 - Der Job `.github/workflows/news.yml` läuft alle 3 Stunden auf GitHub und committet neue Meldungen. Manuell starten: Actions → „News aktualisieren" → Run workflow.
 - Lokal testen: `python3 tools/fetch_news.py` (braucht Internet).
-- Die Feed-URLs wurden noch nicht live geprüft. Nach dem ersten Lauf in den Actions-Logs nach `WARN` suchen und URLs in `feeds.json` korrigieren.
+- Kaputte Feeds erscheinen in den Actions-Logs als `WARN` und werden übersprungen; URLs dann in `feeds.json` korrigieren.
+- Zusätzlich holt `tools/fetch_onthisday.py` täglich „Am heutigen Tag“-Karten aus der Wikipedia (`onthisday.json`).
+- Ungesehene Karten kommen im Feed zuerst und tragen das Label „NEU“.
 
 ## Online stellen (GitHub Pages)
 Settings → Pages → „Deploy from a branch" → `main` / `/ (root)`. Danach die Adresse am Handy öffnen und „Zum Startbildschirm hinzufügen".
