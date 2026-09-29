@@ -40,3 +40,25 @@ h1{margin:0;font-size:1.35rem;letter-spacing:-.5px}h1 span{background:linear-gra
 .refs{margin-top:14px;padding-top:12px;border-top:1px solid var(--line);font-size:.85rem;color:var(--muted)}
 .refs p{margin:4px 0 8px}.refs a{display:inline-block;margin:2px 10px 2px 0;color:#a5b4fc}
 .new{margin-left:8px;background:#fbbf24;color:#000;border-radius:6px;padding:0 6px;font-size:.68rem;letter-spacing:.5px}
+.rail button.b-up.on{background:#22c55e;color:#fff}
+.rail button.b-down.on{background:#ef4444;color:#fff}
+.modes button{padding:6px 7px;font-size:.85rem}
+#app[data-mode="profile"] #chips{display:none}
+.profile{padding:64px 16px 40px}
+.pf-sec{margin:0 0 22px}.pf-sec h3{margin:0 0 8px;font-size:1.05rem}
+.pf-note,.pf-empty{color:var(--muted);font-size:.82rem;margin:6px 0}
+.pf-me input,.profile textarea{width:100%;background:var(--panel);color:var(--text);border:1px solid var(--line);border-radius:10px;padding:10px;font:inherit}
+.pf-emos{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+.emo{background:var(--panel);border:1px solid var(--line);border-radius:12px;font-size:1.3rem;padding:4px 8px;cursor:pointer}.emo.on{border-color:#fff}
+.tiles{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin:0 0 22px}
+.tile{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:10px;text-align:center;font-size:.8rem;color:var(--muted)}.tile b{display:block;font-size:1.3rem;color:var(--text)}
+.pf-chips{display:flex;flex-wrap:wrap;gap:8px}
+.pchip{border:1px solid var(--line);background:var(--panel);color:var(--text);border-radius:999px;padding:6px 12px;font:600 .82rem inherit;font-family:inherit;cursor:pointer}
+.pchip.pos{border-color:#22c55e;background:#22c55e22}.pchip.neg{border-color:#ef4444;background:#ef444422;opacity:.85}
+.pf-row{margin:10px 0}.pf-lbl{display:flex;justify-content:space-between;font-size:.9rem}.pf-lbl small{color:var(--muted)}
+.pf-bar{height:8px;border-radius:99px;background:var(--line);margin-top:4px;position:relative;overflow:hidden}
+.pf-bar::after{content:"";position:absolute;left:50%;top:0;bottom:0;width:1px;background:#ffffff40}
+.pf-bar i{position:absolute;top:0;bottom:0}.pf-bar i.pos{left:50%;background:#22c55e}.pf-bar i.neg{right:50%;background:#ef4444}
+.pf-list .it{display:flex;justify-content:space-between;gap:10px;align-items:center;padding:8px 0;border-bottom:1px solid var(--line);font-size:.88rem}
+.pf-list .it button{flex:none;background:none;border:1px solid var(--line);color:var(--muted);border-radius:8px;padding:2px 8px;cursor:pointer;font:inherit;font-size:.72rem}
+.profile .act{margin:8px 0}

@@ -29,6 +29,11 @@ Installation als PWA später per HTTPS hosten).
 - Zusätzlich holt `tools/fetch_onthisday.py` täglich „Am heutigen Tag“-Karten aus der Wikipedia (`onthisday.json`).
 - Ungesehene Karten kommen im Feed zuerst und tragen das Label „NEU“.
 
+## Geschmack & Profil
+- Jede Karte: 👍 mehr davon / 👎 weniger davon (Doppeltipp = 👍). 👎-Karten kommen nicht wieder.
+- Der Feed gewichtet Themen nach Bewertungen, „Tiefer eintauchen“ und Lieblingsthemen; ca. jede 5. Karte ist bewusst eine Überraschung.
+- Tab „Profil“: Lieblingsthemen wählen, Geschmacks-Übersicht, Export/Import als Text. Das Profil liegt nur lokal im Browser (kein echter Account, kein Sync).
+
 ## Online stellen (GitHub Pages)
 Settings → Pages → „Deploy from a branch" → `main` / `/ (root)`. Danach die Adresse am Handy öffnen und „Zum Startbildschirm hinzufügen".
 

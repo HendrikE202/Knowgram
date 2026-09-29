@@ -5,12 +5,18 @@
   const feed = $("#feed"), chips = $("#chips"), sheet = $("#sheet"), toastEl = $("#toast");
 
   // --- Zustand (localStorage, darf fehlschlagen) ---
-  let S = { liked: [], saved: [], savedNews: {}, seen: [] };
+  let S = { rate: {}, prefs: {}, dive: {}, profile: { name: "", emoji: "🙂" }, saved: [], savedNews: {}, seen: [] };
   try { S = Object.assign(S, JSON.parse(localStorage.getItem("knowgram") || "{}")); } catch (e) {}
+  // Ältere Version: „liked“-Liste in Bewertungen (👍) überführen
+  if (Array.isArray(S.liked)) {
+    for (const id of S.liked) { const c = ALL.find((x) => x.id === id); if (c && !S.rate[id]) S.rate[id] = { r: 1, title: c.title, topic: c.topic }; }
+    delete S.liked;
+  }
   const persist = () => { try { localStorage.setItem("knowgram", JSON.stringify(S)); } catch (e) {} };
   const has = (k, id) => S[k].includes(id);
   const flip = (k, id) => { S[k] = has(k, id) ? S[k].filter((x) => x !== id) : [...S[k], id]; persist(); };
 
+  const ratingOf = (id) => (S.rate[id] && S.rate[id].r) || 0;
   let mode = "feed", topic = "", lastId = null, finite = false;
   let NEWS = [], OTD = [], newsPtr = 0, hiddenAt = 0;
   const SEEN = new Set(S.seen);
@@ -72,8 +78,24 @@
   const newsPool = () => NEWS.filter((n) => !topic || topic === "news" || n.topic === topic);
   const wissenPool = () => (topic === "news" ? [] : [...ALL, ...OTD].filter((c) => !topic || c.topic === topic));
 
+  // --- Geschmack: Themen-Gewichte aus Bewertungen, Vertiefungen und Lieblingsthemen ---
+  const topicStats = () => {
+    const st = {};
+    for (const k of Object.keys(TOPICS)) st[k] = { up: 0, down: 0, dive: S.dive[k] || 0, pref: S.prefs[k] || 0 };
+    for (const v of Object.values(S.rate)) if (st[v.topic]) st[v.topic][v.r > 0 ? "up" : "down"]++;
+    return st;
+  };
+  const scoreOf = (x) => x.up - x.down + 0.5 * Math.min(x.dive, 4) + 2 * x.pref;
+  const weights = () => { const st = topicStats(), w = {}; for (const k in st) w[k] = Math.min(5, Math.max(0.15, Math.exp(0.4 * scoreOf(st[k])))); return w; };
+  // gewichtetes Mischen; jede 5. Karte im Schnitt ohne Gewicht = bewusste Überraschung
+  const weightedShuffle = (list, W) => list
+    .map((c) => ({ c, k: -Math.log(Math.random() || 1e-9) / (Math.random() < 0.2 ? 1 : W[c.topic] || 1) }))
+    .sort((a, b) => a.k - b.k).map((x) => x.c);
+
   const nextBatch = () => {
-    const w = shuffle(wissenPool()).sort((a, b) => SEEN.has(a.id) - SEEN.has(b.id)), n = newsPool(); // Ungesehenes zuerst
+    const W = weights(), keep = (c) => ratingOf(c.id) >= 0;   // 👎-Karten kommen nicht wieder
+    const w = weightedShuffle(wissenPool().filter(keep), W).sort((a, b) => SEEN.has(a.id) - SEEN.has(b.id)); // Ungesehenes zuerst
+    const n = newsPool().filter((x) => keep(x) && (W[x.topic] || 1) > 0.25);
     if (!w.length) { finite = true; return n; }          // reine News-Ansicht: einmal durch, dann Ende
     finite = false;
     if (w.length > 1 && w[0].id === lastId) w.push(w.shift());
@@ -93,6 +115,7 @@
 
   const openSheet = (c) => {
     const news = c.kind === "news", otd = c.kind === "otd", ext = news || otd;
+    S.dive[c.topic] = (S.dive[c.topic] || 0) + 1; persist();
     const q = encodeURIComponent(otd ? c.text.slice(0, 80) : news ? c.title : c.q);
     const close = () => { sheet.hidden = true; sheet.replaceChildren(); };
     const link = (href, title, sub) => h("a", { class: "act", href, target: "_blank", rel: "noopener noreferrer" }, title, h("small", {}, sub));
@@ -121,15 +144,25 @@
     toast((await copy(text)) ? "Text kopiert" : "Teilen nicht möglich");
   };
 
-  const popHeart = (el) => { const p = h("div", { class: "pop" }, "❤️"); el.append(p); setTimeout(() => p.remove(), 700); };
+  const popEmoji = (el, e) => { const p = h("div", { class: "pop" }, e); el.append(p); setTimeout(() => p.remove(), 700); };
   const syncRail = (id) => document.querySelectorAll(`[data-id="${id}"]`).forEach((el) => {
-    el.querySelector(".b-like").classList.toggle("on", has("liked", id));
+    el.querySelector(".b-up").classList.toggle("on", ratingOf(id) > 0);
+    el.querySelector(".b-down").classList.toggle("on", ratingOf(id) < 0);
     el.querySelector(".b-save").classList.toggle("on", has("saved", id));
   });
-  const like = (c, el, onlyAdd) => {
-    if (onlyAdd && has("liked", c.id)) return popHeart(el);
-    flip("liked", c.id); syncRail(c.id);
-    if (has("liked", c.id)) popHeart(el);
+  // r = 1 (mehr davon) oder -1 (weniger davon); erneutes Tippen nimmt die Bewertung zurück
+  const rate = (c, el, r, onlyAdd) => {
+    if (ratingOf(c.id) === r) {
+      if (onlyAdd) return popEmoji(el, "👍");
+      delete S.rate[c.id];
+    } else S.rate[c.id] = { r, title: c.title, topic: c.topic };
+    persist(); syncRail(c.id);
+    if (ratingOf(c.id) > 0) popEmoji(el, "👍");
+    if (ratingOf(c.id) < 0) {
+      toast("Okay, weniger davon");
+      const nx = el.nextElementSibling;
+      if (nx && nx.classList.contains("card")) setTimeout(() => nx.scrollIntoView({ behavior: "smooth" }), 250);
+    }
   };
   const toggleSave = (c) => {
     flip("saved", c.id);
@@ -171,10 +204,11 @@
       metaLine(c),
       h("button", { class: "more", onclick: () => openSheet(c) }, "Tiefer eintauchen →"),
       h("div", { class: "rail" },
-        h("button", { class: "b-like" + (has("liked", c.id) ? " on" : ""), "aria-label": "Gefällt mir", onclick: () => like(c, el) }, "♥"),
+        h("button", { class: "b-up" + (ratingOf(c.id) > 0 ? " on" : ""), "aria-label": "Mehr davon", onclick: () => rate(c, el, 1) }, "👍"),
+        h("button", { class: "b-down" + (ratingOf(c.id) < 0 ? " on" : ""), "aria-label": "Weniger davon", onclick: () => rate(c, el, -1) }, "👎"),
         h("button", { class: "b-save" + (has("saved", c.id) ? " on" : ""), "aria-label": "Speichern", onclick: () => toggleSave(c) }, "🔖"),
         h("button", { "aria-label": "Teilen", onclick: () => share(c) }, "↗")));
-    el.addEventListener("dblclick", () => like(c, el, true));
+    el.addEventListener("dblclick", () => rate(c, el, 1, true));
     seenObs.observe(el);
     return el;
   };
@@ -198,9 +232,83 @@
     watchSentinel();
   };
 
+  // --- Profil (lokal, bleibt auf diesem Gerät) ---
+  const exportJson = () => JSON.stringify({ app: "knowgram", v: 1, at: new Date().toISOString(), profile: S.profile, prefs: S.prefs, dive: S.dive, rate: S.rate, saved: S.saved }, null, 1);
+  const importJson = (txt) => {
+    const j = JSON.parse(txt);
+    if (!j || j.app !== "knowgram" || j.v !== 1 || typeof j.rate !== "object") throw new Error("Format");
+    const rate = {};
+    for (const [id, v] of Object.entries(j.rate || {})) if (v && (v.r === 1 || v.r === -1)) rate[String(id).slice(0, 40)] = { r: v.r, title: String(v.title || "").slice(0, 200), topic: TOPICS[v.topic] ? v.topic : "" };
+    const prefs = {};
+    for (const [k, v] of Object.entries(j.prefs || {})) if (TOPICS[k] && (v === 1 || v === -1)) prefs[k] = v;
+    const dive = {};
+    for (const [k, v] of Object.entries(j.dive || {})) if (TOPICS[k] && Number.isFinite(v)) dive[k] = Math.max(0, Math.min(999, v));
+    S.rate = rate; S.prefs = prefs; S.dive = dive;
+    S.profile = { name: String((j.profile && j.profile.name) || "").slice(0, 24), emoji: String((j.profile && j.profile.emoji) || "🙂").slice(0, 4) };
+    if (Array.isArray(j.saved)) S.saved = j.saved.filter((x) => typeof x === "string").slice(0, 2000);
+    persist();
+  };
+
+  const renderProfile = () => {
+    const sec = (title, ...kids) => h("section", { class: "pf-sec" }, h("h3", {}, title), ...kids);
+    const nameIn = h("input", { placeholder: "Dein Name (optional)", maxlength: "24", value: S.profile.name });
+    nameIn.addEventListener("input", () => { S.profile.name = nameIn.value; persist(); });
+    const emos = ["🙂", "🦊", "🐙", "🦉", "🚀", "🧠", "🎨", "⚡"].map((e) => {
+      const b = h("button", { class: "emo" + (S.profile.emoji === e ? " on" : ""), onclick: () => { S.profile.emoji = e; persist(); emos.forEach((x) => x.classList.toggle("on", x === b)); } }, e);
+      return b;
+    });
+
+    const bars = h("div");
+    const drawBars = () => {
+      const rows = Object.entries(topicStats()).map(([k, x]) => ({ k, x, sc: scoreOf(x) }))
+        .filter((r) => r.x.up || r.x.down || r.x.dive || r.x.pref).sort((a, b) => b.sc - a.sc);
+      bars.replaceChildren(...(rows.length
+        ? rows.map(({ k, x, sc }) => h("div", { class: "pf-row" },
+            h("div", { class: "pf-lbl" }, `${TOPICS[k].emoji} ${TOPICS[k].name}`, h("small", {}, `👍 ${x.up} · 👎 ${x.down}${x.dive ? ` · 🔎 ${x.dive}` : ""}`)),
+            h("div", { class: "pf-bar" }, h("i", { class: sc >= 0 ? "pos" : "neg", style: `width:${Math.min(50, Math.abs(sc) * 6)}%` }))))
+        : [h("p", { class: "pf-empty" }, "Bewerte ein paar Karten mit 👍 und 👎 – dann siehst du hier, was dir gefällt.")]));
+    };
+    drawBars();
+
+    const prefChips = Object.entries(TOPICS).map(([k, t]) => {
+      const b = h("button", { style: `--c:${t.c}` });
+      const paint = () => { const v = S.prefs[k] || 0; b.className = "pchip" + (v > 0 ? " pos" : v < 0 ? " neg" : ""); b.textContent = `${v > 0 ? "❤️ " : v < 0 ? "🚫 " : ""}${t.emoji} ${t.name}`; };
+      b.addEventListener("click", () => { const v = S.prefs[k] || 0, n = v === 0 ? 1 : v === 1 ? -1 : 0; if (n) S.prefs[k] = n; else delete S.prefs[k]; persist(); paint(); drawBars(); });
+      paint(); return b;
+    });
+
+    const recent = (sign) => {
+      const items = Object.entries(S.rate).filter(([, v]) => v.r === sign).slice(-10).reverse();
+      return items.length ? items.map(([id, v]) => h("div", { class: "it" },
+        h("span", {}, `${(TOPICS[v.topic] || {}).emoji || "•"} ${v.title}`),
+        h("button", { onclick: () => { delete S.rate[id]; persist(); render(); } }, "zurücksetzen"))) : [h("p", { class: "pf-empty" }, "Noch nichts.")];
+    };
+
+    const tile = (n, label) => h("div", { class: "tile" }, h("b", {}, String(n)), label);
+    const box = h("textarea", { rows: "4", placeholder: "Exportierten Geschmack hier einfügen …" });
+
+    return h("div", { class: "profile" },
+      sec("Dein Profil",
+        h("div", { class: "pf-me" }, nameIn),
+        h("div", { class: "pf-emos" }, ...emos),
+        h("p", { class: "pf-note" }, "Lokales Beispiel-Profil: Es bleibt auf diesem Gerät. Ein echter Account mit Sync folgt.")),
+      h("div", { class: "tiles" }, tile(SEEN.size, "gesehen"), tile(Object.keys(S.rate).length, "bewertet"), tile(S.saved.length, "gespeichert")),
+      sec("Was interessiert dich?", h("p", { class: "pf-note" }, "Tippen: ❤️ mehr davon → 🚫 weniger → neutral"), h("div", { class: "pf-chips" }, ...prefChips)),
+      sec("Dein Geschmack", bars),
+      sec("Zuletzt 👍", h("div", { class: "pf-list" }, ...recent(1))),
+      sec("Zuletzt 👎", h("div", { class: "pf-list" }, ...recent(-1))),
+      sec("Sichern & Übertragen",
+        h("button", { class: "act", onclick: async () => toast((await copy(exportJson())) ? "Geschmack kopiert" : "Kopieren nicht möglich") }, "📋 Geschmack kopieren", h("small", {}, "Als Text, z. B. zum Sichern oder um ihn Claude zu zeigen")),
+        box,
+        h("button", { class: "act", onclick: () => { try { importJson(box.value); toast("Geschmack geladen"); render(); } catch (e) { toast("Das ist kein gültiger Export"); } } }, "📥 Einfügen & laden"),
+        h("button", { class: "act", onclick: () => { if (confirm("Wirklich alles zurücksetzen (Bewertungen, Gespeichertes, Profil)?")) { S = { rate: {}, prefs: {}, dive: {}, profile: { name: "", emoji: "🙂" }, saved: [], savedNews: {}, seen: [] }; SEEN.clear(); persist(); render(); } } }, "🗑️ Alles zurücksetzen")));
+  };
+
   const render = () => {
     obs && obs.disconnect();
     feed.replaceChildren(); feed.scrollTop = 0; newsPtr = 0;
+    $("#app").dataset.mode = mode;
+    if (mode === "profile") { feed.append(renderProfile()); return; }
     if (mode === "saved") {
       const list = [...ALL.filter((c) => has("saved", c.id)), ...Object.values(S.savedNews)]
         .filter((c) => !topic || topic === "news" ? (topic !== "news" || c.kind === "news") : c.topic === topic);
