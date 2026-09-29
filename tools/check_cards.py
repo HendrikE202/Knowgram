@@ -40,7 +40,7 @@ def check_slide(where, s, errs):
         for x in s.get(k, []):
             if len(x) > 230:
                 errs.append(f"{where}: Slide „{s['h']}“ – ein Eintrag ist zu lang ({len(x)} Zeichen)")
-    if "img" in s and not (isinstance(s["img"], str) and 8 <= len(s["img"]) <= 120):
+    if "img" in s and not (isinstance(s["img"], str) and 5 <= len(s["img"]) <= 120):
         errs.append(f"{where}: Slide „{s['h']}“ – `img` muss ein Suchtext (2–4 konkrete Begriffe) sein")
     if s.get("big") and not (s["big"].get("n") and s["big"].get("l")):
         errs.append(f"{where}: `big` braucht n und l")

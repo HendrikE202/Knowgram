@@ -102,8 +102,14 @@ def imageinfo(name, width=960):
     return (pg.get("imageinfo") or [{}])[0]
 
 
+def lead_terms(q):
+    """Die ersten beiden Suchbegriffe (je 5 Buchstaben) – sie sind das Thema und müssen im Bildtext vorkommen."""
+    return [w[:5] for w in re.findall(r"[a-zäöüß0-9]{3,}", q.lower().replace("_", " ")) if w not in STOP][:2]
+
+
 def find(q, title):
     want = stems(q + " " + title)
+    lead = lead_terms(q)
     # 1) Artikelbild – nur wenn der Artikel zur Karte passt
     d = get(f"{WIKI}/w/api.php?action=query&generator=search&gsrsearch={urllib.parse.quote(q)}&gsrlimit=1"
             "&prop=pageimages|pageprops&piprop=thumbnail|name&pithumbsize=960&ppprop=disambiguation&format=json&formatversion=2")
@@ -125,7 +131,10 @@ def find(q, title):
         m = meta(ii)
         if not name or not ii.get("thumburl", "").startswith("https://") or not acceptable(name, ii.get("width"), ii.get("height"), m):
             continue
-        hits = len(want & stems(name + " " + m["desc"] + " " + m["cats"]))
+        blob = (name + " " + m["desc"] + " " + m["cats"]).lower().replace("_", " ")
+        hits = len(want & stems(blob))
+        if not all(t in blob for t in lead[:1]):
+            continue
         if hits >= (1 if len(want) <= 2 else 2) and (best_key is None or (hits, ii.get("width", 0)) > best_key):
             best, best_key = entry(name, ii["thumburl"], m, ""), (hits, ii.get("width", 0))
     return best
@@ -134,6 +143,7 @@ def find(q, title):
 def find_slide(q, used):
     """Bild für einen Slide: Dateisuche bei Commons, nur mit Relevanzprüfung; `used` = schon vergebene Bild-Seiten (Titelbilder und andere Slides)."""
     want = stems(q)
+    lead = lead_terms(q)
     d = get(f"{COMMONS}/w/api.php?action=query&generator=search&gsrnamespace=6&gsrsearch={urllib.parse.quote(q + ' filetype:bitmap')}"
             "&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=960&format=json&formatversion=2")
     best, best_key = None, None
@@ -145,8 +155,12 @@ def find_slide(q, used):
         page = f"{COMMONS}/wiki/File:{urllib.parse.quote(name.replace(' ', '_'))}"
         if not name or not url.startswith("https://") or page in used or not acceptable(name, ii.get("width"), ii.get("height"), m):
             continue
-        hits = len(want & stems(name + " " + m["desc"] + " " + m["cats"]))
-        if hits >= (1 if len(want) <= 2 else 2) and (best_key is None or (hits, ii.get("width", 0)) > best_key):
+        blob = (name + " " + m["desc"] + " " + m["cats"]).lower().replace("_", " ")
+        hits = len(want & stems(blob))
+        # Die ersten beiden Suchbegriffe sind das Thema: sie MÜSSEN vorkommen (sonst passt das Bild nur zufällig, z. B. „Orbit“ statt GPS)
+        if not all(t in blob for t in lead):
+            continue
+        if hits >= max(1, min(len(want), 2 if len(want) <= 3 else 3)) and (best_key is None or (hits, ii.get("width", 0)) > best_key):
             best, best_key = entry(name, url, m, ""), (hits, ii.get("width", 0))
     return best
 
@@ -188,6 +202,8 @@ def find_openverse(q, title):
         if not url.startswith("https://") or BAD_FILE.search(url + " " + (r.get("title") or "")) or (w and w < 800) or (w and h and not (0.55 <= w / h <= 2.4)):
             continue
         hits = len(want & stems(name))
+        if not all(t in name.lower() for t in lead_terms(q)[:1]):
+            continue
         if hits >= (1 if len(want) <= 2 else 2) and (best_key is None or (hits, w) > best_key):
             lic = (r.get("license") or "").upper() + (" " + r["license_version"] if r.get("license_version") else "")
             best, best_key = {"u": url, "by": strip(r.get("creator")) or "Unbekannt", "lic": lic.strip() or "CC",
