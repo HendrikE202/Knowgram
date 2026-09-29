@@ -69,3 +69,28 @@
 - Karte des Tages mit kurzer Audio-Version (später)
 - Geteilte Sammlungen mit Freunden (nur bei Öffentlichmachung)
 - Kartenherkunft sichtbar: „von Hand“ / „Routine“ / „News“ / „Wikipedia“
+
+## Fehlerprotokoll (was schiefging und was noch anzusehen ist)
+
+### Noch offen – bitte ansehen
+- [ ] **Fehlgeschlagene Bilder-Jobs:** Ursache nicht sicher bekannt (Logs waren für Claude nicht lesbar). Vermutet: Jobs verdrängten sich gegenseitig (abgebrochene Läufe) und Wikimedia bremste („429“). Bereits geändert: nur noch 1×/Tag, kein Push-Auslöser, Fehler lösen keinen Alarm aus. **Prüfen:** GitHub → Actions → „Titelbilder suchen“ nach dem nächsten Lauf (04:37 UTC) – grün? Falls rot: Fehlertext schicken.
+- [ ] **Routine „Neue Wissenskarten“** ist von Claude nicht bearbeitbar und lief noch nie: erster Lauf morgen früh. **Prüfen:** Ob 10 Karten in `cards.js` landen und die Routine pushen darf (sonst Repo zuweisen/Push erlauben).
+- [ ] **Alter Branch** `claude/gracious-heisenberg-82qzi8` in `Abschlussprojekt` existiert noch (Löschen per Git wurde von der Umgebung abgelehnt).
+- [ ] **Zwei Commits mit „Claude“ als Mitautor** (`f2ead1c`, `9ce43ee`) stehen noch in der Historie von `Knowgram` (Umschreiben wurde abgelehnt; du hast es akzeptiert). Neue Commits laufen unter deinem Namen.
+- [ ] **Nur im simulierten Browser getestet:** Nichts davon lief bisher auf einem echten Handy (Scrollen, Installation, Abendmodus, Timer, Offline).
+- [ ] **Bilder und Weltlage:** Ob die gefundenen Titelbilder wirklich passen und ob „Heute in der Welt“ die richtigen Ereignisse wählt, ist nur an wenigen Beispielen gesehen.
+- [ ] **Karteninhalte sind KI-verfasst und ungeprüft** (besonders Zahlen und Jahre, z. B. Exoplaneten-Zahl, BRICS, EU); Stichproben gegenlesen.
+- [ ] **Öffentliches Repo:** enthält keine Schlüssel, ist aber für alle sichtbar; Pages braucht bei privat ein bezahltes Konto.
+
+### Aufgetreten und behoben
+- Knowgram lag zunächst im falschen Repo (`Abschlussprojekt`) → in eigenes Repo verschoben.
+- Repo-Anlage durch Claude schlug fehl (403) → von dir angelegt.
+- News-Feed ESPN (NFL) lieferte nichts (`ParseError`) → durch CBS Sports und Yahoo Sports ersetzt (laufen).
+- Nachrichten-Bilder waren teils Logos, Zählpixel (Golem), Werbung (CBS), Stockfotos (Spektrum) → Filter; Karten-Bilder nur noch mit Relevanzprüfung und ohne Logos/Wappen.
+- Wikimedia „429 Too Many Requests“ → weniger Anfragen, Pausen, Abbruch nach 2 Versuchen, User-Agent mit Projekt-Adresse.
+- Personalisierung: ein einzelnes 👎 senkte ein Thema auf ×0,4 (zu stark) → geglättet (~×0,9); „Menü öffnen“ zählte schon als Interesse → zählt jetzt erst bei Klick auf einen Link.
+- Meldungen wiederholten sich im Feed, wenn nur wenige übrig waren → jede nur noch einmal.
+- „Weiter im Thema“ schlug zufällige Karten vor (Wortüberschneidung, Jahreszahlen) → konservativ im selben Thema.
+- Lokale hessenschau-Gerichtsmeldung stand in „Heute in der Welt“ → Lokales nur noch bei mehreren Quellen.
+- Mehrfach 503-Fehler beim Push/Fetch (Umgebung/Proxy) → Wiederholungen mit Wartezeit; GitHub-Werkzeuge zeitweise nicht erreichbar.
+
