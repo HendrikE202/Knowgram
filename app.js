@@ -5,7 +5,7 @@
   const feed = $("#feed"), chips = $("#chips"), sheet = $("#sheet"), toastEl = $("#toast");
 
   // --- Zustand (localStorage, darf fehlschlagen) ---
-  let S = { rate: {}, prefs: {}, dive: {}, strength: 0.5, wishes: [], reports: {}, checks: {}, lastCheck: 0, notes: {}, arch: {}, seenAt: {}, badImg: {}, badSrc: {}, night: "auto", nightFrom: 23, sleep: 0, big: false, briefEd: "", briefSeen: null, profile: { name: "", emoji: "🙂" }, saved: [], savedNews: {}, seen: [] };
+  let S = { rate: {}, prefs: {}, dive: {}, strength: 0.5, wishes: [], reports: {}, checks: {}, lastCheck: 0, notes: {}, arch: {}, seenAt: {}, badImg: {}, badSrc: {}, night: "auto", nightFrom: 23, sleep: 0, big: false, swiped: false, briefEd: "", briefSeen: null, profile: { name: "", emoji: "🙂" }, saved: [], savedNews: {}, seen: [] };
   try { S = Object.assign(S, JSON.parse(localStorage.getItem("knowgram") || "{}")); } catch (e) {}
   for (const v of Object.values(S.rate)) if (!v.at) v.at = Date.now();   // Zeitstempel nachtragen (für das Abklingen alter Bewertungen)
   // Ältere Version: „liked“-Liste in Bewertungen (👍) überführen
@@ -28,7 +28,7 @@
 
   const ratingOf = (id) => (S.rate[id] && S.rate[id].r) || 0;
   let mode = "feed", topic = "", lastId = null, finite = false;
-  let NEWS = [], OTD = [], IMG = {}, BRIEF = [], RANK = [], CARD_BY_ID = {}, STEMS = {}, SERIES = {}, briefPending = false, newsPtr = 0, hiddenAt = 0;
+  let NEWS = [], OTD = [], IMG = {}, BRIEF = [], RANK = [], SUMS = {}, CARD_BY_ID = {}, STEMS = {}, SERIES = {}, briefPending = false, newsPtr = 0, hiddenAt = 0;
   const SEEN = new Set(S.seen);
 
   const h = (tag, attrs = {}, ...kids) => {
@@ -67,6 +67,10 @@
   // „Am heutigen Tag“ (onthisday.json): nur anzeigen, wenn die Daten zu heute passen
   const loadImages = async () => {
     try { const r = await fetch("images.json"); if (r.ok) IMG = await r.json(); } catch (e) { IMG = {}; }
+  };
+
+  const loadSummaries = async () => {
+    try { const r = await fetch("summaries.json"); if (r.ok) SUMS = await r.json(); } catch (e) { SUMS = {}; }
   };
 
   const loadOtd = async () => {
@@ -267,14 +271,38 @@
     ? `Ordne diese Nachricht ein (Hintergrund, Beteiligte, unterschiedliche Sichtweisen, was noch unklar ist). Antworte auf Deutsch und nenne Quellen.\n\n${c.title}\n${c.text}\n(${c.source}, ${fmtDate(c.published)})\n${c.link}`
     : `Erkläre mir das Thema „${c.title}“ ausführlich auf Deutsch (Kontext, Hintergründe, Streitpunkte, Quellen zum Weiterlesen). Ausgangspunkt:\n${c.text}`;
 
-  const openSheet = (c) => {
+  const closeSheet = () => { sheet.hidden = true; sheet.replaceChildren(); };
+
+  // „Problem melden“ bleibt ein Menü über der Karte
+  const openReport = (c) => {
+    const REASONS = ["Sachlich falsch oder veraltet", "Einseitig oder unpassend formuliert", "Sonstiges Problem"];
+    sheet.replaceChildren(h("div", { class: "sheet" },
+      h("h3", {}, "Problem melden"),
+      h("div", { class: "sub" }, "Das ist keine Geschmacks-Bewertung: Die Karte wird ausgeblendet und für die Prüfung vorgemerkt, dein Themen-Profil ändert sich dadurch nicht."),
+      ...(imgFor(c) ? [h("button", { class: "act", onclick: () => {
+        S.badImg[c.id] = 1;
+        if (c.kind === "news") S.badSrc[c.source] = (S.badSrc[c.source] || 0) + 1;
+        persist(); closeSheet(); toast(c.kind === "news" && S.badSrc[c.source] >= 3 ? `Bilder von ${c.source} werden künftig ausgeblendet` : "Bild ausgeblendet");
+        document.querySelectorAll(`.card[data-id="${c.id}"]`).forEach((e) => { e.classList.remove("has-img"); e.classList.add("illu"); const im = e.querySelector(".cover img"); if (im) im.remove(); const cr = e.querySelector(".credit"); if (cr) cr.remove(); });
+      } }, "🖼️ Nur das Bild passt nicht", h("small", {}, "Die Karte bleibt, das Bild verschwindet"))] : []),
+      ...REASONS.map((r) => h("button", { class: "act", onclick: () => {
+        S.reports[c.id] = { reason: r, title: c.title, topic: c.topic, at: Date.now() }; persist();
+        closeSheet(); toast("Danke – Karte wird nicht mehr gezeigt");
+        document.querySelectorAll(`.card[data-id="${c.id}"]`).forEach((e) => { const nx = e.nextElementSibling; if (nx) nx.scrollIntoView({ behavior: "smooth" }); setTimeout(() => e.remove(), 500); });
+      } }, r)),
+      h("button", { class: "act", onclick: closeSheet }, "Abbrechen")));
+    sheet.hidden = false;
+    sheet.onclick = (e) => { if (e.target === sheet) closeSheet(); };
+  };
+
+  // Letzte Ebene der Karte (ganz nach links wischen): Weiterlesen, Recherche, Quellen zum Prüfen, Melden
+  const deepPanel = (c) => {
     const news = c.kind === "news", otd = c.kind === "otd", ext = news || otd;
-    let dived = false;   // Interesse zählt erst, wenn wirklich ein Link/Prompt genutzt wird – nicht schon beim Öffnen des Menüs
+    let dived = false;   // Interesse zählt erst, wenn wirklich ein Link/Prompt genutzt wird – nicht schon beim Anschauen
     const dive = () => { if (!dived) { dived = true; S.dive[c.topic] = (S.dive[c.topic] || 0) + 1; persist(); } };
     const q = encodeURIComponent(otd ? c.text.slice(0, 80) : news ? c.title : c.q);
-    const close = () => { sheet.hidden = true; sheet.replaceChildren(); };
     const link = (href, title, sub) => h("a", { class: "act", href, target: "_blank", rel: "noopener noreferrer", onclick: dive }, title, h("small", {}, sub));
-    const parts = [h("h3", {}, c.title), h("div", { class: "sub" }, "Tiefer eintauchen")];
+    const parts = [];
     if (ext) parts.push(link(safeUrl(c.link), otd ? "📖 Wikipedia-Artikel lesen" : "📰 Originalartikel lesen", otd ? c.date : `${c.source} · ${fmtDate(c.published)}`));
     else parts.push(link(`https://de.wikipedia.org/w/index.php?search=${q}`, "📖 Bei Wikipedia lesen", "Suche nach: " + c.q));
     parts.push(link(`https://duckduckgo.com/?q=${q}`, "🔎 Im Web recherchieren", "Weitere Quellen finden"));
@@ -284,32 +312,27 @@
       h("b", {}, ext ? "Einordnung" : "Wo du es prüfen kannst"),
       h("p", {}, otd ? "Quelle: Wikipedia, Rubrik „Am heutigen Tag“ – von Freiwilligen gepflegt, mit Belegen im verlinkten Artikel."
         : news
-        ? `Angezeigt wird die Vorschau des Anbieters (${c.source}, ${c.type}), keine eigene Zusammenfassung. Vergleiche wichtige Themen mit mehr als einer Quelle.`
+        ? `Angezeigt wird die Vorschau des Anbieters (${c.source}, ${c.type}). Vergleiche wichtige Themen mit mehr als einer Quelle.`
         : "Diese Karte wurde von einer KI geschrieben und ist nicht automatisch faktengeprüft. Verlässliche Anlaufstellen:"),
       ...(ext ? [] : t.refs.map(([n, u]) => h("a", { href: u, target: "_blank", rel: "noopener noreferrer" }, n)))));
-    const REASONS = ["Sachlich falsch oder veraltet", "Einseitig oder unpassend formuliert", "Sonstiges Problem"];
-    const report = () => {
-      sheet.replaceChildren(h("div", { class: "sheet" },
-        h("h3", {}, "Problem melden"),
-        h("div", { class: "sub" }, "Das ist keine Geschmacks-Bewertung: Die Karte wird ausgeblendet und für die Prüfung vorgemerkt, dein Themen-Profil ändert sich dadurch nicht."),
-        ...(imgFor(c) ? [h("button", { class: "act", onclick: () => {
-          S.badImg[c.id] = 1;
-          if (c.kind === "news") S.badSrc[c.source] = (S.badSrc[c.source] || 0) + 1;
-          persist(); close(); toast(c.kind === "news" && S.badSrc[c.source] >= 3 ? `Bilder von ${c.source} werden künftig ausgeblendet` : "Bild ausgeblendet");
-          document.querySelectorAll(`.card[data-id="${c.id}"]`).forEach((e) => { e.classList.remove("has-img"); const im = e.querySelector(".cover img"); if (im) im.remove(); const cr = e.querySelector(".credit"); if (cr) cr.remove(); });
-        } }, "🖼️ Nur das Bild passt nicht", h("small", {}, "Die Karte bleibt, das Bild verschwindet"))] : []),
-        ...REASONS.map((r) => h("button", { class: "act", onclick: () => {
-          S.reports[c.id] = { reason: r, title: c.title, topic: c.topic, at: Date.now() }; persist();
-          close(); toast("Danke – Karte wird nicht mehr gezeigt");
-          document.querySelectorAll(`.card[data-id="${c.id}"]`).forEach((e) => { const nx = e.nextElementSibling; if (nx) nx.scrollIntoView({ behavior: "smooth" }); setTimeout(() => e.remove(), 500); });
-        } }, r)),
-        h("button", { class: "act", onclick: close }, "Abbrechen")));
-    };
-    parts.push(h("button", { class: "act", onclick: report }, "⚑ Problem melden", h("small", {}, "Falsch, veraltet oder einseitig?")));
-    parts.push(h("button", { class: "act", onclick: close }, "Schließen"));
-    sheet.replaceChildren(h("div", { class: "sheet" }, ...parts));
-    sheet.hidden = false;
-    sheet.onclick = (e) => { if (e.target === sheet) close(); };
+    parts.push(h("button", { class: "act", onclick: () => openReport(c) }, "⚑ Problem melden", h("small", {}, "Falsch, veraltet oder einseitig?")));
+    return parts;
+  };
+
+  // Mittlere Ebene: „Das Wichtigste“ (Stichpunkte) – bei Meldungen nur, wenn eine Einordnung vorliegt oder andere Quellen berichten
+  const summaryFor = (c) => {
+    if (c.kind === "news" || c.kind === "otd") { const x = SUMS[c.id]; return x && Array.isArray(x.points) && x.points.length ? x : null; }
+    return Array.isArray(c.points) && c.points.length ? { points: c.points, why: c.why } : null;
+  };
+  const sumSlide = (c) => {
+    const sum = summaryFor(c), also = c.also && c.also.length ? c.also : [];
+    if (!sum && !also.length) return null;
+    const kids = [h("span", { class: "stag" }, sum ? "✨ Das Wichtigste" : "🔀 Andere Quellen"), h("h3", { class: "slide-title" }, c.title)];
+    if (sum) kids.push(h("ul", { class: "pts" }, ...sum.points.map((x) => h("li", {}, x))));
+    if (sum && sum.why) kids.push(h("p", { class: "why" }, h("b", {}, "Warum das wichtig ist: "), sum.why));
+    if (also.length) kids.push(h("div", { class: "alsobox" }, h("b", {}, "So berichten andere"), ...also.map((a) => h("a", { href: safeUrl(a.link), target: "_blank", rel: "noopener noreferrer" }, `${a.source}: ${a.title}`))));
+    kids.push(h("div", { class: "meta" }, h("span", {}, sum ? (c.kind === "news" ? "🤖 KI-Einordnung aus Titel und Vorschau · ohne Gewähr" : c.kind === "otd" ? "📅 Aus der Wikipedia" : "📚 Zusammenfassung · KI-verfasst") : "🔀 Vergleich mehrerer Quellen")));
+    return h("div", { class: "slide s2" }, ...kids);
   };
 
   const share = async (c) => {
@@ -488,18 +511,31 @@
   const cardEl = (c, opts = {}) => {
     if (c.kind === "check") return checkEl(c);
     const t = topicOf(c), news = c.kind === "news", wasSeen = SEEN.has(c.id), fresh = !wasSeen && !c.kind;
-    const el = h("article", { class: "card", "data-id": c.id, style: `--c:${t.c}` },
+    const tagEl = h("span", { class: "tag" }, c._b ? `${ED[c._b.ed].icon} ${ED[c._b.ed].name} · ${c._b.i}/${c._b.n}` : `${t.emoji} ${news ? "Aktuell · " : c.kind === "otd" ? "Heute · " : ""}${t.name}`,
+      ...(opts.thread ? [h("b", { class: "seriestag" }, `🕳️ Faden ${opts.thread.i}/${opts.thread.n}`)] : []),
+      ...(c.series ? [h("b", { class: "seriestag" }, `📖 ${c.series} · Teil ${c.part}/${c.of}`)] : []),
+      ...(fresh ? [h("b", { class: "new" }, "NEU")] : mode === "feed" && wasSeen ? [h("b", { class: "seenchip" }, S.seenAt[c.id] ? `✓ gesehen ${fmtAge(new Date(S.seenAt[c.id]).toISOString())}` : "✓ gesehen")] : []));
+    const s2 = sumSlide(c);
+    const goSlide = (i) => slidesEl.scrollTo({ left: i * slidesEl.clientWidth, behavior: "smooth" });
+    const s1 = h("div", { class: "slide s1" },
+      tagEl, h("h2", {}, c.title), c.text ? h("p", {}, c.text) : "", metaLine(c),
+      h("div", { class: "acts" },
+        h("button", { class: "more", onclick: () => goSlide(slidesArr.length - 1) }, "Tiefer eintauchen →"),
+        h("button", { class: "more alt", onclick: () => openThread(c, el) }, c.series && c.part < c.of ? "Nächster Teil →" : "🕳️ Weiter im Thema")),
+      ...(s2 && !S.swiped ? [h("div", { class: "swipehint" }, `‹ Wischen: ${summaryFor(c) ? "Das Wichtigste" : "Andere Quellen"}`)] : []));
+    const s3 = h("div", { class: "slide s3" }, h("span", { class: "stag" }, "🔎 Tiefer eintauchen"), h("h3", { class: "slide-title" }, c.title), ...deepPanel(c));
+    const slidesArr = [s1, s2, s3].filter(Boolean);
+    const slidesEl = h("div", { class: "slides" }, ...slidesArr);
+    const dots = h("div", { class: "dots" }, ...slidesArr.map((_, i) => h("i", { class: i === 0 ? "on" : "" })));
+    slidesEl.addEventListener("scroll", () => {
+      const i = Math.round(slidesEl.scrollLeft / (slidesEl.clientWidth || 1));
+      [...dots.children].forEach((d, j) => d.classList.toggle("on", i === j));
+      if (i > 0 && !S.swiped) { S.swiped = true; persist(true); document.querySelectorAll(".swipehint").forEach((x) => x.remove()); }
+    }, { passive: true });
+    const el = h("article", { class: "card sl", "data-id": c.id, style: `--c:${t.c}` },
       coverEl(c, t),
       h("div", { class: "big" }, news ? "📰" : c.kind === "otd" ? "📅" : t.emoji),
-      h("span", { class: "tag" }, c._b ? `${ED[c._b.ed].icon} ${ED[c._b.ed].name} · ${c._b.i}/${c._b.n}` : `${t.emoji} ${news ? "Aktuell · " : c.kind === "otd" ? "Heute · " : ""}${t.name}`,
-        ...(opts.thread ? [h("b", { class: "seriestag" }, `🕳️ Faden ${opts.thread.i}/${opts.thread.n}`)] : []),
-        ...(c.series ? [h("b", { class: "seriestag" }, `📖 ${c.series} · Teil ${c.part}/${c.of}`)] : []), ...(fresh ? [h("b", { class: "new" }, "NEU")] : mode === "feed" && wasSeen ? [h("b", { class: "seenchip" }, S.seenAt[c.id] ? `✓ gesehen ${fmtAge(new Date(S.seenAt[c.id]).toISOString()).replace("vor ", "vor ")}` : "✓ gesehen")] : [])),
-      h("h2", {}, c.title),
-      c.text ? h("p", {}, c.text) : "",
-      metaLine(c),
-      h("div", { class: "acts" },
-        h("button", { class: "more", onclick: () => openSheet(c) }, "Tiefer eintauchen →"),
-        h("button", { class: "more alt", onclick: () => openThread(c, el) }, c.series && c.part < c.of ? "Nächster Teil →" : "🕳️ Weiter im Thema")),
+      slidesEl, dots,
       h("div", { class: "rail" },
         h("button", { class: "b-up" + (ratingOf(c.id) > 0 ? " on" : ""), "aria-label": "Mehr davon", onclick: () => rate(c, el, 1) }, "👍"),
         h("button", { class: "b-down" + (ratingOf(c.id) < 0 ? " on" : ""), "aria-label": "Weniger davon", onclick: () => rate(c, el, -1) }, "👎"),
@@ -667,7 +703,7 @@
         h("button", { class: "act", onclick: async () => toast((await copy(exportJson())) ? "Geschmack kopiert" : "Kopieren nicht möglich") }, "📋 Geschmack kopieren", h("small", {}, "Als Text, z. B. zum Sichern oder um ihn Claude zu zeigen")),
         box,
         h("button", { class: "act", onclick: () => { try { importJson(box.value); toast("Geschmack geladen"); render(); } catch (e) { toast("Das ist kein gültiger Export"); } } }, "📥 Einfügen & laden"),
-        h("button", { class: "act", onclick: () => { if (confirm("Wirklich alles zurücksetzen (Bewertungen, Gespeichertes, Profil)?")) { S = { rate: {}, prefs: {}, dive: {}, strength: 0.5, wishes: [], reports: {}, checks: {}, lastCheck: 0, notes: {}, arch: {}, seenAt: {}, badImg: {}, badSrc: {}, night: "auto", nightFrom: 23, sleep: 0, big: false, briefEd: "", briefSeen: null, profile: { name: "", emoji: "🙂" }, saved: [], savedNews: {}, seen: [] }; SEEN.clear(); persist(); render(); } } }, "🗑️ Alles zurücksetzen")));
+        h("button", { class: "act", onclick: () => { if (confirm("Wirklich alles zurücksetzen (Bewertungen, Gespeichertes, Profil)?")) { S = { rate: {}, prefs: {}, dive: {}, strength: 0.5, wishes: [], reports: {}, checks: {}, lastCheck: 0, notes: {}, arch: {}, seenAt: {}, badImg: {}, badSrc: {}, night: "auto", nightFrom: 23, sleep: 0, big: false, swiped: false, briefEd: "", briefSeen: null, profile: { name: "", emoji: "🙂" }, saved: [], savedNews: {}, seen: [] }; SEEN.clear(); persist(); render(); } } }, "🗑️ Alles zurücksetzen")));
   };
 
   const render = () => {
@@ -849,6 +885,6 @@
 
   applyNight(); startSleep(S.sleep);
   setTimeout(() => syncNow(false), 1500);          // beim Start abgleichen (falls Sync an)
-  (async () => { await Promise.all([loadNews(), loadOtd(), loadImages()]); indexMeta(); compact(); drawChips(); render(); })();
+  (async () => { await Promise.all([loadNews(), loadOtd(), loadImages(), loadSummaries()]); indexMeta(); compact(); drawChips(); render(); })();
   if ("serviceWorker" in navigator && location.protocol.startsWith("http")) navigator.serviceWorker.register("sw.js").catch(() => {});
 })();

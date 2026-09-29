@@ -14,6 +14,7 @@
 6. **Ehrlich:** KI-verfasste Inhalte sind gekennzeichnet; Fakten werden nicht automatisch geprüft.
 
 ## Erledigt (Stand jetzt)
+- **Karussell (Wischen nach links):** Karte → ✨ Das Wichtigste (3 Stichpunkte, für alle 146 Karten) → 🔎 Tiefer eintauchen; weiße Punkte zeigen die Seite; externe Links nur auf der letzten Seite
 - Feed als PWA (Reels-artig), 146 Wissenskarten in 28 Themen (inkl. Beruf/Studium, Archäologie, NFL), Themen-Chips, „✓ gesehen“/„NEU“
 - Nachrichten: 13 Quellen per GitHub-Job alle 3 Std., Verfallsdatum je Quelle, Bild/Quelle/Alter sichtbar; „Am heutigen Tag“ (Wikipedia)
 - **🌍 Heute in der Welt** (bis 10 Ereignisse, mehrere Quellen verglichen), **Serien + „Weiter im Thema“** (erste Serie: Dreißigjähriger Krieg)
@@ -42,7 +43,7 @@
 ## 3) Für Claude – nach Priorität
 ### Bald (Kern der Vision)
 - [x] **Supabase-Sync ohne Konto** (Sync-Code): Tabelle `kg_state` (gesperrt) + Funktionen `kg_get`/`kg_put`/`kg_summary`, App-Sync mit Zusammenführen, Profil → „Sync zwischen Geräten“. **Offen:** Sync am Handy einschalten und Code sicher aufbewahren; Routine bekommt `KNOWGRAM_SYNC_CODE` und darf `*.supabase.co` erreichen; täglicher Ping gegen die Pausierung des kostenlosen Projekts (der Sync selbst hält es meist wach)
-- [ ] **Einordnungskarte „Warum ist das wichtig?“** zu den Top-Meldungen (KI-Einordnung, gekennzeichnet, mit Quellenlinks; Routine oder API)
+- [ ] **Einordnung der Top-Meldungen** (`summaries.json`, zweite Seite): die App kann sie schon anzeigen, die Routine schreibt sie (Anweisung ist ergänzt); Qualität prüfen, ob Einordnungen wirklich nichts Erfundenes enthalten
 - [ ] **Gezielte Verknüpfungen:** Routine schreibt `more`-Verweise und regelmäßig neue Serien (Anweisung steht), Ergebnisse prüfen
 - [ ] **Vom Ereignis zum Hintergrund:** Meldung → verlinkte Hintergrundkarte („Wie kam es dazu?“)
 - [ ] **Qualität von „Heute in der Welt“** an echten Tagen beobachten und nachschärfen

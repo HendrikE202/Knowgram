@@ -6,16 +6,17 @@ Du erweiterst die Wissenskarten von Knowgram (Repo HendrikE202/Knowgram, Branch 
 1. Lies `CLAUDE.md` und `cards.js`. Notiere dir alle vorhandenen Titel, Suchbegriffe (`q`) und Themen (`window.TOPICS`), damit du nichts doppelt schreibst.
 2. Schreibe genau **10 neue Karten**. Wähle die Themen so: die 5 Themen mit den wenigsten Karten plus 5 zufällige weitere. Höchstens 2 Karten pro Thema. Nur Themen aus `window.TOPICS`, außer `wissenschaft` (das ist nur für Nachrichten).
 3. Füge die Karten in `cards.js` **vor** der schließenden Klammer `];` von `window.CARDS` ein, mit dem Kommentar `// ---- Neu <Datum>`. Ändere keine anderen Dateien.
-4. Prüfe mit einem kleinen Node-Skript: genau 10 Karten mehr als vorher, IDs eindeutig, Thema existiert, alle Felder gefüllt, Datei lässt sich laden (`window` vorher als `{}` definieren). Bei Fehlern reparieren; wenn das nicht klappt, **nicht pushen**.
+4. Prüfe mit einem kleinen Node-Skript: genau 10 Karten mehr als vorher, IDs eindeutig, Thema existiert, alle Felder gefüllt (auch `points` mit 3 Einträgen), Datei lässt sich laden (`window` vorher als `{}` definieren). Bei Fehlern reparieren; wenn das nicht klappt, **nicht pushen**.
 5. Vor dem Commit: `git config user.name "Hendrik Hannes Eiler"` und `git config user.email "197228237+HendrikE202@users.noreply.github.com"`. Commit-Nachricht: `Neue Wissenskarten (<Datum>)`. Keine Zusatzzeilen, keine Co-Authored-By-Zeile, keine Session-Links. Vor dem Push `git pull --rebase origin main` (ein Bot aktualisiert `news.json` und `onthisday.json`), dann auf `main` pushen.
 6. Antworte am Ende nur mit der Liste der 10 Titel.
 
 ## Kartenformat
 ```js
-{ id: "<Themenkürzel><Nummer>", topic: "<Schlüssel aus TOPICS>", title: "...", q: "<Suchbegriff für Wikipedia>", text: "..." }
+{ id: "<Themenkürzel><Nummer>", topic: "<Schlüssel aus TOPICS>", title: "...", q: "<Suchbegriff für Wikipedia>", points: ["...", "...", "..."], text: "..." }
 ```
 - **id:** dasselbe Kürzel wie bei den vorhandenen Karten des Themas (ge, ph, ko, pl, ku, it, po, te, me, bi, zo, wi, we, ps, sp, ma, ch, kl, ra, nf, sw, db, sc, cd, ki, bf, ar – im Zweifel das Kürzel aus vorhandenen IDs des Themas ablesen) plus die nächste freie Nummer.
 - **title:** kurz, weckt Neugier, gern als Frage oder überraschende Aussage.
+- **points:** genau 3 Stichpunkte für die zweite Seite der Karte („Das Wichtigste“, per Wisch nach links). Je höchstens ~18 Wörter, die Kernfakten (wer, was, wann, Zahl, Folge) in knapper Form, **nur aus dem Kartentext abgeleitet** – nichts Neues dazuerfinden. Optional `why: "..."` (ein Satz: Warum ist das wichtig?).
 - **text:** 40–60 Wörter, EIN Gedanke, konkret (Name, Zahl oder Jahr), anschaulich, ohne Fachjargon. Deutsche Anführungszeichen „so“ verwenden, keine geraden `"`.
 - Mische Bekanntes mit echten Nischenthemen, die kaum jemand kennt.
 - Die Themen sw, db, sc, cd, ki, bf sind für Hendriks Ausbildung (Fachinformatiker Anwendungsentwicklung, AP2), sein Studium (Wirtschaftsinformatik) und die Arbeit gedacht: praxisnah, prüfungsrelevant und korrekt, mit konkretem Beispiel. Bei Fachbegriffen die übliche deutsche Schreibweise verwenden.
@@ -24,7 +25,7 @@ Du erweiterst die Wissenskarten von Knowgram (Repo HendrikE202/Knowgram, Branch 
 Hendrik will abends in Rabbit Holes fallen. Deshalb gilt:
 - **Mindestens jeden zweiten Tag eine Serie** aus 4–6 Karten zu einem spannenden Faden (z. B. ein Ereignis, eine Erfindung, eine Person). Die Karten einer Serie erhalten nach `q` die Felder `series: "Serientitel", part: 1, of: 5,`. Jede Karte hört mit einer Cliffhanger-Frage und `→ Teil n+1` auf. Alle Teile einer Serie gehören in denselben Lauf und dasselbe Thema (oder eng verwandte Themen).
 - Die übrigen Karten sind Einzelkarten. Jede Karte darf zusätzlich `more: ["id1", "id2"],` mit 1–3 IDs **bereits vorhandener**, inhaltlich verwandter Karten haben (auch aus anderen Themen) – das sind die Türen zum nächsten Kaninchenloch.
-- Reihenfolge der Felder: `id, topic, title, q, series, part, of, more, text` (nur die nötigen).
+- Reihenfolge der Felder: `id, topic, title, q, series, part, of, more, points, why, text` (nur die nötigen).
 - Gesamtzahl bleibt 10 Karten pro Lauf (eine Serie zählt mit ihren Teilen).
 
 ## Geschmack und Wünsche berücksichtigen (optional)
@@ -40,6 +41,13 @@ So verwenden:
 - **Notizen** (`notes`) lesen: sie zeigen, was gefällt oder stört; daraus Tonfall, Länge und Themen ableiten.
 - **Gemeldete Karten** (`reports`): Karte in `cards.js` prüfen. „Sachlich falsch/veraltet“ → korrigieren oder streichen; „einseitig“ → ausgewogener formulieren. Erledigte Fälle in der Antwort erwähnen.
 - **Geschmack** (`ratings`, `prefs`, `checks`) nur als leichte Gewichtung: höchstens 3 der 10 Karten dürfen sich danach richten. Die übrigen gehen weiter an die Themen mit den wenigsten Karten. Nie ein Thema komplett weglassen (keine Filterblase).
+
+## Meldungen einordnen: `summaries.json` (zweite Seite bei Nachrichten)
+Zu den wichtigsten aktuellen Meldungen (die IDs in `briefing` und die ersten ~12 in `ranked` von `news.json`) schreibst du kurze Einordnungen in `summaries.json` (Objekt: Meldungs-ID → `{ "points": ["...", "...", "..."], "why": "..." }`). Die App zeigt sie auf der zweiten Seite („Das Wichtigste“) mit dem Hinweis „KI-Einordnung“.
+- Grundlage NUR: Titel, Vorschautext (`text`) und die Titel der anderen Quellen (`also`) aus `news.json`. Wenn du Webzugriff hast, darfst du den Originalartikel (`link`) lesen – aber in **eigenen Worten**, ohne Sätze zu übernehmen.
+- 2–3 Stichpunkte (je höchstens ~18 Wörter), `why` = ein vorsichtiger Satz, warum es wichtig ist. Nichts dazuerfinden, Unklares weglassen („bisher unklar“ ist erlaubt), keine Wertungen, keine Prognosen.
+- Bestehende Einträge behalten, solange die Meldung noch in `news.json` steht; Einträge zu verschwundenen Meldungen entfernen. Höchstens 25 Einträge.
+- Zusammen mit den Karten in einem Commit (`Neue Wissenskarten (<Datum>)`) oder – falls nur Einordnungen anfallen – in einem eigenen Commit „Einordnungen (<Datum>)“.
 
 ## Qualität (wichtig – es gibt keine automatische Faktenprüfung)
 - Schreibe nur Fakten, bei denen du dir sicher bist. Im Zweifel eine andere Karte wählen.

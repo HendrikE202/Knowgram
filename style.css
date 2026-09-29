@@ -102,3 +102,33 @@ html[data-big="1"] .card h2{font-size:1.9rem}
 .card.illu>.big{display:none}
 
 .synccode{display:block;text-align:center;font:600 1rem/1.4 ui-monospace,Menlo,Consolas,monospace;background:var(--panel);border:1px dashed var(--line);border-radius:10px;padding:12px;margin:8px 0;letter-spacing:.5px;word-break:break-all}
+
+/* Karussell: Karte → Das Wichtigste → Tiefer eintauchen */
+.card.sl{padding:0;display:block}
+.card>.slides{position:absolute;inset:0;z-index:1;display:flex;overflow-x:auto;overflow-y:hidden;scroll-snap-type:x mandatory;scrollbar-width:none;overscroll-behavior-x:contain}
+.slides::-webkit-scrollbar{display:none}
+.slide{flex:0 0 100%;box-sizing:border-box;scroll-snap-align:start;scroll-snap-stop:always;display:flex;flex-direction:column;justify-content:flex-end;padding:calc(var(--hh) + 8px) 72px 44px 20px;overflow-y:auto;scrollbar-width:none}
+.slide::-webkit-scrollbar{display:none}
+.card>.dots{position:absolute;left:0;right:64px;bottom:16px;z-index:3;display:flex;justify-content:center;gap:6px;pointer-events:none}
+.dots i{width:7px;height:7px;border-radius:50%;background:#ffffff55;transition:background .2s,transform .2s}
+.dots i.on{background:#fff;transform:scale(1.2)}
+.card>.rail{z-index:3}
+.stag{display:inline-block;align-self:flex-start;background:#ffffff1f;border-radius:999px;padding:3px 12px;font:700 .78rem inherit;font-family:inherit;letter-spacing:.3px;margin-bottom:10px}
+.slide-title{margin:0 0 12px;font-size:1.2rem;line-height:1.25;color:#e6e9f0;font-weight:700}
+.pts{list-style:none;margin:0 0 14px;padding:0;display:grid;gap:12px}
+.pts li{position:relative;padding-left:24px;font-size:1.08rem;line-height:1.45;color:#f1f3f7}
+.pts li::before{content:"";position:absolute;left:2px;top:.52em;width:9px;height:9px;border-radius:50%;background:var(--c);box-shadow:0 0 0 3px #ffffff22}
+.why{margin:0 0 12px;padding:10px 12px;background:#ffffff14;border-radius:10px;font-size:.95rem}
+.alsobox{margin:0 0 12px;font-size:.88rem;display:grid;gap:6px}
+.alsobox a{color:#a5b4fc;text-decoration:none;line-height:1.35}
+.swipehint{margin-top:14px;color:#ffffffa8;font-size:.78rem;letter-spacing:.2px}
+.slide.s3 .act{margin:6px 0}
+/* Seiten 2 und 3: ruhiger Hintergrund, kompakter */
+.slide.s2{background:linear-gradient(180deg,#0b0d1200 0,#0b0d12a6 34%,#0b0d12ee 100%)}
+.slide.s3{background:linear-gradient(180deg,#0b0d12cc 0,#0b0d12f0 40%,#0b0d12f5 100%);justify-content:flex-start;padding-top:calc(var(--hh) + 18px);padding-bottom:56px}
+.slide.s3 .slide-title{font-size:1.1rem;margin-bottom:10px}
+.slide.s3 .act{padding:9px 12px;margin:5px 0;font-size:.95rem}
+.slide.s3 .act small{font-size:.76rem}
+.slide .refs{margin-top:10px;padding-top:8px;font-size:.8rem}
+.slide .refs p{font-size:.82rem;margin:4px 0 6px;color:var(--muted)}
+.slide .refs a{margin:2px 10px 2px 0;font-size:.85rem}

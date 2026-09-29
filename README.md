@@ -40,6 +40,13 @@ Installation als PWA später per HTTPS hosten).
 - **Bildfilter (Meldungen):** Logos, Zählpixel, Werbung, Stockfotos und mehrfach verwendete Bilder werden verworfen.
 - **Abendmodus** (Mond oben, Auto standardmäßig 23–6 Uhr, einstellbar), **Schlaf-Timer** und größere Schrift: Profil → „Abend & Schlaf“.
 
+## Karussell wie bei Instagram
+Jede Karte hat bis zu drei Seiten, unten zeigen weiße Punkte, auf welcher du bist:
+1. **Die Karte** (Aufhänger, Text, Quelle, Buttons)
+2. **✨ Das Wichtigste:** 3 Stichpunkte (`points`, bei Karten von Hand/Routine geschrieben; bei Meldungen aus `summaries.json`, sonst „🔀 Andere Quellen“, wenn mehrere Medien berichten). Fehlt beides, gibt es die Seite nicht.
+3. **🔎 Tiefer eintauchen:** Wikipedia / Web / Originalartikel, Prompt, Quellen zum Prüfen, „Problem melden“. Externe Seiten öffnen sich nur hier.
+Nach links wischen = weiter, „Tiefer eintauchen →“ springt direkt zu Seite 3, ein Hinweis auf der Karte verschwindet nach dem ersten Wischen.
+
 ## Sync zwischen Geräten (Supabase, ohne Konto)
 - Profil → „Sync zwischen Geräten“ → „Sync einschalten“ erzeugt einen geheimen **Sync-Code** (24 Zeichen). Auf dem zweiten Gerät „Mit Code verbinden“. Der Code ist der Schlüssel zu deinen Daten – sicher aufbewahren; er wird nirgends im Repo gespeichert.
 - Serverseitig (`supabase/schema.sql`): Tabelle `kg_state` ohne direkten Zugriff, nur die Funktionen `kg_get`, `kg_put`, `kg_summary` (verlangen den Code; gespeichert wird nur sein SHA-256-Hash; max. 20 Codes, 2 MB je Datensatz). `config.js` enthält nur URL und *publishable key* (darf öffentlich sein).
