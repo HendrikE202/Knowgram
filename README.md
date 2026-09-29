@@ -32,6 +32,7 @@ Installation als PWA später per HTTPS hosten).
 ## Geschmack & Profil
 - Jede Karte: 👍 mehr davon / 👎 weniger davon (Doppeltipp = 👍). 👎-Karten kommen nicht wieder.
 - Der Feed gewichtet Themen nach Bewertungen, „Tiefer eintauchen“ und Lieblingsthemen; ca. jede 5. Karte ist bewusst eine Überraschung.
+- **Bewusst ausgewogen:** Die Gewichte sind auf 0,35× bis 2× begrenzt, ein Thema verschwindet nie. Bewertungen zählen relativ zur Häufigkeit, bei wenig Daten kaum, fehlende 👍 sind kein Minus, ein 👎 senkt vor allem die eine Karte (Thema nur leicht), alte Bewertungen klingen ab (Halbwertszeit 45 Tage), nie 3 gleiche Themen hintereinander, ca. jede 4. Karte ist ein Entdecker-Tipp. Stärke einstellbar im Profil (Aus/Sanft/Mittel/Stark).
 - Tab „Profil“: Lieblingsthemen wählen, Geschmacks-Übersicht, Export/Import als Text. Das Profil liegt nur lokal im Browser (kein echter Account, kein Sync).
 
 ## Online stellen (GitHub Pages)

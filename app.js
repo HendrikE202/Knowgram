@@ -5,11 +5,12 @@
   const feed = $("#feed"), chips = $("#chips"), sheet = $("#sheet"), toastEl = $("#toast");
 
   // --- Zustand (localStorage, darf fehlschlagen) ---
-  let S = { rate: {}, prefs: {}, dive: {}, profile: { name: "", emoji: "🙂" }, saved: [], savedNews: {}, seen: [] };
+  let S = { rate: {}, prefs: {}, dive: {}, strength: 0.5, profile: { name: "", emoji: "🙂" }, saved: [], savedNews: {}, seen: [] };
   try { S = Object.assign(S, JSON.parse(localStorage.getItem("knowgram") || "{}")); } catch (e) {}
+  for (const v of Object.values(S.rate)) if (!v.at) v.at = Date.now();   // Zeitstempel nachtragen (für das Abklingen alter Bewertungen)
   // Ältere Version: „liked“-Liste in Bewertungen (👍) überführen
   if (Array.isArray(S.liked)) {
-    for (const id of S.liked) { const c = ALL.find((x) => x.id === id); if (c && !S.rate[id]) S.rate[id] = { r: 1, title: c.title, topic: c.topic }; }
+    for (const id of S.liked) { const c = ALL.find((x) => x.id === id); if (c && !S.rate[id]) S.rate[id] = { r: 1, title: c.title, topic: c.topic, at: Date.now() }; }
     delete S.liked;
   }
   const persist = () => { try { localStorage.setItem("knowgram", JSON.stringify(S)); } catch (e) {} };
@@ -78,24 +79,72 @@
   const newsPool = () => NEWS.filter((n) => !topic || topic === "news" || n.topic === topic);
   const wissenPool = () => (topic === "news" ? [] : [...ALL, ...OTD].filter((c) => !topic || c.topic === topic));
 
-  // --- Geschmack: Themen-Gewichte aus Bewertungen, Vertiefungen und Lieblingsthemen ---
+  // --- Geschmack: vorsichtig und ausgewogen -----------------------------------
+  // Ziele: (1) Bewertungen relativ zur Häufigkeit werten, nicht absolut (kein Schneeballeffekt),
+  // (2) wenig Daten → kaum Wirkung (Glättung), (3) 👎 trifft vor allem die Karte, nur schwach das Thema,
+  // (4) alte Bewertungen klingen ab, (5) kein Thema verschwindet, (6) Abwechslung und Entdecker-Karten.
+  const META = {};                                     // Karten-ID → Thema (für Sichtungs-Statistik)
+  const indexMeta = () => { for (const c of [...ALL, ...OTD, ...NEWS]) META[c.id] = c.topic; };
+  const decay = (at) => Math.pow(0.5, (Date.now() - (at || Date.now())) / (45 * 864e5)); // Halbwertszeit 45 Tage
+  const MIN_W = 0.35, MAX_W = 2, SMOOTH = 40, EXPLORE = 0.25, MAX_SHARE = 0.3;
+
   const topicStats = () => {
     const st = {};
-    for (const k of Object.keys(TOPICS)) st[k] = { up: 0, down: 0, dive: S.dive[k] || 0, pref: S.prefs[k] || 0 };
-    for (const v of Object.values(S.rate)) if (st[v.topic]) st[v.topic][v.r > 0 ? "up" : "down"]++;
+    for (const k of Object.keys(TOPICS)) st[k] = { up: 0, down: 0, pos: 0, neg: 0, dive: S.dive[k] || 0, pref: S.prefs[k] || 0, shown: 0 };
+    for (const v of Object.values(S.rate)) {
+      const x = st[v.topic]; if (!x) continue;
+      if (v.r > 0) { x.up++; x.pos += decay(v.at); } else { x.down++; x.neg += decay(v.at); }
+    }
+    for (const id of SEEN) { const x = st[META[id]]; if (x) x.shown++; }
+    for (const x of Object.values(st)) x.pos += 0.5 * Math.min(x.dive, 4);   // Vertiefen = schwaches Interesse
     return st;
   };
-  const scoreOf = (x) => x.up - x.down + 0.5 * Math.min(x.dive, 4) + 2 * x.pref;
-  const weights = () => { const st = topicStats(), w = {}; for (const k in st) w[k] = Math.min(5, Math.max(0.15, Math.exp(0.4 * scoreOf(st[k])))); return w; };
-  // gewichtetes Mischen; jede 5. Karte im Schnitt ohne Gewicht = bewusste Überraschung
-  const weightedShuffle = (list, W) => list
-    .map((c) => ({ c, k: -Math.log(Math.random() || 1e-9) / (Math.random() < 0.2 ? 1 : W[c.topic] || 1) }))
-    .sort((a, b) => a.k - b.k).map((x) => x.c);
+
+  const weights = (st = topicStats()) => {
+    const g = Math.max(0, S.strength ?? 0.5), w = {};
+    let N = 0, P = 0, D = 0;
+    for (const x of Object.values(st)) { N += x.shown; P += x.pos; D += x.neg; }
+    // Grundraten über alle Themen; Untergrenzen verhindern, dass ein einzelnes 👎/👍 bei wenig Daten riesig wirkt
+    const qb = Math.max(0.06, (P + 1) / (N + 10)), db = Math.max(0.06, (D + 0.5) / (N + 10));
+    for (const [k, x] of Object.entries(st)) {
+      const q = (x.pos + SMOOTH * qb) / (x.shown + SMOOTH);             // geglättete 👍-Rate des Themas
+      const d = (x.neg + SMOOTH * db) / (x.shown + SMOOTH);             // geglättete 👎-Rate des Themas
+      // einseitig: fehlende 👍 sind KEIN Minus (man likt ohnehin nicht alles); nur echte 👎 senken, nur echte 👍 heben
+      let r = Math.pow(Math.max(1, q / qb), g) * Math.pow(Math.min(1, db / d), 0.7 * g);
+      r *= Math.pow(1.6, g * x.pref);                                   // Lieblingsthema ×1,6 / „weniger“ ×0,63 (nur weich)
+      w[k] = Math.min(MAX_W, Math.max(MIN_W, r));
+    }
+    return w;
+  };
+
+  // gewichtetes Mischen; ein Teil der Plätze geht an selten gesehene Themen (Entdecken)
+  const weightedShuffle = (list, W, st) => list
+    .map((c) => {
+      const explore = Math.random() < EXPLORE;
+      const wt = explore ? 1 / (1 + ((st[c.topic] || {}).shown || 0) / 3) : W[c.topic] || 1;
+      return { c, k: -Math.log(Math.random() || 1e-9) / wt };
+    }).sort((a, b) => a.k - b.k).map((x) => x.c);
+
+  // Abwechslung: nie 3 gleiche Themen hintereinander, kein Thema über ~30 % einer Charge
+  const spread = (list) => {
+    const pool = list.slice(), out = [], cnt = {};
+    while (pool.length) {
+      const last = out.slice(-2).map((c) => c.topic);
+      const run3 = (c) => last.length === 2 && last[0] === c.topic && last[1] === c.topic;
+      const ok = (c) => !run3(c) && (cnt[c.topic] || 0) < MAX_SHARE * (out.length + 4);
+      let i = pool.findIndex(ok);
+      if (i < 0) i = pool.findIndex((c) => !run3(c));
+      if (i < 0) i = 0;
+      const [c] = pool.splice(i, 1);
+      out.push(c); cnt[c.topic] = (cnt[c.topic] || 0) + 1;
+    }
+    return out;
+  };
 
   const nextBatch = () => {
-    const W = weights(), keep = (c) => ratingOf(c.id) >= 0;   // 👎-Karten kommen nicht wieder
-    const w = weightedShuffle(wissenPool().filter(keep), W).sort((a, b) => SEEN.has(a.id) - SEEN.has(b.id)); // Ungesehenes zuerst
-    const n = newsPool().filter((x) => keep(x) && (W[x.topic] || 1) > 0.25);
+    const st = topicStats(), W = weights(st), keep = (c) => ratingOf(c.id) >= 0;   // 👎-Karten kommen nicht wieder
+    const w = spread(weightedShuffle(wissenPool().filter(keep), W, st).sort((a, b) => SEEN.has(a.id) - SEEN.has(b.id))); // Ungesehenes zuerst
+    const n = newsPool().filter((x) => keep(x) && (W[x.topic] || 1) >= MIN_W);
     if (!w.length) { finite = true; return n; }          // reine News-Ansicht: einmal durch, dann Ende
     finite = false;
     if (w.length > 1 && w[0].id === lastId) w.push(w.shift());
@@ -155,7 +204,7 @@
     if (ratingOf(c.id) === r) {
       if (onlyAdd) return popEmoji(el, "👍");
       delete S.rate[c.id];
-    } else S.rate[c.id] = { r, title: c.title, topic: c.topic };
+    } else S.rate[c.id] = { r, title: c.title, topic: c.topic, at: Date.now() };
     persist(); syncRail(c.id);
     if (ratingOf(c.id) > 0) popEmoji(el, "👍");
     if (ratingOf(c.id) < 0) {
@@ -233,17 +282,17 @@
   };
 
   // --- Profil (lokal, bleibt auf diesem Gerät) ---
-  const exportJson = () => JSON.stringify({ app: "knowgram", v: 1, at: new Date().toISOString(), profile: S.profile, prefs: S.prefs, dive: S.dive, rate: S.rate, saved: S.saved }, null, 1);
+  const exportJson = () => JSON.stringify({ app: "knowgram", v: 1, at: new Date().toISOString(), profile: S.profile, prefs: S.prefs, dive: S.dive, strength: S.strength, rate: S.rate, saved: S.saved }, null, 1);
   const importJson = (txt) => {
     const j = JSON.parse(txt);
     if (!j || j.app !== "knowgram" || j.v !== 1 || typeof j.rate !== "object") throw new Error("Format");
     const rate = {};
-    for (const [id, v] of Object.entries(j.rate || {})) if (v && (v.r === 1 || v.r === -1)) rate[String(id).slice(0, 40)] = { r: v.r, title: String(v.title || "").slice(0, 200), topic: TOPICS[v.topic] ? v.topic : "" };
+    for (const [id, v] of Object.entries(j.rate || {})) if (v && (v.r === 1 || v.r === -1)) rate[String(id).slice(0, 40)] = { r: v.r, title: String(v.title || "").slice(0, 200), topic: TOPICS[v.topic] ? v.topic : "", at: Number.isFinite(v.at) ? v.at : Date.now() };
     const prefs = {};
     for (const [k, v] of Object.entries(j.prefs || {})) if (TOPICS[k] && (v === 1 || v === -1)) prefs[k] = v;
     const dive = {};
     for (const [k, v] of Object.entries(j.dive || {})) if (TOPICS[k] && Number.isFinite(v)) dive[k] = Math.max(0, Math.min(999, v));
-    S.rate = rate; S.prefs = prefs; S.dive = dive;
+    S.rate = rate; S.prefs = prefs; S.dive = dive; if ([0, 0.5, 1, 1.5].includes(j.strength)) S.strength = j.strength;
     S.profile = { name: String((j.profile && j.profile.name) || "").slice(0, 24), emoji: String((j.profile && j.profile.emoji) || "🙂").slice(0, 4) };
     if (Array.isArray(j.saved)) S.saved = j.saved.filter((x) => typeof x === "string").slice(0, 2000);
     persist();
@@ -260,15 +309,23 @@
 
     const bars = h("div");
     const drawBars = () => {
-      const rows = Object.entries(topicStats()).map(([k, x]) => ({ k, x, sc: scoreOf(x) }))
-        .filter((r) => r.x.up || r.x.down || r.x.dive || r.x.pref).sort((a, b) => b.sc - a.sc);
+      const st = topicStats(), W = weights(st);
+      const rows = Object.entries(st).map(([k, x]) => ({ k, x, w: W[k] })).filter((r) => r.x.up || r.x.down || r.x.dive || r.x.pref).sort((a, b) => b.w - a.w);
       bars.replaceChildren(...(rows.length
-        ? rows.map(({ k, x, sc }) => h("div", { class: "pf-row" },
-            h("div", { class: "pf-lbl" }, `${TOPICS[k].emoji} ${TOPICS[k].name}`, h("small", {}, `👍 ${x.up} · 👎 ${x.down}${x.dive ? ` · 🔎 ${x.dive}` : ""}`)),
-            h("div", { class: "pf-bar" }, h("i", { class: sc >= 0 ? "pos" : "neg", style: `width:${Math.min(50, Math.abs(sc) * 6)}%` }))))
-        : [h("p", { class: "pf-empty" }, "Bewerte ein paar Karten mit 👍 und 👎 – dann siehst du hier, was dir gefällt.")]));
+        ? rows.map(({ k, x, w }) => {
+            const thin = x.up + x.down < 3 && x.shown < 8;
+            return h("div", { class: "pf-row" },
+              h("div", { class: "pf-lbl" }, `${TOPICS[k].emoji} ${TOPICS[k].name}`, h("small", {}, `👍 ${x.up} · 👎 ${x.down}${x.dive ? ` · 🔎 ${x.dive}` : ""} · ×${w.toFixed(1)}${thin ? " · noch wenig Daten" : ""}`)),
+              h("div", { class: "pf-bar" }, h("i", { class: w >= 1 ? "pos" : "neg", style: `width:${Math.min(50, Math.abs(Math.log2(w)) * 40)}%` })));
+          })
+        : [h("p", { class: "pf-empty" }, "Bewerte ein paar Karten mit 👍 und 👎 – dann siehst du hier, was dir gefällt. Themen mit wenig Daten bleiben neutral.")]));
     };
     drawBars();
+
+    const strengthBtns = [["Aus", 0], ["Sanft", 0.5], ["Mittel", 1], ["Stark", 1.5]].map(([label, v]) => {
+      const b = h("button", { class: "seg" + ((S.strength ?? 0.5) === v ? " on" : ""), onclick: () => { S.strength = v; persist(); strengthBtns.forEach((x) => x.classList.toggle("on", x === b)); drawBars(); } }, label);
+      return b;
+    });
 
     const prefChips = Object.entries(TOPICS).map(([k, t]) => {
       const b = h("button", { style: `--c:${t.c}` });
@@ -294,14 +351,17 @@
         h("p", { class: "pf-note" }, "Lokales Beispiel-Profil: Es bleibt auf diesem Gerät. Ein echter Account mit Sync folgt.")),
       h("div", { class: "tiles" }, tile(SEEN.size, "gesehen"), tile(Object.keys(S.rate).length, "bewertet"), tile(S.saved.length, "gespeichert")),
       sec("Was interessiert dich?", h("p", { class: "pf-note" }, "Tippen: ❤️ mehr davon → 🚫 weniger → neutral"), h("div", { class: "pf-chips" }, ...prefChips)),
-      sec("Dein Geschmack", bars),
+      sec("Dein Geschmack", bars,
+        h("p", { class: "pf-note" }, "Wie stark soll sich der Feed anpassen?"),
+        h("div", { class: "segs" }, ...strengthBtns),
+        h("p", { class: "pf-note" }, "„Aus“ = reine Abwechslung. Selbst bei „Stark“ bleiben alle Themen im Feed: Lieblinge kommen höchstens doppelt so oft, andere mindestens etwa ein Drittel so oft. Ein 👎 betrifft vor allem die eine Karte. Rund jede vierte Karte ist ein Entdecker-Tipp aus selten gesehenen Themen.")),
       sec("Zuletzt 👍", h("div", { class: "pf-list" }, ...recent(1))),
       sec("Zuletzt 👎", h("div", { class: "pf-list" }, ...recent(-1))),
       sec("Sichern & Übertragen",
         h("button", { class: "act", onclick: async () => toast((await copy(exportJson())) ? "Geschmack kopiert" : "Kopieren nicht möglich") }, "📋 Geschmack kopieren", h("small", {}, "Als Text, z. B. zum Sichern oder um ihn Claude zu zeigen")),
         box,
         h("button", { class: "act", onclick: () => { try { importJson(box.value); toast("Geschmack geladen"); render(); } catch (e) { toast("Das ist kein gültiger Export"); } } }, "📥 Einfügen & laden"),
-        h("button", { class: "act", onclick: () => { if (confirm("Wirklich alles zurücksetzen (Bewertungen, Gespeichertes, Profil)?")) { S = { rate: {}, prefs: {}, dive: {}, profile: { name: "", emoji: "🙂" }, saved: [], savedNews: {}, seen: [] }; SEEN.clear(); persist(); render(); } } }, "🗑️ Alles zurücksetzen")));
+        h("button", { class: "act", onclick: () => { if (confirm("Wirklich alles zurücksetzen (Bewertungen, Gespeichertes, Profil)?")) { S = { rate: {}, prefs: {}, dive: {}, strength: 0.5, profile: { name: "", emoji: "🙂" }, saved: [], savedNews: {}, seen: [] }; SEEN.clear(); persist(); render(); } } }, "🗑️ Alles zurücksetzen")));
   };
 
   const render = () => {
@@ -333,9 +393,9 @@
   // Beim Zurückkehren in die App nach längerer Pause: Nachrichten neu laden
   document.addEventListener("visibilitychange", async () => {
     if (document.hidden) { hiddenAt = Date.now(); return; }
-    if (hiddenAt && Date.now() - hiddenAt > 15 * 60000 && (await loadNews())) { drawChips(); toast("Nachrichten aktualisiert"); }
+    if (hiddenAt && Date.now() - hiddenAt > 15 * 60000 && (await loadNews())) { indexMeta(); drawChips(); toast("Nachrichten aktualisiert"); }
   });
 
-  (async () => { await Promise.all([loadNews(), loadOtd()]); drawChips(); render(); })();
+  (async () => { await Promise.all([loadNews(), loadOtd()]); indexMeta(); drawChips(); render(); })();
   if ("serviceWorker" in navigator && location.protocol.startsWith("http")) navigator.serviceWorker.register("sw.js").catch(() => {});
 })();
