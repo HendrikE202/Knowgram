@@ -33,6 +33,7 @@ Installation als PWA später per HTTPS hosten).
 - Jede Karte: 👍 mehr davon / 👎 weniger davon (Doppeltipp = 👍). 👎-Karten kommen nicht wieder.
 - Der Feed gewichtet Themen nach Bewertungen, „Tiefer eintauchen“ und Lieblingsthemen; ca. jede 5. Karte ist bewusst eine Überraschung.
 - **Bewusst ausgewogen:** Die Gewichte sind auf 0,35× bis 2× begrenzt, ein Thema verschwindet nie. Bewertungen zählen relativ zur Häufigkeit, bei wenig Daten kaum, fehlende 👍 sind kein Minus, ein 👎 senkt vor allem die eine Karte (Thema nur leicht), alte Bewertungen klingen ab (Halbwertszeit 45 Tage), nie 3 gleiche Themen hintereinander, ca. jede 4. Karte ist ein Entdecker-Tipp. Stärke einstellbar im Profil (Aus/Sanft/Mittel/Stark).
+- **Feedback (getrennt vom Geschmack):** (1) Themen-Check: höchstens 1× pro ~20 Std. eine neutrale Frage („Öfter / Wie bisher / Seltener“, Antwortreihenfolge zufällig) zu Themen mit wenig Rückmeldung, nicht zu den Lieblingen; wirkt nur schwach und klingt ab. (2) „Problem melden“ im Vertiefen-Menü (falsch/veraltet, einseitig, sonstiges): blendet die Karte aus und ändert dein Themen-Profil nicht. (3) Themenwünsche im Profil, ohne Wertung. Alles steht im Export.
 - Tab „Profil“: Lieblingsthemen wählen, Geschmacks-Übersicht, Export/Import als Text. Das Profil liegt nur lokal im Browser (kein echter Account, kein Sync).
 
 ## Online stellen (GitHub Pages)

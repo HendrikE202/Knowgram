@@ -65,3 +65,8 @@ h1{margin:0;font-size:1.35rem;letter-spacing:-.5px}h1 span{background:linear-gra
 .segs{display:flex;gap:6px;margin:6px 0}
 .seg{flex:1;background:var(--panel);border:1px solid var(--line);color:var(--text);border-radius:10px;padding:8px 4px;font:600 .85rem inherit;font-family:inherit;cursor:pointer}
 .seg.on{background:#fff;color:#000;border-color:#fff}
+.card.check .opts{margin:4px 0 14px}
+.card.check .opt{font-size:1rem;padding:12px 14px}
+.pf-wish{display:flex;gap:8px;margin:6px 0}.pf-wish input{flex:1;background:var(--panel);color:var(--text);border:1px solid var(--line);border-radius:10px;padding:10px;font:inherit;min-width:0}
+.pf-wish .seg{flex:none;padding:8px 14px}
+.opt{display:block;width:100%;text-align:left;margin:6px 0;border-radius:10px;border:1px solid #ffffff33;background:#ffffff12;color:var(--text);font:inherit;cursor:pointer}

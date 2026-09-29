@@ -5,7 +5,7 @@
   const feed = $("#feed"), chips = $("#chips"), sheet = $("#sheet"), toastEl = $("#toast");
 
   // --- Zustand (localStorage, darf fehlschlagen) ---
-  let S = { rate: {}, prefs: {}, dive: {}, strength: 0.5, profile: { name: "", emoji: "🙂" }, saved: [], savedNews: {}, seen: [] };
+  let S = { rate: {}, prefs: {}, dive: {}, strength: 0.5, wishes: [], reports: {}, checks: {}, lastCheck: 0, profile: { name: "", emoji: "🙂" }, saved: [], savedNews: {}, seen: [] };
   try { S = Object.assign(S, JSON.parse(localStorage.getItem("knowgram") || "{}")); } catch (e) {}
   for (const v of Object.values(S.rate)) if (!v.at) v.at = Date.now();   // Zeitstempel nachtragen (für das Abklingen alter Bewertungen)
   // Ältere Version: „liked“-Liste in Bewertungen (👍) überführen
@@ -88,9 +88,10 @@
   const decay = (at) => Math.pow(0.5, (Date.now() - (at || Date.now())) / (45 * 864e5)); // Halbwertszeit 45 Tage
   const MIN_W = 0.35, MAX_W = 2, SMOOTH = 40, EXPLORE = 0.25, MAX_SHARE = 0.3;
 
+  const checkVal = (k) => { const c = S.checks[k]; return c ? c.a * 0.5 * Math.pow(0.5, (Date.now() - c.at) / (90 * 864e5)) : 0; };
   const topicStats = () => {
     const st = {};
-    for (const k of Object.keys(TOPICS)) st[k] = { up: 0, down: 0, pos: 0, neg: 0, dive: S.dive[k] || 0, pref: S.prefs[k] || 0, shown: 0 };
+    for (const k of Object.keys(TOPICS)) st[k] = { up: 0, down: 0, pos: 0, neg: 0, dive: S.dive[k] || 0, pref: (S.prefs[k] || 0) + checkVal(k), shown: 0 };
     for (const v of Object.values(S.rate)) {
       const x = st[v.topic]; if (!x) continue;
       if (v.r > 0) { x.up++; x.pos += decay(v.at); } else { x.down++; x.neg += decay(v.at); }
@@ -141,8 +142,21 @@
     return out;
   };
 
+  // Themen-Check: höchstens eine Frage pro ~20 Std., nur zu Themen mit wenig Rückmeldung (nicht zu den Lieblingen → weniger Bestätigungs-Verzerrung)
+  const pickCheck = (st) => {
+    if (topic || Date.now() - (S.lastCheck || 0) < 20 * 36e5) return null;
+    const cand = Object.entries(st).filter(([k, x]) => TOPICS[k] && x.shown >= 4 && x.up + x.down <= 1 && !S.prefs[k]
+      && !(S.checks[k] && Date.now() - S.checks[k].at < 60 * 864e5));
+    if (!cand.length) return null;
+    const min = Math.min(...cand.map(([, x]) => x.up + x.down));
+    const pool = cand.filter(([, x]) => x.up + x.down === min);
+    const k = pool[Math.floor(Math.random() * pool.length)][0];
+    S.lastCheck = Date.now(); persist();
+    return { kind: "check", topic: k, shown: st[k].shown };
+  };
+
   const nextBatch = () => {
-    const st = topicStats(), W = weights(st), keep = (c) => ratingOf(c.id) >= 0;   // 👎-Karten kommen nicht wieder
+    const st = topicStats(), W = weights(st), keep = (c) => ratingOf(c.id) >= 0 && !S.reports[c.id];   // 👎- und gemeldete Karten kommen nicht wieder
     const w = spread(weightedShuffle(wissenPool().filter(keep), W, st).sort((a, b) => SEEN.has(a.id) - SEEN.has(b.id))); // Ungesehenes zuerst
     const n = newsPool().filter((x) => keep(x) && (W[x.topic] || 1) >= MIN_W);
     if (!w.length) { finite = true; return n; }          // reine News-Ansicht: einmal durch, dann Ende
@@ -154,6 +168,8 @@
       out.push(c);
       if ((i + 1) % 3 === 0 && n.length) out.push(n[newsPtr++ % n.length]);
     });
+    const ck = pickCheck(st);
+    if (ck) out.splice(Math.min(12, out.length), 0, ck);
     return out;
   };
 
@@ -164,15 +180,16 @@
 
   const openSheet = (c) => {
     const news = c.kind === "news", otd = c.kind === "otd", ext = news || otd;
-    S.dive[c.topic] = (S.dive[c.topic] || 0) + 1; persist();
+    let dived = false;   // Interesse zählt erst, wenn wirklich ein Link/Prompt genutzt wird – nicht schon beim Öffnen des Menüs
+    const dive = () => { if (!dived) { dived = true; S.dive[c.topic] = (S.dive[c.topic] || 0) + 1; persist(); } };
     const q = encodeURIComponent(otd ? c.text.slice(0, 80) : news ? c.title : c.q);
     const close = () => { sheet.hidden = true; sheet.replaceChildren(); };
-    const link = (href, title, sub) => h("a", { class: "act", href, target: "_blank", rel: "noopener noreferrer" }, title, h("small", {}, sub));
+    const link = (href, title, sub) => h("a", { class: "act", href, target: "_blank", rel: "noopener noreferrer", onclick: dive }, title, h("small", {}, sub));
     const parts = [h("h3", {}, c.title), h("div", { class: "sub" }, "Tiefer eintauchen")];
     if (ext) parts.push(link(safeUrl(c.link), otd ? "📖 Wikipedia-Artikel lesen" : "📰 Originalartikel lesen", otd ? c.date : `${c.source} · ${fmtDate(c.published)}`));
     else parts.push(link(`https://de.wikipedia.org/w/index.php?search=${q}`, "📖 Bei Wikipedia lesen", "Suche nach: " + c.q));
     parts.push(link(`https://duckduckgo.com/?q=${q}`, "🔎 Im Web recherchieren", "Weitere Quellen finden"));
-    parts.push(h("button", { class: "act", onclick: async () => toast((await copy(promptFor(c))) ? "Prompt kopiert – in Claude einfügen" : "Kopieren nicht möglich") }, "🤖 Mit Claude vertiefen", h("small", {}, "Kopiert einen fertigen Prompt")));
+    parts.push(h("button", { class: "act", onclick: async () => { dive(); toast((await copy(promptFor(c))) ? "Prompt kopiert – in Claude einfügen" : "Kopieren nicht möglich"); } }, "🤖 Mit Claude vertiefen", h("small", {}, "Kopiert einen fertigen Prompt")));
     const t = topicOf(c);
     parts.push(h("div", { class: "refs" },
       h("b", {}, ext ? "Einordnung" : "Wo du es prüfen kannst"),
@@ -181,6 +198,19 @@
         ? `Angezeigt wird die Vorschau des Anbieters (${c.source}, ${c.type}), keine eigene Zusammenfassung. Vergleiche wichtige Themen mit mehr als einer Quelle.`
         : "Diese Karte wurde von einer KI geschrieben und ist nicht automatisch faktengeprüft. Verlässliche Anlaufstellen:"),
       ...(ext ? [] : t.refs.map(([n, u]) => h("a", { href: u, target: "_blank", rel: "noopener noreferrer" }, n)))));
+    const REASONS = ["Sachlich falsch oder veraltet", "Einseitig oder unpassend formuliert", "Sonstiges Problem"];
+    const report = () => {
+      sheet.replaceChildren(h("div", { class: "sheet" },
+        h("h3", {}, "Problem melden"),
+        h("div", { class: "sub" }, "Das ist keine Geschmacks-Bewertung: Die Karte wird ausgeblendet und für die Prüfung vorgemerkt, dein Themen-Profil ändert sich dadurch nicht."),
+        ...REASONS.map((r) => h("button", { class: "act", onclick: () => {
+          S.reports[c.id] = { reason: r, title: c.title, topic: c.topic, at: Date.now() }; persist();
+          close(); toast("Danke – Karte wird nicht mehr gezeigt");
+          document.querySelectorAll(`.card[data-id="${c.id}"]`).forEach((e) => { const nx = e.nextElementSibling; if (nx) nx.scrollIntoView({ behavior: "smooth" }); setTimeout(() => e.remove(), 500); });
+        } }, r)),
+        h("button", { class: "act", onclick: close }, "Abbrechen")));
+    };
+    parts.push(h("button", { class: "act", onclick: report }, "⚑ Problem melden", h("small", {}, "Falsch, veraltet oder einseitig?")));
     parts.push(h("button", { class: "act", onclick: close }, "Schließen"));
     sheet.replaceChildren(h("div", { class: "sheet" }, ...parts));
     sheet.hidden = false;
@@ -243,7 +273,27 @@
     }
   }), { root: feed, threshold: 0.6 });
 
+  const checkEl = (c) => {
+    const t = TOPICS[c.topic];
+    const answer = (a, msg) => {
+      S.checks[c.topic] = { a, at: Date.now() }; persist(); toast(msg);
+      const nx = el.nextElementSibling; if (nx && nx.classList.contains("card")) setTimeout(() => nx.scrollIntoView({ behavior: "smooth" }), 250);
+    };
+    // Reihenfolge der Antworten zufällig, damit keine Position bevorzugt wird
+    const opts = shuffle([["Öfter", 1], ["Wie bisher", 0], ["Seltener", -1]]).map(([label, a]) =>
+      h("button", { class: "opt", onclick: () => answer(a, "Danke – ist notiert") }, label));
+    const el = h("article", { class: "card check", style: `--c:${t.c}` },
+      h("div", { class: "big" }, t.emoji),
+      h("span", { class: "tag" }, "💬 Kurze Frage"),
+      h("h2", {}, `${t.name}: Wie passt dir das im Feed?`),
+      h("p", {}, `Du hast schon ${c.shown} Karten dazu gesehen, aber kaum bewertet. Wie oft sollen sie künftig vorkommen? Es gibt keine falsche Antwort.`),
+      h("div", { class: "opts" }, ...opts),
+      h("button", { class: "more", onclick: () => answer(0, "Okay, kein Problem") }, "Überspringen"));
+    return el;
+  };
+
   const cardEl = (c) => {
+    if (c.kind === "check") return checkEl(c);
     const t = topicOf(c), news = c.kind === "news", fresh = !SEEN.has(c.id) && !c.kind;
     const el = h("article", { class: "card", "data-id": c.id, style: `--c:${t.c}` },
       h("div", { class: "big" }, news ? "📰" : c.kind === "otd" ? "📅" : t.emoji),
@@ -282,7 +332,7 @@
   };
 
   // --- Profil (lokal, bleibt auf diesem Gerät) ---
-  const exportJson = () => JSON.stringify({ app: "knowgram", v: 1, at: new Date().toISOString(), profile: S.profile, prefs: S.prefs, dive: S.dive, strength: S.strength, rate: S.rate, saved: S.saved }, null, 1);
+  const exportJson = () => JSON.stringify({ app: "knowgram", v: 1, at: new Date().toISOString(), profile: S.profile, prefs: S.prefs, dive: S.dive, strength: S.strength, checks: S.checks, wishes: S.wishes, reports: S.reports, rate: S.rate, saved: S.saved }, null, 1);
   const importJson = (txt) => {
     const j = JSON.parse(txt);
     if (!j || j.app !== "knowgram" || j.v !== 1 || typeof j.rate !== "object") throw new Error("Format");
@@ -292,6 +342,13 @@
     for (const [k, v] of Object.entries(j.prefs || {})) if (TOPICS[k] && (v === 1 || v === -1)) prefs[k] = v;
     const dive = {};
     for (const [k, v] of Object.entries(j.dive || {})) if (TOPICS[k] && Number.isFinite(v)) dive[k] = Math.max(0, Math.min(999, v));
+    const checks = {};
+    for (const [k, v] of Object.entries(j.checks || {})) if (TOPICS[k] && v && [-1, 0, 1].includes(v.a)) checks[k] = { a: v.a, at: Number.isFinite(v.at) ? v.at : Date.now() };
+    S.checks = checks;
+    S.wishes = (Array.isArray(j.wishes) ? j.wishes : []).filter((w) => w && typeof w.t === "string").slice(0, 30).map((w) => ({ t: w.t.slice(0, 80), at: Number.isFinite(w.at) ? w.at : Date.now() }));
+    const reports = {};
+    for (const [id, v] of Object.entries(j.reports || {})) if (v && typeof v.reason === "string") reports[String(id).slice(0, 40)] = { reason: v.reason.slice(0, 60), title: String(v.title || "").slice(0, 200), topic: TOPICS[v.topic] ? v.topic : "", at: Number.isFinite(v.at) ? v.at : Date.now() };
+    S.reports = reports;
     S.rate = rate; S.prefs = prefs; S.dive = dive; if ([0, 0.5, 1, 1.5].includes(j.strength)) S.strength = j.strength;
     S.profile = { name: String((j.profile && j.profile.name) || "").slice(0, 24), emoji: String((j.profile && j.profile.emoji) || "🙂").slice(0, 4) };
     if (Array.isArray(j.saved)) S.saved = j.saved.filter((x) => typeof x === "string").slice(0, 2000);
@@ -341,6 +398,13 @@
         h("button", { onclick: () => { delete S.rate[id]; persist(); render(); } }, "zurücksetzen"))) : [h("p", { class: "pf-empty" }, "Noch nichts.")];
     };
 
+    const wishIn = h("input", { placeholder: "z. B. Meeresbiologie, Architektur, Kryptografie …", maxlength: "80" });
+    const wishList = h("div", { class: "pf-list" });
+    const drawWishes = () => wishList.replaceChildren(...S.wishes.map((w, i) => h("div", { class: "it" }, h("span", {}, `💡 ${w.t}`),
+      h("button", { onclick: () => { S.wishes.splice(i, 1); persist(); drawWishes(); } }, "entfernen"))));
+    const addWish = () => { const t = wishIn.value.trim(); if (!t) return; if (S.wishes.length >= 30) return toast("Maximal 30 Wünsche"); S.wishes.push({ t: t.slice(0, 80), at: Date.now() }); wishIn.value = ""; persist(); drawWishes(); toast("Wunsch notiert"); };
+    wishIn.addEventListener("keydown", (e) => { if (e.key === "Enter") addWish(); });
+    drawWishes();
     const tile = (n, label) => h("div", { class: "tile" }, h("b", {}, String(n)), label);
     const box = h("textarea", { rows: "4", placeholder: "Exportierten Geschmack hier einfügen …" });
 
@@ -357,11 +421,19 @@
         h("p", { class: "pf-note" }, "„Aus“ = reine Abwechslung. Selbst bei „Stark“ bleiben alle Themen im Feed: Lieblinge kommen höchstens doppelt so oft, andere mindestens etwa ein Drittel so oft. Ein 👎 betrifft vor allem die eine Karte. Rund jede vierte Karte ist ein Entdecker-Tipp aus selten gesehenen Themen.")),
       sec("Zuletzt 👍", h("div", { class: "pf-list" }, ...recent(1))),
       sec("Zuletzt 👎", h("div", { class: "pf-list" }, ...recent(-1))),
+      sec("Feedback",
+        h("p", { class: "pf-note" }, "Themenwunsch ohne Wertung: Was würdest du gern entdecken? Es fließt nicht in deine Bewertungen ein."),
+        h("div", { class: "pf-wish" }, wishIn, h("button", { class: "seg", onclick: addWish }, "Hinzufügen")),
+        wishList,
+        h("p", { class: "pf-note" }, `Gemeldete Karten: ${Object.keys(S.reports).length}`),
+        h("div", { class: "pf-list" }, ...Object.entries(S.reports).slice(-8).reverse().map(([id, v]) => h("div", { class: "it" },
+          h("span", {}, `${(TOPICS[v.topic] || {}).emoji || "•"} ${v.title} – ${v.reason}`),
+          h("button", { onclick: () => { delete S.reports[id]; persist(); render(); } }, "aufheben"))))),
       sec("Sichern & Übertragen",
         h("button", { class: "act", onclick: async () => toast((await copy(exportJson())) ? "Geschmack kopiert" : "Kopieren nicht möglich") }, "📋 Geschmack kopieren", h("small", {}, "Als Text, z. B. zum Sichern oder um ihn Claude zu zeigen")),
         box,
         h("button", { class: "act", onclick: () => { try { importJson(box.value); toast("Geschmack geladen"); render(); } catch (e) { toast("Das ist kein gültiger Export"); } } }, "📥 Einfügen & laden"),
-        h("button", { class: "act", onclick: () => { if (confirm("Wirklich alles zurücksetzen (Bewertungen, Gespeichertes, Profil)?")) { S = { rate: {}, prefs: {}, dive: {}, strength: 0.5, profile: { name: "", emoji: "🙂" }, saved: [], savedNews: {}, seen: [] }; SEEN.clear(); persist(); render(); } } }, "🗑️ Alles zurücksetzen")));
+        h("button", { class: "act", onclick: () => { if (confirm("Wirklich alles zurücksetzen (Bewertungen, Gespeichertes, Profil)?")) { S = { rate: {}, prefs: {}, dive: {}, strength: 0.5, wishes: [], reports: {}, checks: {}, lastCheck: 0, profile: { name: "", emoji: "🙂" }, saved: [], savedNews: {}, seen: [] }; SEEN.clear(); persist(); render(); } } }, "🗑️ Alles zurücksetzen")));
   };
 
   const render = () => {
