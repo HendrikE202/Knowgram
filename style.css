@@ -34,3 +34,8 @@ h1{margin:0;font-size:1.35rem;letter-spacing:-.5px}h1 span{background:linear-gra
 .act{display:block;width:100%;text-align:left;margin:8px 0;padding:13px 14px;border-radius:12px;border:1px solid var(--line);background:#ffffff0a;color:var(--text);font:inherit;text-decoration:none;cursor:pointer}
 .act small{display:block;color:var(--muted)}
 #toast{position:absolute;bottom:90px;left:50%;transform:translateX(-50%);background:#fff;color:#000;padding:8px 16px;border-radius:999px;font-weight:600;font-size:.9rem;z-index:30}
+.meta{display:flex;flex-wrap:wrap;gap:4px 12px;margin:0 0 12px;font-size:.76rem;color:#c5cad6}
+.meta .old{color:#fbbf24}
+.end{height:40vh;display:grid;place-items:center;color:var(--muted);scroll-snap-align:start}
+.refs{margin-top:14px;padding-top:12px;border-top:1px solid var(--line);font-size:.85rem;color:var(--muted)}
+.refs p{margin:4px 0 8px}.refs a{display:inline-block;margin:2px 10px 2px 0;color:#a5b4fc}

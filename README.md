@@ -21,8 +21,19 @@ Installation als PWA später per HTTPS hosten).
 - `app.js` – Feed, Endlos-Nachladen, Likes/Speichern (localStorage)
 - `sw.js`, `manifest.webmanifest` – PWA/Offline
 
+## Aktuelle Nachrichten
+- `feeds.json` listet die Quellen (siehe `SOURCES.md`), `tools/fetch_news.py` schreibt `news.json`.
+- Der Job `.github/workflows/news.yml` läuft alle 3 Stunden auf GitHub und committet neue Meldungen. Manuell starten: Actions → „News aktualisieren" → Run workflow.
+- Lokal testen: `python3 tools/fetch_news.py` (braucht Internet).
+- Die Feed-URLs wurden noch nicht live geprüft. Nach dem ersten Lauf in den Actions-Logs nach `WARN` suchen und URLs in `feeds.json` korrigieren.
+
+## Online stellen (GitHub Pages)
+Settings → Pages → „Deploy from a branch" → `main` / `/ (root)`. Danach die Adresse am Handy öffnen und „Zum Startbildschirm hinzufügen".
+
 ## Roadmap
-1. ✅ Feed-Prototyp mit handgeschriebenen Karten
-2. Karten-Pipeline (Claude-generiert + RSS-News), Faktencheck/Quellenpflicht
-3. Vertiefung mit Recherche und Folgefragen direkt in der App
-4. Personalisierung (Likes/Verweildauer → Themengewichte)
+1. ✅ Feed-Prototyp mit Wissenskarten
+2. ✅ News-Pipeline (RSS → `news.json`), Quelle/Alter pro Karte
+3. Regelmäßig neue Wissenskarten (automatisch)
+4. Bilder/Animationen, Kartenserien
+5. Vertiefung mit Recherche und Folgefragen direkt in der App
+6. Personalisierung (Likes/Verweildauer → Themengewichte)
