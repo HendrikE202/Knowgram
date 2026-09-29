@@ -140,3 +140,7 @@ html[data-big="1"] .card h2{font-size:1.9rem}
 .steps li{counter-increment:st;position:relative;padding-left:36px;font-size:1.05rem;line-height:1.45;color:#f1f3f7}
 .steps li::before{content:counter(st);position:absolute;left:0;top:0;width:26px;height:26px;border-radius:50%;background:var(--c);color:#0b0d12;font-weight:700;font-size:.9rem;display:grid;place-items:center}
 .card.cold>*{display:none!important}
+.slide.x{justify-content:flex-start}.slide.x>:first-child{margin-top:auto}
+.simg{margin:0 0 12px;flex:0 1 min(24vh,210px);min-height:84px;display:flex;flex-direction:column;overflow:hidden}.simg img{display:block;width:100%;flex:1 1 auto;min-height:0;object-fit:cover;border-radius:12px;background:#0006}
+@media (max-height:720px){.simg{display:none}}
+.simg figcaption{font-size:.68rem;line-height:1.3;opacity:.75;margin-top:4px}.simg figcaption a{color:inherit}

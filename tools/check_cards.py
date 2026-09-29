@@ -40,6 +40,8 @@ def check_slide(where, s, errs):
         for x in s.get(k, []):
             if len(x) > 230:
                 errs.append(f"{where}: Slide „{s['h']}“ – ein Eintrag ist zu lang ({len(x)} Zeichen)")
+    if "img" in s and not (isinstance(s["img"], str) and 8 <= len(s["img"]) <= 120):
+        errs.append(f"{where}: Slide „{s['h']}“ – `img` muss ein Suchtext (2–4 konkrete Begriffe) sein")
     if s.get("big") and not (s["big"].get("n") and s["big"].get("l")):
         errs.append(f"{where}: `big` braucht n und l")
 
@@ -59,8 +61,8 @@ def main():
         if len(c.get("points") or []) != 3:
             errs.append(f"{w}: `points` muss genau 3 Einträge haben")
         sl = c.get("slides") or []
-        if not 2 <= len(sl) <= 3:
-            errs.append(f"{w}: `slides` muss 2–3 Zusatz-Slides haben (hat {len(sl)}) – max. 6 Seiten je Karte insgesamt")
+        if not 2 <= len(sl) <= 5:
+            errs.append(f"{w}: `slides` muss 2–5 Zusatz-Slides haben (hat {len(sl)}) – zusammen mit „Das Wichtigste“ höchstens 6 Inhalts-Slides")
         for s in sl:
             check_slide(w, s, errs)
     # Abwechslung in der neuesten Charge
@@ -97,6 +99,8 @@ def main():
                 continue
             if len(s.get("points", [])) < 2:
                 errs.append(f"Meldung {i}: mindestens 2 Stichpunkte")
+            if len(s.get("slides", [])) > 5:
+                errs.append(f"Meldung {i}: höchstens 5 Zusatz-Slides (mit „Das Wichtigste“ max. 6 Inhalts-Slides)")
             if len(s.get("slides", [])) < 2:
                 errs.append(f"Meldung {i}: mindestens 2 Zusatz-Slides (z. B. „🧩 Hintergrund“ und „❓ Was noch unklar ist“)")
             for sl in s.get("slides", []):

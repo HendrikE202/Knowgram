@@ -339,16 +339,23 @@
     kids.push(h("div", { class: "meta" }, h("span", {}, sum ? (c.kind === "news" ? "🤖 KI-Einordnung aus Titel und Vorschau · ohne Gewähr" : c.kind === "otd" ? "📅 Aus der Wikipedia" : "📚 Zusammenfassung · KI-verfasst") : "🔀 Vergleich mehrerer Quellen")));
     return h("div", { class: "slide s2" }, ...kids);
   };
-  // Zusatz-Slides einer Karte (`slides: [{h, text, points}]`): so viele wie nötig – insgesamt höchstens 6 Slides pro Karte
-  const MAX_SLIDES = 6;
+  // Inhalts-Slides zwischen Übersicht und „Tiefer eintauchen“ („Das Wichtigste“ zählt mit): so viele wie nötig, höchstens 6 – kein Roman
+  const MAX_INFO = 6;
   const slidesOf = (c) => { const x = c.slides || (SUMS[c.id] && SUMS[c.id].slides); return Array.isArray(x) ? x : []; };
-  const extraSlides = (c) => slidesOf(c).filter((x) => x && (x.text || x.big || (x.points && x.points.length) || (x.steps && x.steps.length))).map((x) =>
-    h("div", { class: "slide s2 x" }, h("span", { class: "stag" }, x.h || "Mehr dazu"), h("h3", { class: "slide-title" }, c.title),
+  const extraSlides = (c) => slidesOf(c).map((x, i) => {
+    if (!x || !(x.text || x.big || (x.points && x.points.length) || (x.steps && x.steps.length))) return null;
+    const im = IMG[`${c.id}#${i}`];
+    const fig = im && im.u ? h("figure", { class: "simg" },
+      h("img", { class: "simg-i", alt: x.h || "", referrerpolicy: "no-referrer", "data-src": safeUrl(im.u), onerror: (e) => e.target.closest("figure").remove() }),
+      h("figcaption", {}, `📷 ${im.by || "Unbekannt"} · ${im.lic || ""} · `, h("a", { href: safeUrl(im.page || im.u), target: "_blank", rel: "noopener noreferrer" }, "Quelle"))) : null;
+    return h("div", { class: "slide s2 x" }, h("span", { class: "stag" }, x.h || "Mehr dazu"), h("h3", { class: "slide-title" }, c.title),
+      ...(fig ? [fig] : []),
       ...(x.big ? [h("div", { class: "bignum" }, h("b", {}, x.big.n), h("span", {}, x.big.l))] : []),
       ...(x.text ? [h("p", { class: "xtext" }, x.text)] : []),
       ...(x.steps && x.steps.length ? [h("ol", { class: "steps" }, ...x.steps.map((y) => h("li", {}, y)))] : []),
       ...(x.points && x.points.length ? [h("ul", { class: "pts" }, ...x.points.map((y) => h("li", {}, y)))] : []),
-      h("div", { class: "meta" }, h("span", {}, x.note || "📚 KI-verfasst · ohne Gewähr"))));
+      h("div", { class: "meta" }, h("span", {}, x.note || "📚 KI-verfasst · ohne Gewähr")));
+  }).filter(Boolean);
 
   const share = async (c) => {
     const text = c.link ? `${c.title}\n${c.text}\n${c.link}\n– via Knowgram` : `${c.title}\n\n${c.text}\n\n– via Knowgram`;
@@ -461,7 +468,13 @@
     else if (img.getAttribute("src")) { img.dataset.src = img.getAttribute("src"); img.removeAttribute("src"); }
   }), { root: feed, rootMargin: "250% 0px" });
   // Karten weit außerhalb des Bildschirms „einschlafen“ (Inhalt ausgeblendet, Höhe bleibt) – hält lange Abende im Bett speicherschonend
-  const coldObs = new IntersectionObserver((es) => es.forEach((e) => e.target.classList.toggle("cold", !e.isIntersecting)), { root: feed, rootMargin: "600% 0px" });
+  const coldObs = new IntersectionObserver((es) => es.forEach((e) => {
+    const cold = !e.isIntersecting;
+    e.target.classList.toggle("cold", cold);
+    e.target.querySelectorAll("img.simg-i").forEach((img) => {            // Bilder in Slides nur bei Karten in der Nähe laden
+      if (cold) { if (img.getAttribute("src")) img.removeAttribute("src"); } else if (!img.getAttribute("src") && img.dataset.src) img.src = img.dataset.src;
+    });
+  }), { root: feed, rootMargin: "600% 0px" });
   const coverEl = (c, t) => {
     const el = h("div", { class: "cover" });
     el.style.backgroundImage = genCover(c.id, t.c, c.topic);
@@ -548,7 +561,7 @@
         h("button", { class: "more alt", onclick: () => openThread(c, el) }, c.series && c.part < c.of ? "Nächster Teil →" : "🕳️ Weiter im Thema")),
       ...(hasInfo && !S.swiped ? [h("div", { class: "swipehint" }, `‹ Wischen: ${summaryFor(c) ? "Das Wichtigste" : s2 ? "Andere Quellen" : "Mehr dazu"}`)] : []));
     const s3 = h("div", { class: "slide s3" }, h("span", { class: "stag" }, "🔎 Tiefer eintauchen"), h("h3", { class: "slide-title" }, c.title), ...deepPanel(c));
-    const info = [s2, ...extraSlides(c)].filter(Boolean).slice(0, MAX_SLIDES - 2);   // Übersicht und „Tiefer eintauchen“ sind immer dabei
+    const info = [s2, ...extraSlides(c)].filter(Boolean).slice(0, MAX_INFO);   // Übersicht vorn und „Tiefer eintauchen“ hinten sind immer dabei und zählen nicht mit
     const slidesArr = [s1, ...info, s3];
     const slidesEl = h("div", { class: "slides" }, ...slidesArr);
     const dots = h("div", { class: "dots" }, ...slidesArr.map((_, i) => h("i", { class: i === 0 ? "on" : "" })));

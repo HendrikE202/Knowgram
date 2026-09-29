@@ -8,6 +8,10 @@ Qualitätsregeln (lieber KEIN Bild als ein 0815-Bild – dann zeigt die App das 
      Dateiname/Beschreibung/Kategorien vorkommen.
   3. Nur CC0 / CC BY / CC BY-SA / gemeinfrei (keine NC/ND, keine „Fair use“-Bilder).
   4. Handkorrektur möglich: tools/image_overrides.json  {"karten-id": null | "Dateiname.jpg"}.
+  5. Bilder in Slides: Ein Slide kann `img: "Suchbegriffe"` tragen (cards.js: slides[i].img, summaries.json: slides[i].img).
+     Gesucht wird nur bei Commons (Relevanzprüfung wie oben, mind. 2 Suchbegriffe müssen im Dateinamen/Beschreibung/
+     Kategorien stecken); ein Bild, das schon als Titelbild oder in einem anderen Slide vorkommt, wird nicht doppelt gezeigt.
+     Ergebnis unter dem Schlüssel `<kartenid>#<slideindex>` in images.json; nichts gefunden = kein Bild.
 Gespeichert werden NUR Adresse, Urheberangabe und Kurzbeschreibung (images.json), keine Bildkopien.
 Bereits bearbeitete Karten werden übersprungen (`--refresh` für alles neu). Nur Standardbibliothek.
 """
@@ -20,6 +24,7 @@ WIKI = os.environ.get("WIKI_BASE", "https://de.wikipedia.org")
 COMMONS = os.environ.get("COMMONS_BASE", "https://commons.wikimedia.org")
 OPENVERSE = os.environ.get("OPENVERSE_BASE", "https://api.openverse.org")   # frei nutzbare Bilder aus dem Netz (u. a. Flickr, Wikimedia); leer = aus
 DELAY = float(os.environ.get("IMG_DELAY", "2.0"))        # Pause zwischen Anfragen (Wikimedia bittet um Zurückhaltung)
+MAX_SLIDES = int(os.environ.get("IMG_MAX_SLIDES", "60"))  # zusätzlich: höchstens so viele Slide-Bilder pro Lauf
 MAX_PER_RUN = int(os.environ.get("IMG_MAX", "40"))       # pro Lauf höchstens so viele Karten; der Rest folgt beim nächsten Lauf
 OK_LICENSE = re.compile(r"^(CC0|CC[ -]BY(?![ -]?NC)(?![ -]?ND)|Public domain|PD|gemeinfrei)", re.I)
 BAD_FILE = re.compile(r"logo|icon|flag|flagge|wappen|coat[_ ]of[_ ]arms|signature|unterschrift|pictogram|piktogramm|banner|button|"
@@ -126,6 +131,50 @@ def find(q, title):
     return best
 
 
+def find_slide(q, used):
+    """Bild für einen Slide: Dateisuche bei Commons, nur mit Relevanzprüfung; `used` = schon vergebene Bild-Seiten (Titelbilder und andere Slides)."""
+    want = stems(q)
+    d = get(f"{COMMONS}/w/api.php?action=query&generator=search&gsrnamespace=6&gsrsearch={urllib.parse.quote(q + ' filetype:bitmap')}"
+            "&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=960&format=json&formatversion=2")
+    best, best_key = None, None
+    for p in (d.get("query") or {}).get("pages") or []:
+        ii = (p.get("imageinfo") or [{}])[0]
+        name = (p.get("title") or "").replace("File:", "", 1)
+        m = meta(ii)
+        url = ii.get("thumburl", "")
+        page = f"{COMMONS}/wiki/File:{urllib.parse.quote(name.replace(' ', '_'))}"
+        if not name or not url.startswith("https://") or page in used or not acceptable(name, ii.get("width"), ii.get("height"), m):
+            continue
+        hits = len(want & stems(name + " " + m["desc"] + " " + m["cats"]))
+        if hits >= (1 if len(want) <= 2 else 2) and (best_key is None or (hits, ii.get("width", 0)) > best_key):
+            best, best_key = entry(name, url, m, ""), (hits, ii.get("width", 0))
+    return best
+
+
+def slide_requests():
+    """Alle Slides mit `img`: {schlüssel: suchbegriffe} aus cards.js und summaries.json."""
+    req = {}
+    text = (ROOT / "cards.js").read_text(encoding="utf-8")
+    for m in re.finditer(r'  \{ id: "([^"]+)".*?(?=\n  \{ id: "|\n\];)', text, re.S):
+        sm = re.search(r'slides: (\[.*?\]),\n    text:', m.group(0), re.S)
+        if not sm:
+            continue
+        try:
+            for i, sl in enumerate(json.loads(sm.group(1))):
+                if isinstance(sl, dict) and isinstance(sl.get("img"), str) and sl["img"].strip():
+                    req[f"{m.group(1)}#{i}"] = sl["img"].strip()
+        except ValueError:
+            pass
+    try:
+        for nid, sm_ in json.loads((ROOT / "summaries.json").read_text(encoding="utf-8")).items():
+            for i, sl in enumerate(sm_.get("slides", [])):
+                if isinstance(sl, dict) and isinstance(sl.get("img"), str) and sl["img"].strip():
+                    req[f"{nid}#{i}"] = sl["img"].strip()
+    except Exception:
+        pass
+    return req
+
+
 def find_openverse(q, title):
     """Letzter Versuch: Openverse (Suchmaschine für frei lizenzierte Bilder). Gleiche Relevanzprüfung wie bei Commons."""
     if not OPENVERSE:
@@ -163,8 +212,10 @@ def main():
     found = missed = failed = 0
     stopped = False
 
+    sreq = slide_requests()
+
     def save():
-        valid = {c[0] for c in cards}
+        valid = {c[0] for c in cards} | set(sreq)
         out_path.write_text(json.dumps({k: v for k, v in images.items() if k in valid}, ensure_ascii=False, indent=1, sort_keys=True) + "\n", encoding="utf-8")
 
     for n, (cid, _, title, q) in enumerate(batch, 1):
@@ -192,6 +243,33 @@ def main():
         if n % 10 == 0:
             save()
     save()
+    # --- Bilder in Slides
+    used = {v.get("page") for v in images.values() if v.get("page")}
+    stodo = [(k, q) for k, q in sreq.items() if refresh or k not in images or images[k].get("src") != q or (k in overrides and images[k].get("ov") != overrides[k])][:MAX_SLIDES]
+    sfound = smissed = 0
+    if not stopped:
+        for n, (key, q) in enumerate(stodo, 1):
+            try:
+                if key in overrides:                             # Handkorrektur: null = kein Bild, Text = Dateiname
+                    ov = overrides[key]
+                    ii = imageinfo(ov) if ov else {}
+                    m = meta(ii) if ii else None
+                    r = entry(ov, ii.get("thumburl") or ii.get("url"), m) if ov and ii and OK_LICENSE.match(m["lic"]) else None
+                else:
+                    r = find_slide(q, used)
+                if r:
+                    used.add(r["page"])
+                images[key] = {**r, "src": q, **({"ov": overrides[key]} if key in overrides else {})} if r else {"none": True, "src": q, **({"ov": overrides[key]} if key in overrides else {})}
+                sfound += bool(r); smissed += not r
+            except RateLimited:
+                print("Wikimedia bremst weiter – Slide-Bilder folgen beim nächsten Lauf.", file=sys.stderr)
+                break
+            except Exception as e:
+                print(f"WARN  {key} ({q}): {type(e).__name__}: {e}", file=sys.stderr)
+            if n % 10 == 0:
+                save()
+        save()
+    print(f"Slide-Bilder: {len(sreq)} gewünscht, {len(stodo)} versucht: {sfound} gefunden, {smissed} ohne passendes Bild")
     print(f"{len(cards)} Karten, {len(batch)} versucht: {found} Bilder gefunden, {missed} ohne passendes Bild (Cover), {failed} Fehler"
           f"{', abgebrochen (Rate-Limit)' if stopped else ''}; noch offen: {rest}")
     return 0

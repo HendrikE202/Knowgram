@@ -99,3 +99,8 @@
 ## Variable Slides (neu)
 - Karten haben 2–6 Wisch-Seiten: Übersicht, „Das Wichtigste“, optionale `slides` (Hintergrund, Zahlen, Missverständnis …), „Tiefer eintauchen“. Maximal 6, so viele wie nötig.
 - Erste 6 Karten (ph1, ko1, ps1, ar2, bi1, ge1) haben Zusatz-Slides; weitere sollen nach und nach folgen (Routine schreibt sie bei neuen Karten selbst).
+
+## Slides: so viele wie nötig, mit Bildern (neu)
+- Regel: bis zu 6 Inhalts-Slides zwischen Übersicht und „Tiefer eintauchen“ („Das Wichtigste“ zählt mit), mindestens 2 Zusatz-Slides je Karte – Tiefe statt Kurzinfo, aber kein Roman.
+- Bilder in Slides: `img: "Suchbegriffe"` am Slide, aufgelöst durch `tools/fetch_images.py` (Commons, Lizenz- und Relevanzprüfung, Urheberangabe, keine Doppelungen). Kein Treffer = kein Bild. Handkorrektur: `tools/image_overrides.json` mit `"karte#index": null | "Datei.jpg"`.
+- Offen: Trefferquote der Slide-Bilder beobachten und schlechte Treffer per Override entfernen.
