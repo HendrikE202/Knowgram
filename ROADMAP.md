@@ -63,7 +63,7 @@
 - [ ] Auf echtem Handy testen (iOS/Android): Scrollgefühl, Installation, Offline
 - [ ] `cards.js` → JSON, sobald >500 Karten; einfache automatische Tests (Konsole, Feed, Filter)
 - [ ] GitHub-Actions-Versionen aktualisieren (Node-20-Warnung); geplante Jobs können nach 60 Tagen Inaktivität pausieren → im Blick behalten
-- [ ] Bilder-Backfill: läuft täglich mit 40 Karten/Lauf; Ergebnis kontrollieren
+- [ ] Bilder-Backfill: läuft täglich mit 40 Karten/Lauf (erster Durchgang: 23 von 40 mit Bild, Treffer inhaltlich passend); Ergebnis stichprobenartig kontrollieren
 - [ ] Datenschutz/Impressum, falls die App öffentlich wird (Rechte an Meldungs-Bildern beachten: dann nur Commons-Bilder + eigene Cover)
 
 ## Aufgaben für Hendrik

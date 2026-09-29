@@ -126,9 +126,10 @@ def build_briefing(items, now, size=10):
     scored = []
     for g in groups:
         cand = [n for n in g if n["topic"] in ("politik", "welt", "wirtschaft") and not SOFT.search(n["title"])]
+        srcs = len({n["source"] for n in g})
+        cand = [n for n in cand if srcs >= 2 or n.get("tag") != "Hessen"]   # Lokales nur, wenn auch andere Quellen darüber berichten
         if not cand:
             continue
-        srcs = len({n["source"] for n in g})
         rep = sorted(cand, key=lambda n: (0 if n.get("img") else 1, PRIO.index(n["source"]) if n["source"] in PRIO else 9, n["published"]))[0]
         age_h = (now - parse_date(rep["published"])).total_seconds() / 3600
         scored.append((10 * srcs + max(0.0, 24 - age_h) / 24 * 6 + (2 if rep.get("img") else 0) + (5 if HARD.search(rep["title"]) else 0), rep))
