@@ -15,10 +15,10 @@ import html, json, os, re, sys, time, urllib.error, urllib.parse, urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-UA = "Knowgram/1.0 (persoenliche Lern-App; kontakt: github.com/HendrikE202/Knowgram)"
+UA = "Knowgram/1.0 (https://github.com/HendrikE202/Knowgram; persoenliche Lern-App, wenige Anfragen) python-urllib/3"
 WIKI = os.environ.get("WIKI_BASE", "https://de.wikipedia.org")
 COMMONS = os.environ.get("COMMONS_BASE", "https://commons.wikimedia.org")
-DELAY = float(os.environ.get("IMG_DELAY", "1.2"))        # Pause zwischen Anfragen (Wikimedia bittet um Zurückhaltung)
+DELAY = float(os.environ.get("IMG_DELAY", "2.0"))        # Pause zwischen Anfragen (Wikimedia bittet um Zurückhaltung)
 MAX_PER_RUN = int(os.environ.get("IMG_MAX", "40"))       # pro Lauf höchstens so viele Karten; der Rest folgt beim nächsten Lauf
 OK_LICENSE = re.compile(r"^(CC0|CC[ -]BY(?![ -]?NC)(?![ -]?ND)|Public domain|PD|gemeinfrei)", re.I)
 BAD_FILE = re.compile(r"logo|icon|flag|flagge|wappen|coat[_ ]of[_ ]arms|signature|unterschrift|pictogram|piktogramm|banner|button|"
@@ -34,8 +34,8 @@ class RateLimited(Exception):
 
 
 def get(url):
-    """GET mit Wartezeit bei 429/503 (Retry-After); nach 3 Versuchen wird der Lauf sauber abgebrochen."""
-    for attempt in range(3):
+    """GET mit Wartezeit bei 429/503 (Retry-After, höchstens 60 s); nach 2 Versuchen wird der Lauf sauber abgebrochen."""
+    for attempt in range(2):
         time.sleep(DELAY)
         req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/json"})
         try:
@@ -44,8 +44,8 @@ def get(url):
         except urllib.error.HTTPError as e:
             if e.code not in (429, 503):
                 raise
-            wait = min(int(e.headers.get("Retry-After", "30") or 30), 120) * (attempt + 1)
-            print(f"WARN  {e.code} – warte {wait}s (Versuch {attempt + 1}/3)", file=sys.stderr)
+            wait = min(int(e.headers.get("Retry-After", "30") or 30), 60)
+            print(f"WARN  {e.code} – warte {wait}s (Versuch {attempt + 1}/2)", file=sys.stderr)
             time.sleep(wait)
     raise RateLimited()
 
