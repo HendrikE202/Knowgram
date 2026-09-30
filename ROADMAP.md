@@ -26,6 +26,7 @@
 # TO-DO-LISTE
 
 ## 1) Für dich (Hendrik) – kurz und konkret
+- [ ] **⏳ VORGEMERKT (30.09.2026, wollte er am Computer machen): Routine an Supabase anbinden.** Dann liest die Routine täglich Bewertungen, Notizen, Wünsche und gemeldete Karten. Schritte: (1) Sync-Code der **Home-Bildschirm-App** kopieren (Profil → Sync; *nicht* der alte `UR7T-…`-Safari-Code; nie in den Chat), (2) in den Einstellungen der Routine-Umgebung („Default“) Variable `KNOWGRAM_SYNC_CODE` setzen, (3) Domain `apipudwplhilusdqyemx.supabase.co` bei Network access erlauben, (4) Routine einmal manuell ausführen und im Protokoll prüfen, dass Notizen/Bewertungen gelesen wurden. **Claude: bei Sitzungsstart erinnern, falls Hendrik es nicht erwähnt.**
 - [ ] **Am Handy testen:** `https://hendrike202.github.io/Knowgram/` öffnen, zum Startbildschirm hinzufügen, Scrollgefühl/Abendmodus/Timer ausprobieren und melden, was stört
 - [ ] **Routine „Neue Wissenskarten“ fertig einrichten** (claude.ai → Routinen): Repo `HendrikE202/Knowgram` zuweisen, Push auf `main` erlauben, Connectors abwählen, Namen ändern, einmal „Run now“ testen und prüfen, ob 10 Karten in `cards.js` landen
 - [ ] **Fehlgeschlagene Bilder-Jobs:** Link oder Fehlertext aus der GitHub-Mail schicken (Actions → roter Eintrag); falls es nach den Änderungen wieder rot wird
