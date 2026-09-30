@@ -46,6 +46,62 @@
     clearTimeout(toast.t); toast.t = setTimeout(() => (toastEl.hidden = true), 1800);
   };
   const shuffle = (a) => { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
+
+  // --- Icons: schlichte Strichsymbole statt Emojis ---
+  const ICON = {
+    up: "M7 10v12M15 5.88 14 10h5.83a2 2 0 0 1 1.92 2.56l-2.33 8A2 2 0 0 1 17.5 22H4a2 2 0 0 1-2-2v-8a2 2 0 0 1 2-2h2.76a2 2 0 0 0 1.79-1.11L12 2a3.13 3.13 0 0 1 3 3.88Z",
+    down: "M17 14V2M9 18.12 10 14H4.17a2 2 0 0 1-1.92-2.56l2.33-8A2 2 0 0 1 6.5 2H20a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2h-2.76a2 2 0 0 0-1.79 1.11L12 22a3.13 3.13 0 0 1-3-3.88Z",
+    comment: "M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z",
+    bookmark: "M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z",
+    share: "M4 12v7a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-7M16 6l-4-4-4 4M12 2v13",
+    moon: "M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z",
+    flag: "M4 22V4M4 4h13l-2 4 2 4H4",
+    search: "M11 4a7 7 0 1 0 0 14 7 7 0 0 0 0-14zM21 21l-4.3-4.3",
+    book: "M4 19.5A2.5 2.5 0 0 1 6.5 17H20V3H6.5A2.5 2.5 0 0 0 4 5.5zM6.5 17H20v4H6.5A2.5 2.5 0 0 1 4 18.5",
+    news: "M4 5h13v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2zM17 9h3v10a2 2 0 0 1-2 2M7 9h7M7 13h7M7 17h4",
+    spark: "M12 3l1.9 5.1L19 10l-5.1 1.9L12 17l-1.9-5.1L5 10l5.1-1.9zM19 16l.7 1.8 1.8.7-1.8.7L19 21l-.7-1.8-1.8-.7 1.8-.7z",
+    image: "M3 5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2zM8.5 10a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zM21 15l-5-5L5 21",
+    user: "M12 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM4 21a8 8 0 0 1 16 0",
+    heart: "M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.7l-1-1.1a5.5 5.5 0 0 0-7.8 7.8l1 1.1L12 21l7.8-7.5 1-1.1a5.5 5.5 0 0 0 0-7.8z",
+    ban: "M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18zM5.6 5.6l12.8 12.8",
+    sync: "M21 12a9 9 0 0 1-15.5 6.2M3 12A9 9 0 0 1 18.5 5.8M18 2v4h-4M6 22v-4h4",
+    key: "M15 3a6 6 0 1 0 0 12 6 6 0 0 0 0-12zM11 13l-8 8M6 18l2 2",
+    link: "M10 13a5 5 0 0 0 7.5.5l3-3a5 5 0 0 0-7-7l-1.7 1.7M14 11a5 5 0 0 0-7.5-.5l-3 3a5 5 0 0 0 7 7l1.7-1.7",
+    copy: "M9 9h11v11H9zM5 15H4V4h11v1",
+    download: "M12 3v12M7 10l5 5 5-5M4 21h16",
+    trash: "M4 7h16M9 7V4h6v3M6 7l1 14h10l1-14",
+    bulb: "M9 18h6M10 21h4M12 3a6 6 0 0 0-3.5 10.9c.6.5 1 1.2 1 2.1h5c0-.9.4-1.6 1-2.1A6 6 0 0 0 12 3z",
+    chevron: "M6 9l6 6 6-6",
+    chart: "M4 20V10M10 20V4M16 20v-7M22 20H2",
+    sun: "M12 8a4 4 0 1 0 0 8 4 4 0 0 0 0-8zM12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4",
+    arrow: "M5 12h14M13 6l6 6-6 6",
+  };
+  const ico = (name, size = 18) => {
+    const NS = "http://www.w3.org/2000/svg", sv = document.createElementNS(NS, "svg"), pa = document.createElementNS(NS, "path");
+    sv.setAttribute("viewBox", "0 0 24 24"); sv.setAttribute("width", size); sv.setAttribute("height", size); sv.setAttribute("class", "ico"); sv.setAttribute("aria-hidden", "true");
+    pa.setAttribute("d", ICON[name] || ""); sv.append(pa); return sv;
+  };
+  const plain = (t) => String(t == null ? "" : t).replace(/^[\p{Extended_Pictographic}️‍\s]+/u, "");      // Emoji am Anfang entfernen (Überschriften der Slides)
+  const noe = (t) => String(t == null ? "" : t).replace(/[\p{Extended_Pictographic}️]\s?/gu, "");                // alle Emojis entfernen
+  const ICON_OF = { "📖": "book", "📰": "news", "🔎": "search", "🤖": "spark", "⚑": "flag", "🖼️": "image", "📋": "copy", "📥": "download", "🗑️": "trash", "🔑": "key", "🔗": "link", "🔄": "sync" };
+  const lab = (text) => { const m = String(text).match(/^(\S+)\s+([\s\S]*)$/u); return m && ICON_OF[m[1]] ? [ico(ICON_OF[m[1]], 18), h("span", { class: "lt" }, m[2])] : text; };   // „📖 Text“ → Symbol + Text
+
+  // --- Überkategorien für die Themenleiste ---
+  const GROUPS = [
+    { k: "kultur", name: "Kultur", c: "#b45309", topics: ["geschichte", "ar", "kunst", "philosophie", "sprache"] },
+    { k: "wissen", name: "Wissenschaft", c: "#0e7490", topics: ["physik", "kosmologie", "raumfahrt", "chemie", "mathe", "klima", "biologie", "zoologie", "medizin", "wissenschaft"] },
+    { k: "gesellschaft", name: "Gesellschaft", c: "#7c3aed", topics: ["politik", "welt", "wirtschaft", "psychologie"] },
+    { k: "tech", name: "Technik & IT", c: "#2563eb", topics: ["technik", "it", "sw", "db", "sc", "cd", "ki"] },
+    { k: "beruf", name: "Beruf & Lernen", c: "#0f766e", topics: ["bf"] },
+    { k: "sport", name: "Sport", c: "#15803d", topics: ["nfl"] },
+  ];
+  const groupsAll = () => {                                  // neue Themen, die noch in keiner Überkategorie stehen, landen unter „Weiteres“
+    const known = new Set(GROUPS.flatMap((g) => g.topics)), rest = Object.keys(TOPICS).filter((k) => !known.has(k));
+    return rest.length ? [...GROUPS, { k: "weiteres", name: "Weiteres", c: "#64748b", topics: rest }] : GROUPS;
+  };
+  const groupOf = (t) => groupsAll().find((g) => g.topics.includes(t));
+  const inTopic = (t) => !topic || (topic.startsWith("g:") ? ((groupsAll().find((g) => g.k === topic.slice(2)) || { topics: [] }).topics.includes(t)) : t === topic);
+
   const copy = async (t) => { try { await navigator.clipboard.writeText(t); return true; } catch (e) { return false; } };
   const safeUrl = (u) => (/^https?:\/\//i.test(u || "") ? u : "#");
   const topicOf = (c) => TOPICS[c.topic] || TOPICS.welt;
@@ -98,7 +154,7 @@
   // Meldungen haben ein Verfallsdatum (je Quelle); Abgelaufenes und schon Gesehenes kommt nicht mehr in den Feed
   const isFresh = (n) => (n.expires ? Date.parse(n.expires) : Date.parse(n.published) + 7 * 864e5) > Date.now();
   // Weltlage in drei Ausgaben: morgens (10 wichtigste), mittags (nur NEUES), abends (Tagesrückblick)
-  const ED = { morgen: { icon: "🌅", name: "Weltlage am Morgen", chip: "🌅 Weltlage", n: 10 }, mittag: { icon: "☀️", name: "Update am Mittag", chip: "☀️ Update", n: 5 }, abend: { icon: "🌙", name: "Tagesrückblick", chip: "🌙 Rückblick", n: 7 } };
+  const ED = { morgen: { icon: "🌅", name: "Weltlage am Morgen", chip: "Weltlage", n: 10 }, mittag: { icon: "☀️", name: "Update am Mittag", chip: "Update", n: 5 }, abend: { icon: "🌙", name: "Tagesrückblick", chip: "Rückblick", n: 7 } };
   const edition = () => { const hh = new Date().getHours(); return hh >= 5 && hh < 11 ? "morgen" : hh >= 11 && hh < 17 ? "mittag" : "abend"; };
   const dayKey = () => new Date().toDateString();
   const rankedFresh = () => RANK.map((id) => NEWS.find((n) => n.id === id)).filter((n) => n && isFresh(n));
@@ -118,10 +174,10 @@
   const newsPool = () => {
     if (topic === "brief") return briefItems();
     const skip = briefPending ? new Set(briefItems(edition(), true).map((x) => x.id)) : new Set();   // was gleich im Überblick-Block erscheint, kommt nicht zusätzlich im Strom
-    return NEWS.filter(isFresh).filter((n) => !topic || topic === "news" || n.topic === topic)
+    return NEWS.filter(isFresh).filter((n) => topic === "news" || inTopic(n.topic))
       .filter((n) => topic === "news" || (!SEEN.has(n.id) && !skip.has(n.id)));
   };
-  const wissenPool = () => (topic === "news" || topic === "brief" ? [] : [...ALL, ...OTD].filter((c) => (!topic || c.topic === topic) && seriesOk(c)));
+  const wissenPool = () => (topic === "news" || topic === "brief" ? [] : [...ALL, ...OTD].filter((c) => inTopic(c.topic) && seriesOk(c)));
 
   // --- Geschmack: vorsichtig und ausgewogen -----------------------------------
   // Ziele: (1) Bewertungen relativ zur Häufigkeit werten, nicht absolut (kein Schneeballeffekt),
@@ -294,7 +350,7 @@
         if (c.kind === "news") S.badSrc[c.source] = (S.badSrc[c.source] || 0) + 1;
         persist(); closeSheet(); toast(c.kind === "news" && S.badSrc[c.source] >= 3 ? `Bilder von ${c.source} werden künftig ausgeblendet` : "Bild ausgeblendet");
         document.querySelectorAll(`.card[data-id="${c.id}"]`).forEach((e) => { e.classList.remove("has-img"); e.classList.add("illu"); const im = e.querySelector(".cover img"); if (im) im.remove(); const cr = e.querySelector(".credit"); if (cr) cr.remove(); });
-      } }, "🖼️ Nur das Bild passt nicht", h("small", {}, "Die Karte bleibt, das Bild verschwindet"))] : []),
+      } }, lab("🖼️ Nur das Bild passt nicht"), h("small", {}, "Die Karte bleibt, das Bild verschwindet"))] : []),
       ...REASONS.map((r) => h("button", { class: "act", onclick: () => {
         S.reports[c.id] = { reason: r, title: c.title, topic: c.topic, at: Date.now() }; persist();
         closeSheet(); toast("Danke – Karte wird nicht mehr gezeigt");
@@ -311,12 +367,12 @@
     let dived = false;   // Interesse zählt erst, wenn wirklich ein Link/Prompt genutzt wird – nicht schon beim Anschauen
     const dive = () => { if (!dived) { dived = true; S.dive[c.topic] = (S.dive[c.topic] || 0) + 1; persist(); } };
     const q = encodeURIComponent(otd ? c.text.slice(0, 80) : news ? c.title : c.q);
-    const link = (href, title, sub) => h("a", { class: "act", href, target: "_blank", rel: "noopener noreferrer", onclick: dive }, title, h("small", {}, sub));
+    const link = (href, title, sub) => h("a", { class: "act", href, target: "_blank", rel: "noopener noreferrer", onclick: dive }, lab(title), h("small", {}, sub));
     const parts = [];
     if (ext) parts.push(link(safeUrl(c.link), otd ? "📖 Wikipedia-Artikel lesen" : "📰 Originalartikel lesen", otd ? c.date : `${c.source} · ${fmtDate(c.published)}`));
     else parts.push(link(`https://de.wikipedia.org/w/index.php?search=${q}`, "📖 Bei Wikipedia lesen", "Suche nach: " + c.q));
     parts.push(link(`https://duckduckgo.com/?q=${q}`, "🔎 Im Web recherchieren", "Weitere Quellen finden"));
-    parts.push(h("button", { class: "act", onclick: async () => { dive(); toast((await copy(promptFor(c))) ? "Prompt kopiert – in Claude einfügen" : "Kopieren nicht möglich"); } }, "🤖 Mit Claude vertiefen", h("small", {}, "Kopiert einen fertigen Prompt")));
+    parts.push(h("button", { class: "act", onclick: async () => { dive(); toast((await copy(promptFor(c))) ? "Prompt kopiert – in Claude einfügen" : "Kopieren nicht möglich"); } }, lab("🤖 Mit Claude vertiefen"), h("small", {}, "Kopiert einen fertigen Prompt")));
     const t = topicOf(c);
     parts.push(h("div", { class: "refs" },
       h("b", {}, ext ? "Einordnung" : "Wo du es prüfen kannst"),
@@ -325,7 +381,7 @@
         ? `Angezeigt wird die Vorschau des Anbieters (${c.source}, ${c.type}). Vergleiche wichtige Themen mit mehr als einer Quelle.`
         : "Diese Karte wurde von einer KI geschrieben und ist nicht automatisch faktengeprüft. Verlässliche Anlaufstellen:"),
       ...(ext ? [] : t.refs.map(([n, u]) => h("a", { href: u, target: "_blank", rel: "noopener noreferrer" }, n)))));
-    parts.push(h("button", { class: "act", onclick: () => openReport(c) }, "⚑ Problem melden", h("small", {}, "Falsch, veraltet oder einseitig?")));
+    parts.push(h("button", { class: "act", onclick: () => openReport(c) }, lab("⚑ Problem melden"), h("small", {}, "Falsch, veraltet oder einseitig?")));
     return parts;
   };
 
@@ -337,11 +393,11 @@
   const sumSlide = (c) => {
     const sum = summaryFor(c), also = c.also && c.also.length ? c.also : [];
     if (!sum && !also.length) return null;
-    const kids = [h("span", { class: "stag" }, sum ? "✨ Das Wichtigste" : "🔀 Andere Quellen"), h("h3", { class: "slide-title" }, c.title)];
+    const kids = [h("span", { class: "stag" }, sum ? "Das Wichtigste" : "Andere Quellen"), h("h3", { class: "slide-title" }, c.title)];
     if (sum) kids.push(h("ul", { class: "pts" }, ...sum.points.map((x) => h("li", {}, x))));
     if (sum && sum.why) kids.push(h("p", { class: "why" }, h("b", {}, "Warum das wichtig ist: "), sum.why));
     if (also.length) kids.push(h("div", { class: "alsobox" }, h("b", {}, "So berichten andere"), ...also.map((a) => h("a", { href: safeUrl(a.link), target: "_blank", rel: "noopener noreferrer" }, `${a.source}: ${a.title}`))));
-    kids.push(h("div", { class: "meta" }, h("span", {}, sum ? (c.kind === "news" ? "🤖 KI-Einordnung aus Titel und Vorschau · ohne Gewähr" : c.kind === "otd" ? "📅 Aus der Wikipedia" : "📚 Zusammenfassung · KI-verfasst") : "🔀 Vergleich mehrerer Quellen")));
+    kids.push(h("div", { class: "meta" }, h("span", {}, sum ? (c.kind === "news" ? "KI-Einordnung aus Titel und Vorschau · ohne Gewähr" : c.kind === "otd" ? "Aus der Wikipedia" : "Zusammenfassung · KI-verfasst") : "Vergleich mehrerer Quellen")));
     return h("div", { class: "slide s2" }, ...kids);
   };
   // Inhalts-Slides zwischen Übersicht und „Tiefer eintauchen“ („Das Wichtigste“ zählt mit): so viele wie nötig, höchstens 6 – kein Roman
@@ -352,14 +408,14 @@
     const im = IMG[`${c.id}#${i}`];
     const fig = im && im.u ? h("figure", { class: "simg" },
       h("img", { class: "simg-i", alt: x.h || "", referrerpolicy: "no-referrer", "data-src": safeUrl(im.u), onerror: (e) => e.target.closest("figure").remove() }),
-      h("figcaption", {}, `📷 ${im.by || "Unbekannt"} · ${im.lic || ""} · `, h("a", { href: safeUrl(im.page || im.u), target: "_blank", rel: "noopener noreferrer" }, "Quelle"))) : null;
-    return h("div", { class: "slide s2 x" }, h("span", { class: "stag" }, x.h || "Mehr dazu"), h("h3", { class: "slide-title" }, c.title),
+      h("figcaption", {}, `${im.by || "Unbekannt"} · ${im.lic || ""} · `, h("a", { href: safeUrl(im.page || im.u), target: "_blank", rel: "noopener noreferrer" }, "Quelle"))) : null;
+    return h("div", { class: "slide s2 x" }, h("span", { class: "stag" }, plain(x.h) || "Mehr dazu"), h("h3", { class: "slide-title" }, c.title),
       ...(fig ? [fig] : []),
       ...(x.big ? [h("div", { class: "bignum" }, h("b", {}, x.big.n), h("span", {}, x.big.l))] : []),
       ...(x.text ? [h("p", { class: "xtext" }, x.text)] : []),
       ...(x.steps && x.steps.length ? [h("ol", { class: "steps" }, ...x.steps.map((y) => h("li", {}, y)))] : []),
       ...(x.points && x.points.length ? [h("ul", { class: "pts" }, ...x.points.map((y) => h("li", {}, y)))] : []),
-      h("div", { class: "meta" }, h("span", {}, x.note || "📚 KI-verfasst · ohne Gewähr")));
+      h("div", { class: "meta" }, h("span", {}, x.note || "KI-verfasst · ohne Gewähr")));
   }).filter(Boolean);
 
   const share = async (c) => {
@@ -378,11 +434,11 @@
   // r = 1 (mehr davon) oder -1 (weniger davon); erneutes Tippen nimmt die Bewertung zurück
   const rate = (c, el, r, onlyAdd) => {
     if (ratingOf(c.id) === r) {
-      if (onlyAdd) return popEmoji(el, "👍");
+      if (onlyAdd) return popEmoji(el, ico("up", 110));
       delete S.rate[c.id];
     } else S.rate[c.id] = { r, title: c.title, topic: c.topic, at: Date.now() };
     persist(); syncRail(c.id);
-    if (ratingOf(c.id) > 0) popEmoji(el, "👍");
+    if (ratingOf(c.id) > 0) popEmoji(el, ico("up", 110));
     if (ratingOf(c.id) < 0) {
       toast("Okay, weniger davon");
       const nx = el.nextElementSibling;
@@ -399,18 +455,18 @@
   // --- Karte ---
   const metaLine = (c) => {
     const im = imgFor(c);
-    const credit = !im ? [] : c.kind === "news" ? [h("span", { class: "credit" }, `🖼️ Bild: ${c.source}`)]
-      : [h("a", { class: "credit", href: safeUrl(im.page), target: "_blank", rel: "noopener noreferrer" }, `🖼️ ${im.desc ? (im.desc.length > 46 ? im.desc.slice(0, 45) + "…" : im.desc) + " · " : ""}${im.by} · ${im.lic}`)];
-    if (c.kind === "otd") return h("div", { class: "meta" }, h("span", {}, `📅 ${c.date} · Wikipedia`));
-    if (c.kind !== "news") return h("div", { class: "meta" }, h("span", {}, `📚 Wissenskarte · KI-verfasst · Stand ${ASOF}`), ...credit);
+    const credit = !im ? [] : c.kind === "news" ? [h("span", { class: "credit" }, `Bild: ${c.source}`)]
+      : [h("a", { class: "credit", href: safeUrl(im.page), target: "_blank", rel: "noopener noreferrer" }, `${im.desc ? (im.desc.length > 46 ? im.desc.slice(0, 45) + "…" : im.desc) + " · " : ""}${im.by} · ${im.lic}`)];
+    if (c.kind === "otd") return h("div", { class: "meta" }, h("span", {}, `${c.date} · Wikipedia`));
+    if (c.kind !== "news") return h("div", { class: "meta" }, h("span", {}, `Wissenskarte · KI-verfasst · Stand ${ASOF}`), ...credit);
     const old = isOld(c.published), expired = !isFresh(c);
     return h("div", { class: "meta" },
-      h("span", {}, `📰 ${c.source} · ${c.type}`),
-      h("span", { class: old || expired ? "old" : "" }, `${expired ? "⏳ nicht mehr aktuell · " : old ? "⏳ " : "🕒 "}${fmtAge(c.published)} · ${fmtDate(c.published)}`),
-      ...(c.also && c.also.length ? [h("span", { class: "also" }, "🔀 Auch bei: ", ...c.also.flatMap((a, i) => [i ? " · " : "", h("a", { href: safeUrl(a.link), target: "_blank", rel: "noopener noreferrer" }, a.source)]))] : []),
+      h("span", {}, `${c.source} · ${c.type}`),
+      h("span", { class: old || expired ? "old" : "" }, `${expired ? "nicht mehr aktuell · " : old ? "" : ""}${fmtAge(c.published)} · ${fmtDate(c.published)}`),
+      ...(c.also && c.also.length ? [h("span", { class: "also" }, "Auch bei: ", ...c.also.flatMap((a, i) => [i ? " · " : "", h("a", { href: safeUrl(a.link), target: "_blank", rel: "noopener noreferrer" }, a.source)]))] : []),
       ...credit,
-      ...(c.tag ? [h("span", {}, `📍 ${c.tag}`)] : []),
-      ...(c.lang === "en" ? [h("span", {}, "🇬🇧 englischsprachig")] : []));
+      ...(c.tag ? [h("span", {}, `${c.tag}`)] : []),
+      ...(c.lang === "en" ? [h("span", {}, "englischsprachig")] : []));
   };
 
   // Karte gilt als gesehen, wenn sie zu 60 % sichtbar ist
@@ -435,7 +491,7 @@
       h("button", { class: "opt", onclick: () => answer(a, "Danke – ist notiert") }, label));
     const el = h("article", { class: "card check", style: `--c:${t.c}` },
       h("div", { class: "big" }, t.emoji),
-      h("span", { class: "tag" }, "💬 Kurze Frage"),
+      h("span", { class: "tag" }, "Kurze Frage"),
       h("h2", {}, `${t.name}: Wie passt dir das im Feed?`),
       h("p", {}, `Du hast schon ${c.shown} Karten dazu gesehen, aber kaum bewertet. Wie oft sollen sie künftig vorkommen? Es gibt keine falsche Antwort.`),
       h("div", { class: "opts" }, ...opts),
@@ -553,9 +609,9 @@
   const cardEl = (c, opts = {}) => {
     if (c.kind === "check") return checkEl(c);
     const t = topicOf(c), news = c.kind === "news", wasSeen = SEEN.has(c.id), fresh = !wasSeen && !c.kind;
-    const tagEl = h("span", { class: "tag" }, c._b ? `${ED[c._b.ed].icon} ${ED[c._b.ed].name} · ${c._b.i}/${c._b.n}` : `${t.emoji} ${news ? "Aktuell · " : c.kind === "otd" ? "Heute · " : ""}${t.name}`,
-      ...(opts.thread ? [h("b", { class: "seriestag" }, `🕳️ Faden ${opts.thread.i}/${opts.thread.n}`)] : []),
-      ...(c.series ? [h("b", { class: "seriestag" }, `📖 ${c.series} · Teil ${c.part}/${c.of}`)] : []),
+    const tagEl = h("span", { class: "tag" }, c._b ? `${ED[c._b.ed].name} · ${c._b.i}/${c._b.n}` : `${news ? "Aktuell · " : c.kind === "otd" ? "Heute · " : ""}${t.name}`,
+      ...(opts.thread ? [h("b", { class: "seriestag" }, `Faden ${opts.thread.i}/${opts.thread.n}`)] : []),
+      ...(c.series ? [h("b", { class: "seriestag" }, `${c.series} · Teil ${c.part}/${c.of}`)] : []),
       ...(fresh ? [h("b", { class: "new" }, "NEU")] : mode === "feed" && wasSeen ? [h("b", { class: "seenchip" }, S.seenAt[c.id] ? `✓ gesehen ${fmtAge(new Date(S.seenAt[c.id]).toISOString())}` : "✓ gesehen")] : []));
     const s2 = sumSlide(c), hasInfo = !!s2 || slidesOf(c).length > 0;
     const goSlide = (i) => slidesEl.scrollTo({ left: i * slidesEl.clientWidth, behavior: "smooth" });
@@ -563,9 +619,9 @@
       tagEl, h("h2", {}, c.title), c.text ? h("p", {}, c.text) : "", metaLine(c),
       h("div", { class: "acts" },
         h("button", { class: "more", onclick: () => goSlide(slidesArr.length - 1) }, "Tiefer eintauchen →"),
-        h("button", { class: "more alt", onclick: () => openThread(c, el) }, c.series && c.part < c.of ? "Nächster Teil →" : "🕳️ Weiter im Thema")),
+        h("button", { class: "more alt", onclick: () => openThread(c, el) }, c.series && c.part < c.of ? "Nächster Teil →" : "Weiter im Thema")),
       ...(hasInfo && !S.swiped ? [h("div", { class: "swipehint" }, `‹ Wischen: ${summaryFor(c) ? "Das Wichtigste" : s2 ? "Andere Quellen" : "Mehr dazu"}`)] : []));
-    const s3 = h("div", { class: "slide s3" }, h("span", { class: "stag" }, "🔎 Tiefer eintauchen"), h("h3", { class: "slide-title" }, c.title), ...deepPanel(c));
+    const s3 = h("div", { class: "slide s3" }, h("span", { class: "stag" }, "Tiefer eintauchen"), h("h3", { class: "slide-title" }, c.title), ...deepPanel(c));
     const info = [s2, ...extraSlides(c)].filter(Boolean).slice(0, MAX_INFO);   // Übersicht vorn und „Tiefer eintauchen“ hinten sind immer dabei und zählen nicht mit
     const slidesArr = [s1, ...info, s3];
     const slidesEl = h("div", { class: "slides" }, ...slidesArr);
@@ -580,11 +636,11 @@
       h("div", { class: "big" }, news ? "📰" : c.kind === "otd" ? "📅" : t.emoji),
       slidesEl, dots,
       h("div", { class: "rail" },
-        h("button", { class: "b-up" + (ratingOf(c.id) > 0 ? " on" : ""), "aria-label": "Mehr davon", onclick: () => rate(c, el, 1) }, "👍"),
-        h("button", { class: "b-down" + (ratingOf(c.id) < 0 ? " on" : ""), "aria-label": "Weniger davon", onclick: () => rate(c, el, -1) }, "👎"),
-        h("button", { class: "b-note" + (S.notes[c.id] ? " on" : ""), "aria-label": "Notiz", onclick: () => openNote(c) }, "💬"),
-        h("button", { class: "b-save" + (has("saved", c.id) ? " on" : ""), "aria-label": "Speichern", onclick: () => toggleSave(c) }, "🔖"),
-        h("button", { "aria-label": "Teilen", onclick: () => share(c) }, "↗")));
+        h("button", { class: "b-up" + (ratingOf(c.id) > 0 ? " on" : ""), "aria-label": "Mehr davon", onclick: () => rate(c, el, 1) }, ico("up", 22)),
+        h("button", { class: "b-down" + (ratingOf(c.id) < 0 ? " on" : ""), "aria-label": "Weniger davon", onclick: () => rate(c, el, -1) }, ico("down", 22)),
+        h("button", { class: "b-note" + (S.notes[c.id] ? " on" : ""), "aria-label": "Notiz", onclick: () => openNote(c) }, ico("comment", 22)),
+        h("button", { class: "b-save" + (has("saved", c.id) ? " on" : ""), "aria-label": "Speichern", onclick: () => toggleSave(c) }, ico("bookmark", 22)),
+        h("button", { "aria-label": "Teilen", onclick: () => share(c) }, ico("share", 22))));
     if (!imgFor(c)) el.classList.add("illu");                  // ohne Foto: Illustration statt großem Emoji
     el.addEventListener("dblclick", () => rate(c, el, 1, true));
     seenObs.observe(el);
@@ -607,7 +663,7 @@
     const batch = nextBatch();
     if (!batch.length) { if (!feed.children.length) feed.append(h("div", { class: "empty" }, topic === "news" || NEWS.length === 0 && !wissenPool().length ? "Noch keine Meldungen. Der Nachrichten-Abruf läuft alle paar Stunden." : "Hier ist noch nichts.")); return; }
     feed.append(...batch.map(cardEl));
-    if (finite) feed.append(h("div", { class: "end" }, topic === "brief" ? `Das war die ${ED[edition()].name} ✅ – jetzt in Ruhe stöbern` : "Du bist auf dem neuesten Stand ✅"));
+    if (finite) feed.append(h("div", { class: "end" }, topic === "brief" ? `Das war die ${ED[edition()].name} – jetzt in Ruhe stöbern` : "Du bist auf dem neuesten Stand "));
     watchSentinel();
   };
 
@@ -646,16 +702,20 @@
     persist();
   };
 
+  const pfOpen = new Set();                            // geöffnete Profil-Bereiche (gilt nur für diese Sitzung)
   const renderProfile = () => {
-    const sec = (title, ...kids) => h("section", { class: "pf-sec" }, h("h3", {}, title), ...kids);
+    const sec = (id, icon, title, ...kids) => {
+      const d = h("details", { class: "pf-sec" }, h("summary", {}, ico(icon, 20), h("span", { class: "pf-st" }, title), h("span", { class: "pf-chev" }, ico("chevron", 18))), h("div", { class: "pf-body" }, ...kids));
+      if (pfOpen.has(id)) d.open = true;
+      d.addEventListener("toggle", () => { if (d.open) pfOpen.add(id); else pfOpen.delete(id); });
+      return d;
+    };
+    const initial = () => (S.profile.name || "").trim().charAt(0).toUpperCase();
+    const avatar = h("div", { class: "pf-av" }, initial() || ico("user", 28));
     const nameIn = h("input", { placeholder: "Dein Name (optional)", maxlength: "24", value: S.profile.name });
-    nameIn.addEventListener("input", () => { S.profile.name = nameIn.value; persist(); });
-    const emos = ["🙂", "🦊", "🐙", "🦉", "🚀", "🧠", "🎨", "⚡"].map((e) => {
-      const b = h("button", { class: "emo" + (S.profile.emoji === e ? " on" : ""), onclick: () => { S.profile.emoji = e; persist(); emos.forEach((x) => x.classList.toggle("on", x === b)); } }, e);
-      return b;
-    });
+    nameIn.addEventListener("input", () => { S.profile.name = nameIn.value; persist(); avatar.replaceChildren(initial() || ico("user", 28)); });
 
-    const bars = h("div");
+    const bars = h("div", { class: "pf-bars" });
     const drawBars = () => {
       const st = topicStats(), W = weights(st);
       const rows = Object.entries(st).map(([k, x]) => ({ k, x, w: W[k] })).filter((r) => r.x.up || r.x.down || r.x.dive || r.x.pref).sort((a, b) => b.w - a.w);
@@ -663,10 +723,11 @@
         ? rows.map(({ k, x, w }) => {
             const thin = x.up + x.down < 3 && x.shown < 8;
             return h("div", { class: "pf-row" },
-              h("div", { class: "pf-lbl" }, `${TOPICS[k].emoji} ${TOPICS[k].name}`, h("small", {}, `👍 ${x.up} · 👎 ${x.down}${x.dive ? ` · 🔎 ${x.dive}` : ""} · ×${w.toFixed(1)}${thin ? " · noch wenig Daten" : ""}`)),
+              h("div", { class: "pf-lbl" }, h("span", {}, TOPICS[k].name),
+                h("small", {}, ico("up", 13), ` ${x.up}`, ico("down", 13), ` ${x.down}`, ` · ×${w.toFixed(1)}`, thin ? " · noch wenig Daten" : "")),
               h("div", { class: "pf-bar" }, h("i", { class: w >= 1 ? "pos" : "neg", style: `width:${Math.min(50, Math.abs(Math.log2(w)) * 40)}%` })));
           })
-        : [h("p", { class: "pf-empty" }, "Bewerte ein paar Karten mit 👍 und 👎 – dann siehst du hier, was dir gefällt. Themen mit wenig Daten bleiben neutral.")]));
+        : [h("p", { class: "pf-empty" }, "Bewerte ein paar Karten mit „Mehr davon“ oder „Weniger davon“ – dann siehst du hier, was dir gefällt. Themen mit wenig Daten bleiben neutral.")]));
     };
     drawBars();
 
@@ -675,23 +736,24 @@
       return b;
     });
 
-    const prefChips = Object.entries(TOPICS).map(([k, t]) => {
-      const b = h("button", { style: `--c:${t.c}` });
-      const paint = () => { const v = S.prefs[k] || 0; b.className = "pchip" + (v > 0 ? " pos" : v < 0 ? " neg" : ""); b.textContent = `${v > 0 ? "❤️ " : v < 0 ? "🚫 " : ""}${t.emoji} ${t.name}`; };
+    const prefChip = (k) => {
+      const t = TOPICS[k], b = h("button", { style: `--c:${t.c}` });
+      const paint = () => { const v = S.prefs[k] || 0; b.className = "pchip" + (v > 0 ? " pos" : v < 0 ? " neg" : ""); b.replaceChildren(...(v > 0 ? [ico("heart", 14)] : v < 0 ? [ico("ban", 14)] : []), t.name); };
       b.addEventListener("click", () => { const v = S.prefs[k] || 0, n = v === 0 ? 1 : v === 1 ? -1 : 0; if (n) S.prefs[k] = n; else delete S.prefs[k]; persist(); paint(); drawBars(); });
       paint(); return b;
-    });
+    };
+    const prefGroups = groupsAll().map((g) => h("div", { class: "pf-grp" }, h("h4", {}, g.name), h("div", { class: "pf-chips" }, ...g.topics.filter((k) => TOPICS[k]).map(prefChip))));
 
     const recent = (sign) => {
       const items = Object.entries(S.rate).filter(([, v]) => v.r === sign).slice(-10).reverse();
       return items.length ? items.map(([id, v]) => h("div", { class: "it" },
-        h("span", {}, `${(TOPICS[v.topic] || {}).emoji || "•"} ${v.title}`),
+        h("span", {}, v.title, (TOPICS[v.topic] || {}).name ? h("small", { class: "pf-t" }, (TOPICS[v.topic] || {}).name) : ""),
         h("button", { onclick: () => { delete S.rate[id]; persist(); render(); } }, "zurücksetzen"))) : [h("p", { class: "pf-empty" }, "Noch nichts.")];
     };
 
     const wishIn = h("input", { placeholder: "z. B. Meeresbiologie, Architektur, Kryptografie …", maxlength: "80" });
     const wishList = h("div", { class: "pf-list" });
-    const drawWishes = () => wishList.replaceChildren(...S.wishes.map((w, i) => h("div", { class: "it" }, h("span", {}, `💡 ${w.t}`),
+    const drawWishes = () => wishList.replaceChildren(...S.wishes.map((w, i) => h("div", { class: "it" }, h("span", {}, w.t),
       h("button", { onclick: () => { S.wishes.splice(i, 1); persist(); drawWishes(); } }, "entfernen"))));
     const addWish = () => { const t = wishIn.value.trim(); if (!t) return; if (S.wishes.length >= 30) return toast("Maximal 30 Wünsche"); S.wishes.push({ t: t.slice(0, 80), at: Date.now() }); wishIn.value = ""; persist(); drawWishes(); toast("Wunsch notiert"); };
     wishIn.addEventListener("keydown", (e) => { if (e.key === "Enter") addWish(); });
@@ -705,49 +767,49 @@
     };
     const tile = (n, label) => h("div", { class: "tile" }, h("b", {}, String(n)), label);
     const box = h("textarea", { rows: "4", placeholder: "Exportierten Geschmack hier einfügen …" });
+    const lbl = (t) => h("h4", { class: "pf-sub" }, t);
 
     return h("div", { class: "profile" },
-      sec("Dein Profil",
-        h("div", { class: "pf-me" }, nameIn),
-        h("div", { class: "pf-emos" }, ...emos),
-        h("p", { class: "pf-note" }, "Lokales Beispiel-Profil: Es bleibt auf diesem Gerät. Ein echter Account mit Sync folgt.")),
+      h("div", { class: "pf-hero" }, avatar, h("div", { class: "pf-who" }, nameIn, h("p", { class: "pf-note" }, "Bleibt auf diesem Gerät bzw. in deinem Sync."))),
       h("div", { class: "tiles" }, tile(SEEN.size, "gesehen"), tile(Object.keys(S.rate).length, "bewertet"), tile(S.saved.length, "gespeichert")),
-      sec("Was interessiert dich?", h("p", { class: "pf-note" }, "Tippen: ❤️ mehr davon → 🚫 weniger → neutral"), h("div", { class: "pf-chips" }, ...prefChips)),
-      sec("Dein Geschmack", bars,
-        h("p", { class: "pf-note" }, "Wie stark soll sich der Feed anpassen?"),
+      sec("interessen", "heart", "Was interessiert dich?",
+        h("p", { class: "pf-note" }, "Tippen: ", ico("heart", 14), " mehr davon → ", ico("ban", 14), " weniger → neutral"), ...prefGroups),
+      sec("geschmack", "chart", "Dein Geschmack", bars,
+        lbl("Wie stark soll sich der Feed anpassen?"),
         h("div", { class: "segs" }, ...strengthBtns),
-        h("p", { class: "pf-note" }, "„Aus“ = reine Abwechslung. Selbst bei „Stark“ bleiben alle Themen im Feed: Lieblinge kommen höchstens doppelt so oft, andere mindestens etwa ein Drittel so oft. Ein 👎 betrifft vor allem die eine Karte. Rund jede vierte Karte ist ein Entdecker-Tipp aus selten gesehenen Themen.")),
-      sec("Zuletzt 👍", h("div", { class: "pf-list" }, ...recent(1))),
-      sec("Zuletzt 👎", h("div", { class: "pf-list" }, ...recent(-1))),
-      sec("Abend & Schlaf",
-        h("p", { class: "pf-note" }, "Abendmodus: wärmerer, gedimmter Farbton (Mond oben antippen wechselt schnell). „Auto“ schaltet ihn ab der gewählten Uhrzeit bis 6 Uhr ein."),
+        h("p", { class: "pf-note" }, "„Aus“ = reine Abwechslung. Selbst bei „Stark“ bleiben alle Themen im Feed: Lieblinge kommen höchstens doppelt so oft, andere mindestens etwa ein Drittel so oft. „Weniger davon“ betrifft vor allem die eine Karte. Rund jede vierte Karte ist ein Entdecker-Tipp aus selten gesehenen Themen.")),
+      sec("likes", "up", "Zuletzt gefallen", h("div", { class: "pf-list" }, ...recent(1))),
+      sec("dislikes", "down", "Zuletzt abgelehnt", h("div", { class: "pf-list" }, ...recent(-1))),
+      sec("abend", "moon", "Abend & Schlaf",
+        h("p", { class: "pf-note" }, "Abendmodus: wärmerer, gedimmter Farbton (das Mond-Symbol oben wechselt schnell). „Auto“ schaltet ihn ab der gewählten Uhrzeit bis 6 Uhr ein."),
         seg([["Auto", "auto"], ["An", "on"], ["Aus", "off"]], S.night, (v) => { S.night = v; persist(); applyNight(); }),
-        h("p", { class: "pf-note" }, "Auto ab"),
+        lbl("Auto ab"),
         seg([["20 Uhr", 20], ["21 Uhr", 21], ["22 Uhr", 22], ["23 Uhr", 23]], nightFrom(), (v) => { S.nightFrom = v; persist(); applyNight(); }),
-        h("p", { class: "pf-note" }, `Schlaf-Timer: läuft erst ab ${nightFrom()} Uhr (bis 6 Uhr). Danach erscheint nach der eingestellten Zeit „Gute Nacht“; mit einem Tipp gibst du dir 10 Minuten mehr.`),
+        lbl("Schlaf-Timer"),
+        h("p", { class: "pf-note" }, `Läuft erst ab ${nightFrom()} Uhr (bis 6 Uhr). Danach erscheint nach der eingestellten Zeit „Gute Nacht“; mit einem Tipp gibst du dir 10 Minuten mehr.`),
         seg([["Aus", 0], ["20 Min", 20], ["40 Min", 40], ["60 Min", 60]], S.sleep, (v) => { S.sleep = v; persist(); startSleep(v); }),
-        h("p", { class: "pf-note" }, "Schrift"),
+        lbl("Schrift"),
         seg([["Normal", false], ["Groß", true]], !!S.big, (v) => { S.big = v; persist(); applyNight(); })),
-      sec("Meine Notizen",
+      sec("notizen", "comment", "Meine Notizen",
         h("div", { class: "pf-list" }, ...(Object.keys(S.notes).length
           ? Object.entries(S.notes).sort((a, b) => b[1].at - a[1].at).slice(0, 10).map(([id, v]) => h("div", { class: "it" },
-              h("span", {}, `${(TOPICS[v.topic] || {}).emoji || "•"} ${v.title}: „${v.t.length > 120 ? v.t.slice(0, 120) + " …" : v.t}“`),
+              h("span", {}, h("b", { class: "pf-nt" }, v.title), `„${v.t.length > 120 ? v.t.slice(0, 120) + " …" : v.t}“`),
               h("button", { onclick: () => { delete S.notes[id]; persist(); render(); } }, "löschen")))
-          : [h("p", { class: "pf-empty" }, "Tippe bei einer Karte auf 💬, um eine Idee oder einen Gedanken festzuhalten. Notizen ändern den Feed nicht automatisch; sie sind für dich (und stehen im Export).")]))),
-      sec("Feedback",
+          : [h("p", { class: "pf-empty" }, "Tippe bei einer Karte auf das Sprechblasen-Symbol, um eine Idee oder einen Gedanken festzuhalten. Notizen ändern den Feed nicht automatisch; sie sind für dich (und stehen im Export).")]))),
+      sec("feedback", "bulb", "Feedback & Wünsche",
         h("p", { class: "pf-note" }, "Themenwunsch ohne Wertung: Was würdest du gern entdecken? Es fließt nicht in deine Bewertungen ein."),
         h("div", { class: "pf-wish" }, wishIn, h("button", { class: "seg", onclick: addWish }, "Hinzufügen")),
         wishList,
-        h("p", { class: "pf-note" }, `Gemeldete Karten: ${Object.keys(S.reports).length}`),
+        lbl(`Gemeldete Karten: ${Object.keys(S.reports).length}`),
         h("div", { class: "pf-list" }, ...Object.entries(S.reports).slice(-8).reverse().map(([id, v]) => h("div", { class: "it" },
-          h("span", {}, `${(TOPICS[v.topic] || {}).emoji || "•"} ${v.title} – ${v.reason}`),
+          h("span", {}, v.title, h("small", { class: "pf-t" }, v.reason)),
           h("button", { onclick: () => { delete S.reports[id]; persist(); render(); } }, "aufheben"))))),
-      sec("Sync zwischen Geräten", syncBox()),
-      sec("Sichern & Übertragen",
-        h("button", { class: "act", onclick: async () => toast((await copy(exportJson())) ? "Geschmack kopiert" : "Kopieren nicht möglich") }, "📋 Geschmack kopieren", h("small", {}, "Als Text, z. B. zum Sichern oder um ihn Claude zu zeigen")),
+      sec("sync", "sync", "Sync zwischen Geräten", syncBox()),
+      sec("backup", "copy", "Sichern & Übertragen",
+        h("button", { class: "act", onclick: async () => toast((await copy(exportJson())) ? "Geschmack kopiert" : "Kopieren nicht möglich") }, lab("📋 Geschmack kopieren"), h("small", {}, "Als Text, z. B. zum Sichern oder um ihn Claude zu zeigen")),
         box,
-        h("button", { class: "act", onclick: () => { try { importJson(box.value); toast("Geschmack geladen"); render(); } catch (e) { toast("Das ist kein gültiger Export"); } } }, "📥 Einfügen & laden"),
-        h("button", { class: "act", onclick: () => { if (confirm("Wirklich alles zurücksetzen (Bewertungen, Gespeichertes, Profil)?")) { S = { rate: {}, prefs: {}, dive: {}, strength: 0.5, wishes: [], reports: {}, checks: {}, lastCheck: 0, notes: {}, arch: {}, seenAt: {}, badImg: {}, badSrc: {}, night: "auto", nightFrom: 23, sleep: 0, big: false, swiped: false, briefEd: "", briefSeen: null, profile: { name: "", emoji: "🙂" }, saved: [], savedNews: {}, seen: [] }; SEEN.clear(); persist(); render(); } } }, "🗑️ Alles zurücksetzen")));
+        h("button", { class: "act", onclick: () => { try { importJson(box.value); toast("Geschmack geladen"); render(); } catch (e) { toast("Das ist kein gültiger Export"); } } }, lab("📥 Einfügen & laden")),
+        h("button", { class: "act", onclick: () => { if (confirm("Wirklich alles zurücksetzen (Bewertungen, Gespeichertes, Profil)?")) { S = { rate: {}, prefs: {}, dive: {}, strength: 0.5, wishes: [], reports: {}, checks: {}, lastCheck: 0, notes: {}, arch: {}, seenAt: {}, badImg: {}, badSrc: {}, night: "auto", nightFrom: 23, sleep: 0, big: false, swiped: false, briefEd: "", briefSeen: null, profile: { name: "", emoji: "🙂" }, saved: [], savedNews: {}, seen: [] }; SEEN.clear(); persist(); render(); } } }, lab("🗑️ Alles zurücksetzen"))));
   };
 
   const render = () => {
@@ -758,8 +820,8 @@
     if (mode === "profile") { feed.append(renderProfile()); return; }
     if (mode === "saved") {
       const list = [...ALL.filter((c) => has("saved", c.id)), ...Object.values(S.savedNews)]
-        .filter((c) => !topic || topic === "news" ? (topic !== "news" || c.kind === "news") : c.topic === topic);
-      if (!list.length) feed.append(h("div", { class: "empty" }, "Noch nichts gespeichert. Tippe auf 🔖, um Karten hier zu sammeln."));
+        .filter((c) => topic === "news" ? c.kind === "news" : inTopic(c.topic));
+      if (!list.length) feed.append(h("div", { class: "empty" }, "Noch nichts gespeichert. Tippe auf das Lesezeichen, um Karten hier zu sammeln."));
       else feed.append(...list.map(cardEl));
     } else appendBatch();
   };
@@ -777,12 +839,13 @@
   const inNight = () => { const hh = new Date().getHours(); return hh >= nightFrom() || hh < 6; };
   const updateMoon = () => {
     const left = sleepEnd ? Math.max(0, Math.ceil((sleepEnd - Date.now()) / 60000)) : 0;
-    moon.textContent = left ? `🌙 ${left}′` : S.sleep > 0 ? `🌙 ab ${nightFrom()}` : "🌙";   // „ab 23“ = Timer wartet auf die Uhrzeit
+    const txt = left ? `${left}′` : S.sleep > 0 ? `ab ${nightFrom()}` : "";   // „ab 23“ = Timer wartet auf die Uhrzeit
+    moon.replaceChildren(ico("moon", 18), ...(txt ? [h("span", { class: "mt" }, txt)] : []));
   };
   const showGoodnight = () => {
     if ($("#goodnight")) return;
     const g = h("div", { id: "goodnight", class: "gn" },
-      h("div", { class: "gn-moon" }, "🌙"), h("h2", {}, "Gute Nacht"),
+      h("div", { class: "gn-moon" }, ico("moon", 64)), h("h2", {}, "Gute Nacht"),
       h("p", {}, "Genug für heute – der Rest wartet morgen auf dich."),
       h("button", { class: "act", onclick: () => { g.remove(); startSleep(10, true); } }, "Noch 10 Minuten"),
       h("button", { class: "gn-off", onclick: () => { g.remove(); S.sleep = 0; persist(); startSleep(0); } }, "Timer ausschalten"));
@@ -886,7 +949,7 @@
         const inp = h("input", { placeholder: "Code von deinem anderen Gerät", autocomplete: "off", autocapitalize: "characters" });
         kids.push(
           h("p", { class: "pf-note" }, "Ohne Konto und E-Mail: Ein geheimer Sync-Code verbindet deine Geräte. Ein Gerät erzeugt ihn, die anderen geben ihn einmal ein."),
-          h("button", { class: "act", onclick: () => { setCode(newCode()); syncNow(true); draw(); } }, "🔑 Sync einschalten", h("small", {}, "Erzeugt einen neuen Sync-Code")),
+          h("button", { class: "act", onclick: () => { setCode(newCode()); syncNow(true); draw(); } }, lab("🔑 Sync einschalten"), h("small", {}, "Erzeugt einen neuen Sync-Code")),
           inp,
           h("button", { class: "act", onclick: async () => {
             const c = normCode(inp.value);
@@ -894,7 +957,7 @@
             try { const r = await rpc("kg_get", { code: c }); if (!r || !r.state) return toast("Diesen Code kenne ich nicht – Tippfehler?"); }
             catch (e) { return toast("Keine Verbindung zum Sync-Server"); }
             setCode(c); await syncNow(true); render();
-          } }, "🔗 Mit Code verbinden", h("small", {}, "Lädt deine Daten von dort und führt sie zusammen")));
+          } }, lab("🔗 Mit Code verbinden"), h("small", {}, "Lädt deine Daten von dort und führt sie zusammen")));
       } else {
         const codeEl = h("code", { class: "synccode" }, "••••-••••-••••-••••-••••-••••");
         kids.push(
@@ -903,7 +966,7 @@
           h("div", { class: "segs" },
             h("button", { class: "seg", onclick: () => { shown = !shown; codeEl.textContent = shown ? fmtCode(code) : "••••-••••-••••-••••-••••-••••"; } }, "Anzeigen"),
             h("button", { class: "seg", onclick: async () => toast((await copy(fmtCode(code))) ? "Code kopiert" : "Kopieren nicht möglich") }, "Kopieren")),
-          h("button", { class: "act", onclick: async () => { await syncNow(true); draw(); } }, "🔄 Jetzt synchronisieren", h("small", {}, S.syncAt ? `Zuletzt: ${new Date(S.syncAt).toLocaleTimeString("de-DE", { hour: "2-digit", minute: "2-digit" })}${syncMsg ? " · " + syncMsg : ""}` : syncMsg || "Noch nicht synchronisiert")),
+          h("button", { class: "act", onclick: async () => { await syncNow(true); draw(); } }, lab("🔄 Jetzt synchronisieren"), h("small", {}, S.syncAt ? `Zuletzt: ${new Date(S.syncAt).toLocaleTimeString("de-DE", { hour: "2-digit", minute: "2-digit" })}${syncMsg ? " · " + syncMsg : ""}` : syncMsg || "Noch nicht synchronisiert")),
           h("button", { class: "act", onclick: () => { if (confirm("Sync auf diesem Gerät beenden? Deine Daten bleiben hier und auf dem Server erhalten.")) { setCode(""); draw(); } } }, "Sync auf diesem Gerät beenden"));
       }
       box.replaceChildren(...kids);
@@ -914,10 +977,16 @@
 
   // --- Kopfbereich ---
   const drawChips = () => {
-    const chip = (k, label, color) => h("button", { class: "chip" + (topic === k ? " on" : ""), "data-t": k, style: color ? `--c:${color}` : "", onclick: () => { topic = k; drawChips(); render(); } }, label);
-    chips.replaceChildren(chip("", "Alle"), ...(briefItems().length >= 2 ? [chip("brief", ED[edition()].chip, "#2563eb")] : []), chip("news", "📰 Aktuell", "#e11d48"),
-      ...Object.entries(TOPICS).filter(([k]) => ALL.some((c) => c.topic === k) || NEWS.some((n) => n.topic === k))
-        .map(([k, t]) => chip(k, `${t.emoji} ${t.name}`, t.c)));
+    const chip = (k, label, color, cls = "") => h("button", { class: "chip" + cls + (topic === k ? " on" : ""), "data-t": k, style: color ? `--c:${color}` : "", onclick: () => { topic = k; drawChips(); render(); } }, label);
+    const have = (k) => ALL.some((c) => c.topic === k) || NEWS.some((n) => n.topic === k);
+    const groups = groupsAll().map((g) => ({ ...g, topics: g.topics.filter((k) => TOPICS[k] && have(k)) })).filter((g) => g.topics.length);
+    const cur = topic.startsWith("g:") ? groups.find((g) => g.k === topic.slice(2)) : groupOf(topic) && groups.find((g) => g.topics.includes(topic));
+    // Oben: Alle · Überblick · Aktuell · Überkategorien. Darunter (wenn eine Überkategorie offen ist): ihre Themen.
+    const top = h("div", { class: "chiprow" }, chip("", "Alle"), ...(briefItems().length >= 2 ? [chip("brief", ED[edition()].chip, "#2563eb")] : []), chip("news", "Aktuell", "#e11d48"),
+      ...groups.map((g) => h("button", { class: "chip" + (cur && cur.k === g.k ? " on" : ""), "data-t": "g:" + g.k, style: `--c:${g.c}`, onclick: () => { topic = "g:" + g.k; drawChips(); render(); } }, g.name)));
+    const subRow = cur && cur.topics.length > 1 ? [h("div", { class: "chiprow sub2" }, chip("g:" + cur.k, "Alle " + cur.name, cur.c), ...cur.topics.map((k) => chip(k, TOPICS[k].name, TOPICS[k].c)))] : [];
+    chips.replaceChildren(top, ...subRow);
+    $("#app").classList.toggle("hassub", subRow.length > 0);
   };
   document.querySelectorAll(".modes button[data-mode]").forEach((b) => b.addEventListener("click", () => {
     mode = b.dataset.mode;
