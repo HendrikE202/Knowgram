@@ -102,17 +102,22 @@
   const edition = () => { const hh = new Date().getHours(); return hh >= 5 && hh < 11 ? "morgen" : hh >= 11 && hh < 17 ? "mittag" : "abend"; };
   const dayKey = () => new Date().toDateString();
   const rankedFresh = () => RANK.map((id) => NEWS.find((n) => n.id === id)).filter((n) => n && isFresh(n));
+  // Überblick: bereits gesehene Meldungen kommen nicht noch einmal (sonst liest man jeden Tag dasselbe). Der Block am Feed-Anfang zeigt nur Neues und füllt
+  // aus der Rangliste nach; in der Chip-Ansicht stehen Neue zuerst, schon gesehene dahinter (mit „✓ gesehen“).
   const briefItems = (ed = edition(), forBlock = false) => {
     let list = rankedFresh();
     if (ed === "abend") list = list.filter((n) => Date.now() - Date.parse(n.published) < 30 * 36e5);                 // was heute (und gestern Abend) wichtig war
     else if (ed === "mittag") { const done = (S.briefSeen && S.briefSeen.day === dayKey()) ? S.briefSeen.ids : []; list = list.filter((n) => !done.includes(n.id)); }   // nur Neues seit dem Morgen
+    const fresh = list.filter((n) => !SEEN.has(n.id)), old = list.filter((n) => SEEN.has(n.id));
+    list = forBlock ? fresh : [...fresh, ...old];
     list = list.slice(0, ED[ed].n);
-    if (ed === "mittag" && list.length < 2) return forBlock ? [] : briefItems("morgen");                              // zu wenig Neues: Block auslassen, Chip zeigt die Morgenlage
+    if (forBlock && list.length < 2) return [];                                                                       // zu wenig Neues: Block auslassen
+    if (ed === "mittag" && list.length < 2) return forBlock ? [] : briefItems("morgen");                              // Chip zeigt dann die Morgenlage
     return list.map((n, i, a) => ({ ...n, _b: { i: i + 1, n: a.length, ed } }));
   };
   const newsPool = () => {
     if (topic === "brief") return briefItems();
-    const skip = new Set(RANK);                              // Überblick-Meldungen kommen nicht zusätzlich im normalen Strom
+    const skip = briefPending ? new Set(briefItems(edition(), true).map((x) => x.id)) : new Set();   // was gleich im Überblick-Block erscheint, kommt nicht zusätzlich im Strom
     return NEWS.filter(isFresh).filter((n) => !topic || topic === "news" || n.topic === topic)
       .filter((n) => topic === "news" || (!SEEN.has(n.id) && !skip.has(n.id)));
   };
