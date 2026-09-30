@@ -1,11 +1,11 @@
 {
- "generated": "2026-09-29T19:59:31.506100+00:00",
+ "generated": "2026-09-30T00:28:15.139272+00:00",
  "briefing": [
   "n937d323c63",
   "na0ab661f5f",
   "n441c51bf60",
   "nb8ba09fbf2",
-  "n66efa8a098",
+  "nf96e32788e",
   "n4c69b80fd9",
   "n6e7d0f6b78",
   "n06a198c07f",
@@ -15,78 +15,265 @@
  "ranked": [
   {
    "id": "n937d323c63",
-   "s": 31.5
+   "s": 30.4
   },
   {
    "id": "na0ab661f5f",
-   "s": 27.0
+   "s": 25.9
   },
   {
    "id": "n441c51bf60",
-   "s": 22.9
+   "s": 21.8
   },
   {
    "id": "nb8ba09fbf2",
-   "s": 22.9
+   "s": 21.8
   },
   {
-   "id": "n66efa8a098",
-   "s": 22.9
+   "id": "nf96e32788e",
+   "s": 21.8
   },
   {
    "id": "n4c69b80fd9",
-   "s": 22.8
-  },
-  {
-   "id": "n6e7d0f6b78",
-   "s": 22.7
-  },
-  {
-   "id": "n06a198c07f",
-   "s": 22.7
-  },
-  {
-   "id": "n5fa53b3f3f",
-   "s": 22.5
-  },
-  {
-   "id": "n123bbcfe9b",
    "s": 21.7
   },
   {
-   "id": "nba11c93ba1",
+   "id": "n6e7d0f6b78",
    "s": 21.6
   },
   {
-   "id": "n1d57bbac7b",
+   "id": "n06a198c07f",
    "s": 21.5
   },
   {
-   "id": "nfb923ef92f",
+   "id": "n5fa53b3f3f",
    "s": 21.4
+  },
+  {
+   "id": "n123bbcfe9b",
+   "s": 20.6
+  },
+  {
+   "id": "nba11c93ba1",
+   "s": 20.5
+  },
+  {
+   "id": "n1d57bbac7b",
+   "s": 20.4
+  },
+  {
+   "id": "nfb923ef92f",
+   "s": 20.3
   },
   {
    "id": "n800cc6c961",
-   "s": 21.4
+   "s": 20.3
   },
   {
    "id": "na19b532324",
-   "s": 21.4
+   "s": 20.2
   },
   {
    "id": "na53b25528b",
-   "s": 21.1
+   "s": 20.0
   },
   {
-   "id": "n8558bc8832",
-   "s": 19.3
-  },
-  {
-   "id": "ne3846961df",
-   "s": 19.2
+   "id": "n66efa8a098",
+   "s": 19.8
   }
  ],
  "items": [
+  {
+   "id": "n06a17f5b55",
+   "topic": "nfl",
+   "title": "Case Keenum's Monday night performance shows importance of having three quarterbacks",
+   "text": "Last night, Bears quarterback Case Keenum played in a regular-season game for the first time in 1,009 days.",
+   "link": "https://sports.yahoo.com/articles/case-keenums-monday-night-performance-001552223.html",
+   "published": "2026-09-30T00:15:52+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-05T00:15:52+00:00"
+  },
+  {
+   "id": "ne2d227ef96",
+   "topic": "nfl",
+   "title": "Cowboys signing safety Juanyeh Thomas",
+   "text": "Juanyeh Thomas is back with the Cowboys!",
+   "link": "https://sports.yahoo.com/articles/cowboys-signing-safety-juanyeh-thomas-000527204.html",
+   "published": "2026-09-30T00:05:27+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-05T00:05:27+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/9cccd63bbc66d5b6a1eddcbb4303672f.jpg"
+  },
+  {
+   "id": "n31427de4d0",
+   "topic": "politik",
+   "title": "Sozialreformen - Prien (CDU) offen für Änderungen bei Plänen für Elterngeld",
+   "text": "Bundesfamilienministerin Prien stellt Nachjustierungen beim Elterngeld in Aussicht.",
+   "link": "https://www.deutschlandfunk.de/prien-cdu-offen-fuer-aenderungen-bei-plaenen-fuer-elterngeld-102.html",
+   "published": "2026-09-29T23:55:10+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-01T23:55:10+00:00",
+   "img": "https://bilder.deutschlandfunk.de/61/2e/90/9f/612e909f-3bef-4592-a416-114001bf8052/elterngeld-102-1920x1920.jpg"
+  },
+  {
+   "id": "nc0548ca07c",
+   "topic": "politik",
+   "title": "Ungleiche Vermögensverteilung in Deutschland - Ostbeauftragte fordert Länder-Ausgleich bei Erbschaftsteuer",
+   "text": "Die Ostbeauftragte der Bundesregierung, Kaiser, fordert bei den Einnahmen aus der Erbschaftssteuer einen finanziellen Ausgleich zwischen den Bundesländern mit hohem und niedrigem Aufkommen.",
+   "link": "https://www.deutschlandfunk.de/ostbeauftragte-fordert-laender-ausgleich-bei-erbschaftsteuer-102.html",
+   "published": "2026-09-29T23:55:10+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-01T23:55:10+00:00",
+   "img": "https://bilder.deutschlandfunk.de/bd/39/9c/43/bd399c43-3058-4aa6-8ac4-96f58d1e230d/testament-erben-schenkung-vererben-100-1920x1920.jpg"
+  },
+  {
+   "id": "n5f34fe10b4",
+   "topic": "politik",
+   "title": "Oberstes US-Gerichtl - Trump-Regierung darf Migranten vorerst weiter in Drittländer abschieben - Kritik von Menschenrechtsgruppen",
+   "text": "Die US-Regierung darf Migranten vorerst weiterhin in fremde Länder abschieben. Das entschied der Supreme Court, das höchste Gericht der USA, und gab damit einem Eilantrag des Justizministeriums statt. Migrantenorganisationen kritisierten die Entscheidung scharf.",
+   "link": "https://www.deutschlandfunk.de/trump-regierung-darf-migranten-vorerst-weiter-in-drittlaender-abschieben-kritik-von-menschenrechtsgr-100.html",
+   "published": "2026-09-29T23:55:10+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-01T23:55:10+00:00"
+  },
+  {
+   "id": "ne074b81c75",
+   "topic": "politik",
+   "title": "Großbritannien - Premierminister Burnham will Mehrheitswahlrecht abschaffen und Sozialsysteme reformieren",
+   "text": "Großbritanniens Premierminister Burnham hat in einer Grundsatzrede weitreichende Sozialreformen angekündigt. Zudem kritisierte er die politische Instabilität des Landes und warb für eine Abkehr vom traditionellen Mehrheitswahlrecht.",
+   "link": "https://www.deutschlandfunk.de/premierminister-burnham-will-mehrheitswahlrecht-abschaffen-und-sozialsysteme-reformieren-102.html",
+   "published": "2026-09-29T23:55:10+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-01T23:55:10+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Burnham kündigt auf Labour-Parteitag Reformen an",
+     "link": "https://www.tagesschau.de/ausland/europa/burnham-parteitag-labour-102.html"
+    }
+   ]
+  },
+  {
+   "id": "naae65fdb78",
+   "topic": "politik",
+   "title": "Nahost - Syrien meldet Festnahme von mit Hisbollah verbundener Terrorzelle",
+   "text": "In Syrien haben die Behörden nach eigenen Angaben im Süden des Landes nahe der von Israel besetzten Golanhöhen eine mit der Hisbollah-Miliz verbundene Terrorzelle ausgehoben.",
+   "link": "https://www.deutschlandfunk.de/syrien-meldet-festnahme-von-mit-hisbollah-verbundener-terrorzelle-100.html",
+   "published": "2026-09-29T23:55:10+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-01T23:55:10+00:00",
+   "img": "https://bilder.deutschlandfunk.de/FI/LE/_2/e8/FILE_2e8fc7659de672efd1d81b6187c673f8/golan-blick-nach-syrien-jpg-100-768x768.jpg"
+  },
+  {
+   "id": "n6655e2a9f1",
+   "topic": "politik",
+   "title": "Gewerkschaftsaufruf - Landesweite Demonstrationen für höhere Bezahlung im öffentlichen Dienst",
+   "text": "Die teils gewaltsamen Proteste gegen eine schlechte Ausstattung von Gymnasien in Frankreich haben sich ausgeweitet.",
+   "link": "https://www.deutschlandfunk.de/landesweite-demonstrationen-fuer-hoehere-bezahlung-im-oeffentlichen-dienst-110.html",
+   "published": "2026-09-29T23:55:10+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-01T23:55:10+00:00",
+   "img": "https://bilder.deutschlandfunk.de/18/04/0e/15/18040e15-ab3a-42f8-af64-36617347317a/demo-paris-oeffentlicher-dienst-100-1920x1920.jpg"
+  },
+  {
+   "id": "nef61456510",
+   "topic": "welt",
+   "title": "Trump setzt bei KI auf Selbstkontrolle der Techbranche",
+   "text": "Seit Wochen wird weltweit über Risiken und Beschränkungen Künstlicher Intelligenz diskutiert. Doch US-Präsident Trump will auf gesetzliche Regulierung weiterhin verzichten. KI-Unternehmen sollen sich freiwillig selbst kontrollieren.",
+   "link": "https://www.tagesschau.de/ausland/amerika/trump-regulierung-ki-100.html",
+   "published": "2026-09-29T23:02:24+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-02T23:02:24+00:00",
+   "img": "https://images.tagesschau.de/image/cba5a9e6-4222-4311-80f4-5ba8a75cbbbd/AAABoO9foE8/AAABnSSvrFg/16x9-big/trump-5304.jpg?width=1920"
+  },
+  {
+   "id": "n865f7b8973",
+   "topic": "it",
+   "title": "Elektrolimousine: BMW i3 in zwei Basisvarianten bestellbar",
+   "text": "BMW öffnet die Bestellbücher für die Elektrolimousine i3. Die Einstiegsversion kostet 60.000 Euro und soll 710 km weit kommen. ( Elektroauto , Auto )",
+   "link": "https://www.golem.de/news/elektrolimousine-bmw-i3-in-zwei-basisvarianten-bestellbar-2609-213548.html",
+   "published": "2026-09-29T22:06:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-04T22:06:01+00:00",
+   "img": "https://www.golem.de/2609/213548-600803-600801_rc.jpg"
+  },
+  {
+   "id": "n1b6a9a0b79",
+   "topic": "nfl",
+   "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets by targeting Red Sox-Yankees, Cubs-Padres, MLB picks",
+   "text": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for MLB, NFL betting on Tuesday",
+   "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-red-sox-yankees-cubs-padres-mlb-picks/",
+   "published": "2026-09-29T21:45:42+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-04T21:45:42+00:00"
+  },
+  {
+   "id": "n857f1a48c6",
+   "topic": "nfl",
+   "title": "Use DraftKings promo code to claim $150 in bonus bets by targeting Yankees-Red Sox, Padres-Cubs, MLB playoffs",
+   "text": "DraftKings offers $150 in bonus bets after your first $5 wager for MLB, NFL betting on Tuesday",
+   "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-claim-150-bonus-bets-yankees-red-sox-padres-cubs-mlb-playoffs/",
+   "published": "2026-09-29T20:51:27+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-04T20:51:27+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/07/26/f6e09138-10e1-46d1-8a69-6cb1358224dd/draftkings-bet-5-get-150.jpg"
+  },
+  {
+   "id": "n725e9a4050",
+   "topic": "welt",
+   "title": "Burnham kündigt auf Labour-Parteitag Reformen an",
+   "text": "Burnham könnte für Labour ein Wendepunkt sein: Seine Nahbarkeit kommt an, mit ihm als Premier wird die Partei wieder beliebter. Nach kleineren Projekten sollen nun große Reformen zeigen, dass er auch anpacken kann. Von Lisa-Maria Röhling.",
+   "link": "https://www.tagesschau.de/ausland/europa/burnham-parteitag-labour-102.html",
+   "published": "2026-09-29T20:19:59+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-02T20:19:59+00:00",
+   "img": "https://images.tagesschau.de/image/ff8e2957-67a1-4a5d-a31f-bbd5dc5203d2/AAABoO7Q57A/AAABnSSvrFg/16x9-big/burnham-parteitag-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Großbritannien - Premierminister Burnham will Mehrheitswahlrecht abschaffen und Sozialsysteme reformieren",
+     "link": "https://www.deutschlandfunk.de/premierminister-burnham-will-mehrheitswahlrecht-abschaffen-und-sozialsysteme-reformieren-102.html"
+    }
+   ]
+  },
+  {
+   "id": "nccec9660b4",
+   "topic": "it",
+   "title": "Erstes völlig unsichtbare Hör-Implantat",
+   "text": "Erstmals ist ein Hörimplantat kommerzieller verfügbar, das komplett unter der Haut implantiert wird. Auch das Mikrofon.",
+   "link": "https://www.heise.de/news/Erstes-voellig-unsichtbares-Hoer-Implantat-11470363.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-09-29T20:11:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-04T20:11:00+00:00"
+  },
   {
    "id": "ncc954a3f54",
    "topic": "welt",
@@ -175,12 +362,11 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-01T19:44:24+00:00",
-   "img": "https://bilder.deutschlandfunk.de/c2/7e/56/22/c27e5622-a488-45da-9853-ae4de2e90bed/andy-burnham-labour-100-1920x1920.jpg",
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Burnham kündigt umfassende Sozialreformen für Großbritannien an",
-     "link": "https://www.tagesschau.de/ausland/europa/burnham-parteitag-rede-100.html"
+     "title": "Burnham kündigt auf Labour-Parteitag Reformen an",
+     "link": "https://www.tagesschau.de/ausland/europa/burnham-parteitag-labour-102.html"
     }
    ]
   },
@@ -194,8 +380,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-01T19:44:24+00:00",
-   "img": "https://bilder.deutschlandfunk.de/76/b8/56/49/76b85649-a9c0-441c-939e-df2dc0066bd6/usa-abschiebung-migranten-fluechtlinge-panama-100-1280x1280.jpg"
+   "expires": "2026-10-01T19:44:24+00:00"
   },
   {
    "id": "nd8965a4598",
@@ -381,7 +566,7 @@
    "id": "n45bd4d2bb8",
    "topic": "politik",
    "title": "Reformdebatte in der schwarz-roten Koalition",
-   "text": "Die Bundesregierung beteuert es nahezu täglich: Deutschland braucht Reformen. Noch in diesem Herbst hat Schwarz-Rot viel vor - und droht sich in Diskussionen zu verlieren. Was auf der To-Do-Liste steht. Von Jan Willems.",
+   "text": "Die Bundesregierung beteuert es nahezu täglich: Deutschland braucht Reformen. Noch in diesem Herbst hat Schwarz-Rot viel vor - und droht sich in Diskussionen zu verlieren. Was auf der To-do-Liste steht. Von Jan Willems.",
    "link": "https://www.tagesschau.de/inland/reformen-bundesregierung-100.html",
    "published": "2026-09-29T18:25:40+00:00",
    "source": "Tagesschau",
@@ -545,7 +730,7 @@
     {
      "source": "Deutschlandfunk",
      "title": "Großbritannien - Premierminister Burnham will Mehrheitswahlrecht abschaffen und Sozialsysteme reformieren",
-     "link": "https://www.deutschlandfunk.de/premierminister-burnham-will-mehrheitswahlrecht-abschaffen-und-sozialsysteme-reformieren-100.html"
+     "link": "https://www.deutschlandfunk.de/premierminister-burnham-will-mehrheitswahlrecht-abschaffen-und-sozialsysteme-reformieren-102.html"
     }
    ]
   },
@@ -1433,78 +1618,6 @@
    "source": "Tagesschau",
    "type": "Öffentlich-rechtlich",
    "lang": "de"
-  },
-  {
-   "id": "n326a46894c",
-   "topic": "wirtschaft",
-   "title": "Software-Problem verzögert Zulassung neuer Boeing-Variante",
-   "text": "Der von wiederholten Pannen geplagte US-Flugzeugbauer Boeing hat einen Software-Fehler bei seinem Modell 737 MAX entdeckt. Dieser verzögert nun die Zulassung der neuen, größten Modellvariante weiter.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/boeing-software-probleme-zulassung-7373-max-10-100.html",
-   "published": "2026-09-29T06:43:52+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de"
-  },
-  {
-   "id": "n7a32c50d1e",
-   "topic": "welt",
-   "title": "Australien: Walkadaver sorgt für Hai-Alarm am Stadtstrand von Perth",
-   "text": "Ein Walkadaver sorgt an der Westküste Australiens für Aufregung. Direkt am beliebten Stadtstrand von Perth lockt der tote Buckelwal offenbar auch Haie an. Die Behörden haben reagiert - zwei Wochen nach einem tödlichen Haiangriff. Von F. Bahrdt.",
-   "link": "https://www.tagesschau.de/ausland/ozeanien/australien-perth-gestrandeter-wal-hai-100.html",
-   "published": "2026-09-29T03:59:31+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de"
-  },
-  {
-   "id": "n4c0ea9cf2b",
-   "topic": "nfl",
-   "title": "NFL Week 3 grades for all 32 teams: Bears earn 'A+' for big Monday win, Raiders earn 'A-' for beating Saints",
-   "text": "Plus, two teams earn 'A+' grades after superb offensive performances, and another 'F' makes its way into the discussion",
-   "link": "https://www.cbssports.com/nfl/news/nfl-week-3-grades-patriots-stumble-commanders-shine/",
-   "published": "2026-09-29T03:18:03+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en"
-  },
-  {
-   "id": "nf3869ad05b",
-   "topic": "wissenschaft",
-   "title": "Wie lange gibt es diesen Gletscher noch? Weltkarte zeigt Schmelze",
-   "text": "Durch den Klimawandel schmelzen Gletscher - das ist bekannt. Doch wie lange wird es jeden einzelnen noch geben? Eine interaktive Karte zeigt, wie sie sich in Zukunft entwickeln - je nach Klimaszenario. Von v. Sperber und v. Liebe.",
-   "link": "https://www.tagesschau.de/wissen/klima/karte-gletscher-104.html",
-   "published": "2026-09-26T09:16:37+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-10T09:16:37+00:00",
-   "img": "https://images.tagesschau.de/image/454ea8ad-9be7-4eed-847e-2aae7dd5b9c5/AAABoNlOfBY/AAABnSSvrFg/16x9-big/gletscher-182.jpg?width=1920"
-  },
-  {
-   "id": "n80994e08b9",
-   "topic": "wissenschaft",
-   "title": "Weltraumspiegel: Satelliten sollen nachts die Erde erhellen",
-   "text": "Ein US-Unternehmen will Tausende Satelliten ins All schicken, um mit Spiegeln die Nachtseite der Erde zu beleuchten. Forschende warnen vor Gefahren für Astronomie, Natur - und den Menschen. Von Jan Kerckhoff.",
-   "link": "https://www.tagesschau.de/wissen/technologie/satellitenspiegel-nacht-100.html",
-   "published": "2026-09-26T05:56:44+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-10T05:56:44+00:00",
-   "img": "https://images.tagesschau.de/image/f07e9774-fbf7-47db-83fd-53043b237e3e/AAABoNihKhw/AAABnSSvrFg/16x9-big/erde-117.jpg?width=1920"
-  },
-  {
-   "id": "ncdd59bde44",
-   "topic": "wissenschaft",
-   "title": "Ehrenamtliche renaturieren Moor im Erzgebirge",
-   "text": "Moore können Klimaschützer sein. Aber nur, wenn sie intakt und feucht genug sind. Im Seifenwerkmoor im Erzgebirge arbeiten ehrenamtliche Helfer ihrer Freizeit daran, ein Moorgebiet wiederzubeleben.",
-   "link": "https://www.tagesschau.de/video/video-1654414.html",
-   "published": "2026-09-23T16:52:25+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-07T16:52:25+00:00",
-   "img": "https://images.tagesschau.de/image/e2841a9c-cded-46f8-b02c-cb4a390a9ba7/AAABoM8up0w/AAABnSSvrFg/16x9-big/23092026-mittendrin-moor-renaturierung-100.jpg?width=1920"
   }
  ]
 }
