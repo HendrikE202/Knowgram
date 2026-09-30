@@ -569,7 +569,7 @@
     const info = [s2, ...extraSlides(c)].filter(Boolean).slice(0, MAX_INFO);   // Übersicht vorn und „Tiefer eintauchen“ hinten sind immer dabei und zählen nicht mit
     const slidesArr = [s1, ...info, s3];
     const slidesEl = h("div", { class: "slides" }, ...slidesArr);
-    const dots = h("div", { class: "dots" }, ...slidesArr.map((_, i) => h("i", { class: i === 0 ? "on" : "" })));
+    const dots = h("div", { class: "dots" }, ...slidesArr.map((_, i) => h("i", { class: i === 0 ? "on" : "", title: "Seite " + (i + 1), onclick: () => goSlide(i) })));
     slidesEl.addEventListener("scroll", () => {
       const i = Math.round(slidesEl.scrollLeft / (slidesEl.clientWidth || 1));
       [...dots.children].forEach((d, j) => d.classList.toggle("on", i === j));
@@ -924,6 +924,23 @@
     document.querySelectorAll(".modes button[data-mode]").forEach((x) => x.classList.toggle("on", x === b));
     render();
   }));
+
+
+  // Bedienung am Computer: Pfeiltasten (oder j/k/h/l) – ↑↓ nächste/vorige Karte, ←→ Seiten der Karte
+  document.addEventListener("keydown", (e) => {
+    if (e.ctrlKey || e.metaKey || e.altKey || mode === "profile" || !sheet.hidden) return;
+    const t = e.target, tag = t && t.tagName;
+    if (tag === "INPUT" || tag === "TEXTAREA" || tag === "SELECT" || (t && t.isContentEditable)) return;
+    const down = ["ArrowDown", "PageDown", "j"], up = ["ArrowUp", "PageUp", "k"], right = ["ArrowRight", "l"], left = ["ArrowLeft", "h"];
+    const H = feed.clientHeight;
+    if (down.includes(e.key) || up.includes(e.key)) {
+      e.preventDefault(); feed.scrollBy({ top: down.includes(e.key) ? H : -H, behavior: "smooth" });
+    } else if (right.includes(e.key) || left.includes(e.key)) {
+      const card = feed.querySelectorAll(".card")[Math.round(feed.scrollTop / (H || 1))];
+      const sl = card && card.querySelector(".slides");
+      if (sl) { e.preventDefault(); sl.scrollBy({ left: right.includes(e.key) ? sl.clientWidth : -sl.clientWidth, behavior: "smooth" }); }
+    } else if (e.key === "Home") { e.preventDefault(); feed.scrollTo({ top: 0, behavior: "smooth" }); }
+  });
 
   // Beim Zurückkehren in die App nach längerer Pause: Nachrichten neu laden
   document.addEventListener("visibilitychange", async () => {
