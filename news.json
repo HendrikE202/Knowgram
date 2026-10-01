@@ -1,16 +1,15 @@
 {
- "generated": "2026-10-01T12:06:33.709022+00:00",
+ "generated": "2026-10-01T12:08:38.472598+00:00",
  "briefing": [
   "n2b05d36a7c",
   "n68c4d06b40",
-  "nabd8f09515",
+  "nbb8a692ebb",
   "nbb1df2887e",
   "nd2e873f5f3",
   "n9f4c2880c9",
   "nd70ba6935d",
-  "nea5e40e20d",
-  "nbdb38eca40",
-  "na2142c1f00"
+  "n38e51402e8",
+  "nea5e40e20d"
  ],
  "ranked": [
   {
@@ -22,8 +21,8 @@
    "s": 32.7
   },
   {
-   "id": "nabd8f09515",
-   "s": 32.5
+   "id": "nbb8a692ebb",
+   "s": 23.4
   },
   {
    "id": "nbb1df2887e",
@@ -42,48 +41,12 @@
    "s": 22.3
   },
   {
+   "id": "n38e51402e8",
+   "s": 22.1
+  },
+  {
    "id": "nea5e40e20d",
    "s": 21.4
-  },
-  {
-   "id": "nbdb38eca40",
-   "s": 21.4
-  },
-  {
-   "id": "na2142c1f00",
-   "s": 19.4
-  },
-  {
-   "id": "n28ce4d808f",
-   "s": 19.4
-  },
-  {
-   "id": "na1412c386b",
-   "s": 19.4
-  },
-  {
-   "id": "n8caed0b202",
-   "s": 18.6
-  },
-  {
-   "id": "n847e203f0a",
-   "s": 18.5
-  },
-  {
-   "id": "n253021967f",
-   "s": 18.4
-  },
-  {
-   "id": "n43cb4ca2f1",
-   "s": 18.3
-  },
-  {
-   "id": "nddd5ebff71",
-   "s": 18.1
-  },
-  {
-   "id": "nee85098f44",
-   "s": 17.9
   }
  ],
  "items": [
@@ -195,6 +158,18 @@
    "type": "Wissenschaftsmagazin",
    "lang": "de",
    "expires": "2026-10-15T12:00:00+00:00"
+  },
+  {
+   "id": "n62fe93e7b9",
+   "topic": "it",
+   "title": "heise-Angebot: iX-Workshop: NIS-2-Richtlinie im Unternehmen umsetzen",
+   "text": "Erfahren Sie, welche NIS-2-Pflichten für Ihr Unternehmen gelten – und wie Sie passende Sicherheitsmaßnahmen für Ihre IT gezielt planen und umsetzen.",
+   "link": "https://www.heise.de/news/iX-Workshop-NIS-2-Richtlinie-im-Unternehmen-umsetzen-11451865.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-01T12:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-06T12:00:00+00:00"
   },
   {
    "id": "nabce1611fc",
@@ -848,11 +823,6 @@
      "source": "Deutschlandfunk",
      "title": "Hannover - Volkswagen kündigt fast alle Tarifverträge - auch Manteltarifvertrag betroffen",
      "link": "https://www.deutschlandfunk.de/volkswagen-kuendigt-fast-alle-tarifvertraege-auch-manteltarifvertrag-betroffen-100.html"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Volkswagen kündigt zum Jahresende fast alle Tarifverträge",
-     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-aufhebung-tarifvertraege-sparmassnahmen-100.html"
     }
    ]
   },
@@ -1338,11 +1308,6 @@
      "source": "Golem.de",
      "title": "Sparprogramm: VW kündigt Tarifverträge",
      "link": "https://www.golem.de/news/sparprogramm-vw-kuendigt-tarifvertraege-2610-213598.html"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Volkswagen kündigt zum Jahresende fast alle Tarifverträge",
-     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-aufhebung-tarifvertraege-sparmassnahmen-100.html"
     }
    ]
   },
@@ -1709,31 +1674,6 @@
    "lang": "de",
    "expires": "2026-10-03T14:05:10+00:00",
    "img": "https://images.tagesschau.de/image/3f87ea89-a4b2-446a-8144-07b2d10a3f5b/AAABoPEfh6E/AAABnSSvrFg/16x9-big/razzia-geldwaesche-100.jpg?width=1920"
-  },
-  {
-   "id": "nabd8f09515",
-   "topic": "wirtschaft",
-   "title": "Volkswagen kündigt zum Jahresende fast alle Tarifverträge",
-   "text": "Der kriselnde Autobauer VW hat zum Jahresende eine Reihe von Tarifverträgen gekündigt und begründet das mit dem aktuellen Kostendruck. Die IG Metall spricht von einem \"üblen Foul an der Belegschaft\".",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-aufhebung-tarifvertraege-sparmassnahmen-100.html",
-   "published": "2026-09-30T14:00:31+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-03T14:00:31+00:00",
-   "img": "https://images.tagesschau.de/image/ec5f7509-d72e-44d5-a7d4-95f19f7fdbee/AAABoPKDfnY/AAABnSSvrFg/16x9-big/fahrzeuge-fertigungsstrasse-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Golem.de",
-     "title": "Sparprogramm: VW kündigt Tarifverträge",
-     "link": "https://www.golem.de/news/sparprogramm-vw-kuendigt-tarifvertraege-2610-213598.html"
-    },
-    {
-     "source": "Deutschlandfunk",
-     "title": "Hannover - Volkswagen kündigt fast alle Tarifverträge - auch Manteltarifvertrag betroffen",
-     "link": "https://www.deutschlandfunk.de/volkswagen-kuendigt-fast-alle-tarifvertraege-auch-manteltarifvertrag-betroffen-100.html"
-    }
-   ]
   }
  ]
 }
