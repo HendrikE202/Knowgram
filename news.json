@@ -1,66 +1,183 @@
 {
- "generated": "2026-10-01T12:16:14.350959+00:00",
+ "generated": "2026-10-01T13:16:42.800302+00:00",
  "briefing": [
   "n2b05d36a7c",
   "n68c4d06b40",
   "nbb8a692ebb",
-  "nbb1df2887e",
+  "nc45726aa44",
+  "nb599a1a9d6",
+  "nb24fef8f06",
   "n9f4c2880c9",
   "nd70ba6935d",
-  "n38e51402e8",
-  "n401f7e286e",
-  "nea5e40e20d"
+  "n38e51402e8"
  ],
  "ranked": [
   {
    "id": "n2b05d36a7c",
-   "s": 35.6
+   "s": 35.4
   },
   {
    "id": "n68c4d06b40",
-   "s": 32.7
+   "s": 32.4
   },
   {
    "id": "nbb8a692ebb",
-   "s": 23.3
+   "s": 23.1
   },
   {
-   "id": "nbb1df2887e",
-   "s": 23.0
+   "id": "nc45726aa44",
+   "s": 22.9
+  },
+  {
+   "id": "nb599a1a9d6",
+   "s": 22.9
+  },
+  {
+   "id": "nb24fef8f06",
+   "s": 22.8
   },
   {
    "id": "n9f4c2880c9",
-   "s": 22.3
-  },
-  {
-   "id": "nd70ba6935d",
-   "s": 22.3
-  },
-  {
-   "id": "n38e51402e8",
    "s": 22.0
   },
   {
-   "id": "n401f7e286e",
-   "s": 21.9
+   "id": "nd70ba6935d",
+   "s": 22.0
   },
   {
-   "id": "nea5e40e20d",
-   "s": 21.4
+   "id": "n38e51402e8",
+   "s": 21.8
   }
  ],
  "items": [
   {
-   "id": "n6e24324b93",
+   "id": "n3218d78f7b",
    "topic": "wissenschaft",
-   "title": "Amelia Earharts Wrack: Liegt hier eine Sensation der Luftfahrtgeschichte?",
-   "text": "Experten wollen das Wrack der 1937 verschollenen Luftfahrpionierin Amelia Earhart entdeckt haben, wenn auch bislang nur auf Fotos. Im November soll eine Expedition starten.",
-   "link": "https://www.spektrum.de/news/expedition-soll-das-wrack-amelia-earharts-finden/2280271",
-   "published": "2026-10-01T12:40:00+00:00",
+   "title": "Kernfusion: Ein Fusionskraftwerk der anderen Art",
+   "text": "Das US-Unternehmen Helion Energy will in wenigen Jahren Strom aus Kernfusion gewinnen. Für diesen ambitionierten Plan setzt es auf ein völlig anderes Design als die Konkurrenz.",
+   "link": "https://www.spektrum.de/news/kernfusion-helion-energy-baut-ein-fusionskraftwerk-der-anderen-art/2325478",
+   "published": "2026-10-01T14:00:00+00:00",
    "source": "Spektrum der Wissenschaft",
    "type": "Wissenschaftsmagazin",
    "lang": "de",
-   "expires": "2026-10-15T12:40:00+00:00"
+   "expires": "2026-10-15T14:00:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/sa0626Indu01_Helion.jpg.8406919.jpg?f=1280x720"
+  },
+  {
+   "id": "n4b557a1234",
+   "topic": "it",
+   "title": "Pakete: Deutsche Post kauft Paketautomaten-Anbieter Myflexbox",
+   "text": "Paketautomaten sind für Lieferdienste und Kunden praktisch. Die Deutsche Post kauft nun den anbieteroffenen Mitbewerber Myflexbox. ( Post , Wirtschaft )",
+   "link": "https://www.golem.de/news/pakete-deutsche-post-kauft-paketautomaten-anbieter-myflexbox-2610-213620.html",
+   "published": "2026-10-01T13:15:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-06T13:15:02+00:00",
+   "img": "https://www.golem.de/2610/213620-601145-601143_rc.jpg"
+  },
+  {
+   "id": "n27dfd321af",
+   "topic": "ki",
+   "title": "Sicherheits-Startup findet über 13.000 interne Firmen-Screenshots, die KI-Agenten öffentlich hochgeladen haben",
+   "text": "KI-Agenten haben unbemerkt über 13.000 interne Screenshots von 343 Organisationen, darunter Fortune-500-Firmen, auf öffentlichen GitHub-Repos veröffentlicht. Weil die Plattform keinen geschützten Upload erlaubte, fanden die Agenten eigenständig einen Umweg. Sichtbar wurden Kundendaten, Zugangsdaten und …",
+   "link": "https://the-decoder.de/sicherheits-startup-findet-ueber-13-000-interne-firmen-screenshots-die-ki-agenten-oeffentlich-hochgeladen-haben/",
+   "published": "2026-10-01T13:14:36+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-08T13:14:36+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/09/glow_github.png"
+  },
+  {
+   "id": "n717dbe4905",
+   "topic": "nfl",
+   "title": "Mike Tomlin shows off incredibly detailed Minecraft city he built when he was coaching Steelers",
+   "text": "Mike Tomlin put a lot of thought into lighting and interior design ... really.",
+   "link": "https://sports.yahoo.com/nfl/article/mike-tomlin-shows-off-incredibly-detailed-minecraft-city-he-built-when-he-was-coaching-steelers-130119100.html",
+   "published": "2026-10-01T13:01:19+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-06T13:01:19+00:00"
+  },
+  {
+   "id": "n4ed7b168d8",
+   "topic": "it",
+   "title": "Gears of War E-Day im Test: Kaum sind die Locust da, fliegen die Fetzen",
+   "text": "Die Locust überrennen die Welt. Marcus und Dom schießen zurück. Das neue Gears of War ist geradlinig und spektakulär inszeniert (PC, Xbox). Ein Test von Peter Steinlechner ( Gears of War , Spieletest )",
+   "link": "https://www.golem.de/news/gears-of-war-e-day-im-test-kaum-sind-die-locust-da-fliegen-die-fetzen-2610-213617.html",
+   "published": "2026-10-01T13:00:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-06T13:00:02+00:00",
+   "img": "https://www.golem.de/2610/213617-601132-601130_rc.jpg",
+   "also": [
+    {
+     "source": "heise online",
+     "title": "„Gears of War: E-Day“: Zurück zu den Wurzeln",
+     "link": "https://www.heise.de/tests/Gears-of-War-E-Day-Zurueck-zu-den-Wurzeln-11472575.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
+  },
+  {
+   "id": "n633dfed6f0",
+   "topic": "nfl",
+   "title": "Pre-Snap Reads: If not Rashid Shaheed, then Tory Horton",
+   "text": "At some point, maybe not today, but at some point, we gotta get JSN a buddy.",
+   "link": "https://sports.yahoo.com/articles/pre-snap-reads-not-rashid-130000567.html",
+   "published": "2026-10-01T13:00:00+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-06T13:00:00+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/52d731b49f28200834b951d3514cba1a.jpg"
+  },
+  {
+   "id": "n0e8595596d",
+   "topic": "it",
+   "title": "heise+ | Wie Testfallgenerierung mit KI auch im regulativen Umfeld gelingt",
+   "text": "Fresenius Medical Care und imbus zeigen in einem Proof of Concept, wie ein RAG-System die Testfallerstellung für Medizintechnik-Software effizienter gestaltet.",
+   "link": "https://www.heise.de/hintergrund/Wie-Testfallgenerierung-mit-KI-auch-im-regulativen-Umfeld-gelingt-11470235.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+   "published": "2026-10-01T13:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-06T13:00:00+00:00"
+  },
+  {
+   "id": "nb2294e8b7e",
+   "topic": "it",
+   "title": "„Gears of War: E-Day“: Zurück zu den Wurzeln",
+   "text": "Die Hunde des Krieges sind zurück. In „Gears of War: E-Day“ wagt das Entwicklungsstudio The Coalition mit einem Prequel den Neustart der beliebten Action-Saga.",
+   "link": "https://www.heise.de/tests/Gears-of-War-E-Day-Zurueck-zu-den-Wurzeln-11472575.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-01T13:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-06T13:00:00+00:00",
+   "also": [
+    {
+     "source": "Golem.de",
+     "title": "Gears of War E-Day im Test: Kaum sind die Locust da, fliegen die Fetzen",
+     "link": "https://www.golem.de/news/gears-of-war-e-day-im-test-kaum-sind-die-locust-da-fliegen-die-fetzen-2610-213617.html"
+    }
+   ]
+  },
+  {
+   "id": "nc687d5ae3e",
+   "topic": "politik",
+   "title": "Frankfurter Buchmesse 2026: Gastland Tschechien von A bis Z",
+   "text": "Die Grenze zu Tschechien ist die längste Außengrenze Deutschlands. Dennoch wissen wir von unserem östlichen Nachbarland relativ wenig. Der Gastland-Auftritt bei der Frankfurter Buchmesse könnte das ändern - nicht nur auf dem Gebiet der Literatur.",
+   "link": "https://www.hessenschau.de/kultur/buchmesse/frankfurter-buchmesse-2026-gastland-tschechien-von-a-bis-z-v1,buchmesse-gastland-tschechien-protrait-100.html",
+   "published": "2026-10-01T12:56:16+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-05T12:56:16+00:00",
+   "img": "https://www.hessenschau.de/kultur/buchmesse-tschechien-vorstellung-100~_t-1788781176438_v-16to9.jpg",
+   "tag": "Hessen"
   },
   {
    "id": "n00a0e1d520",
@@ -68,11 +185,11 @@
    "title": "Berlin - Linksextremismus-Vorwürfe gegen Eralp überschatten Gespräche zur Regierungsbildung",
    "text": "Spitzenpolitiker von Linken, Grünen und SPD in Berlin sind zu ersten Gesprächen über die mögliche Bildung einer Landesregierung zusammengekommen.",
    "link": "https://www.deutschlandfunk.de/linksextremismus-vorwuerfe-gegen-eralp-ueberschatten-gespraeche-zur-regierungsbildung-100.html",
-   "published": "2026-10-01T12:06:31+00:00",
+   "published": "2026-10-01T12:55:21+00:00",
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-03T12:06:31+00:00",
+   "expires": "2026-10-03T12:55:21+00:00",
    "img": "https://bilder.deutschlandfunk.de/35/fb/c5/bd/35fbc5bd-7de3-4a2e-8bd5-444d83f44fd4/elif-eralp-die-linke-wahlabend-100-1920x1920.jpg"
   },
   {
@@ -81,11 +198,11 @@
    "title": "Medienberichte - Kanzleramt stoppt vorerst Klingbeils Zuckersteuer",
    "text": "Das Bundeskanzleramt stoppt vorerst den Entwurf von Finanzminister Klingbeil (SPD) zur Einführung einer Steuer auf zuckerhaltige Getränke. Der Vorschlag sei in dieser Form in der Regierung nicht mehrheitsfähig, berichteten die Deutsche Presse-Agentur und die \"Bild\"-Zeitung.",
    "link": "https://www.deutschlandfunk.de/kanzleramt-stoppt-vorerst-klingbeils-zuckersteuer-100.html",
-   "published": "2026-10-01T12:06:31+00:00",
+   "published": "2026-10-01T12:55:21+00:00",
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-03T12:06:31+00:00",
+   "expires": "2026-10-03T12:55:21+00:00",
    "img": "https://bilder.deutschlandfunk.de/2a/ce/17/9b/2ace179b-7ee4-450a-8723-e71075daf737/limo-100-1920x1920.jpg",
    "also": [
     {
@@ -101,11 +218,11 @@
    "title": "Trockenheit - Bodensee-Schiffsverkehr teils eingestellt",
    "text": "Am Bodensee ist der Linien-Schiffsverkehr wegen des niedrigen Wasserstands teilweise eingestellt worden.",
    "link": "https://www.deutschlandfunk.de/bodensee-schiffsverkehr-teils-eingestellt-100.html",
-   "published": "2026-10-01T12:06:31+00:00",
+   "published": "2026-10-01T12:55:21+00:00",
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-03T12:06:31+00:00",
+   "expires": "2026-10-03T12:55:21+00:00",
    "img": "https://bilder.deutschlandfunk.de/c3/51/2a/ee/c3512aee-113f-4a2a-ba2f-27087d3ca218/bodensee-schifffahrt-eingestellt-100-1920x1920.jpg"
   },
   {
@@ -114,12 +231,114 @@
    "title": "Binnenschifffahrt - Weiterhin negative Pegelwerte für den Rhein bei Kaub",
    "text": "Das Niedrigwasser des Rheins sorgt im Schiffsverkehr weiter für Schwierigkeiten. Die Pegelstände sind nach wie vor niedrig und werden sich voraussichtlich in den kommenden Tagen kaum erhöhen.",
    "link": "https://www.deutschlandfunk.de/weiterhin-negative-pegelwerte-fuer-den-rhein-bei-kaub-100.html",
-   "published": "2026-10-01T12:06:31+00:00",
+   "published": "2026-10-01T12:55:21+00:00",
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-03T12:06:31+00:00",
+   "expires": "2026-10-03T12:55:21+00:00",
    "img": "https://bilder.deutschlandfunk.de/1a/6e/ca/84/1a6eca84-643e-4ef4-9b86-75069ad8524a/rhein-fluss-pegel-wasserstand-kaub-niedrigwasser-rekord-100-1920x1920.jpg"
+  },
+  {
+   "id": "nc45726aa44",
+   "topic": "politik",
+   "title": "Rückführungsverordnung - EU-Innenminister stimmen für Abschiebezentren in Drittstaaten - nur Spanien dagegen",
+   "text": "Die EU-Innenminister haben die Rückführungsverordnung verabschiedet. die auch die Einrichtung von Abschiebezentren in Drittstaaten ermöglicht. Lediglich Spanien stimmte bei dem Treffen in Luxemburg dagegen.",
+   "link": "https://www.deutschlandfunk.de/eu-innenminister-stimmen-fuer-abschiebezentren-in-drittstaaten-nur-spanien-dagegen-100.html",
+   "published": "2026-10-01T12:55:21+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-03T12:55:21+00:00",
+   "img": "https://bilder.deutschlandfunk.de/aa/55/a6/4b/aa55a64b-3a47-481c-9f3a-ab1b2053b9af/eu-aussengrenze-zaun-100-1920x1920.jpg"
+  },
+  {
+   "id": "nb599a1a9d6",
+   "topic": "politik",
+   "title": "Moskau - Russland weist ungarische Diplomaten aus",
+   "text": "Rund einen Monat nach der Ausweisung russischer Diplomaten aus Ungarn hat Russland Gegenmaßnahmen ergriffen.",
+   "link": "https://www.deutschlandfunk.de/russland-weist-ungarische-diplomaten-aus-100.html",
+   "published": "2026-10-01T12:55:21+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-03T12:55:21+00:00",
+   "img": "https://bilder.deutschlandfunk.de/40/fa/ae/b2/40faaeb2-6359-4ed8-8809-2bff7d176f42/budapest-aussenministerium-ungarn-100-1280x1280.jpg"
+  },
+  {
+   "id": "nd2324591a7",
+   "topic": "it",
+   "title": "Neuer BfDI: Arbeitsgrundlage in Bewegung",
+   "text": "Am Datenschutz wird gezurrt, Sicherheitsbedenken könnten sich auf die Informationsfreiheit auswirken: Moritz Hennemann wird Bundesdatenschutzbeauftragter.",
+   "link": "https://www.heise.de/hintergrund/Neuer-BfDI-Arbeitsgrundlage-in-Bewegung-11472995.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-01T12:46:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-06T12:46:00+00:00"
+  },
+  {
+   "id": "n6e24324b93",
+   "topic": "wissenschaft",
+   "title": "Amelia Earharts Wrack: Liegt hier eine Sensation der Luftfahrtgeschichte?",
+   "text": "Experten wollen das Wrack der 1937 verschollenen Luftfahrpionierin Amelia Earhart entdeckt haben, wenn auch bislang nur auf Fotos. Im November soll eine Expedition starten.",
+   "link": "https://www.spektrum.de/news/expedition-soll-das-wrack-amelia-earharts-finden/2280271",
+   "published": "2026-10-01T12:40:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-15T12:40:00+00:00"
+  },
+  {
+   "id": "nb24fef8f06",
+   "topic": "wirtschaft",
+   "title": "Rüstungskonzern KNDS bekräftigt Börsenpläne",
+   "text": "Als KNDS den für Juli geplanten Börsengang kurzfristig abgesagt hat, war die Enttäuschung groß. Jetzt hat KNDS-Chef Alary in einem Interview klargemacht: Man will an die Börse. Vielleicht noch dieses Jahr.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-schwerpunkt-boersengaenge-100.html",
+   "published": "2026-10-01T12:32:53+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-04T12:32:53+00:00",
+   "img": "https://images.tagesschau.de/image/c509ae20-4e69-479b-bd17-aff00b7900e2/AAABoPcXhlE/AAABnSSvrFg/16x9-big/knds-146.jpg?width=1920"
+  },
+  {
+   "id": "n6f22110f30",
+   "topic": "welt",
+   "title": "Türkei blockiert unabhängige Nachrichtenseite \"T24\"",
+   "text": "Die Zensur im Internet nimmt in der Türkei seit Wochen zu. Nun ist mit \"T24\" der Zugang zu einem der wichtigsten Nachrichtenportale nicht mehr möglich. Auch gegen oppositionelle Bürgermeister wird weiter vorgegangen.",
+   "link": "https://www.dw.com/de/türkei-blockiert-unabhängige-nachrichtenseite-t24/a-79502148?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-01T12:32:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-05T12:32:00+00:00",
+   "img": "https://static.dw.com/image/79426088_302.jpg"
+  },
+  {
+   "id": "n40032db812",
+   "topic": "politik",
+   "title": "Das BSW heißt ab heute BSW - Wagenknecht nicht mehr im Parteinamen",
+   "text": "Das Bündnis Sahra Wagenknecht gibt es nicht mehr. Seit heute hat der Parteiname nichts mehr mit der Gründerin zu tun. Das Kürzel BSW steht nun für Bündnis für Soziale Gerechtigkeit und Wirtschaftliche Vernunft. Von Frank Aischmann.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/bsw-umbenennung-100.html",
+   "published": "2026-10-01T12:28:48+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-04T12:28:48+00:00",
+   "img": "https://images.tagesschau.de/image/cc17038f-6727-41fa-a5c3-6ef64c815627/AAABoPc6-cc/AAABnSSvrFg/16x9-big/bsw-256.jpg?width=1920"
+  },
+  {
+   "id": "n9647e30583",
+   "topic": "nfl",
+   "title": "Blame game for 0-3 teams: Jim Harbaugh must take responsibility for Chargers, Dolphins simply lack any talent",
+   "text": "We identify which players, coaches and units are most responsible for their teams' poor starts",
+   "link": "https://www.cbssports.com/nfl/news/blame-game-for-0-3-teams-jim-harbaugh-chargers/",
+   "published": "2026-10-01T12:25:39+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-06T12:25:39+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/09/29/377fa956-4309-4e1c-a520-16e19632d8a6/jim-harbaugh.jpg"
   },
   {
    "id": "nbb1df2887e",
@@ -146,6 +365,19 @@
    "lang": "de",
    "expires": "2026-10-03T12:06:31+00:00",
    "img": "https://bilder.deutschlandfunk.de/f5/34/63/02/f5346302-e967-46f8-8813-aca8bceb9b5e/juergen-klopp-fussball-bundestrainer-100-1920x1920.jpg"
+  },
+  {
+   "id": "ne58d71f788",
+   "topic": "nfl",
+   "title": "It wouldn't shock me IF: NFL Week 4: Josh Allen continues historic streak, Cam Ward gets benched",
+   "text": "Could Tennessee pull the plug on Cam Ward? Will Josh Allen extend his historic rushing touchdown streak?",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-4-bold-predictions-josh-allen-cam-ward/",
+   "published": "2026-10-01T12:05:39+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-06T12:05:39+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/09/22/bcf1a989-9509-4d25-b8df-39fd4ca82563/allen26.jpg"
   },
   {
    "id": "n87a2762eee",
@@ -566,7 +798,7 @@
    "id": "n2be68569dd",
    "topic": "welt",
    "title": "Neue Ausreiseverbote für Chinas \"nationale Sicherheit\"",
-   "text": "Peking verhängt für immer mehr Chinesen Ausreiseverbote. Nun soll ein weit gefasstes neues Gesetz die Abwanderung von Know-how, Technologie und Talenten verhindern - vor allem in die USA. Von Marie v. Mallinckrodt.",
+   "text": "Peking verhängt für immer mehr Chinesen Ausreiseverbote. Nun soll ein weit gefasstes neues Gesetz die Abwanderung von Know-how, Technologie und Talenten verhindern - vor allem in die USA. Von Marie von Mallinckrodt.",
    "link": "https://www.tagesschau.de/ausland/asien/china-ausreisebeschraenkungen-100.html",
    "published": "2026-10-01T08:22:51+00:00",
    "source": "Tagesschau",
@@ -1443,223 +1675,6 @@
    "lang": "de",
    "expires": "2026-10-03T17:01:51+00:00",
    "img": "https://images.tagesschau.de/image/8bd27043-e341-44d4-95f5-2f74658bb71d/AAABoO1gSzQ/AAABnSSvrFg/16x9-big/schrader-102.jpg?width=1920"
-  },
-  {
-   "id": "nafb77aa744",
-   "topic": "welt",
-   "title": "Frankreich: Antisemitismus-Vorwürfe gegen LePens Parteichef Bardella",
-   "text": "Ein investigatives Portal erhebt schwere Vorwürfe gegen Jordan Bardella, Chef des rechtsnationalen Rassemblement National. In seinen Anfängen als Politiker soll er antisemitische Textnachrichten verschickt haben. Von J. Borutta.",
-   "link": "https://www.tagesschau.de/ausland/europa/bardella-vorwuerfe-antisemitismus-100.html",
-   "published": "2026-09-30T16:59:44+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-03T16:59:44+00:00",
-   "img": "https://images.tagesschau.de/image/968837be-a1ca-46fe-a141-ea5ded5971c8/AAABoPNCADM/AAABnSSvrFg/16x9-big/bardella-106.jpg?width=1920"
-  },
-  {
-   "id": "n6fd69d5748",
-   "topic": "ki",
-   "title": "Meta umgeht Milliarden an US-Steuern, indem es KI-Rechenzentren als Experimente deklariert",
-   "text": "Meta stuft seine KI-Rechenzentren steuerlich als \"Pilotmodelle\" und Nvidia-Chips als Versuchsmaterialien ein, um Milliarden an US-Bundessteuern zu sparen. Allein 2025 waren es 3,9 Milliarden Dollar. Die genutzte Steuergutschrift stammt von 1981, und selbst Metas eigene Buchhalter sehen die Strategie als rechtlich …",
-   "link": "https://the-decoder.de/meta-umgeht-milliarden-an-us-steuern-indem-es-ki-rechenzentren-als-experimente-deklariert/",
-   "published": "2026-09-30T16:57:34+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-07T16:57:34+00:00"
-  },
-  {
-   "id": "n6f09644dea",
-   "topic": "it",
-   "title": "Anzeige: Platz 1 bei Amazon: Balkonkraftwerk mit zwei Modulen bis Sonntag für nur 209 Euro",
-   "text": "Ein bifaziales Balkonkraftwerk kostet bei Amazon nicht mal mehr 210 Euro. Es steht auf Platz 1 der einschlägigen Charts. ( Balkonkraftwerk , Technik/Hardware )",
-   "link": "https://www.golem.de/news/anzeige-platz-1-bei-amazon-balkonkraftwerk-mit-zwei-modulen-bis-sonntag-fuer-nur-209-euro-2609-213595.html",
-   "published": "2026-09-30T16:52:01+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-05T16:52:01+00:00",
-   "img": "https://www.golem.de/2609/213595-601033-601031_rc.jpg"
-  },
-  {
-   "id": "n9ccd19caed",
-   "topic": "it",
-   "title": "Hör- statt Kamerabrille: Nuance Audio Plus startet in Deutschland",
-   "text": "EssilorLuxottica bringt seine zweite Hörbrillen-Generation nach Deutschland. Nuance Audio Plus verbessert Audio, Bedienung und Akkulaufzeit.",
-   "link": "https://www.heise.de/news/Hoer-statt-Kamerabrille-Nuance-Audio-Plus-startet-in-Deutschland-11471787.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-09-30T16:38:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-05T16:38:00+00:00"
-  },
-  {
-   "id": "nddd5ebff71",
-   "topic": "wirtschaft",
-   "title": "Marktbericht: Zinsängste schrecken DAX-Anleger ab",
-   "text": "Am deutschen Aktienmarkt überwog heute die Sorge vor steigenden Zinsen. Zuvor zeigten Inflationsdaten aus der Eurozone eine Teuerung deutlich über dem Ziel der EZB. Aber auch Einzelwerte standen im Fokus.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-ki-100.html",
-   "published": "2026-09-30T16:22:36+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-03T16:22:36+00:00",
-   "img": "https://images.tagesschau.de/image/3826c0c0-910e-43a8-98a1-5a6165e2226a/AAABlvF5JNQ/AAABnSSvrFg/16x9-big/boerse-434.jpg?width=1920"
-  },
-  {
-   "id": "n42f8420746",
-   "topic": "ki",
-   "title": "FTC ermittelt offiziell gegen OpenAI, Anthropic und weitere KI-Labore wegen Verbraucherschutzverstößen",
-   "text": "Die FTC ermittelt offiziell gegen OpenAI, Anthropic und weitere KI-Labore wegen möglicher Verbraucherschutzverstöße. Mit rechtlich bindenden Auskunftsersuchen sollen Dokumente herausgegeben und Führungskräfte befragt werden. Die Untersuchung begann noch vor dem Hacking-Vorfall auf Hugging Face und geht weit über die …",
-   "link": "https://the-decoder.de/ftc-ermittelt-offiziell-gegen-openai-anthropic-und-weitere-ki-labore-wegen-verbraucherschutzverstoessen/",
-   "published": "2026-09-30T16:15:33+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-07T16:15:33+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/09/ftc_investigation.png"
-  },
-  {
-   "id": "n759eb6185d",
-   "topic": "it",
-   "title": "Grenzenlose Notfall-Kommunikation: EU plant Breitbandnetz für Einsatzkräfte",
-   "text": "Die EU-Kommission schlägt ein Notfall-Kommunikationssystem vor. Sie will Einsatzkräften das grenzüberschreitende Koordinieren erleichtern und mehr Souveränität.",
-   "link": "https://www.heise.de/news/Grenzenlose-Notfall-Kommunikation-EU-plant-Breitbandnetz-fuer-Einsatzkraefte-11471767.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-09-30T16:13:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-05T16:13:00+00:00"
-  },
-  {
-   "id": "nfa3fff1d8e",
-   "topic": "politik",
-   "title": "Übung der Heimatschutzdivision: Spannungsfall an der Autobahnbrücke",
-   "text": "Vergangenes Jahr wurde die Heimatschutzdivision der Bundeswehr gegründet. Zu ihren Aufgaben gehört der Schutz kritischer Infrastruktur und Drohnenabwehr. Jetzt lief die erste große Übung im öffentlichen Raum. Von Philipp Jahn.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/heimatschutzdivision-bundeswehr-100.html",
-   "published": "2026-09-30T15:57:43+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-03T15:57:43+00:00",
-   "img": "https://images.tagesschau.de/image/14f781cc-3181-4a3d-b848-ec9210cbaf5c/AAABoPJqCEA/AAABnSSvrFg/16x9-big/uebung-heimatschutzdivision-102.jpg?width=1920"
-  },
-  {
-   "id": "n57b6de27de",
-   "topic": "welt",
-   "title": "Versuchter Terror? Gewaltvorfall in Cockpit von Flydubai-Maschine",
-   "text": "An Bord einer Maschine von Dubai nach Tel Aviv hat ein Pilot auf seinen Kollegen mit einem Messer eingestochen. 180 Israelis waren an Bord. Israels Regierung spricht bereits von einem Anschlagsversuch.",
-   "link": "https://www.tagesschau.de/ausland/asien/flydubai-notlandung-terrorverdacht-100.html",
-   "published": "2026-09-30T15:55:45+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-03T15:55:45+00:00",
-   "img": "https://images.tagesschau.de/image/84014288-012b-4a48-bbab-038efe8da5fe/AAABoPKdPcA/AAABnSSvrFg/16x9-big/flydubai-flughafen-100.jpg?width=1920"
-  },
-  {
-   "id": "na4c739d483",
-   "topic": "welt",
-   "title": "Ukrainische Behörden melden mehrere Tote durch Angriffe auf Kiew",
-   "text": "Durch russische Drohnen- und Raketenangriffe auf die Stadt und Region Kiew sind laut ukrainischen Behörden mehrere Menschen getötet und weitere verletzt worden. In Polen wurde der Betrieb zweier Flughäfen zeitweise eingestellt.",
-   "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-kiew-134.html",
-   "published": "2026-09-30T15:46:53+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-03T15:46:53+00:00",
-   "img": "https://images.tagesschau.de/image/d0297067-196e-4dcd-98ae-a2a494b0dc3a/AAABoPEqjcM/AAABnSSvrFg/16x9-big/ukraine-truemmer-104.jpg?width=1920"
-  },
-  {
-   "id": "nee85098f44",
-   "topic": "welt",
-   "title": "Die Sudan-Connection: Droht Äthiopiens Region Tigray ein Stellvertreterkrieg?",
-   "text": "Äthiopiens Armee wirft den Rebellen im Norden Verbindungen zu Sudans Armee vor - dabei soll sie selbst die dortige RSF-Miliz unterstützen. Wie die größeren Konfliktdynamiken am Horn von Afrika die Lage verschärfen.",
-   "link": "https://www.dw.com/de/die-sudan-connection-droht-äthiopiens-region-tigray-ein-stellvertreterkrieg/a-79492115?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-09-30T15:44:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-04T15:44:00+00:00",
-   "img": "https://static.dw.com/image/79419271_302.jpg"
-  },
-  {
-   "id": "n579669cbf3",
-   "topic": "welt",
-   "title": "FlyDubai-Jet: Notlandung nach Handgreiflichkeiten im Cockpit",
-   "text": "Extremer Höhenverlust, Notsignale, Flugabbruch: Eine Fly-Dubai-Maschine mit Israelis an Bord musste in Saudi-Arabien notlanden. War es ein versuchter Terroranschlag?",
-   "link": "https://www.dw.com/de/flydubai-jet-notlandung-nach-handgreiflichkeiten-im-cockpit/a-79486291?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-09-30T15:42:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-04T15:42:00+00:00",
-   "img": "https://static.dw.com/image/79486315_302.jpg"
-  },
-  {
-   "id": "n3beb82ab93",
-   "topic": "it",
-   "title": "1000 Jobs bedroht: VWs Softwaretochter Cariad vor massiven Stellenstreichungen",
-   "text": "Nach Kürzungen im vergangenen Jahr könnte VWs Softwaresparte vor den nächsten Streichungen stehen: 1000 Stellen soll es treffen.",
-   "link": "https://www.heise.de/news/Bericht-Cariad-will-weitere-1000-Stellen-streichen-11471731.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-09-30T15:42:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-05T15:42:00+00:00"
-  },
-  {
-   "id": "n44025f4ded",
-   "topic": "politik",
-   "title": "Erste Reformschritte beschlossen: Was sich bei der Pflege ändern soll",
-   "text": "Nach langem Ringen hat sich sie Bundesregierung auf ein \"Pflegeneuordnungsgesetz\" geeinigt. Das setzt zunächst darauf, das System am Laufen zu halten. Für Kinderlose wird es teurer. Was sich sonst noch ändern soll - ein Überblick.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/faq-pflegereform-100.html",
-   "published": "2026-09-30T15:24:32+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-03T15:24:32+00:00",
-   "img": "https://images.tagesschau.de/image/6958916d-abc6-43f7-ac41-93afb4fbbdfd/AAABoFcuSnc/AAABnSSvrFg/16x9-big/pflege-592.jpg?width=1920"
-  },
-  {
-   "id": "nebbdb56bd4",
-   "topic": "politik",
-   "title": "Pflegegesetz im Kabinett: Die große Reform ist erstmal vertagt",
-   "text": "Es gibt nun ein Pflegegesetz - doch die große Strukturreform soll erst 2027 folgen. Wie stehen Union und SPD nach der Einigung da? Und werden die geplanten Einsparungen ausreichen? Von Tina Handel.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-kabinett-102.html",
-   "published": "2026-09-30T15:19:50+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-03T15:19:50+00:00",
-   "img": "https://images.tagesschau.de/image/7f9b5ed7-5c51-493e-849e-1e9364901730/AAABoPLjMgA/AAABnSSvrFg/16x9-big/linnemann-198.jpg?width=1920"
-  },
-  {
-   "id": "n13db77b051",
-   "topic": "welt",
-   "title": "So übt die Bundeswehr für den NATO-Verteidigungsfall",
-   "text": "Wie verteidigungsbereit ist die Bundesrepublik? Der Operationsplan Deutschland gibt Antworten. Militär-Übungen wie \"Red Storm Charlie\" stellen sie auf die Probe.",
-   "link": "https://www.dw.com/de/so-übt-die-bundeswehr-für-den-nato-verteidigungsfall/a-79482412?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-09-30T15:16:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-04T15:16:00+00:00",
-   "img": "https://static.dw.com/image/79463077_302.jpg"
-  },
-  {
-   "id": "ndf46e990f2",
-   "topic": "welt",
-   "title": "EU will krisenfeste Kommunikation für Europas Rettungsdienste",
-   "text": "Meist scheitert die grenzübergreifende Kommunikation von Polizei und Rettungsdiensten in Europa an technischen Problemen. Das will die EU-Kommission jetzt ändern - gerade auch für Krisenfälle. Von Andreas Meyer-Feist.",
-   "link": "https://www.tagesschau.de/ausland/europa/eu-plan-kommunikation-krisenfall-100.html",
-   "published": "2026-09-30T15:03:58+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-03T15:03:58+00:00",
-   "img": "https://images.tagesschau.de/image/133c1ec3-b1e3-405b-b366-204c7b2b9883/AAABoPLYBmQ/AAABnSSvrFg/16x9-big/feuerwehr-frankreich-100.jpg?width=1920"
   }
  ]
 }
