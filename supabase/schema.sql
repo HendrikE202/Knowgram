@@ -14,3 +14,7 @@ revoke all on public.kg_state from anon, authenticated;
 -- kg_put(code, new_state) -> Zeitstempel (max. 20 Codes, 2 MB je Datensatz, Code >= 24 Zeichen)
 -- kg_summary(code) -> kompakte Zusammenfassung für die Routine (ohne „gesehen“-Liste)
 -- (Funktionsrümpfe: siehe Migration im Supabase-Projekt; alle SECURITY DEFINER mit search_path = '', Ausführung nur für anon.)
+
+-- 2026-10-01: Hilfsfunktion des Supabase-Event-Triggers „ensure_rls“ nicht über die öffentliche API aufrufbar machen
+-- (Migration revoke_rls_auto_enable_rpc). Übrig bleiben bewusst nur kg_get/kg_put/kg_summary für die Rolle anon.
+revoke execute on function public.rls_auto_enable() from public, anon, authenticated;
