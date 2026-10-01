@@ -22,7 +22,7 @@ SKIP_TAGS = {"script", "style", "nav", "footer", "aside", "form", "figure", "hea
 JUNK = re.compile(
     r"cookie|newsletter|datenschutz|abonnier|abo\b|©|copyright|anzeige|werbung|lesen sie (auch|mehr)|mehr zum thema|"
     r"teilen sie|jetzt (lesen|anmelden|testen)|javascript|zum Artikel|bildrechte|bildquelle|foto:|mehr lesen|"
-    r"sign up|subscribe|advertisement|all rights reserved|follow us|read more|click here", re.I)
+    r"skript wurde nicht|zustimmung|standortdaten|iframe|verarbeitungszweck|consent|sign up|subscribe|advertisement|all rights reserved|follow us|read more|click here", re.I)
 
 
 class Extract(HTMLParser):
