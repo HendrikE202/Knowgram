@@ -22,11 +22,14 @@ jobs:
           python-version: "3.12"
       - name: Feeds abholen
         run: python tools/fetch_news.py
+      - name: Artikelanfänge abholen
+        run: python tools/fetch_articles.py
+        continue-on-error: true
       - name: „Am heutigen Tag“ abholen
         run: python tools/fetch_onthisday.py
       - name: Änderungen committen
         run: |
           git config user.name "knowgram-bot"
           git config user.email "knowgram-bot@users.noreply.github.com"
-          git add news.json onthisday.json
+          git add news.json onthisday.json articles.json
           if git diff --staged --quiet; then echo "Keine Änderungen"; else git commit -m "News aktualisiert" && git pull --rebase origin main && git push; fi

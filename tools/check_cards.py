@@ -88,6 +88,13 @@ def main():
         news = json.loads((ROOT / "news.json").read_text(encoding="utf-8"))
         sums = json.loads((ROOT / "summaries.json").read_text(encoding="utf-8"))
         top = [x["id"] for x in news.get("ranked", [])[:20]] or news.get("briefing", [])
+        # zusätzlich die 3 wichtigsten je Thema (NFL, IT, KI, Wissenschaft … dürfen nicht leer ausgehen)
+        byid = {n["id"]: n for n in news["items"]}; per = {}
+        order = [x["id"] for x in news.get("ranked", [])] + [n["id"] for n in sorted(news["items"], key=lambda n: n["published"], reverse=True)]
+        for i in order:
+            n = byid.get(i)
+            if n and i not in top and len(per.setdefault(n["topic"], [])) < 3:
+                per[n["topic"]].append(i); top.append(i)
         otd = json.loads((ROOT / "onthisday.json").read_text(encoding="utf-8")).get("items", []) if (ROOT / "onthisday.json").exists() else []
         top = top + [o["id"] for o in otd]                       # „Heute vor … Jahren“ gehört genauso dazu
         have = {n["id"]: n for n in news["items"] + otd}
@@ -101,8 +108,8 @@ def main():
                 continue
             if len(s.get("points", [])) < 2:
                 errs.append(f"Meldung {i}: mindestens 2 Stichpunkte")
-            if len(s.get("slides", [])) > 5:
-                errs.append(f"Meldung {i}: höchstens 5 Zusatz-Slides (mit „Das Wichtigste“ max. 6 Inhalts-Slides)")
+            if len(s.get("slides", [])) > 4:
+                errs.append(f"Meldung {i}: höchstens 4 Zusatz-Slides (mit „Das Wichtigste“ und „Aus dem Artikel“ max. 6 Inhalts-Slides)")
             if len(s.get("slides", [])) < 2:
                 errs.append(f"Meldung {i}: mindestens 2 Zusatz-Slides (z. B. „🧩 Hintergrund“ und „❓ Was noch unklar ist“)")
             for sl in s.get("slides", []):

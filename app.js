@@ -28,7 +28,7 @@
 
   const ratingOf = (id) => (S.rate[id] && S.rate[id].r) || 0;
   let mode = "feed", topic = "", lastId = null, finite = false;
-  let NEWS = [], OTD = [], IMG = {}, BRIEF = [], RANK = [], SUMS = {}, CARD_BY_ID = {}, STEMS = {}, SERIES = {}, briefPending = false, newsPtr = 0, hiddenAt = 0;
+  let NEWS = [], OTD = [], IMG = {}, BRIEF = [], RANK = [], SUMS = {}, ARTS = {}, CARD_BY_ID = {}, STEMS = {}, SERIES = {}, briefPending = false, newsPtr = 0, hiddenAt = 0;
   const SEEN = new Set(S.seen);
 
   const h = (tag, attrs = {}, ...kids) => {
@@ -127,6 +127,7 @@
 
   const loadSummaries = async () => {
     try { const r = await fetch("summaries.json"); if (r.ok) SUMS = await r.json(); } catch (e) { SUMS = {}; }
+    try { const r = await fetch("articles.json"); if (r.ok) ARTS = await r.json(); } catch (e) { ARTS = {}; }
   };
 
   const loadOtd = async () => {
@@ -402,17 +403,25 @@
   };
   // Inhalts-Slides zwischen Übersicht und „Tiefer eintauchen“ („Das Wichtigste“ zählt mit): so viele wie nötig, höchstens 6 – kein Roman
   const MAX_INFO = 6;
-  const slidesOf = (c) => { const x = c.slides || (SUMS[c.id] && SUMS[c.id].slides); return Array.isArray(x) ? x : []; };
+  // Bei Meldungen steht der Textanfang des Originalartikels (articles.json) als eigene Slide vorn – damit man sofort sieht, worum es geht
+  const artSlide = (c) => {
+    const a = c.kind === "news" && ARTS[c.id];
+    if (!a || !a.t) return null;
+    let t = a.t;   // gespeichert sind ~1500 Zeichen (für Einordnungen); angezeigt wird nur so viel, wie auf eine Seite passt
+    if (t.length > 820) { const cut = t.slice(0, 820), m = Math.max(cut.lastIndexOf(". "), cut.lastIndexOf("? "), cut.lastIndexOf("! "), cut.lastIndexOf(".\n")); t = m > 400 ? cut.slice(0, m + 1) : cut.replace(/\s+\S*$/, "") + " …"; }
+    return { h: "Aus dem Artikel", text: t, note: `Textanfang aus dem Original (${a.src || c.source}), gekürzt${c.lang === "en" ? " · englischsprachig" : ""} · Rest: „Tiefer eintauchen“` };
+  };
+  const slidesOf = (c) => { const x = c.slides || (SUMS[c.id] && SUMS[c.id].slides); const a = artSlide(c); return [...(a ? [a] : []), ...(Array.isArray(x) ? x : [])]; };
   const extraSlides = (c) => slidesOf(c).map((x, i) => {
     if (!x || !(x.text || x.big || (x.points && x.points.length) || (x.steps && x.steps.length))) return null;
-    const im = IMG[`${c.id}#${i}`];
+    const im = IMG[`${c.id}#${i - (artSlide(c) ? 1 : 0)}`];
     const fig = im && im.u ? h("figure", { class: "simg" },
       h("img", { class: "simg-i", alt: x.h || "", referrerpolicy: "no-referrer", "data-src": safeUrl(im.u), onerror: (e) => e.target.closest("figure").remove() }),
       h("figcaption", {}, `${im.by || "Unbekannt"} · ${im.lic || ""} · `, h("a", { href: safeUrl(im.page || im.u), target: "_blank", rel: "noopener noreferrer" }, "Quelle"))) : null;
     return h("div", { class: "slide s2 x" }, h("span", { class: "stag" }, plain(x.h) || "Mehr dazu"), h("h3", { class: "slide-title" }, c.title),
       ...(fig ? [fig] : []),
       ...(x.big ? [h("div", { class: "bignum" }, h("b", {}, x.big.n), h("span", {}, x.big.l))] : []),
-      ...(x.text ? [h("p", { class: "xtext" }, x.text)] : []),
+      ...(x.text ? String(x.text).split("\n").map((t) => h("p", { class: "xtext" }, t)) : []),
       ...(x.steps && x.steps.length ? [h("ol", { class: "steps" }, ...x.steps.map((y) => h("li", {}, y)))] : []),
       ...(x.points && x.points.length ? [h("ul", { class: "pts" }, ...x.points.map((y) => h("li", {}, y)))] : []),
       h("div", { class: "meta" }, h("span", {}, x.note || "KI-verfasst · ohne Gewähr")));
