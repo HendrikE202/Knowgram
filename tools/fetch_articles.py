@@ -31,7 +31,7 @@ class Extract(HTMLParser):
     def __init__(self):
         super().__init__(convert_charrefs=True)
         self.skip = 0; self.art = 0; self.main = 0; self.p = None
-        self.in_art, self.in_main, self.anywhere = [], [], []
+        self.in_art, self.in_main, self.anywhere, self.chunks = [], [], [], []
         self.ld = []; self._ld = False
 
     def handle_starttag(self, tag, attrs):
@@ -59,6 +59,8 @@ class Extract(HTMLParser):
     def handle_data(self, data):
         if self._ld and self.ld: self.ld[-1] += data
         elif self.p is not None and not self.skip: self.p.append(data)
+        elif not self.skip and self.p is None and len(data.strip()) >= 80:            # Ersatz: lange Textblöcke außerhalb von <p> (manche Seiten nutzen <div>/<span>)
+            self.chunks.append(re.sub(r"\s+", " ", data).strip())
 
 
 def ld_body(blocks):
@@ -109,7 +111,7 @@ def extract(raw, teaser=""):
     paras = []
     if body:
         paras = [p for p in re.split(r"\n+|(?<=[.!?])\s{2,}", body) if p.strip()]
-    for cand in (paras, x.in_art, x.in_main, x.anywhere):
+    for cand in (paras, x.in_art, x.in_main, x.anywhere, x.chunks, x.anywhere + x.chunks):
         g = good(cand, teaser)
         if sum(map(len, g)) >= 250: return excerpt(g)
     return ""
@@ -142,7 +144,7 @@ def main():
             raw = fetch(it["link"]); t = extract(raw, it.get("text", ""))
             if not t:
                 x = Extract(); x.feed(raw)
-                print(f"  kein Text: {it['source']} · {len(raw)} Zeichen, <p>: {len(x.anywhere)}, in article: {len(x.in_art)}, ld-json: {len(ld_body(x.ld))} · {it['link'][:90]}", file=sys.stderr)
+                print(f"  kein Text: {it['source']} · {len(raw)} Zeichen, <p>: {len(x.anywhere)}, in article: {len(x.in_art)}, Blöcke: {len(x.chunks)}, ld-json: {len(ld_body(x.ld))} · {it['link'][:90]}", file=sys.stderr)
         except Exception as e:
             print(f"  Abruf fehlgeschlagen: {it['source']} – {type(e).__name__}", file=sys.stderr); t = ""
         old = arts.get(it["id"], {})
