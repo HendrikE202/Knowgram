@@ -32,7 +32,14 @@ Hendrik will abends in Rabbit Holes fallen. Deshalb gilt:
 - Gesamtzahl bleibt 10 Karten pro Lauf (eine Serie zählt mit ihren Teilen).
 
 ## Geschmack und Wünsche berücksichtigen
-**Rufe dafür keine externen Dienste auf und verwende keine Geheimnisse oder Sync-Codes.** Die Sicherheitsprüfung der Routine blockiert solche Abrufe (Datenabfluss) und kann danach auch normale Befehle sperren – der Lauf bricht dann ab. Hendriks Rückmeldungen (Likes, Notizen, Wünsche, Meldungen) liest ein interaktives Claude aus seinem Sync und trägt die Erkenntnisse in `tools/NUTZERWUENSCHE.md` und in diese Anleitung ein. **Lies `tools/NUTZERWUENSCHE.md` vor dem Schreiben** und halte dich daran; das ist die einzige Quelle für Geschmack.
+**Rufe dafür keine externen Dienste auf und verwende keine Geheimnisse oder Sync-Codes.** Die Sicherheitsprüfung der Routine blockiert solche Abrufe (Datenabfluss) und kann danach auch normale Befehle sperren – der Lauf bricht dann ab. Hendriks Likes werden von einer GitHub-Action als Themen-Gewichte in `taste.json` geschrieben (siehe unten); Notizen, Wünsche und Meldungen liest ein interaktives Claude aus seinem Sync und trägt die Erkenntnisse in `tools/NUTZERWUENSCHE.md` ein. **Lies `tools/NUTZERWUENSCHE.md` vor dem Schreiben** und halte dich daran; das ist die einzige Quelle für Geschmack.
+**Automatischer Geschmack – `taste.json` (nur lesen, nicht verändern):** Falls die Datei existiert, enthält sie je Thema einen leichten Stups (`nudge` −1/0/+1, aus Hendriks Likes/Dislikes, geglättet, erst ab 3 Bewertungen). Sie ist **nur eine Gewichtung, nie eine Vorgabe** – damit keine Filterblase entsteht, gelten diese Grenzen:
+- **Höchstens 3 der 10 Karten** dürfen sich nach `nudge: +1` richten (ein Thema mit +1 bekommt dann statt 1 höchstens 2 Karten).
+- **Mindestens 3 der 10 Karten** sind **Entdeckungen**: Themen ohne Eintrag oder mit `n < 3`, sowie die Themen mit den wenigsten Karten. Bei diesen spielt `taste.json` keine Rolle.
+- **Mindestens 1 Karte** kommt aus einem Thema mit `nudge: −1` oder 0 – ein Thema mit −1 bekommt weniger Gewicht, wird aber **nie ausgelassen** (das gilt für alle Themen aus `window.TOPICS`).
+- Pro Thema weiterhin höchstens 2 Karten pro Lauf; die Themen-Wünsche aus `tools/NUTZERWUENSCHE.md` haben Vorrang vor `taste.json`.
+- Geschmack steuert nur die **Themenwahl**, nie Tonfall oder Tiefe (die kommen aus `tools/NUTZERWUENSCHE.md`).
+
 So wird es genutzt (Pflege durch interaktives Claude, nicht durch die Routine):
 - **Themenwünsche** stehen in `tools/NUTZERWUENSCHE.md`: pro Lauf höchstens 2 Karten zu einem Wunsch, gern als Anfang einer Serie.
 - **Notizen und Meldungen** werden dort als verallgemeinerte Regeln festgehalten (Tonfall, Tiefe, Themen, Korrekturen). Beachte sie bei jeder Karte, nicht nur bei der, zu der sie geschrieben wurden.

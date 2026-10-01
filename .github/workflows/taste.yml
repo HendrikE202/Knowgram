@@ -1,0 +1,34 @@
+name: Geschmack aktualisieren
+
+# Holt täglich vor der Routine die Themen-Gewichte aus dem Sync und schreibt sie nach taste.json (nur Zahlen je Thema, keine Titel/Notizen).
+# Braucht das GitHub-Secret KNOWGRAM_SYNC_CODE (Repo → Settings → Secrets and variables → Actions). Ohne Secret passiert nichts.
+on:
+  schedule:
+    - cron: "20 3 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repo-writes
+  cancel-in-progress: false
+
+jobs:
+  taste:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Geschmack abholen
+        env:
+          KNOWGRAM_SYNC_CODE: ${{ secrets.KNOWGRAM_SYNC_CODE }}
+        run: python tools/fetch_taste.py
+      - name: Änderungen committen
+        run: |
+          git config user.name "knowgram-bot"
+          git config user.email "knowgram-bot@users.noreply.github.com"
+          git add taste.json
+          if git diff --staged --quiet; then echo "Keine Änderungen"; else git commit -m "Geschmack aktualisiert" && git pull --rebase origin main && git push; fi
