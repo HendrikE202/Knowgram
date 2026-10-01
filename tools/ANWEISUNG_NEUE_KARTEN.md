@@ -33,9 +33,10 @@ Hendrik will abends in Rabbit Holes fallen. Deshalb gilt:
 ## Geschmack und Wünsche berücksichtigen (optional)
 Nur wenn die Umgebungsvariable `KNOWGRAM_SYNC_CODE` gesetzt ist (der geheime Sync-Code von Hendrik – niemals ausgeben, loggen oder ins Repo schreiben):
 ```
+CODE=$(printf %s "$KNOWGRAM_SYNC_CODE" | tr -d ' -' | tr a-z A-Z)    # der Server erwartet den Code OHNE Bindestriche, in Großbuchstaben
 curl -s -X POST "https://apipudwplhilusdqyemx.supabase.co/rest/v1/rpc/kg_summary" \
   -H "apikey: sb_publishable_0QNoSsrwGFtS1BV2ZdkQUA_7-rfuwQI" -H "Content-Type: application/json" \
-  -d "{\"code\":\"$KNOWGRAM_SYNC_CODE\"}"
+  -d "{\"code\":\"$CODE\"}"
 ```
 Die Antwort enthält: `ratings` (👍 `r:1` / 👎 `r:-1` mit Titel und Thema), `prefs` (Lieblingsthemen `1`, „weniger“ `-1`), `checks` (Antworten auf „Öfter/Wie bisher/Seltener“), `wishes` (Themenwünsche), `notes` (freie Notizen zu Karten), `reports` (gemeldete Karten mit Grund) und `arch` (verdichtete ältere Bewertungen). Schlägt der Aufruf fehl (Netz gesperrt, Variable fehlt), einfach ohne diese Infos weitermachen.
 So verwenden:
