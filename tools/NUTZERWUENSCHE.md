@@ -24,3 +24,11 @@ Regel: Ein Kommentar zu einer Karte gilt als Hinweis für **alle ähnlichen Kart
 ## Überarbeitung bestehender Karten
 - Pro Lauf **3 bestehende Karten** aus den Bereichen IT/Sicherheit/Cloud/KI/Datenbanken/Beruf prüfen, ob sie „Einsteiger-Niveau“ haben, und um Fortgeschrittenen-Slides erweitern (Grenze: höchstens 5 Zusatz-Slides). Zuerst Karten, die niedrig bewertet oder kommentiert wurden.
 - Karten, die 👍 bekommen haben, dienen als Vorbild für Ton und Tiefe.
+
+## Nachtrag aus seinen Notizen und Likes (Stand 01.10.2026)
+- **„Welchen Nutzen hat das für mich?“** (Kontextfenster, KI) und **„was ist der Use-Case?“** (Meldung zum Datenschutzbeauftragten): Bei KI-, IT- und Verwaltungs-/Politikthemen immer sagen, **was man damit anfangen kann** oder **warum es ihn betrifft** (Beruf, Alltag, Entscheidung). Ein Slide „Wozu das gut ist“ oder `why` mit konkretem Nutzen; zu spezielle Meldungen nur einordnen, wenn der Nutzen erklärbar ist, sonst im Ranking nach hinten.
+- **Naturwissenschaft von außen erklärt** (Physik „Strom ohne Widerstand“ wirkte „schwammig“): Außerhalb von IT gilt **nicht** Fortgeschrittenen-Niveau, sondern: erst den Grundbegriff in einem anschaulichen Alltagsvergleich klären (hier: was ist Widerstand überhaupt), dann Mechanismus, dann Zahl/Beispiel. Fachwörter nie unerklärt.
+- **Gut angekommen:** Technik, die man im Alltag sieht (Kühlschrank), und verblüffende Tierverhalten (Tanz der Bienen). Mehr davon: Alltagsgeräte „wie funktioniert das wirklich“, Naturphänomene mit Aha-Effekt.
+- **Weniger:** Spiele-Tests und -Kritiken in den IT-Meldungen (zweimal „Gears of War“ mit 👎). Solche Tests nicht einordnen und bei knapper Auswahl hinten anstellen.
+- **Themenwunsch:** „Etwas mehr aktuelle Politik, Mythologie, Biologie“. Pro Lauf mindestens je eine Karte Mythologie/Sagen (Geschichte/Philosophie/Sprache einbetten) und Biologie; bei den Einordnungen Politik großzügig besetzen.
+- **Beliebteste Themen nach Likes (als Vorbild für Ton und Tiefe):** Geschichte, Archäologie, Psychologie, Raumfahrt, Technik, Zoologie/Biologie, Sprache, Klima, Philosophie.
