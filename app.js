@@ -414,7 +414,7 @@
     const a = c.kind === "news" && (c._art || ARTS[c.id]);
     if (!a || !a.t) return null;
     let t = a.t;   // gespeichert sind ~1500 Zeichen (für Einordnungen); angezeigt wird nur so viel, wie auf eine Seite passt
-    if (t.length > 820) { const cut = t.slice(0, 820), m = Math.max(cut.lastIndexOf(". "), cut.lastIndexOf("? "), cut.lastIndexOf("! "), cut.lastIndexOf(".\n")); t = m > 400 ? cut.slice(0, m + 1) : cut.replace(/\s+\S*$/, "") + " …"; }
+    if (t.length > 680) { const cut = t.slice(0, 680), m = Math.max(cut.lastIndexOf(". "), cut.lastIndexOf("? "), cut.lastIndexOf("! "), cut.lastIndexOf(".\n")); t = m > 350 ? cut.slice(0, m + 1) : cut.replace(/\s+\S*$/, "") + " …"; }
     return { h: "Aus dem Artikel", text: t, note: `Textanfang aus dem Original (${a.src || c.source}), gekürzt${c.lang === "en" ? " · englischsprachig" : ""} · Rest: „Tiefer eintauchen“` };
   };
   const slidesOf = (c) => { const sm = c._sum || SUMS[c.id], x = c.slides || (sm && sm.slides); const a = artSlide(c); return [...(a ? [a] : []), ...(Array.isArray(x) ? x : [])]; };

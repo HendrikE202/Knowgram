@@ -109,3 +109,5 @@
 - Regel: bis zu 6 Inhalts-Slides zwischen Übersicht und „Tiefer eintauchen“ („Das Wichtigste“ zählt mit), mindestens 2 Zusatz-Slides je Karte – Tiefe statt Kurzinfo, aber kein Roman.
 - Bilder in Slides: `img: "Suchbegriffe"` am Slide, aufgelöst durch `tools/fetch_images.py` (Commons, Lizenz- und Relevanzprüfung, Urheberangabe, keine Doppelungen). Kein Treffer = kein Bild. Handkorrektur: `tools/image_overrides.json` mit `"karte#index": null | "Datei.jpg"`.
 - Offen: Trefferquote der Slide-Bilder beobachten und schlechte Treffer per Override entfernen.
+
+- [x] **Meldungen mit echtem Inhalt (01.10.2026):** Action holt den Artikelanfang (`articles.json`), App zeigt ihn als Slide „Aus dem Artikel“; Einordnungen für die wichtigsten Meldungen je Thema (Check meldet Lücken); Aufräumen abgelaufener Einträge (`tools/prune.py`, App-Speicher). **Beobachten:** Spektrum (Bezahlschranke) liefert oft nur Teaser; neue Quellen ggf. in `fetch_articles.py` prüfen (Log zeigt „kein Text“-Diagnose).
