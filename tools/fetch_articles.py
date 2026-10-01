@@ -8,7 +8,7 @@ Original bleibt. Seiten mit Bezahlschranke oder Abrufsperre werden übersprungen
 
 Nur Standardbibliothek. Aufruf: python tools/fetch_articles.py [--max N]
 """
-import html, json, re, sys, time, urllib.request
+import html, json, re, sys, time, urllib.request, urllib.parse
 from html.parser import HTMLParser
 from datetime import datetime, timezone
 from pathlib import Path
@@ -16,7 +16,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 UA = "Mozilla/5.0 (compatible; Knowgram/1.0; persoenliche Lern-App)"
 LIMIT = 1500          # Zeichen, die pro Artikel gespeichert werden
-MAX_NEW = 45          # höchstens so viele neue Artikel pro Lauf (höflich + schnell)
+MAX_NEW = 120         # höchstens so viele neue Artikel pro Lauf (höflich + schnell)
 RETRY_AFTER = 3       # so oft wird ein fehlgeschlagener Abruf höchstens versucht
 SKIP_TAGS = {"script", "style", "nav", "footer", "aside", "form", "figure", "header", "noscript", "button", "svg", "iframe"}
 JUNK = re.compile(
@@ -111,11 +111,12 @@ def extract(raw, teaser=""):
         paras = [p for p in re.split(r"\n+|(?<=[.!?])\s{2,}", body) if p.strip()]
     for cand in (paras, x.in_art, x.in_main, x.anywhere):
         g = good(cand, teaser)
-        if sum(map(len, g)) >= 300: return excerpt(g)
+        if sum(map(len, g)) >= 250: return excerpt(g)
     return ""
 
 
 def fetch(url):
+    url = urllib.parse.quote(url, safe=":/?&=%#@+,;~!$'()*[]")      # Umlaute/Leerzeichen in Links (z. B. DW) sauber codieren
     req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept-Language": "de,en;q=0.7"})
     with urllib.request.urlopen(req, timeout=20) as r:
         raw = r.read(2_000_000)
@@ -138,7 +139,10 @@ def main():
     done = fails = 0
     for it in todo[:mx]:
         try:
-            t = extract(fetch(it["link"]), it.get("text", ""))
+            raw = fetch(it["link"]); t = extract(raw, it.get("text", ""))
+            if not t:
+                x = Extract(); x.feed(raw)
+                print(f"  kein Text: {it['source']} · {len(raw)} Zeichen, <p>: {len(x.anywhere)}, in article: {len(x.in_art)}, ld-json: {len(ld_body(x.ld))} · {it['link'][:90]}", file=sys.stderr)
         except Exception as e:
             print(f"  Abruf fehlgeschlagen: {it['source']} – {type(e).__name__}", file=sys.stderr); t = ""
         old = arts.get(it["id"], {})
