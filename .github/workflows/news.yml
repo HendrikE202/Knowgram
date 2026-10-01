@@ -27,9 +27,12 @@ jobs:
         continue-on-error: true
       - name: „Am heutigen Tag“ abholen
         run: python tools/fetch_onthisday.py
+      - name: Abgelaufenes aufräumen
+        run: python tools/prune.py
+        continue-on-error: true
       - name: Änderungen committen
         run: |
           git config user.name "knowgram-bot"
           git config user.email "knowgram-bot@users.noreply.github.com"
-          git add news.json onthisday.json articles.json
+          git add news.json onthisday.json articles.json summaries.json images.json
           if git diff --staged --quiet; then echo "Keine Änderungen"; else git commit -m "News aktualisiert" && git pull --rebase origin main && git push; fi

@@ -223,6 +223,12 @@
       delete S.rate[id]; changed = true;
     }
     for (const [id, t] of Object.entries(S.seenAt)) if (now - t > 120 * 864e5) { delete S.seenAt[id]; changed = true; }
+    // Meldungen, die es nicht mehr gibt (abgelaufen), müssen nicht als „gesehen“ gemerkt werden – sonst wächst die Liste (und der Sync) für immer
+    if (NEWS.length) {
+      const live = new Set([...NEWS, ...OTD].map((n) => n.id)), keep = S.seen.filter((id) => !dyn.test(id) || live.has(id));
+      if (keep.length !== S.seen.length) { S.seen = keep; SEEN.clear(); keep.forEach((id) => SEEN.add(id)); changed = true; }
+      for (const id of Object.keys(S.seenAt)) if (dyn.test(id) && !live.has(id)) { delete S.seenAt[id]; changed = true; }
+    }
     for (const [id, v] of Object.entries(S.notes)) if (dyn.test(id) && now - (v.at || now) > 90 * 864e5) { delete S.notes[id]; changed = true; }
     if (changed) persist();
   };
@@ -388,7 +394,7 @@
 
   // Mittlere Ebene: „Das Wichtigste“ (Stichpunkte) – bei Meldungen nur, wenn eine Einordnung vorliegt oder andere Quellen berichten
   const summaryFor = (c) => {
-    if (c.kind === "news" || c.kind === "otd") { const x = SUMS[c.id]; return x && Array.isArray(x.points) && x.points.length ? x : null; }
+    if (c.kind === "news" || c.kind === "otd") { const x = c._sum || SUMS[c.id]; return x && Array.isArray(x.points) && x.points.length ? x : null; }
     return Array.isArray(c.points) && c.points.length ? { points: c.points, why: c.why } : null;
   };
   const sumSlide = (c) => {
@@ -405,13 +411,13 @@
   const MAX_INFO = 6;
   // Bei Meldungen steht der Textanfang des Originalartikels (articles.json) als eigene Slide vorn – damit man sofort sieht, worum es geht
   const artSlide = (c) => {
-    const a = c.kind === "news" && ARTS[c.id];
+    const a = c.kind === "news" && (c._art || ARTS[c.id]);
     if (!a || !a.t) return null;
     let t = a.t;   // gespeichert sind ~1500 Zeichen (für Einordnungen); angezeigt wird nur so viel, wie auf eine Seite passt
     if (t.length > 820) { const cut = t.slice(0, 820), m = Math.max(cut.lastIndexOf(". "), cut.lastIndexOf("? "), cut.lastIndexOf("! "), cut.lastIndexOf(".\n")); t = m > 400 ? cut.slice(0, m + 1) : cut.replace(/\s+\S*$/, "") + " …"; }
     return { h: "Aus dem Artikel", text: t, note: `Textanfang aus dem Original (${a.src || c.source}), gekürzt${c.lang === "en" ? " · englischsprachig" : ""} · Rest: „Tiefer eintauchen“` };
   };
-  const slidesOf = (c) => { const x = c.slides || (SUMS[c.id] && SUMS[c.id].slides); const a = artSlide(c); return [...(a ? [a] : []), ...(Array.isArray(x) ? x : [])]; };
+  const slidesOf = (c) => { const sm = c._sum || SUMS[c.id], x = c.slides || (sm && sm.slides); const a = artSlide(c); return [...(a ? [a] : []), ...(Array.isArray(x) ? x : [])]; };
   const extraSlides = (c) => slidesOf(c).map((x, i) => {
     if (!x || !(x.text || x.big || (x.points && x.points.length) || (x.steps && x.steps.length))) return null;
     const im = IMG[`${c.id}#${i - (artSlide(c) ? 1 : 0)}`];
@@ -456,7 +462,7 @@
   };
   const toggleSave = (c) => {
     flip("saved", c.id);
-    if (c.kind) { if (has("saved", c.id)) S.savedNews[c.id] = c; else delete S.savedNews[c.id]; persist(); }
+    if (c.kind) { if (has("saved", c.id)) S.savedNews[c.id] = { ...c, _sum: SUMS[c.id], _art: ARTS[c.id] }; else delete S.savedNews[c.id]; persist(); }
     syncRail(c.id); toast(has("saved", c.id) ? "Gespeichert" : "Entfernt");
     if (mode === "saved") render();
   };
@@ -923,6 +929,7 @@
     applying = true;
     for (const k of SHARED) if (M[k] !== undefined) S[k] = M[k];
     SEEN.clear(); S.seen.forEach((id) => SEEN.add(id));
+    compact();
     lastSig = settingsSig(); persist(true); applying = false;
     if (typeof applyNight === "function") { applyNight(); startSleep(S.sleep); }
   };
