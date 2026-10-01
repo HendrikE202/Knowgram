@@ -1,0 +1,51 @@
+name: Routine-Zweige übernehmen
+
+# Sicherheitsnetz: Schreibt die tägliche Routine ihre Karten auf einen eigenen Zweig (claude/…), statt direkt auf main,
+# wird der Zweig hier automatisch nach main übernommen – aber nur, wenn die Qualitätsprüfung (tools/check_cards.py) besteht.
+on:
+  push:
+    branches: ["claude/**"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repo-writes
+  cancel-in-progress: false
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Zweig prüfen und nach main übernehmen
+        env:
+          BRANCH: ${{ github.ref_name }}
+        run: |
+          set -e
+          git config user.name "knowgram-bot"
+          git config user.email "knowgram-bot@users.noreply.github.com"
+          git fetch origin "$BRANCH"
+          if ! git log origin/main..FETCH_HEAD --format=%s | grep -qE '^(Neue Wissenskarten|Einordnungen)'; then
+            echo "Kein Routine-Zweig (keine Commits „Neue Wissenskarten“/„Einordnungen“) – nichts zu tun."
+            exit 0
+          fi
+          if ! git merge --no-edit FETCH_HEAD; then
+            git merge --abort
+            echo "::error::Merge-Konflikt – bitte von Hand zusammenführen (Zweig $BRANCH bleibt bestehen)."
+            exit 1
+          fi
+          if ! python3 tools/check_cards.py; then
+            git reset --hard origin/main
+            echo "::error::Qualitätsprüfung fehlgeschlagen – Zweig $BRANCH wurde NICHT übernommen."
+            exit 1
+          fi
+          git push origin HEAD:main
+          git push origin --delete "$BRANCH" || true
+          echo "Zweig $BRANCH nach main übernommen."
