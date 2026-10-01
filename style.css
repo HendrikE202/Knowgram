@@ -222,6 +222,7 @@ html[data-big="1"] .card h2{font-size:1.9rem}
 .profile textarea{min-height:110px}
 @media (min-width:700px){.profile{padding-left:36px;padding-right:36px}}
 .pf-who input{width:100%;background:var(--panel);color:var(--text);border:1px solid var(--line);border-radius:12px;padding:12px 14px;font:inherit}
+.profile .sec-body>div>input,.profile details input:not([type]),.profile details input[placeholder^="Code"]{width:100%;box-sizing:border-box;background:var(--panel);color:var(--text);border:1px solid var(--line);border-radius:12px;padding:12px 14px;margin:8px 0;font:inherit;letter-spacing:.06em}
 .modes{display:flex;align-items:center;flex-wrap:nowrap}
 .modes button{padding:6px 7px}
 .pf-lbl{flex-direction:column;gap:5px;font-size:1rem}.pf-lbl small{justify-content:flex-start;font-size:.8rem}
