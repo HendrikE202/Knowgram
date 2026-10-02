@@ -1,50 +1,547 @@
 {
- "generated": "2026-10-02T00:48:09.169294+00:00",
+ "generated": "2026-10-02T09:47:16.106029+00:00",
  "briefing": [
+  "n03f725a0f2",
+  "n1714ac5976",
   "na11bb7e5da",
   "ne3bf504cad",
   "n4589b1c37a",
-  "n68c4d06b40",
-  "n468b337ef2",
-  "na4ed1cd4df",
+  "ne804ab72cb",
   "ndf3d8bed06",
   "n557d5073f0"
  ],
  "ranked": [
   {
+   "id": "n03f725a0f2",
+   "s": 33.0
+  },
+  {
+   "id": "n1714ac5976",
+   "s": 32.9
+  },
+  {
    "id": "na11bb7e5da",
-   "s": 31.7
+   "s": 29.5
   },
   {
    "id": "ne3bf504cad",
-   "s": 31.2
+   "s": 28.9
   },
   {
    "id": "n4589b1c37a",
-   "s": 30.3
+   "s": 28.0
   },
   {
-   "id": "n68c4d06b40",
-   "s": 29.6
-  },
-  {
-   "id": "n468b337ef2",
-   "s": 23.0
-  },
-  {
-   "id": "na4ed1cd4df",
-   "s": 22.1
+   "id": "ne804ab72cb",
+   "s": 26.9
   },
   {
    "id": "ndf3d8bed06",
-   "s": 21.6
+   "s": 19.4
   },
   {
    "id": "n557d5073f0",
-   "s": 20.4
+   "s": 18.1
   }
  ],
  "items": [
+  {
+   "id": "n136ab7c65b",
+   "topic": "wissenschaft",
+   "title": "Wenig Wasser floss ins Meer: Flüsse führten so wenig Wasser wie seit 30 Jahren nicht",
+   "text": "Aus europäischen Flüssen floss so wenig Wasser wie seit Jahrzehnten nicht ins Meer. Das Wasser dort war oft extrem warm. Hitze und Trockenheit des Sommers hatten üble Folgen.",
+   "link": "https://www.spektrum.de/news/fluesse-fuehrten-so-wenig-wasser-wie-seit-30-jahren-nicht/2347934",
+   "published": "2026-10-02T10:11:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-16T10:11:00+00:00"
+  },
+  {
+   "id": "nb0602d3ff5",
+   "topic": "wissenschaft",
+   "title": "»Bittere Bilanz« in Hobart: Walschutzgebiet im Südatlantik scheitert erneut an Blockade",
+   "text": "Seit Jahren wird um ein Walschutzgebiet im Südatlantik gerungen. Bei einer Fachkonferenz in Australien reicht es nicht für die nötige Mehrheit. Auch die Schweiz sorgt für Kritik.",
+   "link": "https://www.spektrum.de/news/walschutzgebiet-im-suedatlantik-scheitert-erneut-an-blockade/2347916",
+   "published": "2026-10-02T10:10:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-16T10:10:00+00:00"
+  },
+  {
+   "id": "n5b0c42e56f",
+   "topic": "it",
+   "title": "Google-Analyse: Weltraumrechenzentren wohl nicht vor 2035 kosteneffizient",
+   "text": "Google hat seinen ersten KI-Satelliten gestartet. Aufgrund der Startkosten bleiben irdische Rechenzentren aber wohl auf Jahre günstiger. ( Weltall , Google )",
+   "link": "https://www.golem.de/news/google-analyse-weltraumrechenzentren-wohl-nicht-vor-2035-kosteneffizient-2610-213644.html",
+   "published": "2026-10-02T09:43:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-07T09:43:01+00:00",
+   "img": "https://www.golem.de/2610/213644-601266-601264_rc.jpg"
+  },
+  {
+   "id": "nd3b7d87429",
+   "topic": "politik",
+   "title": "Frankreich - Gewaltsame Schulproteste: Regierung lädt zu Gesprächen ein",
+   "text": "Die französische Regierung hat wegen der gewaltsamen Schülerproteste die Akteure im Bildungswesen zu Gesprächen eingeladen. An dem Treffen sollen nach den Worten von Bildungsminister Geffray Schülervertreter, Elternverbände und Gewerkschafter teilnehmen.",
+   "link": "https://www.deutschlandfunk.de/gewaltsame-schulproteste-regierung-laedt-zu-gespraechen-ein-100.html",
+   "published": "2026-10-02T09:40:36+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-04T09:40:36+00:00",
+   "img": "https://bilder.deutschlandfunk.de/48/3c/51/0f/483c510f-a0d4-4bbc-84fe-7d8da94432e5/frankreich-schulen-proteste-demonstrationen-gewalt-demonstranten-100-1920x1920.jpg"
+  },
+  {
+   "id": "n81c6241523",
+   "topic": "politik",
+   "title": "Jobs in Gefahr - Warenhauskette Galeria meldet erneut Insolvenz an",
+   "text": "Die Warenhauskette Galeria hat beim Amtsgericht Düsseldorf erneut die Eröffnung eines Insolvenzverfahrens beantragt.",
+   "link": "https://www.deutschlandfunk.de/warenhauskette-galeria-meldet-erneut-insolvenz-an-100.html",
+   "published": "2026-10-02T09:40:36+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-04T09:40:36+00:00",
+   "img": "https://bilder.deutschlandfunk.de/cc/12/6a/f3/cc126af3-b68e-400d-9724-ca76dbfa6617/galeria-karstadt-kaufhof-102-1920x1920.jpg"
+  },
+  {
+   "id": "nf9e5ae876c",
+   "topic": "politik",
+   "title": "Verbraucherschützer und Ärzte - Kritik am vorläufigen Stopp der Zuckersteuer durch das Kanzleramt",
+   "text": "Die Verbraucherorganisation Foodwatch kritisiert den vorläufigen Stopp der Pläne für eine Zuckersteuer. Während die Koalition streite, freue sich die Zuckerlobby, sagte eine Sprecherin. Der aktuelle Gesetzentwurf wäre ein Meilenstein im Kampf gegen ernährungsbedingte Erkrankungen.",
+   "link": "https://www.deutschlandfunk.de/kritik-am-vorlaeufigen-stopp-der-zuckersteuer-durch-das-kanzleramt-100.html",
+   "published": "2026-10-02T09:40:36+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-04T09:40:36+00:00",
+   "img": "https://bilder.deutschlandfunk.de/28/05/0e/88/28050e88-6cdc-4dff-8640-2a41c8592ebd/kinder-kimo-cola-getraenke-100-1920x1920.jpg"
+  },
+  {
+   "id": "n03f725a0f2",
+   "topic": "politik",
+   "title": "EU-Klimadienst - Copernicus: Sommer in Europa von Klimaextremen geprägt",
+   "text": "Der diesjährige Sommer war für den Westen Europas der wärmste seit Beginn der Wetteraufzeichnungen. Das hat eine Analyse des EU-Klimabeobachtungsprogramms Copernicus ergeben. Die Durchschnittstemperatur lag demnach bei knapp 22 Grad und damit 2,5 Grad über dem Vergleichswert der Jahre 1991 bis 2020.",
+   "link": "https://www.deutschlandfunk.de/copernicus-sommer-in-europa-von-klimaextremen-gepraegt-100.html",
+   "published": "2026-10-02T09:40:36+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-04T09:40:36+00:00",
+   "img": "https://bilder.deutschlandfunk.de/6d/50/d0/09/6d50d009-c1c3-42c4-a20d-d14cee8645a8/sonne-hitze-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Copernicus: Sommer in Westeuropa war so heiß wie nie zuvor",
+     "link": "https://www.tagesschau.de/wissen/klima/copernicus-heisser-sommer-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n9200ded710",
+   "topic": "politik",
+   "title": "Medienbericht - Italiens Ministerpräsidentin Meloni will Ausnahmen bei EU-Defizit wegen wegen hoher Energiepreise",
+   "text": "Die italienische Ministerpräsidentin Meloni hat einem Bericht zufolge die EU-Kommission um mehr Flexibilität bei den fiskalpolitischen Regeln gebeten.",
+   "link": "https://www.deutschlandfunk.de/italiens-ministerpraesidentin-meloni-will-ausnahmen-bei-eu-defizit-wegen-wegen-hoher-energiepreise-100.html",
+   "published": "2026-10-02T09:40:36+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-04T09:40:36+00:00",
+   "img": "https://bilder.deutschlandfunk.de/42/c3/60/13/42c36013-e4da-4b76-b617-7a02008be676/giorgia-meloni-114-1920x1920.jpg"
+  },
+  {
+   "id": "n1fd8e1cb90",
+   "topic": "politik",
+   "title": "Koalition - Bundespräsident Steinmeier schaltete sich laut \"Spiegel\"-Bericht in Regierungsdebatte über Pflege ein",
+   "text": "Bundespräsident Steinmeier hat sich laut einem Bericht des \"Spiegel\" in den jüngsten Koalitionsstreit über die Pflegeversicherung eingeschaltet.",
+   "link": "https://www.deutschlandfunk.de/bundespraesident-steinmeier-schaltete-sich-laut-spiegel-bericht-in-regierungsdebatte-ueber-pflege-ei-100.html",
+   "published": "2026-10-02T09:40:36+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-04T09:40:36+00:00",
+   "img": "https://bilder.deutschlandfunk.de/16/16/b6/63/1616b663-d71e-4659-80d9-8a3a4a8383a5/steinmeier-ahrtal-100-1920x1920.jpg"
+  },
+  {
+   "id": "ndb070857eb",
+   "topic": "it",
+   "title": "Fobizz: Lehrkräfte entwickeln eher Lernbegleiter als Assistenten für sich selbst",
+   "text": "Lehrkräfte entwickeln KI-Assistenten mehrheitlich als Lernbegleiter für Schüler. Doch ob die Systeme tatsächlich im Unterricht ankommen, bleibt offen.",
+   "link": "https://www.heise.de/hintergrund/Fobizz-Lehrkraefte-entwickeln-eher-Lernbegleiter-als-Assistenten-fuer-sich-selbst-11474035.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-02T09:39:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-07T09:39:00+00:00"
+  },
+  {
+   "id": "n99760df689",
+   "topic": "it",
+   "title": "Open Source mit Ablaufdatum? Siemens ändert Kurs bei Radioss",
+   "text": "Siemens beendet das Open-Source-Projekt OpenRadioss. Der Quellcode ist nicht mehr öffentlich zugänglich, stattdessen gibt es ein R&D-Programm.",
+   "link": "https://www.heise.de/news/Open-Source-mit-Ablaufdatum-Siemens-aendert-Kurs-bei-Radioss-11473978.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-02T09:36:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-07T09:36:00+00:00"
+  },
+  {
+   "id": "n1714ac5976",
+   "topic": "politik",
+   "title": "Deutschland zum Tag der Deutschen Einheit zu Gast in Bremen",
+   "text": "Mehr als 700 Veranstaltungen und prominente Gäste: Bremen verwandelt sich zum 3. Oktober in eine Festivalmeile. Bürgermeister Bovenschulte erwartet einen Tag der \"gelebten deutschen Einheit\". 400.000 Menschen werden erwartet.",
+   "link": "https://www.tagesschau.de/inland/bremen-tag-deutsche-einheit-100.html",
+   "published": "2026-10-02T09:31:59+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-05T09:31:59+00:00",
+   "img": "https://images.tagesschau.de/image/aac85033-7e29-4ee0-b38d-fe3ab8be0630/AAABoPv5MxU/AAABnSSvrFg/16x9-big/bremen-stadtmusikanten-102.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Bremen - Bürgerfest zum Tag der Deutschen Einheit beginnt",
+     "link": "https://www.deutschlandfunk.de/buergerfest-zum-tag-der-deutschen-einheit-beginnt-100.html"
+    }
+   ]
+  },
+  {
+   "id": "ne5174d73e4",
+   "topic": "nfl",
+   "title": "Giants' John Harbaugh gets candid on 'shock sandwich' in first season | Exclusive",
+   "text": "The Giants traded for QB J.J McCarthy after Jaxson Dart's season-ending injury. Coach John Harbaugh addressed the possibility of McCarthy starting.",
+   "link": "https://sports.yahoo.com/articles/giants-john-harbaugh-gets-candid-093133995.html",
+   "published": "2026-10-02T09:31:33+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-07T09:31:33+00:00"
+  },
+  {
+   "id": "nb3220866dc",
+   "topic": "it",
+   "title": "Strom teilen: Energy Sharing scheitert gleich an mehreren Stellen",
+   "text": "Eigenen Strom an die Nachbarn zu verkaufen, wäre technisch leicht umzusetzen. Es scheitert aber, auch an den Netzbetreibern und der Bundesnetzagentur. ( Energiewende , Solarenergie )",
+   "link": "https://www.golem.de/news/strom-teilen-energy-sharing-scheitert-gleich-an-mehreren-stellen-2610-213645.html",
+   "published": "2026-10-02T09:26:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-07T09:26:02+00:00",
+   "img": "https://www.golem.de/2610/213645-601270-601268_rc.jpg"
+  },
+  {
+   "id": "n0cf9eb9418",
+   "topic": "wirtschaft",
+   "title": "Tankrabatt für Autofahrer, aber kein Nachlass beim Heizen: ungerecht?",
+   "text": "Autofahrer profitieren seit dem 1. Oktober vom \"Tankrabatt\". Hausbesitzer mit Ölheizung gehen leer aus. Fachleute sehen darin ein Gerechtigkeitsproblem - warnen aber vor neuen, teuren Steuernachlässen. Von O. Bemelmann und S. Groß.",
+   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/heizen-tankrabatt-debatte-100.html",
+   "published": "2026-10-02T09:22:31+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-05T09:22:31+00:00",
+   "img": "https://images.tagesschau.de/image/7612b46e-bc9f-401f-8ee2-93e4b6f823a1/AAABoPbpnWA/AAABnSSvrFg/16x9-big/heizoel-146.jpg?width=1920"
+  },
+  {
+   "id": "n6cc74071c7",
+   "topic": "ki",
+   "title": "Microsoft AI bringt neue Modelle für Transkription und Sprachausgabe für Sprachagenten",
+   "text": "Microsoft AI hat mit MAI-Transcribe-2-Streaming sein erstes Modell für Echtzeit-Transkription veröffentlicht, das laut Microsoft bei Artificial Analysis in puncto Genauigkeit auf Platz eins liegt. Der Artikel Microsoft AI bringt neue Modelle für Transkription und Sprachausgabe für Sprachagenten erschien zuerst auf The …",
+   "link": "https://the-decoder.de/microsoft-ai-bringt-neue-modelle-fuer-transkription-und-sprachausgabe-fuer-sprachagenten/",
+   "published": "2026-10-02T09:20:39+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-09T09:20:39+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/MAI-quotation_marks_swarm_hq-1920x1167-1.webp"
+  },
+  {
+   "id": "n6fb49fe7bd",
+   "topic": "nfl",
+   "title": "Denzel Ward: I hope Aaron Rodgers keeps throwing at me",
+   "text": "Ward intercepted Rodgers on Thursday night in the Browns' 27-24 win.",
+   "link": "https://sports.yahoo.com/articles/denzel-ward-hope-aaron-rodgers-091053584.html",
+   "published": "2026-10-02T09:10:53+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-07T09:10:53+00:00"
+  },
+  {
+   "id": "ned9e2ca691",
+   "topic": "wissenschaft",
+   "title": "Das Ende des Sonnensystems: Wie lange wird die Sonne noch scheinen?",
+   "text": "Die Sonne, unser lebensspendender Stern, durchläuft im Lauf ihrer Entwicklung dramatische Veränderungen – ein faszinierender Blick in ihre ferne Zukunft.",
+   "link": "https://www.spektrum.de/news/das-ende-des-sonnensystems-wie-lange-wird-die-sonne-noch-scheinen/2345390",
+   "published": "2026-10-02T09:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-16T09:00:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/Solar_Orbiter_s_widest_high-res_view_of_the_Sun.8410854.jpg.8410862.jpg?f=1280x720"
+  },
+  {
+   "id": "ne34c68b438",
+   "topic": "it",
+   "title": "Thunderbird für iOS: Die erste Testversion rückt näher",
+   "text": "Thunderbird gibt Einblicke in die native Entwicklung seiner iOS-App. Der Fokus liegt auf Kontoeinrichtung, Synchronisierung und Grundfunktionen.",
+   "link": "https://www.heise.de/news/Thunderbird-fuer-iOS-Die-erste-Testversion-rueckt-naeher-11473855.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-02T09:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-07T09:00:00+00:00"
+  },
+  {
+   "id": "n6e477b79b0",
+   "topic": "ki",
+   "title": "Ramp AI Index: Unternehmen nutzen mehr KI und zahlen weniger dafür",
+   "text": "Die KI-Ausgaben von US-Unternehmen sind laut dem aktuellen Ramp AI Index gesunken, berichtet Ramp-Ökonom Ara Kharazian. Der Artikel Ramp AI Index: Unternehmen nutzen mehr KI und zahlen weniger dafür erschien zuerst auf The Decoder .",
+   "link": "https://the-decoder.de/ramp-ai-index-unternehmen-nutzen-mehr-ki-und-zahlen-weniger-dafuer/",
+   "published": "2026-10-02T08:56:21+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-09T08:56:21+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/04/fipo-qwen-training-policy-nano-banana-pro.jpg"
+  },
+  {
+   "id": "n2f75308026",
+   "topic": "welt",
+   "title": "Dank Florian Wirtz: Fußball-Nationalmannschaft holt wichtigen Sieg gegen Serbien",
+   "text": "Im Spiel gegen Serbien zeigt die deutsche Fußball-Nationalmannschaft erfolgreichen \"Klopp-Fußball\". Den Bundestrainer freut es - besonders ein Sorgenkind im DFB-Team zeigt wieder Dinge, die es lange vermissen ließ.",
+   "link": "https://www.dw.com/de/dank-florian-wirtz-fußball-nationalmannschaft-holt-wichtigen-sieg-gegen-serbien/a-79511561?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-02T08:55:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-06T08:55:00+00:00",
+   "img": "https://static.dw.com/image/79511083_302.jpg"
+  },
+  {
+   "id": "n6a4cbf5f1b",
+   "topic": "politik",
+   "title": "HR FRAGT: Wenn der Behördenkontakt zur Geduldsprobe wird",
+   "text": "Formulare, lange Bearbeitungszeiten, schwer erreichbare Ansprechpartner: Viele aus der HR-FRAGT-Community erleben den Kontakt mit Behörden als mühsam. Was die Befragten besonders nervt und was sie sich von den Behörden wünschen.",
+   "link": "https://www.hessenschau.de/gesellschaft/hr-fragt-wenn-der-behoerdenkontakt-zur-geduldsprobe-wird-v1,hr-fragt-buerokratie-100.html",
+   "published": "2026-10-02T08:37:30+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-06T08:37:30+00:00",
+   "img": "https://www.hessenschau.de/panorama/hr-fragt-buerokratie-102~_t-1790846564926_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "n3016f53c8b",
+   "topic": "welt",
+   "title": "Frankreich: Gewalt bei Schulprotesten wird zum Politikum",
+   "text": "Baufällige Gebäude, Lehrermangel, überfüllte Klassen an weiterführenden Schulen: Seit Tagen gehen Jugendliche in Frankreich auf die Straße - oftmals begleitet von Gewalt. Die Regierung sieht eine Partei dahinter.",
+   "link": "https://www.dw.com/de/frankreich-gewalt-bei-schulprotesten-wird-zum-politikum/a-79510982?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-02T08:30:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-06T08:30:00+00:00",
+   "img": "https://static.dw.com/image/79497861_302.jpg"
+  },
+  {
+   "id": "nbf8e310705",
+   "topic": "wirtschaft",
+   "title": "Marktbericht: DAX wieder über 25.000 Punkten",
+   "text": "Der DAX hat vor der Veröffentlichung der US-Arbeitsmarktdaten zugelegt. Anleger erhoffen sich von den Zahlen neue Hinweise auf die Geldpolitik der US-Notenbank Federal Reserve.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-164.html",
+   "published": "2026-10-02T08:15:46+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-05T08:15:46+00:00",
+   "img": "https://images.tagesschau.de/image/82111514-f32a-4b63-9253-55922f8c41e8/AAABlu01r14/AAABnSSvrFg/16x9-big/boerse-424.jpg?width=1920"
+  },
+  {
+   "id": "ne1e19394f1",
+   "topic": "wirtschaft",
+   "title": "Update Wirtschaft vom 02.10.2026",
+   "text": "Update Wirtschaft vom 02.10.2026",
+   "link": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1659176.html",
+   "published": "2026-10-02T07:49:42+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-05T07:49:42+00:00",
+   "img": "https://images.tagesschau.de/image/bddb2c17-0f06-421a-bd95-0cbe5a023827/AAABoPuXFdY/AAABnSSvrFg/16x9-big/sendungsbild-1805732.jpg?width=1920"
+  },
+  {
+   "id": "nce00790a06",
+   "topic": "wissenschaft",
+   "title": "Copernicus: Sommer in Westeuropa war so heiß wie nie zuvor",
+   "text": "Der Sommer in Westeuropa war so heiß und trocken wie nie zuvor. Auch bei den Hitzetagen gab es diesen Sommer laut dem EU-Klimadienst Copernicus einen neuen Höchststand - mit ernsten Folgen für die Gesundheit.",
+   "link": "https://www.tagesschau.de/wissen/klima/copernicus-heisser-sommer-100.html",
+   "published": "2026-10-02T07:28:09+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-16T07:28:09+00:00",
+   "img": "https://images.tagesschau.de/image/0e2edd68-bbf9-4a30-bfed-ee9823aa264e/AAABoPs80mA/AAABnSSvrFg/16x9-big/sandbaenke-rhein-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "EU-Klimadienst - Copernicus: Sommer in Europa von Klimaextremen geprägt",
+     "link": "https://www.deutschlandfunk.de/copernicus-sommer-in-europa-von-klimaextremen-gepraegt-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n912507fd46",
+   "topic": "ki",
+   "title": "Black Forest Labs stellt Flux 3 Image vor: Bildgenerierung mit mehrstufiger Bearbeitung in bis zu 4K",
+   "text": "Black Forest Labs stellt mit Flux 3 Image ein Bildgenerierungsmodell vor, das mehrstufige Bearbeitungen ermöglicht, ohne andere Bildbereiche zu verändern. Nutzer können per Bounding Boxes komponieren, bis zu zehn Referenzbilder einbinden und in 4K ausgeben. Offene Gewichte sollen in den kommenden Wochen folgen. Der …",
+   "link": "https://the-decoder.de/black-forest-labs-stellt-flux-3-image-vor-bildgenerierung-mit-mehrstufiger-bearbeitung-in-bis-zu-4k/",
+   "published": "2026-10-02T07:27:44+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-09T07:27:44+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/flux_3_image.png"
+  },
+  {
+   "id": "nd4d2096ddb",
+   "topic": "politik",
+   "title": "Gestopptes Fregatten-Projekt: Werft will 4,7 Milliarden Euro von Deutschland",
+   "text": "Massive Verzögerungen und eine Kostenexplosion - im Juni hatte Verteidigungsminister Pistorius ein neues Fregatten-Projekt für die Bundeswehr gestoppt. Nun fordert die betroffene niederländische Werft Milliarden vom Bund.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/werft-milliardenforderung-fregatte-bundeswehr-100.html",
+   "published": "2026-10-02T07:19:51+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-05T07:19:51+00:00",
+   "img": "https://images.tagesschau.de/image/7914b8a6-2314-43de-9ba4-c017e4797c45/AAABoPt70zg/AAABnSSvrFg/16x9-big/pistorius-682.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Marine - Fregatten-Streit: Werft will Milliarden von Deutschland",
+     "link": "https://www.deutschlandfunk.de/fregatten-streit-werft-will-milliarden-von-deutschland-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n5fbd41cb1a",
+   "topic": "wirtschaft",
+   "title": "Commerzbank: Braucht Deutschland schärferes Übernahmerecht?",
+   "text": "Die Fälle Commerzbank, Hugo Boss und ProSiebenSat.1 zeigen, wie leicht Investoren in Deutschland ihre Kontrolle ausbauen können. Andere Länder setzen beim Aktionärsschutz strengere Grenzen. Von Angela Göpfert.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-unicredit-uebernahmerecht-deutschland-100.html",
+   "published": "2026-10-02T07:16:35+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-05T07:16:35+00:00",
+   "img": "https://images.tagesschau.de/image/50459122-0237-440c-ab37-dda03700c711/AAABoPt8pxI/AAABnSSvrFg/16x9-big/commerzbank-316.jpg?width=1920"
+  },
+  {
+   "id": "nb14992135e",
+   "topic": "welt",
+   "title": "News kompakt: US-Mörderin Pike nach Exekution im Hospital",
+   "text": "Die Anwälte von Christa Pike fordern lebenslange Haft für die US-Todeskandidatin. In Frankreich führt die Protestwelle zu Schulschließungen. Der DW-Nachrichtenüberblick.",
+   "link": "https://www.dw.com/de/news-kompakt-us-mörderin-pike-nach-exekution-im-hospital/a-79510518?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-02T07:03:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-06T07:03:00+00:00",
+   "img": "https://static.dw.com/image/79512677_302.jpg"
+  },
+  {
+   "id": "ndaf68f0428",
+   "topic": "welt",
+   "title": "Luftangriffe auf Kiew dauern an - Brücken gesperrt",
+   "text": "Russland greift weiter ukrainische Infrastruktur an. Am Morgen wurde die Südbrücke in Kiew von einer Drohne getroffen. Die wichtige Ost-West-Verbindung sowie weitere Brücken wurden gesperrt.",
+   "link": "https://www.tagesschau.de/ausland/europa/angriff-kiew-bruecke-100.html",
+   "published": "2026-10-02T06:52:44+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-05T06:52:44+00:00",
+   "img": "https://images.tagesschau.de/image/fd9827cf-6957-468f-8393-a43b8650ff7a/AAABoPsyCmM/AAABnSSvrFg/16x9-big/suedbruecke-ukraine-100.jpg?width=1920"
+  },
+  {
+   "id": "nd19b04b980",
+   "topic": "welt",
+   "title": "Gescheiterte Hinrichtung heizt Debatte über Todesstrafe neu an",
+   "text": "Der Fall einer Mörderin, die ihre versuchte Hinrichtung überlebte, hat die Debatte über die Todesstrafe in den USA wieder angeheizt. Die Frau ist offenbar weiter in kritischem Zustand. Ihr Anwalt spricht von diversen Pannen. Von Giselle Ucar.",
+   "link": "https://www.tagesschau.de/ausland/amerika/hinrichtung-tennessee-giftspritze-100.html",
+   "published": "2026-10-02T05:45:36+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-05T05:45:36+00:00",
+   "img": "https://images.tagesschau.de/image/f3a24033-7db2-4b17-b00b-0fa178144922/AAABoPr8vOk/AAABnSSvrFg/16x9-big/todeszelle-100.jpg?width=1920"
+  },
+  {
+   "id": "ne804ab72cb",
+   "topic": "welt",
+   "title": "Astronauten erreichen ISS in Rekordzeit",
+   "text": "So schnell war noch kein US-Raumschiff an der ISS: Knapp acht Stunden nach dem Start hat eine \"Dragon\"-Kapsel die Weltraumstation erreicht. An Bord sind vier Raumfahrer aus den USA, Kanada und Russland.",
+   "link": "https://www.tagesschau.de/ausland/amerika/iss-crew-im-all-angekommen-100.html",
+   "published": "2026-10-02T05:22:09+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-05T05:22:09+00:00",
+   "img": "https://images.tagesschau.de/image/a28f2e1b-29aa-41e0-9dbe-60d92eab60f2/AAABoPsQD20/AAABnSSvrFg/16x9-big/iss-andocken-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Weltraummission - Astronauten erreichen ISS nach Rekordflug",
+     "link": "https://www.deutschlandfunk.de/astronauten-erreichen-iss-nach-rekordflug-102.html"
+    }
+   ]
+  },
+  {
+   "id": "nccf0b2d321",
+   "topic": "nfl",
+   "title": "LOOK: Aaron Rodgers' heated exchange with Mike McCarthy caught on camera during Steelers-Browns",
+   "text": "The former Packers partners exchanged words during a difficult first half for Pittsburgh against its AFC North rival",
+   "link": "https://www.cbssports.com/nfl/news/aaron-rodgers-mike-mccarthy-heated-exchange-steelers-browns/",
+   "published": "2026-10-02T04:40:03+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-07T04:40:03+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/02/af9970f5-766a-44e4-a26f-7cc6b5d377b5/rodgersmccarthy.jpg"
+  },
+  {
+   "id": "n1e7a67436c",
+   "topic": "nfl",
+   "title": "Here's why the Steelers' 22-year run without a losing season is now their biggest problem",
+   "text": "Pittsburgh mastered staying respectable, the problem is respectable hasn't gotten them anywhere",
+   "link": "https://www.cbssports.com/nfl/news/steelers-losing-season-2026-mike-tomlin-mike-mccarthy/",
+   "published": "2026-10-02T04:06:38+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-07T04:06:38+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/02/b879b874-1ecf-437f-9980-ea40eee3b5be/mccarthy.jpg"
+  },
+  {
+   "id": "n85354bf18a",
+   "topic": "welt",
+   "title": "Scheitern Spaniens Wohnungsgesetze noch im Parlament?",
+   "text": "Nach den Protesten aufgrund der Zwangsräumung der Wohnung einer Rentnerin in Madrid stimmt nun das Parlament ab - doch eine Mehrheit für stärkeren Mieterschutz ist alles andere als sicher. Von Hans-Günter Kellner.",
+   "link": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-maricarmen-100.html",
+   "published": "2026-10-02T01:49:37+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-05T01:49:37+00:00",
+   "img": "https://images.tagesschau.de/image/a7885a23-167d-482c-b799-18682f9db464/AAABoPpGg68/AAABnSSvrFg/16x9-big/spanien-sanchez-124.jpg?width=1920"
+  },
   {
    "id": "nfae4f7aadc",
    "topic": "nfl",
@@ -68,7 +565,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-04T00:39:02+00:00",
-   "img": "https://bilder.deutschlandfunk.de/74/0e/2b/a3/740e2ba3-1526-4a0c-870f-6229f61b9f0c/bremen-104-1920x1920.jpg"
+   "img": "https://bilder.deutschlandfunk.de/74/0e/2b/a3/740e2ba3-1526-4a0c-870f-6229f61b9f0c/bremen-104-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Deutschland zum Tag der Deutschen Einheit zu Gast in Bremen",
+     "link": "https://www.tagesschau.de/inland/bremen-tag-deutsche-einheit-100.html"
+    }
+   ]
   },
   {
    "id": "n77928af701",
@@ -81,7 +585,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-04T00:39:02+00:00",
-   "img": "https://bilder.deutschlandfunk.de/1a/45/9b/e0/1a459be0-e194-410d-ae8a-dd51453e2e61/f126-werft-100-1920x1920.jpg"
+   "img": "https://bilder.deutschlandfunk.de/1a/45/9b/e0/1a459be0-e194-410d-ae8a-dd51453e2e61/f126-werft-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Gestopptes Fregatten-Projekt: Werft will 4,7 Milliarden Euro von Deutschland",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/werft-milliardenforderung-fregatte-bundeswehr-100.html"
+    }
+   ]
   },
   {
    "id": "n251009b132",
@@ -94,7 +605,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-04T00:39:02+00:00",
-   "img": "https://bilder.deutschlandfunk.de/6d/32/7b/eb/6d327beb-35a6-4ed3-9cd3-bc624c4fd291/nasa-astronauten-iss-100-1920x1920.jpg"
+   "img": "https://bilder.deutschlandfunk.de/6d/32/7b/eb/6d327beb-35a6-4ed3-9cd3-bc624c4fd291/nasa-astronauten-iss-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Astronauten erreichen ISS in Rekordzeit",
+     "link": "https://www.tagesschau.de/ausland/amerika/iss-crew-im-all-angekommen-100.html"
+    }
+   ]
   },
   {
    "id": "nede164dde7",
@@ -120,14 +638,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-04T00:39:02+00:00",
-   "img": "https://bilder.deutschlandfunk.de/e9/a5/a9/e5/e9a5a9e5-560d-4827-a448-0e73e4a64fcf/klingbeil-134-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Kanzleramt bremst beim Gesetzentwurf zur Zuckersteuer",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-kanzleramt-100.html"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/e9/a5/a9/e5/e9a5a9e5-560d-4827-a448-0e73e4a64fcf/klingbeil-134-1920x1920.jpg"
   },
   {
    "id": "n468b337ef2",
@@ -193,7 +704,7 @@
   },
   {
    "id": "na4ed1cd4df",
-   "topic": "welt",
+   "topic": "wirtschaft",
    "title": "Frankreichs Regierung schnürt Sparpaket, die Bevölkerung protestiert",
    "text": "Mit einem harten Sparkurs will Frankreichs Regierung das Haushaltsdefizit wieder in den Griff bekommen. Die Bevölkerung protestiert - besonders Schüler demonstrieren mit zunehmender Gewalt gegen Missstände an Schulen.",
    "link": "https://www.tagesschau.de/ausland/europa/frankreich-sparmassnahmen-proteste-100.html",
@@ -317,11 +828,6 @@
      "source": "Tagesschau",
      "title": "BGH kippt Preiserhöhung bei Amazon Prime",
      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/amazon-prime-preiserhoehung-bgh-100.html"
-    },
-    {
-     "source": "Golem.de",
-     "title": "Anzeige: Samsung 4K-TV bei Amazon vor dem Prime Day 100 Euro unter letztem Preis",
-     "link": "https://www.golem.de/news/anzeige-samsung-4k-tv-bei-amazon-vor-dem-prime-day-100-euro-unter-letztem-preis-2610-213618.html"
     }
    ]
   },
@@ -482,11 +988,6 @@
      "source": "Tagesschau",
      "title": "BGH kippt Preiserhöhung bei Amazon Prime",
      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/amazon-prime-preiserhoehung-bgh-100.html"
-    },
-    {
-     "source": "Golem.de",
-     "title": "Anzeige: Samsung 4K-TV bei Amazon vor dem Prime Day 100 Euro unter letztem Preis",
-     "link": "https://www.golem.de/news/anzeige-samsung-4k-tv-bei-amazon-vor-dem-prime-day-100-euro-unter-letztem-preis-2610-213618.html"
     }
    ]
   },
@@ -530,7 +1031,7 @@
   },
   {
    "id": "n5f26fd5863",
-   "topic": "politik",
+   "topic": "wirtschaft",
    "title": "Warum es schon wieder Diskussionen über die Zuckersteuer gibt",
    "text": "Dass eine Zuckersteuer kommen soll, war eigentlich schon geklärt. Dennoch bremst das Kanzleramt jetzt bei einem Entwurf aus dem Finanzministerium. Was steckt dahinter? Warum drängt das Thema? Von Nicole Kohnert.",
    "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-protest-klingbeil-entwurf-100.html",
@@ -687,11 +1188,6 @@
      "source": "heise online",
      "title": "Bundesgerichtshof bestätigt: Preiserhöhung bei Amazon Prime unwirksam",
      "link": "https://www.heise.de/news/BGH-zu-verwirrender-Amazon-AGB-Preiserhoehung-bei-Amazon-Prime-ist-unwirksam-11473491.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    },
-    {
-     "source": "Golem.de",
-     "title": "Anzeige: Samsung 4K-TV bei Amazon vor dem Prime Day 100 Euro unter letztem Preis",
-     "link": "https://www.golem.de/news/anzeige-samsung-4k-tv-bei-amazon-vor-dem-prime-day-100-euro-unter-letztem-preis-2610-213618.html"
     }
    ]
   },
@@ -894,14 +1390,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-03T13:23:23+00:00",
-   "img": "https://bilder.deutschlandfunk.de/9d/b7/5c/0c/9db75c0c-7f80-4501-ae0d-dbf41deb7f2e/merz-klingbeil-124-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Kanzleramt bremst beim Gesetzentwurf zur Zuckersteuer",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-kanzleramt-100.html"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/9d/b7/5c/0c/9db75c0c-7f80-4501-ae0d-dbf41deb7f2e/merz-klingbeil-124-1920x1920.jpg"
   },
   {
    "id": "nc45726aa44",
@@ -1240,491 +1729,6 @@
    "lang": "en",
    "expires": "2026-10-06T12:25:39+00:00",
    "img": "https://sportshub.cbsistatic.com/i/2026/09/29/377fa956-4309-4e1c-a520-16e19632d8a6/jim-harbaugh.jpg"
-  },
-  {
-   "id": "nbb1df2887e",
-   "topic": "politik",
-   "title": "Bundestag - Kolonialismus-Aufarbeitung: Kulturstaatsminister Weimer unter Beschuss",
-   "text": "Kulturstaatsminister Weimer sieht sich wegen seines Vorgehens bei der Kolonialismus-Aufarbeitung Kritik aus der Koalition und der Opposition ausgesetzt.",
-   "link": "https://www.deutschlandfunk.de/kolonialismus-aufarbeitung-kulturstaatsminister-weimer-unter-beschuss-100.html",
-   "published": "2026-10-01T12:06:31+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-03T12:06:31+00:00",
-   "img": "https://bilder.deutschlandfunk.de/9c/28/f3/59/9c28f359-64e6-4d87-9154-1d82cfaa0312/wolfram-weimer-kulturstaatsminister-102-1920x1920.jpg"
-  },
-  {
-   "id": "n219e31035c",
-   "topic": "politik",
-   "title": "Fußball - Deutsche Nationalmannschaft \"nicht weiß genug\" - Klopp reagiert mit Abscheu: \"Ich habe im normalen Leben für Dummheit wenig Zeit\"",
-   "text": "Fußball-Bundestrainer Jürgen Klopp hat mit Abscheu auf rassistische Diskussionen über die Hautfarben von deutschen Nationalspielern reagiert. Während einer Pressekonferenz war er auf Äußerungen vor allem in Sozialen Medien angesprochen worden, wonach die Mannschaft \"nicht weiß genug\" sei.",
-   "link": "https://www.deutschlandfunk.de/deutsche-nationalmannschaft-nicht-weiss-genug-klopp-reagiert-mit-abscheu-ich-habe-im-normalen-leben--100.html",
-   "published": "2026-10-01T12:06:31+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-03T12:06:31+00:00",
-   "img": "https://bilder.deutschlandfunk.de/f5/34/63/02/f5346302-e967-46f8-8813-aca8bceb9b5e/juergen-klopp-fussball-bundestrainer-100-1920x1920.jpg"
-  },
-  {
-   "id": "ne58d71f788",
-   "topic": "nfl",
-   "title": "It wouldn't shock me IF: NFL Week 4: Josh Allen continues historic streak, Cam Ward gets benched",
-   "text": "Could Tennessee pull the plug on Cam Ward? Will Josh Allen extend his historic rushing touchdown streak?",
-   "link": "https://www.cbssports.com/nfl/news/nfl-week-4-bold-predictions-josh-allen-cam-ward/",
-   "published": "2026-10-01T12:05:39+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-06T12:05:39+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/09/22/bcf1a989-9509-4d25-b8df-39fd4ca82563/allen26.jpg"
-  },
-  {
-   "id": "n87a2762eee",
-   "topic": "it",
-   "title": "Bitkom: E-Books werden in Deutschland immer beliebter",
-   "text": "Laut einer Bitkom-Befragung lesen mittlerweile mehr als die Hälfte der Deutschen E-Books. Nur noch 30 Prozent lesen ausschließlich gedruckte Bücher.",
-   "link": "https://www.heise.de/news/Bitkom-E-Books-werden-in-Deutschland-immer-beliebter-11472681.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-01T12:04:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-06T12:04:00+00:00"
-  },
-  {
-   "id": "n313d25bead",
-   "topic": "nfl",
-   "title": "NFL Week 4 Survivor/Eliminator Picks",
-   "text": "So this season is off to a terrible start for teams like the Chargers, Texans and Buccaneers. And also for me, because I’m now 1-2 (and only a couple minutes away from 0-3) in NFL Survivor, a contest that famously…",
-   "link": "https://sports.yahoo.com/articles/nfl-week-4-survivor-eliminator-120322195.html",
-   "published": "2026-10-01T12:03:22+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-06T12:03:22+00:00",
-   "img": "https://media.zenfs.com/en/ftn_fantasy_articles_697/d0a37d431b0a50ffaa790816125d6657.jpg"
-  },
-  {
-   "id": "n4bf66affca",
-   "topic": "wissenschaft",
-   "title": "Keine grüne Chemie: Reaktionen sind noch immer schädlicher, als sie sein müssten",
-   "text": "Chemie müsse gefährlich und giftig sein, lautet ein Klischee. Eine aktuelle Studie untermauert dieses Vorurteil – und erklärt, warum es nicht so bleiben muss.",
-   "link": "https://www.spektrum.de/news/keine-gruene-chemie-warum-chemie-oft-immer-noch-giftig-ist/2347623",
-   "published": "2026-10-01T12:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-10-15T12:00:00+00:00"
-  },
-  {
-   "id": "n62fe93e7b9",
-   "topic": "it",
-   "title": "heise-Angebot: iX-Workshop: NIS-2-Richtlinie im Unternehmen umsetzen",
-   "text": "Erfahren Sie, welche NIS-2-Pflichten für Ihr Unternehmen gelten – und wie Sie passende Sicherheitsmaßnahmen für Ihre IT gezielt planen und umsetzen.",
-   "link": "https://www.heise.de/news/iX-Workshop-NIS-2-Richtlinie-im-Unternehmen-umsetzen-11451865.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-01T12:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-06T12:00:00+00:00"
-  },
-  {
-   "id": "n92050fad72",
-   "topic": "nfl",
-   "title": "Week 4 NFL Survivor strategy and picks with safe, value, and trap picks",
-   "text": "David Fucillo provides NFL Survivor pool tips in Week 4, offering up safe, value, and trap picks.",
-   "link": "https://sports.yahoo.com/articles/week-4-nfl-survivor-strategy-120000758.html",
-   "published": "2026-10-01T12:00:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-06T12:00:00+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/988330dd88dc7e1dc11c5243c5f1751c.jpg"
-  },
-  {
-   "id": "nabce1611fc",
-   "topic": "wirtschaft",
-   "title": "Neuer \"Tankrabatt\" startet mit stark fallenden Preisen",
-   "text": "Seit Mitternacht gilt der neue \"Tankrabatt\" und zeigt schnell Wirkung. E10 kostete am Morgen mancherorts sogar weniger als zwei Euro. Unklar ist, ob die gesamte Entlastung bei Verbrauchern ankommen wird - die Maßnahme bleibt umstritten.",
-   "link": "https://www.tagesschau.de/wirtschaft/spritpreise-tankrabatt-116.html",
-   "published": "2026-10-01T11:59:27+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-04T11:59:27+00:00",
-   "img": "https://images.tagesschau.de/image/b4dd47f6-a6b7-4416-b7a5-80d93a99ddbb/AAABoPclhM4/AAABnSSvrFg/16x9-big/tankstelle-preistafel-112.jpg?width=1920"
-  },
-  {
-   "id": "n676fc0ae0c",
-   "topic": "it",
-   "title": "Klemmbausteine: Bluebrixx bringt Jaffa-Armee und Goa'uld aus Stargate",
-   "text": "Zu den neuen Stargate-Sets gehören auch die beiden ersten Modelle der dritten Serie Stargate Universe. ( Spiele , Lego )",
-   "link": "https://www.golem.de/news/klemmbausteine-bluebrixx-bringt-jaffa-armee-und-goa-uld-aus-stargate-2610-213614.html",
-   "published": "2026-10-01T11:45:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-06T11:45:02+00:00",
-   "img": "https://www.golem.de/2610/213614-601121-601119_rc.jpg"
-  },
-  {
-   "id": "n44a009b667",
-   "topic": "nfl",
-   "title": "2027 NFL Draft stock watch features 11 players on the rise",
-   "text": "Who are the biggest risers in the 2027 NFL Draft so far? Two quarterbacks have helped their stock significantly with their early showings.",
-   "link": "https://sports.yahoo.com/articles/2027-nfl-draft-stock-watch-114247742.html",
-   "published": "2026-10-01T11:42:47+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-06T11:42:47+00:00"
-  },
-  {
-   "id": "nfbea3bbfe0",
-   "topic": "it",
-   "title": "Eine API für Linux: Remote-Verwaltung mit systemd",
-   "text": "Neue systemd-Features erlauben Systemverwaltung, die vorher nur mit externer Software möglich war.",
-   "link": "https://www.heise.de/news/Eine-API-fuer-Linux-Remote-Verwaltung-mit-systemd-11472737.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-01T11:40:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-06T11:40:00+00:00"
-  },
-  {
-   "id": "ne24312df71",
-   "topic": "wirtschaft",
-   "title": "Teile des Batterieherstellers Varta gehen ins Insolvenzverfahren",
-   "text": "Für vier Gesellschaften des angeschlagenen Batterieherstellers Varta beginnt ein Insolvenzsverfahren. Ziel ist es, neue Eigentümer für die Firmen zu finden. Die Chancen stehen wohl nicht schlecht.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/batteriehersteller-varta-investoren-100.html",
-   "published": "2026-10-01T11:38:57+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-04T11:38:57+00:00",
-   "img": "https://images.tagesschau.de/image/e0c1019c-b534-40e7-b9fc-228f7bc188a6/AAABoPbUNWk/AAABnSSvrFg/16x9-big/varta-108.jpg?width=1920"
-  },
-  {
-   "id": "nbf589decfe",
-   "topic": "it",
-   "title": "So tracken uns unsere Autos: Studienergebnisse von 21 PKWs",
-   "text": "Forscher untersuchten, wie Pkws Daten sammeln und weitersenden. Tesla erwies sich als datenhungrig, während Honda nach der Studie seine Praktiken veränderte.",
-   "link": "https://www.heise.de/news/Welche-Daten-senden-Autos-weiter-Forscher-untersuchen-21-Pkw-und-ihre-Apps-11472649.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-01T11:36:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-06T11:36:00+00:00"
-  },
-  {
-   "id": "nef788db6b4",
-   "topic": "it",
-   "title": "Anzeige: Samsung 4K-TV bei Amazon vor dem Prime Day 100 Euro unter letztem Preis",
-   "text": "In der kommenden Woche finden die Prime Deal Days statt. Allerdings gibt es auch vorab schon viele spannende Angebote, auch auf Samsung-TVs. ( TV & Monitore , Samsung )",
-   "link": "https://www.golem.de/news/anzeige-samsung-4k-tv-bei-amazon-vor-dem-prime-day-100-euro-unter-letztem-preis-2610-213618.html",
-   "published": "2026-10-01T11:35:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-06T11:35:02+00:00",
-   "img": "https://www.golem.de/2610/213618-601136-601134_rc.jpg",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Urteil - Bundesgerichtshof erklärt Preiserhöhungsklausel bei \"Amazon Prime\" für unwirksam",
-     "link": "https://www.deutschlandfunk.de/bundesgerichtshof-erklaert-preiserhoehungsklausel-bei-amazon-prime-fuer-unwirksam-100.html"
-    },
-    {
-     "source": "heise online",
-     "title": "Bundesgerichtshof bestätigt: Preiserhöhung bei Amazon Prime unwirksam",
-     "link": "https://www.heise.de/news/BGH-zu-verwirrender-Amazon-AGB-Preiserhoehung-bei-Amazon-Prime-ist-unwirksam-11473491.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "BGH kippt Preiserhöhung bei Amazon Prime",
-     "link": "https://www.tagesschau.de/wirtschaft/verbraucher/amazon-prime-preiserhoehung-bgh-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n09fb196efb",
-   "topic": "nfl",
-   "title": "Patriots up-to-date depth chart: Who is on the roster right now?",
-   "text": "An updated look at the Patriots’ roster in 2026.",
-   "link": "https://sports.yahoo.com/articles/patriots-date-depth-chart-roster-202222083.html",
-   "published": "2026-10-01T11:30:31+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-06T11:30:31+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/82239915c8097a2c2068906b094c7079.jpg"
-  },
-  {
-   "id": "n42f69a6413",
-   "topic": "it",
-   "title": "heise+ | AGO-Filmprozessor im Test: Analoge Filme zu Hause entwickeln",
-   "text": "Filme selbst entwickeln, aber ohne ewiges Tankschütteln: Der AGO-Filmprozessor verspricht mehr Komfort – wir zeigen, für wen er sich wirklich lohnt.",
-   "link": "https://www.heise.de/ratgeber/AGO-Filmprozessor-im-Test-Analoge-Filme-zu-Hause-entwickeln-11463440.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-   "published": "2026-10-01T11:30:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-06T11:30:00+00:00"
-  },
-  {
-   "id": "nb166b9aa87",
-   "topic": "ki",
-   "title": "Ataraxos: Neue KI knackt Stratego als eines der letzten Brettspiele, in denen Menschen überlegen waren",
-   "text": "Das KI-System Ataraxos hat den besten Stratego-Spieler aller Zeiten klar geschlagen. Das Brettspiel gilt als harte Prüfung für KI, weil beide Seiten ihre Figuren verdeckt aufstellen. Google Deepmind war daran trotz Millionenbudget 2023 gescheitert. Forscher von Carnegie Mellon, NYU, Stanford und MIT brauchten für …",
-   "link": "https://the-decoder.de/ataraxos-neue-ki-knackt-stratego-als-eines-der-letzten-brettspiele-in-denen-menschen-ueberlegen-waren/",
-   "published": "2026-10-01T11:29:02+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-08T11:29:02+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/Stratego-Ataraxos-title.png"
-  },
-  {
-   "id": "n712fd47d92",
-   "topic": "welt",
-   "title": "USA: Verurteilte überlebt Hinrichtung in Tennessee",
-   "text": "Die wegen Mordes verurteilte Christa Pike lebte laut Darstellung ihrer Verteidiger auch noch nach der Verabreichung zweier Giftspritzen. Sie wird jetzt im Krankenhaus behandelt.",
-   "link": "https://www.dw.com/de/usa-verurteilte-überlebt-hinrichtung-in-tennessee/a-79501541?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-01T11:26:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-05T11:26:00+00:00",
-   "img": "https://static.dw.com/image/79496285_302.jpg"
-  },
-  {
-   "id": "nb3fd4d9b58",
-   "topic": "nfl",
-   "title": "Why the Cowboys traded for CB Joey Porter Jr. from the Steelers and where his contract stands",
-   "text": "Dallas scooped up the Steelers' disgruntled top cornerback late Wednesday night before Week 4",
-   "link": "https://www.cbssports.com/nfl/news/why-the-cowboys-traded-for-cb-joey-porter-jr/",
-   "published": "2026-10-01T11:25:09+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-06T11:25:09+00:00"
-  },
-  {
-   "id": "n6fd557e17c",
-   "topic": "politik",
-   "title": "Vierjährige getötet: Narkosearzt wegen Mordes verurteilt",
-   "text": "Im neuen Prozess nach dem Tod eines kleinen Mädchens in einer Zahnarztpraxis in Kronberg ist ein Narkosearzt wegen Mordes verurteilt worden. Das Landgericht Frankfurt sieht nun einen entscheidenden Unterschied zum ersten Urteil.",
-   "link": "https://www.hessenschau.de/panorama/vierjaehrige-getoetet-narkosearzt-wegen-mordes-verurteilt-v2,strafmass-narkosearzt-100.html",
-   "published": "2026-10-01T11:24:06+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-05T11:24:06+00:00",
-   "img": "https://www.hessenschau.de/panorama/narkosearzt-kronberg-prozess-102~_t-1787141723132_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "n6445fb6f1b",
-   "topic": "politik",
-   "title": "Warum Schwarz-Rot auf den \"Tankrabatt\" setzt",
-   "text": "Eigentlich wollte die Regierung hohe Spritpreise nicht einfach \"wegsubventionieren\". Doch seit heute gilt die Neuauflage des \"Tankrabatts\". Warum Union und SPD trotz Kritik darauf setzen - und was danach kommen soll. Von A.-K. Mellmann und B. Großkopff.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-bundesregierung-100.html",
-   "published": "2026-10-01T11:11:49+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-04T11:11:49+00:00",
-   "img": "https://images.tagesschau.de/image/92b2986f-8fe4-4d90-ae35-176cfbca1133/AAABoPcpVZs/AAABnSSvrFg/16x9-big/klingbeil-merz-154.jpg?width=1920"
-  },
-  {
-   "id": "n68c4d06b40",
-   "topic": "politik",
-   "title": "Kanzleramt bremst beim Gesetzentwurf zur Zuckersteuer",
-   "text": "Die geplante Zuckersteuer sorgt weiter für Schlagzeilen: Der von Finanzminister Klingbeil vorgelegte Gesetzentwurf stößt auf Widerstand im Kanzleramt. Der Entwurf weiche von Empfehlungen einer Finanzkommission ab.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-kanzleramt-100.html",
-   "published": "2026-10-01T11:01:33+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-04T11:01:33+00:00",
-   "img": "https://images.tagesschau.de/image/06101728-7650-439e-b730-871770edf9ba/AAABndgM06Q/AAABnSSvrFg/16x9-big/kiosk-zucker-102.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Nach Kritik aus dem Kanzleramt - Klingbeil hält an Einführung der Zuckersteuer fest",
-     "link": "https://www.deutschlandfunk.de/klingbeil-haelt-an-einfuehrung-der-zuckersteuer-fest-102.html"
-    }
-   ]
-  },
-  {
-   "id": "nd56cd95b52",
-   "topic": "wissenschaft",
-   "title": "Aktuelles am Himmel im Oktober 2026: Mond und Mars auf Wanderschaft",
-   "text": "Der Erdtrabant und der Rote Planet besuchen im Oktober zwei helle offene Sternhaufen. Auch sonst gibt es einiges am Herbsthimmel zu sehen.",
-   "link": "https://www.spektrum.de/news/aktuelles-am-himmel-september-2026/2333388",
-   "published": "2026-10-01T11:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-10-15T11:00:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/Teaser_Startrails.jpg.8103767.jpg?f=1280x720"
-  },
-  {
-   "id": "nc00cf8f277",
-   "topic": "welt",
-   "title": "R+V-Studie \"Ängste der Deutschen\": Teuerung auf Platz eins, Sorgen über Migration und Politikvertrauen folgen",
-   "text": "Wovor haben die Deutschen 2026 am meisten Angst? Vor Kriegen, vor globalen Krisen? Falsch. Die größte Sorge gilt den Leben, das immer teurer wird.",
-   "link": "https://www.dw.com/de/r-v-studie-ängste-der-deutschen-teuerung-auf-platz-eins-sorgen-über-migration-und-politikvertrauen-folgen/a-79481807?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-01T10:02:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-05T10:02:00+00:00",
-   "img": "https://static.dw.com/image/79397265_302.jpg"
-  },
-  {
-   "id": "n632b1e3907",
-   "topic": "ki",
-   "title": "OpenAI wirft Kimi-Entwickler Moonshot AI vor, Denkprozesse seiner Modelle abgegriffen zu haben",
-   "text": "OpenAI hat eine koordinierte Kampagne gestoppt, bei der über 15.000 Konten versuchten, die versteckten Denkschritte seiner Modelle zu kopieren – einen Teil der Aktivität ordnet das Unternehmen Personen im Umfeld von Moonshot AI zu. Doch Forscher zeigen: Über Microsoft Azure funktionierte derselbe Angriff noch …",
-   "link": "https://the-decoder.de/openai-wirft-kimi-entwickler-moonshot-ai-vor-denkprozesse-seiner-modelle-abgegriffen-zu-haben/",
-   "published": "2026-10-01T09:52:49+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-08T09:52:49+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/09/openai_gpt_6_stars_astra.png"
-  },
-  {
-   "id": "na7dd71d58e",
-   "topic": "wissenschaft",
-   "title": "Für die Schweizer Gletscher war 2026 ein verheerendes Jahr",
-   "text": "Seit Jahrtausenden prägen Gletscher die Schweizer Alpen. Doch neueste Zahlen geben Grund zur Sorge: Die Gletscher schmelzen weiter dramatisch und haben dieses Jahr mehr als fünf Prozent ihres Volumens verloren. Von Sandra Biegger.",
-   "link": "https://www.tagesschau.de/wissen/klima/schweiz-klima-gletscher-100.html",
-   "published": "2026-10-01T09:36:52+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-15T09:36:52+00:00",
-   "img": "https://images.tagesschau.de/image/5c7039f2-f0d9-4b54-9545-a25048ffd26b/AAABoPaO3GU/AAABnSSvrFg/16x9-big/gletscherschwund-aletschgletscher-100.jpg?width=1920"
-  },
-  {
-   "id": "n9f4c2880c9",
-   "topic": "welt",
-   "title": "PTBS in der Ukraine: Wie der Krieg die Psyche belastet",
-   "text": "Fast ein Drittel der ukrainischen Bevölkerung erfüllt die Kriterien für eine Posttraumatische Belastungsstörung. Ein zentraler Auslöser sind Russlands Angriffskrieg und seine Folgen – auch jenseits der Front.",
-   "link": "https://www.dw.com/de/ptbs-in-der-ukraine-wie-der-krieg-die-psyche-belastet/a-79488108?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-01T09:26:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-05T09:26:00+00:00",
-   "img": "https://static.dw.com/image/68630377_302.jpg"
-  },
-  {
-   "id": "nd70ba6935d",
-   "topic": "welt",
-   "title": "Südafrikas Präsident räumt Versäumnisse bei Gewalt gegen Frauen ein",
-   "text": "Südafrika wird von mehreren Morden an Frauen erschüttert. Präsident Ramaphosa hat nun Versäumnisse beim Kampf gegen geschlechtsbezogene Gewalt eingeräumt und Maßnahmen angekündigt - die halten Kritiker für längst überfällig. Von S. Ueberbach.",
-   "link": "https://www.tagesschau.de/ausland/afrika/suedafrika-gewalt-frauen-100.html",
-   "published": "2026-10-01T09:25:58+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-04T09:25:58+00:00",
-   "img": "https://images.tagesschau.de/image/c08943d5-23b7-475e-bc8e-2a2f6968c643/AAABoPbIsL8/AAABnSSvrFg/16x9-big/suedafrika-276.jpg?width=1920"
-  },
-  {
-   "id": "n9e0ae35d91",
-   "topic": "welt",
-   "title": "Flydubai-Pilot Smit Machchhar: Der Held aus dem Cockpit",
-   "text": "Der Flug von Dubai nach Tel Aviv entging nur knapp einer Katastrophe. Indien und Israel würdigen den Mut von Flydubai-Kapitän Smit Machchhar, der trotz schwerer Stichverletzungen Schlimmeres verhinderte.",
-   "link": "https://www.dw.com/de/flydubai-pilot-smit-machchhar-der-held-aus-dem-cockpit/a-79497251?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-01T08:55:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-05T08:55:00+00:00",
-   "img": "https://static.dw.com/image/79496976_302.jpg"
-  },
-  {
-   "id": "nb6029a9d70",
-   "topic": "politik",
-   "title": "Reformpläne: Hohe Erwartungen an die Pflegekommission",
-   "text": "Der erste Schritt zur Stabilisierung der Pflegeversicherung ist getan - viele schwierige Fragen sollen von einer Kommission geklärt werden. Ein zentraler SPD-Vorschlag soll dort laut Gesundheitsminister Linnemann aber kein Thema sein.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-208.html",
-   "published": "2026-10-01T08:50:11+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-04T08:50:11+00:00",
-   "img": "https://images.tagesschau.de/image/472b4b73-8f98-4b3a-87cf-466426537bb1/AAABoPZUZYs/AAABnSSvrFg/16x9-big/carsten-linnemann-128.jpg?width=1920"
-  },
-  {
-   "id": "n2740d29233",
-   "topic": "wirtschaft",
-   "title": "Was Autofahrer zum Start des neuen \"Tankrabatts\" wissen müssen",
-   "text": "Ab heute gilt ein neuer \"Tankrabatt\". Wie kommen Kunden an günstigeren Sprit? Wann lohnt sich das Tanken und wie viel kann man sparen? Was man zum Start des \"Tankrabatts\" wissen muss.",
-   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/faq-tankrabatt-100.html",
-   "published": "2026-10-01T08:34:33+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-04T08:34:33+00:00",
-   "img": "https://images.tagesschau.de/image/809e7695-a264-402f-b95e-1acd066d7936/AAABoPJFm8I/AAABnSSvrFg/16x9-big/zapfhaehne-tankstelle-100.jpg?width=1920"
-  },
-  {
-   "id": "n38e51402e8",
-   "topic": "welt",
-   "title": "Überwachung in China: Der Staat will alles sehen",
-   "text": "Mehr als 700 Millionen Kameras, die durch KI und Gesichtserkennung vernetzt sind, digitale Beobachtung im Internet: China betreibt das umfassendste Überwachungssystem der Welt. Viele finden das aber gar nicht schlimm. Von Christoph Kober.",
-   "link": "https://www.tagesschau.de/ausland/asien/china-ueberwachung-106.html",
-   "published": "2026-10-01T08:23:14+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-04T08:23:14+00:00",
-   "img": "https://images.tagesschau.de/image/fdbd6c44-13cc-4bb6-9a65-ff0d78fd5227/AAABoPZAzsk/AAABnSSvrFg/16x9-big/china-ueberwachung-kameras-100.jpg?width=1920"
-  },
-  {
-   "id": "n2be68569dd",
-   "topic": "welt",
-   "title": "Neue Ausreiseverbote für Chinas \"nationale Sicherheit\"",
-   "text": "Peking verhängt für immer mehr Chinesen Ausreiseverbote. Nun soll ein weit gefasstes neues Gesetz die Abwanderung von Know-how, Technologie und Talenten verhindern - vor allem in die USA. Von Marie von Mallinckrodt.",
-   "link": "https://www.tagesschau.de/ausland/asien/china-ausreisebeschraenkungen-100.html",
-   "published": "2026-10-01T08:22:51+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-04T08:22:51+00:00",
-   "img": "https://images.tagesschau.de/image/a4e7eee9-8cf5-4046-85d8-0dcb469d203a/AAABoPaPI3Y/AAABnSSvrFg/16x9-big/flughafen-china-116.jpg?width=1920"
-  },
-  {
-   "id": "nd64876b4bf",
-   "topic": "welt",
-   "title": "Zwei Jahre Sheinbaum in Mexiko: Erfolge und Baustellen",
-   "text": "Ihr Amtsantritt als erste weibliche Präsidentin Mexikos war historisch. Zwei Jahre später verweist Claudia Sheinbaum auf weniger Morde und mehr Sozialleistungen. Doch bei Gewalt und Korruption bleiben Probleme.",
-   "link": "https://www.dw.com/de/zwei-jahre-sheinbaum-in-mexiko-erfolge-und-baustellen/a-79496491?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-01T08:16:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-05T08:16:00+00:00",
-   "img": "https://static.dw.com/image/79288765_302.jpg"
-  },
-  {
-   "id": "n0ee55ab91b",
-   "topic": "welt",
-   "title": "Eklat um Cristiano Ronaldo: Ende in Portugals Nationalteam?",
-   "text": "Weil er in der Nations League gegen Dänemark erneut nicht von Anfang spielen soll, reist Portugals Superstar überstürzt von der Nationalmannschaft ab. Seine Zukunft in der Selecao lässt er offen.",
-   "link": "https://www.dw.com/de/eklat-um-cristiano-ronaldo-ende-in-portugals-nationalteam/a-79497143?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-01T08:15:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-05T08:15:00+00:00",
-   "img": "https://static.dw.com/image/79497330_302.jpg"
   }
  ]
 }
