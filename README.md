@@ -80,3 +80,6 @@ Settings → Pages → „Deploy from a branch" → `main` / `/ (root)`. Danach 
 4. Bilder/Animationen, Kartenserien
 5. Vertiefung mit Recherche und Folgefragen direkt in der App
 6. Personalisierung (Likes/Verweildauer → Themengewichte)
+
+## Lizenz
+Alle Rechte vorbehalten – siehe [`LICENSE`](LICENSE): Ansehen und privates, nicht kommerzielles Nutzen der App sind erlaubt; Kopieren, Weiterverbreiten, Betreiben eigener Kopien und kommerzielle Nutzung nur mit schriftlicher Erlaubnis und Namensnennung. Inhalte Dritter siehe [`NOTICE.md`](NOTICE.md).
