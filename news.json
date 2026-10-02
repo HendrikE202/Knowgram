@@ -1,96 +1,371 @@
 {
- "generated": "2026-10-02T17:52:50.542827+00:00",
+ "generated": "2026-10-02T22:15:01.403326+00:00",
  "briefing": [
   "n03f725a0f2",
   "n1714ac5976",
-  "n1cc22fbc77",
-  "na11bb7e5da",
-  "ne3bf504cad",
   "n47ecdd8934",
   "n3016f53c8b",
-  "n0bc2416ae6",
-  "n6f243d25de",
-  "n8f2692098e"
+  "nd4d2096ddb",
+  "ne804ab72cb",
+  "n659c89b5b4",
+  "ndcf141cf94",
+  "nccf460a923"
  ],
  "ranked": [
   {
    "id": "n03f725a0f2",
-   "s": 30.9
+   "s": 29.9
   },
   {
    "id": "n1714ac5976",
-   "s": 30.9
-  },
-  {
-   "id": "n1cc22fbc77",
-   "s": 30.8
-  },
-  {
-   "id": "na11bb7e5da",
-   "s": 27.5
-  },
-  {
-   "id": "ne3bf504cad",
-   "s": 27.0
+   "s": 27.3
   },
   {
    "id": "n47ecdd8934",
-   "s": 26.4
+   "s": 25.3
   },
   {
    "id": "n3016f53c8b",
-   "s": 25.7
+   "s": 24.6
   },
   {
-   "id": "n0bc2416ae6",
-   "s": 22.4
+   "id": "nd4d2096ddb",
+   "s": 24.3
   },
   {
-   "id": "n6f243d25de",
-   "s": 22.0
+   "id": "ne804ab72cb",
+   "s": 23.8
   },
   {
-   "id": "n8f2692098e",
-   "s": 17.5
+   "id": "n659c89b5b4",
+   "s": 22.9
   },
   {
-   "id": "ndf3d8bed06",
-   "s": 17.4
+   "id": "ndcf141cf94",
+   "s": 22.3
   },
   {
-   "id": "nbe62dc994b",
-   "s": 17.3
-  },
-  {
-   "id": "n155d33c29a",
-   "s": 17.1
-  },
-  {
-   "id": "na957a5d915",
-   "s": 17.0
-  },
-  {
-   "id": "n0cf9eb9418",
-   "s": 15.9
-  },
-  {
-   "id": "n5fbd41cb1a",
-   "s": 15.3
-  },
-  {
-   "id": "nede164dde7",
-   "s": 13.7
-  },
-  {
-   "id": "n9c59e64597",
-   "s": 10.6
-  },
-  {
-   "id": "n0994b2d1ea",
-   "s": 10.6
+   "id": "nccf460a923",
+   "s": 22.2
   }
  ],
  "items": [
+  {
+   "id": "n135976944b",
+   "topic": "nfl",
+   "title": "Rams place Terrance Ferguson on IR",
+   "text": "Ferguson is out and Colby Parkinson is questionable",
+   "link": "https://sports.yahoo.com/articles/rams-place-terrance-ferguson-ir-220110334.html",
+   "published": "2026-10-02T22:01:10+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-07T22:01:10+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/acc451b1c0482239a6fb8f75f7663656.jpg"
+  },
+  {
+   "id": "nc68715f399",
+   "topic": "nfl",
+   "title": "Cowboys at Texans: Offensive, defensive impact players in Week 4",
+   "text": "2 Cowboys players who could play a major role on Sunday",
+   "link": "https://sports.yahoo.com/articles/cowboys-texans-offensive-defensive-impact-220000612.html",
+   "published": "2026-10-02T22:00:00+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-07T22:00:00+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/ab707ed7510ff6acd01b0ac35ec7ebae.jpg"
+  },
+  {
+   "id": "n719a309c28",
+   "topic": "politik",
+   "title": "Jobs in Gefahr - Warenhauskette Galeria meldet erneut Insolvenz an, Betriebsrat fordert Klarheit",
+   "text": "Nach dem erneuten Insolvenzantrag der Warenhauskette Galeria hat der Gesamtbetriebsrat vom Management Aufklärung über die Situation gefordert. Das geht aus einem Schreiben des Gesamtbetriebsrats und des Wirtschaftsausschusses an die Beschäftigten hervor, das der Deutschen Presse-Agentur vorliegt.",
+   "link": "https://www.deutschlandfunk.de/warenhauskette-galeria-meldet-erneut-insolvenz-an-betriebsrat-fordert-klarheit-102.html",
+   "published": "2026-10-02T21:47:43+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-04T21:47:43+00:00",
+   "img": "https://bilder.deutschlandfunk.de/cc/12/6a/f3/cc126af3-b68e-400d-9724-ca76dbfa6617/galeria-karstadt-kaufhof-102-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Kaufhauskette Galeria taumelt in die vierte Insolvenz",
+     "link": "https://www.tagesschau.de/wirtschaft/galeria-insolvenz-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n659c89b5b4",
+   "topic": "politik",
+   "title": "Ukraine-Krieg - Wieder russischer Angriff auf Südbrücke in Kiew - lange Staus",
+   "text": "Russland hat erneut die für den Verkehr wichtige Südbrücke in der ukrainischen Hauptstadt Kiew angegriffen.",
+   "link": "https://www.deutschlandfunk.de/wieder-russischer-angriff-auf-suedbruecke-in-kiew-lange-staus-102.html",
+   "published": "2026-10-02T21:47:43+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-04T21:47:43+00:00",
+   "img": "https://bilder.deutschlandfunk.de/e1/06/7d/e2/e1067de2-6230-41ae-943b-92085b1ff504/die-nachrichten-kachel-2176-zu1224-100-768x768.jpg"
+  },
+  {
+   "id": "n63cd0a10f4",
+   "topic": "politik",
+   "title": "Nach Druck der USA - Macron: G7 geben bis zu 100 Millionen Barrel Diesel und Rohöl frei",
+   "text": "Die G7-Staaten haben sich darauf verständigt, bis zu 100 Millionen Barrel Diesel und Rohöl aus ihren Reserven freizugeben. Wie Frankreichs Präsident Macron mitteilte, soll die Freigabe über einen Zeitraum von vier Monaten erfolgen, um die Energiemärkte zu entlasten. Damit reagierten die G7 auf eine Forderung …",
+   "link": "https://www.deutschlandfunk.de/macron-g7-geben-bis-zu-100-millionen-barrel-diesel-und-rohoel-frei-108.html",
+   "published": "2026-10-02T21:47:43+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-04T21:47:43+00:00"
+  },
+  {
+   "id": "n543dba7457",
+   "topic": "politik",
+   "title": "Straße von Hormus - Tanker unter Beschuss geraten",
+   "text": "In der Straße von Hormus ist nach britischen Angaben erneut ein Tanker angegriffen worden.",
+   "link": "https://www.deutschlandfunk.de/tanker-unter-beschuss-geraten-106.html",
+   "published": "2026-10-02T21:47:43+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-04T21:47:43+00:00",
+   "img": "https://bilder.deutschlandfunk.de/21/34/37/e2/213437e2-5bf0-4213-bf63-7b9f6b46f115/strasse-hormus-104-1920x1920.jpg"
+  },
+  {
+   "id": "ndcb62a096e",
+   "topic": "politik",
+   "title": "Bremen - Festakt mit Steinmeier und Merz zum Tag der Deutschen Einheit",
+   "text": "Mit einem Gottesdienst im Bremer Dom beginnen heute die zentralen Feierlichkeiten zum Tag der Deutschen Einheit.",
+   "link": "https://www.deutschlandfunk.de/festakt-mit-steinmeier-und-merz-zum-tag-der-deutschen-einheit-102.html",
+   "published": "2026-10-02T21:47:43+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-04T21:47:43+00:00",
+   "img": "https://bilder.deutschlandfunk.de/00/2f/34/65/002f3465-0c38-4121-ae0b-60e05dab04e7/bremen-fest-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Feierlichkeiten zu Tag der Deutschen Einheit in Bremen begonnen",
+     "link": "https://www.tagesschau.de/inland/bremen-tag-deutsche-einheit-100.html"
+    }
+   ]
+  },
+  {
+   "id": "nc1789673f8",
+   "topic": "politik",
+   "title": "Führungen und Gespräche - Muslimische Gemeinden laden zum 30. Tag der offenen Moschee",
+   "text": "Muslimische Gemeinden in ganz Deutschland öffnen heute ihre Gotteshäuser für die Öffentlichkeit.",
+   "link": "https://www.deutschlandfunk.de/muslimische-gemeinden-laden-zum-30-tag-der-offenen-moschee-102.html",
+   "published": "2026-10-02T21:47:43+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-04T21:47:43+00:00",
+   "img": "https://bilder.deutschlandfunk.de/FI/LE/_7/4e/FILE_74ede90abc5e4d3f1d69aaec9240d309/imago90796095h-jpg-102-768x768.jpg"
+  },
+  {
+   "id": "nc076ba8f41",
+   "topic": "nfl",
+   "title": "Use DraftKings promo code to get $150 in bonus bets by targeting Penn State-Northwestern, Virginia Tech-Pitt",
+   "text": "DraftKings offers $150 in bonus bets after your first $5 wager for college football betting and NFL on Friday",
+   "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-150-bonus-bets-penn-state-northwestern-virginia-tech-pitt/",
+   "published": "2026-10-02T21:37:30+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-07T21:37:30+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/07/26/f6e09138-10e1-46d1-8a69-6cb1358224dd/draftkings-bet-5-get-150.jpg"
+  },
+  {
+   "id": "n0045c035cc",
+   "topic": "nfl",
+   "title": "NFL Week 4 injury report: Justin Jefferson out, Nico Collins in; Terry McLaurin suffers late-week injury",
+   "text": "Here's a look at each game designation for Week 4 in the NFL",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-4-injury-report-justin-jefferson-aaron-donald-terry-mclaurin/",
+   "published": "2026-10-02T21:36:12+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-07T21:36:12+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2025/08/06/b86443a2-f39d-4648-b70b-32e5a3742433/justin-jefferson-vikings-imagn.jpg"
+  },
+  {
+   "id": "n9888abcf3b",
+   "topic": "politik",
+   "title": "Deutsche Bahn sperrt Bahnstrecke Bebra - Fulda für mehrere Monate",
+   "text": "Die Bahn plant umfassende Sanierungen in Osthessen: Fahrgäste zwischen Bebra und Fulda müssen sich auf 14 Wochen mit zahlreichen Ausfällen und Umleitungen einstellen.",
+   "link": "https://www.hessenschau.de/wirtschaft/deutsche-bahn-sperrt-bahnstrecke-bebra---fulda-fuer-mehrere-monate-v2,bahn-bauarbeiten-fulda-bebra-100.html",
+   "published": "2026-10-02T20:58:33+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-06T20:58:33+00:00",
+   "img": "https://www.hessenschau.de/wirtschaft/bahnhof-fulda-100~_t-1709806430863_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "ne74b11ab18",
+   "topic": "ki",
+   "title": "KI-Musikgenerator Suno kann jetzt gesprochene Texte mit passender Hintergrundmusik erzeugen",
+   "text": "Suno erweitert seinen KI-Musikgenerator um eine Funktion namens Speech, die gesprochene Texte und passende Hintergrundmusik in einer Tonspur erzeugt. Gedichte, Meditationen oder Gutenachtgeschichten sollen damit möglich sein. Wie das Modell trainiert wurde, verrät Suno nicht. Der Artikel KI-Musikgenerator Suno kann …",
+   "link": "https://the-decoder.de/ki-musikgenerator-suno-kann-jetzt-gesprochene-texte-mit-passender-hintergrundmusik-erzeugen/",
+   "published": "2026-10-02T20:02:36+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-09T20:02:36+00:00"
+  },
+  {
+   "id": "nb8d7394b36",
+   "topic": "welt",
+   "title": "Franz von Assisi: Vom Bettelmönch zur globalen Ikone",
+   "text": "Er wollte weder Macht noch Ruhm. Doch Leben und Lehren des Heiligen Franz von Assisi inspirierten über Jahrhunderte hinweg Päpste, berühmte Dichter und sogar das faschistische Regime Mussolinis.",
+   "link": "https://www.dw.com/de/franz-von-assisi-vom-bettelmönch-zur-globalen-ikone/a-79424653?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-02T19:56:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-06T19:56:00+00:00",
+   "img": "https://static.dw.com/image/79261533_302.jpg"
+  },
+  {
+   "id": "n1714ac5976",
+   "topic": "politik",
+   "title": "Feierlichkeiten zu Tag der Deutschen Einheit in Bremen begonnen",
+   "text": "Mit einem symbolischen Raketenstart ist das Bürgerfest zum Tag der Deutschen Einheit in Bremen eröffnet worden. Bürgermeister Bovenschulte erwartet einen Tag der \"gelebten deutschen Einheit\". Die ersten prominenten Gäste sind bereits eingetroffen.",
+   "link": "https://www.tagesschau.de/inland/bremen-tag-deutsche-einheit-100.html",
+   "published": "2026-10-02T19:28:18+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-05T19:28:18+00:00",
+   "img": "https://images.tagesschau.de/image/745a26fb-9311-44c9-953c-93991464d0e9/AAABoP2tt2c/AAABnSSvrFg/16x9-big/merz-bremen-102.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Bremen - Festakt mit Steinmeier und Merz zum Tag der Deutschen Einheit",
+     "link": "https://www.deutschlandfunk.de/festakt-mit-steinmeier-und-merz-zum-tag-der-deutschen-einheit-102.html"
+    }
+   ]
+  },
+  {
+   "id": "nb03efcff7d",
+   "topic": "it",
+   "title": "Trickreicher Angriff knackt RSA-Signaturen – ein bisschen",
+   "text": "Ein neues Paper reduziert die angenommene Sicherheit von 1024-Bit-RSA, indem es Signaturen fälscht. Doch die Methode ist in der Praxis kaum relevant.",
+   "link": "https://www.heise.de/news/Kryptografie-Forscher-demonstrieren-neuartigen-Angriff-auf-RSA-11474271.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-02T19:22:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-07T19:22:00+00:00"
+  },
+  {
+   "id": "ndcf141cf94",
+   "topic": "welt",
+   "title": "G7-Staaten geben Diesel- und Rohöl-Reserven frei",
+   "text": "Die G7-Staaten wollen angesichts der hohen Kraftstoffpreise Öl-Reserven freigeben. Die USA hatten zuvor Druck vor allem auf die europäischen G7-Mitglieder gemacht. Für US-Präsident Trump sind die hohen Preise innenpolitisch ein großes Problem.",
+   "link": "https://www.tagesschau.de/ausland/g7-dieselreserven-100.html",
+   "published": "2026-10-02T19:17:42+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-05T19:17:42+00:00",
+   "img": "https://images.tagesschau.de/image/60251f3c-31b5-44e4-b51e-90fe19b5360d/AAABoP04Dqg/AAABnSSvrFg/16x9-big/oelraffinerie-106.jpg?width=1920"
+  },
+  {
+   "id": "nccf460a923",
+   "topic": "welt",
+   "title": "Überstellung gefangener Nordkoreaner wird zum Skandal zwischen der Ukraine und Südkorea",
+   "text": "Die Überstellung zweier nordkoreanischer Kriegsgefangener nach Seoul hat zu einem diplomatischen Eklat geführt. Warum fordert Südkorea nun eine Entschuldigung von der Ukraine?",
+   "link": "https://www.dw.com/de/überstellung-gefangener-nordkoreaner-wird-zum-skandal-zwischen-der-ukraine-und-südkorea/a-79502588?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-02T19:15:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-06T19:15:00+00:00",
+   "img": "https://static.dw.com/image/71277984_302.jpg"
+  },
+  {
+   "id": "n7260b19a0a",
+   "topic": "welt",
+   "title": "Frankreichs Schulprotest hält an - Regierung verspricht Verbesserungen",
+   "text": "Seit Tagen gehen Schülerinnen und Schüler in Frankreich auf die Straße, um mehr Geld für Bildung einzufordern. Bildungsminister Geffray versprach Verbesserungen. Schülervertreter wollen weiter protestieren - distanzieren sich aber von Gewalt.",
+   "link": "https://www.tagesschau.de/ausland/europa/schuelerproteste-frankreich-100.html",
+   "published": "2026-10-02T19:00:30+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-05T19:00:30+00:00",
+   "img": "https://images.tagesschau.de/image/f39032ac-e431-40fb-98a4-7cd1a759638b/AAABoP2VGD4/AAABnSSvrFg/16x9-big/frankreich-proteste-208.jpg?width=1920"
+  },
+  {
+   "id": "n9380379376",
+   "topic": "ki",
+   "title": "Anthropic flog heimlich Dutzende religiöse Denker ein, um über Claudes mögliches Bewusstsein zu sprechen",
+   "text": "Anthropic hat seit Herbst 2025 Dutzende religiöse Denker unter Geheimhaltung eingeflogen, um über ein mögliches Bewusstsein von Claude zu diskutieren. Mitgründer Christopher Olah beschrieb das Sprachmodell dabei als potenziell leidensfähig. Gleichzeitig steuert Anthropic trotz Sicherheitsrisiken und moralischer …",
+   "link": "https://the-decoder.de/anthropic-flog-heimlich-dutzende-religioese-denker-ein-um-ueber-claudes-moegliches-bewusstsein-zu-sprechen/",
+   "published": "2026-10-02T18:45:05+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-09T18:45:05+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/anthropic_religious_meetings.png"
+  },
+  {
+   "id": "n145ec683b8",
+   "topic": "it",
+   "title": "Der Bürger muss begründen, der Staat darf schweigen: IFG-Reform droht",
+   "text": "Weniger Rechte für Bürger, hohe Gebühren, Schwärzungen und mehr: Datenschützer zerlegen Pläne der Bundesregierung zur „Abschaffung der Informationsfreiheit“.",
+   "link": "https://www.heise.de/news/Glaeserner-Buerger-geheimer-Staat-Informationsfreiheitgesetz-in-Gefahr-11474799.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-02T18:39:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-07T18:39:00+00:00"
+  },
+  {
+   "id": "ne1f4be0c25",
+   "topic": "it",
+   "title": "Skoda ruft 1,7 Millionen Fahrzeuge zurück",
+   "text": "Nach VW, Audi und Seat ruft auch Skoda rund 1,7 Millionen Fahrzeuge wegen eines möglichen Schraubenabrisses an der Lenkung zurück.",
+   "link": "https://www.heise.de/news/Skoda-ruft-1-7-Millionen-Fahrzeuge-zurueck-11474865.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-02T18:10:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-07T18:10:00+00:00"
+  },
+  {
+   "id": "nc8fec02176",
+   "topic": "wirtschaft",
+   "title": "Wirtschaft vor acht vom 02.10.2026",
+   "text": "Wirtschaft vor acht vom 02.10.2026",
+   "link": "https://www.tagesschau.de/video/video-1659528.html",
+   "published": "2026-10-02T18:00:23+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-05T18:00:23+00:00",
+   "img": "https://images.tagesschau.de/image/b765c380-1088-46cb-b330-d636c225781b/AAABoP3FnmA/AAABnSSvrFg/16x9-big/sendungsbild-1806032.jpg?width=1920"
+  },
+  {
+   "id": "n0b5ba41e1f",
+   "topic": "politik",
+   "title": "Warum es in der schwarz-roten Koalition knirscht",
+   "text": "Pflege, Rente, Zuckersteuer und überall Spardruck: Es ruckelt heftig in der schwarz-roten Koalition. Gleichzeitig steigt die Unzufriedenheit, viele Menschen fordern spürbare Entlastungen. Wie kommt die Koalition da raus?",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/pflege-zucker-koalition-100.html",
+   "published": "2026-10-02T17:53:12+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-05T17:53:12+00:00",
+   "img": "https://images.tagesschau.de/image/5068319d-c36d-47f1-9a11-08caf0cdf3b5/AAABoP0B9JQ/AAABnSSvrFg/16x9-big/merz-klingbeil-164.jpg?width=1920"
+  },
   {
    "id": "na160ec2a3f",
    "topic": "nfl",
@@ -165,8 +440,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-04T17:11:03+00:00",
-   "img": "https://bilder.deutschlandfunk.de/fd/04/e4/f8/fd04e4f8-8251-4044-821d-49fb2d688160/emmanuel-macron-118-1920x1920.jpg"
+   "expires": "2026-10-04T17:11:03+00:00"
   },
   {
    "id": "n3363ad7c17",
@@ -346,19 +620,6 @@
    "lang": "de",
    "expires": "2026-10-05T16:18:24+00:00",
    "img": "https://images.tagesschau.de/image/bff6c2aa-811e-4c22-8c0e-3c950bc4c5a5/AAABoP1AdGk/AAABnSSvrFg/16x9-big/bilger-140.jpg?width=1920"
-  },
-  {
-   "id": "ndcf141cf94",
-   "topic": "welt",
-   "title": "G7-Staaten geben Diesel- und Rohöl-Reserven frei",
-   "text": "Die G7-Staaten wollen angesichts der hohen Kraftstoffpreise Öl-Reserven freigeben. Die USA hatten zuvor Druck vor allem auf die europäischen G7-Mitglieder gemacht. Für US-Präsident Trump sind die hohen Preise innenpolitisch ein großes Problem.",
-   "link": "https://www.tagesschau.de/ausland/g7-dieselreserven-100.html",
-   "published": "2026-10-02T16:07:28+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-05T16:07:28+00:00",
-   "img": "https://images.tagesschau.de/image/60251f3c-31b5-44e4-b51e-90fe19b5360d/AAABoP04Dqg/AAABnSSvrFg/16x9-big/oelraffinerie-106.jpg?width=1920"
   },
   {
    "id": "n63af9d969e",
@@ -640,8 +901,8 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Jobs in Gefahr - Warenhauskette Galeria meldet erneut Insolvenz an, Betriebsrat und Verdi fordern schnell Aufklärung",
-     "link": "https://www.deutschlandfunk.de/warenhauskette-galeria-meldet-erneut-insolvenz-an-betriebsrat-und-verdi-fordern-schnell-aufklaerung-100.html"
+     "title": "Jobs in Gefahr - Warenhauskette Galeria meldet erneut Insolvenz an, Betriebsrat fordert Klarheit",
+     "link": "https://www.deutschlandfunk.de/warenhauskette-galeria-meldet-erneut-insolvenz-an-betriebsrat-fordert-klarheit-102.html"
     }
    ]
   },
@@ -823,26 +1084,6 @@
    "expires": "2026-10-07T09:36:00+00:00"
   },
   {
-   "id": "n1714ac5976",
-   "topic": "politik",
-   "title": "Deutschland zum Tag der Deutschen Einheit zu Gast in Bremen",
-   "text": "Mehr als 700 Veranstaltungen und prominente Gäste: Bremen verwandelt sich zum 3. Oktober in eine Festivalmeile. Bürgermeister Bovenschulte erwartet einen Tag der \"gelebten deutschen Einheit\". 400.000 Menschen werden erwartet.",
-   "link": "https://www.tagesschau.de/inland/bremen-tag-deutsche-einheit-100.html",
-   "published": "2026-10-02T09:31:59+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-05T09:31:59+00:00",
-   "img": "https://images.tagesschau.de/image/aac85033-7e29-4ee0-b38d-fe3ab8be0630/AAABoPv5MxU/AAABnSSvrFg/16x9-big/bremen-stadtmusikanten-102.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Bremen - Bürgerfest zum Tag der Deutschen Einheit beginnt",
-     "link": "https://www.deutschlandfunk.de/buergerfest-zum-tag-der-deutschen-einheit-beginnt-100.html"
-    }
-   ]
-  },
-  {
    "id": "ne5174d73e4",
    "topic": "nfl",
    "title": "Giants' John Harbaugh gets candid on 'shock sandwich' in first season | Exclusive",
@@ -916,14 +1157,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-05T09:08:12+00:00",
-   "img": "https://images.tagesschau.de/image/8cd7ae05-f53c-4ea9-ab62-5171d3bff518/AAABlgtT-Oo/AAABnSSvrFg/16x9-big/amazon-prime-115.jpg?width=1920",
-   "also": [
-    {
-     "source": "Golem.de",
-     "title": "Nach BGH-Urteil: Amazon reduziert Abopreise für Altkunden",
-     "link": "https://www.golem.de/news/nach-bgh-urteil-amazon-reduziert-abopreise-fuer-altkunden-2610-213633.html"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/8cd7ae05-f53c-4ea9-ab62-5171d3bff518/AAABlgtT-Oo/AAABnSSvrFg/16x9-big/amazon-prime-115.jpg?width=1920"
   },
   {
    "id": "ned9e2ca691",
@@ -1214,7 +1448,7 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Deutschland zum Tag der Deutschen Einheit zu Gast in Bremen",
+     "title": "Feierlichkeiten zu Tag der Deutschen Einheit in Bremen begonnen",
      "link": "https://www.tagesschau.de/inland/bremen-tag-deutsche-einheit-100.html"
     }
    ]
@@ -1410,14 +1644,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-03T20:17:20+00:00",
-   "img": "https://bilder.deutschlandfunk.de/57/8e/69/de/578e69de-4117-4cb9-8d36-b3d49be35e75/drohnen-bundeswehr-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Bundeswehr reagiert mit erstem Drohnenregiment auf Ukraine-Krieg",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/drohnenregiment-pistorius-100.html"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/57/8e/69/de/578e69de-4117-4cb9-8d36-b3d49be35e75/drohnen-bundeswehr-100-1920x1920.jpg"
   },
   {
    "id": "n2b04cd3aa3",
@@ -1430,14 +1657,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-03T20:17:20+00:00",
-   "img": "https://bilder.deutschlandfunk.de/59/0d/1e/fb/590d1efb-5027-4030-a195-3e7f94cfa322/merz-rutte-muenster-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Merz' verleiht Friedenspreis an die NATO - \"Moskau Einhalt gebieten\"",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/merz-grundsatzrede-friedenspreis-muenster-100.html"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/59/0d/1e/fb/590d1efb-5027-4030-a195-3e7f94cfa322/merz-rutte-muenster-100-1920x1920.jpg"
   },
   {
    "id": "n0994b2d1ea",
@@ -1462,14 +1682,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-03T20:17:20+00:00",
-   "img": "https://bilder.deutschlandfunk.de/ec/d6/10/0c/ecd6100c-ebf8-4beb-b36e-226c68af9f77/amazon-prime-sammelklage-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "heise online",
-     "title": "Bundesgerichtshof bestätigt: Preiserhöhung bei Amazon Prime unwirksam",
-     "link": "https://www.heise.de/news/BGH-zu-verwirrender-Amazon-AGB-Preiserhoehung-bei-Amazon-Prime-ist-unwirksam-11473491.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/ec/d6/10/0c/ecd6100c-ebf8-4beb-b36e-226c68af9f77/amazon-prime-sammelklage-100-1920x1920.jpg"
   },
   {
    "id": "n92ffecc1c2",
@@ -1482,305 +1695,6 @@
    "type": "Sportmedium",
    "lang": "en",
    "expires": "2026-10-06T20:06:53+00:00"
-  },
-  {
-   "id": "na434c0193b",
-   "topic": "nfl",
-   "title": "Use FanDuel promo code to get $250 in bonus bets by targeting Steelers vs. Browns on Thursday Night Football",
-   "text": "Sign up and bet with the latest FanDuel promo code on Thursday to get your bonus bets",
-   "link": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-250-bonus-bets-steelers-browns-thursday-night-football/",
-   "published": "2026-10-01T20:05:32+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-06T20:05:32+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/09/20/d13a1e29-7c4b-469e-9dbb-b5c7e26a2c57/1920x1080.jpg"
-  },
-  {
-   "id": "n0ba5b8f318",
-   "topic": "nfl",
-   "title": "Lions, Panthers injury report: DJ Wonnum returns to practice on Thursday",
-   "text": "An updated look at the Lions and Panthers injury report ahead of their Week 4 matchup on “Sunday Night Football.”",
-   "link": "https://sports.yahoo.com/articles/lions-panthers-injury-report-dj-200441338.html",
-   "published": "2026-10-01T20:04:41+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-06T20:04:41+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/23b7d464eb9d4bb898126f7676d66a5f.jpg"
-  },
-  {
-   "id": "n18dbc71b8f",
-   "topic": "welt",
-   "title": "Netanjahu schreibt dem Flydubai-Co-Piloten islamistische Gesinnung zu",
-   "text": "Nach der Gewalttat auf einem Flydubai-Flug nach Tel Aviv laufen die Untersuchungen, wie es zu der Auseinandersetzung im Cockpit kam. Israels Premier Netanjahu geht von einer islamistischen Radikalisierung des Co-Piloten aus.",
-   "link": "https://www.tagesschau.de/ausland/asien/netanjahu-flydubai-copilot-islamistisch-100.html",
-   "published": "2026-10-01T19:54:14+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-04T19:54:14+00:00",
-   "img": "https://images.tagesschau.de/image/d8122c97-7e76-4937-8863-0933d4ab4a7f/AAABoPgELug/AAABnSSvrFg/16x9-big/flugzeug-flydubai-100.jpg?width=1920"
-  },
-  {
-   "id": "na11bb7e5da",
-   "topic": "politik",
-   "title": "Merz' verleiht Friedenspreis an die NATO - \"Moskau Einhalt gebieten\"",
-   "text": "Die Verleihung des Westfälischen Friedenspreises an die NATO in Münster hat Kanzler Merz für eine Grundsatzrede genutzt. Er unterstrich die Bedeutung der Allianz - auch, um \"Moskau Einhalt zu gebieten\".",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/merz-grundsatzrede-friedenspreis-muenster-100.html",
-   "published": "2026-10-01T19:41:16+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-04T19:41:16+00:00",
-   "img": "https://images.tagesschau.de/image/9217fa6f-07c5-41d7-84a2-0ed72c0e5266/AAABoPhecmE/AAABnSSvrFg/16x9-big/merz-rednerpult-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Münster - NATO erhält Westfälischen Friedenspreis - Merz: Bündnis hat Krieg mit Russland verhindert",
-     "link": "https://www.deutschlandfunk.de/nato-erhaelt-westfaelischen-friedenspreis-merz-buendnis-hat-krieg-mit-russland-verhindert-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n9e49b84ece",
-   "topic": "politik",
-   "title": "Weilmünster schafft Erinnerungsort für Opfer der NS-Krankenmorde",
-   "text": "Tausende psychisch kranke und behinderte Menschen wurden während der NS-Zeit in der Landesheilanstalt Weilmünster entrechtet und ermordet. Lange wurde darüber kaum gesprochen. Ein neuer Lern- und Erinnerungsort soll nun an ihre Schicksale erinnern. Er richtet sich besonders an junge Menschen.",
-   "link": "https://www.hessenschau.de/gesellschaft/weilmuenster-schafft-erinnerungsort-fuer-opfer-der-ns-krankenmorde-v1,erinnerungsort-weilmuenster-100.html",
-   "published": "2026-10-01T19:40:07+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-05T19:40:07+00:00",
-   "img": "https://www.hessenschau.de/gesellschaft/weilmuenster-erinnerungsort-102~_t-1790883606728_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "na40a4c3719",
-   "topic": "it",
-   "title": "Offene Rechenzentren: Viele Führungen am 6. November schon ausgebucht",
-   "text": "In diesem Jahr können Neugierige am 6. November 22 Rechenzentren in 12 Städten besichtigen. Viele Führungen beim „TdoRZ“ sind aber schon ausgebucht.",
-   "link": "https://www.heise.de/news/Tag-des-offenen-Rechenzentrums-Am-6-November-sind-noch-Plaetze-frei-11473357.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-01T19:39:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-06T19:39:00+00:00"
-  },
-  {
-   "id": "n6f49602c12",
-   "topic": "nfl",
-   "title": "Today's top games to watch, best bets, odds: Braves-Phillies Game 3, Steelers at Browns and more",
-   "text": "Find best bets and props for the biggest games in sports on Thursday from the SportsLine Projection Model and top CBS Sports experts",
-   "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-braves-phillies-game-3-steelers-at-browns-and-more/",
-   "published": "2026-10-01T19:33:00+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-06T19:33:00+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/01/41850823-b7af-46d8-9ac7-cf122bede80a/2026-09-30t211431z-1311658691-mt1usatoday29961160-rtrmadp-3-mlb-wildcard-philadelphia-phillies-at-atlanta-braves-jpg.jpg"
-  },
-  {
-   "id": "ndf3d8bed06",
-   "topic": "welt",
-   "title": "Todesstrafe in den USA: Die Grausamkeit der Giftspritze",
-   "text": "Im US-Bundesstaat Tennessee scheitert die Hinrichtung einer zum Tode verurteilten Frau. Der Fall entfacht die Debatte in den USA über die Giftspritze als Hinrichtungsmethode und die Todesstrafe insgesamt aufs Neue.",
-   "link": "https://www.dw.com/de/todesstrafe-in-den-usa-die-grausamkeit-der-giftspritze/a-79506042?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-01T19:23:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-05T19:23:00+00:00",
-   "img": "https://static.dw.com/image/66309478_302.jpg"
-  },
-  {
-   "id": "nbe62dc994b",
-   "topic": "welt",
-   "title": "Gescheiterte Hinrichtung in den USA sorgt für Entsetzen - Debatte über Todesstrafe",
-   "text": "Nach der fehlgeschlagenen Hinrichtung einer verurteilten Mörderin in den USA dringen Menschenrechtler auf die Abschaffung der Todesstrafe. Zum Zustand der Frau, die zwei Giftspritzen überlebt hat, ist weiterhin wenig bekannt.",
-   "link": "https://www.tagesschau.de/ausland/amerika/ende-der-todesstrafe-in-den-usa-gefordert-100.html",
-   "published": "2026-10-01T19:11:40+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-04T19:11:40+00:00",
-   "img": "https://images.tagesschau.de/image/90b3bf62-0234-4a4c-927b-a5d4e8467fea/AAABoPifbyA/AAABnSSvrFg/16x9-big/rettungsfahrzeuge-100.jpg?width=1920"
-  },
-  {
-   "id": "na072ad3f94",
-   "topic": "it",
-   "title": "Bundesgerichtshof bestätigt: Preiserhöhung bei Amazon Prime unwirksam",
-   "text": "Amazon.com hat 2022 Gebühren für deutsche Prime-Abonnenten erhöht. Die Vertragsklausel war allerdings so verwirrend, dass sie unwirksam ist. Rechtskräftig.",
-   "link": "https://www.heise.de/news/BGH-zu-verwirrender-Amazon-AGB-Preiserhoehung-bei-Amazon-Prime-ist-unwirksam-11473491.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-01T19:04:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-06T19:04:00+00:00",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Urteil - Bundesgerichtshof erklärt Preiserhöhungsklausel bei \"Amazon Prime\" für unwirksam",
-     "link": "https://www.deutschlandfunk.de/bundesgerichtshof-erklaert-preiserhoehungsklausel-bei-amazon-prime-fuer-unwirksam-100.html"
-    }
-   ]
-  },
-  {
-   "id": "nf5af7f8f85",
-   "topic": "it",
-   "title": "Ampel-Displays und Leihrad-Flop: Steuerzahlerbund rechnet mit Projekten ab",
-   "text": "Von Berliner Ampel-Prognosen für Radler bis zum Reboot der Münchner Leihräder: Schwarzbuch-Fälle zeigen, wie Steuergeld in Smart-City-Visionen verpufft.",
-   "link": "https://www.heise.de/news/VeloFlow-MVG-Rad-Millionenschwere-Digitalfoerderung-treibt-Stilblueten-11473459.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-01T18:30:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-06T18:30:00+00:00"
-  },
-  {
-   "id": "ndf121af07c",
-   "topic": "welt",
-   "title": "ARD-Deutschlandtrend: Rekordfrust über Merz und die Regierung. Warum die AfD profitiert und die Deutschen so verunsichert sind wie lange nicht.",
-   "text": "Nur noch zehn Prozent der Deutschen sind mit der Regierung zufrieden. Die Sorgen sind groß: KI, Trump, Russland, die geplanten Sozialreformen. Die Hoffnung, dass die Parteien Lösungen finden, sind gering.",
-   "link": "https://www.dw.com/de/ard-deutschlandtrend-rekordfrust-über-merz-und-die-regierung-warum-die-afd-profitiert-und-die-deutschen-so-verunsichert-sind-wie-lange-nicht/a-79507099?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-01T18:04:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-05T18:04:00+00:00",
-   "img": "https://static.dw.com/image/79484672_302.jpg"
-  },
-  {
-   "id": "n0da4a954af",
-   "topic": "ki",
-   "title": "Tavus stellt mit Griffin ein KI-Modell vor, das Videogespräche fast so menschlich führt wie ein Mensch",
-   "text": "Tavus stellt mit Griffin das nach eigenen Angaben erste \"Human Interaction Model\" vor: eine KI, die Videogespräche in Echtzeit führt und dabei Mimik, Tonfall und Gesten verarbeitet. In einer Studie hielten 48 Prozent der Teilnehmer Griffin für einen Menschen, bisherige Systeme kamen auf zwei Prozent. Der Artikel Tavus …",
-   "link": "https://the-decoder.de/tavus-stellt-mit-griffin-ein-ki-modell-vor-das-videogespraeche-fast-so-menschlich-fuehrt-wie-ein-mensch/",
-   "published": "2026-10-01T17:53:40+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-08T17:53:40+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/griffin_demo.png"
-  },
-  {
-   "id": "n5f26fd5863",
-   "topic": "politik",
-   "title": "Warum es schon wieder Diskussionen über die Zuckersteuer gibt",
-   "text": "Dass eine Zuckersteuer kommen soll, war eigentlich schon geklärt. Dennoch bremst das Kanzleramt jetzt bei einem Entwurf aus dem Finanzministerium. Was steckt dahinter? Warum drängt das Thema? Von Nicole Kohnert.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-protest-klingbeil-entwurf-100.html",
-   "published": "2026-10-01T17:49:18+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-04T17:49:18+00:00",
-   "img": "https://images.tagesschau.de/image/699bdb11-1877-4777-b26b-f4b7f1748ee2/AAABoPhwH2M/AAABnSSvrFg/16x9-big/suessigkeiten-supermarkt-regal-101.jpg?width=1920"
-  },
-  {
-   "id": "na957a5d915",
-   "topic": "wirtschaft",
-   "title": "Wirtschaft vor acht vom 01.10.2026",
-   "text": "Wirtschaft vor acht vom 01.10.2026",
-   "link": "https://www.tagesschau.de/video/video-1658986.html",
-   "published": "2026-10-01T17:46:32+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-04T17:46:32+00:00",
-   "img": "https://images.tagesschau.de/image/5074c8e0-9fb0-482a-bd30-6c4b2fbd1717/AAABoPiTOfA/AAABnSSvrFg/16x9-big/sendungsbild-1805514.jpg?width=1920"
-  },
-  {
-   "id": "nf60549f84b",
-   "topic": "it",
-   "title": "1&1 Telecommunication: 1&1 streicht Homeoffice nur für Bereich mit Betriebsrat",
-   "text": "Bei 1&1 in Montabaur soll es kein Homeoffice mehr geben. Aber nur in dem Bereich, wo die Beschäftigten einen Betriebsrat gewählt haben. ( 1&1 , Wirtschaft )",
-   "link": "https://www.golem.de/news/1-1-telecommunication-1-1-streicht-homeoffice-nur-fuer-bereich-mit-betriebsrat-2610-213632.html",
-   "published": "2026-10-01T17:40:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-06T17:40:02+00:00",
-   "img": "https://www.golem.de/2610/213632-601204-601202_rc.jpg"
-  },
-  {
-   "id": "nfb45663c99",
-   "topic": "it",
-   "title": "Nach BGH-Urteil: Amazon reduziert Abopreise für Altkunden",
-   "text": "Amazon hat den Rechtsstreit über eine Preiserhöhung bei Prime verloren. Kunden können über verschiedene Wege zu viel gezahlte Gebühren zurückfordern. ( Amazon , Rechtsstreitigkeiten )",
-   "link": "https://www.golem.de/news/nach-bgh-urteil-amazon-reduziert-abopreise-fuer-altkunden-2610-213633.html",
-   "published": "2026-10-01T17:39:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-06T17:39:02+00:00",
-   "img": "https://www.golem.de/2610/213633-601200-601198_rc.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Nach BGH-Urteil - Amazon senkt Preis für langjährige Prime-Kunden",
-     "link": "https://www.tagesschau.de/wirtschaft/verbraucher/amazon-prime-preiserhoehung-bgh-102.html"
-    }
-   ]
-  },
-  {
-   "id": "ne3bf504cad",
-   "topic": "politik",
-   "title": "Bundeswehr reagiert mit erstem Drohnenregiment auf Ukraine-Krieg",
-   "text": "Die Bundeswehr wird ein eigenes Drohnenregiment mit bis zu 600 Soldaten aufstellen - eine Konsequenz aus dem Ukraine-Krieg. Das kündigte Verteidigungsminister Pistorius an. Wo es stationiert wird, ist noch nicht bekannt.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/drohnenregiment-pistorius-100.html",
-   "published": "2026-10-01T17:25:59+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-04T17:25:59+00:00",
-   "img": "https://images.tagesschau.de/image/2326e84c-2a53-4fb6-a5cb-d46d9e5af4b0/AAABoPhmwsk/AAABnSSvrFg/16x9-big/drohne-bundeswehr-102.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Reaktion auf Ukraine-Krieg - Bundeswehr baut eigenes Drohnenregiment auf",
-     "link": "https://www.deutschlandfunk.de/bundeswehr-baut-eigenes-drohnenregiment-auf-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n341c1c5795",
-   "topic": "ki",
-   "title": "Ideogram 4.5 verspricht stabile KI-Bildbearbeitung ohne ungewollte Veränderungen",
-   "text": "Ideogram stellt mit Ideogram 4.5 ein Bildmodell vor, das bei der Editierung nur die gewünschten Bereiche verändert und den Rest des Bildes stabil hält. Das Modell bietet native 2K-Auflösung ab 0,8 Cent pro Bild und wird von Partnern wie Runway, Pika und Leonardo AI unterstützt. Ein Open-Weight-Release ist angekündigt. …",
-   "link": "https://the-decoder.de/ideogram-4-5-verspricht-stabile-ki-bildbearbeitung-ohne-ungewollte-veraenderungen/",
-   "published": "2026-10-01T17:25:03+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-08T17:25:03+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/ideogram_45.png"
-  },
-  {
-   "id": "ne403a1bab8",
-   "topic": "wirtschaft",
-   "title": "Marktbericht: DAX schließt unter 25.000 Punkten",
-   "text": "Steigende Energiepreise und weiter anziehende Anleiherenditen haben den Aktienmarkt geschwächt. Der DAX hat erstmals seit Juli unterhalb der psychologisch wichtige Marke von 25.000 Punkten geschlossen.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-inflation-100.html",
-   "published": "2026-10-01T16:41:56+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-04T16:41:56+00:00",
-   "img": "https://images.tagesschau.de/image/b67c6b6d-ed89-46e7-9b57-495550086b8e/AAABn1pS1lI/AAABnSSvrFg/16x9-big/boerse-524.jpg?width=1920"
-  },
-  {
-   "id": "n38540b4d69",
-   "topic": "wissenschaft",
-   "title": "Google schickt testweise KI-Chips ins All - Rechenzentren im All",
-   "text": "Unendliche Weite und extrem niedrige Temperaturen: Das Weltall könnte Potenzial für Rechenzentren bergen, die auf der Erde Ressourcen verbrauchen. Google wagt nun einen ersten Schritt in diese Richtung - trotz technischer Hürden. Von David Beck.",
-   "link": "https://www.tagesschau.de/wissen/weltraum/ki-chips-im-all-100.html",
-   "published": "2026-10-01T16:17:17+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-15T16:17:17+00:00",
-   "img": "https://images.tagesschau.de/image/4eb7a861-1859-498b-83ed-db4e473eca37/AAABoPfyIg0/AAABnSSvrFg/16x9-big/google-432.jpg?width=1920"
   }
  ]
 }
