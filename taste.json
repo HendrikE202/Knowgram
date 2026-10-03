@@ -2,130 +2,130 @@
  "topics": {
   "ar": {
    "n": 3,
-   "score": 0.43,
-   "nudge": 1
+   "downs": 0,
+   "nudge": 0
   },
   "bf": {
    "n": 1,
-   "score": 0.2,
+   "downs": 0,
    "nudge": 0
   },
   "biologie": {
    "n": 2,
-   "score": 0.33,
+   "downs": 0,
    "nudge": 0
   },
   "cd": {
    "n": 1,
-   "score": 0.2,
+   "downs": 0,
    "nudge": 0
   },
   "chemie": {
    "n": 2,
-   "score": 0.33,
+   "downs": 0,
    "nudge": 0
   },
   "geschichte": {
    "n": 4,
-   "score": 0.5,
+   "downs": 0,
    "nudge": 1
   },
   "it": {
    "n": 5,
-   "score": 0.11,
+   "downs": 2,
    "nudge": 0
   },
   "ki": {
    "n": 1,
-   "score": 0.2,
+   "downs": 0,
    "nudge": 0
   },
   "klima": {
    "n": 2,
-   "score": 0.33,
+   "downs": 0,
    "nudge": 0
   },
   "kosmologie": {
    "n": 2,
-   "score": 0.33,
+   "downs": 0,
    "nudge": 0
   },
   "kunst": {
    "n": 1,
-   "score": 0.2,
+   "downs": 0,
    "nudge": 0
   },
   "mathe": {
    "n": 2,
-   "score": 0.33,
+   "downs": 0,
    "nudge": 0
   },
   "medizin": {
    "n": 2,
-   "score": 0.33,
+   "downs": 0,
    "nudge": 0
   },
   "nfl": {
    "n": 1,
-   "score": 0.2,
+   "downs": 0,
    "nudge": 0
   },
   "philosophie": {
    "n": 2,
-   "score": 0.33,
+   "downs": 0,
    "nudge": 0
   },
   "physik": {
    "n": 1,
-   "score": 0.2,
+   "downs": 0,
    "nudge": 0
   },
   "politik": {
    "n": 4,
-   "score": 0.5,
+   "downs": 0,
    "nudge": 1
   },
   "psychologie": {
    "n": 3,
-   "score": 0.43,
-   "nudge": 1
+   "downs": 0,
+   "nudge": 0
   },
   "raumfahrt": {
    "n": 4,
-   "score": 0.5,
+   "downs": 0,
    "nudge": 1
   },
   "sc": {
    "n": 3,
-   "score": 0.43,
-   "nudge": 1
+   "downs": 0,
+   "nudge": 0
   },
   "sprache": {
    "n": 4,
-   "score": 0.5,
+   "downs": 0,
    "nudge": 1
   },
   "technik": {
    "n": 3,
-   "score": 0.43,
-   "nudge": 1
+   "downs": 0,
+   "nudge": 0
   },
   "welt": {
    "n": 4,
-   "score": 0.5,
+   "downs": 0,
    "nudge": 1
   },
   "wissenschaft": {
    "n": 1,
-   "score": 0.2,
+   "downs": 0,
    "nudge": 0
   },
   "zoologie": {
    "n": 4,
-   "score": 0.5,
+   "downs": 0,
    "nudge": 1
   }
  },
- "hinweis": "Nur ein leichter Stups (−1/0/+1), nie ein Ausschluss. Themen ohne Eintrag oder mit n < 3 sind unbekannt und werden erkundet.",
- "generated": "2026-10-03T12:00+00:00"
+ "hinweis": "Nur ein leichter Stups (-1/0/+1), nie ein Ausschluss. Themen ohne Eintrag sind unbekannt und werden erkundet. Plus = deutlich öfter bewertet als der Durchschnitt und fast nur geliked; Minus = mindestens 3 Dislikes und mindestens 40 Prozent.",
+ "generated": "2026-10-03T12:03+00:00"
 }
