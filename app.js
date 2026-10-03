@@ -646,6 +646,22 @@
       [...dots.children].forEach((d, j) => d.classList.toggle("on", i === j));
       if (i > 0 && !S.swiped) { S.swiped = true; persist(true); document.querySelectorAll(".swipehint").forEach((x) => x.remove()); }
     }, { passive: true });
+    // Hat eine Slide mehr Inhalt als Platz, schluckt sie senkrechtes Wischen. Am Ende/Anfang geben wir die Geste an den Feed weiter.
+    let tSlide = null, ty0 = 0, tx0 = 0, atTop0 = false, atEnd0 = false;
+    slidesEl.addEventListener("touchstart", (e) => {
+      const sl = e.target.closest && e.target.closest(".slide");
+      if (!sl || e.touches.length !== 1) { tSlide = null; return; }
+      tSlide = sl; ty0 = e.touches[0].clientY; tx0 = e.touches[0].clientX;
+      atTop0 = sl.scrollTop <= 1; atEnd0 = sl.scrollTop + sl.clientHeight >= sl.scrollHeight - 1;
+    }, { passive: true });
+    slidesEl.addEventListener("touchend", (e) => {
+      const sl = tSlide; tSlide = null;
+      if (!sl || sl.scrollHeight <= sl.clientHeight + 2) return;   // passt auf den Schirm: der Feed übernimmt von selbst
+      const t = e.changedTouches[0], dy = t.clientY - ty0, dx = t.clientX - tx0;
+      if (Math.abs(dy) < 50 || Math.abs(dx) > Math.abs(dy) * 0.6) return;
+      const other = dy < 0 && atEnd0 ? el.nextElementSibling : dy > 0 && atTop0 ? el.previousElementSibling : null;
+      if (other && other.classList.contains("card")) other.scrollIntoView({ behavior: "smooth" });
+    }, { passive: true });
     const el = h("article", { class: "card sl", "data-id": c.id, style: `--c:${t.c}` },
       coverEl(c, t),
       h("div", { class: "big" }, news ? "📰" : c.kind === "otd" ? "📅" : t.emoji),
