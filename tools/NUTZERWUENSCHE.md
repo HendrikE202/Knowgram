@@ -32,3 +32,8 @@ Regel: Ein Kommentar zu einer Karte gilt als Hinweis für **alle ähnlichen Kart
 - **Weniger:** Spiele-Tests und -Kritiken in den IT-Meldungen (zweimal „Gears of War“ mit 👎). Solche Tests nicht einordnen und bei knapper Auswahl hinten anstellen.
 - **Themenwunsch:** „Etwas mehr aktuelle Politik, Mythologie, Biologie“. Pro Lauf mindestens je eine Karte Mythologie/Sagen (Geschichte/Philosophie/Sprache einbetten) und Biologie; bei den Einordnungen Politik großzügig besetzen.
 - **Beliebteste Themen nach Likes (als Vorbild für Ton und Tiefe):** Geschichte, Archäologie, Psychologie, Raumfahrt, Technik, Zoologie/Biologie, Sprache, Klima, Philosophie.
+
+## Nachtrag 03.10.2026
+- **Werbung ist keine Nachricht.** Er fragte bei einem Wett-Gutscheinbeitrag („FanDuel promo code … bonus bets“): „Ist das legit oder leitest du mir hier Werbung weiter?“ → Bezahlte Werbung, Wett-/Gutscheinbeiträge und „Anzeige“/„heise-Angebot“ gehören nicht in den Feed (jetzt automatisch gefiltert, `AD` in `tools/fetch_news.py`). Solche Meldungen nie einordnen. Bei Unsicherheit, ob etwas Werbung ist: weglassen.
+- **Gut angekommen:** „Der Krake mit dem verteilten Gehirn“ (Zoologie) und „Ein Schimpfwort wird Kunstrichtung“ (Kunst): Beides sind **überraschende Herkunfts- und Aha-Geschichten**. Mehr davon: wie Begriffe und Bewegungen zu ihren Namen kamen (Impressionismus, Kubismus, Barock …), Tiere mit ungewöhnlichen Körperbauten oder Fähigkeiten.
+

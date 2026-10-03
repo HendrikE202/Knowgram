@@ -28,6 +28,17 @@ def clean(s, limit=320):
     return s
 
 
+# Bezahlte Werbung / Gutschein- und Wettbeiträge sind keine Nachrichten (Nutzer-Frage: „leitest du mir hier Werbung weiter?“)
+AD = re.compile(
+    r"promo ?code|bonus bets|bet \$?\d+|sportsbook|betmgm|fanduel|draftkings|caesars|bet365|\bodds\b.*\bpicks?\b|"
+    r"heise-angebot|^anzeige\b|\banzeige:|advertorial|sponsored|gutschein|rabattcode|rabatt-code|coupon|deal des tages|angebot des tages",
+    re.I)
+
+
+def is_ad(n):
+    return bool(AD.search((n.get("title") or "") + " " + (n.get("text") or "")[:160]))
+
+
 def parse_date(s):
     if not s:
         return None
@@ -199,7 +210,7 @@ def main():
         old = json.loads(out_path.read_text(encoding="utf-8")).get("items", [])
     except Exception:
         old = []
-    items = {n["link"]: n for n in old if n.get("link")}
+    items = {n["link"]: n for n in old if n.get("link") and not is_ad(n)}
 
     ok = failed = 0
     for f in cfg["feeds"]:
@@ -213,6 +224,8 @@ def main():
                     continue
                 if any(k.lower() in title.lower() for k in f.get("skip", [])):
                     continue  # z. B. Werbung/Webinare
+                if AD.search(title):
+                    continue  # bezahlte Werbung, Gutschein-/Wettbeiträge
                 got.append((d, {
                     "id": "n" + hashlib.sha1(link.encode()).hexdigest()[:10],
                     "topic": f["topic"], "title": clean(title, 160), "text": clean(desc),

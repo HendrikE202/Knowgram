@@ -4,10 +4,10 @@
 Datenschutz: In taste.json landen weder Titel, Notizen, Wünsche noch Karten-IDs – nur je Thema eine Zahl.
 (Das Repo ist öffentlich.) Notizen und Wünsche arbeitet weiterhin ein interaktives Claude von Hand in NUTZERWUENSCHE.md ein.
 
-Gegen Filterblasen ist alles bewusst vorsichtig gebaut:
-- Mindestens MIN_N Bewertungen je Thema, sonst gilt das Thema als „unbekannt“ (wird erkundet, nicht gewichtet).
-- Die Punktzahl wird geglättet: (Likes − Dislikes) / (Likes + Dislikes + K). Wenige Bewertungen ergeben also nur schwache Werte.
-- Ältere, verdichtete Bewertungen („arch“) zählen mit, aber nur halb.
+Gegen Filterblasen ist alles bewusst vorsichtig gebaut (und relativ gerechnet, weil fast alles geliked wird):
+- Plus (+1): Das Thema wurde deutlich öfter bewertet als der Durchschnitt (mindestens 1,5× und mindestens MIN_N) UND fast nur geliked.
+- Minus (−1): Mindestens 3 Dislikes UND ein Dislike-Anteil von mindestens 40 %. Einzelne Dislikes (z. B. zwei Spiele-Tests in „IT“) reichen nie.
+- Sonst 0. Ältere, verdichtete Bewertungen („arch“) zählen halb.
 - Das Ergebnis ist nur ein „Stups“ −1 / 0 / +1 je Thema und nie ein Ausschluss. Die Regeln dazu stehen in tools/ANWEISUNG_NEUE_KARTEN.md.
 
 Benötigt die Umgebungsvariable KNOWGRAM_SYNC_CODE (GitHub-Secret). Fehlt sie oder ist der Server nicht erreichbar,
@@ -20,9 +20,10 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 URL = "https://apipudwplhilusdqyemx.supabase.co/rest/v1/rpc/kg_summary"
 KEY = "sb_publishable_0QNoSsrwGFtS1BV2ZdkQUA_7-rfuwQI"        # öffentlicher Schlüssel (steht auch in config.js)
-MIN_N = 3          # ab so vielen Bewertungen zählt ein Thema
-K = 4              # Glättung: je größer, desto vorsichtiger
-STUPS = 0.25       # ab diesem Betrag gibt es einen Stups (+1/−1)
+MIN_N = 3          # ab so vielen Bewertungen zählt ein Thema für ein Plus
+PLUS_FAKTOR = 1.5  # Plus nur, wenn das Thema so viel öfter bewertet wurde wie der Durchschnitt
+MIN_DOWNS = 3      # Minus nur ab so vielen Dislikes
+MIN_DOWN_ANTEIL = 0.4
 
 
 def normalize(code):
@@ -40,15 +41,22 @@ def compute(summary):
     for t, a in (summary.get("arch") or {}).items():            # verdichtete ältere Bewertungen zählen halb
         half_up[t] = (a.get("up") or 0) * 0.5
         half_down[t] = (a.get("down") or 0) * 0.5
+    allt = set(up) | set(down) | set(half_up) | set(half_down)
+    ns = {t: up.get(t, 0) + down.get(t, 0) + half_up.get(t, 0) + half_down.get(t, 0) for t in allt}
+    mean_n = (sum(ns.values()) / len(ns)) if ns else 0
     topics = {}
-    for t in set(up) | set(down) | set(half_up) | set(half_down):
+    for t in allt:
         u = up.get(t, 0) + half_up.get(t, 0); d = down.get(t, 0) + half_down.get(t, 0)
         n = u + d
-        score = (u - d) / (n + K)
-        nudge = 0 if n < MIN_N else (1 if score >= STUPS else -1 if score <= -STUPS else 0)
-        topics[t] = {"n": round(n, 1), "score": round(score, 2), "nudge": nudge}
+        dislike_share = d / n if n else 0
+        nudge = 0
+        if d >= MIN_DOWNS and dislike_share >= MIN_DOWN_ANTEIL:
+            nudge = -1
+        elif n >= max(MIN_N, PLUS_FAKTOR * mean_n) and dislike_share <= 0.1:
+            nudge = 1
+        topics[t] = {"n": round(n, 1), "downs": round(d, 1), "nudge": nudge}
     return {"topics": dict(sorted(topics.items())),
-            "hinweis": "Nur ein leichter Stups (−1/0/+1), nie ein Ausschluss. Themen ohne Eintrag oder mit n < %d sind unbekannt und werden erkundet." % MIN_N}
+            "hinweis": "Nur ein leichter Stups (-1/0/+1), nie ein Ausschluss. Themen ohne Eintrag sind unbekannt und werden erkundet. Plus = deutlich öfter bewertet als der Durchschnitt und fast nur geliked; Minus = mindestens 3 Dislikes und mindestens 40 Prozent."}
 
 
 def main():
