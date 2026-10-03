@@ -1,55 +1,317 @@
 {
- "generated": "2026-10-02T22:15:01.403326+00:00",
+ "generated": "2026-10-03T05:19:36.537921+00:00",
  "briefing": [
   "n03f725a0f2",
   "n1714ac5976",
   "n47ecdd8934",
+  "n325c36dd79",
+  "n2c2ce157bd",
   "n3016f53c8b",
   "nd4d2096ddb",
-  "ne804ab72cb",
   "n659c89b5b4",
-  "ndcf141cf94",
   "nccf460a923"
  ],
  "ranked": [
   {
    "id": "n03f725a0f2",
-   "s": 29.9
+   "s": 28.1
   },
   {
    "id": "n1714ac5976",
-   "s": 27.3
+   "s": 25.5
   },
   {
    "id": "n47ecdd8934",
-   "s": 25.3
+   "s": 23.5
   },
   {
-   "id": "n3016f53c8b",
-   "s": 24.6
-  },
-  {
-   "id": "nd4d2096ddb",
-   "s": 24.3
-  },
-  {
-   "id": "ne804ab72cb",
-   "s": 23.8
-  },
-  {
-   "id": "n659c89b5b4",
+   "id": "n325c36dd79",
    "s": 22.9
   },
   {
-   "id": "ndcf141cf94",
-   "s": 22.3
+   "id": "n2c2ce157bd",
+   "s": 22.8
+  },
+  {
+   "id": "n3016f53c8b",
+   "s": 22.8
+  },
+  {
+   "id": "nd4d2096ddb",
+   "s": 22.5
+  },
+  {
+   "id": "n659c89b5b4",
+   "s": 21.1
   },
   {
    "id": "nccf460a923",
-   "s": 22.2
+   "s": 20.5
   }
  ],
  "items": [
+  {
+   "id": "n433641610c",
+   "topic": "wissenschaft",
+   "title": "Römisches Reich: Hightech trifft Archäologie",
+   "text": "Archäologie ohne zu graben? Das geht! Wie Laser und Geomagnetik verborgene Überreste in der Erde sogar dreidimensional sichtbar machen, zeigt Erich Claßen in diesem Science Slam.",
+   "link": "https://www.spektrum.de/video/science-slam-hightech-trifft-archaeologie/2347928",
+   "published": "2026-10-03T06:14:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-17T06:14:00+00:00"
+  },
+  {
+   "id": "n5fb1edfaa8",
+   "topic": "wissenschaft",
+   "title": "Kann sich die Lichtgeschwindigkeit verändern?",
+   "text": "Einstein hat festgestellt, dass Licht immer gleich schnell ist. Aber die Frage, ob es nicht vielleicht doch veränderlich ist, hat die Menschen nie losgelassen. 🎙️",
+   "link": "https://www.spektrum.de/podcast/sternengeschichten-kann-sich-die-lichtgeschwindigkeit-veraendern/2347925",
+   "published": "2026-10-03T06:13:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-17T06:13:00+00:00"
+  },
+  {
+   "id": "n412cd4313c",
+   "topic": "wissenschaft",
+   "title": "Das ABC der guten Nerds",
+   "text": "Manche Aufgaben kann KI ganz gut lösen, bei anderen halluziniert sie ganz gehörig. Das kann auch abhängig sein von der Version des Modells. 🎙️",
+   "link": "https://www.spektrum.de/podcast/nerds-at-work-das-abc-der-guten-nerds/2347922",
+   "published": "2026-10-03T06:13:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-17T06:13:00+00:00"
+  },
+  {
+   "id": "n719a309c28",
+   "topic": "politik",
+   "title": "Jobs in Gefahr - Warenhauskette Galeria meldet erneut Insolvenz an, Betriebsrat fordert Klarheit",
+   "text": "Nach dem erneuten Insolvenzantrag der Warenhauskette Galeria hat der Gesamtbetriebsrat vom Management Aufklärung über die Situation gefordert. Das geht aus einem Schreiben des Gesamtbetriebsrats und des Wirtschaftsausschusses an die Beschäftigten hervor, das der Deutschen Presse-Agentur vorliegt.",
+   "link": "https://www.deutschlandfunk.de/warenhauskette-galeria-meldet-erneut-insolvenz-an-betriebsrat-fordert-klarheit-102.html",
+   "published": "2026-10-03T05:15:39+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-05T05:15:39+00:00",
+   "img": "https://bilder.deutschlandfunk.de/cc/12/6a/f3/cc126af3-b68e-400d-9724-ca76dbfa6617/galeria-karstadt-kaufhof-102-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Kaufhauskette Galeria taumelt in die vierte Insolvenz",
+     "link": "https://www.tagesschau.de/wirtschaft/galeria-insolvenz-100.html"
+    }
+   ]
+  },
+  {
+   "id": "nc1789673f8",
+   "topic": "politik",
+   "title": "Führungen und Gespräche - Muslimische Gemeinden laden zum 30. Tag der offenen Moschee",
+   "text": "Muslimische Gemeinden in ganz Deutschland öffnen heute ihre Gotteshäuser für die Öffentlichkeit.",
+   "link": "https://www.deutschlandfunk.de/muslimische-gemeinden-laden-zum-30-tag-der-offenen-moschee-102.html",
+   "published": "2026-10-03T05:15:39+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-05T05:15:39+00:00",
+   "img": "https://bilder.deutschlandfunk.de/FI/LE/_7/4e/FILE_74ede90abc5e4d3f1d69aaec9240d309/imago90796095h-jpg-102-768x768.jpg"
+  },
+  {
+   "id": "n7d266f99ff",
+   "topic": "politik",
+   "title": "Tag der Deutschen Einheit - Ostbeauftragte Kaiser wirbt für ostdeutsches Staatsoberhaupt",
+   "text": "Die Ostbeauftragte der Bundesregierung, Kaiser, sieht Ostdeutsche in Führungspositionen in Politik, Wirtschaft und Gesellschaft noch immer nicht ausreichend vertreten. Sie finde, die Zeit sei reif für ein ostdeutsches Staatsoberhaupt.",
+   "link": "https://www.deutschlandfunk.de/ostbeauftragte-kaiser-wirbt-fuer-ostdeutsches-staatsoberhaupt-112.html",
+   "published": "2026-10-03T05:15:39+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-05T05:15:39+00:00",
+   "img": "https://bilder.deutschlandfunk.de/d8/57/2b/4a/d8572b4a-1c66-4361-90c6-d6bc66de2f2b/ostbeauftragte-kaiser-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Feierlichkeiten zu Tag der Deutschen Einheit in Bremen begonnen",
+     "link": "https://www.tagesschau.de/inland/bremen-tag-deutsche-einheit-100.html"
+    }
+   ]
+  },
+  {
+   "id": "na3b0680660",
+   "topic": "politik",
+   "title": "Bremen - Hunderte bei Antifa-Demo vor Tag der Deutschen Einheit",
+   "text": "In Bremen haben in der Innenstadt hunderte Menschen gegen die Feierlichkeiten zum Tag der Deutschen Einheit protestiert.",
+   "link": "https://www.deutschlandfunk.de/hunderte-bei-antifa-demo-vor-tag-der-deutschen-einheit-102.html",
+   "published": "2026-10-03T05:15:39+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-05T05:15:39+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Feierlichkeiten zu Tag der Deutschen Einheit in Bremen begonnen",
+     "link": "https://www.tagesschau.de/inland/bremen-tag-deutsche-einheit-100.html"
+    }
+   ]
+  },
+  {
+   "id": "nca6895d3c9",
+   "topic": "politik",
+   "title": "Krieg im Mitleren Osten - Zwei Tanker in Straße von Hormus unter Beschuss geraten",
+   "text": "In der Straße von Hormus sind nach britischen Angaben zwei weitere Tanker unter Beschuss geraten.",
+   "link": "https://www.deutschlandfunk.de/zwei-tanker-in-strasse-von-hormus-unter-beschuss-geraten-100.html",
+   "published": "2026-10-03T05:15:39+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-05T05:15:39+00:00"
+  },
+  {
+   "id": "n72700c4f80",
+   "topic": "politik",
+   "title": "Gegen Wohnungsnot - Städte- und Gemeindebund: Ländlichen Raum attraktiver machen",
+   "text": "Angesichts der Wohnungsknappheit und hoher Mieten in den Ballungsräumen hat der Deutsche Städte- und Gemeindebund eine Stärkung des ländlichen Raumes gefordert.",
+   "link": "https://www.deutschlandfunk.de/staedte-und-gemeindebund-laendlichen-raum-attraktiver-machen-100.html",
+   "published": "2026-10-03T05:15:39+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-05T05:15:39+00:00",
+   "img": "https://bilder.deutschlandfunk.de/75/1a/62/52/751a6252-0c22-45f3-9bbd-92bcbdb94506/berghegger-100-1920x1920.jpg"
+  },
+  {
+   "id": "n325c36dd79",
+   "topic": "welt",
+   "title": "Gefahren nach der Flutkatastrophe für Überlebende in Nepal",
+   "text": "Mehr als einen Monat nach der Flutkatastrophe im Himalaya ist die Lage für viele Überlebende immer noch prekär. Gerade für Kinder und junge Frauen birgt das Leben in Notunterkünften viele Gefahren. Von Franziska Amler.",
+   "link": "https://www.tagesschau.de/ausland/asien/nepal-nach-katastrophe-100.html",
+   "published": "2026-10-03T04:48:24+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-06T04:48:24+00:00",
+   "img": "https://images.tagesschau.de/image/1ae88a88-b0bd-4012-8922-edad6251cd5a/AAABoQAXiDY/AAABnSSvrFg/16x9-big/napal-notunterkunft-100.jpg?width=1920"
+  },
+  {
+   "id": "n2c2ce157bd",
+   "topic": "welt",
+   "title": "Lettland: Zwischen Russland-Sorge und hohen Lebenshaltungskosten",
+   "text": "Lettland wählt ein neues Parlament. Die hohen Lebenshaltungskosten und das Gesundheitssystem bestimmten den Wahlkampf. Aber auch die Sorge vor Russland. Ministerpräsident Kulbergs will seinen klaren Westkurs fortsetzen. Von Arne Bartram.",
+   "link": "https://www.tagesschau.de/ausland/europa/lettland-parlamentswahlen-104.html",
+   "published": "2026-10-03T04:32:49+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-06T04:32:49+00:00",
+   "img": "https://images.tagesschau.de/image/f7bf86f9-6d36-4d73-81bb-c7f6d59cf555/AAABoPzFd2I/AAABnSSvrFg/16x9-big/andris-kulbergs-100.jpg?width=1920"
+  },
+  {
+   "id": "n05e07b1a85",
+   "topic": "it",
+   "title": "Mini-PCs im Test: stark wie nie, aber viele sind teuer | c’t uplink",
+   "text": "Mini-PCs: klein, kräftig, kostengünstig, und der Mac Mini M6 ist auch dabei. Nein, halt, billig sind sie nicht, im Podcast müssen wir auch über Preise reden.",
+   "link": "https://www.heise.de/news/Mini-PCs-im-Test-stark-wie-nie-aber-viele-sind-teuer-c-t-uplink-11473733.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-03T04:30:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-08T04:30:00+00:00"
+  },
+  {
+   "id": "ne8dbe8e7cf",
+   "topic": "nfl",
+   "title": "Jaylen Addai, son of former Colts RB Joseph Addai, makes insane touchdown catch",
+   "text": "Former Colts star Joseph Addai watched his son Jaylen make a spectacular one handed catch in a recent high school game.",
+   "link": "https://sports.yahoo.com/articles/jaylen-addai-son-former-colts-040226208.html",
+   "published": "2026-10-03T04:02:26+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-08T04:02:26+00:00"
+  },
+  {
+   "id": "n5c50c8bcdf",
+   "topic": "politik",
+   "title": "Dauer von Asylverfahren in Hessen im Schnitt um ein halbes Jahr gesunken",
+   "text": "Asylverfahren werden in Hessen inzwischen sehr viel schneller abgeschlossen als noch vor einem Jahr. Am Verwaltungsgericht Darmstadt sank die durchschnittliche Verfahrensdauer sogar von gut 40 auf rund 20 Monate.",
+   "link": "https://www.hessenschau.de/politik/dauer-von-asylverfahren-in-hessen-im-schnitt-um-ein-halbes-jahr-gesunken-v1,asylverfahren-verwaltungsgerichte-100.html",
+   "published": "2026-10-03T04:00:00+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-07T04:00:00+00:00",
+   "img": "https://www.hessenschau.de/wirtschaft/aufenthaltsgestattung-100~_t-1790974547901_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "n7ebb826d20",
+   "topic": "nfl",
+   "title": "Commanders will sport new logo in 2027 season – report – All aTwitter",
+   "text": "Josh Harris and Mark Clouse tweaking the botched rebrand one step at a time",
+   "link": "https://sports.yahoo.com/articles/commanders-sport-logo-2027-season-040000673.html",
+   "published": "2026-10-03T04:00:00+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-08T04:00:00+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/b0570351593962858645c98b9f7f6525.jpg"
+  },
+  {
+   "id": "n155140c5a9",
+   "topic": "politik",
+   "title": "Ostdeutsche in Führungspositionen: \"Es gibt kaum positive Entwicklungen\"",
+   "text": "Auch 36 Jahre nach der Wiedervereinigung sind Ostdeutsche selten in Führungspositionen vertreten. Der Soziologe Hartmann sieht nur wenige Fortschritte - und spricht sich für Quoten bei der Besetzung von Posten aus.",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/hartmann-ostdeutsche-westdeutsche-fuehrungspositionen-100.html",
+   "published": "2026-10-03T03:32:08+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-06T03:32:08+00:00",
+   "img": "https://images.tagesschau.de/image/a38f8e2b-7632-46e7-9918-cab30b28d238/AAABoPx5gyE/AAABnSSvrFg/16x9-big/geschaeftsleute-104.jpg?width=1920"
+  },
+  {
+   "id": "ndc91096800",
+   "topic": "welt",
+   "title": "New Yorks Gouverneurin kündigt nach Gruppenvergewaltigung an Uni Aufklärung an",
+   "text": "Nach der mutmaßlichen Gruppenvergewaltigung an einer US-Elite-Universität verspricht New Yorks Gouverneurin Hochul jetzt Aufklärung. Staatsanwaltschaft und die Uni selbst waren zuvor in die Kritik geraten. Von Martin Ganslmeier.",
+   "link": "https://www.tagesschau.de/ausland/amerika/usa-gruppenvergewaltigung-elite-uni-100.html",
+   "published": "2026-10-03T01:55:59+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-06T01:55:59+00:00",
+   "img": "https://images.tagesschau.de/image/deceb2bd-1374-4b81-a107-c5d3353db1bd/AAABoP95rBQ/AAABnSSvrFg/16x9-big/james-hochul-100.jpg?width=1920"
+  },
+  {
+   "id": "n9c5e7a93f8",
+   "topic": "nfl",
+   "title": "Week 4 NFL odds, picks, predictions: Computer model backs Giants and Seahawks",
+   "text": "SportsLine's advanced model has simulated every game in the Week 4 NFL schedule 10,000 times and locked in its NFL best bets today",
+   "link": "https://www.cbssports.com/betting/news/week-4-2026-nfl-odds-lines-spreads-picks-predictions-today/",
+   "published": "2026-10-03T00:31:22+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-08T00:31:22+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/02/79cb93eb-f58d-481a-b965-1c8983b3d676/jaxon-smith-njigba-seattle-seahawks-imagn-images.jpg"
+  },
+  {
+   "id": "n4bbfbab677",
+   "topic": "welt",
+   "title": "Verletzter Flydubai-Pilot schildert erstmals Angriff im Cockpit",
+   "text": "Zwei Tage ist es her, dass ein Pilot auf einem Flug von Dubai nach Tel Aviv von seinem Co-Piloten angegriffen wurde - jetzt hat er sich erstmals selber zu dem Vorfall geäußert. Die Ermittlungen über die Hintergründe laufen.",
+   "link": "https://www.tagesschau.de/ausland/asien/flydubai-angriff-pilot-100.html",
+   "published": "2026-10-03T00:18:32+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-06T00:18:32+00:00",
+   "img": "https://images.tagesschau.de/image/04db3cba-059b-45fe-836f-1f5e81809fe5/AAABoPGsOwA/AAABnSSvrFg/16x9-big/flydubai-flugzeug-100.jpg?width=1920"
+  },
   {
    "id": "n135976944b",
    "topic": "nfl",
@@ -75,26 +337,6 @@
    "lang": "en",
    "expires": "2026-10-07T22:00:00+00:00",
    "img": "https://media.zenfs.com/en/sb_nation_articles_115/ab707ed7510ff6acd01b0ac35ec7ebae.jpg"
-  },
-  {
-   "id": "n719a309c28",
-   "topic": "politik",
-   "title": "Jobs in Gefahr - Warenhauskette Galeria meldet erneut Insolvenz an, Betriebsrat fordert Klarheit",
-   "text": "Nach dem erneuten Insolvenzantrag der Warenhauskette Galeria hat der Gesamtbetriebsrat vom Management Aufklärung über die Situation gefordert. Das geht aus einem Schreiben des Gesamtbetriebsrats und des Wirtschaftsausschusses an die Beschäftigten hervor, das der Deutschen Presse-Agentur vorliegt.",
-   "link": "https://www.deutschlandfunk.de/warenhauskette-galeria-meldet-erneut-insolvenz-an-betriebsrat-fordert-klarheit-102.html",
-   "published": "2026-10-02T21:47:43+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-04T21:47:43+00:00",
-   "img": "https://bilder.deutschlandfunk.de/cc/12/6a/f3/cc126af3-b68e-400d-9724-ca76dbfa6617/galeria-karstadt-kaufhof-102-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Kaufhauskette Galeria taumelt in die vierte Insolvenz",
-     "link": "https://www.tagesschau.de/wirtschaft/galeria-insolvenz-100.html"
-    }
-   ]
   },
   {
    "id": "n659c89b5b4",
@@ -131,8 +373,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-04T21:47:43+00:00",
-   "img": "https://bilder.deutschlandfunk.de/21/34/37/e2/213437e2-5bf0-4213-bf63-7b9f6b46f115/strasse-hormus-104-1920x1920.jpg"
+   "expires": "2026-10-04T21:47:43+00:00"
   },
   {
    "id": "ndcb62a096e",
@@ -153,19 +394,6 @@
      "link": "https://www.tagesschau.de/inland/bremen-tag-deutsche-einheit-100.html"
     }
    ]
-  },
-  {
-   "id": "nc1789673f8",
-   "topic": "politik",
-   "title": "Führungen und Gespräche - Muslimische Gemeinden laden zum 30. Tag der offenen Moschee",
-   "text": "Muslimische Gemeinden in ganz Deutschland öffnen heute ihre Gotteshäuser für die Öffentlichkeit.",
-   "link": "https://www.deutschlandfunk.de/muslimische-gemeinden-laden-zum-30-tag-der-offenen-moschee-102.html",
-   "published": "2026-10-02T21:47:43+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-04T21:47:43+00:00",
-   "img": "https://bilder.deutschlandfunk.de/FI/LE/_7/4e/FILE_74ede90abc5e4d3f1d69aaec9240d309/imago90796095h-jpg-102-768x768.jpg"
   },
   {
    "id": "nc076ba8f41",
@@ -247,8 +475,8 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Bremen - Festakt mit Steinmeier und Merz zum Tag der Deutschen Einheit",
-     "link": "https://www.deutschlandfunk.de/festakt-mit-steinmeier-und-merz-zum-tag-der-deutschen-einheit-102.html"
+     "title": "Tag der Deutschen Einheit - Ostbeauftragte Kaiser wirbt für ostdeutsches Staatsoberhaupt",
+     "link": "https://www.deutschlandfunk.de/ostbeauftragte-kaiser-wirbt-fuer-ostdeutsches-staatsoberhaupt-112.html"
     }
    ]
   },
@@ -698,19 +926,6 @@
    "lang": "de",
    "expires": "2026-10-16T15:00:00+00:00",
    "img": "https://static.spektrum.de/fm/912/thumbnails/reconstruction_image_of_Norellraptor.jpg.8413701.jpg?f=1280x720"
-  },
-  {
-   "id": "n4bbfbab677",
-   "topic": "welt",
-   "title": "Verletzter Flydubai-Pilot schildert erstmals Angriff im Cockpit",
-   "text": "Zwei Tage ist es her, dass ein Pilot auf einem Flug von Dubai nach Tel Aviv von seinem Co-Piloten angegriffen wurde - jetzt hat er sich erstmals selber zu dem Vorfall geäußert. Die Ermittlungen über die Hintergründe laufen.",
-   "link": "https://www.tagesschau.de/ausland/asien/flydubai-angriff-pilot-100.html",
-   "published": "2026-10-02T14:59:41+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-05T14:59:41+00:00",
-   "img": "https://images.tagesschau.de/image/04db3cba-059b-45fe-836f-1f5e81809fe5/AAABoPGsOwA/AAABnSSvrFg/16x9-big/flydubai-flugzeug-100.jpg?width=1920"
   },
   {
    "id": "nbac3633bfc",
@@ -1492,209 +1707,6 @@
      "link": "https://www.tagesschau.de/ausland/amerika/iss-crew-im-all-angekommen-100.html"
     }
    ]
-  },
-  {
-   "id": "nede164dde7",
-   "topic": "politik",
-   "title": "Großbritannien - Überfüllte Gefängnisse: Zahlreiche Häftlinge vorzeitig entlassen",
-   "text": "In Großbritannien sind angesichts überfüllter Gefängnisse erneut Hunderte Insassen vorzeitig aus der Haft entlassen worden.",
-   "link": "https://www.deutschlandfunk.de/ueberfuellte-gefaengnisse-zahlreiche-haeftlinge-vorzeitig-entlassen-100.html",
-   "published": "2026-10-02T00:39:02+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-04T00:39:02+00:00",
-   "img": "https://bilder.deutschlandfunk.de/FI/LE/_c/b2/FILE_cb2fc71c3e88ae780b89533ac2ac11e5/gefaengnis-london-jpg-100-768x768.jpg"
-  },
-  {
-   "id": "n6639a7f450",
-   "topic": "politik",
-   "title": "Nach Kritik aus dem Kanzleramt - Klingbeil hält an Einführung der Zuckersteuer fest",
-   "text": "Nach dem vorläufigen Stopp der Einführung einer Steuer auf zuckerhaltige Getränke hat Bundesfinanzminister Klingbeil angekündigt, an den Plänen festzuhalten.",
-   "link": "https://www.deutschlandfunk.de/klingbeil-haelt-an-einfuehrung-der-zuckersteuer-fest-102.html",
-   "published": "2026-10-02T00:39:02+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-04T00:39:02+00:00",
-   "img": "https://bilder.deutschlandfunk.de/e9/a5/a9/e5/e9a5a9e5-560d-4827-a448-0e73e4a64fcf/klingbeil-134-1920x1920.jpg"
-  },
-  {
-   "id": "n468b337ef2",
-   "topic": "politik",
-   "title": "Nach Kabinettsbeschluss - Städtetagspräsident: Pflegereform wird Kommunen zusätzlich belasten",
-   "text": "Die vom Kabinett beschlossene Pflegereform ist nach Ansicht des Deutschen Städtetags eine zusätzliche Belastung für die Kommunen.",
-   "link": "https://www.deutschlandfunk.de/staedtetagspraesident-pflegereform-wird-kommunen-zusaetzlich-belasten-100.html",
-   "published": "2026-10-02T00:39:02+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-04T00:39:02+00:00",
-   "img": "https://bilder.deutschlandfunk.de/00/38/9d/e9/00389de9-b331-4a3f-aeba-e8c06c1e9e54/burkhard-jung-102-1920x1920.jpg"
-  },
-  {
-   "id": "n1d9805c971",
-   "topic": "nfl",
-   "title": "Browns DT Mason Graham injured on Steelers first drive on Thursday Night Football",
-   "text": "The Cleveland Browns and Pittsburgh Steelers squared off for Thursday Night Football. DT Mason Graham was injured early",
-   "link": "https://sports.yahoo.com/articles/browns-dt-mason-graham-injured-003825689.html",
-   "published": "2026-10-02T00:38:25+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-07T00:38:25+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/8dd7385c4537d8078e7b8994f2c0c6e5.jpg"
-  },
-  {
-   "id": "n76393d6734",
-   "topic": "nfl",
-   "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets by targeting Steelers vs. Browns",
-   "text": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for Browns vs. Steelers on Thursday Night Football",
-   "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-steelers-vs-browns/",
-   "published": "2026-10-01T23:30:12+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-06T23:30:12+00:00"
-  },
-  {
-   "id": "ncea8b7aa3a",
-   "topic": "nfl",
-   "title": "Joey Porter Jr. embraces fresh start with Cowboys after feeling 'disrespected' by Steelers",
-   "text": "Porter Jr. couldn't help but grin from ear to ear when talking about now being a Dallas Cowboy",
-   "link": "https://www.cbssports.com/nfl/news/joey-porter-jr-embraces-fresh-start-cowboys-steelers/",
-   "published": "2026-10-01T23:22:35+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-06T23:22:35+00:00"
-  },
-  {
-   "id": "n3cc339bbda",
-   "topic": "it",
-   "title": "Komplizierte \"Paketsteuer\" in Kraft: 2,40 Euro pro Bestellung in Österreich",
-   "text": "14 Webshops müssen seit Donnerstag für die meisten Online-Bestellung aus Österreich 2 Euro Paketsteuer zahlen. Die meisten wälzen das ab, plus Umsatzsteuer.",
-   "link": "https://www.heise.de/news/Komplizierte-Paketsteuer-in-Kraft-2-40-Euro-pro-Bestellung-in-Oesterreich-11473555.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-01T22:04:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-06T22:04:00+00:00"
-  },
-  {
-   "id": "na4ed1cd4df",
-   "topic": "wirtschaft",
-   "title": "Frankreichs Regierung schnürt Sparpaket, die Bevölkerung protestiert",
-   "text": "Mit einem harten Sparkurs will Frankreichs Regierung das Haushaltsdefizit wieder in den Griff bekommen. Die Bevölkerung protestiert - besonders Schüler demonstrieren mit zunehmender Gewalt gegen Missstände an Schulen.",
-   "link": "https://www.tagesschau.de/ausland/europa/frankreich-sparmassnahmen-proteste-100.html",
-   "published": "2026-10-01T21:02:22+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-04T21:02:22+00:00",
-   "img": "https://images.tagesschau.de/image/f872a9d2-795d-44a8-9b73-6a22052d4c89/AAABoPgsnug/AAABnSSvrFg/16x9-big/protest-studenten-100.jpg?width=1920"
-  },
-  {
-   "id": "nbe702d5a57",
-   "topic": "politik",
-   "title": "News zu Eintracht Frankfurt",
-   "text": "Hier bekommen Sie immer die neuesten Nachrichten über Eintracht Frankfurt.",
-   "link": "https://www.hessenschau.de/sport/fussball/eintracht-frankfurt/eintracht-frankfurt-news-ticker-burkardt-darf-in-schlussphase-ran-beim-dfb,bundesliga-ticker-104.html",
-   "published": "2026-10-01T20:40:42+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-05T20:40:42+00:00",
-   "img": "https://www.hessenschau.de/sport/fussball/eintracht-frankfurt/burkardt-dfb-102~_t-1790886522132_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "n8bcabbb395",
-   "topic": "politik",
-   "title": "Medienbericht - USA drängen Deutschland zu Freigabe von Diesel-Reserven",
-   "text": "Die US-Regierung dringt einem Medienbericht zufolge bei Deutschland und Frankreich darauf, die eigenen Dieselreserven freizugeben. Das meldet die Nachrichtenagentur Reuters. Demnach drohen die USA anderenfalls damit, einen Exportstopp nach Deutschland und nach Frankreich zu verhängen.",
-   "link": "https://www.deutschlandfunk.de/usa-draengen-deutschland-zu-freigabe-von-diesel-reserven-104.html",
-   "published": "2026-10-01T20:17:20+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-03T20:17:20+00:00",
-   "img": "https://bilder.deutschlandfunk.de/c3/0d/80/54/c30d8054-4dae-4961-b60c-e3432e8c63dd/diesel-tanken-zapfsaeule-100-1920x1920.jpg"
-  },
-  {
-   "id": "n9c59e64597",
-   "topic": "politik",
-   "title": "Bundeskartellamt - Erste Bilanz: Neuer Tankrabatt offenbar größtenteils an Kunden weitergegeben",
-   "text": "Das Bundeskartellamt geht davon aus, dass der neue Tankrabatt zunächst größtenteils an die Kunden weitergegeben wurde.",
-   "link": "https://www.deutschlandfunk.de/erste-bilanz-neuer-tankrabatt-offenbar-groesstenteils-an-kunden-weitergegeben-100.html",
-   "published": "2026-10-01T20:17:20+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-03T20:17:20+00:00"
-  },
-  {
-   "id": "nf231b6d2e7",
-   "topic": "politik",
-   "title": "Reaktion auf Ukraine-Krieg - Bundeswehr baut eigenes Drohnenregiment auf",
-   "text": "Die Bundeswehr stellt erstmals ein eigenes Drohnenregiment auf. Verteidigungsminister Pistorius kündigte an, der Verband solle im Laufe des kommenden Jahres gebildet werden.",
-   "link": "https://www.deutschlandfunk.de/bundeswehr-baut-eigenes-drohnenregiment-auf-100.html",
-   "published": "2026-10-01T20:17:20+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-03T20:17:20+00:00",
-   "img": "https://bilder.deutschlandfunk.de/57/8e/69/de/578e69de-4117-4cb9-8d36-b3d49be35e75/drohnen-bundeswehr-100-1920x1920.jpg"
-  },
-  {
-   "id": "n2b04cd3aa3",
-   "topic": "politik",
-   "title": "Münster - NATO erhält Westfälischen Friedenspreis - Merz: Bündnis hat Krieg mit Russland verhindert",
-   "text": "Die NATO hat in Münster den diesjährigen Westfälischen Friedenspreis erhalten. Ihr Generalsekretär Rutte nahm die Auszeichnung im Rathaus entgegen. Bundeskanzler Merz würdigte in seiner Laudatio die Rolle der NATO.",
-   "link": "https://www.deutschlandfunk.de/nato-erhaelt-westfaelischen-friedenspreis-merz-buendnis-hat-krieg-mit-russland-verhindert-100.html",
-   "published": "2026-10-01T20:17:20+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-03T20:17:20+00:00",
-   "img": "https://bilder.deutschlandfunk.de/59/0d/1e/fb/590d1efb-5027-4030-a195-3e7f94cfa322/merz-rutte-muenster-100-1920x1920.jpg"
-  },
-  {
-   "id": "n0994b2d1ea",
-   "topic": "politik",
-   "title": "Ruhrgebiet - Verdacht auf staatsgefährdende Straftat: Drei Festnahmen in Unna und Hagen",
-   "text": "In Nordrhein-Westfalen hat die Polizei drei Männer festgenommen, die eine staatsgefährdende Straftat vorbereitet haben sollen.",
-   "link": "https://www.deutschlandfunk.de/verdacht-auf-staatsgefaehrdende-straftat-drei-festnahmen-in-unna-und-hagen-100.html",
-   "published": "2026-10-01T20:17:20+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-03T20:17:20+00:00"
-  },
-  {
-   "id": "nc45a8abf39",
-   "topic": "politik",
-   "title": "Urteil - Bundesgerichtshof erklärt Preiserhöhungsklausel bei \"Amazon Prime\" für unwirksam",
-   "text": "Der Bundesgerichtshof in Karlsruhe hat eine Gebührenerhöhung des Anbieters \"Amazon Prime\" für unwirksam erklärt.",
-   "link": "https://www.deutschlandfunk.de/bundesgerichtshof-erklaert-preiserhoehungsklausel-bei-amazon-prime-fuer-unwirksam-100.html",
-   "published": "2026-10-01T20:17:20+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-03T20:17:20+00:00",
-   "img": "https://bilder.deutschlandfunk.de/ec/d6/10/0c/ecd6100c-ebf8-4beb-b36e-226c68af9f77/amazon-prime-sammelklage-100-1920x1920.jpg"
-  },
-  {
-   "id": "n92ffecc1c2",
-   "topic": "nfl",
-   "title": "Minkah Fitzpatrick up to full participation at Jets practice",
-   "text": "Jets head coach Aaron Glenn gave safety Minkah Fitzpatrick a really good chance of returning to the lineup against the Bears this Sunday earlier this week and Fitzpatrick is moving in the right direction as the game gets closer.",
-   "link": "https://sports.yahoo.com/articles/minkah-fitzpatrick-full-participation-jets-200653533.html",
-   "published": "2026-10-01T20:06:53+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-06T20:06:53+00:00"
   }
  ]
 }
