@@ -1,55 +1,436 @@
 {
- "generated": "2026-10-04T23:57:47.019768+00:00",
+ "generated": "2026-10-05T05:42:03.124914+00:00",
  "briefing": [
   "n67ec18e8e5",
   "n2e99354c38",
-  "nf72606b690",
-  "n9e18eee3ae",
-  "n3602f60596",
-  "n32ac6a4115",
-  "n7cf6c76fc6",
-  "n02a3c77ff9",
-  "n02e130199d"
+  "n4cfdb0d0b2",
+  "n55d62eef37",
+  "n3584108462",
+  "n9e61154bd3",
+  "n6007eacdb0",
+  "n02a3c77ff9"
  ],
  "ranked": [
   {
    "id": "n67ec18e8e5",
-   "s": 40.5
+   "s": 39.1
   },
   {
    "id": "n2e99354c38",
-   "s": 38.2
+   "s": 37.0
   },
   {
-   "id": "nf72606b690",
-   "s": 29.7
+   "id": "n4cfdb0d0b2",
+   "s": 32.3
   },
   {
-   "id": "n9e18eee3ae",
-   "s": 27.8
+   "id": "n55d62eef37",
+   "s": 32.1
   },
   {
-   "id": "n3602f60596",
-   "s": 22.4
+   "id": "n3584108462",
+   "s": 23.0
   },
   {
-   "id": "n32ac6a4115",
-   "s": 22.4
+   "id": "n9e61154bd3",
+   "s": 23.0
   },
   {
-   "id": "n7cf6c76fc6",
-   "s": 22.4
+   "id": "n6007eacdb0",
+   "s": 22.5
   },
   {
    "id": "n02a3c77ff9",
-   "s": 22.4
-  },
-  {
-   "id": "n02e130199d",
-   "s": 22.2
+   "s": 20.9
   }
  ],
  "items": [
+  {
+   "id": "n9e90b16e97",
+   "topic": "it",
+   "title": "Hochbahn: Hamburg will die Kreditkarte zur Fahrkarte machen",
+   "text": "Hamburg nimmt sich London zum Vorbild: Fahrgäste sollen keinen Fahrausweis mehr benötigen, die Kreditkarte wird als Fahrschein gelten. ( ÖPNV , Kreditkarte )",
+   "link": "https://www.golem.de/news/hochbahn-hamburg-will-die-kreditkarte-zur-fahrkarte-machen-2610-213691.html",
+   "published": "2026-10-05T05:40:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-10T05:40:02+00:00",
+   "img": "https://www.golem.de/2610/213691-601492-601490_rc.jpg"
+  },
+  {
+   "id": "n0bff1cfa22",
+   "topic": "wirtschaft",
+   "title": "Marktbericht: DAX-Anleger starten Woche mit gemischten Gefühlen",
+   "text": "Es bleibt auch in der neuen Woche herausfordernd für den deutschen Leitindex. Zwar hat bereits am Freitag der US-Arbeitsmarktbericht die Zinssorgen gebremst. Trotzdem belasten die hohen Ölpreise.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-166.html",
+   "published": "2026-10-05T05:39:12+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-08T05:39:12+00:00",
+   "img": "https://images.tagesschau.de/image/623e331e-6913-4630-b0aa-bd45003fc6c7/AAABoKO-QqQ/AAABnSSvrFg/16x9-big/boerse-542.jpg?width=1920"
+  },
+  {
+   "id": "n1d95d830e0",
+   "topic": "politik",
+   "title": "News zu Eintracht Frankfurt",
+   "text": "Hier bekommen Sie immer die neuesten Nachrichten über Eintracht Frankfurt.",
+   "link": "https://www.hessenschau.de/sport/fussball/eintracht-frankfurt/eintracht-frankfurt-news-ticker-uzun-legt-pause-ein,bundesliga-ticker-104.html",
+   "published": "2026-10-05T05:37:55+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-09T05:37:55+00:00",
+   "img": "https://www.hessenschau.de/sport/fussball/eintracht-frankfurt/uzun-turkei-100~_t-1780987349932_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "n9ce3e9e143",
+   "topic": "politik",
+   "title": "Brasilien - Bolsonaro und Lula ziehen in Stichwahl um Präsidentenamt ein",
+   "text": "Über die Präsidentschaft in Brasilien wird in einer Stichwahl zwischen dem linken Amtsinhaber Lula da Silva und dem rechten Herausforderer Flávio Bolsonaro entschieden. Am 25. Oktober dürfen die Wählerinnen und Wähler erneut abstimmen.",
+   "link": "https://www.deutschlandfunk.de/bolsonaro-und-lula-ziehen-in-stichwahl-um-praesidentenamt-ein-100.html",
+   "published": "2026-10-05T05:32:36+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-07T05:32:36+00:00",
+   "img": "https://bilder.deutschlandfunk.de/a9/71/70/68/a9717068-16c8-4fe0-86ef-7b8f832ffb7c/brasilien-praesidentschaftswahl-lula-da-silva-bolsonaro-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Präsidentschaftswahl in Brasilien: Bolsonaro und Lula ziehen in Stichwahl ein",
+     "link": "https://www.tagesschau.de/ausland/amerika/wahl-brasilien-bolsonaro-lula-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n3584108462",
+   "topic": "politik",
+   "title": "Abstimmung - Nationalistische Parteien bei Wahlen in Bosnien-Herzegowina vorne",
+   "text": "Bei den Wahlen in Bosnien-Herzegowina zeichnet sich ein Erfolg der nationalistischen Kräfte ab. Der frühere bosnisch-serbische Präsident Dodik erklärte nach Auszählung fast aller Stimmen den Sieg seiner Partei im serbischen Landesteil.",
+   "link": "https://www.deutschlandfunk.de/nationalistische-parteien-bei-wahlen-in-bosnien-herzegowina-vorne-100.html",
+   "published": "2026-10-05T05:32:36+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-07T05:32:36+00:00",
+   "img": "https://bilder.deutschlandfunk.de/3f/48/bd/88/3f48bd88-0ea1-4f51-b724-3dd3db3da6db/wahlen-bosnien-herzegowina-sarajewo-100-1920x1920.jpg"
+  },
+  {
+   "id": "n2f5bc39a92",
+   "topic": "politik",
+   "title": "Reformen - Bundeskanzler Merz fordert von Union und SPD noch in diesem Jahr Entscheidung zur Rentenreform",
+   "text": "Bundeskanzler Merz hat die Koalition von Union und SPD aufgefordert, bei den geplanten Reformen voranzukommen und die Stabilität der Regierung zu sichern.",
+   "link": "https://www.deutschlandfunk.de/bundeskanzler-merz-fordert-von-union-und-spd-noch-in-diesem-jahr-entscheidung-zur-rentenreform-110.html",
+   "published": "2026-10-05T05:32:36+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-07T05:32:36+00:00"
+  },
+  {
+   "id": "n9e61154bd3",
+   "topic": "politik",
+   "title": "Bundestag - Präsidenten der Geheimdienste äußern sich in öffentlicher Anhörung",
+   "text": "Die drei deutschen Nachrichtendienste geben heute in einer öffentlichen Sitzung im Bundestag Auskunft zur Arbeit ihrer Behörden.",
+   "link": "https://www.deutschlandfunk.de/praesidenten-der-geheimdienste-aeussern-sich-in-oeffentlicher-anhoerung-106.html",
+   "published": "2026-10-05T05:32:36+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-07T05:32:36+00:00",
+   "img": "https://bilder.deutschlandfunk.de/c9/33/17/4e/c933174e-c85f-48e4-a96c-416d355e3d29/geheimdienste-104-1920x1920.jpg"
+  },
+  {
+   "id": "n9d2bc6ec30",
+   "topic": "politik",
+   "title": "Terror-Bedrohung - USA ziehen Langstreckenbomber von britischem Luftwaffenstützpunkt ab",
+   "text": "Die USA ziehen ihre Langstreckenbomber vom britischen Luftwaffenstützpunkt Fairford ab. Das bestätigte das Verteidigungsministerium in Washington. Die Flugzeuge würden auf ihre Heimatbasen in den USA zurückgeflogen. Hintergrund könnte die Angst vor einem iranischen Anschlag sein.",
+   "link": "https://www.deutschlandfunk.de/usa-ziehen-langstreckenbomber-von-britischem-luftwaffenstuetzpunkt-ab-104.html",
+   "published": "2026-10-05T05:32:36+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-07T05:32:36+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Ermittlungen wegen Terrorverdacht: USA ziehen Bomber von britischem Stützpunkt ab",
+     "link": "https://www.tagesschau.de/ausland/europa/usa-bomber-grossbritannien-abzug-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n574acb93f1",
+   "topic": "politik",
+   "title": "Besuch in Kiew - Merz verteidigt Ukraine-Hilfen: \"Im eigenen Interesse Deutschlands\"",
+   "text": "Bundeskanzler Merz hat die in der deutschen Bevölkerung teils umstrittene Unterstützung der Ukraine verteidigt. Er sagte bei seinem Besuch in Kiew, die Hilfe für die Ukraine sei gerade in diesem Jahr und vor diesem Winter im zutiefst eigenen nationalen Interesse Deutschlands. Merz nannte etwa tägliche russische …",
+   "link": "https://www.deutschlandfunk.de/merz-verteidigt-ukraine-hilfen-im-eigenen-interesse-deutschlands-102.html",
+   "published": "2026-10-05T05:32:36+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-07T05:32:36+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Merz: Ukraine-Hilfen \"notwendig für die Stabilität Europas\"",
+     "link": "https://www.tagesschau.de/ausland/europa/merz-kiew-ukraine-russland-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Ukraine: Kanzler Merz in Kyjiw - Drohne trifft Nordbrücke",
+     "link": "https://www.dw.com/de/ukraine-kanzler-merz-in-kyjiw-drohne-trifft-nordbrücke/a-79535157?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "n4334685234",
+   "topic": "it",
+   "title": "Terminals: DHLs neue Zahlungsfunktion ist schon wieder gestoppt",
+   "text": "DHL muss den erst im Juli gestarteten kontaktlosen Zahlungsservice an der Haustür vorübergehend wieder abschalten. ( DHL , Smartphone )",
+   "link": "https://www.golem.de/news/terminals-dhls-neue-zahlungsfunktion-ist-schon-wieder-gestoppt-2610-213690.html",
+   "published": "2026-10-05T05:32:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-10T05:32:02+00:00",
+   "img": "https://www.golem.de/2610/213690-601488-601486_rc.jpg"
+  },
+  {
+   "id": "nf17b862250",
+   "topic": "it",
+   "title": "heise+ | Lokale KI als Schreibhilfe: LLMs in LibreOffice, Obsidian & Co. einsetzen",
+   "text": "Chat-Masken eignen sich wenig, um lokale LLMs als Schreibhilfe einzusetzen. Wir probieren, wie sich LLMs direkt in Textbearbeitungswerkzeuge integrieren lassen.",
+   "link": "https://www.heise.de/ratgeber/Lokale-LLMs-in-Text-und-Notizsoftware-So-arbeitet-die-KI-produktiv-mit-11466058.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+   "published": "2026-10-05T05:30:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-10T05:30:00+00:00"
+  },
+  {
+   "id": "n453a67d2ad",
+   "topic": "nfl",
+   "title": "Dak Prescott throws for a season-high 355 in Week 4",
+   "text": "Dak Prescott relied heavily on CeeDee Lamb en route to a Week 4 win over Houston, throwing for 355 yards and the game-winning touchdown.",
+   "link": "https://sports.yahoo.com/articles/dak-prescott-throws-season-high-050957325.html",
+   "published": "2026-10-05T05:09:57+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-10T05:09:57+00:00"
+  },
+  {
+   "id": "n84bc0604f2",
+   "topic": "it",
+   "title": "Podcast Die Hupe: Kleinwagensterben und EU-Protektionismus als Gegenmaßnahme",
+   "text": "Es gibt immer weniger günstige Kleinwagen, aus vielen Gründen von Überregulierung bis Wohlstandsvermehrung. Die EU will mit Protektionismus gegensteuern.",
+   "link": "https://www.heise.de/meinung/Podcast-Die-Hupe-Kleinwagensterben-und-EU-Protektionismus-als-Gegenmassnahme-11474107.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-05T05:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-10T05:00:00+00:00"
+  },
+  {
+   "id": "n22f9059624",
+   "topic": "it",
+   "title": "heise+ | Peugeot e-5008 Long Range im Test: Die Hummel kann fliegen",
+   "text": "Peugeot bietet mit dem e-5008 Long Range ein siebensitziges Familienauto mit 97 kWh netto im Akku an. Das Auto ist zudem für seine Größe erfreulich sparsam.",
+   "link": "https://www.heise.de/tests/Peugeot-e-5008-Long-Range-im-Test-Die-Hummel-kann-fliegen-11431774.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+   "published": "2026-10-05T05:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-10T05:00:00+00:00"
+  },
+  {
+   "id": "n73dafdd15f",
+   "topic": "nfl",
+   "title": "Seahawks vs. Chargers was historically ugly, and there are stats to prove it",
+   "text": "The Seahawks and Chargers combined for 53 points, but it felt like they also combined for 53 flags.",
+   "link": "https://sports.yahoo.com/articles/seahawks-vs-chargers-historically-ugly-045426139.html",
+   "published": "2026-10-05T04:54:26+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-10T04:54:26+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/f4baac09a019f15cb15c5b079b7db6a8.jpg"
+  },
+  {
+   "id": "n8701525175",
+   "topic": "wirtschaft",
+   "title": "Warum immer mehr junge Menschen einen Job in der Pflege wollen",
+   "text": "Immer mehr junge Menschen entscheiden sich für eine Ausbildung im Gesundheitswesen: Kliniken melden Bewerberrekorde, Pflegeschulen haben Wartelisten. Gleichzeitig bleibt der Fachkräftemangel groß. Von Johannes Baumert.",
+   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ausbildungsboom-pflege-gesundheit-100.html",
+   "published": "2026-10-05T04:47:41+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-08T04:47:41+00:00",
+   "img": "https://images.tagesschau.de/image/3ef47f1d-bdb8-40fd-8a81-2b2997fc7467/AAABoPbshBM/AAABnSSvrFg/16x9-big/ausbildung-gesundheit-100.jpg?width=1920"
+  },
+  {
+   "id": "na5bb8fcc06",
+   "topic": "politik",
+   "title": "Seit Mai: E-Auto-Prämie an 100.000 Antragsteller ausgezahlt",
+   "text": "Die neue Prämie zu Förderung von E-Autos hat laut Umweltminister Schneider die Erwartungen übertroffen. Geld sei bereits an 100.000 Antragsteller geflossen - viele von ihnen mit geringerem Einkommen.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/e-auto-praemie-126.html",
+   "published": "2026-10-05T04:47:06+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-08T04:47:06+00:00",
+   "img": "https://images.tagesschau.de/image/77620946-c469-4271-84a9-c94bd37a989a/AAABoQpgPPo/AAABnSSvrFg/16x9-big/e-auto-252.jpg?width=1920"
+  },
+  {
+   "id": "n6834eb4c75",
+   "topic": "wissenschaft",
+   "title": "125 Jahre Nobelpreis: Was macht die Auszeichnung so bedeutend?",
+   "text": "Von heute an wird wieder verkündet, wer die diesjährigen Nobelpreise erhält - und das seit mittlerweile 125 Jahren. Warum hat die Auszeichnung eine so hohe Bedeutung? Und wie werden die Preisträger ermittelt? Von Nina Kunze.",
+   "link": "https://www.tagesschau.de/wissen/forschung/nobelpreise-125-jahre-100.html",
+   "published": "2026-10-05T04:32:01+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-19T04:32:01+00:00",
+   "img": "https://images.tagesschau.de/image/5ab9262a-f84c-464e-a648-6135bf47ee62/AAABoQbSoqo/AAABnSSvrFg/16x9-big/nobelpreismuseum-102.jpg?width=1920"
+  },
+  {
+   "id": "nbc28cded80",
+   "topic": "nfl",
+   "title": "NFL Week 4 grades for all 32 teams: Ben Johnson, Bears earn 'A-' despite injury woes; Bengals slip again",
+   "text": "We're handing out grades for every Week 4 game",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/",
+   "published": "2026-10-05T04:01:21+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-10T04:01:21+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/04/b8f72fbc-6429-46f5-98ce-c0b132c84da0/chicago-bears.jpg"
+  },
+  {
+   "id": "n6007eacdb0",
+   "topic": "politik",
+   "title": "Linke zieht gegen Reiche vor Bundesverfassungsgericht",
+   "text": "Die Linke wirft CDU-Politikerin Reiche vor, mit einem Video auf dem Account des Bundeswirtschaftsministeriums das Neutralitätsgebot verletzt zu haben. Nun will die Partei das höchste deutsche Gericht entscheiden lassen.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/linke-klage-reiche-bundesverfassungsgericht-100.html",
+   "published": "2026-10-05T03:39:00+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-08T03:39:00+00:00",
+   "img": "https://images.tagesschau.de/image/e08ec56c-ef69-4d3d-9cc2-a4200166c1fe/AAABn4n8_vo/AAABnSSvrFg/16x9-big/reiche-204.jpg?width=1920"
+  },
+  {
+   "id": "n4cfdb0d0b2",
+   "topic": "welt",
+   "title": "Österreichs Vizekanzler und SPÖ-Chef Babler kündigt Rückzug an",
+   "text": "Der Chefposten der SPÖ in Österreich gilt als Schleudersitz. Und er wurde seinem Ruf erneut gerecht: Vizekanzler und Parteichef Babler zieht sich zurück. Damit will er eine stabile Regierung gewährleisten - und Neuwahlen verhindern. Von S. Hahne.",
+   "link": "https://www.tagesschau.de/ausland/europa/oesterreich-rueckzug-vizekanzler-100.html",
+   "published": "2026-10-05T03:04:40+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-08T03:04:40+00:00",
+   "img": "https://images.tagesschau.de/image/75b8d8f6-38ad-4495-b67c-6c40e98d098e/AAABoQnxd4A/AAABnSSvrFg/16x9-big/andreas-babler-102.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Wien - Österreichs Vizekanzler Babler kündigt Rückzug aus Regierungsamt und vom Parteivorsitz der SPÖ an",
+     "link": "https://www.deutschlandfunk.de/oesterreichs-vizekanzler-babler-kuendigt-rueckzug-aus-regierungsamt-und-vom-parteivorsitz-der-spoe-a-102.html"
+    }
+   ]
+  },
+  {
+   "id": "nb7dbcdbd55",
+   "topic": "politik",
+   "title": "SPD-Basis setzt rote Linien bei der Arbeitszeitreform",
+   "text": "Die Koalition will Arbeitszeitregeln flexibler machen. Nun meldet sich die SPD-Basis zu Wort: Keine Wochenarbeitszeit ohne Tarifvertrag, heißt es in einem Positionspapier. Das könnte neuen Streit in der Koalition bedeuten. Von Jan-Peter Bartels.",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/spd-arbeitszeit-woche-100.html",
+   "published": "2026-10-05T03:00:50+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-08T03:00:50+00:00",
+   "img": "https://images.tagesschau.de/image/456a08fe-267d-4543-9720-3355fbe9bc15/AAABoQoBwug/AAABnSSvrFg/16x9-big/arbeitszeit-130.jpg?width=1920"
+  },
+  {
+   "id": "nbde5c94ff8",
+   "topic": "nfl",
+   "title": "Chiefs very interested in a Tyreek Hill reunion amid injuries at receiver, per report",
+   "text": "Kansas City has reportedly reached out to Hill's agent",
+   "link": "https://www.cbssports.com/nfl/news/chiefs-interested-tyreek-hill-reunion-amid-injuries-at-receiver/",
+   "published": "2026-10-05T02:54:36+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-10T02:54:36+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/05/07d90e87-f55d-4230-9b47-869dcc784b2b/hill.jpg"
+  },
+  {
+   "id": "n55d62eef37",
+   "topic": "welt",
+   "title": "Ermittlungen wegen Terrorverdacht: USA ziehen Bomber von britischem Stützpunkt ab",
+   "text": "Washington hat seine Langstreckenbomber vom britischen Militärstützpunkt Fairford zurückbeordert - aus Sicherheitsgründen, wie das Pentagon erklärte. Vor einer Woche waren dort Männer wegen möglicher Anschlagspläne festgenommen worden.",
+   "link": "https://www.tagesschau.de/ausland/europa/usa-bomber-grossbritannien-abzug-100.html",
+   "published": "2026-10-05T01:56:23+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-08T01:56:23+00:00",
+   "img": "https://images.tagesschau.de/image/e5c57499-2ab8-4b2a-8d46-ec5dcc92c8f5/AAABoQmlMt8/AAABnSSvrFg/16x9-big/fairford-bomber-kampfjet-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Terror-Bedrohung - USA ziehen Langstreckenbomber von britischem Luftwaffenstützpunkt ab",
+     "link": "https://www.deutschlandfunk.de/usa-ziehen-langstreckenbomber-von-britischem-luftwaffenstuetzpunkt-ab-104.html"
+    }
+   ]
+  },
+  {
+   "id": "n75070f342f",
+   "topic": "welt",
+   "title": "Präsidentschaftswahl in Brasilien: Bolsonaro und Lula ziehen in Stichwahl ein",
+   "text": "Die Präsidentenwahl in Brasilien wird in einer Stichwahl entschieden: Herausforderer Bolsonaro liegt nach Auszählung fast aller Stimmen zwar etwas vor Amtsinhaber Lula - aber die absolute Mehrheit erreichten beide nicht.",
+   "link": "https://www.tagesschau.de/ausland/amerika/wahl-brasilien-bolsonaro-lula-100.html",
+   "published": "2026-10-05T01:35:56+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-08T01:35:56+00:00",
+   "img": "https://images.tagesschau.de/image/8e7ac03d-34cb-463f-8307-57eb9ae91772/AAABoQkeNtw/AAABnSSvrFg/16x9-big/flyer-wahl-brasilien-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Brasilien - Bolsonaro und Lula ziehen in Stichwahl um Präsidentenamt ein",
+     "link": "https://www.deutschlandfunk.de/bolsonaro-und-lula-ziehen-in-stichwahl-um-praesidentenamt-ein-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n51f024194e",
+   "topic": "welt",
+   "title": "Starke nationalistische Kräfte bei Wahlen in Bosnien und Herzegowina",
+   "text": "Bei den Wahlen in Bosnien und Herzegowina haben vor allem nationalistische Kräfte die Oberhand. Beobachter halten mit dem nun gewählten Staatspräsidium eine Begnadigung von Ex-Machthaber Dodik für möglich. Von S. Hahne.",
+   "link": "https://www.tagesschau.de/ausland/europa/bosnien-herzegowina-wahl-112.html",
+   "published": "2026-10-05T00:33:07+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-08T00:33:07+00:00",
+   "img": "https://images.tagesschau.de/image/526cd0cf-3efb-4cea-ab87-feb6b891943c/AAABoQlvusI/AAABnSSvrFg/16x9-big/dodik-118.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Abstimmung - Bosnien und Herzegowina: Wahlen in einem der kompliziertesten Staatengebilde der Welt",
+     "link": "https://www.deutschlandfunk.de/bosnien-und-herzegowina-wahlen-in-einem-der-kompliziertesten-staatengebilde-der-welt-112.html"
+    }
+   ]
+  },
   {
    "id": "n28baf920b4",
    "topic": "nfl",
@@ -90,26 +471,6 @@
    "img": "https://media.zenfs.com/en/sb_nation_articles_115/7b2b79ab3183e3b4c350380f0d64a831.jpg"
   },
   {
-   "id": "n75070f342f",
-   "topic": "welt",
-   "title": "Präsidentschaftswahl in Brasilien: Bolsonaro und Lula steuern auf Stichwahl zu",
-   "text": "Die Abstimmung um die Präsidentschaft in Brasilien gilt als Richtungswahl. Derzeit werden die Stimmen ausgezählt. Herausforderer Bolsonaro liegt zwar vorn - aber die bisherigen Ergebnisse deuten auf eine Stichwahl mit Amtsinhaber Lula hin.",
-   "link": "https://www.tagesschau.de/ausland/amerika/wahl-brasilien-bolsonaro-lula-100.html",
-   "published": "2026-10-04T23:24:40+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-07T23:24:40+00:00",
-   "img": "https://images.tagesschau.de/image/8e7ac03d-34cb-463f-8307-57eb9ae91772/AAABoQkeNtw/AAABnSSvrFg/16x9-big/flyer-wahl-brasilien-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Lateinamerika - Präsidentschaftswahl in Brasilien beginnt",
-     "link": "https://www.deutschlandfunk.de/praesidentschaftswahl-in-brasilien-beginnt-100.html"
-    }
-   ]
-  },
-  {
    "id": "n22933368ae",
    "topic": "nfl",
    "title": "Jayden Daniels update: Dan Quinn says 'the hope' is for Commanders QB to return in Week 5",
@@ -132,8 +493,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-06T21:26:08+00:00",
-   "img": "https://bilder.deutschlandfunk.de/c3/41/55/aa/c34155aa-a70d-40a8-bf66-75511ea4b808/bundeskanzler-merz-in-kiew-100-1920x1920.jpg"
+   "expires": "2026-10-06T21:26:08+00:00"
   },
   {
    "id": "n32ac6a4115",
@@ -146,7 +506,13 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-06T21:26:08+00:00",
-   "img": "https://bilder.deutschlandfunk.de/FI/LE/_2/cb/FILE_2cb1d07f1e2a425bcffb048782ea3962/b52-jpg-100-768x768.jpg"
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Ermittlungen wegen Terrorverdacht: USA ziehen Bomber von britischem Stützpunkt ab",
+     "link": "https://www.tagesschau.de/ausland/europa/usa-bomber-grossbritannien-abzug-100.html"
+    }
+   ]
   },
   {
    "id": "n7cf6c76fc6",
@@ -159,7 +525,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-06T21:26:08+00:00",
-   "img": "https://bilder.deutschlandfunk.de/e1/d0/74/41/e1d07441-4c17-43f3-ab97-fbaeddd0f508/oesterreich-spoe-babler-100-1920x1920.jpg"
+   "img": "https://bilder.deutschlandfunk.de/e1/d0/74/41/e1d07441-4c17-43f3-ab97-fbaeddd0f508/oesterreich-spoe-babler-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Österreichs Vizekanzler und SPÖ-Chef Babler kündigt Rückzug an",
+     "link": "https://www.tagesschau.de/ausland/europa/oesterreich-rueckzug-vizekanzler-100.html"
+    }
+   ]
   },
   {
    "id": "n02a3c77ff9",
@@ -264,7 +637,6 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-06T18:22:27+00:00",
-   "img": "https://bilder.deutschlandfunk.de/27/fa/25/dc/27fa25dc-2377-4062-bbe1-5cc738682b7b/merz-selenskyj-kiew-100-1920x1920.jpg",
    "also": [
     {
      "source": "Tagesschau",
@@ -292,8 +664,8 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Bosnien und Herzegowina: Mit neuer Technik mehr Vertrauen in die Wahlen",
-     "link": "https://www.tagesschau.de/ausland/europa/bosnien-und-herzegowina-wahl-100.html"
+     "title": "Starke nationalistische Kräfte bei Wahlen in Bosnien und Herzegowina",
+     "link": "https://www.tagesschau.de/ausland/europa/bosnien-herzegowina-wahl-112.html"
     }
    ]
   },
@@ -441,7 +813,7 @@
     {
      "source": "Deutschlandfunk",
      "title": "Besuch in Kiew - Merz verteidigt Ukraine-Hilfen: \"Im eigenen Interesse Deutschlands\"",
-     "link": "https://www.deutschlandfunk.de/merz-verteidigt-ukraine-hilfen-im-eigenen-interesse-deutschlands-100.html"
+     "link": "https://www.deutschlandfunk.de/merz-verteidigt-ukraine-hilfen-im-eigenen-interesse-deutschlands-102.html"
     },
     {
      "source": "Deutsche Welle",
@@ -461,19 +833,6 @@
    "type": "Fachmedium (IT)",
    "lang": "de",
    "expires": "2026-10-09T16:32:00+00:00"
-  },
-  {
-   "id": "n6834eb4c75",
-   "topic": "wissenschaft",
-   "title": "125 Jahre Nobelpreis: Was macht die Auszeichnung so bedeutend?",
-   "text": "Von morgen an wird wieder verkündet, wer die diesjährigen Nobelpreise erhält - und das seit mittlerweile 125 Jahren. Warum hat die Auszeichnung eine so hohe Bedeutung? Und wie werden die Preisträger ermittelt? Von Nina Kunze.",
-   "link": "https://www.tagesschau.de/wissen/forschung/nobelpreise-125-jahre-100.html",
-   "published": "2026-10-04T16:06:59+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-18T16:06:59+00:00",
-   "img": "https://images.tagesschau.de/image/5ab9262a-f84c-464e-a648-6135bf47ee62/AAABoQbSoqo/AAABnSSvrFg/16x9-big/nobelpreismuseum-102.jpg?width=1920"
   },
   {
    "id": "ndf14380dd5",
@@ -593,7 +952,7 @@
     {
      "source": "Deutschlandfunk",
      "title": "Besuch in Kiew - Merz verteidigt Ukraine-Hilfen: \"Im eigenen Interesse Deutschlands\"",
-     "link": "https://www.deutschlandfunk.de/merz-verteidigt-ukraine-hilfen-im-eigenen-interesse-deutschlands-100.html"
+     "link": "https://www.deutschlandfunk.de/merz-verteidigt-ukraine-hilfen-im-eigenen-interesse-deutschlands-102.html"
     },
     {
      "source": "Deutsche Welle",
@@ -968,14 +1327,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-07T10:54:10+00:00",
-   "img": "https://images.tagesschau.de/image/ae5df035-a582-4565-be40-0ebbc3559f06/AAABoQKtQy4/AAABnSSvrFg/16x9-big/butter-126.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "USA - Holocaust-Überlebende Irene Butter gestorben",
-     "link": "https://www.deutschlandfunk.de/holocaust-ueberlebende-irene-butter-gestorben-104.html"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/ae5df035-a582-4565-be40-0ebbc3559f06/AAABoQKtQy4/AAABnSSvrFg/16x9-big/butter-126.jpg?width=1920"
   },
   {
    "id": "n7199195171",
@@ -1044,7 +1396,7 @@
     {
      "source": "Deutschlandfunk",
      "title": "Besuch in Kiew - Merz verteidigt Ukraine-Hilfen: \"Im eigenen Interesse Deutschlands\"",
-     "link": "https://www.deutschlandfunk.de/merz-verteidigt-ukraine-hilfen-im-eigenen-interesse-deutschlands-100.html"
+     "link": "https://www.deutschlandfunk.de/merz-verteidigt-ukraine-hilfen-im-eigenen-interesse-deutschlands-102.html"
     },
     {
      "source": "Tagesschau",
@@ -1095,7 +1447,7 @@
     {
      "source": "Deutschlandfunk",
      "title": "Besuch in Kiew - Merz verteidigt Ukraine-Hilfen: \"Im eigenen Interesse Deutschlands\"",
-     "link": "https://www.deutschlandfunk.de/merz-verteidigt-ukraine-hilfen-im-eigenen-interesse-deutschlands-100.html"
+     "link": "https://www.deutschlandfunk.de/merz-verteidigt-ukraine-hilfen-im-eigenen-interesse-deutschlands-102.html"
     },
     {
      "source": "Deutsche Welle",
@@ -1195,8 +1547,8 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Lateinamerika - Präsidentschaftswahl in Brasilien beginnt",
-     "link": "https://www.deutschlandfunk.de/praesidentschaftswahl-in-brasilien-beginnt-100.html"
+     "title": "Brasilien - Bolsonaro und Lula ziehen in Stichwahl um Präsidentenamt ein",
+     "link": "https://www.deutschlandfunk.de/bolsonaro-und-lula-ziehen-in-stichwahl-um-praesidentenamt-ein-100.html"
     }
    ]
   },
@@ -1261,14 +1613,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-06T05:50:22+00:00",
-   "img": "https://bilder.deutschlandfunk.de/33/a9/8b/07/33a98b07-ca74-4572-9247-a08d0491fd5d/deutsche-bahn-familie-ice-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Deutsche Bahn will Familienticket dauerhaft anbieten",
-     "link": "https://www.tagesschau.de/wirtschaft/verbraucher/deutsche-bahn-familienticket-100.html"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/33/a9/8b/07/33a98b07-ca74-4572-9247-a08d0491fd5d/deutsche-bahn-familie-ice-100-1920x1920.jpg"
   },
   {
    "id": "n4595d0b8ed",
@@ -1297,8 +1642,8 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Bosnien und Herzegowina: Mit neuer Technik mehr Vertrauen in die Wahlen",
-     "link": "https://www.tagesschau.de/ausland/europa/bosnien-und-herzegowina-wahl-100.html"
+     "title": "Starke nationalistische Kräfte bei Wahlen in Bosnien und Herzegowina",
+     "link": "https://www.tagesschau.de/ausland/europa/bosnien-herzegowina-wahl-112.html"
     }
    ]
   },
@@ -1317,7 +1662,7 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Präsidentschaftswahl in Brasilien: Bolsonaro und Lula steuern auf Stichwahl zu",
+     "title": "Präsidentschaftswahl in Brasilien: Bolsonaro und Lula ziehen in Stichwahl ein",
      "link": "https://www.tagesschau.de/ausland/amerika/wahl-brasilien-bolsonaro-lula-100.html"
     }
    ]
@@ -1415,7 +1760,7 @@
     {
      "source": "Deutschlandfunk",
      "title": "Besuch in Kiew - Merz verteidigt Ukraine-Hilfen: \"Im eigenen Interesse Deutschlands\"",
-     "link": "https://www.deutschlandfunk.de/merz-verteidigt-ukraine-hilfen-im-eigenen-interesse-deutschlands-100.html"
+     "link": "https://www.deutschlandfunk.de/merz-verteidigt-ukraine-hilfen-im-eigenen-interesse-deutschlands-102.html"
     },
     {
      "source": "Deutsche Welle",
@@ -1469,340 +1814,6 @@
      "link": "https://www.deutschlandfunk.de/bosnien-und-herzegowina-wahlen-in-einem-der-kompliziertesten-staatengebilde-der-welt-112.html"
     }
    ]
-  },
-  {
-   "id": "n02e130199d",
-   "topic": "wirtschaft",
-   "title": "Deutsche Bahn will Familienticket dauerhaft anbieten",
-   "text": "Das Angebot war zunächst nur auf den Sommer begrenzt - jetzt soll es dauerhaft eingeführt werden: das Familienticket der Deutschen Bahn. Denn laut Bahn-Chefin Palla war der Pauschalpreis ein Erfolg.",
-   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/deutsche-bahn-familienticket-100.html",
-   "published": "2026-10-04T00:51:20+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-07T00:51:20+00:00",
-   "img": "https://images.tagesschau.de/image/facdc8e6-5828-46d2-a09d-e88530f4ac74/AAABngZgB3k/AAABnSSvrFg/16x9-big/bahn-1136.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Verkehr - Deutsche Bahn bietet Familienticket dauerhaft an",
-     "link": "https://www.deutschlandfunk.de/deutsche-bahn-bietet-familienticket-dauerhaft-an-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n16f11a18be",
-   "topic": "nfl",
-   "title": "Last-minute best bets for NFL Week 4: Cowboys welcome Joey Porter Jr. with upset win, Rams edge out Eagles",
-   "text": "Why the Rams, Packers, Cowboys, Seahawks and Vikings are the five teams to back in Week 4",
-   "link": "https://www.cbssports.com/nfl/news/nfl-week-4-picks-odds-best-bets-predictions-scores-cowboys-eagles/",
-   "published": "2026-10-04T00:01:28+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-09T00:01:28+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/01/a54daa65-b0a8-4f1c-be89-624153a8619d/dak-prescott-cowboys-5.jpg"
-  },
-  {
-   "id": "nf219558e78",
-   "topic": "welt",
-   "title": "Luftangriff: Rettungskräfte melden Tote im Gazastreifen",
-   "text": "Bei einem Luftangriff im Gazastreifen sind nach Angaben von palästinensischen Rettungskräften mehrere Menschen getötet worden. Die israelische Armee gab an, ein hochrangiges Hamas-Mitglied angegriffen zu haben.",
-   "link": "https://www.tagesschau.de/ausland/asien/gaza-angriffe-israel-106.html",
-   "published": "2026-10-03T23:54:49+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-06T23:54:49+00:00",
-   "img": "https://images.tagesschau.de/image/e8bf4b11-ec9e-4b8d-8dd6-a79a12c50d61/AAABoQP9eZU/AAABnSSvrFg/16x9-big/gaza-angriff-truemmer-haus-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Naher Osten - Israelischer Luftangriff im Gazastreifen sollte hochrangiges Hamas-Mitglied treffen",
-     "link": "https://www.deutschlandfunk.de/israelischer-luftangriff-im-gazastreifen-sollte-hochrangiges-hamas-mitglied-treffen-100.html"
-    }
-   ]
-  },
-  {
-   "id": "nf0ad029dbc",
-   "topic": "politik",
-   "title": "Religion - Erntedankfest: Politik warnt vor existenziellen Belastungen für Bauern: \"Hinter jedem Laib Brot, Glas Milch und Apfel stehen Natur, Wetter und vor …",
-   "text": "Vertreter von Politik und Gesellschaft haben zum heutigen Erntedankfest auf die wachsenden Belastungen für Landwirte durch klimatische Veränderungen hingewiesen.",
-   "link": "https://www.deutschlandfunk.de/erntedankfest-politik-warnt-vor-existenziellen-belastungen-fuer-bauern-hinter-jedem-laib-brot-glas-m-100.html",
-   "published": "2026-10-03T23:37:10+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-05T23:37:10+00:00"
-  },
-  {
-   "id": "n00586b9f40",
-   "topic": "politik",
-   "title": "Extremes Niedrigwasser - Bundesumweltminister Schneider ruft Länder zu massiven Investitionen in Wasserinfrastruktur auf",
-   "text": "Bundesumweltminister Schneider hat die Bundesländer wegen der extrem niedrigen Pegelstände zu massiven Investitionen in die Wasserinfrastruktur aufgerufen.",
-   "link": "https://www.deutschlandfunk.de/bundesumweltminister-schneider-ruft-laender-zu-massiven-investitionen-in-wasserinfrastruktur-auf-100.html",
-   "published": "2026-10-03T23:37:10+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-05T23:37:10+00:00",
-   "img": "https://bilder.deutschlandfunk.de/a1/43/86/d9/a14386d9-0aed-4bff-9a0c-f1eb14f20d60/bundesumweltminister-carsten-schneider-spd-100-1920x1920.jpg"
-  },
-  {
-   "id": "ne29b4b557b",
-   "topic": "politik",
-   "title": "Katholische Kirche - 800. Todestag: Weltweites Erinnern an Franz von Assisi",
-   "text": "Weltweit wird heute an den 800. Todestag des in der katholischen Kirche als Heiligen verehrten Franz von Assisi erinnert.",
-   "link": "https://www.deutschlandfunk.de/800-todestag-weltweites-erinnern-an-franz-von-assisi-100.html",
-   "published": "2026-10-03T23:37:10+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-05T23:37:10+00:00",
-   "img": "https://bilder.deutschlandfunk.de/FI/LE/_c/f7/FILE_cf788d42d3846bb365f563c57faf7a3c/imago56067877h-jpg-100-512x512.jpg"
-  },
-  {
-   "id": "ncfece14abc",
-   "topic": "politik",
-   "title": "USA - Holocaust-Überlebende Irene Butter gestorben",
-   "text": "Die Holocaust-Überlebende Irene Butter ist im Alter von 95 Jahren in den USA gestorben.",
-   "link": "https://www.deutschlandfunk.de/holocaust-ueberlebende-irene-butter-gestorben-104.html",
-   "published": "2026-10-03T23:37:10+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-05T23:37:10+00:00",
-   "img": "https://bilder.deutschlandfunk.de/70/8a/82/6f/708a826f-be3a-4703-9160-56a5e7fee2c1/irene-butter-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Holocaust-Überlebende Irene Butter in den USA verstorben",
-     "link": "https://www.tagesschau.de/ausland/amerika/irene-butter-gestorben-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n6b21a643bd",
-   "topic": "politik",
-   "title": "\"Schatzhauser\" - Reinhard Mey mit 83 Jahren wieder auf Platz 1 – neuer Chartsrekord",
-   "text": "Der Liedermacher Reinhard Mey ist im Alter von 83 Jahren mit seinem neuen Studioalbum auf Platz 1 der Bestenliste eingestiegen.",
-   "link": "https://www.deutschlandfunk.de/reinhard-mey-mit-83-jahren-wieder-auf-platz-1-neuer-chartsrekord-102.html",
-   "published": "2026-10-03T23:37:10+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-05T23:37:10+00:00",
-   "img": "https://bilder.deutschlandfunk.de/a0/b8/52/86/a0b85286-db16-4cac-844c-a2c0de25195b/reinhard-mey-118-1920x1920.jpg"
-  },
-  {
-   "id": "n549df58731",
-   "topic": "politik",
-   "title": "Griechenland - Starkregen löst Erdrutsche und Überspülungen auf Kreta aus",
-   "text": "Auf der griechischen Insel Kreta haben starke Regenfälle Erdrutsche und Überflutungen ausgelöst.",
-   "link": "https://www.deutschlandfunk.de/starkregen-loest-erdrutsche-und-ueberspuelungen-auf-kreta-aus-104.html",
-   "published": "2026-10-03T23:37:10+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-05T23:37:10+00:00"
-  },
-  {
-   "id": "n1210957f4f",
-   "topic": "nfl",
-   "title": "Steelers work out veteran LB after loss to Browns",
-   "text": "Steelers hosted nine players following Week 4 game; two practice squad spots open.",
-   "link": "https://sports.yahoo.com/articles/steelers-veteran-lb-loss-browns-230947527.html",
-   "published": "2026-10-03T23:09:47+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-08T23:09:47+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/9e9c301a2c3a58d76aac3186bdb9b90d.jpg"
-  },
-  {
-   "id": "n8653995cf4",
-   "topic": "nfl",
-   "title": "NFL Week 4 player prop bets: Raiders' Brock Bowers among best anytime TD bets",
-   "text": "These five players could capitalize on their matchups and find the end zone during Sunday's NFL action",
-   "link": "https://www.cbssports.com/nfl/news/nfl-week-4-player-prop-bets/",
-   "published": "2026-10-03T23:01:01+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-08T23:01:01+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/03/96cfaf7a-572d-444b-a924-38982a11c9e7/brock.jpg"
-  },
-  {
-   "id": "n0398a82b10",
-   "topic": "nfl",
-   "title": "Cowboys vs Texans: Writer predictions for Week 4",
-   "text": "What do you think will be the final score on Sunday?",
-   "link": "https://sports.yahoo.com/articles/cowboys-vs-texans-writer-predictions-230000521.html",
-   "published": "2026-10-03T23:00:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-08T23:00:00+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/669bce1a2db958a5e32b97213d5b2907.jpg"
-  },
-  {
-   "id": "n556122d8d9",
-   "topic": "nfl",
-   "title": "NFL Week 4 picks and score predictions: Texans get first win, Bengals edge Jaguars",
-   "text": "Here's your weekly dose of John Breech's NFL picks",
-   "link": "https://www.cbssports.com/nfl/news/nfl-week-4-picks-and-score-predictions-breech/",
-   "published": "2026-10-03T22:46:51+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-08T22:46:51+00:00"
-  },
-  {
-   "id": "n525ad71e8c",
-   "topic": "nfl",
-   "title": "Bucs elevate QB Easton Stick from practice squad",
-   "text": "The Buccaneers elevated linebacker Caden Fordham and quarterback Easton Stick from the practice squad for Sunday's game against the Packers, the team announced.",
-   "link": "https://sports.yahoo.com/articles/bucs-elevate-qb-easton-stick-210916854.html",
-   "published": "2026-10-03T21:09:16+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-08T21:09:16+00:00"
-  },
-  {
-   "id": "nad06c46040",
-   "topic": "nfl",
-   "title": "The one matchup the Cowboys have to win on Sunday",
-   "text": "Will Anderson, Danielle Hunter create a challenge for the Cowboys offense",
-   "link": "https://sports.yahoo.com/articles/one-matchup-cowboys-win-sunday-210000561.html",
-   "published": "2026-10-03T21:00:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-08T21:00:00+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/2449f727050621c6073c3cfda600bd3f.jpg"
-  },
-  {
-   "id": "n53c1c33861",
-   "topic": "nfl",
-   "title": "NFL Week 4 picks: Our experts face off on Cowboys vs. Texans, Rams at Eagles and more",
-   "text": "CBS Sports writers Jordan Dajani and Jared Dubin predict this weekend's top games",
-   "link": "https://www.cbssports.com/nfl/news/nfl-week-4-picks-our-experts-predictions/",
-   "published": "2026-10-03T20:56:09+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-08T20:56:09+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/03/cef57287-e81a-45b5-a52e-53157818454e/dak.jpg"
-  },
-  {
-   "id": "n147e0cb27d",
-   "topic": "nfl",
-   "title": "Seahawks place rookie Jadarian Price on injured reserve",
-   "text": "The rookie aggravated a chest injury and will miss at least four games, leaving Emanuel Wilson and George Holani to shoulder backfield duties during a grueling stretch",
-   "link": "https://www.cbssports.com/nfl/news/seahawks-place-rookie-jadarian-price-injured-reserve/",
-   "published": "2026-10-03T20:55:14+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-08T20:55:14+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/03/f599389f-4618-4496-bbea-753659b4983e/price.jpg"
-  },
-  {
-   "id": "n0d49b0d95a",
-   "topic": "politik",
-   "title": "Impulspapier - Grüne erklären Strategie gegen AfD für gescheitert: \"Alle Parteien mitverantwortlich\"",
-   "text": "Die Fraktionsspitze der Grünen fordert eine neue Strategie gegen die AfD. Die Vorsitzenden Dröge und Haßelmann verfassten dazu ein Impulspapier, über das das Magazin \"Der Spiegel\" berichtet. Darin heiße es, für das Erstarken der in Teilen rechtsextremen AfD trügen alle demokratischen Parteien Verantwortung, auch die …",
-   "link": "https://www.deutschlandfunk.de/gruene-erklaeren-strategie-gegen-afd-fuer-gescheitert-alle-parteien-mitverantwortlich-100.html",
-   "published": "2026-10-03T20:44:44+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-05T20:44:44+00:00",
-   "img": "https://bilder.deutschlandfunk.de/09/cd/f6/a5/09cdf6a5-d596-4a26-9d18-09b61c3c8cd9/gruene-droege-hasselmann-100-1920x1920.jpg"
-  },
-  {
-   "id": "nb5852a7cdf",
-   "topic": "politik",
-   "title": "Gewalttätige Demonstration - Schülerproteste in Frankreich laut Pariser Polizeichef \"außer Kontrolle\"",
-   "text": "Die teils gewalttätigen Schülerproteste in Frankreich sind nach Einschätzung der Pariser Polizei \"außer Kontrolle\" geraten. Der Polizeipräfekt von Paris, Faure, sagte, die Organisatoren der Demonstrationen hätten den Überblick verloren und zudem zu Unruhen und Gebäudebesetzungen angeregt. Er rief die Demonstrierenden …",
-   "link": "https://www.deutschlandfunk.de/schuelerproteste-in-frankreich-laut-pariser-polizeichef-ausser-kontrolle-102.html",
-   "published": "2026-10-03T20:44:44+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-05T20:44:44+00:00",
-   "img": "https://bilder.deutschlandfunk.de/8c/98/75/5f/8c98755f-d18e-4331-8f6f-c0c1df23a269/proteste-frankreich-schueler-100-1920x1920.jpg"
-  },
-  {
-   "id": "ndeb4f2665e",
-   "topic": "politik",
-   "title": "Naher Osten - Israelischer Luftangriff im Gazastreifen sollte hochrangiges Hamas-Mitglied treffen",
-   "text": "Die israelische Armee hat im Gazastreifen ein Wohnhaus aus der Luft angegriffen.",
-   "link": "https://www.deutschlandfunk.de/israelischer-luftangriff-im-gazastreifen-sollte-hochrangiges-hamas-mitglied-treffen-100.html",
-   "published": "2026-10-03T20:44:44+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-05T20:44:44+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Luftangriff: Rettungskräfte melden Tote im Gazastreifen",
-     "link": "https://www.tagesschau.de/ausland/asien/gaza-angriffe-israel-106.html"
-    }
-   ]
-  },
-  {
-   "id": "nd725df7a8d",
-   "topic": "politik",
-   "title": "EU- und NATO-Mitglied - Regierungspartei \"Vereinte Liste\" offenbar Sieger bei Parlamentswahl in Lettland",
-   "text": "Bei der Parlamentswahl in Lettland zeichnet sich ein Sieg des Mitte-rechts-Bündnisses Vereinte Liste von Ministerpräsident Kulbergs ab.",
-   "link": "https://www.deutschlandfunk.de/regierungspartei-vereinte-liste-offenbar-sieger-bei-parlamentswahl-in-lettland-100.html",
-   "published": "2026-10-03T20:44:44+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-05T20:44:44+00:00",
-   "img": "https://bilder.deutschlandfunk.de/8a/82/3a/a4/8a823aa4-5b97-4932-a2b5-2a0677f59b5f/litauen-fahne-102-1920x1920.jpg"
-  },
-  {
-   "id": "ne0019b1089",
-   "topic": "politik",
-   "title": "Krieg gegen die Ukraine - Nach Angriffen auf Kiewer Brücken: Selenskyj kündigt verstärkte Angriffe auf russische Raffinerien an",
-   "text": "Der ukrainische Präsident Selenskyj hat verstärkte Angriffe auf russische Raffinerien angekündigt.",
-   "link": "https://www.deutschlandfunk.de/nach-angriffen-auf-kiewer-bruecken-selenskyj-kuendigt-verstaerkte-angriffe-auf-russische-raffinerien-100.html",
-   "published": "2026-10-03T20:44:44+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-05T20:44:44+00:00"
-  },
-  {
-   "id": "n114bea09ba",
-   "topic": "politik",
-   "title": "Griechenland - Starkregen löst Erdrutsche und Überspülungen auf Kreta aus",
-   "text": "Auf der griechischen Insel Kreta haben starke Regenfälle Erdrutsche und Überflutungen ausgelöst.",
-   "link": "https://www.deutschlandfunk.de/starkregen-loest-erdrutsche-und-ueberspuelungen-auf-kreta-aus-100.html",
-   "published": "2026-10-03T20:44:44+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-05T20:44:44+00:00"
-  },
-  {
-   "id": "n45ec495aee",
-   "topic": "politik",
-   "title": "MT Melsungen holt sich klaren Sieg im Verfolgerduell gegen Hannover",
-   "text": "Die MT Melsungen bleibt in der Handball-Bundesliga oben dran: Gegen Hannover-Burgdorf war ein starker Start in die zweite Halbzeit entscheidend.",
-   "link": "https://www.hessenschau.de/sport/handball/mt-melsungen/mt-melsungen-holt-sich-klaren-sieg-im-verfolgerduell-gegen-hannover-v1,mt-hannover-108.html",
-   "published": "2026-10-03T19:52:57+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-07T19:52:57+00:00",
-   "img": "https://www.hessenschau.de/sport/handball/mt-melsungen/mt-drosten-104~_t-1791057177582_v-16to9.jpg",
-   "tag": "Hessen"
   }
  ]
 }
