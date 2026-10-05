@@ -1,50 +1,538 @@
 {
- "generated": "2026-10-05T14:41:29.659589+00:00",
+ "generated": "2026-10-05T22:01:20.887029+00:00",
  "briefing": [
   "n4cfdb0d0b2",
   "n55d62eef37",
   "n75070f342f",
-  "n51f024194e",
-  "n3013a1a4d8",
-  "nd1bfb92121",
-  "n1d5b6a2576",
-  "n89c3122fcd"
+  "n9b8c28c81b",
+  "nb59563dbbf",
+  "n7ad895124a",
+  "nee724e94e9",
+  "n446733da53",
+  "nec849e19e1"
  ],
  "ranked": [
   {
    "id": "n4cfdb0d0b2",
-   "s": 30.1
+   "s": 28.3
   },
   {
    "id": "n55d62eef37",
-   "s": 29.8
+   "s": 28.0
   },
   {
    "id": "n75070f342f",
-   "s": 29.7
+   "s": 27.9
   },
   {
-   "id": "n51f024194e",
-   "s": 29.5
-  },
-  {
-   "id": "n3013a1a4d8",
+   "id": "n9b8c28c81b",
    "s": 22.9
   },
   {
-   "id": "nd1bfb92121",
+   "id": "nb59563dbbf",
    "s": 22.9
   },
   {
-   "id": "n1d5b6a2576",
-   "s": 22.4
+   "id": "n7ad895124a",
+   "s": 22.9
   },
   {
-   "id": "n89c3122fcd",
-   "s": 20.9
+   "id": "nee724e94e9",
+   "s": 22.1
+  },
+  {
+   "id": "n446733da53",
+   "s": 21.8
+  },
+  {
+   "id": "nec849e19e1",
+   "s": 21.6
   }
  ],
  "items": [
+  {
+   "id": "n9b8c28c81b",
+   "topic": "politik",
+   "title": "BND, MAD und Verfassungsschutz - Grünen-Politiker von Notz bekräftigt Einschätzung der Geheimdienste zu Russland",
+   "text": "Der Grünen-Bundestagsabgeordnete von Notz hat die Einschätzung der Geheimdienste zur Bedrohung durch Russland bekräftigt. Man müsse die Ensthaftigkeit der Lage erkennen, sagte er im Deutschlandfunk. Die Erkenntnisse müssten aber auch bei der Bevölkerung ankommen.",
+   "link": "https://www.deutschlandfunk.de/gruenen-politiker-von-notz-bekraeftigt-einschaetzung-der-geheimdienste-zu-russland-102.html",
+   "published": "2026-10-05T21:46:57+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-07T21:46:57+00:00",
+   "img": "https://bilder.deutschlandfunk.de/91/3e/9e/ea/913e9eea-d486-43a7-88d3-ab2ed498ebe9/von-notz-102-1920x1920.jpg"
+  },
+  {
+   "id": "nde7afd4fa5",
+   "topic": "politik",
+   "title": "Nach dem AfD-Wahlsieg - Landtag von Sachsen-Anhalt tritt zur ersten Sitzung zusammen und will Parlamentspräsidenten wählen",
+   "text": "Einen Monat nach der Wahl in Sachsen-Anhalt tritt heute in Magdeburg der Landtag zu seiner konstituierenden Sitzung zusammen.",
+   "link": "https://www.deutschlandfunk.de/landtag-von-sachsen-anhalt-tritt-zur-ersten-sitzung-zusammen-und-will-parlamentspraesidenten-waehlen-100.html",
+   "published": "2026-10-05T21:46:57+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-07T21:46:57+00:00"
+  },
+  {
+   "id": "nba050bc38d",
+   "topic": "politik",
+   "title": "Angriffskrieg - Russland bombardiert Charkiw im Osten der Ukraine",
+   "text": "Bei russischen Angriffen auf die Stadt Charkiw im Osten der Ukraine sind nach Behördenangaben mindestens sechs Menschen getötet worden.",
+   "link": "https://www.deutschlandfunk.de/russland-bombardiert-charkiw-im-osten-der-ukraine-106.html",
+   "published": "2026-10-05T21:46:57+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-07T21:46:57+00:00"
+  },
+  {
+   "id": "nafeccff4ea",
+   "topic": "politik",
+   "title": "Protestwelle - Erneut landesweit Schüler-Demonstrationen in Frankreich angekündigt",
+   "text": "In Frankreich protestieren Schülerinnen und Schüler heute erneut landesweit für bessere Lernbedingungen.",
+   "link": "https://www.deutschlandfunk.de/erneut-landesweit-schueler-demonstrationen-in-frankreich-angekuendigt-100.html",
+   "published": "2026-10-05T21:46:57+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-07T21:46:57+00:00",
+   "img": "https://bilder.deutschlandfunk.de/NO/VA/_0/ea/NOVA_0eab99f641e7508923108c56f833e100/craft-13458715-asset-100-1920x1920.jpg"
+  },
+  {
+   "id": "nb59563dbbf",
+   "topic": "politik",
+   "title": "Wohnungskrise - Spaniens Gewerkschaften rufen zum Generalstreik für bezahlbaren Wohnraum auf",
+   "text": "Die beiden großen spanischen Gewerkschaften haben einen Generalstreik wegen der Wohnungskrise angekündigt.",
+   "link": "https://www.deutschlandfunk.de/spaniens-gewerkschaften-rufen-zum-generalstreik-fuer-bezahlbaren-wohnraum-auf-102.html",
+   "published": "2026-10-05T21:46:57+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-07T21:46:57+00:00",
+   "img": "https://bilder.deutschlandfunk.de/76/8b/6e/47/768b6e47-d289-4d8d-94ed-de6eaed1e811/spanien-wohnungsmangel-proteste-100-1920x1920.jpg"
+  },
+  {
+   "id": "n7ad895124a",
+   "topic": "politik",
+   "title": "Bahn - Verkehrsministerium legt heute Pläne zur Verbesserung des Schienennetzes vor",
+   "text": "Das Bundesverkehrsministerium gibt heute seine Pläne für eine Modernisierung des Schienennetzes in Deutschland bekannt.",
+   "link": "https://www.deutschlandfunk.de/verkehrsministerium-legt-heute-plaene-zur-verbesserung-des-schienennetzes-vor-100.html",
+   "published": "2026-10-05T21:46:57+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-07T21:46:57+00:00",
+   "img": "https://bilder.deutschlandfunk.de/d0/54/8b/a7/d0548ba7-dec9-4236-bd1e-5d199c78b904/deutsche-bahn-generalsanierung-102-1920x1920.jpg"
+  },
+  {
+   "id": "nadb31c7a14",
+   "topic": "nfl",
+   "title": "Packers Discussion: How are you feeling about the team after Week 4?",
+   "text": "Jordan Love played really well against the Tampa Bay Buccaneers, and more importantly he looked confident in his line",
+   "link": "https://sports.yahoo.com/articles/packers-discussion-feeling-team-week-214646025.html",
+   "published": "2026-10-05T21:46:46+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-10T21:46:46+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/13d1b007fc0d43db249d446c5d7ad77f.jpg"
+  },
+  {
+   "id": "n9c7a6d6fa9",
+   "topic": "nfl",
+   "title": "Cowboys injury report: Tyler Smith limited Monday",
+   "text": "Here is Monday’s injury report for the Dallas Cowboys.",
+   "link": "https://sports.yahoo.com/articles/cowboys-injury-report-tyler-smith-214253271.html",
+   "published": "2026-10-05T21:42:53+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-10T21:42:53+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/9853c42216cdbcf1aaec088c9e2752dc.jpg"
+  },
+  {
+   "id": "n1e8a7f839f",
+   "topic": "nfl",
+   "title": "Saints vs. Falcons prediction: Michael Penix Jr. leads Atlanta into New Orleans",
+   "text": "The NFC South rivals meet Monday night in New Orleans as Michael Penix Jr. and the Falcons look to build on their first win of the season",
+   "link": "https://www.cbssports.com/nfl/news/saints-vs-falcons-how-to-watch-tv-channel-live-stream-kickoff-time-prediction/",
+   "published": "2026-10-05T21:31:02+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-10T21:31:02+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/05/dc805517-7636-4549-854a-fed971b20b63/penix.jpg"
+  },
+  {
+   "id": "n3ce9974ed4",
+   "topic": "nfl",
+   "title": "NFL just doled out a punishment it hasn't used in 8 years -- to two separate offenders",
+   "text": "A look at how rare it is for an NFL official to be punished by the league",
+   "link": "https://www.cbssports.com/nfl/news/nfl-doled-out-punishment-not-used-8-years-officials/",
+   "published": "2026-10-05T21:02:39+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-10T21:02:39+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/05/8ed8cfda-bb4b-4913-a71b-236860afa57a/nfl-referrees.jpg"
+  },
+  {
+   "id": "n181a97ef7e",
+   "topic": "wissenschaft",
+   "title": "Nobelpreisträger Hegemann in den tagesthemen: \"Ich bin natürlich überwältigt\"",
+   "text": "Der Algenforscher Peter Hegemann hat Grund zum Feiern: Gemeinsam mit zwei weiteren Forschern erhält er den Medizin-Nobelpreis. In den tagesthemen berichtet er vom Nutzen der Optogenetik - und fordert mehr Mut von der Politik.",
+   "link": "https://www.tagesschau.de/wissen/forschung/tagesthemen-interview-hegemann-100.html",
+   "published": "2026-10-05T19:37:30+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-19T19:37:30+00:00",
+   "img": "https://images.tagesschau.de/image/176416f8-b094-4994-bfba-48f2a6bf69fe/AAABoQ1HuBM/AAABnSSvrFg/16x9-big/hegemann-110.jpg?width=1920"
+  },
+  {
+   "id": "n15727febca",
+   "topic": "it",
+   "title": "Milliarden-Deal: Schneider Electric übernimmt Industriesoftware-Gruppe PTC",
+   "text": "Die 23,7 Milliarden US-Dollar schwere Übernahme ist die größte in der Konzerngeschichte. Schneider Electric stärkt sein Portfolio für Engineering Software.",
+   "link": "https://www.heise.de/news/Milliarden-Deal-Schneider-Electric-uebernimmt-Industriesoftware-Gruppe-PTC-11476850.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-05T19:23:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-10T19:23:00+00:00"
+  },
+  {
+   "id": "nccf3212299",
+   "topic": "ki",
+   "title": "Meta und Microsoft kürzen Claude-Nutzung drastisch und setzen auf eigene KI-Tools",
+   "text": "Meta und Microsoft, zwei der größten Firmenkunden von Anthropic, fahren ihre Claude-Nutzung deutlich zurück. Microsoft kürzte das monatliche Pro-Kopf-Budget in der Cloud-Sparte von 100.000 auf 10.000 Dollar, Meta halbierte die Zahl der Claude-Code-Nutzer auf 30.000. Beide setzen verstärkt auf eigene KI‑Tools. Für …",
+   "link": "https://the-decoder.de/meta-und-microsoft-kuerzen-claude-nutzung-drastisch-und-setzen-auf-eigene-ki-tools/",
+   "published": "2026-10-05T18:51:19+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-12T18:51:19+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/08/anthropic_openai.png"
+  },
+  {
+   "id": "n7003e6bb7f",
+   "topic": "politik",
+   "title": "AfD kritisiert Rhein in Brandmauer-Debatte scharf: \"Verhöhnung der Wähler\"",
+   "text": "Für seine Forderung, die AfD im Bundestag nicht länger \"auszugrenzen\", erhält Hessens Regierungschef Boris Rhein Kritik. Die SPD als Juniorpartner macht es, ohne ihn zu erwähnen. Und nicht einmal die hessische AfD freut sich.",
+   "link": "https://www.hessenschau.de/politik/afd-kritisiert-rhein-in-brandmauer-debatte-scharf-verhoehnung-der-waehler-v1,reaktionen-rhein-brandmauer-afd-100.html",
+   "published": "2026-10-05T18:43:42+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-09T18:43:42+00:00",
+   "img": "https://www.hessenschau.de/politik/brandmauer-100~_t-1791216873170_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "nee724e94e9",
+   "topic": "wirtschaft",
+   "title": "Wirtschaft vor acht vom 05.10.2026",
+   "text": "Wirtschaft vor acht vom 05.10.2026",
+   "link": "https://www.tagesschau.de/video/video-1661012.html",
+   "published": "2026-10-05T18:27:45+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-08T18:27:45+00:00",
+   "img": "https://images.tagesschau.de/image/44f824c8-7c95-4c11-a3bd-60325f923be3/AAABoQ1SQfo/AAABnSSvrFg/16x9-big/sendungsbild-1807220.jpg?width=1920"
+  },
+  {
+   "id": "nd357050b54",
+   "topic": "ki",
+   "title": "Reka AIs Omni-Modell Rho-1 vereint Text, Bild, Video und Robotersteuerung in einem einzigen Modell",
+   "text": "Reka AI stellt mit Rho-1 ein Omni-Modell mit 19 Milliarden Parametern vor, das Text, Bilder, Video und Robotersteuerung in einem einzigen neuronalen Netz vereint. Trainiert wurde es in drei Monaten auf 320 H100‑GPUs. Laut Reka AI ist das ein Bruchteil dessen, was heutige Spitzenmodelle benötigen. Das Ziel sind …",
+   "link": "https://the-decoder.de/reka-ais-omni-modell-rho-1-vereint-text-bild-video-und-robotersteuerung-in-einem-einzigen-modell/",
+   "published": "2026-10-05T18:24:05+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-12T18:24:05+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/rho1_images.png"
+  },
+  {
+   "id": "n5a2614212b",
+   "topic": "wissenschaft",
+   "title": "Nobelpreis für Physiologie oder Medizin 2026: Ein Lichtschalter für Nervenzellen",
+   "text": "Der Nobelpreis für Physiologie oder Medizin geht 2026 an die Entwickler der Optogenetik. Dank der bahnbrechenden Technik lassen sich Neurone mit Licht ein- und ausschalten.",
+   "link": "https://www.spektrum.de/news/medizin-nobelpreis-2026-fuer-optogenetik/2345544",
+   "published": "2026-10-05T18:21:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-19T18:21:00+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Nobelpreis für Medizin geht an Forscher aus Deutschland und den USA",
+     "link": "https://www.tagesschau.de/video/video-1660638.html"
+    }
+   ]
+  },
+  {
+   "id": "nadaccac56d",
+   "topic": "welt",
+   "title": "Russische Sabotage, Spionage und Desinformation: Deutschlands Geheimdienstchefs warnen vor einer akuten Bedrohungslage",
+   "text": "Bei einer seltenen öffentlichen Anhörung im Bundestag schlagen Deutschlands Nachrichtendienste Alarm: Russland sei der gefährlichste Gegner. Gleichzeitig rücken China und der Extremismus in den Fokus.",
+   "link": "https://www.dw.com/de/russische-sabotage-spionage-und-desinformation-deutschlands-geheimdienstchefs-warnen-vor-einer-akuten-bedrohungslage/a-79554346?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-05T18:11:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-09T18:11:00+00:00",
+   "img": "https://static.dw.com/image/78155521_302.jpg"
+  },
+  {
+   "id": "n682f0b5c12",
+   "topic": "welt",
+   "title": "Sparen trotz Protest: Frankreichs schwieriger Balanceakt",
+   "text": "Premierminister Lecornu verspricht bessere Schulen und muss Milliarden sparen. Die Regierung steckt in einem Dilemma, das auch andere EU-Länder betrifft: Wie lässt sich sparen, wenn die Bürger mehr Staat erwarten?",
+   "link": "https://www.dw.com/de/sparen-trotz-protest-frankreichs-schwieriger-balanceakt/a-79552376?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-05T18:04:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-09T18:04:00+00:00",
+   "img": "https://static.dw.com/image/79553722_302.jpg"
+  },
+  {
+   "id": "nb62bf81803",
+   "topic": "politik",
+   "title": "Ärger um neue Fregatten der Bundeswehr - Opposition macht Druck",
+   "text": "Eigentlich sollte ein niederländisches Unternehmen moderne Fregatten für die Bundeswehr liefern. Doch das Verteidigungsministerium beendete das Projekt - und beauftragte eine andere Firma. Das hat ein Nachspiel. Von M. Kubina und B. Großkopff.",
+   "link": "https://www.tagesschau.de/inland/verteidigungsministerium-fregatten-bundeswehr-kritik-100.html",
+   "published": "2026-10-05T18:01:40+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-08T18:01:40+00:00",
+   "img": "https://images.tagesschau.de/image/7914b8a6-2314-43de-9ba4-c017e4797c45/AAABoPt70zg/AAABnSSvrFg/16x9-big/pistorius-682.jpg?width=1920"
+  },
+  {
+   "id": "nf83dd08083",
+   "topic": "it",
+   "title": "Top 10: Die beste Dashcam fürs Auto im Test – Garmin vor Nextbase und Vantrue",
+   "text": "Dashcams, kleine Autokameras für die Windschutzscheibe, helfen bei der Klärung der Schuldfrage nach Unfällen. Wir zeigen die zehn besten Modelle.",
+   "link": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-dashcam-fuers-auto-im-test-garmin-vor-nextbase-und-vantrue/7s7gh7t?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-05T18:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-10T18:00:00+00:00"
+  },
+  {
+   "id": "n24f50f47b8",
+   "topic": "ki",
+   "title": "OpenAI versieht ChatGPT-Texte mit unsichtbarem Wasserzeichen",
+   "text": "OpenAI führt mit textGrain ein unsichtbares Wasserzeichen für ChatGPT-Texte ein, zunächst nur in der EU. Die Erkennungsrate erreicht bis zu 95 Prozent, doch schon bei 25 Prozent ersetzter Wörter fällt sie auf 17 Prozent. Anders als Anthropic macht OpenAI das Wasserzeichen für API-Kunden optional. Der Artikel OpenAI …",
+   "link": "https://the-decoder.de/openai-versieht-chatgpt-texte-mit-unsichtbarem-wasserzeichen/",
+   "published": "2026-10-05T17:16:42+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-12T17:16:42+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/openai_chatgpt_text_detection-2.png"
+  },
+  {
+   "id": "nc919952b90",
+   "topic": "welt",
+   "title": "America.gov: Digitaler Service oder Überwachung per KI?",
+   "text": "Die US-Regierung will Behördengänge in einer einzigen, KI-gestützten Plattform bündeln. Bequem, schnell und angeblich ohne zentrale Datensammlung. Doch wer liest mit, wenn Bürger einem Chatbot ihre Lebenssituation anvertrauen? Von Samuel Jackisch.",
+   "link": "https://www.tagesschau.de/ausland/amerika/usa-america-gov-100.html",
+   "published": "2026-10-05T17:12:58+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-08T17:12:58+00:00",
+   "img": "https://images.tagesschau.de/image/09ec26cb-cbe5-4544-bb22-a2dbee73759f/AAABoQ0N6hE/AAABnSSvrFg/16x9-big/trump-america-gov-100.jpg?width=1920"
+  },
+  {
+   "id": "nb9350b756b",
+   "topic": "politik",
+   "title": "Wie die Chefs der Nachrichtendienste die Sicherheitslage einschätzen",
+   "text": "Einschüchterung, Cyberangriffe, Anschlagspläne - Russland führe einen \"Schattenkrieg\" gegen Deutschland, sagt BND-Chef Jäger. Ein offener Krieg sei das nicht, doch die Grenze verschwimme. Was bedeutet das? Von O. Neuroth.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienste-praesidenten-bedrohung-100.html",
+   "published": "2026-10-05T17:11:29+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-08T17:11:29+00:00",
+   "img": "https://images.tagesschau.de/image/80bbc28f-38fd-454a-9b1b-2bc6847ed868/AAABoQzhvfw/AAABnSSvrFg/16x9-big/jaeger-164.jpg?width=1920"
+  },
+  {
+   "id": "n1625a74a11",
+   "topic": "politik",
+   "title": "Warum die Linke wegen eines Insta-Posts bis vor das Verfassungsgericht zieht",
+   "text": "Wirtschaftsministerin Reiche greift die Linke in einer Rede scharf an. Ihr Ministerium macht daraus einen Instagram-Post. Nun zieht die Partei vor das Bundesverfassungsgericht: Das Ministerium sei zur Neutralität verpflichtet. Von F. Aischmann.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/linke-klage-reiche-100.html",
+   "published": "2026-10-05T17:10:20+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-08T17:10:20+00:00",
+   "img": "https://images.tagesschau.de/image/e666971e-fef0-4c91-938c-59cb503a6fe4/AAABoQyUy2k/AAABnSSvrFg/16x9-big/pantisano-120.jpg?width=1920"
+  },
+  {
+   "id": "n446733da53",
+   "topic": "politik",
+   "title": "Günther kritisiert Energiepolitik von Ministerin Reiche",
+   "text": "Um Kosten zu sparen, will Bundeswirtschaftsministerin Reiche die Förderung Erneuerbarer Energien kürzen. Mit scharfen Worten versucht Schleswig-Holsteins Ministerpräsident Günther, das Vorhaben seiner Parteigenossin zu verhindern.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/reiche-guenther-energiepolitik-100.html",
+   "published": "2026-10-05T17:01:40+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-08T17:01:40+00:00",
+   "img": "https://images.tagesschau.de/image/fbe2429d-798c-4503-88f2-cebf3f2eef8e/AAABoQ0DksM/AAABnSSvrFg/16x9-big/daniel-guenther-140.jpg?width=1920"
+  },
+  {
+   "id": "n00f5f28e4c",
+   "topic": "it",
+   "title": "Festnetz-Provider: BT übernimmt Talk Talk in einem Rettungskauf",
+   "text": "BT hat sich mit der britischen Regierung geeinigt, den Breitbandprovider Talk Talk trotz Wettbewerbsbedenken kaufen zu können. Es sei um eine Rettung im öffentlichen Interesse gegangen. ( Unternehmen , Wirtschaft )",
+   "link": "https://www.golem.de/news/festnetz-provider-bt-uebernimmt-talk-talk-in-einem-rettungskauf-2610-213733.html",
+   "published": "2026-10-05T17:01:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-10T17:01:02+00:00",
+   "img": "https://www.golem.de/2610/213733-601703-601701_rc.jpg"
+  },
+  {
+   "id": "n2344b775f3",
+   "topic": "it",
+   "title": "MacBook Ultra: Neuer OLED-Mac angeblich „signifikant leichter“",
+   "text": "Aktuelle MacBook-Pro-Modelle sind für Apple-Verhältnisse recht voluminös. Beim ersten Touchscreen-OLED-Gerät hat Apple angeblich abgespeckt.",
+   "link": "https://www.heise.de/news/MacBook-Ultra-Neuer-OLED-Mac-angeblich-signifikant-leichter-11476805.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-05T17:01:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-10T17:01:00+00:00"
+  },
+  {
+   "id": "nc1eb6f986e",
+   "topic": "wirtschaft",
+   "title": "Energiepreise: Preise für Benzin und Diesel steigen wieder leicht",
+   "text": "Der \"Tankrabatt\" soll Verbrauchern Entlastung bringen. Kurz nach dem Start steigen die Kraftstoffpreise aber wieder leicht an. Laut ADAC ist das \"nur schwer nachvollziehbar\".",
+   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-tankrabatt-120.html",
+   "published": "2026-10-05T16:42:44+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-08T16:42:44+00:00",
+   "img": "https://images.tagesschau.de/image/6d30e1ec-3958-4075-9234-4929d20d9127/AAABoQyzFJo/AAABnSSvrFg/16x9-big/zapfsaeule-tankstelle-104.jpg?width=1920"
+  },
+  {
+   "id": "nb9b06259f7",
+   "topic": "it",
+   "title": "Anhörung zu Cybersicherheit: Experten uneins über Gegenangriffe auf Hacker",
+   "text": "Polizeibehörden sollen künftig Cyberattacken zur Gefahrenabwehr vornehmen. Organisationen wie der CCC warnen vor Gefahren und fordern Nachbesserungen. Ein Bericht von Friedhelm Greis ( Hackback , CCC )",
+   "link": "https://www.golem.de/news/anhoerung-zu-cybersicherheit-weiterhin-hickhack-um-hackbacks-2610-213731.html",
+   "published": "2026-10-05T16:42:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-10T16:42:01+00:00",
+   "img": "https://www.golem.de/2610/213731-601699-601697_rc.jpg"
+  },
+  {
+   "id": "nec849e19e1",
+   "topic": "welt",
+   "title": "Wird die Leugnung des Existenzrechts Israels bald strafbar?",
+   "text": "Der Deutsche Bundesrat und der Zentralrat der Juden drängen auf ein gesetzliches Verbot zum Schutz Israels vor Antisemitismus. Die Bundesregierung zeigt sich skeptisch. Gefragt ist nun der Bundestag.",
+   "link": "https://www.dw.com/de/wird-die-leugnung-des-existenzrechts-israels-bald-strafbar/a-79553890?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-05T16:31:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-09T16:31:00+00:00",
+   "img": "https://static.dw.com/image/79551682_302.jpg"
+  },
+  {
+   "id": "n0bff1cfa22",
+   "topic": "wirtschaft",
+   "title": "Marktbericht: DAX kommt nicht vom Fleck",
+   "text": "Zu Beginn der neuen Woche konnte der deutsche Aktienmarkt kaum Boden gutmachen. Die Kurse wurden vor allem durch die fortgesetzte Schwäche des Euro gebremst.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-166.html",
+   "published": "2026-10-05T16:28:41+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-08T16:28:41+00:00",
+   "img": "https://images.tagesschau.de/image/ac5471dd-2140-4880-86ee-40edd442eb13/AAABnUI3xTI/AAABnSSvrFg/16x9-big/boerse-500.jpg?width=1920"
+  },
+  {
+   "id": "neb0114283f",
+   "topic": "welt",
+   "title": "Regierungstruppen im Jemen melden Kontrolle über wichtige Meerenge",
+   "text": "Lange war die Huthi-Miliz im Jemen auf dem Vormarsch, jetzt schlagen die Regierungstruppen zurück. Unterstützt von Saudi-Arabien konnten sie offenbar die strategisch wichtige Meerenge Bab al-Mandab unter Kontrolle bringen.",
+   "link": "https://www.tagesschau.de/ausland/asien/jemen-regierungstruppen-100.html",
+   "published": "2026-10-05T16:24:40+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-08T16:24:40+00:00",
+   "img": "https://images.tagesschau.de/image/e89c56bb-893b-4c7d-9b09-b94ab388084d/AAABoQy8DQg/AAABnSSvrFg/16x9-big/jemen-truppen-100.jpg?width=1920"
+  },
+  {
+   "id": "n3d4fc90f62",
+   "topic": "politik",
+   "title": "Bundesumweltminister: Pharmafirmen sollen für Wasserreinigung zahlen",
+   "text": "Wer bezahlt für die Beseitigung von Medikamenten- und Kosmetikarückständen im Wasser? Der Umweltminister will die Hersteller zur Kasse bitten. Auch Rechenzentren sollen mehr für Wasser zahlen.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/schneider-pharmafirmen-zahlungen-medikamentenrueckstaende-100.html",
+   "published": "2026-10-05T15:50:10+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-08T15:50:10+00:00",
+   "img": "https://images.tagesschau.de/image/85c4984b-720c-4b21-884e-6fa40df0ceda/AAABoQzCG-E/AAABnSSvrFg/16x9-big/wasserreinigung-100.jpg?width=1920"
+  },
+  {
+   "id": "n11fc1b8332",
+   "topic": "welt",
+   "title": "Neuer Marinehafen der Bundeswehr soll in Emden gebaut werden",
+   "text": "Die Marine bekommt einen zweiten Hafen an der Nordseeküste. Die Wahl fiel auf Emden in Niedersachsen. Grund für den Neubau ist die verschärfte Sicherheitslage.",
+   "link": "https://www.dw.com/de/neuer-marinehafen-der-bundeswehr-soll-in-emden-gebaut-werden/a-79551706?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-05T15:44:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-09T15:44:00+00:00",
+   "img": "https://static.dw.com/image/79498293_302.jpg"
+  },
+  {
+   "id": "n01b9545e81",
+   "topic": "politik",
+   "title": "Union und SPD planen neue Plastiksteuer",
+   "text": "Union und SPD wollen Unternehmen mit einer neuen Steuer dazu bringen, den Verbrauch von Plastik zu reduzieren. Sie erhoffen sich auch wichtige Einnahmen für den Haushalt. Wirtschaftsverbände kritisieren den Entwurf.",
+   "link": "https://www.tagesschau.de/inland/koalition-fraktionen-plastiksteuer-100.html",
+   "published": "2026-10-05T15:10:29+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-08T15:10:29+00:00",
+   "img": "https://images.tagesschau.de/image/aefcdb76-f04a-4cd8-8ecc-a0e2ec954b03/AAABoQx7WsM/AAABnSSvrFg/16x9-big/gemuese-plastik-101.jpg?width=1920"
+  },
+  {
+   "id": "nbb906bd034",
+   "topic": "wissenschaft",
+   "title": "Optogenetik: Medizin-Nobelpreis für den Lichtschalter im Gehirn",
+   "text": "Eine Grünalge lieferte den entscheidenden Baustein: Mit der Optogenetik lassen sich Nervenzellen durch Licht steuern. Dafür erhalten Peter Hegemann, Georg Nagel und Karl Deisseroth den Medizin-Nobelpreis. Von Doris Tromballa.",
+   "link": "https://www.tagesschau.de/wissen/gesundheit/optogenetik-nobelpreis-100.html",
+   "published": "2026-10-05T14:53:43+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-19T14:53:43+00:00",
+   "img": "https://images.tagesschau.de/image/dd23d562-d557-4cd7-8f85-861a1a56e6af/AAABoQxw46w/AAABnSSvrFg/16x9-big/reagenzglaeser-100.jpg?width=1920"
+  },
   {
    "id": "n69a1930e6a",
    "topic": "welt",
@@ -82,6 +570,19 @@
    "type": "Sportmedium",
    "lang": "en",
    "expires": "2026-10-10T14:33:16+00:00"
+  },
+  {
+   "id": "n7b1e4e3505",
+   "topic": "welt",
+   "title": "Israel: Psychische Gesundheit in der Krise",
+   "text": "Mehr als ein Drittel aller Israelis zeigt Symptome psychischer Erkrankungen. Drei Jahre nach den Angriffen vom 7. Oktober ist das Gesundheitssystem noch immer mit den Folgen des Terrorangriffs überfordert.",
+   "link": "https://www.dw.com/de/israel-psychische-gesundheit-in-der-krise/a-79518467?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-05T14:29:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-09T14:29:00+00:00",
+   "img": "https://static.dw.com/image/70421715_302.jpg"
   },
   {
    "id": "n28c9ef96e1",
@@ -197,27 +698,20 @@
    "type": "Fachmedium (KI)",
    "lang": "de",
    "expires": "2026-10-12T14:12:50+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/kolibri_aleph_alpha.png",
-   "also": [
-    {
-     "source": "Golem.de",
-     "title": "78 Milliarden Parameter: Aleph Alpha veröffentlicht KI-Modell mit Deutsch-Schwerpunkt",
-     "link": "https://www.golem.de/news/78-milliarden-parameter-aleph-alpha-veroeffentlicht-ki-modell-mit-deutsch-schwerpunkt-2610-213682.html"
-    }
-   ]
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/kolibri_aleph_alpha.png"
   },
   {
    "id": "n4ff974ebe0",
    "topic": "wissenschaft",
-   "title": "Deutsche Wissenschaftler gewinnen Medizin-Nobelpreis für ihre Entdeckungen in der Optogenetik",
-   "text": "Deutsche Wissenschaftler gewinnen Medizin-Nobelpreis für ihre Entdeckungen in der Optogenetik",
+   "title": "Kommunikation von Nervenzellen im Gehirn: Forscher-Trio erhält Medizin-Nobelpreis",
+   "text": "Kommunikation von Nervenzellen im Gehirn: Forscher-Trio erhält Medizin-Nobelpreis",
    "link": "https://www.tagesschau.de/video/video-1660770.html",
    "published": "2026-10-05T14:09:06+00:00",
    "source": "Tagesschau",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-19T14:09:06+00:00",
-   "img": "https://images.tagesschau.de/image/d98e881a-b454-4a66-bcaa-3d6fc9db948f/AAABoQxlitQ/AAABnSSvrFg/16x9-big/sendungsbild-1807110.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/2a762fbc-974e-4f51-98d8-23862e69ed60/AAABoQyrn5s/AAABnSSvrFg/16x9-big/reagenzglaeser-102.jpg?width=1920"
   },
   {
    "id": "n8bd781d3b9",
@@ -562,8 +1056,8 @@
    "also": [
     {
      "source": "Spektrum der Wissenschaft",
-     "title": "Nobelpreis für Physiologie oder Medizin 2026: Höchste Auszeichnung für Forschung zur Optogenetik",
-     "link": "https://www.spektrum.de/news/medizin-nobelpreis-2026-fuer-forschung-zur-optogenetik/2345552"
+     "title": "Nobelpreis für Physiologie oder Medizin 2026: Ein Lichtschalter für Nervenzellen",
+     "link": "https://www.spektrum.de/news/medizin-nobelpreis-2026-fuer-optogenetik/2345544"
     }
    ]
   },
@@ -657,19 +1151,6 @@
    "lang": "de",
    "expires": "2026-10-10T05:40:02+00:00",
    "img": "https://www.golem.de/2610/213691-601492-601490_rc.jpg"
-  },
-  {
-   "id": "n0bff1cfa22",
-   "topic": "wirtschaft",
-   "title": "Marktbericht: DAX-Anleger starten Woche mit gemischten Gefühlen",
-   "text": "Es bleibt auch in der neuen Woche herausfordernd für den deutschen Leitindex. Zwar hat bereits am Freitag der US-Arbeitsmarktbericht die Zinssorgen gebremst. Trotzdem belasten die hohen Ölpreise.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-166.html",
-   "published": "2026-10-05T05:39:12+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-08T05:39:12+00:00",
-   "img": "https://images.tagesschau.de/image/623e331e-6913-4630-b0aa-bd45003fc6c7/AAABoKO-QqQ/AAABnSSvrFg/16x9-big/boerse-542.jpg?width=1920"
   },
   {
    "id": "n1d95d830e0",
@@ -772,14 +1253,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-07T05:32:36+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Merz: Ukraine-Hilfen \"notwendig für die Stabilität Europas\"",
-     "link": "https://www.tagesschau.de/ausland/europa/merz-kiew-ukraine-russland-100.html"
-    }
-   ]
+   "expires": "2026-10-07T05:32:36+00:00"
   },
   {
    "id": "n4334685234",
@@ -896,8 +1370,8 @@
    "also": [
     {
      "source": "Spektrum der Wissenschaft",
-     "title": "Nobelpreis für Physiologie oder Medizin 2026: Höchste Auszeichnung für Forschung zur Optogenetik",
-     "link": "https://www.spektrum.de/news/medizin-nobelpreis-2026-fuer-forschung-zur-optogenetik/2345552"
+     "title": "Nobelpreis für Physiologie oder Medizin 2026: Ein Lichtschalter für Nervenzellen",
+     "link": "https://www.spektrum.de/news/medizin-nobelpreis-2026-fuer-optogenetik/2345544"
     }
    ]
   },
@@ -1024,14 +1498,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-08T00:33:07+00:00",
-   "img": "https://images.tagesschau.de/image/526cd0cf-3efb-4cea-ab87-feb6b891943c/AAABoQlvusI/AAABnSSvrFg/16x9-big/dodik-118.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Abstimmung - Bosnien und Herzegowina: Wahlen in einem der kompliziertesten Staatengebilde der Welt",
-     "link": "https://www.deutschlandfunk.de/bosnien-und-herzegowina-wahlen-in-einem-der-kompliziertesten-staatengebilde-der-welt-112.html"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/526cd0cf-3efb-4cea-ab87-feb6b891943c/AAABoQlvusI/AAABnSSvrFg/16x9-big/dodik-118.jpg?width=1920"
   },
   {
    "id": "n28baf920b4",
@@ -1146,8 +1613,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-06T21:26:08+00:00",
-   "img": "https://bilder.deutschlandfunk.de/e1/06/7d/e2/e1067de2-6230-41ae-943b-92085b1ff504/die-nachrichten-kachel-2176-zu1224-100-768x768.jpg"
+   "expires": "2026-10-06T21:26:08+00:00"
   },
   {
    "id": "n901a3c3417",
@@ -1201,508 +1667,6 @@
    "lang": "de",
    "expires": "2026-10-07T18:40:10+00:00",
    "img": "https://images.tagesschau.de/image/1ceb13da-5fd8-4c51-9787-fc05a3c86eb9/AAABoQe8Ttc/AAABnSSvrFg/16x9-big/sendungsbild-1806754.jpg?width=1920"
-  },
-  {
-   "id": "n6406620b0d",
-   "topic": "nfl",
-   "title": "Giants-Cardinals, Week 4: Live updates, score, highlights, discussion",
-   "text": "Follow and discuss all of the action right here as the Giants host the Arizona Cardinals.",
-   "link": "https://sports.yahoo.com/articles/giants-cardinals-week-4-live-150000541.html",
-   "published": "2026-10-04T18:29:25+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-09T18:29:25+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/14a284805a9a86c252f700359a3f03c3.jpg"
-  },
-  {
-   "id": "n954968f46e",
-   "topic": "nfl",
-   "title": "Patriots vs. Bills live updates: Score, news, discussion for NFL Week 4",
-   "text": "The Patriots will try to make up some ground in the race for the AFC East on Sunday in Buffalo.",
-   "link": "https://sports.yahoo.com/articles/patriots-vs-bills-live-updates-161500108.html",
-   "published": "2026-10-04T18:26:37+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-09T18:26:37+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/193c6a34344cccd046a9220427d7fcbc.jpg"
-  },
-  {
-   "id": "nc90a2f381f",
-   "topic": "politik",
-   "title": "Besuch in Kiew - Merz verteidigt Ukraine-Hilfen: \"Im eigenen Interesse Deutschlands\"",
-   "text": "Bundeskanzler Merz hat die in der deutschen Bevölkerung teils umstrittene Unterstützung der Ukraine verteidigt. Er sagte bei seinem Besuch in Kiew, die Hilfe für die Ukraine sei gerade in diesem Jahr und vor diesem Winter im zutiefst eigenen nationalen Interesse Deutschlands. Merz nannte etwa tägliche russische …",
-   "link": "https://www.deutschlandfunk.de/merz-verteidigt-ukraine-hilfen-im-eigenen-interesse-deutschlands-100.html",
-   "published": "2026-10-04T18:22:27+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-06T18:22:27+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Merz: Ukraine-Hilfen \"notwendig für die Stabilität Europas\"",
-     "link": "https://www.tagesschau.de/ausland/europa/merz-kiew-ukraine-russland-100.html"
-    }
-   ]
-  },
-  {
-   "id": "nf2e1280273",
-   "topic": "politik",
-   "title": "Abstimmung - Bosnien und Herzegowina: Wahlen in einem der kompliziertesten Staatengebilde der Welt",
-   "text": "In Bosnien und Herzegowina haben die Wahllokale geschlossen. Im Fokus stand die Neubesetzung des dreiköpfigen Staatspräsidiums. Es besteht aus jeweils einem Vertreter der drei konstitutiven Volksgruppen - der Bosniaken, Serben und Kroaten. 3,4 Millionen Menschen waren wahlberechtigt.",
-   "link": "https://www.deutschlandfunk.de/bosnien-und-herzegowina-wahlen-in-einem-der-kompliziertesten-staatengebilde-der-welt-112.html",
-   "published": "2026-10-04T18:22:27+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-06T18:22:27+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Starke nationalistische Kräfte bei Wahlen in Bosnien und Herzegowina",
-     "link": "https://www.tagesschau.de/ausland/europa/bosnien-herzegowina-wahl-112.html"
-    }
-   ]
-  },
-  {
-   "id": "n42c651cf83",
-   "topic": "politik",
-   "title": "Ausschuss-Vorsitzende - AfD begrüßt Vorstoß von Hessens CDU-Chef Rhein - Kritik von Koalitionsvertretern",
-   "text": "Die Alternative für Deutschland hat den Vorstoß von Hessens Ministerpräsident Rhein zu einem anderen Umgang mit der AfD im Bundestag begrüßt. Parlamentsgeschäftsführer Baumann sagte der Nachrichtenagentur AFP, er gehe davon aus, dass die CDU in absehbarer Zeit ihre Ausgrenzungsstrategie aufgeben werde. Kritik kam …",
-   "link": "https://www.deutschlandfunk.de/afd-begruesst-vorstoss-von-hessens-cdu-chef-rhein-kritik-von-koalitionsvertretern-100.html",
-   "published": "2026-10-04T18:22:27+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-06T18:22:27+00:00"
-  },
-  {
-   "id": "n63e2f70e47",
-   "topic": "politik",
-   "title": "Nach Angaben von Hilfsorganisationen - Äthiopische Armee vertreibt Tigray-Rebellen aus Provinz Afar",
-   "text": "In Äthiopien haben Regierungstruppen offenbar die volle Kontrolle über die Hauptstadt der Provinz Tigray übernommen.",
-   "link": "https://www.deutschlandfunk.de/aethiopische-armee-vertreibt-tigray-rebellen-aus-provinz-afar-106.html",
-   "published": "2026-10-04T18:22:27+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-06T18:22:27+00:00",
-   "img": "https://bilder.deutschlandfunk.de/f9/88/e2/4d/f988e24d-a852-478b-b159-70dd32b03362/horn-von-afrika-100-1920x1920.jpg"
-  },
-  {
-   "id": "nb3dd8d41b0",
-   "topic": "politik",
-   "title": "Südasien - Pakistan: Anhänger von Ex-Premier Khan marschieren Richtung Islamabad",
-   "text": "In Pakistan sind tausende Anhänger des inhaftierten ehemaligen Premierministers Khan zu einem Protestmarsch in die Hauptstadt Islamabad aufgebrochen.",
-   "link": "https://www.deutschlandfunk.de/pakistan-anhaenger-von-ex-premier-khan-marschieren-richtung-islamabad-100.html",
-   "published": "2026-10-04T18:22:27+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-06T18:22:27+00:00",
-   "img": "https://bilder.deutschlandfunk.de/f3/43/67/80/f3436780-3960-43bd-ab69-eabf4a623f4b/pakistan-116-1280x1280.jpg"
-  },
-  {
-   "id": "nd802b5bca2",
-   "topic": "nfl",
-   "title": "Saquon Barkley injury: Eagles RB ruled out after injuring hamstring vs. Rams",
-   "text": "Barkley suffered an injury early on for the Eagles",
-   "link": "https://www.cbssports.com/nfl/news/saquon-barkley-hamstring-injury-eagles-week-4-rams/",
-   "published": "2026-10-04T18:18:59+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-09T18:18:59+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/04/d5dc5da2-9982-4b37-8620-2c3631e1aa2d/saquon-barkley-eagles.jpg"
-  },
-  {
-   "id": "n6e5e02e658",
-   "topic": "nfl",
-   "title": "Bengals' Ja'Marr Chase questionable to return after entering concussion evaluation vs. Jaguars",
-   "text": "Chase walked off under his own power before entering the medical tent and later heading to the locker room",
-   "link": "https://www.cbssports.com/nfl/news/jamarr-chase-injury-update-bengals-jaguars/",
-   "published": "2026-10-04T18:05:15+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-09T18:05:15+00:00"
-  },
-  {
-   "id": "nbcbf3e5860",
-   "topic": "it",
-   "title": "Top 10: Display für Carplay und Android Auto im Test – nachrüsten ab 50 Euro",
-   "text": "Apple Carplay und Android Auto nachrüsten: Mobile Auto-Displays sind die Lösung. Wir zeigen die besten Modelle aus den Tests.",
-   "link": "https://www.heise.de/bestenlisten/testsieger/top-10-display-fuer-carplay-und-android-auto-im-test-nachruesten-ab-50-euro/xns29ee?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-04T18:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-09T18:00:00+00:00"
-  },
-  {
-   "id": "n7746a4d036",
-   "topic": "welt",
-   "title": "Regierung im Jemen verkündet Großoffensive gegen Huthi-Miliz",
-   "text": "Nach militärischen Erfolgen der Huthi will Jemens international anerkannte Regierung nun in die Offensive gehen. Ziel sei es, das Land aus dem Griff der Miliz zu befreien. Doch das dürfte nicht so einfach sein. Von Anna Osius.",
-   "link": "https://www.tagesschau.de/ausland/asien/jemen-huthi-kaempfe-100.html",
-   "published": "2026-10-04T17:43:26+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-07T17:43:26+00:00",
-   "img": "https://images.tagesschau.de/image/83a5e557-3632-4597-a3e8-ada869e7a8eb/AAABoQgDc5E/AAABnSSvrFg/16x9-big/jemen-840.jpg?width=1920"
-  },
-  {
-   "id": "n1f2eb40830",
-   "topic": "ki",
-   "title": "Trumps neue KI-Einheit \"Super Intelligence Force\" berichtet direkt an den Präsidenten",
-   "text": "Donald Trump hat eine \"Super Intelligence Force\" gegründet. \"Superintelligenz\" ist sein ausgedachtes Wort für \"Künstliche Intelligenz\". Die Einheit unter Leitung von Geheimdienstdirektor Jay Clayton und weiteren Regierungsvertretern soll die Zusammenarbeit mit Unternehmen und Infrastrukturbetreibern koordinieren und …",
-   "link": "https://the-decoder.de/trumps-neue-ki-einheit-super-intelligence-force-berichtet-direkt-an-den-praesidenten/",
-   "published": "2026-10-04T17:34:58+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-11T17:34:58+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/03/us_flag_neural_network-2.png"
-  },
-  {
-   "id": "n5199dd4a60",
-   "topic": "politik",
-   "title": "Bürgermeisterwahl: Hornung in Burghaun im Amt bestätigt",
-   "text": "In Burghaun im Kreis Fulda ist Dieter Hornung als Bürgermeister wiedergewählt worden. Wie schon vor sechs Jahren hatte der CDU-Politiker keinen Gegenkandidaten.",
-   "link": "https://www.hessenschau.de/politik/buergermeisterwahl-hornung-in-burghaun-im-amt-bestaetigt-v3,bm-wahl-burghaun-100.html",
-   "published": "2026-10-04T17:12:38+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-08T17:12:38+00:00",
-   "img": "https://www.hessenschau.de/politik/direktwahl-burghaun-hornung-cdu-100~_t-1791137069299_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "nf1351ac201",
-   "topic": "welt",
-   "title": "\"Superintelligenz\" statt KI: Liegt Donald Trump richtig?",
-   "text": "Donald Trump findet, \"künstliche Intelligenz\" höre sich \"fake\" an, und hat die US-Behörden angewiesen, stattdessen von \"Superintelligenz\" zu sprechen. Doch warum sollten Tech-Unternehmen und Wissenschaftler mitspielen?",
-   "link": "https://www.dw.com/de/superintelligenz-statt-ki-liegt-donald-trump-richtig/a-79523704?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-04T16:54:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-08T16:54:00+00:00",
-   "img": "https://static.dw.com/image/79428047_302.jpg"
-  },
-  {
-   "id": "n8e51e84580",
-   "topic": "welt",
-   "title": "Merz: Ukraine-Hilfen \"notwendig für die Stabilität Europas\"",
-   "text": "Kanzler Merz hat bei seinem Besuch in Kiew erneut Russland zu einem Ende des Krieges aufgefordert. Im Bericht aus Berlin sagte er, für die Stabilität Europas seien weitere Hilfen für die Ukraine wichtig - genau wie eine zuverlässige Bundesregierung.",
-   "link": "https://www.tagesschau.de/ausland/europa/merz-kiew-ukraine-russland-100.html",
-   "published": "2026-10-04T16:43:05+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-07T16:43:05+00:00",
-   "img": "https://images.tagesschau.de/image/c27f77a9-bfa7-4668-b674-b26e3864515a/AAABoQeTufk/AAABnSSvrFg/16x9-big/sendungsbild-1806734.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Besuch in Kiew - Merz verteidigt Ukraine-Hilfen: \"Im eigenen Interesse Deutschlands\"",
-     "link": "https://www.deutschlandfunk.de/merz-verteidigt-ukraine-hilfen-im-eigenen-interesse-deutschlands-102.html"
-    }
-   ]
-  },
-  {
-   "id": "nf33cdd2a48",
-   "topic": "it",
-   "title": "Autonomes Fahren: VW arbeitet mit Wayve statt mit Nvidia",
-   "text": "Das britische Startup Wayve hat sich VWs Zuschlag für autonome Fahrtechnologien gesichert. Es stach Nvidia aus und kooperiert auch mit Mercedes.",
-   "link": "https://www.heise.de/news/Autonomes-fahren-VW-arbeitet-mit-Wayve-statt-mit-Nvidia-11475343.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-04T16:32:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-09T16:32:00+00:00"
-  },
-  {
-   "id": "ndf14380dd5",
-   "topic": "it",
-   "title": "Der „KI-Zar“ der USA kommt von den Geheimdiensten",
-   "text": "Der Sonderbeauftragte für KI in den USA ist gefunden: Jay Clayton soll neben seiner Tätigkeit als Geheimdienstchef eine Task Force leiten.",
-   "link": "https://www.heise.de/news/Der-KI-Zar-der-USA-kommt-von-den-Geheimdiensten-11475401.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-04T15:56:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-09T15:56:00+00:00"
-  },
-  {
-   "id": "n06bc1addd8",
-   "topic": "welt",
-   "title": "Kunst als DNA der Freiheit: Maria Kolesnikowa sprach beim Beethovenfest",
-   "text": "Die belarussische Oppositionelle und Musikerin Maria Kolesnikowa trat beim Beethovenfest in Bonn mit einer Grundsatzrede zur Bedeutung der Kunst auf. Und besuchte die DW.",
-   "link": "https://www.dw.com/de/kunst-als-dna-der-freiheit-maria-kolesnikowa-sprach-beim-beethovenfest/a-79537306?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-04T15:08:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-08T15:08:00+00:00",
-   "img": "https://static.dw.com/image/79535741_302.jpg"
-  },
-  {
-   "id": "n775a01925d",
-   "topic": "politik",
-   "title": "Hamburg behält Vorsitz der Justizministerkonferenz",
-   "text": "Die Regierungsbildung in Sachsen-Anhalt wirbelt auch auf Länderebene einiges durcheinander. Hamburg hätte den Vorsitz der Justizministerkonferenz eigentlich abgeben müssen - macht nun aber weiter.",
-   "link": "https://www.tagesschau.de/inland/justizministerkonferenz-vorsitz-100.html",
-   "published": "2026-10-04T14:51:32+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-07T14:51:32+00:00",
-   "img": "https://images.tagesschau.de/image/e97ddc53-90da-41c5-a415-db956d2a2012/AAABoQc1ids/AAABnSSvrFg/16x9-big/anna-gallina-100.jpg?width=1920"
-  },
-  {
-   "id": "ne5080980a8",
-   "topic": "welt",
-   "title": "Wahl in Brasilien: Kommen die Bolsonaros zurück?",
-   "text": "Bei der Wahl in Brasilien geht es heute darum, ob die Bolsonaros zurück an die Macht kommen. Flávio Bolsonaro tritt an - er wurde von seinem verurteilten Vater als Erbe auserkoren. Von Xenia Böttcher.",
-   "link": "https://www.tagesschau.de/ausland/amerika/brasilien-bolsonaro-160.html",
-   "published": "2026-10-04T14:06:39+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-07T14:06:39+00:00",
-   "img": "https://images.tagesschau.de/image/b5844d91-c93f-40fa-bf60-01f02c913db8/AAABoPvw_z4/AAABnSSvrFg/16x9-big/flavio-bolsonaro-110.jpg?width=1920"
-  },
-  {
-   "id": "n66801477b6",
-   "topic": "welt",
-   "title": "Straße von Hormus: Iran knüpft Öffnung an sieben Bedingungen",
-   "text": "Der USA-Iran-Krieg belastet weiter den Ölhandel. Die Straße von Hormus bleibt blockiert. Der iranische Verhandlungsführer Bagher Ghalibaf pocht darauf: Nur wenn die USA einlenken, wird die Meerenge wieder freigegeben.",
-   "link": "https://www.dw.com/de/straße-von-hormus-iran-knüpft-öffnung-an-sieben-bedingungen/a-79538058?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-04T14:05:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-08T14:05:00+00:00",
-   "img": "https://static.dw.com/image/79538137_302.jpg"
-  },
-  {
-   "id": "n67ec18e8e5",
-   "topic": "welt",
-   "title": "Zahl der Asylanträge in der EU offenbar deutlich gesunken",
-   "text": "Die Zahl der Asylanträge in Europa ist gesunken - in den ersten neun Monaten dieses Jahres wurden laut einem Zeitungsbericht im Vergleich zum Vorjahr fast ein Viertel weniger Anträge gestellt. Deutschland liegt auf Platz drei.",
-   "link": "https://www.tagesschau.de/ausland/europa/asylantraege-europa-102.html",
-   "published": "2026-10-04T14:03:55+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-07T14:03:55+00:00",
-   "img": "https://images.tagesschau.de/image/b1b69185-1b40-49cb-b15a-7f448c5bf80c/AAABoQb_Dz8/AAABnSSvrFg/16x9-big/migranten-152.jpg?width=1920"
-  },
-  {
-   "id": "n86d68a74b4",
-   "topic": "wissenschaft",
-   "title": "Antarktis: Die geheimnisvolle Welt von Lake Unter-See",
-   "text": "Ein außerirdisch anmutendes Ökosystem existiert in diesem wohl seltsamsten See der Welt. Lake Unter-See in der Antarktis ist seit Jahrtausenden völlig von der Außenwelt isoliert.",
-   "link": "https://www.spektrum.de/news/antarktis-die-geheimnisvolle-welt-von-lake-unter-see/2315457",
-   "published": "2026-10-04T14:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-10-18T14:00:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/DTA_ConesandTwoPinnacles.jpg.8410242.jpg?f=1280x720"
-  },
-  {
-   "id": "n5865fb1778",
-   "topic": "welt",
-   "title": "Merz-Besuch in Kiew: Eine Milliarde Militärhilfe für die Ukraine",
-   "text": "Bundeskanzler Merz hat der Ukraine eine Milliarde Euro an Militärhilfen und weitere 350 Millionen für den Energiesektor zugesagt. Das soll sich auch für Deutschland lohnen: Neue Rüstungsprojekte und ein Wissenstransfer stehen im Fokus.",
-   "link": "https://www.tagesschau.de/ausland/europa/merz-kiew-106.html",
-   "published": "2026-10-04T13:33:30+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-07T13:33:30+00:00",
-   "img": "https://images.tagesschau.de/image/0afa5ee8-e68c-4af9-a880-16fb645f296c/AAABoQb1_X4/AAABnSSvrFg/16x9-big/merz-selenskyj-128.jpg?width=1920"
-  },
-  {
-   "id": "n8480521771",
-   "topic": "welt",
-   "title": "Mehrere Verletzte bei Campingplatz-Brand am Gardasee",
-   "text": "Bei einem Brand auf einem großen Campingplatz am Gardasee in Italien sind mehrere Menschen verletzt worden. Inzwischen sind die Flammen unter Kontrolle - auch dank vier Feuerwehrleuten aus Hessen. Von Ivo Marusczyk.",
-   "link": "https://www.tagesschau.de/ausland/europa/gardasee-brand-campingplatz-102.html",
-   "published": "2026-10-04T13:32:18+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-07T13:32:18+00:00",
-   "img": "https://images.tagesschau.de/image/e816d56a-b62f-4ac9-9b1f-2ccb9c2e4000/AAABoQbynTE/AAABnSSvrFg/16x9-big/italien-gardasee-brand-100.jpg?width=1920"
-  },
-  {
-   "id": "na84dbf60c2",
-   "topic": "it",
-   "title": "Elon Musk räumt ein: Teslas Robotaxis sehen nachts zu wenig",
-   "text": "Elon Musk hat Angst, dass Teslas Robotaxis Katzen überfahren. Grund dafür ist seine Haltung zur Sensorik. Lösen soll das Problem KI. ( Tesla , Elektroauto )",
-   "link": "https://www.golem.de/news/elon-musk-raeumt-ein-teslas-robotaxis-sehen-nachts-zu-wenig-2610-213685.html",
-   "published": "2026-10-04T13:05:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-09T13:05:02+00:00",
-   "img": "https://www.golem.de/2610/213685-601462-601460_rc.jpg"
-  },
-  {
-   "id": "n1cee5f1ab1",
-   "topic": "politik",
-   "title": "Rekord-Wiesn: 7,4 Millionen Besucher auf dem Oktoberfest",
-   "text": "Das Oktoberfest hat in diesem Jahr einen neuen Besucherrekord verzeichnet. Insgesamt zählten die Veranstalter in den vergangenen zwei Wochen 7,4 Millionen Menschen auf der Wiesn. Überschattet wurde das Fest von zwei Unfällen.",
-   "link": "https://www.tagesschau.de/inland/oktoberfest-bilanz-110.html",
-   "published": "2026-10-04T12:32:14+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-07T12:32:14+00:00",
-   "img": "https://images.tagesschau.de/image/57638b30-7062-49c0-978a-7b6360f82d7a/AAABoQbg53g/AAABnSSvrFg/16x9-big/oktoberfest-muenchen-124.jpg?width=1920"
-  },
-  {
-   "id": "nc90285d832",
-   "topic": "ki",
-   "title": "Wie Google-Forscher verhindern wollen, dass sich selbst verbessernde KI-Agenten nur auswendig lernen",
-   "text": "Forscher zeigen mit RRSI, dass sich selbst optimierende KI-Agenten ihre Testaufgaben faktisch auswendig lernen und auf neuen Aufgaben versagen. Die Methode bremst diesen Effekt gezielt: Auf ungesehenen Benchmarks steigt die Leistung um bis zu 4,7 Punkte, bei 30 Prozent weniger Token-Verbrauch. Der Artikel Wie …",
-   "link": "https://the-decoder.de/wie-google-forscher-verhindern-wollen-dass-sich-selbst-verbessernde-ki-agenten-nur-auswendig-lernen/",
-   "published": "2026-10-04T12:26:37+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-11T12:26:37+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/09/rrsi-google-generated-image-nano-banana-pro.jpg"
-  },
-  {
-   "id": "neae0807686",
-   "topic": "politik",
-   "title": "Rhein will AfD Ausschussvorsitze ermöglichen",
-   "text": "Hessens Ministerpräsident Rhein plädiert dafür, dass die AfD im Bundestag Ausschussvorsitze übernehmen könne. Aus dem Parlament gibt es für den CDU-Politiker klaren Widerspruch, die AfD begrüßt den Vorstoß.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/rhein-afd-ausschussvorsitz-100.html",
-   "published": "2026-10-04T12:21:51+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-07T12:21:51+00:00",
-   "img": "https://images.tagesschau.de/image/d39962da-1da8-4aee-87d9-d6eeb7e6834e/AAABoQVAmJE/AAABnSSvrFg/16x9-big/boris-rhein-132.jpg?width=1920"
-  },
-  {
-   "id": "n698636fd24",
-   "topic": "politik",
-   "title": "News zu Eintracht Frankfurt",
-   "text": "Hier bekommen Sie immer die neuesten Nachrichten über Eintracht Frankfurt.",
-   "link": "https://www.hessenschau.de/sport/fussball/eintracht-frankfurt/eintracht-frankfurt-news-ticker-chandler-schliesst-weitere-vertragsverlaengerung-nicht-aus-,bundesliga-ticker-104.html",
-   "published": "2026-10-04T12:21:41+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-08T12:21:41+00:00",
-   "img": "https://www.hessenschau.de/sport/fussball/eintracht-frankfurt/chandler-200~_t-1782398298766_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "na1dd71780c",
-   "topic": "it",
-   "title": "78 Milliarden Parameter: Aleph Alpha veröffentlicht KI-Modell mit Deutsch-Schwerpunkt",
-   "text": "Mit Kolibri-1 liefert Aleph Alpha ein deutsch-englisches KI-Modell, das lange Dokumente effizient verarbeiten soll. ( KI , Rechenzentrum )",
-   "link": "https://www.golem.de/news/78-milliarden-parameter-aleph-alpha-veroeffentlicht-ki-modell-mit-deutsch-schwerpunkt-2610-213682.html",
-   "published": "2026-10-04T12:17:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-09T12:17:02+00:00",
-   "img": "https://www.golem.de/2610/213682-601454-601452_rc.jpg",
-   "also": [
-    {
-     "source": "THE DECODER",
-     "title": "KI-Lebenszeichen aus Deutschland: Aleph Alpha veröffentlicht deutsch-englisches Sprachmodell Kolibri",
-     "link": "https://the-decoder.de/ki-lebenszeichen-aus-deutschland-aleph-alpha-veroeffentlicht-deutsch-englisches-sprachmodell-kolibri/"
-    }
-   ]
-  },
-  {
-   "id": "n580b4a7095",
-   "topic": "nfl",
-   "title": "Week 4 NFL schedule, scores, live updates: Puka Nacua set to return; Justin Jefferson, Breece Hall, DeVonta Smith ruled out",
-   "text": "Follow along with all of Sunday's action in Week 4.",
-   "link": "https://sports.yahoo.com/nfl/live/week-4-nfl-live-updates-scores-news-schedule-highlights-inactives-stats-where-to-watch-130000604.html",
-   "published": "2026-10-04T12:11:03+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-09T12:11:03+00:00"
-  },
-  {
-   "id": "ndcf104af26",
-   "topic": "welt",
-   "title": "Brasilien-Wahl: Bolsonaro-Sohn fordert Präsident Lula heraus",
-   "text": "Luiz Inácio Lula da Silva oder Flávio Bolsonaro? 159 Millionen Brasilianer sind an diesem Sonntag aufgerufen, ihren neuen Präsidenten zu bestimmen. Eine Richtungsentscheidung mit möglicherweise weltweiten Auswirkungen.",
-   "link": "https://www.dw.com/de/brasilien-wahl-bolsonaro-sohn-fordert-präsident-lula-heraus/a-79537018?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-04T12:09:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-08T12:09:00+00:00",
-   "img": "https://static.dw.com/image/79537212_302.jpg"
-  },
-  {
-   "id": "nb7229ec53e",
-   "topic": "nfl",
-   "title": "Washington Commanders vs Indianapolis Colts Inactives: Terry McLaurin out for London game",
-   "text": "Who’s out today?",
-   "link": "https://sports.yahoo.com/articles/washington-commanders-vs-indianapolis-colts-120700327.html",
-   "published": "2026-10-04T12:07:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-09T12:07:00+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/7ddb321fe1141ce1b65a8b9ea43f430c.jpg"
-  },
-  {
-   "id": "n0d32e7a2d1",
-   "topic": "nfl",
-   "title": "Bengals vs. Jaguars prediction: Joe Burrow, Trevor Lawrence duel in battle of AFC contenders",
-   "text": "Everything you need to know to tune into the AFC showdown",
-   "link": "https://www.cbssports.com/nfl/news/bengals-vs-jaguars-where-to-watch-pick-odds-prediction/",
-   "published": "2026-10-04T12:01:14+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-09T12:01:14+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/02/a90f9e45-2f75-4f89-ae31-92a61fe413db/bengals-jaguars-trevor-lawrence.jpg"
-  },
-  {
-   "id": "n543e4882b7",
-   "topic": "wissenschaft",
-   "title": "Gedächtnismanipulation: Von wegen falsche Erinnerung",
-   "text": "Eine neue Analyse zeigt, dass viele vermeintlich falsche Erinnerungen Fragmente realer Erlebnisse enthalten – und rüttelt an einem jahrzehntealten Dogma der Gedächtnisforschung.",
-   "link": "https://www.spektrum.de/news/false-memory-syndrom-falsche-erinnerungen-seltener-als-gedacht/2249143",
-   "published": "2026-10-04T12:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-10-18T12:00:00+00:00"
-  },
-  {
-   "id": "nb54332f1f9",
-   "topic": "nfl",
-   "title": "NFL picks against the spread, Week 4 2026: Expert ATS picks, predictions, player props for Sunday, Oct. 4",
-   "text": "The SportsLine experts have locked in their top Week 4 picks from this week's NFL schedule, see who they are backing and fading here",
-   "link": "https://www.cbssports.com/nfl/news/nfl-picks-against-the-spread-week-4-2026-expert-ats-picks-predictions-player-props-for-sunday-oct-4/",
-   "published": "2026-10-04T11:52:17+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-09T11:52:17+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/09/25/0c3cafc5-f5a7-4d33-bdce-a43bd7268d48/josh-allen-bills.jpg"
   }
  ]
 }
