@@ -1,50 +1,650 @@
 {
- "generated": "2026-10-05T05:42:03.124914+00:00",
+ "generated": "2026-10-05T14:41:29.659589+00:00",
  "briefing": [
-  "n67ec18e8e5",
-  "n2e99354c38",
   "n4cfdb0d0b2",
   "n55d62eef37",
-  "n3584108462",
-  "n9e61154bd3",
-  "n6007eacdb0",
-  "n02a3c77ff9"
+  "n75070f342f",
+  "n51f024194e",
+  "n3013a1a4d8",
+  "nd1bfb92121",
+  "n1d5b6a2576",
+  "n89c3122fcd"
  ],
  "ranked": [
   {
-   "id": "n67ec18e8e5",
-   "s": 39.1
-  },
-  {
-   "id": "n2e99354c38",
-   "s": 37.0
-  },
-  {
    "id": "n4cfdb0d0b2",
-   "s": 32.3
+   "s": 30.1
   },
   {
    "id": "n55d62eef37",
-   "s": 32.1
+   "s": 29.8
   },
   {
-   "id": "n3584108462",
-   "s": 23.0
+   "id": "n75070f342f",
+   "s": 29.7
   },
   {
-   "id": "n9e61154bd3",
-   "s": 23.0
+   "id": "n51f024194e",
+   "s": 29.5
   },
   {
-   "id": "n6007eacdb0",
-   "s": 22.5
+   "id": "n3013a1a4d8",
+   "s": 22.9
   },
   {
-   "id": "n02a3c77ff9",
+   "id": "nd1bfb92121",
+   "s": 22.9
+  },
+  {
+   "id": "n1d5b6a2576",
+   "s": 22.4
+  },
+  {
+   "id": "n89c3122fcd",
    "s": 20.9
   }
  ],
  "items": [
+  {
+   "id": "n69a1930e6a",
+   "topic": "welt",
+   "title": "Tote nach Schiffsunglück im Schwarzen Meer - Drohnenangriff?",
+   "text": "Im Schwarzen Meer ist ein Schiff nach einem Brand an Bord gesunken. Berichten zufolge wurde der Frachter von einer Drohne getroffen. Der ukrainische Präsident Selenskyj spricht von einem \"schrecklichen Angriff\" Russlands.",
+   "link": "https://www.tagesschau.de/ausland/europa/schwarzes-meer-schiff-verunglueckt-100.html",
+   "published": "2026-10-05T14:33:37+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-08T14:33:37+00:00",
+   "img": "https://images.tagesschau.de/image/17b530fe-29d8-4cb8-9f57-8ce9a5d3b827/AAABoQxLpRE/AAABnSSvrFg/16x9-big/rettungskraefte-rumaenien-100.jpg?width=1920"
+  },
+  {
+   "id": "n9eccf03ba0",
+   "topic": "nfl",
+   "title": "How former Cyclones performed in Week 4 of the NFL",
+   "text": "Ten former Cyclones made appearances in Week 4 of the NFL and played a combined 543 snaps on offense, defense and special teams. Breece Hall – New York Jets Hall did not play against the Chicago Bears due to a quad injury sustained during the Lions game in week three. Jake Hummel – Houston Texans Hummel […]",
+   "link": "https://sports.yahoo.com/articles/former-cyclones-performed-week-4-143321919.html",
+   "published": "2026-10-05T14:33:21+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-10T14:33:21+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/60773670041fc9fd8c731907fe260607.png"
+  },
+  {
+   "id": "ne2e869218a",
+   "topic": "nfl",
+   "title": "2026 NFL Week 5 odds, betting: Full list of Week 5 spreads",
+   "text": "Here are the odds for every Week 5 NFL game.",
+   "link": "https://sports.yahoo.com/nfl/betting/article/2026-nfl-week-5-odds-betting-full-list-of-week-5-spreads-143316022.html",
+   "published": "2026-10-05T14:33:16+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-10T14:33:16+00:00"
+  },
+  {
+   "id": "n28c9ef96e1",
+   "topic": "it",
+   "title": "Open Radioss: Siemens löscht Open-Source-Projekt nach Übernahme",
+   "text": "Anstatt das Open-Source-Projekt Open Radioss zu archivieren, löschte Siemens das komplette Github-Repository. ( Open Source , Siemens )",
+   "link": "https://www.golem.de/news/open-radioss-siemens-loescht-open-source-projekt-nach-uebernahme-2610-213724.html",
+   "published": "2026-10-05T14:26:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-10T14:26:02+00:00",
+   "img": "https://www.golem.de/2610/213724-601668-601666_rc.jpg"
+  },
+  {
+   "id": "n4c86dc97ec",
+   "topic": "politik",
+   "title": "Berichte - Schwarz-rote Koalition plant neue Plastiksteuer",
+   "text": "Plastikverpackungen sollen für Unternehmen bald teurer werden.",
+   "link": "https://www.deutschlandfunk.de/schwarz-rote-koalition-plant-neue-plastiksteuer-100.html",
+   "published": "2026-10-05T14:23:18+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-07T14:23:18+00:00",
+   "img": "https://bilder.deutschlandfunk.de/FI/LE/_e/87/FILE_e87096c46ab34dce59513e504f39bd04/verpackungswahn-imago83835953h-jpg-100-768x768.jpg"
+  },
+  {
+   "id": "n3013a1a4d8",
+   "topic": "politik",
+   "title": "Anhörung im Bundestag - Geheimdienstchefs sehen reale Gefahr eines gewaltsamen Konflikts mit Russland",
+   "text": "Die Spitzen der deutschen Geheimdienste haben vor der Gefahr eines gewaltsamen Konflikts mit Russland gewarnt. Das Risiko von Anschlägen auf Ziele in Deutschland bleibe real, sagte BND-Chef Jäger in einer öffentlichen Anhörung im Bundestag. Weitere Themen waren auch der Rechts- und Linksextremismus sowie eine mögliche …",
+   "link": "https://www.deutschlandfunk.de/geheimdienstchefs-sehen-reale-gefahr-eines-gewaltsamen-konflikts-mit-russland-100.html",
+   "published": "2026-10-05T14:23:18+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-07T14:23:18+00:00",
+   "img": "https://bilder.deutschlandfunk.de/10/98/38/6c/1098386c-1ed0-422c-8811-806a57586b3d/bundestag-geheimdienste-100-1920x1920.jpg"
+  },
+  {
+   "id": "n89c3122fcd",
+   "topic": "politik",
+   "title": "Strategiepapier - AfD-Abgeordnete rücken in Aktionsplan von Austritt aus EU und Euro-Zone ab",
+   "text": "Mehrere AfD-Mitglieder plädieren für eine Abkehr von der Forderung nach einem Austritt Deutschlands aus der EU und dem Euro.",
+   "link": "https://www.deutschlandfunk.de/afd-abgeordnete-ruecken-in-aktionsplan-von-austritt-aus-eu-und-euro-zone-ab-102.html",
+   "published": "2026-10-05T14:23:18+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-07T14:23:18+00:00"
+  },
+  {
+   "id": "nd1bfb92121",
+   "topic": "politik",
+   "title": "Konferenz in Berlin - Umweltminister Schneider will Wasserverschmutzer stärker zur Kasse bitten - \"auch Verteilungsfragen von enormer Bedeutung\"",
+   "text": "Wasser wird auch in Deutschland knapper. Bundesumweltminister Schneider will Konsequenzen ziehen und verantwortliche Branchen für Wasserverschmutzungen stärker zur Kasse bitten. Wer das Wasser verschmutze, müsse auch für die Reinigung aufkommen, sagte Schneider zum Auftakt der Konferenz \"Zukunft=Wasser\" in Berlin. Er …",
+   "link": "https://www.deutschlandfunk.de/umweltminister-schneider-will-wasserverschmutzer-staerker-zur-kasse-bitten-auch-verteilungsfragen-vo-100.html",
+   "published": "2026-10-05T14:23:18+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-07T14:23:18+00:00",
+   "img": "https://bilder.deutschlandfunk.de/12/26/08/93/12260893-1d7e-45b7-bbb6-e7b49815aa88/bundesumweltminister-schneider-wasserpolitik-100-1920x1920.jpg"
+  },
+  {
+   "id": "n3bf2c586e2",
+   "topic": "politik",
+   "title": "Kraftstoffpreise - ADAC: \"Tanken wieder so teuer wie zu Beginn des Rabatts\"",
+   "text": "Fünf Tage nach der erneuten Einführung des sogenannten Tankrabatts haben sich die Kraftstoffpreise in der Nähe des Startniveaus eingependelt.",
+   "link": "https://www.deutschlandfunk.de/adac-tanken-wieder-so-teuer-wie-zu-beginn-des-rabatts-102.html",
+   "published": "2026-10-05T14:23:18+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-07T14:23:18+00:00",
+   "img": "https://bilder.deutschlandfunk.de/f7/9b/6b/d5/f79b6bd5-088e-46b3-a7f9-532567077c68/benzinpreise-106-1920x1920.jpg"
+  },
+  {
+   "id": "n176f114b45",
+   "topic": "politik",
+   "title": "Schienennetz - Bahn erhöht Trassenpreise um bis zu 12,9 Prozent",
+   "text": "Die Deutsche Bahn erhöht die Gebühren für die Nutzung ihres Schienennetzes im kommenden Jahr im Schnitt um 7,9 Prozent.",
+   "link": "https://www.deutschlandfunk.de/bahn-erhoeht-trassenpreise-um-bis-zu-12-9-prozent-102.html",
+   "published": "2026-10-05T14:23:18+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-07T14:23:18+00:00",
+   "img": "https://bilder.deutschlandfunk.de/25/64/35/54/25643554-530d-42d7-872b-fbb42d08f1c2/gleise-weichen-bahn-100-1920x1920.jpg"
+  },
+  {
+   "id": "n7b5f246e4e",
+   "topic": "welt",
+   "title": "Serbien: Droht Vucic ein Schicksal wie Milosevic?",
+   "text": "Vor 26 Jahren stürzten Serbiens Bürger den Autokraten Slobodan Milosevic. Nun stehen entscheidende Wahlen bevor. Der heutige starke Mann des Landes, Aleksandar Vucic, möchte eine Wiederholung dieser Geschichte vermeiden.",
+   "link": "https://www.dw.com/de/serbien-droht-vucic-ein-schicksal-wie-milosevic/a-79546177?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-05T14:14:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-09T14:14:00+00:00",
+   "img": "https://static.dw.com/image/79532658_302.jpg"
+  },
+  {
+   "id": "n732b293fb9",
+   "topic": "ki",
+   "title": "KI-Lebenszeichen aus Deutschland: Aleph Alpha veröffentlicht deutsch-englisches Sprachmodell Kolibri",
+   "text": "Aleph Alpha veröffentlicht mit Kolibri ein deutsch-englisches Mixture-of-Experts-Modell mit 78 Milliarden Parametern, von denen rund drei Milliarden pro Token aktiv sind. Über 21 Prozent der Trainingsdaten sind Deutsch, trainiert wurde auf 768 B200-GPUs in Deutschland und Finnland. Die Gewichte stehen unter …",
+   "link": "https://the-decoder.de/ki-lebenszeichen-aus-deutschland-aleph-alpha-veroeffentlicht-deutsch-englisches-sprachmodell-kolibri/",
+   "published": "2026-10-05T14:12:50+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-12T14:12:50+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/kolibri_aleph_alpha.png",
+   "also": [
+    {
+     "source": "Golem.de",
+     "title": "78 Milliarden Parameter: Aleph Alpha veröffentlicht KI-Modell mit Deutsch-Schwerpunkt",
+     "link": "https://www.golem.de/news/78-milliarden-parameter-aleph-alpha-veroeffentlicht-ki-modell-mit-deutsch-schwerpunkt-2610-213682.html"
+    }
+   ]
+  },
+  {
+   "id": "n4ff974ebe0",
+   "topic": "wissenschaft",
+   "title": "Deutsche Wissenschaftler gewinnen Medizin-Nobelpreis für ihre Entdeckungen in der Optogenetik",
+   "text": "Deutsche Wissenschaftler gewinnen Medizin-Nobelpreis für ihre Entdeckungen in der Optogenetik",
+   "link": "https://www.tagesschau.de/video/video-1660770.html",
+   "published": "2026-10-05T14:09:06+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-19T14:09:06+00:00",
+   "img": "https://images.tagesschau.de/image/d98e881a-b454-4a66-bcaa-3d6fc9db948f/AAABoQxlitQ/AAABnSSvrFg/16x9-big/sendungsbild-1807110.jpg?width=1920"
+  },
+  {
+   "id": "n8bd781d3b9",
+   "topic": "it",
+   "title": "Ungültige KI-Einreichungen: Google stoppt Bug-Bounty-Programm für Open Source",
+   "text": "Die überwiegende Mehrheit der automatisiert eingereichten Fehlermeldungen ist ungültig. Google überarbeitet nun seine Regeln für KI-basierte Einreichungen. ( KI , Sicherheitslücke )",
+   "link": "https://www.golem.de/news/ungueltige-ki-einreichungen-google-stoppt-bug-bounty-programm-fuer-open-source-2610-213721.html",
+   "published": "2026-10-05T14:06:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-10T14:06:01+00:00",
+   "img": "https://www.golem.de/2610/213721-601646-601644_rc.jpg"
+  },
+  {
+   "id": "n9fdf83a7f9",
+   "topic": "it",
+   "title": "Dieser Over-Ear-Kopfhörer schlägt Bose beim ANC: Technics EAH-A1000 im Test",
+   "text": "Der Over-Ear-Kopfhörer Technics EAH-A1000 bietet Top-ANC, feinen Klang und Features auf höchstem Niveau, ist allerdings auch sehr kostspielig.",
+   "link": "https://www.heise.de/bestenlisten/testbericht/dieser-over-ear-kopfhoerer-schlaegt-bose-beim-anc-technics-eah-a1000-im-test/t9mp3hy?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-05T14:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-10T14:00:00+00:00"
+  },
+  {
+   "id": "n5a96fe9f54",
+   "topic": "politik",
+   "title": "Freundin übergossen: Mann nach Attacke mit heißem Speiseöl erneut verurteilt",
+   "text": "Das Landgericht Frankfurt hat einen 52-Jährigen wegen gefährlicher Körperverletzung zu vier Jahren und sieben Monaten Haft verurteilt. Er hatte seine schlafende Lebensgefährtin mit heißem Olivenöl übergossen. Der Fall wurde zum zweiten Mal verhandelt.",
+   "link": "https://www.hessenschau.de/panorama/freundin-uebergossen-mann-nach-attacke-mit-heissem-speiseoel-erneut-verurteilt-v1,revision-prozess-olivenoel-100.html",
+   "published": "2026-10-05T13:58:18+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-09T13:58:18+00:00",
+   "img": "https://www.hessenschau.de/gesellschaft/oel-pfanne-100~_t-1761661530346_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "nbd081ad502",
+   "topic": "nfl",
+   "title": "Eagles' offense completely collapses vs. Rams: Who's to blame and what needs to change",
+   "text": "The offensive meltdown after having the chance to deliver the knockout punch to Los Angeles highlights an uncomfortable truth in Philadelphia",
+   "link": "https://www.cbssports.com/nfl/news/eagles-collapse-vs-rams-whos-to-blame-nick-sirianni-jalen-hurts/",
+   "published": "2026-10-05T13:56:39+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-10T13:56:39+00:00"
+  },
+  {
+   "id": "n26c02a6f1f",
+   "topic": "nfl",
+   "title": "Week 4 overreactions: Should Rams still be Super Bowl favorites? Cowboys to win NFC East?",
+   "text": "Plus, why Ben Johnson won't win Coach of the Year",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-4-overreactions-rams-jaguars-cowboys-win-nfc-east/",
+   "published": "2026-10-05T13:55:13+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-10T13:55:13+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/04/61aa4237-d4ea-47fe-958f-a1fcb1e5bf6f/sean-mcvay-rams-3.jpg"
+  },
+  {
+   "id": "ncbfee98e43",
+   "topic": "it",
+   "title": "Google schränkt Gemini-Zugriff für AI-Plus-Kunden ein",
+   "text": "Googles Gemini-Pro-Modelle erfordern ab Oktober ein Google-AI-Pro-Abo. AI-Plus-Kunden verlieren den Zugriff.",
+   "link": "https://www.heise.de/news/Google-Gemini-Pro-Modelle-erfordern-ab-Oktober-ein-AI-Pro-Abo-11476479.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-05T13:50:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-10T13:50:00+00:00"
+  },
+  {
+   "id": "n03b47fe8da",
+   "topic": "welt",
+   "title": "Israel gedenkt der Opfer des Hamas-Angriffs vor drei Jahren",
+   "text": "Beim Gedenken an die Hamas-Terrorattacke von 2023 warnt Israels Präsident Herzog vor gesellschaftlichen Gräben. Gleichzeitig dokumentiert eine Studie die Folgen von Antisemitismus in Deutschland.",
+   "link": "https://www.dw.com/de/israel-gedenkt-der-opfer-des-hamas-angriffs-vor-drei-jahren/a-79548991?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-05T13:47:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-09T13:47:00+00:00",
+   "img": "https://static.dw.com/image/79549520_302.jpg"
+  },
+  {
+   "id": "na40674ca74",
+   "topic": "wirtschaft",
+   "title": "Preise für Flugtickets aus Deutschland seit 2010 etwa verdoppelt",
+   "text": "Die Kosten für Flugreisen sind in Deutschland zuletzt stark angestiegen. Doch die Tendenz ist nicht neu. Ein Bericht sieht Nachteile am Standort und einen Bedeutungsverlust deutscher Drehkreuze.",
+   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/luftfahrt-flugtickets-preise-100.html",
+   "published": "2026-10-05T13:44:19+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-08T13:44:19+00:00",
+   "img": "https://images.tagesschau.de/image/513a6454-3fbf-44fb-90a6-04f56c66a457/AAABoQu4S00/AAABnSSvrFg/16x9-big/flughafen-frankfurt-anzeigetafel-100.jpg?width=1920"
+  },
+  {
+   "id": "nfa3c0a27fc",
+   "topic": "it",
+   "title": "Digitale Kommunen: „Deutschland-Stack muss bis ins kleinste Rathaus reichen“",
+   "text": "Statt befristeter Modellprojekte soll die Bundesregierung endlich für die digitale Grundversorgung der Gemeinden sorgen, fordern Bitkom und kommunale Verbände.",
+   "link": "https://www.heise.de/news/Digitale-Kommunen-Deutschland-Stack-muss-bis-ins-kleinste-Rathaus-reichen-11476509.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-05T13:33:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-10T13:33:00+00:00"
+  },
+  {
+   "id": "n8c638e3800",
+   "topic": "welt",
+   "title": "Ist der deutsch-israelische Jugendaustausch am Ende oder gelingt trotz Krieg und Krisen ein Neubeginn?",
+   "text": "Erst Corona, dann der Terrorangriff der Hamas, jetzt der Krieg mit dem Iran. Der deutsch-israelische Jugendaustausch findet nur noch auf Sparflamme statt.",
+   "link": "https://www.dw.com/de/ist-der-deutsch-israelische-jugendaustausch-am-ende-oder-gelingt-trotz-krieg-und-krisen-ein-neubeginn/a-79476051?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-05T13:29:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-09T13:29:00+00:00",
+   "img": "https://static.dw.com/image/79263276_302.jpg"
+  },
+  {
+   "id": "nd72206839a",
+   "topic": "welt",
+   "title": "Russland greift Rechenzentren und Server an - Wird die Ukraine bald ohne Internet dastehen?",
+   "text": "Russland verstärkt seine Angriffe auf ukrainische Rechenzentren. Kann die Ukraine so vom Internet abgeschnitten werden? Wie sichern Internetanbieter ihre Netzwerke und warum könnten stabile Verbindungen teuer werden?",
+   "link": "https://www.dw.com/de/russland-greift-rechenzentren-und-server-an-wird-die-ukraine-bald-ohne-internet-dastehen/a-79548296?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-05T13:23:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-09T13:23:00+00:00",
+   "img": "https://static.dw.com/image/75698517_302.jpg"
+  },
+  {
+   "id": "nad5d8a2999",
+   "topic": "wissenschaft",
+   "title": "Optische Cochlea-Implantate: Hören mit Licht",
+   "text": "Klassische Cochlea-Implantate stoßen in komplexen Hörsituationen an ihre Grenzen. Die radikale Lösung: Anstelle von elektrischem Strom soll Licht den Hörnerv reizen.",
+   "link": "https://www.spektrum.de/news/optogenetik-optisches-cochlea-implantat-hoeren-mit-licht/2243936",
+   "published": "2026-10-05T12:40:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-19T12:40:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/Cochlea-Implantat_erw.jpg.8391001.jpg?f=1280x720"
+  },
+  {
+   "id": "ncce20513a6",
+   "topic": "ki",
+   "title": "OpenAI testet Anzeigen in ChatGPT, die während der Bilderzeugung erscheinen",
+   "text": "ChatGPT-Nutzer in den USA sehen bald Bildanzeigen, während der Chatbot ein Bild für sie erzeugt. Der Artikel OpenAI testet Anzeigen in ChatGPT, die während der Bilderzeugung erscheinen erschien zuerst auf The Decoder .",
+   "link": "https://the-decoder.de/openai-testet-anzeigen-in-chatgpt-die-waehrend-der-bilderzeugung-erscheinen/",
+   "published": "2026-10-05T12:37:32+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-12T12:37:32+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/09/openai_chatgpt-2.png"
+  },
+  {
+   "id": "n1d5b6a2576",
+   "topic": "politik",
+   "title": "BND-Chef warnt vor \"gewaltsamem Konflikt mit Russland\"",
+   "text": "Nach Einschätzung von BND-Chef Jäger ist Deutschland in einem \"Schattenkrieg\" mit Russland. Bei ihrer Anhörung warnten die Nachrichtendienste erneut vor einem Anschlagsrisiko. Thema war auch die Lage in Sachsen-Anhalt.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienste-chefs-anhoerung-100.html",
+   "published": "2026-10-05T12:29:07+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-08T12:29:07+00:00",
+   "img": "https://images.tagesschau.de/image/88f3f015-90b7-44e4-90db-2992c5b99f6a/AAABoQtll-M/AAABnSSvrFg/16x9-big/martin-jaeger-bnd-100.jpg?width=1920"
+  },
+  {
+   "id": "n2f6bec47b1",
+   "topic": "wissenschaft",
+   "title": "Medizin-Nobelpreis für Optogenetik-Forscher aus Deutschland und USA",
+   "text": "Ein Berliner, ein Würzburger und ein US-Amerikaner erhalten den Medizin-Nobelpreis. Peter Hegemann, Georg Nagel und Karl Deisseroth teilen sich die Auszeichnung. Ihre Arbeit zeige, wie Nervenzellen im Gehirn Erinnerungen, Gefühle und Verhaltensweisen formen.",
+   "link": "https://www.tagesschau.de/wissen/forschung/medizin-nobelpreis-optogenetik-100.html",
+   "published": "2026-10-05T12:27:25+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-19T12:27:25+00:00",
+   "img": "https://images.tagesschau.de/image/37da1fc0-e9ca-4787-bd9f-125fea2a8fea/AAABoQtxaxk/AAABnSSvrFg/16x9-big/deisseroth-hegemann-nagel-100.jpg?width=1920"
+  },
+  {
+   "id": "nbc720c7742",
+   "topic": "wirtschaft",
+   "title": "Talfahrt geht weiter: Euro fällt unter 1,12 Dollar",
+   "text": "Politische Unsicherheiten in Frankreich und Spanien haben den jüngsten Kursverfall des Euro beschleunigt. Dafür gibt es auch längerfristige Gründe. Von Detlev Landmesser.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-euro-frankreich-spanien-100.html",
+   "published": "2026-10-05T12:11:06+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-08T12:11:06+00:00",
+   "img": "https://images.tagesschau.de/image/4fd18059-da85-4706-9c0a-d1529dae36f9/AAABk4aXf0s/AAABnSSvrFg/16x9-big/frankreich-euro-100.jpg?width=1920"
+  },
+  {
+   "id": "n8fcb2c0235",
+   "topic": "welt",
+   "title": "Lungenpest-Verdacht in Sibirien: Was über den Erreger bekannt ist",
+   "text": "Nach dem Tod einer russischen Labormitarbeiterin gibt es Spekulationen über einen Ausbruch der Lungenpest. Russland dementiert, die USA sind dennoch alarmiert - wohl auch, weil die Lungenpest hochansteckend ist.",
+   "link": "https://www.dw.com/de/lungenpest-verdacht-in-sibirien-was-über-den-erreger-bekannt-ist/a-79547549?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-05T12:09:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-09T12:09:00+00:00",
+   "img": "https://static.dw.com/image/79548176_302.jpg"
+  },
+  {
+   "id": "n9c0a033397",
+   "topic": "wirtschaft",
+   "title": "Moldau: Wassermangel trifft hohe Ölpreise",
+   "text": "Die Republik Moldau leidet weiter unter Dürre, die Pegelstände der Flüsse sind niedrig. Zugleich hat die Regierung wegen der hohen Preise einen Energienotstand ausgerufen. Die Opposition nutzt das für Signale im Sinne Russlands. Von P. Raillon.",
+   "link": "https://www.tagesschau.de/ausland/europa/moldau-energie-notstand-100.html",
+   "published": "2026-10-05T11:43:42+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-08T11:43:42+00:00",
+   "img": "https://images.tagesschau.de/image/1cd9e6f8-56d9-42a7-bc72-bd1d50ffd500/AAABoQwh2qE/AAABnSSvrFg/16x9-big/tankstelle-384.jpg?width=1920"
+  },
+  {
+   "id": "n7adf8cacdb",
+   "topic": "wirtschaft",
+   "title": "Gericht ordnet Insolvenzverfahren für Galeria an",
+   "text": "Das Amtsgericht Düsseldorf hat das vorläufige Insolvenzverfahren für Galeria angeordnet. Die Zukunft der Kaufhauskette ungewiss. Es ist bereits der vierte Insolvenzantrag des Unternehmens.",
+   "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/galeria-insolvenzverfahren-zulassung-100.html",
+   "published": "2026-10-05T11:43:35+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-08T11:43:35+00:00",
+   "img": "https://images.tagesschau.de/image/15f1baeb-5a83-49bf-8f26-65089424a2df/AAABoQvWmmI/AAABnSSvrFg/16x9-big/galeria-246.jpg?width=1920"
+  },
+  {
+   "id": "n196679ce97",
+   "topic": "wissenschaft",
+   "title": "Anfallsleiden: Wie Epilepsie das Denken und Erinnern beeinträchtigt",
+   "text": "Viele Menschen mit Epilepsie haben kognitive Schwierigkeiten. Die können viele Ursache haben – und werden in der Behandlung nicht so ernst genommen, wie sie sollten.",
+   "link": "https://www.spektrum.de/news/mehr-als-nur-anfaelle-wie-epilepsie-das-denken-beeintraechtigt/2284791",
+   "published": "2026-10-05T11:30:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-19T11:30:00+00:00"
+  },
+  {
+   "id": "nbf4000d9c6",
+   "topic": "wirtschaft",
+   "title": "Die E-Auto-Prämie für Einkommenschwächere zeigt Wirkung",
+   "text": "Die hohen Kraftstoffpreise bringen immer mehr Kunden zum Umschwenken auf Hybrid oder E-Auto. Auch der seit Jahresbeginn mögliche Zuschuss für einkommensschwächere Haushalte wirkt. Von Lars Ohlinger.",
+   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/e-auto-foerderung-112.html",
+   "published": "2026-10-05T11:23:24+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-08T11:23:24+00:00",
+   "img": "https://images.tagesschau.de/image/af3db86a-afc9-4c13-a967-599e86ee8c66/AAABoQu2kzE/AAABnSSvrFg/16x9-big/neuwagen-158.jpg?width=1920"
+  },
+  {
+   "id": "na2c6f53c69",
+   "topic": "welt",
+   "title": "Torlos in Griechenland: Was muss im DFB-Team unter Klopp noch besser werden?",
+   "text": "Die Fußball-Nationalmannschaft zeigt zum Abschluss der ersten vier Länderspiele unter Bundestrainer Jürgen Klopp eine gute Leistung - verpasst aber den Sieg in Griechenland. Wo lief es gut? Was muss besser werden?",
+   "link": "https://www.dw.com/de/torlos-in-griechenland-was-muss-im-dfb-team-unter-klopp-noch-besser-werden/a-79546505?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-05T10:52:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-09T10:52:00+00:00",
+   "img": "https://static.dw.com/image/79548001_302.jpg"
+  },
+  {
+   "id": "nd838f6b64e",
+   "topic": "wissenschaft",
+   "title": "Nobelpreis für Physiologie oder Medizin 2026: Höchste Auszeichnung für Forschung zur Optogenetik",
+   "text": "Peter Hegemann, Georg Nagel und Karl Deisseroth erhalten den Medizin-Nobelpreis 2026 für ihre wegweisenden Beiträge auf dem Gebiet der Optogenetik.",
+   "link": "https://www.spektrum.de/news/medizin-nobelpreis-2026-fuer-forschung-zur-optogenetik/2345552",
+   "published": "2026-10-05T10:30:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-19T10:30:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/Deisseroth_Hegemann_Nagel.jpg.8414215.jpg?f=1280x720",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Nobelpreis für Medizin geht an Forscher aus Deutschland und den USA",
+     "link": "https://www.tagesschau.de/video/video-1660638.html"
+    }
+   ]
+  },
+  {
+   "id": "na11e43c4fe",
+   "topic": "wirtschaft",
+   "title": "Seit Mai: E-Auto-Prämie an 100.000 Antragsteller ausgezahlt",
+   "text": "Die neue Prämie zur Förderung von E-Autos hat laut Umweltminister Schneider die Erwartungen übertroffen. Geld sei bereits an 100.000 Antragsteller geflossen - viele von ihnen mit geringerem Einkommen.",
+   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/e-auto-praemie-126.html",
+   "published": "2026-10-05T10:27:00+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-08T10:27:00+00:00",
+   "img": "https://images.tagesschau.de/image/07ee5ee4-7679-4ca5-aa77-7905aae59d6b/AAABnvMttoc/AAABnSSvrFg/16x9-big/e-auto-126.jpg?width=1920"
+  },
+  {
+   "id": "n5bd97b692a",
+   "topic": "ki",
+   "title": "MIT-Bericht fordert radikale Neuordnung der Hochschulbildung wegen generativer KI",
+   "text": "Ein MIT-Expertenkomitee warnt vor der Erosion zentraler Bildungselemente durch generative KI. Sprechstunden, Lerngruppen und Forschungsprogramme für Studierende schwinden, das Vertrauensverhältnis zwischen Lehrenden und Studierenden zerbricht. Manche Dozenten erwägen sogar, KI-Agenten statt Studierende als …",
+   "link": "https://the-decoder.de/mit-bericht-fordert-radikale-neuordnung-der-hochschulbildung-wegen-generativer-ki/",
+   "published": "2026-10-05T10:08:18+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-12T10:08:18+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/mit_ai_and_education.png"
+  },
+  {
+   "id": "n8839caa22a",
+   "topic": "wissenschaft",
+   "title": "Nobelpreis für Medizin geht an Forscher aus Deutschland und den USA",
+   "text": "Nobelpreis für Medizin geht an Forscher aus Deutschland und den USA",
+   "link": "https://www.tagesschau.de/video/video-1660638.html",
+   "published": "2026-10-05T09:55:56+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-19T09:55:56+00:00",
+   "img": "https://images.tagesschau.de/image/2aa4aea6-4837-49ab-9b8d-a2ed4cf4ff0d/AAABoQt9wzQ/AAABnSSvrFg/16x9-big/sendungsbild-1807014.jpg?width=1920",
+   "also": [
+    {
+     "source": "Spektrum der Wissenschaft",
+     "title": "Nobelpreis für Physiologie oder Medizin 2026: Höchste Auszeichnung für Forschung zur Optogenetik",
+     "link": "https://www.spektrum.de/news/medizin-nobelpreis-2026-fuer-forschung-zur-optogenetik/2345552"
+    }
+   ]
+  },
+  {
+   "id": "n5157ab0e34",
+   "topic": "welt",
+   "title": "Alltag in Iran zwischen Wirtschaftskrise und Angst vor Krieg",
+   "text": "Im Krieg der USA gegen Iran ist keine Lösung in Sicht. Gekämpft wird zwar nicht, Gespräche haben aber keine Fortschritte gebracht. Die wirtschaftliche Lage in Iran bleibt katastrophal. Wie beeinflusst das den Alltag? Von B. Weber.",
+   "link": "https://www.tagesschau.de/ausland/asien/iran-alltag-wirtschaftskrise-100.html",
+   "published": "2026-10-05T09:26:49+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-08T09:26:49+00:00",
+   "img": "https://images.tagesschau.de/image/58ad3849-5404-4e02-b75b-be122f651ce7/AAABoQtK_Jw/AAABnSSvrFg/16x9-big/iran-basar-106.jpg?width=1920"
+  },
+  {
+   "id": "nb2228a0c2a",
+   "topic": "welt",
+   "title": "Dänisches Melderegister mit Daten von 8,8 Millionen Menschen gehackt",
+   "text": "Unbekannte haben sich Zugriff zum dänischen Melderegister verschafft. Die zuständige Ministerin spricht von einem äußerst schwerwiegenden Vorfall. Daten von 8,8 Millionen Menschen sind betroffen.",
+   "link": "https://www.tagesschau.de/ausland/europa/daenemark-hackerangriff-100.html",
+   "published": "2026-10-05T09:14:13+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-08T09:14:13+00:00",
+   "img": "https://images.tagesschau.de/image/45a363f1-0914-4458-8a1e-9a5bd5838d49/AAABoQsn3VU/AAABnSSvrFg/16x9-big/hacker-234.jpg?width=1920"
+  },
+  {
+   "id": "n6c0262bf64",
+   "topic": "welt",
+   "title": "Solidarität mit Studentin \"Jane Doe\" nach Vergewaltigungsklage",
+   "text": "Unter dem Motto \"Ich bin Jane Doe\" solidarisieren sich weltweit Menschen in den Sozialen Medien mit einer Studentin. Unter diesem Pseudonym hatte die junge Frau eine Klage wegen Gruppenvergewaltigung eingereicht.",
+   "link": "https://www.tagesschau.de/ausland/amerika/jane-doe-cornell-100.html",
+   "published": "2026-10-05T08:34:36+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-08T08:34:36+00:00",
+   "img": "https://images.tagesschau.de/image/5021420f-3764-4819-ba92-b21684c0a40b/AAABoQskL7s/AAABnSSvrFg/16x9-big/cornell-universitaet-102.jpg?width=1920"
+  },
+  {
+   "id": "n08ee5fd273",
+   "topic": "welt",
+   "title": "Spanien: Regierungschef Sánchez kündigt Neuwahlen an",
+   "text": "Der Streit über die Wohnungsmarktpolitik führt zu Neuwahlen in Spanien. Regierungschef Sánchez kündigte eine vorgezogene Parlamentswahl im November an. Seine Sozialisten liegen in Umfragen hinter den Konservativen.",
+   "link": "https://www.tagesschau.de/ausland/europa/spanien-neuwahlen-104.html",
+   "published": "2026-10-05T08:11:20+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-08T08:11:20+00:00",
+   "img": "https://images.tagesschau.de/image/5e1ad8ea-740a-4eef-9a72-c56e9fa0713b/AAABoQsgTPk/AAABnSSvrFg/16x9-big/sanchez-256.jpg?width=1920"
+  },
+  {
+   "id": "nf72606b690",
+   "topic": "welt",
+   "title": "Holocaust-Überlebende Irene Butter in den USA verstorben",
+   "text": "Die Holocaust-Überlebende und Friedensaktivistin Irene Butter ist in den USA verstorben. Die gebürtige Berlinerin wurde 95 Jahre alt. Vor zwei Jahren hatte sie das Bundesverdienstkreuz für ihre Aufklärungsarbeit als Zeitzeugin erhalten.",
+   "link": "https://www.tagesschau.de/ausland/amerika/irene-butter-gestorben-100.html",
+   "published": "2026-10-05T07:52:58+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-08T07:52:58+00:00",
+   "img": "https://images.tagesschau.de/image/ae5df035-a582-4565-be40-0ebbc3559f06/AAABoQKtQy4/AAABnSSvrFg/16x9-big/butter-126.jpg?width=1920"
+  },
+  {
+   "id": "n23510f65a6",
+   "topic": "welt",
+   "title": "Vorgezogene Wahl: Das Kalkül von Spaniens \"Überlebenskünstler\" Sánchez",
+   "text": "Schon die vergangenen Regierungsjahre von Spaniens Ministerpräsident Sánchez glichen einer Achterbahnfahrt. Dass er nun vorgezogene Wahlen ausgerufen hat, dürfte mit einer Umfrage zum Thema \"Mieterschutz\" zusammenhängen. Von S. Kisters.",
+   "link": "https://www.tagesschau.de/ausland/europa/spanien-neuwahlen-sanchez-100.html",
+   "published": "2026-10-05T07:22:10+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-08T07:22:10+00:00",
+   "img": "https://images.tagesschau.de/image/74e671ee-6aea-455d-969b-a564e22815b1/AAABoQr5zcw/AAABnSSvrFg/16x9-big/sanchez-254.jpg?width=1920"
+  },
   {
    "id": "n9e90b16e97",
    "topic": "it",
@@ -178,11 +778,6 @@
      "source": "Tagesschau",
      "title": "Merz: Ukraine-Hilfen \"notwendig für die Stabilität Europas\"",
      "link": "https://www.tagesschau.de/ausland/europa/merz-kiew-ukraine-russland-100.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Ukraine: Kanzler Merz in Kyjiw - Drohne trifft Nordbrücke",
-     "link": "https://www.dw.com/de/ukraine-kanzler-merz-in-kyjiw-drohne-trifft-nordbrücke/a-79535157?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -297,7 +892,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-19T04:32:01+00:00",
-   "img": "https://images.tagesschau.de/image/5ab9262a-f84c-464e-a648-6135bf47ee62/AAABoQbSoqo/AAABnSSvrFg/16x9-big/nobelpreismuseum-102.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/5ab9262a-f84c-464e-a648-6135bf47ee62/AAABoQbSoqo/AAABnSSvrFg/16x9-big/nobelpreismuseum-102.jpg?width=1920",
+   "also": [
+    {
+     "source": "Spektrum der Wissenschaft",
+     "title": "Nobelpreis für Physiologie oder Medizin 2026: Höchste Auszeichnung für Forschung zur Optogenetik",
+     "link": "https://www.spektrum.de/news/medizin-nobelpreis-2026-fuer-forschung-zur-optogenetik/2345552"
+    }
+   ]
   },
   {
    "id": "nbc28cded80",
@@ -356,7 +958,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-08T03:00:50+00:00",
-   "img": "https://images.tagesschau.de/image/456a08fe-267d-4543-9720-3355fbe9bc15/AAABoQoBwug/AAABnSSvrFg/16x9-big/arbeitszeit-130.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/456a08fe-267d-4543-9720-3355fbe9bc15/AAABoQsUL3M/AAABnSSvrFg/16x9-big/arbeitszeit-130.jpg?width=1920"
   },
   {
    "id": "nbde5c94ff8",
@@ -642,11 +1244,6 @@
      "source": "Tagesschau",
      "title": "Merz: Ukraine-Hilfen \"notwendig für die Stabilität Europas\"",
      "link": "https://www.tagesschau.de/ausland/europa/merz-kiew-ukraine-russland-100.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Ukraine: Kanzler Merz in Kyjiw - Drohne trifft Nordbrücke",
-     "link": "https://www.dw.com/de/ukraine-kanzler-merz-in-kyjiw-drohne-trifft-nordbrücke/a-79535157?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -814,11 +1411,6 @@
      "source": "Deutschlandfunk",
      "title": "Besuch in Kiew - Merz verteidigt Ukraine-Hilfen: \"Im eigenen Interesse Deutschlands\"",
      "link": "https://www.deutschlandfunk.de/merz-verteidigt-ukraine-hilfen-im-eigenen-interesse-deutschlands-102.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Ukraine: Kanzler Merz in Kyjiw - Drohne trifft Nordbrücke",
-     "link": "https://www.dw.com/de/ukraine-kanzler-merz-in-kyjiw-drohne-trifft-nordbrücke/a-79535157?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -909,19 +1501,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-07T14:03:55+00:00",
-   "img": "https://images.tagesschau.de/image/b1b69185-1b40-49cb-b15a-7f448c5bf80c/AAABoQb_Dz8/AAABnSSvrFg/16x9-big/migranten-152.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Migration - Zahl der Asylanträge in der EU um fast ein Viertel gesunken",
-     "link": "https://www.deutschlandfunk.de/zahl-der-asylantraege-in-der-eu-um-fast-ein-viertel-gesunken-100.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Zahl der Asylanträge in der EU um fast ein Viertel gesunken",
-     "link": "https://www.dw.com/de/zahl-der-asylanträge-in-der-eu-um-fast-ein-viertel-gesunken/a-79536199?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/b1b69185-1b40-49cb-b15a-7f448c5bf80c/AAABoQb_Dz8/AAABnSSvrFg/16x9-big/migranten-152.jpg?width=1920"
   },
   {
    "id": "n86d68a74b4",
@@ -947,19 +1527,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-07T13:33:30+00:00",
-   "img": "https://images.tagesschau.de/image/0afa5ee8-e68c-4af9-a880-16fb645f296c/AAABoQb1_X4/AAABnSSvrFg/16x9-big/merz-selenskyj-128.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Besuch in Kiew - Merz verteidigt Ukraine-Hilfen: \"Im eigenen Interesse Deutschlands\"",
-     "link": "https://www.deutschlandfunk.de/merz-verteidigt-ukraine-hilfen-im-eigenen-interesse-deutschlands-102.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Ukraine: Kanzler Merz in Kyjiw - Drohne trifft Nordbrücke",
-     "link": "https://www.dw.com/de/ukraine-kanzler-merz-in-kyjiw-drohne-trifft-nordbrücke/a-79535157?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/0afa5ee8-e68c-4af9-a880-16fb645f296c/AAABoQb1_X4/AAABnSSvrFg/16x9-big/merz-selenskyj-128.jpg?width=1920"
   },
   {
    "id": "n8480521771",
@@ -1051,7 +1619,14 @@
    "type": "Fachmedium (IT)",
    "lang": "de",
    "expires": "2026-10-09T12:17:02+00:00",
-   "img": "https://www.golem.de/2610/213682-601454-601452_rc.jpg"
+   "img": "https://www.golem.de/2610/213682-601454-601452_rc.jpg",
+   "also": [
+    {
+     "source": "THE DECODER",
+     "title": "KI-Lebenszeichen aus Deutschland: Aleph Alpha veröffentlicht deutsch-englisches Sprachmodell Kolibri",
+     "link": "https://the-decoder.de/ki-lebenszeichen-aus-deutschland-aleph-alpha-veroeffentlicht-deutsch-englisches-sprachmodell-kolibri/"
+    }
+   ]
   },
   {
    "id": "n580b4a7095",
@@ -1128,692 +1703,6 @@
    "lang": "en",
    "expires": "2026-10-09T11:52:17+00:00",
    "img": "https://sportshub.cbsistatic.com/i/2026/09/25/0c3cafc5-f5a7-4d33-bdce-a43bd7268d48/josh-allen-bills.jpg"
-  },
-  {
-   "id": "n3043b28a9b",
-   "topic": "politik",
-   "title": "Schneider fordert anderen Umgang mit Wasser",
-   "text": "Wegen der niedrigen Pegelstände hat Bundesumweltminister Schneider ein Umdenken im Umgang mit Wasser angemahnt. Er rief die Bundesländer zu massiven Investitionen in die Wasserinfrastruktur auf.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/schneider-niedrigwasser-100.html",
-   "published": "2026-10-04T11:49:51+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-07T11:49:51+00:00",
-   "img": "https://images.tagesschau.de/image/5e9081c1-4a86-41a0-a20e-cf406f0d20d2/AAABoQWfDfA/AAABnSSvrFg/16x9-big/rhein-200.jpg?width=1920"
-  },
-  {
-   "id": "n7435e3e33a",
-   "topic": "welt",
-   "title": "Baskenland und Katalonien: Tote bei schweren Unwettern in Spanien",
-   "text": "Bei heftigen Regenfällen in Spanien sind drei Menschen ums Leben gekommen. In Katalonien und im Baskenland wurden Straßen und Keller überflutet - die Feuerwehr war im Dauereinsatz.",
-   "link": "https://www.tagesschau.de/ausland/europa/unwetter-spanien-124.html",
-   "published": "2026-10-04T11:43:22+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-07T11:43:22+00:00",
-   "img": "https://images.tagesschau.de/image/bdfad2eb-0774-42ab-ae62-bf95ec327b15/AAABoQa-Lb4/AAABnSSvrFg/16x9-big/spanien-regen-ueberflutete-strasse-100.jpg?width=1920"
-  },
-  {
-   "id": "n47690c5218",
-   "topic": "politik",
-   "title": "Umgang mit der AfD - Hessens CDU-Chef Rhein wirbt für AfD-Ausschussvorsitze - Kritik von Koalitionsvertretern",
-   "text": "Vertreter der Koalitionsfraktionen haben den Vorstoß von Hessens Ministerpräsident Rhein für einen anderen Umgang mit der AfD kritisiert.",
-   "link": "https://www.deutschlandfunk.de/hessens-cdu-chef-rhein-wirbt-fuer-afd-ausschussvorsitze-kritik-von-koalitionsvertretern-100.html",
-   "published": "2026-10-04T11:40:21+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-06T11:40:21+00:00"
-  },
-  {
-   "id": "n99620d8845",
-   "topic": "politik",
-   "title": "Besuch in Kiew - Merz fordert ein Ende der russischen Angriffe: \"Hören Sie diesen Krieg auf!\"",
-   "text": "Bundeskanzler Merz hat bei seinem Besuch in Kiew ein Ende der russischen Angriffe auf die Ukraine gefordert. Zugleich rief er den russischen Präsidenten Putin zu Verhandlungen auf. Während des Besuchs gab es mehrfach Drohnenalarm.",
-   "link": "https://www.deutschlandfunk.de/merz-fordert-ein-ende-der-russischen-angriffe-hoeren-sie-diesen-krieg-auf-100.html",
-   "published": "2026-10-04T11:40:21+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-06T11:40:21+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Merz: Ukraine-Hilfen \"notwendig für die Stabilität Europas\"",
-     "link": "https://www.tagesschau.de/ausland/europa/merz-kiew-ukraine-russland-100.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Ukraine: Kanzler Merz in Kyjiw - Drohne trifft Nordbrücke",
-     "link": "https://www.dw.com/de/ukraine-kanzler-merz-in-kyjiw-drohne-trifft-nordbrücke/a-79535157?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n0f767d36e7",
-   "topic": "politik",
-   "title": "Migration - Zahl der Asylanträge in der EU um fast ein Viertel gesunken",
-   "text": "In Europa werden immer weniger Asylanträge gestellt.",
-   "link": "https://www.deutschlandfunk.de/zahl-der-asylantraege-in-der-eu-um-fast-ein-viertel-gesunken-100.html",
-   "published": "2026-10-04T11:40:21+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-06T11:40:21+00:00",
-   "img": "https://bilder.deutschlandfunk.de/27/a5/e1/c3/27a5e1c3-e309-42d7-bf20-aafa8547417a/asyl-asylrecht-fluechtlinge-asylbewerber-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Zahl der Asylanträge in der EU offenbar deutlich gesunken",
-     "link": "https://www.tagesschau.de/ausland/europa/asylantraege-europa-102.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Zahl der Asylanträge in der EU um fast ein Viertel gesunken",
-     "link": "https://www.dw.com/de/zahl-der-asylanträge-in-der-eu-um-fast-ein-viertel-gesunken/a-79536199?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n60f6af5680",
-   "topic": "politik",
-   "title": "München - Oktoberfest endet mit neuem Besucherrekord",
-   "text": "In München geht das 191. Oktoberfest mit einem neuen Besucherrekord zu Ende.",
-   "link": "https://www.deutschlandfunk.de/oktoberfest-endet-mit-neuem-besucherrekord-100.html",
-   "published": "2026-10-04T11:40:21+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-06T11:40:21+00:00",
-   "img": "https://bilder.deutschlandfunk.de/NO/VA/_9/9d/NOVA_99dabab1409e1cfca6693bb10490270a/craft-13447439-asset-100-1920x1920.jpg"
-  },
-  {
-   "id": "nc3d2ed5126",
-   "topic": "politik",
-   "title": "Thüringen - Voigts Koalition und Linke einigen sich auf neue Verfahren",
-   "text": "Die Koalition von Thüringens Ministerpräsident Voigt hat sich im Parlament mit der oppositionellen Linke-Fraktion auf Verfahren zur Mehrheitsfindung verständigt.",
-   "link": "https://www.deutschlandfunk.de/voigts-koalition-und-linke-einigen-sich-auf-neue-verfahren-102.html",
-   "published": "2026-10-04T11:40:21+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-06T11:40:21+00:00",
-   "img": "https://bilder.deutschlandfunk.de/f2/49/dc/ed/f249dced-bd54-4731-8dfe-8b02cf7f2281/thueringen-landtag-voigt-hoecke-sondersitzung-misstrauensvotum-102-1920x1920.jpg"
-  },
-  {
-   "id": "na9fa833fb6",
-   "topic": "politik",
-   "title": "Formel 1 - Verstappen gewinnt den Großen Preis von Bahrain in Malaysia",
-   "text": "Formel-1-Weltmeister Max Verstappen hat das Rennen in Malaysia gewonnen.",
-   "link": "https://www.deutschlandfunk.de/verstappen-gewinnt-den-grossen-preis-von-bahrain-in-malaysia-102.html",
-   "published": "2026-10-04T11:40:21+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-06T11:40:21+00:00",
-   "img": "https://bilder.deutschlandfunk.de/f3/54/df/59/f354df59-e2c6-4ce0-89cb-e6a0a8b36ec8/verstappen-118-1920x1920.jpg"
-  },
-  {
-   "id": "ncc83185c2a",
-   "topic": "it",
-   "title": "David Robinson: Warum OpenAIs Sicherheitschef nun geht",
-   "text": "Ein Ex-Mitarbeiter warnt: Bei OpenAI komme Sicherheit im Tempo neuer KI-Produkte oft zu kurz. ( OpenAI , KI )",
-   "link": "https://www.golem.de/news/david-robinson-warum-openais-sicherheitschef-nun-geht-2610-213684.html",
-   "published": "2026-10-04T11:11:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-09T11:11:02+00:00",
-   "img": "https://www.golem.de/2610/213684-601466-601464_rc.jpg"
-  },
-  {
-   "id": "n9bc6dc2fc6",
-   "topic": "it",
-   "title": "Smart-Meter-Ausbau in Deutschland kommt weiter nur schleppend voran",
-   "text": "Nur 5,9 Prozent aller Messstellen in Deutschland sind digitalisiert. Die Bundesnetzagentur leitet Aufsichtsverfahren gegen säumige Betreiber ein.",
-   "link": "https://www.heise.de/news/Smart-Meter-Ausbau-in-Deutschland-kommt-weiter-nur-schleppend-voran-11475273.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-04T11:01:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-09T11:01:00+00:00"
-  },
-  {
-   "id": "n0f0268f0d7",
-   "topic": "it",
-   "title": "Bericht: FBI-Angreifer von „ShinyHunters“ gefasst und kooperativ",
-   "text": "Einem Bericht zufolge wurde ein weiteres Mitglied der Cyberbande „ShinyHunters“ in Jordanien festgesetzt. Er soll mit dem FBI kooperieren.",
-   "link": "https://www.heise.de/news/Bericht-FBI-Angreifer-von-ShinyHunters-gefasst-und-kooperativ-11475303.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-04T11:01:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-09T11:01:00+00:00"
-  },
-  {
-   "id": "n205fb34f07",
-   "topic": "wissenschaft",
-   "title": "Freistetters Formelwelt: Die Wahrscheinlichkeit der Atom-Apokalypse",
-   "text": "Die Menschheit hat mit der Atombombe die Möglichkeit geschaffen, sich selbst auszulöschen. Aber wann passiert das? Und wie kann man das berechnen?",
-   "link": "https://www.spektrum.de/kolumne/freistetters-formelwelt-apokalypse-durch-atomkrieg/2343719",
-   "published": "2026-10-04T11:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-10-18T11:00:00+00:00"
-  },
-  {
-   "id": "n974f5a8213",
-   "topic": "it",
-   "title": "Citrix Netscaler aktualisieren! Zero-Day verursacht Crashes und Codeausführung",
-   "text": "Sicherheitsforscher und Administratoren melden massenhafte Spontanreboots betroffener Geräte. Updates sind nun verfügbar und sollten schnell aufgespielt werden.",
-   "link": "https://www.heise.de/news/Netscaler-Admins-aufgepasst-Zero-Day-verursacht-Crashes-und-Codeausfuehrung-11474971.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-04T10:58:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-09T10:58:00+00:00"
-  },
-  {
-   "id": "nf72606b690",
-   "topic": "welt",
-   "title": "Holocaust-Überlebende Irene Butter in den USA verstorben",
-   "text": "Die Holocaust-Überlebende und Friedensaktivistin Irene Butter ist in den USA verstorben. Die gebürtige Berlinerin wurde 95 Jahre alt. Vor zwei Jahren hatte sie das Bundesverdienstkreuz für ihre Aufklärungsarbeit als Zeitzeugin erhalten.",
-   "link": "https://www.tagesschau.de/ausland/amerika/irene-butter-gestorben-100.html",
-   "published": "2026-10-04T10:54:10+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-07T10:54:10+00:00",
-   "img": "https://images.tagesschau.de/image/ae5df035-a582-4565-be40-0ebbc3559f06/AAABoQKtQy4/AAABnSSvrFg/16x9-big/butter-126.jpg?width=1920"
-  },
-  {
-   "id": "n7199195171",
-   "topic": "welt",
-   "title": "Zahl der Asylanträge in der EU um fast ein Viertel gesunken",
-   "text": "Die Asylzahlen in Europa sind im bisherigen Jahresverlauf deutlich zurückgegangen. Das geht nach einem Bericht der \"Welt am Sonntag\" aus EU-Zahlen hervor. Deutschland steht dabei als Zielland nur noch an dritter Stelle.",
-   "link": "https://www.dw.com/de/zahl-der-asylanträge-in-der-eu-um-fast-ein-viertel-gesunken/a-79536199?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-04T10:30:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-08T10:30:00+00:00",
-   "img": "https://static.dw.com/image/66971004_302.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Zahl der Asylanträge in der EU offenbar deutlich gesunken",
-     "link": "https://www.tagesschau.de/ausland/europa/asylantraege-europa-102.html"
-    },
-    {
-     "source": "Deutschlandfunk",
-     "title": "Migration - Zahl der Asylanträge in der EU um fast ein Viertel gesunken",
-     "link": "https://www.deutschlandfunk.de/zahl-der-asylantraege-in-der-eu-um-fast-ein-viertel-gesunken-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n6738bfda67",
-   "topic": "wirtschaft",
-   "title": "Influencer werden für ethische Jagd zum Problem",
-   "text": "Für die Reichweite in sozialen Medien bringt Action oft mehr als Jagdethik. Einen verantwortungsvollen Umgang mit Waffen gibt es dabei bisweilen nicht. Jagdausstatter distanzieren sich deshalb von einigen Influencern. Von B. Augustin.",
-   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/jagd-hobby-lifestyle-100.html",
-   "published": "2026-10-04T10:16:11+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-07T10:16:11+00:00",
-   "img": "https://images.tagesschau.de/image/ee1c1ee0-63d1-4a4b-9984-3d3b8c39c1bf/AAABoOcWKWc/AAABnSSvrFg/16x9-big/jagdwaffe-100.jpg?width=1920"
-  },
-  {
-   "id": "nd08349af02",
-   "topic": "welt",
-   "title": "Jemens Militär greift Huthi-Hochburgen an",
-   "text": "Im Jemen flammen die Kämpfe zwischen Regierungstruppen und der Huthi-Miliz erneut auf. Das Militär griff unter anderem Ziele in der Hauptstadt Sanaa an, die von der pro-iranischen Gruppe kontrolliert wird.",
-   "link": "https://www.tagesschau.de/ausland/asien/angriffe-jemen-102.html",
-   "published": "2026-10-04T10:05:29+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-07T10:05:29+00:00",
-   "img": "https://images.tagesschau.de/image/1f555a51-4d54-43fa-87cc-eba41e4bc277/AAABoQZDBI4/AAABnSSvrFg/16x9-big/jemen-sporthalle-zerstoert-sanaa-100.jpg?width=1920"
-  },
-  {
-   "id": "n6e68ed5404",
-   "topic": "welt",
-   "title": "Ukraine: Kanzler Merz in Kyjiw - Drohne trifft Nordbrücke",
-   "text": "Ungeachtet neuer Drohungen aus Russland sind Bundeskanzler Merz und Wirtschaftsministerin Reiche nach Kyjiw gereist. Kurz nach ihrer Ankunft in der Hauptstadt der Ukraine beschädigt eine Drohne eine Brücke.",
-   "link": "https://www.dw.com/de/ukraine-kanzler-merz-in-kyjiw-drohne-trifft-nordbrücke/a-79535157?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-04T10:04:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-08T10:04:00+00:00",
-   "img": "https://static.dw.com/image/79534990_302.jpg",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Besuch in Kiew - Merz verteidigt Ukraine-Hilfen: \"Im eigenen Interesse Deutschlands\"",
-     "link": "https://www.deutschlandfunk.de/merz-verteidigt-ukraine-hilfen-im-eigenen-interesse-deutschlands-102.html"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Merz: Ukraine-Hilfen \"notwendig für die Stabilität Europas\"",
-     "link": "https://www.tagesschau.de/ausland/europa/merz-kiew-ukraine-russland-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n4c151011ad",
-   "topic": "ki",
-   "title": "Neues Foundation Model von NASA und IBM soll Wassereis-Suche auf dem Mond beschleunigen",
-   "text": "NASA und IBM haben mit dem Lunar Foundation Model eines der ersten Open-Source-KI-Modelle für die Mondforschung vorgestellt. Trainiert auf fast zwei Millionen Kachel-Bündeln aus 17 Jahren Orbiter-Daten, sagt es Eisvorkommen an den Polen bis zu 22 Prozent genauer vorher als bisherige Vergleichsmodelle. Der Artikel …",
-   "link": "https://the-decoder.de/neues-foundation-model-von-nasa-und-ibm-soll-wassereis-suche-auf-dem-mond-beschleunigen/",
-   "published": "2026-10-04T09:44:12+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-11T09:44:12+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/09/nasa-ibm-research-moon-crater-ice-nano-banana-pro.jpg"
-  },
-  {
-   "id": "n324cf7833d",
-   "topic": "welt",
-   "title": "Lettland: Pro-EU-Partei des Premiers klare Wahlgewinnerin",
-   "text": "Die Letten haben gewählt. Angesichts der Bedrohung durch Russland und wachsender wirtschaftlicher Sorgen stärken sie der Partei von Regierungschef Andris Kulbergs den Rücken. Doch er muss eine neue Koalition schmieden.",
-   "link": "https://www.dw.com/de/lettland-pro-eu-partei-des-premiers-klare-wahlgewinnerin/a-79536290?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-04T09:44:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-08T09:44:00+00:00",
-   "img": "https://static.dw.com/image/79534536_302.jpg"
-  },
-  {
-   "id": "n8aefabaf80",
-   "topic": "welt",
-   "title": "Krieg gegen die Ukraine: Merz besucht Kiew - Russland greift Brücke an",
-   "text": "Während Kanzler Merz Kiew besucht, hat ein russischer Angriff auf eine Brücke dort Alarm ausgelöst. Merz sagte dem Land Unterstützung zu und trifft sich mit Präsident Selenskyj. Russland begehe \"tägliche Kriegsverbrechen\".",
-   "link": "https://www.tagesschau.de/ausland/europa/merz-kiew-drohnen-100.html",
-   "published": "2026-10-04T09:39:12+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-07T09:39:12+00:00",
-   "img": "https://images.tagesschau.de/image/e8974ca3-6808-4118-9cbd-d3f4ea9cc10f/AAABoQbOBDk/AAABnSSvrFg/16x9-big/merz-selenskyj-124.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Besuch in Kiew - Merz verteidigt Ukraine-Hilfen: \"Im eigenen Interesse Deutschlands\"",
-     "link": "https://www.deutschlandfunk.de/merz-verteidigt-ukraine-hilfen-im-eigenen-interesse-deutschlands-102.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Ukraine: Kanzler Merz in Kyjiw - Drohne trifft Nordbrücke",
-     "link": "https://www.dw.com/de/ukraine-kanzler-merz-in-kyjiw-drohne-trifft-nordbrücke/a-79535157?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "nf138c0ea4d",
-   "topic": "welt",
-   "title": "Tory-Parteitag: Wie Kemi Badenoch die Tories retten will",
-   "text": "Die britischen Konservativen sind in den Umfragen seit Langem abgeschlagen. Bei dem Parteitag in Birmingham will Kemi Badenoch ihren Tories neuen Mut einflößen. Kann die Parteichefin das? Von Lisa-Marie Röhling.",
-   "link": "https://www.tagesschau.de/ausland/europa/tories-parteitag-badenoch-100.html",
-   "published": "2026-10-04T09:12:59+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-07T09:12:59+00:00",
-   "img": "https://images.tagesschau.de/image/88a24db3-08b4-447c-b5db-db9d199ead63/AAABoQYT4S0/AAABnSSvrFg/16x9-big/kemi-badenoch-104.jpg?width=1920"
-  },
-  {
-   "id": "n4f9fca8422",
-   "topic": "wirtschaft",
-   "title": "Job-Einstieg mit Problemen: Wie KI den Arbeitsmarkt verändert",
-   "text": "Junge Menschen haben zunehmend Probleme, Einstiegsjobs zu finden. Ein Grund: Künstliche Intelligenz übernimmt immer mehr Tätigkeiten für Unternehmen. Nur wie soll dann der Karrierestart gelingen? Von Joscha Bartlitz.",
-   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/kuenstliche-intelligenz-job-einstieg-100.html",
-   "published": "2026-10-04T08:13:01+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-07T08:13:01+00:00",
-   "img": "https://images.tagesschau.de/image/5de11449-67c6-47b6-aff6-4ce972f227db/AAABoQYPP8g/AAABnSSvrFg/16x9-big/ausbildung-240.jpg?width=1920"
-  },
-  {
-   "id": "nc19822be32",
-   "topic": "ki",
-   "title": "Chinesische KI-Modelle wiederholen bei sensiblen Themen Staatsdoktrin oder verweigern die Antwort",
-   "text": "Aleph Alpha hat 967 politisch sensible Fragen an chinesische KI-Modelle von Alibaba, Deepseek und Moonshot AI getestet: Nur 17 bis 41 Prozent der Antworten fielen ausgewogen aus. Auch Nvidias Nemotron zeigte parteitreue Muster, die Aleph Alpha auf chinesische Trainingsdaten zurückführt. Die Ergebnisse bestätigen …",
-   "link": "https://the-decoder.de/chinesische-ki-modelle-wiederholen-bei-sensiblen-themen-staatsdoktrin-oder-verweigern-die-antwort/",
-   "published": "2026-10-04T08:05:14+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-11T08:05:14+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/09/aleph_alpha_china_benchmark.png"
-  },
-  {
-   "id": "n2e0e871f30",
-   "topic": "welt",
-   "title": "Wahl in Lettland: Partei von Ministerpräsident in Führung",
-   "text": "Die Letten haben ein neues Parlament gewählt - nachdem die meisten Stimmen ausgezählt sind, liegt die Vereinigte Liste von Ministerpräsident Kulbergs vorn. Doch auch prorussische Parteien haben zugelegt.",
-   "link": "https://www.tagesschau.de/ausland/lettland-wahlen-100.html",
-   "published": "2026-10-04T07:58:11+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-07T07:58:11+00:00",
-   "img": "https://images.tagesschau.de/image/01743d33-1777-4c43-83fa-e98863cd8dd7/AAABoQLjpCg/AAABnSSvrFg/16x9-big/lettland-134.jpg?width=1920"
-  },
-  {
-   "id": "n416184227b",
-   "topic": "ki",
-   "title": "Google schränkt Gratiszugang für Gemini-KI ein",
-   "text": "Google schränkt ab Oktober 2026 den kostenlosen Zugang zu seinen Gemini-Modellen deutlich ein: Nutzer ohne Abo erhalten nur noch das kleinste Modell Flash-Lite, während Flash und Pro zahlenden Kunden vorbehalten werden. Der Schritt könnte auch den Boden für das ressourcenintensivere Gemini 4 Argon bereiten. Der …",
-   "link": "https://the-decoder.de/google-schraenkt-gratiszugang-fuer-gemini-ki-ein/",
-   "published": "2026-10-04T07:11:54+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-11T07:11:54+00:00"
-  },
-  {
-   "id": "n1352f4fa8c",
-   "topic": "wissenschaft",
-   "title": "Kontra Heldenkult: Schafft die Nobelpreise ab!",
-   "text": "Der Mythos vom genialen Einzelkämpfer prägt bis heute das Bild von Wissenschaft. Der Nobelpreis befeuert das Klischee – und schadet damit der Forschung, kommentiert Manon Bischoff.",
-   "link": "https://www.spektrum.de/kolumne/kontra-heldenkult-schafft-die-nobelpreise-ab/2345819",
-   "published": "2026-10-04T07:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-10-18T07:00:00+00:00"
-  },
-  {
-   "id": "ncbdb92a874",
-   "topic": "welt",
-   "title": "Lula gegen Bolsonaro: Ein Duell bekannter Namen in Brasilien",
-   "text": "Heute wählt Brasilien. Wie beim letzten Mal heißt es: Lula gegen einen Bolsonaro. Ein 80-Jähriger gegen den Sohn des Ex-Präsidenten. Auch für US-Präsident Trump ist der Ausgang von großer Bedeutung. Von Anne Herrberg.",
-   "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-lula-bolsonaro-100.html",
-   "published": "2026-10-04T06:09:05+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-07T06:09:05+00:00",
-   "img": "https://images.tagesschau.de/image/76be640c-653e-41a4-afba-c2d6e69d1f8b/AAABoQWHv5M/AAABnSSvrFg/16x9-big/wahlplakate-brasilien-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Brasilien - Bolsonaro und Lula ziehen in Stichwahl um Präsidentenamt ein",
-     "link": "https://www.deutschlandfunk.de/bolsonaro-und-lula-ziehen-in-stichwahl-um-praesidentenamt-ein-100.html"
-    }
-   ]
-  },
-  {
-   "id": "nfbb3f9901e",
-   "topic": "politik",
-   "title": "140 Jahre Seemannsmission: Eine Pause von den Weltmeeren",
-   "text": "Zeitdruck, Kriege und Krisen machen die Arbeit für Seefahrer immer härter. Seit 140 Jahren hilft die Deutsche Seemannsmission, den Bordalltag kurz zu vergessen - so wie im Hamburger Seemannsclub Duckdalben. Von Sophia Stritzel.",
-   "link": "https://www.tagesschau.de/inland/gesellschaft/seemannsmission-hamburg-seefahrer-100.html",
-   "published": "2026-10-04T06:00:33+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-07T06:00:33+00:00",
-   "img": "https://images.tagesschau.de/image/a01472ee-c24c-4e7c-ae3e-047a3b6cfa70/AAABoPzs1MU/AAABnSSvrFg/16x9-big/duckdalben-118.jpg?width=1920"
-  },
-  {
-   "id": "n45392239ca",
-   "topic": "politik",
-   "title": "Ukraine-Krieg - Bundeskanzler Merz besucht Kiew - Weiter militärische Unterstützung angeküdnigt.",
-   "text": "Bundeskanzler Merz ist zu einem Besuch in Kiew eingetroffen. Er wird von Wirtschaftsministerin Reiche begleitet. Merz kündigte weitere militärische Hilfe an. Moskau hatte gestern vor Reisen in die ukrainische Hauptstadt gewarnt.",
-   "link": "https://www.deutschlandfunk.de/bundeskanzler-merz-besucht-kiew-weiter-militaerische-unterstuetzung-angekuednigt-100.html",
-   "published": "2026-10-04T05:50:22+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-06T05:50:22+00:00",
-   "img": "https://bilder.deutschlandfunk.de/cd/86/45/2d/cd86452d-49f1-463f-9275-a209fdfb2ffe/merz-in-kiew-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Merz: Ukraine-Hilfen \"notwendig für die Stabilität Europas\"",
-     "link": "https://www.tagesschau.de/ausland/europa/merz-kiew-ukraine-russland-100.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Ukraine: Kanzler Merz in Kyjiw - Drohne trifft Nordbrücke",
-     "link": "https://www.dw.com/de/ukraine-kanzler-merz-in-kyjiw-drohne-trifft-nordbrücke/a-79535157?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n3fd71bf605",
-   "topic": "politik",
-   "title": "Religion - Erntedankfest: Politik warnt vor existenziellen Belastungen für Bauern",
-   "text": "Zum heutigen Erntedankfest haben Vertreter der Politik auf die wachsenden Belastungen für Landwirte durch klimatische Veränderungen hingewiesen.",
-   "link": "https://www.deutschlandfunk.de/erntedankfest-politik-warnt-vor-existenziellen-belastungen-fuer-bauern-100.html",
-   "published": "2026-10-04T05:50:22+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-06T05:50:22+00:00"
-  },
-  {
-   "id": "n7d9b20719d",
-   "topic": "politik",
-   "title": "Verkehr - Deutsche Bahn bietet Familienticket dauerhaft an",
-   "text": "Die Deutsche Bahn will das Familienticket ab November dauerhaft anbieten.",
-   "link": "https://www.deutschlandfunk.de/deutsche-bahn-bietet-familienticket-dauerhaft-an-100.html",
-   "published": "2026-10-04T05:50:22+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-06T05:50:22+00:00",
-   "img": "https://bilder.deutschlandfunk.de/33/a9/8b/07/33a98b07-ca74-4572-9247-a08d0491fd5d/deutsche-bahn-familie-ice-100-1920x1920.jpg"
-  },
-  {
-   "id": "n4595d0b8ed",
-   "topic": "politik",
-   "title": "Lettland - Regierungspartei bei Parlamentswahl klar stärkste Kraft",
-   "text": "Bei der Parlamentswahl in Lettland hat sich das Wahlbündnis \"Vereinigte Liste\" von Ministerpräsident Kulbergs klar durchgesetzt.",
-   "link": "https://www.deutschlandfunk.de/regierungspartei-bei-parlamentswahl-klar-staerkste-kraft-104.html",
-   "published": "2026-10-04T05:50:22+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-06T05:50:22+00:00",
-   "img": "https://bilder.deutschlandfunk.de/e0/00/57/0f/e000570f-5cb5-44ee-8c90-beac86ff59ed/wahlen-lettland-100-1920x1920.jpg"
-  },
-  {
-   "id": "n419f4bc77c",
-   "topic": "politik",
-   "title": "Abstimmung - Bosnien und Herzegowina: Wahlen in einem der kompliziertesten Staatengebilde der Welt",
-   "text": "In Bosnien-Herzegowina haben Wahlen begonnen.",
-   "link": "https://www.deutschlandfunk.de/bosnien-und-herzegowina-wahlen-in-einem-der-kompliziertesten-staatengebilde-der-welt-110.html",
-   "published": "2026-10-04T05:50:22+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-06T05:50:22+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Starke nationalistische Kräfte bei Wahlen in Bosnien und Herzegowina",
-     "link": "https://www.tagesschau.de/ausland/europa/bosnien-herzegowina-wahl-112.html"
-    }
-   ]
-  },
-  {
-   "id": "n13f9d346c9",
-   "topic": "politik",
-   "title": "Lateinamerika - Präsidentschaftswahl in Brasilien beginnt",
-   "text": "In Brasilien wird heute ein neuer Präsident gewählt.",
-   "link": "https://www.deutschlandfunk.de/praesidentschaftswahl-in-brasilien-beginnt-100.html",
-   "published": "2026-10-04T05:50:22+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-06T05:50:22+00:00",
-   "img": "https://bilder.deutschlandfunk.de/NO/VA/_b/83/NOVA_b83858539ba7ed51dece64d9cf84917c/craft-13451259-asset-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Präsidentschaftswahl in Brasilien: Bolsonaro und Lula ziehen in Stichwahl ein",
-     "link": "https://www.tagesschau.de/ausland/amerika/wahl-brasilien-bolsonaro-lula-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n1e5c8fabc9",
-   "topic": "it",
-   "title": "Missing Link: Our Best Machines – Was bin ich ohne meinen KI-Assistenten?",
-   "text": "KI-Assistenten ziehen in immer mehr Lebensbereiche ein. Medizininformatikerin und Sci-Fi-Autorin über die Frage wer wir ohne",
-   "link": "https://www.heise.de/news/Missing-Link-Our-Best-Machines-Was-bin-ich-ohne-meinen-KI-Assistenten-11467180.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-04T05:31:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-09T05:31:00+00:00"
-  },
-  {
-   "id": "nae3476e534",
-   "topic": "it",
-   "title": "Star-Trek-Film aus der Türkei: Ein Salzvampir, ein gelber Spock - und Tourist Ömer",
-   "text": "Im Star-Trek-Jubiläumsjahr schauen wir auf eine Kuriosität: Jahre, bevor die Enterprise offiziell ins Kino kam, drehten türkische Filmemacher einfach einen eigenen Star-Trek-Film. Von Peter Osteried ( Star Trek , Urheberrecht )",
-   "link": "https://www.golem.de/news/star-trek-film-aus-der-tuerkei-ein-salzvampir-ein-gelber-spock-und-tourist-oemer-2610-212421.html",
-   "published": "2026-10-04T05:30:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-09T05:30:02+00:00",
-   "img": "https://www.golem.de/2610/212421-595487-595484_rc.jpg"
-  },
-  {
-   "id": "n8c0cd64237",
-   "topic": "politik",
-   "title": "Kommunale Verschuldung: Stadt Hofheim bittet Bürger um Vorschläge fürs Sparen",
-   "text": "Sehen, verstehen, mitgestalten: Mit diesem Leitgedanken haben zwei Unternehmer kurzerhand eine interaktive Plattform zur Finanzlage Hofheims geschaffen. Bürger können dort Ideen einbringen, wohin jeder Euro im städtischen Haushalt fließen soll.",
-   "link": "https://www.hessenschau.de/politik/kommunale-verschuldung-stadt-hofheim-bittet-buerger-um-vorschlaege-fuers-sparen-v1,hofheim-planspiel-100.html",
-   "published": "2026-10-04T05:24:02+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-08T05:24:02+00:00",
-   "img": "https://www.hessenschau.de/politik/hofheim-haushalt-interaktiv-100~_t-1791091435626_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "n155d33c29a",
-   "topic": "welt",
-   "title": "Irland boykottiert erneut - dennoch befindet sich der Eurovision Song Contest weiter auf Expansionskurs",
-   "text": "Der Eurovision Song Contest 2026 wurde von Boykotten überschattet: Mehrere Länder protestierten wegen des Gaza-Kriegs gegen die Teilnahme Israels. Trotzdem will der Wettbewerb weiter wachsen.",
-   "link": "https://www.dw.com/de/irland-boykottiert-erneut-dennoch-befindet-sich-der-eurovision-song-contest-weiter-auf-expansionskurs/a-79497576?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-04T05:20:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-08T05:20:00+00:00",
-   "img": "https://static.dw.com/image/78342765_302.jpg"
-  },
-  {
-   "id": "n991e599924",
-   "topic": "nfl",
-   "title": "Prisco's Week 4 NFL picks: Eagles upset Rams, Texans over Cowboys",
-   "text": "Pete Prisco reveals all of his Week 4 picks, including the Browns upsetting the Steelers and the 49ers over the Broncos",
-   "link": "https://www.cbssports.com/nfl/news/pete-priscos-week-4-nfl-picks/",
-   "published": "2026-10-04T05:00:54+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-09T05:00:54+00:00"
-  },
-  {
-   "id": "n0a9f4a8c2e",
-   "topic": "it",
-   "title": "AnzeigeIT-Jobs rund um Daten, Security u: IT-Jobs rund um Daten, Security und Anwendungsbetreuung",
-   "text": "Von Data Governance bis Security: Arbeitgeber in Forschung, Versicherung und Energie haben sechs spannende IT-Positionen im Angebot. ( Golem Karrierewelt , Unternehmenssoftware )",
-   "link": "https://www.golem.de/news/anzeigeit-jobs-rund-um-daten-security-u-it-jobs-rund-um-daten-security-und-anwendungsbetreuung-2610-213643.html",
-   "published": "2026-10-04T05:00:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-09T05:00:02+00:00",
-   "img": "https://www.golem.de/2610/213643-601260-601258_rc.jpg"
-  },
-  {
-   "id": "n2e99354c38",
-   "topic": "welt",
-   "title": "Krieg gegen die Ukraine: Kanzler Merz besucht Kiew",
-   "text": "Es soll auch um weitere militärische Unterstützung gehen: Bundeskanzler Merz ist zu einem Solidaritätsbesuch in Kiew eingetroffen. Zuvor hatte Russland vor Reisen in die Ukraine gewarnt.",
-   "link": "https://www.tagesschau.de/ausland/europa/eilmeldung-merz-kiew-100.html",
-   "published": "2026-10-04T04:44:05+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-07T04:44:05+00:00",
-   "img": "https://images.tagesschau.de/image/9bf40eff-4bc5-40cc-8ac5-b8db42dee60a/AAABoQU57l4/AAABnSSvrFg/16x9-big/merz-1682.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Besuch in Kiew - Merz verteidigt Ukraine-Hilfen: \"Im eigenen Interesse Deutschlands\"",
-     "link": "https://www.deutschlandfunk.de/merz-verteidigt-ukraine-hilfen-im-eigenen-interesse-deutschlands-102.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Ukraine: Kanzler Merz in Kyjiw - Drohne trifft Nordbrücke",
-     "link": "https://www.dw.com/de/ukraine-kanzler-merz-in-kyjiw-drohne-trifft-nordbrücke/a-79535157?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "nece8125be6",
-   "topic": "nfl",
-   "title": "Packers-Buccaneers Preview: Green Bay travels to Tampa Bay",
-   "text": "A preview of the Packers’ game against the Buccaneers in Week 4",
-   "link": "https://sports.yahoo.com/articles/packers-buccaneers-preview-green-bay-043832173.html",
-   "published": "2026-10-04T04:38:32+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-09T04:38:32+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/16bc4d9fca70adafdbe88e71a473df12.jpg"
-  },
-  {
-   "id": "n3b7b7d5874",
-   "topic": "nfl",
-   "title": "Bears vs. Jets: How to watch and listen, previews, odds, and more",
-   "text": "Here’s all you need to know about the Bears vs. Jets game.",
-   "link": "https://sports.yahoo.com/articles/bears-vs-jets-watch-listen-041510990.html",
-   "published": "2026-10-04T04:15:10+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-09T04:15:10+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/f17fa4cbfc5f98b3742597f4ca8ae996.jpg"
-  },
-  {
-   "id": "n9e18eee3ae",
-   "topic": "welt",
-   "title": "Bosnien und Herzegowina: Mit neuer Technik mehr Vertrauen in die Wahlen",
-   "text": "In Bosnien und Herzegowina werden das Parlament, das dreiköpfige Staatspräsidium und die Regionalregierungen gewählt. Neue Technik soll dabei helfen, Manipulationen zu erschweren. Von S. Hahne.",
-   "link": "https://www.tagesschau.de/ausland/europa/bosnien-und-herzegowina-wahl-100.html",
-   "published": "2026-10-04T03:04:08+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-07T03:04:08+00:00",
-   "img": "https://images.tagesschau.de/image/86ad5c0d-5e89-4cfe-ab90-fbe3c85f57f7/AAABoPcr8e0/AAABnSSvrFg/16x9-big/wahlplakate-bosnien-herzegowina-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Abstimmung - Bosnien und Herzegowina: Wahlen in einem der kompliziertesten Staatengebilde der Welt",
-     "link": "https://www.deutschlandfunk.de/bosnien-und-herzegowina-wahlen-in-einem-der-kompliziertesten-staatengebilde-der-welt-112.html"
-    }
-   ]
   }
  ]
 }
