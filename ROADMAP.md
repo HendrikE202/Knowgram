@@ -111,3 +111,5 @@
 - Offen: Trefferquote der Slide-Bilder beobachten und schlechte Treffer per Override entfernen.
 
 - [x] **Meldungen mit echtem Inhalt (01.10.2026):** Action holt den Artikelanfang (`articles.json`), App zeigt ihn als Slide „Aus dem Artikel“; Einordnungen für die wichtigsten Meldungen je Thema (Check meldet Lücken); Aufräumen abgelaufener Einträge (`tools/prune.py`, App-Speicher). **Beobachten:** Spektrum (Bezahlschranke) liefert oft nur Teaser; neue Quellen ggf. in `fetch_articles.py` prüfen (Log zeigt „kein Text“-Diagnose).
+- [x] **Tempo-Regelung (05.10.2026):** `taste.json → plan` – 10 Karten normal, 5 ab 5 Tagen ohne Aktivität oder ab 40 ungesehenen Karten, 0 (Pause) ab 10 Tagen bzw. 80 ungesehenen. Die Action `taste.yml` (03:20 UTC) rechnet es aus dem Sync (`updated_at`, `seen`); die Routine liest es als Schritt 0. Grenzen in `tools/fetch_taste.py` (`IDLE_*`, `BACKLOG_*`). Grundlage ist der Sync: ohne Sync-Code läuft die Routine wie bisher mit 10.
+

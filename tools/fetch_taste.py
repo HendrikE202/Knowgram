@@ -10,6 +10,10 @@ Gegen Filterblasen ist alles bewusst vorsichtig gebaut (und relativ gerechnet, w
 - Sonst 0. Ältere, verdichtete Bewertungen („arch“) zählen halb.
 - Das Ergebnis ist nur ein „Stups“ −1 / 0 / +1 je Thema und nie ein Ausschluss. Die Regeln dazu stehen in tools/ANWEISUNG_NEUE_KARTEN.md.
 
+Zusätzlich steht in taste.json ein „plan“: wie viele neue Karten die Routine schreiben soll (10 / 5 / 0).
+Grund sind Pausen bei Inaktivität und ein Stau ungesehener Karten – damit sich nichts anhäuft, wenn Hendrik länger nicht da ist.
+(Es stehen nur Tage und Zahlen drin, keine Zeitpunkte und keine Inhalte.)
+
 Benötigt die Umgebungsvariable KNOWGRAM_SYNC_CODE (GitHub-Secret). Fehlt sie oder ist der Server nicht erreichbar,
 bleibt taste.json unverändert und das Skript endet ohne Fehler.
 """
@@ -24,6 +28,10 @@ MIN_N = 3          # ab so vielen Bewertungen zählt ein Thema für ein Plus
 PLUS_FAKTOR = 1.5  # Plus nur, wenn das Thema so viel öfter bewertet wurde wie der Durchschnitt
 MIN_DOWNS = 3      # Minus nur ab so vielen Dislikes
 MIN_DOWN_ANTEIL = 0.4
+# Tempo-Plan: Pause bei Inaktivität bzw. zu viel Ungesehenem, damit sich nichts anstaut
+VOLL = 10          # Karten pro Lauf im Normalfall
+IDLE_HALB, IDLE_PAUSE = 5, 10          # Tage ohne Aktivität: ab 5 halbe Menge, ab 10 Pause
+BACKLOG_HALB, BACKLOG_PAUSE = 40, 80   # ungesehene Karten: ab 40 halbe Menge, ab 80 Pause
 
 
 def normalize(code):
@@ -59,6 +67,38 @@ def compute(summary):
             "hinweis": "Nur ein leichter Stups (-1/0/+1), nie ein Ausschluss. Themen ohne Eintrag sind unbekannt und werden erkundet. Plus = deutlich öfter bewertet als der Durchschnitt und fast nur geliked; Minus = mindestens 3 Dislikes und mindestens 40 Prozent."}
 
 
+def card_ids():
+    try:
+        txt = (ROOT / "cards.js").read_text(encoding="utf-8")
+    except Exception:
+        return set()
+    return set(re.findall(r'\{\s*id:\s*"([a-z]+\d+)"', txt))
+
+
+def plan(summary, now=None):
+    """Wie viele neue Karten soll die Routine schreiben? Nur Zahlen, keine Inhalte."""
+    now = now or datetime.now(timezone.utc)
+    idle = None
+    try:
+        last = datetime.fromisoformat(str(summary.get("updated_at")).replace("Z", "+00:00"))
+        idle = max(0, (now - last).days)
+    except Exception:
+        pass
+    ids = card_ids()
+    unseen = None
+    if ids and isinstance(summary.get("seen"), list):
+        unseen = len(ids - set(summary["seen"]))
+    karten, gruende = VOLL, []
+    if idle is not None:
+        if idle >= IDLE_PAUSE: karten = 0; gruende.append(f"seit {idle} Tagen keine Aktivität")
+        elif idle >= IDLE_HALB: karten = min(karten, VOLL // 2); gruende.append(f"seit {idle} Tagen wenig Aktivität")
+    if unseen is not None:
+        if unseen >= BACKLOG_PAUSE: karten = 0; gruende.append(f"{unseen} ungesehene Karten")
+        elif unseen >= BACKLOG_HALB: karten = min(karten, VOLL // 2); gruende.append(f"{unseen} ungesehene Karten")
+    return {"cards": karten, "idle_days": idle, "unseen_cards": unseen,
+            "grund": ", ".join(gruende) if gruende else "normal"}
+
+
 def main():
     code = normalize(os.environ.get("KNOWGRAM_SYNC_CODE", ""))
     if len(code) != 24:
@@ -73,10 +113,11 @@ def main():
     if not summary:
         print("Kein Eintrag zu diesem Code – taste.json bleibt unverändert."); return
     out = compute(summary)
+    out["plan"] = plan(summary)
     out["generated"] = datetime.now(timezone.utc).isoformat(timespec="minutes")
     (ROOT / "taste.json").write_text(json.dumps(out, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     pos = [t for t, v in out["topics"].items() if v["nudge"] > 0]; neg = [t for t, v in out["topics"].items() if v["nudge"] < 0]
-    print(f"taste.json: {len(out['topics'])} Themen, Stups + bei {len(pos)}, − bei {len(neg)}")
+    print(f"taste.json: {len(out['topics'])} Themen, Stups + bei {len(pos)}, − bei {len(neg)}; Plan: {out['plan']}")
 
 
 if __name__ == "__main__":
