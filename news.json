@@ -1,79 +1,472 @@
 {
- "generated": "2026-10-05T22:01:20.887029+00:00",
+ "generated": "2026-10-06T06:22:15.810400+00:00",
  "briefing": [
-  "n4cfdb0d0b2",
-  "n55d62eef37",
-  "n75070f342f",
+  "ncc382ea9a4",
+  "n9ce3e9e143",
   "n9b8c28c81b",
-  "nb59563dbbf",
-  "n7ad895124a",
+  "nde7afd4fa5",
   "nee724e94e9",
-  "n446733da53",
-  "nec849e19e1"
+  "nec849e19e1",
+  "neb0114283f",
+  "n69a1930e6a",
+  "n7b1e4e3505",
+  "n7adf8cacdb"
  ],
  "ranked": [
   {
-   "id": "n4cfdb0d0b2",
-   "s": 28.3
+   "id": "ncc382ea9a4",
+   "s": 32.9
   },
   {
-   "id": "n55d62eef37",
-   "s": 28.0
-  },
-  {
-   "id": "n75070f342f",
-   "s": 27.9
+   "id": "n9ce3e9e143",
+   "s": 27.0
   },
   {
    "id": "n9b8c28c81b",
    "s": 22.9
   },
   {
-   "id": "nb59563dbbf",
-   "s": 22.9
-  },
-  {
-   "id": "n7ad895124a",
+   "id": "nde7afd4fa5",
    "s": 22.9
   },
   {
    "id": "nee724e94e9",
-   "s": 22.1
-  },
-  {
-   "id": "n446733da53",
-   "s": 21.8
+   "s": 20.0
   },
   {
    "id": "nec849e19e1",
-   "s": 21.6
+   "s": 19.5
+  },
+  {
+   "id": "neb0114283f",
+   "s": 19.5
+  },
+  {
+   "id": "n69a1930e6a",
+   "s": 19.0
+  },
+  {
+   "id": "n7b1e4e3505",
+   "s": 19.0
+  },
+  {
+   "id": "n7adf8cacdb",
+   "s": 18.3
+  },
+  {
+   "id": "nafeccff4ea",
+   "s": 17.9
+  },
+  {
+   "id": "n6fdd181be5",
+   "s": 17.8
+  },
+  {
+   "id": "n5157ab0e34",
+   "s": 17.8
+  },
+  {
+   "id": "nf61d65ddfa",
+   "s": 17.8
+  },
+  {
+   "id": "n39c3e76b4e",
+   "s": 17.6
+  },
+  {
+   "id": "n6c60d29d7f",
+   "s": 17.5
+  },
+  {
+   "id": "n89c3122fcd",
+   "s": 17.0
+  },
+  {
+   "id": "n3584108462",
+   "s": 17.0
   }
  ],
  "items": [
   {
+   "id": "nd6453f58c3",
+   "topic": "wissenschaft",
+   "title": "Kein Spatzenhirn",
+   "text": "Glenn-Peter Sætre zeigt, wie Spatzen leben, was sie bedroht und wie eng die Geschichte ihrer Verbreitung mit der menschlichen Kulturgeschichte verwoben ist. Eine Rezension",
+   "link": "https://www.spektrum.de/rezension/buchkritik-zu-der-spatz/2348284",
+   "published": "2026-10-06T07:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-20T07:00:00+00:00",
+   "img": "https://static.spektrum.de/fm/47/thumbnails/Saetre_Spatz.jpg.8414344.jpg?f=1280x720"
+  },
+  {
+   "id": "n21710553d3",
+   "topic": "wissenschaft",
+   "title": "Nobelpreis für Physik 2026: Wer bekommt den Physik-Nobelpreis?",
+   "text": "An wen geht der Nobelpreis für Physik 2026? Lesen Sie hier mehr zu den Hintergründen der Auszeichnung und sehen Sie die Verkündung im Livestream.",
+   "link": "https://www.spektrum.de/news/nobelpreis-fuer-physik-2026-wer-bekommt-den-physik-nobelpreis/2343910",
+   "published": "2026-10-06T07:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-20T07:00:00+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Nobelpreis für Medizin geht an Forscher aus Deutschland und den USA",
+     "link": "https://www.tagesschau.de/video/video-1660638.html"
+    }
+   ]
+  },
+  {
+   "id": "n51446a5b07",
+   "topic": "wissenschaft",
+   "title": "Finden Sie die Primzahl, die diese Bedingungen erfüllt?",
+   "text": "Existiert eine dreistellige Primzahl, die diese Bedingungen erfüllt?",
+   "link": "https://www.spektrum.de/raetsel/gibt-es-eine-derartige-primzahl/2342553",
+   "published": "2026-10-06T07:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-20T07:00:00+00:00"
+  },
+  {
+   "id": "na7280bc85b",
+   "topic": "politik",
+   "title": "Hessen am Morgen: Die Nachrichten im Ticker vom 06.10.2026",
+   "text": "Jetzt live: Was in der Nacht passiert ist, was heute wichtig wird - und alles, was Hessen bewegt. Wir starten mit Ihnen in den Dienstag.",
+   "link": "https://www.hessenschau.de/hessen-am-morgen/unfall-auf-bahnstrecke-bei-kassel---ice-und-regionalzuege-fallen-aus--hessen-am-morgen-die-nachrichten-im-ticker-vom-06102026,hessen-am-morgen-dienstag-1090.html",
+   "published": "2026-10-06T06:17:05+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-10T06:17:05+00:00",
+   "img": "https://www.hessenschau.de/panorama/fulda-186~_t-1791259488323_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "n532340c8a3",
+   "topic": "it",
+   "title": "heise+ | Nothing Headphone (1) Pro im Test: Drei Treiber für Top-Klang?",
+   "text": "Nothing wagt sich mit dem Headphone (1) Pro in die Kopfhörer-Premiumklasse: Ungewöhnliche Hardware trifft vorbildliche Ausstattung.",
+   "link": "https://www.heise.de/tests/Nothing-Headphone-1-Pro-im-Test-Drei-Treiber-fuer-Top-Klang-11469250.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+   "published": "2026-10-06T06:15:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-11T06:15:00+00:00"
+  },
+  {
+   "id": "nba1cf9f6ad",
+   "topic": "nfl",
+   "title": "NFL suspends two officials for player incidents",
+   "text": "The NFL suspends officials Jeff Seeman and Adrian Hill for instances of unprofessional conduct towards a player.",
+   "link": "https://sports.yahoo.com/articles/nfl-suspends-two-officials-player-061314139.html",
+   "published": "2026-10-06T06:13:14+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-11T06:13:14+00:00",
+   "img": "https://media.zenfs.com/en/bbc_us_articles_995/0cf705863215f810e7e4527d79c84106.jpg"
+  },
+  {
    "id": "n9b8c28c81b",
    "topic": "politik",
    "title": "BND, MAD und Verfassungsschutz - Grünen-Politiker von Notz bekräftigt Einschätzung der Geheimdienste zu Russland",
-   "text": "Der Grünen-Bundestagsabgeordnete von Notz hat die Einschätzung der Geheimdienste zur Bedrohung durch Russland bekräftigt. Man müsse die Ensthaftigkeit der Lage erkennen, sagte er im Deutschlandfunk. Die Erkenntnisse müssten aber auch bei der Bevölkerung ankommen.",
+   "text": "Der Grünen-Bundestagsabgeordnete von Notz hat die Einschätzung der Geheimdienste zur Bedrohung durch Russland bekräftigt. Man müsse die Ernsthaftigkeit der Lage erkennen, sagte er im Deutschlandfunk. Die Erkenntnisse müssten aber auch bei der Bevölkerung ankommen.",
    "link": "https://www.deutschlandfunk.de/gruenen-politiker-von-notz-bekraeftigt-einschaetzung-der-geheimdienste-zu-russland-102.html",
-   "published": "2026-10-05T21:46:57+00:00",
+   "published": "2026-10-06T06:06:54+00:00",
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-07T21:46:57+00:00",
+   "expires": "2026-10-08T06:06:54+00:00",
    "img": "https://bilder.deutschlandfunk.de/91/3e/9e/ea/913e9eea-d486-43a7-88d3-ab2ed498ebe9/von-notz-102-1920x1920.jpg"
   },
   {
    "id": "nde7afd4fa5",
    "topic": "politik",
-   "title": "Nach dem AfD-Wahlsieg - Landtag von Sachsen-Anhalt tritt zur ersten Sitzung zusammen und will Parlamentspräsidenten wählen",
-   "text": "Einen Monat nach der Wahl in Sachsen-Anhalt tritt heute in Magdeburg der Landtag zu seiner konstituierenden Sitzung zusammen.",
+   "title": "Nach AfD-Wahlsieg - Landtag von Sachsen-Anhalt tritt zur ersten Sitzung zusammen und will Parlamentspräsidenten wählen",
+   "text": "Einen Monat nach der Wahl in Sachsen-Anhalt tritt heute in Magdeburg der Landtag zu seiner konstituierenden Sitzung zusammen. Zunächst müssen die Abgeordneten den Parlamentspräsidenten bestimmen. Die AfD hat ihren bisherigen Parlamentarischen Geschäftsführer Rausch als Kandidaten benannt.",
    "link": "https://www.deutschlandfunk.de/landtag-von-sachsen-anhalt-tritt-zur-ersten-sitzung-zusammen-und-will-parlamentspraesidenten-waehlen-100.html",
-   "published": "2026-10-05T21:46:57+00:00",
+   "published": "2026-10-06T06:06:54+00:00",
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-07T21:46:57+00:00"
+   "expires": "2026-10-08T06:06:54+00:00",
+   "img": "https://bilder.deutschlandfunk.de/6a/6c/da/f7/6a6cdaf7-8ebf-4b39-b37d-52b790a67184/afd-landtag-rausch-tobias-100-1920x1920.jpg"
+  },
+  {
+   "id": "nafeccff4ea",
+   "topic": "politik",
+   "title": "Protestwelle - Erneut landesweit Schüler-Demonstrationen in Frankreich angekündigt",
+   "text": "Die Proteste von Schülerinnen und Schülern in Frankreich könnten heute einen neuen Höhepunkt erreichen. Es ist ein landesweiter Aktionstag geplant, um für bessere Lernbedingungen zu demonstrieren. Mehrere große Bildungsgewerkschaften wollen sich den Kundgebungen anschließen. Allein im Großraum Paris sollen 200 …",
+   "link": "https://www.deutschlandfunk.de/erneut-landesweit-schueler-demonstrationen-in-frankreich-angekuendigt-100.html",
+   "published": "2026-10-06T06:06:54+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-08T06:06:54+00:00",
+   "img": "https://bilder.deutschlandfunk.de/NO/VA/_0/ea/NOVA_0eab99f641e7508923108c56f833e100/craft-13458715-asset-100-1920x1920.jpg"
+  },
+  {
+   "id": "nb285a6ab5f",
+   "topic": "politik",
+   "title": "Iran-Krieg - Medien: Abzug der US-Langstreckenbomber aus Großbritannien erfolgte wegen befürchtetem iranischen Drohnenangriff",
+   "text": "Der Abzug US-amerikanischer Langstreckenbomber aus Großbritannien erfolgte laut Medienberichten aus Sorge vor einem möglichen Luftangriff des Iran.",
+   "link": "https://www.deutschlandfunk.de/medien-abzug-der-us-langstreckenbomber-aus-grossbritannien-erfolgte-wegen-befuerchtetem-iranischen-d-102.html",
+   "published": "2026-10-06T06:06:54+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-08T06:06:54+00:00",
+   "img": "https://bilder.deutschlandfunk.de/ef/19/89/77/ef198977-c512-45bc-ad4b-4a3ef317dd90/us-langstreckenbomber-fairford-100-1920x1920.jpg"
+  },
+  {
+   "id": "ncc382ea9a4",
+   "topic": "politik",
+   "title": "Krieg - Ukraine greift Moskau mit 650 Drohnen an",
+   "text": "Die ukrainische Armee hat die russische Hauptstadt Moskau mit hunderten Drohnen angegriffen.",
+   "link": "https://www.deutschlandfunk.de/ukraine-greift-moskau-mit-650-drohnen-an-100.html",
+   "published": "2026-10-06T06:06:54+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-08T06:06:54+00:00",
+   "img": "https://bilder.deutschlandfunk.de/bb/68/9d/66/bb689d66-634b-4d85-b840-344cfd697223/moskau-114-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Russland greift Rechenzentren und Server an - Wird die Ukraine bald ohne Internet dastehen?",
+     "link": "https://www.dw.com/de/russland-greift-rechenzentren-und-server-an-wird-die-ukraine-bald-ohne-internet-dastehen/a-79548296?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "n21bb41bc48",
+   "topic": "politik",
+   "title": "Neues Wehrdienstgesetz - Zahl der Anträge auf Kriegsdienstverweigerung deutlich gestiegen",
+   "text": "Die Zahl der Anträge auf Kriegsdienstverweigerung ist in diesem Jahr stark gestiegen. Wie die Funke-Medien berichten, gingen beim Bundesamt für Familie und zivilgesellschaftliche Aufgaben bis Ende August rund 12.100 Anträge ein. Das waren mehr als drei Mal so viele wie im gesamten vergangenen Jahr.",
+   "link": "https://www.deutschlandfunk.de/zahl-der-antraege-auf-kriegsdienstverweigerung-deutlich-gestiegen-100.html",
+   "published": "2026-10-06T06:06:54+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-08T06:06:54+00:00",
+   "img": "https://bilder.deutschlandfunk.de/03/07/4d/5d/03074d5d-4366-4923-80e6-8aebc4d5512a/bundesamt-familie-zivilgesellschaftliche-aufgaben-100-1920x1920.jpg"
+  },
+  {
+   "id": "n7866419ac1",
+   "topic": "it",
+   "title": "Smart Ring: Oura erkennt Blutdruckrisiken und begleitet Abnehmspritzen",
+   "text": "Der Oura-Ring erhält neue Funktionen und erkennt Auffälligkeiten beim Blutdruck. Außerdem wertet er Daten rund um GLP-1-Medikamente aus. ( Oura , Medizin )",
+   "link": "https://www.golem.de/news/smart-ring-oura-erkennt-blutdruckrisiken-und-begleitet-abnehmspritzen-2610-213727.html",
+   "published": "2026-10-06T06:00:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-11T06:00:02+00:00",
+   "img": "https://www.golem.de/2610/213727-601672-601670_rc.jpg"
+  },
+  {
+   "id": "n9ee2899d6e",
+   "topic": "it",
+   "title": "Sicherheit: Bundeswehr setzt KI gegen Extremisten ein",
+   "text": "Die Bundeswehr plant automatisierte Scanverfahren für Bewerber. Der MAD will KI einsetzen, um rechtsextreme Gesinnung früh zu erkennen. ( Bundeswehr , KI )",
+   "link": "https://www.golem.de/news/sicherheit-bundeswehr-setzt-ki-gegen-extremisten-ein-2610-213736.html",
+   "published": "2026-10-06T05:48:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-11T05:48:01+00:00",
+   "img": "https://www.golem.de/2610/213736-601715-601713_rc.jpg"
+  },
+  {
+   "id": "n51ee7c2235",
+   "topic": "it",
+   "title": "Anthropic: Pentagon vollendet Abschied, Meta und Microsoft schränken Nutzung ein",
+   "text": "In wenigen Wochen will Anthropic an die Börse: Jetzt hat das Pentagon Claude komplett verabschiedet, Meta und Microsoft drängen intern auf eigene Alternativen.",
+   "link": "https://www.heise.de/news/Anthropic-Pentagon-vollendet-Abschied-Meta-und-Microsoft-schraenken-Nutzung-ein-11476932.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-06T05:47:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-11T05:47:00+00:00"
+  },
+  {
+   "id": "n4937f2a7fb",
+   "topic": "it",
+   "title": "Sogar Chatverläufe: KI-Anbieter geben Daten ihrer Nutzer weiter",
+   "text": "Eine neue Studie zeigt, wie ChatGPT, Claude, Gemini und Co. Nutzerdaten an Dritte weitergeben – teils sogar Zugriff auf ganze Chatverläufe und sensible Infos.",
+   "link": "https://www.heise.de/news/Diese-Daten-geben-ChatGPT-Gemini-Claude-und-Co-ueber-uns-an-Dritte-11476698.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-06T05:42:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-11T05:42:00+00:00"
+  },
+  {
+   "id": "n7a45ef9dff",
+   "topic": "nfl",
+   "title": "NFL Panic Meter: Eagles offense, Lions defense are big problems for 2 marquee NFC teams",
+   "text": "Two of the NFC's marquee teams might already be in trouble.",
+   "link": "https://sports.yahoo.com/nfl/article/nfl-panic-meter-eagles-offense-lions-defense-are-big-problems-for-2-marquee-nfc-teams-054112829.html",
+   "published": "2026-10-06T05:41:12+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-11T05:41:12+00:00",
+   "img": "https://d29szjachogqwa.cloudfront.net/images/2026-10/8f4bcf9e-124a-43c1-94d7-5ec53c5fb1a2"
+  },
+  {
+   "id": "n5b1ba58bb7",
+   "topic": "welt",
+   "title": "Trump erlaubt angesichts hoher Spritpreise Nutzung von steuerfreiem Diesel",
+   "text": "Mit dem Iran-Krieg ist das Tanken auch in den USA deutlich teurer geworden. Nun verspricht US-Präsident Trump Abhilfe: Autofahrer sollen steuerfreien, \"roten\" Diesel nutzen können. Der ist bisher nur in der Landwirtschaft erlaubt.",
+   "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-diesel-100.html",
+   "published": "2026-10-06T05:30:33+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-09T05:30:33+00:00",
+   "img": "https://images.tagesschau.de/image/058e8a24-4658-4180-9ce5-ce30304585d2/AAABoQ-xMYg/AAABnSSvrFg/16x9-big/trump-dekret-diesel-100.jpg?width=1920"
+  },
+  {
+   "id": "n6fdd181be5",
+   "topic": "wirtschaft",
+   "title": "Marktbericht: Positive Vorzeichen könnten DAX beflügeln",
+   "text": "Der deutsche Leitindex könnte etwas positiver in den Tag starten. Gute Vorzeichen dafür kommen aus den USA: Dort hat der Tech-Index Nasdaq gestern ein Rekordhoch erzielt.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-168.html",
+   "published": "2026-10-06T05:29:40+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-09T05:29:40+00:00",
+   "img": "https://images.tagesschau.de/image/5f2abda3-ae12-4ce8-9ff1-d6e17b47d882/AAABlf9rdX8/AAABnSSvrFg/16x9-big/boerse-402.jpg?width=1920"
+  },
+  {
+   "id": "nf61d65ddfa",
+   "topic": "welt",
+   "title": "Debatte über Meinungsfreiheit: Warum viele ihre Meinung lieber für sich behalten",
+   "text": "Offene Debatten und politische Diskussionen: Meinungsfreiheit gehört zum nationalen Selbstverständnis der US-Amerikaner. Doch Studien zeigen: An den Universitäten behalten immer mehr ihre Ansichten lieber für sich. Von Anne Schneider.",
+   "link": "https://www.tagesschau.de/ausland/amerika/free-speech-usa-100.html",
+   "published": "2026-10-06T05:22:59+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-09T05:22:59+00:00",
+   "img": "https://images.tagesschau.de/image/ae7bbcd9-44a2-41be-891e-4fe01ea27480/AAABoQ_GxmU/AAABnSSvrFg/16x9-big/universitaet-dallas-100.jpg?width=1920"
+  },
+  {
+   "id": "nfb275f3a12",
+   "topic": "welt",
+   "title": "Trumps langer Schatten? Flávio Bolsonaro vor möglichem Wahlsieg über Luiz Inácio Lula da Silva in Brasilien",
+   "text": "Der Sohn des rechten ehemaligen Präsidenten Jair Bolsonaro liegt im ersten Wahlgang vor dem amtierenden Präsidenten Lula und könnte bald das größte Land Lateinamerikas regieren.",
+   "link": "https://www.dw.com/de/trumps-langer-schatten-flávio-bolsonaro-vor-möglichem-wahlsieg-über-luiz-inácio-lula-da-silva-in-brasilien/a-79556045?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-06T04:49:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-10T04:49:00+00:00",
+   "img": "https://static.dw.com/image/79542651_302.jpg",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Brasilien - Bolsonaro und Lula ziehen in Stichwahl um Präsidentenamt ein",
+     "link": "https://www.deutschlandfunk.de/bolsonaro-und-lula-ziehen-in-stichwahl-um-praesidentenamt-ein-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n39c3e76b4e",
+   "topic": "welt",
+   "title": "Hallo statt Privjet: An Lettlands Schulen ist Russisch verboten",
+   "text": "Lettland will sich sprachlich stärker nach Europa orientieren - seit diesem Schuljahr darf Russisch an Schulen nicht mehr als Fremdsprache unterrichtet werden. Besonders populär wird stattdessen: Deutsch. Von Arne Bartram.",
+   "link": "https://www.tagesschau.de/ausland/europa/lettland-schulen-russisch-deutsch-100.html",
+   "published": "2026-10-06T04:46:48+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-09T04:46:48+00:00",
+   "img": "https://images.tagesschau.de/image/7fc049a8-8fe5-41d1-9583-5846dcc983a9/AAABoQwo8sw/AAABnSSvrFg/16x9-big/lettland-schulunterricht-100.jpg?width=1920"
+  },
+  {
+   "id": "n6c60d29d7f",
+   "topic": "wirtschaft",
+   "title": "Warum ein Studium keine Jobgarantie mehr ist",
+   "text": "Hunderttausende Menschen hierzulande haben einen Uniabschluss und trotzdem keinen Job. Dabei galt lange: Wer studiert, hat später die besten Berufsaussichten. Doch diese Gewissheit bröckelt. Von L.-M. Hiltscher und C. Dörr.",
+   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/ausbildung-oder-studium-was-lohnt-sich-100.html",
+   "published": "2026-10-06T04:23:54+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-09T04:23:54+00:00",
+   "img": "https://images.tagesschau.de/image/0d41568c-7690-4102-b285-0c8dbfcef5da/AAABoQqGT3w/AAABnSSvrFg/16x9-big/hoersaal-uni-102.jpg?width=1920"
+  },
+  {
+   "id": "nbc28cded80",
+   "topic": "nfl",
+   "title": "NFL Week 4 grades for all 32 teams: Falcons earn 'A+' for destroying Saints; Bengals slip again",
+   "text": "We're handing out grades for every Week 4 game",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/",
+   "published": "2026-10-06T03:43:55+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-11T03:43:55+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/06/1be968d6-a89f-4070-8614-f1c37ead12c5/bijan-robinson-reuters.png"
+  },
+  {
+   "id": "n90c3e7d63b",
+   "topic": "politik",
+   "title": "Neuer Wehrdienst: Zahl der Kriegsdienstverweigerer stark angestiegen",
+   "text": "Die Wehrpflicht ist immer noch ausgesetzt in Deutschland. Und doch steigt die Zahl der Anträge auf Kriegsdienstverweigerung stark an. Dafür gibt es Gründe.",
+   "link": "https://www.tagesschau.de/inland/kriegsdienstverweigerer-124.html",
+   "published": "2026-10-06T03:25:07+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-09T03:25:07+00:00",
+   "img": "https://images.tagesschau.de/image/6d955f20-f9ab-46b8-8fab-b0289e505d1b/AAABoQ8wAhw/AAABnSSvrFg/16x9-big/schulstreik-wehrpflicht-132.jpg?width=1920"
+  },
+  {
+   "id": "n8fd46c10ba",
+   "topic": "politik",
+   "title": "Konstituierende Sitzung in Sachsen-Anhalt: Die AfD und die ganz große Bühne",
+   "text": "Heute richten sich erneut viele Blicke auf Sachsen-Anhalt: Der Landtag kommt zu seiner konstituierenden Sitzung zusammen. Die AfD will erstmals einen Parlamentspräsidenten stellen - und Regierungsfähigkeit beweisen. Von Torben Lehning.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/sachsen-anhalt-konstituierende-sitzung-100.html",
+   "published": "2026-10-06T02:18:45+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-09T02:18:45+00:00",
+   "img": "https://images.tagesschau.de/image/3eebd116-6b9e-4c06-9b3d-3e55f8bdb99d/AAABoQ3Anjw/AAABnSSvrFg/16x9-big/landtag-sachsen-anhalt-336.jpg?width=1920"
+  },
+  {
+   "id": "nd802b5bca2",
+   "topic": "nfl",
+   "title": "Saquon Barkley injury update: Eagles star considered week-to-week, per report",
+   "text": "The star running back seems to have avoided a long-term injury",
+   "link": "https://www.cbssports.com/nfl/news/saquon-barkley-hamstring-injury-eagles-week-4-rams/",
+   "published": "2026-10-06T01:12:16+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-11T01:12:16+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/04/d5dc5da2-9982-4b37-8620-2c3631e1aa2d/saquon-barkley-eagles.jpg"
+  },
+  {
+   "id": "n2bb6704419",
+   "topic": "welt",
+   "title": "Türkei und Pakistan entsenden Truppen nach Saudi-Arabien",
+   "text": "Aufgrund von Huthi-Angriffen auf Saudi-Arabien schicken Pakistan und die Türkei Truppen zur Unterstützung. Zudem wurden Explosionen in der Hauptstadt Riad gemeldet.",
+   "link": "https://www.tagesschau.de/ausland/asien/tuerkei-pakistan-saudi-arabien-102.html",
+   "published": "2026-10-06T00:54:01+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-09T00:54:01+00:00",
+   "img": "https://images.tagesschau.de/image/5605a9fc-23c2-48b7-b839-1abc7edcd617/AAABoQ6c_x4/AAABnSSvrFg/16x9-big/tuerkei-pakistan-saudi-arabien-104.jpg?width=1920"
   },
   {
    "id": "nba050bc38d",
@@ -86,19 +479,6 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-07T21:46:57+00:00"
-  },
-  {
-   "id": "nafeccff4ea",
-   "topic": "politik",
-   "title": "Protestwelle - Erneut landesweit Schüler-Demonstrationen in Frankreich angekündigt",
-   "text": "In Frankreich protestieren Schülerinnen und Schüler heute erneut landesweit für bessere Lernbedingungen.",
-   "link": "https://www.deutschlandfunk.de/erneut-landesweit-schueler-demonstrationen-in-frankreich-angekuendigt-100.html",
-   "published": "2026-10-05T21:46:57+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-07T21:46:57+00:00",
-   "img": "https://bilder.deutschlandfunk.de/NO/VA/_0/ea/NOVA_0eab99f641e7508923108c56f833e100/craft-13458715-asset-100-1920x1920.jpg"
   },
   {
    "id": "nb59563dbbf",
@@ -851,7 +1231,14 @@
    "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
    "lang": "de",
    "expires": "2026-10-09T13:23:00+00:00",
-   "img": "https://static.dw.com/image/75698517_302.jpg"
+   "img": "https://static.dw.com/image/75698517_302.jpg",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Krieg - Ukraine greift Moskau mit 650 Drohnen an",
+     "link": "https://www.deutschlandfunk.de/ukraine-greift-moskau-mit-650-drohnen-an-100.html"
+    }
+   ]
   },
   {
    "id": "nad5d8a2999",
@@ -933,7 +1320,7 @@
   },
   {
    "id": "n9c0a033397",
-   "topic": "wirtschaft",
+   "topic": "welt",
    "title": "Moldau: Wassermangel trifft hohe Ölpreise",
    "text": "Die Republik Moldau leidet weiter unter Dürre, die Pegelstände der Flüsse sind niedrig. Zugleich hat die Regierung wegen der hohen Preise einen Energienotstand ausgerufen. Die Opposition nutzt das für Signale im Sinne Russlands. Von P. Raillon.",
    "link": "https://www.tagesschau.de/ausland/europa/moldau-energie-notstand-100.html",
@@ -1056,8 +1443,8 @@
    "also": [
     {
      "source": "Spektrum der Wissenschaft",
-     "title": "Nobelpreis für Physiologie oder Medizin 2026: Ein Lichtschalter für Nervenzellen",
-     "link": "https://www.spektrum.de/news/medizin-nobelpreis-2026-fuer-optogenetik/2345544"
+     "title": "Nobelpreis für Physik 2026: Wer bekommt den Physik-Nobelpreis?",
+     "link": "https://www.spektrum.de/news/nobelpreis-fuer-physik-2026-wer-bekommt-den-physik-nobelpreis/2343910"
     }
    ]
   },
@@ -1180,9 +1567,9 @@
    "img": "https://bilder.deutschlandfunk.de/a9/71/70/68/a9717068-16c8-4fe0-86ef-7b8f832ffb7c/brasilien-praesidentschaftswahl-lula-da-silva-bolsonaro-100-1920x1920.jpg",
    "also": [
     {
-     "source": "Tagesschau",
-     "title": "Präsidentschaftswahl in Brasilien: Bolsonaro und Lula ziehen in Stichwahl ein",
-     "link": "https://www.tagesschau.de/ausland/amerika/wahl-brasilien-bolsonaro-lula-100.html"
+     "source": "Deutsche Welle",
+     "title": "Trumps langer Schatten? Flávio Bolsonaro vor möglichem Wahlsieg über Luiz Inácio Lula da Silva in Brasilien",
+     "link": "https://www.dw.com/de/trumps-langer-schatten-flávio-bolsonaro-vor-möglichem-wahlsieg-über-luiz-inácio-lula-da-silva-in-brasilien/a-79556045?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -1234,14 +1621,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-07T05:32:36+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Ermittlungen wegen Terrorverdacht: USA ziehen Bomber von britischem Stützpunkt ab",
-     "link": "https://www.tagesschau.de/ausland/europa/usa-bomber-grossbritannien-abzug-100.html"
-    }
-   ]
+   "expires": "2026-10-07T05:32:36+00:00"
   },
   {
    "id": "n574acb93f1",
@@ -1303,370 +1683,6 @@
    "type": "Fachmedium (IT)",
    "lang": "de",
    "expires": "2026-10-10T05:00:00+00:00"
-  },
-  {
-   "id": "n22f9059624",
-   "topic": "it",
-   "title": "heise+ | Peugeot e-5008 Long Range im Test: Die Hummel kann fliegen",
-   "text": "Peugeot bietet mit dem e-5008 Long Range ein siebensitziges Familienauto mit 97 kWh netto im Akku an. Das Auto ist zudem für seine Größe erfreulich sparsam.",
-   "link": "https://www.heise.de/tests/Peugeot-e-5008-Long-Range-im-Test-Die-Hummel-kann-fliegen-11431774.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-   "published": "2026-10-05T05:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-10T05:00:00+00:00"
-  },
-  {
-   "id": "n73dafdd15f",
-   "topic": "nfl",
-   "title": "Seahawks vs. Chargers was historically ugly, and there are stats to prove it",
-   "text": "The Seahawks and Chargers combined for 53 points, but it felt like they also combined for 53 flags.",
-   "link": "https://sports.yahoo.com/articles/seahawks-vs-chargers-historically-ugly-045426139.html",
-   "published": "2026-10-05T04:54:26+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-10T04:54:26+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/f4baac09a019f15cb15c5b079b7db6a8.jpg"
-  },
-  {
-   "id": "n8701525175",
-   "topic": "wirtschaft",
-   "title": "Warum immer mehr junge Menschen einen Job in der Pflege wollen",
-   "text": "Immer mehr junge Menschen entscheiden sich für eine Ausbildung im Gesundheitswesen: Kliniken melden Bewerberrekorde, Pflegeschulen haben Wartelisten. Gleichzeitig bleibt der Fachkräftemangel groß. Von Johannes Baumert.",
-   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ausbildungsboom-pflege-gesundheit-100.html",
-   "published": "2026-10-05T04:47:41+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-08T04:47:41+00:00",
-   "img": "https://images.tagesschau.de/image/3ef47f1d-bdb8-40fd-8a81-2b2997fc7467/AAABoPbshBM/AAABnSSvrFg/16x9-big/ausbildung-gesundheit-100.jpg?width=1920"
-  },
-  {
-   "id": "na5bb8fcc06",
-   "topic": "politik",
-   "title": "Seit Mai: E-Auto-Prämie an 100.000 Antragsteller ausgezahlt",
-   "text": "Die neue Prämie zu Förderung von E-Autos hat laut Umweltminister Schneider die Erwartungen übertroffen. Geld sei bereits an 100.000 Antragsteller geflossen - viele von ihnen mit geringerem Einkommen.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/e-auto-praemie-126.html",
-   "published": "2026-10-05T04:47:06+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-08T04:47:06+00:00",
-   "img": "https://images.tagesschau.de/image/77620946-c469-4271-84a9-c94bd37a989a/AAABoQpgPPo/AAABnSSvrFg/16x9-big/e-auto-252.jpg?width=1920"
-  },
-  {
-   "id": "n6834eb4c75",
-   "topic": "wissenschaft",
-   "title": "125 Jahre Nobelpreis: Was macht die Auszeichnung so bedeutend?",
-   "text": "Von heute an wird wieder verkündet, wer die diesjährigen Nobelpreise erhält - und das seit mittlerweile 125 Jahren. Warum hat die Auszeichnung eine so hohe Bedeutung? Und wie werden die Preisträger ermittelt? Von Nina Kunze.",
-   "link": "https://www.tagesschau.de/wissen/forschung/nobelpreise-125-jahre-100.html",
-   "published": "2026-10-05T04:32:01+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-19T04:32:01+00:00",
-   "img": "https://images.tagesschau.de/image/5ab9262a-f84c-464e-a648-6135bf47ee62/AAABoQbSoqo/AAABnSSvrFg/16x9-big/nobelpreismuseum-102.jpg?width=1920",
-   "also": [
-    {
-     "source": "Spektrum der Wissenschaft",
-     "title": "Nobelpreis für Physiologie oder Medizin 2026: Ein Lichtschalter für Nervenzellen",
-     "link": "https://www.spektrum.de/news/medizin-nobelpreis-2026-fuer-optogenetik/2345544"
-    }
-   ]
-  },
-  {
-   "id": "nbc28cded80",
-   "topic": "nfl",
-   "title": "NFL Week 4 grades for all 32 teams: Ben Johnson, Bears earn 'A-' despite injury woes; Bengals slip again",
-   "text": "We're handing out grades for every Week 4 game",
-   "link": "https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/",
-   "published": "2026-10-05T04:01:21+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-10T04:01:21+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/04/b8f72fbc-6429-46f5-98ce-c0b132c84da0/chicago-bears.jpg"
-  },
-  {
-   "id": "n6007eacdb0",
-   "topic": "politik",
-   "title": "Linke zieht gegen Reiche vor Bundesverfassungsgericht",
-   "text": "Die Linke wirft CDU-Politikerin Reiche vor, mit einem Video auf dem Account des Bundeswirtschaftsministeriums das Neutralitätsgebot verletzt zu haben. Nun will die Partei das höchste deutsche Gericht entscheiden lassen.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/linke-klage-reiche-bundesverfassungsgericht-100.html",
-   "published": "2026-10-05T03:39:00+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-08T03:39:00+00:00",
-   "img": "https://images.tagesschau.de/image/e08ec56c-ef69-4d3d-9cc2-a4200166c1fe/AAABn4n8_vo/AAABnSSvrFg/16x9-big/reiche-204.jpg?width=1920"
-  },
-  {
-   "id": "n4cfdb0d0b2",
-   "topic": "welt",
-   "title": "Österreichs Vizekanzler und SPÖ-Chef Babler kündigt Rückzug an",
-   "text": "Der Chefposten der SPÖ in Österreich gilt als Schleudersitz. Und er wurde seinem Ruf erneut gerecht: Vizekanzler und Parteichef Babler zieht sich zurück. Damit will er eine stabile Regierung gewährleisten - und Neuwahlen verhindern. Von S. Hahne.",
-   "link": "https://www.tagesschau.de/ausland/europa/oesterreich-rueckzug-vizekanzler-100.html",
-   "published": "2026-10-05T03:04:40+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-08T03:04:40+00:00",
-   "img": "https://images.tagesschau.de/image/75b8d8f6-38ad-4495-b67c-6c40e98d098e/AAABoQnxd4A/AAABnSSvrFg/16x9-big/andreas-babler-102.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Wien - Österreichs Vizekanzler Babler kündigt Rückzug aus Regierungsamt und vom Parteivorsitz der SPÖ an",
-     "link": "https://www.deutschlandfunk.de/oesterreichs-vizekanzler-babler-kuendigt-rueckzug-aus-regierungsamt-und-vom-parteivorsitz-der-spoe-a-102.html"
-    }
-   ]
-  },
-  {
-   "id": "nb7dbcdbd55",
-   "topic": "politik",
-   "title": "SPD-Basis setzt rote Linien bei der Arbeitszeitreform",
-   "text": "Die Koalition will Arbeitszeitregeln flexibler machen. Nun meldet sich die SPD-Basis zu Wort: Keine Wochenarbeitszeit ohne Tarifvertrag, heißt es in einem Positionspapier. Das könnte neuen Streit in der Koalition bedeuten. Von Jan-Peter Bartels.",
-   "link": "https://www.tagesschau.de/inland/gesellschaft/spd-arbeitszeit-woche-100.html",
-   "published": "2026-10-05T03:00:50+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-08T03:00:50+00:00",
-   "img": "https://images.tagesschau.de/image/456a08fe-267d-4543-9720-3355fbe9bc15/AAABoQsUL3M/AAABnSSvrFg/16x9-big/arbeitszeit-130.jpg?width=1920"
-  },
-  {
-   "id": "nbde5c94ff8",
-   "topic": "nfl",
-   "title": "Chiefs very interested in a Tyreek Hill reunion amid injuries at receiver, per report",
-   "text": "Kansas City has reportedly reached out to Hill's agent",
-   "link": "https://www.cbssports.com/nfl/news/chiefs-interested-tyreek-hill-reunion-amid-injuries-at-receiver/",
-   "published": "2026-10-05T02:54:36+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-10T02:54:36+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/05/07d90e87-f55d-4230-9b47-869dcc784b2b/hill.jpg"
-  },
-  {
-   "id": "n55d62eef37",
-   "topic": "welt",
-   "title": "Ermittlungen wegen Terrorverdacht: USA ziehen Bomber von britischem Stützpunkt ab",
-   "text": "Washington hat seine Langstreckenbomber vom britischen Militärstützpunkt Fairford zurückbeordert - aus Sicherheitsgründen, wie das Pentagon erklärte. Vor einer Woche waren dort Männer wegen möglicher Anschlagspläne festgenommen worden.",
-   "link": "https://www.tagesschau.de/ausland/europa/usa-bomber-grossbritannien-abzug-100.html",
-   "published": "2026-10-05T01:56:23+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-08T01:56:23+00:00",
-   "img": "https://images.tagesschau.de/image/e5c57499-2ab8-4b2a-8d46-ec5dcc92c8f5/AAABoQmlMt8/AAABnSSvrFg/16x9-big/fairford-bomber-kampfjet-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Terror-Bedrohung - USA ziehen Langstreckenbomber von britischem Luftwaffenstützpunkt ab",
-     "link": "https://www.deutschlandfunk.de/usa-ziehen-langstreckenbomber-von-britischem-luftwaffenstuetzpunkt-ab-104.html"
-    }
-   ]
-  },
-  {
-   "id": "n75070f342f",
-   "topic": "welt",
-   "title": "Präsidentschaftswahl in Brasilien: Bolsonaro und Lula ziehen in Stichwahl ein",
-   "text": "Die Präsidentenwahl in Brasilien wird in einer Stichwahl entschieden: Herausforderer Bolsonaro liegt nach Auszählung fast aller Stimmen zwar etwas vor Amtsinhaber Lula - aber die absolute Mehrheit erreichten beide nicht.",
-   "link": "https://www.tagesschau.de/ausland/amerika/wahl-brasilien-bolsonaro-lula-100.html",
-   "published": "2026-10-05T01:35:56+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-08T01:35:56+00:00",
-   "img": "https://images.tagesschau.de/image/8e7ac03d-34cb-463f-8307-57eb9ae91772/AAABoQkeNtw/AAABnSSvrFg/16x9-big/flyer-wahl-brasilien-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Brasilien - Bolsonaro und Lula ziehen in Stichwahl um Präsidentenamt ein",
-     "link": "https://www.deutschlandfunk.de/bolsonaro-und-lula-ziehen-in-stichwahl-um-praesidentenamt-ein-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n51f024194e",
-   "topic": "welt",
-   "title": "Starke nationalistische Kräfte bei Wahlen in Bosnien und Herzegowina",
-   "text": "Bei den Wahlen in Bosnien und Herzegowina haben vor allem nationalistische Kräfte die Oberhand. Beobachter halten mit dem nun gewählten Staatspräsidium eine Begnadigung von Ex-Machthaber Dodik für möglich. Von S. Hahne.",
-   "link": "https://www.tagesschau.de/ausland/europa/bosnien-herzegowina-wahl-112.html",
-   "published": "2026-10-05T00:33:07+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-08T00:33:07+00:00",
-   "img": "https://images.tagesschau.de/image/526cd0cf-3efb-4cea-ab87-feb6b891943c/AAABoQlvusI/AAABnSSvrFg/16x9-big/dodik-118.jpg?width=1920"
-  },
-  {
-   "id": "n28baf920b4",
-   "topic": "nfl",
-   "title": "Tyquan Thornton exits with gruesome ankle injury after monster game for Chiefs",
-   "text": "Thornton had already established career highs in receiving yards and touchdowns before exiting late in the fourth quarter",
-   "link": "https://www.cbssports.com/nfl/news/chiefs-tyquan-thornton-ankle-injury-raiders/",
-   "published": "2026-10-04T23:52:36+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-09T23:52:36+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/04/4efe1fc7-e896-4351-b0dd-1ef49cf52285/tyquan-thornton.jpg"
-  },
-  {
-   "id": "n32575eaf12",
-   "topic": "nfl",
-   "title": "Seahawks-Chargers score: 3-1! Seahawks hold on for flag-filled, sloppy win over Chargers",
-   "text": "The Seahawks beat the Chargers and the referees probably threw another flag on the play as we wrote this up.",
-   "link": "https://sports.yahoo.com/articles/seahawks-chargers-score-3-1-235014407.html",
-   "published": "2026-10-04T23:50:14+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-09T23:50:14+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/80c0c1f1dbe6bbcde66bd73965341f32.jpg"
-  },
-  {
-   "id": "n62a29b72d6",
-   "topic": "nfl",
-   "title": "Instant reaction: Broncos falter in Week 4 loss to 49ers",
-   "text": "The Denver Broncos lost 24-14 against the San Francisco 49ers. Here are instant reactions from today’s game.",
-   "link": "https://sports.yahoo.com/articles/instant-reaction-broncos-falter-week-234619340.html",
-   "published": "2026-10-04T23:46:19+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-09T23:46:19+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/7b2b79ab3183e3b4c350380f0d64a831.jpg"
-  },
-  {
-   "id": "n22933368ae",
-   "topic": "nfl",
-   "title": "Jayden Daniels update: Dan Quinn says 'the hope' is for Commanders QB to return in Week 5",
-   "text": "The plan is for Daniels to practice in full this week",
-   "link": "https://www.cbssports.com/nfl/news/commanders-jayden-daniels-update-hope-week-5-return/",
-   "published": "2026-10-04T23:06:51+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-09T23:06:51+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/04/555c9c74-a55a-4ec6-9555-f1ce3fcfd769/jayden-daniels-commanders-16.jpg"
-  },
-  {
-   "id": "n3602f60596",
-   "topic": "politik",
-   "title": "Reformen - Bundeskanzler Merz fordert von Union und SPD noch in diesem Jahr Entscheidung zur Rentenreform",
-   "text": "Bundeskanzler Merz hat die Koalition von Union und SPD aufgefordert, bei den geplanten Reformen voranzukommen und die Stabilität der Regierung zu sichern.",
-   "link": "https://www.deutschlandfunk.de/bundeskanzler-merz-fordert-von-union-und-spd-noch-in-diesem-jahr-entscheidung-zur-rentenreform-100.html",
-   "published": "2026-10-04T21:26:08+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-06T21:26:08+00:00"
-  },
-  {
-   "id": "n32ac6a4115",
-   "topic": "politik",
-   "title": "Washington - USA ziehen Langstreckenbomber von britischem Luftwaffenstützpunkt ab",
-   "text": "Die USA ziehen ihre Langstreckenbomber vom britischen Luftwaffenstützpunkt Fairford ab.",
-   "link": "https://www.deutschlandfunk.de/usa-ziehen-langstreckenbomber-von-britischem-luftwaffenstuetzpunkt-ab-100.html",
-   "published": "2026-10-04T21:26:08+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-06T21:26:08+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Ermittlungen wegen Terrorverdacht: USA ziehen Bomber von britischem Stützpunkt ab",
-     "link": "https://www.tagesschau.de/ausland/europa/usa-bomber-grossbritannien-abzug-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n7cf6c76fc6",
-   "topic": "politik",
-   "title": "Wien - Österreichs Vizekanzler Babler kündigt Rückzug aus Regierungsamt und vom Parteivorsitz der SPÖ an",
-   "text": "Österreichs Vizekanzler Babler hat seinen Rückzug aus dem Regierungsamt sowie vom Parteivorsitz der SPÖ angekündigt.",
-   "link": "https://www.deutschlandfunk.de/oesterreichs-vizekanzler-babler-kuendigt-rueckzug-aus-regierungsamt-und-vom-parteivorsitz-der-spoe-a-102.html",
-   "published": "2026-10-04T21:26:08+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-06T21:26:08+00:00",
-   "img": "https://bilder.deutschlandfunk.de/e1/d0/74/41/e1d07441-4c17-43f3-ab97-fbaeddd0f508/oesterreich-spoe-babler-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Österreichs Vizekanzler und SPÖ-Chef Babler kündigt Rückzug an",
-     "link": "https://www.tagesschau.de/ausland/europa/oesterreich-rueckzug-vizekanzler-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n02a3c77ff9",
-   "topic": "politik",
-   "title": "Russland - Festnahmen bei Kundgebung einer Kreml-nahen Partei in Moskau",
-   "text": "In Moskau hat die Polizei bei einer Kundgebung der Kommunistischen Partei der Russischen Föderation zahlreiche Personen festgenommen.",
-   "link": "https://www.deutschlandfunk.de/festnahmen-bei-kundgebung-einer-kreml-nahen-partei-in-moskau-100.html",
-   "published": "2026-10-04T21:26:08+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-06T21:26:08+00:00"
-  },
-  {
-   "id": "n901a3c3417",
-   "topic": "politik",
-   "title": "Britische Weltkriegsbombe - Phosphor-Zünder von Weltkriegsbombe im Rhein bei Neuss ausgebrannt",
-   "text": "In Neuss am Rhein ist am Flussufer der Phosphor-Zünder einer Weltkriegsbombe ausgebrannt.",
-   "link": "https://www.deutschlandfunk.de/phosphor-zuender-von-weltkriegsbombe-im-rhein-bei-neuss-ausgebrannt-102.html",
-   "published": "2026-10-04T21:26:08+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-06T21:26:08+00:00",
-   "img": "https://bilder.deutschlandfunk.de/f9/a5/8d/0d/f9a58d0d-dff6-4c01-81e7-892383ceaf81/phosphor-zuender-von-weltkriegsbombe-im-rhein-ausgebrannt-100-1920x1920.jpg"
-  },
-  {
-   "id": "n26402e7d0c",
-   "topic": "politik",
-   "title": "Fußball - Deutschlands Nationalmannschaft spielt 0:0 gegen Griechenland",
-   "text": "In der Fußball-Nations-League hat die deutsche Nationalmannschaft 0:0 gegen Griechenland gespielt.",
-   "link": "https://www.deutschlandfunk.de/deutschlands-nationalmannschaft-spielt-0-0-gegen-griechenland-102.html",
-   "published": "2026-10-04T21:26:08+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-06T21:26:08+00:00",
-   "img": "https://bilder.deutschlandfunk.de/99/cc/97/53/99cc9753-0997-4e6c-b347-6ad74f1440b5/fussball-154-1280x1280.jpg"
-  },
-  {
-   "id": "n7475be8964",
-   "topic": "politik",
-   "title": "News zu Eintracht Frankfurt",
-   "text": "Hier bekommen Sie immer die neuesten Nachrichten über Eintracht Frankfurt.",
-   "link": "https://www.hessenschau.de/sport/fussball/eintracht-frankfurt/eintracht-frankfurt-news-ticker-burkardt-treffer-beim-dfb-remis-aberkannt,bundesliga-ticker-104.html",
-   "published": "2026-10-04T20:52:54+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-08T20:52:54+00:00",
-   "img": "https://www.hessenschau.de/sport/fussball/eintracht-frankfurt/burkardt-dfb-104~_t-1791146031182_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "n029ca20fe7",
-   "topic": "politik",
-   "title": "Schulze zu Sachsen-Anhalt: \"Es wird keiner von der CDU zur AfD wechseln\"",
-   "text": "Die AfD will nach der Wahl in Sachsen-Anhalt regieren, doch ihr fehlt bisher eine Mehrheit. CDU-Fraktionschef Schulze bekräftigte im Bericht aus Berlin, dass die AfD bei der Ministerpräsidentenwahl nicht auf CDU-Stimmen setzen könne.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/sachsen-anhalt-schulze-bab-100.html",
-   "published": "2026-10-04T18:40:10+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-07T18:40:10+00:00",
-   "img": "https://images.tagesschau.de/image/1ceb13da-5fd8-4c51-9787-fc05a3c86eb9/AAABoQe8Ttc/AAABnSSvrFg/16x9-big/sendungsbild-1806754.jpg?width=1920"
   }
  ]
 }
