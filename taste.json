@@ -11,9 +11,9 @@
    "nudge": 0
   },
   "biologie": {
-   "n": 3,
+   "n": 6,
    "downs": 0,
-   "nudge": 0
+   "nudge": 1
   },
   "cd": {
    "n": 1,
@@ -28,10 +28,10 @@
   "geschichte": {
    "n": 4,
    "downs": 0,
-   "nudge": 1
+   "nudge": 0
   },
   "it": {
-   "n": 5,
+   "n": 6,
    "downs": 2,
    "nudge": 0
   },
@@ -41,7 +41,7 @@
    "nudge": 0
   },
   "klima": {
-   "n": 2,
+   "n": 3,
    "downs": 0,
    "nudge": 0
   },
@@ -81,7 +81,7 @@
    "nudge": 0
   },
   "politik": {
-   "n": 5,
+   "n": 6,
    "downs": 1,
    "nudge": 0
   },
@@ -93,7 +93,7 @@
   "raumfahrt": {
    "n": 4,
    "downs": 0,
-   "nudge": 1
+   "nudge": 0
   },
   "sc": {
    "n": 3,
@@ -103,17 +103,22 @@
   "sprache": {
    "n": 4,
    "downs": 0,
-   "nudge": 1
+   "nudge": 0
   },
   "technik": {
-   "n": 3,
+   "n": 4,
    "downs": 0,
    "nudge": 0
   },
   "welt": {
    "n": 4,
    "downs": 0,
-   "nudge": 1
+   "nudge": 0
+  },
+  "wirtschaft": {
+   "n": 1,
+   "downs": 0,
+   "nudge": 0
   },
   "wissenschaft": {
    "n": 1,
@@ -128,10 +133,10 @@
  },
  "hinweis": "Nur ein leichter Stups (-1/0/+1), nie ein Ausschluss. Themen ohne Eintrag sind unbekannt und werden erkundet. Plus = deutlich öfter bewertet als der Durchschnitt und fast nur geliked; Minus = mindestens 3 Dislikes und mindestens 40 Prozent.",
  "plan": {
-  "cards": 5,
+  "cards": 10,
   "idle_days": 0,
-  "unseen_cards": 44,
-  "grund": "44 ungesehene Karten"
+  "unseen_cards": 32,
+  "grund": "normal"
  },
- "generated": "2026-10-06T10:30+00:00"
+ "generated": "2026-10-07T10:24+00:00"
 }
