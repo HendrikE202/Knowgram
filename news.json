@@ -1,62 +1,417 @@
 {
- "generated": "2026-10-06T22:39:39.428781+00:00",
+ "generated": "2026-10-07T06:01:26.959050+00:00",
  "briefing": [
-  "n3d337264ab",
-  "n08d9b8376e",
   "n0c2f95df7e",
+  "n3d337264ab",
+  "n5046bcc459",
+  "n74d0ac7cd3",
   "n2970360666",
-  "naeaa44906a",
-  "n7978387073",
-  "n01e04ced23",
-  "n3a97046d1d"
+  "nfe227122ff",
+  "naa67abf131",
+  "nab85733962",
+  "n01e04ced23"
  ],
  "ranked": [
   {
-   "id": "n3d337264ab",
-   "s": 40.3
-  },
-  {
-   "id": "n08d9b8376e",
-   "s": 32.1
-  },
-  {
    "id": "n0c2f95df7e",
-   "s": 31.3
+   "s": 39.4
+  },
+  {
+   "id": "n3d337264ab",
+   "s": 38.4
+  },
+  {
+   "id": "n5046bcc459",
+   "s": 32.3
+  },
+  {
+   "id": "n74d0ac7cd3",
+   "s": 31.5
   },
   {
    "id": "n2970360666",
-   "s": 25.8
+   "s": 23.9
   },
   {
-   "id": "naeaa44906a",
+   "id": "nfe227122ff",
+   "s": 23.0
+  },
+  {
+   "id": "naa67abf131",
    "s": 22.9
   },
   {
-   "id": "n7978387073",
-   "s": 21.8
+   "id": "nab85733962",
+   "s": 22.7
   },
   {
    "id": "n01e04ced23",
-   "s": 21.5
-  },
-  {
-   "id": "n3a97046d1d",
-   "s": 21.5
+   "s": 19.6
   }
  ],
  "items": [
+  {
+   "id": "n8ca38dbdb6",
+   "topic": "wissenschaft",
+   "title": "Was muss ich vor dem E-Auto-Kauf wissen, Steve Przybilla?",
+   "text": "Bei der Elektromobilität gibt es noch viele Unsicherheiten in Sachen Reichweite und dem Nutzen gebrauchter E-Autos. Die werden in dieser Folge vom Riffreporter-Podcast geklärt. 🎙️",
+   "link": "https://www.spektrum.de/podcast/riffreporter-podcast-was-muss-ich-vor-dem-e-auto-kauf-wissen/2348357",
+   "published": "2026-10-07T06:13:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-21T06:13:00+00:00"
+  },
+  {
+   "id": "n02a10b0226",
+   "topic": "wissenschaft",
+   "title": "Grüner Kolonialismus in Afrika",
+   "text": "Windräder, E-Autos und Wasserstoff sollen helfen, das Klima zu schützen. Die Rohstoffe dafür werden aber unter ausbeuterischen Bedingungen abgebaut. 🎙️",
+   "link": "https://www.spektrum.de/podcast/mission-energiewende-gruener-kolonialismus-in-afrika/2348355",
+   "published": "2026-10-07T06:12:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-21T06:12:00+00:00"
+  },
+  {
+   "id": "n4392b2a65c",
+   "topic": "politik",
+   "title": "SPD-Bundesspitze fordert von der CDU Aufklärung zu Sachsen-Anhalt",
+   "text": "Die Wahl des AfD-Politikers Rausch zum Landtagspräsidenten wirkt sich auf die Bundespolitik aus. Die SPD fordert vom Koalitionspartner CDU Aufklärung, die SPD-Fraktion protestierte in Berlin an einem symbolträchtigen Ort.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/spd-reaktion-koalition-sachsenanhalt-100.html",
+   "published": "2026-10-07T05:52:30+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-10T05:52:30+00:00",
+   "img": "https://images.tagesschau.de/image/d287968c-d493-454a-adc7-8c07460c9f17/AAABoRSwJOg/AAABnSSvrFg/16x9-big/spd-berlin-protest-100.jpg?width=1920"
+  },
+  {
+   "id": "nedcb8b8fd3",
+   "topic": "it",
+   "title": "Tesla: Abgelehnter Bewerber verschickt Schweineaugen",
+   "text": "Nach einer Jobabsage bei Tesla hat der abgelehnte Bewerber mit Terror gedroht und Schweineaugen verschickt. ( Tesla , Elektroauto )",
+   "link": "https://www.golem.de/news/tesla-abgelehnter-bewerber-verschickt-schweineaugen-2610-213787.html",
+   "published": "2026-10-07T05:50:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-12T05:50:02+00:00",
+   "img": "https://www.golem.de/2610/213787-601952-601950_rc.jpg"
+  },
+  {
+   "id": "nfe227122ff",
+   "topic": "wirtschaft",
+   "title": "Ölpreis dürfte DAX ausbremsen",
+   "text": "Die Entspannung am Ölmarkt ist erst einmal dahin. Die wieder anziehenden Notierungen haben die Märkte in Asien belastet, und dürften auch beim DAX für Abschläge sorgen.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-118.html",
+   "published": "2026-10-07T05:49:28+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-10T05:49:28+00:00",
+   "img": "https://images.tagesschau.de/image/b19e9d58-9935-4067-a655-d494e13c64cc/AAABn1pWFaE/AAABnSSvrFg/16x9-big/boerse-522.jpg?width=1920"
+  },
+  {
+   "id": "n028c7c6ed1",
+   "topic": "politik",
+   "title": "Joline Herzog bei U17-EM: \"Das Boxen hat mein Leben gerettet\"",
+   "text": "Die 16-jährige Joline Herzog aus Hessisch Lichtenau boxt gerade bei der U17-EM in Montenegro. Die Ziele der Nachwuchssportlerin sind hoch – auch nach den Titelkämpfen in Budva.",
+   "link": "https://www.hessenschau.de/sport/mehr-sport/joline-herzog-bei-u17-em-das-boxen-hat-mein-leben-gerettet-v1,joline-herzog-100.html",
+   "published": "2026-10-07T05:43:31+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-11T05:43:31+00:00",
+   "img": "https://www.hessenschau.de/sport/mehr-sport/joline-herzog-102~_t-1791351811298_v-16to9.jpg",
+   "tag": "Hessen"
+  },
   {
    "id": "naeaa44906a",
    "topic": "politik",
    "title": "Jahrestag des Hamas-Terroranschlags - Bundeskanzler Merz bekräftigt Deutschlands Unterstützung für Israel und mahnt zum Frieden",
    "text": "Bundeskanzler Merz hat zum 3. Jahrestag des Terrorangriffs der Hamas auf Israel an die Opfer erinnert. Er hoffe, dass der tiefe Schmerz und die Wunden heilen könnten, die diese monströsen und barbarischen Taten geschlagen hätten, erklärte Merz.",
    "link": "https://www.deutschlandfunk.de/bundeskanzler-merz-bekraeftigt-deutschlands-unterstuetzung-fuer-israel-und-mahnt-zum-frieden-100.html",
-   "published": "2026-10-06T22:15:20+00:00",
+   "published": "2026-10-07T05:37:57+00:00",
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-08T22:15:20+00:00",
-   "img": "https://bilder.deutschlandfunk.de/a4/b2/10/e4/a4b210e4-fe36-4802-8155-4b00c7c9f79c/merz-166-1920x1920.jpg"
+   "expires": "2026-10-09T05:37:57+00:00",
+   "img": "https://bilder.deutschlandfunk.de/a4/b2/10/e4/a4b210e4-fe36-4802-8155-4b00c7c9f79c/merz-166-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Bundeskanzler Merz sichert Israel Beistand zu",
+     "link": "https://www.tagesschau.de/inland/merz-israel-104.html"
+    }
+   ]
+  },
+  {
+   "id": "na3062a05f3",
+   "topic": "politik",
+   "title": "Treffen des Koalitionsausschusses - Union und SPD beraten über Reformkurs",
+   "text": "Zum ersten Mal seit gut drei Monaten kommen die Spitzen von Union und SPD zu einer Sitzung des Koalitionsausschusses zusammen.",
+   "link": "https://www.deutschlandfunk.de/union-und-spd-beraten-ueber-reformkurs-100.html",
+   "published": "2026-10-07T05:37:57+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-09T05:37:57+00:00",
+   "img": "https://bilder.deutschlandfunk.de/95/09/eb/cc/9509ebcc-4349-47f7-9870-e7a9501f1b81/kanzleramt-108-1920x1920.jpg"
+  },
+  {
+   "id": "ndd2df73f96",
+   "topic": "politik",
+   "title": "Sachsen-Anhalt - Debatte um CDU-Abstimmungsverhalten nach Wahl von AfD-Politikern ins Landtagspräsidium",
+   "text": "Die SPD fordert die CDU auf, das Abstimmungsverhalten ihrer Abgeordneten im Magdeburger Landtag zu klären. Dort waren der AfD-Politiker Rausch zum Landtagspräsidenten und sein Parteikollege Tillschneider zum Vize gewählt worden. Die Wahlergebnisse zeigten, dass die AfD Rückhalt über das BSW hinaus hat.",
+   "link": "https://www.deutschlandfunk.de/debatte-um-cdu-abstimmungsverhalten-nach-wahl-von-afd-politikern-ins-landtagspraesidium-102.html",
+   "published": "2026-10-07T05:37:57+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-09T05:37:57+00:00"
+  },
+  {
+   "id": "nd8d207290d",
+   "topic": "politik",
+   "title": "Spionage-Verdacht gegen Ex-BND-Chef - Innen-Experten verlangen schärfere Regeln für Ex-Geheimdienstler",
+   "text": "Angesichts der Spionagevorwürfe gegen den früheren BND-Chef Hanning verlangt der Grünen-Geheimdienstexperte von Notz schärfere Regeln für ehemalige Funktionsträger. Lobbytätigkeiten früherer Spitzenbeamter seien offenkundig ein Einfallstor für gegnerische Geheimdienste, sagte er der Deutschen Presse-Agentur.",
+   "link": "https://www.deutschlandfunk.de/innen-experten-verlangen-schaerfere-regeln-fuer-ex-geheimdienstler-100.html",
+   "published": "2026-10-07T05:37:57+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-09T05:37:57+00:00",
+   "img": "https://bilder.deutschlandfunk.de/fc/07/a3/20/fc07a320-b411-441f-be8b-3dd1e650bdf5/august-hanning-100-1920x1920.jpg"
+  },
+  {
+   "id": "naa67abf131",
+   "topic": "politik",
+   "title": "7. Oktober - Israel gedenkt der Opfer des Hamas-Überfalls vor drei Jahren",
+   "text": "In Israel wird der Opfer des Hamas-Überfalls vor drei Jahren gedacht.",
+   "link": "https://www.deutschlandfunk.de/israel-gedenkt-der-opfer-des-hamas-ueberfalls-vor-drei-jahren-100.html",
+   "published": "2026-10-07T05:37:57+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-09T05:37:57+00:00",
+   "img": "https://bilder.deutschlandfunk.de/90/8a/70/e9/908a70e9-57ae-424d-87c0-9a7b6ba2278f/israel-nova-gedenken-100-1920x1920.jpg"
+  },
+  {
+   "id": "nc0385ba7b2",
+   "topic": "politik",
+   "title": "Energie - Reiche sieht keinen Gasmangel in Deutschland im Winter",
+   "text": "Bundeswirtschaftsministerin Reiche befürchtet für diesen Winter trotz vergleichsweise niedriger Speicherstände keinen Gasmangel in Deutschland.",
+   "link": "https://www.deutschlandfunk.de/reiche-sieht-keinen-gasmangel-in-deutschland-im-winter-100.html",
+   "published": "2026-10-07T05:37:57+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-09T05:37:57+00:00",
+   "img": "https://bilder.deutschlandfunk.de/97/18/b8/9e/9718b89e-04a5-47c0-beda-ba490af80407/wirtschaftsministerin-reiche-102-1920x1920.jpg"
+  },
+  {
+   "id": "n3443af7eb2",
+   "topic": "it",
+   "title": "heise+ | CPU-Wegweiser 2026: 27 PC-Prozessoren von AMD und Intel im Test",
+   "text": "Große Caches, viele Kerne oder hoher Takt? Wir haben 27 Desktop-CPUs auf Leistung, Spieletempo, Preis und Effizienz geprüft, damit Sie die richtige finden.",
+   "link": "https://www.heise.de/tests/CPU-Wegweiser-2026-27-PC-Prozessoren-von-AMD-und-Intel-im-Test-11450717.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+   "published": "2026-10-07T05:30:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-12T05:30:00+00:00"
+  },
+  {
+   "id": "n89d3abd1f8",
+   "topic": "it",
+   "title": "Stirling PDF 3.1: Gruppenunterschrift verlässt die Alpha-Phase",
+   "text": "Stirling PDF 3.1 bringt die Gruppenunterschrift „Stirling Sign“ aus der Alpha-Phase und testet einen neuen Office-Konverter, der mehr Effizienz bringen soll.",
+   "link": "https://www.heise.de/news/Stirling-PDF-3-1-Gruppenunterschrift-verlaesst-die-Alpha-Phase-11478247.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-07T05:30:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-12T05:30:00+00:00"
+  },
+  {
+   "id": "n26361ea650",
+   "topic": "it",
+   "title": "August Hanning: Ex-BND-Chef soll Analyse für Aserbaidschan verfasst haben",
+   "text": "Die Vorwürfe gegen Ex-BND-Chef August Hanning weiten sich aus. Ermittler prüfen, ob geheime Unterlagen für Analysen für Aserbaidschan genutzt wurden. ( BND , Politik )",
+   "link": "https://www.golem.de/news/august-hanning-ex-bnd-chef-soll-analyse-fuer-aserbaidschan-verfasst-haben-2610-213786.html",
+   "published": "2026-10-07T05:23:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-12T05:23:02+00:00",
+   "img": "https://www.golem.de/2610/213786-601948-601946_rc.jpg",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Geheimdienste - Ex-BND-Chef Hanning wegen Spionageverdachts festgenommen, Rufe nach Konsequenzen",
+     "link": "https://www.deutschlandfunk.de/ex-bnd-chef-hanning-wegen-spionageverdachts-festgenommen-rufe-nach-konsequenzen-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Spionageverdacht gegen August Hanning: Ehemaliger Chef des Bundesnachrichtendienstes festgenommen",
+     "link": "https://www.dw.com/de/spionageverdacht-gegen-august-hanning-ehemaliger-chef-des-bundesnachrichtendienstes-festgenommen/a-79564909?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "nfab233b10a",
+   "topic": "politik",
+   "title": "Verbraucherpolitiker kritisieren Schufa wegen mangelnder Transparenz",
+   "text": "Erst bewarb die Schufa ihren neuen Score mit Transparenz, dann kamen durch NDR- und SZ-Recherchen weitere Bewertungsscores ans Licht. Linke, Grüne, SPD und Union üben Kritik und fordern Antworten. Nur die AfD sieht kein Problem. Von P. Hornung.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/schufa-bundestag-kritik-100.html",
+   "published": "2026-10-07T04:59:20+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-10T04:59:20+00:00"
+  },
+  {
+   "id": "nab85733962",
+   "topic": "welt",
+   "title": "Donald Trumps Midterms-Wahlkampf: 5000 Dollar für jeden und Werbespots auf Kosten der Steuerzahler",
+   "text": "Geldversprechen, ein Sonderparteitag und ungewöhnliche Wahlwerbespots: Donald Trump zieht vor den wichtigen Zwischenwahlen in den USA alle Register. Einige seiner Methoden könnten aber illegal sein.",
+   "link": "https://www.dw.com/de/donald-trumps-midterms-wahlkampf-5000-dollar-für-jeden-und-werbespots-auf-kosten-der-steuerzahler/a-79568186?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-07T04:59:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-11T04:59:00+00:00",
+   "img": "https://static.dw.com/image/79214758_302.jpg"
+  },
+  {
+   "id": "nd346d41890",
+   "topic": "it",
+   "title": "OpenAI veröffentlicht hunderte KI-generierte Lösungen für Mathematikprobleme",
+   "text": "Das KI-Unternehmen hat ein internes KI-Modell auf tausende Probleme aus der Mathematik angesetzt. Für ein Zehntel davon hat es relevante Lösungen generiert.",
+   "link": "https://www.heise.de/news/OpenAI-Hunderte-weitere-KI-generierte-Loesungen-fuer-Mathematikprobleme-11478615.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-07T04:55:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-12T04:55:00+00:00"
+  },
+  {
+   "id": "nd6e8cc8766",
+   "topic": "nfl",
+   "title": "NFL's biggest surprises, disappointments and MVP through first 4 weeks of season",
+   "text": "After four games, our NFL writers call out which teams and players are catching their attention for good and bad reasons, and could a running back really win MVP?",
+   "link": "https://sports.yahoo.com/nfl/article/nfls-biggest-surprises-disappointments-and-mvp-through-first-4-weeks-of-season-044648348.html",
+   "published": "2026-10-07T04:46:48+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-12T04:46:48+00:00",
+   "img": "https://d29szjachogqwa.cloudfront.net/images/2026-10/d246e50c-1a5d-48e4-981b-eaa9b2145aa2"
+  },
+  {
+   "id": "n3488b38277",
+   "topic": "nfl",
+   "title": "The Re-Education of Kyler Murray and the Outlook for the Vikings Offense",
+   "text": "Kyler Murray’s first pass as a member of the Minnesota Vikings was a hail mary thrown under pressure to a double-covered Jauan Jennings. Not surprisingly, it was intercepted. That was on a second-down with less than a minute elapsed in the first quarter of a 0-0 game. A few offensive plays later, he was knocked […]",
+   "link": "https://sports.yahoo.com/articles/education-kyler-murray-outlook-vikings-040733490.html",
+   "published": "2026-10-07T04:07:33+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-12T04:07:33+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/fda9d595076057510bed3a33d3ad987c.jpg"
+  },
+  {
+   "id": "n4c38e0c916",
+   "topic": "wirtschaft",
+   "title": "Was die Metall-Tarifrunde so kompliziert macht",
+   "text": "Heute beginnen die Verhandlungen über die Tarifbedingungen in der Metall- und Elektroindustrie. Betroffen sind rund 3,7 Millionen Beschäftigte. Antworten auf die wichtigsten Fragen zum Gesprächsstart.",
+   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-tarifverhandlungen-104.html",
+   "published": "2026-10-07T04:06:08+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-10T04:06:08+00:00",
+   "img": "https://images.tagesschau.de/image/ec5f7509-d72e-44d5-a7d4-95f19f7fdbee/AAABoPKDfnY/AAABnSSvrFg/16x9-big/fahrzeuge-fertigungsstrasse-100.jpg?width=1920"
+  },
+  {
+   "id": "n5046bcc459",
+   "topic": "politik",
+   "title": "Bundeskanzler Merz sichert Israel Beistand zu",
+   "text": "Drei Jahre nach dem Hamas-Überfall auf Israel verspricht Bundeskanzler Friedrich Merz dem jüdischen Staat festen Beistand. Auch werde Deutschland im Kampf gegen Antisemitismus nicht nachlassen.",
+   "link": "https://www.tagesschau.de/inland/merz-israel-104.html",
+   "published": "2026-10-07T03:20:19+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-10T03:20:19+00:00",
+   "img": "https://images.tagesschau.de/image/01663b43-37e7-4d67-babb-92eae186abfb/AAABoRQzkG0/AAABnSSvrFg/16x9-big/friedrich-merz-518.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Jahrestag des Hamas-Terroranschlags - Bundeskanzler Merz bekräftigt Deutschlands Unterstützung für Israel und mahnt zum Frieden",
+     "link": "https://www.deutschlandfunk.de/bundeskanzler-merz-bekraeftigt-deutschlands-unterstuetzung-fuer-israel-und-mahnt-zum-frieden-100.html"
+    }
+   ]
+  },
+  {
+   "id": "ne6f464b3f4",
+   "topic": "welt",
+   "title": "129 Tage in der Hand der Hamas: Das neue Leben des Luis Har",
+   "text": "Am 7. Oktober 2023 wurde Luis Har von der Hamas verschleppt und 129 Tage später in einer dramatischen Aktion befreit. Drei Jahre danach kämpft er mit den Spuren des Traumas - und dem Schweigen seiner Nachbarn. Von J. Segador.",
+   "link": "https://www.tagesschau.de/ausland/asien/129-tage-hamas-har-100.html",
+   "published": "2026-10-07T01:01:01+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-10T01:01:01+00:00",
+   "img": "https://images.tagesschau.de/image/c1d46f95-5191-47e8-a057-754462be3472/AAABoRS68tw/AAABnSSvrFg/16x9-big/luis-har-100.jpg?width=1920"
+  },
+  {
+   "id": "n74d0ac7cd3",
+   "topic": "welt",
+   "title": "USA: Frau nach gescheiterter Hinrichtung wieder bei Bewusstsein",
+   "text": "Nach einem gescheiterten Hinrichtungsversuch in Tennessee war Christa Pike zunächst bewusstlos. Nun ist sie laut ihren Anwälten wieder ansprechbar - sie fordern, ihre Todesstrafe in lebenslange Haft umzuwandeln.",
+   "link": "https://www.tagesschau.de/ausland/amerika/christa-pike-hinrichtung-bewusstsein-100.html",
+   "published": "2026-10-06T23:56:42+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-09T23:56:42+00:00",
+   "img": "https://images.tagesschau.de/image/1dcc78df-c57d-490f-b070-41c466f37e40/AAABoROXi4U/AAABnSSvrFg/16x9-big/rettungswaegen-nashville-pike-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Christa Pike - US-amerikanische Überlebende der Giftspritze nach gescheitertem Hinrichtungsversuch wieder bei Bewusstsein",
+     "link": "https://www.deutschlandfunk.de/us-amerikanische-ueberlebende-der-giftspritze-nach-gescheitertem-hinrichtungsversuch-wieder-bei-bewu-102.html"
+    }
+   ]
+  },
+  {
+   "id": "n33f1010cb9",
+   "topic": "nfl",
+   "title": "Eagles' Lane Johnson retires from NFL due to personal reasons after Week 4 absence",
+   "text": "Johnson's surprise exit from football ends a legendary career in Philadelphia",
+   "link": "https://www.cbssports.com/nfl/news/eagles-lane-johnson-retires-from-nfl-after-week-4-absence/",
+   "published": "2026-10-06T23:08:03+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-11T23:08:03+00:00"
+  },
+  {
+   "id": "na3b9283430",
+   "topic": "nfl",
+   "title": "How can Nick Sirianni save his job? Eagles' path becomes more difficult without Lane Johnson",
+   "text": "Sirianni has his work cut out for him after his star right tackle called it a career",
+   "link": "https://www.cbssports.com/nfl/news/how-can-nick-sirianni-save-his-job-eagles-lane-johnson/",
+   "published": "2026-10-06T23:07:03+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-11T23:07:03+00:00"
   },
   {
    "id": "na2c4f7b7b2",
@@ -96,19 +451,6 @@
    "expires": "2026-10-08T22:15:20+00:00"
   },
   {
-   "id": "na3062a05f3",
-   "topic": "politik",
-   "title": "Treffen des Koalitionsausschusses - Union und SPD beraten über Reformkurs",
-   "text": "Zum ersten Mal seit gut drei Monaten kommen die Spitzen von Union und SPD zu einer Sitzung des Koalitionsausschusses zusammen.",
-   "link": "https://www.deutschlandfunk.de/union-und-spd-beraten-ueber-reformkurs-100.html",
-   "published": "2026-10-06T22:15:20+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-08T22:15:20+00:00",
-   "img": "https://bilder.deutschlandfunk.de/95/09/eb/cc/9509ebcc-4349-47f7-9870-e7a9501f1b81/kanzleramt-108-1920x1920.jpg"
-  },
-  {
    "id": "n4c7de1e9d4",
    "topic": "politik",
    "title": "Appell - Prominente von CDU, Grünen und SPD warnen vor Rot-Grün-Rot in Berlin",
@@ -132,7 +474,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-08T22:15:20+00:00",
-   "img": "https://bilder.deutschlandfunk.de/3e/c6/f2/33/3ec6f233-8573-4a89-a1ad-44db455c0d5f/tennessee-usa-hinrichtung-aussetzung-100-1920x1920.jpg"
+   "img": "https://bilder.deutschlandfunk.de/3e/c6/f2/33/3ec6f233-8573-4a89-a1ad-44db455c0d5f/tennessee-usa-hinrichtung-aussetzung-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "USA: Frau nach gescheiterter Hinrichtung wieder bei Bewusstsein",
+     "link": "https://www.tagesschau.de/ausland/amerika/christa-pike-hinrichtung-bewusstsein-100.html"
+    }
+   ]
   },
   {
    "id": "n009a24e4ea",
@@ -309,14 +658,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-09T18:57:31+00:00",
-   "img": "https://images.tagesschau.de/image/ccf7ee47-f049-4cea-9194-dbf807b0efa9/AAABoRJ_-YU/AAABnSSvrFg/16x9-big/bahn-schienen-netz-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Bahn - Verkehrsministerium legt heute Pläne zur Verbesserung des Schienennetzes vor",
-     "link": "https://www.deutschlandfunk.de/verkehrsministerium-legt-heute-plaene-zur-verbesserung-des-schienennetzes-vor-100.html"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/ccf7ee47-f049-4cea-9194-dbf807b0efa9/AAABoRJ_-YU/AAABnSSvrFg/16x9-big/bahn-schienen-netz-100.jpg?width=1920"
   },
   {
    "id": "n916d784a7a",
@@ -523,8 +865,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-08T15:45:14+00:00",
-   "img": "https://bilder.deutschlandfunk.de/3a/5b/f7/f5/3a5bf7f5-5662-4958-98d0-adcf844a7a9f/afd-rausch-landtag-100-1920x1920.jpg"
+   "expires": "2026-10-08T15:45:14+00:00"
   },
   {
    "id": "n34939250cd",
@@ -603,6 +944,11 @@
    "expires": "2026-10-08T15:45:14+00:00",
    "img": "https://bilder.deutschlandfunk.de/77/99/ce/8f/7799ce8f-4ea9-400e-b2e2-19ccd1aa30af/ehemaliger-bundesnachrichtendienstchef-hanning-100-1920x1920.jpg",
    "also": [
+    {
+     "source": "Golem.de",
+     "title": "August Hanning: Ex-BND-Chef soll Analyse für Aserbaidschan verfasst haben",
+     "link": "https://www.golem.de/news/august-hanning-ex-bnd-chef-soll-analyse-fuer-aserbaidschan-verfasst-haben-2610-213786.html"
+    },
     {
      "source": "Deutsche Welle",
      "title": "Spionageverdacht gegen August Hanning: Ehemaliger Chef des Bundesnachrichtendienstes festgenommen",
@@ -750,6 +1096,11 @@
    "img": "https://static.dw.com/image/79565366_302.jpg",
    "also": [
     {
+     "source": "Golem.de",
+     "title": "August Hanning: Ex-BND-Chef soll Analyse für Aserbaidschan verfasst haben",
+     "link": "https://www.golem.de/news/august-hanning-ex-bnd-chef-soll-analyse-fuer-aserbaidschan-verfasst-haben-2610-213786.html"
+    },
+    {
      "source": "Deutschlandfunk",
      "title": "Geheimdienste - Ex-BND-Chef Hanning wegen Spionageverdachts festgenommen, Rufe nach Konsequenzen",
      "link": "https://www.deutschlandfunk.de/ex-bnd-chef-hanning-wegen-spionageverdachts-festgenommen-rufe-nach-konsequenzen-100.html"
@@ -819,6 +1170,11 @@
    "expires": "2026-10-10T13:53:00+00:00",
    "img": "https://static.dw.com/image/79560324_302.jpg",
    "also": [
+    {
+     "source": "Golem.de",
+     "title": "August Hanning: Ex-BND-Chef soll Analyse für Aserbaidschan verfasst haben",
+     "link": "https://www.golem.de/news/august-hanning-ex-bnd-chef-soll-analyse-fuer-aserbaidschan-verfasst-haben-2610-213786.html"
+    },
     {
      "source": "Deutschlandfunk",
      "title": "Geheimdienste - Ex-BND-Chef Hanning wegen Spionageverdachts festgenommen, Rufe nach Konsequenzen",
@@ -1426,335 +1782,6 @@
    "lang": "de",
    "expires": "2026-10-09T05:22:59+00:00",
    "img": "https://images.tagesschau.de/image/ae7bbcd9-44a2-41be-891e-4fe01ea27480/AAABoQ_GxmU/AAABnSSvrFg/16x9-big/universitaet-dallas-100.jpg?width=1920"
-  },
-  {
-   "id": "nfb275f3a12",
-   "topic": "welt",
-   "title": "Trumps langer Schatten? Flávio Bolsonaro vor möglichem Wahlsieg über Luiz Inácio Lula da Silva in Brasilien",
-   "text": "Der Sohn des rechten ehemaligen Präsidenten Jair Bolsonaro liegt im ersten Wahlgang vor dem amtierenden Präsidenten Lula und könnte bald das größte Land Lateinamerikas regieren.",
-   "link": "https://www.dw.com/de/trumps-langer-schatten-flávio-bolsonaro-vor-möglichem-wahlsieg-über-luiz-inácio-lula-da-silva-in-brasilien/a-79556045?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-06T04:49:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-10T04:49:00+00:00",
-   "img": "https://static.dw.com/image/79542651_302.jpg"
-  },
-  {
-   "id": "n39c3e76b4e",
-   "topic": "welt",
-   "title": "Hallo statt Privjet: An Lettlands Schulen ist Russisch verboten",
-   "text": "Lettland will sich sprachlich stärker nach Europa orientieren - seit diesem Schuljahr darf Russisch an Schulen nicht mehr als Fremdsprache unterrichtet werden. Besonders populär wird stattdessen: Deutsch. Von Arne Bartram.",
-   "link": "https://www.tagesschau.de/ausland/europa/lettland-schulen-russisch-deutsch-100.html",
-   "published": "2026-10-06T04:46:48+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-09T04:46:48+00:00",
-   "img": "https://images.tagesschau.de/image/7fc049a8-8fe5-41d1-9583-5846dcc983a9/AAABoQwo8sw/AAABnSSvrFg/16x9-big/lettland-schulunterricht-100.jpg?width=1920"
-  },
-  {
-   "id": "n6c60d29d7f",
-   "topic": "wirtschaft",
-   "title": "Warum ein Studium keine Jobgarantie mehr ist",
-   "text": "Hunderttausende Menschen hierzulande haben einen Uniabschluss und trotzdem keinen Job. Dabei galt lange: Wer studiert, hat später die besten Berufsaussichten. Doch diese Gewissheit bröckelt. Von L.-M. Hiltscher und C. Dörr.",
-   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/ausbildung-oder-studium-was-lohnt-sich-100.html",
-   "published": "2026-10-06T04:23:54+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-09T04:23:54+00:00",
-   "img": "https://images.tagesschau.de/image/0d41568c-7690-4102-b285-0c8dbfcef5da/AAABoQqGT3w/AAABnSSvrFg/16x9-big/hoersaal-uni-102.jpg?width=1920"
-  },
-  {
-   "id": "nbc28cded80",
-   "topic": "nfl",
-   "title": "NFL Week 4 grades for all 32 teams: Falcons earn 'A+' for destroying Saints; Bengals slip again",
-   "text": "We're handing out grades for every Week 4 game",
-   "link": "https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/",
-   "published": "2026-10-06T03:43:55+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-11T03:43:55+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/06/1be968d6-a89f-4070-8614-f1c37ead12c5/bijan-robinson-reuters.png"
-  },
-  {
-   "id": "n90c3e7d63b",
-   "topic": "politik",
-   "title": "Neuer Wehrdienst: Zahl der Kriegsdienstverweigerer stark angestiegen",
-   "text": "Die Wehrpflicht ist immer noch ausgesetzt in Deutschland. Und doch steigt die Zahl der Anträge auf Kriegsdienstverweigerung stark an. Dafür gibt es Gründe.",
-   "link": "https://www.tagesschau.de/inland/kriegsdienstverweigerer-124.html",
-   "published": "2026-10-06T03:25:07+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-09T03:25:07+00:00",
-   "img": "https://images.tagesschau.de/image/531ca45d-c4c4-45b8-8c24-457e0754bd6a/AAABoRA9bEo/AAABnSSvrFg/16x9-big/demonstration-wehrpflicht-100.jpg?width=1920"
-  },
-  {
-   "id": "n8fd46c10ba",
-   "topic": "politik",
-   "title": "Konstituierende Sitzung in Sachsen-Anhalt: Die AfD und die ganz große Bühne",
-   "text": "Heute richten sich erneut viele Blicke auf Sachsen-Anhalt: Der Landtag kommt zu seiner konstituierenden Sitzung zusammen. Die AfD will erstmals einen Parlamentspräsidenten stellen - und Regierungsfähigkeit beweisen. Von Torben Lehning.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/sachsen-anhalt-konstituierende-sitzung-100.html",
-   "published": "2026-10-06T02:18:45+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-09T02:18:45+00:00",
-   "img": "https://images.tagesschau.de/image/3eebd116-6b9e-4c06-9b3d-3e55f8bdb99d/AAABoQ3Anjw/AAABnSSvrFg/16x9-big/landtag-sachsen-anhalt-336.jpg?width=1920"
-  },
-  {
-   "id": "nd802b5bca2",
-   "topic": "nfl",
-   "title": "Saquon Barkley injury update: Eagles star considered week-to-week, per report",
-   "text": "The star running back seems to have avoided a long-term injury",
-   "link": "https://www.cbssports.com/nfl/news/saquon-barkley-hamstring-injury-eagles-week-4-rams/",
-   "published": "2026-10-06T01:12:16+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-11T01:12:16+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/04/d5dc5da2-9982-4b37-8620-2c3631e1aa2d/saquon-barkley-eagles.jpg"
-  },
-  {
-   "id": "n2bb6704419",
-   "topic": "welt",
-   "title": "Türkei und Pakistan entsenden Truppen nach Saudi-Arabien",
-   "text": "Aufgrund von Huthi-Angriffen auf Saudi-Arabien schicken Pakistan und die Türkei Truppen zur Unterstützung. Zudem wurden Explosionen in der Hauptstadt Riad gemeldet.",
-   "link": "https://www.tagesschau.de/ausland/asien/tuerkei-pakistan-saudi-arabien-102.html",
-   "published": "2026-10-06T00:54:01+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-09T00:54:01+00:00",
-   "img": "https://images.tagesschau.de/image/5605a9fc-23c2-48b7-b839-1abc7edcd617/AAABoQ6c_x4/AAABnSSvrFg/16x9-big/tuerkei-pakistan-saudi-arabien-104.jpg?width=1920"
-  },
-  {
-   "id": "nba050bc38d",
-   "topic": "politik",
-   "title": "Angriffskrieg - Russland bombardiert Charkiw im Osten der Ukraine",
-   "text": "Bei russischen Angriffen auf die Stadt Charkiw im Osten der Ukraine sind nach Behördenangaben mindestens sechs Menschen getötet worden.",
-   "link": "https://www.deutschlandfunk.de/russland-bombardiert-charkiw-im-osten-der-ukraine-106.html",
-   "published": "2026-10-05T21:46:57+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-07T21:46:57+00:00"
-  },
-  {
-   "id": "nb59563dbbf",
-   "topic": "politik",
-   "title": "Wohnungskrise - Spaniens Gewerkschaften rufen zum Generalstreik für bezahlbaren Wohnraum auf",
-   "text": "Die beiden großen spanischen Gewerkschaften haben einen Generalstreik wegen der Wohnungskrise angekündigt.",
-   "link": "https://www.deutschlandfunk.de/spaniens-gewerkschaften-rufen-zum-generalstreik-fuer-bezahlbaren-wohnraum-auf-102.html",
-   "published": "2026-10-05T21:46:57+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-07T21:46:57+00:00",
-   "img": "https://bilder.deutschlandfunk.de/76/8b/6e/47/768b6e47-d289-4d8d-94ed-de6eaed1e811/spanien-wohnungsmangel-proteste-100-1920x1920.jpg"
-  },
-  {
-   "id": "n7ad895124a",
-   "topic": "politik",
-   "title": "Bahn - Verkehrsministerium legt heute Pläne zur Verbesserung des Schienennetzes vor",
-   "text": "Das Bundesverkehrsministerium gibt heute seine Pläne für eine Modernisierung des Schienennetzes in Deutschland bekannt.",
-   "link": "https://www.deutschlandfunk.de/verkehrsministerium-legt-heute-plaene-zur-verbesserung-des-schienennetzes-vor-100.html",
-   "published": "2026-10-05T21:46:57+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-07T21:46:57+00:00",
-   "img": "https://bilder.deutschlandfunk.de/d0/54/8b/a7/d0548ba7-dec9-4236-bd1e-5d199c78b904/deutsche-bahn-generalsanierung-102-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Bahn-Sanierung: Verkehrsministerium legt \"Infraplan\" vor",
-     "link": "https://www.tagesschau.de/inland/verkehrsministerium-bahn-infraplan-100.html"
-    }
-   ]
-  },
-  {
-   "id": "nadb31c7a14",
-   "topic": "nfl",
-   "title": "Packers Discussion: How are you feeling about the team after Week 4?",
-   "text": "Jordan Love played really well against the Tampa Bay Buccaneers, and more importantly he looked confident in his line",
-   "link": "https://sports.yahoo.com/articles/packers-discussion-feeling-team-week-214646025.html",
-   "published": "2026-10-05T21:46:46+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-10T21:46:46+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/13d1b007fc0d43db249d446c5d7ad77f.jpg"
-  },
-  {
-   "id": "n9c7a6d6fa9",
-   "topic": "nfl",
-   "title": "Cowboys injury report: Tyler Smith limited Monday",
-   "text": "Here is Monday’s injury report for the Dallas Cowboys.",
-   "link": "https://sports.yahoo.com/articles/cowboys-injury-report-tyler-smith-214253271.html",
-   "published": "2026-10-05T21:42:53+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-10T21:42:53+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/9853c42216cdbcf1aaec088c9e2752dc.jpg"
-  },
-  {
-   "id": "n1e8a7f839f",
-   "topic": "nfl",
-   "title": "Saints vs. Falcons prediction: Michael Penix Jr. leads Atlanta into New Orleans",
-   "text": "The NFC South rivals meet Monday night in New Orleans as Michael Penix Jr. and the Falcons look to build on their first win of the season",
-   "link": "https://www.cbssports.com/nfl/news/saints-vs-falcons-how-to-watch-tv-channel-live-stream-kickoff-time-prediction/",
-   "published": "2026-10-05T21:31:02+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-10T21:31:02+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/05/dc805517-7636-4549-854a-fed971b20b63/penix.jpg"
-  },
-  {
-   "id": "n3ce9974ed4",
-   "topic": "nfl",
-   "title": "NFL just doled out a punishment it hasn't used in 8 years -- to two separate offenders",
-   "text": "A look at how rare it is for an NFL official to be punished by the league",
-   "link": "https://www.cbssports.com/nfl/news/nfl-doled-out-punishment-not-used-8-years-officials/",
-   "published": "2026-10-05T21:02:39+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-10T21:02:39+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/05/8ed8cfda-bb4b-4913-a71b-236860afa57a/nfl-referrees.jpg"
-  },
-  {
-   "id": "n181a97ef7e",
-   "topic": "wissenschaft",
-   "title": "Nobelpreisträger Hegemann in den tagesthemen: \"Ich bin natürlich überwältigt\"",
-   "text": "Der Algenforscher Peter Hegemann hat Grund zum Feiern: Gemeinsam mit zwei weiteren Forschern erhält er den Medizin-Nobelpreis. In den tagesthemen berichtet er vom Nutzen der Optogenetik - und fordert mehr Mut von der Politik.",
-   "link": "https://www.tagesschau.de/wissen/forschung/tagesthemen-interview-hegemann-100.html",
-   "published": "2026-10-05T19:37:30+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-19T19:37:30+00:00",
-   "img": "https://images.tagesschau.de/image/176416f8-b094-4994-bfba-48f2a6bf69fe/AAABoQ1HuBM/AAABnSSvrFg/16x9-big/hegemann-110.jpg?width=1920"
-  },
-  {
-   "id": "n15727febca",
-   "topic": "it",
-   "title": "Milliarden-Deal: Schneider Electric übernimmt Industriesoftware-Gruppe PTC",
-   "text": "Die 23,7 Milliarden US-Dollar schwere Übernahme ist die größte in der Konzerngeschichte. Schneider Electric stärkt sein Portfolio für Engineering Software.",
-   "link": "https://www.heise.de/news/Milliarden-Deal-Schneider-Electric-uebernimmt-Industriesoftware-Gruppe-PTC-11476850.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-05T19:23:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-10T19:23:00+00:00"
-  },
-  {
-   "id": "nccf3212299",
-   "topic": "ki",
-   "title": "Meta und Microsoft kürzen Claude-Nutzung drastisch und setzen auf eigene KI-Tools",
-   "text": "Meta und Microsoft, zwei der größten Firmenkunden von Anthropic, fahren ihre Claude-Nutzung deutlich zurück. Microsoft kürzte das monatliche Pro-Kopf-Budget in der Cloud-Sparte von 100.000 auf 10.000 Dollar, Meta halbierte die Zahl der Claude-Code-Nutzer auf 30.000. Beide setzen verstärkt auf eigene KI‑Tools. Für …",
-   "link": "https://the-decoder.de/meta-und-microsoft-kuerzen-claude-nutzung-drastisch-und-setzen-auf-eigene-ki-tools/",
-   "published": "2026-10-05T18:51:19+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-12T18:51:19+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/08/anthropic_openai.png"
-  },
-  {
-   "id": "n7003e6bb7f",
-   "topic": "politik",
-   "title": "AfD kritisiert Rhein in Brandmauer-Debatte scharf: \"Verhöhnung der Wähler\"",
-   "text": "Für seine Forderung, die AfD im Bundestag nicht länger \"auszugrenzen\", erhält Hessens Regierungschef Boris Rhein Kritik. Die SPD als Juniorpartner macht es, ohne ihn zu erwähnen. Und nicht einmal die hessische AfD freut sich.",
-   "link": "https://www.hessenschau.de/politik/afd-kritisiert-rhein-in-brandmauer-debatte-scharf-verhoehnung-der-waehler-v1,reaktionen-rhein-brandmauer-afd-100.html",
-   "published": "2026-10-05T18:43:42+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-09T18:43:42+00:00",
-   "img": "https://www.hessenschau.de/politik/brandmauer-100~_t-1791216873170_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "nee724e94e9",
-   "topic": "wirtschaft",
-   "title": "Wirtschaft vor acht vom 05.10.2026",
-   "text": "Wirtschaft vor acht vom 05.10.2026",
-   "link": "https://www.tagesschau.de/video/video-1661012.html",
-   "published": "2026-10-05T18:27:45+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-08T18:27:45+00:00",
-   "img": "https://images.tagesschau.de/image/44f824c8-7c95-4c11-a3bd-60325f923be3/AAABoQ1SQfo/AAABnSSvrFg/16x9-big/sendungsbild-1807220.jpg?width=1920"
-  },
-  {
-   "id": "nd357050b54",
-   "topic": "ki",
-   "title": "Reka AIs Omni-Modell Rho-1 vereint Text, Bild, Video und Robotersteuerung in einem einzigen Modell",
-   "text": "Reka AI stellt mit Rho-1 ein Omni-Modell mit 19 Milliarden Parametern vor, das Text, Bilder, Video und Robotersteuerung in einem einzigen neuronalen Netz vereint. Trainiert wurde es in drei Monaten auf 320 H100‑GPUs. Laut Reka AI ist das ein Bruchteil dessen, was heutige Spitzenmodelle benötigen. Das Ziel sind …",
-   "link": "https://the-decoder.de/reka-ais-omni-modell-rho-1-vereint-text-bild-video-und-robotersteuerung-in-einem-einzigen-modell/",
-   "published": "2026-10-05T18:24:05+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-12T18:24:05+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/rho1_images.png"
-  },
-  {
-   "id": "n5a2614212b",
-   "topic": "wissenschaft",
-   "title": "Nobelpreis für Physiologie oder Medizin 2026: Ein Lichtschalter für Nervenzellen",
-   "text": "Der Nobelpreis für Physiologie oder Medizin geht 2026 an die Entwickler der Optogenetik. Dank der bahnbrechenden Technik lassen sich Neurone mit Licht ein- und ausschalten.",
-   "link": "https://www.spektrum.de/news/medizin-nobelpreis-2026-fuer-optogenetik/2345544",
-   "published": "2026-10-05T18:21:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-10-19T18:21:00+00:00",
-   "also": [
-    {
-     "source": "heise online",
-     "title": "Neutrinos aus dem Eis: Die Physik hinter dem Nobelpreis 2026",
-     "link": "https://www.heise.de/hintergrund/Neutrinos-aus-dem-Eis-Die-Physik-hinter-dem-Nobelpreis-2026-11478311.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Nobelpreis für Physik: Auszeichnung für Nachweis von \"Geistern aus dem All\"",
-     "link": "https://www.tagesschau.de/wissen/physiknobelpreis-francis-halzen-100.html"
-    }
-   ]
-  },
-  {
-   "id": "nadaccac56d",
-   "topic": "welt",
-   "title": "Russische Sabotage, Spionage und Desinformation: Deutschlands Geheimdienstchefs warnen vor einer akuten Bedrohungslage",
-   "text": "Bei einer seltenen öffentlichen Anhörung im Bundestag schlagen Deutschlands Nachrichtendienste Alarm: Russland sei der gefährlichste Gegner. Gleichzeitig rücken China und der Extremismus in den Fokus.",
-   "link": "https://www.dw.com/de/russische-sabotage-spionage-und-desinformation-deutschlands-geheimdienstchefs-warnen-vor-einer-akuten-bedrohungslage/a-79554346?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-05T18:11:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-09T18:11:00+00:00",
-   "img": "https://static.dw.com/image/78155521_302.jpg"
-  },
-  {
-   "id": "n682f0b5c12",
-   "topic": "welt",
-   "title": "Sparen trotz Protest: Frankreichs schwieriger Balanceakt",
-   "text": "Premierminister Lecornu verspricht bessere Schulen und muss Milliarden sparen. Die Regierung steckt in einem Dilemma, das auch andere EU-Länder betrifft: Wie lässt sich sparen, wenn die Bürger mehr Staat erwarten?",
-   "link": "https://www.dw.com/de/sparen-trotz-protest-frankreichs-schwieriger-balanceakt/a-79552376?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-05T18:04:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-09T18:04:00+00:00",
-   "img": "https://static.dw.com/image/79553722_302.jpg"
   }
  ]
 }
