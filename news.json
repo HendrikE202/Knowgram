@@ -1,50 +1,287 @@
 {
- "generated": "2026-10-07T20:38:53.600055+00:00",
+ "generated": "2026-10-08T01:01:11.865588+00:00",
  "briefing": [
-  "n5046bcc459",
+  "n08fea3cb3e",
+  "n6d642d34b9",
   "nd1213b70ee",
-  "n74d0ac7cd3",
   "n43dcbd0334",
   "n8c1d45e790",
+  "nfdf01cc148",
   "n02382dc816",
-  "n54e0b8a976",
   "n8c623afdd4"
  ],
  "ranked": [
   {
-   "id": "n5046bcc459",
-   "s": 38.7
+   "id": "n08fea3cb3e",
+   "s": 39.1
+  },
+  {
+   "id": "n6d642d34b9",
+   "s": 32.9
   },
   {
    "id": "nd1213b70ee",
-   "s": 27.8
-  },
-  {
-   "id": "n74d0ac7cd3",
-   "s": 27.8
-  },
-  {
-   "id": "n43dcbd0334",
-   "s": 27.7
-  },
-  {
-   "id": "n8c1d45e790",
    "s": 26.7
   },
   {
-   "id": "n02382dc816",
-   "s": 23.0
+   "id": "n43dcbd0334",
+   "s": 26.7
   },
   {
-   "id": "n54e0b8a976",
-   "s": 23.0
+   "id": "n8c1d45e790",
+   "s": 25.6
+  },
+  {
+   "id": "nfdf01cc148",
+   "s": 22.3
+  },
+  {
+   "id": "n02382dc816",
+   "s": 21.9
   },
   {
    "id": "n8c623afdd4",
-   "s": 22.2
+   "s": 21.1
   }
  ],
  "items": [
+  {
+   "id": "n6f944b51c6",
+   "topic": "nfl",
+   "title": "NFL Week 5 injury report: Lamar Jackson, Ja'Marr Chase among several stars uncertain for Sunday",
+   "text": "Commanders' Jayden Daniels logged a full practice on Wednesday and could return",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-5-injury-report-lamar-jackson-jamarr-chase/",
+   "published": "2026-10-08T00:46:38+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-13T00:46:38+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/07/1b753cb9-f35b-457d-b825-284804e2f947/lamar-jackson-ravens-12.jpg"
+  },
+  {
+   "id": "n934d113112",
+   "topic": "politik",
+   "title": "Paris - Steinmeier zu Staatsbesuch in Frankreich: Empfang mit militärischen Ehren am Triumphbogen",
+   "text": "Bundespräsident Steinmeier wird heute bei seinem Staatsbesuch in Frankreich von Gastgeber Macron mit militärischen Ehren am Pariser Triumphbogen empfangen.",
+   "link": "https://www.deutschlandfunk.de/steinmeier-zu-staatsbesuch-in-frankreich-empfang-mit-militaerischen-ehren-am-triumphbogen-100.html",
+   "published": "2026-10-08T00:42:18+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-10T00:42:18+00:00",
+   "img": "https://bilder.deutschlandfunk.de/b4/2a/d8/a9/b42ad8a9-b5a6-40f4-93b9-40496addbaf1/623781064-100-1920x1920.jpg"
+  },
+  {
+   "id": "nf88ae71d3d",
+   "topic": "politik",
+   "title": "Landtag Sachsen-Anhalt - Merz hält auch \"False-Flag\"-Aktion bei Wahl von AfD-Politiker für möglich",
+   "text": "Nach der Wahl des AfD-Politikers Rausch zum Präsidenten des Landtags in Sachsen-Anhalt hat Bundeskanzler Merz angedeutet, dass dieser auch von SPD, Grünen oder der Linken Stimmen erhalten haben könnte. Dass CDU-Abgeordnete für Rausch gestimmt haben könnten, nannte Merz mit den Werten der CDU nicht vereinbar. Rausch …",
+   "link": "https://www.deutschlandfunk.de/merz-haelt-auch-false-flag-aktion-bei-wahl-von-afd-politiker-fuer-moeglich-102.html",
+   "published": "2026-10-08T00:42:18+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-10T00:42:18+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Merz über Sachsen-Anhalt: \"Mit den Werten der CDU verträgt sich das nicht\"",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-reaktion-wahl-landtag-sachsen-anhalt-102.html"
+    }
+   ]
+  },
+  {
+   "id": "n6d642d34b9",
+   "topic": "politik",
+   "title": "Sachsen-Anhalt - Staatsministerin Güler geht von CDU-Stimmen für AfD-Mann aus",
+   "text": "Die CDU-Bundestagsabgeordnete Güler geht davon aus, dass der neue Landtagspräsident in Sachsen-Anhalt von der AfD auch mit Stimmen aus ihrer Partei ins Amt gewählt worden ist.",
+   "link": "https://www.deutschlandfunk.de/staatsministerin-gueler-geht-von-cdu-stimmen-fuer-afd-mann-aus-100.html",
+   "published": "2026-10-08T00:42:18+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-10T00:42:18+00:00",
+   "img": "https://bilder.deutschlandfunk.de/d4/80/50/0a/d480500a-63d7-46cf-a27c-0187935d99b1/serap-gueler-interview-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "CDU-Stimmen für die AfD in Sachsen-Anhalt? SPD ist empört",
+     "link": "https://www.dw.com/de/cdu-stimmen-für-die-afd-in-sachsen-anhalt-spd-ist-empört/a-79572477?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "nff961421e1",
+   "topic": "politik",
+   "title": "Sachsen-Anhalt - BSW bekräftigt, AfD-Vordenker Tillschneider nicht gewählt zu haben",
+   "text": "Das BSW hat noch einmal betont, den AfD-Politiker Tillschneider nicht zum Landtags-Vizepräsidenten gewählt zu haben.",
+   "link": "https://www.deutschlandfunk.de/bsw-bekraeftigt-afd-vordenker-tillschneider-nicht-gewaehlt-zu-haben-104.html",
+   "published": "2026-10-08T00:42:18+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-10T00:42:18+00:00",
+   "img": "https://bilder.deutschlandfunk.de/94/5e/34/f3/945e34f3-71d6-4749-826c-48248f683a95/hans-thomas-tillschneider-100-1920x1920.jpg"
+  },
+  {
+   "id": "nc3e1672208",
+   "topic": "politik",
+   "title": "Sachsen-Anhalt - SPD beendet Initiative für Regierung mit überparteilichem Ministerpräsidenten",
+   "text": "Nach der Wahl des AfD-Abgeordneten Rausch zum Landtagspräsidenten von Sachsen-Anhalt will die SPD nicht erneut zu Gesprächen über eine überparteiliche Landesregierung einladen.",
+   "link": "https://www.deutschlandfunk.de/spd-beendet-initiative-fuer-regierung-mit-ueberparteilichem-ministerpraesidenten-108.html",
+   "published": "2026-10-08T00:42:18+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-10T00:42:18+00:00"
+  },
+  {
+   "id": "n59c8e1b3f2",
+   "topic": "politik",
+   "title": "Landtag - AfD und BSW in Sachsen-Anhalt fordern Stopp deutscher Ukraine-Hilfen",
+   "text": "AfD und BSW im Landtag von Sachsen-Anhalt fordern einen Stopp der deutschen Hilfen für die Ukraine.",
+   "link": "https://www.deutschlandfunk.de/afd-und-bsw-in-sachsen-anhalt-fordern-stopp-deutscher-ukraine-hilfen-104.html",
+   "published": "2026-10-08T00:42:18+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-10T00:42:18+00:00",
+   "img": "https://bilder.deutschlandfunk.de/b9/17/50/e3/b91750e3-2ea1-44db-8c77-2c90a25293a2/sachsen-anhalt-plenum-landtag-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Merz über Sachsen-Anhalt: \"Mit den Werten der CDU verträgt sich das nicht\"",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-reaktion-wahl-landtag-sachsen-anhalt-102.html"
+    }
+   ]
+  },
+  {
+   "id": "ne697da58a7",
+   "topic": "nfl",
+   "title": "Seahawks-49ers Wednesday injury report: Leonard Williams practices",
+   "text": "A few more names pop up as limited participants in today’s injury report.",
+   "link": "https://sports.yahoo.com/articles/seahawks-49ers-wednesday-injury-report-003733645.html",
+   "published": "2026-10-08T00:37:33+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-13T00:37:33+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/9c2a2e6e9152959f4fbe249b7979e339.jpg"
+  },
+  {
+   "id": "n49917e437a",
+   "topic": "nfl",
+   "title": "49ers WR Mike Evans limited in Wednesday's practice",
+   "text": "49ers wide receiver Mike Evans played through an injury to his ribs, catching five passes for 76 yards.",
+   "link": "https://sports.yahoo.com/articles/49ers-wr-mike-evans-limited-003348915.html",
+   "published": "2026-10-08T00:33:48+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-13T00:33:48+00:00"
+  },
+  {
+   "id": "n05eda5e203",
+   "topic": "welt",
+   "title": "Suche geht weiter: Wer wird Nachfolger von UN-Generalsekretär Guterres?",
+   "text": "Bei der UN ist weiterhin offen, wer neuer Generalsekretär wird. Die fünfzehn Mitgliedsstaaten im Sicherheitsrat konnten auch bei ihrer fünften Probeabstimmung keine Vorentscheidung erreichen. Von M. Ganslmeier.",
+   "link": "https://www.tagesschau.de/ausland/amerika/un-generalsekretaer-nachfolge-100.html",
+   "published": "2026-10-07T23:25:54+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-10T23:25:54+00:00",
+   "img": "https://images.tagesschau.de/image/96eb27af-4939-4a0a-a1b5-207adecc1b13/AAABnsogYNE/AAABnSSvrFg/16x9-big/guterres-362.jpg?width=1920"
+  },
+  {
+   "id": "n379162e78d",
+   "topic": "it",
+   "title": "BMW iX4 und iX3 M60 xDrive: Coupé- und leistungsstarke M-Version des iX3 vorgestellt",
+   "text": "BMW erweitert sein Angebot des vollelektrischen iX3. Die Schrägheckversion kommt noch etwas weiter als das SUV, ist aber teurer ausgestattet. ( Elektroauto , Auto )",
+   "link": "https://www.golem.de/news/bmw-ix4-und-ix3-m60-xdrive-coupe-und-leistungsstarke-m-version-des-ix3-vorgestellt-2610-213847.html",
+   "published": "2026-10-07T22:30:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-12T22:30:02+00:00",
+   "img": "https://www.golem.de/2610/213847-602230-602228_rc.jpg"
+  },
+  {
+   "id": "n45123a616f",
+   "topic": "nfl",
+   "title": "NFL player props, Falcons vs. Ravens odds: Brian Robinson scored 3 touchdowns last week. He's +12500 to repeat",
+   "text": "Brian Robinson of the Falcons is +15000 to score three times against the Ravens on Sunday Night Football",
+   "link": "https://www.cbssports.com/betting/news/nfl-player-props-falcons-vs-ravens-odds-brian-robinson-scored-3-touchdowns-last-week-hes-12500-to-repeat/",
+   "published": "2026-10-07T22:29:02+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-12T22:29:02+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/09/25/a8139e8b-daaf-4de1-9568-ce051f319bb4/falcons2.jpg"
+  },
+  {
+   "id": "n9bf4f52dcc",
+   "topic": "welt",
+   "title": "Nach gescheiterter Hinrichtung: Anwälte sprechen über Pikes Gesundheitszustand",
+   "text": "Die verurteilte Mörderin Christa Pike sollte vergangene Woche hingerichtet werden - überlebte allerdings zwei Giftspritzen. Nun wurden Details über ihren Gesundheitszustand bekannt - unter anderem leide sie an einer Lungenentzündung, so ihre Anwälte.",
+   "link": "https://www.tagesschau.de/ausland/amerika/pike-hinrichtung-100.html",
+   "published": "2026-10-07T22:05:42+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-10T22:05:42+00:00",
+   "img": "https://images.tagesschau.de/image/2367fafb-978d-47c7-94b2-a338ad13e5e2/AAABoPUyHjY/AAABnSSvrFg/16x9-big/christa-pike-100.jpg?width=1920"
+  },
+  {
+   "id": "nfdf01cc148",
+   "topic": "politik",
+   "title": "Sozialdemokraten: Mit dem \"Projekt 2045\" für den Klimaschutz",
+   "text": "Hitze, ausgetrocknete Flüsse und zunehmende Risiken für Menschen, Natur und Wirtschaft: Die Folgen der Erderwärmung sind unübersehbar. Beim Streitthema Klima will ein neuer SPD-naher Verein nun vorangehen. Von D. Hebestreit.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/spd-klimapolitik-100.html",
+   "published": "2026-10-07T22:01:18+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-10T22:01:18+00:00",
+   "img": "https://images.tagesschau.de/image/6a42d682-4956-4999-b231-8756b1f6fa47/AAABoQuzXLo/AAABnSSvrFg/16x9-big/ahornblatt-trockenheit-100.jpg?width=1920"
+  },
+  {
+   "id": "n0dc9d1d791",
+   "topic": "it",
+   "title": "BMW iX4 vorgestellt: Die flotte Schwere",
+   "text": "BMW stellt dem erfolgreichen iX3 ein SUV-Coupé an die Seite. Grazile Eleganz stand nicht im Lastenheft, stattdessen dominiert Wucht – bei Antrieb und Design.",
+   "link": "https://www.heise.de/news/BMW-iX4-vorgestellt-Die-flotte-Schwere-11479668.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-07T22:01:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-12T22:01:00+00:00"
+  },
+  {
+   "id": "n0a8f2eca82",
+   "topic": "politik",
+   "title": "Vier Stunden - dann ist der Koalitionsausschuss zu Ende",
+   "text": "Diesmal ging es verhältnismäßig schnell: Die Spitzen von CDU, CSU und SPD haben noch am späten Mittwochabend den Koalitionsausschuss beendet. Details soll es am Donnerstag geben.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-reformen-108.html",
+   "published": "2026-10-07T21:32:31+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-10T21:32:31+00:00",
+   "img": "https://images.tagesschau.de/image/224743e3-e217-476a-9338-e5ba433826b6/AAABoRhIRDU/AAABnSSvrFg/16x9-big/koalitionsausschuss-330.jpg?width=1920"
+  },
+  {
+   "id": "ne0f38ec550",
+   "topic": "it",
+   "title": "Hand-Dynamo überbrückt leeren Akku dieses vernetzten Türschlosses",
+   "text": "Vernetzte Türschlösser haben meist Batterien, die irgendwann leer sind. Amazon hat eine Lösung gebaut: Ein Dynamo lässt die Tür aufgehen wie Sesam.",
+   "link": "https://www.heise.de/news/Handy-Dynamo-ueberbrueckt-leeren-Akku-dieses-vernetzten-Tuerschlosses-11480016.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-07T20:55:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-12T20:55:00+00:00"
+  },
   {
    "id": "n02382dc816",
    "topic": "politik",
@@ -69,7 +306,6 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-09T20:32:51+00:00",
-   "img": "https://bilder.deutschlandfunk.de/6c/28/69/70/6c286970-0bdc-4d96-b442-f256e306e5c1/afd-rausch-magdeburg-100-768x768.jpg",
    "also": [
     {
      "source": "Tagesschau",
@@ -88,8 +324,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-09T20:32:51+00:00",
-   "img": "https://bilder.deutschlandfunk.de/e6/4e/a4/d8/e64ea4d8-e021-4bd8-ae6c-75ec04fb2365/sachsen-anhalt-wahl-100-1920x1920.jpg"
+   "expires": "2026-10-09T20:32:51+00:00"
   },
   {
    "id": "na7359ebd66",
@@ -292,8 +527,8 @@
     },
     {
      "source": "Deutschlandfunk",
-     "title": "Bundeskanzler - Merz verurteilt Wahl eines AfD-Politikers zum Landtagspräsidenten: Extremismus dingt mit Wucht in die Parlamente",
-     "link": "https://www.deutschlandfunk.de/merz-verurteilt-wahl-eines-afd-politikers-zum-landtagspraesidenten-extremismus-dingt-mit-wucht-in-di-102.html"
+     "title": "Jahrestag des Hamas-Terroranschlags - Bundeskanzler Merz bekräftigt Deutschlands Unterstützung für Israel und mahnt zum Frieden",
+     "link": "https://www.deutschlandfunk.de/bundeskanzler-merz-bekraeftigt-deutschlands-unterstuetzung-fuer-israel-und-mahnt-zum-frieden-100.html"
     }
    ]
   },
@@ -422,8 +657,8 @@
     },
     {
      "source": "Deutschlandfunk",
-     "title": "Bundeskanzler - Merz verurteilt Wahl eines AfD-Politikers zum Landtagspräsidenten: Extremismus dingt mit Wucht in die Parlamente",
-     "link": "https://www.deutschlandfunk.de/merz-verurteilt-wahl-eines-afd-politikers-zum-landtagspraesidenten-extremismus-dingt-mit-wucht-in-di-102.html"
+     "title": "Jahrestag des Hamas-Terroranschlags - Bundeskanzler Merz bekräftigt Deutschlands Unterstützung für Israel und mahnt zum Frieden",
+     "link": "https://www.deutschlandfunk.de/bundeskanzler-merz-bekraeftigt-deutschlands-unterstuetzung-fuer-israel-und-mahnt-zum-frieden-100.html"
     }
    ]
   },
@@ -447,8 +682,8 @@
     },
     {
      "source": "Deutschlandfunk",
-     "title": "Bundeskanzler - Merz verurteilt Wahl eines AfD-Politikers zum Landtagspräsidenten: Extremismus dingt mit Wucht in die Parlamente",
-     "link": "https://www.deutschlandfunk.de/merz-verurteilt-wahl-eines-afd-politikers-zum-landtagspraesidenten-extremismus-dingt-mit-wucht-in-di-102.html"
+     "title": "Jahrestag des Hamas-Terroranschlags - Bundeskanzler Merz bekräftigt Deutschlands Unterstützung für Israel und mahnt zum Frieden",
+     "link": "https://www.deutschlandfunk.de/bundeskanzler-merz-bekraeftigt-deutschlands-unterstuetzung-fuer-israel-und-mahnt-zum-frieden-100.html"
     }
    ]
   },
@@ -587,8 +822,8 @@
     },
     {
      "source": "Deutschlandfunk",
-     "title": "Bundeskanzler - Merz verurteilt Wahl eines AfD-Politikers zum Landtagspräsidenten: Extremismus dingt mit Wucht in die Parlamente",
-     "link": "https://www.deutschlandfunk.de/merz-verurteilt-wahl-eines-afd-politikers-zum-landtagspraesidenten-extremismus-dingt-mit-wucht-in-di-102.html"
+     "title": "Jahrestag des Hamas-Terroranschlags - Bundeskanzler Merz bekräftigt Deutschlands Unterstützung für Israel und mahnt zum Frieden",
+     "link": "https://www.deutschlandfunk.de/bundeskanzler-merz-bekraeftigt-deutschlands-unterstuetzung-fuer-israel-und-mahnt-zum-frieden-100.html"
     }
    ]
   },
@@ -621,7 +856,7 @@
     {
      "source": "Deutschlandfunk",
      "title": "Landtag Sachsen-Anhalt - Merz hält auch \"False-Flag\"-Aktion bei Wahl von AfD-Politiker für möglich",
-     "link": "https://www.deutschlandfunk.de/merz-haelt-auch-false-flag-aktion-bei-wahl-von-afd-politiker-fuer-moeglich-100.html"
+     "link": "https://www.deutschlandfunk.de/merz-haelt-auch-false-flag-aktion-bei-wahl-von-afd-politiker-fuer-moeglich-102.html"
     }
    ]
   },
@@ -765,19 +1000,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-09T13:18:53+00:00",
-   "img": "https://bilder.deutschlandfunk.de/7d/10/ab/06/7d10ab06-79b1-4656-9ae0-4f461239554c/bundeskanzler-merz-deutschlandgipfel-handelsblatt-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Berlin erinnert an den 7. Oktober 2023 und den Terror gegen Israel: mit Kerzen, Stille - und Streit",
-     "link": "https://www.dw.com/de/berlin-erinnert-an-den-7-oktober-2023-und-den-terror-gegen-israel-mit-kerzen-stille-und-streit/a-79584814?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Hamas-Überfall auf Israel: Der Strand, an dem der 7. Oktober begann",
-     "link": "https://www.tagesschau.de/ausland/asien/israel-gedenktag-ueberfall-hamas-zikim-100.html"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/7d/10/ab/06/7d10ab06-79b1-4656-9ae0-4f461239554c/bundeskanzler-merz-deutschlandgipfel-handelsblatt-100-1920x1920.jpg"
   },
   {
    "id": "n94a288b8c6",
@@ -1117,7 +1340,14 @@
    "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
    "lang": "de",
    "expires": "2026-10-11T11:27:00+00:00",
-   "img": "https://static.dw.com/image/79573390_302.jpg"
+   "img": "https://static.dw.com/image/79573390_302.jpg",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Sachsen-Anhalt - Staatsministerin Güler geht von CDU-Stimmen für AfD-Mann aus",
+     "link": "https://www.deutschlandfunk.de/staatsministerin-gueler-geht-von-cdu-stimmen-fuer-afd-mann-aus-100.html"
+    }
+   ]
   },
   {
    "id": "n69a51f33b5",
@@ -1243,8 +1473,8 @@
     },
     {
      "source": "Deutschlandfunk",
-     "title": "Bundeskanzler - Merz verurteilt Wahl eines AfD-Politikers zum Landtagspräsidenten: Extremismus dingt mit Wucht in die Parlamente",
-     "link": "https://www.deutschlandfunk.de/merz-verurteilt-wahl-eines-afd-politikers-zum-landtagspraesidenten-extremismus-dingt-mit-wucht-in-di-102.html"
+     "title": "Jahrestag des Hamas-Terroranschlags - Bundeskanzler Merz bekräftigt Deutschlands Unterstützung für Israel und mahnt zum Frieden",
+     "link": "https://www.deutschlandfunk.de/bundeskanzler-merz-bekraeftigt-deutschlands-unterstuetzung-fuer-israel-und-mahnt-zum-frieden-100.html"
     }
    ]
   },
@@ -1284,14 +1514,7 @@
    "source": "THE DECODER",
    "type": "Fachmedium (KI)",
    "lang": "de",
-   "expires": "2026-10-14T08:23:43+00:00",
-   "also": [
-    {
-     "source": "heise online",
-     "title": "OpenAI veröffentlicht hunderte KI-generierte Lösungen für Mathematikprobleme",
-     "link": "https://www.heise.de/news/OpenAI-Hunderte-weitere-KI-generierte-Loesungen-fuer-Mathematikprobleme-11478615.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    }
-   ]
+   "expires": "2026-10-14T08:23:43+00:00"
   },
   {
    "id": "n84e254c540",
@@ -1520,254 +1743,6 @@
    "lang": "de",
    "expires": "2026-10-12T05:23:02+00:00",
    "img": "https://www.golem.de/2610/213786-601948-601946_rc.jpg"
-  },
-  {
-   "id": "nfab233b10a",
-   "topic": "politik",
-   "title": "Verbraucherpolitiker kritisieren Schufa wegen mangelnder Transparenz",
-   "text": "Erst bewarb die Schufa ihren neuen Score mit Transparenz, dann kamen durch NDR- und SZ-Recherchen weitere Bewertungsscores ans Licht. Linke, Grüne, SPD und Union üben Kritik und fordern Antworten. Nur die AfD sieht kein Problem. Von P. Hornung.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/schufa-bundestag-kritik-100.html",
-   "published": "2026-10-07T04:59:20+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-10T04:59:20+00:00"
-  },
-  {
-   "id": "nab85733962",
-   "topic": "welt",
-   "title": "Donald Trumps Midterms-Wahlkampf: 5000 Dollar für jeden und Werbespots auf Kosten der Steuerzahler",
-   "text": "Geldversprechen, ein Sonderparteitag und ungewöhnliche Wahlwerbespots: Donald Trump zieht vor den wichtigen Zwischenwahlen in den USA alle Register. Einige seiner Methoden könnten aber illegal sein.",
-   "link": "https://www.dw.com/de/donald-trumps-midterms-wahlkampf-5000-dollar-für-jeden-und-werbespots-auf-kosten-der-steuerzahler/a-79568186?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-07T04:59:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-11T04:59:00+00:00",
-   "img": "https://static.dw.com/image/79214758_302.jpg"
-  },
-  {
-   "id": "nd346d41890",
-   "topic": "it",
-   "title": "OpenAI veröffentlicht hunderte KI-generierte Lösungen für Mathematikprobleme",
-   "text": "Das KI-Unternehmen hat ein internes KI-Modell auf tausende Probleme aus der Mathematik angesetzt. Für ein Zehntel davon hat es relevante Lösungen generiert.",
-   "link": "https://www.heise.de/news/OpenAI-Hunderte-weitere-KI-generierte-Loesungen-fuer-Mathematikprobleme-11478615.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-07T04:55:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-12T04:55:00+00:00",
-   "also": [
-    {
-     "source": "THE DECODER",
-     "title": "OpenAI veröffentlicht hunderte KI-generierte Mathe-Beweise auf GitHub",
-     "link": "https://the-decoder.de/openai-veroeffentlicht-hunderte-ki-generierte-mathe-beweise-auf-github/"
-    }
-   ]
-  },
-  {
-   "id": "nd6e8cc8766",
-   "topic": "nfl",
-   "title": "NFL's biggest surprises, disappointments and MVP through first 4 weeks of season",
-   "text": "After four games, our NFL writers call out which teams and players are catching their attention for good and bad reasons, and could a running back really win MVP?",
-   "link": "https://sports.yahoo.com/nfl/article/nfls-biggest-surprises-disappointments-and-mvp-through-first-4-weeks-of-season-044648348.html",
-   "published": "2026-10-07T04:46:48+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-12T04:46:48+00:00",
-   "img": "https://d29szjachogqwa.cloudfront.net/images/2026-10/d246e50c-1a5d-48e4-981b-eaa9b2145aa2"
-  },
-  {
-   "id": "n3488b38277",
-   "topic": "nfl",
-   "title": "The Re-Education of Kyler Murray and the Outlook for the Vikings Offense",
-   "text": "Kyler Murray’s first pass as a member of the Minnesota Vikings was a hail mary thrown under pressure to a double-covered Jauan Jennings. Not surprisingly, it was intercepted. That was on a second-down with less than a minute elapsed in the first quarter of a 0-0 game. A few offensive plays later, he was knocked […]",
-   "link": "https://sports.yahoo.com/articles/education-kyler-murray-outlook-vikings-040733490.html",
-   "published": "2026-10-07T04:07:33+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-12T04:07:33+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/fda9d595076057510bed3a33d3ad987c.jpg"
-  },
-  {
-   "id": "n4c38e0c916",
-   "topic": "wirtschaft",
-   "title": "Was die Metall-Tarifrunde so kompliziert macht",
-   "text": "Heute beginnen die Verhandlungen über die Tarifbedingungen in der Metall- und Elektroindustrie. Betroffen sind rund 3,7 Millionen Beschäftigte. Antworten auf die wichtigsten Fragen zum Gesprächsstart.",
-   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-tarifverhandlungen-104.html",
-   "published": "2026-10-07T04:06:08+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-10T04:06:08+00:00",
-   "img": "https://images.tagesschau.de/image/ec5f7509-d72e-44d5-a7d4-95f19f7fdbee/AAABoPKDfnY/AAABnSSvrFg/16x9-big/fahrzeuge-fertigungsstrasse-100.jpg?width=1920"
-  },
-  {
-   "id": "n5046bcc459",
-   "topic": "politik",
-   "title": "Bundeskanzler Merz sichert Israel Beistand zu",
-   "text": "Drei Jahre nach dem Hamas-Überfall auf Israel verspricht Bundeskanzler Friedrich Merz dem jüdischen Staat festen Beistand. Auch werde Deutschland im Kampf gegen Antisemitismus nicht nachlassen.",
-   "link": "https://www.tagesschau.de/inland/merz-israel-104.html",
-   "published": "2026-10-07T03:20:19+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-10T03:20:19+00:00",
-   "img": "https://images.tagesschau.de/image/01663b43-37e7-4d67-babb-92eae186abfb/AAABoRQzkG0/AAABnSSvrFg/16x9-big/friedrich-merz-518.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Berlin erinnert an den 7. Oktober 2023 und den Terror gegen Israel: mit Kerzen, Stille - und Streit",
-     "link": "https://www.dw.com/de/berlin-erinnert-an-den-7-oktober-2023-und-den-terror-gegen-israel-mit-kerzen-stille-und-streit/a-79584814?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Deutschlandfunk",
-     "title": "Bundeskanzler - Merz verurteilt Wahl eines AfD-Politikers zum Landtagspräsidenten: Extremismus dingt mit Wucht in die Parlamente",
-     "link": "https://www.deutschlandfunk.de/merz-verurteilt-wahl-eines-afd-politikers-zum-landtagspraesidenten-extremismus-dingt-mit-wucht-in-di-102.html"
-    }
-   ]
-  },
-  {
-   "id": "ne6f464b3f4",
-   "topic": "welt",
-   "title": "129 Tage in der Hand der Hamas: Das neue Leben des Luis Har",
-   "text": "Am 7. Oktober 2023 wurde Luis Har von der Hamas verschleppt und 129 Tage später in einer dramatischen Aktion befreit. Drei Jahre danach kämpft er mit den Spuren des Traumas - und dem Schweigen seiner Nachbarn. Von J. Segador.",
-   "link": "https://www.tagesschau.de/ausland/asien/129-tage-hamas-har-100.html",
-   "published": "2026-10-07T01:01:01+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-10T01:01:01+00:00",
-   "img": "https://images.tagesschau.de/image/c1d46f95-5191-47e8-a057-754462be3472/AAABoRS68tw/AAABnSSvrFg/16x9-big/luis-har-100.jpg?width=1920"
-  },
-  {
-   "id": "n74d0ac7cd3",
-   "topic": "welt",
-   "title": "USA: Frau nach gescheiterter Hinrichtung wieder bei Bewusstsein",
-   "text": "Nach einem gescheiterten Hinrichtungsversuch in Tennessee war Christa Pike zunächst bewusstlos. Nun ist sie laut ihren Anwälten wieder ansprechbar - sie fordern, ihre Todesstrafe in lebenslange Haft umzuwandeln.",
-   "link": "https://www.tagesschau.de/ausland/amerika/christa-pike-hinrichtung-bewusstsein-100.html",
-   "published": "2026-10-06T23:56:42+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-09T23:56:42+00:00",
-   "img": "https://images.tagesschau.de/image/1dcc78df-c57d-490f-b070-41c466f37e40/AAABoROXi4U/AAABnSSvrFg/16x9-big/rettungswaegen-nashville-pike-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Christa Pike - US-amerikanische Überlebende der Giftspritze nach gescheitertem Hinrichtungsversuch wieder bei Bewusstsein",
-     "link": "https://www.deutschlandfunk.de/us-amerikanische-ueberlebende-der-giftspritze-nach-gescheitertem-hinrichtungsversuch-wieder-bei-bewu-102.html"
-    }
-   ]
-  },
-  {
-   "id": "n33f1010cb9",
-   "topic": "nfl",
-   "title": "Eagles' Lane Johnson retires from NFL due to personal reasons after Week 4 absence",
-   "text": "Johnson's surprise exit from football ends a legendary career in Philadelphia",
-   "link": "https://www.cbssports.com/nfl/news/eagles-lane-johnson-retires-from-nfl-after-week-4-absence/",
-   "published": "2026-10-06T23:08:03+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-11T23:08:03+00:00"
-  },
-  {
-   "id": "na3b9283430",
-   "topic": "nfl",
-   "title": "How can Nick Sirianni save his job? Eagles' path becomes more difficult without Lane Johnson",
-   "text": "Sirianni has his work cut out for him after his star right tackle called it a career",
-   "link": "https://www.cbssports.com/nfl/news/how-can-nick-sirianni-save-his-job-eagles-lane-johnson/",
-   "published": "2026-10-06T23:07:03+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-11T23:07:03+00:00"
-  },
-  {
-   "id": "na2c4f7b7b2",
-   "topic": "politik",
-   "title": "Sachsen-Anhalt - SPD-Bundestagsabgeordnete demonstrieren mit Protestmarsch gegen Landtagspräsidenten von der AfD",
-   "text": "Nach der Wahl des AfD-Abgeordneten Rausch zum Landtagspräsidenten in Sachsen-Anhalt hat die SPD-Bundestagsfraktion gegen das Abstimmungsergebnis demonstriert.",
-   "link": "https://www.deutschlandfunk.de/spd-bundestagsabgeordnete-demonstrieren-mit-protestmarsch-gegen-landtagspraesidenten-von-der-afd-106.html",
-   "published": "2026-10-06T22:15:20+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-08T22:15:20+00:00",
-   "img": "https://bilder.deutschlandfunk.de/ac/69/81/f9/ac6981f9-3c9e-4cb8-be66-07da5bb061c2/spd-protest-100-1920x1920.jpg"
-  },
-  {
-   "id": "nf912c1baca",
-   "topic": "politik",
-   "title": "Groß-Demo in Paris - Schülerproteste: Krisensitzung mit Präsident Macron nach erneuten Zusammenstößen mit Polizei",
-   "text": "Wegen anhaltender Massenproteste von Schülerinnen und Schülern hat Präsident Macron sich am Dienstagabend in einer Krisensitzung zur Lage mit weiteren Politikern beraten. Daran nahmen Premierminister Lecornu, Innenminister Nuñez sowie Bildungsminister Geffray teil, berichteten zunächst der Sender BFMTV sowie die …",
-   "link": "https://www.deutschlandfunk.de/schuelerproteste-krisensitzung-mit-praesident-macron-nach-erneuten-zusammenstoessen-mit-polizei-100.html",
-   "published": "2026-10-06T22:15:20+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-08T22:15:20+00:00"
-  },
-  {
-   "id": "n4c7de1e9d4",
-   "topic": "politik",
-   "title": "Appell - Prominente von CDU, Grünen und SPD warnen vor Rot-Grün-Rot in Berlin",
-   "text": "Nach der Wahl zum Berliner Abgeordnetenhaus warnen zahlreiche Menschen aus Politik und Zivilgesellschaft vor einer Koalition unter Führung der Linken.",
-   "link": "https://www.deutschlandfunk.de/prominente-von-cdu-gruenen-und-spd-warnen-vor-rot-gruen-rot-in-berlin-106.html",
-   "published": "2026-10-06T22:15:20+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-08T22:15:20+00:00",
-   "img": "https://bilder.deutschlandfunk.de/95/67/8d/35/95678d35-0e40-4707-8e4d-2aa15d355246/berlin-regierung-100-1920x1920.jpg"
-  },
-  {
-   "id": "n0dc4fcf824",
-   "topic": "politik",
-   "title": "Christa Pike - US-amerikanische Überlebende der Giftspritze nach gescheitertem Hinrichtungsversuch wieder bei Bewusstsein",
-   "text": "Die zum Tode verurteilte US-Amerikanerin Christa Pike ist nach dem gescheiterten Hinrichtungsversuch wieder bei Bewusstsein.",
-   "link": "https://www.deutschlandfunk.de/us-amerikanische-ueberlebende-der-giftspritze-nach-gescheitertem-hinrichtungsversuch-wieder-bei-bewu-102.html",
-   "published": "2026-10-06T22:15:20+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-08T22:15:20+00:00",
-   "img": "https://bilder.deutschlandfunk.de/3e/c6/f2/33/3ec6f233-8573-4a89-a1ad-44db455c0d5f/tennessee-usa-hinrichtung-aussetzung-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "USA: Frau nach gescheiterter Hinrichtung wieder bei Bewusstsein",
-     "link": "https://www.tagesschau.de/ausland/amerika/christa-pike-hinrichtung-bewusstsein-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n009a24e4ea",
-   "topic": "nfl",
-   "title": "Steelers part ways with outside linebacker",
-   "text": "Pittsburgh releases a former LSU draft pick.",
-   "link": "https://sports.yahoo.com/articles/steelers-part-ways-outside-linebacker-220907329.html",
-   "published": "2026-10-06T22:09:07+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-11T22:09:07+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/fd5197e5a80f8225abcf212880154621.jpg"
-  },
-  {
-   "id": "n8ccd8a8b32",
-   "topic": "nfl",
-   "title": "CB Joey Porter Jr., now listed as a starter, ready to play more snaps",
-   "text": "The Cowboys' depth chart now lists cornerback Joey Porter Jr. as a starter.",
-   "link": "https://sports.yahoo.com/articles/cb-joey-porter-jr-now-220638461.html",
-   "published": "2026-10-06T22:06:38+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-11T22:06:38+00:00"
   }
  ]
 }
