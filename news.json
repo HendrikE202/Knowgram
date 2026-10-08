@@ -1,50 +1,599 @@
 {
- "generated": "2026-10-08T10:36:18.614298+00:00",
+ "generated": "2026-10-08T18:51:15.788044+00:00",
  "briefing": [
-  "necbf827b53",
   "n43dcbd0334",
+  "n8aef4bfc7a",
+  "na485a0c625",
+  "na08d21e94d",
   "n77ebc87395",
-  "nac88420396",
-  "nd1213b70ee",
-  "n6a1c51b591",
-  "n2352685aa4",
-  "n02382dc816"
+  "nf8fb2d830b",
+  "nb14bd50547",
+  "n372b3f4e6b"
  ],
  "ranked": [
   {
-   "id": "necbf827b53",
-   "s": 38.2
+   "id": "n43dcbd0334",
+   "s": 32.2
   },
   {
-   "id": "n43dcbd0334",
-   "s": 34.3
+   "id": "n8aef4bfc7a",
+   "s": 32.0
+  },
+  {
+   "id": "na485a0c625",
+   "s": 30.8
+  },
+  {
+   "id": "na08d21e94d",
+   "s": 29.0
   },
   {
    "id": "n77ebc87395",
-   "s": 28.7
+   "s": 27.0
   },
   {
-   "id": "nac88420396",
-   "s": 27.9
+   "id": "nf8fb2d830b",
+   "s": 26.2
   },
   {
-   "id": "nd1213b70ee",
-   "s": 27.5
+   "id": "nb14bd50547",
+   "s": 22.8
   },
   {
-   "id": "n6a1c51b591",
-   "s": 22.9
-  },
-  {
-   "id": "n2352685aa4",
-   "s": 22.9
-  },
-  {
-   "id": "n02382dc816",
-   "s": 19.5
+   "id": "n372b3f4e6b",
+   "s": 22.7
   }
  ],
  "items": [
+  {
+   "id": "nda3f29fffa",
+   "topic": "ki",
+   "title": "Chatbot-Schutz: Wer Claude wiederholt beleidigt, könnte rausfliegen",
+   "text": "Anthropic verbietet in seinen aktualisierten Nutzungsrichtlinien erstmals \"anhaltendes missbräuchliches Verhalten\" gegenüber Claude: Das Modell darf solche Gespräche künftig einfach beenden. Daneben verschärft das Unternehmen Regeln zu Propaganda, Drohnenbewaffnung und Überwachung. Die Änderungen unterstreichen …",
+   "link": "https://the-decoder.de/chatbot-schutz-wer-claude-wiederholt-beleidigt-koennte-rausfliegen/",
+   "published": "2026-10-08T18:48:14+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-15T18:48:14+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/claude_sad.png"
+  },
+  {
+   "id": "n19205b354e",
+   "topic": "nfl",
+   "title": "The 4 biggest surprises about the 49ers a month into the season",
+   "text": "From not allowing sacks to playing through injuries, we highlight the biggest surprises about the 49ers",
+   "link": "https://sports.yahoo.com/articles/4-biggest-surprises-49ers-month-184500439.html",
+   "published": "2026-10-08T18:45:00+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-13T18:45:00+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/e31a47a302f1378890c7ef991526c5bf.jpg"
+  },
+  {
+   "id": "nffeb16dbc7",
+   "topic": "nfl",
+   "title": "Arizona Cardinals offense one of the most boring in NFL",
+   "text": "Arizona Cardinals offense lacks anything exciting through four games.",
+   "link": "https://sports.yahoo.com/articles/arizona-cardinals-offense-one-most-184216333.html",
+   "published": "2026-10-08T18:42:16+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-13T18:42:16+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/9b4ac8b691314a1843fc39826af974f1.jpg"
+  },
+  {
+   "id": "n64c6791e04",
+   "topic": "welt",
+   "title": "DFB-Frauen: Nutzt Mahmutovic ihre Tor-Chance gegen Berger?",
+   "text": "Die DFB-Frauen testen gegen Australien und Japan - und im Tor rückt Ena Mahmutovic in den Fokus. Die 22-jährige Bayern-Keeperin gilt als Nachfolgerin von Ann-Katrin Berger und will ihre Chance nutzen.",
+   "link": "https://www.dw.com/de/dfb-frauen-nutzt-mahmutovic-ihre-tor-chance-gegen-berger/a-79598336?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-08T18:22:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-12T18:22:00+00:00",
+   "img": "https://static.dw.com/image/79599103_302.jpg"
+  },
+  {
+   "id": "nd8a69e2344",
+   "topic": "politik",
+   "title": "Spionage-Verdacht - Kontrollgremium des Bundestags fordert Konsequenzen aus dem Fall Hanning",
+   "text": "Das Parlamentarische Kontrollgremium des Bundestags hat die Bundesregierung aufgefordert, aus dem Spionageverdacht gegen den früheren BND-Präsidenten Hanning Konsequenzen zu ziehen.",
+   "link": "https://www.deutschlandfunk.de/kontrollgremium-des-bundestags-fordert-konsequenzen-aus-dem-fall-hanning-102.html",
+   "published": "2026-10-08T18:04:20+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-10T18:04:20+00:00"
+  },
+  {
+   "id": "nf6ee1dc7d5",
+   "topic": "politik",
+   "title": "Schlechtwetterklausel - Audi will mit Betriebsrat über Einsparungen am Standort Neckarsulm verhandeln",
+   "text": "Die Geschäftsführung von Audi will mit den Arbeitnehmervertretern erneut über Sparmaßnahmen verhandeln.",
+   "link": "https://www.deutschlandfunk.de/audi-will-mit-betriebsrat-ueber-einsparungen-am-standort-neckarsulm-verhandeln-100.html",
+   "published": "2026-10-08T18:04:20+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-10T18:04:20+00:00",
+   "img": "https://bilder.deutschlandfunk.de/74/69/0b/68/74690b68-852c-406e-97d3-3170471adda3/audi-neckarsulm-standort-100-1920x1920.jpg"
+  },
+  {
+   "id": "nb14bd50547",
+   "topic": "politik",
+   "title": "Wirtschaft - Warum rechnet die Bundesregierung mit mehr Wachstum und wo sind Gefahren?",
+   "text": "Die Bundesregierung rechnet mit einem stärkeren Wirtschaftswachstum. Wie das Wirtschaftsministerium in Berlin mitteilte, wird das Bruttoinlandsprodukt in diesem Jahr voraussichtlich um 1,3 Prozent steigen. Zu den Gründen und zu weiteren Aussichten.",
+   "link": "https://www.deutschlandfunk.de/warum-rechnet-die-bundesregierung-mit-mehr-wachstum-und-wo-sind-gefahren-100.html",
+   "published": "2026-10-08T18:04:20+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-10T18:04:20+00:00",
+   "img": "https://bilder.deutschlandfunk.de/fc/4c/fb/ae/fc4cfbae-935d-4872-8873-a9b5c05f6b6b/container-wirtschaft-export-100-1920x1920.jpg"
+  },
+  {
+   "id": "n2a9d03de31",
+   "topic": "politik",
+   "title": "Großbritannien - Polizei nimmt zwei Männer aus Lettland auf Luftwaffenstützpunkt fest",
+   "text": "Die britische Polizei hat auf einem Luftwaffenstützpunkt in Südostengland zwei Männer aus Lettland festgenommen.",
+   "link": "https://www.deutschlandfunk.de/polizei-nimmt-zwei-maenner-aus-lettland-auf-luftwaffenstuetzpunkt-fest-102.html",
+   "published": "2026-10-08T18:04:20+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-10T18:04:20+00:00",
+   "img": "https://bilder.deutschlandfunk.de/01/36/07/5d/0136075d-2433-4a46-ba8f-3268708707e6/imago0238343300h-100-1920x1920.jpg"
+  },
+  {
+   "id": "nc63376b5e5",
+   "topic": "politik",
+   "title": "Bruttoinlandsprodukt - Bundesregierung erhöht Konjunktur-Prognose: \"Wirtschaft widerstandsfähiger als erwartet\"",
+   "text": "Die Bundesregierung rechnet mit einem stärkeren Wirtschaftswachstum. Wie das Wirtschaftsministerium in Berlin mitteilte, wird das Bruttoinlandsprodukt in diesem Jahr voraussichtlich um 1,3 Prozent steigen. Im April war die Regierung lediglich von 0,5 Prozent Wachstum ausgegangen.",
+   "link": "https://www.deutschlandfunk.de/bundesregierung-erhoeht-konjunktur-prognose-wirtschaft-widerstandsfaehiger-als-erwartet-102.html",
+   "published": "2026-10-08T18:04:20+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-10T18:04:20+00:00",
+   "img": "https://bilder.deutschlandfunk.de/FI/LE/_5/29/FILE_5292a3bcf447ae03dd0a3afe2888d640/wirtschaftsministerium-jpg-100-768x768.jpg"
+  },
+  {
+   "id": "na3ad73ff9c",
+   "topic": "politik",
+   "title": "Konflikt - Lufthansa setzt Flüge nach Riad aus - Huthi-Miliz greift erneut in Saudi-Arabien an",
+   "text": "Die Fluggesellschaften der Lufthansa-Gruppe setzen ihre Flüge in die saudi-arabische Hauptstadt Riad für gut eine Woche aus. Dies gelte bis einschließlich 16. Oktober, teilte der Konzern mit. Auch die Fluggesellschaft Air India strich Verbindungen von und nach Riad bis kommenden Samstag.",
+   "link": "https://www.deutschlandfunk.de/lufthansa-setzt-fluege-nach-riad-aus-huthi-miliz-greift-erneut-in-saudi-arabien-an-100.html",
+   "published": "2026-10-08T18:04:20+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-10T18:04:20+00:00",
+   "img": "https://bilder.deutschlandfunk.de/12/35/bd/43/1235bd43-3d81-4d6a-839e-bcf9483740fa/lufthansa-flugzeug-102-1920x1920.jpg"
+  },
+  {
+   "id": "nbd28398a36",
+   "topic": "it",
+   "title": "Der beste Laubsauger & Laubbläser mit Akku – Gardena ist Testsieger",
+   "text": "Laubsauger und -bläser helfen, Wege, Hof und Garten von Laub zu befreien. Wir haben aktuelle Modelle mit Akku getestet und zeigen, worauf es beim Kauf ankommt.",
+   "link": "https://www.heise.de/bestenlisten/testsieger/der-beste-laubsauger-und-laubblaeser-mit-akku-gardena-ist-testsieger/slf5lc5?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-08T18:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-13T18:00:00+00:00"
+  },
+  {
+   "id": "ndf85d7b5dd",
+   "topic": "welt",
+   "title": "Mindestens 30 Tote bei russischen Angriffen auf Busse in der Ukraine",
+   "text": "Bei russischen Angriffen auf zwei Busse in der Ostukraine sind mindestens 30 Menschen getötet worden, weitere 18 wurden verletzt. Nach Angriffen auf Kiew und andere Städte musste der Strom dort abgeschaltet werden.",
+   "link": "https://www.tagesschau.de/ausland/europa/ukraine-bus-kramatorsk-100.html",
+   "published": "2026-10-08T17:52:33+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-11T17:52:33+00:00",
+   "img": "https://images.tagesschau.de/image/df74c0cc-b835-48de-a3f7-ad89434464e9/AAABoRsL_hc/AAABnSSvrFg/16x9-big/bus-ukraine-100.jpg?width=1920"
+  },
+  {
+   "id": "n619d3b37b2",
+   "topic": "nfl",
+   "title": "It wouldn't shock me IF ... NFL Week 5: Nick Sirianni's seat heats up, Sean Payton takes back playcalling",
+   "text": "Could the 49ers plant their flag as the Super Bowl favorites? Will Jacoby Brissett be the latest QB to light up the Lions?",
+   "link": "https://www.cbssports.com/nfl/news/it-wouldnt-shock-me-if-nfl-week-5-nick-siriannis-sean-payton/",
+   "published": "2026-10-08T17:48:57+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-13T17:48:57+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2022/11/21/d8cc3cc8-57bf-4e0d-878c-bef3cfb4c76c/template-pic.jpg"
+  },
+  {
+   "id": "n372b3f4e6b",
+   "topic": "welt",
+   "title": "Iran: Mehr Druck auf Frauen ohne Hidschab",
+   "text": "Immer mehr Frauen in der Islamischen Republik widersetzen sich der Hidschab-Pflicht. Hardliner setzen zunehmend auf sozialen Druck - statt auf die \"Sittenpolizei\" auf der Straße.",
+   "link": "https://www.dw.com/de/iran-mehr-druck-auf-frauen-ohne-hidschab/a-79582495?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-08T17:44:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-12T17:44:00+00:00",
+   "img": "https://static.dw.com/image/68866499_302.jpg"
+  },
+  {
+   "id": "n516ccb238f",
+   "topic": "it",
+   "title": "US-Regierung schließt Microsoft und Adobe von Visa-Programm aus",
+   "text": "Die US-Regierung wirft Microsoft, Adobe und anderen jahrelangen Missbrauch bei Arbeitsvisa vor und schließt die Unternehmen von einem Green-Card-Programm aus.",
+   "link": "https://www.heise.de/news/US-Regierung-schliesst-Microsoft-und-Adobe-von-Visa-Programm-aus-11481548.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-08T17:41:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-13T17:41:00+00:00"
+  },
+  {
+   "id": "ndc4f8021bc",
+   "topic": "politik",
+   "title": "Frankfurter Buchmesse 2026 besuchen: Diese Neuerungen sollten Sie kennen",
+   "text": "Die Frankfurter Buchmesse hat begonnen. Wir haben Antworten zusammengetragen für alle, die ihren Besuch planen wollen. Was gibt's Neues? Wann sind die Besuchertage? Was kostet der Eintritt? Und wo sind die Mitmach-Events?",
+   "link": "https://www.hessenschau.de/kultur/buchmesse/frankfurter-buchmesse-2026-besuchen-diese-neuerungen-sollten-sie-kennen-v13,buchmesse-service-122.html",
+   "published": "2026-10-08T17:38:15+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-12T17:38:15+00:00",
+   "img": "https://www.hessenschau.de/kultur/buchmesse/buchmesse-books-100~_t-1791291856917_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "n6ae16ec858",
+   "topic": "ki",
+   "title": "OpenAI boykottieren: Mathematik-Community wehrt sich gegen massenhafte KI-Beweise",
+   "text": "Nachdem OpenAI mehr als 700 KI-generierte mathematische Manuskripte auf einmal veröffentlicht hat, ruft die Association for Human Mathematics zum Boykott auf. Schon am Folgetag musste OpenAI drei Arbeiten wegen eines Vorzeichenfehlers zurückziehen. Fields-Medaillist Terence Tao warnt, das massenhafte \"Abernten\" …",
+   "link": "https://the-decoder.de/openai-boykottieren-mathematik-community-wehrt-sich-gegen-massenhafte-ki-beweise/",
+   "published": "2026-10-08T17:37:07+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-15T17:37:07+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/openai_mathematics_controversy.png"
+  },
+  {
+   "id": "n23ffd50cfd",
+   "topic": "welt",
+   "title": "Nach gescheiterter Hinrichtung: Wie geht es weiter im Fall Pike?",
+   "text": "Nachdem die Mörderin Christa Pike den Versuch ihrer Hinrichtung überlebte, kann sie mittlerweile wieder laufen, ist aber in gesundheitlich schlechtem Zustand. Doch wie geht es nun weiter? Wird es einen neuen Exekutionsversuch geben? Ein Überblick.",
+   "link": "https://www.tagesschau.de/ausland/amerika/christa-pike-gescheiterte-hinrichtung-folgen-100.html",
+   "published": "2026-10-08T17:32:20+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-11T17:32:20+00:00",
+   "img": "https://images.tagesschau.de/image/29f7ffb8-c6bf-4db8-bbd5-24bf817c3a31/AAABoRySuoE/AAABnSSvrFg/16x9-big/luke-ihnen-pk-100.jpg?width=1920"
+  },
+  {
+   "id": "n51b38ab04c",
+   "topic": "it",
+   "title": "Apple-Event ist angekündigt: Am 13. Oktober gibt es neue Home-Hardware",
+   "text": "Die Ankündigung ist da: Apple hat sein Smart-Home-Event diesen Herbstes annonciert. Schon am Dienstag ist es soweit.",
+   "link": "https://www.heise.de/news/Apple-Event-ist-angekuendigt-Am-13-Oktober-gibt-es-neue-Home-Hardware-11481483.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-08T17:17:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-13T17:17:00+00:00"
+  },
+  {
+   "id": "nd1b0a38213",
+   "topic": "nfl",
+   "title": "Broncos experiment ends in failure: Sean Payton to reclaim play-calling duties after just four weeks",
+   "text": "The Broncos are making a significant adjustment as Payton looks to jump-start a struggling attack",
+   "link": "https://www.cbssports.com/nfl/news/sean-payton-broncos-play-calling-duties-davis-webb/",
+   "published": "2026-10-08T17:15:19+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-13T17:15:19+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/08/c85a2d9e-e630-4ace-906f-a9cafc5c0369/payton.jpg"
+  },
+  {
+   "id": "nb20a87d253",
+   "topic": "it",
+   "title": "Operativer Gewinn: Samsung macht durch Speicherkrise 80 Milliarden US-Dollar im Quartal",
+   "text": "Samsung Electronics kann durch die Umstellung auf High-Bandwidth Memory den operativen Gewinn fast verneunfachen. Die Speicherkrise wird sich laut dem Konzern fortsetzen. ( Samsung , KI )",
+   "link": "https://www.golem.de/news/operativer-gewinn-samsung-macht-durch-speicherkrise-80-milliarden-us-dollar-im-quartal-2610-213897.html",
+   "published": "2026-10-08T17:03:00+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-13T17:03:00+00:00",
+   "img": "https://www.golem.de/2610/213897-602460-602458_rc.jpg"
+  },
+  {
+   "id": "n0e1bc4aa4f",
+   "topic": "wissenschaft",
+   "title": "Energie für Implantate: Elektronik gewinnt Strom aus menschlichen Zellen",
+   "text": "Herzzellen verwachsen mit einer elektronischen Schaltung. Bewegt sich das Gewebe, erzeugt die Schaltung Energie. Die Technik könnte eines Tages Batterien in Implantaten ersetzen.",
+   "link": "https://www.spektrum.de/news/implantate-elektronik-gewinnt-strom-aus-menschlichen-zellen/2348903",
+   "published": "2026-10-08T17:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-22T17:00:00+00:00"
+  },
+  {
+   "id": "n5e61b8e547",
+   "topic": "it",
+   "title": "Robert Half Gehaltsübersicht 2027: Wer KI gut kann, verdient mehr",
+   "text": "Relevante Fähigkeiten im Bereich generativer KI sind bei Hiring Managern fest eingepreist. Doch es geht nicht nur darum, ein KI-Tool bedienen zu können. ( Arbeit , Studien )",
+   "link": "https://www.golem.de/news/robert-half-gehaltsuebersicht-2027-wer-ki-gut-kann-verdient-mehr-2610-213896.html",
+   "published": "2026-10-08T16:10:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-13T16:10:01+00:00",
+   "img": "https://www.golem.de/2610/213896-602456-602454_rc.jpg"
+  },
+  {
+   "id": "nb9ed511878",
+   "topic": "wissenschaft",
+   "title": "Die fabelhafte Welt der Mathematik: Wie Margaret Hamilton die erste Mondlandung rettete",
+   "text": "Fast wäre die erste Mondlandung schiefgegangen: Der Bordcomputer war überlastet. Doch die NASA war vorbereitet – dank Margaret Hamilton und ihrer damals vierjährigen Tochter.",
+   "link": "https://www.spektrum.de/kolumne/apollo-11-wie-margaret-hamilton-die-erste-mondlandung-rettete/2300256",
+   "published": "2026-10-08T16:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-22T16:00:00+00:00"
+  },
+  {
+   "id": "n0e80671f38",
+   "topic": "welt",
+   "title": "Huthi greifen erneut Ziele in Saudi-Arabien an - auch Gegenangriffe gemeldet",
+   "text": "Die gegenseitigen Angriffe von Saudi-Arabien und der jemenitischen Huthi-Miliz halten an. Nach Attacken auf saudi-arabische Flughäfen meldet Riad die Zerstörung von Dutzenden militärischen Objekten der Huthi im Jemen.",
+   "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-jemen-huthi-angriffe-100.html",
+   "published": "2026-10-08T15:35:30+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-11T15:35:30+00:00",
+   "img": "https://images.tagesschau.de/image/c95edeab-a20a-4485-92da-d683bb208b90/AAABoKlUqsg/AAABnSSvrFg/16x9-big/karte-saudi-arabien-mekka-riad-jemen-sanaa-100.jpg?width=1920"
+  },
+  {
+   "id": "n49a6c1184d",
+   "topic": "politik",
+   "title": "Berlin: Hunderte Menschen gedenken der Opfer des Hamas-Anschlags",
+   "text": "In Berlin finden zum dritten Jahrestag des bewaffneten Terrorangriffs der Hamas auf Israel mehrere Gedenkveranstaltungen statt. Innenminister Dobrindt sagte, die Bekämpfung des Antisemitismus gehöre zur \"Pflicht eines jeden Deutschen\".",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/hamas-anschlag-auf-israel-gedenken-in-berlin-100.html",
+   "published": "2026-10-08T15:32:02+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-11T15:32:02+00:00",
+   "img": "https://images.tagesschau.de/image/2fd60702-9c7b-4f4b-8741-3bd223199de4/AAABoRwqLsI/AAABnSSvrFg/16x9-big/rbb-gedenktag-hamas-berlin-2026-100.jpg?width=1920"
+  },
+  {
+   "id": "n82f663e7ed",
+   "topic": "welt",
+   "title": "Großbritannien: Burnham bietet Deutschland Kampfjet-Kooperation an",
+   "text": "Bei seinem Besuch in Berlin hat der neue britische Premier Burnham die Absicht einer engen Zusammenarbeit mit Deutschland unterstrichen. Für Überraschung sorgte ein Angebot im Verteidigungsbereich.",
+   "link": "https://www.tagesschau.de/ausland/europa/burnham-besuch-berlin-kooperation-100.html",
+   "published": "2026-10-08T15:14:59+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-11T15:14:59+00:00",
+   "img": "https://images.tagesschau.de/image/5a03cd5c-c2a4-4a15-b7db-6c4f8b67352e/AAABoRvZj_E/AAABnSSvrFg/16x9-big/burnham-merz-102.jpg?width=1920"
+  },
+  {
+   "id": "na830117a64",
+   "topic": "welt",
+   "title": "Eritreische Truppen rücken offenbar in Äthiopien ein",
+   "text": "Ende September war in der äthiopischen Tigray-Region ein alter Konflikt wieder aufgeflammt. Nun gibt es Berichte, wonach Truppen des benachbarten Eritrea dort einmarschiert seien. Beide Länder machen sich gegenseitig Vorwürfe.",
+   "link": "https://www.tagesschau.de/ausland/afrika/eritrea-aethiopien-tigray-100.html",
+   "published": "2026-10-08T15:12:46+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-11T15:12:46+00:00",
+   "img": "https://images.tagesschau.de/image/b0357e09-56b6-4e09-bc19-9df35fe82d31/AAABoRvJaoQ/AAABnSSvrFg/16x9-big/bundespolizei-aethiopien-100.jpg?width=1920"
+  },
+  {
+   "id": "ndf410ae58c",
+   "topic": "welt",
+   "title": "Literaturnobelpreis für Anne Carson: Die Genre-Sprengerin",
+   "text": "Anne Carson ist eine der renommiertesten und innovativsten Dichterinnen, Essayistinnen, Übersetzerinnen und Altphilologinnen der Gegenwart. Für ihr vielseitiges Werk hat sie jetzt den Literaturnobelpreis erhalten.",
+   "link": "https://www.dw.com/de/literaturnobelpreis-für-anne-carson-die-genre-sprengerin/a-79598602?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-08T15:10:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-12T15:10:00+00:00",
+   "img": "https://static.dw.com/image/79595610_302.jpg"
+  },
+  {
+   "id": "n09443e3ba3",
+   "topic": "wissenschaft",
+   "title": "Aktuelles am Himmel: Der Rote Planet in der Krippe",
+   "text": "Der Mars nähert sich dem offenen Sternhaufen Messier 44 an und zieht am Morgen des 11. Oktober 2026 vor ihm vorüber. Die Begegnung ist vor Sonnenaufgang gut zu beobachten.",
+   "link": "https://www.spektrum.de/news/aktuelles-am-himmel-der-rote-planet-in-der-krippe/2348171",
+   "published": "2026-10-08T15:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-22T15:00:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/m44-mars2011-10-01a.8413906.jpg.8413914.jpg?f=1280x720"
+  },
+  {
+   "id": "n8aef4bfc7a",
+   "topic": "politik",
+   "title": "Berlin-Wahl: Linke, Grüne und SPD kündigen Sondierungsgespräche an",
+   "text": "Nach der Abgeordnetenhauswahl in Berlin haben sich Linke, Grüne und SPD auf Sondierungsgespräche verständigt. Zum Umgang mit Antisemitismus, für den Teile der Linkspartei in der Kritik stehen, einigten sich die Parteien auf eine Erklärung.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-sondierungsgespraeche-100.html",
+   "published": "2026-10-08T14:44:21+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-11T14:44:21+00:00",
+   "img": "https://images.tagesschau.de/image/ca0baa68-2e28-47c7-ab2f-3948f5b6efa7/AAABoGL_We0/AAABnSSvrFg/16x9-big/berlin-abgeordnetenhaus-126.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Regierungsbildung in Berlin - Linke, SPD und Grüne räumen Hindernis für Sondierungen aus dem Weg",
+     "link": "https://www.deutschlandfunk.de/linke-spd-und-gruene-raeumen-hindernis-fuer-sondierungen-aus-dem-weg-102.html"
+    }
+   ]
+  },
+  {
+   "id": "n9e6f90b5e5",
+   "topic": "politik",
+   "title": "Reform der Kinder- und Jugendhilfe: Diskussion über Schulassistenzen",
+   "text": "Bekommen Kinder mit Behinderung weiter die nötige Hilfe, um am Schulunterricht teilnehmen zu können? Das ist eine der Kernfragen der Reform der Kinder- und Jugendhilfe, mit der sich der Bundestag nun beschäftigt. Von Chris Berdrow.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/jugend-kinder-hilfe-reform-100.html",
+   "published": "2026-10-08T13:50:06+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-11T13:50:06+00:00",
+   "img": "https://images.tagesschau.de/image/d8fa21ff-f1d6-46ce-8318-be7f3d8cf6bb/AAABoRuHIjo/AAABnSSvrFg/16x9-big/rollstuhlfahrer-103.jpg?width=1920"
+  },
+  {
+   "id": "n1127b19b7a",
+   "topic": "welt",
+   "title": "Italiens Parlament billigt umstrittene Wahlrechtsreform von Meloni",
+   "text": "Die umstrittene Wahlrechtsreform von Italiens Ministerpräsidentin Meloni ist endgültig verabschiedet worden. Die Opposition wirft der Regierung vor, damit ihre Macht sichern zu wollen. Zudem gibt es verfassungsrechtliche Bedenken.",
+   "link": "https://www.tagesschau.de/ausland/europa/meloni-wahlrechtsreform-100.html",
+   "published": "2026-10-08T13:47:19+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-11T13:47:19+00:00",
+   "img": "https://images.tagesschau.de/image/cf080010-c867-4e84-811b-f155b62c0cf6/AAABoRtKTjw/AAABnSSvrFg/16x9-big/schlein-104.jpg?width=1920"
+  },
+  {
+   "id": "n76f6839577",
+   "topic": "ki",
+   "title": "Ethereum-Forscher warnen: KI könnte Krypto-Signaturverfahren knacken",
+   "text": "Ethereum-Forscher Justin Drake ruft die Krypto-Branche auf, einen \"Bunker-Modus\" vorzubereiten: KI-gestützte Mathematik könnte das Signaturverfahren von Wallets im schlimmsten Fall schon in Monaten brechen. Vitalik Buterin stimmt grundsätzlich zu, warnt aber vor übereilten Migrationen. Er selbst habe dadurch mehr Geld …",
+   "link": "https://the-decoder.de/ethereum-forscher-warnen-ki-koennte-krypto-signaturverfahren-knacken/",
+   "published": "2026-10-08T13:44:03+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-15T13:44:03+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/ethereum_crypto_risks.png"
+  },
+  {
+   "id": "n2d0171f220",
+   "topic": "welt",
+   "title": "Italien: Parlament billigt Melonis umstrittenes Wahlrecht",
+   "text": "Italiens Regierungschefin Meloni hat den Machtpoker um ihre vieldiskutierte Wahlrechtsreform vorerst gewonnen. Vor der Abstimmung drohte sie noch - für den Fall eines Neins - mit harten Konsequenzen.",
+   "link": "https://www.dw.com/de/italien-parlament-billigt-melonis-umstrittenes-wahlrecht/a-79596399?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-08T13:25:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-12T13:25:00+00:00",
+   "img": "https://static.dw.com/image/79596078_302.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Italien: Melonis Machtpoker um das Wahlrecht",
+     "link": "https://www.tagesschau.de/ausland/europa/italien-wahlrechtsreform-100.html"
+    }
+   ]
+  },
+  {
+   "id": "ne321c68e74",
+   "topic": "welt",
+   "title": "Klimawandel gefährdet Sardinen - das \"Superfood der Adria\"",
+   "text": "Einst standen Sardinenfabriken für den industriellen Aufbruch an der kroatischen Küste. Nun bedrohen Klimawandel und Fischschwund den verbliebenen Rest der Branche. Doch der Tourismus ist keine nachhaltige Alternative.",
+   "link": "https://www.dw.com/de/klimawandel-gefährdet-sardinen-das-superfood-der-adria/a-79577044?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-08T13:07:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-12T13:07:00+00:00",
+   "img": "https://static.dw.com/image/79572977_302.jpg"
+  },
+  {
+   "id": "nbdadac3135",
+   "topic": "welt",
+   "title": "Nach bestätigtem Todesfall: Auch in Kenia wächst die Sorge vor Ebola",
+   "text": "Es ist der erste Ebola-Fall in Kenia: Am Montag starb ein aus dem Kongo eingereister Mann an der Krankheit. Behörden und WHO reagieren mit verstärkten Maßnahmen - und in der Bevölkerung wächst die Sorge. Von Karin Bensch.",
+   "link": "https://www.tagesschau.de/ausland/afrika/ebola-kenia-100.html",
+   "published": "2026-10-08T12:53:37+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-11T12:53:37+00:00",
+   "img": "https://images.tagesschau.de/image/dc02932d-bb18-4295-b247-df674814ee5b/AAABoRsZSRs/AAABnSSvrFg/16x9-big/ebola-kenia-102.jpg?width=1920"
+  },
+  {
+   "id": "n45a9930e77",
+   "topic": "welt",
+   "title": "Südostasien im Smog: Kaum Lehren aus vergangenen Krisen",
+   "text": "Nach verheerenden Flächenbränden im Jahr 2015 versprachen die Regierungen effektive Gegenmaßnamen. Elf Jahre später leidet Südostasien aber erneut unter grenzüberschreitendem Smog.",
+   "link": "https://www.dw.com/de/südostasien-im-smog-kaum-lehren-aus-vergangenen-krisen/a-79588996?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-08T12:45:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-12T12:45:00+00:00",
+   "img": "https://static.dw.com/image/79408545_302.jpg"
+  },
+  {
+   "id": "necdab483b1",
+   "topic": "wirtschaft",
+   "title": "Marktbericht: Samsung setzt mit Rekordgewinn neue Maßstäbe",
+   "text": "Fast 72 Milliarden Euro in einem Quartal - noch nie hat ein Tech-Unternehmen so viel verdient wie jetzt Samsung. Für den südkoreanischen Konzern war es der vierte Rekordgewinn in Folge, angetrieben vom Chip-Geschäft",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-samsung-100.html",
+   "published": "2026-10-08T12:02:09+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-11T12:02:09+00:00",
+   "img": "https://images.tagesschau.de/image/230f0357-cbcf-475c-8b75-335945eed329/AAABoRrPfcc/AAABnSSvrFg/16x9-big/samsung-240.jpg?width=1920"
+  },
+  {
+   "id": "nf8fb2d830b",
+   "topic": "politik",
+   "title": "Statistisches Bundesamt: Krankheitskosten in Deutschland weiter gestiegen",
+   "text": "Die direkten Kosten für Krankheiten und Gesundheitsprobleme sind in Deutschland im Jahr 2024 um mehr als 7,6 Prozent gestiegen. Laut Statistischem Bundesamt lagen sie damit erstmals über einer halben Billion Euro.",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/krankheitskosten-destatis-100.html",
+   "published": "2026-10-08T11:50:37+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-11T11:50:37+00:00",
+   "img": "https://images.tagesschau.de/image/8e30e283-7d25-4a77-8009-7b347d4175eb/AAABoRs0WLs/AAABnSSvrFg/16x9-big/arzt-258.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Deutschland: Krankheitskosten übersteigen halbe Billion Euro",
+     "link": "https://www.dw.com/de/deutschland-krankheitskosten-übersteigen-halbe-billion-euro/a-79592688?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "nbe8d3132d7",
+   "topic": "wirtschaft",
+   "title": "Regierung hebt Wachstumsprognose für 2026 auf 1,3 Prozent an",
+   "text": "Die Bundesregierung erwartet für das laufende Jahr ein Wachstum von 1,3 Prozent. Damit blickt sie deutlich optimistischer auf die wirtschaftliche Entwicklung als noch im Frühjahr, als sie von 0,5 Prozent ausgegangen war.",
+   "link": "https://www.tagesschau.de/wirtschaft/konjunktur/wachstumsprognose-regierung-100.html",
+   "published": "2026-10-08T11:18:18+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-11T11:18:18+00:00",
+   "img": "https://images.tagesschau.de/image/1e43c451-4e37-4b51-ad80-c26ff7124139/AAABoRsQP2s/AAABnSSvrFg/16x9-big/reiche-220.jpg?width=1920"
+  },
   {
    "id": "n177a30d852",
    "topic": "wissenschaft",
@@ -56,6 +605,19 @@
    "type": "Wissenschaftsmagazin",
    "lang": "de",
    "expires": "2026-10-22T11:00:00+00:00"
+  },
+  {
+   "id": "n6fdee3bf5b",
+   "topic": "politik",
+   "title": "Mögliche CDU-Stimmen für AfD: Radtke fordert Parteiausschluss für Abweichler",
+   "text": "Haben bei der Wahl des Landtagspräsidenten in Sachsen-Anhalt auch CDU-Abgeordnete für den AfD-Kandidaten Rausch gestimmt? Der Chef des CDU-Arbeitnehmerflügels verlangt in diesem Fall harte Konsequenzen.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-reaktionen-wahl-sachsen-anhalt-100.html",
+   "published": "2026-10-08T10:51:26+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-11T10:51:26+00:00",
+   "img": "https://images.tagesschau.de/image/2e97dfec-91e3-4de0-b5ed-54a1d6d237f3/AAABoRr547I/AAABnSSvrFg/16x9-big/radtke-108.jpg?width=1920"
   },
   {
    "id": "n4fbb04d430",
@@ -95,7 +657,14 @@
    "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
    "lang": "de",
    "expires": "2026-10-12T10:33:00+00:00",
-   "img": "https://static.dw.com/image/74613894_302.jpg"
+   "img": "https://static.dw.com/image/74613894_302.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Statistisches Bundesamt: Krankheitskosten in Deutschland weiter gestiegen",
+     "link": "https://www.tagesschau.de/inland/gesellschaft/krankheitskosten-destatis-100.html"
+    }
+   ]
   },
   {
    "id": "n9116978bf2",
@@ -160,31 +729,6 @@
    "type": "Sportmedium",
    "lang": "en",
    "expires": "2026-10-13T10:23:00+00:00"
-  },
-  {
-   "id": "ndf85d7b5dd",
-   "topic": "welt",
-   "title": "Mindestens 30 Tote bei russischen Angriffen auf Busse in der Ukraine",
-   "text": "Bei russischen Angriffen auf zwei Busse in der Ostukraine sind mindestens 30 Menschen getötet worden, weitere 18 wurden verletzt. Nach Angriffen auf Kiew und andere Städte musste der Strom dort abgeschaltet werden.",
-   "link": "https://www.tagesschau.de/ausland/europa/ukraine-bus-kramatorsk-100.html",
-   "published": "2026-10-08T10:22:18+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-11T10:22:18+00:00",
-   "img": "https://images.tagesschau.de/image/df74c0cc-b835-48de-a3f7-ad89434464e9/AAABoRsL_hc/AAABnSSvrFg/16x9-big/bus-ukraine-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Krieg gegen die Ukraine - 30 Tote bei russischem Angriff auf Bus im Osten der Ukraine - Ukraine trifft russisches Datenzentrum",
-     "link": "https://www.deutschlandfunk.de/30-tote-bei-russischem-angriff-auf-bus-im-osten-der-ukraine-ukraine-trifft-russisches-datenzentrum-100.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "News kompakt: Viele Tote nach russischem Angriff auf Ukraine",
-     "link": "https://www.dw.com/de/news-kompakt-viele-tote-nach-russischem-angriff-auf-ukraine/a-79587580?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
   },
   {
    "id": "n5646b8494a",
@@ -261,7 +805,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-10T10:03:42+00:00",
-   "img": "https://bilder.deutschlandfunk.de/bd/c0/a9/11/bdc0a911-53dd-4817-b254-e6be0afdf784/gruene-linke-spd-berlin-100-1920x1920.jpg"
+   "img": "https://bilder.deutschlandfunk.de/bd/c0/a9/11/bdc0a911-53dd-4817-b254-e6be0afdf784/gruene-linke-spd-berlin-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Berlin-Wahl: Linke, Grüne und SPD kündigen Sondierungsgespräche an",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-sondierungsgespraeche-100.html"
+    }
+   ]
   },
   {
    "id": "n3e931ae14e",
@@ -274,14 +825,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-10T10:03:42+00:00",
-   "img": "https://bilder.deutschlandfunk.de/6c/28/69/70/6c286970-0bdc-4d96-b442-f256e306e5c1/afd-rausch-magdeburg-100-768x768.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Merz über Sachsen-Anhalt: \"Mit den Werten der CDU verträgt sich das nicht\"",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-reaktion-wahl-landtag-sachsen-anhalt-102.html"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/6c/28/69/70/6c286970-0bdc-4d96-b442-f256e306e5c1/afd-rausch-magdeburg-100-768x768.jpg"
   },
   {
    "id": "n2352685aa4",
@@ -309,11 +853,6 @@
    "expires": "2026-10-10T10:03:42+00:00",
    "img": "https://bilder.deutschlandfunk.de/79/df/38/5d/79df385d-29f1-47ff-86b7-4fe823b0de9a/yandex-russland-100-1280x1280.jpg",
    "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Mindestens 30 Tote bei russischen Angriffen auf Busse in der Ukraine",
-     "link": "https://www.tagesschau.de/ausland/europa/ukraine-bus-kramatorsk-100.html"
-    },
     {
      "source": "Deutsche Welle",
      "title": "News kompakt: Viele Tote nach russischem Angriff auf Ukraine",
@@ -370,19 +909,6 @@
    "lang": "de",
    "expires": "2026-10-15T09:55:35+00:00",
    "img": "https://the-decoder.de/wp-content/uploads/2026/10/claude_hiking.png"
-  },
-  {
-   "id": "n45a9930e77",
-   "topic": "welt",
-   "title": "Südostasien im Smog: Kaum Lehren aus vergangenen Krisen",
-   "text": "Nach verheerenden Flächenbränden im Jahr 2015 versprachen die Regierungen effektive Gegenmaßnamen. Elf Jahre später leidet Südostasien aber erneut unter grenzüberschreitendem Smog.",
-   "link": "https://www.dw.com/de/südostasien-im-smog-kaum-lehren-aus-vergangenen-krisen/a-79588996?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-08T09:24:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-12T09:24:00+00:00",
-   "img": "https://static.dw.com/image/79408545_302.jpg"
   },
   {
    "id": "ne1b6a6d0e3",
@@ -493,19 +1019,6 @@
    ]
   },
   {
-   "id": "n0e80671f38",
-   "topic": "welt",
-   "title": "Nach Huthi-Angriffen auf Riad: Saudi-Arabien greift erneut Ziele im Jemen an",
-   "text": "Die gegenseitigen Angriffe von Saudi-Arabien und der jemenitischen Huthi-Miliz halten an. Nach Attacken auf saudi-arabische Flughäfen meldet Riad die Zerstörung von Dutzenden militärischen Objekten der Huthi im Jemen.",
-   "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-jemen-huthi-angriffe-100.html",
-   "published": "2026-10-08T08:14:35+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-11T08:14:35+00:00",
-   "img": "https://images.tagesschau.de/image/b64a32de-4fdc-4c6a-aede-610517c7248c/AAABoRq9hv4/AAABnSSvrFg/16x9-big/karte-saudi-arabien-riad-abha-jemen-saada-marib-al-dschauf-al-hudaida-100.jpg?width=1920"
-  },
-  {
    "id": "n1511a3a79d",
    "topic": "wirtschaft",
    "title": "Update Wirtschaft vom 08.10.2026",
@@ -532,11 +1045,6 @@
    "img": "https://static.dw.com/image/79588644_302.jpg",
    "also": [
     {
-     "source": "Tagesschau",
-     "title": "Mindestens 30 Tote bei russischen Angriffen auf Busse in der Ukraine",
-     "link": "https://www.tagesschau.de/ausland/europa/ukraine-bus-kramatorsk-100.html"
-    },
-    {
      "source": "Deutschlandfunk",
      "title": "Krieg gegen die Ukraine - 30 Tote bei russischem Angriff auf Bus im Osten der Ukraine - Ukraine trifft russisches Datenzentrum",
      "link": "https://www.deutschlandfunk.de/30-tote-bei-russischem-angriff-auf-bus-im-osten-der-ukraine-ukraine-trifft-russisches-datenzentrum-100.html"
@@ -555,19 +1063,6 @@
    "lang": "de",
    "expires": "2026-10-11T06:57:16+00:00",
    "img": "https://images.tagesschau.de/image/0a8267b7-a2da-4eb4-bb5a-b7fda46a2e11/AAABoJ9akT0/AAABnSSvrFg/16x9-big/commerzbank-270.jpg?width=1920"
-  },
-  {
-   "id": "n372b3f4e6b",
-   "topic": "welt",
-   "title": "Iran: Mehr Druck auf Frauen ohne Hidschab",
-   "text": "Immer mehr Frauen im Iran widersetzen sich der Hidschab-Pflicht. Hardliner setzen zunehmend auf sozialen Druck, statt auf die \"Sittenpolizei\" auf der Straße.",
-   "link": "https://www.dw.com/de/iran-mehr-druck-auf-frauen-ohne-hidschab/a-79582495?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-08T06:56:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-12T06:56:00+00:00",
-   "img": "https://static.dw.com/image/68866499_302.jpg"
   },
   {
    "id": "n13c5cbc79d",
@@ -658,7 +1153,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-11T02:41:09+00:00",
-   "img": "https://images.tagesschau.de/image/304abf2d-1b10-4fcf-acf6-93c7696cdd3c/AAABoKX0gtw/AAABnSSvrFg/16x9-big/meloni-234.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/304abf2d-1b10-4fcf-acf6-93c7696cdd3c/AAABoKX0gtw/AAABnSSvrFg/16x9-big/meloni-234.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Italien: Parlament billigt Melonis umstrittenes Wahlrecht",
+     "link": "https://www.dw.com/de/italien-parlament-billigt-melonis-umstrittenes-wahlrecht/a-79596399?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
   },
   {
    "id": "n99b83bb212",
@@ -729,14 +1231,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-10T00:42:18+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Merz über Sachsen-Anhalt: \"Mit den Werten der CDU verträgt sich das nicht\"",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-reaktion-wahl-landtag-sachsen-anhalt-102.html"
-    }
-   ]
+   "expires": "2026-10-10T00:42:18+00:00"
   },
   {
    "id": "n6d642d34b9",
@@ -749,14 +1244,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-10T00:42:18+00:00",
-   "img": "https://bilder.deutschlandfunk.de/d4/80/50/0a/d480500a-63d7-46cf-a27c-0187935d99b1/serap-gueler-interview-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Merz über Sachsen-Anhalt: \"Mit den Werten der CDU verträgt sich das nicht\"",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-reaktion-wahl-landtag-sachsen-anhalt-102.html"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/d4/80/50/0a/d480500a-63d7-46cf-a27c-0187935d99b1/serap-gueler-interview-100-1920x1920.jpg"
   },
   {
    "id": "nc3e1672208",
@@ -781,14 +1269,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-10T00:42:18+00:00",
-   "img": "https://bilder.deutschlandfunk.de/b9/17/50/e3/b91750e3-2ea1-44db-8c77-2c90a25293a2/sachsen-anhalt-plenum-landtag-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Merz über Sachsen-Anhalt: \"Mit den Werten der CDU verträgt sich das nicht\"",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-reaktion-wahl-landtag-sachsen-anhalt-102.html"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/b9/17/50/e3/b91750e3-2ea1-44db-8c77-2c90a25293a2/sachsen-anhalt-plenum-landtag-100-1920x1920.jpg"
   },
   {
    "id": "ne697da58a7",
@@ -914,14 +1395,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-09T20:32:51+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Merz über Sachsen-Anhalt: \"Mit den Werten der CDU verträgt sich das nicht\"",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-reaktion-wahl-landtag-sachsen-anhalt-102.html"
-    }
-   ]
+   "expires": "2026-10-09T20:32:51+00:00"
   },
   {
    "id": "n54e0b8a976",
@@ -945,8 +1419,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-09T20:32:51+00:00",
-   "img": "https://bilder.deutschlandfunk.de/77/99/ce/8f/7799ce8f-4ea9-400e-b2e2-19ccd1aa30af/ehemaliger-bundesnachrichtendienstchef-hanning-100-1920x1920.jpg"
+   "expires": "2026-10-09T20:32:51+00:00"
   },
   {
    "id": "ne64a740750",
@@ -1114,19 +1587,6 @@
    ]
   },
   {
-   "id": "n49a6c1184d",
-   "topic": "politik",
-   "title": "Berlin: Hunderte Menschen gedenken der Opfer des Hamas-Anschlags",
-   "text": "In Berlin finden zum dritten Jahrestag des bewaffneten Terrorangriffs der Hamas auf Israel mehrere Gedenkveranstaltungen statt. Innenminister Dobrindt sagte, die Bekämpfung des Antisemitismus gehöre zur \"Pflicht eines jeden Deutschen\".",
-   "link": "https://www.tagesschau.de/inland/gesellschaft/hamas-anschlag-auf-israel-gedenken-in-berlin-100.html",
-   "published": "2026-10-07T19:24:39+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-10T19:24:39+00:00",
-   "img": "https://images.tagesschau.de/image/2fd60702-9c7b-4f4b-8741-3bd223199de4/AAABoRfYH_I/AAABnSSvrFg/16x9-big/rbb-gedenktag-hamas-berlin-2026-100.jpg?width=1920"
-  },
-  {
    "id": "n892c937356",
    "topic": "ki",
    "title": "\"Intelligent UI\": OpenAI bringt GPT-6 mit neuer interaktiver Oberfläche in ChatGPT",
@@ -1263,506 +1723,6 @@
    "lang": "de",
    "expires": "2026-10-12T16:46:05+00:00",
    "img": "https://www.golem.de/2610/213839-602198-602196_rc.jpg"
-  },
-  {
-   "id": "nffa7ed26f1",
-   "topic": "politik",
-   "title": "Steinmeiers Abschiedsbesuch in Paris in stürmischen Zeiten",
-   "text": "Die Amtszeit von Bundespräsident Steinmeier endet bald, die von Frankreichs Staatspräsident Macron auch. Beide verstehen sich. Auf Regierungsebene gibt es aber schon seit einiger Zeit Probleme. Nun fliegt Steinmeier nach Paris. Von T. Handel.",
-   "link": "https://www.tagesschau.de/inland/steinmeier-staatsbesuch-frankreich-100.html",
-   "published": "2026-10-07T16:45:18+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-10T16:45:18+00:00",
-   "img": "https://images.tagesschau.de/image/783a2d50-18f0-4ee8-9e5b-7b46854cc8f7/AAABoRXjHM8/AAABnSSvrFg/16x9-big/macron-steinmeier-102.jpg?width=1920"
-  },
-  {
-   "id": "n831fbbebb2",
-   "topic": "politik",
-   "title": "Themen im Koalitionsausschuss: Was Schwarz-Rot jetzt vor sich hat",
-   "text": "Die schwarz-rote Koalition will ihre Reformvorhaben voranbringen, doch bei wichtigen Projekten liegen die Partner überkreuz. Und die jüngsten Wahlergebnisse setzen der Regierung zu. Welche Themen werden heute diskutiert?",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-reformen-106.html",
-   "published": "2026-10-07T16:38:29+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-10T16:38:29+00:00",
-   "img": "https://images.tagesschau.de/image/2af11699-823c-4a04-8689-543d754011ba/AAABoRXeHDo/AAABnSSvrFg/16x9-big/bundeskanzleramt-218.jpg?width=1920"
-  },
-  {
-   "id": "nd992c8a8c8",
-   "topic": "welt",
-   "title": "EU plant Beitritt in Stufen - und Ende der Einstimmigkeit",
-   "text": "Um einen EU-Beitritt einfacher zu machen, plant die Kommission eine Mitgliedschaft in Stufen. Und damit eine erweiterte Union handlungsfähig bleibt, soll es zentrale Reformen geben: etwa beim Prinzip der Einstimmigkeit. Von Sabrina Fritz.",
-   "link": "https://www.tagesschau.de/ausland/europa/eu-regeln-mitgliedschaft-100.html",
-   "published": "2026-10-07T16:33:03+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-10T16:33:03+00:00",
-   "img": "https://images.tagesschau.de/image/5c6bbce3-24b9-4740-92c8-f5397e48f06e/AAABoRc2F7k/AAABnSSvrFg/16x9-big/marta-kos-110.jpg?width=1920"
-  },
-  {
-   "id": "n2675f4f18d",
-   "topic": "wissenschaft",
-   "title": "Nobelpreis für Chemie 2026: Moleküle, die ihr Spiegelbild auslöschen",
-   "text": "Zwei Forscher erhalten den Preis, weil sie eins der größten Rätsel des Lebens und eine der größten Herausforderungen im Labor gelöst haben – zumindest teilweise.",
-   "link": "https://www.spektrum.de/news/nobelpreis-fuer-chemie-2026-molekuele-die-ihr-spiegelbild-ausloeschen/2343912",
-   "published": "2026-10-07T16:31:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-10-21T16:31:00+00:00"
-  },
-  {
-   "id": "nfe227122ff",
-   "topic": "wirtschaft",
-   "title": "DAX fällt wieder zurück",
-   "text": "Die Anleger haben sich nach den jüngsten Gewinntagen heute wieder zurückgezogen. Steigende Ölpreise und Anleiherenditen drücken die Stimmung. Im besonderen Fokus standen Autoaktien.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-118.html",
-   "published": "2026-10-07T16:30:44+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-10T16:30:44+00:00",
-   "img": "https://images.tagesschau.de/image/fd84c6eb-d196-4cc4-9594-a882c2aaa616/AAABnS7y0iI/AAABnSSvrFg/16x9-big/dax-kurstafel-marktbericht-114.jpg?width=1920"
-  },
-  {
-   "id": "nc93df75859",
-   "topic": "wissenschaft",
-   "title": "Bilder der Woche: Der lange Atem des Mars",
-   "text": "Jeden Morgen im Frühling und Sommer bildet sich über dem Marsvulkan Arsia Mons eine bis zu 1800 Kilometer lange Eiswolke. Ihr Entstehungsmechanismus blieb lange Zeit rätselhaft.",
-   "link": "https://www.spektrum.de/alias/bilder-der-woche/eiswolken-auf-dem-mars-der-lange-atem-des-roten-planeten/2348496",
-   "published": "2026-10-07T16:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-10-21T16:00:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/Mars_Express_HRSC_image_2.png.8414690.png?f=1280x720"
-  },
-  {
-   "id": "n1e1368e3bd",
-   "topic": "politik",
-   "title": "Mutmaßliches Mitglied russischer Qilin-Hacker festgenommen",
-   "text": "Nordrhein-Westfalens Ermittlern ist offenbar ein Schlag gegen die weltweit tätige russische Hackergruppe Qilin gelungen. Einer der mutmaßlich führenden Köpfe wurde in Tokio festgenommen und an Deutschland ausgeliefert.",
-   "link": "https://www.tagesschau.de/inland/gesellschaft/nordrhein-westfalen-russische-hackergruppe-festnahme-100.html",
-   "published": "2026-10-07T15:50:00+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-10T15:50:00+00:00"
-  },
-  {
-   "id": "n25d7ceac96",
-   "topic": "politik",
-   "title": "Jahrestag des Hamas-Überfalls: Deutschlands schwieriger Balanceakt mit Israel",
-   "text": "Der Hamas-Überfall löste in Deutschland eine Welle von Betroffenheit aus. Israels Vorgehen im Gazastreifen brachte Berlin dann in Erklärungsnot. Die Beziehungen zwischen beiden Ländern sind komplizierter geworden. Von T. Aßmann.",
-   "link": "https://www.tagesschau.de/inland/beziehungen-deutschland-israel-100.html",
-   "published": "2026-10-07T15:30:04+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-10T15:30:04+00:00",
-   "img": "https://images.tagesschau.de/image/36c1f66a-88ac-4fb6-a589-6793b67549f5/AAABoRYKiIY/AAABnSSvrFg/16x9-big/merz-netanjahu-110.jpg?width=1920"
-  },
-  {
-   "id": "necbf827b53",
-   "topic": "welt",
-   "title": "Ukraine: Viele Tote bei russischen Angriffen",
-   "text": "Wieder haben russische Raketen, Drohnen und Marschflugkörper Kiew und andere ukrainische Städte getroffen. In der nordukrainischen Stadt Pryluki trafen Raketen ein mehrstöckiges Wohnhaus. Es gibt viele Tote.",
-   "link": "https://www.tagesschau.de/ausland/europa/russland-greift-kiew-an-100.html",
-   "published": "2026-10-07T15:21:49+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-10T15:21:49+00:00",
-   "img": "https://images.tagesschau.de/image/7585e2c3-e1a6-43de-92e4-ea2870db8a8e/AAABoRUWvW8/AAABnSSvrFg/16x9-big/ukraine-2858.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Krieg gegen die Ukraine - 30 Tote bei russischem Angriff auf Bus im Osten der Ukraine - Ukraine trifft russisches Datenzentrum",
-     "link": "https://www.deutschlandfunk.de/30-tote-bei-russischem-angriff-auf-bus-im-osten-der-ukraine-ukraine-trifft-russisches-datenzentrum-100.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "News kompakt: Viele Tote nach russischem Angriff auf Ukraine",
-     "link": "https://www.dw.com/de/news-kompakt-viele-tote-nach-russischem-angriff-auf-ukraine/a-79587580?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n8c1d45e790",
-   "topic": "politik",
-   "title": "Merz über Sachsen-Anhalt: \"Mit den Werten der CDU verträgt sich das nicht\"",
-   "text": "Wurde der AfD-Landtagspräsident in Sachsen-Anhalt auch mit CDU-Stimmen gewählt? In der Partei ist die Unruhe groß. Nun versucht Kanzler Merz, die Reihen zu schließen - und deutet an: Die Stimmen könnten auch von einer anderen Partei gekommen sein.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-reaktion-wahl-landtag-sachsen-anhalt-102.html",
-   "published": "2026-10-07T15:19:43+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-10T15:19:43+00:00",
-   "img": "https://images.tagesschau.de/image/5e60952d-2479-4508-bd6f-1ca701733f5b/AAABoRbVMCA/AAABnSSvrFg/16x9-big/merz-1690.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Sachsen-Anhalt - CDU-Staatssekretärin Güler geht von CDU-Stimmen für AfD-Landtagspräsidenten aus - Merz hält \"False-Flag\"-Aktion für möglich",
-     "link": "https://www.deutschlandfunk.de/cdu-staatssekretaerin-gueler-geht-von-cdu-stimmen-fuer-afd-landtagspraesidenten-aus-merz-haelt-false-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n593340331d",
-   "topic": "wissenschaft",
-   "title": "Grundlegendes Konzept entdeckt - Chemie-Nobelpreis für Japaner und Franzosen",
-   "text": "Die Forscher Henri Kagan und Kenso Soai haben ein grundlegendes Konzept der organischen Chemie entdeckt. Ihre Ergebnisse sind auch für die Entwicklung von Medikamenten wichtig. Von Veronika Simon.",
-   "link": "https://www.tagesschau.de/wissen/forschung/chemie-nobelpreis-kagan-soai-100.html",
-   "published": "2026-10-07T14:49:24+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-21T14:49:24+00:00",
-   "img": "https://images.tagesschau.de/image/a8136cf3-2dcf-429c-8e50-17585dfa0791/AAABoRa1WCo/AAABnSSvrFg/16x9-big/nobelpreis-chemie-208.jpg?width=1920"
-  },
-  {
-   "id": "nd8829d1780",
-   "topic": "politik",
-   "title": "Die Affäre Hanning: BND vor einem Scherbenhaufen",
-   "text": "Über Jahre sollen geheime Dokumente aus dem BND abgeflossen sein. Nun muss Nachrichtendienst-Chef Jäger erklären, wie das möglich war - und ob Partnerdienste dem BND noch vertrauen können. Von M. Götschenberg und H. Schmidt.",
-   "link": "https://www.tagesschau.de/inland/gesellschaft/fall-hanning-bnd-100.html",
-   "published": "2026-10-07T14:30:31+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-10T14:30:31+00:00",
-   "img": "https://images.tagesschau.de/image/733588a5-f873-4d6a-911c-12a945d83744/AAABoRVv52E/AAABnSSvrFg/16x9-big/bnd-zentrale-102.jpg?width=1920"
-  },
-  {
-   "id": "n58d9a39045",
-   "topic": "welt",
-   "title": "Euro fällt gegenüber dem US-Dollar: Droht eine Finanzkrise?",
-   "text": "Der Euro ist gegenüber dem Dollar auf ein 17-Monats-Tief gefallen. Dies dürfte die Inflation in der EU verschärfen. Politische Unsicherheiten und Sorgen über die französische Verschuldung beunruhigen die Anleger bereits.",
-   "link": "https://www.dw.com/de/euro-fällt-gegenüber-dem-us-dollar-droht-eine-finanzkrise/a-79581202?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-07T14:25:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-11T14:25:00+00:00",
-   "img": "https://static.dw.com/image/79585182_302.jpg"
-  },
-  {
-   "id": "n055c0137f9",
-   "topic": "welt",
-   "title": "Nach langer Krise hat Kosovo wieder eine Präsidentin",
-   "text": "Nach 20 Monaten politischer Blockade hat die Republik Kosovo eine Präsidentin. Justina Shiroka-Pula wurde kurz vor Ablauf einer Frist gewählt, die Neuwahlen bedeutet hätten. Nun ist der Weg für einen Neubeginn offen.",
-   "link": "https://www.dw.com/de/nach-langer-krise-hat-kosovo-wieder-eine-präsidentin/a-79580076?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-07T14:21:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-11T14:21:00+00:00",
-   "img": "https://static.dw.com/image/79573779_302.jpg"
-  },
-  {
-   "id": "nb97c9c905b",
-   "topic": "wissenschaft",
-   "title": "Spiegelbakterien: Die ultimativen Killerkeime",
-   "text": "Bakterien aus spiegelverkehrten Biomolekülen konstruieren? Wissenschaftler sind sich einig: Das darf niemals geschehen. Denn es könnte eine globale Katastrophe auslösen.",
-   "link": "https://www.spektrum.de/news/spiegelbakterien-die-ultimativen-killerkeime/2309236",
-   "published": "2026-10-07T14:15:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-10-21T14:15:00+00:00"
-  },
-  {
-   "id": "n3c0f087b43",
-   "topic": "wissenschaft",
-   "title": "Schlichting!: Schattentheater an der Zimmerdecke",
-   "text": "Manche Fußböden lassen ähnlich wie Milchglasscheiben ein wenig Licht und Schatten hindurch. Trotz einfacher physikalischer Regeln wirkt das Geschehen von unten gesehen surreal.",
-   "link": "https://www.spektrum.de/kolumne/schlichting-schattentheater-an-der-zimmerdecke/2337779",
-   "published": "2026-10-07T14:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-10-21T14:00:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/Schattenwelt_HJHeyen.JPG.8404297.gif?f=1280x720"
-  },
-  {
-   "id": "n2c2d52cbb9",
-   "topic": "wirtschaft",
-   "title": "Deutsche Firmen meist nicht speziell für KI-Angriffe gewappnet",
-   "text": "Rund die Hälfte der Unternehmen in Deutschland nutzt inzwischen KI-Anwendungen. Aber viele Firmen haben nur unzureichende Schutzvorkehrungen, um sich etwa vor Cyberangriffen zu schützen. Von M. Polansky.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/ki-sicherheit-cyberattaken-100.html",
-   "published": "2026-10-07T13:55:15+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-10T13:55:15+00:00",
-   "img": "https://images.tagesschau.de/image/10c9bfce-ba0b-4b57-932c-59c78b593359/AAABoO0-VxY/AAABnSSvrFg/16x9-big/ki-rechenzentrum-102.jpg?width=1920"
-  },
-  {
-   "id": "n939b7fcfcd",
-   "topic": "welt",
-   "title": "Springt Äthiopiens Tigray-Krieg auf Eritrea über?",
-   "text": "Äthiopiens Ministerpräsident Abiy Ahmed festigt seine Macht - und kalkuliert mit einem regionalen Krieg in Tigray. Doch seine Gegner schließen die Reihen.",
-   "link": "https://www.dw.com/de/springt-äthiopiens-tigray-krieg-auf-eritrea-über/a-79577720?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-07T13:47:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-11T13:47:00+00:00",
-   "img": "https://static.dw.com/image/79554493_302.jpg"
-  },
-  {
-   "id": "n4382dad7d2",
-   "topic": "politik",
-   "title": "Früherer BND-Präsident Hanning muss in Untersuchungshaft",
-   "text": "Der ehemalige BND-Chef Hanning muss in Untersuchungshaft. Ein Ermittlungsrichter des Bundesgerichtshofs habe den Haftbefehl in Vollzug gesetzt, teilte die Bundesanwaltschaft mit. Hanning steht unter Spionageverdacht.",
-   "link": "https://www.tagesschau.de/inland/gesellschaft/hanning-bnd-haftbefehl-spionage-100.html",
-   "published": "2026-10-07T13:46:15+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-10T13:46:15+00:00",
-   "img": "https://images.tagesschau.de/image/91d7c35c-bedb-4b9c-ac4d-181eb89307b9/AAABoRBHWng/AAABnSSvrFg/16x9-big/august-hanning-100.jpg?width=1920"
-  },
-  {
-   "id": "ne0121acfe4",
-   "topic": "it",
-   "title": "Linux-Desktop Cosmic: System76 schließt KI-Inhalte aus Pull-Requests aus",
-   "text": "Die Akzeptanz für KI fällt in der Linux-Community unterschiedlich aus. Ein Gnome-Entwickler fordert, zumindest Fehlerberichte zuzulassen. ( KI , Gnome )",
-   "link": "https://www.golem.de/news/linux-desktop-cosmic-system76-schliesst-ki-inhalte-aus-pull-requests-aus-2610-213822.html",
-   "published": "2026-10-07T13:21:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-12T13:21:02+00:00",
-   "img": "https://www.golem.de/2610/213822-602097-602095_rc.jpg"
-  },
-  {
-   "id": "n818429f0a5",
-   "topic": "politik",
-   "title": "Bundeskanzler - Merz verurteilt Wahl eines AfD-Politikers zum Landtagspräsidenten: Extremismus dingt mit Wucht in die Parlamente",
-   "text": "Bundeskanzler Merz hat die Wahl des AfD-Politikers Rausch zum Landtagspräsidenten von Sachsen-Anhalt verurteilt.",
-   "link": "https://www.deutschlandfunk.de/merz-verurteilt-wahl-eines-afd-politikers-zum-landtagspraesidenten-extremismus-dingt-mit-wucht-in-di-102.html",
-   "published": "2026-10-07T13:18:53+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-09T13:18:53+00:00",
-   "img": "https://bilder.deutschlandfunk.de/7d/10/ab/06/7d10ab06-79b1-4656-9ae0-4f461239554c/bundeskanzler-merz-deutschlandgipfel-handelsblatt-100-1920x1920.jpg"
-  },
-  {
-   "id": "n94a288b8c6",
-   "topic": "politik",
-   "title": "Landtag - Sachsen-Anhalt: BSW will mit AfD Ukraine-Antrag verabschieden",
-   "text": "Im Landtag von Sachsen-Anhalt wollen AfD und BSW einem Bericht zufolge bald einen gemeinsamen Antrag zur Ukraine-Politik verabschieden.",
-   "link": "https://www.deutschlandfunk.de/sachsen-anhalt-bsw-will-mit-afd-ukraine-antrag-verabschieden-100.html",
-   "published": "2026-10-07T13:18:53+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-09T13:18:53+00:00",
-   "img": "https://bilder.deutschlandfunk.de/b2/af/9e/80/b2af9e80-259a-4040-a837-afed71e5c8a6/bsw-fraktionschef-schulze-sachsen-anhalt-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Merz über Sachsen-Anhalt: \"Mit den Werten der CDU verträgt sich das nicht\"",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-reaktion-wahl-landtag-sachsen-anhalt-102.html"
-    }
-   ]
-  },
-  {
-   "id": "n394f5d367d",
-   "topic": "politik",
-   "title": "Spionageverdacht - Ex-BND-Präsident Hanning in U-Haft",
-   "text": "Der frühere BND-Präsident Hanning sitzt in Untersuchungshaft. Ein Ermittlungsrichter des Bundesgerichtshofs in Karlsruhe hat nach Angaben der Behörde den Haftbefehl gegen den 80-Jährigen in Kraft gesetzt. Die oberste Anklagebehörde in Deutschland wirft Hanning geheimdienstliche Agententätigkeit, landesverräterische …",
-   "link": "https://www.deutschlandfunk.de/ex-bnd-praesident-hanning-in-u-haft-100.html",
-   "published": "2026-10-07T13:18:53+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-09T13:18:53+00:00",
-   "img": "https://bilder.deutschlandfunk.de/a0/fc/75/46/a0fc7546-e78f-4c44-a18f-625a69c1b677/august-hanning-102-1920x1920.jpg"
-  },
-  {
-   "id": "n10ee726c67",
-   "topic": "politik",
-   "title": "Berlin - Bundespräsident Steinmeier gedenkt der Terroropfer des 7. Oktobers: Schlimmster Anschlag auf jüdisches Leben seit dem Holocaust",
-   "text": "Bundespräsident Steinmeier hat den terroristischen Angriff auf Israel heute vor drei Jahren, als schlimmsten Anschlag auf jüdisches Leben seit dem Holocaust verurteilt. Steinmeier erklärte, die Terroristen hätten mit unvorstellbarer Grausamkeit Frauen, Männer, Kinder, junge und alte Menschen ermordet.",
-   "link": "https://www.deutschlandfunk.de/bundespraesident-steinmeier-gedenkt-der-terroropfer-des-7-oktobers-schlimmster-anschlag-auf-juedisch-100.html",
-   "published": "2026-10-07T13:18:53+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-09T13:18:53+00:00",
-   "img": "https://bilder.deutschlandfunk.de/6d/54/13/6a/6d54136a-1fb6-4cf9-b984-63663fbe4d7e/steinmeier-158-1920x1920.jpg"
-  },
-  {
-   "id": "n5f405aae1a",
-   "topic": "politik",
-   "title": "Tankrabatt kommt größtenteils bei Autofahrern an - Spritpreise deutlich gesunken",
-   "text": "Der seit dem 1. Oktober geltende Tankrabatt kommt nach Einschätzung von Experten des Ifo-Instituts sowie des ADAC nicht komplett, aber größtenteils bei den Autofahrern an. Beim Diesel haben die Tankstellen in den ersten fünf Tagen nach Angaben von Ifo von den 17 Cent Steuersenkung je Liter durchschnittlich 15 Cent …",
-   "link": "https://www.deutschlandfunk.de/tankrabatt-kommt-groesstenteils-bei-autofahrern-an-spritpreise-deutlich-gesunken-100.html",
-   "published": "2026-10-07T13:18:53+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-09T13:18:53+00:00",
-   "img": "https://bilder.deutschlandfunk.de/NO/VA/_4/93/NOVA_493a3423835ebf379b1f0eb2779f2211/craft-12956913-asset-100-1920x1920.jpg"
-  },
-  {
-   "id": "n60a08a561f",
-   "topic": "politik",
-   "title": "Soziales - Geplante Pflegekommission verzögert sich",
-   "text": "Die Einsetzung der Pflegekommission ist verschoben worden.",
-   "link": "https://www.deutschlandfunk.de/geplante-pflegekommission-verzoegert-sich-100.html",
-   "published": "2026-10-07T13:18:53+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-09T13:18:53+00:00",
-   "img": "https://bilder.deutschlandfunk.de/da/dc/6c/66/dadc6c66-7ace-4e14-854d-367a5f364783/bundesgesundheitsministerium-berlin-100-1920x1920.jpg"
-  },
-  {
-   "id": "nd086508b6a",
-   "topic": "politik",
-   "title": "Babenhausen: Bewohner können Ende Oktober in Problem-Hochhaus zurück",
-   "text": "16 Monate mussten die Bewohner eines maroden Hochhauses in Babenhausen auf ihre Rückkehr warten. Endlich ist ein Ende der langen Zwangspause in Sicht. Letzte Arbeiten müssen aber noch erledigt werden.",
-   "link": "https://www.hessenschau.de/panorama/babenhausen-bewohner-koennen-ende-oktober-in-problem-hochhaus-zurueck-v1,einzug-hochhaus-babenhausen-100.html",
-   "published": "2026-10-07T13:13:01+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-11T13:13:01+00:00",
-   "img": "https://www.hessenschau.de/gesellschaft/hochhaus-babenhausen-ein-jahr-102~_t-1780471363223_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "nfb1456a26c",
-   "topic": "nfl",
-   "title": "Colts sign DE Carl Lawson to their practice squad",
-   "text": "The Colts have added a veteran defensive end ahead of Week 5.",
-   "link": "https://sports.yahoo.com/articles/colts-sign-carl-lawson-practice-131041516.html",
-   "published": "2026-10-07T13:10:41+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-12T13:10:41+00:00"
-  },
-  {
-   "id": "naf4cb6aae3",
-   "topic": "it",
-   "title": "Schädlich fürs Fach: Fields-Medaillen-Gewinner kritisiert OpenAIs Mathe-Paper",
-   "text": "OpenAI habe kein wirkliches Interesse an Mathematik, die 722 neuen Dokumente trügen nichts zum Verständnis bei. KI könne das Fach sogar schwächen. ( KI , Wissenschaft )",
-   "link": "https://www.golem.de/news/schaedlich-fuers-fach-fields-medaillen-gewinner-kritisiert-openais-mathe-paper-2610-213818.html",
-   "published": "2026-10-07T13:07:01+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-12T13:07:01+00:00",
-   "img": "https://www.golem.de/2610/213818-602080-602078_rc.jpg"
-  },
-  {
-   "id": "ncef3b9ae25",
-   "topic": "it",
-   "title": "Komplett neu in Rust: Mold 3.0 wirft C++ über Bord",
-   "text": "Mit Version 3.0 wechselt der schnelle Linker Mold von C++ zu Rust. Das nächste Ziel steht schon fest: Mold soll Standard-Linker in Linux-Distributionen werden.",
-   "link": "https://www.heise.de/news/Komplett-neu-in-Rust-Mold-3-0-wirft-C-ueber-Bord-11479469.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-07T13:05:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-12T13:05:00+00:00"
-  },
-  {
-   "id": "nc53bed22e5",
-   "topic": "nfl",
-   "title": "Arizona Cardinals news: Cardinals see minor drop in Week 5 NFL power rankings",
-   "text": "The Cardinals dropped one spot in ESPN’s latest power rankings after losing to the Giants.",
-   "link": "https://sports.yahoo.com/articles/arizona-cardinals-news-cardinals-see-130411588.html",
-   "published": "2026-10-07T13:04:11+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-12T13:04:11+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/136b1847677a4e2e4631deb120cfeb17.jpg"
-  },
-  {
-   "id": "nc465f7da2f",
-   "topic": "it",
-   "title": "macOS-App von Google: Lokale KI soll Notizen erfassen und mit Dateien arbeiten",
-   "text": "Google AI Edge Foresight läuft mit einem Gemma-Modell und soll Meetings zusammenfassen und Mac-Dokumente verstehen. Alles sei „100% lokal on-device“, so Google.",
-   "link": "https://www.heise.de/news/macOS-App-von-Google-Lokale-KI-soll-Notizen-erfassen-und-mit-Dateien-arbeiten-11479135.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-07T13:03:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-12T13:03:00+00:00"
-  },
-  {
-   "id": "nb5eda13de7",
-   "topic": "it",
-   "title": "heise+ | Warum moderne Java-Systeme weder rein reaktiv noch rein synchron sind",
-   "text": "Reactive war lange Zeit eine Glaubensfrage. Mit virtuellen Threads und KI-Anforderungen wandelt sich die Debatte zu einer hybriden, pragmatischen Architektur.",
-   "link": "https://www.heise.de/hintergrund/Warum-moderne-Java-Systeme-weder-rein-reaktiv-noch-rein-synchron-sind-11471635.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-   "published": "2026-10-07T13:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-12T13:00:00+00:00"
-  },
-  {
-   "id": "nc0436337b6",
-   "topic": "nfl",
-   "title": "NFL MVP rankings: Kenneth Walker III overtakes Josh Allen for No. 1 after Week 4",
-   "text": "The Chiefs running back unseats Josh Allen atop this week's MVP rankings after another dominant performance, while Brock Purdy and Bijan Robinson continue to climb",
-   "link": "https://www.cbssports.com/nfl/news/nfl-mvp-rankings-week-4-kenneth-walker-iii-josh-allen-brock-purdy/",
-   "published": "2026-10-07T12:58:41+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-12T12:58:41+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/06/0374ea30-75af-498c-88cf-e09e163e603e/walker.jpg"
-  },
-  {
-   "id": "nfcbc2931d0",
-   "topic": "nfl",
-   "title": "Dodgers take NLDS lead, Padres extend series vs. Brewers; Pete Prisco's Week 5 NFL Power Rankings",
-   "text": "Plus NBA coach rankings for the 2026-27 season",
-   "link": "https://www.cbssports.com/mlb/news/dodgers-take-nlds-lead-padres-extend-series-vs-brewers-pete-priscos-week-5-nfl-power-rankings/",
-   "published": "2026-10-07T12:58:25+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-12T12:58:25+00:00"
-  },
-  {
-   "id": "n5342f31d8b",
-   "topic": "politik",
-   "title": "Bundeskabinett bringt besseren Schutz vor digitaler Gewalt auf den Weg",
-   "text": "Bundesjustizministerin Hubig will die Menschen besser vor digitaler Gewalt schützen - also etwa sexualisierten Deepfake-Videos oder heimlichen Sauna-Aufnahmen. Das Kabinett stimmte ihrem Gesetzentwurf zu, nun ist der Bundestag am Zug.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/bundeskabinett-digitalegewalt-gesetzgebung-100.html",
-   "published": "2026-10-07T12:55:24+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-10T12:55:24+00:00",
-   "img": "https://images.tagesschau.de/image/f321cb71-8d9e-458c-bdce-9c0a4a0efeee/AAABoRY0O_Y/AAABnSSvrFg/16x9-big/hubig-148.jpg?width=1920"
-  },
-  {
-   "id": "n2db54bce03",
-   "topic": "politik",
-   "title": "AfD-Erfolg in Sachsen-Anhalt: \"Schwerer Schlag\" für die Christdemokraten",
-   "text": "Es ist unklar, wer alles bei der Wahl des Landtagspräsidenten in Sachsen-Anhalt für den AfD-Kandidaten gestimmt hat. Etwa auch CDU-Abgeordnete? Das sei nicht mit den Werten der Partei vereinbar, sagte Generalsekretärin Hoppermann.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-reaktion-wahl-landtag-sachsen-anhalt-100.html",
-   "published": "2026-10-07T12:38:58+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-10T12:38:58+00:00",
-   "img": "https://images.tagesschau.de/image/91e13bac-bd23-4e81-82f8-cfc0c4ee65d4/AAABoRYwCsY/AAABnSSvrFg/16x9-big/hoppermann-118.jpg?width=1920"
   }
  ]
 }
