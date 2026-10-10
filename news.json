@@ -1,50 +1,585 @@
 {
- "generated": "2026-10-10T09:51:32.783025+00:00",
+ "generated": "2026-10-10T17:20:54.724437+00:00",
  "briefing": [
   "nc193dae38b",
+  "nbdf300d978",
+  "n1e7d82bbf4",
   "n572b0add4e",
-  "n8390962ab2",
-  "n5ec7ac4693",
-  "n7e1b766d81",
-  "nd4608855b6",
-  "n130c4a8148",
-  "nc4bb99afd3"
+  "nbf90d240c2",
+  "n7969f427ab",
+  "n3bd59088e4",
+  "naf61bfe603",
+  "n7e1b766d81"
  ],
  "ranked": [
   {
    "id": "nc193dae38b",
-   "s": 49.0
+   "s": 37.1
+  },
+  {
+   "id": "nbdf300d978",
+   "s": 32.3
+  },
+  {
+   "id": "n1e7d82bbf4",
+   "s": 32.3
   },
   {
    "id": "n572b0add4e",
-   "s": 32.7
+   "s": 31.4
   },
   {
-   "id": "n8390962ab2",
-   "s": 27.5
+   "id": "nbf90d240c2",
+   "s": 24.9
   },
   {
-   "id": "n5ec7ac4693",
-   "s": 27.0
+   "id": "n7969f427ab",
+   "s": 23.0
+  },
+  {
+   "id": "n3bd59088e4",
+   "s": 23.0
+  },
+  {
+   "id": "naf61bfe603",
+   "s": 21.7
   },
   {
    "id": "n7e1b766d81",
-   "s": 22.9
-  },
-  {
-   "id": "nd4608855b6",
-   "s": 22.9
-  },
-  {
-   "id": "n130c4a8148",
-   "s": 20.7
-  },
-  {
-   "id": "nc4bb99afd3",
-   "s": 20.7
+   "s": 21.1
   }
  ],
  "items": [
+  {
+   "id": "nc732b24f12",
+   "topic": "politik",
+   "title": "Saudi-Arabien - Huthi-Miliz greift offenbar erneut Flughafen Riad an - Meldungen über zahlreiche Verletzte",
+   "text": "Der internationale Flughafen in Riad ist nach Angaben der Luftfahrtbehörde von Saudi-Arabien erneut angegriffen worden. Dabei seien mindestens 12 Menschen verletzt worden. Nach Angaben der Behörde wurde der Flugverkehr eingestellt.",
+   "link": "https://www.deutschlandfunk.de/huthi-miliz-greift-offenbar-erneut-flughafen-riad-an-meldungen-ueber-zahlreiche-verletzte-100.html",
+   "published": "2026-10-10T17:16:48+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-12T17:16:48+00:00",
+   "img": "https://bilder.deutschlandfunk.de/92/01/27/a6/920127a6-c3e1-4231-8048-1cbd07e65022/skyline-riad-saudi-arabien-100-1920x1920.jpg"
+  },
+  {
+   "id": "n0f4f458d1c",
+   "topic": "politik",
+   "title": "EU - Merz: Irischer Vorschlag für Haushaltsentwurf \"keine Grundlage für Einigung\"",
+   "text": "Bundeskanzler Merz lehnt den Vorschlag der irischen Ratspräsidentschaft für den nächsten EU-Haushalt ab. Dieser sei keinerlei Grundlage für eine Einigung, sagte Merz in Berlin.",
+   "link": "https://www.deutschlandfunk.de/merz-irischer-vorschlag-fuer-haushaltsentwurf-keine-grundlage-fuer-einigung-100.html",
+   "published": "2026-10-10T17:16:48+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-12T17:16:48+00:00",
+   "img": "https://bilder.deutschlandfunk.de/a2/68/4a/d9/a2684ad9-ac2e-40bd-8e48-b8806faada6a/bundeskanzler-merz-berlin-104-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Merz sieht bei irischem Vorschlag für EU-Haushalt \"keine Grundlage für Einigung\"",
+     "link": "https://www.tagesschau.de/ausland/europa/eu-haushalt-irischer-vorschlag-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n057434139f",
+   "topic": "politik",
+   "title": "Mecklenburg-Vorpommern - Weg frei für Koalitionsverhandlungen von SPD, Linken und Grünen",
+   "text": "In Mecklenburg-Vorpommern ist der Weg frei für Koalitionsverhandlungen zur Bildung einer rot-rot-grünen Landesregierung. Auch die Grünen haben sich dafür ausgesprochen. Die Delegierten fassten den Beschluss auf einem Kleinen Parteitag in Rostock. Zuvor hatte nach der SPD bereits die Linkspartei für …",
+   "link": "https://www.deutschlandfunk.de/weg-frei-fuer-koalitionsverhandlungen-von-spd-linken-und-gruenen-100.html",
+   "published": "2026-10-10T17:16:48+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-12T17:16:48+00:00",
+   "img": "https://bilder.deutschlandfunk.de/36/b2/a3/26/36b2a326-ce91-4775-ba44-b7a2a9f3493e/manuela-schwesig-118-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Weg frei für Koalitionsverhandlungen in Schwerin",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/mv-koalitionsverhandlungen-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n7969f427ab",
+   "topic": "politik",
+   "title": "Nach Abgeordnetenhauswahl - Kulturstaatsminister Weimer appelliert an SPD-Vorsitz, Rot-Grün-Rot in Berlin zu verhindern",
+   "text": "Kulturstaatsminister Weimer hat an die SPD-Bundesvorsitzenden Klingbeil und Bas appelliert, ein rot-grün-rotes Bündnis auf Landesebene in Berlin zu verhindern.",
+   "link": "https://www.deutschlandfunk.de/kulturstaatsminister-weimer-appelliert-an-spd-vorsitz-rot-gruen-rot-in-berlin-zu-verhindern-102.html",
+   "published": "2026-10-10T17:16:48+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-12T17:16:48+00:00",
+   "img": "https://bilder.deutschlandfunk.de/ec/f4/17/d2/ecf417d2-9175-48a2-a38a-b6eff30e027e/wolfram-weimer-kulturstaatsminister-104-1920x1920.jpg"
+  },
+  {
+   "id": "n1f444a7925",
+   "topic": "politik",
+   "title": "Fußball-Bundesliga - Siege für Stuttgart, Leverkusen, Hamburg und Union, Augsburg und Bayern trennen sich unentschieden",
+   "text": "In der Fußball-Bundesliga gab es folgende Ergebnisse:",
+   "link": "https://www.deutschlandfunk.de/siege-fuer-stuttgart-leverkusen-hamburg-und-union-augsburg-und-bayern-trennen-sich-unentschieden-102.html",
+   "published": "2026-10-10T17:16:48+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-12T17:16:48+00:00",
+   "img": "https://bilder.deutschlandfunk.de/91/9b/4a/97/919b4a97-2692-4169-bda6-72ce70cbb8d3/fussball-bundesliga-hoffenheim-hsv-100-1920x1920.jpg"
+  },
+  {
+   "id": "n3bd59088e4",
+   "topic": "politik",
+   "title": "Ukraine-Krieg - Deutsche Regierung bekräftigt nach USA-Russland-Deal Unterstützung für Ukraine - Kritik von Selenskyj an Vereinbarung",
+   "text": "Nach der Vereinbarung zwischen den USA und Russland über Diesel-Lieferungen hat Deutschland seine Unterstützung für die Ukraine bekräftigt. Regierungssprecher Kornelius sagte in Berlin, man halte an den Sanktionen gegen Russland fest. Der ukrainische Präsident Selenskyj bezeichnete die Vereinbarung zwischen Washington …",
+   "link": "https://www.deutschlandfunk.de/deutsche-regierung-bekraeftigt-nach-usa-russland-deal-unterstuetzung-fuer-ukraine-kritik-von-selensk-100.html",
+   "published": "2026-10-10T17:16:48+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-12T17:16:48+00:00",
+   "img": "https://bilder.deutschlandfunk.de/NO/VA/_7/bb/NOVA_7bbf631b31ade2b14595d173891df372/craft-13304782-asset-100-1920x1920.jpg"
+  },
+  {
+   "id": "nc0fb526164",
+   "topic": "nfl",
+   "title": "2026 Week 5 NFL player prop picks, best bets for Sunday's games include Christian McCaffrey, Bijan Robinson",
+   "text": "Bet on NFL player props Week 5 at NFL sportsbooks like DraftKings, FanDuel and BetMGM",
+   "link": "https://www.cbssports.com/betting/news/2026-week-5-nfl-player-prop-picks-best-bets-for-sundays-games-include-christian-mccaffrey-bijan-robinson/",
+   "published": "2026-10-10T17:08:26+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-15T17:08:26+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/09/24/71f90b62-f1a3-4cb4-9329-ed67f65caac1/atlanta-falcons.jpg"
+  },
+  {
+   "id": "nb8e875fa30",
+   "topic": "nfl",
+   "title": "Browns elevate DTs Sam Kamara, Chris Williams from practice squad",
+   "text": "The Browns have elevated defensive tackle Sam Kamara and defensive tackle Chris Williams from the practice squad for Sunday's game against the Jets, the team announced.",
+   "link": "https://sports.yahoo.com/articles/browns-elevate-dts-sam-kamara-170528733.html",
+   "published": "2026-10-10T17:05:28+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-15T17:05:28+00:00"
+  },
+  {
+   "id": "n6d36d8242d",
+   "topic": "nfl",
+   "title": "Colts make roster moves ahead of Sunday’s game against Pittsburgh",
+   "text": "The Colts have made some move ahead of their Sunday road matchup against the Steelers.",
+   "link": "https://sports.yahoo.com/articles/colts-roster-moves-ahead-sunday-170246294.html",
+   "published": "2026-10-10T17:02:46+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-15T17:02:46+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/5a31c937a2631c124e7cbcb5a927d238.jpg"
+  },
+  {
+   "id": "n2c9d4c0e07",
+   "topic": "nfl",
+   "title": "Week 5 NFL odds, spreads, totals, betting lines, for all 16 games, including Bears-Packers, Falcons-Ravens",
+   "text": "The Week 5 NFL schedule is here, featuring pivotal matchups like 49ers vs. Seahawks, Falcons vs. Ravens and Bills vs. Rams",
+   "link": "https://www.cbssports.com/betting/news/week-5-nfl-betting-odds-spreads-totals-lines/",
+   "published": "2026-10-10T16:58:24+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-15T16:58:24+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/01/17/469b9fad-7046-498e-a15a-a9390e4e6597/bo-nix-denver-broncos-3.jpg"
+  },
+  {
+   "id": "nb8da98d471",
+   "topic": "politik",
+   "title": "Reinigungskräfte machen Ausstellung: Zwischen Zeitdruck und Rückenschmerzen",
+   "text": "Ihre Arbeit fällt nur auf, wenn sie nicht gemacht wird, sie selbst bleiben oft unsichtbar: Reinigungskräfte. In Frankfurt wollen sich Frauen damit nicht abfinden und haben eine Ausstellung über ihren Arbeitsalltag gestaltet.",
+   "link": "https://www.hessenschau.de/kultur/reinigungskraefte-machen-ausstellung-zwischen-zeitdruck-und-rueckenschmerzen-v1,putzfrauen-reinigungskraefte-ausstellung-100.html",
+   "published": "2026-10-10T16:53:08+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-14T16:53:08+00:00",
+   "img": "https://www.hessenschau.de/kultur/ausstellung-reinigung-100~_t-1791535042466_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "n84bd344462",
+   "topic": "welt",
+   "title": "Serie von Messerattacken an Schulen in Polen",
+   "text": "In Polen sorgt eine Serie von Messerattacken an Schulen für Entsetzen. Am Donnerstag starben zwei Menschen nach einem Angriff auf eine Grundschule. Nun wurden bei einem weiteren Angriff drei Frauen verletzt.",
+   "link": "https://www.tagesschau.de/ausland/europa/polen-messer-attacken-schulen-100.html",
+   "published": "2026-10-10T16:33:42+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-13T16:33:42+00:00",
+   "img": "https://images.tagesschau.de/image/22cc46c6-e54b-42ed-a764-134b56ac31e0/AAABoSapwzg/AAABnSSvrFg/16x9-big/polen-564.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Gewaltwelle mit Messerattacken erreicht polnische Schulen",
+     "link": "https://www.dw.com/de/gewaltwelle-mit-messerattacken-erreicht-polnische-schulen/a-79610073?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "naae654d587",
+   "topic": "it",
+   "title": "Open-Source-Office OpenDesk: Zendis bringt agentische KI und Air-Gap-Modus",
+   "text": "Das Zentrum für digitale Souveränität zeigt auf der Smart Country Convention neue Funktionen für die Open-Source-Suite OpenDesk mit KI und Offline-Betrieb.",
+   "link": "https://www.heise.de/news/Open-Source-Office-OpenDesk-Zendis-bringt-agentische-KI-und-Air-Gap-Modus-11483419.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-10T16:21:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-15T16:21:00+00:00"
+  },
+  {
+   "id": "ne4600eb98a",
+   "topic": "welt",
+   "title": "Mehrere Tote durch russische Angriffe auf Saporischschja",
+   "text": "Während in Miami über Hilfe für die Ukraine und Wege hin zu einem Ende des russischen Angriffskrieges beraten wird, setzt Moskau seine Attacken fort. In der Region Saporischschja gab es mehrere Todesopfer. Auch Kiew wurde erneut attackiert.",
+   "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-saporischschja-104.html",
+   "published": "2026-10-10T16:05:24+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-13T16:05:24+00:00",
+   "img": "https://images.tagesschau.de/image/53230fcf-9628-494b-898b-63cf1a3e8352/AAABoSVy9Do/AAABnSSvrFg/16x9-big/ukraine-saporischschja-angriffe-100.jpg?width=1920"
+  },
+  {
+   "id": "n9a6c8c0dd2",
+   "topic": "it",
+   "title": "„Silver Pines“ angespielt: Schaurig hier, aber waren Sie mal in Silent Hill?",
+   "text": "„Silver Pines“ vereint in sich alle Elemente eines guten Horrorspiels, weil es sie sich von anderen geliehen hat. Doch eine eigene Identität bleibt aus.",
+   "link": "https://www.heise.de/tests/Silver-Pines-angespielt-Liebesbrief-an-den-Horror-aber-ohne-Seele-11483389.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-10T15:57:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-15T15:57:00+00:00"
+  },
+  {
+   "id": "n0c8859bb72",
+   "topic": "it",
+   "title": "Oberverwaltungsgericht NRW kippt Websperren für Pornhub und YouPorn",
+   "text": "Das OVG NRW stoppt Eilverfügungen gegen Netzsperren für Pornoseiten. EU-Recht und Digital Services Act (DSA) blockieren deutsche Alleingänge beim Jugendschutz.",
+   "link": "https://www.heise.de/news/Oberverwaltungsgericht-NRW-kippt-Websperren-fuer-Pornhub-und-YouPorn-11483348.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-10T15:41:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-15T15:41:00+00:00"
+  },
+  {
+   "id": "n0a7d0e0fa6",
+   "topic": "politik",
+   "title": "CDU diskutiert über Umgang mit der AfD",
+   "text": "Zwei Tage lang will das CDU-Präsidium in Klausur gehen, um über Konsequenzen aus den jüngsten Wahlschlappen zu beraten. Dabei rückt eine Frage immer mehr in den Mittelpunkt: Soll der Umgang mit der AfD neu definiert werden?",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-afd-brandmauer-klausur-100.html",
+   "published": "2026-10-10T15:34:39+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-13T15:34:39+00:00",
+   "img": "https://images.tagesschau.de/image/da89450b-0ca5-4236-85fb-627e6f2e0cd8/AAABoSZzs0I/AAABnSSvrFg/16x9-big/cdu-parteizentrale-106.jpg?width=1920"
+  },
+  {
+   "id": "n5820128d0f",
+   "topic": "ki",
+   "title": "OpenAI-Modelle erfinden Bewertungen, fälschen Dateien und sabotieren die eigene Umgebung",
+   "text": "OpenAI dokumentiert neue Fälle eigenmächtigen KI-Verhaltens: Ein Bewertungsmodell erfand Daten und sabotierte seine eigene Umgebung, andere Modelle umgingen bewusst Netzwerkbeschränkungen, etwa durch anonymisierende Relays oder selbst erstellte FTP‑Clients. Der Artikel OpenAI-Modelle erfinden Bewertungen, fälschen …",
+   "link": "https://the-decoder.de/openai-modelle-erfinden-bewertungen-faelschen-dateien-und-sabotieren-die-eigene-umgebung/",
+   "published": "2026-10-10T15:06:40+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-17T15:06:40+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/openai_gangsta_Agent.png"
+  },
+  {
+   "id": "n5333211a72",
+   "topic": "wissenschaft",
+   "title": "Vorsicht, Dankfalle!: Warum Vorteile Vorteile hervorbringen",
+   "text": "Wer hat, der hat – vor allem die Chance, noch mehr zu bekommen. Dieser »Matthäus-Effekt« gilt längst nicht nur auf materiellem Gebiet, weiß unser Psychologiekolumnist.",
+   "link": "https://www.spektrum.de/kolumne/matthaeus-effekt-warum-erfolg-oft-noch-mehr-erfolg-bringt/2345260",
+   "published": "2026-10-10T15:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-24T15:00:00+00:00"
+  },
+  {
+   "id": "nef8bab0213",
+   "topic": "ki",
+   "title": "Microsofts Decision-1 soll das genaueste Entscheidungsmodell in 36 Benchmarks sein",
+   "text": "Microsoft stellt mit Decision-1 ein eigenes Entscheidungsmodell vor, das auf schnelle Klassifikationen und Routing optimiert ist. Basierend auf Qwen3.5-9B erreicht es laut eigenen Benchmarks 83,5 Prozent Genauigkeit bei 85 ms Latenz. Der Artikel Microsofts Decision-1 soll das genaueste Entscheidungsmodell in 36 …",
+   "link": "https://the-decoder.de/microsofts-decision-1-soll-das-genaueste-entscheidungsmodell-in-36-benchmarks-sein/",
+   "published": "2026-10-10T14:46:33+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-17T14:46:33+00:00"
+  },
+  {
+   "id": "nbdf300d978",
+   "topic": "politik",
+   "title": "Weg frei für Koalitionsverhandlungen in Schwerin",
+   "text": "Nach SPD und Linken haben in Mecklenburg-Vorpommern auch die Grünen für Koalitionsverhandlungen zur Bildung einer rot-rot-grünen Landesregierung gestimmt. Die Koalitionsgespräche sollen am Montag beginnen.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/mv-koalitionsverhandlungen-100.html",
+   "published": "2026-10-10T14:36:51+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-13T14:36:51+00:00",
+   "img": "https://images.tagesschau.de/image/d285081a-6934-457a-b919-c151e5842da8/AAABoL8oRa4/AAABnSSvrFg/16x9-big/schloss-schwerin-112.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Mecklenburg-Vorpommern - Weg frei für Koalitionsverhandlungen von SPD, Linken und Grünen",
+     "link": "https://www.deutschlandfunk.de/weg-frei-fuer-koalitionsverhandlungen-von-spd-linken-und-gruenen-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n1e7d82bbf4",
+   "topic": "welt",
+   "title": "Merz sieht bei irischem Vorschlag für EU-Haushalt \"keine Grundlage für Einigung\"",
+   "text": "Die irische EU-Ratspräsidentschaft hat einen neuen Vorschlag für den nächsten EU-Haushalt vorgelegt. Die Reaktion aus Deutschland darauf ist verhalten. Kanzler Merz sieht keine Grundlage für eine Einigung. Von Kathrin Schmid.",
+   "link": "https://www.tagesschau.de/ausland/europa/eu-haushalt-irischer-vorschlag-100.html",
+   "published": "2026-10-10T14:33:27+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-13T14:33:27+00:00",
+   "img": "https://images.tagesschau.de/image/0547709e-409f-4c49-8208-5c3f57ada4dd/AAABoSYj32M/AAABnSSvrFg/16x9-big/flaggen-eu-kommission-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "EU - Merz: Irischer Vorschlag für Haushaltsentwurf \"keine Grundlage für Einigung\"",
+     "link": "https://www.deutschlandfunk.de/merz-irischer-vorschlag-fuer-haushaltsentwurf-keine-grundlage-fuer-einigung-100.html"
+    }
+   ]
+  },
+  {
+   "id": "nfb74df34bf",
+   "topic": "welt",
+   "title": "Nationalfeiertag in Taiwan: \"Wir werden unsere Freiheit nicht aufgeben\"",
+   "text": "Zum Nationalfeiertag appelliert Taiwan an die Länder im Indopazifik, sich für Frieden und Stabilität in der Region einzusetzen. Doch China gebärdet sich zunehmend aggressiv. Von Christoph Kober.",
+   "link": "https://www.tagesschau.de/ausland/asien/taiwan-nationalfeiertag-104.html",
+   "published": "2026-10-10T14:22:48+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-13T14:22:48+00:00",
+   "img": "https://images.tagesschau.de/image/c08a56fa-bdf5-436c-ba5d-130b9e7162b0/AAABoSYUqnI/AAABnSSvrFg/16x9-big/taiwan-lai-nationalfeiertag-100.jpg?width=1920"
+  },
+  {
+   "id": "nb6d048bfcd",
+   "topic": "wissenschaft",
+   "title": "Grippe- und Erkältungssaison 2026/27: Was Deutschland erwartet",
+   "text": "Die Grippewelle könnte dieses Jahr früher kommen als vermutet. Im Abwasser steigt die Menge an SARS-CoV-2. Und viele Risikogruppen haben keinen ausreichenden Schutz. Fachleute erklären, wie man sich jetzt schützen kann. Von Frank Bäumer.",
+   "link": "https://www.tagesschau.de/wissen/gesundheit/grippewelle-herbst-100.html",
+   "published": "2026-10-10T14:08:35+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-24T14:08:35+00:00",
+   "img": "https://images.tagesschau.de/image/7bc930e2-3f81-4085-911a-dc3730922c7f/AAABm6MI21A/AAABnSSvrFg/16x9-big/taschentuch-tee-fieberthermometer-100.jpg?width=1920"
+  },
+  {
+   "id": "nd87421d304",
+   "topic": "welt",
+   "title": "EU-Haushaltszoff: Irland sieht (etwas) Sparpotenzial",
+   "text": "Im Ringen um den Haushalt der Europäischen Union präsentiert die irische Ratspräsidentschaft einen Kompromissvorschlag. Dieser ist für Bundeskanzler Friedrich Merz jedoch \"keine Grundlage für eine Einigung\".",
+   "link": "https://www.dw.com/de/eu-haushaltszoff-irland-sieht-etwas-sparpotenzial/a-79628689?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-10T13:52:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-14T13:52:00+00:00",
+   "img": "https://static.dw.com/image/79628155_302.jpg"
+  },
+  {
+   "id": "nbe39c9dbe9",
+   "topic": "it",
+   "title": "Speicherkrise: Intel plant offenbar neue CPUs für den Sockel LGA 1700",
+   "text": "Gigabyte bereitet Mainboards auf neue LGA-1700-CPUs vor. Sie sollen Anfang 2027 erscheinen und auch auf DDR4-Boards laufen. ( DDR4 , Prozessor )",
+   "link": "https://www.golem.de/news/speicherkrise-intel-plant-offenbar-neue-cpus-fuer-den-sockel-lga-1700-2610-213956.html",
+   "published": "2026-10-10T13:26:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-15T13:26:01+00:00",
+   "img": "https://www.golem.de/2610/213956-602741-602736_rc.jpg"
+  },
+  {
+   "id": "n02d0c49f7e",
+   "topic": "wirtschaft",
+   "title": "Wie Start-ups in Deutschland trotz Hürden Erfolg haben können",
+   "text": "Ein Berliner KI-Start-up zeigt, wie deutsche Gründer es auf die Weltbühne schaffen. Doch viele aufstrebende Unternehmen werden in ihrem Potenzial immer noch ausgebremst. Dabei gebe es viel Talent, sagt ein Gründer. Von A. Kartschall.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/startup-einhorn-deutschland-100.html",
+   "published": "2026-10-10T13:07:24+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-13T13:07:24+00:00",
+   "img": "https://images.tagesschau.de/image/2a0a3a95-82b5-4b24-bcea-cf2a341aa8a2/AAABlETincI/AAABnSSvrFg/16x9-big/startup-110.jpg?width=1920"
+  },
+  {
+   "id": "n995a300514",
+   "topic": "wissenschaft",
+   "title": "KI als Therapeut: Empathisch, verfügbar – und gefährlich",
+   "text": "Vor allem junge Menschen sprechen gerne mit ChatGPT über ihre Sorgen und Nöte. Doch der KI-Chatbot fördert gerade jene Denkfehler, die eine Psychotherapie abbauen würde.",
+   "link": "https://www.spektrum.de/kolumne/ki-als-therapeut-sollte-ich-mit-chatgpt-ueber-probleme-sprechen/2313389",
+   "published": "2026-10-10T13:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-24T13:00:00+00:00"
+  },
+  {
+   "id": "n214cb1dbe8",
+   "topic": "welt",
+   "title": "Anthropic-KI macht sich nach Mordfall wichtig",
+   "text": "Dass Zeugen sich bisweilen falsch erinnern, ist bekannt. Doch Künstliche Intelligenz kann noch mehr: Auf einer Website der Polizei spielte sich Claude Haiku als Hinweisgeber auf - mit viel Phantasie ohne jede Substanz.",
+   "link": "https://www.dw.com/de/anthropic-ki-macht-sich-nach-mordfall-wichtig/a-79628109?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-10T12:58:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-14T12:58:00+00:00",
+   "img": "https://static.dw.com/image/79429877_302.jpg"
+  },
+  {
+   "id": "n346bf53d0e",
+   "topic": "it",
+   "title": "Mobilität: BMW cancelt Dienstwagen für AfD-Landtagspräsidenten",
+   "text": "BMW zieht das Leasingangebot für den Landtagspräsidenten von Sachsen-Anhalt zurück. Die AfD fragte Elon Musk umgehend um einen Tesla an. ( BMW , Auto )",
+   "link": "https://www.golem.de/news/mobilitaet-bmw-cancelt-dienstwagen-fuer-afd-landtagspraesidenten-2610-213957.html",
+   "published": "2026-10-10T12:53:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-15T12:53:02+00:00",
+   "img": "https://www.golem.de/2610/213957-602745-602743_rc.jpg"
+  },
+  {
+   "id": "n0c08bb7c86",
+   "topic": "welt",
+   "title": "Hurrikan \"Isaias\" trifft auf US-Golfküste",
+   "text": "Mit \"Isaias\" ist der erste Hurrikan der Saison auf die US-Küste getroffen. Er brachte heftige Regenfälle mit sich, in Hunderttausenden Haushalten fiel der Strom aus. Inzwischen hat sich der Sturm aber deutlich abgeschwächt.",
+   "link": "https://www.tagesschau.de/ausland/amerika/usa-hurrikan-isaias-102.html",
+   "published": "2026-10-10T12:44:57+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-13T12:44:57+00:00",
+   "img": "https://images.tagesschau.de/image/f58f69cc-3816-42c6-89e6-0513df9fee77/AAABoSSq4iU/AAABnSSvrFg/16x9-big/usa-hurrikan-isaias-106.jpg?width=1920"
+  },
+  {
+   "id": "nb845f46f82",
+   "topic": "ki",
+   "title": "Gelähmt, schockiert und angewidert: OpenAIs KI wütet in der Mathematik",
+   "text": "OpenAI veröffentlichte über 700 KI-generierte Manuskripte zu offenen Mathematikproblemen. Ein Fachblog sammelte daraufhin mehr als 100 Reaktionen aus der Fachwelt. Die Spannbreite reicht von Faszination über neue Ideen bis zu Existenzängsten und Trauer um eine verlorene Arbeitsweise. Fields-Medaillist Hugo …",
+   "link": "https://the-decoder.de/gelaehmt-schockiert-und-angewidert-openais-ki-wuetet-in-der-mathematik/",
+   "published": "2026-10-10T12:20:59+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-17T12:20:59+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/human_ai_math.png"
+  },
+  {
+   "id": "n39781a69a1",
+   "topic": "welt",
+   "title": "\"Ragebait\" ist Jugendwort des Jahres 2026",
+   "text": "Es war ein knappes Rennen der Top drei Kandidaten für das Jugendwort des Jahres: \"Ragebait\" hat die Abstimmung knapp vor \"Peak\" und \"Crashout\" gewonnen.",
+   "link": "https://www.dw.com/de/ragebait-ist-jugendwort-des-jahres-2026/a-79594065?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-10T12:07:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-14T12:07:00+00:00",
+   "img": "https://static.dw.com/image/79576231_302.jpg"
+  },
+  {
+   "id": "naf61bfe603",
+   "topic": "wirtschaft",
+   "title": "Deutschland bleibt beim Nein zu russischem Öl",
+   "text": "Auch nach Trumps Dieseldeal mit Putin will die Bundesregierung auf russisches Öl verzichten. Die Grünen werfen der US-Regierung Skrupellosigkeit vor. Die Spritpreise in Deutschland reagierten nicht.",
+   "link": "https://www.tagesschau.de/wirtschaft/energie/trump-diesel-oelpreis-reaktionen-deutschland-100.html",
+   "published": "2026-10-10T12:04:32+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-13T12:04:32+00:00",
+   "img": "https://images.tagesschau.de/image/7ea0b310-a819-4141-90b2-91f86593c155/AAABmaUGf_k/AAABnSSvrFg/16x9-big/russland-oel-114.jpg?width=1920"
+  },
+  {
+   "id": "n572b0add4e",
+   "topic": "welt",
+   "title": "Gründer der indischen \"Kakerlaken\"-Bewegung festgenommen",
+   "text": "In Indien sind Tausende, meist jugendliche Anhänger der \"Kakerlaken\"-Bewegung festgenommen worden. Im ganzen Land gab es Proteste gegen die Wahlkommission. Bereits im Vorfeld war der Gründer der Bewegung festgesetzt worden.",
+   "link": "https://www.tagesschau.de/ausland/asien/indien-festnahme-gruender-kakerlaken-bewegung-100.html",
+   "published": "2026-10-10T11:08:42+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-13T11:08:42+00:00",
+   "img": "https://images.tagesschau.de/image/322cbdbe-fffc-4a1d-8e06-04fc29f03829/AAABoSTfTe8/AAABnSSvrFg/16x9-big/abhijeet-dipke-kakerlaken-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Neu Delhi - Polizei stoppt Proteste in Indien - auch Gründer von Kakerlaken-Bewegung \"CJP\" festgenommen",
+     "link": "https://www.deutschlandfunk.de/polizei-stoppt-proteste-in-indien-auch-gruender-von-kakerlaken-bewegung-cjp-festgenommen-100.html"
+    }
+   ]
+  },
+  {
+   "id": "nb11007618f",
+   "topic": "welt",
+   "title": "Hunderte Festnahmen bei Kakerlaken-Protesten in Indien",
+   "text": "Mehr als 130 Millionen Namen verschwinden aus Wählerlisten. Die Kakerlaken-Volkspartei verlangt Konsequenzen - und ruft abermals zu Protesten auf. Wieder steht die Regierung Modi vor einer Bewährungsprobe.",
+   "link": "https://www.dw.com/de/hunderte-festnahmen-bei-kakerlaken-protesten-in-indien/a-79627531?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-10T10:56:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-14T10:56:00+00:00",
+   "img": "https://static.dw.com/image/79626075_302.jpg"
+  },
+  {
+   "id": "n20c5980ac0",
+   "topic": "welt",
+   "title": "USA: Lebensgefahr durch Sturm \"Isaias\"",
+   "text": "Im Südosten der Vereinigten Staaten herrscht mancherorts der Ausnahmezustand. Auch wenn \"Isaias\" an Stärke verloren hat, werden weiterhin deutliche Warnungen ausgesprochen.",
+   "link": "https://www.dw.com/de/usa-lebensgefahr-durch-sturm-isaias/a-79626838?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-10T10:17:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-14T10:17:00+00:00",
+   "img": "https://static.dw.com/image/79626663_302.jpg"
+  },
+  {
+   "id": "nc258d7240a",
+   "topic": "wirtschaft",
+   "title": "Weniger Hybridfahrzeug-Exporte: EU und China wenden Eskalation vorerst ab",
+   "text": "China akzeptiert EU-Handelsbeschränkungen für Hybridfahrzeuge. Doch wie nachhaltig wirkt dieses Zugeständnis? Und wie geht es in anderen Wirtschaftsbereichen weiter? Von Christoph Kober.",
+   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-eu-hybridautos-100.html",
+   "published": "2026-10-10T10:15:19+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-13T10:15:19+00:00",
+   "img": "https://images.tagesschau.de/image/4efef81a-c289-4d21-acb7-0b1247de7efa/AAABoSVee28/AAABnSSvrFg/16x9-big/china-export-118.jpg?width=1920"
+  },
   {
    "id": "n8c2613208e",
    "topic": "wissenschaft",
@@ -131,11 +666,6 @@
      "source": "Tagesschau",
      "title": "Neue US-Sanktionen gegen Internationalen Strafgerichtshof",
      "link": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-istgh-100.html"
-    },
-    {
-     "source": "Spektrum der Wissenschaft",
-     "title": "Nobelpreise 2026: Friedensnobelpreis geht an Juristin Pillay aus Südafrika",
-     "link": "https://www.spektrum.de/news/nobelpreis-26-friedensnobelpreis-geht-an-pillay-aus-suedafrika/2349090"
     }
    ]
   },
@@ -154,7 +684,7 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Gründer der indischen Kakerlaken-Bewegung festgenommen",
+     "title": "Gründer der indischen \"Kakerlaken\"-Bewegung festgenommen",
      "link": "https://www.tagesschau.de/ausland/asien/indien-festnahme-gruender-kakerlaken-bewegung-100.html"
     }
    ]
@@ -289,26 +819,6 @@
    "img": "https://www.golem.de/2610/213951-602718-602716_rc.jpg"
   },
   {
-   "id": "n572b0add4e",
-   "topic": "welt",
-   "title": "Gründer der indischen Kakerlaken-Bewegung festgenommen",
-   "text": "Vor einer geplanten Demonstration gegen Indiens Wahlkommission ist der Gründer der sogenannten Kakerlaken-Bewegung festgenommen worden. Die Bewegung fordert den Rücktritt des Wahlkommissionschefs.",
-   "link": "https://www.tagesschau.de/ausland/asien/indien-festnahme-gruender-kakerlaken-bewegung-100.html",
-   "published": "2026-10-10T08:46:02+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-13T08:46:02+00:00",
-   "img": "https://images.tagesschau.de/image/322cbdbe-fffc-4a1d-8e06-04fc29f03829/AAABoSTfTe8/AAABnSSvrFg/16x9-big/abhijeet-dipke-kakerlaken-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Neu Delhi - Polizei stoppt Proteste in Indien - auch Gründer von Kakerlaken-Bewegung \"CJP\" festgenommen",
-     "link": "https://www.deutschlandfunk.de/polizei-stoppt-proteste-in-indien-auch-gruender-von-kakerlaken-bewegung-cjp-festgenommen-100.html"
-    }
-   ]
-  },
-  {
    "id": "ne4eae91167",
    "topic": "it",
    "title": "7-Zip 26.04: Sicherheitslücken geschlossen",
@@ -370,19 +880,6 @@
    "img": "https://images.tagesschau.de/image/7ebf7660-a546-42ab-98ff-abf48d3e3a7d/AAABoSS-sq0/AAABnSSvrFg/16x9-big/zelte-gaza-102.jpg?width=1920"
   },
   {
-   "id": "n0c08bb7c86",
-   "topic": "welt",
-   "title": "Hurrikan \"Isaias\" trifft auf US-Golfküste",
-   "text": "Mit \"Isaias\" ist der erste Hurrikan der Saison auf die US-Küste getroffen. Er brachte heftige Regenfälle mit sich, in Hunderttausenden Haushalten fiel der Strom aus. Mehrere Bundesstaaten haben den Notstand ausgerufen.",
-   "link": "https://www.tagesschau.de/ausland/amerika/usa-hurrikan-isaias-102.html",
-   "published": "2026-10-10T07:15:42+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-13T07:15:42+00:00",
-   "img": "https://images.tagesschau.de/image/f58f69cc-3816-42c6-89e6-0513df9fee77/AAABoSSq4iU/AAABnSSvrFg/16x9-big/usa-hurrikan-isaias-106.jpg?width=1920"
-  },
-  {
    "id": "n7300cd4711",
    "topic": "welt",
    "title": "Deutschland stellt sich hinter Internationalen Strafgerichtshof - News kompakt: Das Wichtigste kurz gefasst",
@@ -404,11 +901,6 @@
      "source": "Tagesschau",
      "title": "Neue US-Sanktionen gegen Internationalen Strafgerichtshof",
      "link": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-istgh-100.html"
-    },
-    {
-     "source": "Spektrum der Wissenschaft",
-     "title": "Nobelpreise 2026: Friedensnobelpreis geht an Juristin Pillay aus Südafrika",
-     "link": "https://www.spektrum.de/news/nobelpreis-26-friedensnobelpreis-geht-an-pillay-aus-suedafrika/2349090"
     }
    ]
   },
@@ -487,7 +979,14 @@
    "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
    "lang": "de",
    "expires": "2026-10-14T04:48:00+00:00",
-   "img": "https://static.dw.com/image/79609910_302.jpg"
+   "img": "https://static.dw.com/image/79609910_302.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Serie von Messerattacken an Schulen in Polen",
+     "link": "https://www.tagesschau.de/ausland/europa/polen-messer-attacken-schulen-100.html"
+    }
+   ]
   },
   {
    "id": "nd418be05ca",
@@ -504,7 +1003,7 @@
   },
   {
    "id": "naf8af66bc7",
-   "topic": "welt",
+   "topic": "wirtschaft",
    "title": "Trump kündigt russische Diesellieferungen an",
    "text": "Wegen der hohen Spritpreise steht Trump innenpolitisch unter wachsendem Druck. Nun verkündet der US-Präsident einen Deal mit Russland, der die Lieferung von zunächst 300.000 Tonnen Diesel für die USA und den Weltmarkt umfasst. Kiew ist empört.",
    "link": "https://www.tagesschau.de/ausland/amerika/trump-diesellieferungen-russland-100.html",
@@ -565,7 +1064,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-12T00:41:22+00:00",
-   "img": "https://bilder.deutschlandfunk.de/FI/LE/_e/57/FILE_e573a2166b546a1df9fd8e008c781514/beginn-koalitionsver-71303664-jpg-100-768x768.jpg"
+   "img": "https://bilder.deutschlandfunk.de/FI/LE/_e/57/FILE_e573a2166b546a1df9fd8e008c781514/beginn-koalitionsver-71303664-jpg-100-768x768.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Weg frei für Koalitionsverhandlungen in Schwerin",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/mv-koalitionsverhandlungen-100.html"
+    }
+   ]
   },
   {
    "id": "nb9d5602e09",
@@ -746,14 +1252,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-11T18:19:30+00:00",
-   "img": "https://bilder.deutschlandfunk.de/NO/VA/_2/1c/NOVA_21c99febf4f6f7359d155903294e639e/craft-13165959-asset-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Umsätze von Shein, Temu und AliExpress brechen in Deutschland ein",
-     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/umsatzeinbruch-shein-temu-zoll-100.html"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/NO/VA/_2/1c/NOVA_21c99febf4f6f7359d155903294e639e/craft-13165959-asset-100-1920x1920.jpg"
   },
   {
    "id": "n968cc7fb59",
@@ -765,14 +1264,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-11T18:19:30+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "USA wollen Hinrichtung von Attentäter per Livestream übertragen",
-     "link": "https://www.tagesschau.de/ausland/amerika/pentagon-hinrichtung-livestream-100.html"
-    }
-   ]
+   "expires": "2026-10-11T18:19:30+00:00"
   },
   {
    "id": "nda477abced",
@@ -913,11 +1405,6 @@
      "source": "Deutsche Welle",
      "title": "Deutschland stellt sich hinter Internationalen Strafgerichtshof - News kompakt: Das Wichtigste kurz gefasst",
      "link": "https://www.dw.com/de/deutschland-stellt-sich-hinter-internationalen-strafgerichtshof-news-kompakt-das-wichtigste-kurz-gefasst/a-79624657?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Spektrum der Wissenschaft",
-     "title": "Nobelpreise 2026: Friedensnobelpreis geht an Juristin Pillay aus Südafrika",
-     "link": "https://www.spektrum.de/news/nobelpreis-26-friedensnobelpreis-geht-an-pillay-aus-suedafrika/2349090"
     }
    ]
   },
@@ -969,8 +1456,19 @@
    "source": "Tagesschau",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-12T16:59:58+00:00",
-   "img": "https://images.tagesschau.de/image/a17c1ca1-d77b-46a6-a7b5-9cbd11106c98/AAABoSF3cnU/AAABnSSvrFg/16x9-big/reichinnek-140.jpg?width=1920"
+   "expires": "2026-10-12T16:59:58+00:00"
+  },
+  {
+   "id": "n2f24cbf825",
+   "topic": "politik",
+   "title": "Aktuelle Stunde: Streit im Bundestag nach Wahl von AfD-Landtagspräsident",
+   "text": "Die Linksfraktion hatte im Bundestag eine Aktuelle Stunde beantragt. Um den Umgang mit der AfD in Sachsen-Anhalt sollte es gehen. Es wurde eine von starken Emotionen und Zwischenrufen geprägte Debatte. Von D. Pepping.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/aktuelle-stunde-sachsen-anhalt-100.html",
+   "published": "2026-10-09T16:59:58+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-12T16:59:58+00:00"
   },
   {
    "id": "nbaf5e06cd1",
@@ -1072,7 +1570,8 @@
    "source": "Tagesschau",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-12T15:12:24+00:00"
+   "expires": "2026-10-12T15:12:24+00:00",
+   "img": "https://images.tagesschau.de/image/e4009594-a546-4422-a5e1-05a9365ec49e/AAABoSBoICY/AAABnSSvrFg/16x9-big/schroeder-putin-122.jpg?width=1920"
   },
   {
    "id": "n345357d25c",
@@ -1187,578 +1686,7 @@
    "type": "Wissenschaftsmagazin",
    "lang": "de",
    "expires": "2026-10-23T12:00:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/Navi_Pillay.jpg.8415778.jpg?f=1280x720",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Navi Pillay - Friedensnobelpreisträgerin schockiert von neuen US-Sanktionen gegen Strafgerichtshof - Trump nennt Preisvergabe \"schändlich\"",
-     "link": "https://www.deutschlandfunk.de/friedensnobelpreistraegerin-schockiert-von-neuen-us-sanktionen-gegen-strafgerichtshof-trump-nennt-pr-100.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Deutschland stellt sich hinter Internationalen Strafgerichtshof - News kompakt: Das Wichtigste kurz gefasst",
-     "link": "https://www.dw.com/de/deutschland-stellt-sich-hinter-internationalen-strafgerichtshof-news-kompakt-das-wichtigste-kurz-gefasst/a-79624657?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Neue US-Sanktionen gegen Internationalen Strafgerichtshof",
-     "link": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-istgh-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n8390962ab2",
-   "topic": "welt",
-   "title": "USA wollen Hinrichtung von Attentäter per Livestream übertragen",
-   "text": "Anfang Dezember wollen die USA erstmals seit mehr als 60 Jahren eine Militärhinrichtung durchführen. Sie soll öffentlich sein, sagt der US-Verteidigungsminister Hegseth - und per Livestream übertragen werden.",
-   "link": "https://www.tagesschau.de/ausland/amerika/pentagon-hinrichtung-livestream-100.html",
-   "published": "2026-10-09T11:43:47+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-12T11:43:47+00:00",
-   "img": "https://images.tagesschau.de/image/deacc2ce-adcf-49ce-92d4-541bbb4d72f5/AAABoR8leGQ/AAABnSSvrFg/16x9-big/hegseth-182.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Öffentliche Exekution - US-Regierung wegen geplantem Livestream von Hinrichtung in der Kritik",
-     "link": "https://www.deutschlandfunk.de/us-regierung-wegen-geplantem-livestream-von-hinrichtung-in-der-kritik-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n5176ea0926",
-   "topic": "wirtschaft",
-   "title": "Umsätze von Shein, Temu und AliExpress brechen in Deutschland ein",
-   "text": "Die Umsätze asiatischer Online-Plattformen wie Shein in Deutschland sind stark zurückgegangen, ihre Marktanteile sind gesunken. Hintergrund ist eine neue Zollgebühr für Warensendungen aus Nicht-EU-Staaten.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/umsatzeinbruch-shein-temu-zoll-100.html",
-   "published": "2026-10-09T11:24:13+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-12T11:24:13+00:00",
-   "img": "https://images.tagesschau.de/image/4752bc07-4a92-49c6-9ac2-26febced0704/AAABnyLLPbA/AAABnSSvrFg/16x9-big/swr-temu-und-shein-die-preise-fuer-billig-importe-aus-china-sollen-laut-eu-steigen-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Von AliExpress bis Temu - Umsätze asiatischer Shoppingplattformen brechen ein",
-     "link": "https://www.deutschlandfunk.de/umsaetze-asiatischer-shoppingplattformen-brechen-ein-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n96f7c46421",
-   "topic": "ki",
-   "title": "KI-Sicherheit: OpenAI büßt weiter an Glaubwürdigkeit ein",
-   "text": "OpenAI hat drei Sicherheitsforscher entlassen, die direkt in die Untersuchung des HuggingFace-Hacks eingebunden waren. In einem offenen Brief warnen die Gefeuerten, die Kündigungen schüchterten verbleibende Mitarbeiter ein und gefährdeten die Sicherheitskultur. OpenAI spricht von Richtlinienverstößen, bleibt bei den …",
-   "link": "https://the-decoder.de/ki-sicherheit-openai-buesst-weiter-an-glaubwuerdigkeit-ein/",
-   "published": "2026-10-09T11:18:04+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-16T11:18:04+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/openai_safety.png"
-  },
-  {
-   "id": "ne3200049b4",
-   "topic": "wirtschaft",
-   "title": "Baupreise steigen besonders stark",
-   "text": "In Deutschland fehlen Hunderttausende Wohnungen, hohe Kosten belasten die Bau-Branche. Entspannung ist nicht in Sicht: Zuletzt lag der Anstieg der Baupreise deutlich über der allgemeinen Inflationsrate.",
-   "link": "https://www.tagesschau.de/wirtschaft/konjunktur/bauen-teuer-baukosten-bauzinsen-100.html",
-   "published": "2026-10-09T11:11:04+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-12T11:11:04+00:00",
-   "img": "https://images.tagesschau.de/image/68136b3a-3a5c-4abd-925e-35e59173281e/AAABoSByAgY/AAABnSSvrFg/16x9-big/baustelle-380.jpg?width=1920"
-  },
-  {
-   "id": "n904a00fce2",
-   "topic": "wissenschaft",
-   "title": "Die fabelhafte Welt der Mathematik: Allzu großer Zufall stört in der Playlist",
-   "text": "Wenn im Shuffle-Modus die Lieder einer Playlist wirklich zufällig erscheinen, gefällt das den wenigsten Nutzenden. Spotify hat deshalb seinen Shuffle-Algorithmus überarbeitet.",
-   "link": "https://www.spektrum.de/kolumne/zufaelligerer-zufall-der-neue-shuffle-algorithmus-von-spotify/2338986",
-   "published": "2026-10-09T11:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-10-23T11:00:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/615948481_pa.jpg.8414750.jpg?f=1280x720"
-  },
-  {
-   "id": "n46aa6849ad",
-   "topic": "welt",
-   "title": "Finnland: Dämmerung über dem glücklichsten Land der Welt",
-   "text": "Die Finnen könnten zufrieden sein - doch die Schulden des Landes drücken. Russlands Krieg in der Ukraine hat die fiskalische Belastung noch weiter erhöht. Kann der nordische Staat also einen weiteren Schock verkraften?",
-   "link": "https://www.dw.com/de/finnland-dämmerung-über-dem-glücklichsten-land-der-welt/a-79599941?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-09T10:37:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-13T10:37:00+00:00",
-   "img": "https://static.dw.com/image/79571792_302.jpg"
-  },
-  {
-   "id": "n87527787f4",
-   "topic": "politik",
-   "title": "Oslo - Friedensnobelpreis für Navanethem \"Navi\" Pillay",
-   "text": "Der Friedensnobelpreis 2026 geht an Navanethem \"Navi\" Pillay. Das teilte das norwegische Nobelkomitee in Oslo mit. Die südafrikanische Juristin mit indischen Wurzeln werde für ihren mutigen Einsatz für das Völkerrecht und ihren Einsatz gegen Kriegsverbrechen und Genozid gewürdigt, erklärte das Komitee.",
-   "link": "https://www.deutschlandfunk.de/friedensnobelpreis-fuer-navanethem-navi-pillay-100.html",
-   "published": "2026-10-09T10:30:18+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-11T10:30:18+00:00",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Deutschland stellt sich hinter Internationalen Strafgerichtshof - News kompakt: Das Wichtigste kurz gefasst",
-     "link": "https://www.dw.com/de/deutschland-stellt-sich-hinter-internationalen-strafgerichtshof-news-kompakt-das-wichtigste-kurz-gefasst/a-79624657?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Neue US-Sanktionen gegen Internationalen Strafgerichtshof",
-     "link": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-istgh-100.html"
-    },
-    {
-     "source": "Spektrum der Wissenschaft",
-     "title": "Nobelpreise 2026: Friedensnobelpreis geht an Juristin Pillay aus Südafrika",
-     "link": "https://www.spektrum.de/news/nobelpreis-26-friedensnobelpreis-geht-an-pillay-aus-suedafrika/2349090"
-    }
-   ]
-  },
-  {
-   "id": "nfae3de12aa",
-   "topic": "politik",
-   "title": "Geplante Reform - Führerschein könnte laut Bundesverkehrsminister Bilger (CDU) bis zu 1.000 Euro günstiger werden",
-   "text": "Bundesverkehrsminister Bilger hat erstmals mögliche Einsparungen durch die geplante Führerscheinreform konkret benannt.",
-   "link": "https://www.deutschlandfunk.de/fuehrerschein-koennte-laut-bundesverkehrsminister-bilger-cdu-bis-zu-1-000-euro-guenstiger-werden-100.html",
-   "published": "2026-10-09T10:30:18+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-11T10:30:18+00:00",
-   "img": "https://bilder.deutschlandfunk.de/ba/01/e8/9b/ba01e89b-821a-4eba-a4d1-ae9bb7cf91d5/fahrschule-104-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Führerschein könnte laut Verkehrsminister Bilger viel billiger werden",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/fuehrerschein-kosten-156.html"
-    }
-   ]
-  },
-  {
-   "id": "nc4df3339ee",
-   "topic": "politik",
-   "title": "Sachsen-Anhalt - BSW: Kein Steigbügelhalter für die AfD",
-   "text": "Die BSW-Spitzenpolitikerin in Sachsen-Anhalt, Wittig, hat Vorwürfe zurückgewiesen, ihre Partei sei ein Steigbügelhalter für die AfD.",
-   "link": "https://www.deutschlandfunk.de/bsw-kein-steigbuegelhalter-fuer-die-afd-100.html",
-   "published": "2026-10-09T10:30:18+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-11T10:30:18+00:00",
-   "img": "https://bilder.deutschlandfunk.de/01/e5/65/45/01e56545-902f-4ece-85a4-01989588b617/bsw-sachsen-anhalt-wittig-100-1920x1920.jpg"
-  },
-  {
-   "id": "naf09057949",
-   "topic": "politik",
-   "title": "Berliner Abgeordnetenhaus - Grünen-Fraktionsvorsitzende Jarasch verteidigt rot-grün-rote Sondierungsgespräche",
-   "text": "Die Fraktionsvorsitzende der Grünen im Berliner Abgeordnetenhaus, Jarasch, hat die Einigung auf Sondierungsgespräche mit Linkspartei und SPD gegen Kritik verteidigt. Jarasch sagte im Deutschlandfunk, man habe konkrete Vereinbarungen getroffen, wie man mit antisemitischen Vorfällen in den Reihen der Fraktionen umgehen …",
-   "link": "https://www.deutschlandfunk.de/gruenen-fraktionsvorsitzende-jarasch-verteidigt-rot-gruen-rote-sondierungsgespraeche-102.html",
-   "published": "2026-10-09T10:30:18+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-11T10:30:18+00:00",
-   "img": "https://bilder.deutschlandfunk.de/09/14/2d/27/09142d27-74c7-463a-8d1f-621ecc4906ac/bettina-jarasch-gruene-berlin-100-1920x1920.jpg"
-  },
-  {
-   "id": "n12bb553666",
-   "topic": "politik",
-   "title": "Bundestag - Debatte über Antrag zu \"Migrationswende\": AfD wirft Bundesregierung \"Zerstörung des Landes\" vor - scharfe Kritik von SPD, Grünen und Linken",
-   "text": "Der Bundestag hat kontrovers über einen Antrag der AfD für eine verschärfte Asyl- und Migrationspolitik diskutiert.",
-   "link": "https://www.deutschlandfunk.de/debatte-ueber-antrag-zu-migrationswende-afd-wirft-bundesregierung-zerstoerung-des-landes-vor-scharfe-100.html",
-   "published": "2026-10-09T10:30:18+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-11T10:30:18+00:00",
-   "img": "https://bilder.deutschlandfunk.de/97/58/fc/7d/9758fc7d-ea52-4ab1-96df-76796a4fcfb5/bundestag-sitzung-afd-antrag-migrationspolitik-ablehnung-100-1920x1920.jpg"
-  },
-  {
-   "id": "nb9df064969",
-   "topic": "politik",
-   "title": "Vor CDU-Klausurtagung - Frei dringt auf klaren Kurs und konsequente Umsetzung von Reformen",
-   "text": "Vor der am Sonntag beginnenden Klausurtagung des CDU-Präsidiums hat der Fraktionsvorsitzende Frei seine Partei zu einem geschlosseneren Auftreten aufgerufen.",
-   "link": "https://www.deutschlandfunk.de/frei-dringt-auf-klaren-kurs-und-konsequente-umsetzung-von-reformen-102.html",
-   "published": "2026-10-09T10:30:18+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-11T10:30:18+00:00",
-   "img": "https://bilder.deutschlandfunk.de/6a/a9/20/b0/6aa920b0-c20d-4f2b-b0b4-4986c1628387/thorsten-frei-116-1920x1920.jpg"
-  },
-  {
-   "id": "n11767c7e1a",
-   "topic": "it",
-   "title": "800-MHz-Coup: Wie SpaceX erneut den Mobilfunkmarkt angreift",
-   "text": "Ein milliardenschwerer Spektrums-Deal und Hilfe von der FCC: SpaceX rüstet Starlink Mobile für den Massenmarkt auf. Satelliten-Anrufe und -Nachrichten funktionieren künftig auch in Gebäuden. Eine Analyse von Achim Sawall ( Elon Musk , FCC )",
-   "link": "https://www.golem.de/news/800-mhz-coup-wie-spacex-erneut-den-mobilfunkmarkt-angreift-2610-213923.html",
-   "published": "2026-10-09T10:25:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-14T10:25:02+00:00",
-   "img": "https://www.golem.de/2610/213923-602587-602585_rc.jpg"
-  },
-  {
-   "id": "nebfe275b11",
-   "topic": "welt",
-   "title": "Frankfurter Buchmesse: Ist der erste KI-Bestseller schon längst gedruckt?",
-   "text": "Auf der Frankfurter Buchmesse ist das Thema KI dringender denn je. Ein internationaler Literaturskandal wirft die Frage auf, ob sich menschliche und maschinelle Texte künftig überhaupt noch unterscheiden lassen.",
-   "link": "https://www.dw.com/de/frankfurter-buchmesse-ist-der-erste-ki-bestseller-schon-längst-gedruckt/a-79596931?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-09T10:20:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-13T10:20:00+00:00",
-   "img": "https://static.dw.com/image/79571157_302.jpg"
-  },
-  {
-   "id": "ne8c66d9449",
-   "topic": "nfl",
-   "title": "Patriots vs. Raiders weather forecast for NFL Week 5",
-   "text": "Up-to-date weather forecast for this week’s game between the Patriots and Raiders.",
-   "link": "https://sports.yahoo.com/articles/patriots-vs-raiders-weather-forecast-101611659.html",
-   "published": "2026-10-09T10:16:11+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-14T10:16:11+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/428733667bb0e61353d5560c312213c2.jpg"
-  },
-  {
-   "id": "n4bcea6feac",
-   "topic": "it",
-   "title": "Fortschritte in der KI-Mathematik: Forscher sehen Gefahren für Kryptowährungen",
-   "text": "Forscher erwarten, dass KI noch vor Quantencomputern eine ernste Gefahr für die Kryptografie von Blockchains darstellt. ( Ethereum , KI )",
-   "link": "https://www.golem.de/news/fortschritte-in-der-ki-mathematik-forscher-sehen-gefahren-fuer-kryptowaehrungen-2610-213922.html",
-   "published": "2026-10-09T10:10:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-14T10:10:02+00:00",
-   "img": "https://www.golem.de/2610/213922-602583-602581_rc.jpg"
-  },
-  {
-   "id": "ne61b977a39",
-   "topic": "nfl",
-   "title": "What we got wrong before the NFL season – and what we've learned",
-   "text": "It's been 30 days since the NFL season kicked off with a Super Bowl rematch. We've learned a lot, including what we got wrong, writes columnist Jarrett Bell.",
-   "link": "https://sports.yahoo.com/articles/got-wrong-nfl-season-weve-100959399.html",
-   "published": "2026-10-09T10:09:59+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-14T10:09:59+00:00"
-  },
-  {
-   "id": "n8995990f72",
-   "topic": "it",
-   "title": "Fester Verbundstoff auf Bambusbasis hält elektromagnetische Strahlung ab",
-   "text": "Chinesische Forscher haben einen stabilen Verbundstoff mit Bambusanteil entwickelt. Durch den Aufbau kann er auch elektromagnetische Wellen absorbieren.",
-   "link": "https://www.heise.de/news/Fester-Verbundstoff-auf-Bambusbasis-haelt-elektromagnetische-Strahlung-ab-11482136.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-09T10:09:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-14T10:09:00+00:00"
-  },
-  {
-   "id": "n11992ce016",
-   "topic": "it",
-   "title": "Angreifer können Systeme mit IBM Verify Identity Access übernehmen",
-   "text": "IBMs Zugriffsmanagementlösungen IBM Verify Identity Access und IBM Security Verify Access sind verwundbar.",
-   "link": "https://www.heise.de/news/Angreifer-koennen-Systeme-mit-IBM-Verify-Identity-Access-uebernehmen-11482296.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-09T10:04:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-14T10:04:00+00:00"
-  },
-  {
-   "id": "n730d9164f9",
-   "topic": "it",
-   "title": "Mastercard führt ab 2027 Offline-Zahlungen in Europa ein",
-   "text": "Ab Anfang nächsten Jahres sollen Kunden auch bei Strom- oder Netzwerkausfällen mit der Mastercard bezahlen können.",
-   "link": "https://www.heise.de/news/Mastercard-fuehrt-ab-2027-Offline-Zahlungen-in-Europa-ein-11481144.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-09T10:02:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-14T10:02:00+00:00"
-  },
-  {
-   "id": "n5aa397f209",
-   "topic": "wissenschaft",
-   "title": "Yak X: Was macht das ausgestorbene Rind in der Höhle der Denisovaner?",
-   "text": "Die Höhle der Denisovaner birgt Tausende Knochen. Ein Teil davon gehörte einer bislang unbekannten Rinderart, deren Verwandte heute im Himalaya leben.",
-   "link": "https://www.spektrum.de/news/yak-x-knochen-gehoeren-zu-unbekannter-rinderart/2349057",
-   "published": "2026-10-09T10:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-10-23T10:00:00+00:00"
-  },
-  {
-   "id": "nd5481010c2",
-   "topic": "politik",
-   "title": "Düzen Tekkal, Cornelia Funke, Paul Maar: Das sollten Sie am Freitag auf der Buchmesse nicht verpassen",
-   "text": "Endlich gehen sie los, die Besuchertage auf der Frankfurter Buchmesse. Das heißt, alle dürfen kommen und sich in den Messe-Kosmos begeben. Damit Sie sich in dem Riesenangebot nicht verlieren, gibt es hier ein paar Tipps für den Freitag.",
-   "link": "https://www.hessenschau.de/kultur/duezen-tekkal-cornelia-funke-paul-maar-das-sollten-sie-am-freitag-auf-der-buchmesse-nicht-verpassen-v3,tipps-buchmesse-freitag-2026-100.html",
-   "published": "2026-10-09T09:39:36+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-13T09:39:36+00:00",
-   "img": "https://www.hessenschau.de/kultur/buchmesse/buchmesse-piekar-tomforde-link-100~_t-1791540617879_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "nc7ccd843ee",
-   "topic": "wissenschaft",
-   "title": "Die rätselhaften Fähigkeiten des Axolotl",
-   "text": "Der Axolotl kann Gliedmaßen, Organe und sogar Teile seines Herzens regenerieren. Forschende versuchen, seinen biologischen Bauplan zu entschlüsseln. 🎙️",
-   "link": "https://www.spektrum.de/podcast/spektrum-podcast-dem-geheimnis-des-axolotl-auf-der-spur/2349012",
-   "published": "2026-10-09T09:39:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-10-23T09:39:00+00:00"
-  },
-  {
-   "id": "n6f62304bc7",
-   "topic": "welt",
-   "title": "ICE-Beamter schießt in New York auf Mann im Auto",
-   "text": "Bei einem Einsatz der US-Einwanderungsbehörde ICE wird ein Mann verletzt. Im Wagen sitzt auch ein fünfjähriges Kind. New Yorks Bürgermeister reagiert empört und fordert ein Ende der ICE-Einsätze in der Stadt.",
-   "link": "https://www.dw.com/de/ice-beamter-schießt-in-new-york-auf-mann-im-auto/a-79608948?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-09T09:31:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-13T09:31:00+00:00",
-   "img": "https://static.dw.com/image/79606394_302.jpg"
-  },
-  {
-   "id": "n5889b83004",
-   "topic": "ki",
-   "title": "Anthropics KI-Werkzeug Claude Science erstellt erste vollständige ultraviolette Himmelskarte",
-   "text": "Mithilfe von Anthropics Claude Science hat der Astrophysiker Brice Ménard von der Johns Hopkins University erstmals den gesamten Himmel im ultravioletten Licht kartiert. KI-Agenten luden Daten mehrerer Weltraummissionen herunter, kalibrierten sie und füllten Lücken per Inpainting – mit rund zehn Prozent Abweichung von …",
-   "link": "https://the-decoder.de/anthropics-ki-werkzeug-claude-science-erstellt-erste-vollstaendige-ultraviolette-himmelskarte/",
-   "published": "2026-10-09T09:19:29+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-16T09:19:29+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/claude_sky_mapping.png"
-  },
-  {
-   "id": "n7ea1ed5a8f",
-   "topic": "welt",
-   "title": "Navanethem \"Navi\" Pillay erhält Friedensnobelpreis 2026",
-   "text": "Die südafrikanische Juristin habe \"maßgeblich dazu beigetragen, dass Kriegsverbrechen, Verbrechen gegen die Menschlichkeit und Völkermord strafrechtlich verfolgt werden\", teilte das Nobelkomitee in Oslo mit.",
-   "link": "https://www.dw.com/de/navanethem-navi-pillay-erhält-friedensnobelpreis-2026/a-79608952?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-09T09:08:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-13T09:08:00+00:00",
-   "img": "https://static.dw.com/image/79610480_302.jpg",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Navi Pillay - Friedensnobelpreisträgerin schockiert von neuen US-Sanktionen gegen Strafgerichtshof - Trump nennt Preisvergabe \"schändlich\"",
-     "link": "https://www.deutschlandfunk.de/friedensnobelpreistraegerin-schockiert-von-neuen-us-sanktionen-gegen-strafgerichtshof-trump-nennt-pr-100.html"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Neue US-Sanktionen gegen Internationalen Strafgerichtshof",
-     "link": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-istgh-100.html"
-    },
-    {
-     "source": "Spektrum der Wissenschaft",
-     "title": "Nobelpreise 2026: Friedensnobelpreis geht an Juristin Pillay aus Südafrika",
-     "link": "https://www.spektrum.de/news/nobelpreis-26-friedensnobelpreis-geht-an-pillay-aus-suedafrika/2349090"
-    }
-   ]
-  },
-  {
-   "id": "n757d60a5b7",
-   "topic": "welt",
-   "title": "Nobelpreisträgerin Machado: Weiter im Exil - mit wenig Einfluss",
-   "text": "Die Verleihung des Friedensnobelpreises an die Oppositionsführerin Machado galt in Venezuela als Zeichen der Hoffnung. Davon ist nach einem Jahr jedoch nicht mehr viel geblieben - auch wegen der mangelnden Unterstützung Trumps. Von Jenny Barke.",
-   "link": "https://www.tagesschau.de/ausland/amerika/machado-venezuela-100.html",
-   "published": "2026-10-09T08:49:03+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-12T08:49:03+00:00",
-   "img": "https://images.tagesschau.de/image/c616a65c-c99f-4f31-a5f0-457ca968ae97/AAABoR_aAbM/AAABnSSvrFg/16x9-big/machado-128.jpg?width=1920"
-  },
-  {
-   "id": "nb547d80b64",
-   "topic": "ki",
-   "title": "OpenAI deckt russische und iranische Einflussoperationen auf und sperrt beteiligte ChatGPT-Konten",
-   "text": "OpenAI hat eine russische und eine iranische Einflussoperation aufgedeckt und die Konten gesperrt. Die russische \"Dark Clark\"-Kampagne verbreitete Falschmeldungen in Lateinamerika und löste Reaktionen von Politikern aus. Erstmals stuft OpenAI eine Operation auf Kategorie 5 von 6 ein. Die iranische \"Bogus Bylines\" …",
-   "link": "https://the-decoder.de/openai-deckt-russische-und-iranische-einflussoperationen-auf-und-sperrt-beteiligte-chatgpt-konten/",
-   "published": "2026-10-09T08:32:37+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-16T08:32:37+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/russian_influence_campaigns.png"
-  },
-  {
-   "id": "n5ec7ac4693",
-   "topic": "politik",
-   "title": "Führerschein könnte laut Verkehrsminister Bilger viel billiger werden",
-   "text": "Der Führerschein soll billiger werden. Einen entsprechenden Gesetzentwurf hatte das Bundeskabinett im Mai auf den Weg gebracht. Nun hat Verkehrsminister Bilger erstmals konkrete Zahlen genannt. Von Jasper Ruppert.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/fuehrerschein-kosten-156.html",
-   "published": "2026-10-09T08:32:29+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-12T08:32:29+00:00",
-   "img": "https://images.tagesschau.de/image/80a0c2c1-df0d-464d-8638-609344a9de4c/AAABoSCb07I/AAABnSSvrFg/16x9-big/fuehrerschein-250.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Geplante Reform - Führerschein könnte laut Bundesverkehrsminister Bilger (CDU) bis zu 1.000 Euro günstiger werden",
-     "link": "https://www.deutschlandfunk.de/fuehrerschein-koennte-laut-bundesverkehrsminister-bilger-cdu-bis-zu-1-000-euro-guenstiger-werden-100.html"
-    }
-   ]
-  },
-  {
-   "id": "na7df3a487a",
-   "topic": "wirtschaft",
-   "title": "Finanzaufsicht verhängt 1,2-Millionen-Euro-Strafe gegen Volkswagen",
-   "text": "Die Finanzaufsicht BaFin hat Volkswagen wegen eines mutmaßlichen Verstoßes gegen Veröffentlichungspflichten mit einer millionenschweren Geldbuße belegt. Es geht um die Regeln zu Insider-Informationen.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-millionenstrafe-bafin-veroeffentlichungspflicht-100.html",
-   "published": "2026-10-09T08:00:22+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-12T08:00:22+00:00",
-   "img": "https://images.tagesschau.de/image/5f892207-0c5f-47b6-808d-e0bbd5edf4f7/AAABoR9rnW4/AAABnSSvrFg/16x9-big/vw-1602.jpg?width=1920"
-  },
-  {
-   "id": "na1f5696d03",
-   "topic": "welt",
-   "title": "Verhandlungen in den USA während massiver Angriffe in der Ukraine",
-   "text": "Unterhändler aus der Ukraine und den USA treffen sich zu Gesprächen über den Krieg. Die vergangenen Tage in der Ukraine waren geprägt von massiven russischen Angriffen mit vielen Toten. Außenminister Wadephul verschärft seinen Ton gegenüber Putin.",
-   "link": "https://www.tagesschau.de/ausland/europa/ukraine-trump-angriffe-100.html",
-   "published": "2026-10-09T07:57:06+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-12T07:57:06+00:00",
-   "img": "https://images.tagesschau.de/image/26d69c80-f0b6-4586-b3e1-5e77b7d86096/AAABoR9xg9U/AAABnSSvrFg/16x9-big/autowracks-ukraine-100.jpg?width=1920"
-  },
-  {
-   "id": "nbc2e8028ff",
-   "topic": "welt",
-   "title": "Großbritannien bietet Deutschland Kampfjet-Kooperation an",
-   "text": "Deutschland sucht einen neuen Partner für die Entwicklung eines modernen Kampfflugzeugs. Ein Vorstoß aus London eröffnet nun neue Möglichkeiten. Zugleich setzt Großbritannien auf eine stärkere Annäherung an die EU.",
-   "link": "https://www.dw.com/de/großbritannien-bietet-deutschland-kampfjet-kooperation-an/a-79607466?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-09T07:50:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-13T07:50:00+00:00",
-   "img": "https://static.dw.com/image/79594570_302.jpg"
-  },
-  {
-   "id": "nf34466db25",
-   "topic": "wirtschaft",
-   "title": "Update Wirtschaft vom 09.10.2026",
-   "text": "Update Wirtschaft vom 09.10.2026",
-   "link": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1663132.html",
-   "published": "2026-10-09T07:47:27+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-12T07:47:27+00:00",
-   "img": "https://images.tagesschau.de/image/3747e648-6457-41af-a61e-a3beca23d75c/AAABoR-hT04/AAABnSSvrFg/16x9-big/sendungsbild-1808852.jpg?width=1920"
-  },
-  {
-   "id": "n95b28fa8c5",
-   "topic": "welt",
-   "title": "Arbeiten für die ukrainische Bahn - in ständiger Gefahr",
-   "text": "Für die ukrainische Eisenbahn sind Fahrten ein gefährlicher Spießrutenlauf: Es gilt, den Zug sicher ans Ziel zu bringen - trotz Drohnen- und Raketenangriffen. Wie geht es den Mitarbeitenden der Bahn dabei? Von Marc Dugge.",
-   "link": "https://www.tagesschau.de/ausland/ukraine-eisenbahn-100.html",
-   "published": "2026-10-09T07:00:09+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-12T07:00:09+00:00",
-   "img": "https://images.tagesschau.de/image/a5eb8166-6adb-421e-8154-7f1bd910ed9e/AAABoR9kPTY/AAABnSSvrFg/16x9-big/sendungsbild-1808830.jpg?width=1920"
-  },
-  {
-   "id": "nd2304d8c6d",
-   "topic": "welt",
-   "title": "News kompakt: Frankreich geht auf Schüler-Forderungen ein",
-   "text": "In Frankreich sollen bis Dienstag mehr als 3000 Vertretungslehrer die Arbeit aufnehmen. Großbritannien bietet Deutschland eine Kooperation bei der Entwicklung eines Kampfjets an. Der DW-Nachrichtenüberblick.",
-   "link": "https://www.dw.com/de/news-kompakt-frankreich-geht-auf-schüler-forderungen-ein/a-79607198?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-09T07:00:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-13T07:00:00+00:00",
-   "img": "https://static.dw.com/image/79602963_302.jpg",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Navi Pillay - Friedensnobelpreisträgerin schockiert von neuen US-Sanktionen gegen Strafgerichtshof - Trump nennt Preisvergabe \"schändlich\"",
-     "link": "https://www.deutschlandfunk.de/friedensnobelpreistraegerin-schockiert-von-neuen-us-sanktionen-gegen-strafgerichtshof-trump-nennt-pr-100.html"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Neue US-Sanktionen gegen Internationalen Strafgerichtshof",
-     "link": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-istgh-100.html"
-    },
-    {
-     "source": "Spektrum der Wissenschaft",
-     "title": "Nobelpreise 2026: Friedensnobelpreis geht an Juristin Pillay aus Südafrika",
-     "link": "https://www.spektrum.de/news/nobelpreis-26-friedensnobelpreis-geht-an-pillay-aus-suedafrika/2349090"
-    }
-   ]
-  },
-  {
-   "id": "n564391da24",
-   "topic": "welt",
-   "title": "KI-Firmen müssen sich nach KI-Angriff in Australien erklären",
-   "text": "KI-Firmen wie OpenAI und Anthropic haben großes Interesse an Australien, etwa um Rechenzentren zu bauen. Doch ein Übergriff eines KI-Agenten auf ein Regierungsportal wirft Fragen auf. Die Regierung will Gesetze verschärfen. Von J. Johnston.",
-   "link": "https://www.tagesschau.de/ausland/ozeanien/ki-anhoerung-australien-100.html",
-   "published": "2026-10-09T06:59:55+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-12T06:59:55+00:00",
-   "img": "https://images.tagesschau.de/image/11398fab-d83f-4e13-87f3-77babfc7fbb5/AAABoR92Flw/AAABnSSvrFg/16x9-big/ki-ausschuss-australien-100.jpg?width=1920"
-  },
-  {
-   "id": "n9afde794a5",
-   "topic": "wirtschaft",
-   "title": "Warum Deutschland bei Betriebsrenten Nachholbedarf hat",
-   "text": "Betriebsrenten sind in anderen Ländern viel stärker verbreitet als in Deutschland. Für Arbeitgeber werden sie angesichts des Fachkräftemangels immer wichtiger, um Mitarbeiter zu gewinnen. Von Claudia Wehrle.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/betriebsrente-deutschland-100.html",
-   "published": "2026-10-09T06:43:59+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-12T06:43:59+00:00",
-   "img": "https://images.tagesschau.de/image/33d5a64f-15e5-4dc6-a8ab-90120c08cf9c/AAABoRW3FJU/AAABnSSvrFg/16x9-big/betriebsrente-120.jpg?width=1920"
+   "img": "https://static.spektrum.de/fm/912/thumbnails/Navi_Pillay.jpg.8415778.jpg?f=1280x720"
   }
  ]
 }
