@@ -1,67 +1,532 @@
 {
- "generated": "2026-10-10T00:52:04.356820+00:00",
+ "generated": "2026-10-10T09:51:32.783025+00:00",
  "briefing": [
-  "n7ea1ed5a8f",
+  "nc193dae38b",
+  "n572b0add4e",
   "n8390962ab2",
   "n5ec7ac4693",
-  "n5176ea0926",
-  "n136baf7504",
+  "n7e1b766d81",
+  "nd4608855b6",
   "n130c4a8148",
-  "nc4bb99afd3",
-  "n078cbc4ace",
-  "nd4608855b6"
+  "nc4bb99afd3"
  ],
  "ranked": [
   {
-   "id": "n7ea1ed5a8f",
-   "s": 44.1
+   "id": "nc193dae38b",
+   "s": 49.0
+  },
+  {
+   "id": "n572b0add4e",
+   "s": 32.7
   },
   {
    "id": "n8390962ab2",
-   "s": 29.7
+   "s": 27.5
   },
   {
    "id": "n5ec7ac4693",
-   "s": 28.9
+   "s": 27.0
   },
   {
-   "id": "n5176ea0926",
-   "s": 24.6
-  },
-  {
-   "id": "n136baf7504",
-   "s": 23.2
-  },
-  {
-   "id": "n130c4a8148",
-   "s": 23.0
-  },
-  {
-   "id": "nc4bb99afd3",
-   "s": 23.0
-  },
-  {
-   "id": "n078cbc4ace",
-   "s": 23.0
+   "id": "n7e1b766d81",
+   "s": 22.9
   },
   {
    "id": "nd4608855b6",
-   "s": 22.8
+   "s": 22.9
+  },
+  {
+   "id": "n130c4a8148",
+   "s": 20.7
+  },
+  {
+   "id": "nc4bb99afd3",
+   "s": 20.7
   }
  ],
  "items": [
+  {
+   "id": "n8c2613208e",
+   "topic": "wissenschaft",
+   "title": "Insektivoren: Die tödlichen Tricks der Kannenpflanze",
+   "text": "Fliegen können den Blattfallen dieser fleischfressenden Pflanzen kaum entkommen, denn deren Verdauungssaft verhält sich erstaunlich elastisch.",
+   "link": "https://www.spektrum.de/news/fleischfressende-pflanzen-die-toedlichen-tricks-der-kannenpflanze/2347429",
+   "published": "2026-10-10T10:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-24T10:00:00+00:00"
+  },
+  {
+   "id": "ne44e5f1a81",
+   "topic": "it",
+   "title": "Strafjustiz: UN warnt vor Missbrauch von Neurotechnologie",
+   "text": "UN-Generalsekretär Guterres warnt erstmals vor Neurotechnologie. Staaten könnten Gehirne auslesen und Grundrechte verletzen. ( Politik , Datenschutz )",
+   "link": "https://www.golem.de/news/strafjustiz-un-warnt-vor-missbrauch-von-neurotechnologie-2610-213952.html",
+   "published": "2026-10-10T09:38:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-15T09:38:02+00:00",
+   "img": "https://www.golem.de/2610/213952-602722-602720_rc.jpg"
+  },
   {
    "id": "n5c65f44a4b",
    "topic": "politik",
    "title": "Vereinbarung mit Putin - \"Zeichen der Schwäche\" - Selenskyj kritisiert US-Deal zu russischem Diesel",
    "text": "Der ukrainische Präsident Selenskyj hat die Vereinbarung der USA mit Russland zur Lieferung von Diesel kritisiert. Das sei eine Investition in den Krieg gegen die Ukraine. Selenskyj sprach von einem Zeichen der offensichtlichen Schwäche. Russland werde die Vereinigten Staaten noch weniger ernst nehmen.",
    "link": "https://www.deutschlandfunk.de/zeichen-der-schwaeche-selenskyj-kritisiert-us-deal-zu-russischem-diesel-102.html",
-   "published": "2026-10-10T00:41:22+00:00",
+   "published": "2026-10-10T09:36:15+00:00",
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-12T00:41:22+00:00",
+   "expires": "2026-10-12T09:36:15+00:00",
    "img": "https://bilder.deutschlandfunk.de/ea/47/70/80/ea477080-675a-423f-9bc4-c4d7282e425c/623207074-100-1920x1920.jpg"
+  },
+  {
+   "id": "n7e1b766d81",
+   "topic": "politik",
+   "title": "Wirtschaftspolitik - China: Zentralkomitee der Kommunistischen Partei und Staatsrat veröffentlichen Leitlinien zur Entwicklung von Spitzentechnologie",
+   "text": "In China haben das Zentralkomitee der Kommunistischen Partei und der Staatsrat Leitlinien zur Entwicklung von Spitzentechnologie veröffentlicht.",
+   "link": "https://www.deutschlandfunk.de/china-zentralkomitee-der-kommunistischen-partei-und-staatsrat-veroeffentlichen-leitlinien-zur-entwic-100.html",
+   "published": "2026-10-10T09:36:15+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-12T09:36:15+00:00",
+   "img": "https://bilder.deutschlandfunk.de/NO/VA/_1/da/NOVA_1da788a0485b9ae70338e2b6d75c44b5/craft-13026951-asset-100-1920x1920.jpg"
+  },
+  {
+   "id": "nc1cc3cc415",
+   "topic": "politik",
+   "title": "Finanzen - Ökonomen fordern Reform der Erbschaftssteuer",
+   "text": "Der Präsident des Münchner Ifo-Instituts, Fuest, hält die geltenden Sonderregeln für Unternehmer bei der Erbschaftssteuer für nicht mehr zeitgemäß.",
+   "link": "https://www.deutschlandfunk.de/oekonomen-fordern-reform-der-erbschaftssteuer-100.html",
+   "published": "2026-10-10T09:36:15+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-12T09:36:15+00:00",
+   "img": "https://bilder.deutschlandfunk.de/2b/90/af/95/2b90af95-168b-4f4e-a5e4-c0131d6d44f8/clemens-fuest-106-1920x1920.jpg"
+  },
+  {
+   "id": "nb8f6240067",
+   "topic": "politik",
+   "title": "Navi Pillay - Friedensnobelpreisträgerin schockiert von neuen US-Sanktionen gegen Strafgerichtshof - Trump nennt Preisvergabe \"schändlich\"",
+   "text": "Die neue Friedensnobelpreisträgerin Navanethem Pillay hat sich schockiert über die gestern verschärften US-Sanktionen gegen den Internationalen Strafgerichtshof in Den Haag geäußert. Besonders schlimm sei, dass Richter wegen ihrer gerichtlichen Anordnungen sanktioniert würden, sagte Pillay im ARD-Fernsehen.",
+   "link": "https://www.deutschlandfunk.de/friedensnobelpreistraegerin-schockiert-von-neuen-us-sanktionen-gegen-strafgerichtshof-trump-nennt-pr-100.html",
+   "published": "2026-10-10T09:36:15+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-12T09:36:15+00:00",
+   "img": "https://bilder.deutschlandfunk.de/bb/1c/50/b9/bb1c50b9-5373-4947-b24b-76c4d3c48d71/navanethem-pillay-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Deutschland stellt sich hinter Internationalen Strafgerichtshof - News kompakt: Das Wichtigste kurz gefasst",
+     "link": "https://www.dw.com/de/deutschland-stellt-sich-hinter-internationalen-strafgerichtshof-news-kompakt-das-wichtigste-kurz-gefasst/a-79624657?maca=de-rss-de-all-1119-xml-mrss"
+    },
+    {
+     "source": "Tagesschau",
+     "title": "Neue US-Sanktionen gegen Internationalen Strafgerichtshof",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-istgh-100.html"
+    },
+    {
+     "source": "Spektrum der Wissenschaft",
+     "title": "Nobelpreise 2026: Friedensnobelpreis geht an Juristin Pillay aus Südafrika",
+     "link": "https://www.spektrum.de/news/nobelpreis-26-friedensnobelpreis-geht-an-pillay-aus-suedafrika/2349090"
+    }
+   ]
+  },
+  {
+   "id": "nea96ff0715",
+   "topic": "politik",
+   "title": "Neu Delhi - Polizei stoppt Proteste in Indien - auch Gründer von Kakerlaken-Bewegung \"CJP\" festgenommen",
+   "text": "In der indischen Hauptstadt Neu-Delhi hat die Polizei regierungskritische Proteste gestoppt.",
+   "link": "https://www.deutschlandfunk.de/polizei-stoppt-proteste-in-indien-auch-gruender-von-kakerlaken-bewegung-cjp-festgenommen-100.html",
+   "published": "2026-10-10T09:36:15+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-12T09:36:15+00:00",
+   "img": "https://bilder.deutschlandfunk.de/86/76/74/b0/867674b0-c6c5-4b26-9056-59d25f991798/neu-delhi-proteste-kakerlaken-cjp-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Gründer der indischen Kakerlaken-Bewegung festgenommen",
+     "link": "https://www.tagesschau.de/ausland/asien/indien-festnahme-gruender-kakerlaken-bewegung-100.html"
+    }
+   ]
+  },
+  {
+   "id": "ned97031aca",
+   "topic": "politik",
+   "title": "Lebensmittelchemiker - Bundesverband warnt vor Kontrolllücken bei Restaurants, Imbissen und Cafès",
+   "text": "Wegen Sparmaßnahmen und Haushaltsproblemen in vielen Landkreisen drohen Restaurants und Cafés seltener und schlechter auf Hygiene und Sicherheit kontrolliert zu werden.",
+   "link": "https://www.deutschlandfunk.de/bundesverband-warnt-vor-kontrollluecken-bei-restaurants-imbissen-und-caf-s-102.html",
+   "published": "2026-10-10T09:36:15+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-12T09:36:15+00:00",
+   "img": "https://bilder.deutschlandfunk.de/84/ab/47/5b/84ab475b-421a-4003-b583-10d3eeb4b886/hygiene-kontrolle-imbiss-100-1920x1920.jpg"
+  },
+  {
+   "id": "nd4608855b6",
+   "topic": "welt",
+   "title": "Schweres Erdbeben erschüttert Panama",
+   "text": "In Panama hat es ein schweres Erdbeben der Stärke 7,7 gegeben. In Panama-Stadt schwankten Gebäude, Menschen verließen die Häuser. Dutzende Nachbeben folgten. Nach Angaben der Behörden gab es mehrere Verletzte.",
+   "link": "https://www.tagesschau.de/ausland/amerika/erdbeben-panama-100.html",
+   "published": "2026-10-10T09:34:50+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-13T09:34:50+00:00",
+   "img": "https://images.tagesschau.de/image/6a678e43-2dba-4d4b-9eb1-59a438ee4bec/AAABoSMa5Jw/AAABnSSvrFg/16x9-big/panama-228.jpg?width=1920"
+  },
+  {
+   "id": "n986afc29d1",
+   "topic": "politik",
+   "title": "Das sollten Sie am Samstag auf der Buchmesse nicht verpassen",
+   "text": "Wenn Frauke Brosius-Gersdorf, Otto Waalkes und Riccardo Simonetti sich am gleichen Ort herumtreiben, kann das nur eines heißen: Es ist Buchmesse! Ein paar Highlight-Termine haben wir Ihnen hier zusammengestellt und verfolgen für Sie die Talks auf der Literaturbühne.",
+   "link": "https://www.hessenschau.de/kultur/buchmesse/das-sollten-sie-am-samstag-auf-der-buchmesse-nicht-verpassen-v2,tipps-buchmesse-samstag-2026-100.html",
+   "published": "2026-10-10T09:33:56+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-14T09:33:56+00:00",
+   "img": "https://www.hessenschau.de/kultur/buchmesse/buchmesse-brosius-gersdorf-simonetti-lucas-otto-100~_t-1791619107834_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "na43e2a4c7f",
+   "topic": "nfl",
+   "title": "Do the Colts actually have a chance to win in Pittsburgh?",
+   "text": "If the Colts play their game, they can win in Pittsburgh.",
+   "link": "https://sports.yahoo.com/articles/colts-actually-chance-win-pittsburgh-093255196.html",
+   "published": "2026-10-10T09:32:55+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-15T09:32:55+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/618fa0c24e101fd11b66a239d7d56e30.jpg"
+  },
+  {
+   "id": "n3f1301a260",
+   "topic": "welt",
+   "title": "Trump dreht Russlands Dieselhähne auf",
+   "text": "Der US-Präsident und sein russischer Counterpart, Kremlchef Putin, schließen eine Vereinbarung, die beiden nützen soll: Trump könnte sie Stimmen bringen, Putin Geld. Die Ukraine sieht sich als benachteiligter Dritter.",
+   "link": "https://www.dw.com/de/trump-dreht-russlands-dieselhähne-auf/a-79626676?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-10T09:29:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-14T09:29:00+00:00",
+   "img": "https://static.dw.com/image/79625869_302.jpg"
+  },
+  {
+   "id": "n904c1bc4da",
+   "topic": "politik",
+   "title": "Vor Klausur des Präsidiums: CDU sucht den Weg aus der Krise",
+   "text": "Dass es gerade schwierig ist, da ist sich die CDU einig. Vor allem die Wahlniederlagen im September schmerzen noch immer. Die Partei will raus aus dem Tief und dafür - so ein Vorschlag - wieder näher an den Alltag der Menschen heranrücken.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-klausur-krise-100.html",
+   "published": "2026-10-10T09:04:58+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-13T09:04:58+00:00"
+  },
+  {
+   "id": "n071ccc82c0",
+   "topic": "nfl",
+   "title": "Golden Nuggets: One more sleep until the game of the year (so far)",
+   "text": "Your daily San Francisco 49ers news for Saturday, October 10th, 2026",
+   "link": "https://sports.yahoo.com/articles/golden-nuggets-one-more-sleep-090000495.html",
+   "published": "2026-10-10T09:00:00+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-15T09:00:00+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/3ce511789f92214fbee0d817f967b7a1.jpg"
+  },
+  {
+   "id": "nd90ade721b",
+   "topic": "ki",
+   "title": "Googles Gemini-4-Modell \"Carbon\" soll mit Anthropics stärkstem Coding-Modell mithalten",
+   "text": "Gemini 4 Argon ist nicht einmal allgemein verfügbar, da kursieren bereits Gerüchte über eine stärkere Variante mit dem internen Codenamen Carob. Laut Business Insider verglich ein Mitarbeiter Carbons Coding-Fähigkeiten mit Anthropics Opus 5.5. Parallel tauchen in der Gemini-App und im AI‑Studio neue Modi auf, die den …",
+   "link": "https://the-decoder.de/googles-gemini-4-modell-carbon-soll-mit-anthropics-staerkstem-coding-modell-mithalten/",
+   "published": "2026-10-10T08:59:49+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-17T08:59:49+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/gemini_4_argon.png"
+  },
+  {
+   "id": "n1ba4c4ab1b",
+   "topic": "it",
+   "title": "Tesla benennt nach Kritik Assistenzsystem in Europa um",
+   "text": "Der Name von Teslas FSD wurde lange als irreführend kritisiert, weil er autonomes Fahren verspreche. Für eine europaweite Zulassung lenkt Tesla nun ein.",
+   "link": "https://www.heise.de/news/TAD-statt-FSD-Tesla-benennt-Fahrassistenten-um-11483238.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-10T08:55:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-15T08:55:00+00:00"
+  },
+  {
+   "id": "n37447467b2",
+   "topic": "it",
+   "title": "FDX Fusion: Dresden bekommt neuen Halbleiterprozess mit 7-nm-Leistung",
+   "text": "Planare Transistoren sind noch nicht am Ende: Globalfoundries stellt einen neuen Fertigungsprozess vor, Forscher arbeiten an 7- und 10-nm-Prozessen. ( Halbleiterfertigung , Globalfoundries )",
+   "link": "https://www.golem.de/news/fdx-fusion-dresden-bekommt-neuen-halbleiterprozess-mit-7-nm-leistung-2610-213951.html",
+   "published": "2026-10-10T08:47:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-15T08:47:02+00:00",
+   "img": "https://www.golem.de/2610/213951-602718-602716_rc.jpg"
+  },
+  {
+   "id": "n572b0add4e",
+   "topic": "welt",
+   "title": "Gründer der indischen Kakerlaken-Bewegung festgenommen",
+   "text": "Vor einer geplanten Demonstration gegen Indiens Wahlkommission ist der Gründer der sogenannten Kakerlaken-Bewegung festgenommen worden. Die Bewegung fordert den Rücktritt des Wahlkommissionschefs.",
+   "link": "https://www.tagesschau.de/ausland/asien/indien-festnahme-gruender-kakerlaken-bewegung-100.html",
+   "published": "2026-10-10T08:46:02+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-13T08:46:02+00:00",
+   "img": "https://images.tagesschau.de/image/322cbdbe-fffc-4a1d-8e06-04fc29f03829/AAABoSTfTe8/AAABnSSvrFg/16x9-big/abhijeet-dipke-kakerlaken-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Neu Delhi - Polizei stoppt Proteste in Indien - auch Gründer von Kakerlaken-Bewegung \"CJP\" festgenommen",
+     "link": "https://www.deutschlandfunk.de/polizei-stoppt-proteste-in-indien-auch-gruender-von-kakerlaken-bewegung-cjp-festgenommen-100.html"
+    }
+   ]
+  },
+  {
+   "id": "ne4eae91167",
+   "topic": "it",
+   "title": "7-Zip 26.04: Sicherheitslücken geschlossen",
+   "text": "Das populäre Archivtool 7-Zip ist in der neuen Version 26.04 erschienen. Sie schließt Sicherheitslecks und korrigiert Fehler.",
+   "link": "https://www.heise.de/news/7-Zip-Update-stopft-Sicherheitsluecken-11483182.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-10T08:18:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-15T08:18:00+00:00"
+  },
+  {
+   "id": "n5a7b421c15",
+   "topic": "wissenschaft",
+   "title": "Justina Lugenbühl über Depression, Stress und Astrozyten",
+   "text": "Die biologischen Ursachen psychiatrischer Störungen sind immer noch ein großes Rätsel. Justina Lugenbühl untersucht ein ziemlich überraschendes: Astrozyten.",
+   "link": "https://www.spektrum.de/video/dasgehirn-info-depression-stress-und-astrozyten/2349055",
+   "published": "2026-10-10T08:14:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-24T08:14:00+00:00"
+  },
+  {
+   "id": "n24a3e9d7cc",
+   "topic": "wissenschaft",
+   "title": "Wie suchen wir nach außerirdischem Leben auf Exoplaneten?",
+   "text": "Gibt es Leben auf fernen Planeten? Und wenn ja, wie könnten wir es aus mehreren Lichtjahren Entfernung überhaupt entdecken?",
+   "link": "https://www.spektrum.de/video/science-slam-wie-wir-nach-ausserirdischem-leben-auf-exoplaneten-suchen/2349052",
+   "published": "2026-10-10T08:13:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-24T08:13:00+00:00"
+  },
+  {
+   "id": "nfc40a2da0a",
+   "topic": "it",
+   "title": "Photokina-Comeback und KI-Skandal – die Fotonews der Woche 41/2026",
+   "text": "Die Imaging World zieht nach Köln, Nikon prüft KI-Betrug bei einem Wettbewerb und Leica ehrt Graciela Iturbide.",
+   "link": "https://www.heise.de/news/Photokina-Comeback-und-KI-Skandal-die-Fotonews-der-Woche-41-2026-11482204.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-10T08:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-15T08:00:00+00:00"
+  },
+  {
+   "id": "nebae89d61c",
+   "topic": "welt",
+   "title": "Ein Jahr brüchige Waffenruhe Gaza: \"Der Krieg lässt uns nicht in Ruhe\"",
+   "text": "Ein Jahr nach der Waffenruhe im Gazastreifen leben viele Menschen weiter in Not, Hilfsorganisationen sichern ihr Überleben. Von der internationalen Politik fühlen sich die Menschen vergessen. Von Felicitas Boeselager.",
+   "link": "https://www.tagesschau.de/ausland/asien/israel-gaza-waffenruhe-112.html",
+   "published": "2026-10-10T07:37:37+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-13T07:37:37+00:00",
+   "img": "https://images.tagesschau.de/image/7ebf7660-a546-42ab-98ff-abf48d3e3a7d/AAABoSS-sq0/AAABnSSvrFg/16x9-big/zelte-gaza-102.jpg?width=1920"
+  },
+  {
+   "id": "n0c08bb7c86",
+   "topic": "welt",
+   "title": "Hurrikan \"Isaias\" trifft auf US-Golfküste",
+   "text": "Mit \"Isaias\" ist der erste Hurrikan der Saison auf die US-Küste getroffen. Er brachte heftige Regenfälle mit sich, in Hunderttausenden Haushalten fiel der Strom aus. Mehrere Bundesstaaten haben den Notstand ausgerufen.",
+   "link": "https://www.tagesschau.de/ausland/amerika/usa-hurrikan-isaias-102.html",
+   "published": "2026-10-10T07:15:42+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-13T07:15:42+00:00",
+   "img": "https://images.tagesschau.de/image/f58f69cc-3816-42c6-89e6-0513df9fee77/AAABoSSq4iU/AAABnSSvrFg/16x9-big/usa-hurrikan-isaias-106.jpg?width=1920"
+  },
+  {
+   "id": "n7300cd4711",
+   "topic": "welt",
+   "title": "Deutschland stellt sich hinter Internationalen Strafgerichtshof - News kompakt: Das Wichtigste kurz gefasst",
+   "text": "Die USA kündigen Sanktionen gegen den Internationalen Strafgerichtshof an und lösen damit international scharfe Kritik aus. Hurrikan \"Isaias\" sorgt an der US-Küste für massive Stromausfälle. Der DW-Nachrichtenüberblick.",
+   "link": "https://www.dw.com/de/deutschland-stellt-sich-hinter-internationalen-strafgerichtshof-news-kompakt-das-wichtigste-kurz-gefasst/a-79624657?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-10T07:00:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-14T07:00:00+00:00",
+   "img": "https://static.dw.com/image/78420321_302.jpg",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Navi Pillay - Friedensnobelpreisträgerin schockiert von neuen US-Sanktionen gegen Strafgerichtshof - Trump nennt Preisvergabe \"schändlich\"",
+     "link": "https://www.deutschlandfunk.de/friedensnobelpreistraegerin-schockiert-von-neuen-us-sanktionen-gegen-strafgerichtshof-trump-nennt-pr-100.html"
+    },
+    {
+     "source": "Tagesschau",
+     "title": "Neue US-Sanktionen gegen Internationalen Strafgerichtshof",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-istgh-100.html"
+    },
+    {
+     "source": "Spektrum der Wissenschaft",
+     "title": "Nobelpreise 2026: Friedensnobelpreis geht an Juristin Pillay aus Südafrika",
+     "link": "https://www.spektrum.de/news/nobelpreis-26-friedensnobelpreis-geht-an-pillay-aus-suedafrika/2349090"
+    }
+   ]
+  },
+  {
+   "id": "nc158b3060d",
+   "topic": "wirtschaft",
+   "title": "Immobilienmarkt: Steigende Preise trotz sinkender Nachfrage",
+   "text": "Die Preise für Wohnimmobilien legen weiter zu - obwohl Baukredite sehr teuer geworden sind und sich weniger Menschen eine Eigentumswohnung oder ein Haus leisten können. Wie passt das zusammen? Von Heidi Radvilas",
+   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/hauskauf-wohnungskauf-kaufkraft-100.html",
+   "published": "2026-10-10T06:32:43+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-13T06:32:43+00:00",
+   "img": "https://images.tagesschau.de/image/040b7883-fb47-4188-802b-7d0feb5ee3b5/AAABoRZv2sY/AAABnSSvrFg/16x9-big/immobilien-266.jpg?width=1920"
+  },
+  {
+   "id": "nff3f6f0ad8",
+   "topic": "politik",
+   "title": "Aufwachsen ohne Eltern: Wie Ehrenamtliche eine Lücke schließen",
+   "text": "Kinder, die ohne Eltern aufwachsen, kennen Erwachsene oft nur als Betreuer, Erzieher oder Lehrer. Ein Kölner Verein will ihnen Erwachsene an die Seite stellen, die bleiben - und damit eine Lücke schließen. Von Rupert Wiederwald.",
+   "link": "https://www.tagesschau.de/inland/mittendrin/ehrenamt-wegbegleitung-kinder-100.html",
+   "published": "2026-10-10T06:16:51+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-13T06:16:51+00:00",
+   "img": "https://images.tagesschau.de/image/31908849-0b1e-4a54-90a8-36702c8b9667/AAABoSAKhW4/AAABnSSvrFg/16x9-big/sendungsbild-1808916.jpg?width=1920"
+  },
+  {
+   "id": "nd47a57a480",
+   "topic": "wirtschaft",
+   "title": "Anthropic-KI stellt Visaanträge bei US-Außenministerium",
+   "text": "Erneut hat das US-Techunternehmen Anthropic gemeldet, dass eines seiner KI-Modelle eigenmächtig gehandelt hat. Die KI erstellte eigenständig Visaanträge und gab der Polizei einen falschen Tipp. Von Gabi Biesinger.",
+   "link": "https://www.tagesschau.de/wirtschaft/technologie/anthropic-ki-104.html",
+   "published": "2026-10-10T05:48:52+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-13T05:48:52+00:00"
+  },
+  {
+   "id": "ne2218ac13e",
+   "topic": "welt",
+   "title": "Wahlkampf per Fahrrad: Können Serbiens Studenten Vucic besiegen?",
+   "text": "Vor zwei Jahren begannen die Studentenproteste gegen Serbiens Regierung unter Vucic - und für Neuwahlen. Jetzt, da es Ende des Monats tatsächlich Wahlen geben wird, haben die Studierenden eine echte Chance. Von A. Herz.",
+   "link": "https://www.tagesschau.de/ausland/europa/serbien-wahl-studenten-100.html",
+   "published": "2026-10-10T05:44:11+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-13T05:44:11+00:00",
+   "img": "https://images.tagesschau.de/image/2e197229-0719-4ef3-b210-24f9289cfc8b/AAABoSCLYa0/AAABnSSvrFg/16x9-big/studierende-anhaenger-100.jpg?width=1920"
+  },
+  {
+   "id": "n333c047223",
+   "topic": "welt",
+   "title": "Tigray: Eritrea schickt Truppen, Äthiopien Beschwerdebriefe",
+   "text": "Äthiopien gibt Eritrea die Schuld an einer Eskalation in Tigray. Eritrea schickt Truppen. Das Bündnis gegen Premier Abiy rückt enger zusammen - die möglichen regionalen Auswirkungen sind kaum zu überschätzen.",
+   "link": "https://www.dw.com/de/tigray-eritrea-schickt-truppen-äthiopien-beschwerdebriefe/a-79621750?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-10T05:26:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-14T05:26:00+00:00",
+   "img": "https://static.dw.com/image/79617676_302.jpg"
+  },
+  {
+   "id": "nbf90d240c2",
+   "topic": "welt",
+   "title": "Gewaltwelle mit Messerattacken erreicht polnische Schulen",
+   "text": "Polen gilt als ein sicheres Land. Amokläufe an Schulen kannten die Polen bisher nur aus ausländischen Medienberichten. Nach einer Serie von Messerattacken wächst jetzt die Angst vor Nachahmungstätern.",
+   "link": "https://www.dw.com/de/gewaltwelle-mit-messerattacken-erreicht-polnische-schulen/a-79610073?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-10T04:48:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-14T04:48:00+00:00",
+   "img": "https://static.dw.com/image/79609910_302.jpg"
+  },
+  {
+   "id": "nd418be05ca",
+   "topic": "welt",
+   "title": "Auch Republikaner über geplante Live-Hinrichtung entsetzt",
+   "text": "Eine Militärhinrichtung im Livestream: In den USA wird kontrovers über die Ankündigung des Verteidigungsministers diskutiert. Die Rede ist von Methoden wie bei der IS-Miliz. Auch Vizepräsident Vance geht auf Distanz. Von Nina Barth.",
+   "link": "https://www.tagesschau.de/ausland/amerika/usa-todesstrafe-106.html",
+   "published": "2026-10-10T03:56:30+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-13T03:56:30+00:00",
+   "img": "https://images.tagesschau.de/image/79e223bb-bb7a-4185-b69e-5f9a68efaf90/AAABoSP0iHg/AAABnSSvrFg/16x9-big/proteste-todesstrafe-100.jpg?width=1920"
+  },
+  {
+   "id": "naf8af66bc7",
+   "topic": "welt",
+   "title": "Trump kündigt russische Diesellieferungen an",
+   "text": "Wegen der hohen Spritpreise steht Trump innenpolitisch unter wachsendem Druck. Nun verkündet der US-Präsident einen Deal mit Russland, der die Lieferung von zunächst 300.000 Tonnen Diesel für die USA und den Weltmarkt umfasst. Kiew ist empört.",
+   "link": "https://www.tagesschau.de/ausland/amerika/trump-diesellieferungen-russland-100.html",
+   "published": "2026-10-10T02:43:04+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-13T02:43:04+00:00",
+   "img": "https://images.tagesschau.de/image/c49f24bf-a6e7-43b3-bd27-2a24aade3ba4/AAABoSKxMR8/AAABnSSvrFg/16x9-big/trump-5322.jpg?width=1920"
+  },
+  {
+   "id": "n962257c4e8",
+   "topic": "nfl",
+   "title": "Mike Ditka, Hall of Fame tight end and Bears' Super Bowl-winning coach, dies at age 86",
+   "text": "Ditka was a fixture in the NFL for more than 50 years",
+   "link": "https://www.cbssports.com/nfl/news/mike-ditka-bears-super-bowl-winning-coach-dies-at-age-86/",
+   "published": "2026-10-10T01:09:50+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-15T01:09:50+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/09/6500814c-772f-42af-a8d1-60230b273d40/ditka.jpg"
   },
   {
    "id": "n130c4a8148",
@@ -154,19 +619,6 @@
    "img": "https://media.zenfs.com/en/sb_nation_articles_115/2c6086b43160e4cc82afe6de93b03799.jpg"
   },
   {
-   "id": "nd4608855b6",
-   "topic": "welt",
-   "title": "Schweres Erdbeben erschüttert Panama",
-   "text": "In Panama hat es ein schweres Erdbeben der Stärke 7,7 gegeben. In Panama-Stadt schwankten Gebäude, Menschen verließen die Häuser. Eine Tsunamiwarnung wurde aufgehoben. Über mögliche Verletzte gibt es bislang keine Angaben.",
-   "link": "https://www.tagesschau.de/ausland/amerika/erdbeben-panama-100.html",
-   "published": "2026-10-09T23:58:47+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-12T23:58:47+00:00",
-   "img": "https://images.tagesschau.de/image/6a678e43-2dba-4d4b-9eb1-59a438ee4bec/AAABoSMa5Jw/AAABnSSvrFg/16x9-big/panama-228.jpg?width=1920"
-  },
-  {
    "id": "ne2de19c2e4",
    "topic": "welt",
    "title": "China sagt EU weniger Exporte von Hybridautos zu",
@@ -177,7 +629,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-12T22:54:50+00:00",
-   "img": "https://images.tagesschau.de/image/cd1e8877-df13-451c-b66e-71c2dff4e7c9/AAABoSIiBGU/AAABnSSvrFg/16x9-big/handelsstreit-china-hybrid-autos-100.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/2b1398ce-b384-4026-be34-64ba42ae5626/AAABoSSnBvQ/AAABnSSvrFg/16x9-big/autoexport-china-100.jpg?width=1920"
   },
   {
    "id": "n8343889307",
@@ -191,19 +643,6 @@
    "lang": "en",
    "expires": "2026-10-14T22:22:32+00:00",
    "img": "https://sportshub.cbsistatic.com/i/2026/10/02/c633fb76-0563-47f1-9ed4-167c4d3014de/devonta-smith-eagles-imagn-images.jpg"
-  },
-  {
-   "id": "naf8af66bc7",
-   "topic": "welt",
-   "title": "Trump kündigt russische Diesel-Lieferungen an",
-   "text": "Wegen der hohen Spritpreise steht Trump innenpolitisch unter wachsendem Druck. Nun verkündet der US-Präsident einen Deal mit Russland, der die Lieferung von zunächst 300.000 Tonnen Diesel für die USA und den Weltmarkt umfasst. Kiew ist empört.",
-   "link": "https://www.tagesschau.de/ausland/amerika/trump-diesellieferungen-russland-100.html",
-   "published": "2026-10-09T22:19:16+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-12T22:19:16+00:00",
-   "img": "https://images.tagesschau.de/image/c49f24bf-a6e7-43b3-bd27-2a24aade3ba4/AAABoSKxMR8/AAABnSSvrFg/16x9-big/trump-5322.jpg?width=1920"
   },
   {
    "id": "nd44c1a366d",
@@ -463,7 +902,24 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-12T17:47:36+00:00",
-   "img": "https://images.tagesschau.de/image/9ca0255a-e565-4ade-9499-c2737cf5429e/AAABoB-ybDQ/AAABnSSvrFg/16x9-big/istgh-internationaler-strafgerichtshof-100.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/9ca0255a-e565-4ade-9499-c2737cf5429e/AAABoB-ybDQ/AAABnSSvrFg/16x9-big/istgh-internationaler-strafgerichtshof-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Navi Pillay - Friedensnobelpreisträgerin schockiert von neuen US-Sanktionen gegen Strafgerichtshof - Trump nennt Preisvergabe \"schändlich\"",
+     "link": "https://www.deutschlandfunk.de/friedensnobelpreistraegerin-schockiert-von-neuen-us-sanktionen-gegen-strafgerichtshof-trump-nennt-pr-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Deutschland stellt sich hinter Internationalen Strafgerichtshof - News kompakt: Das Wichtigste kurz gefasst",
+     "link": "https://www.dw.com/de/deutschland-stellt-sich-hinter-internationalen-strafgerichtshof-news-kompakt-das-wichtigste-kurz-gefasst/a-79624657?maca=de-rss-de-all-1119-xml-mrss"
+    },
+    {
+     "source": "Spektrum der Wissenschaft",
+     "title": "Nobelpreise 2026: Friedensnobelpreis geht an Juristin Pillay aus Südafrika",
+     "link": "https://www.spektrum.de/news/nobelpreis-26-friedensnobelpreis-geht-an-pillay-aus-suedafrika/2349090"
+    }
+   ]
   },
   {
    "id": "nca162bb739",
@@ -721,19 +1177,6 @@
    "img": "https://images.tagesschau.de/image/c728a3c8-8196-4280-8024-6efe9fe96649/AAABn9Y3WjY/AAABnSSvrFg/16x9-big/swr-58836.jpg?width=1920"
   },
   {
-   "id": "nbf90d240c2",
-   "topic": "welt",
-   "title": "Gewaltwelle mit Messerattacken erreicht polnische Schulen",
-   "text": "Polen gilt als ein sicheres Land. Amokläufe an Schulen kannten die Polen bisher nur aus ausländischen Medienberichten. Nach einer Serie von Messerattacken wächst jetzt die Angst vor Nachahmungstätern.",
-   "link": "https://www.dw.com/de/gewaltwelle-mit-messerattacken-erreicht-polnische-schulen/a-79610073?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-09T12:01:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-13T12:01:00+00:00",
-   "img": "https://static.dw.com/image/79609910_302.jpg"
-  },
-  {
    "id": "n2c09ef9a8a",
    "topic": "wissenschaft",
    "title": "Nobelpreise 2026: Friedensnobelpreis geht an Juristin Pillay aus Südafrika",
@@ -748,18 +1191,18 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Oslo - Friedensnobelpreis für Navanethem \"Navi\" Pillay",
-     "link": "https://www.deutschlandfunk.de/friedensnobelpreis-fuer-navanethem-navi-pillay-100.html"
+     "title": "Navi Pillay - Friedensnobelpreisträgerin schockiert von neuen US-Sanktionen gegen Strafgerichtshof - Trump nennt Preisvergabe \"schändlich\"",
+     "link": "https://www.deutschlandfunk.de/friedensnobelpreistraegerin-schockiert-von-neuen-us-sanktionen-gegen-strafgerichtshof-trump-nennt-pr-100.html"
     },
     {
      "source": "Deutsche Welle",
-     "title": "Navanethem \"Navi\" Pillay erhält Friedensnobelpreis 2026",
-     "link": "https://www.dw.com/de/navanethem-navi-pillay-erhält-friedensnobelpreis-2026/a-79608952?maca=de-rss-de-all-1119-xml-mrss"
+     "title": "Deutschland stellt sich hinter Internationalen Strafgerichtshof - News kompakt: Das Wichtigste kurz gefasst",
+     "link": "https://www.dw.com/de/deutschland-stellt-sich-hinter-internationalen-strafgerichtshof-news-kompakt-das-wichtigste-kurz-gefasst/a-79624657?maca=de-rss-de-all-1119-xml-mrss"
     },
     {
      "source": "Tagesschau",
-     "title": "Verkündung in Oslo: Wer macht das Rennen um den Friedensnobelpreis?",
-     "link": "https://www.tagesschau.de/wissen/friedensnobelpreis-2026-vergabe-100.html"
+     "title": "Neue US-Sanktionen gegen Internationalen Strafgerichtshof",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-istgh-100.html"
     }
    ]
   },
@@ -868,19 +1311,19 @@
    "expires": "2026-10-11T10:30:18+00:00",
    "also": [
     {
-     "source": "Spektrum der Wissenschaft",
-     "title": "Nobelpreise 2026: Friedensnobelpreis geht an Juristin Pillay aus Südafrika",
-     "link": "https://www.spektrum.de/news/nobelpreis-26-friedensnobelpreis-geht-an-pillay-aus-suedafrika/2349090"
-    },
-    {
      "source": "Deutsche Welle",
-     "title": "Navanethem \"Navi\" Pillay erhält Friedensnobelpreis 2026",
-     "link": "https://www.dw.com/de/navanethem-navi-pillay-erhält-friedensnobelpreis-2026/a-79608952?maca=de-rss-de-all-1119-xml-mrss"
+     "title": "Deutschland stellt sich hinter Internationalen Strafgerichtshof - News kompakt: Das Wichtigste kurz gefasst",
+     "link": "https://www.dw.com/de/deutschland-stellt-sich-hinter-internationalen-strafgerichtshof-news-kompakt-das-wichtigste-kurz-gefasst/a-79624657?maca=de-rss-de-all-1119-xml-mrss"
     },
     {
      "source": "Tagesschau",
-     "title": "Verkündung in Oslo: Wer macht das Rennen um den Friedensnobelpreis?",
-     "link": "https://www.tagesschau.de/wissen/friedensnobelpreis-2026-vergabe-100.html"
+     "title": "Neue US-Sanktionen gegen Internationalen Strafgerichtshof",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-istgh-100.html"
+    },
+    {
+     "source": "Spektrum der Wissenschaft",
+     "title": "Nobelpreise 2026: Friedensnobelpreis geht an Juristin Pillay aus Südafrika",
+     "link": "https://www.spektrum.de/news/nobelpreis-26-friedensnobelpreis-geht-an-pillay-aus-suedafrika/2349090"
     }
    ]
   },
@@ -1105,14 +1548,7 @@
    "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
    "lang": "de",
    "expires": "2026-10-13T09:31:00+00:00",
-   "img": "https://static.dw.com/image/79606394_302.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Mann durch Schüsse während ICE-Einsatz in New York verletzt",
-     "link": "https://www.tagesschau.de/ausland/amerika/newyork-ice-schuesse-100.html"
-    }
-   ]
+   "img": "https://static.dw.com/image/79606394_302.jpg"
   },
   {
    "id": "n5889b83004",
@@ -1141,19 +1577,19 @@
    "img": "https://static.dw.com/image/79610480_302.jpg",
    "also": [
     {
-     "source": "Spektrum der Wissenschaft",
-     "title": "Nobelpreise 2026: Friedensnobelpreis geht an Juristin Pillay aus Südafrika",
-     "link": "https://www.spektrum.de/news/nobelpreis-26-friedensnobelpreis-geht-an-pillay-aus-suedafrika/2349090"
-    },
-    {
      "source": "Deutschlandfunk",
-     "title": "Oslo - Friedensnobelpreis für Navanethem \"Navi\" Pillay",
-     "link": "https://www.deutschlandfunk.de/friedensnobelpreis-fuer-navanethem-navi-pillay-100.html"
+     "title": "Navi Pillay - Friedensnobelpreisträgerin schockiert von neuen US-Sanktionen gegen Strafgerichtshof - Trump nennt Preisvergabe \"schändlich\"",
+     "link": "https://www.deutschlandfunk.de/friedensnobelpreistraegerin-schockiert-von-neuen-us-sanktionen-gegen-strafgerichtshof-trump-nennt-pr-100.html"
     },
     {
      "source": "Tagesschau",
-     "title": "Verkündung in Oslo: Wer macht das Rennen um den Friedensnobelpreis?",
-     "link": "https://www.tagesschau.de/wissen/friedensnobelpreis-2026-vergabe-100.html"
+     "title": "Neue US-Sanktionen gegen Internationalen Strafgerichtshof",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-istgh-100.html"
+    },
+    {
+     "source": "Spektrum der Wissenschaft",
+     "title": "Nobelpreise 2026: Friedensnobelpreis geht an Juristin Pillay aus Südafrika",
+     "link": "https://www.spektrum.de/news/nobelpreis-26-friedensnobelpreis-geht-an-pillay-aus-suedafrika/2349090"
     }
    ]
   },
@@ -1279,7 +1715,24 @@
    "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
    "lang": "de",
    "expires": "2026-10-13T07:00:00+00:00",
-   "img": "https://static.dw.com/image/79602963_302.jpg"
+   "img": "https://static.dw.com/image/79602963_302.jpg",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Navi Pillay - Friedensnobelpreisträgerin schockiert von neuen US-Sanktionen gegen Strafgerichtshof - Trump nennt Preisvergabe \"schändlich\"",
+     "link": "https://www.deutschlandfunk.de/friedensnobelpreistraegerin-schockiert-von-neuen-us-sanktionen-gegen-strafgerichtshof-trump-nennt-pr-100.html"
+    },
+    {
+     "source": "Tagesschau",
+     "title": "Neue US-Sanktionen gegen Internationalen Strafgerichtshof",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-istgh-100.html"
+    },
+    {
+     "source": "Spektrum der Wissenschaft",
+     "title": "Nobelpreise 2026: Friedensnobelpreis geht an Juristin Pillay aus Südafrika",
+     "link": "https://www.spektrum.de/news/nobelpreis-26-friedensnobelpreis-geht-an-pillay-aus-suedafrika/2349090"
+    }
+   ]
   },
   {
    "id": "n564391da24",
@@ -1306,436 +1759,6 @@
    "lang": "de",
    "expires": "2026-10-12T06:43:59+00:00",
    "img": "https://images.tagesschau.de/image/33d5a64f-15e5-4dc6-a8ab-90120c08cf9c/AAABoRW3FJU/AAABnSSvrFg/16x9-big/betriebsrente-120.jpg?width=1920"
-  },
-  {
-   "id": "n136baf7504",
-   "topic": "welt",
-   "title": "Mann durch Schüsse während ICE-Einsatz in New York verletzt",
-   "text": "In New York wurde ein Mann von einem ICE-Bediensteten in seinem Auto angeschossen. Auch ein Kind befand sich in dem Fahrzeug. Vom Bürgermeister der Metropole, Mamdani, kommt scharfe Kritik an dem Vorfall.",
-   "link": "https://www.tagesschau.de/ausland/amerika/newyork-ice-schuesse-100.html",
-   "published": "2026-10-09T05:37:53+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-12T05:37:53+00:00",
-   "img": "https://images.tagesschau.de/image/85e83480-d52d-4713-85e6-d0a3493cfc9d/AAABoR8q-vs/AAABnSSvrFg/16x9-big/ice-einsatz-schuesse-newyork-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "ICE-Beamter schießt in New York auf Mann im Auto",
-     "link": "https://www.dw.com/de/ice-beamter-schießt-in-new-york-auf-mann-im-auto/a-79608948?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n23ffd50cfd",
-   "topic": "welt",
-   "title": "Nach gescheiterter Hinrichtung: Wie geht es weiter im Fall Pike?",
-   "text": "Nachdem die Mörderin Christa Pike den Versuch ihrer Hinrichtung überlebte, kann sie mittlerweile wieder laufen, ist aber in gesundheitlich schlechtem Zustand. Doch wie geht es nun weiter? Wird es einen neuen Exekutionsversuch geben? Ein Überblick.",
-   "link": "https://www.tagesschau.de/ausland/amerika/christa-pike-gescheiterte-hinrichtung-folgen-100.html",
-   "published": "2026-10-09T05:23:12+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-12T05:23:12+00:00",
-   "img": "https://images.tagesschau.de/image/29f7ffb8-c6bf-4db8-bbd5-24bf817c3a31/AAABoRySuoE/AAABnSSvrFg/16x9-big/luke-ihnen-pk-100.jpg?width=1920"
-  },
-  {
-   "id": "n72e69369ca",
-   "topic": "politik",
-   "title": "Startchancengesetz: Bildungschancen für Kinder sollen verbessert werden",
-   "text": "Spätestens mit vier Jahren sollen alle Kinder auf ihren Entwicklungsstand geprüft werden: Der Bundestag berät heute über einen Gesetzentwurf des Bildungsministeriums. Ziel ist es, Kinder schon früh besser zu fördern. Von L. Pfeuffer-Rooschüz.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/startchancengesetz-im-bundestag-100.html",
-   "published": "2026-10-09T04:38:21+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-12T04:38:21+00:00",
-   "img": "https://images.tagesschau.de/image/e7a61137-1c16-4913-843e-94fb3a90c649/AAABoRyeNOg/AAABnSSvrFg/16x9-big/kinder-buecher-102.jpg?width=1920"
-  },
-  {
-   "id": "nef2436a8fa",
-   "topic": "welt",
-   "title": "Frankreichs Schulkrise: Viel Geld, wenig Vertrauen",
-   "text": "Seit Wochen protestieren Schüler gegen ein marodes Bildungssystem. Obwohl Paris im internationalen Vergleich viel in Bildung investiert, wächst die Unzufriedenheit. Das dürfte auch mit den Prioritäten zusammenhängen.",
-   "link": "https://www.dw.com/de/frankreichs-schulkrise-viel-geld-wenig-vertrauen/a-79600306?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-09T04:38:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-13T04:38:00+00:00",
-   "img": "https://static.dw.com/image/79595362_302.jpg"
-  },
-  {
-   "id": "n40d2279659",
-   "topic": "nfl",
-   "title": "Cowboys should be afraid of this one nightmare stat heading into Week 5 Thursday night game with Buccaneers",
-   "text": "Everything appears to favor Dallas on Thursday night, but the Buccaneers fit the profile of a desperate winless team that has historically been primed for a breakthrough",
-   "link": "https://www.cbssports.com/nfl/news/cowboys-buccaneers-upset-prediction-nfl-2026/",
-   "published": "2026-10-09T03:21:54+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-14T03:21:54+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/08/76b0abb8-3953-4682-a29f-c6e2010da29c/buccaneers.jpg"
-  },
-  {
-   "id": "n4c29a07916",
-   "topic": "welt",
-   "title": "Protest und Andenken: Zehntausende in Spanien auf der Straße für Maricarmen",
-   "text": "Der Tod einer 87-Jährigen nach der Zwangsräumung ihrer Wohnung befeuert in Spanien den Protest gegen die Wohnungsnot. Ein Streik und Neuwahlen sind schon angekündigt. Ein Ende des Unmuts ist aber nicht in Sicht.",
-   "link": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-proteste-100.html",
-   "published": "2026-10-09T03:20:12+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-12T03:20:12+00:00",
-   "img": "https://images.tagesschau.de/image/4b6f0f60-80b4-4693-9fcc-0a689fd20f63/AAABoR6fJp8/AAABnSSvrFg/16x9-big/spanien-maricarmen-proteste-100.jpg?width=1920"
-  },
-  {
-   "id": "n063efa3d31",
-   "topic": "politik",
-   "title": "Bundestag - Verordnung vorgeburtlicher Bluttests soll überprüft werden",
-   "text": "Für vorgeburtliche Bluttests, mit denen bestimmte genetische Auffälligkeiten festgestellt werden können, sollen genauere Regeln geschaffen werden. Der Bundestag hat mit großer Mehrheit für einen entsprechenden fraktionsübergreifenden Antrag gestimmt. Eine Expertenkommission soll jetzt weitere Daten zusammentragen; der …",
-   "link": "https://www.deutschlandfunk.de/verordnung-vorgeburtlicher-bluttests-soll-ueberprueft-werden-110.html",
-   "published": "2026-10-09T01:07:06+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-11T01:07:06+00:00",
-   "img": "https://bilder.deutschlandfunk.de/ab/ce/3d/4f/abce3d4f-f742-4074-be63-40db8969bed5/praenataltest-nichtinvasiv-down-syndrom-bundestag-beratung-bluttest-schwangere-100-1920x1920.jpg"
-  },
-  {
-   "id": "na290440eb6",
-   "topic": "politik",
-   "title": "Verzögerung - Merz geht nicht von Rentenreform-Umsetzung bis Jahresende aus",
-   "text": "Bundeskanzler Merz geht laut einem Medienbericht nicht mehr davon aus, dass die geplante Rentenreform wie vorgesehen bis zum Jahresende vom Bundestag beschlossen wird.",
-   "link": "https://www.deutschlandfunk.de/merz-geht-nicht-von-rentenreform-umsetzung-bis-jahresende-aus-102.html",
-   "published": "2026-10-09T01:07:06+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-11T01:07:06+00:00",
-   "img": "https://bilder.deutschlandfunk.de/06/9e/61/27/069e6127-1614-4234-9c28-5d1909134885/merz-cdu-120-1920x1920.jpg"
-  },
-  {
-   "id": "nd0ab072048",
-   "topic": "politik",
-   "title": "ARD-Interview - Wirtschaftsweise Schnitzer fordert nachhaltige Investitionen zur Stabilisierung des Wachstums",
-   "text": "Die Chefin der Wirtschaftsweisen, Schnitzer, hat die Bundesregierung zu mehr Nachhaltigkeit bei ihren Investitionen aufgerufen, um die positiveren Konjunkturaussichten zu stabilisieren.",
-   "link": "https://www.deutschlandfunk.de/wirtschaftsweise-schnitzer-fordert-nachhaltige-investitionen-zur-stabilisierung-des-wachstums-102.html",
-   "published": "2026-10-09T01:07:06+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-11T01:07:06+00:00",
-   "img": "https://bilder.deutschlandfunk.de/23/e5/1f/dc/23e51fdc-d5ca-49aa-8652-ddda733f911d/monika-schnitzer-102-1920x1920.jpg"
-  },
-  {
-   "id": "nbd055c09b7",
-   "topic": "politik",
-   "title": "Laut Pentagon - Hinrichtung von US-Amokläufer soll per Livestream übertragen werden",
-   "text": "In den USA soll die Hinrichtung eines Amokläufers nach Angaben des Verteidigungsministeriums per Livestream übertragen werden.",
-   "link": "https://www.deutschlandfunk.de/hinrichtung-von-us-amoklaeufer-soll-per-livestream-uebertragen-werden-102.html",
-   "published": "2026-10-09T01:07:06+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-11T01:07:06+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "USA wollen Hinrichtung von Attentäter per Livestream übertragen",
-     "link": "https://www.tagesschau.de/ausland/amerika/pentagon-hinrichtung-livestream-100.html"
-    }
-   ]
-  },
-  {
-   "id": "ne7084b393f",
-   "topic": "politik",
-   "title": "Schulproteste in Frankreich - Regierung setzt kurzfristig 3.000 Vertretungslehrer an Gymnasien ein",
-   "text": "Nach den Schulprotesten der vergangenen Tage will die französische Regierung mehr als 3.000 Vertretungslehrer einsetzen.",
-   "link": "https://www.deutschlandfunk.de/regierung-setzt-kurzfristig-3-000-vertretungslehrer-an-gymnasien-ein-106.html",
-   "published": "2026-10-09T01:07:06+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-11T01:07:06+00:00",
-   "img": "https://bilder.deutschlandfunk.de/df/a7/8c/26/dfa78c26-04cc-418b-a1e8-c709c515d30f/frankreich-schueler-protest-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Schülerproteste: Frankreich will kurzfristig 3.000 Vertretungslehrer einsetzen",
-     "link": "https://www.tagesschau.de/ausland/europa/frankreich-verspricht-dreitausend-vertretungslehrer-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n6850c146a8",
-   "topic": "politik",
-   "title": "Wohnungsnot in Spanien - Weitere Proteste nach Tod von Rentnerin Maricarmen",
-   "text": "In Spanien haben zehntausende Menschen mit neuen Protesten auf den Tod der 87-jährigen Maricarmen Abascal reagiert.",
-   "link": "https://www.deutschlandfunk.de/weitere-proteste-nach-tod-von-rentnerin-maricarmen-104.html",
-   "published": "2026-10-09T01:07:06+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-11T01:07:06+00:00",
-   "img": "https://bilder.deutschlandfunk.de/ec/61/e0/85/ec61e085-0268-4905-9ead-b933e2f39ed7/madrid-proteste-104-1920x1920.jpg"
-  },
-  {
-   "id": "n32b1e0032b",
-   "topic": "nfl",
-   "title": "Ranking all 32 NFL teams into tiers: 49ers among the elite, but some teams not as good as they seem",
-   "text": "Plus, the Rams still sit among the NFL's best despite slow start, and two squads sit at the very bottom of the barrel",
-   "link": "https://www.cbssports.com/nfl/news/ranking-all-32-nfl-teams-into-tiers-49ers-rams-miami/",
-   "published": "2026-10-09T00:56:04+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-14T00:56:04+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/06/92b7da07-82d5-4e69-9425-8390cb0f4864/brock-purdy-49ers-3.jpg"
-  },
-  {
-   "id": "n4d09b90993",
-   "topic": "nfl",
-   "title": "Bucs score on first drive to tie Cowboys 7-7",
-   "text": "The Buccaneers' opening drive was as impressive as the Cowboys'.",
-   "link": "https://sports.yahoo.com/articles/bucs-score-first-drive-tie-005315786.html",
-   "published": "2026-10-09T00:53:15+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-14T00:53:15+00:00"
-  },
-  {
-   "id": "nd64aa39e7c",
-   "topic": "nfl",
-   "title": "Cardinals work out four defensive backs",
-   "text": "Defensive safety group is having issues",
-   "link": "https://sports.yahoo.com/articles/cardinals-four-defensive-backs-004435038.html",
-   "published": "2026-10-09T00:44:35+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-14T00:44:35+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/985cff992a8992a51d5868d0b224925f.jpg"
-  },
-  {
-   "id": "n14d074c649",
-   "topic": "nfl",
-   "title": "Is Justin Herbert 'elite'? He is NOT even one of the 10 best quarterbacks in the NFL",
-   "text": "Upon further review, Herbert's top-10 QB credentials should be revoked",
-   "link": "https://www.cbssports.com/nfl/news/justin-herbert-is-not-even-one-of-the-10-best-quarterbacks-nfl/",
-   "published": "2026-10-09T00:41:27+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-14T00:41:27+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/08/8096cc85-e4df-4f86-a727-dd3071eca209/justin-herbert-chargers.jpg"
-  },
-  {
-   "id": "nc02637c24b",
-   "topic": "wissenschaft",
-   "title": "Verkündung in Oslo: Wer macht das Rennen um den Friedensnobelpreis?",
-   "text": "Um elf Uhr am Vormittag blickt die Welt mit Spannung nach Oslo, wer in diesem Jahr den Friedensnobelpreis verliehen bekommt - auch, weil die Entscheidung im vergangenen Jahr umstritten war. Von Jana Sinram.",
-   "link": "https://www.tagesschau.de/wissen/friedensnobelpreis-2026-vergabe-100.html",
-   "published": "2026-10-09T00:09:09+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-23T00:09:09+00:00",
-   "img": "https://images.tagesschau.de/image/f9c77778-8ab6-4c56-83bd-c8accc342d7c/AAABoR8kqPM/AAABnSSvrFg/16x9-big/friedensnobelpreis-medaille-106.jpg?width=1920",
-   "also": [
-    {
-     "source": "Spektrum der Wissenschaft",
-     "title": "Nobelpreise 2026: Friedensnobelpreis geht an Juristin Pillay aus Südafrika",
-     "link": "https://www.spektrum.de/news/nobelpreis-26-friedensnobelpreis-geht-an-pillay-aus-suedafrika/2349090"
-    },
-    {
-     "source": "Deutschlandfunk",
-     "title": "Oslo - Friedensnobelpreis für Navanethem \"Navi\" Pillay",
-     "link": "https://www.deutschlandfunk.de/friedensnobelpreis-fuer-navanethem-navi-pillay-100.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Navanethem \"Navi\" Pillay erhält Friedensnobelpreis 2026",
-     "link": "https://www.dw.com/de/navanethem-navi-pillay-erhält-friedensnobelpreis-2026/a-79608952?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "nd1c596eb4e",
-   "topic": "welt",
-   "title": "Schülerproteste: Frankreich will kurzfristig 3.000 Vertretungslehrer einsetzen",
-   "text": "Nach anhaltenden Schulprotesten will Frankreich kurzfristig mehr als 3.000 Vertretungslehrer organisieren. Eine Software solle dabei die Schulen anzeigen, die sich in einer problematischen Situation befänden, so Bildungsminister Geffray.",
-   "link": "https://www.tagesschau.de/ausland/europa/frankreich-verspricht-dreitausend-vertretungslehrer-100.html",
-   "published": "2026-10-08T22:08:21+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-11T22:08:21+00:00",
-   "img": "https://images.tagesschau.de/image/3b316099-1898-4b35-984c-09f16db5f5b4/AAABoR0sZ0w/AAABnSSvrFg/16x9-big/frankreich-858.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Schulproteste in Frankreich - Regierung setzt kurzfristig 3.000 Vertretungslehrer an Gymnasien ein",
-     "link": "https://www.deutschlandfunk.de/regierung-setzt-kurzfristig-3-000-vertretungslehrer-an-gymnasien-ein-106.html"
-    }
-   ]
-  },
-  {
-   "id": "n7f64cd4c78",
-   "topic": "welt",
-   "title": "USA klagen venezolanischen Ex-Präsidenten Maduro wegen Folter an",
-   "text": "Im Juni kommenden Jahres soll der Prozess gegen Venezuelas ehemaligen Staatschef Maduro in den USA beginnen. Er und seine Frau müssen sich dabei neuen Vorwürfen stellen - neben \"Drogenterrorismus\" ist nun auch von Folter die Rede.",
-   "link": "https://www.tagesschau.de/ausland/amerika/maduro-wegen-folter-angeklagt-100.html",
-   "published": "2026-10-08T22:00:28+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-11T22:00:28+00:00",
-   "img": "https://images.tagesschau.de/image/3bd879b7-65f8-491f-87ff-15cf7e8392d3/AAABoRv95zY/AAABnSSvrFg/16x9-big/maduro-308.jpg?width=1920"
-  },
-  {
-   "id": "ndd103e427a",
-   "topic": "it",
-   "title": "„Kliniken schließen, doch Gesundheitsdatenmarkt entsteht“: Abrechnung mit GeDIG",
-   "text": "Die Koalition will mit dem GeDIG Schluss mit Papier und Fax machen. Die Grünen loben, die Linke warnt vor einem Gesundheitsdatenmarkt und Lobbyisten.",
-   "link": "https://www.heise.de/news/Kliniken-schliessen-doch-Gesundheitsdatenmarkt-entsteht-Abrechnung-mit-GeDIG-11481608.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-08T21:39:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-13T21:39:00+00:00"
-  },
-  {
-   "id": "ncf1aa033d6",
-   "topic": "it",
-   "title": "Zum Tod von Margaret Hamilton: Ihre Software half Apollo 11 bei der Mondlandung",
-   "text": "Am MIT leitete Margaret Hamilton die Entwicklung der Apollo-Bordsoftware und prägte Softwareentwicklung als eigenständige Ingenieurdisziplin.",
-   "link": "https://www.heise.de/news/Zum-Tod-von-Margaret-Hamilton-Ihre-Software-half-Apollo-11-bei-der-Mondlandung-11481622.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-08T21:07:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-13T21:07:00+00:00"
-  },
-  {
-   "id": "n971a679b8c",
-   "topic": "it",
-   "title": "TK-Manager: „In Deutschland haben wir einen echten Datenschutz-Fetisch“",
-   "text": "Millionen Dokumente füllen die elektronische Patientenakte. Doch Nutzer kämpfen mit Datenbergen und umständlicher Bedienung. Das soll sich bessern.",
-   "link": "https://www.heise.de/news/E-Patientenakte-Millionen-Dokumente-aber-wer-findet-darin-das-Wichtige-11481365.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-08T20:55:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-13T20:55:00+00:00"
-  },
-  {
-   "id": "n4f26920133",
-   "topic": "politik",
-   "title": "Weltklasse! Simic sichert der MT Melsungen den Sieg in der Champions League",
-   "text": "Was für eine Leistung! Torwart Nebojsa Simic mauert die MT Melsungen nicht nur zum Champions-League-Sieg gegen Nantes, sondern auch zur Tabellenführung in der Gruppe B.",
-   "link": "https://www.hessenschau.de/sport/handball/mt-melsungen/weltklasse-simic-sichert-der-mt-melsungen-den-sieg-in-der-champions-league-v1,melsungen-nantes-100.html",
-   "published": "2026-10-08T20:39:57+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-12T20:39:57+00:00",
-   "img": "https://www.hessenschau.de/sport/handball/mt-melsungen/simic-140~_t-1791491996627_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "nbe8d3132d7",
-   "topic": "wirtschaft",
-   "title": "Regierung hebt Wachstumsprognose für 2026 auf 1,3 Prozent an",
-   "text": "Die Bundesregierung erwartet für das laufende Jahr ein Wachstum von 1,3 Prozent. Damit blickt sie deutlich optimistischer auf die wirtschaftliche Entwicklung als noch im Frühjahr, als sie von 0,5 Prozent ausgegangen war.",
-   "link": "https://www.tagesschau.de/wirtschaft/konjunktur/wachstumsprognose-regierung-100.html",
-   "published": "2026-10-08T20:01:59+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-11T20:01:59+00:00",
-   "img": "https://images.tagesschau.de/image/1e43c451-4e37-4b51-ad80-c26ff7124139/AAABoRsQP2s/AAABnSSvrFg/16x9-big/reiche-220.jpg?width=1920"
-  },
-  {
-   "id": "n3252ad6fe6",
-   "topic": "politik",
-   "title": "Down-Syndrom: Bundestag will Anwendung von Pränataltests prüfen",
-   "text": "Bluttests können Schwangeren die Wahrscheinlichkeit eines Gen-Defekts beim ungeborenen Kind aufzeigen. Unter Bedingungen sind die Tests inzwischen Kassenleistung. Der Bundestag will zu der Praxis nun aber genauere Daten.",
-   "link": "https://www.tagesschau.de/inland/bundestag-schwangerschaft-diagnostik-100.html",
-   "published": "2026-10-08T19:32:04+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-11T19:32:04+00:00",
-   "img": "https://images.tagesschau.de/image/ab68bf7d-be38-4341-92b6-13a217fc1a3f/AAABoRynLJM/AAABnSSvrFg/16x9-big/praenataltest-broschueren-100.jpg?width=1920"
-  },
-  {
-   "id": "ndf85d7b5dd",
-   "topic": "welt",
-   "title": "Mindestens 30 Tote bei russischen Angriffen auf Busse in der Ukraine",
-   "text": "Bei russischen Angriffen auf zwei Busse in der Ostukraine sind mindestens 30 Menschen getötet worden, weitere 18 wurden verletzt. Nach Angriffen auf Kiew und andere Städte musste der Strom dort abgeschaltet werden.",
-   "link": "https://www.tagesschau.de/ausland/europa/ukraine-bus-kramatorsk-100.html",
-   "published": "2026-10-08T19:16:45+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-11T19:16:45+00:00",
-   "img": "https://images.tagesschau.de/image/df74c0cc-b835-48de-a3f7-ad89434464e9/AAABoRsL_hc/AAABnSSvrFg/16x9-big/bus-ukraine-100.jpg?width=1920"
-  },
-  {
-   "id": "n43b070ba1c",
-   "topic": "ki",
-   "title": "Claude kann jetzt Live-Dashboards aus Datenbanken bauen und animierte Erklävideos erstellen",
-   "text": "Anthropic erweitert seinen KI-Chatbot Claude um zwei Beta-Funktionen: Dashboards verbindet Datenquellen wie BigQuery oder Snowflake und erstellt per Texteingabe Live-Dashboards, Motion generiert animierte Erklärvideos aus Text und Bildern. Zugleich werden Docs, Slides und Design für alle Nutzer verfügbar. Der Artikel …",
-   "link": "https://the-decoder.de/claude-kann-jetzt-live-dashboards-aus-datenbanken-bauen-und-animierte-erklaevideos-erstellen/",
-   "published": "2026-10-08T19:13:22+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-15T19:13:22+00:00"
-  },
-  {
-   "id": "nda3f29fffa",
-   "topic": "ki",
-   "title": "Chatbot-Schutz: Wer Claude wiederholt beleidigt, könnte rausfliegen",
-   "text": "Anthropic verbietet in seinen aktualisierten Nutzungsrichtlinien erstmals \"anhaltendes missbräuchliches Verhalten\" gegenüber Claude: Das Modell darf solche Gespräche künftig einfach beenden. Daneben verschärft das Unternehmen Regeln zu Propaganda, Drohnenbewaffnung und Überwachung. Die Änderungen unterstreichen …",
-   "link": "https://the-decoder.de/chatbot-schutz-wer-claude-wiederholt-beleidigt-koennte-rausfliegen/",
-   "published": "2026-10-08T18:48:14+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-15T18:48:14+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/claude_sad.png"
-  },
-  {
-   "id": "n19205b354e",
-   "topic": "nfl",
-   "title": "The 4 biggest surprises about the 49ers a month into the season",
-   "text": "From not allowing sacks to playing through injuries, we highlight the biggest surprises about the 49ers",
-   "link": "https://sports.yahoo.com/articles/4-biggest-surprises-49ers-month-184500439.html",
-   "published": "2026-10-08T18:45:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-13T18:45:00+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/e31a47a302f1378890c7ef991526c5bf.jpg"
-  },
-  {
-   "id": "nffeb16dbc7",
-   "topic": "nfl",
-   "title": "Arizona Cardinals offense one of the most boring in NFL",
-   "text": "Arizona Cardinals offense lacks anything exciting through four games.",
-   "link": "https://sports.yahoo.com/articles/arizona-cardinals-offense-one-most-184216333.html",
-   "published": "2026-10-08T18:42:16+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-13T18:42:16+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/9b4ac8b691314a1843fc39826af974f1.jpg"
   }
  ]
 }
