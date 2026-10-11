@@ -1,50 +1,545 @@
 {
- "generated": "2026-10-11T05:47:58.474289+00:00",
+ "generated": "2026-10-11T12:51:37.909469+00:00",
  "briefing": [
   "nc52a7e91e4",
   "ne4600eb98a",
   "nbdf300d978",
   "n1e7d82bbf4",
-  "n572b0add4e",
-  "n4587e57387",
-  "n82217dc629",
-  "ndc4077b3b6"
+  "n5e90d83a25",
+  "n82f6013a1f",
+  "n2663267b9e",
+  "n4587e57387"
  ],
  "ranked": [
   {
    "id": "nc52a7e91e4",
-   "s": 32.7
+   "s": 42.1
   },
   {
    "id": "ne4600eb98a",
-   "s": 29.6
+   "s": 27.8
   },
   {
    "id": "nbdf300d978",
-   "s": 29.2
+   "s": 27.4
   },
   {
    "id": "n1e7d82bbf4",
-   "s": 29.2
+   "s": 27.4
   },
   {
-   "id": "n572b0add4e",
-   "s": 28.3
+   "id": "n5e90d83a25",
+   "s": 27.1
+  },
+  {
+   "id": "n82f6013a1f",
+   "s": 23.0
+  },
+  {
+   "id": "n2663267b9e",
+   "s": 23.0
   },
   {
    "id": "n4587e57387",
-   "s": 22.9
-  },
-  {
-   "id": "n82217dc629",
-   "s": 21.0
-  },
-  {
-   "id": "ndc4077b3b6",
-   "s": 21.0
+   "s": 21.2
   }
  ],
  "items": [
+  {
+   "id": "n271aeaa04c",
+   "topic": "politik",
+   "title": "News zu Eintracht Frankfurt",
+   "text": "Hier bekommen Sie immer die neuesten Nachrichten über Eintracht Frankfurt.",
+   "link": "https://www.hessenschau.de/sport/fussball/eintracht-frankfurt/eintracht-frankfurt-news-ticker-effenberg-kritik-an-huetter,bundesliga-ticker-104.html",
+   "published": "2026-10-11T12:49:33+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-15T12:49:33+00:00",
+   "img": "https://www.hr.de/presse/archiv_pm/fernsehen/hr-fernsehen/2017/effenberg-heimspiel-102~_t-1503995486210_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "nfacf435ead",
+   "topic": "politik",
+   "title": "Initiative PRÜF - Tausende bei Demos für AfD-Verbotsverfahren - Soziologe Knaus: \"Nur noch 3 Stimmen im Bundesrat fehlen\"",
+   "text": "Unter anderem in Dresden haben Hunderte Menschen für die Prüfung eines AfD-Verbotsverfahrens demonstriert. Die Teilnehmer zogen durch die Altstadt, Start- und Endpunkt war der Theaterplatz.",
+   "link": "https://www.deutschlandfunk.de/tausende-bei-demos-fuer-afd-verbotsverfahren-soziologe-knaus-nur-noch-3-stimmen-im-bundesrat-fehlen-100.html",
+   "published": "2026-10-11T12:48:47+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-13T12:48:47+00:00",
+   "img": "https://bilder.deutschlandfunk.de/e0/39/f6/8b/e039f68b-e816-4127-bd91-41d25d460b57/gerald-knaus-migration-100-1920x1920.jpg"
+  },
+  {
+   "id": "n54229c29bb",
+   "topic": "politik",
+   "title": "Union - Seehofer attackiert Merz vor CDU-Führungsklausur: \"Diese pauschale Sprache geht völlig an der Realität vorbei\"",
+   "text": "Der frühere CSU-Chef, bayerische Ministerpräsident und Bundesinnenminister Seehofer hat Bundeskanzler Merz vor der heutigen CDU‑ Führungsklausur schwere Vorwürfe wegen dessen Amtsführung gemacht. Dabei verurteilte er besonders Merz' Kommunikation zur Arbeitsmoral in Deutschland.",
+   "link": "https://www.deutschlandfunk.de/seehofer-attackiert-merz-vor-cdu-fuehrungsklausur-diese-pauschale-sprache-geht-voellig-an-der-realit-100.html",
+   "published": "2026-10-11T12:48:47+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-13T12:48:47+00:00",
+   "img": "https://bilder.deutschlandfunk.de/3d/cb/48/a4/3dcb48a4-2383-49c5-9760-08c7addd6aba/horst-seehofer-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Seehofer sieht \"Glaubwürdigkeitsverlust\" bei Merz",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/seehofer-merz-klausur-100.html"
+    }
+   ]
+  },
+  {
+   "id": "nb01f9ae69e",
+   "topic": "politik",
+   "title": "LGBTQ-Rechte - Europride 2029 kommt nach Dresden",
+   "text": "Die Europride ist eine der größten europäischen Veranstaltungen für LGBTQ-Rechte. Seit mehr als 20 Jahren fand sie nicht mehr in Deutschland statt. Nun holt der CSD Dresden das Event nach Sachsen.",
+   "link": "https://www.deutschlandfunk.de/europride-2029-kommt-nach-dresden-100.html",
+   "published": "2026-10-11T12:48:47+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-13T12:48:47+00:00",
+   "img": "https://bilder.deutschlandfunk.de/15/28/29/fe/152829fe-52a0-4ffb-9faa-d385ea595a9a/europride-lissabon-100-1920x1920.jpg"
+  },
+  {
+   "id": "n605eec3dad",
+   "topic": "politik",
+   "title": "Vatikan - Papst Leo XIV. kündigt Lungenoperation an",
+   "text": "Papst Leo XIV. will sich in den kommenden Tagen einer Lungenoperation unterziehen.",
+   "link": "https://www.deutschlandfunk.de/papst-leo-xiv-kuendigt-lungenoperation-an-102.html",
+   "published": "2026-10-11T12:48:47+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-13T12:48:47+00:00",
+   "img": "https://bilder.deutschlandfunk.de/21/5a/97/9a/215a979a-d8a7-458f-b055-9d052961717c/papst-leo-winkt-100-1280x1280.jpg"
+  },
+  {
+   "id": "n82f6013a1f",
+   "topic": "politik",
+   "title": "Bevölkerung - Zu wenig Kinder in Sachsen-Anhalt: Kitas bauen Personal ab, Kündigungen drohen",
+   "text": "Sinkende Kinderzahlen führen in Sachsen-Anhalt zu Personalabbau in Kitas.",
+   "link": "https://www.deutschlandfunk.de/zu-wenig-kinder-in-sachsen-anhalt-kitas-bauen-personal-ab-kuendigungen-drohen-100.html",
+   "published": "2026-10-11T12:48:47+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-13T12:48:47+00:00",
+   "img": "https://bilder.deutschlandfunk.de/FI/LE/_0/f4/FILE_0f44abbadbdd73e9ddeed4a5df8bf782/kinder-82893355-jpg-104-768x768.jpg"
+  },
+  {
+   "id": "n2663267b9e",
+   "topic": "politik",
+   "title": "Medienbericht - Deutsche-Bank-Chef Sewing lobt die Regierung für das Altersvorsorgedepot",
+   "text": "Der Vorstandsvorsitzende der Deutschen Bank, Sewing, hat die Bundesregierung für die Einführung des Altersvorsorgedepots gelobt.",
+   "link": "https://www.deutschlandfunk.de/deutsche-bank-chef-sewing-lobt-die-regierung-fuer-das-altersvorsorgedepot-100.html",
+   "published": "2026-10-11T12:48:47+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-13T12:48:47+00:00",
+   "img": "https://bilder.deutschlandfunk.de/b0/2d/04/da/b02d04da-e162-4980-8fcb-ab95fddce36b/christian-sewing-deutsche-bank-102-1920x1920.jpg"
+  },
+  {
+   "id": "n65c8729f6c",
+   "topic": "it",
+   "title": "Shield AI: Drohne Navy-X-BAT startet senkrecht von Flugzeugen aus",
+   "text": "Shield AI hat den Prototypen der X-BAT vorgestellt. Die jetgetriebenen Drohne mit Senkrechtstart soll von jedem Schiff aus starten können. ( Militär , General Electric )",
+   "link": "https://www.golem.de/news/shield-ai-drohne-navy-x-bat-startet-senkrecht-von-flugzeugen-aus-2610-213966.html",
+   "published": "2026-10-11T12:36:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-16T12:36:02+00:00",
+   "img": "https://www.golem.de/2610/213966-602781-602779_rc.jpg"
+  },
+  {
+   "id": "n6bdffab5c1",
+   "topic": "nfl",
+   "title": "49ers vs. Seahawks: How to watch, game time, and betting odds",
+   "text": "The biggest game of the season, thus far. Here come the Seahawks",
+   "link": "https://sports.yahoo.com/articles/49ers-vs-seahawks-watch-game-123000115.html",
+   "published": "2026-10-11T12:30:00+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-16T12:30:00+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/b6cc235311073af96efbe2c4b8ed634a.jpg"
+  },
+  {
+   "id": "n1d8eb9cc40",
+   "topic": "nfl",
+   "title": "Jets vs. Browns: Game Time, TV, Online Streaming, Announcers, and More",
+   "text": "FOX has a doubleheader today while CBS will show a single game to each region. If you live in the New York area, you will see: Browns at Jets early on CBS Giants at Commanders early on FOX 49ers at Seahawks late on FOX The game between the Jets and the Browns is scheduled for […]",
+   "link": "https://sports.yahoo.com/articles/jets-vs-browns-game-time-122445980.html",
+   "published": "2026-10-11T12:24:45+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-16T12:24:45+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/7cd779688219bc21eade643f51973301.jpg"
+  },
+  {
+   "id": "n7c6b3b40fc",
+   "topic": "it",
+   "title": "ÖPNV: Hamburg kommt mit Wasserstoffbussen nicht voran",
+   "text": "Brennstoffzellenantriebe werden als Alternative zu Elektrobussen gehandelt. In der Praxis gibt es technische Probleme und teuren grünen Wasserstoff. ( Elektrobus , Elektroauto )",
+   "link": "https://www.golem.de/news/oepnv-hamburg-kommt-mit-wasserstoffbussen-nicht-voran-2610-213965.html",
+   "published": "2026-10-11T12:11:06+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-16T12:11:06+00:00",
+   "img": "https://www.golem.de/2610/213965-602773-602771_rc.jpg"
+  },
+  {
+   "id": "n64baaa0004",
+   "topic": "nfl",
+   "title": "Are Eagles tanking? Why Philadelphia's teardown looks like a full-scale rebuild",
+   "text": "The Eagles are stockpiling premium draft picks while dismantling a once-dominant offensive line",
+   "link": "https://www.cbssports.com/nfl/news/eagles-cam-jurgens-trade-lane-johnson-retirement-2026/",
+   "published": "2026-10-11T12:11:00+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-16T12:11:00+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/07/b8de57a2-19bd-4f08-a7e8-2bdc6242affc/sirianni.jpg"
+  },
+  {
+   "id": "ndc2964d9b3",
+   "topic": "welt",
+   "title": "Polizei warnt vor Anschlag auf polnischen Regierungschef Tusk",
+   "text": "Noch ist vieles im Unklaren, aber die Sorge scheint groß. Offenbar hat die polnische Polizei konkrete Hinweise auf Anschlagspläne auf Regierungschef Tusk und Verteidigungsminister Kosiniak-Kamysz. Eine Krisensitzung wurde einberufen.",
+   "link": "https://www.tagesschau.de/ausland/europa/polen-tusk-anschlag-100.html",
+   "published": "2026-10-11T12:10:36+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-14T12:10:36+00:00",
+   "img": "https://images.tagesschau.de/image/ed4921c5-9252-43c9-bf7f-46ca4b884c28/AAABoSq5ivg/AAABnSSvrFg/16x9-big/gawkowski-tusk-kierwinski-100.jpg?width=1920"
+  },
+  {
+   "id": "nbfea94118b",
+   "topic": "it",
+   "title": "heise+ | c’t-Story: Lost Places",
+   "text": "Sind Spieleentwickler beneidenswerte Spaßfürsten? Manchmal vielleicht, aber widerspenstige Projekte und Terminstress können wie bleischwere Gewichte wirken.",
+   "link": "https://www.heise.de/hintergrund/c-t-Story-Lost-Places-11422777.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+   "published": "2026-10-11T12:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-16T12:00:00+00:00"
+  },
+  {
+   "id": "nd17bd31189",
+   "topic": "it",
+   "title": "Gigabyte bestätigt neue Intel-CPUs mit DDR4 für Anfang 2027",
+   "text": "Weil DDR5-DRAM weiterhin sehr teuer ist, will Intel alte Prozessordesigns neu auflegen. Dafür gibt es nun erstmals eine offizielle Bestätigung.",
+   "link": "https://www.heise.de/news/Gigabyte-bestaetigt-neue-Intel-CPUs-mit-DDR4-fuer-Anfang-2027-11483573.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-11T12:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-16T12:00:00+00:00"
+  },
+  {
+   "id": "nab9720f389",
+   "topic": "nfl",
+   "title": "Jaguars vs. Eagles prediction: Philadelphia comes into London banged up, can it upset Jacksonville?",
+   "text": "Here's how to follow Sunday's action from London",
+   "link": "https://www.cbssports.com/nfl/news/where-to-watch-jaguars-vs-eagles-prediction-odds-streaming-nfl/",
+   "published": "2026-10-11T11:47:43+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-16T11:47:43+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/09/13/1bec5f5e-e0e6-44c5-aa93-838142eacb94/imagn-trevor-lawrence-jaguars.jpg"
+  },
+  {
+   "id": "nbc6af096dd",
+   "topic": "welt",
+   "title": "Nach Senderboykott: US-Justiz prüft Verstoß gegen Kartellrecht",
+   "text": "Mehrere US-Sender hatten vorübergehend die Berichterstattung über US-Präsident Trump eingestellt, weil er einzelne Medien aus dem Weißen Haus ausgeschlossen hatte. Jetzt prüft das Justizministerium rechtliche Schritte gegen sie.",
+   "link": "https://www.tagesschau.de/ausland/amerika/usa-medien-us-sender-cnn-100.html",
+   "published": "2026-10-11T11:23:58+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-14T11:23:58+00:00",
+   "img": "https://images.tagesschau.de/image/706a28b5-5b6a-4ccb-b654-61547650c2b8/AAABoSpwa00/AAABnSSvrFg/16x9-big/donald-trump-952.jpg?width=1920"
+  },
+  {
+   "id": "n40aedaa5af",
+   "topic": "welt",
+   "title": "Schriftsteller Philippe Sands nimmt Friedenspreis entgegen",
+   "text": "Traditionell wird zum Abschluss der Frankfurter Buchmesse der Friedenspreis des Deutschen Buchhandels übergeben. Philippe Sands kritisiert in seiner Dankesrede das \"unanständige Schweigen\" Deutschlands zu Israel.",
+   "link": "https://www.dw.com/de/schriftsteller-philippe-sands-nimmt-friedenspreis-entgegen/a-79633133?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-11T11:20:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-15T11:20:00+00:00",
+   "img": "https://static.dw.com/image/79632976_302.jpg"
+  },
+  {
+   "id": "nbcd74bfe47",
+   "topic": "wissenschaft",
+   "title": "Freistetters Formelwelt: Viel zu einfach, um wahr zu sein?",
+   "text": "Mathematik muss nicht immer kompliziert und abstrakt sein. Manchmal überrascht das Fach auch durch eine ungeahnte Einfachheit.",
+   "link": "https://www.spektrum.de/kolumne/satz-von-holditch-manchmal-ist-mathematik-erstaunlich-einfach/2349061",
+   "published": "2026-10-11T11:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-25T11:00:00+00:00"
+  },
+  {
+   "id": "n0b84ad0f78",
+   "topic": "it",
+   "title": "Top 7: Der beste 4K-Beamer bis 2000 Euro – Preis-Leistungs-Sieger kostet 420 €",
+   "text": "Filme und Serien machen auf der großen Leinwand noch mehr Spaß als am TV. Wir haben uns 4K-Beamer bis 2000 Euro angeschaut und zeigen hier unsere Top 7.",
+   "link": "https://www.heise.de/bestenlisten/testsieger/top-7-der-beste-4k-beamer-bis-2000-euro-preis-leistungs-sieger-kostet-420-euro/pc1vnzg?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-11T11:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-16T11:00:00+00:00"
+  },
+  {
+   "id": "nc2a846ad8f",
+   "topic": "welt",
+   "title": "Angriff auf Yandex: Ukraine legt \"russisches Google\" lahm",
+   "text": "Zum dritten Mal innerhalb von vier Tagen ist der russische Technologie- und KI-Konzern Yandex Ziel eines ukrainischen Drohnenangriffs geworden. Das Rechenzentrum in der Region Wladimir musste vollständig abgeschaltet werden.",
+   "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriff-yandex-100.html",
+   "published": "2026-10-11T10:53:06+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-14T10:53:06+00:00",
+   "img": "https://images.tagesschau.de/image/563ef9bf-3dff-424b-b6d6-8574dd86b58d/AAABoSozK18/AAABnSSvrFg/16x9-big/yandex-102.jpg?width=1920"
+  },
+  {
+   "id": "na61f27ed92",
+   "topic": "welt",
+   "title": "Huthi-Angriff auf Flughafen Riad: Alptraum am Abflug-Gate",
+   "text": "Ein Einschlag mitten im Terminal: Der jüngste Raketenangriff am Flughafen Riad ist der schwerste auf Saudi-Arabien seit Beginn des Iran-Kriegs. Augenzeugen berichten von Panik und vielen Opfern. Greifen jetzt die USA ein? Von Anna Osius.",
+   "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthi-angriff-riad-flughafen-100.html",
+   "published": "2026-10-11T10:39:51+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-14T10:39:51+00:00",
+   "img": "https://images.tagesschau.de/image/db138717-5139-43cf-a38a-1fc962e93fad/AAABoSqyRTE/AAABnSSvrFg/16x9-big/strasse-menschen-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Huthi-Attacke: \"Regelrechtes Kriegsverbrechen\" in Riad",
+     "link": "https://www.dw.com/de/huthi-attacke-regelrechtes-kriegsverbrechen-in-riad/a-79631622?maca=de-rss-de-all-1119-xml-mrss"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "title": "Offenbar erneute Huthi-Attacke - Mindestens zwölf Tote bei Angriff auf Flughafen von Riad - USA prüfen Unterstützung der Koalition um Saudi-Arabien",
+     "link": "https://www.deutschlandfunk.de/mindestens-zwoelf-tote-bei-angriff-auf-flughafen-von-riad-usa-pruefen-unterstuetzung-der-koalition-u-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n25b908076b",
+   "topic": "welt",
+   "title": "Gescheiterte Hinrichtung: Christa Pike zurück im Gefängnis",
+   "text": "Die verurteilte Mörderin wird nun in der Haftanstalt weiter medizinisch versorgt. Wie ihre Zukunft aussieht, ist weiter ungewiss.",
+   "link": "https://www.dw.com/de/gescheiterte-hinrichtung-christa-pike-zurück-im-gefängnis/a-79632628?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-11T10:07:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-15T10:07:00+00:00",
+   "img": "https://static.dw.com/image/79512677_302.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Todeskandidatin Pike nach gescheiterter Hinrichtung wieder im Gefängnis",
+     "link": "https://www.tagesschau.de/ausland/amerika/pike-todeskandidatin-krankenhaus-gefaengnis-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n5f90f64c4a",
+   "topic": "ki",
+   "title": "Jevons-Paradox im KI-Markt: Token-Preise fallen, doch GPU-Hardware bleibt teuer",
+   "text": "Daten von a16z zeigen ein Jevons-Paradoxon im KI-Markt: Token-Preise fallen stetig, doch die Mietpreise für H100-GPUs bleiben hoch oder steigen, weil günstigere KI-Nutzung die Nachfrage schneller wachsen lässt, als die Stückkosten sinken. Flacht die Nachfrage ab, wäre die gesamte Kette von Chip-Herstellern bis …",
+   "link": "https://the-decoder.de/jevons-paradox-im-ki-markt-token-preise-fallen-doch-gpu-hardware-bleibt-teuer/",
+   "published": "2026-10-11T09:39:59+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-18T09:39:59+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/03/Datacenter-Remote.png"
+  },
+  {
+   "id": "n1ac9837b84",
+   "topic": "welt",
+   "title": "Trump möchte Machtwechsel in Kyjiw",
+   "text": "Der US-Präsident wettert gegen den ukrainischen Staatschef Wolodymyr Selenskyj - und fordert dessen Abgang. Doch die Regierung in Kyjiw stützt ihren Präsidenten.",
+   "link": "https://www.dw.com/de/trump-möchte-machtwechsel-in-kyjiw/a-79632226?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-11T09:32:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-15T09:32:00+00:00",
+   "img": "https://static.dw.com/image/79631030_302.jpg"
+  },
+  {
+   "id": "nccf27582be",
+   "topic": "wissenschaft",
+   "title": "Neuroplastizität im Alter : Wie das Gehirn dem Abbau entgegenwirkt",
+   "text": "Das Gehirn mancher Menschen scheint altersbedingte Schäden besonders gut ausgleichen zu können. Inzwischen kennt man drei Wege einer solchen »neuronalen Kompensation«.",
+   "link": "https://www.spektrum.de/news/hirnabbau-im-alter-wie-unser-gehirn-entgegenwirkt/2208423",
+   "published": "2026-10-11T09:30:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-25T09:30:00+00:00"
+  },
+  {
+   "id": "n5e90d83a25",
+   "topic": "welt",
+   "title": "Todeskandidatin Pike nach gescheiterter Hinrichtung wieder im Gefängnis",
+   "text": "Die US-Todeskandidatin Pike hat rund anderthalb Wochen nach ihrer gescheiterten Hinrichtung das Krankenhaus verlassen. Sie ist mittlerweile in das Gefängnis zurückgekehrt, in dem sie seit mehr als 30 Jahren inhaftiert ist.",
+   "link": "https://www.tagesschau.de/ausland/amerika/pike-todeskandidatin-krankenhaus-gefaengnis-100.html",
+   "published": "2026-10-11T09:20:40+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-14T09:20:40+00:00",
+   "img": "https://images.tagesschau.de/image/2367fafb-978d-47c7-94b2-a338ad13e5e2/AAABoPUyHjY/AAABnSSvrFg/16x9-big/christa-pike-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Gescheiterte Hinrichtung: Christa Pike zurück im Gefängnis",
+     "link": "https://www.dw.com/de/gescheiterte-hinrichtung-christa-pike-zurück-im-gefängnis/a-79632628?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "nc52a7e91e4",
+   "topic": "welt",
+   "title": "Saudi-Arabien: Viele Tote bei Angriff auf Flughafen in Riad",
+   "text": "Der Konflikt zwischen Saudi-Arabien und der Huthi-Miliz verschärft sich: Nun gab es bei einem Angriff in Riad mindestens zwölf Tote und Hunderte Verletzte. Der Flughafenbetrieb blieb zunächst ausgesetzt.",
+   "link": "https://www.tagesschau.de/ausland/asien/angriff-riad-flughafen-100.html",
+   "published": "2026-10-11T09:05:29+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-14T09:05:29+00:00",
+   "img": "https://images.tagesschau.de/image/7fe37f68-085a-4fe4-a697-d96c3dd3b092/AAABoSgZKIk/AAABnSSvrFg/16x9-big/riad-airport-101.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Huthi-Attacke: \"Regelrechtes Kriegsverbrechen\" in Riad",
+     "link": "https://www.dw.com/de/huthi-attacke-regelrechtes-kriegsverbrechen-in-riad/a-79631622?maca=de-rss-de-all-1119-xml-mrss"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "title": "Offenbar erneute Huthi-Attacke - Mindestens zwölf Tote bei Angriff auf Flughafen von Riad - USA prüfen Unterstützung der Koalition um Saudi-Arabien",
+     "link": "https://www.deutschlandfunk.de/mindestens-zwoelf-tote-bei-angriff-auf-flughafen-von-riad-usa-pruefen-unterstuetzung-der-koalition-u-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n3759d9a905",
+   "topic": "ki",
+   "title": "Arxiv: Bisherige Maßnahmen gegen KI-Paper-Flut haben nicht gefruchtet, jetzt gibt es harte Limits",
+   "text": "Arxiv begrenzt Einreichungen ab Oktober 2026 auf zwei pro Person und Monat. Die Zahl der monatlichen Submissions hat sich in zwei Jahren verdoppelt, in der KI-Kategorie cs.AI sogar mehr als versechsfacht. Laut Arxiv reicht ein kleiner Teil der Autoren massenhaft minderwertige Paper ein und blockiert damit die …",
+   "link": "https://the-decoder.de/arxiv-bisherige-massnahmen-gegen-ki-paper-flut-haben-nicht-gefruchtet-jetzt-gibt-es-harte-limits/",
+   "published": "2026-10-11T09:01:32+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-18T09:01:32+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/arxiv-flood-ai-paper-nano-banana-pro.jpg"
+  },
+  {
+   "id": "ndbe3b02e04",
+   "topic": "ki",
+   "title": "\"Superintelligenz\": Microsoft-CEO Satya Nadella gehorcht Trumps Sprachvorschriften",
+   "text": "Microsoft-CEO Satya Nadella übernimmt Trumps Sprachregelung und schreibt in seinem neuen Blog von \"Super Intelligence\" statt Künstlicher Intelligenz. Inhaltlich stellt er KI-Modelle als Sicherheitsrisiko dar – und zielt damit erneut auf OpenAI und Anthropic. Dahinter steckt wirtschaftliches Kalkül: Microsoft droht im …",
+   "link": "https://the-decoder.de/superintelligenz-microsoft-ceo-satya-nadella-gehorcht-trumps-sprachvorschriften/",
+   "published": "2026-10-11T08:39:35+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-18T08:39:35+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/microsoft_trump.png"
+  },
+  {
+   "id": "n6798cef571",
+   "topic": "wissenschaft",
+   "title": "Elefanten: Der Klub der jungen Dickhäuter",
+   "text": "Männliche Afrikanische Savannenelefanten galten lange als Einzelgänger. Doch die vermeintlich einsamen Bullen verfügen über komplexe soziale Netzwerke.",
+   "link": "https://www.spektrum.de/news/elefanten-der-klub-der-jungen-dickhaeuter/2262781",
+   "published": "2026-10-11T08:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-25T08:00:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/sa0525OCon01_OConnell_Rodwell.jpg.8401957.jpg?f=1280x720"
+  },
+  {
+   "id": "n23e84588ee",
+   "topic": "welt",
+   "title": "Huthi-Attacke: \"Regelrechtes Kriegsverbrechen\" in Riad",
+   "text": "Mit einem folgenschweren Raketenangriff auf den Flughafen der saudischen Hauptstadt ist der Konflikt mit der pro-iranischen Huthi-Miliz weiter eskaliert. Die USA wollen ein Eingreifen nicht ausschließen.",
+   "link": "https://www.dw.com/de/huthi-attacke-regelrechtes-kriegsverbrechen-in-riad/a-79631622?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-11T07:53:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-15T07:53:00+00:00",
+   "img": "https://static.dw.com/image/79631388_302.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Huthi-Angriff auf Flughafen Riad: Alptraum am Abflug-Gate",
+     "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthi-angriff-riad-flughafen-100.html"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "title": "Offenbar erneute Huthi-Attacke - Mindestens zwölf Tote bei Angriff auf Flughafen von Riad - USA prüfen Unterstützung der Koalition um Saudi-Arabien",
+     "link": "https://www.deutschlandfunk.de/mindestens-zwoelf-tote-bei-angriff-auf-flughafen-von-riad-usa-pruefen-unterstuetzung-der-koalition-u-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n805e5ce533",
+   "topic": "politik",
+   "title": "Schutzstatus in Deutschland: Asylklagen dauern wieder länger",
+   "text": "In den vergangenen Jahren war die Dauer von Asylklagen zurückgegangen. Inzwischen müssen Schutzsuchende wieder länger auf die Klärung ihres Status warten - die Zeit ist dabei jedoch stark vom Bundesland abhängig.",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/migration-asyl-klagen-dauer-100.html",
+   "published": "2026-10-11T06:21:19+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-14T06:21:19+00:00",
+   "img": "https://images.tagesschau.de/image/82b12dce-29d2-4f5f-adc5-d71b44010860/AAABoSnTVyM/AAABnSSvrFg/16x9-big/bundesamt-fuer-migration-und-fluechtlinge-104.jpg?width=1920"
+  },
+  {
+   "id": "nd6febbf902",
+   "topic": "welt",
+   "title": "Bürgermeisterwahl: Entscheidung in Krakau - Stimmungstest für Polen",
+   "text": "Polens zweitgrößte Stadt Krakau wählt einen Bürgermeister: Die regierungsnahe Kandidatin tritt gegen einen Kandidaten an, der mit Stimmen von rechts rechnen kann. Ein Stimmungstest vor der Parlamentswahl. Von P. Milling",
+   "link": "https://www.tagesschau.de/ausland/europa/polen-krakau-buergermeister-wahlen-100.html",
+   "published": "2026-10-11T06:19:57+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-14T06:19:57+00:00",
+   "img": "https://images.tagesschau.de/image/2abb5384-7a5a-40d6-805d-854c4c0f7c33/AAABoSXaWRw/AAABnSSvrFg/16x9-big/monika-piatkowska-100.jpg?width=1920"
+  },
   {
    "id": "n5ac55ce1ea",
    "topic": "welt",
@@ -107,8 +602,13 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Saudi-Arabien: Viele Tote bei Angriff auf Flughafen in Riad",
-     "link": "https://www.tagesschau.de/ausland/asien/angriff-riad-flughafen-100.html"
+     "title": "Huthi-Angriff auf Flughafen Riad: Alptraum am Abflug-Gate",
+     "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthi-angriff-riad-flughafen-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Huthi-Attacke: \"Regelrechtes Kriegsverbrechen\" in Riad",
+     "link": "https://www.dw.com/de/huthi-attacke-regelrechtes-kriegsverbrechen-in-riad/a-79631622?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -243,26 +743,6 @@
    "img": "https://static.dw.com/image/79455715_302.jpg"
   },
   {
-   "id": "nc52a7e91e4",
-   "topic": "welt",
-   "title": "Saudi-Arabien: Viele Tote bei Angriff auf Flughafen in Riad",
-   "text": "Etwa 40 Millionen Passagiere nutzen den Flughafen in der saudischen Hauptstadt Riad jedes Jahr. Zuletzt wurde er mehrfach angegriffen. Nun gab es wieder eine Attacke - mindestens zwölf Menschen starben. Diplomaten vermuten die Huthi-Miliz hinter dem Angriff.",
-   "link": "https://www.tagesschau.de/ausland/asien/angriff-riad-flughafen-100.html",
-   "published": "2026-10-11T04:27:25+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-14T04:27:25+00:00",
-   "img": "https://images.tagesschau.de/image/7fe37f68-085a-4fe4-a697-d96c3dd3b092/AAABoSgZKIk/AAABnSSvrFg/16x9-big/riad-airport-101.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Offenbar erneute Huthi-Attacke - Mindestens zwölf Tote bei Angriff auf Flughafen von Riad - USA prüfen Unterstützung der Koalition um Saudi-Arabien",
-     "link": "https://www.deutschlandfunk.de/mindestens-zwoelf-tote-bei-angriff-auf-flughafen-von-riad-usa-pruefen-unterstuetzung-der-koalition-u-100.html"
-    }
-   ]
-  },
-  {
    "id": "nb2327c4540",
    "topic": "wirtschaft",
    "title": "Nostalgie und Nachhaltigkeit: Ein zweites Leben für die Vespa",
@@ -290,8 +770,8 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Führungsklausur - CDU sucht nach Auswegen aus Parteikrise - Seehofer: massiver Glaubwürdigkeitsverlust von Merz",
-     "link": "https://www.deutschlandfunk.de/cdu-sucht-nach-auswegen-aus-parteikrise-seehofer-massiver-glaubwuerdigkeitsverlust-von-merz-100.html"
+     "title": "Union - Seehofer attackiert Merz vor CDU-Führungsklausur: \"Diese pauschale Sprache geht völlig an der Realität vorbei\"",
+     "link": "https://www.deutschlandfunk.de/seehofer-attackiert-merz-vor-cdu-fuehrungsklausur-diese-pauschale-sprache-geht-voellig-an-der-realit-100.html"
     }
    ]
   },
@@ -319,7 +799,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-14T01:27:57+00:00",
-   "img": "https://images.tagesschau.de/image/5497fdfb-69ad-4d61-8d6f-6d83896ecb20/AAABoSE1c7s/AAABnSSvrFg/16x9-big/merz-1702.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/5497fdfb-69ad-4d61-8d6f-6d83896ecb20/AAABoSqnoK0/AAABnSSvrFg/16x9-big/merz-1702.jpg?width=1920"
   },
   {
    "id": "n7729435cda",
@@ -373,8 +853,13 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Saudi-Arabien: Viele Tote bei Angriff auf Flughafen in Riad",
-     "link": "https://www.tagesschau.de/ausland/asien/angriff-riad-flughafen-100.html"
+     "title": "Huthi-Angriff auf Flughafen Riad: Alptraum am Abflug-Gate",
+     "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthi-angriff-riad-flughafen-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Huthi-Attacke: \"Regelrechtes Kriegsverbrechen\" in Riad",
+     "link": "https://www.dw.com/de/huthi-attacke-regelrechtes-kriegsverbrechen-in-riad/a-79631622?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -562,8 +1047,13 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Saudi-Arabien: Viele Tote bei Angriff auf Flughafen in Riad",
-     "link": "https://www.tagesschau.de/ausland/asien/angriff-riad-flughafen-100.html"
+     "title": "Huthi-Angriff auf Flughafen Riad: Alptraum am Abflug-Gate",
+     "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthi-angriff-riad-flughafen-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Huthi-Attacke: \"Regelrechtes Kriegsverbrechen\" in Riad",
+     "link": "https://www.dw.com/de/huthi-attacke-regelrechtes-kriegsverbrechen-in-riad/a-79631622?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -709,14 +1199,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-13T16:33:42+00:00",
-   "img": "https://images.tagesschau.de/image/22cc46c6-e54b-42ed-a764-134b56ac31e0/AAABoSapwzg/AAABnSSvrFg/16x9-big/polen-564.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Gewaltwelle mit Messerattacken erreicht polnische Schulen",
-     "link": "https://www.dw.com/de/gewaltwelle-mit-messerattacken-erreicht-polnische-schulen/a-79610073?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/22cc46c6-e54b-42ed-a764-134b56ac31e0/AAABoSapwzg/AAABnSSvrFg/16x9-big/polen-564.jpg?width=1920"
   },
   {
    "id": "naae654d587",
@@ -859,8 +1342,8 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Führungsklausur - CDU sucht nach Auswegen aus Parteikrise - Seehofer: massiver Glaubwürdigkeitsverlust von Merz",
-     "link": "https://www.deutschlandfunk.de/cdu-sucht-nach-auswegen-aus-parteikrise-seehofer-massiver-glaubwuerdigkeitsverlust-von-merz-100.html"
+     "title": "Union - Seehofer attackiert Merz vor CDU-Führungsklausur: \"Diese pauschale Sprache geht völlig an der Realität vorbei\"",
+     "link": "https://www.deutschlandfunk.de/seehofer-attackiert-merz-vor-cdu-fuehrungsklausur-diese-pauschale-sprache-geht-voellig-an-der-realit-100.html"
     }
    ]
   },
@@ -1296,443 +1779,6 @@
    "type": "Fachmedium (IT)",
    "lang": "de",
    "expires": "2026-10-15T08:55:00+00:00"
-  },
-  {
-   "id": "n37447467b2",
-   "topic": "it",
-   "title": "FDX Fusion: Dresden bekommt neuen Halbleiterprozess mit 7-nm-Leistung",
-   "text": "Planare Transistoren sind noch nicht am Ende: Globalfoundries stellt einen neuen Fertigungsprozess vor, Forscher arbeiten an 7- und 10-nm-Prozessen. ( Halbleiterfertigung , Globalfoundries )",
-   "link": "https://www.golem.de/news/fdx-fusion-dresden-bekommt-neuen-halbleiterprozess-mit-7-nm-leistung-2610-213951.html",
-   "published": "2026-10-10T08:47:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-15T08:47:02+00:00",
-   "img": "https://www.golem.de/2610/213951-602718-602716_rc.jpg"
-  },
-  {
-   "id": "ne4eae91167",
-   "topic": "it",
-   "title": "7-Zip 26.04: Sicherheitslücken geschlossen",
-   "text": "Das populäre Archivtool 7-Zip ist in der neuen Version 26.04 erschienen. Sie schließt Sicherheitslecks und korrigiert Fehler.",
-   "link": "https://www.heise.de/news/7-Zip-Update-stopft-Sicherheitsluecken-11483182.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-10T08:18:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-15T08:18:00+00:00"
-  },
-  {
-   "id": "n5a7b421c15",
-   "topic": "wissenschaft",
-   "title": "Justina Lugenbühl über Depression, Stress und Astrozyten",
-   "text": "Die biologischen Ursachen psychiatrischer Störungen sind immer noch ein großes Rätsel. Justina Lugenbühl untersucht ein ziemlich überraschendes: Astrozyten.",
-   "link": "https://www.spektrum.de/video/dasgehirn-info-depression-stress-und-astrozyten/2349055",
-   "published": "2026-10-10T08:14:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-10-24T08:14:00+00:00"
-  },
-  {
-   "id": "n24a3e9d7cc",
-   "topic": "wissenschaft",
-   "title": "Wie suchen wir nach außerirdischem Leben auf Exoplaneten?",
-   "text": "Gibt es Leben auf fernen Planeten? Und wenn ja, wie könnten wir es aus mehreren Lichtjahren Entfernung überhaupt entdecken?",
-   "link": "https://www.spektrum.de/video/science-slam-wie-wir-nach-ausserirdischem-leben-auf-exoplaneten-suchen/2349052",
-   "published": "2026-10-10T08:13:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-10-24T08:13:00+00:00"
-  },
-  {
-   "id": "nfc40a2da0a",
-   "topic": "it",
-   "title": "Photokina-Comeback und KI-Skandal – die Fotonews der Woche 41/2026",
-   "text": "Die Imaging World zieht nach Köln, Nikon prüft KI-Betrug bei einem Wettbewerb und Leica ehrt Graciela Iturbide.",
-   "link": "https://www.heise.de/news/Photokina-Comeback-und-KI-Skandal-die-Fotonews-der-Woche-41-2026-11482204.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-10T08:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-15T08:00:00+00:00"
-  },
-  {
-   "id": "nebae89d61c",
-   "topic": "welt",
-   "title": "Ein Jahr brüchige Waffenruhe Gaza: \"Der Krieg lässt uns nicht in Ruhe\"",
-   "text": "Ein Jahr nach der Waffenruhe im Gazastreifen leben viele Menschen weiter in Not, Hilfsorganisationen sichern ihr Überleben. Von der internationalen Politik fühlen sich die Menschen vergessen. Von Felicitas Boeselager.",
-   "link": "https://www.tagesschau.de/ausland/asien/israel-gaza-waffenruhe-112.html",
-   "published": "2026-10-10T07:37:37+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-13T07:37:37+00:00",
-   "img": "https://images.tagesschau.de/image/7ebf7660-a546-42ab-98ff-abf48d3e3a7d/AAABoSS-sq0/AAABnSSvrFg/16x9-big/zelte-gaza-102.jpg?width=1920"
-  },
-  {
-   "id": "n7300cd4711",
-   "topic": "welt",
-   "title": "Deutschland stellt sich hinter Internationalen Strafgerichtshof - News kompakt: Das Wichtigste kurz gefasst",
-   "text": "Die USA kündigen Sanktionen gegen den Internationalen Strafgerichtshof an und lösen damit international scharfe Kritik aus. Hurrikan \"Isaias\" sorgt an der US-Küste für massive Stromausfälle. Der DW-Nachrichtenüberblick.",
-   "link": "https://www.dw.com/de/deutschland-stellt-sich-hinter-internationalen-strafgerichtshof-news-kompakt-das-wichtigste-kurz-gefasst/a-79624657?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-10T07:00:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-14T07:00:00+00:00",
-   "img": "https://static.dw.com/image/78420321_302.jpg"
-  },
-  {
-   "id": "nc158b3060d",
-   "topic": "wirtschaft",
-   "title": "Immobilienmarkt: Steigende Preise trotz sinkender Nachfrage",
-   "text": "Die Preise für Wohnimmobilien legen weiter zu - obwohl Baukredite sehr teuer geworden sind und sich weniger Menschen eine Eigentumswohnung oder ein Haus leisten können. Wie passt das zusammen? Von Heidi Radvilas",
-   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/hauskauf-wohnungskauf-kaufkraft-100.html",
-   "published": "2026-10-10T06:32:43+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-13T06:32:43+00:00",
-   "img": "https://images.tagesschau.de/image/040b7883-fb47-4188-802b-7d0feb5ee3b5/AAABoRZv2sY/AAABnSSvrFg/16x9-big/immobilien-266.jpg?width=1920"
-  },
-  {
-   "id": "nff3f6f0ad8",
-   "topic": "politik",
-   "title": "Aufwachsen ohne Eltern: Wie Ehrenamtliche eine Lücke schließen",
-   "text": "Kinder, die ohne Eltern aufwachsen, kennen Erwachsene oft nur als Betreuer, Erzieher oder Lehrer. Ein Kölner Verein will ihnen Erwachsene an die Seite stellen, die bleiben - und damit eine Lücke schließen. Von Rupert Wiederwald.",
-   "link": "https://www.tagesschau.de/inland/mittendrin/ehrenamt-wegbegleitung-kinder-100.html",
-   "published": "2026-10-10T06:16:51+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-13T06:16:51+00:00",
-   "img": "https://images.tagesschau.de/image/31908849-0b1e-4a54-90a8-36702c8b9667/AAABoSAKhW4/AAABnSSvrFg/16x9-big/sendungsbild-1808916.jpg?width=1920"
-  },
-  {
-   "id": "nd47a57a480",
-   "topic": "wirtschaft",
-   "title": "Anthropic-KI stellt Visaanträge bei US-Außenministerium",
-   "text": "Erneut hat das US-Techunternehmen Anthropic gemeldet, dass eines seiner KI-Modelle eigenmächtig gehandelt hat. Die KI erstellte eigenständig Visaanträge und gab der Polizei einen falschen Tipp. Von Gabi Biesinger.",
-   "link": "https://www.tagesschau.de/wirtschaft/technologie/anthropic-ki-104.html",
-   "published": "2026-10-10T05:48:52+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-13T05:48:52+00:00"
-  },
-  {
-   "id": "ne2218ac13e",
-   "topic": "welt",
-   "title": "Wahlkampf per Fahrrad: Können Serbiens Studenten Vucic besiegen?",
-   "text": "Vor zwei Jahren begannen die Studentenproteste gegen Serbiens Regierung unter Vucic - und für Neuwahlen. Jetzt, da es Ende des Monats tatsächlich Wahlen geben wird, haben die Studierenden eine echte Chance. Von A. Herz.",
-   "link": "https://www.tagesschau.de/ausland/europa/serbien-wahl-studenten-100.html",
-   "published": "2026-10-10T05:44:11+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-13T05:44:11+00:00",
-   "img": "https://images.tagesschau.de/image/2e197229-0719-4ef3-b210-24f9289cfc8b/AAABoSCLYa0/AAABnSSvrFg/16x9-big/studierende-anhaenger-100.jpg?width=1920"
-  },
-  {
-   "id": "n333c047223",
-   "topic": "welt",
-   "title": "Tigray: Eritrea schickt Truppen, Äthiopien Beschwerdebriefe",
-   "text": "Äthiopien gibt Eritrea die Schuld an einer Eskalation in Tigray. Eritrea schickt Truppen. Das Bündnis gegen Premier Abiy rückt enger zusammen - die möglichen regionalen Auswirkungen sind kaum zu überschätzen.",
-   "link": "https://www.dw.com/de/tigray-eritrea-schickt-truppen-äthiopien-beschwerdebriefe/a-79621750?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-10T05:26:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-14T05:26:00+00:00",
-   "img": "https://static.dw.com/image/79617676_302.jpg"
-  },
-  {
-   "id": "nbf90d240c2",
-   "topic": "welt",
-   "title": "Gewaltwelle mit Messerattacken erreicht polnische Schulen",
-   "text": "Polen gilt als ein sicheres Land. Amokläufe an Schulen kannten die Polen bisher nur aus ausländischen Medienberichten. Nach einer Serie von Messerattacken wächst jetzt die Angst vor Nachahmungstätern.",
-   "link": "https://www.dw.com/de/gewaltwelle-mit-messerattacken-erreicht-polnische-schulen/a-79610073?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-10T04:48:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-14T04:48:00+00:00",
-   "img": "https://static.dw.com/image/79609910_302.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Serie von Messerattacken an Schulen in Polen",
-     "link": "https://www.tagesschau.de/ausland/europa/polen-messer-attacken-schulen-100.html"
-    }
-   ]
-  },
-  {
-   "id": "nd418be05ca",
-   "topic": "welt",
-   "title": "Auch Republikaner über geplante Live-Hinrichtung entsetzt",
-   "text": "Eine Militärhinrichtung im Livestream: In den USA wird kontrovers über die Ankündigung des Verteidigungsministers diskutiert. Die Rede ist von Methoden wie bei der IS-Miliz. Auch Vizepräsident Vance geht auf Distanz. Von Nina Barth.",
-   "link": "https://www.tagesschau.de/ausland/amerika/usa-todesstrafe-106.html",
-   "published": "2026-10-10T03:56:30+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-13T03:56:30+00:00",
-   "img": "https://images.tagesschau.de/image/79e223bb-bb7a-4185-b69e-5f9a68efaf90/AAABoSP0iHg/AAABnSSvrFg/16x9-big/proteste-todesstrafe-100.jpg?width=1920"
-  },
-  {
-   "id": "naf8af66bc7",
-   "topic": "wirtschaft",
-   "title": "Trump kündigt russische Diesellieferungen an",
-   "text": "Wegen der hohen Spritpreise steht Trump innenpolitisch unter wachsendem Druck. Nun verkündet der US-Präsident einen Deal mit Russland, der die Lieferung von zunächst 300.000 Tonnen Diesel für die USA und den Weltmarkt umfasst. Kiew ist empört.",
-   "link": "https://www.tagesschau.de/ausland/amerika/trump-diesellieferungen-russland-100.html",
-   "published": "2026-10-10T02:43:04+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-13T02:43:04+00:00",
-   "img": "https://images.tagesschau.de/image/c49f24bf-a6e7-43b3-bd27-2a24aade3ba4/AAABoSKxMR8/AAABnSSvrFg/16x9-big/trump-5322.jpg?width=1920"
-  },
-  {
-   "id": "n962257c4e8",
-   "topic": "nfl",
-   "title": "Mike Ditka, Hall of Fame tight end and Bears' Super Bowl-winning coach, dies at age 86",
-   "text": "Ditka was a fixture in the NFL for more than 50 years",
-   "link": "https://www.cbssports.com/nfl/news/mike-ditka-bears-super-bowl-winning-coach-dies-at-age-86/",
-   "published": "2026-10-10T01:09:50+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-15T01:09:50+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/09/6500814c-772f-42af-a8d1-60230b273d40/ditka.jpg"
-  },
-  {
-   "id": "n130c4a8148",
-   "topic": "politik",
-   "title": "Welttag gegen die Todesstrafe - Menschenrechtsbeauftragter der Bundesregierung fordert weltweite Abschaffung",
-   "text": "Der Menschenrechtsbeauftragte der Bundesregierung, Castellucci, hat die weltweite Abschaffung der Todesstrafe gefordert.",
-   "link": "https://www.deutschlandfunk.de/menschenrechtsbeauftragter-der-bundesregierung-fordert-weltweite-abschaffung-100.html",
-   "published": "2026-10-10T00:41:22+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-12T00:41:22+00:00",
-   "img": "https://bilder.deutschlandfunk.de/2c/9f/99/e1/2c9f99e1-1e36-4860-8d34-78405165425b/castellucci-lars-spd-menschenrechtsbeauftragter-nahost-reise-konflikt-israel-100-1920x1920.jpg"
-  },
-  {
-   "id": "nc4bb99afd3",
-   "topic": "politik",
-   "title": "Vereinigte Arabische Emirate - Staatsanwaltschaft: Flydubai-Copilot plante Anschlag auf Flughafen in Tel Aviv",
-   "text": "Der Anschlag während des Flydubai-Flugs vergangene Woche sollte offenbar dem Flughafen von Tel Aviv gelten.",
-   "link": "https://www.deutschlandfunk.de/staatsanwaltschaft-flydubai-copilot-plante-anschlag-auf-flughafen-in-tel-aviv-106.html",
-   "published": "2026-10-10T00:41:22+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-12T00:41:22+00:00",
-   "img": "https://bilder.deutschlandfunk.de/NO/VA/_f/8a/NOVA_f8aef309c3005942e3de7b50f8b19795/craft-13449079-asset-100-1920x1920.jpg"
-  },
-  {
-   "id": "n078cbc4ace",
-   "topic": "politik",
-   "title": "Bundesländer - Nach SPD stimmt auch Linke für Koalitionsverhandlungen in Mecklenburg-Vorpommern",
-   "text": "Nach der SPD hat auch die Linke in Mecklenburg-Vorpommern für Koalitionsverhandlungen zur Bildung einer rot-rot-grünen Landesregierung gestimmt.",
-   "link": "https://www.deutschlandfunk.de/nach-spd-stimmt-auch-linke-fuer-koalitionsverhandlungen-in-mecklenburg-vorpommern-102.html",
-   "published": "2026-10-10T00:41:22+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-12T00:41:22+00:00",
-   "img": "https://bilder.deutschlandfunk.de/FI/LE/_e/57/FILE_e573a2166b546a1df9fd8e008c781514/beginn-koalitionsver-71303664-jpg-100-768x768.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Weg frei für Koalitionsverhandlungen in Schwerin",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/mv-koalitionsverhandlungen-100.html"
-    }
-   ]
-  },
-  {
-   "id": "nb9d5602e09",
-   "topic": "politik",
-   "title": "Interview - Bau-Präsident Demuth warnt vor Enteignungsplänen der Linken in Berlin",
-   "text": "Der Präsident des Hauptverbandes der Deutschen Bauindustrie, Demuth, hat vor dem Vorhaben der Berliner Linken gewarnt, Immobilienkonzerne zu enteignen.",
-   "link": "https://www.deutschlandfunk.de/bau-praesident-demuth-warnt-vor-enteignungsplaenen-der-linken-in-berlin-100.html",
-   "published": "2026-10-10T00:41:22+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-12T00:41:22+00:00",
-   "img": "https://bilder.deutschlandfunk.de/71/e5/24/f2/71e524f2-7c8d-4e74-aae9-3d0e3778746b/wohnungen-berlin-100-1920x1920.jpg"
-  },
-  {
-   "id": "n9961274f6b",
-   "topic": "politik",
-   "title": "ARD-Interview - Friedensnobelpreisträgerin Pillay verteidigt sich gegen Kritik aus Israel",
-   "text": "Friedensnobelpreisträgerin Navanethem Pillay hat sich gegen Kritik aus Israel an ihrer Haltung zum Vorgehen des Landes im Gazastreifen verteidigt.",
-   "link": "https://www.deutschlandfunk.de/friedensnobelpreistraegerin-pillay-verteidigt-sich-gegen-kritik-aus-israel-100.html",
-   "published": "2026-10-10T00:41:22+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-12T00:41:22+00:00"
-  },
-  {
-   "id": "n8653d34cff",
-   "topic": "nfl",
-   "title": "New book celebrates the life and legacy of Mike Ditka",
-   "text": "USA TODAY Sports is releasing a new collector's book honoring the life and legacy of Mike Ditka, coach of the famed 1985 Bears.",
-   "link": "https://sports.yahoo.com/articles/book-celebrates-life-legacy-mike-003150046.html",
-   "published": "2026-10-10T00:31:50+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-15T00:31:50+00:00",
-   "img": "https://media.zenfs.com/en/usa_today_sports_articles_558/a5aae72a9ea1aaebf25f55673eb63b15.jpg"
-  },
-  {
-   "id": "n9a74904da9",
-   "topic": "nfl",
-   "title": "NFL predictions: Can the New York Jets halt their losing streak when they take on the Cleveland Browns?",
-   "text": "Let’s make some predictions!",
-   "link": "https://sports.yahoo.com/articles/nfl-predictions-york-jets-halt-003117861.html",
-   "published": "2026-10-10T00:31:17+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-15T00:31:17+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/2c6086b43160e4cc82afe6de93b03799.jpg"
-  },
-  {
-   "id": "ne2de19c2e4",
-   "topic": "welt",
-   "title": "China sagt EU weniger Exporte von Hybridautos zu",
-   "text": "Der Konkurrenzdruck aus China macht insbesondere deutschen Autobauern zu schaffen. Die EU will daher erreichen, dass Peking in Europa weniger Hybridautos verkauft - nun verkünden beide Seiten einen Kompromiss.",
-   "link": "https://www.tagesschau.de/ausland/asien/hybrid-autos-china-100.html",
-   "published": "2026-10-09T22:54:50+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-12T22:54:50+00:00",
-   "img": "https://images.tagesschau.de/image/2b1398ce-b384-4026-be34-64ba42ae5626/AAABoSSnBvQ/AAABnSSvrFg/16x9-big/autoexport-china-100.jpg?width=1920"
-  },
-  {
-   "id": "n8343889307",
-   "topic": "nfl",
-   "title": "NFL Week 5 injury report: Eagles' Saquon Barkley and DeVonta Smith out, Bears' Caleb Williams questionable",
-   "text": "Here's a look at the game designations for Week 5 in the NFL",
-   "link": "https://www.cbssports.com/nfl/news/nfl-week-5-injury-report-eagles-saquon-barkley-devonta-smith-out/",
-   "published": "2026-10-09T22:22:32+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-14T22:22:32+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/02/c633fb76-0563-47f1-9ed4-167c4d3014de/devonta-smith-eagles-imagn-images.jpg"
-  },
-  {
-   "id": "nd44c1a366d",
-   "topic": "nfl",
-   "title": "More alarming injury news for Eagles as they prepare to face Jaguars in London",
-   "text": "Philadelphia's offense could be stuck in the mud once again on Sunday",
-   "link": "https://www.cbssports.com/nfl/news/injury-news-saquon-barkley-eagles-jaguars-london/",
-   "published": "2026-10-09T21:00:37+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-14T21:00:37+00:00"
-  },
-  {
-   "id": "n79fd18a494",
-   "topic": "politik",
-   "title": "Hessischer Film- und Kinopreis 2026 für \"I'll be gone in June\"",
-   "text": "\"I'll be gone in June\" von Katharina Rivilis hat den Hessischen Film- und Kinopreis als bester Spielfilm gewonnen. Ein weiterer Preis geht an den Dokumentarfilm \"Sieben Kreise der Hölle\". Die Preisverleihung fiel in diesem Jahr deutlich bescheidener aus als in den Vorjahren.",
-   "link": "https://www.hessenschau.de/kultur/hessischer-film--und-kinopreis-2026-fuer-ill-be-gone-in-june-v1,2026-hessischer-filmpreis-verliehen-100.html",
-   "published": "2026-10-09T19:40:41+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-13T19:40:41+00:00",
-   "img": "https://www.hessenschau.de/kultur/i-ll-be-gone-in-june-100~_t-1791574841114_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "n5785a4a95d",
-   "topic": "welt",
-   "title": "Flydubai-Co-Pilot plante laut Ermittlern Selbstmordanschlag",
-   "text": "Zum vereitelten Absturz des Flydubai-Flugzeugs Ende September sind weitere Details bekannt geworden. Der Co-Pilot hatte nach Angaben der Ermittler geplant, die Maschine in ein israelisches Flughafenterminal zu steuern.",
-   "link": "https://www.tagesschau.de/ausland/flydubai-flugzeug-selbstmordanschlag-100.html",
-   "published": "2026-10-09T19:12:19+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-12T19:12:19+00:00",
-   "img": "https://images.tagesschau.de/image/84014288-012b-4a48-bbab-038efe8da5fe/AAABoPKdPcA/AAABnSSvrFg/16x9-big/flydubai-flughafen-100.jpg?width=1920"
-  },
-  {
-   "id": "n17c4b0b546",
-   "topic": "wirtschaft",
-   "title": "Wirtschaft vor acht vom 09.10.2026",
-   "text": "Wirtschaft vor acht vom 09.10.2026",
-   "link": "https://www.tagesschau.de/video/video-1663618.html",
-   "published": "2026-10-09T18:24:19+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-12T18:24:19+00:00",
-   "img": "https://images.tagesschau.de/image/0599d4dd-4418-4de9-a4c8-aa87622334c3/AAABoSHooGo/AAABnSSvrFg/16x9-big/sendungsbild-1809164.jpg?width=1920"
-  },
-  {
-   "id": "n4d0207396b",
-   "topic": "ki",
-   "title": "Claudes dynamische Workflows lassen bis zu 1000 Agenten gleichzeitig an einer Aufgabe arbeiten",
-   "text": "Anthropic erweitert seine Claude Managed Agents um Multi-Agenten-Orchestrierung: Ein leitender Agent verteilt Aufgaben an bis zu 1.000 Unteragenten gleichzeitig. In einem Benchmark fand ein einzelner Agent maximal 27 von 70 versteckten Code-Fehlern, der Multi-Agenten-Workflow konstant 66. Der Artikel Claudes …",
-   "link": "https://the-decoder.de/claudes-dynamische-workflows-lassen-bis-zu-1000-agenten-gleichzeitig-an-einer-aufgabe-arbeiten/",
-   "published": "2026-10-09T18:22:25+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-16T18:22:25+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/08/anthropic_claude.png"
-  },
-  {
-   "id": "n381e004c4e",
-   "topic": "politik",
-   "title": "Bericht - Regierungskoalition einigt sich offenbar auf Regelung für Steuer auf zuckerhaltige Getränke",
-   "text": "Die Regierungskoalition hat sich einem Bericht zufolge auf einen Kompromiss über die Einführung einer Steuer auf zuckerhaltige Getränke geeinigt.",
-   "link": "https://www.deutschlandfunk.de/regierungskoalition-einigt-sich-offenbar-auf-regelung-fuer-steuer-auf-zuckerhaltige-getraenke-100.html",
-   "published": "2026-10-09T18:19:30+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-11T18:19:30+00:00",
-   "img": "https://bilder.deutschlandfunk.de/FI/LE/_5/c5/FILE_5c502a3ee0c1d955199ad5457e0dfd19/imago78066294h-169-jpg-100-768x768.jpg"
-  },
-  {
-   "id": "n0602d16c48",
-   "topic": "politik",
-   "title": "Automobilindustrie - EU und China einigen sich auf Drosselung chinesischer Hybridauto-Exporte",
-   "text": "Die EU und China haben sich auf eine Drosselung chinesischer Exporte von Hybrid-Autos verständigt. Das teilte EU-Handelskommissar Šefčovič nach Verhandlungen in Peking mit. Über die nächsten vier Jahre sollen mehrere Millionen weniger Hybrid- und Plug-in-Hybrid-Autos nach Europa ausgeführt werden.",
-   "link": "https://www.deutschlandfunk.de/eu-und-china-einigen-sich-auf-drosselung-chinesischer-hybridauto-exporte-100.html",
-   "published": "2026-10-09T18:19:30+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-11T18:19:30+00:00",
-   "img": "https://bilder.deutschlandfunk.de/03/2c/b9/75/032cb975-3750-4aa9-9891-acf3278ffce1/china-elektroauto-transport-100-1920x1920.jpg"
-  },
-  {
-   "id": "n94e6ace61d",
-   "topic": "politik",
-   "title": "Von AliExpress bis Temu - Umsätze asiatischer Shoppingplattformen brechen ein",
-   "text": "Die asiatischen Plattformen Shein, Temu und AliExpress haben in Deutschland in den vergangenen Monaten deutlich weniger umgesetzt.",
-   "link": "https://www.deutschlandfunk.de/umsaetze-asiatischer-shoppingplattformen-brechen-ein-100.html",
-   "published": "2026-10-09T18:19:30+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-11T18:19:30+00:00",
-   "img": "https://bilder.deutschlandfunk.de/NO/VA/_2/1c/NOVA_21c99febf4f6f7359d155903294e639e/craft-13165959-asset-100-1920x1920.jpg"
   }
  ]
 }
