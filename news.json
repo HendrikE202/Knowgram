@@ -1,55 +1,581 @@
 {
- "generated": "2026-10-13T02:36:36.703552+00:00",
+ "generated": "2026-10-13T10:37:14.830972+00:00",
  "briefing": [
-  "nf0861d1b3e",
-  "n5298d0fcdd",
+  "nad8374bd57",
   "n8dec14bed4",
-  "n1c33f1f469",
+  "n896d1a7851",
+  "nfe2d2cf172",
   "nc916851f20",
-  "ne64f49d9af",
-  "n7298ee53f2",
-  "nd4d6772cab",
-  "nf62ddbffdb"
+  "na588f01980",
+  "nb7bb121578",
+  "nc938c9b034",
+  "n54e4f07c06",
+  "ndad187a53e"
  ],
  "ranked": [
   {
-   "id": "nf0861d1b3e",
-   "s": 38.6
-  },
-  {
-   "id": "n5298d0fcdd",
-   "s": 38.0
+   "id": "nad8374bd57",
+   "s": 34.3
   },
   {
    "id": "n8dec14bed4",
-   "s": 32.8
+   "s": 30.8
   },
   {
-   "id": "n1c33f1f469",
-   "s": 29.8
+   "id": "n896d1a7851",
+   "s": 29.0
+  },
+  {
+   "id": "nfe2d2cf172",
+   "s": 28.0
   },
   {
    "id": "nc916851f20",
-   "s": 29.1
+   "s": 27.1
   },
   {
-   "id": "ne64f49d9af",
+   "id": "na588f01980",
+   "s": 23.0
+  },
+  {
+   "id": "nb7bb121578",
    "s": 22.9
   },
   {
-   "id": "n7298ee53f2",
-   "s": 21.3
+   "id": "nc938c9b034",
+   "s": 22.9
   },
   {
-   "id": "nd4d6772cab",
-   "s": 19.0
+   "id": "n54e4f07c06",
+   "s": 22.9
   },
   {
-   "id": "nf62ddbffdb",
-   "s": 16.2
+   "id": "ndad187a53e",
+   "s": 22.4
+  },
+  {
+   "id": "n4bab9e31a4",
+   "s": 22.3
+  },
+  {
+   "id": "nc2e163ac3d",
+   "s": 22.3
+  },
+  {
+   "id": "n725f181500",
+   "s": 22.1
+  },
+  {
+   "id": "ne7e6b25a9c",
+   "s": 22.0
+  },
+  {
+   "id": "n3f8b656a0b",
+   "s": 21.2
+  },
+  {
+   "id": "ne64f49d9af",
+   "s": 20.9
+  },
+  {
+   "id": "n5e91e78545",
+   "s": 20.9
   }
  ],
  "items": [
+  {
+   "id": "n91275eb505",
+   "topic": "wissenschaft",
+   "title": "Quantenrekord: Erstmals bewegen Quantenkräfte ein zentimetergroßes Objekt",
+   "text": "Die Quantenwelt gilt als Reich der allerkleinsten Teilchen. Jetzt haben Forschende einen Quanteneffekt an einem Gegenstand nachgewiesen, der mit bloßem Auge sichtbar ist.",
+   "link": "https://www.spektrum.de/news/erstmals-bewegen-quantenkraefte-ein-zentimetergrosses-objekt/2349509",
+   "published": "2026-10-13T11:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-27T11:00:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/True_color_photo_of_levitating_diamond.png.8416663.png?f=1280x720"
+  },
+  {
+   "id": "na588f01980",
+   "topic": "welt",
+   "title": "Mindestens fünf Tote durch Wirbelstürme in Mexiko",
+   "text": "Das Klimaphänomen El Niño führt in dieser Saison zu besonders vielen Wirbelstürmen im Pazifik. Nun haben der Wirbelsturm \"Simon\" und der Hurrikan \"Rachel\" in Mexiko erste Opfer gefordert.",
+   "link": "https://www.dw.com/de/mindestens-fünf-tote-durch-wirbelstürme-in-mexiko/a-79648930?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-13T10:36:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-17T10:36:00+00:00",
+   "img": "https://static.dw.com/image/79649122_302.jpg"
+  },
+  {
+   "id": "na98792a749",
+   "topic": "politik",
+   "title": "News zu Eintracht Frankfurt",
+   "text": "Hier bekommen Sie immer die neuesten Nachrichten über Eintracht Frankfurt.",
+   "link": "https://www.hessenschau.de/sport/fussball/eintracht-frankfurt/eintracht-frankfurt-news-ticker-alle-fit-auch-maluze-im-training,bundesliga-ticker-104.html",
+   "published": "2026-10-13T10:33:06+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T10:33:06+00:00",
+   "img": "https://www.hessenschau.de/sport/fussball/eintracht-frankfurt/maluze-108~_t-1788506464392_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "nb19742370a",
+   "topic": "it",
+   "title": "Anthropic warnt: Unsichere IoT-Geräte können KI-Würmer verbreiten",
+   "text": "Laut Tests von Anthropic reichen auch leistungsschwache Geräte wie Android-TV-Boxen aus, damit sich KI autonom ausbreiten kann. ( KI , Security )",
+   "link": "https://www.golem.de/news/anthropic-warnt-unsichere-iot-geraete-koennen-ki-wuermer-verbreiten-2610-214047.html",
+   "published": "2026-10-13T10:27:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-18T10:27:02+00:00",
+   "img": "https://www.golem.de/2610/214047-603138-603134_rc.jpg"
+  },
+  {
+   "id": "n821dfbfd54",
+   "topic": "nfl",
+   "title": "With 210 yards passing and 121 rushing, Josh Allen had his fourth career double-triple",
+   "text": "Allen reached triple-digit yardage in two statistical categories for the fourth time.",
+   "link": "https://sports.yahoo.com/articles/210-yards-passing-121-rushing-102701100.html",
+   "published": "2026-10-13T10:27:01+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-18T10:27:01+00:00"
+  },
+  {
+   "id": "ncadf558194",
+   "topic": "politik",
+   "title": "Rede in Berlin - \"Ich habe nicht die Absicht, der Liebling der Nation zu werden\": Merz wirbt auf Arbeitgebertag für Reformen - vor allem bei jungen Leuten",
+   "text": "Zum Auftakt des Arbeitgebertages in Berlin hat auch Bundeskanzler Merz gesprochen. In seiner Rede ging es um die anstehenden Reformen der Sozialversicherungssysteme und dabei insbesondere um die Zukunft der Rente. Der Kanzler äußerte sich aber auch explizit zu seinen Umfragewerten.",
+   "link": "https://www.deutschlandfunk.de/ich-habe-nicht-die-absicht-der-liebling-der-nation-zu-werden-merz-wirbt-auf-arbeitgebertag-fuer-refo-100.html",
+   "published": "2026-10-13T10:24:43+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-15T10:24:43+00:00",
+   "img": "https://bilder.deutschlandfunk.de/93/da/14/b6/93da14b6-225e-4f2d-b65b-9b08995cb437/bundeskanzler-merz-deutscher-arbeitgebertag-bdaentwicklung-politik-wirtschaft-100-1920x1920.jpg"
+  },
+  {
+   "id": "nb7bb121578",
+   "topic": "politik",
+   "title": "Nach Bas-Rücktritt - Pistorius will nicht als SPD-Chef antreten",
+   "text": "Verteidigungsminister Pistorius hat eine Kandidatur als SPD-Vorsitzender beim anstehenden Parteitag ausgeschlossen.",
+   "link": "https://www.deutschlandfunk.de/pistorius-will-nicht-als-spd-chef-antreten-100.html",
+   "published": "2026-10-13T10:24:43+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-15T10:24:43+00:00",
+   "img": "https://bilder.deutschlandfunk.de/11/fc/12/a6/11fc12a6-d014-435f-bbfa-cb04448ef273/boris-pistorius-verteidigungsminister-106-1920x1920.jpg"
+  },
+  {
+   "id": "na7e1a68678",
+   "topic": "politik",
+   "title": "US-Hinrichtung - Auch Australien will Livestream verhindern",
+   "text": "Die Pläne der US-Regierung, die Hinrichtung eines verurteilten Attentäters live im Internet zu übertragen, stoßen weiter auf internationale Kritik.",
+   "link": "https://www.deutschlandfunk.de/auch-australien-will-livestream-verhindern-100.html",
+   "published": "2026-10-13T10:24:43+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-15T10:24:43+00:00",
+   "img": "https://bilder.deutschlandfunk.de/e6/1d/0b/fc/e61d0bfc-a7da-447b-8d65-ee188a20ae11/albanese-102-1920x1920.jpg"
+  },
+  {
+   "id": "nf08f7ee85f",
+   "topic": "politik",
+   "title": "Fußballweltverband - Millionenzahlung nicht deklariert, FIFA-Büro im Trump Tower kaum genutzt? Neue Vorwürfe gegen FIFA-Präsident Infantino",
+   "text": "Gegen FIFA-Präsident Infantino sind weitere Vorwürfe laut geworden. Nach einem Medienbericht soll er 2024 zusätzlich zu seinem offiziellen Gehalt eine Millionenzahlung von der WM-Organisation FWC2026 erhalten haben. Für Diskussionen sorgt zudem ein teures Büro des Weltverbandes im New Yorker Trump Tower.",
+   "link": "https://www.deutschlandfunk.de/millionenzahlung-nicht-deklariert-fifa-buero-im-trump-tower-kaum-genutzt-neue-vorwuerfe-gegen-fifa-p-100.html",
+   "published": "2026-10-13T10:24:43+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-15T10:24:43+00:00",
+   "img": "https://bilder.deutschlandfunk.de/57/2a/00/8a/572a008a-5072-4931-aff1-c2d884947c08/gianni-infantino-fifa-praesident-102-1920x1920.jpg"
+  },
+  {
+   "id": "nc938c9b034",
+   "topic": "politik",
+   "title": "Antidiskriministerungsbeauftragte - Ataman fordert eine Nationale Wechseljahre-Strategie",
+   "text": "Die Antidiskriminierungsbeauftragte des Bundes, Ataman, plädiert für eine Nationale Wechseljahre-Strategie.",
+   "link": "https://www.deutschlandfunk.de/ataman-fordert-eine-nationale-wechseljahre-strategie-102.html",
+   "published": "2026-10-13T10:24:43+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-15T10:24:43+00:00",
+   "img": "https://bilder.deutschlandfunk.de/18/fc/c9/30/18fcc930-c0a6-4425-a2b9-7e150cf1819b/ferda-ataman-antidiskriminierungsbeauftragte-bundesregierung-100-1920x1920.jpg"
+  },
+  {
+   "id": "n54e4f07c06",
+   "topic": "politik",
+   "title": "Sicherheitskonferenz in Warschau - Bundesaußenminister Wadephul sichert Ukraine erneut deutsche Unterstützung zu",
+   "text": "Bundesaußenminister Wadephul hat vor seiner Abreise nach Polen der Ukraine eine verlässliche Unterstützung zugesichert.",
+   "link": "https://www.deutschlandfunk.de/bundesaussenminister-wadephul-sichert-ukraine-erneut-deutsche-unterstuetzung-zu-102.html",
+   "published": "2026-10-13T10:24:43+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-15T10:24:43+00:00",
+   "img": "https://bilder.deutschlandfunk.de/b4/55/5d/32/b4555d32-4845-416f-8d5c-c74f0a8c209f/bundesaussenminister-wadephul-cdu-polen-warschauer-sicherheitsforum-100-1920x1920.jpg"
+  },
+  {
+   "id": "nc161720c09",
+   "topic": "wissenschaft",
+   "title": "Wasserreinigung: Abfälle des Bierbrauens filtern Bakterien aus dem Wasser",
+   "text": "Bei der Bierherstellung entstehen etliche Nebenprodukte. Eine neue Studie zeigt, wie man den vermeintlichen Abfall als Bakterienfilter wieder nutzbar macht.",
+   "link": "https://www.spektrum.de/news/abfaelle-des-bierbrauens-filtern-bakterien-aus-dem-wasser/2349282",
+   "published": "2026-10-13T10:15:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-27T10:15:00+00:00"
+  },
+  {
+   "id": "n381e82fe65",
+   "topic": "wirtschaft",
+   "title": "Weinlese: Winzer rechnen mit kleinster Ernte seit 2010",
+   "text": "Rund 20 Prozent weniger als im Durchschnitt: Nach dem Ende der Weinlese rechnen die deutschen Winzer mit weniger Wein für dieses Jahr. \"Spitze\" sei hingegen die diesjährige Qualität.",
+   "link": "https://www.tagesschau.de/wirtschaft/weinlese-2026-deutschland-100.html",
+   "published": "2026-10-13T10:13:09+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-16T10:13:09+00:00",
+   "img": "https://images.tagesschau.de/image/4e69de55-5852-4369-ada8-fc8b035845ba/AAABoTQRIyM/AAABnSSvrFg/16x9-big/weinlese-198.jpg?width=1920"
+  },
+  {
+   "id": "nd80fb41167",
+   "topic": "it",
+   "title": "Kryptodiebstahl: Ledger bestätigt Hardware-Implantat in Wallet",
+   "text": "Ledger hat in einem Kundengerät ein nicht autorisiertes Implantat gefunden. Der Händler Cryptobilis stoppt den Verkauf. ( Verschlüsselung , Tron )",
+   "link": "https://www.golem.de/news/kryptodiebstahl-ledger-bestaetigt-hardware-implantat-in-wallet-2610-214036.html",
+   "published": "2026-10-13T10:09:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-18T10:09:01+00:00",
+   "img": "https://www.golem.de/2610/214036-603087-603085_rc.jpg"
+  },
+  {
+   "id": "ne2c151b360",
+   "topic": "it",
+   "title": "iPhone-Mirroring: Noch nützlicher unter iOS 27, aber nicht in der EU",
+   "text": "Seit iOS 18 kann man iPhones vom Mac aus bequem fernsteuern. In iOS 27 und macOS 27 wird das noch nützlicher. Aus Regulierungsgründen aber weiter nicht bei uns.",
+   "link": "https://www.heise.de/news/Nuetzliche-neue-Funktionen-fuer-das-iPhone-Mirroring-EU-bleibt-weiter-draussen-11484882.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-13T10:07:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-18T10:07:00+00:00"
+  },
+  {
+   "id": "n8d25547872",
+   "topic": "nfl",
+   "title": "Fantasy football Start ‘Em, Sit ‘Em: 16 players to start or sit in Week 6",
+   "text": "Four teams, including the Detroit Lions, will be on bye in Week 6. Here are some streamers fantasy football managers can start in their place.",
+   "link": "https://sports.yahoo.com/articles/fantasy-football-start-em-sit-100504692.html",
+   "published": "2026-10-13T10:05:04+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-18T10:05:04+00:00"
+  },
+  {
+   "id": "n26b9bab598",
+   "topic": "it",
+   "title": "heise+ | Apples iPhone Duo: Alles, was Sie vor dem Kauf wissen müssen",
+   "text": "Apples erstes Foldable ist eine Zäsur für das iPhone. Was es von anderen abhebt und wann ein Klapp-Smartphone überhaupt Sinn ergibt.",
+   "link": "https://www.heise.de/hintergrund/Apples-iPhone-Duo-Alles-was-Sie-vor-dem-Kauf-wissen-muessen-11475057.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+   "published": "2026-10-13T10:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-18T10:00:00+00:00"
+  },
+  {
+   "id": "na873b82b32",
+   "topic": "it",
+   "title": "„Castlevania: Belmont’s Curse“ ist ein schaurig schöner Tanz auf tausend Klingen",
+   "text": "Knackige Rätsel, fordernde Bosse und eine packende Gruselatmosphäre: „Castlevania“ ist zurück und besser denn je.",
+   "link": "https://www.heise.de/tests/Castlevania-Belmont-s-Curse-ist-ein-schaurig-schoener-Tanz-auf-tausend-Klingen-11485707.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-13T09:57:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-18T09:57:00+00:00"
+  },
+  {
+   "id": "n9a9eef8f98",
+   "topic": "wirtschaft",
+   "title": "Marktbericht: Anleger bleiben zuversichtlich",
+   "text": "Trotz der schwierigen geostrategischen Lage behauptet sich der DAX zum Handelsstart auf hohem Niveau - und legt sogar zu. Die Anleger erwarten nun den Beginn der US-Berichtssaison der Unternehmen.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-116.html",
+   "published": "2026-10-13T09:33:13+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-16T09:33:13+00:00",
+   "img": "https://images.tagesschau.de/image/a8ff5642-3cb8-40d8-942e-38a10780677e/AAABlep13Mg/AAABnSSvrFg/16x9-big/boerse-frankfurt-155.jpg?width=1920"
+  },
+  {
+   "id": "n2d95c1d36e",
+   "topic": "welt",
+   "title": "Spaniens König in Ceuta: Spuren beseitigt, Problem weggeschoben",
+   "text": "Der spanische König besucht für zwei Tage die Enklave Ceuta. Vor seiner Anreise wurden Strände und Straßen geräumt, wo Migranten über Wochen ausgeharrt hatten. Was also wird Felipe VI. in Ceuta sehen können? Von F. Welz.",
+   "link": "https://www.tagesschau.de/ausland/afrika/spanien-marokko-besuch-felipe-ceuta-100.html",
+   "published": "2026-10-13T09:24:42+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-16T09:24:42+00:00",
+   "img": "https://images.tagesschau.de/image/5e72507e-abad-4d04-8ae3-a8908b09c667/AAABoTRig9c/AAABnSSvrFg/16x9-big/aufraeumarbeiten-ceuta-100.jpg?width=1920"
+  },
+  {
+   "id": "n63287d8efc",
+   "topic": "welt",
+   "title": "Schwarzes Meer: Erneut Frachter vor bulgarischer Küste gesunken",
+   "text": "Vor Bulgariens Küste sind wieder Handelsschiffe von Drohnen getroffen worden. Bei dem Angriff sank ein Frachter, mehrere Seeleute werden vermisst. Die bulgarische Regierung verdächtigt Russland und schaltet die NATO ein.",
+   "link": "https://www.tagesschau.de/ausland/europa/drohnenangriff-frachter-schwarzes-meer-100.html",
+   "published": "2026-10-13T09:17:24+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-16T09:17:24+00:00",
+   "img": "https://images.tagesschau.de/image/5ff393af-03ff-428e-992f-0953bad87cf3/AAABoTRngOY/AAABnSSvrFg/16x9-big/bulgarien-264.jpg?width=1920"
+  },
+  {
+   "id": "n353b719cd1",
+   "topic": "wissenschaft",
+   "title": "High-Protein: Gesunder Trend oder Marketing-Trick?",
+   "text": "High-Protein überall – Skyr, Riegel, sogar Kaffee mit extra Protein. Die Kühlregale sind voll davon, aber was steckt wirklich dahinter? Wie viel Protein brauchen wir wirklich?",
+   "link": "https://www.spektrum.de/video/doktor-whatson-high-protein-gesunder-trend-oder-marketing-trick/2349359",
+   "published": "2026-10-13T09:14:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-27T09:14:00+00:00"
+  },
+  {
+   "id": "ndd11a09678",
+   "topic": "nfl",
+   "title": "Prisco's NFL Week 6 Power Rankings: 49ers are league's best team, Packers climb 10 spots",
+   "text": "Pete Prisco shares his latest Power Rankings for the 2026 NFL season, including some big risers and fallers",
+   "link": "https://www.cbssports.com/nfl/news/priscos-nfl-week-6-power-rankings-49ers-packers/",
+   "published": "2026-10-13T09:00:45+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-18T09:00:45+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/13/278dca32-97bb-4029-8e35-42115cd6c86c/shanahan.jpg"
+  },
+  {
+   "id": "n0828d0d538",
+   "topic": "welt",
+   "title": "Nach Sabotage in Polen zwei Festnahmen in Deutschland",
+   "text": "Vor einigen Wochen gab es einen Brandanschlag auf eine Station des Satellitendienstes Starlink in Polen. Nun wurden die mutmaßlichen Saboteure in Baden-Württemberg gefasst. Handelten sie im Auftrag Russlands?",
+   "link": "https://www.dw.com/de/nach-sabotage-in-polen-zwei-festnahmen-in-deutschland/a-79647304?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-13T08:42:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-17T08:42:00+00:00",
+   "img": "https://static.dw.com/image/79647373_302.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Brand in Starlink-Station in Polen - Festnahmen in Deutschland",
+     "link": "https://www.tagesschau.de/ausland/polen-starlink-brand-festnahmen-100.html"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "title": "Erfolgreiche Fahndung - Nach Brand von Starlink-Anlage in Polen zwei Tatverdächtige in Deutschland festgenommen",
+     "link": "https://www.deutschlandfunk.de/nach-brand-von-starlink-anlage-in-polen-zwei-tatverdaechtige-in-deutschland-festgenommen-100.html"
+    }
+   ]
+  },
+  {
+   "id": "ne5208aceeb",
+   "topic": "wissenschaft",
+   "title": "Wechseljahre verändern Körper laut neuer Studie früher als gedacht",
+   "text": "Hitzewallungen, Schlafstörungen oder Gewichtszunahme - die Symptome der Wechseljahre sind vielfältig. Eine neue Studie zeigt nun: Diese Phase beginnt viel früher als gedacht und bringt massive Veränderungen mit sich. Von Veronika Simon.",
+   "link": "https://www.tagesschau.de/wissen/gesundheit/menopause-koerper-veraenderungen-100.html",
+   "published": "2026-10-13T08:34:21+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-27T08:34:21+00:00",
+   "img": "https://images.tagesschau.de/image/7a1099b6-c762-4be2-8402-0527b3663748/AAABoTRS0qc/AAABnSSvrFg/16x9-big/frau-arzt-100.jpg?width=1920"
+  },
+  {
+   "id": "n67cb05b4c1",
+   "topic": "ki",
+   "title": "Anthropic-Studie warnt: Kleine KI-Modelle könnten sich bald autonom über Alltagsgeräte replizieren",
+   "text": "Laut einer Anthropic-Studie könnten sich kleine KI-Modelle bald autonom über schlecht gesicherte Alltagsgeräte wie Smart-TVs oder Staubsaugerroboter replizieren. In Tests schaffte bereits ein Modell die vollständige Infektionskette. CEO Dario Amodei warnt zuvor schon vor einem dauerhaften Internet-Botnet mit Schäden …",
+   "link": "https://the-decoder.de/anthropic-studie-warnt-kleine-ki-modelle-koennten-sich-bald-autonom-ueber-alltagsgeraete-replizieren/",
+   "published": "2026-10-13T08:23:28+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-20T08:23:28+00:00"
+  },
+  {
+   "id": "n7e69c12c54",
+   "topic": "politik",
+   "title": "CDU fordert Tempo vom neuen Arbeitsminister Schweitzer",
+   "text": "Alexander Schweitzer tritt heute seinen neuen Job als Arbeitsminister an. Zeit, sich einzufinden, wird ihm kaum bleiben - denn die CDU drückt aufs Gas. Auf ihn kommen Reformen zu, bei denen sich die Koalitionspartner nicht einig sind.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-tempo-reformen-koalition-100.html",
+   "published": "2026-10-13T08:22:44+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-16T08:22:44+00:00",
+   "img": "https://images.tagesschau.de/image/baee6c9e-111f-4bef-b47a-6742f2dddf9e/AAABoTRYBu4/AAABnSSvrFg/16x9-big/schweitzer-166.jpg?width=1920"
+  },
+  {
+   "id": "ndad187a53e",
+   "topic": "welt",
+   "title": "Iran: Machtkämpfe inmitten der Krise",
+   "text": "Hardliner erhöhen den Druck auf Irans Regierung und fordern die Amtsenthebung von Außenminister Araghtschi. Auch der Rücktritt des Ölministers bietet Präsident Peseschkian keine Entlastung.",
+   "link": "https://www.dw.com/de/iran-machtkämpfe-inmitten-der-krise/a-79640437?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-13T08:17:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-17T08:17:00+00:00",
+   "img": "https://static.dw.com/image/79638716_302.jpg"
+  },
+  {
+   "id": "nc2e163ac3d",
+   "topic": "welt",
+   "title": "Kurz vor Zwischenwahlen: Durchsuchung bei Trump-Kritikerin Omar",
+   "text": "Erst lässt die US-Justiz Ilhan Omars Haus durchsuchen, dann beschimpft der Präsident die demokratische Abgeordnete aufgrund ihrer Herkunft. Sie ist nicht zum ersten Mal Trumps Attacken ausgesetzt und spricht von politischer Einschüchterung.",
+   "link": "https://www.tagesschau.de/ausland/amerika/usa-ilhan-omar-durchsuchung-100.html",
+   "published": "2026-10-13T07:57:41+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-16T07:57:41+00:00",
+   "img": "https://images.tagesschau.de/image/592e112b-0d16-4da2-8f37-671047ff649b/AAABoTPmV6c/AAABnSSvrFg/16x9-big/omar-106.jpg?width=1920"
+  },
+  {
+   "id": "nac36f80339",
+   "topic": "wirtschaft",
+   "title": "Update Wirtschaft vom 13.10.2026",
+   "text": "Update Wirtschaft vom 13.10.2026",
+   "link": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1665282.html",
+   "published": "2026-10-13T07:48:13+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-16T07:48:13+00:00",
+   "img": "https://images.tagesschau.de/image/b4c9c59c-c044-4c42-ad28-ed14edfb5d22/AAABoTQ7slI/AAABnSSvrFg/16x9-big/sendungsbild-1810642.jpg?width=1920",
+   "also": [
+    {
+     "source": "Spektrum der Wissenschaft",
+     "title": "Nobelpreis für Wirtschaft 2026: Wie man Wirtschaftskrisen abmildert",
+     "link": "https://www.spektrum.de/news/nobelpreis-fuer-wirtschaft-2026-fuer-robert-hall-und-michael-woodford/2349374"
+    }
+   ]
+  },
+  {
+   "id": "n725f181500",
+   "topic": "welt",
+   "title": "News kompakt: Cyberangriff legt Kühlanlagen in Frankreich lahm",
+   "text": "In französischen Supermärkten müssen nach einem Hackerangriff zahlreiche Lebensmittel entsorgt werden. Der IWF erwartet für Deutschland mehr Wirtschaftswachstum. Der DW-Nachrichtenüberblick.",
+   "link": "https://www.dw.com/de/news-kompakt-cyberangriff-legt-kühlanlagen-in-frankreich-lahm/a-79646816?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-13T07:00:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-17T07:00:00+00:00",
+   "img": "https://static.dw.com/image/79645567_302.jpg"
+  },
+  {
+   "id": "ne7e6b25a9c",
+   "topic": "welt",
+   "title": "Wehrt sich Europa gegen die US-Sanktionen gegen das Weltstrafgericht?",
+   "text": "Die US-Sanktionen gegen den Internationalen Strafgerichtshof werden als Angriff auf das Völkerrecht kritisiert. Sie wirken sich auch direkt auf Tätigkeiten in der EU aus. In Europa wächst die Forderung, das nicht länger zu tolerieren. Von J.-M. Magro.",
+   "link": "https://www.tagesschau.de/ausland/europa/eu-istgh-us-sanktionen-100.html",
+   "published": "2026-10-13T06:36:11+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-16T06:36:11+00:00",
+   "img": "https://images.tagesschau.de/image/bf15d8c9-9431-4551-b23e-07ee40b0a12f/AAABoTP1tpU/AAABnSSvrFg/16x9-big/istgh-122.jpg?width=1920"
+  },
+  {
+   "id": "nce0d658feb",
+   "topic": "nfl",
+   "title": "Rams left tackle throws punch at Bills' Bradley Chubb following Buffalo's stunning Monday night win",
+   "text": "Alaric Jackson hit the Bills' pass-rusher with an apparent sucker-punch following Buffalo's wild Monday night win",
+   "link": "https://www.cbssports.com/nfl/news/rams-left-tackle-punches-bills-bradley-chubb-mnf/",
+   "published": "2026-10-13T05:56:26+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-18T05:56:26+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/13/a997c0f6-d13a-4607-b195-fd4589a6045d/chubb.jpg"
+  },
+  {
+   "id": "n44f6a9b0c9",
+   "topic": "welt",
+   "title": "Frankreich: Glucksmanns Linke sucht die junge Generation",
+   "text": "Raphaël Glucksmann will Frankreichs Linke ohne den Linkspopulisten Jean-Luc Mélenchon zurück an die Macht führen. Doch der Rivale ist gerade bei jungen Wählern stark. Wie kann der Vorwahlsieger sie für sich gewinnen?",
+   "link": "https://www.dw.com/de/frankreich-glucksmanns-linke-sucht-die-junge-generation/a-79643028?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-13T05:56:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-17T05:56:00+00:00",
+   "img": "https://static.dw.com/image/79643501_302.jpg"
+  },
+  {
+   "id": "n19c59956c7",
+   "topic": "welt",
+   "title": "Auftakt der Haushaltsdebatte: \"Frankreich steht finanziell mit dem Rücken zur Wand\"",
+   "text": "In Frankreich beginnen heute die Haushaltsberatungen für das kommende Jahr. Die Regierung will kräftig sparen, um das Defizit zu reduzieren. Ein halbes Jahr vor der Präsidentenwahl dürfte die Debatte hitzig werden. Von C. Dylla.",
+   "link": "https://www.tagesschau.de/ausland/europa/frankreich-haushaltsdebatte-100.html",
+   "published": "2026-10-13T05:37:12+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-16T05:37:12+00:00",
+   "img": "https://images.tagesschau.de/image/5d0efb1c-30be-422f-8af6-94c7c66e44fe/AAABoTFFW6A/AAABnSSvrFg/16x9-big/nationalversammlung-108.jpg?width=1920"
+  },
+  {
+   "id": "n024acaa4c8",
+   "topic": "welt",
+   "title": "Neue Schülerproteste: Wie ein Brandbeschleuniger in Frankreichs Krise",
+   "text": "Dass Demonstrationen eskalieren, kennt Frankreich. Doch das Ausmaß der Schülerproteste übertrifft frühere Bewegungen deutlich. Das zeigt, wie tief das Land gespalten ist. Heute soll erneut protestiert werden. Von Julia Borutta.",
+   "link": "https://www.tagesschau.de/ausland/europa/frankreich-neue-schuelerproteste-100.html",
+   "published": "2026-10-13T05:37:06+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-16T05:37:06+00:00",
+   "img": "https://images.tagesschau.de/image/1c81321c-4b7d-42aa-8f14-8d4383ae40fe/AAABoTAq0Ek/AAABnSSvrFg/16x9-big/schuelerproteste-frankreich-110.jpg?width=1920"
+  },
+  {
+   "id": "n3f8b656a0b",
+   "topic": "wirtschaft",
+   "title": "IWF hebt Prognose für deutsche Wirtschaft deutlich an",
+   "text": "Fast doppelt so stark wie bislang erwartet: Der Internationale Währungsfonds hebt die Wirtschaftsprognose für Deutschland auf 1,3 Prozent an. Für die Weltwirtschaft gibt es eine kleine Änderung.",
+   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-prognose-deutschland-104.html",
+   "published": "2026-10-13T03:30:15+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-16T03:30:15+00:00",
+   "img": "https://images.tagesschau.de/image/34c67ff2-d7d1-4178-b0a5-8034896526ef/AAABoTMrdBo/AAABnSSvrFg/16x9-big/containerterminal-hamburg-100.jpg?width=1920"
+  },
   {
    "id": "ne64f49d9af",
    "topic": "politik",
@@ -154,7 +680,7 @@
    "id": "n8dec14bed4",
    "topic": "politik",
    "title": "Rücktritt von Bärbel Bas: Neue Hoffnung für Koalition?",
-   "text": "Ist der Rücktritt von Bärbel Bas eine Chance für einen Neuanfang in der Koalition? Kanzler Merz verspricht sich einiges von Schweitzer - doch sicher ist nichts im politischen Berlin. Von Dagmar Pepping.",
+   "text": "Ist der Rücktritt von Bärbel Bas eine Chance für einen Neuanfang in der Koalition? Kanzler Merz verspricht sich einiges vom neuen Arbeitsminister Schweitzer - doch sicher ist nichts im politischen Berlin. Von Dagmar Pepping.",
    "link": "https://www.tagesschau.de/inland/innenpolitik/bas-ruecktritt-koalition-100.html",
    "published": "2026-10-13T01:38:12+00:00",
    "source": "Tagesschau",
@@ -206,8 +732,7 @@
    "source": "Tagesschau",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-16T00:10:57+00:00",
-   "img": "https://images.tagesschau.de/image/4a8659ec-560a-4ac9-a825-4d335211544c/AAABoTKEIyU/AAABnSSvrFg/16x9-big/volkswagen-396.jpg?width=1920"
+   "expires": "2026-10-16T00:10:57+00:00"
   },
   {
    "id": "n4e93688b73",
@@ -300,6 +825,11 @@
    "img": "https://images.tagesschau.de/image/99564836-868b-4c5e-af04-a4d14fe5cb90/AAABoTGpkCE/AAABnSSvrFg/16x9-big/polen-tusk-110.jpg?width=1920",
    "also": [
     {
+     "source": "Deutsche Welle",
+     "title": "Nach Sabotage in Polen zwei Festnahmen in Deutschland",
+     "link": "https://www.dw.com/de/nach-sabotage-in-polen-zwei-festnahmen-in-deutschland/a-79647304?maca=de-rss-de-all-1119-xml-mrss"
+    },
+    {
      "source": "Deutschlandfunk",
      "title": "Erfolgreiche Fahndung - Nach Brand von Starlink-Anlage in Polen zwei Tatverdächtige in Deutschland festgenommen",
      "link": "https://www.deutschlandfunk.de/nach-brand-von-starlink-anlage-in-polen-zwei-tatverdaechtige-in-deutschland-festgenommen-100.html"
@@ -357,6 +887,11 @@
    "expires": "2026-10-14T19:45:48+00:00",
    "img": "https://bilder.deutschlandfunk.de/a7/0e/a3/20/a70ea320-6631-4b17-9998-6abb0396fda3/starlink-ukraine-102-1920x1920.jpg",
    "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Nach Sabotage in Polen zwei Festnahmen in Deutschland",
+     "link": "https://www.dw.com/de/nach-sabotage-in-polen-zwei-festnahmen-in-deutschland/a-79647304?maca=de-rss-de-all-1119-xml-mrss"
+    },
     {
      "source": "Tagesschau",
      "title": "Brand in Starlink-Station in Polen - Festnahmen in Deutschland",
@@ -649,8 +1184,8 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Wirtschaft vor acht vom 12.10.2026",
-     "link": "https://www.tagesschau.de/video/video-1665082.html"
+     "title": "Update Wirtschaft vom 13.10.2026",
+     "link": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1665282.html"
     }
    ]
   },
@@ -684,11 +1219,6 @@
      "source": "Deutsche Welle",
      "title": "Angriffe trotz \"Energie-Waffenruhe\" in der Ukraine",
      "link": "https://www.dw.com/de/angriffe-trotz-energie-waffenruhe-in-der-ukraine/a-79637337?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Deutschlandfunk",
-     "title": "Krieg gegen die Ukraine - Selenskyj erklärt Bereitschaft zu Neuwahlen im Falle einer 60-tägigen Waffenruhe mit Moskau",
-     "link": "https://www.deutschlandfunk.de/selenskyj-erklaert-bereitschaft-zu-neuwahlen-im-falle-einer-60-taegigen-waffenruhe-mit-moskau-110.html"
     }
    ]
   },
@@ -768,14 +1298,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-15T13:39:31+00:00",
-   "img": "https://images.tagesschau.de/image/c17c1b9f-6ab3-4be1-a183-17929691b4a9/AAABnIpC4o8/AAABnSSvrFg/16x9-big/zucker-softdrink-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Brief an Kanzler - Kritik aus den Bundesländern: Landwirtschaftsminister der Union gegen eine Zuckersteuer",
-     "link": "https://www.deutschlandfunk.de/kritik-aus-den-bundeslaendern-landwirtschaftsminister-der-union-gegen-eine-zuckersteuer-102.html"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/c17c1b9f-6ab3-4be1-a183-17929691b4a9/AAABnIpC4o8/AAABnSSvrFg/16x9-big/zucker-softdrink-100.jpg?width=1920"
   },
   {
    "id": "n04af0c742c",
@@ -963,11 +1486,6 @@
      "source": "Tagesschau",
      "title": "Bärbel Bas tritt als Arbeitsministerin und SPD-Vorsitzende zurück",
      "link": "https://www.tagesschau.de/inland/innenpolitik/ruecktritt-bas-100.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Bärbel Bas tritt als Ministerin und SPD-Chefin zurück - News kompakt: Das Wichtigste kurz gefasst",
-     "link": "https://www.dw.com/de/bärbel-bas-tritt-als-ministerin-und-spd-chefin-zurück-news-kompakt-das-wichtigste-kurz-gefasst/a-79635079?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -1177,11 +1695,6 @@
      "source": "Deutschlandfunk",
      "title": "Politik - SPD-Politikerin Bärbel Bas tritt als Parteichefin und Bundesarbeitsministerin zurück",
      "link": "https://www.deutschlandfunk.de/spd-politikerin-baerbel-bas-tritt-als-parteichefin-und-bundesarbeitsministerin-zurueck-104.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Bärbel Bas tritt als Ministerin und SPD-Chefin zurück - News kompakt: Das Wichtigste kurz gefasst",
-     "link": "https://www.dw.com/de/bärbel-bas-tritt-als-ministerin-und-spd-chefin-zurück-news-kompakt-das-wichtigste-kurz-gefasst/a-79635079?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -1202,11 +1715,6 @@
      "source": "Tagesschau",
      "title": "Krieg gegen die Ukraine: Von \"Energie-Waffenruhe\" keine Spur",
      "link": "https://www.tagesschau.de/ausland/europa/ukraine-energie-waffenruhe-100.html"
-    },
-    {
-     "source": "Deutschlandfunk",
-     "title": "Krieg gegen die Ukraine - Selenskyj erklärt Bereitschaft zu Neuwahlen im Falle einer 60-tägigen Waffenruhe mit Moskau",
-     "link": "https://www.deutschlandfunk.de/selenskyj-erklaert-bereitschaft-zu-neuwahlen-im-falle-einer-60-taegigen-waffenruhe-mit-moskau-110.html"
     }
    ]
   },
@@ -1235,565 +1743,6 @@
    "lang": "de",
    "expires": "2026-10-15T08:33:32+00:00",
    "img": "https://images.tagesschau.de/image/565d557c-aa35-4ab5-9edd-48ca753a5241/AAABoS7mxBg/AAABnSSvrFg/16x9-big/kallas-208.jpg?width=1920"
-  },
-  {
-   "id": "n11043e9b62",
-   "topic": "wirtschaft",
-   "title": "Was hinter der aktuellen Euro-Schwäche steckt",
-   "text": "Politische Unsicherheiten in Frankreich und Spanien bringen den Euro unter Druck. Dazu kommen Sorgen wegen der hohen Staatsschulden in Europa. Was bedeutet das für Europas Gemeinschaftswährung? Von Claudia Wehrle.",
-   "link": "https://www.tagesschau.de/wirtschaft/devisen-euroschwaeche-100.html",
-   "published": "2026-10-12T08:17:50+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-15T08:17:50+00:00",
-   "img": "https://images.tagesschau.de/image/b3247049-de79-4e55-abd6-b653a34c1567/AAABoRrMg6Q/AAABnSSvrFg/16x9-big/euro-322.jpg?width=1920"
-  },
-  {
-   "id": "n6d0678f2c4",
-   "topic": "welt",
-   "title": "Weltliteratur: 125 Jahre \"Buddenbrooks. Verfall einer Familie\" von Thomas Mann",
-   "text": "Erfolg, Pflichtgefühl und der Druck, Erwartungen zu erfüllen: In den \"Buddenbrooks\" erzählt Thomas Mann vom Zerbrechen einer Familie. Ein Roman, der nichts von seiner Aktualität verloren hat.",
-   "link": "https://www.dw.com/de/weltliteratur-125-jahre-buddenbrooks-verfall-einer-familie-von-thomas-mann/a-43060864?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-12T08:02:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-16T08:02:00+00:00",
-   "img": "https://static.dw.com/image/19461103_302.jpg"
-  },
-  {
-   "id": "n809c255662",
-   "topic": "wissenschaft",
-   "title": "Influenza: Grippesaison könnte dieses Jahr besonders früh beginnen",
-   "text": "Die Influenzafälle auf der Nordhalbkugel steigen bereits Wochen früher als üblich. Zudem dominiert ein Virus mit einer Mutation, die Fachleuten Sorgen bereitet.",
-   "link": "https://www.spektrum.de/news/influenza-die-grippesaison-koennte-ungewoehnlich-frueh-beginnen/2348574",
-   "published": "2026-10-12T08:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-10-26T08:00:00+00:00"
-  },
-  {
-   "id": "nc412d83be1",
-   "topic": "wirtschaft",
-   "title": "Update Wirtschaft vom 12.10.2026",
-   "text": "Update Wirtschaft vom 12.10.2026",
-   "link": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1664688.html",
-   "published": "2026-10-12T07:52:59+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-15T07:52:59+00:00",
-   "img": "https://images.tagesschau.de/image/54b1f61d-b614-4408-9ec3-708a24c9f379/AAABoS8Zs5M/AAABnSSvrFg/16x9-big/sendungsbild-1810172.jpg?width=1920",
-   "also": [
-    {
-     "source": "Spektrum der Wissenschaft",
-     "title": "Nobelpreis für Wirtschaft 2026: Wie man Wirtschaftskrisen abmildert",
-     "link": "https://www.spektrum.de/news/nobelpreis-fuer-wirtschaft-2026-fuer-robert-hall-und-michael-woodford/2349374"
-    }
-   ]
-  },
-  {
-   "id": "n3db4d5a137",
-   "topic": "welt",
-   "title": "Bärbel Bas tritt als Ministerin und SPD-Chefin zurück - News kompakt: Das Wichtigste kurz gefasst",
-   "text": "Die Bundesarbeitsministerin und SPD-Chefin sorgt für einen Paukenschlag im politischen Berlin. Angriffe der proiranischen Huthi-Miliz haben erhebliche Auswirkungen auf den Flugverkehr. Der DW-Nachrichtenüberblick.",
-   "link": "https://www.dw.com/de/bärbel-bas-tritt-als-ministerin-und-spd-chefin-zurück-news-kompakt-das-wichtigste-kurz-gefasst/a-79635079?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-12T07:00:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-16T07:00:00+00:00",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Politik - SPD-Politikerin Bärbel Bas tritt als Parteichefin und Bundesarbeitsministerin zurück",
-     "link": "https://www.deutschlandfunk.de/spd-politikerin-baerbel-bas-tritt-als-parteichefin-und-bundesarbeitsministerin-zurueck-104.html"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Bärbel Bas tritt als Arbeitsministerin und SPD-Vorsitzende zurück",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/ruecktritt-bas-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n5298d0fcdd",
-   "topic": "welt",
-   "title": "Russland greift trotz angeblicher \"Energie-Waffenruhe\" weiter Anlagen an",
-   "text": "Russland hat erneut Energieanlagen angegriffen. Die Attacken erfolgten nach der Verkündung einer \"Energie-Waffenruhe\" zwischen Kiew und Moskau durch US-Präsident Trump - die bislang von beiden Seiten nicht bestätigt wurde.",
-   "link": "https://www.tagesschau.de/ausland/amerika/trump-russland-ukraine-energie-waffenrufe-102.html",
-   "published": "2026-10-12T06:38:55+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-15T06:38:55+00:00",
-   "img": "https://images.tagesschau.de/image/16b64033-9463-4382-876c-7c6c79d3c93f/AAABoSyXu9k/AAABnSSvrFg/16x9-big/angriff-kiew-138.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Angriffe trotz \"Energie-Waffenruhe\" in der Ukraine",
-     "link": "https://www.dw.com/de/angriffe-trotz-energie-waffenruhe-in-der-ukraine/a-79637337?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Deutschlandfunk",
-     "title": "Krieg gegen die Ukraine - Selenskyj erklärt Bereitschaft zu Neuwahlen im Falle einer 60-tägigen Waffenruhe mit Moskau",
-     "link": "https://www.deutschlandfunk.de/selenskyj-erklaert-bereitschaft-zu-neuwahlen-im-falle-einer-60-taegigen-waffenruhe-mit-moskau-110.html"
-    }
-   ]
-  },
-  {
-   "id": "ndfeea5fd4d",
-   "topic": "politik",
-   "title": "Söder fordert mutmaßliche Abweichler in Sachsen-Anhalt zum Rücktritt auf",
-   "text": "Als CDU-Abgeordneter für die AfD stimmen? Wer das in Sachsen-Anhalt tut, hat für Markus Söder keine Zukunft in der Union. \"Wollt ihr woanders hin? Dann sagt's auch\", so der CSU-Chef bei Caren Miosga.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/soeder-cdu-abweichler-100.html",
-   "published": "2026-10-12T06:08:20+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-15T06:08:20+00:00",
-   "img": "https://images.tagesschau.de/image/95268a2a-5dfe-47b0-9afe-55c5716f695a/AAABoS3pEHY/AAABnSSvrFg/16x9-big/markus-soeder-468.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Sachsen-Anhalt - Söder fordert CDU-Abweichler zu Parteiaustritt auf",
-     "link": "https://www.deutschlandfunk.de/soeder-fordert-cdu-abweichler-zu-parteiaustritt-auf-100.html"
-    }
-   ]
-  },
-  {
-   "id": "nfa83a945fa",
-   "topic": "welt",
-   "title": "US-Senatoren kritisieren Trumps Diesel-Pläne als rechtswidrig",
-   "text": "Der von Präsident Trump angekündigte Import von russischem Diesel in die USA hat weltweit für harsche Kritik gesorgt. Auch im US-Kongress regt sich zunehmend Widerstand - nicht nur auf Seiten der Demokraten.",
-   "link": "https://www.tagesschau.de/ausland/amerika/kritik-diesellieferung-russland-trump-100.html",
-   "published": "2026-10-12T05:40:02+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-15T05:40:02+00:00",
-   "img": "https://images.tagesschau.de/image/4064ddf5-03d5-4087-ac48-e7217bf7916e/AAABm5QNp7c/AAABnSSvrFg/16x9-big/us-kapitol-154.jpg?width=1920"
-  },
-  {
-   "id": "nbd870c9c4d",
-   "topic": "nfl",
-   "title": "Michael Penix Jr. injury: Falcons QB hurts ribs late in regulation on 'SNF,' says he'll be ready for Week 6",
-   "text": "Penix initially only left the game for one play but then couldn't play in overtime",
-   "link": "https://www.cbssports.com/nfl/news/michael-penix-jr-injury-update-falcons-qb-ravens-bears/",
-   "published": "2026-10-12T04:47:52+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-17T04:47:52+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/12/aeb4c52a-9b50-4649-ad3c-53ededcc3761/michael-penix-jr-falcons.jpg"
-  },
-  {
-   "id": "ne48f4d6943",
-   "topic": "welt",
-   "title": "Nordkorea feuert offenbar erneut ballistische Raketen ab",
-   "text": "Die Spannungen auf der koreanischen Halbinsel haben in jüngster Zeit wieder zugenommen. Nun führte Nordkorea laut Angaben aus Südkorea und Japan erneut einen Raketentest durch. Die Geschosse landeten im Meer.",
-   "link": "https://www.tagesschau.de/ausland/asien/suedkorea-nordkorea-raketen-100.html",
-   "published": "2026-10-12T04:39:12+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-15T04:39:12+00:00",
-   "img": "https://images.tagesschau.de/image/41039c4c-7e86-47ac-aaac-53d9024c33c9/AAABoS4jENk/AAABnSSvrFg/16x9-big/suedkorea-fernsehuebertragung-100.jpg?width=1920"
-  },
-  {
-   "id": "nab4934f9cd",
-   "topic": "nfl",
-   "title": "NFL Week 5 grades for every team: Patriots, Packers earn 'A+' while two teams get failing marks",
-   "text": "We're handing out grades for every Week 5 game",
-   "link": "https://www.cbssports.com/nfl/news/nfl-week-5-grades-for-every-team-patriots-packers-bears/",
-   "published": "2026-10-12T04:27:00+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-17T04:27:00+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/11/c196b424-3701-4dfc-94e1-c9a889319254/new-england-patriots.jpg"
-  },
-  {
-   "id": "n023f98c97e",
-   "topic": "politik",
-   "title": "Schneller und einfacher Bauen: Wo bleibt der \"Gebäudetyp E\"?",
-   "text": "Das Bundesbauministerium will zügig für neuen Wohnraum sorgen. Helfen soll der \"Gebäudetyp E\", bei dem auf unnötigen Schnickschnack verzichtet wird. Doch das Gesetz dafür lässt seit Monaten auf sich warten. Von Oliver Neuroth.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/wohnraum-gebaeudetyp-e-gesetz-100.html",
-   "published": "2026-10-12T04:03:36+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-15T04:03:36+00:00",
-   "img": "https://images.tagesschau.de/image/c3d931c8-c581-444b-a8d7-49e9c52cedbc/AAABoS5HvW8/AAABnSSvrFg/16x9-big/wohnungsbau-320.jpg?width=1920"
-  },
-  {
-   "id": "ndbf4d419fb",
-   "topic": "wirtschaft",
-   "title": "Erbschaftsteuer beim Bundesverfassungsgericht auf dem Prüfstand",
-   "text": "Am Bundesverfassungsgericht geht es diese Woche gleich zwei Mal um die Erbschaftsteuer: Karlsruhe verhandelt unter anderem darüber, ob Unternehmenserben zu wenig Steuern zahlen. Von A. Stein und A. Lagmöller.",
-   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/erbschaftssteuer-bundesverfassungsgericht-verhandlung-100.html",
-   "published": "2026-10-12T03:01:19+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-15T03:01:19+00:00",
-   "img": "https://images.tagesschau.de/image/ac8dab74-0b6e-4bbe-b6e3-eddfe327a271/AAABoSZUQlw/AAABnSSvrFg/16x9-big/erbschaftssteuer-186.jpg?width=1920"
-  },
-  {
-   "id": "n92624643f0",
-   "topic": "politik",
-   "title": "Berlin - CDU berät über Wege aus der Krise - Hoppermann: \"Klausur ist keine Wunderwaffe\"",
-   "text": "Die CDU steckt in einer schweren Krise. Die Führungsspitze berät in Berlin zwei Tage lang über die jüngsten Entwicklungen der Partei nach den Landtagswahlen. Auch die Amtsführung des Vorsitzenden und Bundeskanzlers Merz dürfte Thema sein. Zum Auftakt sagte Generalsekretärin Hoppermann, es gehe darum, das Vertrauen in …",
-   "link": "https://www.deutschlandfunk.de/cdu-beraet-ueber-wege-aus-der-krise-hoppermann-klausur-ist-keine-wunderwaffe-102.html",
-   "published": "2026-10-12T00:26:28+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-14T00:26:28+00:00"
-  },
-  {
-   "id": "n22ba5c1b4f",
-   "topic": "politik",
-   "title": "Sachsen-Anhalt - Söder fordert CDU-Abweichler zu Parteiaustritt auf",
-   "text": "Mit Blick auf den Landtag in Sachsen-Anhalt hat CSU-Chef Söder Abweichler in den Reihen der CDU zum Austritt aufgefordert. Wer die AfD wähle, habe bei der Union keine Zukunft, sagte Söder im ARD-Fernsehen.",
-   "link": "https://www.deutschlandfunk.de/soeder-fordert-cdu-abweichler-zu-parteiaustritt-auf-100.html",
-   "published": "2026-10-12T00:26:28+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-14T00:26:28+00:00",
-   "img": "https://bilder.deutschlandfunk.de/7b/fc/24/37/7bfc2437-b075-4786-90be-2ca205e437a9/markus-soeder-124-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Söder fordert mutmaßliche Abweichler in Sachsen-Anhalt zum Rücktritt auf",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/soeder-cdu-abweichler-100.html"
-    }
-   ]
-  },
-  {
-   "id": "nfcd791588a",
-   "topic": "politik",
-   "title": "Großbritannien - Premier Burnham spricht von Einmischung Russlands bei Brexit-Referendum",
-   "text": "Der britische Premierminister Burnham hat als erster Regierungschef seines Landes eine Einmischung Russlands beim Brexit-Referendum vor zehn Jahren bestätigt.",
-   "link": "https://www.deutschlandfunk.de/premier-burnham-spricht-von-einmischung-russlands-bei-brexit-referendum-100.html",
-   "published": "2026-10-12T00:26:28+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-14T00:26:28+00:00",
-   "img": "https://bilder.deutschlandfunk.de/05/fc/ff/b0/05fcffb0-eb5a-4cc6-9c99-d5284e64b606/labour-chef-andy-burnham-100-1920x1920.jpg"
-  },
-  {
-   "id": "nbc855b8317",
-   "topic": "politik",
-   "title": "Krieg gegen die Ukraine - Selenskyj erklärt Bereitschaft zu Neuwahlen im Falle einer 60-tägigen Waffenruhe mit Moskau",
-   "text": "Der ukrainische Präsident Selenskyj hat zurückhaltend auf Äußerungen von US-Präsident Trump reagiert, wonach Kiew und Moskau bis auf Weiteres ihre gegenseitigen Angriffe auf die Energie-Infrastruktur einstellen wollen. Selenskyj sagte mehreren amerikanischen Medien, für ihn sei diese Darstellung neu gewesen. Auch …",
-   "link": "https://www.deutschlandfunk.de/selenskyj-erklaert-bereitschaft-zu-neuwahlen-im-falle-einer-60-taegigen-waffenruhe-mit-moskau-110.html",
-   "published": "2026-10-12T00:26:28+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-14T00:26:28+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Krieg gegen die Ukraine: Von \"Energie-Waffenruhe\" keine Spur",
-     "link": "https://www.tagesschau.de/ausland/europa/ukraine-energie-waffenruhe-100.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Angriffe trotz \"Energie-Waffenruhe\" in der Ukraine",
-     "link": "https://www.dw.com/de/angriffe-trotz-energie-waffenruhe-in-der-ukraine/a-79637337?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "nd7bf878ff4",
-   "topic": "politik",
-   "title": "Klimamarsch in Brüssel - Zehntausende gehen für mehr Klimaschutz auf die Straße",
-   "text": "In Brüssel haben zehntausende Menschen für mehr Klimaschutz demonstriert. Zu der Kundgebung hatten rund hundert Organisationen und Gewerkschaften aufgerufen.",
-   "link": "https://www.deutschlandfunk.de/zehntausende-gehen-fuer-mehr-klimaschutz-auf-die-strasse-108.html",
-   "published": "2026-10-12T00:26:28+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-14T00:26:28+00:00"
-  },
-  {
-   "id": "nd9d4844230",
-   "topic": "politik",
-   "title": "Krieg im Nahen Osten - Ein Toter bei neuem Angriff auf Flughafen von Riad",
-   "text": "Der Flughafen in der saudi-arabischen Hauptstadt Riad ist erneut angegriffen worden.",
-   "link": "https://www.deutschlandfunk.de/ein-toter-bei-neuem-angriff-auf-flughafen-von-riad-104.html",
-   "published": "2026-10-12T00:26:28+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-14T00:26:28+00:00",
-   "img": "https://bilder.deutschlandfunk.de/3d/76/00/b7/3d7600b7-a69f-4559-99c1-98674a487a1b/saudi-arabien-riad-angriff-flughafen-100-1280x1280.jpg"
-  },
-  {
-   "id": "n53aca1ce19",
-   "topic": "nfl",
-   "title": "Three grabs for Josh Downs in Week 5",
-   "text": "Indianapolis Colts WR Josh Downs targeted six times in Week 5",
-   "link": "https://sports.yahoo.com/articles/three-grabs-josh-downs-week-002123653.html",
-   "published": "2026-10-12T00:21:23+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-17T00:21:23+00:00"
-  },
-  {
-   "id": "nc5ff4975f6",
-   "topic": "nfl",
-   "title": "Bears vs. Falcons odds: Opening lines for Week 6 matchup",
-   "text": "Here are some early odds for the Bears and Falcons game in Atlanta.",
-   "link": "https://sports.yahoo.com/articles/bears-vs-falcons-odds-opening-001946806.html",
-   "published": "2026-10-12T00:19:46+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-17T00:19:46+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/a47bac20eadacec2ac8818f0c70d0d68.jpg"
-  },
-  {
-   "id": "n8bc9050f24",
-   "topic": "nfl",
-   "title": "Commanders minority owner Magic Johnson sounds off after stunning end-of-game botch",
-   "text": "Johnson joined Commanders fans in questioning a disastrous final sequence that cost Washington an opportunity to defeat the Giants",
-   "link": "https://www.cbssports.com/nfl/news/commanders-giants-overtime-clock-management-magic-johnson/",
-   "published": "2026-10-11T23:45:51+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-16T23:45:51+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/11/1df8cca7-0ded-48a1-afd9-31f90e13d45f/magic-johnson-commanders.jpg"
-  },
-  {
-   "id": "n659864b55c",
-   "topic": "nfl",
-   "title": "Are the Pack back? Green Bay, Jordan Love erupt in dominant win vs. Bears behind retooled offensive line",
-   "text": "Love's 367 yards passing are the most by a Packers QB vs. the Bears at Lambeau Field in series history",
-   "link": "https://www.cbssports.com/nfl/news/are-the-pack-back-green-bay-jordan-love-erupt-dominant-win-bears/",
-   "published": "2026-10-11T23:40:37+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-16T23:40:37+00:00"
-  },
-  {
-   "id": "ndc2964d9b3",
-   "topic": "welt",
-   "title": "Polizei warnt vor Anschlag auf polnischen Regierungschef Tusk",
-   "text": "Noch ist vieles im Unklaren, aber die Sorge scheint groß. Offenbar hat die polnische Polizei konkrete Hinweise auf Anschlagspläne auf Regierungschef Tusk und Verteidigungsminister Kosiniak-Kamysz. Ein Mann wurde festgenommen.",
-   "link": "https://www.tagesschau.de/ausland/europa/polen-tusk-anschlag-100.html",
-   "published": "2026-10-11T20:11:03+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-14T20:11:03+00:00",
-   "img": "https://images.tagesschau.de/image/ed4921c5-9252-43c9-bf7f-46ca4b884c28/AAABoSq5ivg/AAABnSSvrFg/16x9-big/gawkowski-tusk-kierwinski-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Drohungen - Verdächtiger nach mutmaßlichen Anschlagsplänen auf polnischen Regierungschef Tusk und Verteidigungsminister Kosiniak-Kamysz festgenommen",
-     "link": "https://www.deutschlandfunk.de/verdaechtiger-nach-mutmasslichen-anschlagsplaenen-auf-polnischen-regierungschef-tusk-und-verteidigun-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n90a2601abd",
-   "topic": "welt",
-   "title": "Warum steigen Krebserkrankungen bei Menschen unter 50?",
-   "text": "Bei jungen Menschen wird weltweilt immer häufiger Krebs diagnostiziert, insbesondere Darmkrebs. Dafür gibt es verschiedene Gründe.",
-   "link": "https://www.dw.com/de/warum-steigen-krebserkrankungen-bei-menschen-unter-50/a-79613980?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-11T19:58:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-15T19:58:00+00:00",
-   "img": "https://static.dw.com/image/75995495_302.jpg"
-  },
-  {
-   "id": "n22b311e401",
-   "topic": "politik",
-   "title": "Kassel Huskies drehen DEL2-Derby und jubeln in Bad Nauheim",
-   "text": "Lange Zeit sieht es im Hessenderby der DEL2 zwischen dem EC Bad Nauheim und den Kassel Huskies nach einer Überraschung aus, im Penaltyschießen setzt sich dann aber doch der Favorit aus Nordhessen durch.",
-   "link": "https://www.hessenschau.de/sport/eishockey/kassel-huskies-drehen-del2-derby-und-jubeln-in-bad-nauheim-v1,del-zwei-derby-104.html",
-   "published": "2026-10-11T19:39:46+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-15T19:39:46+00:00",
-   "img": "https://www.hessenschau.de/sport/eishockey/kassel-huskies-124~_t-1791747586008_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "n2b78a7eb80",
-   "topic": "politik",
-   "title": "Berlin - CDU berät über Wege aus der Krise - Hoppermann: \"Klausur ist keine Wunderwaffe\"",
-   "text": "Die CDU steckt in einer schweren Krise. Die Führungsspitze berät in Berlin zwei Tage lang über die jüngsten Entwicklungen der Partei nach den Landtagswahlen. Auch die Amtsführung des Vorsitzenden und Bundeskanzlers Merz dürfte Thema sein. Zum Auftakt sagte Generalsekretärin Hoppermann, es gehe darum, das Vertrauen in …",
-   "link": "https://www.deutschlandfunk.de/cdu-beraet-ueber-wege-aus-der-krise-hoppermann-klausur-ist-keine-wunderwaffe-100.html",
-   "published": "2026-10-11T19:25:44+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-13T19:25:44+00:00"
-  },
-  {
-   "id": "n7003bf8492",
-   "topic": "politik",
-   "title": "Krieg gegen die Ukraine - Selenskyj erklärt Bereitschaft zu Neuwahlen im Falle einer 60-tägigen Waffenruhe mit Moskau",
-   "text": "Der ukrainische Präsident Selenskyj hat zurückhaltend auf Äußerungen von US-Präsident Trump reagiert, wonach Kiew und Moskau bis auf Weiteres ihre gegenseitigen Angriffe auf die Energie-Infrastruktur einstellen wollen. Selenskyj sagte mehreren amerikanischen Medien, für ihn sei diese Darstellung neu gewesen. Auch …",
-   "link": "https://www.deutschlandfunk.de/selenskyj-erklaert-bereitschaft-zu-neuwahlen-im-falle-einer-60-taegigen-waffenruhe-mit-moskau-100.html",
-   "published": "2026-10-11T19:25:44+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-13T19:25:44+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Krieg gegen die Ukraine: Von \"Energie-Waffenruhe\" keine Spur",
-     "link": "https://www.tagesschau.de/ausland/europa/ukraine-energie-waffenruhe-100.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Angriffe trotz \"Energie-Waffenruhe\" in der Ukraine",
-     "link": "https://www.dw.com/de/angriffe-trotz-energie-waffenruhe-in-der-ukraine/a-79637337?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n8702ec09c4",
-   "topic": "politik",
-   "title": "Klimamarsch in Brüssel - Zehntausende gehen für mehr Klimaschutz auf die Straße",
-   "text": "In Brüssel haben zehntausende Menschen für mehr Klimaschutz demonstriert. Zu der Kundgebung hatten rund hundert Organisationen und Gewerkschaften aufgerufen.",
-   "link": "https://www.deutschlandfunk.de/zehntausende-gehen-fuer-mehr-klimaschutz-auf-die-strasse-100.html",
-   "published": "2026-10-11T19:25:44+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-13T19:25:44+00:00"
-  },
-  {
-   "id": "nf673fc609a",
-   "topic": "politik",
-   "title": "Brief an Kanzler - Kritik aus den Bundesländern: Landwirtschaftsminister der Union gegen eine Zuckersteuer",
-   "text": "Die neun Landesminister der Union für Agrar und Verbraucherschutz haben sich in einem Brief an Bundeskanzler Merz gegen die geplante Zuckersteuer ausgesprochen.",
-   "link": "https://www.deutschlandfunk.de/kritik-aus-den-bundeslaendern-landwirtschaftsminister-der-union-gegen-eine-zuckersteuer-102.html",
-   "published": "2026-10-11T19:25:44+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-13T19:25:44+00:00",
-   "img": "https://bilder.deutschlandfunk.de/2a/ce/17/9b/2ace179b-7ee4-450a-8723-e71075daf737/limo-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Landwirtschaftsminister protestieren bei Merz gegen Zuckersteuer",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-cdu-landesminister-protestbrief-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n950c74b601",
-   "topic": "politik",
-   "title": "Krieg im Nahen Osten - Erneuter Angriff auf den Flughafen von Riad, mehrere Verletzte",
-   "text": "Der Flughafen in der saudi-arabischen Hauptstadt Riad ist erneut angegriffen worden.",
-   "link": "https://www.deutschlandfunk.de/erneuter-angriff-auf-den-flughafen-von-riad-mehrere-verletzte-102.html",
-   "published": "2026-10-11T19:25:44+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-13T19:25:44+00:00"
-  },
-  {
-   "id": "n679f662406",
-   "topic": "politik",
-   "title": "Drohungen - Verdächtiger nach mutmaßlichen Anschlagsplänen auf polnischen Regierungschef Tusk und Verteidigungsminister Kosiniak-Kamysz festgenommen",
-   "text": "Nach Hinweisen zu Anschlagsplänen auf den polnischen Regierungschef Tusk und Verteidigungsminister Kosiniak-Kamysz ist ein Verdächtiger festgenommen worden.",
-   "link": "https://www.deutschlandfunk.de/verdaechtiger-nach-mutmasslichen-anschlagsplaenen-auf-polnischen-regierungschef-tusk-und-verteidigun-100.html",
-   "published": "2026-10-11T19:25:44+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-13T19:25:44+00:00",
-   "img": "https://bilder.deutschlandfunk.de/48/3a/c0/50/483ac050-c2e4-407b-a61e-573961cb264f/polen-ministerpraesident-donald-tusk-zeremonie-jahrestag-ueberfall-deutschland-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Polizei warnt vor Anschlag auf polnischen Regierungschef Tusk",
-     "link": "https://www.tagesschau.de/ausland/europa/polen-tusk-anschlag-100.html"
-    }
-   ]
-  },
-  {
-   "id": "ne3ca1f1da8",
-   "topic": "nfl",
-   "title": "Lions Week 5 inactives",
-   "text": "Lions announce six inactives ahead of Week 5 game",
-   "link": "https://sports.yahoo.com/articles/lions-week-5-inactives-192425466.html",
-   "published": "2026-10-11T19:24:25+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-16T19:24:25+00:00"
-  },
-  {
-   "id": "n7dd2b78717",
-   "topic": "nfl",
-   "title": "Nick Sirianni: \"I lost us that game\"",
-   "text": "The NFL's decision to move the touchback from the 30 to the 35 continues to create some crazy end of game situations.",
-   "link": "https://sports.yahoo.com/articles/nick-sirianni-lost-us-game-192223352.html",
-   "published": "2026-10-11T19:22:23+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-16T19:22:23+00:00"
-  },
-  {
-   "id": "nc7f41d793d",
-   "topic": "nfl",
-   "title": "Nick Sirianni's seat getting warmer? Eagles coach accepts blame for London loss to Jaguars",
-   "text": "Philly made a controversial decision with eight seconds remaining in the fourth quarter that ultimately cost them a win",
-   "link": "https://www.cbssports.com/nfl/news/nick-sirianni-accepts-blame-for-eagles-london-loss-to-jaguars/",
-   "published": "2026-10-11T18:58:50+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-16T18:58:50+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/11/68720a65-273c-4c7c-a570-cbab2a731cc9/nick.jpg"
-  },
-  {
-   "id": "nf9be222da5",
-   "topic": "nfl",
-   "title": "Bengals' Jordan Battle intercepts Malik Willis twice after finding tell in Miami QB's throwing mechanics",
-   "text": "Battle's huge second quarter in Week 5 may have been no coincidence",
-   "link": "https://www.cbssports.com/nfl/news/bengals-jordan-battle-intercepts-malik-willis-after-tell-dolphins/",
-   "published": "2026-10-11T18:54:53+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-16T18:54:53+00:00"
-  },
-  {
-   "id": "n452fc688ee",
-   "topic": "politik",
-   "title": "Verein \"Kunsttäter\" in Oberursel: Wenn aus jungen Straftätern Künstler werden",
-   "text": "In einer Bildhauerwerkstatt in Oberursel dürfen verurteilte Jugendliche ihre Strafe in Kunst verwandeln – und nebenbei ihre sozialen Kompetenzen stärken. Seit 25 Jahren ist das ein Erfolgsrezept. Nun hat der Verein \"Die Kunsttäter\" eine neue Bleibe bekommen.",
-   "link": "https://www.hessenschau.de/kultur/verein-kunsttaeter-in-oberursel-wenn-aus-jungen-straftaetern-kuenstler-werden-v1,kunsttaeter-oberursel-resozialisierung-100.html",
-   "published": "2026-10-11T18:43:26+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-15T18:43:26+00:00",
-   "img": "https://www.hessenschau.de/gesellschaft/kunsttaeter-kunsttherapie-100~_t-1791375175210_v-16to9.jpg",
-   "tag": "Hessen"
   }
  ]
 }
