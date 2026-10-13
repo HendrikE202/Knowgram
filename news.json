@@ -1,84 +1,214 @@
 {
- "generated": "2026-10-12T21:16:44.101803+00:00",
+ "generated": "2026-10-13T02:36:36.703552+00:00",
  "briefing": [
   "nf0861d1b3e",
-  "n232e481fad",
+  "n5298d0fcdd",
+  "n8dec14bed4",
   "n1c33f1f469",
   "nc916851f20",
-  "nc412d83be1",
-  "n63b7f8c2c2",
-  "n4fd51b4f61",
+  "ne64f49d9af",
+  "n7298ee53f2",
   "nd4d6772cab",
-  "nf62ddbffdb",
-  "n8941faaa24"
+  "nf62ddbffdb"
  ],
  "ranked": [
   {
    "id": "nf0861d1b3e",
-   "s": 39.9
+   "s": 38.6
   },
   {
-   "id": "n232e481fad",
-   "s": 37.0
+   "id": "n5298d0fcdd",
+   "s": 38.0
+  },
+  {
+   "id": "n8dec14bed4",
+   "s": 32.8
   },
   {
    "id": "n1c33f1f469",
-   "s": 31.1
+   "s": 29.8
   },
   {
    "id": "nc916851f20",
-   "s": 30.5
+   "s": 29.1
   },
   {
-   "id": "nc412d83be1",
-   "s": 29.7
+   "id": "ne64f49d9af",
+   "s": 22.9
   },
   {
-   "id": "n63b7f8c2c2",
-   "s": 22.6
-  },
-  {
-   "id": "n4fd51b4f61",
-   "s": 22.6
+   "id": "n7298ee53f2",
+   "s": 21.3
   },
   {
    "id": "nd4d6772cab",
-   "s": 20.3
+   "s": 19.0
   },
   {
    "id": "nf62ddbffdb",
-   "s": 17.5
-  },
-  {
-   "id": "n8941faaa24",
-   "s": 17.0
-  },
-  {
-   "id": "neb9891cb83",
-   "s": 16.7
-  },
-  {
-   "id": "n96f3d8f212",
-   "s": 16.6
-  },
-  {
-   "id": "nfdadc9d7a9",
-   "s": 16.4
-  },
-  {
-   "id": "n06d88dac63",
-   "s": 16.3
-  },
-  {
-   "id": "n8310626f12",
-   "s": 16.3
-  },
-  {
-   "id": "n0c0101fa61",
-   "s": 16.1
+   "s": 16.2
   }
  ],
  "items": [
+  {
+   "id": "ne64f49d9af",
+   "topic": "politik",
+   "title": "Konjunktur - Auch IWF hebt Wirtschaftsprognose für Deutschland auf 1,3 Prozent an",
+   "text": "Der Internationale Währungsfonds hat seine Prognose für das Wirtschaftswachstum in Deutschland deutlich nach oben korrigiert.",
+   "link": "https://www.deutschlandfunk.de/auch-iwf-hebt-wirtschaftsprognose-fuer-deutschland-auf-1-3-prozent-an-100.html",
+   "published": "2026-10-13T02:19:49+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-15T02:19:49+00:00",
+   "img": "https://bilder.deutschlandfunk.de/6d/c7/0c/57/6dc70c57-90a5-421c-8886-e4ca0c6acbba/internationaler-waehrungsfonds-100-1920x1920.jpg"
+  },
+  {
+   "id": "n83899b9b1e",
+   "topic": "politik",
+   "title": "Bundesregierung - Merz will Stromsteuer senken - Klingbeil äußert Zweifel an Finanzierung",
+   "text": "Bundeskanzler Merz hat angekündigt, die Stromsteuer für Unternehmen und Privatleute nun zu senken.",
+   "link": "https://www.deutschlandfunk.de/merz-will-stromsteuer-senken-klingbeil-aeussert-zweifel-an-finanzierung-102.html",
+   "published": "2026-10-13T02:19:49+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-15T02:19:49+00:00"
+  },
+  {
+   "id": "n5e91e78545",
+   "topic": "politik",
+   "title": "SPD - Nach Bas-Rücktritt: Schweitzer tritt Amt als Bundesarbeitsminister an - Debatte über zwischenmenschlichen Umgang in der Politik",
+   "text": "Einen Tag nach dem Rücktritt von Bundesarbeitsministerin Bas wird heute ihr Nachfolger ins Amt eingeführt. Der frühere rheinland-pfälzische Ministerpräsident und SPD-Politiker Schweitzer erhält seine Ernennungsurkunde von Bundespräsident Steinmeier.",
+   "link": "https://www.deutschlandfunk.de/nach-bas-ruecktritt-schweitzer-tritt-amt-als-bundesarbeitsminister-an-debatte-ueber-zwischenmenschli-100.html",
+   "published": "2026-10-13T02:19:49+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-15T02:19:49+00:00",
+   "img": "https://bilder.deutschlandfunk.de/3c/e3/ed/56/3ce3ed56-d4f1-412a-9d37-f7622a8b3193/alexander-schweitzer-106-1920x1920.jpg"
+  },
+  {
+   "id": "n802c282d35",
+   "topic": "politik",
+   "title": "Neue Zahlen - Cybermobbing treibt immer mehr Schüler in die Verzweiflung: Eltern und Lehrer oft überfordert",
+   "text": "Experten zufolge steigt nach wie vor die Zahl der Kinder und Jugendlichen, die mit Bloßstellungen oder Beleidigungen im Internet und in Sozialen Medien fertig werden müssen.",
+   "link": "https://www.deutschlandfunk.de/cybermobbing-treibt-immer-mehr-schueler-in-die-verzweiflung-eltern-und-lehrer-oft-ueberfordert-100.html",
+   "published": "2026-10-13T02:19:49+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-15T02:19:49+00:00"
+  },
+  {
+   "id": "n4be4d97c77",
+   "topic": "politik",
+   "title": "Schauspieler mit Zerebralparese - \"Breaking Bad\"-Star RJ Mitte mit 34 Jahren gestorben",
+   "text": "Der vor allem durch die preisgekrönte Fernsehserie \"Breaking Bad\" bekannt gewordene US-Schauspieler Roy Frank \"RJ\" Mitte ist tot.",
+   "link": "https://www.deutschlandfunk.de/breaking-bad-star-rj-mitte-mit-34-jahren-gestorben-100.html",
+   "published": "2026-10-13T02:19:49+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-15T02:19:49+00:00",
+   "img": "https://bilder.deutschlandfunk.de/b9/85/f4/f9/b985f4f9-68c6-4ee9-b2e0-af28eb2ed780/rj-mitte-breaking-bad-100-1920x1920.jpg"
+  },
+  {
+   "id": "ncbb6e76081",
+   "topic": "politik",
+   "title": "\"Besonders grausame Art\" - Sexuelle Gewalt an Schulen: Bildungsministerin Prien erhöht Druck auf Bundesländer",
+   "text": "Bundesbildungsministerin Prien erhöht den Druck auf die Bundesländer, ihre Schulen zu Schutzkonzepten gegen sexualisierte Gewalt zu verpflichten.",
+   "link": "https://www.deutschlandfunk.de/sexuelle-gewalt-an-schulen-bildungsministerin-prien-erhoeht-druck-auf-bundeslaender-100.html",
+   "published": "2026-10-13T02:19:49+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-15T02:19:49+00:00",
+   "img": "https://bilder.deutschlandfunk.de/90/f0/5b/6c/90f05b6c-86ba-46c2-948e-0d8ef966088e/bundesfamilienministerin-prien-jugend-familie-100-1920x1920.jpg"
+  },
+  {
+   "id": "nc6aa876b37",
+   "topic": "nfl",
+   "title": "Rams open second half with a touchdown, lead 14-13",
+   "text": "The Rams had not scored on an opening possession of the first half or the second half this season until Monday night.",
+   "link": "https://sports.yahoo.com/articles/rams-open-second-half-touchdown-020327557.html",
+   "published": "2026-10-13T02:03:27+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-18T02:03:27+00:00"
+  },
+  {
+   "id": "n9c4dbb81aa",
+   "topic": "nfl",
+   "title": "Ross Matiscik nursing shoulder injury",
+   "text": "Jacksonville Jaguars long snapper Ross Matiscik suffered a shoulder injury in the Week 5 game, although he is not expected to be placed on IR",
+   "link": "https://sports.yahoo.com/articles/ross-matiscik-nursing-shoulder-injury-020100808.html",
+   "published": "2026-10-13T02:01:00+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-18T02:01:00+00:00"
+  },
+  {
+   "id": "n8dec14bed4",
+   "topic": "politik",
+   "title": "Rücktritt von Bärbel Bas: Neue Hoffnung für Koalition?",
+   "text": "Ist der Rücktritt von Bärbel Bas eine Chance für einen Neuanfang in der Koalition? Kanzler Merz verspricht sich einiges von Schweitzer - doch sicher ist nichts im politischen Berlin. Von Dagmar Pepping.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/bas-ruecktritt-koalition-100.html",
+   "published": "2026-10-13T01:38:12+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-16T01:38:12+00:00",
+   "img": "https://images.tagesschau.de/image/4e846c1f-34a7-46e1-8785-e2421c05c14d/AAABoTKtFak/AAABnSSvrFg/16x9-big/klingbeil-merz-156.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Zwei Krisen, eine Koalition: Was Bas' Rücktritt und die CDU-Neuaufstellung für Schwarz-Rot bedeuten",
+     "link": "https://www.dw.com/de/zwei-krisen-eine-koalition-was-bas-rücktritt-und-die-cdu-neuaufstellung-für-schwarz-rot-bedeuten/a-79645182?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "n1165bda5a9",
+   "topic": "nfl",
+   "title": "Should winless Titans bench Cam Ward? Why abandoning the former No. 1 pick will not fix Tennessee's turmoil",
+   "text": "Turning to Mitch Trubisky will not fix an offense averaging just 11.6 points or an expensive, revamped defense that has disappointed",
+   "link": "https://www.cbssports.com/nfl/news/why-titans-should-not-bench-cam-ward-robert-saleh/",
+   "published": "2026-10-13T01:18:35+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-18T01:18:35+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/12/17a15c9e-2a53-463a-a3c0-3463197057de/cam.jpg"
+  },
+  {
+   "id": "nd95aee0950",
+   "topic": "nfl",
+   "title": "Bill Belichick noticeably absent from Patriots' celebration of 2001 Super Bowl team",
+   "text": "Belichick recently attended the Giants' Super Bowl reunion",
+   "link": "https://www.cbssports.com/nfl/news/bill-belichick-absent-patriots-celebration-2001-super-bowl-team/",
+   "published": "2026-10-13T01:16:25+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-18T01:16:25+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2024/01/11/23dcd011-cce0-4b17-a977-36ca02a48291/template-pic.jpg"
+  },
+  {
+   "id": "n83b9b34a29",
+   "topic": "wirtschaft",
+   "title": "Autoindustrie: VW in der Slowakei - hoffnungsvolle Krise?",
+   "text": "In Bratislava steht das zweitgrößte Werk von Volkswagen - eines der modernsten. Dennoch könnte es schrumpfen. Doch es gibt Hoffnung in der Slowakei, deren Einwohner weltweit am meisten Autos pro Kopf produzieren. Von M. Allweiss.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-slowakei-hoffnung-100.html",
+   "published": "2026-10-13T00:10:57+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-16T00:10:57+00:00",
+   "img": "https://images.tagesschau.de/image/4a8659ec-560a-4ac9-a825-4d335211544c/AAABoTKEIyU/AAABnSSvrFg/16x9-big/volkswagen-396.jpg?width=1920"
+  },
   {
    "id": "n4e93688b73",
    "topic": "nfl",
@@ -154,19 +284,7 @@
    "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
    "lang": "de",
    "expires": "2026-10-16T19:52:00+00:00",
-   "img": "https://static.dw.com/image/79626408_302.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Krieg gegen die Ukraine: Von \"Energie-Waffenruhe\" keine Spur",
-     "link": "https://www.tagesschau.de/ausland/europa/ukraine-energie-waffenruhe-100.html"
-    },
-    {
-     "source": "Deutschlandfunk",
-     "title": "Krieg gegen die Ukraine - Selenskyj erklärt Bereitschaft zu Neuwahlen im Falle einer 60-tägigen Waffenruhe mit Moskau",
-     "link": "https://www.deutschlandfunk.de/selenskyj-erklaert-bereitschaft-zu-neuwahlen-im-falle-einer-60-taegigen-waffenruhe-mit-moskau-110.html"
-    }
-   ]
+   "img": "https://static.dw.com/image/79626408_302.jpg"
   },
   {
    "id": "nad8374bd57",
@@ -256,8 +374,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-14T19:45:48+00:00",
-   "img": "https://bilder.deutschlandfunk.de/e7/80/65/a2/e78065a2-7e3f-4f2d-a9f2-f98b8ba89a93/merz-klingbeil-bundestag-100-1280x1280.jpg"
+   "expires": "2026-10-14T19:45:48+00:00"
   },
   {
    "id": "n3cf50bff54",
@@ -431,11 +548,12 @@
    "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
    "lang": "de",
    "expires": "2026-10-16T16:57:00+00:00",
+   "img": "https://static.dw.com/image/79637055_302.jpg",
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Schwarz-Rot unter Druck: Wie die Koalition Vertrauen zurückgewinnen will",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/vertrauen-regierung-100.html"
+     "title": "Rücktritt von Bärbel Bas: Neue Hoffnung für Koalition?",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/bas-ruecktritt-koalition-100.html"
     }
    ]
   },
@@ -514,14 +632,7 @@
    "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
    "lang": "de",
    "expires": "2026-10-16T15:34:00+00:00",
-   "img": "https://static.dw.com/image/79631891_302.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Angriffe auf Saudi-Arabien: Huthi drohen mit weiterer Eskalation",
-     "link": "https://www.tagesschau.de/ausland/asien/huthi-angriffe-saudi-arabien-102.html"
-    }
-   ]
+   "img": "https://static.dw.com/image/79631891_302.jpg"
   },
   {
    "id": "ncc3fac378d",
@@ -571,8 +682,8 @@
    "also": [
     {
      "source": "Deutsche Welle",
-     "title": "Ukraine und USA in der Krise: Was folgt auf den Diesel-Deal mit Russland?",
-     "link": "https://www.dw.com/de/ukraine-und-usa-in-der-krise-was-folgt-auf-den-diesel-deal-mit-russland/a-79646257?maca=de-rss-de-all-1119-xml-mrss"
+     "title": "Angriffe trotz \"Energie-Waffenruhe\" in der Ukraine",
+     "link": "https://www.dw.com/de/angriffe-trotz-energie-waffenruhe-in-der-ukraine/a-79637337?maca=de-rss-de-all-1119-xml-mrss"
     },
     {
      "source": "Deutschlandfunk",
@@ -1222,8 +1333,8 @@
    "also": [
     {
      "source": "Deutsche Welle",
-     "title": "Ukraine und USA in der Krise: Was folgt auf den Diesel-Deal mit Russland?",
-     "link": "https://www.dw.com/de/ukraine-und-usa-in-der-krise-was-folgt-auf-den-diesel-deal-mit-russland/a-79646257?maca=de-rss-de-all-1119-xml-mrss"
+     "title": "Angriffe trotz \"Energie-Waffenruhe\" in der Ukraine",
+     "link": "https://www.dw.com/de/angriffe-trotz-energie-waffenruhe-in-der-ukraine/a-79637337?maca=de-rss-de-all-1119-xml-mrss"
     },
     {
      "source": "Deutschlandfunk",
@@ -1388,14 +1499,14 @@
    "expires": "2026-10-14T00:26:28+00:00",
    "also": [
     {
-     "source": "Deutsche Welle",
-     "title": "Ukraine und USA in der Krise: Was folgt auf den Diesel-Deal mit Russland?",
-     "link": "https://www.dw.com/de/ukraine-und-usa-in-der-krise-was-folgt-auf-den-diesel-deal-mit-russland/a-79646257?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
      "source": "Tagesschau",
      "title": "Krieg gegen die Ukraine: Von \"Energie-Waffenruhe\" keine Spur",
      "link": "https://www.tagesschau.de/ausland/europa/ukraine-energie-waffenruhe-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Angriffe trotz \"Energie-Waffenruhe\" in der Ukraine",
+     "link": "https://www.dw.com/de/angriffe-trotz-energie-waffenruhe-in-der-ukraine/a-79637337?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -1546,14 +1657,14 @@
    "expires": "2026-10-13T19:25:44+00:00",
    "also": [
     {
-     "source": "Deutsche Welle",
-     "title": "Ukraine und USA in der Krise: Was folgt auf den Diesel-Deal mit Russland?",
-     "link": "https://www.dw.com/de/ukraine-und-usa-in-der-krise-was-folgt-auf-den-diesel-deal-mit-russland/a-79646257?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
      "source": "Tagesschau",
      "title": "Krieg gegen die Ukraine: Von \"Energie-Waffenruhe\" keine Spur",
      "link": "https://www.tagesschau.de/ausland/europa/ukraine-energie-waffenruhe-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Angriffe trotz \"Energie-Waffenruhe\" in der Ukraine",
+     "link": "https://www.dw.com/de/angriffe-trotz-energie-waffenruhe-in-der-ukraine/a-79637337?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -1683,185 +1794,6 @@
    "expires": "2026-10-15T18:43:26+00:00",
    "img": "https://www.hessenschau.de/gesellschaft/kunsttaeter-kunsttherapie-100~_t-1791375175210_v-16to9.jpg",
    "tag": "Hessen"
-  },
-  {
-   "id": "n0dd8ccfd41",
-   "topic": "politik",
-   "title": "\"Die Stromsteuer muss für alle gesenkt werden\"",
-   "text": "Die CDU will raus aus der Krise und wieder näher an die Lebenswirklichkeit der Menschen. Als konkrete Maßnahme schlägt der rheinland-pfälzische Regierungschef Schnieder im ARD-Bericht aus Berlin vor, die Stromsteuer für alle zu senken.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-schnieder-miersch-cdu-klausur-100.html",
-   "published": "2026-10-11T18:05:00+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-14T18:05:00+00:00",
-   "img": "https://images.tagesschau.de/image/2b4bc4c2-a221-4ce0-9195-80a06046f252/AAABoSv1uag/AAABnSSvrFg/16x9-big/sendungsbild-1809912.jpg?width=1920"
-  },
-  {
-   "id": "n5f117c3e72",
-   "topic": "it",
-   "title": "Die besten Gartengeräte im Herbst: Bequemer Schneiden und Sägen mit Akku",
-   "text": "Astsäge, Hochentaster oder Akku-Astschere – wofür eignen sie sich? Wir zeigen, warum die kleinen Helfer im Garten so praktisch sind.",
-   "link": "https://www.heise.de/bestenlisten/ratgeber/die-besten-gartengeraete-im-herbst-bequemer-schneiden-und-saegen-mit-akku/g2qjc64?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-11T18:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-16T18:00:00+00:00"
-  },
-  {
-   "id": "n853688929b",
-   "topic": "welt",
-   "title": "Angriffe auf Saudi-Arabien: Huthi drohen mit weiterer Eskalation",
-   "text": "Nach dem schweren Angriff auf den Flughafen von Riad droht die Huthi-Miliz mit einer weiteren Eskalation. Saudi-Arabien fühlt sich vom Partner USA im Stich gelassen und sucht neue Verbündete. Von Anna Osius.",
-   "link": "https://www.tagesschau.de/ausland/asien/huthi-angriffe-saudi-arabien-102.html",
-   "published": "2026-10-11T17:50:11+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-14T17:50:11+00:00",
-   "img": "https://images.tagesschau.de/image/25da5b7b-b3a8-4539-a20a-1ab7298a3e65/AAABoSwWJCY/AAABnSSvrFg/16x9-big/huthi-drohung-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Saudi-Arabien unter Druck: Der schwierige Kampf gegen die Huthi",
-     "link": "https://www.dw.com/de/saudi-arabien-unter-druck-der-schwierige-kampf-gegen-die-huthi/a-79643240?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n70e17c594b",
-   "topic": "politik",
-   "title": "Schwarz-Rot unter Druck: Wie die Koalition Vertrauen zurückgewinnen will",
-   "text": "Reformstau, schwindende Zustimmung in der Bevölkerung, desaströse Wahlergebnisse - die schwarz-rote Koalition steht unter Druck. Jetzt muss sie unter Beweis stellen, dass sie noch handlungsfähig ist. Von Ilanit Spinner.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/vertrauen-regierung-100.html",
-   "published": "2026-10-11T17:36:32+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-14T17:36:32+00:00",
-   "img": "https://images.tagesschau.de/image/7fc41d8e-5439-4418-a651-b4e8a08741bd/AAABoSwJp-U/AAABnSSvrFg/16x9-big/bundeskanzleramt-222.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Zwei Krisen, eine Koalition: Was Bas' Rücktritt und die CDU-Neuaufstellung für Schwarz-Rot bedeuten",
-     "link": "https://www.dw.com/de/zwei-krisen-eine-koalition-was-bas-rücktritt-und-die-cdu-neuaufstellung-für-schwarz-rot-bedeuten/a-79645182?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n232e481fad",
-   "topic": "welt",
-   "title": "Trump meldet \"Energie-Waffenruhe\" zwischen Russland und Ukraine",
-   "text": "Laut US-Präsident Trump gibt es eine \"Energie-Waffenruhe\" zwischen Russland und der Ukraine. Sie trete mit sofortiger Wirkung in Kraft, erklärte er auf seiner Plattform Truth Social. Eine Bestätigung aus Kiew oder Moskau liegt bislang nicht vor.",
-   "link": "https://www.tagesschau.de/ausland/amerika/trump-russland-ukraine-energie-waffenrufe-100.html",
-   "published": "2026-10-11T17:31:38+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-14T17:31:38+00:00",
-   "img": "https://images.tagesschau.de/image/1d222ad3-9b5d-4e00-86c9-a13266558049/AAABoSFECX4/AAABnSSvrFg/16x9-big/trump-5320.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Ukraine und USA in der Krise: Was folgt auf den Diesel-Deal mit Russland?",
-     "link": "https://www.dw.com/de/ukraine-und-usa-in-der-krise-was-folgt-auf-den-diesel-deal-mit-russland/a-79646257?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Deutschlandfunk",
-     "title": "Krieg gegen die Ukraine - Selenskyj erklärt Bereitschaft zu Neuwahlen im Falle einer 60-tägigen Waffenruhe mit Moskau",
-     "link": "https://www.deutschlandfunk.de/selenskyj-erklaert-bereitschaft-zu-neuwahlen-im-falle-einer-60-taegigen-waffenruhe-mit-moskau-110.html"
-    }
-   ]
-  },
-  {
-   "id": "ncb7f629338",
-   "topic": "it",
-   "title": "Massive Ausfälle bei Yandex nach ukrainischen Angriffen",
-   "text": "Das russische Internetunternehmen Yandex erleidet massive Ausfälle. Das macht sich für örtliche Internetnutzer bemerkbar.",
-   "link": "https://www.heise.de/news/Massive-Ausfaelle-bei-Yandex-nach-ukrainischen-Angriffen-11483627.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-11T15:20:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-16T15:20:00+00:00"
-  },
-  {
-   "id": "n540d3726f8",
-   "topic": "ki",
-   "title": "Mehr Agenten, wenig Mehrwert: KI-Agentenschwärme kosten mehr und bringen kaum bessere Ergebnisse",
-   "text": "Laut einer Analyse von Vals AI liefern KI-Agenten-Teams kaum bessere Ergebnisse als einzelne Agenten, kosten aber bis zu 5,1-mal mehr. Nur in einem von vier Tests mit GPT-6 Sol und Claude Opus 5.5 zeigte sich ein messbarer Vorteil. Auch Anthropics eigene Daten bestätigen: Ab zehn Agenten stagniert die Qualität …",
-   "link": "https://the-decoder.de/mehr-agenten-wenig-mehrwert-ki-agentenschwaerme-kosten-mehr-und-bringen-kaum-bessere-ergebnisse/",
-   "published": "2026-10-11T15:19:26+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-18T15:19:26+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/agent_swarm.png"
-  },
-  {
-   "id": "n0290fbea3c",
-   "topic": "it",
-   "title": "FAQ zu Cybergrooming: Ermittler warnen vor Massenphänomen im Netz",
-   "text": "Sie haben sexuelle Absichten und knüpfen Kontakte über Chats und Gaming-Plattformen: Wie Täter im Netz vorgehen, welche Hürden bei der Strafverfolgung bestehen.",
-   "link": "https://www.heise.de/hintergrund/FAQ-zu-Cybergrooming-Ermittler-warnen-vor-Massenphaenomen-im-Netz-11483635.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-11T14:53:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-16T14:53:00+00:00"
-  },
-  {
-   "id": "nc545b5129d",
-   "topic": "welt",
-   "title": "Auf der Flucht: Viele Tote bei Schiffsunglück vor Dschibuti",
-   "text": "Vor der Küste Dschibutis hat sich ein schweres Unglück ereignet. Mehr als hundert Menschen kamen ums Leben. Ebenso viele werden noch vermisst. Sie hatten sich ein besseres Leben auf der arabischen Halbinsel erhofft.",
-   "link": "https://www.tagesschau.de/ausland/afrika/schiffsungueck-dschibuti-100.html",
-   "published": "2026-10-11T14:32:56+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-14T14:32:56+00:00",
-   "img": "https://images.tagesschau.de/image/57dba1dc-b9a4-4b43-bd76-62d8e66c6903/AAABoStYzi0/AAABnSSvrFg/16x9-big/iom-dschibuti-100.jpg?width=1920"
-  },
-  {
-   "id": "n16c4020bcb",
-   "topic": "wirtschaft",
-   "title": "Warnsystem gegen Deepfakes: Tom Cruise in der Teams-Schalte",
-   "text": "Videokonferenzen sind in Unternehmen längst Alltag. Doch in Zeiten von KI und Deepfakes geraten sie zunehmend in den Fokus von Cyberkriminellen. Forschende haben nun ein Warnsystem entwickelt. Von Stefan Venator.",
-   "link": "https://www.tagesschau.de/wirtschaft/digitales/fake-videokonferenzen-100.html",
-   "published": "2026-10-11T14:24:52+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-14T14:24:52+00:00",
-   "img": "https://images.tagesschau.de/image/08a63c67-1862-4f50-b5ea-0509571e7aba/AAABoPzo3_U/AAABnSSvrFg/16x9-big/buero-laptop-100.jpg?width=1920"
-  },
-  {
-   "id": "n57b1d84f3b",
-   "topic": "welt",
-   "title": "Selenskyj will Angriffe auf russische Raffinerien fortsetzen",
-   "text": "Nach Trumps Drohungen gegen den ukrainischen Präsidenten hat Selenskyj nun reagiert - und angekündigt, die Angriffe auf russische Ölraffinerien fortzusetzen. Ein Ende sei nur möglich, wenn auch Russland seine Attacken einstelle.",
-   "link": "https://www.tagesschau.de/ausland/europa/trump-selenskyj-russland-reaktion-raffinerien-angriffe-100.html",
-   "published": "2026-10-11T14:22:07+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-14T14:22:07+00:00",
-   "img": "https://images.tagesschau.de/image/41c8ab3e-0eac-4bac-9577-3ba79be2c909/AAABoStXpzk/AAABnSSvrFg/16x9-big/selenskyj-1202.jpg?width=1920"
-  },
-  {
-   "id": "n8941faaa24",
-   "topic": "welt",
-   "title": "Der Südsudan auf ungewissem Weg zu den ersten Wahlen",
-   "text": "Im Dezember sollen die ersten Parlamentswahlen im Südsudan abgehalten werden. Doch anhaltende Unsicherheit, politische Spannungen und eine fehlende Wählerregistrierung werfen Fragen auf, ob das gelingen kann.",
-   "link": "https://www.dw.com/de/der-südsudan-auf-ungewissem-weg-zu-den-ersten-wahlen/a-79583983?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-11T14:12:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-15T14:12:00+00:00",
-   "img": "https://static.dw.com/image/69790212_302.jpg"
   }
  ]
 }
