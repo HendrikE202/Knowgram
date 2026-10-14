@@ -1,55 +1,500 @@
 {
- "generated": "2026-10-14T00:18:44.776546+00:00",
+ "generated": "2026-10-14T08:44:08.366475+00:00",
  "briefing": [
-  "nf235c18318",
-  "n7e69c12c54",
   "nd0d03e43c0",
-  "n8dec14bed4",
-  "n00c6eabead",
-  "n7eecf33aec",
+  "nf235c18318",
+  "n5f5d7ee9d6",
+  "na858959eb7",
+  "n7e69c12c54",
+  "n5e7a892015",
+  "n2b284ecffb",
   "n68be0ea768",
-  "n2dafc49b4d",
-  "na588f01980"
+  "n21c358151d"
  ],
  "ranked": [
   {
+   "id": "nd0d03e43c0",
+   "s": 37.9
+  },
+  {
    "id": "nf235c18318",
+   "s": 32.3
+  },
+  {
+   "id": "n5f5d7ee9d6",
    "s": 32.2
   },
   {
+   "id": "na858959eb7",
+   "s": 27.8
+  },
+  {
    "id": "n7e69c12c54",
-   "s": 29.6
+   "s": 27.5
   },
   {
-   "id": "nd0d03e43c0",
-   "s": 27.4
+   "id": "n5e7a892015",
+   "s": 23.0
   },
   {
-   "id": "n8dec14bed4",
-   "s": 27.3
-  },
-  {
-   "id": "n00c6eabead",
-   "s": 22.9
-  },
-  {
-   "id": "n7eecf33aec",
-   "s": 21.4
+   "id": "n2b284ecffb",
+   "s": 23.0
   },
   {
    "id": "n68be0ea768",
-   "s": 21.4
+   "s": 19.2
   },
   {
-   "id": "n2dafc49b4d",
-   "s": 20.3
-  },
-  {
-   "id": "na588f01980",
-   "s": 19.6
+   "id": "n21c358151d",
+   "s": 18.5
   }
  ],
  "items": [
+  {
+   "id": "nbc9dbe4945",
+   "topic": "wissenschaft",
+   "title": "Erkundung des Roten Planeten: NASA-Rover Perseverance schafft Streckenrekord",
+   "text": "Seit dem Jahr 2021 rollt der Marsrover Perseverance über den Roten Planeten. Inzwischen hat er eine längere Strecke zurückgelegt als jedes andere Fahrzeug auf einer fremden Welt.",
+   "link": "https://www.spektrum.de/news/nasa-rover-perseverance-schafft-streckenrekord/2349658",
+   "published": "2026-10-14T09:30:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-28T09:30:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/PIA25681.jpeg.8408257.jpeg?f=1280x720"
+  },
+  {
+   "id": "n94adb00c00",
+   "topic": "wissenschaft",
+   "title": "Sternartige Himmelskörper: Tausende neue Braune Zwerge entdeckt",
+   "text": "Mit dem Weltraumteleskop SPHEREx wurden mehrere Tausend Braune Zwerge aufgespürt. Sie weisen individuelle Unterschiede in Zusammensetzung und Wettergeschehen auf.",
+   "link": "https://www.spektrum.de/news/tausende-neue-braune-zwerge-entdeckt/2349365",
+   "published": "2026-10-14T09:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-28T09:00:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/1-Brown_dwarf_grid.jpg.8416189.jpg?f=1280x720"
+  },
+  {
+   "id": "nb17be4e67c",
+   "topic": "politik",
+   "title": "Mehreinnahmen - Schwarz-rote Koalition einigt sich auf Zuckersteuer",
+   "text": "Union und SPD haben sich auf eine neue Zuckersteuer geeinigt. Der konkrete Entwurf, der auch dem Deutschlandfunk vorliegt, soll heute im Kabinett verabschiedet werden.",
+   "link": "https://www.deutschlandfunk.de/schwarz-rote-koalition-einigt-sich-auf-zuckersteuer-102.html",
+   "published": "2026-10-14T08:37:27+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-16T08:37:27+00:00",
+   "img": "https://bilder.deutschlandfunk.de/3f/cb/a4/fc/3fcba4fc-db0b-4e44-974d-9b40c9fe675b/getraenkeautomat-softdrinks-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Bundesregierung einigt sich bei Zuckersteuer offenbar auf Zwei-Stufen-Modell",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n5e7a892015",
+   "topic": "politik",
+   "title": "Regierungsbildung - Grüne und SPD in Berlin unterbrechen Sondierungen mit Linken",
+   "text": "Grüne und SPD in Berlin haben die Sondierungsgespräche zur Regierungsbildung mit der Linkspartei unterbrochen. Zunächst müsse eine von allen Mitgliedern der Linken-Fraktion unterzeichnete Erklärung zum Umgang mit Antisemitismus bewertet werden, teilten die beiden Parteien mit.",
+   "link": "https://www.deutschlandfunk.de/gruene-und-spd-in-berlin-unterbrechen-sondierungen-mit-linken-112.html",
+   "published": "2026-10-14T08:37:27+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-16T08:37:27+00:00",
+   "img": "https://bilder.deutschlandfunk.de/08/13/be/07/0813be07-591c-4752-85ac-1bbbdbf40978/sondierungen-linke-gruene-spd-100-1920x1920.jpg"
+  },
+  {
+   "id": "n1820600fb3",
+   "topic": "politik",
+   "title": "Sexualisierte Gewalt - Kinderschutzbund: \"Zentraler Tatort bleibt die Familie\"",
+   "text": "Der Deutsche Kinderschutzbund fordert im Kampf gegen sexualisierte Gewalt ein Umdenken. Die Trennung zwischen digitaler und analoger Welt greife zu kurz, sagte Verbandspräsidentin Andresen im Deutschlandfunk.",
+   "link": "https://www.deutschlandfunk.de/kinderschutzbund-zentraler-tatort-bleibt-die-familie-100.html",
+   "published": "2026-10-14T08:37:27+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-16T08:37:27+00:00",
+   "img": "https://bilder.deutschlandfunk.de/c6/be/f4/43/c6bef443-adb6-49b1-ab21-0ce314f3a023/praesidentin-kinderschutzbund-sabine-andresen-100-1920x1920.jpg"
+  },
+  {
+   "id": "na67b93ed1a",
+   "topic": "politik",
+   "title": "Union und SPD - Bas-Vorwürfe sorgen weiter für Streit in der Koalition - Entschuldigung von Schwesig gefordert",
+   "text": "Der Rücktritt von SPD-Chefin und Bundesarbeitsministerin Bas sorgt weiter für Streit in der Koalition.",
+   "link": "https://www.deutschlandfunk.de/bas-vorwuerfe-sorgen-weiter-fuer-streit-in-der-koalition-entschuldigung-von-schwesig-gefordert-100.html",
+   "published": "2026-10-14T08:37:27+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-16T08:37:27+00:00",
+   "img": "https://bilder.deutschlandfunk.de/5a/50/65/a6/5a5065a6-6e21-4e55-ac5d-4ccab1ccac4a/baerbel-bas-114-1920x1920.jpg"
+  },
+  {
+   "id": "n2b284ecffb",
+   "topic": "politik",
+   "title": "Sachsen-Anhalt - Ukraine-Krieg: AfD und BSW wollen Appell zu Friedensgesprächen beschließen",
+   "text": "In Sachsen-Anhalt kommen die Abgeordneten eine Woche nach der konstituierenden Sitzung des Landtags zu einer Sondersitzung zum Krieg in der Ukraine zusammen.",
+   "link": "https://www.deutschlandfunk.de/ukraine-krieg-afd-und-bsw-wollen-appell-zu-friedensgespraechen-beschliessen-100.html",
+   "published": "2026-10-14T08:37:27+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-16T08:37:27+00:00",
+   "img": "https://bilder.deutschlandfunk.de/6a/6c/da/f7/6a6cdaf7-8ebf-4b39-b37d-52b790a67184/afd-landtag-rausch-tobias-100-1920x1920.jpg"
+  },
+  {
+   "id": "n4250e2a137",
+   "topic": "politik",
+   "title": "Medien - DJV-Chef Beuster bezeichnet die Beschlagnahmung von Tonaufnahmen der ZEIT als Angriff auf die Pressefreiheit",
+   "text": "Der Deutsche Journalisten-Verband hat die Beschlagnahmung von Tonaufnahmen des Wochenmagazins Die Zeit als Angriff auf die Pressefreiheit verurteilt.",
+   "link": "https://www.deutschlandfunk.de/djv-chef-beuster-bezeichnet-die-beschlagnahmung-von-tonaufnahmen-der-zeit-als-angriff-auf-die-presse-100.html",
+   "published": "2026-10-14T08:37:27+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-16T08:37:27+00:00",
+   "img": "https://bilder.deutschlandfunk.de/1b/be/5b/ae/1bbe5bae-6583-4086-87c4-bf8b9cd736ba/mika-beuster-bundesvorsitzender-deutscher-journalistenverband-100-1920x1920.jpg"
+  },
+  {
+   "id": "n4b2a8eb4ee",
+   "topic": "it",
+   "title": "Patchday: Sicherheitslücken mit Höchstwertung gefährden Adobe-Anwendungen",
+   "text": "Adobe hat wichtige Sicherheitsupdates unter anderem für ColdFusion, Commerce und Experience Manager veröffentlicht.",
+   "link": "https://www.heise.de/news/Patchday-Sicherheitsluecken-mit-Hoechstwertung-gefaehrden-Adobe-Anwendungen-11487282.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-14T08:35:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-19T08:35:00+00:00"
+  },
+  {
+   "id": "n7c4bff1e45",
+   "topic": "it",
+   "title": "heise+ | Wie Sprachmodelle den Kipppunkt zur Decision Intelligence verschieben",
+   "text": "Sprachmodelle verändern, wie Unternehmen Daten zur Entscheidung bringen. Was heißt das konkret für Datenarchitekturen, Reporting und Governance?",
+   "link": "https://www.heise.de/hintergrund/Wie-Sprachmodelle-den-Kipppunkt-zur-Decision-Intelligence-verschieben-11479053.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+   "published": "2026-10-14T08:30:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-19T08:30:00+00:00"
+  },
+  {
+   "id": "n9fc9c18eb0",
+   "topic": "it",
+   "title": "Xbox: Xbox Labs will alte Spiele per KI auf neue Hardware bringen",
+   "text": "Halo, GTA und andere Klassiker laufen mit KI bereits im Browser. Microsoft gründet nun eine Abteilung, um solche Technologien weiterzuentwickeln. ( Xbox , Microsoft )",
+   "link": "https://www.golem.de/news/xbox-xbox-labs-will-alte-spiele-per-ki-auf-neue-hardware-bringen-2610-214081.html",
+   "published": "2026-10-14T08:27:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-19T08:27:01+00:00",
+   "img": "https://www.golem.de/2610/214081-603284-603282_rc.jpg"
+  },
+  {
+   "id": "n97533cde44",
+   "topic": "nfl",
+   "title": "Dan Campbell says pass protection shows why Jahmyr Gibbs is different from other backs",
+   "text": "Gibbs made the key block on a touchdown pass from Jared Goff to Sam LaPorta on Sunday.",
+   "link": "https://sports.yahoo.com/articles/dan-campbell-says-pass-protection-082445577.html",
+   "published": "2026-10-14T08:24:45+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-19T08:24:45+00:00"
+  },
+  {
+   "id": "n317b4a7259",
+   "topic": "welt",
+   "title": "Angriff auf Kyjiw - Selenskyj beklagt fehlende Vorwarnung",
+   "text": "Bei einer weiteren russischen Attacke auf die ukrainische Hauptstadt ist nach Angaben von Präsident Selenskyj ein Heizkraftwerk getroffen worden. Offenbar gab es erneut keine Vorwarnung aus den USA.",
+   "link": "https://www.dw.com/de/angriff-auf-kyjiw-selenskyj-beklagt-fehlende-vorwarnung/a-79656750?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-14T08:20:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-18T08:20:00+00:00",
+   "img": "https://static.dw.com/image/79656361_302.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Selenskyj beklagt fehlende Warnung vor russischen Angriffen",
+     "link": "https://www.tagesschau.de/ausland/europa/selenskyj-ukraine-angriffe-100.html"
+    }
+   ]
+  },
+  {
+   "id": "nbac62da35e",
+   "topic": "it",
+   "title": "Erneuter Rekord-Patchday: Microsoft schließt 1.414 Sicherheitslücken",
+   "text": "Betroffen sind vor allem Windows, Office, Sharepoint und SQL Server. Eine Lücke in der Windows Shell wird bereits aktiv ausgenutzt. ( Patchday , Server )",
+   "link": "https://www.golem.de/news/erneuter-rekord-patchday-microsoft-schliesst-1-414-sicherheitsluecken-2610-214080.html",
+   "published": "2026-10-14T08:18:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-19T08:18:02+00:00",
+   "img": "https://www.golem.de/2610/214080-603276-603274_rc.jpg"
+  },
+  {
+   "id": "n74ff210b50",
+   "topic": "it",
+   "title": "Smart Glasses produzieren Energie über Gesichtsmimik und dienen als Sensorsystem",
+   "text": "Mit triboelektrischen Nanogeneratoren in Smart Glasses erzeugen Forscher mittels Gesichtsbewegungen elektrische Spannungen, die Körperdaten repräsentieren.",
+   "link": "https://www.heise.de/news/Smart-Glasses-produzieren-Energie-ueber-Gesichtsmimik-und-dienen-als-Sensorsystem-11487268.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-14T08:15:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-19T08:15:00+00:00"
+  },
+  {
+   "id": "nd0d03e43c0",
+   "topic": "welt",
+   "title": "Papst Leo XIV. hat Lungenkrebs",
+   "text": "Auf Anraten der Ärzte hatte sich Papst Leo XIV. einer Lungenoperation unterzogen. Laut Angaben des Vatikans habe sich dabei die vermutete Diagnose eines Lungenkarzinoms bestätigt. Die Operation habe der Heilige Vater gut überstanden.",
+   "link": "https://www.tagesschau.de/ausland/papst-erfolgreich-operiert-100.html",
+   "published": "2026-10-14T08:10:50+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T08:10:50+00:00",
+   "img": "https://images.tagesschau.de/image/be440a41-8fd4-48f7-9a86-7d44b8d70b29/AAABoTj4nb0/AAABnSSvrFg/16x9-big/papst-leo-184.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Papst Leo XIV. wegen Lungenkrebs operiert - News kompakt: Das Wichtigste kurz gefasst",
+     "link": "https://www.dw.com/de/papst-leo-xiv-wegen-lungenkrebs-operiert-news-kompakt-das-wichtigste-kurz-gefasst/a-79656393?maca=de-rss-de-all-1119-xml-mrss"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "title": "Vatikan - Papst Leo hat Lungenkrebs - Teil des rechten Lungenflügels entfernt",
+     "link": "https://www.deutschlandfunk.de/papst-leo-hat-lungenkrebs-teil-des-rechten-lungenfluegels-entfernt-104.html"
+    }
+   ]
+  },
+  {
+   "id": "nf1d35dc833",
+   "topic": "politik",
+   "title": "\"No Angel\" Nadja Benaissa: \"Mein Leben war voller Extreme\"",
+   "text": "Drogensüchtig mit 12, schwanger mit 16, Superstar mit 18: Das Leben von \"No Angel\"-Mitglied Nadja Benaissa war voller Extreme. Den Tiefpunkt erlebte sie mit 27, als sie wegen gefährlicher Körperverletzung vor Gericht stand. In einer neuen ARD-Doku sagt sie: \"Mein Leben hat erst jetzt richtig begonnen.\"",
+   "link": "https://www.hessenschau.de/kultur/no-angel-nadja-benaissa-mein-leben-war-voller-extreme-v1,no-angels-doku-mediathek-100.html",
+   "published": "2026-10-14T08:09:00+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-18T08:09:00+00:00",
+   "img": "https://www.hessenschau.de/kultur/no-angels-doku-mediathek-110~_t-1791965473686_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "na858959eb7",
+   "topic": "politik",
+   "title": "Grünen-Chefin Brantner befürwortet Stopp der Sondierungen in Berlin",
+   "text": "Die unterbrochenen rot-grün-roten Sondierungsgespräche in Berlin sorgen für Diskussionen über das Rote Rathaus hinaus: Grünen-Chefin Brantner befürwortet den Stopp. Hintergrund ist eine gemeinsame Erklärung zum Umgang mit Antisemitismus.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/sondierungsgespraeche-berlin-spd-linke-gruene-100.html",
+   "published": "2026-10-14T08:06:59+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T08:06:59+00:00",
+   "img": "https://images.tagesschau.de/image/75dec400-9e99-451c-8ebb-1c020bd82953/AAABk4LjAO8/AAABnSSvrFg/16x9-big/franziska-brantner-106.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Antisemitismus-Streit - Grünen-Chefin Brantner befürwortet Sondierungsstopp mit Linken in Berlin",
+     "link": "https://www.deutschlandfunk.de/gruenen-chefin-brantner-befuerwortet-sondierungsstopp-mit-linken-in-berlin-102.html"
+    }
+   ]
+  },
+  {
+   "id": "nb533ebd8f3",
+   "topic": "wissenschaft",
+   "title": "Wälder: Gefährlicher Kurs – Länder holzen viel zu viel Regenwald ab",
+   "text": "Bis 2030 wollten mehr als 100 Staaten die großflächige Abholzung stoppen. Trotz eines Rückgangs im vergangenen Jahr ist der Abstand zum Ziel groß.",
+   "link": "https://www.spektrum.de/news/gefaehrlicher-kurs-laender-holzen-viel-zu-viel-regenwald-ab/2349659",
+   "published": "2026-10-14T08:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-28T08:00:00+00:00"
+  },
+  {
+   "id": "ne37734ae3d",
+   "topic": "wirtschaft",
+   "title": "Update Wirtschaft vom 14.10.2026",
+   "text": "Update Wirtschaft vom 14.10.2026",
+   "link": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1665882.html",
+   "published": "2026-10-14T07:53:58+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T07:53:58+00:00",
+   "img": "https://images.tagesschau.de/image/639631df-6b9a-491f-ad65-70fdb016c4ea/AAABoTlnUeg/AAABnSSvrFg/16x9-big/sendungsbild-1811228.jpg?width=1920"
+  },
+  {
+   "id": "n44ff50b051",
+   "topic": "welt",
+   "title": "Papst Leo XIV. wegen Lungenkrebs operiert - News kompakt: Das Wichtigste kurz gefasst",
+   "text": "Die Operation verlief nach Angaben der Ärzte ohne Komplikationen. Bei einem russischen Raketenangriff auf Kyjiw wurden mindestens zwei Menschen getötet und ein Heizkraftwerk getroffen. Der DW-Nachrichtenüberblick.",
+   "link": "https://www.dw.com/de/papst-leo-xiv-wegen-lungenkrebs-operiert-news-kompakt-das-wichtigste-kurz-gefasst/a-79656393?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-14T07:01:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-18T07:01:00+00:00",
+   "img": "https://static.dw.com/image/79650467_302.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Papst Leo XIV. hat Lungenkrebs",
+     "link": "https://www.tagesschau.de/ausland/papst-erfolgreich-operiert-100.html"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "title": "Vatikan - Papst Leo hat Lungenkrebs - Teil des rechten Lungenflügels entfernt",
+     "link": "https://www.deutschlandfunk.de/papst-leo-hat-lungenkrebs-teil-des-rechten-lungenfluegels-entfernt-104.html"
+    }
+   ]
+  },
+  {
+   "id": "n983b2ae82d",
+   "topic": "wirtschaft",
+   "title": "US-Staatsanleihen: Hohe Renditen und Chancen auf Kursgewinne",
+   "text": "Die Renditen von US-Staatsanleihen sind so hoch wie seit 24 Jahren nicht mehr. 1981 folgte auf ein solches Hoch eine jahrzehntelange Kursrally am Anleihemarkt. Wiederholt sich die Geschichte? Von Angela Göpfert.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/us-staatsanleihen-renditen-kursgewinne-anleger-100.html",
+   "published": "2026-10-14T06:59:05+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T06:59:05+00:00",
+   "img": "https://images.tagesschau.de/image/e5a88920-1bdb-491c-b820-acc0c683bb7f/AAABoTSQPNs/AAABnSSvrFg/16x9-big/nyse-468.jpg?width=1920"
+  },
+  {
+   "id": "nf235c18318",
+   "topic": "wirtschaft",
+   "title": "Bundesregierung einigt sich bei Zuckersteuer offenbar auf Zwei-Stufen-Modell",
+   "text": "Die Bundesregierung hat sich nach Angaben aus dem Finanzministerium beim Thema Zuckersteuer geeinigt. Einzelheiten sollen demnächst vorgestellt werden. Laut Medienberichten soll ab 1. Juli 2027 ein Zwei-Stufen-Modell gelten.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html",
+   "published": "2026-10-14T05:52:51+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T05:52:51+00:00",
+   "img": "https://images.tagesschau.de/image/c17c1b9f-6ab3-4be1-a183-17929691b4a9/AAABnIpC4o8/AAABnSSvrFg/16x9-big/zucker-softdrink-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Mehreinnahmen - Schwarz-rote Koalition einigt sich auf Zuckersteuer",
+     "link": "https://www.deutschlandfunk.de/schwarz-rote-koalition-einigt-sich-auf-zuckersteuer-102.html"
+    }
+   ]
+  },
+  {
+   "id": "n815b9ad32f",
+   "topic": "wirtschaft",
+   "title": "Marktbericht: DAX leicht höher gesehen",
+   "text": "In Asien erholen sich die Technologiewerte wieder, was auch den DAX entlasten dürfte. Der deutsche Leitindex dürfte leicht höher in den Tag starten.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-berichtssaison-100.html",
+   "published": "2026-10-14T05:35:03+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T05:35:03+00:00",
+   "img": "https://images.tagesschau.de/image/2db31d03-cdba-46dd-9aea-71ef81a25776/AAABmnblNn8/AAABnSSvrFg/16x9-big/boerse-468.jpg?width=1920"
+  },
+  {
+   "id": "nb39de8bfbb",
+   "topic": "welt",
+   "title": "Trumps schlechter Deal: Warum Diesel weiter teuer bleibt",
+   "text": "Als größter Diesel-Exporteur der Welt profitieren die USA von hohen Preisen. Im Inland hingegen ächzt die Bevölkerung unter gestiegenen Lebenshaltungskosten. Warum Trumps Deal mit Russland daran nichts ändern wird.",
+   "link": "https://www.dw.com/de/trumps-schlechter-deal-warum-diesel-weiter-teuer-bleibt/a-79654191?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-14T05:30:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-18T05:30:00+00:00",
+   "img": "https://static.dw.com/image/79654930_302.jpg"
+  },
+  {
+   "id": "n5f5d7ee9d6",
+   "topic": "welt",
+   "title": "Selenskyj beklagt fehlende Warnung vor russischen Angriffen",
+   "text": "Eine russische Rakete hat nach Angaben des ukrainischen Präsidenten Selenskyj ein Heizkraftwerk in Kiew getroffen. Wie er mitteilte, hatten die westlichen Verbündeten die Ukraine zuvor nicht vor dem Angriff gewarnt.",
+   "link": "https://www.tagesschau.de/ausland/europa/selenskyj-ukraine-angriffe-100.html",
+   "published": "2026-10-14T05:26:14+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T05:26:14+00:00",
+   "img": "https://images.tagesschau.de/image/123187b8-d1a2-4418-b479-715f1e50991a/AAABoTg3ano/AAABnSSvrFg/16x9-big/kiew-hochhaus-102.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Angriff auf Kyjiw - Selenskyj beklagt fehlende Vorwarnung",
+     "link": "https://www.dw.com/de/angriff-auf-kyjiw-selenskyj-beklagt-fehlende-vorwarnung/a-79656750?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "n5e5d334353",
+   "topic": "politik",
+   "title": "Nord-Stream-Anschlag - ein Prozess mit politischer Dimension",
+   "text": "Rund vier Jahre nach den Anschlägen auf die Nord-Stream-Pipelines beginnt heute in Hamburg der Prozess gegen den angeklagten Ukrainer. Der Prozess dürfte die Debatte über die Ukraine-Hilfen befeuern. Von Christina Nagel.",
+   "link": "https://www.tagesschau.de/inland/prozess-nord-stream-100.html",
+   "published": "2026-10-14T04:24:15+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T04:24:15+00:00",
+   "img": "https://images.tagesschau.de/image/934f0a79-cee7-44bd-91ec-0c9732c94d7a/AAABoTi9luM/AAABnSSvrFg/16x9-big/nordstream-festnahme-102.jpg?width=1920"
+  },
+  {
+   "id": "naba19842d6",
+   "topic": "nfl",
+   "title": "Dan Quinn safe for now, but heat ratchets up on his QB Jayden Daniels - All aTwitter",
+   "text": "The only thing that matters for the Commanders now is winning games",
+   "link": "https://sports.yahoo.com/articles/dan-quinn-safe-now-heat-040000425.html",
+   "published": "2026-10-14T04:00:00+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-19T04:00:00+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/405cb8af9a8f7197bd60b374403f0bad.jpg"
+  },
+  {
+   "id": "n8e1d62cdd9",
+   "topic": "welt",
+   "title": "Rüstungsindustrie: Engere deutsch-türkische Zusammenarbeit?",
+   "text": "Die Zusammenarbeit bei Waffen- und Rüstungsgütern zwischen Deutschland und der Türkei ist eher gering. In Ankara versuchen Unternehmer nun auf der 4. Deutsch-Türkischen Wirtschaftskonferenz, diese zu vertiefen. Von C. Buttkereit.",
+   "link": "https://www.tagesschau.de/ausland/asien/deutsch-tuerkische-wirtschaftskonferenz-100.html",
+   "published": "2026-10-14T03:24:11+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T03:24:11+00:00",
+   "img": "https://images.tagesschau.de/image/aa23a173-d7e0-40ab-b721-bd953f6afb7e/AAABoThoSjg/AAABnSSvrFg/16x9-big/tuerkei-helikopter-100.jpg?width=1920"
+  },
+  {
+   "id": "n757411394d",
+   "topic": "wirtschaft",
+   "title": "Finnland: KI-Boom auf Kosten der Natur?",
+   "text": "Google will Milliarden in Finnlands digitale Infrastruktur investieren. Für ein geplantes Rechenzentrum wurden mehr als 300 Hektar Wald gerodet - offenbar ohne die vorgeschriebenen Genehmigungen. Von A. Bartram.",
+   "link": "https://www.tagesschau.de/ausland/europa/finnland-google-rechenzentren-100.html",
+   "published": "2026-10-14T00:31:01+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T00:31:01+00:00",
+   "img": "https://images.tagesschau.de/image/6ed3ac08-7b32-4295-ae21-ccb11331fc38/AAABoTfE8HY/AAABnSSvrFg/16x9-big/finnland-google-muhos-100.jpg?width=1920"
+  },
   {
    "id": "n90364c7412",
    "topic": "nfl",
@@ -62,26 +507,6 @@
    "lang": "en",
    "expires": "2026-10-19T00:00:00+00:00",
    "img": "https://media.zenfs.com/en/sb_nation_articles_115/e7329a22c6a9c3c19a6f2774ac04b655.jpg"
-  },
-  {
-   "id": "nb17be4e67c",
-   "topic": "politik",
-   "title": "Mehreinnahmen - Schwarz-rote Koalition einigt sich auf Zuckersteuer",
-   "text": "Union und SPD haben sich auf eine neue Zuckersteuer geeinigt. Wie mehrere Agenturen unter Verweis auf das Bundesfinanzministerium melden, liegt ein konkreter Entwurf vor, der heute im Kabinett verabschiedet werden soll.",
-   "link": "https://www.deutschlandfunk.de/schwarz-rote-koalition-einigt-sich-auf-zuckersteuer-102.html",
-   "published": "2026-10-13T23:59:56+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-15T23:59:56+00:00",
-   "img": "https://bilder.deutschlandfunk.de/3f/cb/a4/fc/3fcba4fc-db0b-4e44-974d-9b40c9fe675b/getraenkeautomat-softdrinks-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Bundesregierung einigt sich bei Zuckersteuer offenbar auf Zwei-Stufen-Modell",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html"
-    }
-   ]
   },
   {
    "id": "n6a0b6b6daa",
@@ -99,20 +524,13 @@
      "source": "Tagesschau",
      "title": "Papst Leo XIV. hat Lungenkrebs",
      "link": "https://www.tagesschau.de/ausland/papst-erfolgreich-operiert-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Papst Leo XIV. wegen Lungenkrebs operiert - News kompakt: Das Wichtigste kurz gefasst",
+     "link": "https://www.dw.com/de/papst-leo-xiv-wegen-lungenkrebs-operiert-news-kompakt-das-wichtigste-kurz-gefasst/a-79656393?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
-  },
-  {
-   "id": "n5e7a892015",
-   "topic": "politik",
-   "title": "Regierungsbildung - Grüne und SPD in Berlin unterbrechen Sondierungen mit Linken",
-   "text": "Grüne und SPD in Berlin haben die Sondierungsgespräche zur Regierungsbildung mit der Linkspartei unterbrochen. Zunächst müsse eine von allen Mitgliedern der Linken-Fraktion unterzeichnete Erklärung zum Umgang mit Antisemitismus bewertet werden, teilten die beiden Parteien mit.",
-   "link": "https://www.deutschlandfunk.de/gruene-und-spd-in-berlin-unterbrechen-sondierungen-mit-linken-112.html",
-   "published": "2026-10-13T23:59:56+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-15T23:59:56+00:00"
   },
   {
    "id": "n9c7d1d2c0b",
@@ -125,7 +543,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-15T23:59:56+00:00",
-   "img": "https://bilder.deutschlandfunk.de/d4/87/58/52/d4875852-3bdf-4679-8ccb-5ec5d52ecd94/franziska-brantner-106-1920x1920.jpg"
+   "img": "https://bilder.deutschlandfunk.de/d4/87/58/52/d4875852-3bdf-4679-8ccb-5ec5d52ecd94/franziska-brantner-106-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Grünen-Chefin Brantner befürwortet Stopp der Sondierungen in Berlin",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/sondierungsgespraeche-berlin-spd-linke-gruene-100.html"
+    }
+   ]
   },
   {
    "id": "n480afc033f",
@@ -202,46 +627,6 @@
    "lang": "de",
    "expires": "2026-10-18T22:12:02+00:00",
    "img": "https://www.golem.de/2610/214072-603247-603245_rc.jpg"
-  },
-  {
-   "id": "nd0d03e43c0",
-   "topic": "welt",
-   "title": "Papst Leo XIV. hat Lungenkrebs",
-   "text": "Auf Anraten der Ärzte hatte sich Papst Leo XIV. einer Lungenoperation unterzogen. Laut Angaben des Vatikans habe sich dabei die vermutete Diagnose eines Lungenkarzinoms bestätigt. Die Operation habe der Heilige Vater gut überstanden.",
-   "link": "https://www.tagesschau.de/ausland/papst-erfolgreich-operiert-100.html",
-   "published": "2026-10-13T21:49:10+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T21:49:10+00:00",
-   "img": "https://images.tagesschau.de/image/3ae7f386-4661-4b83-ba08-3d01ee6b782f/AAABoTaXT1g/AAABnSSvrFg/16x9-big/papst-gemelli-klinik-104.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Vatikan - Papst Leo hat Lungenkrebs - Teil des rechten Lungenflügels entfernt",
-     "link": "https://www.deutschlandfunk.de/papst-leo-hat-lungenkrebs-teil-des-rechten-lungenfluegels-entfernt-104.html"
-    }
-   ]
-  },
-  {
-   "id": "nf235c18318",
-   "topic": "politik",
-   "title": "Bundesregierung einigt sich bei Zuckersteuer offenbar auf Zwei-Stufen-Modell",
-   "text": "Die Bundesregierung hat sich nach Angaben aus dem Finanzministerium beim Thema Zuckersteuer geeinigt. Einzelheiten sollen demnächst vorgestellt werden. Laut Medienberichten soll ab 1. Juli 2027 ein Zwei-Stufen-Modell gelten.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html",
-   "published": "2026-10-13T20:55:26+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T20:55:26+00:00",
-   "img": "https://images.tagesschau.de/image/c17c1b9f-6ab3-4be1-a183-17929691b4a9/AAABnIpC4o8/AAABnSSvrFg/16x9-big/zucker-softdrink-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Mehreinnahmen - Schwarz-rote Koalition einigt sich auf Zuckersteuer",
-     "link": "https://www.deutschlandfunk.de/schwarz-rote-koalition-einigt-sich-auf-zuckersteuer-102.html"
-    }
-   ]
   },
   {
    "id": "na1694489f5",
@@ -455,6 +840,11 @@
      "source": "Tagesschau",
      "title": "Papst Leo XIV. hat Lungenkrebs",
      "link": "https://www.tagesschau.de/ausland/papst-erfolgreich-operiert-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Papst Leo XIV. wegen Lungenkrebs operiert - News kompakt: Das Wichtigste kurz gefasst",
+     "link": "https://www.dw.com/de/papst-leo-xiv-wegen-lungenkrebs-operiert-news-kompakt-das-wichtigste-kurz-gefasst/a-79656393?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -682,7 +1072,7 @@
    "id": "nb3f7360d33",
    "topic": "politik",
    "title": "Nach Rücktritt von Bas: SPD sucht neue Vorsitzende",
-   "text": "Wer wird künftig an der Doppelspitze der SPD stehen? Klingbeil gilt vielen als Favorit, lässt seine Kandidatur jedoch offen. Pistorius? Schwesig? Rehlinger? Sie alle haben bereits abgesagt - und die Rufe nach einer neuen Aufgabenverteilung werden lauter.",
+   "text": "Wer wird künftig die SPD führen? Klingbeil gilt vielen als Favorit, lässt seine Kandidatur jedoch offen. Pistorius? Schwesig? Rehlinger? Sie alle haben abgesagt oder zumindest vorerst abgewunken. Rufe nach einem Neustart werden lauter.",
    "link": "https://www.tagesschau.de/inland/innenpolitik/spd-debatte-vorsitz-100.html",
    "published": "2026-10-13T16:33:51+00:00",
    "source": "Tagesschau",
@@ -790,7 +1180,8 @@
    "source": "Deutsche Welle",
    "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
    "lang": "de",
-   "expires": "2026-10-17T14:53:00+00:00"
+   "expires": "2026-10-17T14:53:00+00:00",
+   "img": "https://static.dw.com/image/79648328_302.jpg"
   },
   {
    "id": "nebcfeb37a8",
@@ -803,14 +1194,7 @@
    "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
    "lang": "de",
    "expires": "2026-10-17T14:37:00+00:00",
-   "img": "https://static.dw.com/image/79650913_302.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Rücktritt von Bärbel Bas: Neue Hoffnung für Koalition?",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/bas-ruecktritt-koalition-100.html"
-    }
-   ]
+   "img": "https://static.dw.com/image/79650913_302.jpg"
   },
   {
    "id": "n66a4ce5f93",
@@ -890,7 +1274,7 @@
   },
   {
    "id": "n57f70c8874",
-   "topic": "wirtschaft",
+   "topic": "politik",
    "title": "Bei diesen drei Themen stockt die Rentenreform",
    "text": "Nach dem überraschenden Rücktritt von Bundesarbeitsministerin Bas muss ihr Nachfolger Schweitzer die Rentenreform voranbringen - ausgerechnet er, der die Pläne bisher kritisiert hatte. Drei Knackpunkte gilt es zu lösen.",
    "link": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-empfehlungen-knackpunkte-100.html",
@@ -1303,352 +1687,6 @@
    "type": "Fachmedium (KI)",
    "lang": "de",
    "expires": "2026-10-20T08:23:28+00:00"
-  },
-  {
-   "id": "ndad187a53e",
-   "topic": "welt",
-   "title": "Iran: Machtkämpfe inmitten der Krise",
-   "text": "Hardliner erhöhen den Druck auf Irans Regierung und fordern die Amtsenthebung von Außenminister Araghtschi. Auch der Rücktritt des Ölministers bietet Präsident Peseschkian keine Entlastung.",
-   "link": "https://www.dw.com/de/iran-machtkämpfe-inmitten-der-krise/a-79640437?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-13T08:17:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-17T08:17:00+00:00",
-   "img": "https://static.dw.com/image/79638716_302.jpg"
-  },
-  {
-   "id": "nc2e163ac3d",
-   "topic": "welt",
-   "title": "Kurz vor Zwischenwahlen: Durchsuchung bei Trump-Kritikerin Omar",
-   "text": "Erst lässt die US-Justiz Ilhan Omars Haus durchsuchen, dann beschimpft der Präsident die demokratische Abgeordnete aufgrund ihrer Herkunft. Sie ist nicht zum ersten Mal Trumps Attacken ausgesetzt und spricht von politischer Einschüchterung.",
-   "link": "https://www.tagesschau.de/ausland/amerika/usa-ilhan-omar-durchsuchung-100.html",
-   "published": "2026-10-13T07:57:41+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T07:57:41+00:00",
-   "img": "https://images.tagesschau.de/image/592e112b-0d16-4da2-8f37-671047ff649b/AAABoTPmV6c/AAABnSSvrFg/16x9-big/omar-106.jpg?width=1920"
-  },
-  {
-   "id": "nac36f80339",
-   "topic": "wirtschaft",
-   "title": "Update Wirtschaft vom 13.10.2026",
-   "text": "Update Wirtschaft vom 13.10.2026",
-   "link": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1665282.html",
-   "published": "2026-10-13T07:48:13+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T07:48:13+00:00",
-   "img": "https://images.tagesschau.de/image/b4c9c59c-c044-4c42-ad28-ed14edfb5d22/AAABoTQ7slI/AAABnSSvrFg/16x9-big/sendungsbild-1810642.jpg?width=1920"
-  },
-  {
-   "id": "n725f181500",
-   "topic": "welt",
-   "title": "News kompakt: Cyberangriff legt Kühlanlagen in Frankreich lahm",
-   "text": "In französischen Supermärkten müssen nach einem Hackerangriff zahlreiche Lebensmittel entsorgt werden. Der IWF erwartet für Deutschland mehr Wirtschaftswachstum. Der DW-Nachrichtenüberblick.",
-   "link": "https://www.dw.com/de/news-kompakt-cyberangriff-legt-kühlanlagen-in-frankreich-lahm/a-79646816?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-13T07:00:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-17T07:00:00+00:00",
-   "img": "https://static.dw.com/image/79645567_302.jpg"
-  },
-  {
-   "id": "ne7e6b25a9c",
-   "topic": "welt",
-   "title": "Wehrt sich Europa gegen die US-Sanktionen gegen das Weltstrafgericht?",
-   "text": "Die US-Sanktionen gegen den Internationalen Strafgerichtshof werden als Angriff auf das Völkerrecht kritisiert. Sie wirken sich auch direkt auf Tätigkeiten in der EU aus. In Europa wächst die Forderung, das nicht länger zu tolerieren. Von J.-M. Magro.",
-   "link": "https://www.tagesschau.de/ausland/europa/eu-istgh-us-sanktionen-100.html",
-   "published": "2026-10-13T06:36:11+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T06:36:11+00:00",
-   "img": "https://images.tagesschau.de/image/bf15d8c9-9431-4551-b23e-07ee40b0a12f/AAABoTP1tpU/AAABnSSvrFg/16x9-big/istgh-122.jpg?width=1920"
-  },
-  {
-   "id": "n44f6a9b0c9",
-   "topic": "welt",
-   "title": "Frankreich: Glucksmanns Linke sucht die junge Generation",
-   "text": "Raphaël Glucksmann will Frankreichs Linke ohne den Linkspopulisten Jean-Luc Mélenchon zurück an die Macht führen. Doch der Rivale ist gerade bei jungen Wählern stark. Wie kann der Vorwahlsieger sie für sich gewinnen?",
-   "link": "https://www.dw.com/de/frankreich-glucksmanns-linke-sucht-die-junge-generation/a-79643028?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-13T05:56:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-17T05:56:00+00:00",
-   "img": "https://static.dw.com/image/79643501_302.jpg"
-  },
-  {
-   "id": "n19c59956c7",
-   "topic": "welt",
-   "title": "Auftakt der Haushaltsdebatte: \"Frankreich steht finanziell mit dem Rücken zur Wand\"",
-   "text": "In Frankreich beginnen heute die Haushaltsberatungen für das kommende Jahr. Die Regierung will kräftig sparen, um das Defizit zu reduzieren. Ein halbes Jahr vor der Präsidentenwahl dürfte die Debatte hitzig werden. Von C. Dylla.",
-   "link": "https://www.tagesschau.de/ausland/europa/frankreich-haushaltsdebatte-100.html",
-   "published": "2026-10-13T05:37:12+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T05:37:12+00:00",
-   "img": "https://images.tagesschau.de/image/5d0efb1c-30be-422f-8af6-94c7c66e44fe/AAABoTFFW6A/AAABnSSvrFg/16x9-big/nationalversammlung-108.jpg?width=1920"
-  },
-  {
-   "id": "n024acaa4c8",
-   "topic": "welt",
-   "title": "Neue Schülerproteste: Wie ein Brandbeschleuniger in Frankreichs Krise",
-   "text": "Dass Demonstrationen eskalieren, kennt Frankreich. Doch das Ausmaß der Schülerproteste übertrifft frühere Bewegungen deutlich. Das zeigt, wie tief das Land gespalten ist. Heute soll erneut protestiert werden. Von Julia Borutta.",
-   "link": "https://www.tagesschau.de/ausland/europa/frankreich-neue-schuelerproteste-100.html",
-   "published": "2026-10-13T05:37:06+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T05:37:06+00:00",
-   "img": "https://images.tagesschau.de/image/1c81321c-4b7d-42aa-8f14-8d4383ae40fe/AAABoTAq0Ek/AAABnSSvrFg/16x9-big/schuelerproteste-frankreich-110.jpg?width=1920"
-  },
-  {
-   "id": "n3f8b656a0b",
-   "topic": "wirtschaft",
-   "title": "IWF hebt Prognose für deutsche Wirtschaft deutlich an",
-   "text": "Fast doppelt so stark wie bislang erwartet: Der Internationale Währungsfonds hebt die Wirtschaftsprognose für Deutschland auf 1,3 Prozent an. Für die Weltwirtschaft gibt es eine kleine Änderung.",
-   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-prognose-deutschland-104.html",
-   "published": "2026-10-13T03:30:15+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T03:30:15+00:00",
-   "img": "https://images.tagesschau.de/image/34c67ff2-d7d1-4178-b0a5-8034896526ef/AAABoTMrdBo/AAABnSSvrFg/16x9-big/containerterminal-hamburg-100.jpg?width=1920"
-  },
-  {
-   "id": "ne64f49d9af",
-   "topic": "politik",
-   "title": "Konjunktur - Auch IWF hebt Wirtschaftsprognose für Deutschland auf 1,3 Prozent an",
-   "text": "Der Internationale Währungsfonds hat seine Prognose für das Wirtschaftswachstum in Deutschland deutlich nach oben korrigiert.",
-   "link": "https://www.deutschlandfunk.de/auch-iwf-hebt-wirtschaftsprognose-fuer-deutschland-auf-1-3-prozent-an-100.html",
-   "published": "2026-10-13T02:19:49+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-15T02:19:49+00:00",
-   "img": "https://bilder.deutschlandfunk.de/6d/c7/0c/57/6dc70c57-90a5-421c-8886-e4ca0c6acbba/internationaler-waehrungsfonds-100-1920x1920.jpg"
-  },
-  {
-   "id": "n83899b9b1e",
-   "topic": "politik",
-   "title": "Bundesregierung - Merz will Stromsteuer senken - Klingbeil äußert Zweifel an Finanzierung",
-   "text": "Bundeskanzler Merz hat angekündigt, die Stromsteuer für Unternehmen und Privatleute nun zu senken.",
-   "link": "https://www.deutschlandfunk.de/merz-will-stromsteuer-senken-klingbeil-aeussert-zweifel-an-finanzierung-102.html",
-   "published": "2026-10-13T02:19:49+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-15T02:19:49+00:00"
-  },
-  {
-   "id": "n5e91e78545",
-   "topic": "politik",
-   "title": "SPD - Nach Bas-Rücktritt: Schweitzer tritt Amt als Bundesarbeitsminister an - Debatte über zwischenmenschlichen Umgang in der Politik",
-   "text": "Einen Tag nach dem Rücktritt von Bundesarbeitsministerin Bas wird heute ihr Nachfolger ins Amt eingeführt. Der frühere rheinland-pfälzische Ministerpräsident und SPD-Politiker Schweitzer erhält seine Ernennungsurkunde von Bundespräsident Steinmeier.",
-   "link": "https://www.deutschlandfunk.de/nach-bas-ruecktritt-schweitzer-tritt-amt-als-bundesarbeitsminister-an-debatte-ueber-zwischenmenschli-100.html",
-   "published": "2026-10-13T02:19:49+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-15T02:19:49+00:00",
-   "img": "https://bilder.deutschlandfunk.de/3c/e3/ed/56/3ce3ed56-d4f1-412a-9d37-f7622a8b3193/alexander-schweitzer-106-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "CDU fordert Tempo vom neuen Arbeitsminister Schweitzer",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-tempo-reformen-koalition-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n802c282d35",
-   "topic": "politik",
-   "title": "Neue Zahlen - Cybermobbing treibt immer mehr Schüler in die Verzweiflung: Eltern und Lehrer oft überfordert",
-   "text": "Experten zufolge steigt nach wie vor die Zahl der Kinder und Jugendlichen, die mit Bloßstellungen oder Beleidigungen im Internet und in Sozialen Medien fertig werden müssen.",
-   "link": "https://www.deutschlandfunk.de/cybermobbing-treibt-immer-mehr-schueler-in-die-verzweiflung-eltern-und-lehrer-oft-ueberfordert-100.html",
-   "published": "2026-10-13T02:19:49+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-15T02:19:49+00:00"
-  },
-  {
-   "id": "n4be4d97c77",
-   "topic": "politik",
-   "title": "Schauspieler mit Zerebralparese - \"Breaking Bad\"-Star RJ Mitte mit 34 Jahren gestorben",
-   "text": "Der vor allem durch die preisgekrönte Fernsehserie \"Breaking Bad\" bekannt gewordene US-Schauspieler Roy Frank \"RJ\" Mitte ist tot.",
-   "link": "https://www.deutschlandfunk.de/breaking-bad-star-rj-mitte-mit-34-jahren-gestorben-100.html",
-   "published": "2026-10-13T02:19:49+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-15T02:19:49+00:00",
-   "img": "https://bilder.deutschlandfunk.de/b9/85/f4/f9/b985f4f9-68c6-4ee9-b2e0-af28eb2ed780/rj-mitte-breaking-bad-100-1920x1920.jpg"
-  },
-  {
-   "id": "ncbb6e76081",
-   "topic": "politik",
-   "title": "\"Besonders grausame Art\" - Sexuelle Gewalt an Schulen: Bildungsministerin Prien erhöht Druck auf Bundesländer",
-   "text": "Bundesbildungsministerin Prien erhöht den Druck auf die Bundesländer, ihre Schulen zu Schutzkonzepten gegen sexualisierte Gewalt zu verpflichten.",
-   "link": "https://www.deutschlandfunk.de/sexuelle-gewalt-an-schulen-bildungsministerin-prien-erhoeht-druck-auf-bundeslaender-100.html",
-   "published": "2026-10-13T02:19:49+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-15T02:19:49+00:00",
-   "img": "https://bilder.deutschlandfunk.de/90/f0/5b/6c/90f05b6c-86ba-46c2-948e-0d8ef966088e/bundesfamilienministerin-prien-jugend-familie-100-1920x1920.jpg"
-  },
-  {
-   "id": "nc6aa876b37",
-   "topic": "nfl",
-   "title": "Rams open second half with a touchdown, lead 14-13",
-   "text": "The Rams had not scored on an opening possession of the first half or the second half this season until Monday night.",
-   "link": "https://sports.yahoo.com/articles/rams-open-second-half-touchdown-020327557.html",
-   "published": "2026-10-13T02:03:27+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-18T02:03:27+00:00"
-  },
-  {
-   "id": "n9c4dbb81aa",
-   "topic": "nfl",
-   "title": "Ross Matiscik nursing shoulder injury",
-   "text": "Jacksonville Jaguars long snapper Ross Matiscik suffered a shoulder injury in the Week 5 game, although he is not expected to be placed on IR",
-   "link": "https://sports.yahoo.com/articles/ross-matiscik-nursing-shoulder-injury-020100808.html",
-   "published": "2026-10-13T02:01:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-18T02:01:00+00:00"
-  },
-  {
-   "id": "n8dec14bed4",
-   "topic": "politik",
-   "title": "Rücktritt von Bärbel Bas: Neue Hoffnung für Koalition?",
-   "text": "Ist der Rücktritt von Bärbel Bas eine Chance für einen Neuanfang in der Koalition? Kanzler Merz verspricht sich einiges vom neuen Arbeitsminister Schweitzer - doch sicher ist nichts im politischen Berlin. Von Dagmar Pepping.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/bas-ruecktritt-koalition-100.html",
-   "published": "2026-10-13T01:38:12+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T01:38:12+00:00",
-   "img": "https://images.tagesschau.de/image/4e846c1f-34a7-46e1-8785-e2421c05c14d/AAABoTKtFak/AAABnSSvrFg/16x9-big/klingbeil-merz-156.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Nach Rücktritt von Bärbel Bas: Merz geht auf Konfrontationskurs",
-     "link": "https://www.dw.com/de/nach-rücktritt-von-bärbel-bas-merz-geht-auf-konfrontationskurs/a-79650723?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n1165bda5a9",
-   "topic": "nfl",
-   "title": "Should winless Titans bench Cam Ward? Why abandoning the former No. 1 pick will not fix Tennessee's turmoil",
-   "text": "Turning to Mitch Trubisky will not fix an offense averaging just 11.6 points or an expensive, revamped defense that has disappointed",
-   "link": "https://www.cbssports.com/nfl/news/why-titans-should-not-bench-cam-ward-robert-saleh/",
-   "published": "2026-10-13T01:18:35+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-18T01:18:35+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/12/17a15c9e-2a53-463a-a3c0-3463197057de/cam.jpg"
-  },
-  {
-   "id": "nd95aee0950",
-   "topic": "nfl",
-   "title": "Bill Belichick noticeably absent from Patriots' celebration of 2001 Super Bowl team",
-   "text": "Belichick recently attended the Giants' Super Bowl reunion",
-   "link": "https://www.cbssports.com/nfl/news/bill-belichick-absent-patriots-celebration-2001-super-bowl-team/",
-   "published": "2026-10-13T01:16:25+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-18T01:16:25+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2024/01/11/23dcd011-cce0-4b17-a977-36ca02a48291/template-pic.jpg"
-  },
-  {
-   "id": "n83b9b34a29",
-   "topic": "wirtschaft",
-   "title": "Autoindustrie: VW in der Slowakei - hoffnungsvolle Krise?",
-   "text": "In Bratislava steht das zweitgrößte Werk von Volkswagen - eines der modernsten. Dennoch könnte es schrumpfen. Doch es gibt Hoffnung in der Slowakei, deren Einwohner weltweit am meisten Autos pro Kopf produzieren. Von M. Allweiss.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-slowakei-hoffnung-100.html",
-   "published": "2026-10-13T00:10:57+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T00:10:57+00:00"
-  },
-  {
-   "id": "n4e93688b73",
-   "topic": "nfl",
-   "title": "Klint Kubiak confirms Kirk Cousins is still Las Vegas Raiders’ starting quarterback despite Fernando Mendoza’s debut",
-   "text": "Highlights from the head coach’s press conference after the loss in New England",
-   "link": "https://sports.yahoo.com/articles/klint-kubiak-confirms-kirk-cousins-210813312.html",
-   "published": "2026-10-12T21:08:13+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-17T21:08:13+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/9e6c98cd294e8ea2827ea4315d5c0059.jpg"
-  },
-  {
-   "id": "nefc7c3cb59",
-   "topic": "nfl",
-   "title": "Broncos estimate CB Riley Moss as limited practice participant",
-   "text": "The Broncos did not practice Monday, but the NFL required an estimated injury report ahead of Thursday Night Football.",
-   "link": "https://sports.yahoo.com/articles/broncos-estimate-cb-riley-moss-210356882.html",
-   "published": "2026-10-12T21:03:56+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-17T21:03:56+00:00"
-  },
-  {
-   "id": "n85ca578caa",
-   "topic": "welt",
-   "title": "Riad erneut von Explosionen erschüttert - Abschuss von Rakete gemeldet",
-   "text": "In der saudischen Hauptstadt Riad ist es erneut zu Explosionen gekommen. Offenbar wurde eine von der Huthi-Miliz abgefeuerte Rakete zerstört. Die Bewohner waren zuvor vor einer \"feindlichen Bedrohung\" gewarnt worden.",
-   "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-angriff-100.html",
-   "published": "2026-10-12T21:03:44+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-15T21:03:44+00:00",
-   "img": "https://images.tagesschau.de/image/b06d3d47-bbee-459c-947f-fb46f598dccd/AAABlrqI7A0/AAABnSSvrFg/16x9-big/saudi-arabien-riad-100.jpg?width=1920"
-  },
-  {
-   "id": "nd634924a20",
-   "topic": "nfl",
-   "title": "Rams vs. Bills prediction, odds: Matthew Stafford, Josh Allen clash in Week 5 'MNF' matchup",
-   "text": "Here's how to watch Rams vs. Bills, along with the latest odds, key matchups and our Week 5 'Monday Night Football' prediction",
-   "link": "https://www.cbssports.com/nfl/news/rams-vs-bills-how-to-watch-prediction-odds-monday-night-football/",
-   "published": "2026-10-12T21:02:54+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-17T21:02:54+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/12/e869e524-7a21-49cd-be6c-df8c4024fdfb/rams-bills.jpg"
-  },
-  {
-   "id": "n5ea0f8404e",
-   "topic": "nfl",
-   "title": "Deebo Samuel injury: 49ers wideout expected to miss multiple weeks with hamstring injury",
-   "text": "Samuel's injury occurred late in Sunday's win over Seattle",
-   "link": "https://www.cbssports.com/nfl/news/49ers-deebo-samuel-hamstring-injury-update/",
-   "published": "2026-10-12T20:15:27+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-17T20:15:27+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/12/fd2877ce-2640-4b6b-a1dc-51d557e6ac77/deeboweek1.jpg"
   }
  ]
 }
