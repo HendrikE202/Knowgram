@@ -1,55 +1,457 @@
 {
- "generated": "2026-10-14T14:31:24.676016+00:00",
+ "generated": "2026-10-14T19:24:58.045798+00:00",
  "briefing": [
   "nd0d03e43c0",
   "nf235c18318",
   "n5f5d7ee9d6",
+  "n95b8e96a8b",
   "na858959eb7",
-  "nde9a48e459",
-  "nfc823c5665",
-  "nd84b688efa",
-  "n370c486f0d",
-  "na13ef146a2"
+  "n62dcde0165",
+  "nad72317995",
+  "n159e913991",
+  "n20e25186cd"
  ],
  "ranked": [
   {
    "id": "nd0d03e43c0",
-   "s": 36.4
+   "s": 35.2
   },
   {
    "id": "nf235c18318",
-   "s": 31.8
+   "s": 30.6
   },
   {
    "id": "n5f5d7ee9d6",
-   "s": 30.7
+   "s": 29.5
+  },
+  {
+   "id": "n95b8e96a8b",
+   "s": 26.7
   },
   {
    "id": "na858959eb7",
-   "s": 26.4
+   "s": 25.2
   },
   {
-   "id": "nde9a48e459",
-   "s": 23.0
-  },
-  {
-   "id": "nfc823c5665",
-   "s": 23.0
-  },
-  {
-   "id": "nd84b688efa",
-   "s": 23.0
-  },
-  {
-   "id": "n370c486f0d",
+   "id": "n62dcde0165",
    "s": 22.9
   },
   {
-   "id": "na13ef146a2",
-   "s": 22.0
+   "id": "nad72317995",
+   "s": 22.9
+  },
+  {
+   "id": "n159e913991",
+   "s": 22.2
+  },
+  {
+   "id": "n20e25186cd",
+   "s": 21.8
   }
  ],
  "items": [
+  {
+   "id": "nee3161b1ab",
+   "topic": "ki",
+   "title": "Laut Google ist sich selbst verbessernde KI lange nicht in Sicht",
+   "text": "Google-Ingenieur Haydn Belfield sieht bei Deepmind keine messbare Beschleunigung der KI-Forschung durch KI. Zwar schreibt KI über 75 Prozent des Produktionscodes, doch 88 Prozent der Änderungen erfordern weiterhin menschliche Steuerung. Der hauseigene General Capability Index zeigt gleichmäßiges Wachstum ohne …",
+   "link": "https://the-decoder.de/laut-google-ist-sich-selbst-verbessernde-ki-lange-nicht-in-sicht/",
+   "published": "2026-10-14T19:12:44+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-21T19:12:44+00:00"
+  },
+  {
+   "id": "n87a3e5248e",
+   "topic": "politik",
+   "title": "Erster Heimsieg der Saison: SV Wehen Wiesbaden fertigt Alemannia Aachen ab",
+   "text": "Der SV Wehen Wiesbaden ist unter dem neuen Trainer Jochen Seitz weiter im Aufwind. Gegen Aachen zeigt das Team eine gute Defensivleistung und schlägt auch in der Offensive zu.",
+   "link": "https://www.hessenschau.de/sport/fussball/wehen-wiesbaden/erster-heimsieg-der-saison-sv-wehen-wiesbaden-fertigt-alemannia-aachen-ab-v1,svww-aachen-112.html",
+   "published": "2026-10-14T19:11:49+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-18T19:11:49+00:00",
+   "img": "https://www.hessenschau.de/sport/fussball/wehen-wiesbaden/svww-aachen-114~_t-1792005109091_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "nbac39e76db",
+   "topic": "nfl",
+   "title": "Cardinals designate S Kitan Crawford for return, sign TE Shawn Bowman to active roster",
+   "text": "The Cardinals opened the practice window for safety Kitan Crawford on Wednesday.",
+   "link": "https://sports.yahoo.com/articles/cardinals-designate-kitan-crawford-return-190949844.html",
+   "published": "2026-10-14T19:09:49+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-19T19:09:49+00:00"
+  },
+  {
+   "id": "n0695bf985f",
+   "topic": "politik",
+   "title": "Berlin - Linke, Grüne und SPD sondieren weiter",
+   "text": "In Berlin sollen die Sondierungen von Linken, Grünen und SPD fortgesetzt werden. Der SPD-Landesvorsitzende Krach sagte im RBB-Fernsehen, die drei Parteien hätten sich bei einem Treffen am Abend darüber verständigt, dass die gemeinsame Erklärung zum Vorgehen gegen Antisemitismus weiterhin gelte. Sie werde Bestandteil …",
+   "link": "https://www.deutschlandfunk.de/linke-gruene-und-spd-sondieren-weiter-100.html",
+   "published": "2026-10-14T19:07:16+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-16T19:07:16+00:00"
+  },
+  {
+   "id": "n62dcde0165",
+   "topic": "politik",
+   "title": "Sicherheit und Sozialpolitik - Regierungserklärung von Merz: Kein Euro, der in die Ukraine fließe, fehle bei den Sozial- oder den Bildungsausgaben",
+   "text": "In einer Regierungserklärung hat Bundeskanzler Merz davor gewarnt, das Thema Gerechtigkeit gegen Sicherheit auszuspielen. Kein Euro, der in die Ukraine fließe, fehle bei den Sozialausgaben oder den Bildungsausgaben, sagte Merz im Bundestag.",
+   "link": "https://www.deutschlandfunk.de/regierungserklaerung-von-merz-kein-euro-der-in-die-ukraine-fliesse-fehle-bei-den-sozial-oder-den-bil-100.html",
+   "published": "2026-10-14T19:07:16+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-16T19:07:16+00:00",
+   "img": "https://bilder.deutschlandfunk.de/5e/89/44/9b/5e89449b-59ae-4bc1-a157-b8f083709c81/bundeskanzler-merz-bundestag-regierungserklaerung-106-1920x1920.jpg"
+  },
+  {
+   "id": "nad72317995",
+   "topic": "politik",
+   "title": "Krieg gegen die Ukraine - Präsident Selenskyj enttäuscht von mangelnder US-Unterstützung",
+   "text": "Der ukrainische Präsident hat sich enttäuscht über die nach seiner Einschätzung mangelnde Unterstützung durch die Vereinigten Staaten geäußert. In einem in Großbritannien geführten Interview sagte Selenskyi, es sei bedauerlich, wenn Präsident Trump in dem Konflikt die Seite wechsle. Er rief zugleich den US-Unternehmer …",
+   "link": "https://www.deutschlandfunk.de/praesident-selenskyj-enttaeuscht-von-mangelnder-us-unterstuetzung-100.html",
+   "published": "2026-10-14T19:07:16+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-16T19:07:16+00:00",
+   "img": "https://bilder.deutschlandfunk.de/6a/5a/90/a6/6a5a90a6-a281-4d98-b3f5-0532948b7936/starlink-ukraine-100-1920x1920.jpg"
+  },
+  {
+   "id": "nfd9aad2105",
+   "topic": "politik",
+   "title": "Nach Rücktritt von Bas - SPD Baden-Württemberg fordert Neustart an Bundesspitze: Neue Führung darf nicht Teil der Bundesregierung sein",
+   "text": "Die SPD in Baden-Württemberg hat sich dafür ausgesprochen, dass die künftigen Vorsitzenden der Bundespartei nicht zugleich ein Ministeramt bekleiden.",
+   "link": "https://www.deutschlandfunk.de/spd-baden-wuerttemberg-fordert-neustart-an-bundesspitze-neue-fuehrung-darf-nicht-teil-der-bundesregi-100.html",
+   "published": "2026-10-14T19:07:16+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-16T19:07:16+00:00",
+   "img": "https://bilder.deutschlandfunk.de/0c/f6/1d/e2/0cf61de2-4aed-4987-96d3-74d6cb3ee336/spd-122-1920x1920.jpg"
+  },
+  {
+   "id": "n263855db66",
+   "topic": "politik",
+   "title": "Gesundheitspolitik - Schätzerkreis: Zusatzbeitrag für Krankenkassen 2027 unverändert",
+   "text": "Der durchschnittliche Zusatzbeitragssatz für gesetzliche Krankenversicherte soll im kommenden Jahr unverändert bei 2,9 Prozent liegen.",
+   "link": "https://www.deutschlandfunk.de/schaetzerkreis-zusatzbeitrag-fuer-krankenkassen-2027-unveraendert-102.html",
+   "published": "2026-10-14T19:07:16+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-16T19:07:16+00:00"
+  },
+  {
+   "id": "n72cf0babc7",
+   "topic": "politik",
+   "title": "Dänemark - Grenzkontrollen an deutscher Grenze bis Mai 2027 verlängert",
+   "text": "Dänemark verlängert die Kontrollen an der Grenze zu Deutschland um weitere sechs Monate bis Mitte Mai kommenden Jahres.",
+   "link": "https://www.deutschlandfunk.de/grenzkontrollen-an-deutscher-grenze-bis-mai-2027-verlaengert-100.html",
+   "published": "2026-10-14T19:07:16+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-16T19:07:16+00:00",
+   "img": "https://bilder.deutschlandfunk.de/FI/LE/_3/00/FILE_300a69607c97ad16ede441dab9b5a36d/65542111-jpg-100-768x768.jpg"
+  },
+  {
+   "id": "nc11c829909",
+   "topic": "nfl",
+   "title": "Agent's Take: Making sense of Eagles' salary cap manipulation after Lane Johnson's retirement",
+   "text": "The Eagles kept Johnson on their 53-man roster after his abrupt Week 5 retirement. Here's a look at why and what they gain from it",
+   "link": "https://www.cbssports.com/nfl/news/agents-take-eagles-salary-cap-manipulation-lane-johnson-retirement/",
+   "published": "2026-10-14T19:06:32+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-19T19:06:32+00:00"
+  },
+  {
+   "id": "n072fe9a0ef",
+   "topic": "nfl",
+   "title": "Eagles open practice windows for 4 players to return from injured reserve",
+   "text": "Plus: The team made another practice squad signing.",
+   "link": "https://sports.yahoo.com/articles/eagles-open-practice-windows-4-190350565.html",
+   "published": "2026-10-14T19:03:50+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-19T19:03:50+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/5c71a24df3b6bda49f5eb962a2a08756.jpg"
+  },
+  {
+   "id": "n74812b36f7",
+   "topic": "it",
+   "title": "Neues Apple TV 4K und HomeView: Wie Apple die EU unter Druck setzt",
+   "text": "Apple hinkt bei KI hinterher und nutzt HomeView und das Apple TV 4K, um Druck auf die EU zu machen. Doch die technischen Begründungen sind dünn.",
+   "link": "https://www.heise.de/hintergrund/Neues-Apple-TV-4K-und-HomeView-Wie-Apple-die-EU-unter-Druck-setzt-11487611.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-14T19:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-19T19:00:00+00:00"
+  },
+  {
+   "id": "n4ef661aaac",
+   "topic": "wirtschaft",
+   "title": "Wirtschaft vor acht vom 14.10.2026",
+   "text": "Wirtschaft vor acht vom 14.10.2026",
+   "link": "https://www.tagesschau.de/video/video-1666304.html",
+   "published": "2026-10-14T18:34:44+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T18:34:44+00:00",
+   "img": "https://images.tagesschau.de/image/b4debcf8-6eed-4e4f-b7fc-2c5ccb103e97/AAABoTux6LI/AAABnSSvrFg/16x9-big/sendungsbild-1811570.jpg?width=1920"
+  },
+  {
+   "id": "n7c8d5b70c8",
+   "topic": "politik",
+   "title": "Schutz vor Spionage - Bundeswehr darf Netzwerferdrohnen kaufen",
+   "text": "Zum Schutz vor Spionage und Sabotage darf die Bundeswehr Netzwerferdrohnen kaufen. Das entschied der Haushaltsausschuss im Bundestag. Auch neue Feuereinheiten für das \"Patriot\"-Luftverteidigungssystem billigte er.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/ruestungsvorhaben-genehmigt-bundestag-100.html",
+   "published": "2026-10-14T18:29:12+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T18:29:12+00:00",
+   "img": "https://images.tagesschau.de/image/b32a7c6c-b933-4813-b727-6f7e60f0f8bc/AAABoTuMq90/AAABnSSvrFg/16x9-big/netzwerferdrohne-100.jpg?width=1920"
+  },
+  {
+   "id": "n1ea5f0700c",
+   "topic": "welt",
+   "title": "Was Kabilas Rebellen-Koalition für den Konflikt im Kongo bedeutet",
+   "text": "Kongos Ex-Präsident Joseph Kabila verbündet sich mit der M23 und weiteren Rebellengruppen. Was bedeutet die neue Allianz FRN für den Friedensprozess im Osten der Demokratischen Republik Kongo?",
+   "link": "https://www.dw.com/de/was-kabilas-rebellen-koalition-für-den-konflikt-im-kongo-bedeutet/a-79662889?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-14T18:06:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-18T18:06:00+00:00",
+   "img": "https://static.dw.com/image/79650191_302.jpg"
+  },
+  {
+   "id": "nf9ebdc1600",
+   "topic": "it",
+   "title": "Top 5: Der beste Hemdenbügler im Test – Bügelpuppen von Cleanmaxx & Co. ab 50 €",
+   "text": "Hemdenbügler ersparen Bügelbrett und heißes Eisen. Wir haben fünf Bügelpuppen von 48 bis 109 Euro getestet, das günstigste Modell ist besser als manch teureres.",
+   "link": "https://www.heise.de/bestenlisten/testsieger/top-5-der-beste-hemdenbuegler-im-test-buegelpuppen-von-cleanmaxx-und-co-ab-50-euro/f3wvxj6?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-14T18:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-19T18:00:00+00:00"
+  },
+  {
+   "id": "nb5011c0db9",
+   "topic": "nfl",
+   "title": "A.J. Brown injury update: Patriots opening up WR's practice window with return imminent",
+   "text": "Brown suffered a high ankle sprain in New England's season-opening loss to Seattle",
+   "link": "https://www.cbssports.com/nfl/news/a-j-brown-injury-update-new-england-patriots/",
+   "published": "2026-10-14T17:58:01+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-19T17:58:01+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/14/2924d16a-9f12-4d1b-aaec-23eb3b70532d/template-pic.jpg"
+  },
+  {
+   "id": "ndf2a303bab",
+   "topic": "ki",
+   "title": "Forscher spüren unkontrollierte Flotte chinesischer KI-Agenten auf und kommunizieren mit ihr",
+   "text": "Forscher haben erstmals eine unkontrollierte Flotte chinesischer KI-Agenten aufgespürt und via Mail mit ihnen kommuniziert. Die auf Tencent Cloud laufenden Agenten starteten zuvor mehr als 2600 Versuche, Daten von Alibabas Kartendienst Amap abzugreifen, und umgingen dabei eigenständig Bot-Sperren. Im Austausch mit den …",
+   "link": "https://the-decoder.de/forscher-spueren-unkontrollierte-flotte-chinesischer-ki-agenten-auf-und-kommunizieren-mit-ihr/",
+   "published": "2026-10-14T17:55:37+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-21T17:55:37+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/chinese_agent_swarms.png"
+  },
+  {
+   "id": "na8f18456bd",
+   "topic": "it",
+   "title": "Apple-Forscher nutzen Apple-Silicon-Macs im Idle-Betrieb als virtuelle GPUs",
+   "text": "Die KI sucht händeringend nach Ressourcen. Rechenzentren sind teuer und energiefressend. Helfen vielleicht Macs, die gerade im Leerlauf sind?",
+   "link": "https://www.heise.de/news/Apple-Forscher-nutzen-Apple-Silicon-Macs-im-Idle-Betrieb-als-virtuelle-GPUs-11487025.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-14T17:16:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-19T17:16:00+00:00"
+  },
+  {
+   "id": "n815b9ad32f",
+   "topic": "wirtschaft",
+   "title": "Marktbericht: DAX bleibt im Seitwärtstrend",
+   "text": "DAX-Anleger haben sich heute zurückgehalten, der Index pendelt weiter um die Marke von 25.000 Punkten. Auch neue US-Inflationsdaten ändern daran nichts. Bestimmend bleibt der Stillstand in Nahost.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-berichtssaison-100.html",
+   "published": "2026-10-14T16:24:05+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T16:24:05+00:00",
+   "img": "https://images.tagesschau.de/image/b67c6b6d-ed89-46e7-9b57-495550086b8e/AAABn1pS1lI/AAABnSSvrFg/16x9-big/boerse-524.jpg?width=1920"
+  },
+  {
+   "id": "nda84bf5daa",
+   "topic": "welt",
+   "title": "Istanbuler Ex-Bürgermeister İmamoğlu sagt erstmals in Mammutprozess aus",
+   "text": "Es ist ein Mammutprozess gegen die Istanbuler Stadtverwaltung und den abgesetzten Bürgermeister: İmamoğlu hat nach mehr als anderthalb Jahren U-Haft erstmals vor Gericht ausgesagt. Parallel stürmte die Polizei den TV-Sender Halk TV. Von B. Weber.",
+   "link": "https://www.tagesschau.de/ausland/asien/tuerkei-imamoglu-prozess-110.html",
+   "published": "2026-10-14T16:20:57+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T16:20:57+00:00",
+   "img": "https://images.tagesschau.de/image/38405781-42c1-4856-b5fd-48787216f5d5/AAABla0DiJQ/AAABnSSvrFg/16x9-big/imamoglu-140.jpg?width=1920"
+  },
+  {
+   "id": "n159e913991",
+   "topic": "welt",
+   "title": "Kanzler Merz im Bundestag: Gerechtigkeit ist Grundlage der Demokratie",
+   "text": "Dem Bundeskanzler bläst der Wind von vielen Seiten ins Gesicht. Die neue Überschrift seiner Regierung soll Gerechtigkeit sein. Merz verteidigt die Ukraine-Unterstützung gegen \"ganz links und ganz rechts\".",
+   "link": "https://www.dw.com/de/kanzler-merz-im-bundestag-gerechtigkeit-ist-grundlage-der-demokratie/a-79661732?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-14T16:03:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-18T16:03:00+00:00",
+   "img": "https://static.dw.com/image/79660451_302.jpg"
+  },
+  {
+   "id": "n8d1e8870c9",
+   "topic": "it",
+   "title": "(g+) Künstliche Intelligenz: Treffen sich 14 KI-Agenten",
+   "text": "Was besprechen KI-Agenten miteinander? Die New York Times hat bei einer virtuellen Dinnerparty mitgelesen. Unsere heutige Redaktionsempfehlung. Von Erin Griffith ( KI , Software )",
+   "link": "https://www.golem.de/news/kuenstliche-intelligenz-treffen-sich-14-ki-agenten-2610-214113.html",
+   "published": "2026-10-14T16:00:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-19T16:00:02+00:00",
+   "img": "https://www.golem.de/2610/214113-603423-603421_rc.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Künstliche Intelligenz: Was bedeutet die neue KI-Welt für Unternehmen?",
+     "link": "https://www.tagesschau.de/wirtschaft/digitales/kuenstliche-intelligenz-unternehmen-deutschland-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n705ea87d0d",
+   "topic": "wissenschaft",
+   "title": "Superschwere Elemente: Relativistischer Effekt kehrt atomaren Trend um",
+   "text": "Ein Molekül mit dem superschweren Element Seaborgium zeigt, dass die Relativitätstheorie auch in der Chemie enorme Bedeutung hat.",
+   "link": "https://www.spektrum.de/news/relativitaetstheorie-relativistischer-effekt-kehrt-trend-um/2349813",
+   "published": "2026-10-14T16:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-28T16:00:00+00:00"
+  },
+  {
+   "id": "nfabe62a01d",
+   "topic": "ki",
+   "title": "OpenAI soll bis Jahresende mindestens ein bis zwei neue Modelle veröffentlichen",
+   "text": "OpenAI arbeitet unter Hochdruck an einem neuen Flaggschiff-Modell, das wie Astra auf Looped Transformers setzt, einer Technik, die die Leistung gerade bei Mathematik und Code steigert, aber die das Sicherheits-Monitoring erschwert. Microsoft enthüllte versehentlich Details dazu auf einer öffentlichen Infoseite. …",
+   "link": "https://the-decoder.de/openai-soll-bis-jahresende-mindestens-ein-bis-zwei-neue-modelle-veroeffentlichen/",
+   "published": "2026-10-14T15:40:16+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-21T15:40:16+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/openai_misalign-2.png"
+  },
+  {
+   "id": "n6b27b4f3ad",
+   "topic": "welt",
+   "title": "Ukraine kritisiert fehlende US-Unterstützung - NATO und EU widersprechen",
+   "text": "Die Ukraine ist beim Abwehrkampf gegen Russland auf Geheimdienstinformationen der USA angewiesen - doch die sollen vor neuen russischen Angriffen ausgeblieben sein. Präsident Selenskyj übt Kritik. EU und NATO beschwichtigen.",
+   "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-selenskyj-fehlende-warnung-100.html",
+   "published": "2026-10-14T15:33:55+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T15:33:55+00:00",
+   "img": "https://images.tagesschau.de/image/2d8e9f13-1f20-4c6e-985d-39aa2e419db4/AAABoTrTEdA/AAABnSSvrFg/16x9-big/feuerwehrmann-rauch-ukraine-100.jpg?width=1920"
+  },
+  {
+   "id": "nc575aadf9a",
+   "topic": "politik",
+   "title": "Kanzler setzt auf gute Regierungsarbeit gegen Extremismus",
+   "text": "In seiner Regierungserklärung betont der Kanzler, dass Deutschland unter Druck stehe wie \"vielleicht noch nie\". Unzufriedenheit führe zu Extremismus. Dem müsse man \"schöpferische Anstrengung\" entgegensetzen.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/merz-regierungserklaerung-122.html",
+   "published": "2026-10-14T15:33:29+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T15:33:29+00:00",
+   "img": "https://images.tagesschau.de/image/68bdc0ce-7da7-40a7-8cda-407a94af5642/AAABoTr2zRw/AAABnSSvrFg/16x9-big/merz-1732.jpg?width=1920"
+  },
+  {
+   "id": "n23cc9558fa",
+   "topic": "it",
+   "title": "Gegen Anthropic und OpenAI: EU leitet offizielles Verfahren wegen Hugging-Face-Hack ein",
+   "text": "Weil die freiwillig eingereichten Auskünfte von Anthropic und OpenAI unzureichend waren, ermittelt die EU-Kommission nun offiziell. ( AI Act , KI )",
+   "link": "https://www.golem.de/news/gegen-anthropic-und-openai-eu-leitet-offizielles-verfahren-wegen-hugging-face-hack-ein-2610-214116.html",
+   "published": "2026-10-14T15:33:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-19T15:33:01+00:00",
+   "img": "https://www.golem.de/2610/214116-603436-603434_rc.jpg"
+  },
+  {
+   "id": "nffbe9cbd8d",
+   "topic": "welt",
+   "title": "Erbschaftssteuer: Wackeln Privilegien für Firmenerben?",
+   "text": "Wer ein kleines Vermögen erbt, zahlt oft einen höheren Steuersatz als Millionenerben großer Unternehmen. Mit dieser Ungleichbehandlung befasst sich nun das Bundesverfassungsgericht.",
+   "link": "https://www.dw.com/de/erbschaftssteuer-wackeln-privilegien-für-firmenerben/a-79651845?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-14T15:00:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-18T15:00:00+00:00",
+   "img": "https://static.dw.com/image/79660118_302.jpg"
+  },
+  {
+   "id": "n20e25186cd",
+   "topic": "welt",
+   "title": "AfD und BSW: Wie nah stehen sie Russland?",
+   "text": "Die Parteien AfD und BSW fordern im Landtag von Sachsen-Anhalt gemeinsam einen sofortigen Stopp der deutschen Ukraine-Hilfen. Was steckt hinter der Annäherung?",
+   "link": "https://www.dw.com/de/afd-und-bsw-wie-nah-stehen-sie-russland/a-79659642?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-14T14:33:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-18T14:33:00+00:00",
+   "img": "https://static.dw.com/image/79662337_302.jpg"
+  },
+  {
+   "id": "n6dd74a9046",
+   "topic": "wirtschaft",
+   "title": "Appell an Industriestaaten: IWF warnt vor steigenden Staatsschulden",
+   "text": "Der Internationale Währungsfonds fordert Industrieländer auf, ihre Haushaltsdefizite zu verringern und Schulden abzubauen. Steigende Zinsen und hohe Ausgaben schränkten den finanziellen Spielraum der Staaten zunehmend ein.",
+   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-staatsverschuldung-industrielaender-haushalt-100.html",
+   "published": "2026-10-14T14:31:12+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T14:31:12+00:00",
+   "img": "https://images.tagesschau.de/image/5143a525-21e5-46df-9fa5-5dbc12418a09/AAABoTp-FG4/AAABnSSvrFg/16x9-big/iwf-176.jpg?width=1920"
+  },
   {
    "id": "nb17be4e67c",
    "topic": "politik",
@@ -80,8 +482,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-16T14:27:43+00:00",
-   "img": "https://bilder.deutschlandfunk.de/3e/0a/70/ec/3e0a70ec-c5a0-4d24-9edc-9eb593ab69aa/gruene-linke-spd-abgeordnetenhaus-100-1920x1920.jpg"
+   "expires": "2026-10-16T14:27:43+00:00"
   },
   {
    "id": "nde9a48e459",
@@ -149,6 +550,19 @@
    "img": "https://www.golem.de/2610/214110-603415-603413_rc.jpg"
   },
   {
+   "id": "n6925f7a5ce",
+   "topic": "welt",
+   "title": "Ungarn beendet ein Kapitel staatlicher Homophobie",
+   "text": "Jahrelang stilisierte Viktor Orbans System queere Menschen zur Gefahr für Kinder. Nun streicht Peter Magyars Regierung absurde Verbote aus einem berüchtigten Gesetz. Doch der Streit um LGBTQ-Rechte ist nicht zu Ende.",
+   "link": "https://www.dw.com/de/ungarn-beendet-ein-kapitel-staatlicher-homophobie/a-79658319?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-14T14:26:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-18T14:26:00+00:00",
+   "img": "https://static.dw.com/image/79651134_302.jpg"
+  },
+  {
    "id": "n64e35ccf74",
    "topic": "welt",
    "title": "Frauenfußball boomt - aber viele verdienen kaum Mindestlohn",
@@ -197,7 +611,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-17T14:17:03+00:00",
-   "img": "https://images.tagesschau.de/image/3d8f194c-01c7-4071-8dcb-dc72a018707a/AAABoTrGGRI/AAABnSSvrFg/16x9-big/parlament-frankreich-102.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/3d8f194c-01c7-4071-8dcb-dc72a018707a/AAABoTr3JiQ/AAABnSSvrFg/16x9-big/parlament-frankreich-102.jpg?width=1920"
   },
   {
    "id": "nfb7612e162",
@@ -222,7 +636,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-17T14:04:50+00:00",
-   "img": "https://images.tagesschau.de/image/0d775c7b-7a95-48e6-b6ef-d9ea35a65796/AAABoTn93Xo/AAABnSSvrFg/16x9-big/ibm-campus-ehningen-100.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/0d775c7b-7a95-48e6-b6ef-d9ea35a65796/AAABoTn93Xo/AAABnSSvrFg/16x9-big/ibm-campus-ehningen-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Golem.de",
+     "title": "(g+) Künstliche Intelligenz: Treffen sich 14 KI-Agenten",
+     "link": "https://www.golem.de/news/kuenstliche-intelligenz-treffen-sich-14-ki-agenten-2610-214113.html"
+    }
+   ]
   },
   {
    "id": "nc36a42e817",
@@ -283,19 +704,6 @@
    "type": "Fachmedium (KI)",
    "lang": "de",
    "expires": "2026-10-21T13:59:34+00:00"
-  },
-  {
-   "id": "n6925f7a5ce",
-   "topic": "welt",
-   "title": "Ungarn beendet ein Kapitel staatlicher Homophobie",
-   "text": "Jahrelang stilisierte das System Viktor Orbans queere Menschen zur Gefahr für Kinder. Nun streicht Peter Magyars Regierung absurde Verbote aus einem berüchtigtem Gesetz. Doch der Streit um LGBTQ-Rechte ist nicht zu Ende.",
-   "link": "https://www.dw.com/de/ungarn-beendet-ein-kapitel-staatlicher-homophobie/a-79658319?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-14T13:59:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-18T13:59:00+00:00",
-   "img": "https://static.dw.com/image/79651134_302.jpg"
   },
   {
    "id": "n4135e2f68a",
@@ -400,6 +808,19 @@
    "lang": "de",
    "expires": "2026-10-17T12:55:39+00:00",
    "img": "https://images.tagesschau.de/image/6192713a-9dc8-49c8-acff-3c41ee298bc2/AAABoToJay0/AAABnSSvrFg/16x9-big/pflege-krankenhaus-104.jpg?width=1920"
+  },
+  {
+   "id": "n867e2d29ba",
+   "topic": "wirtschaft",
+   "title": "Portugal erlaubt Einstieg der Lufthansa bei staatlicher Airline TAP",
+   "text": "Die portugiesische Regierung treibt die Teilprivatisierung der Fluggesellschaft TAP voran. Im Kampf um 44,9 Prozent der Anteile setzte sich die Lufthansa gegen Air France-KLM durch. Der Einstieg dauert aber noch.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/uebernahme-tap-lufthansa-100.html",
+   "published": "2026-10-14T12:53:13+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T12:53:13+00:00",
+   "img": "https://images.tagesschau.de/image/3a3dd043-955d-4fb1-93a1-fde01137f5ce/AAABoTpTvGE/AAABnSSvrFg/16x9-big/flugzeug-tap-100.jpg?width=1920"
   },
   {
    "id": "n6093265de1",
@@ -519,7 +940,7 @@
   },
   {
    "id": "n6bd4dee283",
-   "topic": "wirtschaft",
+   "topic": "politik",
    "title": "Einigung in der Koalition: So soll die Zuckersteuer aussehen",
    "text": "Der Streit in der schwarz-roten Koalition über die Steuer auf zuckergesüßte Getränke ist beigelegt. Das Kabinett hat einen Regelungsvorschlag beschlossen. Was geplant ist und was die Regierung damit erreichen will.",
    "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-einigung-folgen-100.html",
@@ -552,7 +973,7 @@
   },
   {
    "id": "n427ba8afa3",
-   "topic": "wirtschaft",
+   "topic": "welt",
    "title": "Verurteilter Signa-Gründer Benko darf in den Hausarrest wechseln",
    "text": "Der wegen Betrugs verurteilte österreichische Investor René Benko darf das Gefängnis vorerst verlassen. Er soll sich mit einer Fußfessel im Hausarrest auf seinen neuen Prozess vorbereiten können.",
    "link": "https://www.tagesschau.de/ausland/benko-fussfessel-100.html",
@@ -565,7 +986,7 @@
   },
   {
    "id": "nf235c18318",
-   "topic": "wirtschaft",
+   "topic": "politik",
    "title": "Bundesregierung einigt sich bei Zuckersteuer auf Zwei-Stufen-Modell",
    "text": "Nach der Einigung von Union und SPD zur Zuckersteuer hat das Bundeskabinett den entsprechenden Gesetzesentwurf auf den Weg gebracht. Ab dem 1. Juli 2027 soll ein Zwei-Stufen-Modell gelten - abhängig vom Zuckeranteil.",
    "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html",
@@ -969,19 +1390,6 @@
    "img": "https://images.tagesschau.de/image/e5a88920-1bdb-491c-b820-acc0c683bb7f/AAABoTSQPNs/AAABnSSvrFg/16x9-big/nyse-468.jpg?width=1920"
   },
   {
-   "id": "n815b9ad32f",
-   "topic": "wirtschaft",
-   "title": "Marktbericht: DAX leicht höher gesehen",
-   "text": "In Asien erholen sich die Technologiewerte wieder, was auch den DAX entlasten dürfte. Der deutsche Leitindex dürfte leicht höher in den Tag starten.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-berichtssaison-100.html",
-   "published": "2026-10-14T05:35:03+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-17T05:35:03+00:00",
-   "img": "https://images.tagesschau.de/image/2db31d03-cdba-46dd-9aea-71ef81a25776/AAABmnblNn8/AAABnSSvrFg/16x9-big/boerse-468.jpg?width=1920"
-  },
-  {
    "id": "nb39de8bfbb",
    "topic": "welt",
    "title": "Trumps schlechter Deal: Warum Diesel weiter teuer bleibt",
@@ -1274,415 +1682,6 @@
    "type": "Fachmedium (IT)",
    "lang": "de",
    "expires": "2026-10-18T19:20:00+00:00"
-  },
-  {
-   "id": "n6e5f3b6c28",
-   "topic": "nfl",
-   "title": "Brian Flores-NFL lawsuit: Recruiting firm memo filled with racial stereotypes, attorneys claim",
-   "text": "Flores, Steve Wilks and Ray Horton have an ongoing lawsuit against the NFL for racial discrimination",
-   "link": "https://www.cbssports.com/nfl/news/brian-flores-recruiting-memo-filled-with-racial-stereotypes-attorneys-claim/",
-   "published": "2026-10-13T19:13:47+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-18T19:13:47+00:00"
-  },
-  {
-   "id": "n794a8821a9",
-   "topic": "nfl",
-   "title": "Week 6 odds: Steelers open as slim favorites vs. Buccaneers",
-   "text": "Steelers open as favorites vs. Bucs.",
-   "link": "https://sports.yahoo.com/articles/week-6-odds-steelers-open-191228519.html",
-   "published": "2026-10-13T19:12:28+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-18T19:12:28+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/8dd7804ab99d405ff797a8c72e2c86cd.jpg"
-  },
-  {
-   "id": "n48dc21a173",
-   "topic": "nfl",
-   "title": "Expert League Recap: Bills-Rams classic fuels near-comeback in highest-scoring fantasy matchup of the season",
-   "text": "We recap another week in the Yahoo Fantasy Football Expert League, plus lookahead to Week 6.",
-   "link": "https://sports.yahoo.com/fantasy/article/expert-league-recap-bills-rams-classic-fuels-near-comeback-in-highest-scoring-fantasy-matchup-of-the-season-191020663.html",
-   "published": "2026-10-13T19:10:20+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-18T19:10:20+00:00",
-   "img": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/expertleague-week5_1043.png"
-  },
-  {
-   "id": "n7def4f282c",
-   "topic": "it",
-   "title": "Mondlandefahrzeug Griffin-1 ist bereit für den Flug zum Mond",
-   "text": "In Kürze soll der Lander Griffin-1 mit Material für die Mondstation zum Mond fliegen. Laut NASA ist er startbereit.",
-   "link": "https://www.heise.de/news/Mondlandefahrzeug-Griffin-1-ist-bereit-fuer-den-Flug-zum-Mond-11486917.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-13T18:56:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-18T18:56:00+00:00"
-  },
-  {
-   "id": "nddec651aa2",
-   "topic": "politik",
-   "title": "Regierungsbildung - Grüne und SPD in Berlin unterbrechen Sondierungen mit Linken",
-   "text": "Grüne und SPD in Berlin haben die Sondierungsgespräche zur Regierungsbildung mit der Linkspartei unterbrochen. Zunächst müsse eine von allen Mitgliedern der Linken-Fraktion unterzeichnete Erklärung zum Umgang mit Antisemitismus bewertet werden, teilten die beiden Parteien mit.",
-   "link": "https://www.deutschlandfunk.de/gruene-und-spd-in-berlin-unterbrechen-sondierungen-mit-linken-106.html",
-   "published": "2026-10-13T18:53:08+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-15T18:53:08+00:00"
-  },
-  {
-   "id": "n2bb57c87b9",
-   "topic": "politik",
-   "title": "Fragen und Antworten - CDU will Plenarsaal verlassen - das wären die Folgen für die Ministerpräsidentenwahl in Sachsen-Anhalt",
-   "text": "Ulrich Siegmund will sich Mitte Dezember zum Ministerpräsidenten von Sachsen-Anhalt wählen lassen. Nach der Wahl von AfD-Politiker Tobias Rausch zum Landtagspräsidenten - womöglich auch mit Stimmen der CDU - haben die Christdemokraten angekündigt, den Plenarsaal bei der Ministerpräsidentenwahl zu verlassen. Was das …",
-   "link": "https://www.deutschlandfunk.de/cdu-will-plenarsaal-verlassen-das-waeren-die-folgen-fuer-die-ministerpraesidentenwahl-in-sachsen-anh-102.html",
-   "published": "2026-10-13T18:53:08+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-15T18:53:08+00:00"
-  },
-  {
-   "id": "n4806104504",
-   "topic": "politik",
-   "title": "Nach Bas-Rücktritt - Steinmeier ernennt Schweitzer zum neuen Arbeitsminister",
-   "text": "Bundespräsident Steinmeier hat den SPD-Politiker Schweitzer zum Bundesarbeitsminister ernannt.",
-   "link": "https://www.deutschlandfunk.de/steinmeier-ernennt-schweitzer-zum-neuen-arbeitsminister-100.html",
-   "published": "2026-10-13T18:53:08+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-15T18:53:08+00:00",
-   "img": "https://bilder.deutschlandfunk.de/82/6e/94/44/826e9444-df80-402a-b8d1-d003cb8c3721/steinmeier-schweitzer-ernennungsurkunde-100-1920x1920.jpg"
-  },
-  {
-   "id": "n5933f28e82",
-   "topic": "politik",
-   "title": "New York - Deutschland kehrt in den UNO-Menschenrechtsrat zurück",
-   "text": "Deutschland gehört ab nächstem Jahr wieder dem UNO-Menschenrechtsrat an.",
-   "link": "https://www.deutschlandfunk.de/deutschland-kehrt-in-den-uno-menschenrechtsrat-zurueck-100.html",
-   "published": "2026-10-13T18:53:08+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-15T18:53:08+00:00",
-   "img": "https://bilder.deutschlandfunk.de/47/db/4d/97/47db4d97-f494-4680-a593-0cd65460775a/uno-vollversammlung-106-1920x1920.jpg"
-  },
-  {
-   "id": "na3510f3aaf",
-   "topic": "politik",
-   "title": "Knoten in der Lunge entfernt - Vatikan: Papst Leo XIV. erfolgreich operiert",
-   "text": "Papst Leo XIV. hat nach Angaben des Vatikans einen chirurgischen Eingriff ‌zur ⁠Entfernung eines Knotens an ⁠der Lunge gut überstanden. Die Operation im Gemelli-Krankenhaus in Rom sei erfolgreich und nach Plan verlaufen,",
-   "link": "https://www.deutschlandfunk.de/vatikan-papst-leo-xiv-erfolgreich-operiert-100.html",
-   "published": "2026-10-13T18:53:08+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-15T18:53:08+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Papst Leo XIV. hat Lungenkrebs",
-     "link": "https://www.tagesschau.de/ausland/papst-erfolgreich-operiert-100.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Papst Leo XIV. wegen Lungenkrebs operiert - News kompakt: Das Wichtigste kurz gefasst",
-     "link": "https://www.dw.com/de/papst-leo-xiv-wegen-lungenkrebs-operiert-news-kompakt-das-wichtigste-kurz-gefasst/a-79656393?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "nc0af2cb5de",
-   "topic": "politik",
-   "title": "Italien - NATO beginnt Atomwaffen-Übung",
-   "text": "Die NATO hat ihr jährliches Manöver zur Verteidigung mit Atomwaffen begonnen.",
-   "link": "https://www.deutschlandfunk.de/nato-beginnt-atomwaffen-uebung-104.html",
-   "published": "2026-10-13T18:53:08+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-15T18:53:08+00:00",
-   "img": "https://bilder.deutschlandfunk.de/10/04/41/98/10044198-f48b-4a9e-bb59-b977ec788074/aviano-air-base-italien-nato-100-1920x1920.jpg"
-  },
-  {
-   "id": "n37e796c130",
-   "topic": "nfl",
-   "title": "Will Chargers trade Justin Herbert? Update on possibility of QB being dealt and possible landing spots",
-   "text": "Herbert's name has started to circulate ahead of the NFL's trade deadline",
-   "link": "https://www.cbssports.com/nfl/news/will-chargers-trade-justin-herbert-possible-landing-spots/",
-   "published": "2026-10-13T18:45:11+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-18T18:45:11+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/13/963957a0-7c6e-4eb2-a80d-af4ee020c330/harbaughherbert.jpg"
-  },
-  {
-   "id": "n08158284df",
-   "topic": "ki",
-   "title": "Offener Brief von 406 Wissenschaftlern fordert sofortige Abschottung von KI-Modellen vom Internet",
-   "text": "In einem offenen Brief fordern 406 Wissenschaftler – darunter Geoffrey Hinton, Yoshua Bengio und Stuart Russell – sofortiges Airgapping von KI-Modellen und verbindliche Sicherheitsstandards. Anlass sind Fälle, in denen KI-Systeme aus ungesicherten Umgebungen ausbrachen. Die Unterzeichner verlangen zudem ein …",
-   "link": "https://the-decoder.de/offener-brief-von-406-wissenschaftlern-fordert-sofortige-abschottung-von-ki-modellen-vom-internet/",
-   "published": "2026-10-13T18:39:44+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-20T18:39:44+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/08/cybersecurity_kraken.png"
-  },
-  {
-   "id": "nba54e2249a",
-   "topic": "welt",
-   "title": "Cyberattacken auf Hunderte französische Supermärkte",
-   "text": "Bei einem Cyberangriff sind die Tiefkühlsysteme Hunderter französischer Supermärkte lahmgelegt worden. Frankreichs Finanzminister spricht von einem \"Weckruf an alle\". Auch das deutsche Bundesamt für Sicherheit ist alarmiert.",
-   "link": "https://www.tagesschau.de/ausland/europa/frankreich-cyberattacken-supermaerkte-100.html",
-   "published": "2026-10-13T18:37:01+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T18:37:01+00:00",
-   "img": "https://images.tagesschau.de/image/51bd5ecf-61dd-4281-96e7-63250752a769/AAABoTaNjtU/AAABnSSvrFg/16x9-big/frankreich-supermarkt-kuehlregale-100.jpg?width=1920"
-  },
-  {
-   "id": "n23a6e17103",
-   "topic": "it",
-   "title": "Apple zeigt Smart-Home-Hardware – vorerst ohne EU",
-   "text": "Apple bringt erstmals eigenes HomeKit-Zubehör heraus – indirekt in Zusammenarbeit mit zwei Herstellern. Wann die Hardware nach Europa kommt, bleibt im Dunkeln.",
-   "link": "https://www.heise.de/news/Neues-Apple-Home-Zubehoer-von-LG-und-Schneider-aber-nicht-in-der-EU-11486775.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-13T18:34:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-18T18:34:00+00:00"
-  },
-  {
-   "id": "n605ed0554b",
-   "topic": "it",
-   "title": "Baden-Württemberg: Grün-Schwarz will Datenschutzbehörde verkleinern",
-   "text": "Die grün-schwarze Landesregierung in Baden-Württemberg will dem Datenschutzbeauftragten des Landes im nächsten Haushalt 40 Prozent der Stellen streichen.",
-   "link": "https://www.heise.de/news/Baden-Wuerttemberg-Gruen-Schwarz-will-Datenschutzbehoerde-verkleinern-11486963.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-13T18:11:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-18T18:11:00+00:00"
-  },
-  {
-   "id": "n7eecf33aec",
-   "topic": "wirtschaft",
-   "title": "EU bremst Hybrid-Importe: Können deutsche Autobauer profitieren?",
-   "text": "Chinesische Autohersteller gewinnen in Europa massiv an Gewicht. Die EU will die Konkurrenz eindämmen. Ein Import-Deckel für Hybridfahrzeuge soll heimische Hersteller stützen. Kann das funktionieren? Von Sebastian Schreiber.",
-   "link": "https://www.tagesschau.de/wirtschaft/autobranche-hybride-eu-china-100.html",
-   "published": "2026-10-13T18:03:27+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T18:03:27+00:00",
-   "img": "https://images.tagesschau.de/image/d76e03cd-c665-4ac8-bc2a-76aebfb884f6/AAABoTRZ7vM/AAABnSSvrFg/16x9-big/byd-hybrid-100.jpg?width=1920"
-  },
-  {
-   "id": "nd34f62793e",
-   "topic": "welt",
-   "title": "US-Botschafterin in Athen tritt auf Druck der US-Regierung zurück",
-   "text": "Die US-Botschafterin in Athen, Guilfoyle, ist zurückgetreten. Zuvor hatte die US-Regierung sie wegen angeblichen Fehlverhaltens dazu aufgefordert. Es geht unter anderem um Kreditkartenschulden von 100.000 US-Dollar.",
-   "link": "https://www.tagesschau.de/ausland/europa/us-botschaft-athen-100.html",
-   "published": "2026-10-13T18:02:23+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T18:02:23+00:00",
-   "img": "https://images.tagesschau.de/image/f32e022c-1cd7-44f4-bc05-1c9c3f9123cd/AAABoTZtFs0/AAABnSSvrFg/16x9-big/guilfoyle-102.jpg?width=1920"
-  },
-  {
-   "id": "n10cba3508d",
-   "topic": "welt",
-   "title": "Wirtschaft im Jemen: Waffen statt Honig und Fisch",
-   "text": "Der Krieg im Jemen bedroht nicht nur eine der wichtigsten Handelsrouten der Welt, sondern auch die lokale Wirtschaft. Viele Existenzen sind bedroht, die mögliche Teilung des Landes in Nord und Süd wird diskutiert. Von Ramin Sina.",
-   "link": "https://www.tagesschau.de/ausland/asien/jemen-krieg-alltag-100.html",
-   "published": "2026-10-13T18:00:34+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T18:00:34+00:00",
-   "img": "https://images.tagesschau.de/image/b239d864-e3cd-4cb5-92fe-c8dddb2d4851/AAABoTZsYHo/AAABnSSvrFg/16x9-big/fischerboot-jemen-100.jpg?width=1920"
-  },
-  {
-   "id": "n68be0ea768",
-   "topic": "welt",
-   "title": "Was Trumps Diesel-Deal mit Russland für den Ukraine-Krieg bedeutet",
-   "text": "Washingtons Diesel-Deal mit Moskau und Trumps Äußerungen haben in der Ukraine und Europa Besorgnis ausgelöst. Welche Risiken birgt das aktuelle Vorgehen der USA für die Ukraine und was bringt es Russland?",
-   "link": "https://www.dw.com/de/was-trumps-diesel-deal-mit-russland-für-den-ukraine-krieg-bedeutet/a-79653678?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-13T17:43:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-17T17:43:00+00:00",
-   "img": "https://static.dw.com/image/79636152_302.jpg"
-  },
-  {
-   "id": "ncef5f049f1",
-   "topic": "ki",
-   "title": "Google veröffentlicht Gemini 4 Argon: Neues Spitzenmodell ab sofort weltweit verfügbar",
-   "text": "Google macht Gemini 4 Argon weltweit über API, Gemini-App und Google Antigravity verfügbar. Das Frontier-Modell ist preislich aggressiv positioniert, landet in unabhängigen Benchmarks aber hinter Anthropics Claude Opus 5.5 und Metas Muse Wonder Full. Intern soll Argon monatelange Coding-Aufgaben auf Wochen verkürzt …",
-   "link": "https://the-decoder.de/google-veroeffentlicht-gemini-4-argon-neues-spitzenmodell-ab-sofort-weltweit-verfuegbar/",
-   "published": "2026-10-13T17:40:49+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-20T17:40:49+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/09/gemini_4_argon.png"
-  },
-  {
-   "id": "nd6de7434fe",
-   "topic": "welt",
-   "title": "Schwarzes Meer: Bulgarien nennt Drohnenangriffe \"absolut inakzeptabel\"",
-   "text": "Es ist der zweite Vorfall innerhalb einer Woche: Wieder wurden Schiffe vor Bulgariens Küste von Drohnen attackiert. Die Regierung bestellte die russische Botschafterin ein. Experten sehen eine konkrete Gefahr für Europas Sicherheit. Von Silke Hahne.",
-   "link": "https://www.tagesschau.de/ausland/schwarzes-meer-schiffe-drohnen-100.html",
-   "published": "2026-10-13T17:34:06+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T17:34:06+00:00",
-   "img": "https://images.tagesschau.de/image/4ccbeeb1-e646-4389-bed0-da26094dcab6/AAABoTZiIBY/AAABnSSvrFg/16x9-big/schiff-truemmer-102.jpg?width=1920"
-  },
-  {
-   "id": "ndc6558d9e2",
-   "topic": "politik",
-   "title": "Streit um Alkoholausschank in Vereinslokal in Gießen: Pächter wollen aufgeben",
-   "text": "In Gießen hat das Vereinsrestaurant \"Gözleme Haus\" auf dem Gelände des Tennisclubs Rot-Weiß nach einem Streit um den Alkoholausschank geschlossen. Die Betreiber erheben schwere Vorwürfe gegen den Club - und suchen Nachfolger.",
-   "link": "https://www.hessenschau.de/gesellschaft/streit-um-alkoholausschank-in-vereinslokal-in-giessen-paechter-wollen-aufgeben-v1,goezleme-haus-giessen-tennisclub-100.html",
-   "published": "2026-10-13T17:11:36+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-17T17:11:36+00:00",
-   "img": "https://www.hessenschau.de/panorama/giessen-tennis-club-100~_t-1787309280553_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "n5ee63b58fd",
-   "topic": "it",
-   "title": "Google Cloud und Thales: Trotz deutscher Server kein Geheimschutz für Regierungsdaten",
-   "text": "Google Cloud und Thales können ihre gemeinsame Cloud-Plattform starten. Doch trotz einer eigens geschaffenen Betreibergesellschaft, lokaler Rechenzentren und Aufpreise gibt es Einschränkungen. ( Cloud-Dienste , Google )",
-   "link": "https://www.golem.de/news/google-cloud-und-thales-trotz-deutscher-server-kein-geheimschutz-fuer-regierungsdaten-2610-214071.html",
-   "published": "2026-10-13T16:57:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-18T16:57:02+00:00",
-   "img": "https://www.golem.de/2610/214071-603239-603237_rc.jpg"
-  },
-  {
-   "id": "ne6e2cc5ad0",
-   "topic": "it",
-   "title": "Leere Regale: Supermarktlogistik durch Cyberangriff lahmgelegt",
-   "text": "Ein schwerwiegender IT-Ausfall trifft die Supermarktkette Albert Heijn. Lieferungen stocken, die Regale leeren sich. Auch andere Ketten sind betroffen. ( Security , Cyberwar )",
-   "link": "https://www.golem.de/news/leere-regale-supermarktlogistik-durch-cyberangriff-lahmgelegt-2610-214069.html",
-   "published": "2026-10-13T16:46:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-18T16:46:02+00:00",
-   "img": "https://www.golem.de/2610/214069-603243-603241_rc.jpg"
-  },
-  {
-   "id": "nd124b48a61",
-   "topic": "politik",
-   "title": "Immer mehr Suizide in Deutschland - Experten fordern Prävention",
-   "text": "In Deutschland steigt die Zahl der Suizide weiter. Experten fordern mehr Prävention und niedrigschwellige Hilfe. Doch ein Entwurf des Gesundheitsministeriums für ein Gesetz lässt auf sich warten.",
-   "link": "https://www.tagesschau.de/inland/gesellschaft/suizide-deutschland-100.html",
-   "published": "2026-10-13T16:37:50+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T16:37:50+00:00",
-   "img": "https://images.tagesschau.de/image/bf8ae577-4a43-45a1-9503-f5d38b64aa77/AAABoTYcUzw/AAABnSSvrFg/16x9-big/hanau-129.jpg?width=1920"
-  },
-  {
-   "id": "n9a9eef8f98",
-   "topic": "wirtschaft",
-   "title": "Marktbericht: DAX driftet ins Minus",
-   "text": "Am Ende konnte der DAX sein Plus nicht mehr halten. Neue Sorgen im Chipsektor und ein enttäuschender Start in die Berichtssaison lasteten auf den Kursen.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-116.html",
-   "published": "2026-10-13T16:36:06+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T16:36:06+00:00",
-   "img": "https://images.tagesschau.de/image/b19e9d58-9935-4067-a655-d494e13c64cc/AAABn1pWFaE/AAABnSSvrFg/16x9-big/boerse-522.jpg?width=1920"
-  },
-  {
-   "id": "nb3f7360d33",
-   "topic": "politik",
-   "title": "Nach Rücktritt von Bas: SPD sucht neue Vorsitzende",
-   "text": "Wer wird künftig die SPD führen? Klingbeil gilt vielen als Favorit, lässt seine Kandidatur jedoch offen. Pistorius? Schwesig? Rehlinger? Sie alle haben abgesagt oder zumindest vorerst abgewunken. Rufe nach einem Neustart werden lauter.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/spd-debatte-vorsitz-100.html",
-   "published": "2026-10-13T16:33:51+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T16:33:51+00:00",
-   "img": "https://images.tagesschau.de/image/d427cd7c-20c9-4e0d-9f52-76107f3b390c/AAABoTXWlaY/AAABnSSvrFg/16x9-big/miersch-klingbeil-100.jpg?width=1920"
-  },
-  {
-   "id": "n5287ec3f4f",
-   "topic": "wirtschaft",
-   "title": "Bundesverfassungsgericht zur Erbschaftsteuer: Wie gerecht ist sie?",
-   "text": "Wer in Deutschland erbt, muss Steuern zahlen. Außer man erbt ein Unternehmen, dann gibt es Ausnahmen - und oft fallen keine Steuern an. Ob das in Ordnung ist, muss nun das Verfassungsgericht entscheiden. Von Antonetta Stephany und Max Bauer.",
-   "link": "https://www.tagesschau.de/wirtschaft/erbschaftssteuer-bundesverfassungsgericht-100.html",
-   "published": "2026-10-13T16:30:57+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T16:30:57+00:00",
-   "img": "https://images.tagesschau.de/image/043c95c1-b4cb-4dc5-b4ca-c9879bfc76f2/AAABoTYOc7w/AAABnSSvrFg/16x9-big/senat-verfassungsgericht-100.jpg?width=1920"
-  },
-  {
-   "id": "n4f2869e544",
-   "topic": "ki",
-   "title": "Renommierter Informatiker lässt kein gutes Haar an AI-Doomern und naiven Nachwuchsforschern",
-   "text": "Michael I. Jordan, von Science als \"einflussreichster Informatiker\" bezeichnet, hält die Warnungen vor Superintelligenz für Science-Fiction. Rücktritte junger KI-Forscher nennt er \"moralisierende Performance\", Regulierungsforderungen der Unternehmen \"Theater\". Besonders Hintons These, man könne das Gehirn in Silizium …",
-   "link": "https://the-decoder.de/renommierter-informatiker-laesst-kein-gutes-haar-an-ai-doomern-und-naiven-nachwuchsforschern/",
-   "published": "2026-10-13T16:20:41+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-20T16:20:41+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/paris_AI_doomer.png"
-  },
-  {
-   "id": "n56e6c028bb",
-   "topic": "welt",
-   "title": "Landesweite Demonstrationen: Frankreichs Schüler lassen nicht locker",
-   "text": "Ihre Forderungen sind bekannt: bessere Lernbedingungen. Wieder sind in Frankreich deswegen Schulen blockiert, wieder waren mehr als 160.000 Schüler zum Protest auf der Straße. Die Zugeständnisse der Politik sind ihnen bislang zu gering.",
-   "link": "https://www.tagesschau.de/ausland/frankreich-schueler-studenten-proteste-100.html",
-   "published": "2026-10-13T15:54:56+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T15:54:56+00:00",
-   "img": "https://images.tagesschau.de/image/f13a2394-6315-4e5f-9fa2-94cb6dfa6b4a/AAABoTWc5ac/AAABnSSvrFg/16x9-big/schuelerproteste-frankreich-112.jpg?width=1920"
-  },
-  {
-   "id": "n43c18d9ff3",
-   "topic": "welt",
-   "title": "Ungarn streicht Anti-LGBTQ-Regeln aus Orbans Kinderschutzgesetz",
-   "text": "Bücher in schwarzer Folie, bestimmte Filme und Pride-Paraden verboten: Jahrelang schränkte Ungarn die Rechte sexueller Minderheiten ein. Nun vollzieht die neue Regierung eine Kehrtwende.",
-   "link": "https://www.tagesschau.de/ausland/europa/ungarn-kippt-umstrittenes-anti-lgbtq-gesetz-100.html",
-   "published": "2026-10-13T15:10:25+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T15:10:25+00:00",
-   "img": "https://images.tagesschau.de/image/1eb6fbe4-7c08-4800-b6de-619aa376b7ab/AAABoTUQyAw/AAABnSSvrFg/16x9-big/pride-marsch-100.jpg?width=1920"
   }
  ]
 }

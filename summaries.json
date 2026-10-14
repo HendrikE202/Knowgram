@@ -64,61 +64,6 @@
    }
   ]
  },
- "n68be0ea768": {
-  "points": [
-   "Trump verkündete einen Dieselkauf aus Russland samt vorübergehender Lockerung der US-Sanktionen.",
-   "Nach Kritik Selenskyjs forderte er einen „neuen Führer“ für die Ukraine, die einen Deal machen könnte.",
-   "Eine angebliche „Energie-Waffenruhe“ sei laut Kyjiw nicht besprochen worden; es ist aber bereit, wenn Moskau mitzieht."
-  ],
-  "why": "Der Vorgang zeigt, wie sehr Sanktionen und Verhandlungen über den Krieg zusammenhängen.",
-  "slides": [
-   {
-    "h": "🧩 Hintergrund",
-    "text": "Sanktionen gegen Russland begrenzen unter anderem Energieverkäufe, damit Moskau weniger Einnahmen für den Krieg hat. Eine Lockerung durch die USA wirkt sich direkt auf diese Einnahmen aus. Viele Ukrainer und Europäer sahen darin laut Artikel einen Vertrauensbruch.",
-    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
-   },
-   {
-    "h": "🕰️ Die Abfolge laut Artikel",
-    "steps": [
-     "Trump gibt den Dieseldeal mit Russland bekannt",
-     "Kyjiw kritisiert ihn scharf",
-     "Trump fordert einen neuen Führer der Ukraine",
-     "Trump nennt eine Energie-Waffenruhe, Kyjiw widerspricht der Darstellung",
-     "Selenskyj besucht London"
-    ]
-   },
-   {
-    "h": "❓ Was noch unklar ist",
-    "text": "Unklar bleibt, wie lange die Sanktionslockerung gilt und ob Russland einer Waffenruhe für Energieanlagen zustimmt."
-   }
-  ]
- },
- "n7eecf33aec": {
-  "points": [
-   "Die EU will chinesische Hybridautos vier Jahre lang über ein Importkontingent begrenzen.",
-   "Im nächsten Jahr soll die Grenze bei 350.000 Fahrzeugen liegen, danach jährlich sechs Prozent mehr.",
-   "Die Kommission erwartet, dass sich der Absatz chinesischer Hybride damit ungefähr halbiert."
-  ],
-  "why": "Die Maßnahme betrifft Preise und Wettbewerb auf dem europäischen Automarkt und die Lage deutscher Hersteller.",
-  "slides": [
-   {
-    "h": "🧩 Hintergrund",
-    "text": "Seit 2024 erhebt die EU Zusatzzölle auf in China gebaute Elektroautos, weil sie Subventionen vermutet. Ein Kontingent begrenzt die Menge statt über Zölle den Preis. Hybride sind bislang davon nicht erfasst gewesen.",
-    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
-   },
-   {
-    "h": "🔢 Zahlen",
-    "big": {
-     "n": "350.000",
-     "l": "Hybridfahrzeuge aus China dürfen im ersten Jahr nach dem Plan in die EU; danach steigt die Grenze jährlich um sechs Prozent."
-    }
-   },
-   {
-    "h": "❓ Was noch unklar ist",
-    "text": "Ob deutsche Hersteller profitieren, ist laut der Frage im Beitrag offen: Auch sie fertigen in China. Zudem bleibt abzuwarten, ob Peking Gegenmaßnahmen ergreift."
-   }
-  ]
- },
  "nd0d03e43c0": {
   "points": [
    "Papst Leo XIV. ließ sich nach Rat der Ärzte an der Lunge operieren; der Vatikan bestätigt die Diagnose Lungenkarzinom.",
@@ -210,79 +155,6 @@
    {
     "h": "🔎 Was man nachschauen sollte",
     "text": "Die BSI-Empfehlung für „Betreiber kleiner und kleinster industrieller Anlagen“ steht auf bsi.bund.de. Sie nennt praxisnahe Maßnahmen für Anlagen, die nicht als Kritische Infrastruktur gelten."
-   }
-  ]
- },
- "nba54e2249a": {
-  "points": [
-   "Ein Cyberangriff legte die Kühlsysteme von rund 700 der etwa 10.000 französischen Supermärkte lahm.",
-   "Vernetzte Kühlschränke wurden laut Staatsanwaltschaft über Nacht stundenlang auf 50 Grad erhitzt.",
-   "Der Finanzminister spricht von einem „Weckruf“; Frankreichs Cybersicherheitsagentur untersucht, auch andere Länder könnten betroffen sein."
-  ],
-  "why": "Der Fall zeigt, dass Angriffe auf vernetzte Technik reale Waren und Lieferketten treffen.",
-  "slides": [
-   {
-    "h": "🧩 Hintergrund",
-    "text": "Kühltechnik wird zunehmend über das Netz gesteuert und überwacht. Wird die Fernsteuerung übernommen, lassen sich Temperaturen verstellen, ohne dass Daten gestohlen werden müssen. Gegenmittel sind Segmentierung, starke Authentifizierung, Alarme bei Abweichungen und manuelle Notfallpläne.",
-    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
-   },
-   {
-    "h": "🕰️ Was bekannt ist",
-    "steps": [
-     "Über Nacht werden Kühlsysteme von etwa 700 Märkten überhitzt",
-     "Die Pariser Staatsanwaltschaft ermittelt, auch zu verdorbenen Lebensmitteln und Brandgefahr",
-     "Die Cyberagentur untersucht und stimmt sich mit EU-Partnern ab",
-     "Das BSI warnt in Deutschland vor Nachahmern"
-    ]
-   },
-   {
-    "h": "❓ Was noch unklar ist",
-    "text": "Wer hinter dem Angriff steckt und wie die Täter eindrangen, nennt der Textanfang nicht. Das Ausmaß der Schäden ist noch unklar."
-   }
-  ]
- },
- "n08158284df": {
-  "points": [
-   "406 Wissenschaftler, darunter Hinton, Bengio und Russell, fordern Airgapping von KI-Modellen und verbindliche Sicherheitsstandards.",
-   "Sie halten berechenbarere Modelle und stärkere technische Abschottung für nötig.",
-   "OpenAI-Forscher Noam Brown: Selbst Airgapping bietet keine absolute Sicherheit, es kaufe nur Zeit."
-  ],
-  "why": "Der Brief zeigt, wie ernst Teile der KI-Forschung Sicherheitsrisiken nehmen – und wie umstritten die Gegenmittel sind.",
-  "slides": [
-   {
-    "h": "🧩 Hintergrund",
-    "text": "Beim Airgapping ist ein System physisch vom Internet getrennt. Das schützt vor vielen Angriffen, aber Forscher haben gezeigt, dass Daten auch über Nebenkanäle wie Wärme, Schall oder Strom entweichen können. Das eigentliche Alignment-Problem bleibt bestehen.",
-    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
-   },
-   {
-    "h": "❓ Was noch unklar ist",
-    "text": "Offen ist, welche Fälle von „Ausbrüchen“ gemeint sind und ob Regierungen Standards verbindlich machen. Die Forderungen sind Positionen der Unterzeichner, kein Beschluss."
-   }
-  ]
- },
- "ncef5f049f1": {
-  "points": [
-   "Google macht Gemini 4 Argon weltweit über API, Gemini-App und Antigravity verfügbar.",
-   "Das Modell ist preislich aggressiv; in unabhängigen Benchmarks liegt es hinter Claude Opus 5.5 und Metas Muse Wonder Full.",
-   "Zwischenspeicher-Eingaben sind laut Google 95 Prozent günstiger; ein Chrome-Umbau habe so Wochen statt Monate gedauert."
-  ],
-  "why": "Für Entwickler zählen Preis, Qualität und Kontextkosten bei der Wahl des Modells.",
-  "slides": [
-   {
-    "h": "🧩 Hintergrund",
-    "text": "Frontier-Modelle werden nach Benchmarks, Preis je Token und Caching bewertet. Caching senkt die Kosten, wenn derselbe lange Kontext wiederholt genutzt wird, etwa bei Code-Assistenten. Herstellerangaben und Benchmarks sollte man mit eigenen Tests prüfen.",
-    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
-   },
-   {
-    "h": "🔢 Zahlen",
-    "big": {
-     "n": "95 %",
-     "l": "günstiger als normale Eingabe-Token soll der Cache laut Google sein."
-    }
-   },
-   {
-    "h": "❓ Was noch unklar ist",
-    "text": "Die Chrome-Angabe stammt von Google. Wie gut Argon im Alltag arbeitet, zeigen erst unabhängige Tests."
    }
   ]
  },
@@ -436,63 +308,6 @@
    {
     "h": "❓ Was noch unklar ist",
     "text": "Die Quelle ist ein Bericht einer Webseite und Gerüchte; Nvidia hat die Einstellung laut Textanfang nicht bestätigt. Wie es bei kleineren Modellen aussieht, bleibt offen."
-   }
-  ]
- },
- "n4f2869e544": {
-  "points": [
-   "Michael I. Jordan hält Warnungen vor Superintelligenz für Science-Fiction.",
-   "Den Rücktritt eines jungen Anthropic-Forschers nennt er ein Beispiel für „moralisierende Performance“.",
-   "Er arbeitet am französischen Institut Inria in Paris und sieht Regulierungsforderungen der Unternehmen als „Theater“."
-  ],
-  "why": "Die Aussagen zeigen, wie gespalten die Fachwelt über KI-Risiken ist.",
-  "slides": [
-   {
-    "h": "🧩 Hintergrund",
-    "text": "Hinton und Bengio warnen seit Jahren vor Risiken fortgeschrittener KI, andere Forscher wie Jordan halten den Fokus auf Untergangsszenarien für übertrieben und lenken lieber auf aktuelle Probleme wie Fehler, Marktmacht und Verlässlichkeit.",
-    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
-   },
-   {
-    "h": "❓ Einschätzung statt Fakten",
-    "text": "Das Interview ist eine Meinung, kein Beweis. Offen bleibt, wie belastbar die Sicherheitsbedenken der anderen Seite sind."
-   }
-  ]
- },
- "n9a9eef8f98": {
-  "points": [
-   "Der DAX gab seine Gewinne vom Wochenbeginn (Plus von knapp 0,8 Prozent auf 25.277 Punkte) wieder ab und schloss im Minus.",
-   "Brent kostete rund 106 Dollar, WTI 93 Dollar je Fass, nachdem Huthi-Rebellen Riad angriffen.",
-   "Die Inflation lag im September bei 3,3 Prozent, der höchste Stand seit 2023."
-  ],
-  "why": "Hohe Energiepreise und Inflation belasten Konjunktur und Börse.",
-  "slides": [
-   {
-    "h": "🧩 Hintergrund",
-    "text": "Der DAX umfasst die 40 größten deutschen börsennotierten Unternehmen. Hohe Ölpreise erhöhen Kosten für Industrie und Verbraucher und treiben die Inflation. Notenbanken reagieren oft mit höheren Zinsen, was Aktien belasten kann.",
-    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
-   },
-   {
-    "h": "❓ Was noch unklar ist",
-    "text": "Der Textanfang erklärt nicht, warum der DAX am Ende ins Minus rutschte; genannt werden Chipsektor-Sorgen und der Start der Berichtssaison."
-   }
-  ]
- },
- "n5287ec3f4f": {
-  "points": [
-   "Das Bundesverfassungsgericht prüft die Sonderregeln der Erbschaftsteuer für Unternehmenserben.",
-   "Kläger Heinrich Fischwasser erbte Aktien und Immobilien und sieht eine Ungleichbehandlung gegenüber Betriebserben.",
-   "Kleinere Unternehmen zahlen oft wenig oder keine Steuer, wenn Erben sie fünf Jahre weiterführen."
-  ],
-  "why": "Die Entscheidung kann Erbschaften und Firmennachfolgen in Deutschland neu regeln.",
-  "slides": [
-   {
-    "h": "🧩 Hintergrund",
-    "text": "Das Verfassungsgericht hat die Erbschaftsteuer schon mehrfach beanstandet, zuletzt 2014 wegen zu weitgehender Ausnahmen für Betriebsvermögen. Der Gesetzgeber besserte nach. Hauptargument für die Ausnahmen sind Arbeitsplätze, Hauptargument dagegen die Gleichbehandlung.",
-    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
-   },
-   {
-    "h": "❓ Was noch unklar ist",
-    "text": "Wann das Gericht entscheidet und wie, ist offen. Der Textanfang nennt nur die Position des Klägers, nicht die der Bundesregierung."
    }
   ]
  },
