@@ -1,55 +1,614 @@
 {
- "generated": "2026-10-14T08:44:08.366475+00:00",
+ "generated": "2026-10-14T14:31:24.676016+00:00",
  "briefing": [
   "nd0d03e43c0",
   "nf235c18318",
   "n5f5d7ee9d6",
   "na858959eb7",
-  "n7e69c12c54",
-  "n5e7a892015",
-  "n2b284ecffb",
-  "n68be0ea768",
-  "n21c358151d"
+  "nde9a48e459",
+  "nfc823c5665",
+  "nd84b688efa",
+  "n370c486f0d",
+  "na13ef146a2"
  ],
  "ranked": [
   {
    "id": "nd0d03e43c0",
-   "s": 37.9
+   "s": 36.4
   },
   {
    "id": "nf235c18318",
-   "s": 32.3
+   "s": 31.8
   },
   {
    "id": "n5f5d7ee9d6",
-   "s": 32.2
+   "s": 30.7
   },
   {
    "id": "na858959eb7",
-   "s": 27.8
+   "s": 26.4
   },
   {
-   "id": "n7e69c12c54",
-   "s": 27.5
-  },
-  {
-   "id": "n5e7a892015",
+   "id": "nde9a48e459",
    "s": 23.0
   },
   {
-   "id": "n2b284ecffb",
+   "id": "nfc823c5665",
    "s": 23.0
   },
   {
-   "id": "n68be0ea768",
-   "s": 19.2
+   "id": "nd84b688efa",
+   "s": 23.0
   },
   {
-   "id": "n21c358151d",
-   "s": 18.5
+   "id": "n370c486f0d",
+   "s": 22.9
+  },
+  {
+   "id": "na13ef146a2",
+   "s": 22.0
   }
  ],
  "items": [
+  {
+   "id": "nb17be4e67c",
+   "topic": "politik",
+   "title": "Mehreinnahmen - Schwarz-rote Koalition einigt sich auf Zuckersteuer",
+   "text": "Union und SPD haben sich auf eine neue Zuckersteuer geeinigt. Das Bundeskabinett billigte die überarbeiteten Pläne von Finanzminister Klingbeil. Nach der Vorlage soll ab Mitte kommenden Jahres ein Steuersatz von 26 Cent auf gesüßte Getränke mit einem Zuckergehalt ab 5 Gramm pro 100 Milliliter erhoben werden.",
+   "link": "https://www.deutschlandfunk.de/schwarz-rote-koalition-einigt-sich-auf-zuckersteuer-102.html",
+   "published": "2026-10-14T14:27:43+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-16T14:27:43+00:00",
+   "img": "https://bilder.deutschlandfunk.de/3f/cb/a4/fc/3fcba4fc-db0b-4e44-974d-9b40c9fe675b/getraenkeautomat-softdrinks-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Einigung in der Koalition: So soll die Zuckersteuer aussehen",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-einigung-folgen-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n12868255e2",
+   "topic": "politik",
+   "title": "Parteien - Sondierungsunterbrechung in Berlin: SPD fordert Erklärung von Linkspartei",
+   "text": "Nach der Unterbrechung der rot-grün-roten Sondierungsgespräche in Berlin hat die SPD die Linke aufgefordert, sich zu Absprachen zu bekennen.",
+   "link": "https://www.deutschlandfunk.de/sondierungsunterbrechung-in-berlin-spd-fordert-erklaerung-von-linkspartei-102.html",
+   "published": "2026-10-14T14:27:43+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-16T14:27:43+00:00",
+   "img": "https://bilder.deutschlandfunk.de/3e/0a/70/ec/3e0a70ec-c5a0-4d24-9edc-9eb593ab69aa/gruene-linke-spd-abgeordnetenhaus-100-1920x1920.jpg"
+  },
+  {
+   "id": "nde9a48e459",
+   "topic": "politik",
+   "title": "Begegnung mit Schulklassen - Ehemalige Bundeskanzlerin Merkel fordert mehr Einsatz für die Demokratie",
+   "text": "Die ehemalige Bundeskanzlerin Merkel hat zu mehr Einsatz für die Demokratie in Deutschland aufgerufen. In einer von Deutschlandfunk Kultur ausgerichteten Begegnung mit Schulklassen sagte Merkel, es müsse besser erklärt werden, was Demokratie eigentlich sei.",
+   "link": "https://www.deutschlandfunk.de/ehemalige-bundeskanzlerin-merkel-fordert-mehr-einsatz-fuer-die-demokratie-100.html",
+   "published": "2026-10-14T14:27:43+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-16T14:27:43+00:00",
+   "img": "https://bilder.deutschlandfunk.de/f6/68/e9/cf/f668e9cf-dff3-4705-9327-c7b4c91d5833/merkel-unplugged-108-1920x1920.jpg"
+  },
+  {
+   "id": "nfc823c5665",
+   "topic": "politik",
+   "title": "Regierungserklärung - Bundeskanzler Merz bekräftigt Notwendigkeit von EU-Maßnahmen gegen Wettbewerbsverzerrung",
+   "text": "Vor dem EU-Gipfel in Brüssel hat Bundeskanzler Merz erneut europäische Maßnahmen gegen Wettbewerbsverzerrung im internationalen Handel gefordert.",
+   "link": "https://www.deutschlandfunk.de/bundeskanzler-merz-bekraeftigt-notwendigkeit-von-eu-massnahmen-gegen-wettbewerbsverzerrung-102.html",
+   "published": "2026-10-14T14:27:43+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-16T14:27:43+00:00",
+   "img": "https://bilder.deutschlandfunk.de/06/9e/61/27/069e6127-1614-4234-9c28-5d1909134885/merz-cdu-120-1920x1920.jpg"
+  },
+  {
+   "id": "nd84b688efa",
+   "topic": "politik",
+   "title": "Iran-Krieg - Offenbar Frachtschiff in der Straße von Hormus nach Minentreffer gesunken",
+   "text": "In der Straße von Hormus ist ein Frachtschiff nach der Kollision mit einer Seemine gesunken.",
+   "link": "https://www.deutschlandfunk.de/offenbar-frachtschiff-in-der-strasse-von-hormus-nach-minentreffer-gesunken-100.html",
+   "published": "2026-10-14T14:27:43+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-16T14:27:43+00:00",
+   "img": "https://bilder.deutschlandfunk.de/e1/06/7d/e2/e1067de2-6230-41ae-943b-92085b1ff504/die-nachrichten-kachel-2176-zu1224-100-768x768.jpg"
+  },
+  {
+   "id": "n81839e6cbc",
+   "topic": "politik",
+   "title": "Bundesländer - Sachsen-Anhalts Landtag beschließt AfD-BSW-Antrag zu Ukraine-Krieg",
+   "text": "Mit den Stimmen von AfD und BSW hat der Landtag von Sachsen-Anhalt ein sofortiges Ende sämtlicher deutscher Ukraine-Hilfen verlangt.",
+   "link": "https://www.deutschlandfunk.de/sachsen-anhalts-landtag-beschliesst-afd-bsw-antrag-zu-ukraine-krieg-102.html",
+   "published": "2026-10-14T14:27:43+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-16T14:27:43+00:00",
+   "img": "https://bilder.deutschlandfunk.de/e6/4e/a4/d8/e64ea4d8-e021-4bd8-ae6c-75ec04fb2365/sachsen-anhalt-wahl-100-1920x1920.jpg"
+  },
+  {
+   "id": "nfda5d24b3f",
+   "topic": "it",
+   "title": "Meta-Analyse: Energiewende kostet 3,6 Billionen Euro und spart Milliarden",
+   "text": "Die Auswertung zahlreicher Szenarien für die Energiewende zeigt, dass diese einen ganzen Wirtschaftszweig stärken könnte. Eine Verzögerung würde hingegen Milliarden kosten. ( Energiewende , Solarenergie )",
+   "link": "https://www.golem.de/news/meta-analyse-energiewende-kostet-3-6-billionen-euro-und-spart-milliarden-2610-214110.html",
+   "published": "2026-10-14T14:27:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-19T14:27:01+00:00",
+   "img": "https://www.golem.de/2610/214110-603415-603413_rc.jpg"
+  },
+  {
+   "id": "n64e35ccf74",
+   "topic": "welt",
+   "title": "Frauenfußball boomt - aber viele verdienen kaum Mindestlohn",
+   "text": "Auf den ersten Blick wirkt der Frauenfußball gesund wie nie zuvor - doch hinter dem Milliarden-Boom verbergen sich prekäre Gehälter, psychische Krisen und strukturelle Lücken. Was das für die Zukunft des Sports bedeutet.",
+   "link": "https://www.dw.com/de/frauenfußball-boomt-aber-viele-verdienen-kaum-mindestlohn/a-79658609?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-14T14:25:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-18T14:25:00+00:00",
+   "img": "https://static.dw.com/image/79659702_302.jpg"
+  },
+  {
+   "id": "nc5e83b5823",
+   "topic": "it",
+   "title": "Stellantis-Chef: Chinesische Partner sollen europäische Werke auslasten",
+   "text": "Statt Werke zu schließen, will Stellantis freie Kapazitäten in Europa mit Leapmotor und Dongfeng füllen. Viele der Pläne sind aber noch nicht verbindlich.",
+   "link": "https://www.heise.de/news/Stellantis-Chef-Chinesische-Partner-sollen-europaeische-Werke-auslasten-11488199.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-14T14:22:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-19T14:22:00+00:00"
+  },
+  {
+   "id": "n923ff88fb5",
+   "topic": "welt",
+   "title": "Nepal: Erneut schwere Überschwemmungen nach Unwettern",
+   "text": "Erst vor wenigen Wochen erlebte Nepal eine verheerende Flutkatastrophe. Jetzt hat eine neue Flutwelle Häuser und Brücken mitgerissen. Rettungskräfte suchen nach Vermissten, ob es Tote gibt, ist bislang noch unklar. Von Bo Hyun Kim.",
+   "link": "https://www.tagesschau.de/ausland/asien/nepal-neue-flut-waehrend-des-wiederaufbaus-100.html",
+   "published": "2026-10-14T14:18:13+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T14:18:13+00:00",
+   "img": "https://images.tagesschau.de/image/a4a3a8a6-ae9d-45d3-92a8-7532d8adb87d/AAABoTqc-yg/AAABnSSvrFg/16x9-big/erdrutsch-nepal-138.jpg?width=1920"
+  },
+  {
+   "id": "n6d521e105a",
+   "topic": "welt",
+   "title": "Haushaltsdebatte in Frankreich: Die politische Quadratur des Kreises",
+   "text": "In Frankreich haben die Beratungen über den Haushalt begonnen. Angesichts hoher Schulden will Finanzminister Lescure deutlich sparen. Aber die Regierung hat keine eigene Mehrheit - und stößt auf Widerstand. Von C. Dylla.",
+   "link": "https://www.tagesschau.de/ausland/europa/haushalt-frankreich-102.html",
+   "published": "2026-10-14T14:17:03+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T14:17:03+00:00",
+   "img": "https://images.tagesschau.de/image/3d8f194c-01c7-4071-8dcb-dc72a018707a/AAABoTrGGRI/AAABnSSvrFg/16x9-big/parlament-frankreich-102.jpg?width=1920"
+  },
+  {
+   "id": "nfb7612e162",
+   "topic": "nfl",
+   "title": "Report: NFL considers flexing Eagles-Commanders out of prime time",
+   "text": "As the NFL season begins to take shape, the league office has a growing body of evidence to inform potential flex decisions.",
+   "link": "https://sports.yahoo.com/articles/report-nfl-considers-flexing-eagles-141631624.html",
+   "published": "2026-10-14T14:16:31+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-19T14:16:31+00:00"
+  },
+  {
+   "id": "n95b8e96a8b",
+   "topic": "wirtschaft",
+   "title": "Künstliche Intelligenz: Was bedeutet die neue KI-Welt für Unternehmen?",
+   "text": "Kostendruck durch teure Energie, hohe Arbeitskosten und geopolitische Krisen - die Stimmung von Unternehmen in Deutschland ist getrübt. Welchen Einfluss haben in dieser Zeit die Veränderungen durch Künstliche Intelligenz? Von Anna Knake.",
+   "link": "https://www.tagesschau.de/wirtschaft/digitales/kuenstliche-intelligenz-unternehmen-deutschland-100.html",
+   "published": "2026-10-14T14:04:50+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T14:04:50+00:00",
+   "img": "https://images.tagesschau.de/image/0d775c7b-7a95-48e6-b6ef-d9ea35a65796/AAABoTn93Xo/AAABnSSvrFg/16x9-big/ibm-campus-ehningen-100.jpg?width=1920"
+  },
+  {
+   "id": "nc36a42e817",
+   "topic": "nfl",
+   "title": "Report: Lamar Jackson has a \"realistic chance\" to return Week 6",
+   "text": "On Monday, Ravens head coach Jesse Minter told reporters that quarterback Lamar Jackson was \"definitely doing better\" after missing Week 5 with an ankle injury.",
+   "link": "https://sports.yahoo.com/articles/report-lamar-jackson-realistic-chance-140205879.html",
+   "published": "2026-10-14T14:02:05+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-19T14:02:05+00:00"
+  },
+  {
+   "id": "nbec1de9ba1",
+   "topic": "it",
+   "title": "Muse erstellt offenbar Berichte über die Freunde und Bekannte seiner Nutzer",
+   "text": "Metas KI-Agent Muse legt Berichten zufolge detaillierte Profile über Freunde und Bekannte seiner Nutzer an. Hinzu kommen weitere datenkritische Praktiken.",
+   "link": "https://www.heise.de/news/Muse-erstellt-offenbar-Berichte-ueber-die-Freunde-und-Bekannten-seiner-Nutzer-11487802.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-14T14:02:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-19T14:02:00+00:00"
+  },
+  {
+   "id": "n1433bd5195",
+   "topic": "wissenschaft",
+   "title": "Molekularer Klebstoff: Fischprotein macht Eis hart wie Beton",
+   "text": "Faserverstärktes Eis ist keine neue Idee – einst wollte man Flugzeugträger daraus bauen. Eine Hightech-Version soll nun als klimaschonender Baustoff für die Polargebiete dienen.",
+   "link": "https://www.spektrum.de/news/fischprotein-macht-eis-hart-wie-beton/2349780",
+   "published": "2026-10-14T14:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-28T14:00:00+00:00"
+  },
+  {
+   "id": "n1800be7cc0",
+   "topic": "it",
+   "title": "Halber Preis, voller Bass: 100-€-Bluetooth-Lautsprecher Sony Ult Field 3 im Test",
+   "text": "Der Bluetooth-Lautsprecher Sony Ult Field 3 bietet Bass auf Knopfdruck, Schultergurt und Powerbank-Funktion. Dabei kostet er nur 108 Euro statt 200 Euro.",
+   "link": "https://www.heise.de/bestenlisten/testbericht/halber-preis-voller-bass-100-euro-bluetooth-lautsprecher-sony-ult-field-3-im-test/2qcq7sc?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-14T14:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-19T14:00:00+00:00"
+  },
+  {
+   "id": "n1256cc4169",
+   "topic": "ki",
+   "title": "Nvidia investiert zwei Milliarden in Europa und drängt den Kontinent zur KI-Aufholjagd",
+   "text": "Nvidia-CEO Jensen Huang kündigt auf seiner Europa-Tour Investitionen von 2 Milliarden Dollar an und beteiligt sich an französischen Startups wie Doctolib und Entalpic. Großbritannien erhält Rechenleistung im Wert von 250 Millionen Dollar für KI-Sicherheitsforschung. Huang wirbt für Open-Weight-Modelle als Europas …",
+   "link": "https://the-decoder.de/nvidia-investiert-zwei-milliarden-in-europa-und-draengt-den-kontinent-zur-ki-aufholjagd/",
+   "published": "2026-10-14T13:59:34+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-21T13:59:34+00:00"
+  },
+  {
+   "id": "n6925f7a5ce",
+   "topic": "welt",
+   "title": "Ungarn beendet ein Kapitel staatlicher Homophobie",
+   "text": "Jahrelang stilisierte das System Viktor Orbans queere Menschen zur Gefahr für Kinder. Nun streicht Peter Magyars Regierung absurde Verbote aus einem berüchtigtem Gesetz. Doch der Streit um LGBTQ-Rechte ist nicht zu Ende.",
+   "link": "https://www.dw.com/de/ungarn-beendet-ein-kapitel-staatlicher-homophobie/a-79658319?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-14T13:59:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-18T13:59:00+00:00",
+   "img": "https://static.dw.com/image/79651134_302.jpg"
+  },
+  {
+   "id": "n4135e2f68a",
+   "topic": "politik",
+   "title": "Bomben-Fund? Gießen bereitet sich auf mögliche Entschärfung vor",
+   "text": "Wegen eines möglichen Bombenfunds müssen in Gießen am Donnerstag eventuell bis zu 6.000 Menschen ihre Häuser verlassen. Bei Bauarbeiten in einer wichtigen Zufahrtsstraße kam der Verdacht auf \"Kampfmittelreste\" auf.",
+   "link": "https://www.hessenschau.de/panorama/bomben-fund-giessen-bereitet-sich-auf-moegliche-entschaerfung-vor-v1,moeglicher-bombenfund-giessen-100.html",
+   "published": "2026-10-14T13:58:51+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-18T13:58:51+00:00",
+   "img": "https://www.hessenschau.de/panorama/radius-bombe-giessen-100~_t-1791988030846_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "n370c486f0d",
+   "topic": "welt",
+   "title": "Studentenproteste in albanischer Hauptstadt Tirana eskalieren",
+   "text": "In der albanischen Hauptstadt Tirana hat es erneut gewaltsame Proteste gegeben. Medienberichten zufolge warfen Demonstranten Brandsätze auf das Bildungsministerium und verursachten ein Feuer.",
+   "link": "https://www.tagesschau.de/ausland/europa/unruhen-albanien-102.html",
+   "published": "2026-10-14T13:56:17+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T13:56:17+00:00",
+   "img": "https://images.tagesschau.de/image/0143876e-0154-4550-90e6-75836841029d/AAABoTp6gDk/AAABnSSvrFg/16x9-big/tirana-proteste-100.jpg?width=1920"
+  },
+  {
+   "id": "n8674afff0b",
+   "topic": "wissenschaft",
+   "title": "Sorge um Papst Leo XIV. nach Lungenkrebs-Diagnose",
+   "text": "Papst Leo XIV. ist wegen einer Krebserkrankung an der Lunge operiert worden. Dem 71-Jährigen sei am Dienstag der untere Lappen des rechten Lungenflügels entfernt worden, teilte der Vatikan mit.",
+   "link": "https://www.tagesschau.de/video/video-1666086.html",
+   "published": "2026-10-14T13:53:48+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T13:53:48+00:00",
+   "img": "https://images.tagesschau.de/image/78a4cbfe-99f2-4a63-b7b8-b962d63f1598/AAABoTkqNuM/AAABnSSvrFg/16x9-big/papst-leo-188.jpg?width=1920"
+  },
+  {
+   "id": "n034985d0e8",
+   "topic": "nfl",
+   "title": "NFL QB Power Rankings: Jared Goff surges into top three, Justin Herbert hits new low",
+   "text": "Brock Purdy retains the top spot, Jared Goff climbs into the top three and a resurgent Drake Maye makes the week's biggest leap",
+   "link": "https://www.cbssports.com/nfl/news/nfl-quarterback-rankings-2026-week-6-jared-goff-justin-herbert/",
+   "published": "2026-10-14T13:43:43+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-19T13:43:43+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/14/3e621450-e177-4524-83c5-1a68a307ad27/goff.jpg"
+  },
+  {
+   "id": "n5d22ff5832",
+   "topic": "it",
+   "title": "Arbeitsmarkt: KI kostet bisher keine Jobs in Deutschland",
+   "text": "Eine Studie des IAB sieht in Deutschland andere Gründe als KI dafür, dass Berufseinsteiger schwerer einen Job finden. ( Arbeit , Studien )",
+   "link": "https://www.golem.de/news/arbeitsmarkt-ki-kostet-bisher-keine-jobs-in-deutschland-2610-214109.html",
+   "published": "2026-10-14T13:43:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-19T13:43:02+00:00",
+   "img": "https://www.golem.de/2610/214109-603406-603404_rc.jpg"
+  },
+  {
+   "id": "n6f194ae93c",
+   "topic": "nfl",
+   "title": "How Bo Nix's strange, viral quote perfectly encapsulates his 2026 season",
+   "text": "Denver's offense ranks near the bottom of the NFL, but its history of wild second-half comebacks shows why Nix's strange comments hold some truth",
+   "link": "https://www.cbssports.com/nfl/news/bo-nixs-viral-quote-encapsulates-his-2026-season-broncos/",
+   "published": "2026-10-14T13:35:58+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-19T13:35:58+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/14/8b298c19-05cb-4c0b-8a62-8f025d51981a/bo-nix.jpg"
+  },
+  {
+   "id": "nc2df67be4c",
+   "topic": "wissenschaft",
+   "title": "Hemmer und Meßner erzählen: Kleine Geschichte von einem Magier und seinem legendären Zoff",
+   "text": "Der Zauberkünstler Harry Houdini und Sherlock-Holmes-Erfinder Arthur Conan Doyle waren Freunde – bis zu einer gemeinsamen Séance. Was dann geschah, erzählen unsere Kolumnisten.",
+   "link": "https://www.spektrum.de/kolumne/hemmer-und-messner-erzaehlen-von-houdini-und-conan-doyle/2335419",
+   "published": "2026-10-14T13:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-28T13:00:00+00:00"
+  },
+  {
+   "id": "n5a3a302ad5",
+   "topic": "politik",
+   "title": "Pflegekommission eingesetzt: Was Experten jetzt klären sollen",
+   "text": "Die Bundesregierung hat sich auf die Einsetzung der Pflegestrukturkommission geeinigt. Sie soll Lösungen für eine große Reform finden. Im Zentrum stehen Eigenanteile, sozialer Ausgleich und die langfristige Finanzierung. Von Ilanit Spinner.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/pflege-kommission-kabinett-100.html",
+   "published": "2026-10-14T12:55:39+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T12:55:39+00:00",
+   "img": "https://images.tagesschau.de/image/6192713a-9dc8-49c8-acff-3c41ee298bc2/AAABoToJay0/AAABnSSvrFg/16x9-big/pflege-krankenhaus-104.jpg?width=1920"
+  },
+  {
+   "id": "n6093265de1",
+   "topic": "welt",
+   "title": "Türkei: Razzia beim oppositionsnahen Sender Halk TV",
+   "text": "Im Zuge einer Razzia bei dem oppositionsnahen Sender Halk TV stürmt die Polizei die Zentrale. Am selben Tag steht Präsidentschaftskandidat Ekrem İmamoğlu vor Gericht.",
+   "link": "https://www.dw.com/de/türkei-razzia-beim-oppositionsnahen-sender-halk-tv/a-79657908?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-14T12:26:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-18T12:26:00+00:00",
+   "img": "https://static.dw.com/image/79657001_302.jpg"
+  },
+  {
+   "id": "n691d596ada",
+   "topic": "ki",
+   "title": "Mutmaßlicher interner OpenAI-Spion vibe-codete Abhörgerät im Chatbot-Konto seiner Ehefrau",
+   "text": "Ein saudischer OpenAI-Ingenieur wurde verhaftet, weil er ein in Toilettenpapier getarntes Audioaufnahmegerät im Konferenzraum der Geschäftsleitung versteckt haben soll. Laut Anklageschrift baute er das Spionagegerät per Vibe-Coding mit Chatbot-Hilfe zusammen. Bei einer Verurteilung drohen bis zu fünf Jahre Haft. Der …",
+   "link": "https://the-decoder.de/mutmasslicher-interner-openai-spion-vibe-codete-abhoergeraet-im-chatbot-konto-seiner-ehefrau/",
+   "published": "2026-10-14T12:04:05+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-21T12:04:05+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/08/openai_ultrafast.png"
+  },
+  {
+   "id": "n2ab9b84dd2",
+   "topic": "wissenschaft",
+   "title": "Polwanderung: Als die Erde kippte",
+   "text": "Seit Jahrzehnten vermuten Fachleute, dass die Erde in einem Schub kippen kann. Doch so dramatisch das klingt – solche schnellen Polwanderungen sind sehr schwer nachzuweisen.",
+   "link": "https://www.spektrum.de/news/polwanderung-als-die-erde-kippte/2349591",
+   "published": "2026-10-14T12:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-28T12:00:00+00:00"
+  },
+  {
+   "id": "na31d4115c5",
+   "topic": "politik",
+   "title": "Mehr Jugendschutz: Kabinett beschließt Eckpunkte für Social-Media-Beschränkungen",
+   "text": "Von einer Altersgrenze für Social Media bis zum \"KI-Seepferdchen\": Das Kabinett hat ein Bündel an Maßnahmen für besseren Kinder- und Jugendschutz im Internet auf den Weg gebracht. Wann die Regelungen in Kraft treten, ist aber noch offen.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/kabinett-beschluss-jugendschutz-social-media-100.html",
+   "published": "2026-10-14T11:50:32+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T11:50:32+00:00",
+   "img": "https://images.tagesschau.de/image/3bbca27e-dcbb-4a36-a782-35c00726c39e/AAABoEYjKQE/AAABnSSvrFg/16x9-big/social-media-186.jpg?width=1920"
+  },
+  {
+   "id": "n8ea7da499b",
+   "topic": "wirtschaft",
+   "title": "Wärmepumpen dominieren den Heizungsmarkt - \"Öl ist praktisch tot\"",
+   "text": "Seit Jahren sind Wärmepumpen ein Reizthema in der Politik. Trotz ständig wechselnder gesetzlicher Vorgaben boomt das Geschäft mit den klimafreundlicheren Heizungen. Möglich machen das auch massive Subventionen. Von Axel John.",
+   "link": "https://www.tagesschau.de/wirtschaft/energie/waermepumpen-bilanz-heizen-100.html",
+   "published": "2026-10-14T11:28:13+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T11:28:13+00:00",
+   "img": "https://images.tagesschau.de/image/40d5ee1d-6adf-400b-8bb0-820b18e6ace1/AAABoTl04qU/AAABnSSvrFg/16x9-big/oelheizung-110.jpg?width=1920"
+  },
+  {
+   "id": "n3d454b71c8",
+   "topic": "welt",
+   "title": "Nord Stream: Ein legitimes militärisches Ziel für die Ukraine?",
+   "text": "Der ukrainische Präsident Selenskyj weist eine staatliche Beteiligung bei der Sprengung der Nord-Stream-Pipeline zurück. Viele Menschen in der Ukraine halten die Gaspipeline für ein legitimes Ziel im Verteidigungskampf gegen Russland. Von R. Barth.",
+   "link": "https://www.tagesschau.de/ausland/europa/ukraine-nord-stream-100.html",
+   "published": "2026-10-14T10:54:25+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T10:54:25+00:00",
+   "img": "https://images.tagesschau.de/image/f7deeea9-8bd1-43a0-ad43-00ba48af6b6f/AAABmNZuU_c/AAABnSSvrFg/16x9-big/nord-stream-2-122.jpg?width=1920"
+  },
+  {
+   "id": "n05fe2feb70",
+   "topic": "politik",
+   "title": "Katharina von Schnurbein wird neue Antisemitismusbeauftragte",
+   "text": "Bei der EU-Kommission war sie jahrelang für die Bekämpfung von Antisemitismus zuständig, nun holt die Bundesregierung Katharina von Schnurbein nach Berlin. Sie bekommt viel Lob, übernimmt aber ein Amt in schwierigen Zeiten.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/katharina-von-schnurbein-neue-antisemitismusbeauftragte-100.html",
+   "published": "2026-10-14T10:49:33+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T10:49:33+00:00",
+   "img": "https://images.tagesschau.de/image/ff16b71d-c10e-43b7-a50e-d9f475b06ebd/AAABoTnqZtw/AAABnSSvrFg/16x9-big/schnurbein-102.jpg?width=1920"
+  },
+  {
+   "id": "n73e29da3ea",
+   "topic": "welt",
+   "title": "Trump kündigt Erschließung von Rohstoffen in Grönland an",
+   "text": "Der US-Präsident verfolgt seine Grönland-Pläne weiter. Nach dem Abkommen mit Dänemark über eine stärkere amerikanische Militärpräsenz nimmt er nun die Öl- und Gasvorkommen auf der Insel ins Visier.",
+   "link": "https://www.dw.com/de/trump-kündigt-erschließung-von-rohstoffen-in-grönland-an/a-79657712?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-14T10:41:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-18T10:41:00+00:00",
+   "img": "https://static.dw.com/image/75520283_302.jpg"
+  },
+  {
+   "id": "na13ef146a2",
+   "topic": "welt",
+   "title": "Emotionen, Tempo, Härte: Der Rücktritt von Bärbel Bas",
+   "text": "Bundesarbeitsministern Bas hat ihr Amt niedergelegt. Sie begründet das mit einem Trauerfall in der Familie und der Härte innerhalb der Regierung. Warum sind öffentliche Debatten heute oft gnadenlos?",
+   "link": "https://www.dw.com/de/emotionen-tempo-härte-der-rücktritt-von-bärbel-bas/a-79657002?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-14T10:37:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-18T10:37:00+00:00",
+   "img": "https://static.dw.com/image/78215104_302.jpg"
+  },
+  {
+   "id": "n6bd4dee283",
+   "topic": "wirtschaft",
+   "title": "Einigung in der Koalition: So soll die Zuckersteuer aussehen",
+   "text": "Der Streit in der schwarz-roten Koalition über die Steuer auf zuckergesüßte Getränke ist beigelegt. Das Kabinett hat einen Regelungsvorschlag beschlossen. Was geplant ist und was die Regierung damit erreichen will.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-einigung-folgen-100.html",
+   "published": "2026-10-14T10:32:28+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T10:32:28+00:00",
+   "img": "https://images.tagesschau.de/image/06101728-7650-439e-b730-871770edf9ba/AAABndgM06Q/AAABnSSvrFg/16x9-big/kiosk-zucker-102.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Mehreinnahmen - Schwarz-rote Koalition einigt sich auf Zuckersteuer",
+     "link": "https://www.deutschlandfunk.de/schwarz-rote-koalition-einigt-sich-auf-zuckersteuer-102.html"
+    }
+   ]
+  },
+  {
+   "id": "nb0fa76cdd3",
+   "topic": "wirtschaft",
+   "title": "Chinas Handelsüberschuss nähert sich der Billionen-Dollar-Marke",
+   "text": "Chinas Exporte sind im September überraschend stark gestiegen. Der Handelsüberschuss der Volksrepublik könnte in diesem Jahr ein historisches Hoch erreichen. Vor allem Halbleiter und Autos treiben das Wachstum an.",
+   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-handelsueberschuss-100.html",
+   "published": "2026-10-14T10:24:16+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T10:24:16+00:00",
+   "img": "https://images.tagesschau.de/image/56af497a-b8ea-4634-9893-b8215461e3ae/AAABoTl9lOI/AAABnSSvrFg/16x9-big/china-1324.jpg?width=1920"
+  },
+  {
+   "id": "n427ba8afa3",
+   "topic": "wirtschaft",
+   "title": "Verurteilter Signa-Gründer Benko darf in den Hausarrest wechseln",
+   "text": "Der wegen Betrugs verurteilte österreichische Investor René Benko darf das Gefängnis vorerst verlassen. Er soll sich mit einer Fußfessel im Hausarrest auf seinen neuen Prozess vorbereiten können.",
+   "link": "https://www.tagesschau.de/ausland/benko-fussfessel-100.html",
+   "published": "2026-10-14T09:48:39+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T09:48:39+00:00",
+   "img": "https://images.tagesschau.de/image/3ea5770a-cfd1-4128-b9dc-b888f4f662c3/AAABoTnQXe8/AAABnSSvrFg/16x9-big/rene-benko-108.jpg?width=1920"
+  },
+  {
+   "id": "nf235c18318",
+   "topic": "wirtschaft",
+   "title": "Bundesregierung einigt sich bei Zuckersteuer auf Zwei-Stufen-Modell",
+   "text": "Nach der Einigung von Union und SPD zur Zuckersteuer hat das Bundeskabinett den entsprechenden Gesetzesentwurf auf den Weg gebracht. Ab dem 1. Juli 2027 soll ein Zwei-Stufen-Modell gelten - abhängig vom Zuckeranteil.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html",
+   "published": "2026-10-14T09:44:37+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T09:44:37+00:00",
+   "img": "https://images.tagesschau.de/image/c17c1b9f-6ab3-4be1-a183-17929691b4a9/AAABnIpC4o8/AAABnSSvrFg/16x9-big/zucker-softdrink-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Mehreinnahmen - Schwarz-rote Koalition einigt sich auf Zuckersteuer",
+     "link": "https://www.deutschlandfunk.de/schwarz-rote-koalition-einigt-sich-auf-zuckersteuer-102.html"
+    }
+   ]
+  },
+  {
+   "id": "n43500eaa9b",
+   "topic": "welt",
+   "title": "Razzia bei US-Demokratin Omar: Politiker mit Migrationsgeschichte als Feindbild",
+   "text": "Kurz vor den Midterms verstärkt US-Präsident Trump seine Attacken auf die Demokraten. Im Fokus stehen dabei Politiker mit Migrationshintergrund. Die Razzia bei der Abgeordneten Omar sorgt für Diskussionen. Von Jan Oppel.",
+   "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-ilhan-omar-100.html",
+   "published": "2026-10-14T09:31:48+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T09:31:48+00:00",
+   "img": "https://images.tagesschau.de/image/44efa934-4734-4565-ae97-88401c19817b/AAABoToSsPM/AAABnSSvrFg/16x9-big/omar-108.jpg?width=1920"
+  },
+  {
+   "id": "n33ecc58318",
+   "topic": "politik",
+   "title": "Sorge vor Reform - Was pflegende Angehörige heute schon leisten",
+   "text": "Die Regierung hat heute eine Pflegekommission eingesetzt, die Vorschläge für eine Reform machen soll. Pflegende Angehörige verfolgen die Debatte mit großem Interesse. Ein Ehepaar gewährt einen Einblick in seinen Alltag. Von H. Diekert und M. Eiden.",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/pflegende-angehoerige-pflegereform-100.html",
+   "published": "2026-10-14T09:30:20+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T09:30:20+00:00",
+   "img": "https://images.tagesschau.de/image/18f139b2-65c7-4593-a90d-7b6b32a76101/AAABoTqbASc/AAABnSSvrFg/16x9-big/umsonst-100.jpg?width=1920"
+  },
   {
    "id": "nbc9dbe4945",
    "topic": "wissenschaft",
@@ -62,6 +621,32 @@
    "lang": "de",
    "expires": "2026-10-28T09:30:00+00:00",
    "img": "https://static.spektrum.de/fm/912/thumbnails/PIA25681.jpeg.8408257.jpeg?f=1280x720"
+  },
+  {
+   "id": "n5e5d334353",
+   "topic": "politik",
+   "title": "Nord-Stream-Anschlag - ein Prozess mit politischer Dimension",
+   "text": "Rund vier Jahre nach den Anschlägen auf die Nord-Stream-Pipelines hat in Hamburg der Prozess gegen den angeklagten Ukrainer begonnen. Der Prozess dürfte die Debatte über die Ukraine-Hilfen befeuern. Von Christina Nagel.",
+   "link": "https://www.tagesschau.de/inland/prozess-nord-stream-100.html",
+   "published": "2026-10-14T09:27:25+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T09:27:25+00:00",
+   "img": "https://images.tagesschau.de/image/934f0a79-cee7-44bd-91ec-0c9732c94d7a/AAABoTi9luM/AAABnSSvrFg/16x9-big/nordstream-festnahme-102.jpg?width=1920"
+  },
+  {
+   "id": "ne08c4439a4",
+   "topic": "welt",
+   "title": "\"We are Jane Doe\" - Protest an US-Eliteuni",
+   "text": "Der Fall einer mutmaßlichen Gruppenvergewaltigung an der Eliteuniversität Cornell sorgt in den USA weiter für Empörung. Rund 1.000 Studierende versammelten sich zu einer Demonstration. Die Uni kündigte neue Maßnahmen an. Von M. Ganslmeier.",
+   "link": "https://www.tagesschau.de/ausland/amerika/usa-protestdemo-elite-uni-cornell-100.html",
+   "published": "2026-10-14T09:02:20+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T09:02:20+00:00",
+   "img": "https://images.tagesschau.de/image/5115c4ba-6bbc-42fb-bc06-a1ea25809510/AAABoTl1_vI/AAABnSSvrFg/16x9-big/proteste-cornell-universitaet-100.jpg?width=1920"
   },
   {
    "id": "n94adb00c00",
@@ -77,24 +662,30 @@
    "img": "https://static.spektrum.de/fm/912/thumbnails/1-Brown_dwarf_grid.jpg.8416189.jpg?f=1280x720"
   },
   {
-   "id": "nb17be4e67c",
-   "topic": "politik",
-   "title": "Mehreinnahmen - Schwarz-rote Koalition einigt sich auf Zuckersteuer",
-   "text": "Union und SPD haben sich auf eine neue Zuckersteuer geeinigt. Der konkrete Entwurf, der auch dem Deutschlandfunk vorliegt, soll heute im Kabinett verabschiedet werden.",
-   "link": "https://www.deutschlandfunk.de/schwarz-rote-koalition-einigt-sich-auf-zuckersteuer-102.html",
-   "published": "2026-10-14T08:37:27+00:00",
-   "source": "Deutschlandfunk",
+   "id": "n49968aedbe",
+   "topic": "welt",
+   "title": "Polizei durchsucht regierungskritischen Fernsehsender in der Türkei",
+   "text": "Die türkische Polizei hat einen der wenigen regierungskritischen Fernsehsender durchsucht und die laufende Sendung von Halk TV gestoppt. Die Opposition kritisierte das Vorgehen scharf. Erst kürzlich war eine Nachrichtenwebsite gesperrt worden.",
+   "link": "https://www.tagesschau.de/ausland/asien/tuerkei-sender-halk-tv-zwangsverwaltung-100.html",
+   "published": "2026-10-14T08:59:44+00:00",
+   "source": "Tagesschau",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-16T08:37:27+00:00",
-   "img": "https://bilder.deutschlandfunk.de/3f/cb/a4/fc/3fcba4fc-db0b-4e44-974d-9b40c9fe675b/getraenkeautomat-softdrinks-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Bundesregierung einigt sich bei Zuckersteuer offenbar auf Zwei-Stufen-Modell",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html"
-    }
-   ]
+   "expires": "2026-10-17T08:59:44+00:00",
+   "img": "https://images.tagesschau.de/image/6cc2f1a7-41bb-45ee-8346-afd54b449b3b/AAABoTlx1S8/AAABnSSvrFg/16x9-big/halk-tv-tuerkei-100.jpg?width=1920"
+  },
+  {
+   "id": "n34023f43d0",
+   "topic": "ki",
+   "title": "Große KI-Modelle verlieren bei Milliarden Sicherheitsereignissen den Faden – Orion-1 soll es besser machen",
+   "text": "Artemis Security stellt mit Orion-1 ein KI-Modell vor, das speziell für die Cyberabwehr trainiert wurde und in einem eigenen Benchmark Claude Opus 5.5 und GPT-6 Sol übertreffen soll. Das Modell füllt eine wachsende Lücke: Allgemeine Frontier-Modelle schränken ihre Cyberfähigkeiten zunehmend ein und blockieren damit …",
+   "link": "https://the-decoder.de/grosse-ki-modelle-verlieren-bei-milliarden-sicherheitsereignissen-den-faden-orion-1-soll-es-besser-machen/",
+   "published": "2026-10-14T08:48:22+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-21T08:48:22+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/08/cybersecurity_illu-1.png"
   },
   {
    "id": "n5e7a892015",
@@ -305,7 +896,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-17T08:06:59+00:00",
-   "img": "https://images.tagesschau.de/image/75dec400-9e99-451c-8ebb-1c020bd82953/AAABk4LjAO8/AAABnSSvrFg/16x9-big/franziska-brantner-106.jpg?width=1920",
+   "img": "https://images.tagesschau.de/image/34dda614-2ca8-4522-8116-e241652c02a7/AAABoToN9mw/AAABnSSvrFg/16x9-big/brantner-122.jpg?width=1920",
    "also": [
     {
      "source": "Deutschlandfunk",
@@ -378,26 +969,6 @@
    "img": "https://images.tagesschau.de/image/e5a88920-1bdb-491c-b820-acc0c683bb7f/AAABoTSQPNs/AAABnSSvrFg/16x9-big/nyse-468.jpg?width=1920"
   },
   {
-   "id": "nf235c18318",
-   "topic": "wirtschaft",
-   "title": "Bundesregierung einigt sich bei Zuckersteuer offenbar auf Zwei-Stufen-Modell",
-   "text": "Die Bundesregierung hat sich nach Angaben aus dem Finanzministerium beim Thema Zuckersteuer geeinigt. Einzelheiten sollen demnächst vorgestellt werden. Laut Medienberichten soll ab 1. Juli 2027 ein Zwei-Stufen-Modell gelten.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html",
-   "published": "2026-10-14T05:52:51+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-17T05:52:51+00:00",
-   "img": "https://images.tagesschau.de/image/c17c1b9f-6ab3-4be1-a183-17929691b4a9/AAABnIpC4o8/AAABnSSvrFg/16x9-big/zucker-softdrink-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Mehreinnahmen - Schwarz-rote Koalition einigt sich auf Zuckersteuer",
-     "link": "https://www.deutschlandfunk.de/schwarz-rote-koalition-einigt-sich-auf-zuckersteuer-102.html"
-    }
-   ]
-  },
-  {
    "id": "n815b9ad32f",
    "topic": "wirtschaft",
    "title": "Marktbericht: DAX leicht höher gesehen",
@@ -442,19 +1013,6 @@
      "link": "https://www.dw.com/de/angriff-auf-kyjiw-selenskyj-beklagt-fehlende-vorwarnung/a-79656750?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
-  },
-  {
-   "id": "n5e5d334353",
-   "topic": "politik",
-   "title": "Nord-Stream-Anschlag - ein Prozess mit politischer Dimension",
-   "text": "Rund vier Jahre nach den Anschlägen auf die Nord-Stream-Pipelines beginnt heute in Hamburg der Prozess gegen den angeklagten Ukrainer. Der Prozess dürfte die Debatte über die Ukraine-Hilfen befeuern. Von Christina Nagel.",
-   "link": "https://www.tagesschau.de/inland/prozess-nord-stream-100.html",
-   "published": "2026-10-14T04:24:15+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-17T04:24:15+00:00",
-   "img": "https://images.tagesschau.de/image/934f0a79-cee7-44bd-91ec-0c9732c94d7a/AAABoTi9luM/AAABnSSvrFg/16x9-big/nordstream-festnahme-102.jpg?width=1920"
   },
   {
    "id": "naba19842d6",
@@ -802,14 +1360,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-15T18:53:08+00:00",
-   "img": "https://bilder.deutschlandfunk.de/82/6e/94/44/826e9444-df80-402a-b8d1-d003cb8c3721/steinmeier-schweitzer-ernennungsurkunde-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "CDU fordert Tempo vom neuen Arbeitsminister Schweitzer",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-tempo-reformen-koalition-100.html"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/82/6e/94/44/826e9444-df80-402a-b8d1-d003cb8c3721/steinmeier-schweitzer-ernennungsurkunde-100-1920x1920.jpg"
   },
   {
    "id": "n5933f28e82",
@@ -1132,561 +1683,6 @@
    "lang": "de",
    "expires": "2026-10-16T15:10:25+00:00",
    "img": "https://images.tagesschau.de/image/1eb6fbe4-7c08-4800-b6de-619aa376b7ab/AAABoTUQyAw/AAABnSSvrFg/16x9-big/pride-marsch-100.jpg?width=1920"
-  },
-  {
-   "id": "nc914e03b05",
-   "topic": "politik",
-   "title": "Alexander Schweitzer: Vom Wahlverlierer zum Bundesminister",
-   "text": "Im März wurde Alexander Schweitzer als Ministerpräsident von Rheinland-Pfalz abgewählt. Jetzt soll er als Bundesarbeitsminister dabei helfen, Deutschland aus der Krise zu führen. Von T. Peters.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/arbeitsminiser-schweitzer-portraet-100.html",
-   "published": "2026-10-13T15:09:23+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T15:09:23+00:00",
-   "img": "https://images.tagesschau.de/image/f1bc49a1-2c61-40e1-acc3-e2b487cf6afe/AAABoTXdz4s/AAABnSSvrFg/16x9-big/merz-steinmeier-schweitzer-100.jpg?width=1920"
-  },
-  {
-   "id": "n415760739a",
-   "topic": "wissenschaft",
-   "title": "Beziehungen: Menschen mit Depressionen haben oft eine unsichere Bindung",
-   "text": "Depressive Menschen weisen deutlich häufiger einen unsicheren Bindungsstil auf als psychisch Gesunde. Das könnte auch für die Behandlung wichtig sein.",
-   "link": "https://www.spektrum.de/news/menschen-mit-depressionen-haben-oft-eine-unsichere-bindung/2349508",
-   "published": "2026-10-13T15:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-10-27T15:00:00+00:00"
-  },
-  {
-   "id": "nd28e87bce2",
-   "topic": "welt",
-   "title": "Wiederaufnahme der militärische Kontakte zwischen der Slowakei und Russland löst Besorgnis und Kritik aus",
-   "text": "Erstmals seit 2022 nehmen die Slowakei und Russland den Austausch von Militärdiplomaten wieder auf. Bratislava spricht von einem notwendigen Schritt, Kritiker warnen vor Spionage und Vertrauensverlust in der NATO.",
-   "link": "https://www.dw.com/de/wiederaufnahme-der-militärische-kontakte-zwischen-der-slowakei-und-russland-löst-besorgnis-und-kritik-aus/a-79652113?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-13T14:53:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-17T14:53:00+00:00"
-  },
-  {
-   "id": "n21c358151d",
-   "topic": "welt",
-   "title": "Besorgnis über neue Militärkontakte zwischen der Slowakei und Russland",
-   "text": "Erstmals seit 2022 nehmen die Slowakei und Russland den Austausch von Militärdiplomaten wieder auf. Bratislava spricht von einem notwendigen Schritt, Kritiker warnen vor Spionage und Vertrauensverlust in der NATO.",
-   "link": "https://www.dw.com/de/besorgnis-über-neue-militärkontakte-zwischen-der-slowakei-und-russland/a-79652113?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-13T14:53:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-17T14:53:00+00:00",
-   "img": "https://static.dw.com/image/79648328_302.jpg"
-  },
-  {
-   "id": "nebcfeb37a8",
-   "topic": "welt",
-   "title": "Nach Rücktritt von Bärbel Bas: Merz geht auf Konfrontationskurs",
-   "text": "Arbeitgeber applaudieren, die SPD dürfte weniger begeistert sein: Der Kanzler fordert schnelle Entscheidungen bei Rente und Arbeitsmarkt. Er kündigt die Durchsetzung der \"umfangreichsten Reformen seit Jahrzehnten\" an.",
-   "link": "https://www.dw.com/de/nach-rücktritt-von-bärbel-bas-merz-geht-auf-konfrontationskurs/a-79650723?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-13T14:37:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-17T14:37:00+00:00",
-   "img": "https://static.dw.com/image/79650913_302.jpg"
-  },
-  {
-   "id": "n66a4ce5f93",
-   "topic": "wirtschaft",
-   "title": "Galeria-Insolvenz: Wie geht's weiter für Angestellte und Kunden?",
-   "text": "Abgesperrte Regale, Unsicherheit über Standorte - nun zumindest Insolvenzgeld für Beschäftigte. Wie geht es vor dem wichtigen Weihnachtsgeschäft für die Kaufhauskette Galeria weiter? Ein Überblick.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/neue-galeria-insolvenz-faq-2026-100.html",
-   "published": "2026-10-13T14:33:25+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T14:33:25+00:00",
-   "img": "https://images.tagesschau.de/image/e13c36a5-dff9-4fb4-80f4-56589c331e49/AAABoTVSd28/AAABnSSvrFg/16x9-big/galeria-254.jpg?width=1920"
-  },
-  {
-   "id": "n5671eae4f7",
-   "topic": "welt",
-   "title": "Königspaar zu Besuch - Spanien will Unterstützung für Ceuta zeigen",
-   "text": "Spanien will nach dem Migrantenansturm Unterstützung für die Exklave Ceuta zeigen. Zum ersten Mal seit fast 20 Jahren kommt der König zu Besuch. Das royale Programm streift das Thema Migration aber nur.",
-   "link": "https://www.tagesschau.de/ausland/europa/ceuta-besuch-koenigspaar-100.html",
-   "published": "2026-10-13T14:08:51+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T14:08:51+00:00",
-   "img": "https://images.tagesschau.de/image/6285fcff-c2e7-4f7c-a067-085571699804/AAABoTVouwI/AAABnSSvrFg/16x9-big/koenig-felipe-koenigin-letizia-102.jpg?width=1920"
-  },
-  {
-   "id": "n73a7788c3b",
-   "topic": "politik",
-   "title": "Mutmaßlicher Sabotageakt in Polen: Wadephul fordert engere Zusammenarbeit",
-   "text": "Ein mutmaßlicher Sabotageakt in Polen, die Verdächtigen leben in Deutschland: Außenminister Wadephul fordert eine noch engere europäische Zusammenarbeit. Zur Attacke gegen eine Starlink-Station wurden Details bekannt.",
-   "link": "https://www.tagesschau.de/inland/wadephul-polen-starlink-brand-100.html",
-   "published": "2026-10-13T13:39:40+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T13:39:40+00:00",
-   "img": "https://images.tagesschau.de/image/d37d73b7-b6d2-4734-8109-9c426060391f/AAABoTVknzM/AAABnSSvrFg/16x9-big/johann-wadephul-174.jpg?width=1920"
-  },
-  {
-   "id": "n2dafc49b4d",
-   "topic": "welt",
-   "title": "Ungarn ändert umstrittenes Anti-LGBTQ-Gesetz",
-   "text": "Es war ein kontroverses Projekt der Regierung von Ex-Ministerpräsident Orbán: ein Gesetz, das offiziell dem Kinderschutz dienen sollte, de facto aber LGBTQ-Rechte beschnitt. Jetzt werden zentrale Punkte gekippt.",
-   "link": "https://www.dw.com/de/ungarn-ändert-umstrittenes-anti-lgbtq-gesetz/a-79649984?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-13T13:26:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-17T13:26:00+00:00",
-   "img": "https://static.dw.com/image/79651149_302.jpg"
-  },
-  {
-   "id": "n7d49b1af16",
-   "topic": "wissenschaft",
-   "title": "Mobbing im Netz: Cybermobbing nimmt weiter zu – Schule ist Tatort",
-   "text": "Mobbingattacken im Netz haben laut einer Studie weiter zugenommen. Die Folgen gerade für Kinder und Jugendliche können gravierend sein.",
-   "link": "https://www.spektrum.de/news/mobbing-im-netz-cybermobbing-nimmt-weiter-zu/2349532",
-   "published": "2026-10-13T13:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-10-27T13:00:00+00:00"
-  },
-  {
-   "id": "ne367571a9c",
-   "topic": "wissenschaft",
-   "title": "Krebs verstehen: Steigern hoch verarbeitete Lebensmittel das Krebsrisiko?",
-   "text": "Hoch verarbeitete Lebensmittel gelten als ungesund und sollen sogar das Krebsrisiko erhöhen. Ein Blick auf verdächtige Inhaltsstoffe und zu Unrecht verteufelte Produkte.",
-   "link": "https://www.spektrum.de/kolumne/steigern-hoch-verarbeitete-lebensmittel-das-krebsrisiko/2329679",
-   "published": "2026-10-13T13:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-10-27T13:00:00+00:00"
-  },
-  {
-   "id": "n57f70c8874",
-   "topic": "politik",
-   "title": "Bei diesen drei Themen stockt die Rentenreform",
-   "text": "Nach dem überraschenden Rücktritt von Bundesarbeitsministerin Bas muss ihr Nachfolger Schweitzer die Rentenreform voranbringen - ausgerechnet er, der die Pläne bisher kritisiert hatte. Drei Knackpunkte gilt es zu lösen.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-empfehlungen-knackpunkte-100.html",
-   "published": "2026-10-13T12:26:15+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T12:26:15+00:00",
-   "img": "https://images.tagesschau.de/image/b43d21c1-43ea-45c3-ba85-2ae3dd0f33a9/AAABmsCCUAo/AAABnSSvrFg/16x9-big/rente-382.jpg?width=1920"
-  },
-  {
-   "id": "n6707a7e62a",
-   "topic": "politik",
-   "title": "Missbrauchsbeauftragte Claus: \"Risiken im digitalen Raum explodieren\"",
-   "text": "Die Gefahr für Kinder und Jugendliche, sexualisierte Gewalt zu erleben, sei so hoch wie nie zuvor, warnt die Missbrauchsbeauftragte Claus. Das Netz gilt als \"zentraler Tatort\" - nun noch verstärkt durch Künstliche Intelligenz.",
-   "link": "https://www.tagesschau.de/inland/bericht-missbrauchsbeauftragte-100.html",
-   "published": "2026-10-13T12:22:05+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T12:22:05+00:00",
-   "img": "https://images.tagesschau.de/image/34e791ad-1074-45f3-b14a-9ad8e3bb6c4a/AAABoTUIhlE/AAABnSSvrFg/16x9-big/claus-114.jpg?width=1920"
-  },
-  {
-   "id": "nb7574a8357",
-   "topic": "welt",
-   "title": "Urbig statt Neuer: Schleichende Wachablösung im Bayern-Tor?",
-   "text": "Nach dem Patzer beim FC Augsburg wird die Frage heiß diskutiert, wie lange Manuel Neuer noch Nummer eins des FC Bayern bleiben sollte. Seinen Nachfolger hat er selbst aufgebaut, aber schafft er den rechtzeitigen Abgang?",
-   "link": "https://www.dw.com/de/urbig-statt-neuer-schleichende-wachablösung-im-bayern-tor/a-79649648?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-13T12:10:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-17T12:10:00+00:00",
-   "img": "https://static.dw.com/image/79650344_302.jpg"
-  },
-  {
-   "id": "n7f8bfa8564",
-   "topic": "politik",
-   "title": "Entwarnung am Flughafen Nürnberg nach vermeintlicher Flugzeugentführung",
-   "text": "Der Nürnberger Flughafen war wegen eines vermeintlich in Not geratenen Flugzeugs gesperrt worden. Eine Maschine aus Korfu hatte einen Entführungsfall gemeldet. Grund dafür war aber wohl nur ein technischer Defekt.",
-   "link": "https://www.tagesschau.de/inland/sperrung-flughafen-nuernberg-100.html",
-   "published": "2026-10-13T11:25:24+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T11:25:24+00:00",
-   "img": "https://images.tagesschau.de/image/9ba65c10-eef8-4f2e-a8e9-769ba564e2e6/AAABoTV5K3U/AAABnSSvrFg/16x9-big/flugzeug-corendon-100.jpg?width=1920"
-  },
-  {
-   "id": "n8edd1faf2d",
-   "topic": "welt",
-   "title": "Politisch brisanter Prozess um Nord-Stream-Sprengung",
-   "text": "Ein Ukrainer muss sich in Hamburg wegen des Anschlags auf die Gasleitung Nord Stream verantworten. Das wirft Fragen nach einer möglichen Rolle Kyjiws auf. Es geht damit auch um die deutsche Ukraine-Unterstützung.",
-   "link": "https://www.dw.com/de/politisch-brisanter-prozess-um-nord-stream-sprengung/a-79638024?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-13T11:19:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-17T11:19:00+00:00",
-   "img": "https://static.dw.com/image/78449452_302.jpg"
-  },
-  {
-   "id": "n26ff7c544b",
-   "topic": "wirtschaft",
-   "title": "Bahn-Fahrplan: Neue ICE-Sprinter, aber weiter viele Baustellen",
-   "text": "Ab diesem Mittwoch lassen sich Tickets für den neuen Bahn-Fahrplan buchen. Zum Wechsel im Dezember fährt ein neuer ICE-Sprinter zwischen Hamburg und München. Baustellen werden weiter für längere Fahrzeiten sorgen.",
-   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/deutsche-bahn-fahrplan-zugverkehr-100.html",
-   "published": "2026-10-13T11:06:11+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T11:06:11+00:00",
-   "img": "https://images.tagesschau.de/image/cf65f41d-12e2-4bdb-b947-27db2d841265/AAABoTS1u-A/AAABnSSvrFg/16x9-big/bahn-1414.jpg?width=1920"
-  },
-  {
-   "id": "n91275eb505",
-   "topic": "wissenschaft",
-   "title": "Quantenrekord: Erstmals bewegen Quantenkräfte ein zentimetergroßes Objekt",
-   "text": "Die Quantenwelt gilt als Reich der allerkleinsten Teilchen. Jetzt haben Forschende einen Quanteneffekt an einem Gegenstand nachgewiesen, der mit bloßem Auge sichtbar ist.",
-   "link": "https://www.spektrum.de/news/erstmals-bewegen-quantenkraefte-ein-zentimetergrosses-objekt/2349509",
-   "published": "2026-10-13T11:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-10-27T11:00:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/True_color_photo_of_levitating_diamond.png.8416663.png?f=1280x720"
-  },
-  {
-   "id": "n7e69c12c54",
-   "topic": "politik",
-   "title": "CDU fordert Tempo vom neuen Arbeitsminister Schweitzer",
-   "text": "Alexander Schweitzer tritt heute seinen neuen Job als Arbeitsminister an. Zeit, sich einzufinden, wird ihm kaum bleiben - denn die CDU drückt aufs Gas. Auf dem Arbeitgebertag unterstrich Kanzler Merz, was er von Bas' Nachfolger erwartet.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-tempo-reformen-koalition-100.html",
-   "published": "2026-10-13T10:40:35+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T10:40:35+00:00",
-   "img": "https://images.tagesschau.de/image/f7831b04-71e1-4b60-a958-b8f25538c5ba/AAABoTS7stY/AAABnSSvrFg/16x9-big/friedrich-merz-530.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Nach Bas-Rücktritt - Steinmeier ernennt Schweitzer zum neuen Arbeitsminister",
-     "link": "https://www.deutschlandfunk.de/steinmeier-ernennt-schweitzer-zum-neuen-arbeitsminister-100.html"
-    }
-   ]
-  },
-  {
-   "id": "na588f01980",
-   "topic": "welt",
-   "title": "Mindestens fünf Tote durch Wirbelstürme in Mexiko",
-   "text": "Das Klimaphänomen El Niño führt in dieser Saison zu besonders vielen Wirbelstürmen im Pazifik. Nun haben der Wirbelsturm \"Simon\" und der Hurrikan \"Rachel\" in Mexiko erste Opfer gefordert.",
-   "link": "https://www.dw.com/de/mindestens-fünf-tote-durch-wirbelstürme-in-mexiko/a-79648930?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-13T10:36:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-17T10:36:00+00:00",
-   "img": "https://static.dw.com/image/79649122_302.jpg"
-  },
-  {
-   "id": "na98792a749",
-   "topic": "politik",
-   "title": "News zu Eintracht Frankfurt",
-   "text": "Hier bekommen Sie immer die neuesten Nachrichten über Eintracht Frankfurt.",
-   "link": "https://www.hessenschau.de/sport/fussball/eintracht-frankfurt/eintracht-frankfurt-news-ticker-alle-fit-auch-maluze-im-training,bundesliga-ticker-104.html",
-   "published": "2026-10-13T10:33:06+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-17T10:33:06+00:00",
-   "img": "https://www.hessenschau.de/sport/fussball/eintracht-frankfurt/maluze-108~_t-1788506464392_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "nb19742370a",
-   "topic": "it",
-   "title": "Anthropic warnt: Unsichere IoT-Geräte können KI-Würmer verbreiten",
-   "text": "Laut Tests von Anthropic reichen auch leistungsschwache Geräte wie Android-TV-Boxen aus, damit sich KI autonom ausbreiten kann. ( KI , Security )",
-   "link": "https://www.golem.de/news/anthropic-warnt-unsichere-iot-geraete-koennen-ki-wuermer-verbreiten-2610-214047.html",
-   "published": "2026-10-13T10:27:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-18T10:27:02+00:00",
-   "img": "https://www.golem.de/2610/214047-603138-603134_rc.jpg"
-  },
-  {
-   "id": "n821dfbfd54",
-   "topic": "nfl",
-   "title": "With 210 yards passing and 121 rushing, Josh Allen had his fourth career double-triple",
-   "text": "Allen reached triple-digit yardage in two statistical categories for the fourth time.",
-   "link": "https://sports.yahoo.com/articles/210-yards-passing-121-rushing-102701100.html",
-   "published": "2026-10-13T10:27:01+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-18T10:27:01+00:00"
-  },
-  {
-   "id": "ncadf558194",
-   "topic": "politik",
-   "title": "Rede in Berlin - \"Ich habe nicht die Absicht, der Liebling der Nation zu werden\": Merz wirbt auf Arbeitgebertag für Reformen - vor allem bei jungen Leuten",
-   "text": "Zum Auftakt des Arbeitgebertages in Berlin hat auch Bundeskanzler Merz gesprochen. In seiner Rede ging es um die anstehenden Reformen der Sozialversicherungssysteme und dabei insbesondere um die Zukunft der Rente. Der Kanzler äußerte sich aber auch explizit zu seinen Umfragewerten.",
-   "link": "https://www.deutschlandfunk.de/ich-habe-nicht-die-absicht-der-liebling-der-nation-zu-werden-merz-wirbt-auf-arbeitgebertag-fuer-refo-100.html",
-   "published": "2026-10-13T10:24:43+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-15T10:24:43+00:00",
-   "img": "https://bilder.deutschlandfunk.de/93/da/14/b6/93da14b6-225e-4f2d-b65b-9b08995cb437/bundeskanzler-merz-deutscher-arbeitgebertag-bdaentwicklung-politik-wirtschaft-100-1920x1920.jpg"
-  },
-  {
-   "id": "nb7bb121578",
-   "topic": "politik",
-   "title": "Nach Bas-Rücktritt - Pistorius will nicht als SPD-Chef antreten",
-   "text": "Verteidigungsminister Pistorius hat eine Kandidatur als SPD-Vorsitzender beim anstehenden Parteitag ausgeschlossen.",
-   "link": "https://www.deutschlandfunk.de/pistorius-will-nicht-als-spd-chef-antreten-100.html",
-   "published": "2026-10-13T10:24:43+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-15T10:24:43+00:00",
-   "img": "https://bilder.deutschlandfunk.de/11/fc/12/a6/11fc12a6-d014-435f-bbfa-cb04448ef273/boris-pistorius-verteidigungsminister-106-1920x1920.jpg"
-  },
-  {
-   "id": "na7e1a68678",
-   "topic": "politik",
-   "title": "US-Hinrichtung - Auch Australien will Livestream verhindern",
-   "text": "Die Pläne der US-Regierung, die Hinrichtung eines verurteilten Attentäters live im Internet zu übertragen, stoßen weiter auf internationale Kritik.",
-   "link": "https://www.deutschlandfunk.de/auch-australien-will-livestream-verhindern-100.html",
-   "published": "2026-10-13T10:24:43+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-15T10:24:43+00:00",
-   "img": "https://bilder.deutschlandfunk.de/e6/1d/0b/fc/e61d0bfc-a7da-447b-8d65-ee188a20ae11/albanese-102-1920x1920.jpg"
-  },
-  {
-   "id": "nf08f7ee85f",
-   "topic": "politik",
-   "title": "Fußballweltverband - Millionenzahlung nicht deklariert, FIFA-Büro im Trump Tower kaum genutzt? Neue Vorwürfe gegen FIFA-Präsident Infantino",
-   "text": "Gegen FIFA-Präsident Infantino sind weitere Vorwürfe laut geworden. Nach einem Medienbericht soll er 2024 zusätzlich zu seinem offiziellen Gehalt eine Millionenzahlung von der WM-Organisation FWC2026 erhalten haben. Für Diskussionen sorgt zudem ein teures Büro des Weltverbandes im New Yorker Trump Tower.",
-   "link": "https://www.deutschlandfunk.de/millionenzahlung-nicht-deklariert-fifa-buero-im-trump-tower-kaum-genutzt-neue-vorwuerfe-gegen-fifa-p-100.html",
-   "published": "2026-10-13T10:24:43+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-15T10:24:43+00:00",
-   "img": "https://bilder.deutschlandfunk.de/57/2a/00/8a/572a008a-5072-4931-aff1-c2d884947c08/gianni-infantino-fifa-praesident-102-1920x1920.jpg"
-  },
-  {
-   "id": "nc938c9b034",
-   "topic": "politik",
-   "title": "Antidiskriministerungsbeauftragte - Ataman fordert eine Nationale Wechseljahre-Strategie",
-   "text": "Die Antidiskriminierungsbeauftragte des Bundes, Ataman, plädiert für eine Nationale Wechseljahre-Strategie.",
-   "link": "https://www.deutschlandfunk.de/ataman-fordert-eine-nationale-wechseljahre-strategie-102.html",
-   "published": "2026-10-13T10:24:43+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-15T10:24:43+00:00",
-   "img": "https://bilder.deutschlandfunk.de/18/fc/c9/30/18fcc930-c0a6-4425-a2b9-7e150cf1819b/ferda-ataman-antidiskriminierungsbeauftragte-bundesregierung-100-1920x1920.jpg"
-  },
-  {
-   "id": "n54e4f07c06",
-   "topic": "politik",
-   "title": "Sicherheitskonferenz in Warschau - Bundesaußenminister Wadephul sichert Ukraine erneut deutsche Unterstützung zu",
-   "text": "Bundesaußenminister Wadephul hat vor seiner Abreise nach Polen der Ukraine eine verlässliche Unterstützung zugesichert.",
-   "link": "https://www.deutschlandfunk.de/bundesaussenminister-wadephul-sichert-ukraine-erneut-deutsche-unterstuetzung-zu-102.html",
-   "published": "2026-10-13T10:24:43+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-15T10:24:43+00:00",
-   "img": "https://bilder.deutschlandfunk.de/b4/55/5d/32/b4555d32-4845-416f-8d5c-c74f0a8c209f/bundesaussenminister-wadephul-cdu-polen-warschauer-sicherheitsforum-100-1920x1920.jpg"
-  },
-  {
-   "id": "nc161720c09",
-   "topic": "wissenschaft",
-   "title": "Wasserreinigung: Abfälle des Bierbrauens filtern Bakterien aus dem Wasser",
-   "text": "Bei der Bierherstellung entstehen etliche Nebenprodukte. Eine neue Studie zeigt, wie man den vermeintlichen Abfall als Bakterienfilter wieder nutzbar macht.",
-   "link": "https://www.spektrum.de/news/abfaelle-des-bierbrauens-filtern-bakterien-aus-dem-wasser/2349282",
-   "published": "2026-10-13T10:15:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-10-27T10:15:00+00:00"
-  },
-  {
-   "id": "n381e82fe65",
-   "topic": "wirtschaft",
-   "title": "Weinlese: Winzer rechnen mit kleinster Ernte seit 2010",
-   "text": "Rund 20 Prozent weniger als im Durchschnitt: Nach dem Ende der Weinlese rechnen die deutschen Winzer mit weniger Wein für dieses Jahr. \"Spitze\" sei hingegen die diesjährige Qualität.",
-   "link": "https://www.tagesschau.de/wirtschaft/weinlese-2026-deutschland-100.html",
-   "published": "2026-10-13T10:13:09+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T10:13:09+00:00",
-   "img": "https://images.tagesschau.de/image/4e69de55-5852-4369-ada8-fc8b035845ba/AAABoTQRIyM/AAABnSSvrFg/16x9-big/weinlese-198.jpg?width=1920"
-  },
-  {
-   "id": "nd80fb41167",
-   "topic": "it",
-   "title": "Kryptodiebstahl: Ledger bestätigt Hardware-Implantat in Wallet",
-   "text": "Ledger hat in einem Kundengerät ein nicht autorisiertes Implantat gefunden. Der Händler Cryptobilis stoppt den Verkauf. ( Verschlüsselung , Tron )",
-   "link": "https://www.golem.de/news/kryptodiebstahl-ledger-bestaetigt-hardware-implantat-in-wallet-2610-214036.html",
-   "published": "2026-10-13T10:09:01+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-18T10:09:01+00:00",
-   "img": "https://www.golem.de/2610/214036-603087-603085_rc.jpg"
-  },
-  {
-   "id": "ne2c151b360",
-   "topic": "it",
-   "title": "iPhone-Mirroring: Noch nützlicher unter iOS 27, aber nicht in der EU",
-   "text": "Seit iOS 18 kann man iPhones vom Mac aus bequem fernsteuern. In iOS 27 und macOS 27 wird das noch nützlicher. Aus Regulierungsgründen aber weiter nicht bei uns.",
-   "link": "https://www.heise.de/news/Nuetzliche-neue-Funktionen-fuer-das-iPhone-Mirroring-EU-bleibt-weiter-draussen-11484882.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-13T10:07:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-18T10:07:00+00:00"
-  },
-  {
-   "id": "n8d25547872",
-   "topic": "nfl",
-   "title": "Fantasy football Start ‘Em, Sit ‘Em: 16 players to start or sit in Week 6",
-   "text": "Four teams, including the Detroit Lions, will be on bye in Week 6. Here are some streamers fantasy football managers can start in their place.",
-   "link": "https://sports.yahoo.com/articles/fantasy-football-start-em-sit-100504692.html",
-   "published": "2026-10-13T10:05:04+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-18T10:05:04+00:00"
-  },
-  {
-   "id": "n26b9bab598",
-   "topic": "it",
-   "title": "heise+ | Apples iPhone Duo: Alles, was Sie vor dem Kauf wissen müssen",
-   "text": "Apples erstes Foldable ist eine Zäsur für das iPhone. Was es von anderen abhebt und wann ein Klapp-Smartphone überhaupt Sinn ergibt.",
-   "link": "https://www.heise.de/hintergrund/Apples-iPhone-Duo-Alles-was-Sie-vor-dem-Kauf-wissen-muessen-11475057.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-   "published": "2026-10-13T10:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-18T10:00:00+00:00"
-  },
-  {
-   "id": "na873b82b32",
-   "topic": "it",
-   "title": "„Castlevania: Belmont’s Curse“ ist ein schaurig schöner Tanz auf tausend Klingen",
-   "text": "Knackige Rätsel, fordernde Bosse und eine packende Gruselatmosphäre: „Castlevania“ ist zurück und besser denn je.",
-   "link": "https://www.heise.de/tests/Castlevania-Belmont-s-Curse-ist-ein-schaurig-schoener-Tanz-auf-tausend-Klingen-11485707.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-13T09:57:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-18T09:57:00+00:00"
-  },
-  {
-   "id": "n2d95c1d36e",
-   "topic": "welt",
-   "title": "Spaniens König in Ceuta: Spuren beseitigt, Problem weggeschoben",
-   "text": "Der spanische König besucht für zwei Tage die Enklave Ceuta. Vor seiner Anreise wurden Strände und Straßen geräumt, wo Migranten über Wochen ausgeharrt hatten. Was also wird Felipe VI. in Ceuta sehen können? Von F. Welz.",
-   "link": "https://www.tagesschau.de/ausland/afrika/spanien-marokko-besuch-felipe-ceuta-100.html",
-   "published": "2026-10-13T09:24:42+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T09:24:42+00:00",
-   "img": "https://images.tagesschau.de/image/5e72507e-abad-4d04-8ae3-a8908b09c667/AAABoTRig9c/AAABnSSvrFg/16x9-big/aufraeumarbeiten-ceuta-100.jpg?width=1920"
-  },
-  {
-   "id": "n63287d8efc",
-   "topic": "welt",
-   "title": "Schwarzes Meer: Erneut Frachter vor bulgarischer Küste gesunken",
-   "text": "Vor Bulgariens Küste sind wieder Handelsschiffe von Drohnen getroffen worden. Bei dem Angriff sank ein Frachter, mehrere Seeleute werden vermisst. Die bulgarische Regierung verdächtigt Russland und schaltet die NATO ein.",
-   "link": "https://www.tagesschau.de/ausland/europa/drohnenangriff-frachter-schwarzes-meer-100.html",
-   "published": "2026-10-13T09:17:24+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T09:17:24+00:00",
-   "img": "https://images.tagesschau.de/image/5ff393af-03ff-428e-992f-0953bad87cf3/AAABoTRngOY/AAABnSSvrFg/16x9-big/bulgarien-264.jpg?width=1920"
-  },
-  {
-   "id": "n353b719cd1",
-   "topic": "wissenschaft",
-   "title": "High-Protein: Gesunder Trend oder Marketing-Trick?",
-   "text": "High-Protein überall – Skyr, Riegel, sogar Kaffee mit extra Protein. Die Kühlregale sind voll davon, aber was steckt wirklich dahinter? Wie viel Protein brauchen wir wirklich?",
-   "link": "https://www.spektrum.de/video/doktor-whatson-high-protein-gesunder-trend-oder-marketing-trick/2349359",
-   "published": "2026-10-13T09:14:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-10-27T09:14:00+00:00"
-  },
-  {
-   "id": "ndd11a09678",
-   "topic": "nfl",
-   "title": "Prisco's NFL Week 6 Power Rankings: 49ers are league's best team, Packers climb 10 spots",
-   "text": "Pete Prisco shares his latest Power Rankings for the 2026 NFL season, including some big risers and fallers",
-   "link": "https://www.cbssports.com/nfl/news/priscos-nfl-week-6-power-rankings-49ers-packers/",
-   "published": "2026-10-13T09:00:45+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-18T09:00:45+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/13/278dca32-97bb-4029-8e35-42115cd6c86c/shanahan.jpg"
-  },
-  {
-   "id": "n0828d0d538",
-   "topic": "welt",
-   "title": "Nach Sabotage in Polen zwei Festnahmen in Deutschland",
-   "text": "Vor einigen Wochen gab es einen Brandanschlag auf eine Station des Satellitendienstes Starlink in Polen. Nun wurden die mutmaßlichen Saboteure in Baden-Württemberg gefasst. Handelten sie im Auftrag Russlands?",
-   "link": "https://www.dw.com/de/nach-sabotage-in-polen-zwei-festnahmen-in-deutschland/a-79647304?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-13T08:42:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-17T08:42:00+00:00",
-   "img": "https://static.dw.com/image/79647373_302.jpg"
-  },
-  {
-   "id": "ne5208aceeb",
-   "topic": "wissenschaft",
-   "title": "Wechseljahre verändern Körper laut neuer Studie früher als gedacht",
-   "text": "Hitzewallungen, Schlafstörungen oder Gewichtszunahme - die Symptome der Wechseljahre sind vielfältig. Eine neue Studie zeigt nun: Diese Phase beginnt früher als gedacht und bringt massive Veränderungen mit sich. Von Veronika Simon.",
-   "link": "https://www.tagesschau.de/wissen/gesundheit/menopause-koerper-veraenderungen-100.html",
-   "published": "2026-10-13T08:34:21+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T08:34:21+00:00",
-   "img": "https://images.tagesschau.de/image/7a1099b6-c762-4be2-8402-0527b3663748/AAABoTRS0qc/AAABnSSvrFg/16x9-big/frau-arzt-100.jpg?width=1920"
-  },
-  {
-   "id": "n67cb05b4c1",
-   "topic": "ki",
-   "title": "Anthropic-Studie warnt: Kleine KI-Modelle könnten sich bald autonom über Alltagsgeräte replizieren",
-   "text": "Laut einer Anthropic-Studie könnten sich kleine KI-Modelle bald autonom über schlecht gesicherte Alltagsgeräte wie Smart-TVs oder Staubsaugerroboter replizieren. In Tests schaffte bereits ein Modell die vollständige Infektionskette. CEO Dario Amodei warnt zuvor schon vor einem dauerhaften Internet-Botnet mit Schäden …",
-   "link": "https://the-decoder.de/anthropic-studie-warnt-kleine-ki-modelle-koennten-sich-bald-autonom-ueber-alltagsgeraete-replizieren/",
-   "published": "2026-10-13T08:23:28+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-20T08:23:28+00:00"
   }
  ]
 }
