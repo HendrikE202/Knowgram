@@ -1,50 +1,337 @@
 {
- "generated": "2026-10-13T19:18:08.317873+00:00",
+ "generated": "2026-10-14T00:18:44.776546+00:00",
  "briefing": [
-  "nad8374bd57",
+  "nf235c18318",
   "n7e69c12c54",
-  "n8dec14bed4",
   "nd0d03e43c0",
-  "nba54e2249a",
-  "n7298ee53f2",
-  "nddec651aa2",
-  "n2bb57c87b9"
+  "n8dec14bed4",
+  "n00c6eabead",
+  "n7eecf33aec",
+  "n68be0ea768",
+  "n2dafc49b4d",
+  "na588f01980"
  ],
  "ranked": [
   {
-   "id": "nad8374bd57",
-   "s": 32.1
+   "id": "nf235c18318",
+   "s": 32.2
   },
   {
    "id": "n7e69c12c54",
-   "s": 30.8
-  },
-  {
-   "id": "n8dec14bed4",
-   "s": 28.6
+   "s": 29.6
   },
   {
    "id": "nd0d03e43c0",
-   "s": 27.9
+   "s": 27.4
   },
   {
-   "id": "nba54e2249a",
-   "s": 27.8
+   "id": "n8dec14bed4",
+   "s": 27.3
   },
   {
-   "id": "n7298ee53f2",
-   "s": 27.1
-  },
-  {
-   "id": "nddec651aa2",
+   "id": "n00c6eabead",
    "s": 22.9
   },
   {
-   "id": "n2bb57c87b9",
-   "s": 22.9
+   "id": "n7eecf33aec",
+   "s": 21.4
+  },
+  {
+   "id": "n68be0ea768",
+   "s": 21.4
+  },
+  {
+   "id": "n2dafc49b4d",
+   "s": 20.3
+  },
+  {
+   "id": "na588f01980",
+   "s": 19.6
   }
  ],
  "items": [
+  {
+   "id": "n90364c7412",
+   "topic": "nfl",
+   "title": "Reviewing the Bears’ PFN grades from Week 5 vs. Packers",
+   "text": "After the Bears’ loss to the Packers, we look at how PFN scored each of Chicago’s starters in Week 5.",
+   "link": "https://sports.yahoo.com/articles/reviewing-bears-pfn-grades-week-000000722.html",
+   "published": "2026-10-14T00:00:00+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-19T00:00:00+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/e7329a22c6a9c3c19a6f2774ac04b655.jpg"
+  },
+  {
+   "id": "nb17be4e67c",
+   "topic": "politik",
+   "title": "Mehreinnahmen - Schwarz-rote Koalition einigt sich auf Zuckersteuer",
+   "text": "Union und SPD haben sich auf eine neue Zuckersteuer geeinigt. Wie mehrere Agenturen unter Verweis auf das Bundesfinanzministerium melden, liegt ein konkreter Entwurf vor, der heute im Kabinett verabschiedet werden soll.",
+   "link": "https://www.deutschlandfunk.de/schwarz-rote-koalition-einigt-sich-auf-zuckersteuer-102.html",
+   "published": "2026-10-13T23:59:56+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-15T23:59:56+00:00",
+   "img": "https://bilder.deutschlandfunk.de/3f/cb/a4/fc/3fcba4fc-db0b-4e44-974d-9b40c9fe675b/getraenkeautomat-softdrinks-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Bundesregierung einigt sich bei Zuckersteuer offenbar auf Zwei-Stufen-Modell",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n6a0b6b6daa",
+   "topic": "politik",
+   "title": "Vatikan - Papst Leo hat Lungenkrebs - Teil des rechten Lungenflügels entfernt",
+   "text": "Papst Leo ist an Lungenkrebs erkrankt. Wie der Vatikan am Abend mitteilte, war der zuvor aus seiner Lunge entfernte Knoten bösartig. Deshalb sei ein Teil des rechten Lungenflügels entfernt worden.",
+   "link": "https://www.deutschlandfunk.de/papst-leo-hat-lungenkrebs-teil-des-rechten-lungenfluegels-entfernt-104.html",
+   "published": "2026-10-13T23:59:56+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-15T23:59:56+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Papst Leo XIV. hat Lungenkrebs",
+     "link": "https://www.tagesschau.de/ausland/papst-erfolgreich-operiert-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n5e7a892015",
+   "topic": "politik",
+   "title": "Regierungsbildung - Grüne und SPD in Berlin unterbrechen Sondierungen mit Linken",
+   "text": "Grüne und SPD in Berlin haben die Sondierungsgespräche zur Regierungsbildung mit der Linkspartei unterbrochen. Zunächst müsse eine von allen Mitgliedern der Linken-Fraktion unterzeichnete Erklärung zum Umgang mit Antisemitismus bewertet werden, teilten die beiden Parteien mit.",
+   "link": "https://www.deutschlandfunk.de/gruene-und-spd-in-berlin-unterbrechen-sondierungen-mit-linken-112.html",
+   "published": "2026-10-13T23:59:56+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-15T23:59:56+00:00"
+  },
+  {
+   "id": "n9c7d1d2c0b",
+   "topic": "politik",
+   "title": "Antisemitismus-Streit - Grünen-Chefin Brantner befürwortet Sondierungsstopp mit Linken in Berlin",
+   "text": "Die Bundesvorsitzende der Grünen, Brantner, hat die Unterbrechung der Sondierungsgespräche zwischen ihrer Partei und der SPD mit den Linken in Berlin befürwortet.",
+   "link": "https://www.deutschlandfunk.de/gruenen-chefin-brantner-befuerwortet-sondierungsstopp-mit-linken-in-berlin-102.html",
+   "published": "2026-10-13T23:59:56+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-15T23:59:56+00:00",
+   "img": "https://bilder.deutschlandfunk.de/d4/87/58/52/d4875852-3bdf-4679-8ccb-5ec5d52ecd94/franziska-brantner-106-1920x1920.jpg"
+  },
+  {
+   "id": "n480afc033f",
+   "topic": "politik",
+   "title": "Fragen und Antworten - CDU will Plenarsaal verlassen - das wären die Folgen für die Ministerpräsidentenwahl in Sachsen-Anhalt",
+   "text": "Ulrich Siegmund will sich Mitte Dezember zum Ministerpräsidenten von Sachsen-Anhalt wählen lassen. Nach der Wahl von AfD-Politiker Tobias Rausch zum Landtagspräsidenten - womöglich auch mit Stimmen der CDU - haben die Christdemokraten angekündigt, den Plenarsaal bei der Ministerpräsidentenwahl zu verlassen. Was das …",
+   "link": "https://www.deutschlandfunk.de/cdu-will-plenarsaal-verlassen-das-waeren-die-folgen-fuer-die-ministerpraesidentenwahl-in-sachsen-anh-104.html",
+   "published": "2026-10-13T23:59:56+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-15T23:59:56+00:00"
+  },
+  {
+   "id": "n00c6eabead",
+   "topic": "politik",
+   "title": "Ukraine-Krieg - Ukrainischer Präsident Selenskyj zu Besuch beim neuen britischen Premier Burnham in London erwartet",
+   "text": "Der ukrainische Präsident Selenskyj wird heute zu einem Besuch in Großbritannien erwartet.",
+   "link": "https://www.deutschlandfunk.de/ukrainischer-praesident-selenskyj-zu-besuch-beim-neuen-britischen-premier-burnham-in-london-erwartet-102.html",
+   "published": "2026-10-13T23:59:56+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-15T23:59:56+00:00",
+   "img": "https://bilder.deutschlandfunk.de/ea/47/70/80/ea477080-675a-423f-9bc4-c4d7282e425c/623207074-100-1920x1920.jpg"
+  },
+  {
+   "id": "n07aaf2b88e",
+   "topic": "nfl",
+   "title": "Bills' Joe Brady threatens playing time 'consequences' for James Cook III over fumble issues",
+   "text": "Cook coughed the ball up twice against the Rams in Week 5 and has four fumbles on the year",
+   "link": "https://www.cbssports.com/nfl/news/bills-joe-brady-threatens-playing-time-consequences-james-cook/",
+   "published": "2026-10-13T23:50:59+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-18T23:50:59+00:00"
+  },
+  {
+   "id": "n7054f1a1f6",
+   "topic": "nfl",
+   "title": "Rams' Alaric Jackson suspended two games for punching Bills player",
+   "text": "L.A.'s left tackle punched Buffalo linebacker Bradley Chubb after Monday night's overtime loss at SoFi Stadium.",
+   "link": "https://sports.yahoo.com/articles/rams-alaric-jackson-suspended-two-234016364.html",
+   "published": "2026-10-13T23:40:16+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-18T23:40:16+00:00",
+   "img": "https://media.zenfs.com/en/la_times_articles_853/68d1b7d4bf1d114e43ac281f9b41dd79.jpg"
+  },
+  {
+   "id": "nce0d658feb",
+   "topic": "nfl",
+   "title": "Rams' Alaric Jackson suspended for punching Bills' Bradley Chubb",
+   "text": "Alaric Jackson hit the Bills' pass-rusher with an apparent sucker-punch following Buffalo's wild Monday night win",
+   "link": "https://www.cbssports.com/nfl/news/rams-left-tackle-punches-bills-bradley-chubb-mnf/",
+   "published": "2026-10-13T23:08:35+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-18T23:08:35+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/13/a997c0f6-d13a-4607-b195-fd4589a6045d/chubb.jpg"
+  },
+  {
+   "id": "nfa49d8ffc3",
+   "topic": "it",
+   "title": "Satellitenmobilfunk: Höttges warnt Netzbetreiber vor MVNO-Deals mit Starlink",
+   "text": "SpaceX will vom Notfall-Dienst zum echten Netzbetreiber werden. Der Telekom-CEO warnt davor, Elon Musk über MVNO-Abkommen die Tür in die Mobilfunkmärkte zu öffnen. ( SpaceX , Telekom )",
+   "link": "https://www.golem.de/news/satellitenmobilfunk-hoettges-warnt-netzbetreiber-vor-mvno-deals-mit-starlink-2610-214072.html",
+   "published": "2026-10-13T22:12:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-18T22:12:02+00:00",
+   "img": "https://www.golem.de/2610/214072-603247-603245_rc.jpg"
+  },
+  {
+   "id": "nd0d03e43c0",
+   "topic": "welt",
+   "title": "Papst Leo XIV. hat Lungenkrebs",
+   "text": "Auf Anraten der Ärzte hatte sich Papst Leo XIV. einer Lungenoperation unterzogen. Laut Angaben des Vatikans habe sich dabei die vermutete Diagnose eines Lungenkarzinoms bestätigt. Die Operation habe der Heilige Vater gut überstanden.",
+   "link": "https://www.tagesschau.de/ausland/papst-erfolgreich-operiert-100.html",
+   "published": "2026-10-13T21:49:10+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-16T21:49:10+00:00",
+   "img": "https://images.tagesschau.de/image/3ae7f386-4661-4b83-ba08-3d01ee6b782f/AAABoTaXT1g/AAABnSSvrFg/16x9-big/papst-gemelli-klinik-104.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Vatikan - Papst Leo hat Lungenkrebs - Teil des rechten Lungenflügels entfernt",
+     "link": "https://www.deutschlandfunk.de/papst-leo-hat-lungenkrebs-teil-des-rechten-lungenfluegels-entfernt-104.html"
+    }
+   ]
+  },
+  {
+   "id": "nf235c18318",
+   "topic": "politik",
+   "title": "Bundesregierung einigt sich bei Zuckersteuer offenbar auf Zwei-Stufen-Modell",
+   "text": "Die Bundesregierung hat sich nach Angaben aus dem Finanzministerium beim Thema Zuckersteuer geeinigt. Einzelheiten sollen demnächst vorgestellt werden. Laut Medienberichten soll ab 1. Juli 2027 ein Zwei-Stufen-Modell gelten.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html",
+   "published": "2026-10-13T20:55:26+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-16T20:55:26+00:00",
+   "img": "https://images.tagesschau.de/image/c17c1b9f-6ab3-4be1-a183-17929691b4a9/AAABnIpC4o8/AAABnSSvrFg/16x9-big/zucker-softdrink-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Mehreinnahmen - Schwarz-rote Koalition einigt sich auf Zuckersteuer",
+     "link": "https://www.deutschlandfunk.de/schwarz-rote-koalition-einigt-sich-auf-zuckersteuer-102.html"
+    }
+   ]
+  },
+  {
+   "id": "na1694489f5",
+   "topic": "it",
+   "title": "BSI gemahnt auch Betreiber kleiner vernetzter Anlagen",
+   "text": "Nach dem Angriff auf die Kühlsystemsteuerung französischer Supermärkte warnt Deutschlands IT-Sicherheitsbehörde vor vergleichbaren Attacken.",
+   "link": "https://www.heise.de/news/BSI-gemahnt-auch-Betreiber-kleiner-vernetzter-Anlagen-11487069.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-13T20:23:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-18T20:23:00+00:00"
+  },
+  {
+   "id": "n0198179b35",
+   "topic": "welt",
+   "title": "40 Jahre Gefängnis für Angeklagten in Tupac-Prozess",
+   "text": "Gut 30 Jahre nach dem Mord an US-Rapper Tupac Shakur ist der frühere Gang-Anführer Duane Davis zu 40 Jahren Haft verurteilt worden. Im September hatte ihn eine Jury für schuldig befunden, den Mord organisiert zu haben.",
+   "link": "https://www.tagesschau.de/ausland/angeklagter-tupac-40-jahre-haft-100.html",
+   "published": "2026-10-13T20:13:11+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-16T20:13:11+00:00",
+   "img": "https://images.tagesschau.de/image/c29d628f-0948-4bcb-98fe-de07c09db5e6/AAABoTblxs0/AAABnSSvrFg/16x9-big/tupac-angeklagter-40-jahre-gefaengnis-100.jpg?width=1920"
+  },
+  {
+   "id": "n38e059ead9",
+   "topic": "politik",
+   "title": "Notfall-Code 7700: Flug aus Thessaloniki mit Ziel Frankfurt nach München umgeleitet",
+   "text": "Eine Maschine der griechischen Fluggesellschaft Aegean Airlines von Thessaloniki nach Frankfurt ist wegen eines Notfalls nach München umgeleitet worden. Der genaue Grund blieb zunächst unklar.",
+   "link": "https://www.hessenschau.de/panorama/notfall-code-7700-flug-aus-thessaloniki-mit-ziel-frankfurt-nach-muenchen-umgeleitet-v1,flug-umgeleitet-100.html",
+   "published": "2026-10-13T20:12:50+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T20:12:50+00:00",
+   "img": "https://www.hessenschau.de/panorama/aegean-airlines-a320-100~_t-1791922369933_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "neeb6936241",
+   "topic": "welt",
+   "title": "Analyse: Sind Ausländer wirklich krimineller als Deutsche?",
+   "text": "In der Polizeilichen Kriminalstatistik tauchen Menschen ohne deutschen Pass im Verhältnis häufiger auf als Deutsche. Eine neue Studie zeigt, woran das liegt.",
+   "link": "https://www.dw.com/de/analyse-sind-ausländer-wirklich-krimineller-als-deutsche/a-79649583?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-13T19:55:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-17T19:55:00+00:00",
+   "img": "https://static.dw.com/image/75738110_302.jpg"
+  },
+  {
+   "id": "n41e33a48cb",
+   "topic": "it",
+   "title": "Grafikkarte GeForce RTX 5090 klettert über 6.000 Euro und soll bald verschwinden",
+   "text": "Eine GeForce RTX 5090 kostet jetzt mindestens 6.500 Euro. Vermutlich verschwindet die Grafikkarte demnächst komplett vom Markt.",
+   "link": "https://www.heise.de/news/Nvidia-Geruechte-GeForce-RTX-5090-verschwindet-RTX-5080-24-GByte-soll-kommen-11486799.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-13T19:50:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-18T19:50:00+00:00"
+  },
+  {
+   "id": "n355c933662",
+   "topic": "wirtschaft",
+   "title": "Wirtschaft vor acht vom 13.10.2026",
+   "text": "Wirtschaft vor acht vom 13.10.2026",
+   "link": "https://www.tagesschau.de/video/video-1665754.html",
+   "published": "2026-10-13T19:49:10+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-16T19:49:10+00:00",
+   "img": "https://images.tagesschau.de/image/38ba538d-a4b3-4114-8895-a5d9cdd4f9dd/AAABoTbPhUU/AAABnSSvrFg/16x9-big/sendungsbild-1811030.jpg?width=1920"
+  },
+  {
+   "id": "nf85a4bae3d",
+   "topic": "it",
+   "title": "DNA Europe: Netzbetreiber gründen Allianz",
+   "text": "Europäische Verbände, darunter die deutschen Anga, Breko und VATM, schließen sich zur Allianz „DNA Europe” zusammen. Ihr Ziel: Beeinflussung des DNA.",
+   "link": "https://www.heise.de/news/DNA-Europe-Netzbetreiber-gruenden-Allianz-11485773.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-13T19:20:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-18T19:20:00+00:00"
+  },
   {
    "id": "n6e5f3b6c28",
    "topic": "nfl",
@@ -105,8 +392,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-15T18:53:08+00:00",
-   "img": "https://bilder.deutschlandfunk.de/08/13/be/07/0813be07-591c-4752-85ac-1bbbdbf40978/sondierungen-linke-gruene-spd-100-1920x1920.jpg"
+   "expires": "2026-10-15T18:53:08+00:00"
   },
   {
    "id": "n2bb57c87b9",
@@ -118,8 +404,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-15T18:53:08+00:00",
-   "img": "https://bilder.deutschlandfunk.de/5d/18/52/09/5d185209-8482-44f0-90ec-b133d27e541e/sachsen-anhalt-afd-fraktionssitzung-landtag-spitzenkandidat-ulrich-siegmund-pressekonferenz-fraktionsvorsitzender-100-1920x1920.jpg"
+   "expires": "2026-10-15T18:53:08+00:00"
   },
   {
    "id": "n4806104504",
@@ -165,11 +450,10 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-15T18:53:08+00:00",
-   "img": "https://bilder.deutschlandfunk.de/29/c1/08/85/29c10885-7114-4ba3-9409-1c8d95460e44/papst-leo-130-1920x1920.jpg",
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Lungen-Operation bei Papst Leo erfolgreich verlaufen",
+     "title": "Papst Leo XIV. hat Lungenkrebs",
      "link": "https://www.tagesschau.de/ausland/papst-erfolgreich-operiert-100.html"
     }
    ]
@@ -186,26 +470,6 @@
    "lang": "de",
    "expires": "2026-10-15T18:53:08+00:00",
    "img": "https://bilder.deutschlandfunk.de/10/04/41/98/10044198-f48b-4a9e-bb59-b977ec788074/aviano-air-base-italien-nato-100-1920x1920.jpg"
-  },
-  {
-   "id": "nd0d03e43c0",
-   "topic": "welt",
-   "title": "Lungen-Operation bei Papst Leo erfolgreich verlaufen",
-   "text": "Auf Anraten der Ärzte hat sich Papst Leo XIV. am Nachmittag einer Lungenoperation unterzogen. Wie der Vatikan mitteilte, hat der Heilige Vater den Eingriff gut überstanden.",
-   "link": "https://www.tagesschau.de/ausland/papst-erfolgreich-operiert-100.html",
-   "published": "2026-10-13T18:47:28+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T18:47:28+00:00",
-   "img": "https://images.tagesschau.de/image/3ae7f386-4661-4b83-ba08-3d01ee6b782f/AAABoTaXT1g/AAABnSSvrFg/16x9-big/papst-gemelli-klinik-104.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Knoten in der Lunge entfernt - Vatikan: Papst Leo XIV. erfolgreich operiert",
-     "link": "https://www.deutschlandfunk.de/vatikan-papst-leo-xiv-erfolgreich-operiert-100.html"
-    }
-   ]
   },
   {
    "id": "n37e796c130",
@@ -244,14 +508,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-16T18:37:01+00:00",
-   "img": "https://images.tagesschau.de/image/51bd5ecf-61dd-4281-96e7-63250752a769/AAABoTaNjtU/AAABnSSvrFg/16x9-big/frankreich-supermarkt-kuehlregale-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "heise online",
-     "title": "Cyberangriff auf französische Supermarkt-Kühlschränke: Hunderte Waren verdorben",
-     "link": "https://www.heise.de/news/Cyberangriff-auf-franzoesische-Supermarkt-Kuehlschraenke-Hunderte-Waren-verdorben-11485129.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/51bd5ecf-61dd-4281-96e7-63250752a769/AAABoTaNjtU/AAABnSSvrFg/16x9-big/frankreich-supermarkt-kuehlregale-100.jpg?width=1920"
   },
   {
    "id": "n23a6e17103",
@@ -327,14 +584,7 @@
    "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
    "lang": "de",
    "expires": "2026-10-17T17:43:00+00:00",
-   "img": "https://static.dw.com/image/79636152_302.jpg",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Außenministertreffen - EU verhängt neue Sanktionen gegen Russland - Unklarheit über Trumps Ankündigung einer Waffenruhe",
-     "link": "https://www.deutschlandfunk.de/eu-verhaengt-neue-sanktionen-gegen-russland-unklarheit-ueber-trumps-ankuendigung-einer-waffenruhe-104.html"
-    }
-   ]
+   "img": "https://static.dw.com/image/79636152_302.jpg"
   },
   {
    "id": "ncef5f049f1",
@@ -528,8 +778,19 @@
    "source": "Deutsche Welle",
    "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
    "lang": "de",
-   "expires": "2026-10-17T14:53:00+00:00",
-   "img": "https://static.dw.com/image/79648328_302.jpg"
+   "expires": "2026-10-17T14:53:00+00:00"
+  },
+  {
+   "id": "n21c358151d",
+   "topic": "welt",
+   "title": "Besorgnis über neue Militärkontakte zwischen der Slowakei und Russland",
+   "text": "Erstmals seit 2022 nehmen die Slowakei und Russland den Austausch von Militärdiplomaten wieder auf. Bratislava spricht von einem notwendigen Schritt, Kritiker warnen vor Spionage und Vertrauensverlust in der NATO.",
+   "link": "https://www.dw.com/de/besorgnis-über-neue-militärkontakte-zwischen-der-slowakei-und-russland/a-79652113?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-13T14:53:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-17T14:53:00+00:00"
   },
   {
    "id": "nebcfeb37a8",
@@ -1016,19 +1277,7 @@
    "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
    "lang": "de",
    "expires": "2026-10-17T08:42:00+00:00",
-   "img": "https://static.dw.com/image/79647373_302.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Brand in Starlink-Station in Polen - Festnahmen in Deutschland",
-     "link": "https://www.tagesschau.de/ausland/polen-starlink-brand-festnahmen-100.html"
-    },
-    {
-     "source": "Deutschlandfunk",
-     "title": "Erfolgreiche Fahndung - Nach Brand von Starlink-Anlage in Polen zwei Tatverdächtige in Deutschland festgenommen",
-     "link": "https://www.deutschlandfunk.de/nach-brand-von-starlink-anlage-in-polen-zwei-tatverdaechtige-in-deutschland-festgenommen-100.html"
-    }
-   ]
+   "img": "https://static.dw.com/image/79647373_302.jpg"
   },
   {
    "id": "ne5208aceeb",
@@ -1119,19 +1368,6 @@
    "lang": "de",
    "expires": "2026-10-16T06:36:11+00:00",
    "img": "https://images.tagesschau.de/image/bf15d8c9-9431-4551-b23e-07ee40b0a12f/AAABoTP1tpU/AAABnSSvrFg/16x9-big/istgh-122.jpg?width=1920"
-  },
-  {
-   "id": "nce0d658feb",
-   "topic": "nfl",
-   "title": "Rams left tackle throws punch at Bills' Bradley Chubb following Buffalo's stunning Monday night win",
-   "text": "Alaric Jackson hit the Bills' pass-rusher with an apparent sucker-punch following Buffalo's wild Monday night win",
-   "link": "https://www.cbssports.com/nfl/news/rams-left-tackle-punches-bills-bradley-chubb-mnf/",
-   "published": "2026-10-13T05:56:26+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-18T05:56:26+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/13/a997c0f6-d13a-4607-b195-fd4589a6045d/chubb.jpg"
   },
   {
    "id": "n44f6a9b0c9",
@@ -1413,294 +1649,6 @@
    "lang": "en",
    "expires": "2026-10-17T20:15:27+00:00",
    "img": "https://sportshub.cbsistatic.com/i/2026/10/12/fd2877ce-2640-4b6b-a1dc-51d557e6ac77/deeboweek1.jpg"
-  },
-  {
-   "id": "n7298ee53f2",
-   "topic": "welt",
-   "title": "Ukraine und USA in der Krise: Was folgt auf den Diesel-Deal mit Russland?",
-   "text": "Donald Trump will den Kauf russischen Diesels erlauben, was im In- und Ausland kritisiert wird. Was ist der Grund für die Entscheidung des US-Präsidenten und was soll die Ukraine tun? Die DW hat mit Experten gesprochen.",
-   "link": "https://www.dw.com/de/ukraine-und-usa-in-der-krise-was-folgt-auf-den-diesel-deal-mit-russland/a-79646257?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-12T19:52:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-16T19:52:00+00:00",
-   "img": "https://static.dw.com/image/79626408_302.jpg",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Außenministertreffen - EU verhängt neue Sanktionen gegen Russland - Unklarheit über Trumps Ankündigung einer Waffenruhe",
-     "link": "https://www.deutschlandfunk.de/eu-verhaengt-neue-sanktionen-gegen-russland-unklarheit-ueber-trumps-ankuendigung-einer-waffenruhe-104.html"
-    }
-   ]
-  },
-  {
-   "id": "nad8374bd57",
-   "topic": "welt",
-   "title": "Brand in Starlink-Station in Polen - Festnahmen in Deutschland",
-   "text": "Ende September brennt eine Starlink-Station in Polen, die auch für die Ukraine wichtig ist. Jetzt wurden in Deutschland zwei Verdächtige festgenommen. Die polnische Regierung vermutet Russland hinter dem Vorfall.",
-   "link": "https://www.tagesschau.de/ausland/polen-starlink-brand-festnahmen-100.html",
-   "published": "2026-10-12T19:49:18+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-15T19:49:18+00:00",
-   "img": "https://images.tagesschau.de/image/99564836-868b-4c5e-af04-a4d14fe5cb90/AAABoTGpkCE/AAABnSSvrFg/16x9-big/polen-tusk-110.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Nach Sabotage in Polen zwei Festnahmen in Deutschland",
-     "link": "https://www.dw.com/de/nach-sabotage-in-polen-zwei-festnahmen-in-deutschland/a-79647304?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Deutschlandfunk",
-     "title": "Erfolgreiche Fahndung - Nach Brand von Starlink-Anlage in Polen zwei Tatverdächtige in Deutschland festgenommen",
-     "link": "https://www.deutschlandfunk.de/nach-brand-von-starlink-anlage-in-polen-zwei-tatverdaechtige-in-deutschland-festgenommen-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n63b7f8c2c2",
-   "topic": "politik",
-   "title": "Eskalation am Golf - Wieder Explosionen in saudischer Hauptstadt Riad",
-   "text": "Aus der saudischen Hauptstadt Riad werden weitere Explosionen gemeldet.",
-   "link": "https://www.deutschlandfunk.de/wieder-explosionen-in-saudischer-hauptstadt-riad-100.html",
-   "published": "2026-10-12T19:45:48+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-14T19:45:48+00:00",
-   "img": "https://bilder.deutschlandfunk.de/92/01/27/a6/920127a6-c3e1-4231-8048-1cbd07e65022/skyline-riad-saudi-arabien-100-1920x1920.jpg"
-  },
-  {
-   "id": "n4fd51b4f61",
-   "topic": "politik",
-   "title": "Ukraine-Krieg - Merz und Selenskyj fordern Waffenruhe für Energieanlagen",
-   "text": "Bundeskanzler Merz und der ukrainische Präsident Selenskyj haben Russland aufgefordert, einem Waffenstillstand für die gesamte Energieinfrastruktur zuzustimmen. Das teilte ein Sprecher der Bundesregierung nach einem Telefonat der beiden Regierungschefs mit.",
-   "link": "https://www.deutschlandfunk.de/merz-und-selenskyj-fordern-waffenruhe-fuer-energieanlagen-100.html",
-   "published": "2026-10-12T19:45:48+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-14T19:45:48+00:00",
-   "img": "https://bilder.deutschlandfunk.de/cd/27/f0/b2/cd27f0b2-1f4c-4f06-9c61-b990c94f40a3/ukraine-praesident-selenskyj-bundeskanzler-merz-102-1920x1920.jpg"
-  },
-  {
-   "id": "n208e1fde3b",
-   "topic": "politik",
-   "title": "Außenministertreffen - EU verhängt neue Sanktionen gegen Russland - Unklarheit über Trumps Ankündigung einer Waffenruhe",
-   "text": "Die EU verhängt neue Sanktionen gegen Russland.",
-   "link": "https://www.deutschlandfunk.de/eu-verhaengt-neue-sanktionen-gegen-russland-unklarheit-ueber-trumps-ankuendigung-einer-waffenruhe-104.html",
-   "published": "2026-10-12T19:45:48+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-14T19:45:48+00:00",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Was Trumps Diesel-Deal mit Russland für den Ukraine-Krieg bedeutet",
-     "link": "https://www.dw.com/de/was-trumps-diesel-deal-mit-russland-für-den-ukraine-krieg-bedeutet/a-79653678?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n33e0b88975",
-   "topic": "politik",
-   "title": "Erfolgreiche Fahndung - Nach Brand von Starlink-Anlage in Polen zwei Tatverdächtige in Deutschland festgenommen",
-   "text": "Nach dem Brand in einer polnischen Anlage des Satellitenbetreibers Starlink sind zwei Tatverdächtige in Deutschland festgenommen worden.",
-   "link": "https://www.deutschlandfunk.de/nach-brand-von-starlink-anlage-in-polen-zwei-tatverdaechtige-in-deutschland-festgenommen-100.html",
-   "published": "2026-10-12T19:45:48+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-14T19:45:48+00:00",
-   "img": "https://bilder.deutschlandfunk.de/a7/0e/a3/20/a70ea320-6631-4b17-9998-6abb0396fda3/starlink-ukraine-102-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Nach Sabotage in Polen zwei Festnahmen in Deutschland",
-     "link": "https://www.dw.com/de/nach-sabotage-in-polen-zwei-festnahmen-in-deutschland/a-79647304?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Brand in Starlink-Station in Polen - Festnahmen in Deutschland",
-     "link": "https://www.tagesschau.de/ausland/polen-starlink-brand-festnahmen-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n32bb0d6e74",
-   "topic": "politik",
-   "title": "Bundesregierung - Merz will Stromsteuer senken - Klingbeil äußert Zweifel an Finanzierung",
-   "text": "Bundeskanzler Merz hat angekündigt, die Stromsteuer für Unternehmen und Privatleute auf das europäische Minimum zu senken. Dafür sollen finanzielle Spielräume im Haushalt genutzt werden, sagte der CDU-Vorsitzende nach einer zweitägigen Klausurtagung des Präsidiums.",
-   "link": "https://www.deutschlandfunk.de/merz-will-stromsteuer-senken-klingbeil-aeussert-zweifel-an-finanzierung-100.html",
-   "published": "2026-10-12T19:45:48+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-14T19:45:48+00:00"
-  },
-  {
-   "id": "n3cf50bff54",
-   "topic": "politik",
-   "title": "Drei Wochen nach Wahl - Koalitionsverhandlungen in Schwerin gestartet",
-   "text": "Drei Wochen nach der Landtagswahl in Mecklenburg-Vorpommern haben sich SPD, Linke und Grüne erstmals zu Koalitionsgesprächen getroffen.",
-   "link": "https://www.deutschlandfunk.de/koalitionsverhandlungen-in-schwerin-gestartet-100.html",
-   "published": "2026-10-12T19:45:48+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-14T19:45:48+00:00",
-   "img": "https://bilder.deutschlandfunk.de/36/b2/a3/26/36b2a326-ce91-4775-ba44-b7a2a9f3493e/manuela-schwesig-118-1920x1920.jpg"
-  },
-  {
-   "id": "n25a7ba8558",
-   "topic": "it",
-   "title": "Venezuela genehmigt den kommerziellen Betrieb von Starlink im Land",
-   "text": "Nach erfolgreichen Testläufen mit D2D-Technologie erhält der Satelliteninternetdienst von SpaceX die behördliche Genehmigung für den Betrieb in Venezuela.",
-   "link": "https://www.heise.de/news/Venezuela-genehmigt-den-kommerziellen-Betrieb-von-Starlink-im-Land-11485139.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-12T19:45:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-17T19:45:00+00:00"
-  },
-  {
-   "id": "nf62ddbffdb",
-   "topic": "welt",
-   "title": "Geheimdienste: Ist die geplante Reform verfassungskonform?",
-   "text": "Viele Experten warnen davor, die Trennlinien zwischen Polizei und Geheimdiensten aufzuweichen. Nur wenige haben bei einer Anhörung im Bundestag kein Problem damit.",
-   "link": "https://www.dw.com/de/geheimdienste-ist-die-geplante-reform-verfassungskonform/a-79645444?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-12T19:26:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-16T19:26:00+00:00",
-   "img": "https://static.dw.com/image/78155521_302.jpg"
-  },
-  {
-   "id": "n2e2dbaa4eb",
-   "topic": "it",
-   "title": "Cyberangriff auf französische Supermarkt-Kühlschränke: Hunderte Waren verdorben",
-   "text": "Unbekannte Angreifer haben die Kühl- und Gefriersysteme französischer Supermärkte außer Betrieb gesetzt. Auch ein niederländischer Betreiber meldet Probleme.",
-   "link": "https://www.heise.de/news/Cyberangriff-auf-franzoesische-Supermarkt-Kuehlschraenke-Hunderte-Waren-verdorben-11485129.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-12T18:53:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-17T18:53:00+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Cyberattacken auf Hunderte französische Supermärkte",
-     "link": "https://www.tagesschau.de/ausland/europa/frankreich-cyberattacken-supermaerkte-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n0715d0a27d",
-   "topic": "politik",
-   "title": "\"Enern, zween, dri... Bruder Lolls\": Eine Woche Lullusfest in Bad Hersfeld",
-   "text": "Es ist eins der ältesten Volksfeste überhaupt - und jetzt wird wieder gefeiert: In Bad Hersfeld läuft das Lullusfest. Es dauert eine Woche und bietet von traditionellen Bräuchen bis zu Hightech-Fahrgeschäften beinahe für jeden was.",
-   "link": "https://www.hessenschau.de/freizeit/enern-zween-dri-bruder-lolls-eine-woche-lullusfest-in-bad-hersfeld-v2,lullusfest-110.html",
-   "published": "2026-10-12T18:46:35+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T18:46:35+00:00",
-   "img": "https://www.hessenschau.de/freizeit/lullusfest-112~_t-1791830603529_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "nd9133f6719",
-   "topic": "ki",
-   "title": "Metas neues Frontier-Modell Muse Wonder schafft den Sprung in die KI-Spitzengruppe",
-   "text": "Meta veröffentlicht mit Muse Wonder zwei neue Frontier-Modelle, die in sechs von zehn Benchmarks unter die Top drei kommen. Besonders bei agentischen Aufgaben zeigt sich ein großer Sprung. Der Fortschritt hat allerdings seinen Preis: Die Kosten pro Aufgabe haben sich fast verdreifacht. Der Artikel Metas neues …",
-   "link": "https://the-decoder.de/metas-neues-frontier-modell-muse-wonder-schafft-den-sprung-in-die-ki-spitzengruppe/",
-   "published": "2026-10-12T18:31:29+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-19T18:31:29+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/muse_wonder.png"
-  },
-  {
-   "id": "n896d1a7851",
-   "topic": "wirtschaft",
-   "title": "Wirtschaft vor acht vom 12.10.2026",
-   "text": "Wirtschaft vor acht vom 12.10.2026",
-   "link": "https://www.tagesschau.de/video/video-1665082.html",
-   "published": "2026-10-12T18:29:55+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-15T18:29:55+00:00",
-   "img": "https://images.tagesschau.de/image/5a0599cb-5f4f-40f0-b26f-94c3126f2495/AAABoTFgOMU/AAABnSSvrFg/16x9-big/sendungsbild-1810464.jpg?width=1920"
-  },
-  {
-   "id": "n537752db75",
-   "topic": "it",
-   "title": "Top 10: Der beste Mähroboter für kleine Flächen – Testsieger für 550 Euro",
-   "text": "Für kleine Gärten braucht es keinen teuren Mähroboter. Wir zeigen günstige Modelle bis 500 m² ohne Begrenzungskabel – mit Kamera-, RTK- oder LiDAR-Navigation.",
-   "link": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-maehroboter-fuer-kleine-flaechen-testsieger-fuer-550-euro/dtx14fd?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-12T18:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-17T18:00:00+00:00"
-  },
-  {
-   "id": "n885433697d",
-   "topic": "it",
-   "title": "Vereinbarung mit EU: China soll nur noch 350.000 Hybride jährlich einführen",
-   "text": "Die EU und China haben sich auf Exportbeschränkungen für Hybrid-Pkw geeinigt. Das dürfte die Zahl der chinesischen Fahrzeuge stark senken. ( Plugin-Hybrid , Elektroauto )",
-   "link": "https://www.golem.de/news/vereinbarung-mit-eu-china-soll-nur-noch-350-000-hybride-jaehrlich-einfuehren-2610-214024.html",
-   "published": "2026-10-12T17:54:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-17T17:54:02+00:00",
-   "img": "https://www.golem.de/2610/214024-603050-603048_rc.jpg"
-  },
-  {
-   "id": "nb0050cf0fa",
-   "topic": "welt",
-   "title": "Papst geht Dienstag für Lungenoperation ins Krankenhaus",
-   "text": "Nach dem Fund eines Knotens in der Lunge will sich Papst Leo operieren lassen. Morgen begibt er sich ins Krankenhaus. Spätestens am Mittwoch soll der Eingriff durchgeführt werden. Von Ivo Marusczyk.",
-   "link": "https://www.tagesschau.de/ausland/papst-leo-op-lunge-100.html",
-   "published": "2026-10-12T17:31:01+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-15T17:31:01+00:00",
-   "img": "https://images.tagesschau.de/image/053a655b-e6ee-4663-b133-92976015133d/AAABoTEq9ZY/AAABnSSvrFg/16x9-big/papst-leo-182.jpg?width=1920"
-  },
-  {
-   "id": "nb111eb14e2",
-   "topic": "ki",
-   "title": "Selbstverbessernde KI zeigt Fortschritte, doch fehlerhafte Ergebnisse gehen leicht als Erfolg durch",
-   "text": "Sakana AI lässt ein einzelnes Sprachmodell sich selbst verbessern, indem es gleichzeitig als Problemlöser, Bewerter und Optimierer agiert. Die sogenannte MASS-Methode steigert die Siegquote gegen das Basismodell auf knapp 70 Prozent, doch die Studie zeigt auch ein Risiko: Übersieht das Modell einen Fehler in allen …",
-   "link": "https://the-decoder.de/selbstverbessernde-ki-zeigt-fortschritte-doch-fehlerhafte-ergebnisse-gehen-leicht-als-erfolg-durch/",
-   "published": "2026-10-12T17:02:54+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-19T17:02:54+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/mass-recursive-self-improvement-optimization-nano-banana-pro.jpg"
-  },
-  {
-   "id": "n9940294a28",
-   "topic": "welt",
-   "title": "EU-Außenminister: Sanktionspaket mit willkommener Nebenwirkung",
-   "text": "Noch nie hat die EU auf einen Schlag so viele Personen und Organisationen wegen des Kriegs gegen die Ukraine auf eine Sanktionsliste gesetzt wie heute. Dass das wie eine Antwort auf Trump wirkt, war nicht geplant, ist aber willkommen. Von K. Schmid.",
-   "link": "https://www.tagesschau.de/ausland/europa/eu-neue-sanktionen-russland-102.html",
-   "published": "2026-10-12T17:01:25+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-15T17:01:25+00:00",
-   "img": "https://images.tagesschau.de/image/86cc84bd-f70f-49f1-bf96-9538d9a7c1cc/AAABoTDsiLw/AAABnSSvrFg/16x9-big/kallas-210.jpg?width=1920"
   }
  ]
 }
