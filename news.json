@@ -1,55 +1,566 @@
 {
- "generated": "2026-10-15T11:30:41.213730+00:00",
+ "generated": "2026-10-15T17:02:05.217403+00:00",
  "briefing": [
+  "n912ab2909d",
   "nc507c15eac",
+  "n9d8a6730d7",
   "n067492d5c8",
-  "nb6828f9e94",
-  "ncb9f915eac",
-  "n6dd74a9046",
-  "n818c3d0c4a",
   "n159e913991",
-  "n20e25186cd",
-  "ne3a8b67597"
+  "nb6828f9e94",
+  "n02b96dc8ab",
+  "nc69cb6fb04"
  ],
  "ranked": [
   {
+   "id": "n912ab2909d",
+   "s": 31.3
+  },
+  {
    "id": "nc507c15eac",
-   "s": 30.9
+   "s": 29.5
   },
   {
-   "id": "n067492d5c8",
-   "s": 29.1
-  },
-  {
-   "id": "nb6828f9e94",
+   "id": "n9d8a6730d7",
    "s": 27.9
   },
   {
-   "id": "ncb9f915eac",
-   "s": 25.6
-  },
-  {
-   "id": "n6dd74a9046",
-   "s": 22.8
-  },
-  {
-   "id": "n818c3d0c4a",
-   "s": 21.2
+   "id": "n067492d5c8",
+   "s": 27.7
   },
   {
    "id": "n159e913991",
-   "s": 18.4
+   "s": 27.0
   },
   {
-   "id": "n20e25186cd",
-   "s": 17.8
+   "id": "nb6828f9e94",
+   "s": 26.5
   },
   {
-   "id": "ne3a8b67597",
-   "s": 17.6
+   "id": "n02b96dc8ab",
+   "s": 22.5
+  },
+  {
+   "id": "nc69cb6fb04",
+   "s": 21.9
   }
  ],
  "items": [
+  {
+   "id": "n4bffe1ec22",
+   "topic": "politik",
+   "title": "Bundesverfassungsgericht - Reiche muss Instagram-Video mit Antisemitismusvorwürfen gegen Linkspartei vorerst entfernen",
+   "text": "Bundeswirtschaftsministerin Reiche muss ein Video mit einem Antisemitismusvorwurf gegen die Linkspartei vorerst aus dem Internet nehmen. Das Bundesverfassungsgericht gab einem Eilantrag der Linken statt.",
+   "link": "https://www.deutschlandfunk.de/reiche-muss-instagram-video-mit-antisemitismusvorwuerfen-gegen-linkspartei-vorerst-entfernen-100.html",
+   "published": "2026-10-15T16:52:25+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T16:52:25+00:00",
+   "img": "https://bilder.deutschlandfunk.de/99/2a/5f/4f/992a5f4f-e62f-4ee6-bd69-7dabbbb73945/bundeswirtschaftsministerin-reiche-102-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Reiche muss Instagram-Video mit Vorwurf gegen Linke löschen",
+     "link": "https://www.tagesschau.de/inland/reiche-linke-instagram-100.html"
+    }
+   ]
+  },
+  {
+   "id": "nc8a244b5d4",
+   "topic": "politik",
+   "title": "Digitalisierung - Bundestag stimmt digitaler Brieftasche zu",
+   "text": "Der Bundestag hat Neuerungen für Personalausweis und Pass auf den Weg gebracht.",
+   "link": "https://www.deutschlandfunk.de/bundestag-stimmt-digitaler-brieftasche-zu-100.html",
+   "published": "2026-10-15T16:52:25+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T16:52:25+00:00",
+   "img": "https://bilder.deutschlandfunk.de/NO/VA/_2/a2/NOVA_2a2ed70f2080cb645e4fd04fc6c6321e/craft-12169451-asset-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Reform der Notfallversorgung beschlossen - was sich für Patienten ändert",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/notfallversorgung-krankenhaus-reform-100.html"
+    }
+   ]
+  },
+  {
+   "id": "nd58f693c66",
+   "topic": "politik",
+   "title": "Weltzeit-Reform - Schaltsekunde wird abgeschafft",
+   "text": "Schaltsekunden gleichen Unterschiede zwischen der unregelmäßigen Erdrotation und präzisen Atomuhren aus. Künftig wird dieses Verfahren entfallen. Fachleute erhoffen sich davon mehr Stabilität für digitale Systeme und kritische Infrastrukturen.",
+   "link": "https://www.deutschlandfunk.de/schaltsekunde-wird-abgeschafft-100.html",
+   "published": "2026-10-15T16:52:25+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T16:52:25+00:00",
+   "img": "https://bilder.deutschlandfunk.de/ea/6e/60/cc/ea6e60cc-c26c-48b3-8152-591bcda500ea/schaltsekunde-100-1920x1920.jpg"
+  },
+  {
+   "id": "na00b27b248",
+   "topic": "politik",
+   "title": "Wirtschaft - Bericht: Bundesregierung vor KI-Partnerschaft mit Nvidia",
+   "text": "Die Bundesregierung will Medienberichten zufolge eine Partnerschaft mit ‌dem US-Chipkonzern Nvidia ⁠schließen, um ⁠den Einsatz von Künstlicher Intelligenz in der Industrie voranzutreiben.",
+   "link": "https://www.deutschlandfunk.de/bericht-bundesregierung-vor-ki-partnerschaft-mit-nvidia-100.html",
+   "published": "2026-10-15T16:52:25+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T16:52:25+00:00",
+   "img": "https://bilder.deutschlandfunk.de/c8/b8/67/28/c8b86728-30b6-4c5e-b12a-43a6f9ee9c5e/nvidia-102-1920x1920.jpg"
+  },
+  {
+   "id": "naf7553bbf5",
+   "topic": "politik",
+   "title": "ZDF - AfD-Politiker zeigt Kurt Krömer an - Beschwerden über Jan Böhmermanns Simson-Satire",
+   "text": "Auseinandersetzungen mit den Satirikern Jan Böhmermann und Kurt Krömer haben erneut eine Debatte über etwaige Grenzen von Kritik an rechtsgerichteten Bestrebungen ausgelöst.",
+   "link": "https://www.deutschlandfunk.de/afd-politiker-zeigt-kurt-kroemer-an-beschwerden-ueber-jan-boehmermanns-simson-satire-100.html",
+   "published": "2026-10-15T16:52:25+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T16:52:25+00:00",
+   "img": "https://bilder.deutschlandfunk.de/6b/d1/3f/d3/6bd13fd3-7841-467f-9900-6ed2ac9e1dac/boehmermann-simson-100-1280x1280.png"
+  },
+  {
+   "id": "n082bd8a462",
+   "topic": "politik",
+   "title": "Skandal in Weißenfels - \"Widerwärtiger\" Sex-Wettbewerb in Bundeswehr gemeldet: Pistorius droht Soldaten mit Härte",
+   "text": "Bundesverteidigungsminister Pistorius reagiert auf Medienberichte, wonach sich Bundeswehrsoldaten einen Wettbewerb geliefert haben sollen, wer mit mehr weiblichen Angehörigen ihrer Einheit Sex hat.",
+   "link": "https://www.deutschlandfunk.de/widerwaertiger-sex-wettbewerb-in-bundeswehr-gemeldet-pistorius-droht-soldaten-mit-haerte-100.html",
+   "published": "2026-10-15T16:52:25+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-17T16:52:25+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Bundeswehr: Pistorius will Reservedienst verpflichtend machen",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-reservestaerkungsgesetz-100.html"
+    }
+   ]
+  },
+  {
+   "id": "nebc6aac6cd",
+   "topic": "ki",
+   "title": "Black Forest Labs veröffentlicht FLUX 3 Image Klein als Open-Weights-Modell für Bilderzeugung, Editing und 4K-Generierung",
+   "text": "Black Forest Labs veröffentlicht FLUX 3 Image Klein, ein Open-Weights-Bildmodell mit 5,6 Milliarden Parametern, das native 4K-Erzeugung, pixelgenaues Editing und Generierung mit bis zu zehn Referenzbildern beherrscht. Trotz 38 Prozent weniger Parametern als der Vorgänger übertrifft es laut internen Tests auch …",
+   "link": "https://the-decoder.de/black-forest-labs-veroeffentlicht-flux-3-image-klein-als-open-weights-modell-fuer-bilderzeugung-editing-und-4k-generierung/",
+   "published": "2026-10-15T16:51:14+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-22T16:51:14+00:00"
+  },
+  {
+   "id": "nbdbc3737d3",
+   "topic": "nfl",
+   "title": "Dan Quinn: “We’ve turned the page from Sunday.”",
+   "text": "Dan Quinn answers questions from the media before the Washington Commanders return to practice",
+   "link": "https://sports.yahoo.com/articles/dan-quinn-ve-turned-page-164955700.html",
+   "published": "2026-10-15T16:49:55+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-20T16:49:55+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/2f9deafe8a4b0c9ab61bf7e9d838bdb2.png"
+  },
+  {
+   "id": "na14ec7c16d",
+   "topic": "nfl",
+   "title": "Bills' Bradley Chubb reveals what he said that led to Alaric Jackson punch and suspension",
+   "text": "Chubb was trash-talking Jackson after the Bills' Monday night win",
+   "link": "https://www.cbssports.com/nfl/news/bills-bradley-chubb-reveals-what-he-said-alaric-jackson-punch/",
+   "published": "2026-10-15T16:47:45+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-20T16:47:45+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/13/d4743591-f446-48ad-946f-c904d317aee7/chubb-jackson-punch.png"
+  },
+  {
+   "id": "n8beb9c2c90",
+   "topic": "nfl",
+   "title": "Frank Reich on Jets RB room: ‘We have the best 1-2 combo in the NFL’",
+   "text": "After Braelon Allen's career game against the Browns, OC Frank Reich declared the Jets running back has the best \"one-two combo in the NFL.\"",
+   "link": "https://sports.yahoo.com/articles/frank-reich-jets-rb-room-164532618.html",
+   "published": "2026-10-15T16:45:32+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-20T16:45:32+00:00"
+  },
+  {
+   "id": "n9d8a6730d7",
+   "topic": "politik",
+   "title": "Reiche muss Instagram-Video mit Vorwurf gegen Linke löschen",
+   "text": "Bundeswirtschaftsministerin Reiche muss ein Instagram-Video über die Linke vorerst entfernen, in dem sie der Partei Antisemitismus vorwirft. Das entschied das Bundesverfassungsgericht in einem Eilverfahren. Von I. Sayram und J. Pentz.",
+   "link": "https://www.tagesschau.de/inland/reiche-linke-instagram-100.html",
+   "published": "2026-10-15T16:35:05+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-18T16:35:05+00:00",
+   "img": "https://images.tagesschau.de/image/60e5c17f-9d2f-4c9b-bd4e-7b6178d578f6/AAABoUATiZ8/AAABnSSvrFg/16x9-big/reiche-222.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Bundesverfassungsgericht - Reiche muss Instagram-Video mit Antisemitismusvorwürfen gegen Linkspartei vorerst entfernen",
+     "link": "https://www.deutschlandfunk.de/reiche-muss-instagram-video-mit-antisemitismusvorwuerfen-gegen-linkspartei-vorerst-entfernen-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n84f83f9b44",
+   "topic": "wirtschaft",
+   "title": "Marktbericht: DAX vom Tech-Ausverkauf kaum betroffen",
+   "text": "Der DAX pendelt weiter um die Marke von 25.000 Punkten. Der weltweite Ausverkauf von Tech-Aktien hat den deutschen Leitindex nicht so stark getroffen - denn große Technologiewerte sind kaum vertreten.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html",
+   "published": "2026-10-15T16:32:51+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-18T16:32:51+00:00",
+   "img": "https://images.tagesschau.de/image/1cd7783b-220b-4d14-9b74-536f856c926b/AAABnjsd-94/AAABnSSvrFg/16x9-big/dax-220.jpg?width=1920"
+  },
+  {
+   "id": "n6982e33420",
+   "topic": "it",
+   "title": "Bundestag gibt gesetzliche Grundlage für Staats-Wallet frei",
+   "text": "Mit dem Digitale-Identitäten-Gesetz wird die nationale Rechtsgrundlage für die geplanten digitalen Brieftaschen geschaffen.",
+   "link": "https://www.heise.de/news/Bundestag-gibt-gesetzliche-Grundlage-fuer-Staats-Wallet-frei-11489886.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-15T16:25:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-20T16:25:00+00:00",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Kanzler Merz im Bundestag: Gerechtigkeit ist Grundlage der Demokratie",
+     "link": "https://www.dw.com/de/kanzler-merz-im-bundestag-gerechtigkeit-ist-grundlage-der-demokratie/a-79661732?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "n598d9a7a34",
+   "topic": "it",
+   "title": "„Schwarzer Donnerstag“ wegen Sorgen über KI-Ausgaben: Asiens Börsen abgesackt",
+   "text": "Die jüngste Kurskorrektur hat vor allem Südkorea getroffen, dort ist die Rede von einem „Schwarzen Donnerstag“. Samsung und SK Hynix trifft es besonders stark.",
+   "link": "https://www.heise.de/news/Schwarzer-Donnerstag-wegen-Sorgen-ueber-KI-Ausgaben-Asiens-Boersen-abgesackt-11489778.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-15T16:21:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-20T16:21:00+00:00"
+  },
+  {
+   "id": "na4d17f7ca2",
+   "topic": "it",
+   "title": "AEG will der Midea PortaSplit Konkurrenz machen",
+   "text": "Ab 2027 haben Hitzegeplagte mehr Auswahl bei mobilen Split-Klimaanlagen. Von AEG kommt die Roomovi, die der PortaSplit ähnelt.",
+   "link": "https://www.heise.de/news/AEG-will-der-Midea-PortaSplit-Konkurrenz-machen-11489814.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-15T16:19:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-20T16:19:00+00:00"
+  },
+  {
+   "id": "n3416590999",
+   "topic": "it",
+   "title": "Jobinterview: KI-Bot drückt Gehalt und vereinbart Termin ohne Bewerber",
+   "text": "Einen KI-Bot als Begleiter in ein ebenfalls von KI geführtes Jobinterview mitzunehmen, bringt reichlich Chaos ins Bewerbungsgespräch. ( KI , Interview )",
+   "link": "https://www.golem.de/news/jobinterview-ki-bot-drueckt-gehalt-und-vereinbart-termin-ohne-bewerber-2610-214161.html",
+   "published": "2026-10-15T16:16:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-20T16:16:02+00:00",
+   "img": "https://www.golem.de/2610/214161-603646-603644_rc.jpg"
+  },
+  {
+   "id": "nfc7db587ea",
+   "topic": "nfl",
+   "title": "Tyreek Hill rumors: Do Chiefs even have room for WR after reworking record-breaking offense?",
+   "text": "The Chiefs got their mojo back thanks to Kenneth Walker III, but they are still missing one thing",
+   "link": "https://www.cbssports.com/nfl/news/tyreek-hill-rumors-do-chiefs-have-room-for-wr/",
+   "published": "2026-10-15T16:06:16+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-20T16:06:16+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/15/50404085-8515-4648-ab6c-566e64469a59/tyreek-hill-mahomes-chiefs.jpg"
+  },
+  {
+   "id": "n65299b434a",
+   "topic": "it",
+   "title": "(g+) Japans Weltraumstrategie: Deutlich größere Weltraumbahnhöfe für deutlich mehr Raketenstarts",
+   "text": "Japan will künftig 30 Raketen pro Jahr starten. Warum der Ausbau der Weltraumbahnhöfe auch eine Frage der Sicherheit ist, erklärt Nikkei Asia. Von Kenta Shimai ( Weltall , Wirtschaft )",
+   "link": "https://www.golem.de/news/japans-weltraumstrategie-deutlich-groessere-weltraumbahnhoefe-fuer-deutlich-mehr-raketenstarts-2610-214146.html",
+   "published": "2026-10-15T16:00:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-20T16:00:01+00:00",
+   "img": "https://www.golem.de/2610/214146-603572-603570_rc.jpg"
+  },
+  {
+   "id": "n4a5f5cf621",
+   "topic": "wissenschaft",
+   "title": "Durchbohrtes Schulterblatt: Rammte hier ein Neandertaler dem anderen einen Speer ins Herz?",
+   "text": "Das Loch im Schulterblatt dieses Mannes lässt kaum Zweifel daran: Auch Neandertaler bekriegten sich. Zugleich verrät sein Skelett, wie fürsorglich sie sich umeinander kümmerten.",
+   "link": "https://www.spektrum.de/news/neandertaler-starb-dieser-neandertaler-an-einem-speerstoss-ins-herz/2349916",
+   "published": "2026-10-15T16:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-29T16:00:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/Scapula_7_University-of-Cambridge.jpg.8417805.jpg?f=1280x720"
+  },
+  {
+   "id": "ndbc605b7a6",
+   "topic": "welt",
+   "title": "Trump sagt Livestream zu geplanter Hinrichtung von Attentäter ab",
+   "text": "Die ganze Welt sollte zusehen, wie ein verurteilter Attentäter hingerichtet wird - nun hat US-Präsident Trump den geplanten Livestream abgesagt. Die Ankündigung von Verteidigungsminister Hegseth war auf Empörung gestoßen.",
+   "link": "https://www.tagesschau.de/ausland/amerika/trump-livestream-hinrichtung-100.html",
+   "published": "2026-10-15T15:57:03+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-18T15:57:03+00:00",
+   "img": "https://images.tagesschau.de/image/d23d2570-5f56-422b-aa49-1ee363277308/AAABoUACWko/AAABnSSvrFg/16x9-big/trump-5346.jpg?width=1920"
+  },
+  {
+   "id": "ne0e152ac19",
+   "topic": "politik",
+   "title": "Hessen am Abend: Prozess-Auftakt zu mutmaßlichem Ritualmord - und kein Alkohol mehr an deutschen Bahnhöfen",
+   "text": "Käufer für Hilton-Hotel in Gravenbruch gefunden, Deutsche Bahn verbietet Alkohol an allen Bahnhöfen und Prostituierte soll Freier in satanischem Ritual ermordet haben. Das und mehr gibt es in Sven-Oliver Schibats Blick auf den Tag.",
+   "link": "https://www.hessenschau.de/hessen-am-abend/hessen-am-abend-prozess-auftakt-zu-mutmasslichem-ritualmord---und-kein-alkohol-mehr-an-deutschen-bahnhoefen-v1,hessen-am-abend-donnerstag-266.html",
+   "published": "2026-10-15T15:54:29+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-19T15:54:29+00:00",
+   "img": "https://www.hessenschau.de/panorama/hessen-am-abend-906~_t-1792074617442_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "ndea137788d",
+   "topic": "politik",
+   "title": "Das sind die Pläne für den Ausweis auf dem Smartphone",
+   "text": "Die Brieftasche soll digital werden: Der Bundestag hat neue Regelungen für Pässe und Ausweise auf den Weg gebracht. So kann künftig der Personalausweis auf dem Smartphone hinterlegt werden. Älteren Menschen sollen Behördengänge erspart bleiben.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/digitaler-personalausweis-100.html",
+   "published": "2026-10-15T15:53:10+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-18T15:53:10+00:00",
+   "img": "https://images.tagesschau.de/image/868ebb62-8fbc-4aac-ba68-c12f90284a1b/AAABoUBAi6Q/AAABnSSvrFg/16x9-big/smartphone-d-you-app-100.jpg?width=1920"
+  },
+  {
+   "id": "n8cad225c97",
+   "topic": "ki",
+   "title": "Nvidia erweitert Nemotron um offenes Agentenmodell Super VL und lokale Bolt-Varianten",
+   "text": "Nvidia veröffentlicht mit Nemotron 3.5 Super VL ein offenes multimodales 120-Milliarden-Parameter-Modell für Unternehmensagenten, das Text und Bilder verarbeitet. Zwei kompakte Bolt-Modelle sollen Agenten auf lokale Rechner bringen. Dutzende Organisationen trainieren Super VL bereits nach, doch wer das Modell optimal …",
+   "link": "https://the-decoder.de/nvidia-erweitert-nemotron-um-offenes-agentenmodell-super-vl-und-lokale-bolt-varianten/",
+   "published": "2026-10-15T15:44:44+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-22T15:44:44+00:00"
+  },
+  {
+   "id": "nfe35a14025",
+   "topic": "welt",
+   "title": "Türkei: Tote nach Starkregen und Überschwemmungen in Istanbul",
+   "text": "Straßen stehen unter Wasser, Fahrzeuge bleiben stecken: Bei heftigen Regenfällen sind in Istanbul mehrere Menschen gestorben. Während Behörden weiterhin im Großeinsatz sind, droht bereits neuer Starkregen.",
+   "link": "https://www.tagesschau.de/ausland/asien/tuerkei-ueberschwemmungen-istanbul-100.html",
+   "published": "2026-10-15T15:25:32+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-18T15:25:32+00:00",
+   "img": "https://images.tagesschau.de/image/73ef99a5-c7fc-4a29-b1e3-e3fc30b9360c/AAABoT6Qdrc/AAABnSSvrFg/16x9-big/istanbul-578.jpg?width=1920"
+  },
+  {
+   "id": "n2268d306e5",
+   "topic": "politik",
+   "title": "SPD wählt Mitte Januar bei Parteitag in Bremen neue Parteispitze",
+   "text": "Seit dem Rückzug von Bärbel Bas fehlt der SPD die Hälfte ihrer Doppelspitze. Nun will die Partei ihre gesamte Führung neu wählen. Bewerbungen liegen noch nicht vor, aber es gibt Zeit und Ort für den Bundesparteitag.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/spd-parteitag-bremen-100.html",
+   "published": "2026-10-15T15:09:31+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-18T15:09:31+00:00"
+  },
+  {
+   "id": "nbe789a1309",
+   "topic": "wissenschaft",
+   "title": "Auffälligkeit im Sternbild Orion: Beteigeuze verliert erneut an Helligkeit",
+   "text": "Seit August nimmt die Helligkeit des Roten Überriesen stetig ab. Könnte sich eine große Verdunklung wie in den Jahren 2019 und 2020 wiederholen?",
+   "link": "https://www.spektrum.de/news/aufaelligkeit-im-orion-beteigeuze-verliert-erneut-an-helligkeit/2349923",
+   "published": "2026-10-15T15:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-29T15:00:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/potw2634a.jpg.8403160.jpg?f=1280x720"
+  },
+  {
+   "id": "n02b96dc8ab",
+   "topic": "welt",
+   "title": "Albanien: Proteste gegen Regierung weiten sich aus",
+   "text": "Studierende, die Scheiben einwerfen - Polizisten, die Tränengas einsetzen: Die Proteste in Albanien nehmen zu und werden auch vermehrt von Gewalt begleitet.",
+   "link": "https://www.dw.com/de/albanien-proteste-gegen-regierung-weiten-sich-aus/a-79671388?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-15T14:59:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-19T14:59:00+00:00",
+   "img": "https://static.dw.com/image/79672132_302.jpg"
+  },
+  {
+   "id": "n7f7790cc50",
+   "topic": "ki",
+   "title": "Google will mit Gemini 4 Argon ein einziges KI-Modell für den gesamten Robotik-Workflow etablieren",
+   "text": "Google stellt mit Gemini 4 Argon ein Robotikmodell vor, das Roboter steuern, Simulationen aus Fotos oder Skizzen erzeugen und Trainingsvideos bewerten soll. Im hauseigenen ERQA-Benchmark erreicht es 87 Prozent. Die veröffentlichten Beispiel-Prompts zeigen allerdings, wie viel menschliche Detailarbeit teilweise hinter …",
+   "link": "https://the-decoder.de/google-will-mit-gemini-4-argon-ein-einziges-ki-modell-fuer-den-gesamten-robotik-workflow-etablieren/",
+   "published": "2026-10-15T14:44:47+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-22T14:44:47+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/gemini-4-argon-robotics-06-real2sim.jpg"
+  },
+  {
+   "id": "nfdad1a3079",
+   "topic": "wissenschaft",
+   "title": "Medizintechnik: Haut aus dem Biodrucker",
+   "text": "Drucktinte aus menschlichen Zellen ermöglicht es, künstliche Haut herzustellen. Damit könnten sich schwere Verletzungen eines Tages deutlich besser behandeln lassen.",
+   "link": "https://www.spektrum.de/news/bioprinting-haut-aus-dem-biodrucker/2348430",
+   "published": "2026-10-15T14:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-29T14:00:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/DSC_0262.JPG.8414803.gif?f=1280x720"
+  },
+  {
+   "id": "nb0352704c7",
+   "topic": "wirtschaft",
+   "title": "EuGH-Urteil: Banken müssen bei Kontobetrug Geld erstatten",
+   "text": "Maschen, mit denen Betrüger Zugriff auf die Konten ihrer Opfer bekommen, werden immer besser. Der EuGH hat jetzt mit einem Urteil die Rechte betroffener Verbraucher gestärkt. Von Antonetta Stephany.",
+   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/eugh-konto-betrug-phishing-100.html",
+   "published": "2026-10-15T13:59:53+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-18T13:59:53+00:00",
+   "img": "https://images.tagesschau.de/image/fb48059a-2600-4383-a555-583c72e978af/AAABk6sjNEQ/AAABnSSvrFg/16x9-big/online-banking-112.jpg?width=1920"
+  },
+  {
+   "id": "n0cabda840e",
+   "topic": "politik",
+   "title": "EU-Methanverordnung unter Druck: Reiche fordert Aufschub",
+   "text": "Methan heizt das Klima deutlich stärker an als Kohlenstoffdioxid. Dennoch will Wirtschaftsministerin Reiche neue EU-Regeln aufschieben. Dokumente und Treffen mit der Gaslobby werfen Fragen auf. Von Ottilie Wied.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/methan-verordnung-eu-reiche-100.html",
+   "published": "2026-10-15T13:52:48+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-18T13:52:48+00:00",
+   "img": "https://images.tagesschau.de/image/001d5de3-e4c3-436a-ac4e-f851bb93e370/AAABniAsQz0/AAABnSSvrFg/16x9-big/reiche-schneider-100.jpg?width=1920"
+  },
+  {
+   "id": "nfba9f42d38",
+   "topic": "wissenschaft",
+   "title": "Brustkrebs: Mammografie-Screening künftig bereits ab 45 Jahren",
+   "text": "Bisher zahlen die Krankenkassen ein Mammografie-Screening zur Früherkennung von Brustkrebs bei Frauen erst ab einem Alter von 50 Jahren. Das soll sich nun ändern. Die geplante Neuregelung könnte im Sommer 2027 in Kraft treten.",
+   "link": "https://www.tagesschau.de/wissen/gesundheit/mammografie-ab-45-100.html",
+   "published": "2026-10-15T13:47:58+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-29T13:47:58+00:00",
+   "img": "https://images.tagesschau.de/image/1a184ff7-f604-4b9c-82f3-e2afb2926bcd/AAABletAy4Y/AAABnSSvrFg/16x9-big/mammographie-102.jpg?width=1920"
+  },
+  {
+   "id": "n4d25e7c0d0",
+   "topic": "welt",
+   "title": "Arbeitszeitreform: Wackelt der Acht-Stunden-Tag?",
+   "text": "Zwölf Stunden am Stück in Deutschland arbeiten? Union und SPD streiten erbittert über die Reform des Arbeitszeitgesetzes. Es geht um Flexibilität, Tarifverträge und den Schutz von Beschäftigten.",
+   "link": "https://www.dw.com/de/arbeitszeitreform-wackelt-der-acht-stunden-tag/a-79667842?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-15T13:04:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-19T13:04:00+00:00",
+   "img": "https://static.dw.com/image/75696752_302.jpg"
+  },
+  {
+   "id": "n5be07b4b61",
+   "topic": "welt",
+   "title": "Starlink: Eine Weltraumfirma beeinflusst die Geopolitik",
+   "text": "Elon Musks Starlink hat sich zu einem wichtigen Kommunikationsmittel in Kriegs- und Krisengebieten entwickelt. In der Ukraine zeigt sich jedoch auch, welche Abhängigkeiten daraus entstehen können. Ein Überblick.",
+   "link": "https://www.dw.com/de/starlink-eine-weltraumfirma-beeinflusst-die-geopolitik/a-75932968?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-15T13:04:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-19T13:04:00+00:00",
+   "img": "https://static.dw.com/image/79647469_302.jpg"
+  },
+  {
+   "id": "nc69cb6fb04",
+   "topic": "welt",
+   "title": "Polen: Der Machtkampf um das Verfassungsgericht eskaliert",
+   "text": "Polens Verfassungsgericht befindet sich drei Jahre nach dem Regierungswechsel immer noch in der Hand der rechtskonservativen Opposition. Premier Tusk sucht einen Ausweg, Präsident Nawrocki stellt sich quer.",
+   "link": "https://www.dw.com/de/polen-der-machtkampf-um-das-verfassungsgericht-eskaliert/a-79668299?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-15T12:45:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-19T12:45:00+00:00",
+   "img": "https://static.dw.com/image/55364172_302.jpg"
+  },
+  {
+   "id": "ndac1e7560d",
+   "topic": "welt",
+   "title": "Erneut Feuer auf Handelsschiff vor Rumäniens Küste",
+   "text": "Im Schwarzen Meer vor Rumäniens Küste ist auf einem Handelsschiff ein Feuer ausgebrochen. Es sei von Drohnen getroffen worden, teilte der rumänische Präsident Dan laut der Agentur Reuters mit. Mehrere Seeleute werden noch vermisst.",
+   "link": "https://www.tagesschau.de/ausland/europa/rumaenien-schiff-feuer-100.html",
+   "published": "2026-10-15T11:52:23+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-18T11:52:23+00:00",
+   "img": "https://images.tagesschau.de/image/a464ef9e-d97b-4108-b9d4-e84b2214cc06/AAABoT7wW3s/AAABnSSvrFg/16x9-big/sendungsbild-1811876.jpg?width=1920"
+  },
+  {
+   "id": "nab1f91a2d8",
+   "topic": "welt",
+   "title": "Pakistan: Einstürzendes Schuldach erschlägt Kinder",
+   "text": "Mitten im Unterricht brach das Dach ein: Eine Schule in Peschawar wurde zur tödlichen Falle. Mindestens 34 Menschen kamen ums Leben. Die Zahl der Opfer könnte noch steigen.",
+   "link": "https://www.dw.com/de/pakistan-einstürzendes-schuldach-erschlägt-kinder/a-79668440?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-15T11:36:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-19T11:36:00+00:00",
+   "img": "https://static.dw.com/image/79668676_302.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Viele Tote bei Einsturz von Schuldach in Pakistan",
+     "link": "https://www.tagesschau.de/ausland/asien/pakistan-schuldach-einsturz-tote-100.html"
+    }
+   ]
+  },
   {
    "id": "na0c3d99c41",
    "topic": "politik",
@@ -172,8 +683,8 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Bundeswehr - Regiment in Weißenfels: Pistorius verspricht Aufklärung nach Berichten über sexuelles Fehlverhalten",
-     "link": "https://www.deutschlandfunk.de/regiment-in-weissenfels-pistorius-verspricht-aufklaerung-nach-berichten-ueber-sexuelles-fehlverhalte-100.html"
+     "title": "Skandal in Weißenfels - \"Widerwärtiger\" Sex-Wettbewerb in Bundeswehr gemeldet: Pistorius droht Soldaten mit Härte",
+     "link": "https://www.deutschlandfunk.de/widerwaertiger-sex-wettbewerb-in-bundeswehr-gemeldet-pistorius-droht-soldaten-mit-haerte-100.html"
     }
    ]
   },
@@ -270,14 +781,21 @@
    "id": "n912ab2909d",
    "topic": "welt",
    "title": "Viele Tote bei Einsturz von Schuldach in Pakistan",
-   "text": "In Pakistan sind bei dem Einsturz eines Schuldachs mindestens 28 Menschen gestorben. Unter den Toten befinden sich vor allem Schüler, die gerade im Unterricht saßen. Die Polizei meldete bereits eine Festnahme.",
+   "text": "In Pakistan sind bei dem Einsturz eines Schuldachs mindestens 33 Menschen gestorben. Unter den Toten befinden sich vor allem Schüler, die gerade im Unterricht saßen. Die Polizei meldete bereits eine Festnahme.",
    "link": "https://www.tagesschau.de/ausland/asien/pakistan-schuldach-einsturz-tote-100.html",
    "published": "2026-10-15T10:10:33+00:00",
    "source": "Tagesschau",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-18T10:10:33+00:00",
-   "img": "https://images.tagesschau.de/image/76596099-4b37-4734-bb75-44a6a7356a3c/AAABoT7CTzc/AAABnSSvrFg/16x9-big/schule-pakistan-100.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/76596099-4b37-4734-bb75-44a6a7356a3c/AAABoT9zF-8/AAABnSSvrFg/16x9-big/schule-pakistan-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Pakistan: Einstürzendes Schuldach erschlägt Kinder",
+     "link": "https://www.dw.com/de/pakistan-einstürzendes-schuldach-erschlägt-kinder/a-79668440?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
   },
   {
    "id": "nd19cf06878",
@@ -304,19 +822,6 @@
    "lang": "de",
    "expires": "2026-10-19T09:59:00+00:00",
    "img": "https://static.dw.com/image/79658626_302.jpg"
-  },
-  {
-   "id": "ndac1e7560d",
-   "topic": "welt",
-   "title": "Erneut Feuer auf Handelsschiff vor Rumäniens Küste",
-   "text": "Im Schwarzen Meer vor Rumäniens Küste ist auf einem Handelsschiff ein Feuer ausgebrochen. Mehrere Seeleute werden noch vermisst. Ob der Brand durch eine Drohne ausgelöst wurde, ist unklar. Zuletzt kam es hier häufiger zu Drohnenangriffen.",
-   "link": "https://www.tagesschau.de/ausland/europa/rumaenien-schiff-feuer-100.html",
-   "published": "2026-10-15T09:52:36+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-18T09:52:36+00:00",
-   "img": "https://images.tagesschau.de/image/a464ef9e-d97b-4108-b9d4-e84b2214cc06/AAABoT7wW3s/AAABnSSvrFg/16x9-big/sendungsbild-1811876.jpg?width=1920"
   },
   {
    "id": "n89c5c41d63",
@@ -371,19 +876,6 @@
    "img": "https://static.dw.com/image/79664842_302.jpg"
   },
   {
-   "id": "nfe35a14025",
-   "topic": "welt",
-   "title": "Türkei: Tote nach Starkregen und Überschwemmungen in Istanbul",
-   "text": "Straßen stehen unter Wasser, Fahrzeuge bleiben stecken: Bei heftigen Regenfällen sind in Istanbul mindestens zwei Menschen gestorben. Die Behörden sind im Großeinsatz - und auch heute ist weiterer Regen angekündigt.",
-   "link": "https://www.tagesschau.de/ausland/asien/tuerkei-ueberschwemmungen-istanbul-100.html",
-   "published": "2026-10-15T09:05:45+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-18T09:05:45+00:00",
-   "img": "https://images.tagesschau.de/image/73ef99a5-c7fc-4a29-b1e3-e3fc30b9360c/AAABoT6Qdrc/AAABnSSvrFg/16x9-big/istanbul-578.jpg?width=1920"
-  },
-  {
    "id": "n859934fc68",
    "topic": "wissenschaft",
    "title": "Frühe Bronzezeit: Wrack vor türkischer Küste könnte das älteste der Welt sein",
@@ -407,20 +899,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-18T08:49:36+00:00",
-   "img": "https://images.tagesschau.de/image/365c3141-70fb-4ced-9960-3454e81ddaa4/AAABoT7AlYM/AAABnSSvrFg/16x9-big/sendungsbild-1811836.jpg?width=1920"
-  },
-  {
-   "id": "n84f83f9b44",
-   "topic": "wirtschaft",
-   "title": "Marktbericht: Ausverkauf bei Technologiewerten belastet Börsen",
-   "text": "Der DAX startet schwach in den Handel. Die hohe US-Inflation schürt die Sorge vor weiteren Zinserhöhungen und setzt Chipwerte weltweit unter Druck. An den Börsen setzt sich der Ausverkauf fort.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html",
-   "published": "2026-10-15T08:32:44+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-18T08:32:44+00:00",
-   "img": "https://images.tagesschau.de/image/b3ff1aad-d74a-49f8-97f0-1806ed6945f2/AAABn1pUnjY/AAABnSSvrFg/16x9-big/boerse-526.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/365c3141-70fb-4ced-9960-3454e81ddaa4/AAABoT-Hbao/AAABnSSvrFg/16x9-big/sendungsbild-1811836.jpg?width=1920"
   },
   {
    "id": "na6a993acde",
@@ -437,8 +916,8 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Gesundheitspolitik - Bundestag hat Reform der Notfallversorgung beschlossen",
-     "link": "https://www.deutschlandfunk.de/bundestag-hat-reform-der-notfallversorgung-beschlossen-100.html"
+     "title": "Digitalisierung - Bundestag stimmt digitaler Brieftasche zu",
+     "link": "https://www.deutschlandfunk.de/bundestag-stimmt-digitaler-brieftasche-zu-100.html"
     }
    ]
   },
@@ -453,7 +932,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-18T07:24:38+00:00",
-   "img": "https://images.tagesschau.de/image/1be58994-e31c-421a-898e-609172afe1b1/AAABoT68L3E/AAABnSSvrFg/16x9-big/robert-fico-126.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/1be58994-e31c-421a-898e-609172afe1b1/AAABoT9zUxA/AAABnSSvrFg/16x9-big/robert-fico-126.jpg?width=1920"
   },
   {
    "id": "n6642d4e19e",
@@ -631,14 +1110,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-17T04:05:44+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Appell an Industriestaaten: IWF warnt vor steigenden Staatsschulden",
-     "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-staatsverschuldung-industrielaender-haushalt-100.html"
-    }
-   ]
+   "expires": "2026-10-17T04:05:44+00:00"
   },
   {
    "id": "n6532765740",
@@ -738,8 +1210,8 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Gesundheitspolitik - Bundestag hat Reform der Notfallversorgung beschlossen",
-     "link": "https://www.deutschlandfunk.de/bundestag-hat-reform-der-notfallversorgung-beschlossen-100.html"
+     "title": "Digitalisierung - Bundestag stimmt digitaler Brieftasche zu",
+     "link": "https://www.deutschlandfunk.de/bundestag-stimmt-digitaler-brieftasche-zu-100.html"
     }
    ]
   },
@@ -870,7 +1342,6 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-16T21:44:01+00:00",
-   "img": "https://bilder.deutschlandfunk.de/ac/08/4c/22/ac084c22-2792-4dce-b7be-5a147d5f65aa/pistorius-verteidigungsminister-102-1920x1920.jpg",
    "also": [
     {
      "source": "Tagesschau",
@@ -1222,7 +1693,14 @@
    "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
    "lang": "de",
    "expires": "2026-10-18T17:00:00+00:00",
-   "img": "https://static.dw.com/image/79660451_302.jpg"
+   "img": "https://static.dw.com/image/79660451_302.jpg",
+   "also": [
+    {
+     "source": "heise online",
+     "title": "Bundestag gibt gesetzliche Grundlage für Staats-Wallet frei",
+     "link": "https://www.heise.de/news/Bundestag-gibt-gesetzliche-Grundlage-fuer-Staats-Wallet-frei-11489886.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
   },
   {
    "id": "n1ea5f0700c",
@@ -1236,461 +1714,6 @@
    "lang": "de",
    "expires": "2026-10-18T16:59:00+00:00",
    "img": "https://static.dw.com/image/79650191_302.jpg"
-  },
-  {
-   "id": "n815b9ad32f",
-   "topic": "wirtschaft",
-   "title": "Marktbericht: DAX bleibt im Seitwärtstrend",
-   "text": "DAX-Anleger haben sich heute zurückgehalten, der Index pendelt weiter um die Marke von 25.000 Punkten. Auch neue US-Inflationsdaten ändern daran nichts. Bestimmend bleibt der Stillstand in Nahost.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-berichtssaison-100.html",
-   "published": "2026-10-14T16:24:05+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-17T16:24:05+00:00",
-   "img": "https://images.tagesschau.de/image/b67c6b6d-ed89-46e7-9b57-495550086b8e/AAABn1pS1lI/AAABnSSvrFg/16x9-big/boerse-524.jpg?width=1920"
-  },
-  {
-   "id": "nda84bf5daa",
-   "topic": "welt",
-   "title": "Istanbuler Ex-Bürgermeister İmamoğlu sagt erstmals in Mammutprozess aus",
-   "text": "Es ist ein Mammutprozess gegen die Istanbuler Stadtverwaltung und den abgesetzten Bürgermeister: İmamoğlu hat nach mehr als anderthalb Jahren U-Haft erstmals vor Gericht ausgesagt. Parallel stürmte die Polizei den TV-Sender Halk TV. Von B. Weber.",
-   "link": "https://www.tagesschau.de/ausland/asien/tuerkei-imamoglu-prozess-110.html",
-   "published": "2026-10-14T16:20:57+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-17T16:20:57+00:00",
-   "img": "https://images.tagesschau.de/image/38405781-42c1-4856-b5fd-48787216f5d5/AAABla0DiJQ/AAABnSSvrFg/16x9-big/imamoglu-140.jpg?width=1920"
-  },
-  {
-   "id": "n8d1e8870c9",
-   "topic": "it",
-   "title": "(g+) Künstliche Intelligenz: Treffen sich 14 KI-Agenten",
-   "text": "Was besprechen KI-Agenten miteinander? Die New York Times hat bei einer virtuellen Dinnerparty mitgelesen. Unsere heutige Redaktionsempfehlung. Von Erin Griffith ( KI , Software )",
-   "link": "https://www.golem.de/news/kuenstliche-intelligenz-treffen-sich-14-ki-agenten-2610-214113.html",
-   "published": "2026-10-14T16:00:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-19T16:00:02+00:00",
-   "img": "https://www.golem.de/2610/214113-603423-603421_rc.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Künstliche Intelligenz: Was bedeutet die neue KI-Welt für Unternehmen?",
-     "link": "https://www.tagesschau.de/wirtschaft/digitales/kuenstliche-intelligenz-unternehmen-deutschland-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n705ea87d0d",
-   "topic": "wissenschaft",
-   "title": "Superschwere Elemente: Relativistischer Effekt kehrt atomaren Trend um",
-   "text": "Ein Molekül mit dem superschweren Element Seaborgium zeigt, dass die Relativitätstheorie auch in der Chemie enorme Bedeutung hat.",
-   "link": "https://www.spektrum.de/news/relativitaetstheorie-relativistischer-effekt-kehrt-trend-um/2349813",
-   "published": "2026-10-14T16:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-10-28T16:00:00+00:00"
-  },
-  {
-   "id": "nfabe62a01d",
-   "topic": "ki",
-   "title": "OpenAI soll bis Jahresende mindestens ein bis zwei neue Modelle veröffentlichen",
-   "text": "OpenAI arbeitet unter Hochdruck an einem neuen Flaggschiff-Modell, das wie Astra auf Looped Transformers setzt, einer Technik, die die Leistung gerade bei Mathematik und Code steigert, aber die das Sicherheits-Monitoring erschwert. Microsoft enthüllte versehentlich Details dazu auf einer öffentlichen Infoseite. …",
-   "link": "https://the-decoder.de/openai-soll-bis-jahresende-mindestens-ein-bis-zwei-neue-modelle-veroeffentlichen/",
-   "published": "2026-10-14T15:40:16+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-21T15:40:16+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/openai_misalign-2.png"
-  },
-  {
-   "id": "n6b27b4f3ad",
-   "topic": "welt",
-   "title": "Ukraine kritisiert fehlende US-Unterstützung - NATO und EU widersprechen",
-   "text": "Die Ukraine ist beim Abwehrkampf gegen Russland auf Geheimdienstinformationen der USA angewiesen - doch die sollen vor neuen russischen Angriffen ausgeblieben sein. Präsident Selenskyj übt Kritik. EU und NATO beschwichtigen.",
-   "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-selenskyj-fehlende-warnung-100.html",
-   "published": "2026-10-14T15:33:55+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-17T15:33:55+00:00",
-   "img": "https://images.tagesschau.de/image/2d8e9f13-1f20-4c6e-985d-39aa2e419db4/AAABoTrTEdA/AAABnSSvrFg/16x9-big/feuerwehrmann-rauch-ukraine-100.jpg?width=1920"
-  },
-  {
-   "id": "nc575aadf9a",
-   "topic": "politik",
-   "title": "Kanzler setzt auf gute Regierungsarbeit gegen Extremismus",
-   "text": "In seiner Regierungserklärung betont der Kanzler, dass Deutschland unter Druck stehe wie \"vielleicht noch nie\". Unzufriedenheit führe zu Extremismus. Dem müsse man \"schöpferische Anstrengung\" entgegensetzen.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/merz-regierungserklaerung-122.html",
-   "published": "2026-10-14T15:33:29+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-17T15:33:29+00:00",
-   "img": "https://images.tagesschau.de/image/68bdc0ce-7da7-40a7-8cda-407a94af5642/AAABoTr2zRw/AAABnSSvrFg/16x9-big/merz-1732.jpg?width=1920"
-  },
-  {
-   "id": "n23cc9558fa",
-   "topic": "it",
-   "title": "Gegen Anthropic und OpenAI: EU leitet offizielles Verfahren wegen Hugging-Face-Hack ein",
-   "text": "Weil die freiwillig eingereichten Auskünfte von Anthropic und OpenAI unzureichend waren, ermittelt die EU-Kommission nun offiziell. ( AI Act , KI )",
-   "link": "https://www.golem.de/news/gegen-anthropic-und-openai-eu-leitet-offizielles-verfahren-wegen-hugging-face-hack-ein-2610-214116.html",
-   "published": "2026-10-14T15:33:01+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-19T15:33:01+00:00",
-   "img": "https://www.golem.de/2610/214116-603436-603434_rc.jpg"
-  },
-  {
-   "id": "nffbe9cbd8d",
-   "topic": "welt",
-   "title": "Erbschaftssteuer: Wackeln Privilegien für Firmenerben?",
-   "text": "Wer ein kleines Vermögen erbt, zahlt oft einen höheren Steuersatz als Millionenerben großer Unternehmen. Mit dieser Ungleichbehandlung befasst sich nun das Bundesverfassungsgericht.",
-   "link": "https://www.dw.com/de/erbschaftssteuer-wackeln-privilegien-für-firmenerben/a-79651845?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-14T15:00:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-18T15:00:00+00:00",
-   "img": "https://static.dw.com/image/79660118_302.jpg"
-  },
-  {
-   "id": "n20e25186cd",
-   "topic": "welt",
-   "title": "AfD und BSW: Wie nah stehen sie Russland?",
-   "text": "Die Parteien AfD und BSW fordern im Landtag von Sachsen-Anhalt gemeinsam einen sofortigen Stopp der deutschen Ukraine-Hilfen. Was steckt hinter der Annäherung?",
-   "link": "https://www.dw.com/de/afd-und-bsw-wie-nah-stehen-sie-russland/a-79659642?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-14T14:33:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-18T14:33:00+00:00",
-   "img": "https://static.dw.com/image/79662337_302.jpg"
-  },
-  {
-   "id": "n6dd74a9046",
-   "topic": "wirtschaft",
-   "title": "Appell an Industriestaaten: IWF warnt vor steigenden Staatsschulden",
-   "text": "Der Internationale Währungsfonds fordert Industrieländer auf, ihre Haushaltsdefizite zu verringern und Schulden abzubauen. Steigende Zinsen und hohe Ausgaben schränkten den finanziellen Spielraum der Staaten zunehmend ein.",
-   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-staatsverschuldung-industrielaender-haushalt-100.html",
-   "published": "2026-10-14T14:31:12+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-17T14:31:12+00:00",
-   "img": "https://images.tagesschau.de/image/5143a525-21e5-46df-9fa5-5dbc12418a09/AAABoTp-FG4/AAABnSSvrFg/16x9-big/iwf-176.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Appell an Industriestaaten - Internationaler Währungsfonds warnt vor steigenden Staatsschulden",
-     "link": "https://www.deutschlandfunk.de/internationaler-waehrungsfonds-warnt-vor-steigenden-staatsschulden-106.html"
-    }
-   ]
-  },
-  {
-   "id": "nb17be4e67c",
-   "topic": "politik",
-   "title": "Mehreinnahmen - Schwarz-rote Koalition einigt sich auf Zuckersteuer",
-   "text": "Union und SPD haben sich auf eine neue Zuckersteuer geeinigt. Das Bundeskabinett billigte die überarbeiteten Pläne von Finanzminister Klingbeil. Nach der Vorlage soll ab Mitte kommenden Jahres ein Steuersatz von 26 Cent auf gesüßte Getränke mit einem Zuckergehalt ab 5 Gramm pro 100 Milliliter erhoben werden.",
-   "link": "https://www.deutschlandfunk.de/schwarz-rote-koalition-einigt-sich-auf-zuckersteuer-102.html",
-   "published": "2026-10-14T14:27:43+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T14:27:43+00:00",
-   "img": "https://bilder.deutschlandfunk.de/3f/cb/a4/fc/3fcba4fc-db0b-4e44-974d-9b40c9fe675b/getraenkeautomat-softdrinks-100-1920x1920.jpg"
-  },
-  {
-   "id": "n12868255e2",
-   "topic": "politik",
-   "title": "Parteien - Sondierungsunterbrechung in Berlin: SPD fordert Erklärung von Linkspartei",
-   "text": "Nach der Unterbrechung der rot-grün-roten Sondierungsgespräche in Berlin hat die SPD die Linke aufgefordert, sich zu Absprachen zu bekennen.",
-   "link": "https://www.deutschlandfunk.de/sondierungsunterbrechung-in-berlin-spd-fordert-erklaerung-von-linkspartei-102.html",
-   "published": "2026-10-14T14:27:43+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T14:27:43+00:00"
-  },
-  {
-   "id": "nde9a48e459",
-   "topic": "politik",
-   "title": "Begegnung mit Schulklassen - Ehemalige Bundeskanzlerin Merkel fordert mehr Einsatz für die Demokratie",
-   "text": "Die ehemalige Bundeskanzlerin Merkel hat zu mehr Einsatz für die Demokratie in Deutschland aufgerufen. In einer von Deutschlandfunk Kultur ausgerichteten Begegnung mit Schulklassen sagte Merkel, es müsse besser erklärt werden, was Demokratie eigentlich sei.",
-   "link": "https://www.deutschlandfunk.de/ehemalige-bundeskanzlerin-merkel-fordert-mehr-einsatz-fuer-die-demokratie-100.html",
-   "published": "2026-10-14T14:27:43+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T14:27:43+00:00",
-   "img": "https://bilder.deutschlandfunk.de/f6/68/e9/cf/f668e9cf-dff3-4705-9327-c7b4c91d5833/merkel-unplugged-108-1920x1920.jpg"
-  },
-  {
-   "id": "nfc823c5665",
-   "topic": "politik",
-   "title": "Regierungserklärung - Bundeskanzler Merz bekräftigt Notwendigkeit von EU-Maßnahmen gegen Wettbewerbsverzerrung",
-   "text": "Vor dem EU-Gipfel in Brüssel hat Bundeskanzler Merz erneut europäische Maßnahmen gegen Wettbewerbsverzerrung im internationalen Handel gefordert.",
-   "link": "https://www.deutschlandfunk.de/bundeskanzler-merz-bekraeftigt-notwendigkeit-von-eu-massnahmen-gegen-wettbewerbsverzerrung-102.html",
-   "published": "2026-10-14T14:27:43+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T14:27:43+00:00",
-   "img": "https://bilder.deutschlandfunk.de/06/9e/61/27/069e6127-1614-4234-9c28-5d1909134885/merz-cdu-120-1920x1920.jpg"
-  },
-  {
-   "id": "nd84b688efa",
-   "topic": "politik",
-   "title": "Iran-Krieg - Offenbar Frachtschiff in der Straße von Hormus nach Minentreffer gesunken",
-   "text": "In der Straße von Hormus ist ein Frachtschiff nach der Kollision mit einer Seemine gesunken.",
-   "link": "https://www.deutschlandfunk.de/offenbar-frachtschiff-in-der-strasse-von-hormus-nach-minentreffer-gesunken-100.html",
-   "published": "2026-10-14T14:27:43+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T14:27:43+00:00",
-   "img": "https://bilder.deutschlandfunk.de/e1/06/7d/e2/e1067de2-6230-41ae-943b-92085b1ff504/die-nachrichten-kachel-2176-zu1224-100-768x768.jpg"
-  },
-  {
-   "id": "n81839e6cbc",
-   "topic": "politik",
-   "title": "Bundesländer - Sachsen-Anhalts Landtag beschließt AfD-BSW-Antrag zu Ukraine-Krieg",
-   "text": "Mit den Stimmen von AfD und BSW hat der Landtag von Sachsen-Anhalt ein sofortiges Ende sämtlicher deutscher Ukraine-Hilfen verlangt.",
-   "link": "https://www.deutschlandfunk.de/sachsen-anhalts-landtag-beschliesst-afd-bsw-antrag-zu-ukraine-krieg-102.html",
-   "published": "2026-10-14T14:27:43+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T14:27:43+00:00",
-   "img": "https://bilder.deutschlandfunk.de/e6/4e/a4/d8/e64ea4d8-e021-4bd8-ae6c-75ec04fb2365/sachsen-anhalt-wahl-100-1920x1920.jpg"
-  },
-  {
-   "id": "nfda5d24b3f",
-   "topic": "it",
-   "title": "Meta-Analyse: Energiewende kostet 3,6 Billionen Euro und spart Milliarden",
-   "text": "Die Auswertung zahlreicher Szenarien für die Energiewende zeigt, dass diese einen ganzen Wirtschaftszweig stärken könnte. Eine Verzögerung würde hingegen Milliarden kosten. ( Energiewende , Solarenergie )",
-   "link": "https://www.golem.de/news/meta-analyse-energiewende-kostet-3-6-billionen-euro-und-spart-milliarden-2610-214110.html",
-   "published": "2026-10-14T14:27:01+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-19T14:27:01+00:00",
-   "img": "https://www.golem.de/2610/214110-603415-603413_rc.jpg"
-  },
-  {
-   "id": "n6925f7a5ce",
-   "topic": "welt",
-   "title": "Ungarn beendet ein Kapitel staatlicher Homophobie",
-   "text": "Jahrelang stilisierte Viktor Orbans System queere Menschen zur Gefahr für Kinder. Nun streicht Peter Magyars Regierung absurde Verbote aus einem berüchtigten Gesetz. Doch der Streit um LGBTQ-Rechte ist nicht zu Ende.",
-   "link": "https://www.dw.com/de/ungarn-beendet-ein-kapitel-staatlicher-homophobie/a-79658319?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-14T14:26:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-18T14:26:00+00:00",
-   "img": "https://static.dw.com/image/79651134_302.jpg"
-  },
-  {
-   "id": "n64e35ccf74",
-   "topic": "welt",
-   "title": "Frauenfußball boomt - aber viele verdienen kaum Mindestlohn",
-   "text": "Auf den ersten Blick wirkt der Frauenfußball gesund wie nie zuvor - doch hinter dem Milliarden-Boom verbergen sich prekäre Gehälter, psychische Krisen und strukturelle Lücken. Was das für die Zukunft des Sports bedeutet.",
-   "link": "https://www.dw.com/de/frauenfußball-boomt-aber-viele-verdienen-kaum-mindestlohn/a-79658609?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-14T14:25:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-18T14:25:00+00:00",
-   "img": "https://static.dw.com/image/79659702_302.jpg"
-  },
-  {
-   "id": "nc5e83b5823",
-   "topic": "it",
-   "title": "Stellantis-Chef: Chinesische Partner sollen europäische Werke auslasten",
-   "text": "Statt Werke zu schließen, will Stellantis freie Kapazitäten in Europa mit Leapmotor und Dongfeng füllen. Viele der Pläne sind aber noch nicht verbindlich.",
-   "link": "https://www.heise.de/news/Stellantis-Chef-Chinesische-Partner-sollen-europaeische-Werke-auslasten-11488199.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-14T14:22:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-19T14:22:00+00:00"
-  },
-  {
-   "id": "n923ff88fb5",
-   "topic": "welt",
-   "title": "Nepal: Erneut schwere Überschwemmungen nach Unwettern",
-   "text": "Erst vor wenigen Wochen erlebte Nepal eine verheerende Flutkatastrophe. Jetzt hat eine neue Flutwelle Häuser und Brücken mitgerissen. Rettungskräfte suchen nach Vermissten, ob es Tote gibt, ist bislang noch unklar. Von Bo Hyun Kim.",
-   "link": "https://www.tagesschau.de/ausland/asien/nepal-neue-flut-waehrend-des-wiederaufbaus-100.html",
-   "published": "2026-10-14T14:18:13+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-17T14:18:13+00:00",
-   "img": "https://images.tagesschau.de/image/a4a3a8a6-ae9d-45d3-92a8-7532d8adb87d/AAABoTqc-yg/AAABnSSvrFg/16x9-big/erdrutsch-nepal-138.jpg?width=1920"
-  },
-  {
-   "id": "n6d521e105a",
-   "topic": "welt",
-   "title": "Haushaltsdebatte in Frankreich: Die politische Quadratur des Kreises",
-   "text": "In Frankreich haben die Beratungen über den Haushalt begonnen. Angesichts hoher Schulden will Finanzminister Lescure deutlich sparen. Aber die Regierung hat keine eigene Mehrheit - und stößt auf Widerstand. Von C. Dylla.",
-   "link": "https://www.tagesschau.de/ausland/europa/haushalt-frankreich-102.html",
-   "published": "2026-10-14T14:17:03+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-17T14:17:03+00:00",
-   "img": "https://images.tagesschau.de/image/3d8f194c-01c7-4071-8dcb-dc72a018707a/AAABoTr3JiQ/AAABnSSvrFg/16x9-big/parlament-frankreich-102.jpg?width=1920"
-  },
-  {
-   "id": "nfb7612e162",
-   "topic": "nfl",
-   "title": "Report: NFL considers flexing Eagles-Commanders out of prime time",
-   "text": "As the NFL season begins to take shape, the league office has a growing body of evidence to inform potential flex decisions.",
-   "link": "https://sports.yahoo.com/articles/report-nfl-considers-flexing-eagles-141631624.html",
-   "published": "2026-10-14T14:16:31+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-19T14:16:31+00:00"
-  },
-  {
-   "id": "n95b8e96a8b",
-   "topic": "wirtschaft",
-   "title": "Künstliche Intelligenz: Was bedeutet die neue KI-Welt für Unternehmen?",
-   "text": "Kostendruck durch teure Energie, hohe Arbeitskosten und geopolitische Krisen - die Stimmung von Unternehmen in Deutschland ist getrübt. Welchen Einfluss haben in dieser Zeit die Veränderungen durch Künstliche Intelligenz? Von Anna Knake.",
-   "link": "https://www.tagesschau.de/wirtschaft/digitales/kuenstliche-intelligenz-unternehmen-deutschland-100.html",
-   "published": "2026-10-14T14:04:50+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-17T14:04:50+00:00",
-   "img": "https://images.tagesschau.de/image/0d775c7b-7a95-48e6-b6ef-d9ea35a65796/AAABoTn93Xo/AAABnSSvrFg/16x9-big/ibm-campus-ehningen-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Golem.de",
-     "title": "(g+) Künstliche Intelligenz: Treffen sich 14 KI-Agenten",
-     "link": "https://www.golem.de/news/kuenstliche-intelligenz-treffen-sich-14-ki-agenten-2610-214113.html"
-    }
-   ]
-  },
-  {
-   "id": "nc36a42e817",
-   "topic": "nfl",
-   "title": "Report: Lamar Jackson has a \"realistic chance\" to return Week 6",
-   "text": "On Monday, Ravens head coach Jesse Minter told reporters that quarterback Lamar Jackson was \"definitely doing better\" after missing Week 5 with an ankle injury.",
-   "link": "https://sports.yahoo.com/articles/report-lamar-jackson-realistic-chance-140205879.html",
-   "published": "2026-10-14T14:02:05+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-19T14:02:05+00:00"
-  },
-  {
-   "id": "nbec1de9ba1",
-   "topic": "it",
-   "title": "Muse erstellt offenbar Berichte über die Freunde und Bekannte seiner Nutzer",
-   "text": "Metas KI-Agent Muse legt Berichten zufolge detaillierte Profile über Freunde und Bekannte seiner Nutzer an. Hinzu kommen weitere datenkritische Praktiken.",
-   "link": "https://www.heise.de/news/Muse-erstellt-offenbar-Berichte-ueber-die-Freunde-und-Bekannten-seiner-Nutzer-11487802.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-14T14:02:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-19T14:02:00+00:00"
-  },
-  {
-   "id": "n1433bd5195",
-   "topic": "wissenschaft",
-   "title": "Molekularer Klebstoff: Fischprotein macht Eis hart wie Beton",
-   "text": "Faserverstärktes Eis ist keine neue Idee – einst wollte man Flugzeugträger daraus bauen. Eine Hightech-Version soll nun als klimaschonender Baustoff für die Polargebiete dienen.",
-   "link": "https://www.spektrum.de/news/fischprotein-macht-eis-hart-wie-beton/2349780",
-   "published": "2026-10-14T14:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-10-28T14:00:00+00:00"
-  },
-  {
-   "id": "n1800be7cc0",
-   "topic": "it",
-   "title": "Halber Preis, voller Bass: 100-€-Bluetooth-Lautsprecher Sony Ult Field 3 im Test",
-   "text": "Der Bluetooth-Lautsprecher Sony Ult Field 3 bietet Bass auf Knopfdruck, Schultergurt und Powerbank-Funktion. Dabei kostet er nur 108 Euro statt 200 Euro.",
-   "link": "https://www.heise.de/bestenlisten/testbericht/halber-preis-voller-bass-100-euro-bluetooth-lautsprecher-sony-ult-field-3-im-test/2qcq7sc?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-14T14:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-19T14:00:00+00:00"
-  },
-  {
-   "id": "n1256cc4169",
-   "topic": "ki",
-   "title": "Nvidia investiert zwei Milliarden in Europa und drängt den Kontinent zur KI-Aufholjagd",
-   "text": "Nvidia-CEO Jensen Huang kündigt auf seiner Europa-Tour Investitionen von 2 Milliarden Dollar an und beteiligt sich an französischen Startups wie Doctolib und Entalpic. Großbritannien erhält Rechenleistung im Wert von 250 Millionen Dollar für KI-Sicherheitsforschung. Huang wirbt für Open-Weight-Modelle als Europas …",
-   "link": "https://the-decoder.de/nvidia-investiert-zwei-milliarden-in-europa-und-draengt-den-kontinent-zur-ki-aufholjagd/",
-   "published": "2026-10-14T13:59:34+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-21T13:59:34+00:00"
-  },
-  {
-   "id": "n4135e2f68a",
-   "topic": "politik",
-   "title": "Bomben-Fund? Gießen bereitet sich auf mögliche Entschärfung vor",
-   "text": "Wegen eines möglichen Bombenfunds müssen in Gießen am Donnerstag eventuell bis zu 6.000 Menschen ihre Häuser verlassen. Bei Bauarbeiten in einer wichtigen Zufahrtsstraße kam der Verdacht auf \"Kampfmittelreste\" auf.",
-   "link": "https://www.hessenschau.de/panorama/bomben-fund-giessen-bereitet-sich-auf-moegliche-entschaerfung-vor-v1,moeglicher-bombenfund-giessen-100.html",
-   "published": "2026-10-14T13:58:51+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-18T13:58:51+00:00",
-   "img": "https://www.hessenschau.de/panorama/radius-bombe-giessen-100~_t-1791988030846_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "n370c486f0d",
-   "topic": "welt",
-   "title": "Studentenproteste in albanischer Hauptstadt Tirana eskalieren",
-   "text": "In der albanischen Hauptstadt Tirana hat es erneut gewaltsame Proteste gegeben. Medienberichten zufolge warfen Demonstranten Brandsätze auf das Bildungsministerium und verursachten ein Feuer.",
-   "link": "https://www.tagesschau.de/ausland/europa/unruhen-albanien-102.html",
-   "published": "2026-10-14T13:56:17+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-17T13:56:17+00:00",
-   "img": "https://images.tagesschau.de/image/0143876e-0154-4550-90e6-75836841029d/AAABoTp6gDk/AAABnSSvrFg/16x9-big/tirana-proteste-100.jpg?width=1920"
-  },
-  {
-   "id": "n8674afff0b",
-   "topic": "wissenschaft",
-   "title": "Sorge um Papst Leo XIV. nach Lungenkrebs-Diagnose",
-   "text": "Papst Leo XIV. ist wegen einer Krebserkrankung an der Lunge operiert worden. Dem 71-Jährigen sei am Dienstag der untere Lappen des rechten Lungenflügels entfernt worden, teilte der Vatikan mit.",
-   "link": "https://www.tagesschau.de/video/video-1666086.html",
-   "published": "2026-10-14T13:53:48+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-28T13:53:48+00:00",
-   "img": "https://images.tagesschau.de/image/78a4cbfe-99f2-4a63-b7b8-b962d63f1598/AAABoTkqNuM/AAABnSSvrFg/16x9-big/papst-leo-188.jpg?width=1920"
-  },
-  {
-   "id": "n034985d0e8",
-   "topic": "nfl",
-   "title": "NFL QB Power Rankings: Jared Goff surges into top three, Justin Herbert hits new low",
-   "text": "Brock Purdy retains the top spot, Jared Goff climbs into the top three and a resurgent Drake Maye makes the week's biggest leap",
-   "link": "https://www.cbssports.com/nfl/news/nfl-quarterback-rankings-2026-week-6-jared-goff-justin-herbert/",
-   "published": "2026-10-14T13:43:43+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-19T13:43:43+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/14/3e621450-e177-4524-83c5-1a68a307ad27/goff.jpg"
   }
  ]
 }
