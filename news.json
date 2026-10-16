@@ -1,55 +1,672 @@
 {
- "generated": "2026-10-16T04:33:25.397093+00:00",
+ "generated": "2026-10-16T11:25:48.180962+00:00",
  "briefing": [
   "na7e9ca7070",
   "nb0352704c7",
-  "n912ab2909d",
+  "nd2bd3cd875",
+  "n93e005ee10",
+  "nbf5c508bde",
+  "n672da1eb96",
   "nd58f693c66",
-  "n9d8a6730d7",
-  "nb6828f9e94",
-  "n75943aef66",
-  "n02b96dc8ab",
-  "nc69cb6fb04"
+  "n33456a4d9b",
+  "n9858f0654a",
+  "ne7e17e69e9"
  ],
  "ranked": [
   {
    "id": "na7e9ca7070",
-   "s": 31.6
+   "s": 32.1
   },
   {
    "id": "nb0352704c7",
-   "s": 29.4
+   "s": 27.6
   },
   {
-   "id": "n912ab2909d",
-   "s": 28.4
+   "id": "nd2bd3cd875",
+   "s": 27.2
+  },
+  {
+   "id": "n93e005ee10",
+   "s": 26.3
+  },
+  {
+   "id": "nbf5c508bde",
+   "s": 25.5
+  },
+  {
+   "id": "n672da1eb96",
+   "s": 23.7
   },
   {
    "id": "nd58f693c66",
-   "s": 25.1
+   "s": 23.4
   },
   {
-   "id": "n9d8a6730d7",
-   "s": 25.0
+   "id": "n33456a4d9b",
+   "s": 23.0
   },
   {
-   "id": "nb6828f9e94",
-   "s": 23.6
+   "id": "n9858f0654a",
+   "s": 22.8
+  },
+  {
+   "id": "ne7e17e69e9",
+   "s": 22.6
+  },
+  {
+   "id": "n33849209ef",
+   "s": 22.3
+  },
+  {
+   "id": "n8d2d7b41e2",
+   "s": 21.4
+  },
+  {
+   "id": "naa2c45ac21",
+   "s": 21.3
+  },
+  {
+   "id": "n0e597ef900",
+   "s": 21.3
+  },
+  {
+   "id": "na097f2a3cd",
+   "s": 21.2
+  },
+  {
+   "id": "n570745ab59",
+   "s": 20.5
+  },
+  {
+   "id": "nf514e319c4",
+   "s": 19.5
   },
   {
    "id": "n75943aef66",
-   "s": 20.7
-  },
-  {
-   "id": "n02b96dc8ab",
-   "s": 19.6
-  },
-  {
-   "id": "nc69cb6fb04",
    "s": 19.0
+  },
+  {
+   "id": "n5dee05cdd9",
+   "s": 18.9
   }
  ],
  "items": [
+  {
+   "id": "na5b01478a8",
+   "topic": "politik",
+   "title": "Vergabe der Wiesn-Zelte laut Gerichtsbeschluss rechtmäßig",
+   "text": "Monatelang wurde darüber gestritten, wie die lukrativen Wiesn-Festzelte vergeben werden - und ob dabei nicht europäisches Recht angewendet werden müsste. Nun gab es die finale Entscheidung.",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/gerichtsentscheidung-wiesn-zelte-100.html",
+   "published": "2026-10-16T11:23:56+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-19T11:23:56+00:00",
+   "img": "https://images.tagesschau.de/image/21518b14-f443-4d3d-adf6-53b2ba0df448/AAABoURpCz8/AAABnSSvrFg/16x9-big/oktoberfest-458.jpg?width=1920"
+  },
+  {
+   "id": "n15111c165a",
+   "topic": "politik",
+   "title": "Verbrenner-Aus ab 2035 - Deutschland und Frankreich einigen sich auf Lockerungen",
+   "text": "Deutschland und Frankreich haben sich auf eine gemeinsame Position geeinigt, die eine Abkehr vom sogenannten Verbrenner-Aus bis 2035 enthält. Das geht aus einem Papier der beiden Regierungen hervor. Demnach soll der Anteil von Autos mit Verbrennermotor an den Neuwagen bis 2035 nicht um 100, sondern nur um 90 Prozent …",
+   "link": "https://www.deutschlandfunk.de/deutschland-und-frankreich-einigen-sich-auf-lockerungen-100.html",
+   "published": "2026-10-16T11:16:07+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-18T11:16:07+00:00",
+   "img": "https://bilder.deutschlandfunk.de/da/22/24/0c/da22240c-7f05-4da3-92ce-4d422f8cd2a9/verbrenner-auto-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Frankreich und Deutschland wollen Verbrenner-Aus aufweichen",
+     "link": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-lockerung-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n33456a4d9b",
+   "topic": "politik",
+   "title": "Bundestag - Psychotherapie-Einschnitte werden begrenzt - Wissenschaftler warnen weiter vor Folgen der Einsparungen",
+   "text": "Der Bundestag hat Nachbesserungen an den Sparplänen der Bundesregierung bei der Psychotherapie beschlossen. Bestimmte Gruppen werden nun besonders geschützt: unter anderem Kinder, Jugendliche und schwer Erkrankte. Für sie sollen Psychotherapiestunden weiterhin voll vergütet bleiben.",
+   "link": "https://www.deutschlandfunk.de/psychotherapie-einschnitte-werden-begrenzt-wissenschaftler-warnen-weiter-vor-folgen-der-einsparungen-100.html",
+   "published": "2026-10-16T11:16:07+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-18T11:16:07+00:00",
+   "img": "https://bilder.deutschlandfunk.de/84/88/76/28/84887628-d7a7-401d-b23d-24520767e959/demo-kuerzungen-psychotherapie-100-1920x1920.jpg"
+  },
+  {
+   "id": "n2ca654750b",
+   "topic": "politik",
+   "title": "Bundesrat - Länder fordern Schutz für Minderjährige vor gefährlichen Mutproben",
+   "text": "Kinder und Jugendliche sollen nach dem Willen der Bundesländer besser vor gefährlichen Mutproben im Internet geschützt werden.",
+   "link": "https://www.deutschlandfunk.de/laender-fordern-schutz-fuer-minderjaehrige-vor-gefaehrlichen-mutproben-100.html",
+   "published": "2026-10-16T11:16:07+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-18T11:16:07+00:00",
+   "img": "https://bilder.deutschlandfunk.de/15/55/ef/93/1555ef93-113e-4b55-8bef-839b33254ef8/soziale-medien-jugendliche-100-1920x1920.jpg"
+  },
+  {
+   "id": "n1b2bac2722",
+   "topic": "politik",
+   "title": "Altersvorsorge - Union und SPD beschließen Frühstartrente, Grüne und Linke fürchten mehr soziale Ungleichheit",
+   "text": "Der Bundestag hat die sogenannte Frühstartrente beschlossen. Eine Mehrheit aus Union und SPD stimmte für den Gesetzentwurf aus dem Finanzministerium. Er sieht vor, dass - beginnend mit dem Geburtsjahrgang 2020 - jedes Kind zwischen dem sechsten und 18. Lebensjahr zehn Euro pro Monat vom Staat bekommt.",
+   "link": "https://www.deutschlandfunk.de/union-und-spd-beschliessen-fruehstartrente-gruene-und-linke-fuerchten-mehr-soziale-ungleichheit-100.html",
+   "published": "2026-10-16T11:16:07+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-18T11:16:07+00:00",
+   "img": "https://bilder.deutschlandfunk.de/9e/88/c0/b5/9e88c0b5-849f-4465-ba34-7150a7c3147c/bundestag-debatte-plenarsaal-fruehstartrente-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Altersvorsorge: Wie das mit der \"Frühstartrente\" laufen soll",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/faq-fruehstartrente-100.html"
+    }
+   ]
+  },
+  {
+   "id": "ndbe0b2b650",
+   "topic": "politik",
+   "title": "Länderkammer - NRW-Ministerpräsident Wüst wird neuer Bundesratspräsident",
+   "text": "Der nordrhein-westfälische Ministerpräsident Wüst ist zum neuen Präsidenten des Bundesrats gewählt worden.",
+   "link": "https://www.deutschlandfunk.de/nrw-ministerpraesident-wuest-wird-neuer-bundesratspraesident-102.html",
+   "published": "2026-10-16T11:16:07+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-18T11:16:07+00:00",
+   "img": "https://bilder.deutschlandfunk.de/33/52/67/ac/335267ac-742d-4e2a-841f-b864e4e941f8/bundesrat-bovenschulte-bundesratspraesident-hendrik-wuest-cdu-wahl-100-1920x1920.jpg"
+  },
+  {
+   "id": "n5675111fff",
+   "topic": "politik",
+   "title": "Vergesellschaftung von Wohnraum - Bauministerin Hubertz: Verbot soll schnellstmöglich kommen",
+   "text": "Bundesbauministerin Hubertz will rasch ein Gesetz gegen die Vergesellschaftung von Wohnraum auf den Weg bringen.",
+   "link": "https://www.deutschlandfunk.de/bauministerin-hubertz-verbot-soll-schnellstmoeglich-kommen-100.html",
+   "published": "2026-10-16T11:16:07+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-18T11:16:07+00:00",
+   "img": "https://bilder.deutschlandfunk.de/f9/a0/e3/c2/f9a0e3c2-d7d5-4705-9d76-d7186ba53e60/verena-hubertz-100-1920x1920.jpg"
+  },
+  {
+   "id": "nd777b144bd",
+   "topic": "politik",
+   "title": "ParkControl24: Firma verschickt betrügerische Strafzettel in Limburg",
+   "text": "145 Euro für einmal Falschparken - in Limburg hat ein privates Unternehmen an Autofahrer solche Strafzettel verschickt. Offenbar ohne jegliche Berechtigung. Die Stadt hat die Firma angezeigt.",
+   "link": "https://www.hessenschau.de/panorama/parkcontrol24-firma-verschickt-betruegerische-strafzettel-in-limburg-v1,limburg-parken-102.html",
+   "published": "2026-10-16T11:14:16+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-20T11:14:16+00:00",
+   "img": "https://www.hessenschau.de/panorama/gehwegparker-100~_t-1762328703596_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "nd78392bfc5",
+   "topic": "wissenschaft",
+   "title": "Warum nachhaltiges Onlineshopping bisher scheitert",
+   "text": "Nachhaltig leben und gleichzeitig online shoppen – warum entscheiden wir uns beim Versand oft gegen die nachhaltigere Option, obwohl wir eigentlich nachhaltig handeln wollen?",
+   "link": "https://www.spektrum.de/video/science-slam-warum-nachhaltiges-onlineshopping-bisher-scheitert/2349963",
+   "published": "2026-10-16T11:14:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-30T11:14:00+00:00"
+  },
+  {
+   "id": "n68886821e3",
+   "topic": "welt",
+   "title": "Zweifel an Qualifikation: Trumps Sprecherin bei Prüfung durchgefallen",
+   "text": "Nur wenige Tage nach ihrem Start als neue Sprecherin des Weißen Hauses macht Katie Zacharia bereits selbst Schlagzeilen. Ist sie nun Anwältin oder nicht? Auch wirre Sätze und Versprecher sorgen für Irritationen.",
+   "link": "https://www.tagesschau.de/ausland/amerika/trump-sprecherin-zacharia-100.html",
+   "published": "2026-10-16T11:12:24+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-19T11:12:24+00:00",
+   "img": "https://images.tagesschau.de/image/ed66b652-4ba6-4d92-b5f7-047a9602f5e4/AAABoURpwik/AAABnSSvrFg/16x9-big/zacharia-100.jpg?width=1920"
+  },
+  {
+   "id": "nb829b626e3",
+   "topic": "ki",
+   "title": "Googles Gemini 4 Argon schließt in weiteren Benchmarks zur KI-Spitze auf",
+   "text": "Google Deepminds Gemini 4 Argon erreicht im ARC-AGI-3-Benchmark 97,5 Prozent und schließt damit als zweites Labor nach OpenAI zur KI-Spitze auf. Die Ergebnisse variieren jedoch stark je nach Testumgebung: Im Standard-Harness sind es nur 49,8 Prozent. In Mathematik und Software-Engineering bleibt Argon zudem hinter der …",
+   "link": "https://the-decoder.de/googles-gemini-4-argon-schliesst-in-weiteren-benchmarks-zur-ki-spitze-auf/",
+   "published": "2026-10-16T11:10:46+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-23T11:10:46+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/gemini_4_argon.png"
+  },
+  {
+   "id": "ncccb57f3a5",
+   "topic": "it",
+   "title": "Apple und Meta kooperieren bei KI: Lokale Modelle fordern mehrere High-End-Macs",
+   "text": "Nach den Zerwürfnissen zwischen Tim Cook und Mark Zuckerberg findet der neue Apple-Chef John Ternus in KI einen Weg zur Zusammenarbeit mit Meta. ( KI , Apple )",
+   "link": "https://www.golem.de/news/apple-und-meta-kooperieren-bei-ki-lokale-modelle-fordern-mehrere-high-end-macs-2610-214188.html",
+   "published": "2026-10-16T11:10:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-21T11:10:02+00:00",
+   "img": "https://www.golem.de/2610/214188-603774-603772_rc.jpg"
+  },
+  {
+   "id": "nb1f28685f4",
+   "topic": "it",
+   "title": "TalosCon 2026: Sidero Labs erweitert Talos um Hypervisor und Enterprise-Produkte",
+   "text": "Sidero Labs hat auf der TalosCon in Amsterdam die Alpha-Version des Talos Hypervisor sowie die VMware-Alternative Talos Director fürs Rechenzentrum vorgestellt.",
+   "link": "https://www.heise.de/news/TalosCon-2026-Sidero-Labs-erweitert-Talos-um-Hypervisor-und-Enterprise-Produkte-11490630.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-16T11:07:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-21T11:07:00+00:00"
+  },
+  {
+   "id": "n57cf251257",
+   "topic": "it",
+   "title": "KI im Recruiting: Wie McKinsey Bewerbende mit Chatbots testet",
+   "text": "Das Beratungsunternehmen McKinsey setzt in Nordamerika auf künstliche Intelligenz, um Bewerbende in simulierten Kundengesprächen auf die Probe zu stellen.",
+   "link": "https://www.heise.de/news/KI-im-Recruiting-Wie-McKinsey-Bewerbende-mit-Chatbots-testet-11490750.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-16T11:03:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-21T11:03:00+00:00"
+  },
+  {
+   "id": "n7e300d4886",
+   "topic": "wissenschaft",
+   "title": "SSRI absetzen: Antidepressiva im Kreuzfeuer",
+   "text": "Immer häufiger geraten SSRI wie Citalopram & Co unter Beschuss: Keiner weiß genau, wie sie eigentlich wirken. Und es ist womöglich doch nicht so einfach, sie wieder abzusetzen.",
+   "link": "https://www.spektrum.de/news/ssri-absetzen-machen-die-beliebtesten-antidepressiva-abhaengig/2345148",
+   "published": "2026-10-16T11:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-30T11:00:00+00:00"
+  },
+  {
+   "id": "n005b217daf",
+   "topic": "nfl",
+   "title": "Tennessee Titans news: Cam Ward eyes bounce back vs. Colts",
+   "text": "The Tennessee Titans are hoping to snap their losing streak in Week 6.",
+   "link": "https://sports.yahoo.com/articles/tennessee-titans-news-cam-ward-110000803.html",
+   "published": "2026-10-16T11:00:00+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-21T11:00:00+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/e145a7aa8c686ed8c7ac24ed4ad449ac.jpg"
+  },
+  {
+   "id": "na8a5677df9",
+   "topic": "nfl",
+   "title": "Tampa Bay Buccaneers news: Bucs have chance to upset Steelers",
+   "text": "The Tampa Bay Buccaneers are eyeing a second-straight victory in Week 6 against the Pittsburgh Steelers.",
+   "link": "https://sports.yahoo.com/articles/tampa-bay-buccaneers-news-bucs-110000702.html",
+   "published": "2026-10-16T11:00:00+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-21T11:00:00+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/e28801dd83e72cd17fd0abd68ac75686.jpg"
+  },
+  {
+   "id": "nddc1448e8d",
+   "topic": "it",
+   "title": "Siri AI: Spekulationen um Support für HomePod 2",
+   "text": "Auch Altware von Apple könnte künftig Zugriff auf das neue KI-System bekommen – per Update. Zumindest gibt es Indizien.",
+   "link": "https://www.heise.de/news/Siri-AI-Spekulationen-um-Support-fuer-HomePod-2-11488677.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-16T10:59:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-21T10:59:00+00:00"
+  },
+  {
+   "id": "n35b2e7e382",
+   "topic": "welt",
+   "title": "Argentinien: Demonstranten fordern mehr Geld für Unis",
+   "text": "Bei Studentenprotesten gegen Präsident Javier Mileis Sparkurs kommt es in Argentinien zu Zusammenstößen mit der Polizei. Mindestens 25 Menschen werden festgenommen, mehrere Polizisten verletzt.",
+   "link": "https://www.dw.com/de/argentinien-demonstranten-fordern-mehr-geld-für-unis/a-79677729?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-16T10:39:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-20T10:39:00+00:00",
+   "img": "https://static.dw.com/image/79676959_302.jpg"
+  },
+  {
+   "id": "n9858f0654a",
+   "topic": "welt",
+   "title": "Veto-Flut gegen EU-Anwärter: Wer blockiert wen und - warum?",
+   "text": "Immer häufiger legen einzelne EU-Mitglieder im Beitrittsprozess von Kandidatenländern ihr Veto ein. Oft geht es dabei nicht um die Sache, sondern um eigene Innenpolitik. Die DW erklärt die Fälle - und ihre Hintergründe.",
+   "link": "https://www.dw.com/de/veto-flut-gegen-eu-anwärter-wer-blockiert-wen-und-warum/a-79676189?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-16T10:36:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-20T10:36:00+00:00",
+   "img": "https://static.dw.com/image/79677727_302.jpg"
+  },
+  {
+   "id": "n76e4e56972",
+   "topic": "welt",
+   "title": "UEFA gegen Infantino: Lager belauern sich bei FIFA-Council - Europa sucht nach Gegenkandidat",
+   "text": "FIFA-Präsident Gianni Infantino bittet beim ersten Aufeinandertreffen mit seinen Kritikern aus Europa um Entschuldigung - doch befriedigende Antworten blieben aus. Die UEFA bleibt auf Konfrontationskurs.",
+   "link": "https://www.dw.com/de/uefa-gegen-infantino-lager-belauern-sich-bei-fifa-council-europa-sucht-nach-gegenkandidat/a-79677520?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-16T10:34:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-20T10:34:00+00:00",
+   "img": "https://static.dw.com/image/79678337_302.jpg"
+  },
+  {
+   "id": "nf563e0ee5e",
+   "topic": "wissenschaft",
+   "title": "Neues Observatorium: Neue Gammastrahlenteleskope auf La Palma eingeweiht",
+   "text": "Am 15. Oktober 2026 nahmen vier neue Teleskope auf La Palma ihre Arbeit auf. Sie weisen Lichtblitze in der Erdatmosphäre nach, die durch Gammastrahlen verursacht werden.",
+   "link": "https://www.spektrum.de/news/neue-gammastrahlenteleskope-auf-la-palma-eingeweiht/2350093",
+   "published": "2026-10-16T10:30:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-30T10:30:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/EDIT_BEEDRONRECORD__1_de_3__-_Credits_LST_Collaboration.jpg.8417997.jpg?f=1280x720"
+  },
+  {
+   "id": "n89de253bae",
+   "topic": "politik",
+   "title": "Welche Tabakware wieviel teurer wird",
+   "text": "Zigaretten, Feinschnitt und andere Tabakwaren und tabakähnliche Produkte sollen deutlich stärker besteuert werden als bislang - die Preise dürften erheblich steigen. Was ist genau geplant?",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/ueberblick-tabaksteuer-100.html",
+   "published": "2026-10-16T10:23:43+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-19T10:23:43+00:00",
+   "img": "https://images.tagesschau.de/image/678223d5-1093-46db-84ea-b8dc5fe790f8/AAABoUQAmWw/AAABnSSvrFg/16x9-big/zigaretten-170.jpg?width=1920"
+  },
+  {
+   "id": "n5e34c861c4",
+   "topic": "welt",
+   "title": "Giftige Rauchwolken durch Waldbrände in Indonesien treffen auch Nachbarländer",
+   "text": "Eine besonders schwere Brandsaison macht Indonesien zu schaffen. Die dortigen Torfbrände sind nur schwer zu bekämpfen und der giftige Rauch belastet auch die Nachbarländer. In einem Nationalpark auf Java gab es vier Tote.",
+   "link": "https://www.tagesschau.de/ausland/asien/indonesien-malaysia-waldbraende-100.html",
+   "published": "2026-10-16T10:20:08+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-19T10:20:08+00:00",
+   "img": "https://images.tagesschau.de/image/29f57f16-edc5-453c-b374-abff3e156778/AAABoUOXNmI/AAABnSSvrFg/16x9-big/rauchschwaden-gesichtsmasken-singapur-100.jpg?width=1920"
+  },
+  {
+   "id": "ne5d1ec4633",
+   "topic": "it",
+   "title": "Warnung des BSI: Angriffe auf Zero-Day-Lücke in Cisco Secure Email Gateway",
+   "text": "Der Malware-Scanner von Ciscos Secure Email Gateway reagiert fehlerhaft auf speziell gestaltete E-Mails. Hacker erhalten so Root-Rechte. ( Sicherheitslücke , E-Mail )",
+   "link": "https://www.golem.de/news/warnung-des-bsi-angriffe-auf-zero-day-luecke-in-cisco-secure-email-gateway-2610-214183.html",
+   "published": "2026-10-16T10:16:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-21T10:16:01+00:00",
+   "img": "https://www.golem.de/2610/214183-603739-603737_rc.jpg"
+  },
+  {
+   "id": "n2c49fa9794",
+   "topic": "welt",
+   "title": "Drohungen gegen jüdische Studenten in Sachsen-Anhalt",
+   "text": "Jüdische Studierende versuchten, den hochrangigen AfD-Politiker und Vize-Landtagspräsidenten Tillschneider aus der Synagoge in Halle fernzuhalten. Das hat Folgen für die Studierenden.",
+   "link": "https://www.dw.com/de/drohungen-gegen-jüdische-studenten-in-sachsen-anhalt/a-79677383?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-16T10:13:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-20T10:13:00+00:00",
+   "img": "https://static.dw.com/image/79677537_302.jpg"
+  },
+  {
+   "id": "nf588a0d5ba",
+   "topic": "welt",
+   "title": "EU-Spitzen stärken Selenskyj den Rücken",
+   "text": "Präsident Selenskyj ist zum EU-Gipfel nach Brüssel gereist - und wird mit Zusicherungen begrüßt. Hilfen bleiben, Sanktionen sind in Arbeit, die EU-Beitrittsverhandlungen kommen voran. Allerdings geht US-Präsident Trump weiter auf Konfrontation.",
+   "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-ukraine-selenskyj-100.html",
+   "published": "2026-10-16T09:57:13+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-19T09:57:13+00:00",
+   "img": "https://images.tagesschau.de/image/84018e21-333a-4dd8-bd7e-5876c7630284/AAABoUPaDBk/AAABnSSvrFg/16x9-big/costa-leyen-selenskyj-100.jpg?width=1920"
+  },
+  {
+   "id": "nf3fc9d427a",
+   "topic": "welt",
+   "title": "Flugverkehr über Italien gestört - Sabotage bislang ausgeschlossen",
+   "text": "In Italien gibt es massive Probleme im Flugverkehr. Betroffen sind Starts und Landungen im ganzen Land, aber auch Überflüge. Grund sind Störungen bei der Flugsicherung. Ein Hackerangriff oder Sabotage wird derzeit ausgeschlossen.",
+   "link": "https://www.tagesschau.de/ausland/europa/flugverkehr-italien-100.html",
+   "published": "2026-10-16T09:55:19+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-19T09:55:19+00:00",
+   "img": "https://images.tagesschau.de/image/acaa8819-e7dc-4c21-99ff-9fade689948c/AAABoUPnStA/AAABnSSvrFg/16x9-big/flughafen-terminal-rom-100.jpg?width=1920"
+  },
+  {
+   "id": "ne7e17e69e9",
+   "topic": "welt",
+   "title": "Warum Starlink für die Ukraine so wichtig ist",
+   "text": "Immer wieder gibt es Sorgen über eine Drosselung oder Abschaltung des Satelliteninternets Starlink in der Ukraine. Wie groß ist die Abhängigkeit des Landes von dem System, und welche Folgen hätten ein Ausfall?",
+   "link": "https://www.dw.com/de/warum-starlink-für-die-ukraine-so-wichtig-ist/a-79668027?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-16T09:45:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-20T09:45:00+00:00",
+   "img": "https://static.dw.com/image/72776270_302.jpg"
+  },
+  {
+   "id": "n7d107e01ef",
+   "topic": "ki",
+   "title": "OpenAI startet Gratisprogramm für Forschungslabore an US-Universitäten",
+   "text": "OpenAI startet mit dem Rosalind Academic Plan ein Gratisangebot für Forschungslabore an US-Universitäten ohne Enterprise-Vertrag mit OpenAI. Der Artikel OpenAI startet Gratisprogramm für Forschungslabore an US-Universitäten erschien zuerst auf The Decoder .",
+   "link": "https://the-decoder.de/openai-startet-gratisprogramm-fuer-forschungslabore-an-us-universitaeten/",
+   "published": "2026-10-16T09:36:09+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-23T09:36:09+00:00"
+  },
+  {
+   "id": "n0726570f98",
+   "topic": "wirtschaft",
+   "title": "Wohnimmobilien: Deutlich mehr Baugenehmigungen",
+   "text": "Lichtblick für den deutschen Wohnungsbau: Der Aufwärtstrend des ersten Halbjahres setzt sich auch im August fort. Doch höhere Energiepreise und Zinsen belasten viele Bauherren.",
+   "link": "https://www.tagesschau.de/wirtschaft/baugenehmigungen-steigen-wieder-2026-100.html",
+   "published": "2026-10-16T09:29:27+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-19T09:29:27+00:00",
+   "img": "https://images.tagesschau.de/image/4751f686-0cf8-4ab0-b988-e6bbea14c726/AAABoURI6UM/AAABnSSvrFg/16x9-big/bauarbeiter-142.jpg?width=1920"
+  },
+  {
+   "id": "n9904c73144",
+   "topic": "politik",
+   "title": "Klingbeils Baustellen - Zwischen Sparzwang und Entlastung",
+   "text": "Deutschlands Probleme begleiten Finanzminister Klingbeil bis nach Bangkok. Sparen, Schuldenabbau, Reformen - das sind die Empfehlungen auf der dortigen IWF-Tagung. Klingbeil gibt sich zuversichtlich - und verweist auch auf die Tabaksteuer. Von N. Kohnert.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/finanzminister-klingbeil-spd-100.html",
+   "published": "2026-10-16T09:14:29+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-19T09:14:29+00:00",
+   "img": "https://images.tagesschau.de/image/591a0c66-5228-49db-91ba-9e43e9f7066d/AAABoUQDTis/AAABnSSvrFg/16x9-big/klingbeil-446.jpg?width=1920"
+  },
+  {
+   "id": "n8b1ccaf374",
+   "topic": "wissenschaft",
+   "title": "Keine Engpässe bei Antibiotika und Grippemitteln zu befürchten",
+   "text": "Keine Engpässe bei Antibiotika und Grippemitteln zu befürchten",
+   "link": "https://www.tagesschau.de/video/video-1667176.html",
+   "published": "2026-10-16T08:45:37+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-30T08:45:37+00:00",
+   "img": "https://images.tagesschau.de/image/83e8254d-b6d4-4536-bcd5-f0eaca97ecf8/AAABoUPjVnc/AAABnSSvrFg/16x9-big/sendungsbild-1812424.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Versorgung gesichert - Apothekerverbände: Keine Gefahr von Engpässen bei Antibiotika und Grippemitteln",
+     "link": "https://www.deutschlandfunk.de/apothekerverbaende-keine-gefahr-von-engpaessen-bei-antibiotika-und-grippemitteln-102.html"
+    }
+   ]
+  },
+  {
+   "id": "n33849209ef",
+   "topic": "welt",
+   "title": "Iran: Wenn \"Ehre\" zum Todesurteil für Frauen wird",
+   "text": "Der brutale Mord an einer jungen Mutter entfacht im Iran erneut die Debatte über den sogenannten Ehrenmord, gesellschaftliche Rechtfertigung von Gewalt gegen Frauen und fehlenden Schutz für Betroffene.",
+   "link": "https://www.dw.com/de/iran-wenn-ehre-zum-todesurteil-für-frauen-wird/a-79670397?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-16T08:31:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-20T08:31:00+00:00",
+   "img": "https://static.dw.com/image/60685630_302.jpg"
+  },
+  {
+   "id": "n77a79b1463",
+   "topic": "ki",
+   "title": "Anthropic lässt externe Prüfer von METR intern auf Modelle und Sicherheit schauen",
+   "text": "Anthropic lässt ein Team der Non-Profit-Organisation METR seine KI-Modelle und Sicherheitspraktiken von innen prüfen, teilt das Unternehmen mit. Der Artikel Anthropic lässt externe Prüfer von METR intern auf Modelle und Sicherheit schauen erschien zuerst auf The Decoder .",
+   "link": "https://the-decoder.de/anthropic-laesst-externe-pruefer-von-metr-intern-auf-modelle-und-sicherheit-schauen/",
+   "published": "2026-10-16T08:22:55+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-23T08:22:55+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/anthropic_cybersecurity.png"
+  },
+  {
+   "id": "nd2bd3cd875",
+   "topic": "wirtschaft",
+   "title": "Altersvorsorge: Wie das mit der \"Frühstartrente\" laufen soll",
+   "text": "Der Entwurf für eine große Rentenreform liegt noch nicht vor, aber der Bundestag hat heute eine Maßnahme zur Alterssicherung beschlossen: die sogenannte Frühstartrente. Was sie beinhaltet und wer sie bekommt.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/faq-fruehstartrente-100.html",
+   "published": "2026-10-16T08:16:46+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-19T08:16:46+00:00",
+   "img": "https://images.tagesschau.de/image/f6b00ed5-8625-4281-a381-0722af315e59/AAABoT_rt44/AAABnSSvrFg/16x9-big/kleinkinder-kita-102.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Altersvorsorge - Union und SPD beschließen Frühstartrente, Grüne und Linke fürchten mehr soziale Ungleichheit",
+     "link": "https://www.deutschlandfunk.de/union-und-spd-beschliessen-fruehstartrente-gruene-und-linke-fuerchten-mehr-soziale-ungleichheit-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n762811d4e6",
+   "topic": "wirtschaft",
+   "title": "Marktbericht: DAX startet mit Gewinnen",
+   "text": "Die Erholung im weltweiten Technologiesektor gibt auch dem deutschen Aktienmarkt Rückenwind. US-Notenbankchef Kevin Warsh sieht in künstlicher Intelligenz enormes Potenzial für Länder bei Produktivität und Wachstum.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nikkei-oelpreis-100.html",
+   "published": "2026-10-16T08:12:55+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-19T08:12:55+00:00",
+   "img": "https://images.tagesschau.de/image/b67c6b6d-ed89-46e7-9b57-495550086b8e/AAABn1pS1lI/AAABnSSvrFg/16x9-big/boerse-524.jpg?width=1920"
+  },
+  {
+   "id": "n038ed28037",
+   "topic": "politik",
+   "title": "Bundeseigene Wohnungsbaugesellschaft soll 2027 starten",
+   "text": "Der Wohnungsmangel in Deutschland ist groß, eine bundeseigene Wohnungsbaugesellschaft soll Abhilfe schaffen. Nach Angaben von Bundesbauministerin Hubertz soll sie 2027 an den Start gehen.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/hubertz-wohnungsbaugesellschaft-100.html",
+   "published": "2026-10-16T08:04:20+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-19T08:04:20+00:00",
+   "img": "https://images.tagesschau.de/image/07384768-d255-4d57-b6f5-658c7dce0f0c/AAABoUOPIEQ/AAABnSSvrFg/16x9-big/baustelle-hausbau-100.jpg?width=1920"
+  },
+  {
+   "id": "na7e9ca7070",
+   "topic": "wirtschaft",
+   "title": "Bundestag beschließt Anhebung der Tabaksteuer",
+   "text": "Millionen Menschen rauchen in Deutschland, das beschert dem Bund Milliardeneinnahmen über die Tabaksteuer. Künftig soll es noch mehr werden. Raucher müssen sich daher auf höhere Preise einstellen.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/rauchen-bundestag-tabaksteuer-100.html",
+   "published": "2026-10-16T07:55:57+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-19T07:55:57+00:00",
+   "img": "https://images.tagesschau.de/image/fd9be30f-b42d-48cb-89f1-8b2c56826d03/AAABoUHGCn8/AAABnSSvrFg/16x9-big/zigaretten-168.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Berlin - Bundestag stimmt für Erhöhung der Tabaksteuer",
+     "link": "https://www.deutschlandfunk.de/bundestag-stimmt-fuer-erhoehung-der-tabaksteuer-106.html"
+    }
+   ]
+  },
+  {
+   "id": "ne2885e0419",
+   "topic": "wirtschaft",
+   "title": "Update Wirtschaft vom 16.10.2026",
+   "text": "Update Wirtschaft vom 16.10.2026",
+   "link": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1667144.html",
+   "published": "2026-10-16T07:50:22+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-19T07:50:22+00:00",
+   "img": "https://images.tagesschau.de/image/8304940d-9e66-4019-a33d-043890dbfc10/AAABoUOwvxQ/AAABnSSvrFg/16x9-big/sendungsbild-1812384.jpg?width=1920"
+  },
+  {
+   "id": "n2aa54fb508",
+   "topic": "welt",
+   "title": "In New Yorks \"Little Haiti\" geht die Angst um",
+   "text": "Seit Trump ihnen den Schutzstatus entzogen hat, gehen viele Haitianer in den USA kaum noch aus dem Haus, verstecken sich - aus Angst vor Abschiebung. Wie wirkt sich das auf den Alltag in New Yorks Viertel \"Little Haiti\" aus? Von Arnd Henze.",
+   "link": "https://www.tagesschau.de/ausland/amerika/usa-haitianer-angst-abschiebung-100.html",
+   "published": "2026-10-16T07:04:17+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-19T07:04:17+00:00",
+   "img": "https://images.tagesschau.de/image/c4ec0cb8-5382-4959-baa1-413a3c04b4e8/AAABoT-c0ro/AAABnSSvrFg/16x9-big/little-haiti-new-york-u-bahn-station-100.jpg?width=1920"
+  },
+  {
+   "id": "n8d2d7b41e2",
+   "topic": "welt",
+   "title": "Fünf Tote bei Schüssen an Grundschule in Oregon",
+   "text": "Bei Schüssen an einer Grundschule im US-Bundesstaat Oregon sind drei Kinder sowie eine Lehrkraft getötet worden. Der jugendliche mutmaßliche Schütze wurde erschossen - noch bevor die Polizei eintraf.",
+   "link": "https://www.tagesschau.de/ausland/amerika/schuesse-grundschule-oregon-100.html",
+   "published": "2026-10-16T05:07:05+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-19T05:07:05+00:00",
+   "img": "https://images.tagesschau.de/image/1e566a4d-f6e0-40e2-a4bf-3efffde657b2/AAABoUPvrKU/AAABnSSvrFg/16x9-big/grundschule-oregon-100.jpg?width=1920"
+  },
   {
    "id": "n6c4875ba28",
    "topic": "politik",
@@ -131,7 +748,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-18T04:28:51+00:00",
-   "img": "https://bilder.deutschlandfunk.de/ff/cd/4a/35/ffcd4a35-a752-4f46-a918-db77eb10d2b9/antibiotika-lieferung-engpaesse-medikamente-eu-arzneimittelgesetzgebung-strassburg-100-1280x1280.jpg"
+   "img": "https://bilder.deutschlandfunk.de/ff/cd/4a/35/ffcd4a35-a752-4f46-a918-db77eb10d2b9/antibiotika-lieferung-engpaesse-medikamente-eu-arzneimittelgesetzgebung-strassburg-100-1280x1280.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Keine Engpässe bei Antibiotika und Grippemitteln zu befürchten",
+     "link": "https://www.tagesschau.de/video/video-1667176.html"
+    }
+   ]
   },
   {
    "id": "na097f2a3cd",
@@ -235,19 +859,6 @@
    "expires": "2026-10-21T03:49:21+00:00"
   },
   {
-   "id": "nd2bd3cd875",
-   "topic": "politik",
-   "title": "Altersvorsorge: Wie das mit der \"Frühstartrente\" laufen soll",
-   "text": "Der Entwurf für eine große Rentenreform liegt noch nicht vor, aber der Bundestag will heute über eine Maßnahme zur Alterssicherung entscheiden: die sogenannte Frühstartrente. Was sie beinhaltet und wer sie bekommt.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/faq-fruehstartrente-100.html",
-   "published": "2026-10-16T03:00:25+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-19T03:00:25+00:00",
-   "img": "https://images.tagesschau.de/image/f6b00ed5-8625-4281-a381-0722af315e59/AAABoT_rt44/AAABnSSvrFg/16x9-big/kleinkinder-kita-102.jpg?width=1920"
-  },
-  {
    "id": "na9f1da08ca",
    "topic": "it",
    "title": "Hypersportwagen: Tesla Roadster kann fliegen",
@@ -275,16 +886,23 @@
   },
   {
    "id": "nbf5c508bde",
-   "topic": "welt",
+   "topic": "wirtschaft",
    "title": "Frankreich und Deutschland wollen Verbrenner-Aus aufweichen",
-   "text": "Deutschland setzt sich dafür ein, dass weiter Neuwagen mit Verbrennungstechnologie zugelassen werden können. Frankreichs Präsident Macron hat sich bisher gesperrt - nun zeichnet sich ein Deal ab.",
+   "text": "Deutschland setzt sich dafür ein, dass weiter Neuwagen mit Verbrennungstechnologie zugelassen werden können. Frankreichs Präsident Macron hat sich bisher gesperrt - nun zeichnet sich eine Einigung ab.",
    "link": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-lockerung-100.html",
    "published": "2026-10-16T01:17:45+00:00",
    "source": "Tagesschau",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-19T01:17:45+00:00",
-   "img": "https://images.tagesschau.de/image/90974820-1ec2-40d2-b13a-d64595a79d49/AAABoUJAJ4Q/AAABnSSvrFg/16x9-big/verbrenner-abgase-100.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/90974820-1ec2-40d2-b13a-d64595a79d49/AAABoUJAJ4Q/AAABnSSvrFg/16x9-big/verbrenner-abgase-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Verbrenner-Aus ab 2035 - Deutschland und Frankreich einigen sich auf Lockerungen",
+     "link": "https://www.deutschlandfunk.de/deutschland-und-frankreich-einigen-sich-auf-lockerungen-100.html"
+    }
+   ]
   },
   {
    "id": "n695c6442c4",
@@ -310,26 +928,6 @@
    "type": "Sportmedium",
    "lang": "en",
    "expires": "2026-10-20T23:41:38+00:00"
-  },
-  {
-   "id": "na7e9ca7070",
-   "topic": "politik",
-   "title": "Bundestag beschließt Anhebung der Tabaksteuer",
-   "text": "Millionen Menschen rauchen in Deutschland, das beschert dem Bund Milliardeneinnahmen über die Tabaksteuer. Künftig soll es noch mehr werden. Raucher müssen sich daher auf höhere Preise einstellen.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/rauchen-bundestag-tabaksteuer-100.html",
-   "published": "2026-10-15T23:06:09+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-18T23:06:09+00:00",
-   "img": "https://images.tagesschau.de/image/fd9be30f-b42d-48cb-89f1-8b2c56826d03/AAABoUHGCn8/AAABnSSvrFg/16x9-big/zigaretten-168.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Berlin - Bundestag stimmt für Erhöhung der Tabaksteuer",
-     "link": "https://www.deutschlandfunk.de/bundestag-stimmt-fuer-erhoehung-der-tabaksteuer-106.html"
-    }
-   ]
   },
   {
    "id": "n78140effaa",
@@ -1155,571 +1753,6 @@
    "lang": "de",
    "expires": "2026-10-18T11:52:23+00:00",
    "img": "https://images.tagesschau.de/image/a464ef9e-d97b-4108-b9d4-e84b2214cc06/AAABoT7wW3s/AAABnSSvrFg/16x9-big/sendungsbild-1811876.jpg?width=1920"
-  },
-  {
-   "id": "nab1f91a2d8",
-   "topic": "welt",
-   "title": "Pakistan: Einstürzendes Schuldach erschlägt Kinder",
-   "text": "Mitten im Unterricht brach das Dach ein: Eine Schule in Peschawar wurde zur tödlichen Falle. Mindestens 34 Menschen kamen ums Leben. Die Zahl der Opfer könnte noch steigen.",
-   "link": "https://www.dw.com/de/pakistan-einstürzendes-schuldach-erschlägt-kinder/a-79668440?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-15T11:36:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-19T11:36:00+00:00",
-   "img": "https://static.dw.com/image/79668676_302.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Viele Tote bei Einsturz von Schuldach in Pakistan",
-     "link": "https://www.tagesschau.de/ausland/asien/pakistan-schuldach-einsturz-tote-100.html"
-    }
-   ]
-  },
-  {
-   "id": "na0c3d99c41",
-   "topic": "politik",
-   "title": "Vor Bundestagsabstimmung - Erhöhung der Tabaksteuer: Tabakwirtschaft warnt vor Erstarken des illegalen Marktes",
-   "text": "Vor der Bundestagsabstimmung über eine Erhöhung der Tabaksteuer hat der Bundesverband der Tabakwirtschaft vor einer Erstarkung des illegalen Marktes gewarnt. Der Hauptgeschäftsführer des Verbandes, Mücke, sagte im Deutschlandfunk, der \"Tabaksteuerschock\" werde die Menschen nicht vom Rauchen abhalten.",
-   "link": "https://www.deutschlandfunk.de/erhoehung-der-tabaksteuer-tabakwirtschaft-warnt-vor-erstarken-des-illegalen-marktes-100.html",
-   "published": "2026-10-15T11:18:04+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-17T11:18:04+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Bundestag beschließt Anhebung der Tabaksteuer",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/rauchen-bundestag-tabaksteuer-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n0a8e93d2d8",
-   "topic": "politik",
-   "title": "Gesundheitspolitik - Bundestag hat Reform der Notfallversorgung beschlossen",
-   "text": "Die medizinische Notfallversorgung in Deutschland soll neu aufgestellt werden. Der Bundestag hat den Plänen der Regierung zugestimmt, wonach die Versorgung der Patienten besser gesteuert und zugleich Notaufnahmen und Rettungsdienste entlastet werden sollen.",
-   "link": "https://www.deutschlandfunk.de/bundestag-hat-reform-der-notfallversorgung-beschlossen-100.html",
-   "published": "2026-10-15T11:18:04+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-17T11:18:04+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Reform der Notfallversorgung beschlossen - was sich für Patienten ändert",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/notfallversorgung-krankenhaus-reform-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n5b3fb9f755",
-   "topic": "politik",
-   "title": "Verhandlungen über EU-Haushalt - Brantner wirft Merz Verweigerungshaltung vor - auch Weber pocht auf höhere Ausgaben für die EU",
-   "text": "Vor den heutigen Verhandlungen über den EU-Haushalt hat die Co-Vorsitzende der Grünen, Brantner, Bundeskanzler Merz eine Verweigerungshaltung vorgeworfen. Europa müsse in diesen turbulenten geopolitischen Zeiten souveräner werden und mehr in innovative Technologien und Sicherheit investieren, sagte Brantner im …",
-   "link": "https://www.deutschlandfunk.de/brantner-wirft-merz-verweigerungshaltung-vor-auch-weber-pocht-auf-hoehere-ausgaben-fuer-die-eu-102.html",
-   "published": "2026-10-15T11:18:04+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-17T11:18:04+00:00",
-   "img": "https://bilder.deutschlandfunk.de/4d/79/55/c3/4d7955c3-e956-4dc8-83f2-c28e06d799f1/franziska-brantner-108-1920x1920.jpg"
-  },
-  {
-   "id": "n16af06770c",
-   "topic": "politik",
-   "title": "EU-Haushalt - Worum geht es beim Streit um Europas Finanzen?",
-   "text": "Die Europäische Union erstellt für jeweils sieben Jahre einen \"Mehrjährigen Finanzrahmen\" (MFR). Im aktuellen Streit geht es vor allem um die Größe des Etats und darum, wer wie viel dazu beiträgt. Auch die strategische Ausrichtung der EU ist Anlass für Kontroversen.",
-   "link": "https://www.deutschlandfunk.de/worum-geht-es-beim-streit-um-europas-finanzen-100.html",
-   "published": "2026-10-15T11:18:04+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-17T11:18:04+00:00",
-   "img": "https://bilder.deutschlandfunk.de/FI/LE/_f/29/FILE_f2934577bcf09f6a5ec7fa76a006c978/imago0097889133h-jpg-100-768x768.jpg"
-  },
-  {
-   "id": "n4f7216193d",
-   "topic": "politik",
-   "title": "Staatsanwaltschaft Hannover - Durchsuchungen bei SPD-Abgeordnetem Adis Ahmetovic nach Aufhebung der Immunität",
-   "text": "Die Staatsanwaltschaft Hannover hat im Zuge von Ermittlungen gegen den niedersächsischen SPD-Bundestagsabgeordneten Ahmetovic sein Bundestagsbüro und drei Wohnungen durchsuchen lassen.",
-   "link": "https://www.deutschlandfunk.de/durchsuchungen-bei-spd-abgeordnetem-adis-ahmetovic-nach-aufhebung-der-immunitaet-100.html",
-   "published": "2026-10-15T11:18:04+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-17T11:18:04+00:00",
-   "img": "https://bilder.deutschlandfunk.de/cf/e8/a2/8b/cfe8a28b-68a3-4bbf-b20b-0a5ad59656d1/bundestag-adis-ahmetovic-spd-immunitaet-entzug-100-1920x1920.jpg"
-  },
-  {
-   "id": "n84c3535f8b",
-   "topic": "politik",
-   "title": "Klimapolitik - Studie: Ausstieg aus fossilen Energien bringt global mehr finanzielle Vor- als Nachteile",
-   "text": "Der Ausstieg aus fossilen Energien bringt einer Studie zufolge global betrachtet finanziell mehr Vorteile als Nachteile. Vor allem Länder in Afrika könnten davon profitieren. Zu dem Ergebnis kommt das Potsdam-Institut für Klimafolgenforschung (PIK).",
-   "link": "https://www.deutschlandfunk.de/studie-ausstieg-aus-fossilen-energien-bringt-global-mehr-finanzielle-vor-als-nachteile-100.html",
-   "published": "2026-10-15T11:18:04+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-17T11:18:04+00:00",
-   "img": "https://bilder.deutschlandfunk.de/c8/1e/8a/a2/c81e8aa2-6036-4dd5-8465-5ea929b7d88d/solarenergie-china-102-1920x1920.jpg"
-  },
-  {
-   "id": "n909ee30fc0",
-   "topic": "it",
-   "title": "Apple Watch mit Android? Diese Open-Source-App soll das jetzt möglich machen",
-   "text": "Die Verbindung einer Applewatch zu Android ist nur mit starken Einschränkungen möglich. Ein Entwickler will das mit seinem quelloffenen Projekt jetzt ändern.",
-   "link": "https://www.heise.de/news/Apple-Watch-mit-Android-Diese-Open-Source-App-soll-das-jetzt-moeglich-machen-11489283.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-15T11:08:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-20T11:08:00+00:00"
-  },
-  {
-   "id": "n449f420b45",
-   "topic": "it",
-   "title": "HomePod mini 2: Kann auch zum Default-Lautsprecher am Mac werden",
-   "text": "Bislang kann man HomePods zwar zur Musikausgabe verwenden, doch nicht zur Ausgabe des Systemklangs. Mit dem HomePod mini 2 erbarmt sich Apple.",
-   "link": "https://www.heise.de/news/HomePod-mini-2-Kann-auch-zum-Default-Lautsprecher-am-Mac-werden-11488305.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-15T11:05:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-20T11:05:00+00:00"
-  },
-  {
-   "id": "nb6828f9e94",
-   "topic": "politik",
-   "title": "Bundeswehr: Pistorius will Reservedienst verpflichtend machen",
-   "text": "Im Bundestag wird heute über das \"Reservestärkungsgesetz\" beraten. Es soll dabei helfen, die Zahl der Reservistinnen und Reservisten zu erhöhen - auf 200.000 bis 2033. Aus der Wirtschaft kommt Kritik. Von K. Aue.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-reservestaerkungsgesetz-100.html",
-   "published": "2026-10-15T11:03:31+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-18T11:03:31+00:00",
-   "img": "https://images.tagesschau.de/image/24162d3b-38d2-4f6b-9628-81be4e7848e9/AAABoT796GQ/AAABnSSvrFg/16x9-big/reservisten-bundeswehr-104.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Skandal in Weißenfels - \"Widerwärtiger\" Sex-Wettbewerb in Bundeswehr gemeldet: Pistorius droht Soldaten mit Härte",
-     "link": "https://www.deutschlandfunk.de/widerwaertiger-sex-wettbewerb-in-bundeswehr-gemeldet-pistorius-droht-soldaten-mit-haerte-100.html"
-    }
-   ]
-  },
-  {
-   "id": "ned8db0fc1a",
-   "topic": "nfl",
-   "title": "Breaking down Seahawks RB depth chart without Price, Charbonnet",
-   "text": "The Seahawks lost Kenneth Walker III in free agency and now have a new-look RB depth chart. Here's what to know about their top running backs.",
-   "link": "https://sports.yahoo.com/articles/breaking-down-seahawks-rb-depth-110245244.html",
-   "published": "2026-10-15T11:02:45+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-20T11:02:45+00:00"
-  },
-  {
-   "id": "n9d84ea08a6",
-   "topic": "it",
-   "title": "1.000 Arbeitsplätze bedroht: Regierung will E-Bus-Förderung um zwei Drittel kürzen",
-   "text": "Die Bundesregierung will die Förderung von Elektrobussen stark zusammenstreichen. Vor allem deutsche Hersteller wären betroffen. ( Elektrobus , Auto )",
-   "link": "https://www.golem.de/news/1-000-arbeitsplaetze-bedroht-regierung-will-e-bus-foerderung-um-zwei-drittel-kuerzen-2610-214145.html",
-   "published": "2026-10-15T11:02:01+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-20T11:02:01+00:00",
-   "img": "https://www.golem.de/2610/214145-603568-603566_rc.jpg"
-  },
-  {
-   "id": "n214ea2fd83",
-   "topic": "nfl",
-   "title": "Is it time to cut ties with Cardinals DC Nick Rallis?",
-   "text": "The Lions game showed just how bad this defense can be",
-   "link": "https://sports.yahoo.com/articles/time-cut-ties-cardinals-dc-110000749.html",
-   "published": "2026-10-15T11:00:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-20T11:00:00+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/791a3dd8725cb199636fab10d52b72a5.jpg"
-  },
-  {
-   "id": "nba52d938b4",
-   "topic": "it",
-   "title": "Xbox Nano Controller: Microsoft schrumpft Gamepad auf 13 Zentimeter",
-   "text": "Mit dem Xbox Nano bringt Microsoft einen besonders kleinen Controller auf den Markt. Das Gamepad wiegt knapp 100 Gramm und besitzt einen eingebauten Akku.",
-   "link": "https://www.heise.de/news/Xbox-Nano-Controller-Microsoft-schrumpft-Gamepad-auf-13-Zentimeter-11489263.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-15T10:48:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-20T10:48:00+00:00"
-  },
-  {
-   "id": "n853cf551c2",
-   "topic": "it",
-   "title": "Epyc 9006 LP: AMDs Antwort auf Nvidia hat jetzt 192 statt 72 Kerne",
-   "text": "Der Chiphersteller wird die Verano-CPUs mit wesentlich mehr Cores ausstatten. Mit dabei sind LPDDR5x-RAM und die Zen-6c-Architektur. ( AMD , Prozessor )",
-   "link": "https://www.golem.de/news/epyc-9006-lp-amds-antwort-auf-nvidia-hat-jetzt-192-statt-72-kerne-2610-214143.html",
-   "published": "2026-10-15T10:45:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-20T10:45:02+00:00",
-   "img": "https://www.golem.de/2610/214143-603559-603557_rc.jpg"
-  },
-  {
-   "id": "na5ec591638",
-   "topic": "wissenschaft",
-   "title": "Gesundheit: West-Nil-Fieber breitet sich nach Baden-Württemberg aus",
-   "text": "Bisher steckten sich Menschen nur im Osten Deutschlands mit dem West-Nil-Fieber an. Nun erkrankten zwei Menschen in Baden-Württemberg an der durch Mücken übertragenen Krankheit.",
-   "link": "https://www.spektrum.de/news/west-nil-virus-in-baden-wuerttemberg/2349899",
-   "published": "2026-10-15T10:30:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-10-29T10:30:00+00:00"
-  },
-  {
-   "id": "nb27d047a79",
-   "topic": "politik",
-   "title": "Feuerwehr in Wiesbaden muss zwei Brände bekämpfen - Feuer im Stadtschulamt",
-   "text": "Bei einem Brand im Stadtschulamt in Wiesbaden ist ein Schaden in sechsstelliger Höhe entstanden. Warum es in einem Archivraum brannte, ist noch unbekannt. Während des Einsatzes musste die Feuerwehr zu einem weiteren Brand ausrücken.",
-   "link": "https://www.hessenschau.de/panorama/feuerwehr-in-wiesbaden-muss-zwei-braende-bekaempfen---feuer-im-stadtschulamt-v1,brand-stadtschulamt-wiesbaden-100.html",
-   "published": "2026-10-15T10:23:30+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-19T10:23:30+00:00",
-   "img": "https://www.hessenschau.de/panorama/brand-stadtschulamt-wiesbaden-102~_t-1792057188974_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "n912ab2909d",
-   "topic": "welt",
-   "title": "Viele Tote bei Einsturz von Schuldach in Pakistan",
-   "text": "In Pakistan sind bei dem Einsturz eines Schuldachs mindestens 33 Menschen gestorben. Unter den Toten befinden sich vor allem Schüler, die gerade im Unterricht saßen. Die Polizei meldete bereits eine Festnahme.",
-   "link": "https://www.tagesschau.de/ausland/asien/pakistan-schuldach-einsturz-tote-100.html",
-   "published": "2026-10-15T10:10:33+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-18T10:10:33+00:00",
-   "img": "https://images.tagesschau.de/image/76596099-4b37-4734-bb75-44a6a7356a3c/AAABoT9zF-8/AAABnSSvrFg/16x9-big/schule-pakistan-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Pakistan: Einstürzendes Schuldach erschlägt Kinder",
-     "link": "https://www.dw.com/de/pakistan-einstürzendes-schuldach-erschlägt-kinder/a-79668440?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "nd19cf06878",
-   "topic": "wissenschaft",
-   "title": "Sonnenbeobachtung im Heliumballon: Sunrise III liefert superscharfe Bilder der Sonnenoberfläche",
-   "text": "Im Sommer 2024 wurde die Sonne sechs Tage nonstop mit dem Ballonteleskop Sunrise III beobachtet. Die im Jahr 2026 veröffentlichten Bilder zeigen atemberaubende Details der Sonne.",
-   "link": "https://www.spektrum.de/news/sonnenforschung-im-ballon-sunrise-iii-liefert-superscharfe-bilder/2349045",
-   "published": "2026-10-15T10:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-10-29T10:00:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/original_2_zuschnitt.jpg.8415562.jpg?f=1280x720"
-  },
-  {
-   "id": "n89c5c41d63",
-   "topic": "wirtschaft",
-   "title": "In welchen Jobs Digitalisierung zu Stress führen kann",
-   "text": "Zunehmende Digitalisierung kann die Gesundheit von Beschäftigten gefährden. Besonders stark von diesem Stress betroffen sind einer neuen Studie zufolge Menschen mit überwiegend körperlichen Tätigkeiten. Von Thomas Samboll.",
-   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/digitaler-stress-koerperliche-arbeit-100.html",
-   "published": "2026-10-15T09:47:14+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-18T09:47:14+00:00",
-   "img": "https://images.tagesschau.de/image/b3070eff-7cc9-47ae-aaab-c6ac07c72f8b/AAABoTSxSTk/AAABnSSvrFg/16x9-big/roboter-306.jpg?width=1920"
-  },
-  {
-   "id": "nf0bbb6fd39",
-   "topic": "wissenschaft",
-   "title": "Die Mehlschwalbe ist Vogel des Jahres 2027",
-   "text": "Sie fängt Insekten im Flug und brütet in Lehmnestern mit kleinem Einflugloch: Die Mehlschwalbe ist der Vogel des Jahres 2027. Ihr Bestand gilt als bedroht, denn nicht nur Hitzewellen machen den Tieren zu schaffen. Von S. Peyk.",
-   "link": "https://www.tagesschau.de/wissen/tiere/mehlschwalbe-vogel-des-jahres-100.html",
-   "published": "2026-10-15T09:36:18+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-29T09:36:18+00:00",
-   "img": "https://images.tagesschau.de/image/ba9096b4-433f-4bc4-aa95-3a25ddcb7766/AAABoTr0APA/AAABnSSvrFg/16x9-big/mehlschwalbe-106.jpg?width=1920"
-  },
-  {
-   "id": "n446144cf7c",
-   "topic": "ki",
-   "title": "Anthropic vor dem Börsengang: Enormes Umsatzwachstum mit Anzeichen für Verlangsamung",
-   "text": "Anthropic erzielte im dritten Quartal 16,8 Milliarden US-Dollar Umsatz, ein Plus von 45 Prozent, aber weit entfernt vom 140-Prozent-Sprung des Vorquartals. Vor dem geplanten November-IPO senken einige Investoren ihre Bewertungserwartungen angeblich auf unter 1,5 Billionen US-Dollar. Das verlangsamte Wachstum und ein …",
-   "link": "https://the-decoder.de/anthropic-vor-dem-boersengang-enormes-umsatzwachstum-mit-anzeichen-fuer-verlangsamung/",
-   "published": "2026-10-15T09:20:43+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-22T09:20:43+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/09/anthropic_amodei.png"
-  },
-  {
-   "id": "n9da34378df",
-   "topic": "welt",
-   "title": "Nordkorea testet Marschflugkörper",
-   "text": "Nordkorea hat erneut Waffensysteme getestet - diesmal auf dem offenen Meer: Eine Machtdemonstration von Staatschef Kim Jong Un, der gleichzeitig engere Beziehungen zu China knüpft.",
-   "link": "https://www.dw.com/de/nordkorea-testet-marschflugkörper/a-79666671?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-15T09:11:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-19T09:11:00+00:00",
-   "img": "https://static.dw.com/image/79664842_302.jpg"
-  },
-  {
-   "id": "n859934fc68",
-   "topic": "wissenschaft",
-   "title": "Frühe Bronzezeit: Wrack vor türkischer Küste könnte das älteste der Welt sein",
-   "text": "Das Wrack liegt unweit von Antalya und stammt aus der frühen Bronzezeit. Auffällige Tongefäße zeugen vom aufkommenden Fernhandel mit Frachtschiffen.",
-   "link": "https://www.spektrum.de/news/fruehe-bronzezeit-das-aelteste-wrack-der-welt/2349824",
-   "published": "2026-10-15T09:04:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-10-29T09:04:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/625226557_pa.jpg.8417432.jpg?f=1280x720"
-  },
-  {
-   "id": "nd31a35b3f8",
-   "topic": "wirtschaft",
-   "title": "Update Wirtschaft vom 15.10.2026",
-   "text": "Update Wirtschaft vom 15.10.2026",
-   "link": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1666530.html",
-   "published": "2026-10-15T08:49:36+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-18T08:49:36+00:00",
-   "img": "https://images.tagesschau.de/image/365c3141-70fb-4ced-9960-3454e81ddaa4/AAABoT-Hbao/AAABnSSvrFg/16x9-big/sendungsbild-1811836.jpg?width=1920"
-  },
-  {
-   "id": "na6a993acde",
-   "topic": "politik",
-   "title": "Reform der Notfallversorgung beschlossen - was sich für Patienten ändert",
-   "text": "Wer wirklich dringend medizinische Hilfe braucht, soll schneller drankommen. Leichtere Fälle sollen gar nicht erst in der Notaufnahme landen - der Bundestag hat die Reform der Notfallmedizin beschlossen. Was ändert sich konkret?",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/notfallversorgung-krankenhaus-reform-100.html",
-   "published": "2026-10-15T08:32:37+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-18T08:32:37+00:00",
-   "img": "https://images.tagesschau.de/image/eee0b621-0a3f-4209-9639-423c43a95784/AAABoT8c_KQ/AAABnSSvrFg/16x9-big/notaufnahme-240.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Gesundheitspolitik - Bundestag hat Reform der Notfallversorgung beschlossen",
-     "link": "https://www.deutschlandfunk.de/bundestag-hat-reform-der-notfallversorgung-beschlossen-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n96c188a2a9",
-   "topic": "welt",
-   "title": "Sorge vor Spionage: Slowakei erneuert Militärkontakte mit Russland",
-   "text": "Unter Premierminister Fico gilt die Slowakei schon länger als Putins Einfallstor in die EU. Umso bedenklicher ist, dass sein Land nun auch im Stillen die Militärkontakte mit Russland wieder aufgenommen hat. Von Marianne Allweiss.",
-   "link": "https://www.tagesschau.de/ausland/europa/slowakei-fico-russland-102.html",
-   "published": "2026-10-15T07:24:38+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-18T07:24:38+00:00",
-   "img": "https://images.tagesschau.de/image/1be58994-e31c-421a-898e-609172afe1b1/AAABoT9zUxA/AAABnSSvrFg/16x9-big/robert-fico-126.jpg?width=1920"
-  },
-  {
-   "id": "n6642d4e19e",
-   "topic": "wirtschaft",
-   "title": "Alkoholverbot an Bahnhöfen: Mehr Sicherheit, weniger Konflikte?",
-   "text": "Ab heute gilt das bundesweite Alkoholverbot an den Bahnhöfen der Deutschen Bahn. Der Konzern hofft, dass es damit zu weniger Konflikten kommt. In fast 40 Bahnhöfen wurde der Schritt bereits getestet. Von Jens Eberl.",
-   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/alkoholverbot-bahnhoefe-102.html",
-   "published": "2026-10-15T07:11:08+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-18T07:11:08+00:00",
-   "img": "https://images.tagesschau.de/image/720bb6a6-b48d-4dbf-97ce-0ff8d73b88b8/AAABoT5gWoA/AAABnSSvrFg/16x9-big/alkoholverbot-bahnhof-plakat-100.jpg?width=1920"
-  },
-  {
-   "id": "n09c5f85f98",
-   "topic": "welt",
-   "title": "News kompakt: Brasilien beschließt kürzere Arbeitswoche",
-   "text": "Die Reform könnte Präsident Lula kurz vor der Stichwahl gegen Flávio Bolsonaro Rückenwind geben. In Brüssel beginnt der zweitägige EU-Gipfel. Der DW-Nachrichtenüberblick.",
-   "link": "https://www.dw.com/de/news-kompakt-brasilien-beschließt-kürzere-arbeitswoche/a-79665107?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-15T07:00:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-19T07:00:00+00:00",
-   "img": "https://static.dw.com/image/79645001_302.jpg"
-  },
-  {
-   "id": "n858a9be782",
-   "topic": "welt",
-   "title": "Doris Dörrie und \"Frau Winkler\": Sterbehilfe per Roboter?",
-   "text": "Während die Welt über die Gefahren Künstlicher Intelligenz diskutiert, lotet die Filmemacherin Doris Dörrie aus, wie humanoide Roboter unseren Umgang mit Alter, Pflege und selbstbestimmtem Sterben verändern könnten.",
-   "link": "https://www.dw.com/de/doris-dörrie-und-frau-winkler-sterbehilfe-per-roboter/a-79644743?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-15T06:10:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-19T06:10:00+00:00",
-   "img": "https://static.dw.com/image/79645330_302.jpg"
-  },
-  {
-   "id": "n6fa2315d17",
-   "topic": "welt",
-   "title": "Krieg gegen die Ukraine: Sorge vor dem Winter, Hoffen auf EU-Hilfe",
-   "text": "Russlands Angriffe auf Energieanlagen bringen die Menschen in der Ukraine in Not. Ohne Strom und Wasser wächst die Sorge vor dem Winter. Präsident Selenskyj ringt um mehr Unterstützung aus Europa. Von Rebecca Barth.",
-   "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-288.html",
-   "published": "2026-10-15T06:01:26+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-18T06:01:26+00:00",
-   "img": "https://images.tagesschau.de/image/93d5491b-792f-4b81-bb76-7c4b73078e8d/AAABoT4RSuQ/AAABnSSvrFg/16x9-big/kiew-570.jpg?width=1920"
-  },
-  {
-   "id": "ndb8a06b911",
-   "topic": "politik",
-   "title": "Heusenstamm: Frau soll Freier in satanischem Ritual ermordet haben - Prozess",
-   "text": "Eine Prostituierte soll in Heusenstamm einen Freier getötet und zerteilt haben - nun steht die Frau vor dem Landgericht. Von dem mutmaßlichen Mord soll sie sich Heilung versprochen haben. Die Angeklagte könnte schuldunfähig sein.",
-   "link": "https://www.hessenschau.de/panorama/heusenstamm-frau-soll-freier-in-satanischem-ritual-ermordet-haben---prozess-v1,prozess-prostituierte-100.html",
-   "published": "2026-10-15T04:32:57+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-19T04:32:57+00:00",
-   "img": "https://www.hessenschau.de/panorama/leiche-heusenstamm-102~_t-1772057960242_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "naa627ce5ca",
-   "topic": "welt",
-   "title": "11KM-Podcast: EU-Comeback für Großbritannien?",
-   "text": "Andy Burnham überrascht mit kritischen Äußerungen zum Brexit. Kommt Großbritannien zurück in die EU? 11KM über den \"Soft Socialist\" Burnham und wie der neue Premier die britische Politik prägt.",
-   "link": "https://www.tagesschau.de/ausland/europa/podcast-11km-burnham-eu-comeback-100.html",
-   "published": "2026-10-15T04:29:37+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-18T04:29:37+00:00",
-   "img": "https://images.tagesschau.de/image/bc6c7b80-f36f-414b-9387-e72e13f2ea2e/AAABoT3BD5c/AAABnSSvrFg/16x9-big/podcast-11km-3946.jpg?width=1920"
-  },
-  {
-   "id": "n65caa198e5",
-   "topic": "it",
-   "title": "Donnerstag: Flächenbrand verwanzter Krypto-Wallets, Entlassungswelle bei Netflix",
-   "text": "Millionenschaden bei Ledger-Wallets + 1000 Stellenstreichungen bei Netflix + Kompromissurteil für ARM und Qualcomm + Apples HomeView-Druck auf EU + #heiseshow",
-   "link": "https://www.heise.de/news/Donnerstag-Flaechenbrand-verwanzter-Krypto-Wallets-Entlassungswelle-bei-Netflix-11488807.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-15T04:15:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-20T04:15:00+00:00"
-  },
-  {
-   "id": "na41420f8ff",
-   "topic": "it",
-   "title": "#heiseshow: KI-Klone, PC-Markt, Mathematiker vs. OpenAI",
-   "text": "In der #heiseshow: KI-Klone machen etablierten Anbietern Konkurrenz, der PC-Markt bricht ein und Mathematiker wehren sich gegen KI-generierte Lösungen.",
-   "link": "https://www.heise.de/news/heiseshow-KI-Klone-PC-Markt-Mathematiker-vs-OpenAI-11488029.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-15T04:15:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-20T04:15:00+00:00"
-  },
-  {
-   "id": "n818c3d0c4a",
-   "topic": "welt",
-   "title": "Können sich KI-Systeme auf Haushaltsgeräten schon bald selbst replizieren?",
-   "text": "Anthropic-Forscher warnen: KI-Würmer könnten demnächst vernetzte Haushaltsgeräte angreifen und sich von dort aus selbst verbreiten. Wie verwundbar solche Systeme sind, zeigen Cyberangriffe auf französische Supermärkte.",
-   "link": "https://www.dw.com/de/können-sich-ki-systeme-auf-haushaltsgeräten-schon-bald-selbst-replizieren/a-79658420?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-15T04:10:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-19T04:10:00+00:00",
-   "img": "https://static.dw.com/image/63141324_302.jpg"
-  },
-  {
-   "id": "n622457083a",
-   "topic": "politik",
-   "title": "Brüssel - EU-Staats- und Regierungschefs verhandeln über nächsten EU-Haushalt",
-   "text": "Die Staats- und Regierungschefs der EU kommen heute zu einem zweitägigen Gipfel in Brüssel zusammen.",
-   "link": "https://www.deutschlandfunk.de/eu-staats-und-regierungschefs-verhandeln-ueber-naechsten-eu-haushalt-100.html",
-   "published": "2026-10-15T04:05:44+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-17T04:05:44+00:00"
-  },
-  {
-   "id": "n61d98ce56f",
-   "topic": "politik",
-   "title": "Gesundheitspolitik - Bundestag will Reform der Notfallversorgung beschließen",
-   "text": "Die medizinische Notfallversorgung in Deutschland soll neu aufgestellt werden. Der Bundestag stimmt heute über die Pläne der Regierung ab, wonach die Versorgung der Patienten besser gesteuert und zugleich Notaufnahmen und Rettungsdienste entlastet werden sollen.",
-   "link": "https://www.deutschlandfunk.de/bundestag-will-reform-der-notfallversorgung-beschliessen-102.html",
-   "published": "2026-10-15T04:05:44+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-17T04:05:44+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Reform der Notfallversorgung beschlossen - was sich für Patienten ändert",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/notfallversorgung-krankenhaus-reform-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n0d490edede",
-   "topic": "politik",
-   "title": "Staatsfinanzen - Bundestag soll höhere Tabaksteuer absegnen - Packung soll bald 12 Euro kosten",
-   "text": "Rauchen soll ab dem kommenden Jahr deutlich teurer werden. Der Finanzausschuss des Bundestages ‌stimmte ⁠gestern für ⁠den entsprechenden Gesetzentwurf, der heute im Bundestag beschlossen werden soll.",
-   "link": "https://www.deutschlandfunk.de/bundestag-soll-hoehere-tabaksteuer-absegnen-packung-soll-bald-12-euro-kosten-102.html",
-   "published": "2026-10-15T04:05:44+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-17T04:05:44+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Bundestag beschließt Anhebung der Tabaksteuer",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/rauchen-bundestag-tabaksteuer-100.html"
-    }
-   ]
-  },
-  {
-   "id": "nc41d416c68",
-   "topic": "politik",
-   "title": "Appell an Industriestaaten - Internationaler Währungsfonds warnt vor steigenden Staatsschulden",
-   "text": "Der Internationale Währungsfonds hat die Industrieländer aufgefordert, ihre Haushaltsdefizite zu verringern.",
-   "link": "https://www.deutschlandfunk.de/internationaler-waehrungsfonds-warnt-vor-steigenden-staatsschulden-106.html",
-   "published": "2026-10-15T04:05:44+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-17T04:05:44+00:00"
   }
  ]
 }
