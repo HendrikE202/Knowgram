@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-15T21:23:34.659443+00:00",
+ "generated": "2026-10-16T04:33:25.397093+00:00",
  "briefing": [
+  "na7e9ca7070",
   "nb0352704c7",
   "n912ab2909d",
-  "nc507c15eac",
   "nd58f693c66",
   "n9d8a6730d7",
   "nb6828f9e94",
@@ -13,43 +13,324 @@
  ],
  "ranked": [
   {
+   "id": "na7e9ca7070",
+   "s": 31.6
+  },
+  {
    "id": "nb0352704c7",
-   "s": 31.2
+   "s": 29.4
   },
   {
    "id": "n912ab2909d",
-   "s": 30.2
-  },
-  {
-   "id": "nc507c15eac",
    "s": 28.4
   },
   {
    "id": "nd58f693c66",
-   "s": 26.9
+   "s": 25.1
   },
   {
    "id": "n9d8a6730d7",
-   "s": 26.8
+   "s": 25.0
   },
   {
    "id": "nb6828f9e94",
-   "s": 25.4
+   "s": 23.6
   },
   {
    "id": "n75943aef66",
-   "s": 22.5
+   "s": 20.7
   },
   {
    "id": "n02b96dc8ab",
-   "s": 21.4
+   "s": 19.6
   },
   {
    "id": "nc69cb6fb04",
-   "s": 20.8
+   "s": 19.0
   }
  ],
  "items": [
+  {
+   "id": "n6c4875ba28",
+   "topic": "politik",
+   "title": "Berlin - Bundestag stimmt für Erhöhung der Tabaksteuer",
+   "text": "Der Bundestag hat für eine Erhöhung der Tabaksteuer gestimmt. Das Parlament beschloss in Berlin, dass die Steuer auf Tabakprodukte über einen Zeitraum von vier Jahren regelmäßig angehoben wird.",
+   "link": "https://www.deutschlandfunk.de/bundestag-stimmt-fuer-erhoehung-der-tabaksteuer-106.html",
+   "published": "2026-10-16T04:28:51+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-18T04:28:51+00:00",
+   "img": "https://bilder.deutschlandfunk.de/a8/d1/39/d0/a8d139d0-cc41-43a5-86b1-e799e42fe77d/bundestag-haushaltswoche-104-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Bundestag beschließt Anhebung der Tabaksteuer",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/rauchen-bundestag-tabaksteuer-100.html"
+    }
+   ]
+  },
+  {
+   "id": "naa2c45ac21",
+   "topic": "politik",
+   "title": "Bundestag - Frühstart-Rente: Wie aus zehn Euro eine Altersvorsorge werden soll",
+   "text": "Der Bundestag will heute mit der ‌Frühstartrente erstmals eine ⁠staatlich geförderte private Altersvorsorge bereits im ⁠Kindesalter beschließen. Sie soll Kindern ab dem Geburtsjahrgang 2020 den Aufbau einer privaten Altersvorsorge erleichtern.",
+   "link": "https://www.deutschlandfunk.de/fruehstart-rente-wie-aus-zehn-euro-eine-altersvorsorge-werden-soll-102.html",
+   "published": "2026-10-16T04:28:51+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-18T04:28:51+00:00",
+   "img": "https://bilder.deutschlandfunk.de/bb/ff/d7/0c/bbffd70c-99bf-44a3-89a0-1a0dd1ce13c8/fruehstartrente-kinder-100-1920x1920.jpg"
+  },
+  {
+   "id": "n07dee8f519",
+   "topic": "politik",
+   "title": "EU-Gipfel - Streit um künftigen Haushalt: Ratspräsident Costa will in den kommenden Wochen neuen Verhandlungsvorschlag präsentieren",
+   "text": "Im Streit um den künftigen EU-Haushalt will Ratspräsident Costa in den kommenden Wochen einen neuen Verhandlungsvorschlag präsentieren.",
+   "link": "https://www.deutschlandfunk.de/streit-um-kuenftigen-haushalt-ratspraesident-costa-will-in-den-kommenden-wochen-neuen-verhandlungsvo-104.html",
+   "published": "2026-10-16T04:28:51+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-18T04:28:51+00:00"
+  },
+  {
+   "id": "n0e597ef900",
+   "topic": "politik",
+   "title": "Ukraine-Krieg - Stromausfall in Teilen von Kiew und dem Umland nach russischen Angriffen",
+   "text": "In Teilen der ukrainischen Hauptstadt Kiew und in deren Umland ist nach einem russischen Angriff der Strom ausgefallen.",
+   "link": "https://www.deutschlandfunk.de/stromausfall-in-teilen-von-kiew-und-dem-umland-nach-russischen-angriffen-102.html",
+   "published": "2026-10-16T04:28:51+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-18T04:28:51+00:00",
+   "img": "https://bilder.deutschlandfunk.de/02/d3/85/43/02d38543-bb97-4bd4-8903-3182c5ea15b9/nacht-hochhaus-100-1920x1920.jpg"
+  },
+  {
+   "id": "n8ea31eb518",
+   "topic": "politik",
+   "title": "Satellitensystem - Einschränkungen von Starlink für ukrainische Drohnenabwehr wieder aufgehoben",
+   "text": "Die ukrainischen Streitkräfte können nach übereinstimmenden Berichten wieder uneingeschränkt auf das Satellitennetzwerk Starlink zugreifen.",
+   "link": "https://www.deutschlandfunk.de/einschraenkungen-von-starlink-fuer-ukrainische-drohnenabwehr-wieder-aufgehoben-106.html",
+   "published": "2026-10-16T04:28:51+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-18T04:28:51+00:00"
+  },
+  {
+   "id": "n93e005ee10",
+   "topic": "politik",
+   "title": "Versorgung gesichert - Apothekerverbände: Keine Gefahr von Engpässen bei Antibiotika und Grippemitteln",
+   "text": "Die Bundesvereinigung der Apothekerverbände sieht zu Beginn der kalten Jahreszeit keine Engpässe bei Antibiotika und Grippemitteln.",
+   "link": "https://www.deutschlandfunk.de/apothekerverbaende-keine-gefahr-von-engpaessen-bei-antibiotika-und-grippemitteln-102.html",
+   "published": "2026-10-16T04:28:51+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-18T04:28:51+00:00",
+   "img": "https://bilder.deutschlandfunk.de/ff/cd/4a/35/ffcd4a35-a752-4f46-a918-db77eb10d2b9/antibiotika-lieferung-engpaesse-medikamente-eu-arzneimittelgesetzgebung-strassburg-100-1280x1280.jpg"
+  },
+  {
+   "id": "na097f2a3cd",
+   "topic": "welt",
+   "title": "Hunger im Jemen - Wenn Mehl zum Luxusartikel wird",
+   "text": "Selbst alltägliche Lebensmittel wie Mehl sind im Jemen für viele Menschen unerschwinglich geworden. Millionen Menschen hungern, und die Kämpfe mit der Huthi-Miliz im Land machen alles nur noch schlimmer. Von Moritz Behrend.",
+   "link": "https://www.tagesschau.de/ausland/asien/hungerkrise-jemen-100.html",
+   "published": "2026-10-16T04:24:46+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-19T04:24:46+00:00",
+   "img": "https://images.tagesschau.de/image/4ef519a1-83a0-403b-aae7-3c4d8753b0ad/AAABoUEpgns/AAABnSSvrFg/16x9-big/jemen-taiz-100.jpg?width=1920"
+  },
+  {
+   "id": "n9127c2b5b6",
+   "topic": "it",
+   "title": "Freitag: Millionen für verwanzte Wallets, TSMCs Milliarden-Wachstum mit Mahnung",
+   "text": "Ledger-Verweis auf Syndikat + TSMC-Ausblick mit Umsicht + Schaltstunde statt -sekunde + Ariane für Amazon Leo + Bank-Ersatz bei Phishing + Datenschutz-Podcast",
+   "link": "https://www.heise.de/news/Freitag-Millionen-fuer-verwanzte-Wallets-TSMCs-Milliarden-Wachstum-mit-Mahnung-11490138.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-16T04:15:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-21T04:15:00+00:00"
+  },
+  {
+   "id": "n6db5e1df8d",
+   "topic": "it",
+   "title": "Auslegungssache 170: Wie Deepfakes das Recht herausfordern",
+   "text": "Deepfakes beschäftigen die Gesetzgeber in Brüssel und Berlin. Im c't-Datenschutz-Podcast erklärt eine Expertin, warum die Regeln dazu kaum zusammenpassen.",
+   "link": "https://www.heise.de/hintergrund/Auslegungssache-170-Wie-Deepfakes-das-Recht-herausfordern-11486691.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-16T04:10:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-21T04:10:00+00:00"
+  },
+  {
+   "id": "ne3a8b67597",
+   "topic": "welt",
+   "title": "Südostasien: Skandal um Luxusgefängnis",
+   "text": "Luxuriöse Unterkünfte in einem indonesischen Gefängnis haben erneut Bedenken hinsichtlich Vorzugsbehandlung wohlhabender Häftlinge in ganz Südostasien ausgelöst.",
+   "link": "https://www.dw.com/de/südostasien-skandal-um-luxusgefängnis/a-79666944?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-16T04:07:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-20T04:07:00+00:00",
+   "img": "https://static.dw.com/image/79658626_302.jpg"
+  },
+  {
+   "id": "n3740c0d53a",
+   "topic": "nfl",
+   "title": "Broncos batter Sam Darnold, outlast Seahawks in defensive slugfest: TNF winners, losers",
+   "text": "Defense was the name of the game Thursday night as the Broncos outlast the Seahawks in Denver. The winners and losers of TNF.",
+   "link": "https://sports.yahoo.com/articles/broncos-batter-sam-darnold-outlast-040442231.html",
+   "published": "2026-10-16T04:04:42+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-21T04:04:42+00:00",
+   "img": "https://media.zenfs.com/en/usa_today_sports_articles_558/55d52190fd11cdfa5e38c9249856e9ff.jpg"
+  },
+  {
+   "id": "nd67f376c87",
+   "topic": "politik",
+   "title": "Hessen am Morgen: Die Nachrichten im Ticker vom 16.10.2026",
+   "text": "Jetzt live: Was in der Nacht passiert ist, was heute wichtig wird – und alles, was Hessen bewegt. Wir starten mit Ihnen in den Freitag.",
+   "link": "https://www.hessenschau.de/hessen-am-morgen/besonders-umstrittener-windpark-geht-ans-netz--hessen-am-morgen-die-nachrichten-im-ticker-vom-16102026,hessen-am-morgen-freitag-1048.html",
+   "published": "2026-10-16T04:02:19+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-20T04:02:19+00:00",
+   "img": "https://www.hessenschau.de/wirtschaft/windkraft-sujet-100~_t-1678383259876_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "nef76a5e228",
+   "topic": "it",
+   "title": "heise+ | Möhre, Kohl und Sellerie bricht: The Furious im 4K-Heimkinotest",
+   "text": "Im Martial-Arts-Spektakel von Kenji Tanigaki hauen sich Darsteller aus The Raid mit Hämmern auf die Zwölf. Wie weh tut das auf Blu-ray, UHD und im Stream?",
+   "link": "https://www.heise.de/tests/Moehre-Kohl-und-Sellerie-bricht-The-Furious-im-4K-Heimkinotest-11440744.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+   "published": "2026-10-16T04:02:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-21T04:02:00+00:00"
+  },
+  {
+   "id": "nb4729e1139",
+   "topic": "nfl",
+   "title": "Seahawks need to consider whether Drew Lock gives them a better chance to win",
+   "text": "The conversation, however it's resolved, needs to be had.",
+   "link": "https://sports.yahoo.com/articles/seahawks-consider-whether-drew-lock-034921176.html",
+   "published": "2026-10-16T03:49:21+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-21T03:49:21+00:00"
+  },
+  {
+   "id": "nd2bd3cd875",
+   "topic": "politik",
+   "title": "Altersvorsorge: Wie das mit der \"Frühstartrente\" laufen soll",
+   "text": "Der Entwurf für eine große Rentenreform liegt noch nicht vor, aber der Bundestag will heute über eine Maßnahme zur Alterssicherung entscheiden: die sogenannte Frühstartrente. Was sie beinhaltet und wer sie bekommt.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/faq-fruehstartrente-100.html",
+   "published": "2026-10-16T03:00:25+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-19T03:00:25+00:00",
+   "img": "https://images.tagesschau.de/image/f6b00ed5-8625-4281-a381-0722af315e59/AAABoT_rt44/AAABnSSvrFg/16x9-big/kleinkinder-kita-102.jpg?width=1920"
+  },
+  {
+   "id": "na9f1da08ca",
+   "topic": "it",
+   "title": "Hypersportwagen: Tesla Roadster kann fliegen",
+   "text": "Tesla hat seinen neuen Roadster vorgestellt - komplett mit rekordverdächtigen Beschleunigung, Kaltgas-Triebwerken und einer Show voller Stunts ( Tesla , Elektroauto )",
+   "link": "https://www.golem.de/news/hypersportwagen-tesla-roadster-kann-fliegen-2610-214167.html",
+   "published": "2026-10-16T02:39:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-21T02:39:01+00:00",
+   "img": "https://www.golem.de/2610/214167-603675-603673_rc.jpg"
+  },
+  {
+   "id": "n570745ab59",
+   "topic": "welt",
+   "title": "Starlink-Störung in der Ukraine: Enttäuscht von Musk, enttäuscht von Trump",
+   "text": "In der Ukraine scheint für viele klar: Die Starlink-Ausfälle sind kein Zufall, sondern politisch gewollt. Die Unterstützung aus der EU wird immer wichtiger. Von Rebecca Barth.",
+   "link": "https://www.tagesschau.de/ausland/europa/ukraine-starlink-104.html",
+   "published": "2026-10-16T01:23:51+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-19T01:23:51+00:00",
+   "img": "https://images.tagesschau.de/image/0aa9ed6d-f209-4d2f-a056-3d1516074fbc/AAABoUIT7jk/AAABnSSvrFg/16x9-big/starlink-zug-100.jpg?width=1920"
+  },
+  {
+   "id": "nbf5c508bde",
+   "topic": "welt",
+   "title": "Frankreich und Deutschland wollen Verbrenner-Aus aufweichen",
+   "text": "Deutschland setzt sich dafür ein, dass weiter Neuwagen mit Verbrennungstechnologie zugelassen werden können. Frankreichs Präsident Macron hat sich bisher gesperrt - nun zeichnet sich ein Deal ab.",
+   "link": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-lockerung-100.html",
+   "published": "2026-10-16T01:17:45+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-19T01:17:45+00:00",
+   "img": "https://images.tagesschau.de/image/90974820-1ec2-40d2-b13a-d64595a79d49/AAABoUJAJ4Q/AAABnSSvrFg/16x9-big/verbrenner-abgase-100.jpg?width=1920"
+  },
+  {
+   "id": "n695c6442c4",
+   "topic": "nfl",
+   "title": "Broncos' cheating accusation against Seahawks almost led to lawsuit in 2024, according to Mike Macdonald",
+   "text": "This is one of the wildest stories you'll ever hear in the NFL",
+   "link": "https://www.cbssports.com/nfl/news/broncos-cheating-accusation-seahawks-mike-macdonald/",
+   "published": "2026-10-15T23:53:10+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-20T23:53:10+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/09/22/161adf4f-f056-40cd-b968-ecf5cfb45a66/macandpayton-jpeg.jpg"
+  },
+  {
+   "id": "nc7c53e0fc7",
+   "topic": "nfl",
+   "title": "Caleb Williams responds to critics after hamstring injury: 'My character's been attacked'",
+   "text": "Williams participated fully in consecutive practices, but the Bears quarterback said he has not yet been cleared to return to game action",
+   "link": "https://www.cbssports.com/nfl/news/caleb-williams-injury-update-hamstring-tear-return-timeline/",
+   "published": "2026-10-15T23:41:38+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-20T23:41:38+00:00"
+  },
+  {
+   "id": "na7e9ca7070",
+   "topic": "politik",
+   "title": "Bundestag beschließt Anhebung der Tabaksteuer",
+   "text": "Millionen Menschen rauchen in Deutschland, das beschert dem Bund Milliardeneinnahmen über die Tabaksteuer. Künftig soll es noch mehr werden. Raucher müssen sich daher auf höhere Preise einstellen.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/rauchen-bundestag-tabaksteuer-100.html",
+   "published": "2026-10-15T23:06:09+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-18T23:06:09+00:00",
+   "img": "https://images.tagesschau.de/image/fd9be30f-b42d-48cb-89f1-8b2c56826d03/AAABoUHGCn8/AAABnSSvrFg/16x9-big/zigaretten-168.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Berlin - Bundestag stimmt für Erhöhung der Tabaksteuer",
+     "link": "https://www.deutschlandfunk.de/bundestag-stimmt-fuer-erhoehung-der-tabaksteuer-106.html"
+    }
+   ]
+  },
   {
    "id": "n78140effaa",
    "topic": "it",
@@ -93,8 +374,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-17T21:14:47+00:00",
-   "img": "https://bilder.deutschlandfunk.de/20/c8/22/b8/20c822b8-7c81-48c7-ae7a-ed258d922778/eu-bruessel-27-100-1920x1920.jpg"
+   "expires": "2026-10-17T21:14:47+00:00"
   },
   {
    "id": "na60fc5837d",
@@ -384,7 +664,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-29T17:16:11+00:00",
-   "img": "https://images.tagesschau.de/image/04a53566-5432-412b-99a3-18b38f991053/AAABk9qApP4/AAABnSSvrFg/16x9-big/psychotherapie-sitzung-100.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/04a53566-5432-412b-99a3-18b38f991053/AAABk9qApP4/AAABnSSvrFg/16x9-big/psychotherapie-sitzung-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Berlin - Bundestag stimmt für Erhöhung der Tabaksteuer",
+     "link": "https://www.deutschlandfunk.de/bundestag-stimmt-fuer-erhoehung-der-tabaksteuer-106.html"
+    }
+   ]
   },
   {
    "id": "nc8a244b5d4",
@@ -401,8 +688,8 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Reform der Notfallversorgung beschlossen - was sich für Patienten ändert",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/notfallversorgung-krankenhaus-reform-100.html"
+     "title": "Bundestag beschließt Anhebung der Tabaksteuer",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/rauchen-bundestag-tabaksteuer-100.html"
     }
    ]
   },
@@ -899,7 +1186,14 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-17T11:18:04+00:00"
+   "expires": "2026-10-17T11:18:04+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Bundestag beschließt Anhebung der Tabaksteuer",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/rauchen-bundestag-tabaksteuer-100.html"
+    }
+   ]
   },
   {
    "id": "n0a8e93d2d8",
@@ -1139,19 +1433,6 @@
    "img": "https://static.spektrum.de/fm/912/thumbnails/original_2_zuschnitt.jpg.8415562.jpg?f=1280x720"
   },
   {
-   "id": "ne3a8b67597",
-   "topic": "welt",
-   "title": "Südostasien: Skandal um Luxusgefängnis",
-   "text": "Luxuriöse Unterkünfte in einem indonesischen Gefängnis haben erneut Bedenken hinsichtlich Vorzugsbehandlung wohlhabender Häftlinge in ganz Südostasien ausgelöst.",
-   "link": "https://www.dw.com/de/südostasien-skandal-um-luxusgefängnis/a-79666944?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-15T09:59:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-19T09:59:00+00:00",
-   "img": "https://static.dw.com/image/79658626_302.jpg"
-  },
-  {
    "id": "n89c5c41d63",
    "topic": "wirtschaft",
    "title": "In welchen Jobs Digitalisierung zu Stress führen kann",
@@ -1244,8 +1525,8 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Digitalisierung - Bundestag stimmt digitaler Brieftasche zu",
-     "link": "https://www.deutschlandfunk.de/bundestag-stimmt-digitaler-brieftasche-zu-100.html"
+     "title": "Gesundheitspolitik - Bundestag hat Reform der Notfallversorgung beschlossen",
+     "link": "https://www.deutschlandfunk.de/bundestag-hat-reform-der-notfallversorgung-beschlossen-100.html"
     }
    ]
   },
@@ -1273,14 +1554,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-18T07:11:08+00:00",
-   "img": "https://images.tagesschau.de/image/720bb6a6-b48d-4dbf-97ce-0ff8d73b88b8/AAABoT5gWoA/AAABnSSvrFg/16x9-big/alkoholverbot-bahnhof-plakat-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Alkoholverbot an Bahnhöfen - Drogenbeauftragter Streeck begrüßt neue Regelung",
-     "link": "https://www.deutschlandfunk.de/drogenbeauftragter-streeck-begruesst-neue-regelung-102.html"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/720bb6a6-b48d-4dbf-97ce-0ff8d73b88b8/AAABoT5gWoA/AAABnSSvrFg/16x9-big/alkoholverbot-bahnhof-plakat-100.jpg?width=1920"
   },
   {
    "id": "n09c5f85f98",
@@ -1426,7 +1700,14 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-17T04:05:44+00:00"
+   "expires": "2026-10-17T04:05:44+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Bundestag beschließt Anhebung der Tabaksteuer",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/rauchen-bundestag-tabaksteuer-100.html"
+    }
+   ]
   },
   {
    "id": "nc41d416c68",
@@ -1439,297 +1720,6 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-17T04:05:44+00:00"
-  },
-  {
-   "id": "n6532765740",
-   "topic": "politik",
-   "title": "UNO-Studie - Investitionen in Kinder lohnen sich für den Staat",
-   "text": "Die Auswirkungen von Kinderarmut und fehlenden Bildungschancen kommen die öffentlichen Haushalte einer Studie zufolge teuer zu stehen.",
-   "link": "https://www.deutschlandfunk.de/investitionen-in-kinder-lohnen-sich-fuer-den-staat-102.html",
-   "published": "2026-10-15T04:05:44+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-17T04:05:44+00:00",
-   "img": "https://bilder.deutschlandfunk.de/a6/5e/11/f4/a65e11f4-097b-435a-95af-9dd2f4a2da65/kinder-schule-sozialpolitik-kindergrundsicherung-100-1920x1920.jpg"
-  },
-  {
-   "id": "ne2a7df3e6d",
-   "topic": "politik",
-   "title": "Alkoholverbot an Bahnhöfen - Drogenbeauftragter Streeck begrüßt neue Regelung",
-   "text": "Der Drogenbeauftragte der Bundesregierung, Streeck, hat das bundesweite Alkoholverbot an Bahnhöfen begrüßt. Streeck sagte der \"Rheinischen Post\", Alkohol sei zwar nicht die Ursache jeder Auseinandersetzung, könne aber Konflikte verschärfen und Hemmschwellen senken.",
-   "link": "https://www.deutschlandfunk.de/drogenbeauftragter-streeck-begruesst-neue-regelung-102.html",
-   "published": "2026-10-15T04:05:44+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-17T04:05:44+00:00",
-   "img": "https://bilder.deutschlandfunk.de/1d/38/9c/da/1d389cda-d583-4bed-9d17-8401003f8b0a/hauptbahnhof-bahnhof-muenchen-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Alkoholverbot an Bahnhöfen: Mehr Sicherheit, weniger Konflikte?",
-     "link": "https://www.tagesschau.de/wirtschaft/verbraucher/alkoholverbot-bahnhoefe-102.html"
-    }
-   ]
-  },
-  {
-   "id": "n2b3e6bef9e",
-   "topic": "nfl",
-   "title": "Trade TARGETS🎯: 17 players to BUY or SELL before it's too late",
-   "text": "Do you want to make a trade? Now is the time to do it during the fantasy season and Matt Harmon and Nate Tice are here to determine if 17 volatile players are buys or sells heading into Week 6. The two also provide a fantasy preview for the TNF matchup between the Seahawks and Broncos. Justin Boone then joins the show …",
-   "link": "https://sports.yahoo.com/fantasy/article/trade-targets-17-players-to-buy-or-sell-before-its-too-late-040000821.html",
-   "published": "2026-10-15T04:00:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-20T04:00:00+00:00",
-   "img": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/youtubetemplate-yff-101426-site_5808.jpg"
-  },
-  {
-   "id": "n80847f2b99",
-   "topic": "nfl",
-   "title": "Will Jets rookie David Bailey's ascent continue vs. Patriots, Drake Maye? 'You guys tell me'",
-   "text": "The Jets' No. 2 overall pick is off to a torrid start to his career, including a historic three-sacks performance last week. What does he have in store for an encore?",
-   "link": "https://sports.yahoo.com/nfl/article/will-jets-rookie-david-baileys-ascent-continue-vs-patriots-drake-maye-you-guys-tell-me-034853505.html",
-   "published": "2026-10-15T03:48:53+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-20T03:48:53+00:00"
-  },
-  {
-   "id": "n0f907b4e38",
-   "topic": "welt",
-   "title": "EU-Spitzen verhandeln über Haushalt - Deutschland will kürzen",
-   "text": "Auf dem heutigen EU-Gipfel geht es um bis zu zwei Billionen Euro. Deutschland ist größter Nettozahler - nun will Kanzler Merz beim Haushalt bis 2034 kürzen. Bei anderen Verhandlern stößt das auf Unverständnis. Von J.-M. Magro.",
-   "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-haushalt-102.html",
-   "published": "2026-10-15T03:15:14+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-18T03:15:14+00:00",
-   "img": "https://images.tagesschau.de/image/0d030d7c-d33c-49e6-9e69-d69546189452/AAABoTte4fo/AAABnSSvrFg/16x9-big/merz-1734.jpg?width=1920"
-  },
-  {
-   "id": "ndcf81c146f",
-   "topic": "it",
-   "title": "Netflix streicht rund 1000 Stellen in größter Entlassungsrunde seit 2022",
-   "text": "Die Geschäfte von Netflix wachsen, aber der Aktienkurs sinkt. Nun will der Streaming-Marktführer sparen. Die Kündigungen betreffen 6 Prozent aller Mitarbeiter.",
-   "link": "https://www.heise.de/news/Netflix-streicht-rund-rund-1000-Stellen-in-groesster-Entlassungsrunde-seit-2022-11488795.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-15T03:04:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-20T03:04:00+00:00"
-  },
-  {
-   "id": "nc507c15eac",
-   "topic": "politik",
-   "title": "Notfallmedizin unter Druck: Bundestag stimmt über Reform ab",
-   "text": "Notaufnahmen und Rettungsdienste sind seit Jahren überlastet. Nun will der Bundestag endlich eine Reform auf den Weg bringen. Große Hilfs- und Rettungsorganisationen verlangen allerdings Nachbesserungen. Von B. Sönnichsen.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/notfallreform-im-bundestag-100.html",
-   "published": "2026-10-15T03:00:17+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-18T03:00:17+00:00",
-   "img": "https://images.tagesschau.de/image/b1a69e3b-03f3-4111-b90c-a20da309d095/AAABoTuGAZ0/AAABnSSvrFg/16x9-big/notaufnahme-236.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Digitalisierung - Bundestag stimmt digitaler Brieftasche zu",
-     "link": "https://www.deutschlandfunk.de/bundestag-stimmt-digitaler-brieftasche-zu-100.html"
-    }
-   ]
-  },
-  {
-   "id": "ncb9f915eac",
-   "topic": "politik",
-   "title": "Deutschlandweit: Alkoholverbot an Bahnhöfen in Kraft",
-   "text": "Bundesweit gilt an allen rund 5.700 Stationen der Deutschen Bahn inklusive der Bahnsteige ab heute ein Alkoholverbot. Die Bahn erhofft sich davon mehr Sicherheit.",
-   "link": "https://www.tagesschau.de/inland/bahn-alkoholverbot-102.html",
-   "published": "2026-10-15T01:48:20+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-18T01:48:20+00:00",
-   "img": "https://images.tagesschau.de/image/f31de5c8-78b9-4c82-891d-1efac3299b65/AAABoT028Jk/AAABnSSvrFg/16x9-big/alkoholverbot-bahn-108.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Alkoholverbot an Bahnhöfen - Drogenbeauftragter Streeck begrüßt neue Regelung",
-     "link": "https://www.deutschlandfunk.de/drogenbeauftragter-streeck-begruesst-neue-regelung-102.html"
-    }
-   ]
-  },
-  {
-   "id": "nbdf3114dad",
-   "topic": "nfl",
-   "title": "NFL Week 6 injury report: Broncos' Patrick Surtain, Talanoa Hufanga ruled out",
-   "text": "Lamar Jackson, Caleb Williams and Michael Penix Jr. could be back under center this week, while the Eagles hope to regain Saquon Barkley",
-   "link": "https://www.cbssports.com/nfl/news/nfl-week-6-injury-report-broncos-patrick-surtain-talanoa-hufanga-ruled-out/",
-   "published": "2026-10-15T01:00:37+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-20T01:00:37+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/01/21/8db6d76c-937c-4db3-b9d7-98697ebbb111/pat-surtain-denver-broncos-imagn-images.jpg"
-  },
-  {
-   "id": "n21c62854a3",
-   "topic": "nfl",
-   "title": "What A.J. Brown returning to practice means for the Patriots",
-   "text": "The star wide receiver made his comeback on Wednesday.",
-   "link": "https://sports.yahoo.com/articles/j-brown-returning-practice-means-233422278.html",
-   "published": "2026-10-14T23:34:22+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-19T23:34:22+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/412d6b4ad57483a8fe8923d49350bc4f.jpg"
-  },
-  {
-   "id": "n04ef650680",
-   "topic": "nfl",
-   "title": "Caleb Williams, Ben Johnson to make Hallmark debuts",
-   "text": "Mike Singletary, Zach Ertz, and Colston Loveland will also star in the Hallmark movie.",
-   "link": "https://sports.yahoo.com/nfl/article/caleb-williams-ben-johnson-to-make-hallmark-debuts-233144547.html",
-   "published": "2026-10-14T23:31:44+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-19T23:31:44+00:00"
-  },
-  {
-   "id": "n031e54fb6a",
-   "topic": "it",
-   "title": "Verwanzte Krypto-Wallets von Ledger: Problem größer als gedacht",
-   "text": "Jemand baut heimlich LTE-Modems in neue Kryptowallets ein. Käufer haben über 100 Millionen Dollar verloren. Hersteller Ledger kommuniziert wenig.",
-   "link": "https://www.heise.de/news/Verwanzte-Krypto-Wallets-von-Ledger-Problem-groesser-als-gedacht-11488785.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-14T22:55:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-19T22:55:00+00:00"
-  },
-  {
-   "id": "nf67011412f",
-   "topic": "nfl",
-   "title": "Mike Renner's 2027 NFL Draft Big Board: Ranking the top 150 prospects at college football midway point",
-   "text": "Ohio State wide receiver Jeremiah Smith leads the way while Drew Mestemaker and CJ Carr emerge as early contenders to go No. 1 overall",
-   "link": "https://www.cbssports.com/nfl/draft/news/renners-2027-nfl-draft-big-board-ranking-top-150-prospects/",
-   "published": "2026-10-14T22:51:10+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-19T22:51:10+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/14/2395032e-6888-4334-b10b-b941a4aab93c/jeremiah.jpg"
-  },
-  {
-   "id": "n60d558a473",
-   "topic": "nfl",
-   "title": "Cowboys' Joey Porter Jr. breaks silence after missing Week 5 game and how much does he plan to play at Packers",
-   "text": "Porter Jr. began to feel sick on the day of Dallas' Thursday Night Football game in Week 5",
-   "link": "https://www.cbssports.com/nfl/news/cowboys-joey-porter-jr-breaks-silence-after-missing-week-5/",
-   "published": "2026-10-14T22:10:15+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-19T22:10:15+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/09/20/2814c345-4027-4a73-a4af-b4605e658b22/porterweek1.jpg"
-  },
-  {
-   "id": "na9c955174c",
-   "topic": "politik",
-   "title": "Gesundheitspolitik - Bundestag entscheidet über Reform von Notfallversorgung",
-   "text": "Die Bundestag stimmt heute abschließend über die geplante Reform der Notfallversorgung ab.",
-   "link": "https://www.deutschlandfunk.de/bundestag-entscheidet-ueber-reform-von-notfallversorgung-100.html",
-   "published": "2026-10-14T21:44:01+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T21:44:01+00:00",
-   "img": "https://bilder.deutschlandfunk.de/6a/30/8a/b9/6a308ab9-e01c-4c63-a737-cf6e5f127619/rettungswagen-102-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Reform der Notfallversorgung beschlossen - was sich für Patienten ändert",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/notfallversorgung-krankenhaus-reform-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n01b753dec2",
-   "topic": "politik",
-   "title": "Bundeswehr - Regiment in Weißenfels: Pistorius verspricht Aufklärung nach Berichten über sexuelles Fehlverhalten",
-   "text": "Verteidigungsminister Pistorius hat nach Berichten über sexuelles Fehlverhalten und Drogenmissbrauch beim Sanitätsregiment in Weißenfels in Sachsen-Anhalt Aufklärung versprochen.",
-   "link": "https://www.deutschlandfunk.de/regiment-in-weissenfels-pistorius-verspricht-aufklaerung-nach-berichten-ueber-sexuelles-fehlverhalte-100.html",
-   "published": "2026-10-14T21:44:01+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T21:44:01+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Bundeswehr: Vorwürfe sexuellen Fehlverhaltens in Weißenfels",
-     "link": "https://www.tagesschau.de/inland/bundeswehr-sexuelles-fehlverhalten-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n46f310379f",
-   "topic": "politik",
-   "title": "Geopolitik - Grönland und Dänemark widersprechen Trump: Keine massiven Öl-Erkundungen",
-   "text": "Dänemark und Grönland haben Aussagen von US-Präsident Trump zu bevorstehenden Erkundungen von Ölvorkommen auf der Arktisinsel zurückgewiesen.",
-   "link": "https://www.deutschlandfunk.de/groenland-und-daenemark-widersprechen-trump-keine-massiven-oel-erkundungen-102.html",
-   "published": "2026-10-14T21:44:01+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T21:44:01+00:00",
-   "img": "https://bilder.deutschlandfunk.de/09/02/0a/c1/09020ac1-1f89-43fd-a23d-a655b0f37d81/groenland-136-1920x1920.jpg"
-  },
-  {
-   "id": "n581200eb07",
-   "topic": "politik",
-   "title": "Berlin - Linke, Grüne und SPD sondieren weiter",
-   "text": "In Berlin sollen die Sondierungen von Linken, Grünen und SPD fortgesetzt werden. Der SPD-Landesvorsitzende Krach sagte im RBB-Fernsehen, die drei Parteien hätten sich bei einem Treffen am Abend darüber verständigt, dass die gemeinsame Erklärung zum Vorgehen gegen Antisemitismus weiterhin gelte. Sie werde Bestandteil …",
-   "link": "https://www.deutschlandfunk.de/linke-gruene-und-spd-sondieren-weiter-102.html",
-   "published": "2026-10-14T21:44:01+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T21:44:01+00:00",
-   "img": "https://bilder.deutschlandfunk.de/3e/0a/70/ec/3e0a70ec-c5a0-4d24-9edc-9eb593ab69aa/gruene-linke-spd-abgeordnetenhaus-100-1920x1920.jpg"
-  },
-  {
-   "id": "ne11ae4396a",
-   "topic": "politik",
-   "title": "Fußball Champions League - Borussia Dortmund verliert gegen FK Bodø/Glimt",
-   "text": "In der Fußball Champions League gab es folgende Ergebnisse mit deutscher Beteiligung:",
-   "link": "https://www.deutschlandfunk.de/borussia-dortmund-verliert-gegen-fk-bod-glimt-106.html",
-   "published": "2026-10-14T21:44:01+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-16T21:44:01+00:00",
-   "img": "https://bilder.deutschlandfunk.de/5d/f7/de/56/5df7de56-31d1-4cde-a85f-b5d64448e38f/champions-league-194-1280x1280.jpg"
-  },
-  {
-   "id": "n7edfe6ff15",
-   "topic": "politik",
-   "title": "Handball-Champions-League: MT Melsungen gerät in Nantes unter die Räder",
-   "text": "Die MT Melsungen hat in der Champions League in Nantes eine deutliche Niederlage einstecken müssen. Bei den Franzosen liefen die Hessen vom Fleck weg der Musik hinterher.",
-   "link": "https://www.hessenschau.de/sport/handball/mt-melsungen/handball-champions-league-mt-melsungen-geraet-in-nantes-unter-die-raeder-v1,mt-nantes-104.html",
-   "published": "2026-10-14T20:35:12+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-18T20:35:12+00:00",
-   "img": "https://www.hessenschau.de/sport/handball/mt-melsungen/parrondo-138~_t-1792007566985_v-16to9.jpg",
-   "tag": "Hessen"
   }
  ]
 }
