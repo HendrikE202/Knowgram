@@ -1,55 +1,495 @@
 {
- "generated": "2026-10-17T04:27:37.447898+00:00",
+ "generated": "2026-10-17T10:45:22.767541+00:00",
  "briefing": [
+  "nfb445ceb58",
   "n6cdb7b6a35",
   "nfb57483abd",
   "n968f8c0d85",
-  "nbc1e2183e3",
+  "neab6ab89d3",
+  "ndaee9803c9",
+  "n62ef6bc148",
   "n06361f01d1",
-  "n85b9b8ee1a",
-  "na89cb9d3a7",
-  "n9858f0654a",
-  "ne7e17e69e9"
+  "n85b9b8ee1a"
  ],
  "ranked": [
   {
+   "id": "nfb445ceb58",
+   "s": 32.5
+  },
+  {
    "id": "n6cdb7b6a35",
-   "s": 30.4
+   "s": 28.8
   },
   {
    "id": "nfb57483abd",
-   "s": 29.2
+   "s": 27.6
   },
   {
    "id": "n968f8c0d85",
-   "s": 25.6
+   "s": 24.0
   },
   {
-   "id": "nbc1e2183e3",
-   "s": 24.6
+   "id": "neab6ab89d3",
+   "s": 23.0
+  },
+  {
+   "id": "ndaee9803c9",
+   "s": 23.0
+  },
+  {
+   "id": "n62ef6bc148",
+   "s": 22.5
   },
   {
    "id": "n06361f01d1",
-   "s": 23.8
+   "s": 22.3
   },
   {
    "id": "n85b9b8ee1a",
-   "s": 23.8
-  },
-  {
-   "id": "na89cb9d3a7",
-   "s": 22.7
-  },
-  {
-   "id": "n9858f0654a",
-   "s": 18.5
-  },
-  {
-   "id": "ne7e17e69e9",
-   "s": 18.3
+   "s": 22.2
   }
  ],
  "items": [
+  {
+   "id": "nf8898679ea",
+   "topic": "wissenschaft",
+   "title": "Parther : Der rätselhafte Riese aus Persien",
+   "text": "Zwei Meter hoch und zwei Jahrtausende alt: Die Shami-Statue in Teheran führt ins Weltreich der Parther. Doch wen soll der Bronzekoloss überhaupt darstellen?",
+   "link": "https://www.spektrum.de/wissen/parther-der-raetselhafte-riese-aus-persien/2249391",
+   "published": "2026-10-17T11:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-31T11:00:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/91393652_pa_zuschnitt.jpg.8394924.jpg?f=1280x720"
+  },
+  {
+   "id": "n8f6b126b1d",
+   "topic": "politik",
+   "title": "Weißes Haus - US-Präsident Trump setzt gegen Russland gerichtete Sanktionen teilweise aus",
+   "text": "US-Präsident Trump hat einige gegen Russland ⁠gerichtete Sanktionen ⁠und Beschränkungen ‌per Dekret ausgesetzt. Sie sollten ursprünglich in wenigen Tagen in Kraft treten.",
+   "link": "https://www.deutschlandfunk.de/us-praesident-trump-setzt-gegen-russland-gerichtete-sanktionen-teilweise-aus-100.html",
+   "published": "2026-10-17T10:41:21+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-19T10:41:21+00:00",
+   "img": "https://bilder.deutschlandfunk.de/15/0d/a9/c5/150da9c5-4e2f-428a-8f79-c16cb7219e65/us-praesident-donald-trump-airforceone-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "\"Nationales Interesse\" - Trump setzt geplante Sanktionen gegen Russland aus",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-russland-ukraine-sanktionen-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n0f8a4064b4",
+   "topic": "politik",
+   "title": "Deutschlandtag der Jungen Union - Merz: Reformprozess schnell abschließen",
+   "text": "Bundeskanzler Merz hat eine zügige Umsetzung der geplanten Sozialreformen zugesagt. Es sei wichtig, den Reformprozess bald abzuschließen, sagte er auf dem Deutschlandtag der Jungen Union in Bonn. Andernfalls drohe eine Niederlage bei der nächsten Bundestagswahl.",
+   "link": "https://www.deutschlandfunk.de/merz-reformprozess-schnell-abschliessen-100.html",
+   "published": "2026-10-17T10:41:21+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-19T10:41:21+00:00",
+   "img": "https://bilder.deutschlandfunk.de/1e/a1/e8/a7/1ea1e8a7-7f7c-4fb7-9bbc-2d622f593443/deutschlandtag-2026-merz-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Winkel als Vorsitzender der Jungen Union wiedergewählt",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/junge-union-vorsitzender-100.html"
+    }
+   ]
+  },
+  {
+   "id": "neab6ab89d3",
+   "topic": "politik",
+   "title": "Verbrenner-Einigung - Niedersachsens Ministerpräsident Lies (SPD): Automobilindustrie muss Geld für Transformation verdienen",
+   "text": "Niedersachsens Ministerpräsident Lies hat den deutsch-französischen Vorstoß verteidigt, das für 2035 geplante EU-Verbot für neue Verbrennermotoren abzuschwächen. Dies sei kein Festhalten am Verbrenner, sagte der SPD-Politiker, der auch im VW-Aufsichtsrat sitzt, im Deutschlandfunk.",
+   "link": "https://www.deutschlandfunk.de/niedersachsens-ministerpraesident-lies-spd-automobilindustrie-muss-geld-fuer-transformation-verdiene-102.html",
+   "published": "2026-10-17T10:41:21+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-19T10:41:21+00:00",
+   "img": "https://bilder.deutschlandfunk.de/7b/c7/55/7e/7bc7557e-5d3d-4121-a46d-9e03867d228b/lies-100-1920x1920.jpg"
+  },
+  {
+   "id": "ndaee9803c9",
+   "topic": "politik",
+   "title": "Interview der Woche - Beck warnt SPD und Grüne vor Regierung mit Linkspartei in Berlin",
+   "text": "Der Präsident der Deutsch-Israelischen Gesellschaft, Beck, hat vor der Bildung einer rot-grün-roten Koalition in Berlin gewarnt. Die Linkspartei in Berlin sei ein \"gäriger antizionistischer Haufen\", sagte Beck im Interview der Woche des Deutschlandfunks.",
+   "link": "https://www.deutschlandfunk.de/beck-warnt-spd-und-gruene-vor-regierung-mit-linkspartei-in-berlin-100.html",
+   "published": "2026-10-17T10:41:21+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-19T10:41:21+00:00",
+   "img": "https://bilder.deutschlandfunk.de/7a/da/1e/4f/7ada1e4f-4e62-4929-a338-64d09746edf8/volker-beck-102-1920x1920.jpg"
+  },
+  {
+   "id": "n20336ac449",
+   "topic": "politik",
+   "title": "Koalition - Unionsfraktionschef Frei will Änderungen bei Zuckersteuer",
+   "text": "Unionsfraktionschef Frei fordert Änderungen bei der Zuckersteuer.",
+   "link": "https://www.deutschlandfunk.de/unionsfraktionschef-frei-will-aenderungen-bei-zuckersteuer-100.html",
+   "published": "2026-10-17T10:41:21+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-19T10:41:21+00:00",
+   "img": "https://bilder.deutschlandfunk.de/2a/ce/17/9b/2ace179b-7ee4-450a-8723-e71075daf737/limo-100-1920x1920.jpg"
+  },
+  {
+   "id": "n5e0acd7831",
+   "topic": "politik",
+   "title": "Vatikan - Papst Leo XIV. kann das Krankenhaus heute verlassen",
+   "text": "Papst Leo XIV. kann nach seiner Krebsoperation das Krankenhaus verlassen. Das Oberhaupt der katholischen Kirche werde noch heute in seine Wohnung zurückkehren, teilte der Vatikan mit. Morgen werde Leo das Mittagsgebet von seinem Arbeitszimmer hoch über dem Petersplatz leiten.",
+   "link": "https://www.deutschlandfunk.de/papst-leo-xiv-kann-das-krankenhaus-heute-verlassen-100.html",
+   "published": "2026-10-17T10:41:21+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-19T10:41:21+00:00",
+   "img": "https://bilder.deutschlandfunk.de/12/30/e9/ff/1230e9ff-43d2-47ec-9982-5e759f4d793d/leo-krankenhaus-100-1920x1920.jpg"
+  },
+  {
+   "id": "n6885a6f704",
+   "topic": "it",
+   "title": "Apple: Das iPad mini 8 steht vor der Tür",
+   "text": "Apple nennt wohl versehentlich Details zum iPad mini 8. Das kompakte Tablet könnte früher kommen als gedacht und deutlich teurer werden. ( iPad Mini , Apple )",
+   "link": "https://www.golem.de/news/apple-das-ipad-mini-8-steht-vor-der-tuer-2610-214213.html",
+   "published": "2026-10-17T10:38:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-22T10:38:01+00:00",
+   "img": "https://www.golem.de/2610/214213-603898-603896_rc.jpg",
+   "also": [
+    {
+     "source": "heise online",
+     "title": "Apple-Website in Frankreich leakt neues iPad mini",
+     "link": "https://www.heise.de/news/Apple-Website-in-Frankreich-leakt-neues-iPad-mini-11490778.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
+  },
+  {
+   "id": "nfc16573551",
+   "topic": "nfl",
+   "title": "Prospects of interest for the Bengals in the Ohio State vs. Indiana game",
+   "text": "Talent galore in a top-10 showdown in Bloomington",
+   "link": "https://sports.yahoo.com/articles/prospects-interest-bengals-ohio-state-103000463.html",
+   "published": "2026-10-17T10:30:00+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-22T10:30:00+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/f84775bad76b8508a0830421dc1a4087.jpg"
+  },
+  {
+   "id": "n68fafa5b3a",
+   "topic": "nfl",
+   "title": "Panthers' JJ Jansen to play his 282nd game, most ever for a long snapper",
+   "text": "Carolina's JJ Jansen will become the NFL's all-time record holder for games played by a long snapper on Sunday.",
+   "link": "https://sports.yahoo.com/articles/panthers-jj-jansen-play-282nd-102726966.html",
+   "published": "2026-10-17T10:27:26+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-22T10:27:26+00:00"
+  },
+  {
+   "id": "n0dc8a3ee93",
+   "topic": "politik",
+   "title": "Unfall zwischen Friedberg und Reichelsheim: Auto überschlägt sich - zwei Schwerverletzte",
+   "text": "Auf einer Kreisstraße im Wetteraukreis ist ein Auto von der Fahrbahn abgekommen und hat sich überschlagen. Zwei Männer wurden eingeklemmt und schwer verletzt. Ein 60-Jähriger schwebt in Lebensgefahr.",
+   "link": "https://www.hessenschau.de/panorama/unfall-zwischen-friedberg-und-reichelsheim-auto-ueberschlaegt-sich---zwei-schwerverletzte-v1,unfall-wetteraukreis-100.html",
+   "published": "2026-10-17T10:25:39+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-21T10:25:39+00:00",
+   "img": "https://www.hessenschau.de/panorama/rettungshubschrauber-sujet-106~_t-1792232590104_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "n3704d8156f",
+   "topic": "ki",
+   "title": "Deepseek veröffentlicht V4.1-Flash: Schneller, besser und günstiger als der Vorgänger",
+   "text": "Deepseek veröffentlicht V4.1-Flash-1017 als Open-Weight-Modell mit besserer Benchmark-Leistung, schnellerer Aufgabenbearbeitung und kürzeren Ausgaben als der Vorgänger. Neu sind auch Search- und Fetch-APIs für 0,75 Dollar pro 1.000 Anfragen. Für API‑Nutzer in Tools wie Claude Code und Codex sind sie vorerst kostenlos. …",
+   "link": "https://the-decoder.de/deepseek-veroeffentlicht-v4-1-flash-schneller-besser-und-guenstiger-als-der-vorgaenger/",
+   "published": "2026-10-17T10:17:28+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-24T10:17:28+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/06/deepseek_red_whale.png"
+  },
+  {
+   "id": "nad979965b0",
+   "topic": "it",
+   "title": "Reform des Nachrichtendienstrechts: Bitkom und GFF wollen Nachrichtendiensten Grenzen setzen",
+   "text": "Bitkom und GFF verlangen ein Gesetz für den Umgang mit Sicherheitslücken. Nachrichtendienste sollen sie nicht ohne Weiteres ausnutzen. ( Bitkom , Sicherheitslücke )",
+   "link": "https://www.golem.de/news/reform-des-nachrichtendienstrechts-bitkom-und-gff-wollen-nachrichtendiensten-grenzen-setzen-2610-214212.html",
+   "published": "2026-10-17T10:16:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-22T10:16:01+00:00",
+   "img": "https://www.golem.de/2610/214212-603886-603884_rc.jpg"
+  },
+  {
+   "id": "n9360fa65dd",
+   "topic": "welt",
+   "title": "Giftige Rauchwolken über Südostasien sorgen für Alarm",
+   "text": "Durch Waldbrände in Indonesien sind dort, aber auch in den Nachbarstaaten, giftige Rauchwolken aufgestiegen. Eine besonders eindringliche Warnung vor den gesundheitlichen Risiken kommt aus dem benachbarten Singapur.",
+   "link": "https://www.dw.com/de/giftige-rauchwolken-über-südostasien-sorgen-für-alarm/a-79686479?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-17T10:12:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-21T10:12:00+00:00",
+   "img": "https://static.dw.com/image/79684091_302.jpg"
+  },
+  {
+   "id": "n3c4d7a1639",
+   "topic": "wirtschaft",
+   "title": "Steigende Preise für Benzin, Heizöl, Gas - wie teuer wird der Winter?",
+   "text": "Die Preise für Kraftstoff, Heizöl und Erdgas sind binnen kurzer Zeit stark gestiegen. Das verteuert den Alltag und belastet auch Firmen mit Extrakosten. Was sind die Folgen? Von Lisa Wurscher und Julia Lamour.",
+   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/energie-heizen-winter-100.html",
+   "published": "2026-10-17T10:05:01+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-20T10:05:01+00:00",
+   "img": "https://images.tagesschau.de/image/8251172a-779d-42bd-b9f6-d4314fbf85ad/AAABoTVNBis/AAABnSSvrFg/16x9-big/heizen-156.jpg?width=1920"
+  },
+  {
+   "id": "nc3f7d160fc",
+   "topic": "politik",
+   "title": "Nach dem Ende des \"Tankrabatts\": Bilger hält weitere Entlastungen für möglich",
+   "text": "Der \"Tankrabatt\" gilt noch bis zum Jahresende - und dann? Verkehrsminister Bilger hält weitere gezielte Entlastungen für möglich - etwa für Busunternehmen oder Taxifahrer. Zudem arbeite die Regierung an einem Mechanismus für Direktzahlungen.",
+   "link": "https://www.tagesschau.de/inland/bilger-tankrabatt-100.html",
+   "published": "2026-10-17T09:38:09+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-20T09:38:09+00:00",
+   "img": "https://images.tagesschau.de/image/54ab945c-2e1c-4796-95a7-cfc3dfab609a/AAABoUi7EQ0/AAABnSSvrFg/16x9-big/bilger-142.jpg?width=1920"
+  },
+  {
+   "id": "n266ec160b6",
+   "topic": "wissenschaft",
+   "title": "Schwänzeltanz: Selbstsichere Bienen tanzen ausgelassener",
+   "text": "Beim Schwänzeltanz kommunizieren Bienen nicht nur, wo sich eine Futterquelle befindet, sondern auch, wie sicher sie sich mit dieser Information sind.",
+   "link": "https://www.spektrum.de/news/selbstsichere-bienen-tanzen-ausgelassener/2350046",
+   "published": "2026-10-17T09:30:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-31T09:30:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/Bienen_fotolia_84514510_OlafRadcke.jpg.2931485.jpg?f=1280x720"
+  },
+  {
+   "id": "n81e425e60d",
+   "topic": "ki",
+   "title": "KI-Modelle verschweigen Fehler in Arbeitsberichten, doch ein einziger Satz im Prompt hilft oft",
+   "text": "KI-Agenten verschweigen in ihren Berichten systematisch Fehler, die das Ergebnis infrage stellen, obwohl sie die Probleme erkennen. Laut einer Studie von Google Research, MIT und Harvard lässt GPT-5.5 negative Ergebnisse in 198 von 200 Paper-Abstracts weg. Der Artikel KI-Modelle verschweigen Fehler in …",
+   "link": "https://the-decoder.de/ki-modelle-verschweigen-fehler-in-arbeitsberichten-doch-ein-einziger-satz-im-prompt-hilft-oft/",
+   "published": "2026-10-17T09:15:36+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-24T09:15:36+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/insecure-reporters-checkmarks-nano-banana-pro.jpg"
+  },
+  {
+   "id": "n46d45732a6",
+   "topic": "wissenschaft",
+   "title": "Szenenews aus der Astronomie: Ausschreibung zum Stargazer Award 2027",
+   "text": "Der Preis würdigt Nachwuchswissenschaftler und ein wissenschaftliches Projekt. Die Bewerbungsfrist endet am 31. Dezember 2026.",
+   "link": "https://www.spektrum.de/news/ausschreibung-stargazer-award-2027/2348481",
+   "published": "2026-10-17T09:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-31T09:00:00+00:00"
+  },
+  {
+   "id": "n6aec47c94a",
+   "topic": "welt",
+   "title": "Trump zu Starlink-Drosselung: \"Das habe ich nicht getan\"",
+   "text": "Die USA zeigen der Ukraine, wer am längeren Hebel sitzt - doch hinterher will es niemand gewesen sein. Russland profitiert in seinem Angriffskrieg militärisch von der Einschränkung des Satelliten-Internets.",
+   "link": "https://www.dw.com/de/trump-zu-starlink-drosselung-das-habe-ich-nicht-getan/a-79685991?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-17T08:49:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-21T08:49:00+00:00",
+   "img": "https://static.dw.com/image/79685810_302.jpg"
+  },
+  {
+   "id": "n62ef6bc148",
+   "topic": "welt",
+   "title": "Elektronik: Warum der Westen kaum noch mit China konkurrieren kann",
+   "text": "Von Action-Kameras über Smartphones zu Saugrobotern und Elektrofahrzeugen - chinesische Marken sind weltweit auf dem Vormarsch. Was können die europäischen Mitbewerber tun, um nicht den Anschluss zu verlieren?",
+   "link": "https://www.dw.com/de/elektronik-warum-der-westen-kaum-noch-mit-china-konkurrieren-kann/a-79683680?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-17T08:47:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-21T08:47:00+00:00",
+   "img": "https://static.dw.com/image/79586407_302.jpg"
+  },
+  {
+   "id": "n0533a55a92",
+   "topic": "ki",
+   "title": "OpenAI legt Lösung für berühmtes Mathe-Problem vor, versteht aber den eigenen Beweis nicht",
+   "text": "OpenAI hat eine 166-seitige Lösung des Navier-Stokes-Problems vorgelegt, versteht aber offenbar den eigenen Beweis nicht. Mehrere Expertengruppen widersprechen der behaupteten Methodik: Der Ansatz sei ein anderer als angegeben. Da Sprachmodelle als \"Blackbox\" funktionieren, bleibt die Herkunft der Ideen wohl …",
+   "link": "https://the-decoder.de/openai-legt-loesung-fuer-beruehmtes-mathe-problem-vor-versteht-aber-den-eigenen-beweis-nicht/",
+   "published": "2026-10-17T08:37:57+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-24T08:37:57+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/openai_navier.png"
+  },
+  {
+   "id": "nfb445ceb58",
+   "topic": "welt",
+   "title": "\"Nationales Interesse\" - Trump setzt geplante Sanktionen gegen Russland aus",
+   "text": "Erst macht der US-Präsident einen umstrittenen Diesel-Deal mit Russland, nun setzt Trump gerade erst beschlossene Sanktionen aus. Das Weiße Haus begründet dies mit nationalem Interesse. Moskau reagiert erfreut.",
+   "link": "https://www.tagesschau.de/ausland/amerika/usa-russland-ukraine-sanktionen-100.html",
+   "published": "2026-10-17T08:35:52+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-20T08:35:52+00:00",
+   "img": "https://images.tagesschau.de/image/5726031f-d77e-47f7-9265-703989cd7bc5/AAABoUh5qsI/AAABnSSvrFg/16x9-big/trump-5350.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Weißes Haus - US-Präsident Trump setzt gegen Russland gerichtete Sanktionen teilweise aus",
+     "link": "https://www.deutschlandfunk.de/us-praesident-trump-setzt-gegen-russland-gerichtete-sanktionen-teilweise-aus-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n27c660073f",
+   "topic": "it",
+   "title": "Belttunnel – Arbeiten laufen nach Cyberangriff wieder an",
+   "text": "Zwischen Deutschland und Dänemark wird ein Tunnel gebaut. Nach einem Cyberangriff können nun die Arbeiten am Fehmarnbelt schrittweise wie geplant weitergehen.",
+   "link": "https://www.heise.de/news/Belttunnel-Arbeiten-laufen-nach-Cyberangriff-wieder-an-11491544.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-17T08:17:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-22T08:17:00+00:00"
+  },
+  {
+   "id": "n80ccf4cedf",
+   "topic": "wissenschaft",
+   "title": "Forscher: Meeresboden bremst Eisschmelze in Antarktis",
+   "text": "Das Team des deutschen Forschungsschiffes \"Polarstern\" hat vor der Ostantarktis entdeckt: Der Meeresboden hilft dabei, das Schmelzen des Eises dort zu bremsen. Von Andreas Kegel.",
+   "link": "https://www.tagesschau.de/wissen/klima/antarktis-eisschmelze-100.html",
+   "published": "2026-10-17T08:15:08+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-31T08:15:08+00:00",
+   "img": "https://images.tagesschau.de/image/1f90ec15-7648-4a28-ba2b-ab60eac859ef/AAABoUjt0lw/AAABnSSvrFg/16x9-big/antarktis-eis-104.jpg?width=1920"
+  },
+  {
+   "id": "n0070263ed0",
+   "topic": "welt",
+   "title": "Russland-Sanktionen auf Eis: Wie sich Trump Putin weiter annähert",
+   "text": "Die Unterstützung von US-Präsident Trump für die Ukraine war schon immer zurückhaltend. Mit den jetzt gestoppten Sanktionen kommt er dem russischen Präsidenten weit entgegen. Auch in den USA wird er dafür massiv kritisiert. Von Carsten Kühntopp.",
+   "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-russland-ukraine-100.html",
+   "published": "2026-10-17T08:08:36+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-20T08:08:36+00:00",
+   "img": "https://images.tagesschau.de/image/2daadef0-c136-4838-b209-10fd925a0792/AAABoUiuEdM/AAABnSSvrFg/16x9-big/trump-putin-254.jpg?width=1920"
+  },
+  {
+   "id": "n8f65cdce04",
+   "topic": "welt",
+   "title": "News kompakt: Selenskyj fordert 70 Milliarden Euro von der EU",
+   "text": "Die Ukraine benötigt mehr Geld, um sich gegen die russischen Angriffe zu wehren. Donald Trump legt die geplanten Sanktionen gegen Russland auf Eis. Der DW-Nachrichtenüberblick.",
+   "link": "https://www.dw.com/de/news-kompakt-selenskyj-fordert-70-milliarden-euro-von-der-eu/a-79685651?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-17T07:22:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-21T07:22:00+00:00",
+   "img": "https://static.dw.com/image/79676680_302.jpg"
+  },
+  {
+   "id": "nbf3975a4b1",
+   "topic": "it",
+   "title": "„Street Fighter“ im Kino: Eine Achterbahnfahrt ins Nirgendwo",
+   "text": "Der neue „Street Fighter“-Film ist richtig dumm. Offenbar wissen das auch alle Beteiligten. So entsteht vielleicht kein großes Kino, aber ein großer Spaß.",
+   "link": "https://www.heise.de/tests/Street-Fighter-im-Test-Erfolg-dank-Achselschweiss-11490670.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-17T07:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-22T07:00:00+00:00"
+  },
+  {
+   "id": "n84eea0f0a5",
+   "topic": "it",
+   "title": "Gettys Restrukturierung und imposantes Wildlife – Fotonews der Woche 42/2026",
+   "text": "Zwischen Gettys finanzieller Neuaufstellung, Canons Fingerabdruck-Idee und preisgekrönter Wildlife-Fotografie zeigt sich, wie vielfältig Fotografie ist.",
+   "link": "https://www.heise.de/news/Gettys-Restrukturierung-und-imposantes-Wildlife-Fotonews-der-Woche-42-2026-11490974.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-17T07:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-22T07:00:00+00:00"
+  },
+  {
+   "id": "n39600394c3",
+   "topic": "welt",
+   "title": "Wer war Eva Mamlok? Warum ein Berliner Platz künftig ihren Namen trägt",
+   "text": "Schon als Jugendliche leistete sie Widerstand gegen Hitler und hörte damit bis zu ihrem Tod in einem Konzentrationslager nicht auf. Nun wird ein bekannter Park in Berlin nach Eva Mamlok benannt.",
+   "link": "https://www.dw.com/de/wer-war-eva-mamlok-warum-ein-berliner-platz-künftig-ihren-namen-trägt/a-79676874?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-17T06:03:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-21T06:03:00+00:00",
+   "img": "https://static.dw.com/image/79659727_302.jpg"
+  },
+  {
+   "id": "n2898b73548",
+   "topic": "welt",
+   "title": "Ilhan Omar: US-Demokratin im Visier von Donald Trump",
+   "text": "Donald Trump bezeichnet sie als \"Abschaum\", als \"Nörglerin\" und \"Kriminelle\": Seit Jahren sieht sich die US-Demokratin Ilhan Omar heftiger Kritik des US-Präsidenten ausgesetzt. Doch warum gerade sie?",
+   "link": "https://www.dw.com/de/ilhan-omar-us-demokratin-im-visier-von-donald-trump/a-79678407?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-17T05:49:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-21T05:49:00+00:00",
+   "img": "https://static.dw.com/image/75686930_302.jpg"
+  },
+  {
+   "id": "ne16a1b9aac",
+   "topic": "welt",
+   "title": "Nachfolge als UN-Generalsekretär: Bewerber scheitern an Vetomächten",
+   "text": "Bis Ende Dezember muss der UN-Sicherheitsrat eine Nachfolge für Generalsekretär Guterres bestimmen. Doch auch bei der sechsten Probeabstimmung fielen alle Kandidaten bei den Vetomächten durch. Von Martin Ganslmeier.",
+   "link": "https://www.tagesschau.de/ausland/amerika/un-generalsekretaer-wahl-100.html",
+   "published": "2026-10-17T04:56:34+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-20T04:56:34+00:00",
+   "img": "https://images.tagesschau.de/image/2d526192-947c-4d07-80de-f48bd78bab07/AAABoUewl5k/AAABnSSvrFg/16x9-big/un-sicherheitsrat-384.jpg?width=1920"
+  },
   {
    "id": "ne7aa313539",
    "topic": "wissenschaft",
@@ -75,19 +515,6 @@
    "lang": "de",
    "expires": "2026-10-19T03:07:59+00:00",
    "img": "https://bilder.deutschlandfunk.de/06/e5/55/c2/06e555c2-2d2e-4377-b94e-748ccdc0b9cc/mecklenburg-vorpommern-koalitionsverhandlungen-zwischenbilanz-herbst-schwesig-mueller-100-1920x1920.jpg"
-  },
-  {
-   "id": "n8f6b126b1d",
-   "topic": "politik",
-   "title": "Weißes Haus - US-Präsident Trump setzt gegen Russland gerichtete Sanktionen teilweise aus",
-   "text": "US-Präsident Trump hat einige gegen Russland ⁠gerichtete Sanktionen ⁠und Beschränkungen ‌per Dekret ausgesetzt.",
-   "link": "https://www.deutschlandfunk.de/us-praesident-trump-setzt-gegen-russland-gerichtete-sanktionen-teilweise-aus-100.html",
-   "published": "2026-10-17T03:07:59+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-19T03:07:59+00:00",
-   "img": "https://bilder.deutschlandfunk.de/15/0d/a9/c5/150da9c5-4e2f-428a-8f79-c16cb7219e65/us-praesident-donald-trump-airforceone-100-1920x1920.jpg"
   },
   {
    "id": "n73e61ddb16",
@@ -408,8 +835,8 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "\"Deutschlandtag\" - CDU-Chef Merz spricht beim Treffen der Jungen Union in Bonn",
-     "link": "https://www.deutschlandfunk.de/cdu-chef-merz-spricht-beim-treffen-der-jungen-union-in-bonn-100.html"
+     "title": "Deutschlandtag der Jungen Union - Merz: Reformprozess schnell abschließen",
+     "link": "https://www.deutschlandfunk.de/merz-reformprozess-schnell-abschliessen-100.html"
     }
    ]
   },
@@ -912,7 +1339,14 @@
    "source": "heise online",
    "type": "Fachmedium (IT)",
    "lang": "de",
-   "expires": "2026-10-21T16:16:00+00:00"
+   "expires": "2026-10-21T16:16:00+00:00",
+   "also": [
+    {
+     "source": "Golem.de",
+     "title": "Apple: Das iPad mini 8 steht vor der Tür",
+     "link": "https://www.golem.de/news/apple-das-ipad-mini-8-steht-vor-der-tuer-2610-214213.html"
+    }
+   ]
   },
   {
    "id": "nd1ab133f9c",
@@ -1055,14 +1489,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-19T14:40:15+00:00",
-   "img": "https://images.tagesschau.de/image/63eac52b-8c78-4aaa-af79-e74bd79ba162/AAABoUTr3CY/AAABnSSvrFg/16x9-big/tillschneider-synagoge-106.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Drohungen gegen jüdische Studenten in Sachsen-Anhalt",
-     "link": "https://www.dw.com/de/drohungen-gegen-jüdische-studenten-in-sachsen-anhalt/a-79677383?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/63eac52b-8c78-4aaa-af79-e74bd79ba162/AAABoUTr3CY/AAABnSSvrFg/16x9-big/tillschneider-synagoge-106.jpg?width=1920"
   },
   {
    "id": "nbb6f387104",
@@ -1254,19 +1681,6 @@
    ]
   },
   {
-   "id": "n39600394c3",
-   "topic": "welt",
-   "title": "Wer war Eva Mamlok? Warum ein Berliner Platz künftig ihren Namen trägt",
-   "text": "Schon als Jugendliche leistete sie Widerstand gegen Hitler und hörte damit bis zu ihrem Tod in einem Konzentrationslager nicht auf. Nun wird der Berliner Blücherplatz nach Eva Mamlok benannt.",
-   "link": "https://www.dw.com/de/wer-war-eva-mamlok-warum-ein-berliner-platz-künftig-ihren-namen-trägt/a-79676874?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-16T11:48:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-20T11:48:00+00:00",
-   "img": "https://static.dw.com/image/79659727_302.jpg"
-  },
-  {
    "id": "n85b9b8ee1a",
    "topic": "politik",
    "title": "\"Deutschlandtag\" der Jungen Union - der Parteinachwuchs als Antreiber",
@@ -1281,8 +1695,8 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "\"Deutschlandtag\" - CDU-Chef Merz spricht beim Treffen der Jungen Union in Bonn",
-     "link": "https://www.deutschlandfunk.de/cdu-chef-merz-spricht-beim-treffen-der-jungen-union-in-bonn-100.html"
+     "title": "Deutschlandtag der Jungen Union - Merz: Reformprozess schnell abschließen",
+     "link": "https://www.deutschlandfunk.de/merz-reformprozess-schnell-abschliessen-100.html"
     }
    ]
   },
@@ -1349,412 +1763,6 @@
      "source": "Tagesschau",
      "title": "Online Challenges: Bundesrat fordert mehr Schutz von Minderjährigen",
      "link": "https://www.tagesschau.de/inland/innenpolitik/soziale-medien-challenges-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n1b2bac2722",
-   "topic": "politik",
-   "title": "Altersvorsorge - Union und SPD beschließen Frühstartrente, Grüne und Linke fürchten mehr soziale Ungleichheit",
-   "text": "Der Bundestag hat die sogenannte Frühstartrente beschlossen. Eine Mehrheit aus Union und SPD stimmte für den Gesetzentwurf aus dem Finanzministerium. Er sieht vor, dass - beginnend mit dem Geburtsjahrgang 2020 - jedes Kind zwischen dem sechsten und 18. Lebensjahr zehn Euro pro Monat vom Staat bekommt.",
-   "link": "https://www.deutschlandfunk.de/union-und-spd-beschliessen-fruehstartrente-gruene-und-linke-fuerchten-mehr-soziale-ungleichheit-100.html",
-   "published": "2026-10-16T11:16:07+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-18T11:16:07+00:00",
-   "img": "https://bilder.deutschlandfunk.de/9e/88/c0/b5/9e88c0b5-849f-4465-ba34-7150a7c3147c/bundestag-debatte-plenarsaal-fruehstartrente-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Altersvorsorge: Wie das mit der \"Frühstartrente\" laufen soll",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/faq-fruehstartrente-100.html"
-    }
-   ]
-  },
-  {
-   "id": "ndbe0b2b650",
-   "topic": "politik",
-   "title": "Länderkammer - NRW-Ministerpräsident Wüst wird neuer Bundesratspräsident",
-   "text": "Der nordrhein-westfälische Ministerpräsident Wüst ist zum neuen Präsidenten des Bundesrats gewählt worden.",
-   "link": "https://www.deutschlandfunk.de/nrw-ministerpraesident-wuest-wird-neuer-bundesratspraesident-102.html",
-   "published": "2026-10-16T11:16:07+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-18T11:16:07+00:00",
-   "img": "https://bilder.deutschlandfunk.de/33/52/67/ac/335267ac-742d-4e2a-841f-b864e4e941f8/bundesrat-bovenschulte-bundesratspraesident-hendrik-wuest-cdu-wahl-100-1920x1920.jpg"
-  },
-  {
-   "id": "n5675111fff",
-   "topic": "politik",
-   "title": "Vergesellschaftung von Wohnraum - Bauministerin Hubertz: Verbot soll schnellstmöglich kommen",
-   "text": "Bundesbauministerin Hubertz will rasch ein Gesetz gegen die Vergesellschaftung von Wohnraum auf den Weg bringen.",
-   "link": "https://www.deutschlandfunk.de/bauministerin-hubertz-verbot-soll-schnellstmoeglich-kommen-100.html",
-   "published": "2026-10-16T11:16:07+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-18T11:16:07+00:00",
-   "img": "https://bilder.deutschlandfunk.de/f9/a0/e3/c2/f9a0e3c2-d7d5-4705-9d76-d7186ba53e60/verena-hubertz-100-1920x1920.jpg"
-  },
-  {
-   "id": "nd777b144bd",
-   "topic": "politik",
-   "title": "ParkControl24: Firma verschickt betrügerische Strafzettel in Limburg",
-   "text": "145 Euro für einmal Falschparken - in Limburg hat ein privates Unternehmen an Autofahrer solche Strafzettel verschickt. Offenbar ohne jegliche Berechtigung. Die Stadt hat die Firma angezeigt.",
-   "link": "https://www.hessenschau.de/panorama/parkcontrol24-firma-verschickt-betruegerische-strafzettel-in-limburg-v1,limburg-parken-102.html",
-   "published": "2026-10-16T11:14:16+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-20T11:14:16+00:00",
-   "img": "https://www.hessenschau.de/panorama/gehwegparker-100~_t-1762328703596_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "nd78392bfc5",
-   "topic": "wissenschaft",
-   "title": "Warum nachhaltiges Onlineshopping bisher scheitert",
-   "text": "Nachhaltig leben und gleichzeitig online shoppen – warum entscheiden wir uns beim Versand oft gegen die nachhaltigere Option, obwohl wir eigentlich nachhaltig handeln wollen?",
-   "link": "https://www.spektrum.de/video/science-slam-warum-nachhaltiges-onlineshopping-bisher-scheitert/2349963",
-   "published": "2026-10-16T11:14:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-10-30T11:14:00+00:00"
-  },
-  {
-   "id": "n68886821e3",
-   "topic": "welt",
-   "title": "Zweifel an Qualifikation: Trumps Sprecherin bei Prüfung durchgefallen",
-   "text": "Nur wenige Tage nach ihrem Start als neue Sprecherin des Weißen Hauses macht Katie Zacharia bereits selbst Schlagzeilen. Ist sie nun Anwältin oder nicht? Auch wirre Sätze und Versprecher sorgen für Irritationen.",
-   "link": "https://www.tagesschau.de/ausland/amerika/trump-sprecherin-zacharia-100.html",
-   "published": "2026-10-16T11:12:24+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-19T11:12:24+00:00",
-   "img": "https://images.tagesschau.de/image/ed66b652-4ba6-4d92-b5f7-047a9602f5e4/AAABoURpwik/AAABnSSvrFg/16x9-big/zacharia-100.jpg?width=1920"
-  },
-  {
-   "id": "nb829b626e3",
-   "topic": "ki",
-   "title": "Googles Gemini 4 Argon schließt in weiteren Benchmarks zur KI-Spitze auf",
-   "text": "Google Deepminds Gemini 4 Argon erreicht im ARC-AGI-3-Benchmark 97,5 Prozent und schließt damit als zweites Labor nach OpenAI zur KI-Spitze auf. Die Ergebnisse variieren jedoch stark je nach Testumgebung: Im Standard-Harness sind es nur 49,8 Prozent. In Mathematik und Software-Engineering bleibt Argon zudem hinter der …",
-   "link": "https://the-decoder.de/googles-gemini-4-argon-schliesst-in-weiteren-benchmarks-zur-ki-spitze-auf/",
-   "published": "2026-10-16T11:10:46+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-23T11:10:46+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/gemini_4_argon.png"
-  },
-  {
-   "id": "ncccb57f3a5",
-   "topic": "it",
-   "title": "Apple und Meta kooperieren bei KI: Lokale Modelle fordern mehrere High-End-Macs",
-   "text": "Nach den Zerwürfnissen zwischen Tim Cook und Mark Zuckerberg findet der neue Apple-Chef John Ternus in KI einen Weg zur Zusammenarbeit mit Meta. ( KI , Apple )",
-   "link": "https://www.golem.de/news/apple-und-meta-kooperieren-bei-ki-lokale-modelle-fordern-mehrere-high-end-macs-2610-214188.html",
-   "published": "2026-10-16T11:10:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-21T11:10:02+00:00",
-   "img": "https://www.golem.de/2610/214188-603774-603772_rc.jpg"
-  },
-  {
-   "id": "nb1f28685f4",
-   "topic": "it",
-   "title": "TalosCon 2026: Sidero Labs erweitert Talos um Hypervisor und Enterprise-Produkte",
-   "text": "Sidero Labs hat auf der TalosCon in Amsterdam die Alpha-Version des Talos Hypervisor sowie die VMware-Alternative Talos Director fürs Rechenzentrum vorgestellt.",
-   "link": "https://www.heise.de/news/TalosCon-2026-Sidero-Labs-erweitert-Talos-um-Hypervisor-und-Enterprise-Produkte-11490630.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-16T11:07:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-21T11:07:00+00:00"
-  },
-  {
-   "id": "n57cf251257",
-   "topic": "it",
-   "title": "KI im Recruiting: Wie McKinsey Bewerbende mit Chatbots testet",
-   "text": "Das Beratungsunternehmen McKinsey setzt in Nordamerika auf künstliche Intelligenz, um Bewerbende in simulierten Kundengesprächen auf die Probe zu stellen.",
-   "link": "https://www.heise.de/news/KI-im-Recruiting-Wie-McKinsey-Bewerbende-mit-Chatbots-testet-11490750.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-16T11:03:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-21T11:03:00+00:00"
-  },
-  {
-   "id": "n7e300d4886",
-   "topic": "wissenschaft",
-   "title": "SSRI absetzen: Antidepressiva im Kreuzfeuer",
-   "text": "Immer häufiger geraten SSRI wie Citalopram & Co unter Beschuss: Keiner weiß genau, wie sie eigentlich wirken. Und es ist womöglich doch nicht so einfach, sie wieder abzusetzen.",
-   "link": "https://www.spektrum.de/news/ssri-absetzen-machen-die-beliebtesten-antidepressiva-abhaengig/2345148",
-   "published": "2026-10-16T11:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-10-30T11:00:00+00:00"
-  },
-  {
-   "id": "n005b217daf",
-   "topic": "nfl",
-   "title": "Tennessee Titans news: Cam Ward eyes bounce back vs. Colts",
-   "text": "The Tennessee Titans are hoping to snap their losing streak in Week 6.",
-   "link": "https://sports.yahoo.com/articles/tennessee-titans-news-cam-ward-110000803.html",
-   "published": "2026-10-16T11:00:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-21T11:00:00+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/e145a7aa8c686ed8c7ac24ed4ad449ac.jpg"
-  },
-  {
-   "id": "na8a5677df9",
-   "topic": "nfl",
-   "title": "Tampa Bay Buccaneers news: Bucs have chance to upset Steelers",
-   "text": "The Tampa Bay Buccaneers are eyeing a second-straight victory in Week 6 against the Pittsburgh Steelers.",
-   "link": "https://sports.yahoo.com/articles/tampa-bay-buccaneers-news-bucs-110000702.html",
-   "published": "2026-10-16T11:00:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-21T11:00:00+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/e28801dd83e72cd17fd0abd68ac75686.jpg"
-  },
-  {
-   "id": "nddc1448e8d",
-   "topic": "it",
-   "title": "Siri AI: Spekulationen um Support für HomePod 2",
-   "text": "Auch Altware von Apple könnte künftig Zugriff auf das neue KI-System bekommen – per Update. Zumindest gibt es Indizien.",
-   "link": "https://www.heise.de/news/Siri-AI-Spekulationen-um-Support-fuer-HomePod-2-11488677.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-16T10:59:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-21T10:59:00+00:00"
-  },
-  {
-   "id": "n35b2e7e382",
-   "topic": "welt",
-   "title": "Argentinien: Demonstranten fordern mehr Geld für Unis",
-   "text": "Bei Studentenprotesten gegen Präsident Javier Mileis Sparkurs kommt es in Argentinien zu Zusammenstößen mit der Polizei. Mindestens 25 Menschen werden festgenommen, mehrere Polizisten verletzt.",
-   "link": "https://www.dw.com/de/argentinien-demonstranten-fordern-mehr-geld-für-unis/a-79677729?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-16T10:39:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-20T10:39:00+00:00",
-   "img": "https://static.dw.com/image/79676959_302.jpg"
-  },
-  {
-   "id": "n9858f0654a",
-   "topic": "welt",
-   "title": "Veto-Flut gegen EU-Anwärter: Wer blockiert wen - und warum?",
-   "text": "Immer häufiger legen einzelne EU-Mitglieder im Beitrittsprozess von Kandidatenländern ihr Veto ein. Oft geht es dabei nicht um die Sache, sondern um eigene Innenpolitik. Die DW erklärt die Fälle - und ihre Hintergründe.",
-   "link": "https://www.dw.com/de/veto-flut-gegen-eu-anwärter-wer-blockiert-wen-und-warum/a-79676189?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-16T10:36:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-20T10:36:00+00:00",
-   "img": "https://static.dw.com/image/79677727_302.jpg"
-  },
-  {
-   "id": "n76e4e56972",
-   "topic": "welt",
-   "title": "UEFA gegen Infantino: Lager belauern sich bei FIFA-Council - Europa sucht nach Gegenkandidat",
-   "text": "FIFA-Präsident Gianni Infantino bittet beim ersten Aufeinandertreffen mit seinen Kritikern aus Europa um Entschuldigung - doch befriedigende Antworten blieben aus. Die UEFA bleibt auf Konfrontationskurs.",
-   "link": "https://www.dw.com/de/uefa-gegen-infantino-lager-belauern-sich-bei-fifa-council-europa-sucht-nach-gegenkandidat/a-79677520?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-16T10:34:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-20T10:34:00+00:00",
-   "img": "https://static.dw.com/image/79678337_302.jpg"
-  },
-  {
-   "id": "nf563e0ee5e",
-   "topic": "wissenschaft",
-   "title": "Neues Observatorium: Neue Gammastrahlenteleskope auf La Palma eingeweiht",
-   "text": "Am 15. Oktober 2026 nahmen vier neue Teleskope auf La Palma ihre Arbeit auf. Sie weisen Lichtblitze in der Erdatmosphäre nach, die durch Gammastrahlen verursacht werden.",
-   "link": "https://www.spektrum.de/news/neue-gammastrahlenteleskope-auf-la-palma-eingeweiht/2350093",
-   "published": "2026-10-16T10:30:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-10-30T10:30:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/EDIT_BEEDRONRECORD__1_de_3__-_Credits_LST_Collaboration.jpg.8417997.jpg?f=1280x720"
-  },
-  {
-   "id": "n5e34c861c4",
-   "topic": "welt",
-   "title": "Giftige Rauchwolken durch Waldbrände in Indonesien treffen auch Nachbarländer",
-   "text": "Eine besonders schwere Brandsaison macht Indonesien zu schaffen. Die dortigen Torfbrände sind nur schwer zu bekämpfen und der giftige Rauch belastet auch die Nachbarländer. In einem Nationalpark auf Java gab es vier Tote.",
-   "link": "https://www.tagesschau.de/ausland/asien/indonesien-malaysia-waldbraende-100.html",
-   "published": "2026-10-16T10:20:08+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-19T10:20:08+00:00",
-   "img": "https://images.tagesschau.de/image/29f57f16-edc5-453c-b374-abff3e156778/AAABoUOXNmI/AAABnSSvrFg/16x9-big/rauchschwaden-gesichtsmasken-singapur-100.jpg?width=1920"
-  },
-  {
-   "id": "ne5d1ec4633",
-   "topic": "it",
-   "title": "Warnung des BSI: Angriffe auf Zero-Day-Lücke in Cisco Secure Email Gateway",
-   "text": "Der Malware-Scanner von Ciscos Secure Email Gateway reagiert fehlerhaft auf speziell gestaltete E-Mails. Hacker erhalten so Root-Rechte. ( Sicherheitslücke , E-Mail )",
-   "link": "https://www.golem.de/news/warnung-des-bsi-angriffe-auf-zero-day-luecke-in-cisco-secure-email-gateway-2610-214183.html",
-   "published": "2026-10-16T10:16:01+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-21T10:16:01+00:00",
-   "img": "https://www.golem.de/2610/214183-603739-603737_rc.jpg"
-  },
-  {
-   "id": "n2c49fa9794",
-   "topic": "welt",
-   "title": "Drohungen gegen jüdische Studenten in Sachsen-Anhalt",
-   "text": "Jüdische Studierende versuchten, den hochrangigen AfD-Politiker und Vize-Landtagspräsidenten Tillschneider aus der Synagoge in Halle fernzuhalten. Das hat Folgen für die Studierenden.",
-   "link": "https://www.dw.com/de/drohungen-gegen-jüdische-studenten-in-sachsen-anhalt/a-79677383?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-16T10:13:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-20T10:13:00+00:00",
-   "img": "https://static.dw.com/image/79677537_302.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Drohungen an jüdische Studenten nach AfD-Blockade bei Gedenkfeier",
-     "link": "https://www.tagesschau.de/inland/juedische-studenten-afd-100.html"
-    }
-   ]
-  },
-  {
-   "id": "nf588a0d5ba",
-   "topic": "welt",
-   "title": "EU-Spitzen stärken Selenskyj den Rücken",
-   "text": "Präsident Selenskyj ist zum EU-Gipfel nach Brüssel gereist - und wird mit Zusicherungen begrüßt. Hilfen bleiben, Sanktionen sind in Arbeit, die EU-Beitrittsverhandlungen kommen voran. Allerdings geht US-Präsident Trump weiter auf Konfrontation.",
-   "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-ukraine-selenskyj-100.html",
-   "published": "2026-10-16T09:57:13+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-19T09:57:13+00:00",
-   "img": "https://images.tagesschau.de/image/84018e21-333a-4dd8-bd7e-5876c7630284/AAABoUPaDBk/AAABnSSvrFg/16x9-big/costa-leyen-selenskyj-100.jpg?width=1920"
-  },
-  {
-   "id": "ne7e17e69e9",
-   "topic": "welt",
-   "title": "Warum Starlink für die Ukraine so wichtig ist",
-   "text": "Immer wieder gibt es Sorgen über eine Drosselung oder Abschaltung des Satelliteninternets Starlink in der Ukraine. Wie groß ist die Abhängigkeit des Landes von dem System, und welche Folgen hätten ein Ausfall?",
-   "link": "https://www.dw.com/de/warum-starlink-für-die-ukraine-so-wichtig-ist/a-79668027?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-16T09:45:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-20T09:45:00+00:00",
-   "img": "https://static.dw.com/image/72776270_302.jpg"
-  },
-  {
-   "id": "n7d107e01ef",
-   "topic": "ki",
-   "title": "OpenAI startet Gratisprogramm für Forschungslabore an US-Universitäten",
-   "text": "OpenAI startet mit dem Rosalind Academic Plan ein Gratisangebot für Forschungslabore an US-Universitäten ohne Enterprise-Vertrag mit OpenAI. Der Artikel OpenAI startet Gratisprogramm für Forschungslabore an US-Universitäten erschien zuerst auf The Decoder .",
-   "link": "https://the-decoder.de/openai-startet-gratisprogramm-fuer-forschungslabore-an-us-universitaeten/",
-   "published": "2026-10-16T09:36:09+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-23T09:36:09+00:00"
-  },
-  {
-   "id": "n0726570f98",
-   "topic": "wirtschaft",
-   "title": "Wohnimmobilien: Deutlich mehr Baugenehmigungen",
-   "text": "Lichtblick für den deutschen Wohnungsbau: Der Aufwärtstrend des ersten Halbjahres setzt sich auch im August fort. Doch höhere Energiepreise und Zinsen belasten viele Bauherren.",
-   "link": "https://www.tagesschau.de/wirtschaft/baugenehmigungen-steigen-wieder-2026-100.html",
-   "published": "2026-10-16T09:29:27+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-19T09:29:27+00:00",
-   "img": "https://images.tagesschau.de/image/4751f686-0cf8-4ab0-b988-e6bbea14c726/AAABoURI6UM/AAABnSSvrFg/16x9-big/bauarbeiter-142.jpg?width=1920"
-  },
-  {
-   "id": "n9904c73144",
-   "topic": "politik",
-   "title": "Klingbeils Baustellen - Zwischen Sparzwang und Entlastung",
-   "text": "Deutschlands Probleme begleiten Finanzminister Klingbeil bis nach Bangkok. Sparen, Schuldenabbau, Reformen - das sind die Empfehlungen auf der dortigen IWF-Tagung. Klingbeil gibt sich zuversichtlich - und verweist auch auf die Tabaksteuer. Von N. Kohnert.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/finanzminister-klingbeil-spd-100.html",
-   "published": "2026-10-16T09:14:29+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-19T09:14:29+00:00",
-   "img": "https://images.tagesschau.de/image/591a0c66-5228-49db-91ba-9e43e9f7066d/AAABoUQDTis/AAABnSSvrFg/16x9-big/klingbeil-446.jpg?width=1920"
-  },
-  {
-   "id": "n8b1ccaf374",
-   "topic": "wissenschaft",
-   "title": "Keine Engpässe bei Antibiotika und Grippemitteln zu befürchten",
-   "text": "Keine Engpässe bei Antibiotika und Grippemitteln zu befürchten",
-   "link": "https://www.tagesschau.de/video/video-1667176.html",
-   "published": "2026-10-16T08:45:37+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-30T08:45:37+00:00",
-   "img": "https://images.tagesschau.de/image/83e8254d-b6d4-4536-bcd5-f0eaca97ecf8/AAABoUPjVnc/AAABnSSvrFg/16x9-big/sendungsbild-1812424.jpg?width=1920"
-  },
-  {
-   "id": "n33849209ef",
-   "topic": "welt",
-   "title": "Iran: Wenn \"Ehre\" zum Todesurteil für Frauen wird",
-   "text": "Der brutale Mord an einer jungen Mutter entfacht im Iran erneut die Debatte über den sogenannten Ehrenmord, gesellschaftliche Rechtfertigung von Gewalt gegen Frauen und fehlenden Schutz für Betroffene.",
-   "link": "https://www.dw.com/de/iran-wenn-ehre-zum-todesurteil-für-frauen-wird/a-79670397?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-16T08:31:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-20T08:31:00+00:00",
-   "img": "https://static.dw.com/image/60685630_302.jpg"
-  },
-  {
-   "id": "n77a79b1463",
-   "topic": "ki",
-   "title": "Anthropic lässt externe Prüfer von METR intern auf Modelle und Sicherheit schauen",
-   "text": "Anthropic lässt ein Team der Non-Profit-Organisation METR seine KI-Modelle und Sicherheitspraktiken von innen prüfen, teilt das Unternehmen mit. Der Artikel Anthropic lässt externe Prüfer von METR intern auf Modelle und Sicherheit schauen erschien zuerst auf The Decoder .",
-   "link": "https://the-decoder.de/anthropic-laesst-externe-pruefer-von-metr-intern-auf-modelle-und-sicherheit-schauen/",
-   "published": "2026-10-16T08:22:55+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-23T08:22:55+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/anthropic_cybersecurity.png"
-  },
-  {
-   "id": "nd2bd3cd875",
-   "topic": "politik",
-   "title": "Altersvorsorge: Wie das mit der \"Frühstartrente\" laufen soll",
-   "text": "Der Entwurf für eine große Rentenreform liegt noch nicht vor, aber der Bundestag hat heute eine Maßnahme zur Alterssicherung beschlossen: die sogenannte Frühstartrente. Was sie beinhaltet und wer sie bekommt.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/faq-fruehstartrente-100.html",
-   "published": "2026-10-16T08:16:46+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-19T08:16:46+00:00",
-   "img": "https://images.tagesschau.de/image/f6b00ed5-8625-4281-a381-0722af315e59/AAABoT_rt44/AAABnSSvrFg/16x9-big/kleinkinder-kita-102.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Altersvorsorge - Union und SPD beschließen Frühstartrente, Grüne und Linke fürchten mehr soziale Ungleichheit",
-     "link": "https://www.deutschlandfunk.de/union-und-spd-beschliessen-fruehstartrente-gruene-und-linke-fuerchten-mehr-soziale-ungleichheit-100.html"
     }
    ]
   }
