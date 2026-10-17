@@ -1,55 +1,467 @@
 {
- "generated": "2026-10-17T10:45:22.767541+00:00",
+ "generated": "2026-10-17T15:36:10.597662+00:00",
  "briefing": [
   "nfb445ceb58",
+  "n78b2b8e866",
   "n6cdb7b6a35",
-  "nfb57483abd",
-  "n968f8c0d85",
-  "neab6ab89d3",
-  "ndaee9803c9",
-  "n62ef6bc148",
-  "n06361f01d1",
-  "n85b9b8ee1a"
+  "nd0ddb9078d",
+  "nd41f2edd23",
+  "nb4716948ef",
+  "n04585d6502",
+  "neab6ab89d3"
  ],
  "ranked": [
   {
    "id": "nfb445ceb58",
-   "s": 32.5
+   "s": 32.1
+  },
+  {
+   "id": "n78b2b8e866",
+   "s": 28.0
   },
   {
    "id": "n6cdb7b6a35",
-   "s": 28.8
-  },
-  {
-   "id": "nfb57483abd",
    "s": 27.6
   },
   {
-   "id": "n968f8c0d85",
-   "s": 24.0
+   "id": "nd0ddb9078d",
+   "s": 23.4
+  },
+  {
+   "id": "nd41f2edd23",
+   "s": 22.9
+  },
+  {
+   "id": "nb4716948ef",
+   "s": 22.6
+  },
+  {
+   "id": "n04585d6502",
+   "s": 21.8
   },
   {
    "id": "neab6ab89d3",
-   "s": 23.0
-  },
-  {
-   "id": "ndaee9803c9",
-   "s": 23.0
-  },
-  {
-   "id": "n62ef6bc148",
-   "s": 22.5
-  },
-  {
-   "id": "n06361f01d1",
-   "s": 22.3
-  },
-  {
-   "id": "n85b9b8ee1a",
-   "s": 22.2
+   "s": 21.8
   }
  ],
  "items": [
+  {
+   "id": "nb7d736e627",
+   "topic": "wissenschaft",
+   "title": "Navier-Stokes-Beweis von OpenAI: Neue Erkenntnisse im Streit um den KI-Beweis des Millennium-Problems",
+   "text": "Hat die KI von Menschen abgeschrieben oder nicht? Darüber debattiert die Fachwelt heftig. Nun zeigt sich: Der KI-generierte Navier-Stokes-Beweis folgt einem eigenständigen Ansatz.",
+   "link": "https://www.spektrum.de/news/navier-stokes-beweis-von-openai-doch-kein-plagiat-der-ki/2349623",
+   "published": "2026-10-17T16:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-31T16:00:00+00:00"
+  },
+  {
+   "id": "n78b2b8e866",
+   "topic": "politik",
+   "title": "Linke, Grüne und SPD verkünden Durchbruch bei Sondierungen in Berlin",
+   "text": "Vier Wochen nach der Wahl zum Berliner Abgeordnetenhaus haben Linke, Grüne und SPD ihre Sondierungsgespräche erfolgreich abgeschlossen. Sofern die Parteigremien zustimmen, können Koalitionsverhandlungen beginnen.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-sondierungsvereinbarung-100.html",
+   "published": "2026-10-17T15:31:52+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-20T15:31:52+00:00",
+   "img": "https://images.tagesschau.de/image/c45d1532-db85-46a5-85be-e491bd86637a/AAABoUptRPc/AAABnSSvrFg/16x9-big/sondierungsvereinbarung-berlin-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Berlin - Linke, Grüne und SPD erzielen Durchbruch bei Sondierungen",
+     "link": "https://www.deutschlandfunk.de/linke-gruene-und-spd-erzielen-durchbruch-bei-sondierungen-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n5626f5ba21",
+   "topic": "politik",
+   "title": "Merz verteidigt Reformkurs und warnt Koalitionspartner SPD",
+   "text": "Beim \"Deutschlandtag\" der Jungen Union findet Kanzler Merz deutliche Worte in Richtung SPD: Er wolle den Erfolg der Koalition, aber nicht um jeden Preis. In Sachen Rente pocht er darauf, die Reformvorschläge vollständig umzusetzen.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/merz-junge-union-104.html",
+   "published": "2026-10-17T15:29:15+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-20T15:29:15+00:00",
+   "img": "https://images.tagesschau.de/image/2acf0248-3e7d-41a5-9d55-5940f21ad962/AAABoUliGAQ/AAABnSSvrFg/16x9-big/merz-1736.jpg?width=1920"
+  },
+  {
+   "id": "ne32e2b86f2",
+   "topic": "ki",
+   "title": "Wildgewordene OpenAI-Agenten erbeuten Krankenhausdaten, Krypto-Wallets und interne Datenbanken",
+   "text": "OpenAI dokumentiert vier neue Fälle, in denen KI-Modelle eigenständig Sicherheitsgrenzen umgingen, darunter ein Modell, das Server-Geheimnisse einer Regierungswebsite auslas und 24 Jahre Krankenhausdaten herunterlud, ohne den unautorisierten Zugriff zu erwähnen. Der Artikel Wildgewordene OpenAI-Agenten erbeuten …",
+   "link": "https://the-decoder.de/wildgewordene-openai-agenten-erbeuten-krankenhausdaten-krypto-wallets-und-interne-datenbanken/",
+   "published": "2026-10-17T15:27:11+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-24T15:27:11+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/07/openai_kraken_cyber.png"
+  },
+  {
+   "id": "na31da7e3c0",
+   "topic": "nfl",
+   "title": "Chargers-Chiefs Game Preview: 3 things to watch in Week 6",
+   "text": "Can Chris O’Leary and the Chargers defense continue their strong play against another elite defense?",
+   "link": "https://sports.yahoo.com/articles/chargers-chiefs-game-preview-3-152439771.html",
+   "published": "2026-10-17T15:24:39+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-22T15:24:39+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/6b6233e401797a0eab7f8ca8a3d81799.jpg"
+  },
+  {
+   "id": "ne20f7dcced",
+   "topic": "politik",
+   "title": "Unfälle in Steinau und Frankfurt: Motorradfahrerin und Radfahrer tot",
+   "text": "Bei zwei Unfällen sind in Hessen zwei Menschen ums Leben gekommen. In Frankfurt verunglückte ein Radfahrer - in Steinau an der Straße starb eine Motorradfahrerin.",
+   "link": "https://www.hessenschau.de/panorama/unfaelle-in-steinau-und-frankfurt-motorradfahrerin-und-radfahrer-tot-v2,unfaelle-frankfurt-steinau-100.html",
+   "published": "2026-10-17T15:24:22+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-21T15:24:22+00:00",
+   "img": "https://www.hessenschau.de/panorama/unfall-steinau-110~_t-1792250625416_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "n2a885e10ef",
+   "topic": "nfl",
+   "title": "NFL Week 6 picks: Our experts face off on Ravens at Browns, Packers vs. Cowboys and more",
+   "text": "CBS Sports writers Jordan Dajani and Jared Dubin predict Week 6's top games",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-6-picks-experts-on-seahawks-broncos-ravens-browns/",
+   "published": "2026-10-17T15:22:15+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-22T15:22:15+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/16/d62546a6-0892-43a6-8b4f-c1e3ce589680/lamar.jpg"
+  },
+  {
+   "id": "n4d0a6c5835",
+   "topic": "nfl",
+   "title": "Who will be the Bears starting quarterback vs. Falcons? What Ben Johnson said",
+   "text": "Caleb Williams is back practicing with the Chicago Bears as he recovers from a hamstring injury. Here's what he and Ben Johnson said about his status.",
+   "link": "https://sports.yahoo.com/articles/bears-starting-quarterback-vs-falcons-152138761.html",
+   "published": "2026-10-17T15:21:38+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-22T15:21:38+00:00"
+  },
+  {
+   "id": "n898f573143",
+   "topic": "nfl",
+   "title": "Eagles not planning to place Jalen Hurts on IR, as he deals with superficial blood clot, per report",
+   "text": "Hurts is out indefinitely and will miss the game against the Panthers on Sunday",
+   "link": "https://www.cbssports.com/nfl/news/eagles-not-planning-to-place-jalen-hurts-on-ir/",
+   "published": "2026-10-17T15:17:33+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-22T15:17:33+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/16/c916ca9c-dc54-4095-b265-b0edb7faf0c1/jalen-hurts-philadelphia-eagles-imagn-images-ii.jpg"
+  },
+  {
+   "id": "n0f8a4064b4",
+   "topic": "politik",
+   "title": "Deutschlandtag der Jungen Union - Merz: Reformprozess schnell abschließen",
+   "text": "Bundeskanzler Merz hat eine zügige Umsetzung der geplanten Sozialreformen zugesagt. Es sei wichtig, den Reformprozess bald abzuschließen, sagte er auf dem Deutschlandtag der Jungen Union in Bonn. Andernfalls drohe eine Niederlage bei der nächsten Bundestagswahl.",
+   "link": "https://www.deutschlandfunk.de/merz-reformprozess-schnell-abschliessen-100.html",
+   "published": "2026-10-17T15:02:46+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-19T15:02:46+00:00",
+   "img": "https://bilder.deutschlandfunk.de/1e/a1/e8/a7/1ea1e8a7-7f7c-4fb7-9bbc-2d622f593443/deutschlandtag-2026-merz-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Winkel als Vorsitzender der Jungen Union wiedergewählt",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/junge-union-vorsitzender-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n210bfd5079",
+   "topic": "politik",
+   "title": "Berlin - Linke, Grüne und SPD erzielen Durchbruch bei Sondierungen",
+   "text": "Vier Wochen nach der Wahl zum Abgeordnetenhaus in Berlin haben Linke, Grüne und SPD ihre Sondierungsgespräche abgeschlossen. Den Parteigremien werde nun die Aufnahme von Koalitionsverhandlungen vorgeschlagen, melden mehrere Medien übereinstimmend. Zur Stunde soll es eine gemeinsame Pressekonferenz geben.",
+   "link": "https://www.deutschlandfunk.de/linke-gruene-und-spd-erzielen-durchbruch-bei-sondierungen-100.html",
+   "published": "2026-10-17T15:02:46+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-19T15:02:46+00:00",
+   "img": "https://bilder.deutschlandfunk.de/08/13/be/07/0813be07-591c-4752-85ac-1bbbdbf40978/sondierungen-linke-gruene-spd-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Linke, Grüne und SPD verkünden Durchbruch bei Sondierungen in Berlin",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-sondierungsvereinbarung-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n0a657cf5b0",
+   "topic": "politik",
+   "title": "Die Linke - Partei-Chefin Schwerdtner weist Antisemitismus-Vorwürfe zurück",
+   "text": "Die Bundesvorsitzende der Linken, Schwerdtner, hat Antisemitismus-Vorwürfe gegen ihre Partei zurückgewiesen.",
+   "link": "https://www.deutschlandfunk.de/partei-chefin-schwerdtner-weist-antisemitismus-vorwuerfe-zurueck-102.html",
+   "published": "2026-10-17T15:02:46+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-19T15:02:46+00:00",
+   "img": "https://bilder.deutschlandfunk.de/7d/95/d9/e4/7d95d9e4-4012-4209-a245-7a08313307a6/schwerdtner-linke-100-1920x1920.jpg"
+  },
+  {
+   "id": "n38a1b4eb2e",
+   "topic": "politik",
+   "title": "Ukraine - Selenskyj: Satelliteninternet weiter gedrosselt",
+   "text": "Das militärisch wichtige Satelliteninternet Starlink funktioniert nach Angaben von Präsident Selenskyj über der Ukraine weiterhin nur gedrosselt.",
+   "link": "https://www.deutschlandfunk.de/selenskyj-satelliteninternet-weiter-gedrosselt-100.html",
+   "published": "2026-10-17T15:02:46+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-19T15:02:46+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Selenskyj beim EU-Gipfel: Unterstützung für die Ukraine ohne USA?",
+     "link": "https://www.tagesschau.de/ausland/europa/selenskyj-eu-gipfel-102.html"
+    }
+   ]
+  },
+  {
+   "id": "nd41f2edd23",
+   "topic": "politik",
+   "title": "Nach Landtagswahl - Merz droht CDU-Politikern in Magdeburg bei Votum für AfD-Kandidaten mit Parteiausschluss",
+   "text": "Bundeskanzler Merz hat sich auf dem Deutschlandtag der Jungen Union mit klaren Worten von Linkspartei und AfD abgegrenzt. ‌",
+   "link": "https://www.deutschlandfunk.de/merz-droht-cdu-politikern-in-magdeburg-bei-votum-fuer-afd-kandidaten-mit-parteiausschluss-100.html",
+   "published": "2026-10-17T15:02:46+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-19T15:02:46+00:00",
+   "img": "https://bilder.deutschlandfunk.de/82/99/0b/27/82990b27-267f-4cc7-8396-4068590de119/landtag-sachsen-anhalt-magdeburg-102-1920x1920.jpg"
+  },
+  {
+   "id": "n0e85b0fec8",
+   "topic": "politik",
+   "title": "Nach Krankenhausaufenthalt - Papst Leo XIV. in Vatikan zurückgekehrt",
+   "text": "Papst Leo XIV. hat nach seiner Krebsoperation das Krankenhaus wieder verlassen und ist in seine Wohnung zurückkehrt.",
+   "link": "https://www.deutschlandfunk.de/papst-leo-xiv-in-vatikan-zurueckgekehrt-102.html",
+   "published": "2026-10-17T15:02:46+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-19T15:02:46+00:00"
+  },
+  {
+   "id": "nd520f83d9c",
+   "topic": "wissenschaft",
+   "title": "Sterben: Kann man seinen Tod hinauszögern?",
+   "text": "Haben Menschen Kontrolle über ihren Todeszeitpunkt? Eine Palliativmedizinerin erklärt, ob Menschen den Sterbeprozess beeinflussen können und was die Forschung dazu weiß.",
+   "link": "https://www.spektrum.de/frage/sterben-kann-man-seinen-tod-hinauszoegern/2348157",
+   "published": "2026-10-17T15:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-31T15:00:00+00:00"
+  },
+  {
+   "id": "n63debc2514",
+   "topic": "welt",
+   "title": "Olivenernte: Verletzte bei Siedlergewalt im Westjordanland",
+   "text": "Während der Olivenernte im Westjordanland häuft sich die Gewalt israelischer Siedler gegen palästinensische Helfer. In mehreren Orten sind dabei Menschen verletzt worden, unter ihnen auch eine US-Journalistin.",
+   "link": "https://www.tagesschau.de/ausland/asien/westjordanland-olivenernte-angriffe-100.html",
+   "published": "2026-10-17T14:53:09+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-20T14:53:09+00:00",
+   "img": "https://images.tagesschau.de/image/b6903c17-a5a2-47f7-8725-84a64fc67201/AAABoUpaOoU/AAABnSSvrFg/16x9-big/olivenernte-westjordanland-100.jpg?width=1920"
+  },
+  {
+   "id": "naa5da14be6",
+   "topic": "it",
+   "title": "Aus für Verbrenner-Aus könnte E20 an die Tankstelle bringen",
+   "text": "Vor 15 Jahren war die Aufregung groß, als E10-Kraftstoff an die Tankstellen kam. Geht es nach Verkehrsminister Bilger, könnte bald E20-Sprit kommen.",
+   "link": "https://www.heise.de/news/Aus-fuer-Verbrenner-Aus-koennte-E20-an-die-Tankstelle-bringen-11491669.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-17T14:38:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-22T14:38:00+00:00"
+  },
+  {
+   "id": "n60078e4701",
+   "topic": "ki",
+   "title": "Anthropics Claude löst 25 Jahre altes Kryptografie-Rätsel um mysteriöse NSA-Seeds",
+   "text": "Anthropics KI-Modell Claude hat ein 25 Jahre altes Kryptografie-Rätsel gelöst: Die mysteriösen Seeds der NIST-Standardkurven für digitale Signaturen, einst ohne Erklärung von der NSA bereitgestellt, stammen aus dem simplen C-Zufallsgenerator \"lrand48\". Claude benötigte dafür unter 30 Minuten und entkräftet damit den …",
+   "link": "https://the-decoder.de/anthropics-claude-loest-25-jahre-altes-kryptografie-raetsel-um-mysterioese-nsa-seeds/",
+   "published": "2026-10-17T14:35:56+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-24T14:35:56+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/anthropic_unintended_actions.png"
+  },
+  {
+   "id": "nb4716948ef",
+   "topic": "welt",
+   "title": "Zusammenstöße zwischen Polizei und Demonstranten bei Protesten in Frankreich",
+   "text": "Angriffe auf Polizisten, Plünderungen und Brandstiftungen: Bei Protesten gegen hohe Lebenshaltungskosten ist es in Frankreich zu Ausschreitungen gekommen. An den laufenden Demonstrationen beteiligen sich Zehntausende.",
+   "link": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-212.html",
+   "published": "2026-10-17T14:04:22+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-20T14:04:22+00:00",
+   "img": "https://images.tagesschau.de/image/8e6b9779-05a8-4b0d-b06b-813c9f4eb81d/AAABoUnoAZ8/AAABnSSvrFg/16x9-big/paris-feuer-demonstration-100.jpg?width=1920"
+  },
+  {
+   "id": "nd029229569",
+   "topic": "it",
+   "title": "Speicher für Balkonkraftwerk im Test: Bluetti Balco 260 lädt auch per AC",
+   "text": "Vier starke PV-Eingänge, AC-Überschussladen und USV: Der Balco 260 ist vielseitig. Bei 800 W arbeitet er effizient, bei 200 W fällt die Energieausbeute ab.",
+   "link": "https://www.heise.de/bestenlisten/testbericht/speicher-fuer-balkonkraftwerk-im-test-bluetti-balco-260-laedt-auch-per-ac/kwznv95?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-17T14:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-22T14:00:00+00:00"
+  },
+  {
+   "id": "n685a5e7ff0",
+   "topic": "politik",
+   "title": "Leben ohne Krankenversicherung - immer mehr Menschen sind betroffen",
+   "text": "In Deutschland sind rund 72.000 Menschen nicht krankenversichert, so die offizielle Statistik. Die Dunkelziffer ist weit höher. Hilfsorganisationen wie Ärzte der Welt schätzen, dass es Hunderttausende sind. Tendenz steigend. Von Susanne Babila.",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/leben-ohne-krankenversicherung-100.html",
+   "published": "2026-10-17T13:49:54+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-20T13:49:54+00:00",
+   "img": "https://images.tagesschau.de/image/3729b766-2bf7-444e-8b34-7dddcbd0e6e1/AAABlgqu1gQ/AAABnSSvrFg/16x9-big/wartezimmer-arztpraxis-101.jpg?width=1920"
+  },
+  {
+   "id": "nd055c80a36",
+   "topic": "welt",
+   "title": "Zehntausende Menschen protestieren in französischen Städten",
+   "text": "Präsident Emmanuel Macron hatte gemahnt, das Recht zu demonstrieren müsse mit Respekt einhergehen. Doch vielerorts kommt es zu Gewalt zwischen Demonstranten und Polizei. Es gibt zahlreiche Festnahmen.",
+   "link": "https://www.dw.com/de/zehntausende-menschen-protestieren-in-französischen-städten/a-79687882?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-17T13:45:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-21T13:45:00+00:00",
+   "img": "https://static.dw.com/image/79687034_302.jpg"
+  },
+  {
+   "id": "nc040f0e640",
+   "topic": "wissenschaft",
+   "title": "Tiefenpsychologie: »Der Schatten ist alles, was wir nicht wahrhaben wollen«",
+   "text": "Der Psychiater C.G. Jung bezeichnete die verdrängten Teile des Selbst als »Schatten«. Psychotherapeutin Yael Amling erklärt, was sich dahinter verbirgt.",
+   "link": "https://www.spektrum.de/news/warum-verdraengen-wir-carl-jungs-blick-ins-unbewusste/2299996",
+   "published": "2026-10-17T13:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-10-31T13:00:00+00:00"
+  },
+  {
+   "id": "n4cafe2c7c2",
+   "topic": "it",
+   "title": "Collaborative Combat Aircraft: F-22-Pilot übernimmt erstmals Steuerung der Fury-Kampfdrohne",
+   "text": "Ein F-22-Pilot hat erstmals im Flug Befehle an eine Kampfdrohne gegeben. Das zeigt, wie eng bemannte Jets und autonome Systeme zusammenrücken. ( Militär , Politik )",
+   "link": "https://www.golem.de/news/collaborative-combat-aircraft-f-22-pilot-uebernimmt-erstmals-steuerung-der-fury-kampfdrohne-2610-214217.html",
+   "published": "2026-10-17T12:52:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-22T12:52:02+00:00",
+   "img": "https://www.golem.de/2610/214217-603910-603908_rc.jpg"
+  },
+  {
+   "id": "n9984736022",
+   "topic": "welt",
+   "title": "Tanker im Persischen Golf attackiert",
+   "text": "Vor der saudischen Küste sind Angriffe auf zwei Schiffe gemeldet worden - weit entfernt von der Straße von Hormus. Dort wiederum ist ein Supertanker nach iranischen Angaben auf eine Mine gelaufen.",
+   "link": "https://www.tagesschau.de/ausland/asien/persischer-golf-tanker-angriffe-100.html",
+   "published": "2026-10-17T12:28:17+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-20T12:28:17+00:00",
+   "img": "https://images.tagesschau.de/image/2ac8994a-5ea1-4474-abc0-16b6fb5d6b79/AAABnKpubcc/AAABnSSvrFg/16x9-big/strasse-von-hormus-104.jpg?width=1920"
+  },
+  {
+   "id": "nfb445ceb58",
+   "topic": "welt",
+   "title": "\"Nationales Interesse\" - Trump setzt geplante Sanktionen gegen Russland aus",
+   "text": "Erst macht der US-Präsident einen umstrittenen Diesel-Deal mit Russland, nun setzt Trump gerade erst beschlossene Sanktionen aus. Das Weiße Haus begründet dies mit nationalem Interesse. Moskau reagiert erfreut, die Ukraine ist entsetzt.",
+   "link": "https://www.tagesschau.de/ausland/amerika/usa-russland-ukraine-sanktionen-100.html",
+   "published": "2026-10-17T12:07:08+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-20T12:07:08+00:00",
+   "img": "https://images.tagesschau.de/image/5726031f-d77e-47f7-9265-703989cd7bc5/AAABoUh5qsI/AAABnSSvrFg/16x9-big/trump-5350.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Weißes Haus - US-Präsident Trump setzt gegen Russland gerichtete Sanktionen teilweise aus",
+     "link": "https://www.deutschlandfunk.de/us-praesident-trump-setzt-gegen-russland-gerichtete-sanktionen-teilweise-aus-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n671de01a2d",
+   "topic": "it",
+   "title": "Apple: Nachfrage nach iPhone Duo „schlichtweg außergewöhnlich“",
+   "text": "Laut Marketing erscheint Apples erstes Foldable nächste Woche – geliefert wird es aber bei jetziger Bestellung erst Ende Januar. Möglicher Ausweg: Apple Stores.",
+   "link": "https://www.heise.de/news/Apple-laedt-fuer-ausverkauftes-iPhone-Duo-in-Apple-Stores-ein-11491646.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-17T12:04:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-22T12:04:00+00:00"
+  },
+  {
+   "id": "nb69c39799f",
+   "topic": "it",
+   "title": "Faltbares Smartphone: Liefertermine für das iPhone Duo verschieben sich nach 2027",
+   "text": "Apples faltbares iPhone Duo ist seit Kurzem vorbestellbar. Die Liefertermine haben sich bereits jetzt auf Ende Januar 2027 verschoben. ( iPhone Duo , Apple )",
+   "link": "https://www.golem.de/news/faltbares-smartphone-liefertermine-fuer-das-iphone-duo-verschieben-sich-nach-2027-2610-214216.html",
+   "published": "2026-10-17T12:00:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-22T12:00:01+00:00",
+   "img": "https://www.golem.de/2610/214216-603906-603904_rc.jpg"
+  },
+  {
+   "id": "n268f0b6814",
+   "topic": "welt",
+   "title": "In Deutschland angekommen, in der Heimat verwurzelt: Kurden zwischen zwei Welten",
+   "text": "Kurdinnen und Kurden gehören zu den größten Zuwanderungsgruppen in Deutschland. Dass dennoch vergleichsweise wenig über sie bekannt ist, liegt auch daran, dass es keinen kurdischen Staat gibt.",
+   "link": "https://www.dw.com/de/in-deutschland-angekommen-in-der-heimat-verwurzelt-kurden-zwischen-zwei-welten/a-79668889?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-17T11:51:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-21T11:51:00+00:00",
+   "img": "https://static.dw.com/image/75650243_302.jpg"
+  },
   {
    "id": "nf8898679ea",
    "topic": "wissenschaft",
@@ -62,6 +474,19 @@
    "lang": "de",
    "expires": "2026-10-31T11:00:00+00:00",
    "img": "https://static.spektrum.de/fm/912/thumbnails/91393652_pa_zuschnitt.jpg.8394924.jpg?f=1280x720"
+  },
+  {
+   "id": "n04585d6502",
+   "topic": "welt",
+   "title": "Unterdrückte Meta Brasiliens Präsidenten Lula im Wahlkampf?",
+   "text": "Während eine brasilianische Zeitung schreibt, es gebe Beweise für eine Manipulation von Lulas Social-Media-Konten, weist der Konzern Meta dies entschieden zurück. Das Oberste Wahlgericht in Brasilien macht Druck.",
+   "link": "https://www.dw.com/de/unterdrückte-meta-brasiliens-präsidenten-lula-im-wahlkampf/a-79687056?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-17T10:53:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-21T10:53:00+00:00",
+   "img": "https://static.dw.com/image/79466988_302.jpg"
   },
   {
    "id": "n8f6b126b1d",
@@ -80,26 +505,6 @@
      "source": "Tagesschau",
      "title": "\"Nationales Interesse\" - Trump setzt geplante Sanktionen gegen Russland aus",
      "link": "https://www.tagesschau.de/ausland/amerika/usa-russland-ukraine-sanktionen-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n0f8a4064b4",
-   "topic": "politik",
-   "title": "Deutschlandtag der Jungen Union - Merz: Reformprozess schnell abschließen",
-   "text": "Bundeskanzler Merz hat eine zügige Umsetzung der geplanten Sozialreformen zugesagt. Es sei wichtig, den Reformprozess bald abzuschließen, sagte er auf dem Deutschlandtag der Jungen Union in Bonn. Andernfalls drohe eine Niederlage bei der nächsten Bundestagswahl.",
-   "link": "https://www.deutschlandfunk.de/merz-reformprozess-schnell-abschliessen-100.html",
-   "published": "2026-10-17T10:41:21+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-19T10:41:21+00:00",
-   "img": "https://bilder.deutschlandfunk.de/1e/a1/e8/a7/1ea1e8a7-7f7c-4fb7-9bbc-2d622f593443/deutschlandtag-2026-merz-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Winkel als Vorsitzender der Jungen Union wiedergewählt",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/junge-union-vorsitzender-100.html"
     }
    ]
   },
@@ -152,8 +557,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-19T10:41:21+00:00",
-   "img": "https://bilder.deutschlandfunk.de/12/30/e9/ff/1230e9ff-43d2-47ec-9982-5e759f4d793d/leo-krankenhaus-100-1920x1920.jpg"
+   "expires": "2026-10-19T10:41:21+00:00"
   },
   {
    "id": "n6885a6f704",
@@ -166,14 +570,7 @@
    "type": "Fachmedium (IT)",
    "lang": "de",
    "expires": "2026-10-22T10:38:01+00:00",
-   "img": "https://www.golem.de/2610/214213-603898-603896_rc.jpg",
-   "also": [
-    {
-     "source": "heise online",
-     "title": "Apple-Website in Frankreich leakt neues iPad mini",
-     "link": "https://www.heise.de/news/Apple-Website-in-Frankreich-leakt-neues-iPad-mini-11490778.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    }
-   ]
+   "img": "https://www.golem.de/2610/214213-603898-603896_rc.jpg"
   },
   {
    "id": "nfc16573551",
@@ -355,26 +752,6 @@
    "lang": "de",
    "expires": "2026-10-24T08:37:57+00:00",
    "img": "https://the-decoder.de/wp-content/uploads/2026/10/openai_navier.png"
-  },
-  {
-   "id": "nfb445ceb58",
-   "topic": "welt",
-   "title": "\"Nationales Interesse\" - Trump setzt geplante Sanktionen gegen Russland aus",
-   "text": "Erst macht der US-Präsident einen umstrittenen Diesel-Deal mit Russland, nun setzt Trump gerade erst beschlossene Sanktionen aus. Das Weiße Haus begründet dies mit nationalem Interesse. Moskau reagiert erfreut.",
-   "link": "https://www.tagesschau.de/ausland/amerika/usa-russland-ukraine-sanktionen-100.html",
-   "published": "2026-10-17T08:35:52+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-20T08:35:52+00:00",
-   "img": "https://images.tagesschau.de/image/5726031f-d77e-47f7-9265-703989cd7bc5/AAABoUh5qsI/AAABnSSvrFg/16x9-big/trump-5350.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Weißes Haus - US-Präsident Trump setzt gegen Russland gerichtete Sanktionen teilweise aus",
-     "link": "https://www.deutschlandfunk.de/us-praesident-trump-setzt-gegen-russland-gerichtete-sanktionen-teilweise-aus-100.html"
-    }
-   ]
   },
   {
    "id": "n27c660073f",
@@ -739,14 +1116,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-18T23:12:24+00:00",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Ukraine-Krieg: Trump sieht Selenskyj als Friedenshindernis",
-     "link": "https://www.dw.com/de/ukraine-krieg-trump-sieht-selenskyj-als-friedenshindernis/a-79676193?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
+   "expires": "2026-10-18T23:12:24+00:00"
   },
   {
    "id": "nd3012d3b09",
@@ -888,14 +1258,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-18T21:05:48+00:00",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Ukraine-Krieg: Trump sieht Selenskyj als Friedenshindernis",
-     "link": "https://www.dw.com/de/ukraine-krieg-trump-sieht-selenskyj-als-friedenshindernis/a-79676193?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
+   "expires": "2026-10-18T21:05:48+00:00"
   },
   {
    "id": "n44039b306a",
@@ -1011,14 +1374,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-19T18:42:07+00:00",
-   "img": "https://images.tagesschau.de/image/d9953858-0526-4af7-a09f-328068fc7118/AAABoUYFfyE/AAABnSSvrFg/16x9-big/smartphone-314.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Bundesrat - Länder fordern Schutz für Minderjährige vor gefährlichen Mutproben",
-     "link": "https://www.deutschlandfunk.de/laender-fordern-schutz-fuer-minderjaehrige-vor-gefaehrlichen-mutproben-100.html"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/d9953858-0526-4af7-a09f-328068fc7118/AAABoUYFfyE/AAABnSSvrFg/16x9-big/smartphone-314.jpg?width=1920"
   },
   {
    "id": "n149c0947c0",
@@ -1048,8 +1404,8 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Gipfel in Brüssel - Selenskyj: Ukraine braucht 2027 weitere 70 Milliarden Euro für Abwehrkampf gegen Russland",
-     "link": "https://www.deutschlandfunk.de/selenskyj-ukraine-braucht-2027-weitere-70-milliarden-euro-fuer-abwehrkampf-gegen-russland-102.html"
+     "title": "Ukraine - Selenskyj: Satelliteninternet weiter gedrosselt",
+     "link": "https://www.deutschlandfunk.de/selenskyj-satelliteninternet-weiter-gedrosselt-100.html"
     }
    ]
   },
@@ -1328,443 +1684,6 @@
    "lang": "de",
    "expires": "2026-10-18T16:20:27+00:00",
    "img": "https://bilder.deutschlandfunk.de/92/96/c8/64/9296c864-02bb-4e89-a4e7-3e38317b8f6e/verbrenner-auspuff-auto-100-1920x1920.jpg"
-  },
-  {
-   "id": "nb8a3756d83",
-   "topic": "it",
-   "title": "Apple-Website in Frankreich leakt neues iPad mini",
-   "text": "Apples neues Kompakttablet dürfte in den kommenden Wochen erscheinen. Das hat der Konzern nun selbst indirekt bestätigt.",
-   "link": "https://www.heise.de/news/Apple-Website-in-Frankreich-leakt-neues-iPad-mini-11490778.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-16T16:16:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-21T16:16:00+00:00",
-   "also": [
-    {
-     "source": "Golem.de",
-     "title": "Apple: Das iPad mini 8 steht vor der Tür",
-     "link": "https://www.golem.de/news/apple-das-ipad-mini-8-steht-vor-der-tuer-2610-214213.html"
-    }
-   ]
-  },
-  {
-   "id": "nd1ab133f9c",
-   "topic": "nfl",
-   "title": "Eagles steal QB from Cowboys: Joe Milton expected to sign with Philadelphia after injury to Jalen Hurts",
-   "text": "Joe Milton joins Tanner McKee and rookie Cole Payton in Philadelphia, a move that raises the possibility of Jalen Hurts eventually landing on injured reserve",
-   "link": "https://www.cbssports.com/nfl/news/eagles-sign-qb-joe-milton-jalen-hurts-injury-cowboys/",
-   "published": "2026-10-16T16:02:35+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-21T16:02:35+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/16/13a1b164-5522-43c4-882c-b9ca42515ea8/joe-milton.jpg"
-  },
-  {
-   "id": "nfaf2cacd50",
-   "topic": "it",
-   "title": "(g+) Gehirn-Computer-Schnittstelle: Was passiert, wenn KI unsere Gedanken lesen kann?",
-   "text": "Kann KI bald Gedanken lesen? In seinem Kommentar in der Financial Times wirft John Thornhill einen Blick auf Chancen und Risiken. Unsere Leseempfehlung. Von John Thornhill ( BCI , Silicon Valley )",
-   "link": "https://www.golem.de/news/gehirn-computer-schnittstelle-was-passiert-wenn-ki-unsere-gedanken-lesen-kann-2610-214203.html",
-   "published": "2026-10-16T16:00:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-21T16:00:02+00:00",
-   "img": "https://www.golem.de/2610/214203-603847-603845_rc.jpg"
-  },
-  {
-   "id": "nfd3329e986",
-   "topic": "it",
-   "title": "Neue PC-Spiele im November 2026: „Hull Rupture“",
-   "text": "Im November werden unter anderem das Bullet-Heaven-Survivalspiel „Warhammer Survivors“ und die Lebenssimulation „Orion Blue“ veröffentlicht.",
-   "link": "https://www.heise.de/news/Warhammer-Survivors-Neue-PC-Spiele-im-November-2026-11491118.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-16T15:51:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-21T15:51:00+00:00"
-  },
-  {
-   "id": "nf4df85940f",
-   "topic": "politik",
-   "title": "Eintracht Frankfurt: Laura Freigang soll gegen Leverkusen wieder strahlen",
-   "text": "Laura Freigangs Tränen nach dem Länderspiel gegen Japan sorgten für Aufsehen. Zurück bei Eintracht Frankfurt strahlt die Angreiferin schon wieder. Pünktlich zum Verfolgerduell in Leverkusen.",
-   "link": "https://www.hessenschau.de/sport/fussball/eintracht-frankfurt-frauen/eintracht-frankfurt-laura-freigang-soll-gegen-leverkusen-wieder-strahlen-v1,sge-freigang-vor-leverkusen-100.html",
-   "published": "2026-10-16T15:41:57+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-20T15:41:57+00:00",
-   "img": "https://www.hessenschau.de/sport/fussball/eintracht-frankfurt-frauen/freigang-166~_t-1792076007142_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "n3633abb3c9",
-   "topic": "it",
-   "title": "Cybercrime: Illegales Glasfaserkabel versorgt Scam-Zentrum in Myanmar",
-   "text": "Über ein illegales Glasfaserkabel aus Thailand sind in Myanmar ein illegales Casino und ein Scam-Zentrum betrieben worden. ( Cybercrime , Security )",
-   "link": "https://www.golem.de/news/cybercrime-illegales-glasfaserkabel-versorgt-scam-zentrum-in-myanmar-2610-214202.html",
-   "published": "2026-10-16T15:25:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-21T15:25:02+00:00",
-   "img": "https://www.golem.de/2610/214202-603835-603833_rc.jpg"
-  },
-  {
-   "id": "n599728a2a3",
-   "topic": "wissenschaft",
-   "title": "Zeitmessung: Schaltstunde verhindert negative Schaltsekunde",
-   "text": "Schaltsekunden führen bei Computersystemen immer wieder zu Problemen. Die Einführung von Schaltstunden soll nun eine negative Schaltsekunde verhindern.",
-   "link": "https://www.spektrum.de/news/weltzeit-schaltsekunde-wird-zur-schaltstunde/2342477",
-   "published": "2026-10-16T15:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-10-30T15:00:00+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Schaltsekunde abgeschafft - kommt dafür die Schaltstunde?",
-     "link": "https://www.tagesschau.de/wissen/forschung/schaltsekunde-abschaffung-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n5d49649027",
-   "topic": "politik",
-   "title": "Wirtschaftsministerin Reiche für Direktzahlungen nach \"Tankrabatt\"",
-   "text": "Der \"Tankrabatt\" soll Autofahrer entlasten - aber was kommt danach? Wirtschaftsministerin Reiche spricht sich im ARD Interview der Woche für eine gezieltere Entlastung von Geringverdienern aus - und erhöht den Druck auf das Finanzministerium.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/katherina-reiche-tankrabatt-entlastungen-100.html",
-   "published": "2026-10-16T14:55:10+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-19T14:55:10+00:00",
-   "img": "https://images.tagesschau.de/image/a877b373-0905-423f-9fdb-a86809b5af0f/AAABoUWtZJY/AAABnSSvrFg/16x9-big/reiche-236.jpg?width=1920"
-  },
-  {
-   "id": "nf3fc9d427a",
-   "topic": "welt",
-   "title": "Technische Panne legt Flugverkehr in Italien teilweise lahm",
-   "text": "Gestrichene Flüge und Verspätungen: Eine technische Störung hat den Flugverkehr in Italien beeinträchtigt. Inzwischen hat sich die Lage wieder normalisiert. Die Ursache ist noch unklar. Ein Hackerangriff oder Sabotage werden ausgeschlossen.",
-   "link": "https://www.tagesschau.de/ausland/europa/flugverkehr-italien-100.html",
-   "published": "2026-10-16T14:55:02+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-19T14:55:02+00:00",
-   "img": "https://images.tagesschau.de/image/acaa8819-e7dc-4c21-99ff-9fade689948c/AAABoUPnStA/AAABnSSvrFg/16x9-big/flughafen-terminal-rom-100.jpg?width=1920"
-  },
-  {
-   "id": "n9b14930014",
-   "topic": "wissenschaft",
-   "title": "Schaltsekunde abgeschafft - kommt dafür die Schaltstunde?",
-   "text": "Ein internationales Gremium hat festgelegt: Künftig wird es keine Schaltsekunden mehr geben. 27 Mal wurde sie genutzt, um unsere Uhren mit der astronomischen Zeit in Einklang zu halten. Ein neues System käme erst im Jahr 3000 zum Einsatz.",
-   "link": "https://www.tagesschau.de/wissen/forschung/schaltsekunde-abschaffung-100.html",
-   "published": "2026-10-16T14:50:10+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-30T14:50:10+00:00",
-   "img": "https://images.tagesschau.de/image/b4e4b924-0099-42ab-8160-91d374e1db68/AAABoUUxIP8/AAABnSSvrFg/16x9-big/schaltsekunde-104.jpg?width=1920",
-   "also": [
-    {
-     "source": "Spektrum der Wissenschaft",
-     "title": "Zeitmessung: Schaltstunde verhindert negative Schaltsekunde",
-     "link": "https://www.spektrum.de/news/weltzeit-schaltsekunde-wird-zur-schaltstunde/2342477"
-    }
-   ]
-  },
-  {
-   "id": "nbc1e2183e3",
-   "topic": "politik",
-   "title": "Drohungen an jüdische Studenten nach AfD-Blockade bei Gedenkfeier",
-   "text": "Jüdische Studierende hatten AfD-Politiker Tillschneider daran gehindert, am Gedenken in der Synagoge von Halle teilzunehmen - jetzt bekommen sie Morddrohungen. Die Polizei ermittelt, ob Tillschneider beleidigt wurde.",
-   "link": "https://www.tagesschau.de/inland/juedische-studenten-afd-100.html",
-   "published": "2026-10-16T14:40:15+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-19T14:40:15+00:00",
-   "img": "https://images.tagesschau.de/image/63eac52b-8c78-4aaa-af79-e74bd79ba162/AAABoUTr3CY/AAABnSSvrFg/16x9-big/tillschneider-synagoge-106.jpg?width=1920"
-  },
-  {
-   "id": "nbb6f387104",
-   "topic": "wirtschaft",
-   "title": "Wie es mit der Commerzbank nun weitergeht",
-   "text": "Nach der Zustimmung der EZB-Aufseher steht einer Mehrheitsübernahme der Commerzbank durch die italienische Großbank UniCredit fast nichts mehr im Weg. Was sind die nächsten Schritte - und die Folgen? Von Ursula Mayer.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/unicredit-commerzbank-uebernahme-100.html",
-   "published": "2026-10-16T14:25:09+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-19T14:25:09+00:00",
-   "img": "https://images.tagesschau.de/image/6f31a68c-cbd9-40aa-82b0-8a216d83437c/AAABkeT-zQQ/AAABnSSvrFg/16x9-big/commerzbank-unicredit-100.jpg?width=1920"
-  },
-  {
-   "id": "n43c7c5d99f",
-   "topic": "wissenschaft",
-   "title": "Weiße Zwerge: Schwerer als die Theorie erlaubt",
-   "text": "Die Chandrasekhar-Masse gilt eigentlich als oberes Limit für die Masse von Weißen Zwergen. Doch neben einer schnellen Rotation könnten auch Magnetfelder diese Grenze verschieben.",
-   "link": "https://www.spektrum.de/news/super-chandrasekhar-wenn-weisse-zwerge-schwerer-werden-als-erlaubt/2349363",
-   "published": "2026-10-16T14:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-10-30T14:00:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/eso2403a.jpg.8416445.jpg?f=1280x720"
-  },
-  {
-   "id": "n95ef20d027",
-   "topic": "wissenschaft",
-   "title": "Bilder der Woche: Raketenstart produziert kurzlebige Leuchterscheinung",
-   "text": "Bei einem Start am 13. Oktober 2026 produzierte eine Rakete des Typs Falcon 9 ein eindrucksvolles Schauspiel, als sich die beiden Stufen gerade voneinander getrennt hatten.",
-   "link": "https://www.spektrum.de/alias/bilder-der-woche/raketenstart-produziert-kurzlebige-leuchterscheinung/2350168",
-   "published": "2026-10-16T13:30:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-10-30T13:30:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/KSC-20261013-PH-BWW01_0003_orig.jpg.8418023.jpg?f=1280x720"
-  },
-  {
-   "id": "n3624ebf63d",
-   "topic": "politik",
-   "title": "Gefährliche Mutproben: Bundesrat fordert mehr Schutz von Minderjährigen im Netz",
-   "text": "Bei \"Blackout-Challenges\" würgen sich Jugendliche selbst oder gegenseitig bis zur Ohnmacht. Aufnahmen davon werden vielfach in Sozialen Medien geteilt. Der Bundesrat fordert nun Strafen für die, die andere gezielt zu solchen Handlungen verleiten.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/soziale-medien-challenges-bundesrat-100.html",
-   "published": "2026-10-16T13:29:07+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-19T13:29:07+00:00",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Bundesrat - Länder fordern Schutz für Minderjährige vor gefährlichen Mutproben",
-     "link": "https://www.deutschlandfunk.de/laender-fordern-schutz-fuer-minderjaehrige-vor-gefaehrlichen-mutproben-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n7e63d6f65a",
-   "topic": "wirtschaft",
-   "title": "KI: Bundesregierung plant Kooperation mit US-Chiphersteller Nvidia",
-   "text": "Deutschland will beim KI-Boom mitwirken - die Industrie soll zukunftsfähig gemacht und der Standort für Investoren attraktiver werden. Um das zu erreichen, hat die Regierung offenbar einen Deal mit Nvidia eingefädelt.",
-   "link": "https://www.tagesschau.de/wirtschaft/technologie/nvidia-bundesregierung-ki-100.html",
-   "published": "2026-10-16T13:13:40+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-19T13:13:40+00:00",
-   "img": "https://images.tagesschau.de/image/32a78f71-e7ce-4066-a96f-c0bdb7c44625/AAABoUTYypc/AAABnSSvrFg/16x9-big/nvidia-182.jpg?width=1920"
-  },
-  {
-   "id": "nfb57483abd",
-   "topic": "welt",
-   "title": "Ukraine-Krieg: Trump sieht Selenskyj als Friedenshindernis",
-   "text": "Donald Trump verschärft seine Kritik an der Ukraine. Der US-Präsident macht deren Angriffe auf russische Ölraffinerien für steigende Energiepreise verantwortlich. Rückendeckung erhält die Ukraine dagegen von der EU.",
-   "link": "https://www.dw.com/de/ukraine-krieg-trump-sieht-selenskyj-als-friedenshindernis/a-79676193?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-16T13:08:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-20T13:08:00+00:00",
-   "img": "https://static.dw.com/image/79636230_302.jpg",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Ukraine-Krieg - Trump: Weder US-Regierung noch Musk für Starlink-Ausfälle verantwortlich",
-     "link": "https://www.deutschlandfunk.de/trump-weder-us-regierung-noch-musk-fuer-starlink-ausfaelle-verantwortlich-106.html"
-    }
-   ]
-  },
-  {
-   "id": "nf0befde75f",
-   "topic": "welt",
-   "title": "Streit über Wehrdienst für Ultraorthodoxe in Israel",
-   "text": "Die Frage der Wehrpflicht spaltet Israel. Sollen junge ultraorthodoxe Männer in der Armee dienen oder weiter die heiligen Schriften studieren? Forderungen nach Wehrgerechtigkeit treffen auf massiven Widerstand - gerade vor der Wahl. Von Julio Segador.",
-   "link": "https://www.tagesschau.de/ausland/asien/israel-wehrpflicht-ultraorthodox-100.html",
-   "published": "2026-10-16T12:59:58+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-19T12:59:58+00:00",
-   "img": "https://images.tagesschau.de/image/92bdfabf-04a9-4b88-904f-ccac7ca3d1bc/AAABoTrKuQo/AAABnSSvrFg/16x9-big/ultraorthodoxe-juden-102.jpg?width=1920"
-  },
-  {
-   "id": "n1161587b70",
-   "topic": "welt",
-   "title": "Indien mobilisiert 25.000 Sicherheitskräfte gegen \"Kakerlaken\"-Proteste",
-   "text": "Die Protestbewegung wirft der Wahlkommission vor, Millionen Menschen das Wahlrecht zu entziehen. Hintergrund ist die umstrittene Überprüfung der Wählerverzeichnisse. Auch die katholische Kirche unterstützt die Proteste.",
-   "link": "https://www.dw.com/de/indien-mobilisiert-25-000-sicherheitskräfte-gegen-kakerlaken-proteste/a-79680554?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-16T12:52:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-20T12:52:00+00:00",
-   "img": "https://static.dw.com/image/79680976_302.jpg"
-  },
-  {
-   "id": "n0add26dac1",
-   "topic": "wirtschaft",
-   "title": "Noch mehr Eigentum westlicher Firmen unter Kreml-Kontrolle",
-   "text": "Unmittelbar vor Wolodymyr Selenskyjs Auftritt beim Europäischen Rat stellt Russland weitere europäische Unternehmen im Land unter staatliche Zwangsverwaltung - darunter einen deutschen Verpackungshersteller.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/russland-vermoegen-deutscher-firmen-staatliche-kontrolle-100.html",
-   "published": "2026-10-16T12:38:24+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-19T12:38:24+00:00",
-   "img": "https://images.tagesschau.de/image/3d53a2dc-dcd5-45f4-98d3-15eea69d4ea1/AAABoK8o85A/AAABnSSvrFg/16x9-big/kreml-224.jpg?width=1920"
-  },
-  {
-   "id": "n89de253bae",
-   "topic": "politik",
-   "title": "Welche Tabakware wie viel teurer wird",
-   "text": "Zigaretten, Feinschnitt und andere Tabakwaren und tabakähnliche Produkte sollen deutlich stärker besteuert werden als bislang - die Preise dürften erheblich steigen. Was ist genau geplant?",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/ueberblick-tabaksteuer-100.html",
-   "published": "2026-10-16T12:38:22+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-19T12:38:22+00:00",
-   "img": "https://images.tagesschau.de/image/678223d5-1093-46db-84ea-b8dc5fe790f8/AAABoUQAmWw/AAABnSSvrFg/16x9-big/zigaretten-170.jpg?width=1920"
-  },
-  {
-   "id": "nb71ad8763a",
-   "topic": "wirtschaft",
-   "title": "Auto-Aktien steigen nach deutsch-französischer Einigung deutlich",
-   "text": "Deutschland und Frankreich haben sich auf die Lockerung des eigentlich beschlossenen Verbrenner-Aus geeinigt. Das lässt die Aktien der Autobauer nach oben springen. Und auch der DAX kann am Mittag zulegen.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/autobauer-verbrenneraus-marktbericht-100.html",
-   "published": "2026-10-16T12:17:39+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-19T12:17:39+00:00",
-   "img": "https://images.tagesschau.de/image/f55caa6d-3600-43c0-a969-a94996254d7e/AAABoUQNC4w/AAABnSSvrFg/16x9-big/verkehr-stau-108.jpg?width=1920"
-  },
-  {
-   "id": "nb07f1c8290",
-   "topic": "ki",
-   "title": "KI-Interpretierbarkeit vor dem Durchbruch? Forscher-Szene streitet über neue Lesart neuronaler Netze",
-   "text": "Die Innenwelt neuronaler Netze könnte deutlich lesbarer sein als bisher angenommen – rund 90 Prozent der Neuronen hätten demnach eine klare Funktion. Für die KI-Sicherheitsforschung wäre das eine entscheidende Nachricht: Täuschung oder gefährliches Verhalten ließe sich direkt in den Schaltkreisen eines Modells …",
-   "link": "https://the-decoder.de/ki-interpretierbarkeit-vor-dem-durchbruch-forscher-szene-streitet-ueber-neue-lesart-neuronaler-netze/",
-   "published": "2026-10-16T12:13:08+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-23T12:13:08+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/Neural-Networks-Goodfire-Clean.png"
-  },
-  {
-   "id": "n06361f01d1",
-   "topic": "wirtschaft",
-   "title": "Deutschland und Frankreich einig bei Lockerung von Verbrenner-Aus",
-   "text": "Frankreich und Deutschland haben sich auf eine Aufweichung des Verbrenner-Aus verständigt. Das gaben beide Regierungen nun bekannt. Entsprechende Autos könnten so auch nach 2035 in der EU neu zugelassen werden.",
-   "link": "https://www.tagesschau.de/wirtschaft/energie/frankreich-deutschland-verbrenner-aus-einigung-100.html",
-   "published": "2026-10-16T11:48:16+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-19T11:48:16+00:00",
-   "img": "https://images.tagesschau.de/image/e2b43fff-59c0-4b85-9ce0-a3ed62fc7b58/AAABmAzanrE/AAABnSSvrFg/16x9-big/autos-192.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Verbrenner-Aus ab 2035 - Deutschland und Frankreich einigen sich auf Lockerungen",
-     "link": "https://www.deutschlandfunk.de/deutschland-und-frankreich-einigen-sich-auf-lockerungen-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n85b9b8ee1a",
-   "topic": "politik",
-   "title": "\"Deutschlandtag\" der Jungen Union - der Parteinachwuchs als Antreiber",
-   "text": "Die Umfragewerte im Keller, die Stimmung auch: In der Koalition kriselt es. Beim \"Deutschlandtag\" der Jungen Union in Bonn will der Parteinachwuchs nun neue Impulse für die Union setzen. Von Dagmar Pepping.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/junge-union-deutschlandtag-112.html",
-   "published": "2026-10-16T11:28:58+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-19T11:28:58+00:00",
-   "img": "https://images.tagesschau.de/image/c8dc871e-86d7-4307-b791-e26af85b4fb6/AAABmoMLMv0/AAABnSSvrFg/16x9-big/merz-1090.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Deutschlandtag der Jungen Union - Merz: Reformprozess schnell abschließen",
-     "link": "https://www.deutschlandfunk.de/merz-reformprozess-schnell-abschliessen-100.html"
-    }
-   ]
-  },
-  {
-   "id": "na5b01478a8",
-   "topic": "politik",
-   "title": "Vergabe der Wiesn-Zelte laut Gerichtsbeschluss rechtmäßig",
-   "text": "Monatelang wurde darüber gestritten, wie die lukrativen Wiesn-Festzelte vergeben werden - und ob dabei nicht europäisches Recht angewendet werden müsste. Nun gab es die finale Entscheidung.",
-   "link": "https://www.tagesschau.de/inland/gesellschaft/gerichtsentscheidung-wiesn-zelte-100.html",
-   "published": "2026-10-16T11:23:56+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-19T11:23:56+00:00",
-   "img": "https://images.tagesschau.de/image/21518b14-f443-4d3d-adf6-53b2ba0df448/AAABoURpCz8/AAABnSSvrFg/16x9-big/oktoberfest-458.jpg?width=1920"
-  },
-  {
-   "id": "n15111c165a",
-   "topic": "politik",
-   "title": "Verbrenner-Aus ab 2035 - Deutschland und Frankreich einigen sich auf Lockerungen",
-   "text": "Deutschland und Frankreich haben sich auf eine gemeinsame Position geeinigt, die eine Abkehr vom sogenannten Verbrenner-Aus bis 2035 enthält. Das geht aus einem Papier der beiden Regierungen hervor. Demnach soll der Anteil von Autos mit Verbrennermotor an den Neuwagen bis 2035 nicht um 100, sondern nur um 90 Prozent …",
-   "link": "https://www.deutschlandfunk.de/deutschland-und-frankreich-einigen-sich-auf-lockerungen-100.html",
-   "published": "2026-10-16T11:16:07+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-18T11:16:07+00:00",
-   "img": "https://bilder.deutschlandfunk.de/da/22/24/0c/da22240c-7f05-4da3-92ce-4d422f8cd2a9/verbrenner-auto-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Deutschland und Frankreich einig bei Lockerung von Verbrenner-Aus",
-     "link": "https://www.tagesschau.de/wirtschaft/energie/frankreich-deutschland-verbrenner-aus-einigung-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n33456a4d9b",
-   "topic": "politik",
-   "title": "Bundestag - Psychotherapie-Einschnitte werden begrenzt - Wissenschaftler warnen weiter vor Folgen der Einsparungen",
-   "text": "Der Bundestag hat Nachbesserungen an den Sparplänen der Bundesregierung bei der Psychotherapie beschlossen. Bestimmte Gruppen werden nun besonders geschützt: unter anderem Kinder, Jugendliche und schwer Erkrankte. Für sie sollen Psychotherapiestunden weiterhin voll vergütet bleiben.",
-   "link": "https://www.deutschlandfunk.de/psychotherapie-einschnitte-werden-begrenzt-wissenschaftler-warnen-weiter-vor-folgen-der-einsparungen-100.html",
-   "published": "2026-10-16T11:16:07+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-18T11:16:07+00:00",
-   "img": "https://bilder.deutschlandfunk.de/84/88/76/28/84887628-d7a7-401d-b23d-24520767e959/demo-kuerzungen-psychotherapie-100-1920x1920.jpg"
-  },
-  {
-   "id": "n2ca654750b",
-   "topic": "politik",
-   "title": "Bundesrat - Länder fordern Schutz für Minderjährige vor gefährlichen Mutproben",
-   "text": "Kinder und Jugendliche sollen nach dem Willen der Bundesländer besser vor gefährlichen Mutproben im Internet geschützt werden.",
-   "link": "https://www.deutschlandfunk.de/laender-fordern-schutz-fuer-minderjaehrige-vor-gefaehrlichen-mutproben-100.html",
-   "published": "2026-10-16T11:16:07+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-18T11:16:07+00:00",
-   "img": "https://bilder.deutschlandfunk.de/15/55/ef/93/1555ef93-113e-4b55-8bef-839b33254ef8/soziale-medien-jugendliche-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Online Challenges: Bundesrat fordert mehr Schutz von Minderjährigen",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/soziale-medien-challenges-100.html"
-    }
-   ]
   }
  ]
 }
