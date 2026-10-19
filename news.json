@@ -1,50 +1,278 @@
 {
- "generated": "2026-10-18T23:13:23.984352+00:00",
+ "generated": "2026-10-19T04:42:08.509608+00:00",
  "briefing": [
-  "n043e6d7e1d",
   "nb4716948ef",
-  "nfd45262afd",
+  "n043e6d7e1d",
   "n7d922da4e0",
   "n1481b327ec",
+  "n4376a8903d",
+  "ne4212774aa",
   "n952ba5b894",
-  "n78b2b8e866",
-  "nc8df7d63c9"
+  "n9fb62f1c8d"
  ],
  "ranked": [
-  {
-   "id": "n043e6d7e1d",
-   "s": 32.8
-  },
   {
    "id": "nb4716948ef",
    "s": 32.0
   },
   {
-   "id": "nfd45262afd",
-   "s": 27.0
+   "id": "n043e6d7e1d",
+   "s": 31.4
   },
   {
    "id": "n7d922da4e0",
-   "s": 26.4
+   "s": 25.0
   },
   {
    "id": "n1481b327ec",
-   "s": 24.8
+   "s": 23.5
+  },
+  {
+   "id": "n4376a8903d",
+   "s": 23.0
+  },
+  {
+   "id": "ne4212774aa",
+   "s": 22.6
   },
   {
    "id": "n952ba5b894",
-   "s": 22.2
+   "s": 20.8
   },
   {
-   "id": "n78b2b8e866",
-   "s": 22.0
-  },
-  {
-   "id": "nc8df7d63c9",
-   "s": 21.1
+   "id": "n9fb62f1c8d",
+   "s": 19.7
   }
  ],
  "items": [
+  {
+   "id": "nefd3e47392",
+   "topic": "nfl",
+   "title": "Jim Harbaugh to 'address everything' after latest loss drops Chargers to 0-6, leading to more Mike McDaniel questions",
+   "text": "The Chargers \"have to address everything, and especially offensively,\" Jim Harbaugh said on Sunday.",
+   "link": "https://sports.yahoo.com/nfl/article/jim-harbaugh-to-address-everything-after-latest-loss-drops-chargers-to-0-6-leading-to-more-mike-mcdaniel-questions-043813528.html",
+   "published": "2026-10-19T04:38:13+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-24T04:38:13+00:00"
+  },
+  {
+   "id": "ne5202f7ddb",
+   "topic": "politik",
+   "title": "Nach Ausschreitungen - Frankreichs Präsident Macron verurteilt Gewalt: \"Wir alle empfinden Wut und Scham\"",
+   "text": "Nach den gewalttätigen Ausschreitungen in zahlreichen Städten hat sich Frankreichs Präsident Macron mit einer Fernsehansprache an die Bevölkerung gewandt. Er verurteilte die Eskalation und kündigte Konsequenzen an. Die Regierung werde unnachgiebig sein.",
+   "link": "https://www.deutschlandfunk.de/frankreichs-praesident-macron-verurteilt-gewalt-wir-alle-empfinden-wut-und-scham-104.html",
+   "published": "2026-10-19T04:36:34+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-21T04:36:34+00:00",
+   "img": "https://bilder.deutschlandfunk.de/d9/c5/0f/69/d9c50f69-1a67-490f-9f67-4c552a0fef11/macronfernsehansprache-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Ausschreitungen in Frankreich: Fassungslosigkeit und Schuldzuweisungen",
+     "link": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-politische-reaktionen-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Frankreich: 1800 Festnahmen bei Protesten",
+     "link": "https://www.dw.com/de/frankreich-1800-festnahmen-bei-protesten/a-79692403?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "n9fce2e52d9",
+   "topic": "politik",
+   "title": "Nach Krawallen - Deutsche Politiker besorgt über Eskalation der Proteste in Frankreich",
+   "text": "Angesichts der gewalttätigen Proteste in Frankreich wächst auch in Deutschland die Besorgnis.",
+   "link": "https://www.deutschlandfunk.de/deutsche-politiker-besorgt-ueber-eskalation-der-proteste-in-frankreich-106.html",
+   "published": "2026-10-19T04:36:34+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-21T04:36:34+00:00",
+   "img": "https://bilder.deutschlandfunk.de/19/8c/99/fe/198c99fe-5905-4787-b19f-5e0f825ecae5/bury-cdu-100-1920x1920.jpg"
+  },
+  {
+   "id": "n8dd03d2e3b",
+   "topic": "politik",
+   "title": "Sozialproteste - Weitere Kundgebungen und Ausschreitungen in europäischen Ländern",
+   "text": "Außer in Frankreich ist es auch in anderen europäischen Ländern bei Protesten gegen hohe Lebenshaltungskosten teilweise zu Ausschreitungen gekommen.",
+   "link": "https://www.deutschlandfunk.de/weitere-kundgebungen-und-ausschreitungen-in-europaeischen-laendern-100.html",
+   "published": "2026-10-19T04:36:34+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-21T04:36:34+00:00"
+  },
+  {
+   "id": "n19498b8284",
+   "topic": "politik",
+   "title": "Ukraine-Krieg - Trump verteidigt Aussetzen von Sanktionen gegen Russland",
+   "text": "US-Präsident Trump hat das Aussetzen von Sanktionen gegen Russland gegen Kritik verteidigt.",
+   "link": "https://www.deutschlandfunk.de/trump-verteidigt-aussetzen-von-sanktionen-gegen-russland-100.html",
+   "published": "2026-10-19T04:36:34+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-21T04:36:34+00:00"
+  },
+  {
+   "id": "n4376a8903d",
+   "topic": "politik",
+   "title": "Ukraine - U-Bahn-Station in Kiew bei russischem Angriff beschädigt",
+   "text": "Bei einem russischen Luftangriff auf die ukrainische Hauptstadt Kiew ist eine U-Bahn-Station getroffen worden.",
+   "link": "https://www.deutschlandfunk.de/u-bahn-station-in-kiew-bei-russischem-angriff-beschaedigt-100.html",
+   "published": "2026-10-19T04:36:34+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-21T04:36:34+00:00",
+   "img": "https://bilder.deutschlandfunk.de/a8/0f/e0/68/a80fe068-48f7-421d-b60d-97a14fdd1bb9/ukraine-russland-krieg-angriff-drohnen-raketen-kiew-104-1920x1920.jpg"
+  },
+  {
+   "id": "ne020224491",
+   "topic": "politik",
+   "title": "Nach Bas‘ Rückzug - Heil über Kandidatur zum SPD-Vorsitz: \"Ich kann es nicht ausschließen, dass ich antrete.\"",
+   "text": "Der frühere Bundesarbeitsminister Heil hat eine Kandidatur für den SPD-Vorsitz angedeutet.",
+   "link": "https://www.deutschlandfunk.de/heil-ueber-kandidatur-zum-spd-vorsitz-ich-kann-es-nicht-ausschliessen-dass-ich-antrete-110.html",
+   "published": "2026-10-19T04:36:34+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-21T04:36:34+00:00"
+  },
+  {
+   "id": "n0321da3661",
+   "topic": "politik",
+   "title": "11KM-Podcast: Deutsche Beamte zwischen Bashing und Reformen",
+   "text": "Knapp 57 Milliarden Euro hat Deutschland 2024 allein für die Pensionen von Beamten ausgegeben. Ist das noch bezahlbar? 11KM fragt, wo eine Reform des deutschen Beamtensystems ansetzen könnte.",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/podcast-11km-beamte-100.html",
+   "published": "2026-10-19T04:26:52+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-22T04:26:52+00:00",
+   "img": "https://images.tagesschau.de/image/242f7624-f213-4761-85c3-479a0ac504b7/AAABoVJRkKk/AAABnSSvrFg/16x9-big/podcast-11km-3954.jpg?width=1920"
+  },
+  {
+   "id": "nf7267db194",
+   "topic": "it",
+   "title": "Montag: Hürden für neue KI-Rechenzentren, Forderung nach mehr Verfassungsschutz",
+   "text": "Bremsen des KI-Booms + Länder für Ausweitung des Verfassungsschutzes + Grüffelo-Schöpfer gegen KI-Kopien + Initiative für E20-Sprit + iPhone Duo kaum verfügbar",
+   "link": "https://www.heise.de/news/Montag-Huerden-fuer-neue-KI-Rechenzentren-Forderung-nach-mehr-Verfassungsschutz-11491973.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-19T04:15:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-24T04:15:00+00:00"
+  },
+  {
+   "id": "n8149be688c",
+   "topic": "politik",
+   "title": "Hessen am Morgen: Die Nachrichten im Ticker vom 19.10.2026",
+   "text": "Jetzt live: Was in der Nacht passiert ist, was heute wichtig wird – und alles, was Hessen bewegt. Wir starten mit Ihnen in den Montag.",
+   "link": "https://www.hessenschau.de/hessen-am-morgen/ice-lokfuehrer-verpasst-halt-in-fulda-und-haelt-erst-in-huenfeld--hessen-am-morgen-die-nachrichten-im-ticker-vom-19102026,hessen-am-morgen-montag-1030.html",
+   "published": "2026-10-19T04:09:54+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-23T04:09:54+00:00",
+   "img": "https://www.hessenschau.de/panorama/unfall-herbstein-110~_t-1792381527158_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "n8b356c0c30",
+   "topic": "nfl",
+   "title": "Fantasy football week 6 recap - we keep winning",
+   "text": "Josh Norris and Hayden Winks are joined by Matt Harmon to break down all of the action from Week 6 of the NFL season.",
+   "link": "https://sports.yahoo.com/article/fantasy-football-week-6-recap---we-keep-winning-040003116.html",
+   "published": "2026-10-19T04:00:03+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-24T04:00:03+00:00",
+   "img": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/week-1-recap-vod_6865.png"
+  },
+  {
+   "id": "ndbc8905afc",
+   "topic": "nfl",
+   "title": "Has the Travis Hunter breakout arrived? Jacksonville CB/WR showcases long-term, two-way potential vs. Texans",
+   "text": "Hunter is hitting his stride with his utilization in 2026, making history with an interception and a receiving touchdown in Week 6",
+   "link": "https://www.cbssports.com/nfl/news/jaguars-travis-hunter-breakout-two-way-potential-vs-texans/",
+   "published": "2026-10-19T03:55:58+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-24T03:55:58+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/18/2f4f6888-93a1-415f-bfb9-c169ddd2a54d/travis-hunter-jaguars.jpg"
+  },
+  {
+   "id": "n73d3c3eccc",
+   "topic": "nfl",
+   "title": "NFL Week 6 grades for every team that played so far: Browns, Steelers earn high marks, Colts get 'F'",
+   "text": "We're handing out grades for every Week 6 game, and we don't hold back",
+   "link": "https://www.cbssports.com/nfl/news/nfl-grades-week-6-browns-ravens-afc-colts-2026/",
+   "published": "2026-10-19T03:50:24+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-24T03:50:24+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/18/f67c29b7-637b-49aa-9dfd-47f8722f033d/colts.jpg"
+  },
+  {
+   "id": "ne4212774aa",
+   "topic": "politik",
+   "title": "Wann kommt der Gesetzentwurf für die Rentenreform?",
+   "text": "Die Rentenreform soll kommen. Darüber sind sich in der schwarz-roten Koalition alle einig. Über die Details und den Zeitplan gehen die Meinungen aber weiterhin auseinander - auch bei den Fraktionschefs.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-zeitplan-miersch-frei-100.html",
+   "published": "2026-10-19T03:00:16+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-22T03:00:16+00:00",
+   "img": "https://images.tagesschau.de/image/af1678f1-6ac4-48d5-9487-8952cc3bf93a/AAABoVHwzIQ/AAABnSSvrFg/16x9-big/miersch-frei-100.jpg?width=1920"
+  },
+  {
+   "id": "n5ad8d36557",
+   "topic": "welt",
+   "title": "Ausschreitungen in Frankreich: Fassungslosigkeit und Schuldzuweisungen",
+   "text": "Mit Schock und Unverständnis haben viele Menschen in Frankreich auf die Gewalt bei den Protesten reagiert. Die politischen Lager kämpfen um die Deutungshoheit - und machen sich gegenseitig für die Eskalation verantwortlich. Von C. Dylla.",
+   "link": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-politische-reaktionen-100.html",
+   "published": "2026-10-19T02:17:03+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-22T02:17:03+00:00",
+   "img": "https://images.tagesschau.de/image/92031397-fc06-4d39-b99d-ef00a74aa6de/AAABoVFedzQ/AAABnSSvrFg/16x9-big/paris-proteste-128.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Nach Ausschreitungen - Frankreichs Präsident Macron verurteilt Gewalt: \"Wir alle empfinden Wut und Scham\"",
+     "link": "https://www.deutschlandfunk.de/frankreichs-praesident-macron-verurteilt-gewalt-wir-alle-empfinden-wut-und-scham-104.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Frankreich: 1800 Festnahmen bei Protesten",
+     "link": "https://www.dw.com/de/frankreich-1800-festnahmen-bei-protesten/a-79692403?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "nef6e0f69ec",
+   "topic": "welt",
+   "title": "Flugzeug wegen Bombendrohung in Bulgarien notgelandet",
+   "text": "Auf dem Weg von Tel Aviv nach Wien ist ein Flugzeug von Austrian Airlines in Bulgarien notgelandet. Offenbar hatte es zuvor eine Bombendrohung gegen die Maschine gegeben. Die Hintergründe sind noch unklar.",
+   "link": "https://www.tagesschau.de/ausland/europa/notlandung-bulgarien-bombendrohung-100.html",
+   "published": "2026-10-19T00:48:48+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-22T00:48:48+00:00",
+   "img": "https://images.tagesschau.de/image/4b50ce26-ed17-4cc7-b4e9-893285c86cf9/AAABleLgxho/AAABnSSvrFg/16x9-big/schengen-rumaenien-bulgarien-100.jpg?width=1920"
+  },
   {
    "id": "n92c15c7c11",
    "topic": "nfl",
@@ -70,30 +298,6 @@
    "expires": "2026-10-23T23:05:31+00:00"
   },
   {
-   "id": "ne5202f7ddb",
-   "topic": "politik",
-   "title": "Nach Ausschreitungen - Frankreichs Präsident Macron verurteilt Gewalt: \"Wir alle empfinden Wut und Scham\"",
-   "text": "Nach den gewalttätigen Ausschreitungen in zahlreichen Städten hat sich Frankreichs Präsident Macron mit einer Fernsehansprache an die Bevölkerung gewandt. Er verurteilte die Eskalation und kündigte Konsequenzen an. Die Regierung werde unnachgiebig sein.",
-   "link": "https://www.deutschlandfunk.de/frankreichs-praesident-macron-verurteilt-gewalt-wir-alle-empfinden-wut-und-scham-104.html",
-   "published": "2026-10-18T22:35:03+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-20T22:35:03+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Ausschreitungen in Frankreich: Macron spricht von \"Wut und Scham\"",
-     "link": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-102.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Frankreich: 1800 Festnahmen bei Protesten",
-     "link": "https://www.dw.com/de/frankreich-1800-festnahmen-bei-protesten/a-79692403?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
    "id": "nee96f9dc59",
    "topic": "politik",
    "title": "Ukraine - Selenskyj besorgt Washingtons Russland-Kurs, Trump: \"Will Russland am Verhandlungstisch halten\"",
@@ -116,14 +320,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-20T22:35:03+00:00",
-   "img": "https://bilder.deutschlandfunk.de/eb/ae/ef/21/ebaeef21-8b6e-473f-973c-cce04f4054d0/sondierungsgespraeche-berlin-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Linke, Grüne und SPD verkünden Durchbruch bei Sondierungen in Berlin",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-sondierungsvereinbarung-100.html"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/eb/ae/ef/21/ebaeef21-8b6e-473f-973c-cce04f4054d0/sondierungsgespraeche-berlin-100-1920x1920.jpg"
   },
   {
    "id": "n1011f60ec4",
@@ -135,21 +332,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-20T22:35:03+00:00",
-   "img": "https://bilder.deutschlandfunk.de/c6/9a/eb/9c/c69aeb9c-782c-4b99-9ee2-9a415deac1df/portugalprotestcamps-100-1920x1920.jpg"
-  },
-  {
-   "id": "n9fce2e52d9",
-   "topic": "politik",
-   "title": "Nach Krawallen - Deutsche Politiker besorgt über Eskalation der Proteste in Frankreich",
-   "text": "Angesichts der gewalttätigen Proteste in Frankreich wächst auch in Deutschland die Besorgnis.",
-   "link": "https://www.deutschlandfunk.de/deutsche-politiker-besorgt-ueber-eskalation-der-proteste-in-frankreich-106.html",
-   "published": "2026-10-18T22:35:03+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-20T22:35:03+00:00",
-   "img": "https://bilder.deutschlandfunk.de/19/8c/99/fe/198c99fe-5905-4787-b19f-5e0f825ecae5/bury-cdu-100-1920x1920.jpg"
+   "expires": "2026-10-20T22:35:03+00:00"
   },
   {
    "id": "na8726823b7",
@@ -281,8 +464,8 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Ausschreitungen in Frankreich: Macron spricht von \"Wut und Scham\"",
-     "link": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-102.html"
+     "title": "Ausschreitungen in Frankreich: Fassungslosigkeit und Schuldzuweisungen",
+     "link": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-politische-reaktionen-100.html"
     },
     {
      "source": "Deutsche Welle",
@@ -313,8 +496,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-20T19:59:39+00:00",
-   "img": "https://bilder.deutschlandfunk.de/74/be/75/8a/74be758a-5d34-4649-a923-4cd7e020b92f/bundestag-hubertus-heil-spd-rentenpaket-zwei-entwurf-kritik-koalition-100-1920x1920.jpg"
+   "expires": "2026-10-20T19:59:39+00:00"
   },
   {
    "id": "n13f7c292d0",
@@ -405,19 +587,6 @@
    "expires": "2026-10-22T18:55:22+00:00",
    "img": "https://www.hessenschau.de/sport/eishockey/loewen-266~_t-1792333316731_v-16to9.jpg",
    "tag": "Hessen"
-  },
-  {
-   "id": "ndbc8905afc",
-   "topic": "nfl",
-   "title": "Has the Travis Hunter breakout arrived? Jacksonville CB/WR showcases long-term, two-way potential vs. Texans",
-   "text": "Hunter is hitting his stride with his utilization in 2026, making history with an interception and a receiving touchdown in Week 6",
-   "link": "https://www.cbssports.com/nfl/news/jaguars-travis-hunter-breakout-two-way-potential-vs-texans/",
-   "published": "2026-10-18T18:52:49+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-23T18:52:49+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/18/2f4f6888-93a1-415f-bfb9-c169ddd2a54d/travis-hunter-jaguars.jpg"
   },
   {
    "id": "n19aff63e1e",
@@ -575,14 +744,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-20T15:47:22+00:00",
-   "img": "https://bilder.deutschlandfunk.de/d9/33/c6/c7/d933c6c7-227d-442f-bd44-5fc7fe8c30d8/rubio-america-first-healthcare-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Selenskyj kritisiert Trumps Aussetzung von Russland-Sanktionen",
-     "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-sanktionen-100.html"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/d9/33/c6/c7/d933c6c7-227d-442f-bd44-5fc7fe8c30d8/rubio-america-first-healthcare-100-1920x1920.jpg"
   },
   {
    "id": "n0a2721c474",
@@ -846,8 +1008,8 @@
     },
     {
      "source": "Tagesschau",
-     "title": "Ausschreitungen in Frankreich: Macron spricht von \"Wut und Scham\"",
-     "link": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-102.html"
+     "title": "Ausschreitungen in Frankreich: Fassungslosigkeit und Schuldzuweisungen",
+     "link": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-politische-reaktionen-100.html"
     }
    ]
   },
@@ -1262,14 +1424,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-20T04:07:19+00:00",
-   "img": "https://bilder.deutschlandfunk.de/05/e7/19/83/05e71983-0d13-423e-8155-3add1a6217bc/berlin-sondierungen-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Linke, Grüne und SPD verkünden Durchbruch bei Sondierungen in Berlin",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-sondierungsvereinbarung-100.html"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/05/e7/19/83/05e71983-0d13-423e-8155-3add1a6217bc/berlin-sondierungen-100-1920x1920.jpg"
   },
   {
    "id": "neacb4c45b1",
@@ -1298,8 +1453,8 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Ausschreitungen in Frankreich: Macron spricht von \"Wut und Scham\"",
-     "link": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-102.html"
+     "title": "Ausschreitungen in Frankreich: Fassungslosigkeit und Schuldzuweisungen",
+     "link": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-politische-reaktionen-100.html"
     },
     {
      "source": "Deutsche Welle",
@@ -1330,15 +1485,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-20T04:07:19+00:00",
-   "img": "https://bilder.deutschlandfunk.de/3b/62/5c/ca/3b625cca-e4b2-4c1d-8c68-8014f4b1f406/donald-trump-254-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Selenskyj kritisiert Trumps Aussetzung von Russland-Sanktionen",
-     "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-sanktionen-100.html"
-    }
-   ]
+   "expires": "2026-10-20T04:07:19+00:00"
   },
   {
    "id": "n704a1242f0",
@@ -1579,210 +1726,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-19T19:52:03+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Linke, Grüne und SPD verkünden Durchbruch bei Sondierungen in Berlin",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-sondierungsvereinbarung-100.html"
-    }
-   ]
-  },
-  {
-   "id": "ne7094f3bb6",
-   "topic": "politik",
-   "title": "Erneuter Vorfall - Kampfjets schießen Drohnen über Rumänien ab",
-   "text": "In Rumänien hat die Armee zwei Drohnen über dem Schwarzen Meer abgeschossen.",
-   "link": "https://www.deutschlandfunk.de/kampfjets-schiessen-drohnen-ueber-rumaenien-ab-102.html",
-   "published": "2026-10-17T19:52:03+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
    "expires": "2026-10-19T19:52:03+00:00"
-  },
-  {
-   "id": "n8e1697f41d",
-   "topic": "politik",
-   "title": "US-Kongress - Trumps Entscheidung gegen Russland-Sanktionen sorgt auch unter Republikanern für Empörung",
-   "text": "Die Aussetzung von Sanktionen gegen Russland durch US-Präsident Trump hat in den Vereinigten Staaten parteiübergreifend Kritik ausgelöst.",
-   "link": "https://www.deutschlandfunk.de/trumps-entscheidung-gegen-russland-sanktionen-sorgt-auch-unter-republikanern-fuer-empoerung-100.html",
-   "published": "2026-10-17T19:52:03+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-19T19:52:03+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Selenskyj kritisiert Trumps Aussetzung von Russland-Sanktionen",
-     "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-sanktionen-100.html"
-    }
-   ]
-  },
-  {
-   "id": "na98488219e",
-   "topic": "politik",
-   "title": "Hunderte Festnahmen - Schwere Krawalle in Frankreich - Proteste auch in Belgien, Portugal und Italien",
-   "text": "In Frankreich haben mehr als 500.000 Menschen gegen Missstände im Bildungssystem sowie hohe Lebenshaltungskosten demonstriert.",
-   "link": "https://www.deutschlandfunk.de/schwere-krawalle-in-frankreich-proteste-auch-in-belgien-portugal-und-italien-102.html",
-   "published": "2026-10-17T19:52:03+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-19T19:52:03+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Ausschreitungen in Frankreich: Macron spricht von \"Wut und Scham\"",
-     "link": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-102.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Frankreich: 1800 Festnahmen bei Protesten",
-     "link": "https://www.dw.com/de/frankreich-1800-festnahmen-bei-protesten/a-79692403?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "na7a9fccfe2",
-   "topic": "politik",
-   "title": "Jugendproteste - Anführer von \"Kakerlaken\"-Bewegung in Indien wieder auf freiem Fuß",
-   "text": "In Indien hat ein Gericht die Freilassung des Gründers der sogenannten \"Kakerlaken\"-Bewegung angeordnet.",
-   "link": "https://www.deutschlandfunk.de/anfuehrer-von-kakerlaken-bewegung-in-indien-wieder-auf-freiem-fuss-100.html",
-   "published": "2026-10-17T19:52:03+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-19T19:52:03+00:00"
-  },
-  {
-   "id": "n4e45a81b60",
-   "topic": "welt",
-   "title": "Russlands Bedrohung für Deutschland: Wie groß ist sie?",
-   "text": "Experten sehen Deutschland bisher militärisch und mental wenig vorbereitet auf russische Provokationen - und warnen vor der Vorstellung, ein Ende der Ukraine-Unterstützung würde Deutschland sicherer machen.",
-   "link": "https://www.dw.com/de/russlands-bedrohung-für-deutschland-wie-groß-ist-sie/a-79677474?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-17T19:29:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-21T19:29:00+00:00",
-   "img": "https://static.dw.com/image/78987593_302.jpg"
-  },
-  {
-   "id": "n78b2b8e866",
-   "topic": "politik",
-   "title": "Linke, Grüne und SPD verkünden Durchbruch bei Sondierungen in Berlin",
-   "text": "Vier Wochen nach der Wahl zum Berliner Abgeordnetenhaus haben Linke, Grüne und SPD ihre Sondierungsgespräche erfolgreich abgeschlossen. Sofern die Parteigremien zustimmen, können Koalitionsverhandlungen beginnen.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-sondierungsvereinbarung-100.html",
-   "published": "2026-10-17T19:15:16+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-20T19:15:16+00:00",
-   "img": "https://images.tagesschau.de/image/c45d1532-db85-46a5-85be-e491bd86637a/AAABoUptRPc/AAABnSSvrFg/16x9-big/sondierungsvereinbarung-berlin-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Regierungsbildung in Berlin - Grüne und SPD stimmen über Koalitionsverhandlungen ab",
-     "link": "https://www.deutschlandfunk.de/gruene-und-spd-stimmen-ueber-koalitionsverhandlungen-ab-100.html"
-    }
-   ]
-  },
-  {
-   "id": "nd60f8cd032",
-   "topic": "welt",
-   "title": "Ausschreitungen bei Protesten gegen Bildungsreformen in Brüssel",
-   "text": "In Brüssel hat die Polizei Tränengas gegen Teilnehmer von Studentenprotesten eingesetzt. Demonstranten hatten zuvor mit Flaschen und Feuerwerkskörpern geworfen. Belgiens Innenministerium sprach von \"organisierter Gewalt\".",
-   "link": "https://www.tagesschau.de/ausland/europa/bruessel-ausschreitungen-100.html",
-   "published": "2026-10-17T19:10:03+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-20T19:10:03+00:00",
-   "img": "https://images.tagesschau.de/image/125bde1e-d1d3-4383-b86c-5055672128de/AAABoUsqiho/AAABnSSvrFg/16x9-big/bruessel-ausschreitungen-102.jpg?width=1920"
-  },
-  {
-   "id": "n63debc2514",
-   "topic": "welt",
-   "title": "Olivenernte: Verletzte bei Siedlergewalt im Westjordanland",
-   "text": "Während der Olivenernte im Westjordanland häuft sich die Gewalt israelischer Siedler gegen palästinensische Helfer. In mehreren Orten sind dabei Menschen verletzt worden, unter ihnen auch eine US-Journalistin.",
-   "link": "https://www.tagesschau.de/ausland/asien/westjordanland-olivenernte-angriffe-100.html",
-   "published": "2026-10-17T18:09:16+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-20T18:09:16+00:00",
-   "img": "https://images.tagesschau.de/image/b6903c17-a5a2-47f7-8725-84a64fc67201/AAABoUpaOoU/AAABnSSvrFg/16x9-big/olivenernte-westjordanland-100.jpg?width=1920"
-  },
-  {
-   "id": "nfd42da140f",
-   "topic": "it",
-   "title": "Top 10: Der beste portable Monitor mit USB-C – von LCD bis OLED, 4K & Touch",
-   "text": "Portable Monitore erweitern den Laptop per USB-C um einen zweiten Bildschirm – und das ab 60 Euro, Spitzenmodelle bieten sogar OLED, 4K und Touch.",
-   "link": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-portable-monitor-mit-usb-c-von-lcd-bis-oled-4k-und-touch/j1w1mm9?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-17T18:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-22T18:00:00+00:00"
-  },
-  {
-   "id": "ne6a548f00b",
-   "topic": "welt",
-   "title": "Midterms 2026: Trumps Migrationspolitik verunsichert Unternehmen",
-   "text": "Viele Wähler unterstützten 2024 Trumps Versprechen einer rigiden Abschiebepolitik. Doch vor den Zwischenwahlen zeigt sich: Das rücksichtslose Vorgehen der Einwanderungsbehörde ICE befremdet Bürger - und Unternehmer. Von Carsten Kühntopp.",
-   "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-trump-migration-100.html",
-   "published": "2026-10-17T17:44:57+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-20T17:44:57+00:00",
-   "img": "https://images.tagesschau.de/image/254d0550-a31e-4e56-b124-0dd6179a5f1c/AAABoT7BE1w/AAABnSSvrFg/16x9-big/ice-festnahme-100.jpg?width=1920"
-  },
-  {
-   "id": "nfd45262afd",
-   "topic": "welt",
-   "title": "Selenskyj kritisiert Trumps Aussetzung von Russland-Sanktionen",
-   "text": "US-Präsident Trump setzt geplante Russland-Sanktionen aus - während Angriffe auf die Infrastruktur laut dem ukrainischen Staatschef Selenskyj zunehmen. Er warnt, Trumps Entscheidung werde Moskau nur weiter bestärken.",
-   "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-sanktionen-100.html",
-   "published": "2026-10-17T17:26:53+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-20T17:26:53+00:00",
-   "img": "https://images.tagesschau.de/image/506258a1-d762-4700-a6ce-687b4302de26/AAABoUqkI0o/AAABnSSvrFg/16x9-big/wolodymyr-zelenskyj-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Dekret von Trump - US-Außenminister Rubio verteidigt Aussetzung neuer Russland-Sanktionen",
-     "link": "https://www.deutschlandfunk.de/us-aussenminister-rubio-verteidigt-aussetzung-neuer-russland-sanktionen-100.html"
-    }
-   ]
-  },
-  {
-   "id": "nc7206a2638",
-   "topic": "it",
-   "title": "Musks geopolitischer Hebel: Gedrosseltes Starlink rüttelt Europa auf",
-   "text": "Plötzliche Tempolimits für Satellitensignale haben die ukrainische Abwehr behindern. Die EU berät über Alternativen. Die Sorge über fatale Abhängigkeit geht um.",
-   "link": "https://www.heise.de/news/Musks-geopolitischer-Hebel-Gedrosseltes-Starlink-ruettelt-Europa-auf-11491703.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-17T17:02:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-22T17:02:00+00:00"
-  },
-  {
-   "id": "n9b34ffb201",
-   "topic": "wirtschaft",
-   "title": "Paketversand und Retouren durch Onlinehandel auf Rekordniveau",
-   "text": "Immer mehr Menschen bestellen online. Auch die Zahl der Rücksendungen nimmt stetig zu. Ein lohnendes Geschäft für Kioskbesitzer, Paketunternehmen. Kritik kommt von Umweltschützern. Von Lucretia Gather.",
-   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/online-retouren-rekord-100.html",
-   "published": "2026-10-17T16:14:36+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-20T16:14:36+00:00",
-   "img": "https://images.tagesschau.de/image/ea868cd3-2d07-488d-99d9-bf4c5462068a/AAABmuOi_Q8/AAABnSSvrFg/16x9-big/dhl-paketzentrum-102.jpg?width=1920"
   }
  ]
 }
