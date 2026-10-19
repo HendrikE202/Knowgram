@@ -1,55 +1,520 @@
 {
- "generated": "2026-10-19T13:17:50.631499+00:00",
+ "generated": "2026-10-19T20:35:44.154603+00:00",
  "briefing": [
   "n043e6d7e1d",
-  "nf99d509e11",
-  "n28aa92621f",
-  "n3e701eb9ea",
-  "n4b378a327b",
-  "n21023b1991",
+  "n19aff63e1e",
   "nf35a50d979",
-  "n644531920e",
-  "ne6e317388c"
+  "n3fb941a693",
+  "n3e701eb9ea",
+  "n6962fdc200",
+  "nde451f6dbf",
+  "n644531920e"
  ],
  "ranked": [
   {
    "id": "n043e6d7e1d",
-   "s": 39.3
+   "s": 37.4
   },
   {
-   "id": "nf99d509e11",
-   "s": 32.3
-  },
-  {
-   "id": "n28aa92621f",
-   "s": 28.0
-  },
-  {
-   "id": "n3e701eb9ea",
-   "s": 25.9
-  },
-  {
-   "id": "n4b378a327b",
-   "s": 23.0
-  },
-  {
-   "id": "n21023b1991",
-   "s": 23.0
+   "id": "n19aff63e1e",
+   "s": 32.0
   },
   {
    "id": "nf35a50d979",
+   "s": 31.1
+  },
+  {
+   "id": "n3fb941a693",
+   "s": 27.8
+  },
+  {
+   "id": "n3e701eb9ea",
+   "s": 24.1
+  },
+  {
+   "id": "n6962fdc200",
+   "s": 22.9
+  },
+  {
+   "id": "nde451f6dbf",
    "s": 22.9
   },
   {
    "id": "n644531920e",
-   "s": 22.9
-  },
-  {
-   "id": "ne6e317388c",
-   "s": 17.8
+   "s": 19.0
   }
  ],
  "items": [
+  {
+   "id": "n4ffb41e664",
+   "topic": "nfl",
+   "title": "Tre’Davious White signing with Buffalo Bills, per report",
+   "text": "The Buffalo Bills are bringing back cornerback Tre’Davious White",
+   "link": "https://sports.yahoo.com/articles/tre-davious-white-signing-buffalo-201921368.html",
+   "published": "2026-10-19T20:19:21+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-24T20:19:21+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/d18215fbaf1246e244e7eaab2647ec99.jpg"
+  },
+  {
+   "id": "n3a911909c7",
+   "topic": "nfl",
+   "title": "Fantasy Football Waiver Wire: Justin Boone's kicker streamers for Week 7",
+   "text": "We go over Justin Boone's favorite kickers to stream off the fantasy football waiver wire for Week 7.",
+   "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-waiver-wire-justin-boones-kicker-streamers-for-week-7-201845243.html",
+   "published": "2026-10-19T20:18:45+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-24T20:18:45+00:00"
+  },
+  {
+   "id": "ndd68bd26b5",
+   "topic": "politik",
+   "title": "Nach Krawallen - Sorge vor weiteren Ausschreitungen in Frankreich: Regierung ordnet lokale Ausgangssperren an",
+   "text": "Nach den Ausschreitungen am Wochenende hat Frankreichs Premierminister Lecornu Ausgangssperren in mehreren Städten angekündigt. Demnach wies er nach einer Krisensitzung der Regierung die Präfekte der Départements an, lokal und zeitlich begrenzte Verbote zu verhängen.",
+   "link": "https://www.deutschlandfunk.de/sorge-vor-weiteren-ausschreitungen-in-frankreich-regierung-ordnet-lokale-ausgangssperren-an-100.html",
+   "published": "2026-10-19T20:15:24+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-21T20:15:24+00:00",
+   "img": "https://bilder.deutschlandfunk.de/bc/cf/4c/2b/bccf4c2b-eccf-4d05-b13b-0f89558c8853/frankreich-premierminister-lecornu-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Macron lehnt Rücktritt von Frankreichs Innenminister ab",
+     "link": "https://www.dw.com/de/macron-lehnt-rücktritt-von-frankreichs-innenminister-ab/a-79697113?maca=de-rss-de-all-1119-xml-mrss"
+    },
+    {
+     "source": "Tagesschau",
+     "title": "Ausschreitungen in Frankreich: Fassungslosigkeit und Schuldzuweisungen",
+     "link": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-politische-reaktionen-100.html"
+    }
+   ]
+  },
+  {
+   "id": "na4593a6449",
+   "topic": "politik",
+   "title": "Berlin - Grüne und SPD für Koalitionsverhandlungen mit Linkspartei",
+   "text": "Nach der SPD haben sich auch die Grünen in Berlin für die Aufnahme von Koalitionsverhandlungen mit der Linken ausgesprochen. Bei einem kleinen Parteitag stimmten am Abend 43 der 45 Delegierten dafür und zwei dagegen.",
+   "link": "https://www.deutschlandfunk.de/gruene-und-spd-fuer-koalitionsverhandlungen-mit-linkspartei-100.html",
+   "published": "2026-10-19T20:15:24+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-21T20:15:24+00:00",
+   "img": "https://bilder.deutschlandfunk.de/6a/a7/83/ef/6aa783ef-d3be-4d89-869c-e1f1e50f37b7/gruene-berlin-parteitag-102-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Berlin: Grüne und SPD stimmen für Koalitionsgespräche mit Linke",
+     "link": "https://www.tagesschau.de/inland/berlin-wahl-spd-gruene-koalitionsverhandlungen-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n1a3e33c8e7",
+   "topic": "politik",
+   "title": "Rot-Grün-Rot in Berlin - Wohnungskonzern Vonovia: Vergesellschaftung in geplanter Form verfassungswidrig",
+   "text": "Die Pläne von Linke, Grünen und SPD zur Vergesellschaftung großer Wohnungskonzerne werden aus Sicht des Immobilienkonzerns Vonovia vor Gericht nicht standhalten. Das Unternehmen teilte mit, man sei überzeugt, dass eine Vergesellschaftung in der vorgelegten und geplanten Art und Weise verfassungswidrig sei.",
+   "link": "https://www.deutschlandfunk.de/wohnungskonzern-vonovia-vergesellschaftung-in-geplanter-form-verfassungswidrig-100.html",
+   "published": "2026-10-19T20:15:24+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-21T20:15:24+00:00"
+  },
+  {
+   "id": "n6962fdc200",
+   "topic": "politik",
+   "title": "\"Invest in Germany Summit\" - Investitionsgipfel soll Geldgeber nach Deutschland locken - Absichtserklärung für KI-Zusammenarbeit mit Nvidia",
+   "text": "Die Bundesregierung hat mit dem US-Chiphersteller Nvidia eine Zusammenarbeit zur Entwicklung Künstlicher Intelligenz vereinbart. Wie die Bundesregierung mitteilte, wurde eine entsprechende Absichtserklärung mit Nvidia im Rahmen eines Investitionsgipfels in Berlin unterzeichnet.",
+   "link": "https://www.deutschlandfunk.de/investitionsgipfel-soll-geldgeber-nach-deutschland-locken-absichtserklaerung-fuer-ki-zusammenarbeit--100.html",
+   "published": "2026-10-19T20:15:24+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-21T20:15:24+00:00",
+   "img": "https://bilder.deutschlandfunk.de/9b/c7/b1/f4/9bc7b1f4-bb7a-4653-b441-0f715c600ddf/investitionsgipfel-berglin-bundeskanzler-merz-investoren-huang-nvidia-100-1920x1920.jpg"
+  },
+  {
+   "id": "nde451f6dbf",
+   "topic": "politik",
+   "title": "Ukraine-Krieg - Trump zu Dreiertreffen mit Putin und Xi bereit",
+   "text": "US-Präsident Trump hat sich offen für ein Gespräch zur Beendigung des",
+   "link": "https://www.deutschlandfunk.de/trump-zu-dreiertreffen-mit-putin-und-xi-bereit-100.html",
+   "published": "2026-10-19T20:15:24+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-21T20:15:24+00:00",
+   "img": "https://bilder.deutschlandfunk.de/3b/62/5c/ca/3b625cca-e4b2-4c1d-8c68-8014f4b1f406/donald-trump-254-1920x1920.jpg"
+  },
+  {
+   "id": "n100b6b0e98",
+   "topic": "politik",
+   "title": "Ukraine - Tote und Verletzte bei russischem Drohnenangriff auf Park - auch Energiesektor wieder Ziel",
+   "text": "Bei einem russischen Drohnenangriff auf einen Park in der Nähe der ukrainischen Stadt Charkiw im Nordosten des Landes sind mindestens sechs Menschen getötet worden.",
+   "link": "https://www.deutschlandfunk.de/tote-und-verletzte-bei-russischem-drohnenangriff-auf-park-auch-energiesektor-wieder-ziel-104.html",
+   "published": "2026-10-19T20:15:24+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-21T20:15:24+00:00",
+   "img": "https://bilder.deutschlandfunk.de/80/92/ee/9f/8092ee9f-e0f9-4b73-b63a-03ddf20f0848/ukraine-russland-krieg-angriff-raketen-drohnen-kiew-126-1920x1920.jpg"
+  },
+  {
+   "id": "n2422155afa",
+   "topic": "nfl",
+   "title": "John Harbaugh provides update on Giants' QB situation between JJ McCarthy, Jameis Winston",
+   "text": "McCarthy made his Giants debut on Sunday after Jameis Winston was benched",
+   "link": "https://www.cbssports.com/nfl/news/john-harbaugh-update-giants-qb-jj-mccarthy-jameis-winston/",
+   "published": "2026-10-19T20:08:28+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-24T20:08:28+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/19/0e409b85-0df4-4539-8807-b2a424cd10ec/mccarthywinston.jpg"
+  },
+  {
+   "id": "n8e4d642db7",
+   "topic": "nfl",
+   "title": "Rams special teams woes continue: Kicker Blake Grupe placed on injured reserve after knee injury",
+   "text": "Grupe suffered the injury while making a tackle on a kickoff",
+   "link": "https://www.cbssports.com/nfl/news/rams-kicker-blake-grupe-suffers-knee-injury-updates/",
+   "published": "2026-10-19T20:01:29+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-24T20:01:29+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/18/6591c206-feb8-4dfa-8956-c0acdcd4e0d1/template-pic.jpg"
+  },
+  {
+   "id": "n3994caf70f",
+   "topic": "politik",
+   "title": "News zu Eintracht Frankfurt",
+   "text": "Hier bekommen Sie immer die neuesten Nachrichten über Eintracht Frankfurt.",
+   "link": "https://www.hessenschau.de/sport/fussball/eintracht-frankfurt/eintracht-frankfurt-news-ticker-mathias-beck-bleibt-eintracht-praesident,bundesliga-ticker-104.html",
+   "published": "2026-10-19T19:57:04+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-23T19:57:04+00:00",
+   "img": "https://www.hessenschau.de/sport/fussball/eintracht-frankfurt/eintracht-kroesche-144~_t-1792428168705_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "n3fb941a693",
+   "topic": "politik",
+   "title": "Berlin: Grüne und SPD stimmen für Koalitionsgespräche mit Linke",
+   "text": "Die Grünen und die SPD wollen in Berlin mit der Linkspartei Koalitionsverhandlungen aufnehmen. Beide Parteien entschieden sich am Abend für die Gespräche - die Abstimmung bei der Linken steht noch aus.",
+   "link": "https://www.tagesschau.de/inland/berlin-wahl-spd-gruene-koalitionsverhandlungen-100.html",
+   "published": "2026-10-19T19:52:35+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-22T19:52:35+00:00",
+   "img": "https://images.tagesschau.de/image/367106a4-4c0e-4842-bb0f-420e633097b1/AAABoVW5ZZw/AAABnSSvrFg/16x9-big/gruene-berlin-abstimmung-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Berlin - Grüne und SPD für Koalitionsverhandlungen mit Linkspartei",
+     "link": "https://www.deutschlandfunk.de/gruene-und-spd-fuer-koalitionsverhandlungen-mit-linkspartei-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n9d77054540",
+   "topic": "welt",
+   "title": "Rot-Grün-Rot in Berlin? Die mögliche Stadtregierung löst Streit aus - weit über die Hauptstadt hinaus",
+   "text": "In Berlin streben Linke, Grüne und die SPD eine Stadtregierung an und sorgen für Streit über die Hauptstadt hinaus. Besonders kontrovers: Die Wohnungspolitik und die Haltung der Linken zum Antisemitismus.",
+   "link": "https://www.dw.com/de/rot-grün-rot-in-berlin-die-mögliche-stadtregierung-löst-streit-aus-weit-über-die-hauptstadt-hinaus/a-79696954?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-19T19:31:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-23T19:31:00+00:00"
+  },
+  {
+   "id": "nc01691cd7c",
+   "topic": "politik",
+   "title": "Bundesregierung vereinbart KI-Kooperation mit Nvidia",
+   "text": "Deutschland und der US-Chip-Gigant Nvidia haben eine Zusammenarbeit bei der Entwicklung Künstlicher Intelligenz beschlossen. Die Vereinbarung wurde beim ersten \"Invest-in-Germany\"-Gipfel verkündet - und soll die deutsche Wettbewerbsfähigkeit stärken.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/bund-nvidia-zusammenarbeit-ki-100.html",
+   "published": "2026-10-19T19:23:41+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-22T19:23:41+00:00",
+   "img": "https://images.tagesschau.de/image/e19d0a95-b875-4988-84b7-8d602ae653f5/AAABoVWeRv8/AAABnSSvrFg/16x9-big/merz-huang-100.jpg?width=1920"
+  },
+  {
+   "id": "n28614a756e",
+   "topic": "it",
+   "title": "Apps sollen gegen Depressionen helfen – was digitale Therapien leisten können",
+   "text": "Digitale Gesundheitsanwendungen können bei Depressionen helfen. Doch Software stößt an Grenzen – besonders bei Krisen und Datenschutz.",
+   "link": "https://www.heise.de/hintergrund/Apps-sollen-gegen-Depressionen-helfen-was-digitale-Therapien-leisten-koennen-11493195.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-19T19:21:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-24T19:21:00+00:00"
+  },
+  {
+   "id": "n4f4ddca5b2",
+   "topic": "welt",
+   "title": "Mindestens zwei Tote durch Überschwemmungen im Osten Spaniens",
+   "text": "Ein heftiges Sturmtief hat Straßen und Ortschaften im Südosten Spaniens unter Wasser gesetzt. Menschen flüchten vor den Wassermassen auf Hausdächer, es gab mindestens vier Tote. Auf Mallorca fiel das Unwetter weniger heftig aus als befürchtet.",
+   "link": "https://www.tagesschau.de/ausland/europa/spanien-unwetter-mallorca-102.html",
+   "published": "2026-10-19T19:09:32+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-22T19:09:32+00:00",
+   "img": "https://images.tagesschau.de/image/1491a340-878c-4e8d-bf44-1837b9937835/AAABoVP_7rM/AAABnSSvrFg/16x9-big/valencia-ueberschwemmung-102.jpg?width=1920"
+  },
+  {
+   "id": "n20ea5b9397",
+   "topic": "welt",
+   "title": "Proteste in vielen Ländern Europas - aus ähnlichen Gründen",
+   "text": "Die gewalttätigen Proteste in Frankreich dominieren seit Tagen die Schlagzeilen. Doch auch in anderen Ländern Europas gibt es derzeit Großdemos und Ausschreitungen - die Gründe ähneln einander vielfach. Wer protestiert gerade in welchen Ländern - und warum?",
+   "link": "https://www.tagesschau.de/ausland/europa/proteste-europa-100.html",
+   "published": "2026-10-19T19:08:04+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-22T19:08:04+00:00",
+   "img": "https://images.tagesschau.de/image/4f416987-4ea4-45e6-8936-b3ddba049b28/AAABoVWQUXU/AAABnSSvrFg/16x9-big/ausschreitungen-bruessel-102.jpg?width=1920"
+  },
+  {
+   "id": "n963884a7c0",
+   "topic": "welt",
+   "title": "Proteste, Gewalt, Chaos, Ausgangssperren: Warum sich Europas Schüler und Studenten im Aufruhr befinden",
+   "text": "Teurer Treibstoff, teure Lebensmittel, teure Mieten: In Europa regt sich Widerstand gegen steigende Lebenshaltungskosten und Kürzungen an Schulen und Universitäten. Proteste schlagen oft in Gewalt um. Ein Überblick.",
+   "link": "https://www.dw.com/de/proteste-gewalt-chaos-ausgangssperren-warum-sich-europas-schüler-und-studenten-im-aufruhr-befinden/a-79705592?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-19T18:40:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-23T18:40:00+00:00",
+   "img": "https://static.dw.com/image/79701703_302.jpg"
+  },
+  {
+   "id": "nb5b546bdaf",
+   "topic": "welt",
+   "title": "Jemen: Mehr als 50 Tote bei Huthi-Angriff auf Militärlager",
+   "text": "Die Huthi-Miliz beschießt im Jemen ein Militärlager offenbar mit mehreren ballistischen Raketen. Mindestens 53 Soldaten kommen ums Leben. Die proiranische Miliz spricht von Vergeltung gegen Saudi-Arabien.",
+   "link": "https://www.tagesschau.de/ausland/asien/jemen-huthi-angriff-militaerlager-viele-tote-100.html",
+   "published": "2026-10-19T18:35:46+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-22T18:35:46+00:00",
+   "img": "https://images.tagesschau.de/image/55e94a4e-f119-41e0-9b71-0e8d3ca95dce/AAABn1ul6LM/AAABnSSvrFg/16x9-big/karte-jemen-sanaa-106.jpg?width=1920"
+  },
+  {
+   "id": "na5f69779f1",
+   "topic": "ki",
+   "title": "MiniMax M3.1 Flash ist Chinas neuestes Modell, das KI-Preise Richtung Keller drückt",
+   "text": "MiniMax stellt mit M3.1 Flash ein Reasoning-Modell vor, das im Intelligence Index von Artificial Analysis 42 Punkte erreicht, 13 mehr als der Vorgänger bei halben Kosten. Im \"Humanity’s Last Exam\" übertrifft es Deepseek V4.1 Flash, schwächelt aber mit einer Halluzinationsrate von 93 Prozent. Der Artikel MiniMax M3.1 …",
+   "link": "https://the-decoder.de/minimax-m3-1-flash-ist-chinas-neuestes-modell-das-ki-preise-richtung-keller-drueckt/",
+   "published": "2026-10-19T18:10:30+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-26T18:10:30+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/minimax.png"
+  },
+  {
+   "id": "n6d5cc376e4",
+   "topic": "it",
+   "title": "Top 10: Der beste Smart Ring im Test – Oura Ring ist Testsieger vor Ringconn",
+   "text": "Ein Smart Ring ist die diskrete Alternative zur Smartwatch für Fitness-Tracking und Schlafanalyse. Wir zeigen die besten Modelle – mit und ohne Abo.",
+   "link": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-smart-ring-im-test-oura-ring-ist-testsieger-vor-ringconn/rgglr38?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-19T18:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-24T18:00:00+00:00"
+  },
+  {
+   "id": "n18d90364bd",
+   "topic": "politik",
+   "title": "Berliner SPD für Koalitionsgespräche mit Linkspartei und Grünen",
+   "text": "Die Berliner SPD stimmt mit großer Mehrheit für Koalitionsverhandlungen mit der Linkspartei und mit den Grünen. Die Grünen wollen noch am Abend über den Beginn der Gespräche entscheiden.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsverhandlungen-berlin-spd-linke-gruene-100.html",
+   "published": "2026-10-19T17:59:59+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-22T17:59:59+00:00",
+   "img": "https://images.tagesschau.de/image/eae47566-c67f-4544-9958-888558010983/AAABoVUKxvE/AAABnSSvrFg/16x9-big/krach-stahr-schirmer-100.jpg?width=1920"
+  },
+  {
+   "id": "n9cedb4bb09",
+   "topic": "wirtschaft",
+   "title": "Wirtschaft vor acht vom 19.10.2026",
+   "text": "Wirtschaft vor acht vom 19.10.2026",
+   "link": "https://www.tagesschau.de/video/video-1669136.html",
+   "published": "2026-10-19T17:55:23+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-22T17:55:23+00:00",
+   "img": "https://images.tagesschau.de/image/11fe4ec9-128e-40f7-998b-637a2c8fd7d5/AAABoVVNjEk/AAABnSSvrFg/16x9-big/sendungsbild-1814090.jpg?width=1920"
+  },
+  {
+   "id": "ned6a09e58a",
+   "topic": "it",
+   "title": "JAXA und ESA starten gemeinsame Mission zum Marsmond Phobos",
+   "text": "Über Ursprung und Zusammensetzung der Marsmonde ist nur wenig bekannt. Eine japanische Mission mit europäischer Beteiligung soll neue Erkenntnisse bringen.",
+   "link": "https://www.heise.de/news/JAXA-und-ESA-starten-gemeinsame-Mission-zum-Marsmond-Phobos-11493317.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-19T17:24:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-24T17:24:00+00:00"
+  },
+  {
+   "id": "nb031f549ec",
+   "topic": "it",
+   "title": "Bulk Infrastructure: Neues Seekabel soll Europa ohne USA direkt mit Kanada verbinden",
+   "text": "Die norwegische Firma Bulk Infrastructure hat ihr geplantes Seekabel Project Leif Erikson genannt: Es folgt der historischen Route der Wikinger über den Atlantik nach Kanada, ohne das Gebiet der USA zu berühren. ( Seekabel , Rechenzentrum )",
+   "link": "https://www.golem.de/news/bulk-infrastructure-neues-seekabel-soll-europa-ohne-usa-direkt-mit-kanada-verbinden-2610-214272.html",
+   "published": "2026-10-19T17:23:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-24T17:23:01+00:00",
+   "img": "https://www.golem.de/2610/214272-604148-604146_rc.jpg"
+  },
+  {
+   "id": "n5c224bbcba",
+   "topic": "welt",
+   "title": "Frankreichs Premierminister Lecornu kündigt Ausgangssperren an",
+   "text": "Nach den Ausschreitungen in Frankreich kündigt die Regierung lokale Ausgangssperren an. Für Samstag kursieren Aufrufe zu weiteren Protesten. Bundesinnenminister Dobrindt machte zwei Gruppen für die Krawalle im Nachbarland verantwortlich.",
+   "link": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-ausschreitungen-ausgangssperren-100.html",
+   "published": "2026-10-19T17:19:39+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-22T17:19:39+00:00",
+   "img": "https://images.tagesschau.de/image/27052995-748d-4570-91de-df6c70a42bb0/AAABoVSHb-E/AAABnSSvrFg/16x9-big/krawalle-marseille-100.jpg?width=1920"
+  },
+  {
+   "id": "nad7ab1667d",
+   "topic": "ki",
+   "title": "KI-Videogenerator Kling AI 4.0 will mit mehr Kontrolle die Lücke zur professionellen Videoproduktion schließen",
+   "text": "Kling AI veröffentlicht Version 4.0 seines Videogenerators mit bis zu 30 Sekunden langen Clips, zehn Keyframe-Bildern als Eingabe und einem auf 8.000 Token erweiterten Prompt-Verständnis. Im Vergleich mit Wan 3.0 und Seedance 2.5 hält Kling 4.0 mit, liegt aber nicht vorn, möglicherweise ein Zeichen für ein Abflachen …",
+   "link": "https://the-decoder.de/ki-videogenerator-kling-ai-4-0-will-mit-mehr-kontrolle-die-luecke-zur-professionellen-videoproduktion-schliessen/",
+   "published": "2026-10-19T16:47:26+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-26T16:47:26+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/kling4.png"
+  },
+  {
+   "id": "n898d8931f0",
+   "topic": "wirtschaft",
+   "title": "Marktbericht: Neue Woche, neue Sorgen",
+   "text": "Die Börse gleicht derzeit einem Wechselbad. Die Gewinne von Freitag sind wieder dahin. Belastend wirkte neben den anhaltenden KI-Sorgen die Lage in Frankreich.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-berichtssaison-100.html",
+   "published": "2026-10-19T16:29:58+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-22T16:29:58+00:00",
+   "img": "https://images.tagesschau.de/image/2609e1b0-d1f0-4c7b-b37c-1557eb7b88f2/AAABn8telGg/AAABnSSvrFg/16x9-big/boerse-536.jpg?width=1920"
+  },
+  {
+   "id": "n942d322d79",
+   "topic": "it",
+   "title": "Hackerangriff: Schweizer Onlinemagazin Republik verliert Nutzerdaten",
+   "text": "Ein ungepatchtes Analyse-Tool reißt ein Loch in eine interne Datenbank. Dort stehen auch Klarnamen zu anonym veröffentlichten Kommentaren. ( Datensicherheit , Datenschutz )",
+   "link": "https://www.golem.de/news/hackerangriff-schweizer-onlinemagazin-republik-verliert-nutzerdaten-2610-214269.html",
+   "published": "2026-10-19T16:24:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-24T16:24:02+00:00",
+   "img": "https://www.golem.de/2610/214269-604133-604131_rc.jpg"
+  },
+  {
+   "id": "n93eeea5758",
+   "topic": "wissenschaft",
+   "title": "Temporeiche Zwergwühlnatter: Rätsel um rollende Schlange gelöst",
+   "text": "Um Feinden zu entkommen, greift die Zwergwühlnatter zu einem faszinierenden Trick: Sie rollt sich rasend schnell vorwärts. Zeitlupenvideos zeigen ihre faszinierende Technik.",
+   "link": "https://www.spektrum.de/news/zwergwuehlnatter-raetsel-um-rollende-schlange-geloest/2350392",
+   "published": "2026-10-19T16:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-02T16:00:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/Dwarf-reedsnake_erw.jpg.8418552.jpg?f=1280x720"
+  },
+  {
+   "id": "nb772331363",
+   "topic": "welt",
+   "title": "Roma gegen Hitler: Tschechien würdigt Widerstandskämpfer",
+   "text": "Mehr als 1.400 Roma kämpften in der Tschechoslowakei gegen die deutsche Nazi-Besatzung. Eine neue Ausstellung in Prag erzählt von Partisanen und Soldaten, deren Schicksale jahrzehntelang kaum Beachtung fanden.",
+   "link": "https://www.dw.com/de/roma-gegen-hitler-tschechien-würdigt-widerstandskämpfer/a-79701301?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-19T15:10:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-23T15:10:00+00:00",
+   "img": "https://static.dw.com/image/79696163_302.jpg"
+  },
+  {
+   "id": "n5249d7fad9",
+   "topic": "wissenschaft",
+   "title": "\"Idefix\" soll Rätsel der Mars-Monde lösen",
+   "text": "Die japanische Mission MMX soll ab heute mit dem deutsch-französischen Rover \"Idefix\" zum Mars-Mond Phobos fliegen. Dort soll \"Idefix\" endlich klären, woher die rätselhaften Monde des Mars stammen. Von Jan Kerckhoff.",
+   "link": "https://www.tagesschau.de/wissen/weltraum/mars-monde-mission-100.html",
+   "published": "2026-10-19T14:59:24+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T14:59:24+00:00",
+   "img": "https://images.tagesschau.de/image/ae4ce811-9ebd-4f78-8a76-5e5ebdc2f79f/AAABoVRnEPA/AAABnSSvrFg/16x9-big/mmx-h3-rakete-100.jpg?width=1920"
+  },
+  {
+   "id": "n77b865f297",
+   "topic": "welt",
+   "title": "Frankreich-Proteste: \"Macron hat nicht die richtigen Antworten gefunden\"",
+   "text": "Frankreich steht nach den Unruhen am Wochenende unter Schock. Hat Macron die Unzufriedenheit im Land unterschätzt? Politikwissenschaftler Ross über die Vorwürfe gegen den Präsidenten - und welche Optionen dieser nun hat.",
+   "link": "https://www.tagesschau.de/ausland/europa/europa-proteste-interview-ross-100.html",
+   "published": "2026-10-19T14:09:22+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-22T14:09:22+00:00",
+   "img": "https://images.tagesschau.de/image/3524461f-8bc2-457d-830e-b1f136cc589f/AAABoVRqT7k/AAABnSSvrFg/16x9-big/demonstrant-marseille-100.jpg?width=1920"
+  },
+  {
+   "id": "n4feae82726",
+   "topic": "welt",
+   "title": "Auschwitz-Überlebender Hermann \"Mano\" Höllenreiner gestorben",
+   "text": "Als Kind überlebte Hermann \"Mano\" Höllenreiner mehrere Konzentrationslager der Nationalsozialisten. Jahrzehntelang schwieg er über seine Erlebnisse. Später wurde er zu einer wichtigen Stimme gegen das Vergessen.",
+   "link": "https://www.dw.com/de/auschwitz-überlebender-hermann-mano-höllenreiner-gestorben/a-79699831?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-19T14:08:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-23T14:08:00+00:00",
+   "img": "https://static.dw.com/image/79700297_302.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Auschwitz-Überlebender Höllenreiner im Alter von 92 gestorben",
+     "link": "https://www.tagesschau.de/inland/auschwitz-ueberlebender-hoellenreiner-gestorben-100.html"
+    }
+   ]
+  },
   {
    "id": "n38dbe1a2f9",
    "topic": "wissenschaft",
@@ -64,6 +529,19 @@
    "img": "https://static.spektrum.de/fm/912/thumbnails/SPL_14077606_HiRes.jpg.8415382.jpg?f=1280x720"
   },
   {
+   "id": "n86d3cb4032",
+   "topic": "ki",
+   "title": "Schere. Stein. KI.: Unser neuer Podcast ist da!",
+   "text": "Premiere für \"Schere. Stein. KI.\": Der neue Podcast von THE DECODER und heise KI PRO startet mit KI zwischen Hype und Revolution. Ab jetzt alle zwei Wochen. Der Artikel Schere. Stein. KI.: Unser neuer Podcast ist da! erschien zuerst auf The Decoder .",
+   "link": "https://the-decoder.de/schere-stein-ki-unser-neuer-podcast-ist-da/",
+   "published": "2026-10-19T13:37:55+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-26T13:37:55+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/Schere-Stein-KI-Cover-Hype-Revolution.png"
+  },
+  {
    "id": "na81920acda",
    "topic": "wissenschaft",
    "title": "Amelia Earharts »Electra«: Vermeintliches Flugzeugwrack entpuppt sich als Baumstamm",
@@ -75,31 +553,6 @@
    "lang": "de",
    "expires": "2026-11-02T13:30:00+00:00",
    "img": "https://static.spektrum.de/fm/912/thumbnails/ScubaDiverWithBoat_zuschnitt.jpg.8418457.jpg?f=1280x720"
-  },
-  {
-   "id": "ndd68bd26b5",
-   "topic": "politik",
-   "title": "Nach Krawallen - Sorge vor weiteren Ausschreitungen in Frankreich: Regierung ordnet lokale Ausgangssperren an",
-   "text": "Nach den Ausschreitungen in Frankreich hat Premierminister Lecornu begrenzte Ausgangssperren angeordnet. Lecornu erklärte, er habe den Präfekten entsprechende Anweisungen erteilt, um weitere Ausschreitungen und Plünderungen zu verhindern.",
-   "link": "https://www.deutschlandfunk.de/sorge-vor-weiteren-ausschreitungen-in-frankreich-regierung-ordnet-lokale-ausgangssperren-an-100.html",
-   "published": "2026-10-19T13:14:46+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-21T13:14:46+00:00",
-   "img": "https://bilder.deutschlandfunk.de/7f/7f/41/2d/7f7f412d-8bb8-4ee5-a3b8-e5bf19d6510d/frankreich-proteste-ausschreitungen-paris-102-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Macron lehnt Rücktritt von Frankreichs Innenminister ab",
-     "link": "https://www.dw.com/de/macron-lehnt-rücktritt-von-frankreichs-innenminister-ab/a-79697113?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Ausschreitungen in Frankreich: Fassungslosigkeit und Schuldzuweisungen",
-     "link": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-politische-reaktionen-100.html"
-    }
-   ]
   },
   {
    "id": "n134a40bde5",
@@ -162,14 +615,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-21T13:14:46+00:00",
-   "img": "https://bilder.deutschlandfunk.de/4f/f8/db/72/4ff8db72-77d9-4ffe-b623-056a8bd519a3/flughafen-leipzig-halle-vorfall-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Zaun durchbrochen: Brisanter Vorfall am Flughafen Leipzig/Halle",
-     "link": "https://www.dw.com/de/zaun-durchbrochen-brisanter-vorfall-am-flughafen-leipzig-halle/a-79691953?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/4f/f8/db/72/4ff8db72-77d9-4ffe-b623-056a8bd519a3/flughafen-leipzig-halle-vorfall-100-1920x1920.jpg"
   },
   {
    "id": "n21023b1991",
@@ -220,7 +666,7 @@
    "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
    "lang": "de",
    "expires": "2026-10-23T13:05:00+00:00",
-   "img": "https://static.dw.com/image/79696472_302.jpg",
+   "img": "https://static.dw.com/image/79701154_302.jpg",
    "also": [
     {
      "source": "Deutschlandfunk",
@@ -245,7 +691,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-22T13:04:07+00:00",
-   "img": "https://images.tagesschau.de/image/74751272-af54-4b3f-8413-aa86c7fca69d/AAABoVQv3lQ/AAABnSSvrFg/16x9-big/herrmann-hoellenreiner-100.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/74751272-af54-4b3f-8413-aa86c7fca69d/AAABoVQv3lQ/AAABnSSvrFg/16x9-big/herrmann-hoellenreiner-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Auschwitz-Überlebender Hermann \"Mano\" Höllenreiner gestorben",
+     "link": "https://www.dw.com/de/auschwitz-überlebender-hermann-mano-höllenreiner-gestorben/a-79699831?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
   },
   {
    "id": "n0d71161af5",
@@ -370,8 +823,7 @@
    "source": "Deutsche Welle",
    "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
    "lang": "de",
-   "expires": "2026-10-23T12:42:00+00:00",
-   "img": "https://static.dw.com/image/79689956_302.jpg"
+   "expires": "2026-10-23T12:42:00+00:00"
   },
   {
    "id": "ne6e317388c",
@@ -449,7 +901,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-22T11:47:03+00:00",
-   "img": "https://images.tagesschau.de/image/4b50ce26-ed17-4cc7-b4e9-893285c86cf9/AAABleLgxho/AAABnSSvrFg/16x9-big/schengen-rumaenien-bulgarien-100.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/9d7e9898-7e2a-47bc-a600-1df5ba29b204/AAABoVSnGxA/AAABnSSvrFg/16x9-big/eu-laender-100.jpg?width=1920"
   },
   {
    "id": "nccb6031a66",
@@ -515,19 +967,6 @@
    "lang": "de",
    "expires": "2026-11-02T11:08:38+00:00",
    "img": "https://images.tagesschau.de/image/4433a1e5-5fc1-439b-b024-3f70e6854a85/AAABoVP_RkU/AAABnSSvrFg/16x9-big/weltkugel-102.jpg?width=1920"
-  },
-  {
-   "id": "n4f4ddca5b2",
-   "topic": "welt",
-   "title": "Mindestens zwei Tote durch Überschwemmungen im Osten Spaniens",
-   "text": "Ein heftiges Sturmtief hat Straßen und Campingplätze im Südosten Spaniens unter Wasser gesetzt. Menschen flüchten vor den Wassermassen auf Hausdächer, es gab mindestens zwei Tote. Auf Mallorca fiel das Unwetter weniger heftig aus als befürchtet.",
-   "link": "https://www.tagesschau.de/ausland/europa/spanien-unwetter-mallorca-102.html",
-   "published": "2026-10-19T11:00:46+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-22T11:00:46+00:00",
-   "img": "https://images.tagesschau.de/image/1491a340-878c-4e8d-bf44-1837b9937835/AAABoVP_7rM/AAABnSSvrFg/16x9-big/valencia-ueberschwemmung-102.jpg?width=1920"
   },
   {
    "id": "n46ef7dd489",
@@ -631,19 +1070,6 @@
    "lang": "de",
    "expires": "2026-10-26T09:04:12+00:00",
    "img": "https://the-decoder.de/wp-content/uploads/2026/10/Anthropic-Public-Benefit-Fund-2000x1125-1.webp"
-  },
-  {
-   "id": "n898d8931f0",
-   "topic": "wirtschaft",
-   "title": "Marktbericht: DAX fällt unter 25.500 Punkten",
-   "text": "Zum Wochenauftakt belasten Meldungen aus China und den USA die Börsen. Sinkende Ölpreise und positive Daten reichen als Gegengewicht nicht aus. Dem DAX misslingt der Handelsauftakt.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-berichtssaison-100.html",
-   "published": "2026-10-19T08:36:52+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-22T08:36:52+00:00",
-   "img": "https://images.tagesschau.de/image/c1256297-08e3-4363-81f9-e695c17c3e8b/AAABmi7QFBA/AAABnSSvrFg/16x9-big/boerse-302.jpg?width=1920"
   },
   {
    "id": "n5e67d057ec",
@@ -953,7 +1379,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-20T22:35:03+00:00",
-   "img": "https://bilder.deutschlandfunk.de/eb/ae/ef/21/ebaeef21-8b6e-473f-973c-cce04f4054d0/sondierungsgespraeche-berlin-100-1920x1920.jpg"
+   "img": "https://bilder.deutschlandfunk.de/eb/ae/ef/21/ebaeef21-8b6e-473f-973c-cce04f4054d0/sondierungsgespraeche-berlin-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Berlin: Grüne und SPD stimmen für Koalitionsgespräche mit Linke",
+     "link": "https://www.tagesschau.de/inland/berlin-wahl-spd-gruene-koalitionsverhandlungen-100.html"
+    }
+   ]
   },
   {
    "id": "n1011f60ec4",
@@ -1010,18 +1443,6 @@
      "link": "https://www.deutschlandfunk.de/selenskyj-usa-liefern-wieder-geheimdienstinformationen-an-die-ukraine-100.html"
     }
    ]
-  },
-  {
-   "id": "n8e4d642db7",
-   "topic": "nfl",
-   "title": "Rams kicker Blake Grupe ruled out after suffering knee injury minutes into L.A. debut",
-   "text": "Grupe suffered the injury while making a tackle on a kickoff",
-   "link": "https://www.cbssports.com/nfl/news/rams-kicker-blake-grupe-suffers-knee-injury-updates/",
-   "published": "2026-10-18T22:23:03+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-23T22:23:03+00:00"
   },
   {
    "id": "nb09e424476",
@@ -1305,14 +1726,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-21T16:48:09+00:00",
-   "img": "https://images.tagesschau.de/image/ed3dc28f-7541-4d1e-bad5-c80e6de8422b/AAABoU_BuUw/AAABnSSvrFg/16x9-big/winkel-merz-ju-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Deutschlandtag der Jungen Union - Söder dringt auf Umsetzung der Reformen",
-     "link": "https://www.deutschlandfunk.de/soeder-dringt-auf-umsetzung-der-reformen-102.html"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/ed3dc28f-7541-4d1e-bad5-c80e6de8422b/AAABoU_BuUw/AAABnSSvrFg/16x9-big/winkel-merz-ju-100.jpg?width=1920"
   },
   {
    "id": "nd00e68f46d",
@@ -1350,441 +1764,6 @@
    "lang": "de",
    "expires": "2026-10-21T16:13:24+00:00",
    "img": "https://images.tagesschau.de/image/9dfa7bee-0bf3-4d7a-af2b-d84560e44e6a/AAABoU-u01U/AAABnSSvrFg/16x9-big/litauen-nato-flagge-100.jpg?width=1920"
-  },
-  {
-   "id": "nfbe0cbf8ac",
-   "topic": "politik",
-   "title": "Demonstrationen - Portugal: Protestcamps gegen hohe Mieten und Lebenshaltungskosten",
-   "text": "In Portugal haben hunderte Menschen gegen steigende Wohn- und Lebenshaltungskosten protestiert.",
-   "link": "https://www.deutschlandfunk.de/portugal-protestcamps-gegen-hohe-mieten-und-lebenshaltungskosten-100.html",
-   "published": "2026-10-18T15:47:22+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-20T15:47:22+00:00"
-  },
-  {
-   "id": "nc8df7d63c9",
-   "topic": "politik",
-   "title": "Leipzig - Grüne Jugend diskutiert über Zusammenarbeit mit CDU",
-   "text": "Auf dem Bundeskongress der Grünen Jugend in Leipzig haben mehrere Redner gefordert, keine Regierungsbündnisse mehr mit der CDU einzugehen.",
-   "link": "https://www.deutschlandfunk.de/gruene-jugend-diskutiert-ueber-zusammenarbeit-mit-cdu-100.html",
-   "published": "2026-10-18T15:47:22+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-20T15:47:22+00:00",
-   "img": "https://bilder.deutschlandfunk.de/3c/70/78/cb/3c7078cb-613f-48c4-bc50-a4852fcdd302/gruene-jugend-106-1920x1920.jpg"
-  },
-  {
-   "id": "nfec1098ef2",
-   "topic": "politik",
-   "title": "Fußball-Bundesliga - Leverkusen schlägt Freiburg 2:1",
-   "text": "In der Fußball-Bundesliga hat Leverkusen gegen Freiburg 2:1 gewonnen.",
-   "link": "https://www.deutschlandfunk.de/leverkusen-schlaegt-freiburg-2-100.html",
-   "published": "2026-10-18T15:47:22+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-20T15:47:22+00:00",
-   "img": "https://bilder.deutschlandfunk.de/bb/cc/bf/ff/bbccbfff-1bfd-43a9-b7c1-bd6bf64fbcd5/bundesligaleverkusenfreiburg-100-1920x1920.jpg"
-  },
-  {
-   "id": "n1b9460a7cf",
-   "topic": "politik",
-   "title": "Dekret von Trump - US-Außenminister Rubio verteidigt Aussetzung neuer Russland-Sanktionen",
-   "text": "US-Außenminister Rubio hat die Aussetzung von Russland-Sanktionen verteidigt.",
-   "link": "https://www.deutschlandfunk.de/us-aussenminister-rubio-verteidigt-aussetzung-neuer-russland-sanktionen-100.html",
-   "published": "2026-10-18T15:47:22+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-20T15:47:22+00:00",
-   "img": "https://bilder.deutschlandfunk.de/d9/33/c6/c7/d933c6c7-227d-442f-bd44-5fc7fe8c30d8/rubio-america-first-healthcare-100-1920x1920.jpg"
-  },
-  {
-   "id": "n0a2721c474",
-   "topic": "nfl",
-   "title": "NY Giants-New Orleans Saints inactives: RT Jermaine Eluemunor won’t play",
-   "text": "Giants’ starting right tackle will sit this one out.",
-   "link": "https://sports.yahoo.com/articles/ny-giants-orleans-saints-inactives-154217385.html",
-   "published": "2026-10-18T15:42:17+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-23T15:42:17+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/20792bbe5da425d9bcbffebc6aa85cbd.jpg"
-  },
-  {
-   "id": "nab70d33ca8",
-   "topic": "welt",
-   "title": "Aserbaidschan: Ein Kopftuchverbot an Schulen löst Proteste aus",
-   "text": "In Aserbaidschan kommt es wegen neuer Schulvorschriften zu Protesten: Mädchen mit Kopftuch werden vom Unterricht ausgeschlossen, Kinder demonstrieren. Dabei wird der Hidschab in den Regeln gar nicht ausdrücklich erwähnt.",
-   "link": "https://www.dw.com/de/aserbaidschan-ein-kopftuchverbot-an-schulen-löst-proteste-aus/a-79687717?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-18T15:39:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-22T15:39:00+00:00",
-   "img": "https://static.dw.com/image/79687843_302.jpg"
-  },
-  {
-   "id": "ndca288045d",
-   "topic": "nfl",
-   "title": "Bears-Falcons Inactives: Ozzy Traplio will play, Tyrique Stevenson will not",
-   "text": "Full list of inactive players for the Bears and Falcons from @wiltfongjr.",
-   "link": "https://sports.yahoo.com/articles/bears-falcons-inactives-ozzy-traplio-153616529.html",
-   "published": "2026-10-18T15:36:16+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-23T15:36:16+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/49461542db875cc0bf2740cc535317d4.jpg"
-  },
-  {
-   "id": "n1d7f91f953",
-   "topic": "nfl",
-   "title": "LOOK: Marvin Harrison Jr. makes first catch as a member of the Texans",
-   "text": "Harrison Jr. made his Texans debut on Sunday against the Jaguars",
-   "link": "https://www.cbssports.com/nfl/news/look-marvin-harrison-jr-makes-first-catch-texans/",
-   "published": "2026-10-18T15:33:50+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-23T15:33:50+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/16/6fcf47b5-c8d0-4617-a2ec-539cfa1f761a/storudharrison.png"
-  },
-  {
-   "id": "n9fb62f1c8d",
-   "topic": "welt",
-   "title": "Iran unterbreitet den USA ein Angebot - und droht zugleich",
-   "text": "Irans Regierung hat gemischte Signale nach Washington gesendet: Während Außenminister Araghtschi das Angebot erneuerte, die Straße von Hormus zu öffnen, drohte der neu ernannte Verteidigungsminister Ketabtschi US-Präsident Trump.",
-   "link": "https://www.tagesschau.de/ausland/asien/iran-hormus-angebot-drohung-100.html",
-   "published": "2026-10-18T15:18:33+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-21T15:18:33+00:00",
-   "img": "https://images.tagesschau.de/image/68ae9466-ef53-4f13-adf0-cc8c129e535b/AAABlgnHIaI/AAABnSSvrFg/16x9-big/teheran-175.jpg?width=1920"
-  },
-  {
-   "id": "n81e0471251",
-   "topic": "politik",
-   "title": "500 Jahre Uni Marburg: Nobelpreisträger, Marburg-Virus und Rekorde der Forschung",
-   "text": "Die Philipps-Universität in Marburg feiert im kommenden Jahr mit rund 300 Veranstaltungen ihr 500-jähriges Bestehen. Welche großen Namen forschten und lehrten hier? Welche Entdeckungen wurden gemacht? Die spannendsten Daten und Fakten.",
-   "link": "https://www.hessenschau.de/gesellschaft/500-jahre-uni-marburg-nobelpreistraeger-marburg-virus-und-rekorde-der-forschung-v1,jubilaeum-uni-marburg-100.html",
-   "published": "2026-10-18T15:15:54+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-22T15:15:54+00:00",
-   "img": "https://www.hessenschau.de/panorama/oberstadt-100~_t-1677142837607_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "nb27eda8c8c",
-   "topic": "wirtschaft",
-   "title": "Fake-Sneaker sind ein riesiges Geschäft - doch Käufer gehen in Risiko",
-   "text": "Sneaker-Kultmodelle können vierstellige Summen kosten. Viele Menschen greifen daher zu deutlich günstigeren Kopien. Doch das kann gefährlich werden. Von G. Marković-Schomburg, I. Mäueler und L.-M. Hiltscher.",
-   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/sneaker-kultmodelle-investment-100.html",
-   "published": "2026-10-18T14:46:25+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-21T14:46:25+00:00",
-   "img": "https://images.tagesschau.de/image/d0718eee-39e2-49d2-836d-183643c2e61b/AAABoM2c8L4/AAABnSSvrFg/16x9-big/nike-air-jordan-4-100.jpg?width=1920"
-  },
-  {
-   "id": "nf99d509e11",
-   "topic": "welt",
-   "title": "Gewalt bei Protesten beschäftigt auch Italien",
-   "text": "Proteste und Krawalle hat es am Samstag auch in Italien gegeben. Ministerpräsidentin Meloni verurteilte die Gewalt, von der vor allem Mailand betroffen war. Die Demonstranten forderten höhere Löhne und mehr Investitionen.",
-   "link": "https://www.tagesschau.de/ausland/europa/italien-proteste-belgien-portugal-100.html",
-   "published": "2026-10-18T14:27:58+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-21T14:27:58+00:00",
-   "img": "https://images.tagesschau.de/image/76e6145a-b201-403e-b9e9-e5ed4adc025f/AAABoU8PrYU/AAABnSSvrFg/16x9-big/demonstranten-polizei-mailand-italien-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Nach Krawallen - Sorge vor weiteren Ausschreitungen in Frankreich: Regierung ordnet lokale Ausgangssperren an",
-     "link": "https://www.deutschlandfunk.de/sorge-vor-weiteren-ausschreitungen-in-frankreich-regierung-ordnet-lokale-ausgangssperren-an-100.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Macron lehnt Rücktritt von Frankreichs Innenminister ab",
-     "link": "https://www.dw.com/de/macron-lehnt-rücktritt-von-frankreichs-innenminister-ab/a-79697113?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n46d03d7dc9",
-   "topic": "it",
-   "title": "Bau von KI-Rechenzentren kommt in den USA ins Stocken",
-   "text": "KI ist in den USA der größte Boom aller Zeiten – doch der Bau von Rechenzentren stockt. Das liegt nicht nur an Blockaden von Gemeinden.",
-   "link": "https://www.heise.de/news/Bau-von-KI-Rechenzentren-kommt-in-den-USA-ins-Stocken-11491833.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-18T14:16:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-23T14:16:00+00:00"
-  },
-  {
-   "id": "nad094701e9",
-   "topic": "welt",
-   "title": "EU und USA verurteilen Siedlerattacke auf Diplomaten und Journalisten",
-   "text": "Immer wieder werden im Westjordanland Palästinenser Opfer von Gewaltakten. Nun sind israelische Siedler auch auf Diplomaten aus der EU und eine US-Journalistin losgegangen. Das sorgt international für Empörung.",
-   "link": "https://www.dw.com/de/eu-und-usa-verurteilen-siedlerattacke-auf-diplomaten-und-journalisten/a-79692793?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-18T14:01:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-22T14:01:00+00:00",
-   "img": "https://static.dw.com/image/79690628_302.jpg"
-  },
-  {
-   "id": "nce1810e6d5",
-   "topic": "it",
-   "title": "Saugroboter Roborock Qrevo S Pro für 390 € im Test: günstig & gut auf Hartböden",
-   "text": "Der Qrevo S Pro saugt und wischt Hartböden gut und wäscht seine Mopps heiß. Bei Hindernissen, hohen Teppichen und der Randreinigung zeigt er dagegen Schwächen.",
-   "link": "https://www.heise.de/bestenlisten/testbericht/saugroboter-roborock-qrevo-s-pro-fuer-390-euro-im-test-guenstig-und-gut-auf/30h0ql1?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-18T14:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-23T14:00:00+00:00"
-  },
-  {
-   "id": "n643ea04be3",
-   "topic": "ki",
-   "title": "Anthropic stellt kaum noch Nachwuchskräfte ein, weil KI-Agenten sechsmal so viel wie Menschen arbeiten",
-   "text": "Anthropic stellt in technischen Bereichen immer weniger Nachwuchskräfte ein: Der Junior-Anteil bei Neueinstellungen fiel seit Anfang 2025 von 27 auf 9 Prozent. Im August 2026 arbeiteten KI-Agenten firmenweit bereits sechsmal so viele Stunden wie Menschen. Forscher warnen vor einer \"Tragödie der kognitiven Allmende\" …",
-   "link": "https://the-decoder.de/anthropic-stellt-kaum-noch-nachwuchskraefte-ein-weil-ki-agenten-sechsmal-so-viel-wie-menschen-arbeiten/",
-   "published": "2026-10-18T13:15:26+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-25T13:15:26+00:00"
-  },
-  {
-   "id": "n4db079dccb",
-   "topic": "it",
-   "title": "Elektroauto: Mercedes-AMG GT SUV lädt in 12 Minuten nach",
-   "text": "Der Mercedes-AMG GT SUV debütiert als Elektro-SUV mit bis zu 1.169 PS, 800-Volt-Technik und Schnellladen bis 710 kW. ( Elektroauto , Auto )",
-   "link": "https://www.golem.de/news/elektroauto-mercedes-amg-gt-suv-laedt-in-12-minuten-nach-2610-214219.html",
-   "published": "2026-10-18T13:05:01+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-23T13:05:01+00:00",
-   "img": "https://www.golem.de/2610/214219-603918-603916_rc.jpg"
-  },
-  {
-   "id": "nb5d7f960f4",
-   "topic": "wissenschaft",
-   "title": "Quanten-Thermodynamik: Verborgene Quanteninformation wird nutzbar",
-   "text": "Mikroskopische Motoren lassen sich auch mit Information antreiben. Doch die ist manchmal so schwer zugänglich, dass es Tricks braucht, um sie zu gewinnen.",
-   "link": "https://www.spektrum.de/news/quanten-thermodynamik-verborgene-quanteninformation-wird-nutzbar/2350169",
-   "published": "2026-10-18T13:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-01T13:00:00+00:00"
-  },
-  {
-   "id": "n7540ce9ac8",
-   "topic": "ki",
-   "title": "Vier Gemini-4-Argon-Agenten spielen Minecraft ohne menschliche Hilfe durch",
-   "text": "Vier KI-Agenten auf Basis von Googles Gemini 4 Argon haben Minecraft erstmals vollständig autonom durchgespielt, inklusive Enderdrachen. Ohne vorgegebene Rollen oder Strategien koordinierten sie sich selbstständig, schrieben 2.783 Programme, tauschten 229 Chat-Nachrichten aus und starben 605 Mal. Kosten: 1.620 Dollar. …",
-   "link": "https://the-decoder.de/vier-gemini-4-argon-agenten-spielen-minecraft-ohne-menschliche-hilfe-durch/",
-   "published": "2026-10-18T12:34:51+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-25T12:34:51+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/minecraft_gemini.png"
-  },
-  {
-   "id": "nbfed0f5ec4",
-   "topic": "it",
-   "title": "Falt-iPhone: Apples neues iPhone-Duo-Case braucht Kleber zur Fixierung",
-   "text": "Apples 89-Euro-Hülle für das neue Falt-iPhone wird mit Klebestreifen fixiert und schützt das innere und äußere Display nicht. ( iPhone Duo , Apple )",
-   "link": "https://www.golem.de/news/falt-iphone-apples-neues-iphone-duo-case-braucht-kleber-zur-fixierung-2610-214218.html",
-   "published": "2026-10-18T12:25:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-23T12:25:02+00:00",
-   "img": "https://www.golem.de/2610/214218-603914-603912_rc.jpg"
-  },
-  {
-   "id": "n968bb14f0a",
-   "topic": "it",
-   "title": "heise+ | Fitbit Air vs. Whoop 5 am iPhone im Test: Messen, deuten, coachen",
-   "text": "Whoop prägt das Segment der displaylosen Fitnessbänder. Nun schickt Google mit Fitbit ein Urgestein des Fitness-Trackings ins Rennen. Wir prüfen die Geräte.",
-   "link": "https://www.heise.de/tests/Fitbit-Air-vs-Whoop-5-am-iPhone-im-Test-Messen-deuten-coachen-11475053.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-   "published": "2026-10-18T12:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-23T12:00:00+00:00"
-  },
-  {
-   "id": "n06c331a45e",
-   "topic": "welt",
-   "title": "Gewalt, Plünderungen, Brände: Proteste in Frankreich eskalieren",
-   "text": "In Frankreich haben Hunderttausende Menschen am Samstag protestiert - überschattet von massiven Ausschreitungen. Vermummte plünderten Geschäfte und setzten Gebäude in Brand. 1.800 Menschen wurden festgenommen.",
-   "link": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-116.html",
-   "published": "2026-10-18T11:51:17+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-21T11:51:17+00:00",
-   "img": "https://images.tagesschau.de/image/62de6281-715b-4d9a-99fd-1bd48d717df3/AAABoU3h5V4/AAABnSSvrFg/16x9-big/frankreich-864.jpg?width=1920"
-  },
-  {
-   "id": "na0c906831b",
-   "topic": "welt",
-   "title": "Frankreich: 1800 Festnahmen bei Protesten",
-   "text": "In Frankreich ist der Schock über den landesweiten Protesttag mit beispiellosen Ausschreitungen und Plünderungen groß. Präsident Emmanuel Macron verurteilt die Gewalt und kündigt eine rigorose Strafverfolgung an.",
-   "link": "https://www.dw.com/de/frankreich-1800-festnahmen-bei-protesten/a-79692403?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-18T11:50:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-22T11:50:00+00:00",
-   "img": "https://static.dw.com/image/79692258_302.jpg",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Nach Krawallen - Sorge vor weiteren Ausschreitungen in Frankreich: Regierung ordnet lokale Ausgangssperren an",
-     "link": "https://www.deutschlandfunk.de/sorge-vor-weiteren-ausschreitungen-in-frankreich-regierung-ordnet-lokale-ausgangssperren-an-100.html"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Ausschreitungen in Frankreich: Fassungslosigkeit und Schuldzuweisungen",
-     "link": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-politische-reaktionen-100.html"
-    }
-   ]
-  },
-  {
-   "id": "nb1f186fb4b",
-   "topic": "wirtschaft",
-   "title": "Doppelsystem Deutschland: Gesetzliche und Private Krankenkasse",
-   "text": "Das deutsche Krankenversicherungssystem ist speziell. Während in vielen Ländern die private Versicherung eine Ergänzung ist, ist sie hierzulande für Millionen Menschen das Hauptsystem. Von L.-M. Hiltscher.",
-   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/krankenversicherung-pkv-gkv-vergleich-100.html",
-   "published": "2026-10-18T11:18:25+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-21T11:18:25+00:00",
-   "img": "https://images.tagesschau.de/image/2adfa06c-51fb-4e2e-8fe3-0783f160a7b1/AAABnc9GHcQ/AAABnSSvrFg/16x9-big/private-krankenkasse-100.jpg?width=1920"
-  },
-  {
-   "id": "neba5e3437b",
-   "topic": "politik",
-   "title": "CSU-Chef Söder fordert bei Junger Union \"Brandmauer nach links\"",
-   "text": "Dass Linke, Grüne und SPD einen Durchbruch bei den Sondierungen in Berlin erzielt haben, führt auf dem \"Deutschlandtag\" der Jungen Union zu heftiger Kritik: CSU-Chef Söder fordert eine klare Abgrenzung nach links - unter dem Jubel der Delegierten.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/soeder-junge-union-102.html",
-   "published": "2026-10-18T11:17:48+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-21T11:17:48+00:00",
-   "img": "https://images.tagesschau.de/image/174a16af-8ed6-4639-b6a4-e26147d1e1eb/AAABoU7sA8M/AAABnSSvrFg/16x9-big/soeder-junge-union-100.jpg?width=1920"
-  },
-  {
-   "id": "n97467ca157",
-   "topic": "nfl",
-   "title": "What channel is Cowboys vs. Packers game today? Start time, schedule, streaming",
-   "text": "What channel is \"Sunday Night Football\" on? Here's how to watch the Cowboys vs. Packers game in Week 6.",
-   "link": "https://sports.yahoo.com/articles/channel-cowboys-vs-packers-game-110047974.html",
-   "published": "2026-10-18T11:00:47+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-23T11:00:47+00:00"
-  },
-  {
-   "id": "ncfb925bd40",
-   "topic": "wissenschaft",
-   "title": "Freistetters Formelwelt: Die Kurve, die Achterbahnen möglich macht",
-   "text": "Nicht immer haben mathematische Konstrukte auch praktische Anwendung. Die Klothoide aber sorgt für Sicherheit im Straßenverkehr und Spaß im Freizeitpark.",
-   "link": "https://www.spektrum.de/kolumne/klothoide-die-kurve-die-achterbahnen-moeglich-macht/2349951",
-   "published": "2026-10-18T11:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-01T11:00:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/klothoide_teaser_21x9.png.8417636.png?f=1280x720"
-  },
-  {
-   "id": "n37236b24d9",
-   "topic": "nfl",
-   "title": "Ravens-Browns fantasy and prop bets: Bet on the basics",
-   "text": "Three bets that could hit for the Browns against the Ravens.",
-   "link": "https://sports.yahoo.com/articles/ravens-browns-fantasy-prop-bets-110000780.html",
-   "published": "2026-10-18T11:00:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-23T11:00:00+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/6f96c111068b50779986df740101f1df.jpg"
-  },
-  {
-   "id": "n72c71df61a",
-   "topic": "it",
-   "title": "Daltons: Festnahmen nach Brand an Starlink-Station mit Spur ins kriminelle Milieu",
-   "text": "Ermittler prüfen nach dem Starlink-Anschlag in Polen eine Spur zur türkischen Mafia und zum russischen Geheimdienst. ( Starlink , Telekommunikation )",
-   "link": "https://www.golem.de/news/daltons-festnahmen-nach-brand-an-starlink-station-mit-spur-ins-kriminelle-milieu-2610-214224.html",
-   "published": "2026-10-18T10:45:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-23T10:45:02+00:00",
-   "img": "https://www.golem.de/2610/214224-603938-603936_rc.jpg"
-  },
-  {
-   "id": "n0898b310a9",
-   "topic": "welt",
-   "title": "Zaun durchbrochen: Brisanter Vorfall am Flughafen Leipzig/Halle",
-   "text": "Am Flughafen Leipzig/Halle gab es in der Nacht einen großen Polizeieinsatz wegen eines Sicherheitsvorfalls. Erst kürzlich gab es an dem Airport eine andere brisante Episode.",
-   "link": "https://www.dw.com/de/zaun-durchbrochen-brisanter-vorfall-am-flughafen-leipzig-halle/a-79691953?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-18T10:37:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-22T10:37:00+00:00",
-   "img": "https://static.dw.com/image/79691218_302.jpg",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Durchbrochener Zaun - Sicherheitsvorfall am Flughafen Halle/Leipzig: Tatverdächtige stellen sich der Polizei",
-     "link": "https://www.deutschlandfunk.de/sicherheitsvorfall-am-flughafen-halle-leipzig-tatverdaechtige-stellen-sich-der-polizei-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n07a6a2af3e",
-   "topic": "politik",
-   "title": "Deutschlandtag der Jungen Union - Söder dringt auf Umsetzung der Reformen",
-   "text": "Der bayerische Ministerpräsident Söder hat von der Bundesregierung die Umsetzung angekündigter Reformen gefordert. Ein Stillstand aus Angst vor Diskussionen wäre Selbstmord aus Angst vor dem Tod, sagte der CSU-Vorsitzende beim Deutschlandtag der Jungen Union in Bonn.",
-   "link": "https://www.deutschlandfunk.de/soeder-dringt-auf-umsetzung-der-reformen-102.html",
-   "published": "2026-10-18T10:31:39+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-20T10:31:39+00:00",
-   "img": "https://bilder.deutschlandfunk.de/d7/25/6f/72/d7256f72-e5b6-42a3-ac10-5d735d98a760/markus-soder-junge-union-deutschlandtag-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "\"Deutschlandtag\" der Jungen Union: Der große Knall bleibt aus",
-     "link": "https://www.tagesschau.de/inland/junge-union-deutschlandtag-analyse-100.html"
-    }
-   ]
   }
  ]
 }
