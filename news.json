@@ -1,50 +1,212 @@
 {
- "generated": "2026-10-19T20:35:44.154603+00:00",
+ "generated": "2026-10-20T00:20:56.220942+00:00",
  "briefing": [
   "n043e6d7e1d",
-  "n19aff63e1e",
   "nf35a50d979",
+  "ne5202f7ddb",
   "n3fb941a693",
   "n3e701eb9ea",
-  "n6962fdc200",
-  "nde451f6dbf",
-  "n644531920e"
+  "n15cc646df8",
+  "n5ad8d36557",
+  "n9d77054540"
  ],
  "ranked": [
   {
    "id": "n043e6d7e1d",
-   "s": 37.4
-  },
-  {
-   "id": "n19aff63e1e",
-   "s": 32.0
+   "s": 37.0
   },
   {
    "id": "nf35a50d979",
-   "s": 31.1
+   "s": 30.2
+  },
+  {
+   "id": "ne5202f7ddb",
+   "s": 28.1
   },
   {
    "id": "n3fb941a693",
-   "s": 27.8
+   "s": 26.9
   },
   {
    "id": "n3e701eb9ea",
-   "s": 24.1
+   "s": 23.1
   },
   {
-   "id": "n6962fdc200",
-   "s": 22.9
+   "id": "n15cc646df8",
+   "s": 22.6
   },
   {
-   "id": "nde451f6dbf",
-   "s": 22.9
+   "id": "n5ad8d36557",
+   "s": 22.5
   },
   {
-   "id": "n644531920e",
-   "s": 19.0
+   "id": "n9d77054540",
+   "s": 21.8
   }
  ],
  "items": [
+  {
+   "id": "n0223783d46",
+   "topic": "nfl",
+   "title": "Caleb Williams off Bears' injury report",
+   "text": "Bears quarterback Caleb Williams is off the team's injury report.",
+   "link": "https://sports.yahoo.com/articles/caleb-williams-off-bears-injury-000753882.html",
+   "published": "2026-10-20T00:07:53+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-25T00:07:53+00:00"
+  },
+  {
+   "id": "na7277e85e3",
+   "topic": "nfl",
+   "title": "Game Recap: Saints visit Giants in Week 6 Clash",
+   "text": "Catch up on everything that went down in East Rutherford.",
+   "link": "https://sports.yahoo.com/articles/game-recap-saints-visit-giants-000024910.html",
+   "published": "2026-10-20T00:00:24+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-25T00:00:24+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/2c02cde31fe7e68eaa6da27aeff97eb2.jpg"
+  },
+  {
+   "id": "n43f5a64bf8",
+   "topic": "politik",
+   "title": "Berlin - Grüne und SPD für Koalitionsverhandlungen mit Linkspartei",
+   "text": "Nach der SPD haben sich auch die Grünen in Berlin für die Aufnahme von Koalitionsverhandlungen mit der Linken ausgesprochen. Bei einem kleinen Parteitag stimmten am Abend 43 der 45 Delegierten dafür und zwei dagegen.",
+   "link": "https://www.deutschlandfunk.de/gruene-und-spd-fuer-koalitionsverhandlungen-mit-linkspartei-102.html",
+   "published": "2026-10-19T22:53:06+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-21T22:53:06+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Berlin: Grüne und SPD stimmen für Koalitionsgespräche mit Linke",
+     "link": "https://www.tagesschau.de/inland/berlin-wahl-spd-gruene-koalitionsverhandlungen-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n67fcf14b94",
+   "topic": "politik",
+   "title": "Ukraine-Krieg - Trump zu Dreiertreffen mit Putin und Xi bereit",
+   "text": "US-Präsident Trump hat sich offen für ein Gespräch zur Beendigung des",
+   "link": "https://www.deutschlandfunk.de/trump-zu-dreiertreffen-mit-putin-und-xi-bereit-106.html",
+   "published": "2026-10-19T22:53:06+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-21T22:53:06+00:00"
+  },
+  {
+   "id": "n15cc646df8",
+   "topic": "politik",
+   "title": "Mecklenburg-Vorpommern - Landtag kommt erstmals nach der Wahl zusammen",
+   "text": "Einen Monat nach der Landtagswahl in Mecklenburg-Vorpommern kommt das neue Parlament heute erstmals zusammen.",
+   "link": "https://www.deutschlandfunk.de/landtag-kommt-erstmals-nach-der-wahl-zusammen-114.html",
+   "published": "2026-10-19T22:53:06+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-21T22:53:06+00:00",
+   "img": "https://bilder.deutschlandfunk.de/FI/LE/_5/13/FILE_513f14cc0a90c76c55698f710e6bdc53/247092911-jpg-100-768x768.jpg"
+  },
+  {
+   "id": "n72186c7c8e",
+   "topic": "politik",
+   "title": "Rot-Grün-Rot in Berlin - Wohnungskonzern Vonovia: Vergesellschaftung in geplanter Form verfassungswidrig",
+   "text": "Die Pläne von Linke, Grünen und SPD zur Vergesellschaftung großer Wohnungskonzerne werden aus Sicht des Immobilienkonzerns Vonovia vor Gericht nicht standhalten. Das Unternehmen teilte mit, man sei überzeugt, dass eine Vergesellschaftung in der vorgelegten und geplanten Art und Weise verfassungswidrig sei.",
+   "link": "https://www.deutschlandfunk.de/wohnungskonzern-vonovia-vergesellschaftung-in-geplanter-form-verfassungswidrig-102.html",
+   "published": "2026-10-19T22:53:06+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-21T22:53:06+00:00"
+  },
+  {
+   "id": "nb47386a735",
+   "topic": "politik",
+   "title": "Verkehrsminister - Bundesweites Angebot für Gelegenheitsfahrer geplant",
+   "text": "Die Verkehrsminister der Länder wollen auf ihrer bevorstehenden Herbstkonferenz am Mittwoch ein bundesweites Angebot für Gelegenheitsfahrer in Bussen und Bahnen auf den Weg bringen.",
+   "link": "https://www.deutschlandfunk.de/bundesweites-angebot-fuer-gelegenheitsfahrer-geplant-100.html",
+   "published": "2026-10-19T22:53:06+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-21T22:53:06+00:00",
+   "img": "https://bilder.deutschlandfunk.de/fc/13/f4/6d/fc13f46d-20b5-4fa0-bae3-b60e737bdf9b/regionalzug-vorbeifahrt-100-1920x1920.jpg"
+  },
+  {
+   "id": "na269042798",
+   "topic": "politik",
+   "title": "\"Invest in Germany Summit\" - Investitionsgipfel soll Geldgeber nach Deutschland locken - Absichtserklärung für KI-Zusammenarbeit mit Nvidia",
+   "text": "Die Bundesregierung hat mit dem US-Chiphersteller Nvidia eine Zusammenarbeit zur Entwicklung Künstlicher Intelligenz vereinbart. Wie die Bundesregierung mitteilte, wurde eine entsprechende Absichtserklärung mit Nvidia im Rahmen eines Investitionsgipfels in Berlin unterzeichnet.",
+   "link": "https://www.deutschlandfunk.de/investitionsgipfel-soll-geldgeber-nach-deutschland-locken-absichtserklaerung-fuer-ki-zusammenarbeit--102.html",
+   "published": "2026-10-19T22:53:06+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-21T22:53:06+00:00"
+  },
+  {
+   "id": "nbc24ea6f44",
+   "topic": "nfl",
+   "title": "Is Stefon Diggs playing Monday night? A look at the Commanders WR's status vs. 49ers on 'MNF'",
+   "text": "Diggs is officially listed as questionable with a hamstring injury",
+   "link": "https://www.cbssports.com/nfl/news/is-stefon-diggs-playing-tonight-injury-update-commanders-vs-49ers/",
+   "published": "2026-10-19T22:49:40+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-24T22:49:40+00:00"
+  },
+  {
+   "id": "nc0f32a8c6d",
+   "topic": "nfl",
+   "title": "Is Mike Evans playing on Monday night? A look at the 49ers WR's status vs. Commanders",
+   "text": "Evans is officially listed as questionable for Week 6",
+   "link": "https://www.cbssports.com/nfl/news/is-mike-evans-playing-monday-night-football/",
+   "published": "2026-10-19T22:47:47+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-24T22:47:47+00:00"
+  },
+  {
+   "id": "n45b026e8b4",
+   "topic": "it",
+   "title": "Kanzler Merz hofft auf Nvidia als Wachstumsbeschleuniger",
+   "text": "Der Gipfel „Invest in Germany“ startete in Berlin mit einer Plauderei zwischen Bundeskanzler und Nvidia-CEO. Beide wollen Industriedaten für KI nutzbar machen.",
+   "link": "https://www.heise.de/news/Kanzler-Merz-hofft-auf-Nvidia-als-Wachstumsbeschleuniger-11493401.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-19T21:50:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-24T21:50:00+00:00"
+  },
+  {
+   "id": "n2a49b6609f",
+   "topic": "wissenschaft",
+   "title": "Japan startet Mission zu Mars-Monden",
+   "text": "Der Mars-Mond Phobos steht im Mittelpunkt der jüngsten Weltraummission: Nun ist die Trägerrakete vom japanischen Weltraumbahnhof Tanegashima aufgebrochen. Es ist die erste Mission, bei der Material von der Marsregion zur Erde gebracht werden soll.",
+   "link": "https://www.tagesschau.de/wissen/weltraum/start-mission-mars-mond-100.html",
+   "published": "2026-10-19T20:43:14+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T20:43:14+00:00",
+   "img": "https://images.tagesschau.de/image/f6feeeb9-d16b-47bc-a889-9bb2fbea34fd/AAABoVXnc5k/AAABnSSvrFg/16x9-big/h3-traegerrakete-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Golem.de",
+     "title": "MMX: Japan startet Mission zu den Marsmonden",
+     "link": "https://www.golem.de/news/mmx-japan-startet-mission-zu-den-marsmonden-2610-214232.html"
+    }
+   ]
+  },
   {
    "id": "n4ffb41e664",
    "topic": "nfl",
@@ -84,11 +246,6 @@
    "img": "https://bilder.deutschlandfunk.de/bc/cf/4c/2b/bccf4c2b-eccf-4d05-b13b-0f89558c8853/frankreich-premierminister-lecornu-100-1920x1920.jpg",
    "also": [
     {
-     "source": "Deutsche Welle",
-     "title": "Macron lehnt Rücktritt von Frankreichs Innenminister ab",
-     "link": "https://www.dw.com/de/macron-lehnt-rücktritt-von-frankreichs-innenminister-ab/a-79697113?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
      "source": "Tagesschau",
      "title": "Ausschreitungen in Frankreich: Fassungslosigkeit und Schuldzuweisungen",
      "link": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-politische-reaktionen-100.html"
@@ -106,7 +263,6 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-21T20:15:24+00:00",
-   "img": "https://bilder.deutschlandfunk.de/6a/a7/83/ef/6aa783ef-d3be-4d89-869c-e1f1e50f37b7/gruene-berlin-parteitag-102-1920x1920.jpg",
    "also": [
     {
      "source": "Tagesschau",
@@ -137,8 +293,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-21T20:15:24+00:00",
-   "img": "https://bilder.deutschlandfunk.de/9b/c7/b1/f4/9bc7b1f4-bb7a-4653-b441-0f715c600ddf/investitionsgipfel-berglin-bundeskanzler-merz-investoren-huang-nvidia-100-1920x1920.jpg"
+   "expires": "2026-10-21T20:15:24+00:00"
   },
   {
    "id": "nde451f6dbf",
@@ -150,8 +305,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-21T20:15:24+00:00",
-   "img": "https://bilder.deutschlandfunk.de/3b/62/5c/ca/3b625cca-e4b2-4c1d-8c68-8014f4b1f406/donald-trump-254-1920x1920.jpg"
+   "expires": "2026-10-21T20:15:24+00:00"
   },
   {
    "id": "n100b6b0e98",
@@ -189,8 +343,7 @@
    "source": "CBS Sports",
    "type": "Sportmedium",
    "lang": "en",
-   "expires": "2026-10-24T20:01:29+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/18/6591c206-feb8-4dfa-8956-c0acdcd4e0d1/template-pic.jpg"
+   "expires": "2026-10-24T20:01:29+00:00"
   },
   {
    "id": "n3994caf70f",
@@ -222,7 +375,7 @@
     {
      "source": "Deutschlandfunk",
      "title": "Berlin - Grüne und SPD für Koalitionsverhandlungen mit Linkspartei",
-     "link": "https://www.deutschlandfunk.de/gruene-und-spd-fuer-koalitionsverhandlungen-mit-linkspartei-100.html"
+     "link": "https://www.deutschlandfunk.de/gruene-und-spd-fuer-koalitionsverhandlungen-mit-linkspartei-102.html"
     }
    ]
   },
@@ -236,7 +389,8 @@
    "source": "Deutsche Welle",
    "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
    "lang": "de",
-   "expires": "2026-10-23T19:31:00+00:00"
+   "expires": "2026-10-23T19:31:00+00:00",
+   "img": "https://static.dw.com/image/79689956_302.jpg"
   },
   {
    "id": "nc01691cd7c",
@@ -280,7 +434,7 @@
    "id": "n20ea5b9397",
    "topic": "welt",
    "title": "Proteste in vielen Ländern Europas - aus ähnlichen Gründen",
-   "text": "Die gewalttätigen Proteste in Frankreich dominieren seit Tagen die Schlagzeilen. Doch auch in anderen Ländern Europas gibt es derzeit Großdemos und Ausschreitungen - die Gründe ähneln einander vielfach. Wer protestiert gerade in welchen Ländern - und warum?",
+   "text": "Die gewalttätigen Proteste in Frankreich dominieren seit Tagen die Schlagzeilen. Doch auch in anderen Ländern Europas gibt es derzeit Großdemos und Ausschreitungen, die Gründe ähneln einander vielfach. Wer protestiert gerade in welchen Ländern - und warum?",
    "link": "https://www.tagesschau.de/ausland/europa/proteste-europa-100.html",
    "published": "2026-10-19T19:08:04+00:00",
    "source": "Tagesschau",
@@ -571,11 +725,6 @@
      "source": "Deutsche Welle",
      "title": "Macron lehnt Rücktritt von Frankreichs Innenminister ab",
      "link": "https://www.dw.com/de/macron-lehnt-rücktritt-von-frankreichs-innenminister-ab/a-79697113?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Ausschreitungen in Frankreich: Fassungslosigkeit und Schuldzuweisungen",
-     "link": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-politische-reaktionen-100.html"
     }
    ]
   },
@@ -670,13 +819,8 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Nach Krawallen - Sorge vor weiteren Ausschreitungen in Frankreich: Regierung ordnet lokale Ausgangssperren an",
-     "link": "https://www.deutschlandfunk.de/sorge-vor-weiteren-ausschreitungen-in-frankreich-regierung-ordnet-lokale-ausgangssperren-an-100.html"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Ausschreitungen in Frankreich: Fassungslosigkeit und Schuldzuweisungen",
-     "link": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-politische-reaktionen-100.html"
+     "title": "Nach Ausschreitungen - Frankreichs Präsident Macron lehnt Rücktritt von Innenminister Nunez ab",
+     "link": "https://www.deutschlandfunk.de/frankreichs-praesident-macron-lehnt-ruecktritt-von-innenminister-nunez-ab-100.html"
     }
    ]
   },
@@ -888,7 +1032,14 @@
    "type": "Fachmedium (IT)",
    "lang": "de",
    "expires": "2026-10-24T12:00:02+00:00",
-   "img": "https://www.golem.de/2610/214232-603973-603971_rc.jpg"
+   "img": "https://www.golem.de/2610/214232-603973-603971_rc.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Japan startet Mission zu Mars-Monden",
+     "link": "https://www.tagesschau.de/wissen/weltraum/start-mission-mars-mond-100.html"
+    }
+   ]
   },
   {
    "id": "nef6e0f69ec",
@@ -1146,11 +1297,6 @@
      "source": "Deutsche Welle",
      "title": "Macron lehnt Rücktritt von Frankreichs Innenminister ab",
      "link": "https://www.dw.com/de/macron-lehnt-rücktritt-von-frankreichs-innenminister-ab/a-79697113?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Ausschreitungen in Frankreich: Fassungslosigkeit und Schuldzuweisungen",
-     "link": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-politische-reaktionen-100.html"
     }
    ]
   },
@@ -1324,11 +1470,6 @@
      "source": "Deutschlandfunk",
      "title": "Nach Krawallen - Sorge vor weiteren Ausschreitungen in Frankreich: Regierung ordnet lokale Ausgangssperren an",
      "link": "https://www.deutschlandfunk.de/sorge-vor-weiteren-ausschreitungen-in-frankreich-regierung-ordnet-lokale-ausgangssperren-an-100.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Macron lehnt Rücktritt von Frankreichs Innenminister ab",
-     "link": "https://www.dw.com/de/macron-lehnt-rücktritt-von-frankreichs-innenminister-ab/a-79697113?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -1536,11 +1677,6 @@
      "source": "Deutsche Welle",
      "title": "Macron lehnt Rücktritt von Frankreichs Innenminister ab",
      "link": "https://www.dw.com/de/macron-lehnt-rücktritt-von-frankreichs-innenminister-ab/a-79697113?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Ausschreitungen in Frankreich: Fassungslosigkeit und Schuldzuweisungen",
-     "link": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-politische-reaktionen-100.html"
     }
    ]
   },
@@ -1586,184 +1722,6 @@
      "link": "https://www.tagesschau.de/ausland/amerika/kanada-alberta-volksabstimmung-100.html"
     }
    ]
-  },
-  {
-   "id": "n952ba5b894",
-   "topic": "welt",
-   "title": "Sudan: Klimawandel und Drohnenangriffe verschärfen humanitäre Krise",
-   "text": "Während die Kämpfe im Sudan immer mehr Menschen zur Flucht zwingen, warnen Hilfsorganisationen vor einem drohenden Zusammenbruch des Gesundheitssystems. Der UN-Sicherheitsrat hat das Waffenembargo für Darfur verlängert.",
-   "link": "https://www.dw.com/de/sudan-klimawandel-und-drohnenangriffe-verschärfen-humanitäre-krise/a-79682596?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-18T19:54:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-22T19:54:00+00:00",
-   "img": "https://static.dw.com/image/79659416_302.jpg"
-  },
-  {
-   "id": "n7254fb00b9",
-   "topic": "welt",
-   "title": "Ausschreitungen in Frankreich: Macron spricht von \"Wut und Scham\"",
-   "text": "Die heftigen Ausschreitungen haben Frankreich erschüttert. Und auch am Sonntag gab es wieder Zusammenstöße. In einer Ansprache kündigte Präsident Macron an, durchzugreifen - notfalls mit einem Verbot der Demonstrationen.",
-   "link": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-102.html",
-   "published": "2026-10-18T19:46:21+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-21T19:46:21+00:00",
-   "img": "https://images.tagesschau.de/image/25d0f714-ec26-4558-a9d7-192f2fcce55e/AAABoVCKnh0/AAABnSSvrFg/16x9-big/macron-1012.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Nach Krawallen - Sorge vor weiteren Ausschreitungen in Frankreich: Regierung ordnet lokale Ausgangssperren an",
-     "link": "https://www.deutschlandfunk.de/sorge-vor-weiteren-ausschreitungen-in-frankreich-regierung-ordnet-lokale-ausgangssperren-an-100.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Macron lehnt Rücktritt von Frankreichs Innenminister ab",
-     "link": "https://www.dw.com/de/macron-lehnt-rücktritt-von-frankreichs-innenminister-ab/a-79697113?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "nb7b2020cae",
-   "topic": "nfl",
-   "title": "Pittsburgh coach Mike McCarthy suffers injury during Steelers' game vs. Buccaneers",
-   "text": "McCarthy spent halftime in the blue medical tent",
-   "link": "https://www.cbssports.com/nfl/news/steelers-mike-mccarthy-suffers-injury-vs-buccaneers/",
-   "published": "2026-10-18T19:04:07+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-23T19:04:07+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/18/c9f8dc25-4c0b-4078-b955-97d4c64eb0c7/mccarthyoct.jpg"
-  },
-  {
-   "id": "n0179b56267",
-   "topic": "welt",
-   "title": "US-Midterms: Können die Republikaner wieder bei Latinos punkten?",
-   "text": "Fast die Hälfte der Latinos in den USA wählte 2024 Donald Trump - und trug damit maßgeblich zu seinem Erfolg bei. Viele setzten große Hoffnungen in ihn. Wie ist die Stimmung unter Latinos kurz vor den Zwischenwahlen? Von N. Barth.",
-   "link": "https://www.tagesschau.de/ausland/amerika/usa-latinos-midterms-100.html",
-   "published": "2026-10-18T19:00:53+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-21T19:00:53+00:00",
-   "img": "https://images.tagesschau.de/image/03c182d6-0e84-4842-ad7f-ad83c56790c6/AAABoVBjZNM/AAABnSSvrFg/16x9-big/wahlschild-arizona-100.jpg?width=1920"
-  },
-  {
-   "id": "nb866c601b4",
-   "topic": "politik",
-   "title": "DEL: Löwen Frankfurt beenden den Heimfluch",
-   "text": "Es geht doch: Die Löwen Frankfurt dürfen das erste Mal vor heimischem Publikum einen Sieg bejubeln. Gegen Iserlohn zeigten die Hessen eine starke Vorstellung.",
-   "link": "https://www.hessenschau.de/sport/eishockey/del-loewen-frankfurt-beenden-den-heimfluch-v2,loewen-roosters-100.html",
-   "published": "2026-10-18T18:55:22+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-22T18:55:22+00:00",
-   "img": "https://www.hessenschau.de/sport/eishockey/loewen-266~_t-1792333316731_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "n19aff63e1e",
-   "topic": "welt",
-   "title": "Nach Gewalt bei Protesten in Frankreich: Macron beruft Krisensitzung ein",
-   "text": "Am Tag nach der massiven Gewalt bei Protesten in Frankreich wird das Ausmaß der Zerstörung sichtbar. Die Regierung macht Linksradikale für die Krawalle verantwortlich. Präsident Macron spricht von \"ungezügelter Gewalt\".",
-   "link": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-100.html",
-   "published": "2026-10-18T18:45:27+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-21T18:45:27+00:00",
-   "img": "https://images.tagesschau.de/image/6d4c546e-6c06-4464-bf76-28cae18750f5/AAABoU72PSY/AAABnSSvrFg/16x9-big/nach-ausschreitungen-frankreich-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Nach Krawallen - Sorge vor weiteren Ausschreitungen in Frankreich: Regierung ordnet lokale Ausgangssperren an",
-     "link": "https://www.deutschlandfunk.de/sorge-vor-weiteren-ausschreitungen-in-frankreich-regierung-ordnet-lokale-ausgangssperren-an-100.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Macron lehnt Rücktritt von Frankreichs Innenminister ab",
-     "link": "https://www.dw.com/de/macron-lehnt-rücktritt-von-frankreichs-innenminister-ab/a-79697113?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n649e327ad3",
-   "topic": "politik",
-   "title": "Bericht aus Berlin: Heil äußert Zweifel an Rot-Grün-Rot in Berlin",
-   "text": "Kann Rot-Grün-Rot in Berlin funktionieren? Der SPD-Politiker Heil und weitere SPD-Bundestagsabgeordnete sind skeptisch. Grünen-Chefin Brantner nennt im Bericht aus Berlin Kriterien, die für eine stabile Regierung erfüllt sein müssten.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/bab-heil-brantner-koalition-berlin-100.html",
-   "published": "2026-10-18T18:32:34+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-21T18:32:34+00:00",
-   "img": "https://images.tagesschau.de/image/db9ecb54-3dc9-459d-ad97-0ab9bcf0212a/AAABoU_L6fE/AAABnSSvrFg/16x9-big/sendungsbild-1813512.jpg?width=1920"
-  },
-  {
-   "id": "n5b421775c5",
-   "topic": "it",
-   "title": "Top 10: Speicher für Balkonkraftwerk – Zendure Solarflow 2400 Pro ist Testsieger",
-   "text": "Wir zeigen die besten Speicher für Balkonkraftwerke. Viele Modelle lassen sich inzwischen lokal über Home Assistant ansteuern.",
-   "link": "https://www.heise.de/bestenlisten/testsieger/top-10-speicher-fuer-balkonkraftwerk-zendure-solarflow-2400-pro-ist-testsieger/9g7b03h?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-18T18:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-23T18:00:00+00:00"
-  },
-  {
-   "id": "n7d922da4e0",
-   "topic": "politik",
-   "title": "\"Deutschlandtag\" der Jungen Union: Der große Knall bleibt aus",
-   "text": "Die Junge Union ist in der Partei längst ein Machtfaktor. Entsprechend selbstbewusst präsentierte sich der Nachwuchs beim \"Deutschlandtag\" - und Kanzler Merz zeigte sich zugewandt. Harmonie war trotzdem nicht zu spüren. Von K. Palzer.",
-   "link": "https://www.tagesschau.de/inland/junge-union-deutschlandtag-analyse-100.html",
-   "published": "2026-10-18T16:48:09+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-21T16:48:09+00:00",
-   "img": "https://images.tagesschau.de/image/ed3dc28f-7541-4d1e-bad5-c80e6de8422b/AAABoU_BuUw/AAABnSSvrFg/16x9-big/winkel-merz-ju-100.jpg?width=1920"
-  },
-  {
-   "id": "nd00e68f46d",
-   "topic": "it",
-   "title": "„Valor Mortis“ im Test: Napoleonisches Soulslike aus der Ego-Perspektive",
-   "text": "Ein Soulslike aus der Ego-Perspektive mit Napoleons Zombie-Truppen: „Valor Mortis“ wagt viel, verkauft sich aber schlecht.",
-   "link": "https://www.heise.de/tests/Valor-Mortis-im-Test-Napoleonisches-Soulslike-aus-der-Ego-Perspektive-11491859.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-18T16:46:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-23T16:46:00+00:00"
-  },
-  {
-   "id": "n040865f2e1",
-   "topic": "it",
-   "title": "Sony streicht Android 17 für Xperia 10 VI",
-   "text": "Drei neue Android-Versionen hatte Sony 2024 für sein Mittelklasse-Smartphone versprochen. Daraus wird nun nichts.",
-   "link": "https://www.heise.de/news/Sony-streicht-Android-17-fuer-Xperia-10-VI-11491911.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-18T16:22:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-23T16:22:00+00:00"
-  },
-  {
-   "id": "nc68cab372e",
-   "topic": "welt",
-   "title": "Drohne in Litauens Luftraum eingedrungen und abgestürzt",
-   "text": "NATO-Kampfjets stiegen auf, Bürger wurden gewarnt: In Litauen hat eine Drohne für Alarm gesorgt, weil sie in den Luftraum eindrang. Kiew entschuldigte sich kurz darauf - und vermutet eine Störaktion Russlands dahinter.",
-   "link": "https://www.tagesschau.de/ausland/europa/litauen-drohne-absturz-ukraine-100.html",
-   "published": "2026-10-18T16:13:24+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-21T16:13:24+00:00",
-   "img": "https://images.tagesschau.de/image/9dfa7bee-0bf3-4d7a-af2b-d84560e44e6a/AAABoU-u01U/AAABnSSvrFg/16x9-big/litauen-nato-flagge-100.jpg?width=1920"
   }
  ]
 }
