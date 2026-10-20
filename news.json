@@ -1,105 +1,277 @@
 {
- "generated": "2026-10-20T19:17:44.117592+00:00",
+ "generated": "2026-10-20T23:53:03.858098+00:00",
  "briefing": [
-  "ndd775d5f4c",
   "n5243a20925",
   "n01438fd04a",
   "nf5c22cdd53",
   "nd74e122d51",
   "n0432fef04d",
-  "n49f3c6fec3",
-  "n3e7cc8c91a",
+  "nd8e44fbdb3",
+  "n6d9668fbaf",
+  "nd3bb08b021",
   "n10a313968c",
   "n367de8bd5a"
  ],
  "ranked": [
   {
-   "id": "ndd775d5f4c",
-   "s": 30.9
-  },
-  {
    "id": "n5243a20925",
-   "s": 30.2
+   "s": 29.1
   },
   {
    "id": "n01438fd04a",
-   "s": 27.4
+   "s": 26.3
   },
   {
    "id": "nf5c22cdd53",
-   "s": 25.3
+   "s": 24.1
   },
   {
    "id": "nd74e122d51",
-   "s": 25.2
+   "s": 24.1
   },
   {
    "id": "n0432fef04d",
-   "s": 24.4
+   "s": 23.2
   },
   {
-   "id": "n49f3c6fec3",
-   "s": 23.0
+   "id": "nd8e44fbdb3",
+   "s": 22.9
   },
   {
-   "id": "n3e7cc8c91a",
-   "s": 23.0
+   "id": "n6d9668fbaf",
+   "s": 22.9
   },
   {
-   "id": "n10a313968c",
-   "s": 22.0
-  },
-  {
-   "id": "n367de8bd5a",
-   "s": 21.7
-  },
-  {
-   "id": "naf6960cbac",
-   "s": 21.7
-  },
-  {
-   "id": "ne97b7d6d98",
-   "s": 21.7
-  },
-  {
-   "id": "n690422f80e",
-   "s": 21.7
-  },
-  {
-   "id": "n216e8f9b68",
-   "s": 21.6
-  },
-  {
-   "id": "ne7d2f2e0ab",
-   "s": 21.3
-  },
-  {
-   "id": "n3d2e9b1df1",
+   "id": "nd3bb08b021",
    "s": 21.2
   },
   {
-   "id": "nc6dd921aa6",
-   "s": 20.8
+   "id": "n10a313968c",
+   "s": 20.9
   },
   {
-   "id": "n724e5b184f",
+   "id": "n367de8bd5a",
+   "s": 20.6
+  },
+  {
+   "id": "naf6960cbac",
+   "s": 20.6
+  },
+  {
+   "id": "ne97b7d6d98",
+   "s": 20.6
+  },
+  {
+   "id": "n690422f80e",
+   "s": 20.6
+  },
+  {
+   "id": "n216e8f9b68",
+   "s": 20.5
+  },
+  {
+   "id": "ne7d2f2e0ab",
    "s": 20.1
   },
   {
-   "id": "n602f0cfcec",
-   "s": 19.5
+   "id": "n3d2e9b1df1",
+   "s": 20.1
   },
   {
-   "id": "ncef39d25f5",
-   "s": 15.9
+   "id": "ndd775d5f4c",
+   "s": 19.7
+  },
+  {
+   "id": "nc6dd921aa6",
+   "s": 19.6
+  },
+  {
+   "id": "n602f0cfcec",
+   "s": 18.3
   }
  ],
  "items": [
   {
+   "id": "nd8e44fbdb3",
+   "topic": "politik",
+   "title": "Wirtschaftsauskunftei - Bundesgerichtshof urteilt zu Transparenz beim alten Schufa-Score",
+   "text": "Der Bundesgerichtshof verkündet am Vormittag sein Urteil zu den Auskunftspflichten der Schufa über ihren sogenannten Score.",
+   "link": "https://www.deutschlandfunk.de/bundesgerichtshof-urteilt-zu-transparenz-beim-alten-schufa-score-100.html",
+   "published": "2026-10-20T23:40:03+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-22T23:40:03+00:00",
+   "img": "https://bilder.deutschlandfunk.de/FI/LE/_f/9d/FILE_f9d88a786f49650a31941fd2d74f17df/51942150-jpg-100-768x768.jpg"
+  },
+  {
+   "id": "n8488e2d536",
+   "topic": "politik",
+   "title": "Ukraine-Krieg - Selenskyj trifft US-Gesandten Witkoff in Oslo - Teilnahme an möglichem Treffen mit Trump, Putin und Xi gefordert",
+   "text": "Der ukrainische Präsident Selenskyj hat eine Teilnahme seines Landes an einem möglichen Gipfeltreffen von US-Präsident Trump, dem russischen Staatschef Putin und Chinas Staatschef Xi gefordert. Gespräche über die Zukunft seines Landes seien nur akzeptabel, wenn man auch am Verhandlungstisch sitze, sagte Selenskyj bei …",
+   "link": "https://www.deutschlandfunk.de/selenskyj-trifft-us-gesandten-witkoff-in-oslo-teilnahme-an-moeglichem-treffen-mit-trump-putin-und-xi-102.html",
+   "published": "2026-10-20T23:40:03+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-22T23:40:03+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Selenskyj fordert Teilnahme an Putin-Xi-Trump-Treffen",
+     "link": "https://www.tagesschau.de/ausland/europa/selenskyj-witkoff-norwegen-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n00036b372c",
+   "topic": "politik",
+   "title": "Schwarzmeerregion - NATO verstärkt Überwachung nach wiederholten Drohnenangriffen auf Handelsschiffe",
+   "text": "Nach mehreren Drohnenangriffen auf Handelsschiffe vor den Küsten Bulgariens und Rumäniens verstärkt die NATO ihre Überwachung der Schwarzmeerregion.",
+   "link": "https://www.deutschlandfunk.de/nato-verstaerkt-ueberwachung-nach-wiederholten-drohnenangriffen-auf-handelsschiffe-106.html",
+   "published": "2026-10-20T23:40:03+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-22T23:40:03+00:00"
+  },
+  {
+   "id": "nd1ff663796",
+   "topic": "politik",
+   "title": "Nach Vorfall an Militärstützpunkt - Britische Polizei nimmt zwei Verdächtige erneut fest - Vorwurf der Spionage für Iran",
+   "text": "Im Zuge der Ermittlungen um mutmaßliche Anschlagspläne auf einen Militärstützpunkt in Großbritannien sind zwei Verdächtige erneut festgenommen worden.",
+   "link": "https://www.deutschlandfunk.de/britische-polizei-nimmt-zwei-verdaechtige-erneut-fest-vorwurf-der-spionage-fuer-iran-102.html",
+   "published": "2026-10-20T23:40:03+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-22T23:40:03+00:00"
+  },
+  {
+   "id": "n6d9668fbaf",
+   "topic": "politik",
+   "title": "Polen - Parlament verabschiedet Liberalisierung des Abtreibungsrechts - Veto des Präsidenten erwartet",
+   "text": "In Polen hat das Parlament mit knapper Mehrheit für eine Lockerung der strengen Abtreibungsregeln gestimmt.",
+   "link": "https://www.deutschlandfunk.de/parlament-verabschiedet-liberalisierung-des-abtreibungsrechts-veto-des-praesidenten-erwartet-108.html",
+   "published": "2026-10-20T23:40:03+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-22T23:40:03+00:00",
+   "img": "https://bilder.deutschlandfunk.de/b0/4d/88/c1/b04d88c1-c21e-49e2-a1c5-8a01eb73a244/donald-tusk-premierminister-polen-100-1920x1920.jpg"
+  },
+  {
+   "id": "n53a2f77a35",
+   "topic": "politik",
+   "title": "Epidemie - Erster Ebola-Fall in Nigeria nachgewiesen",
+   "text": "Nach dem Ebola-Ausbruch in Ostafrika ist erstmals auch eine Infektion in Nigeria bestätigt worden.",
+   "link": "https://www.deutschlandfunk.de/erster-ebola-fall-in-nigeria-nachgewiesen-104.html",
+   "published": "2026-10-20T23:40:03+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-22T23:40:03+00:00"
+  },
+  {
+   "id": "nea2718a587",
+   "topic": "nfl",
+   "title": "Dan Quinn says he talked to Jayden Daniels about ill-advised fourth-down throwaway vs. 49ers, wants QB to take his 'shot'",
+   "text": "Daniels tossed the ball out of bounds on a fourth-and-2 from the San Francisco 13-yard line, turning the ball over on downs early in the second quarter of a \"Monday Night Football\" loss.",
+   "link": "https://sports.yahoo.com/nfl/article/dan-quinn-says-he-talked-to-jayden-daniels-about-ill-advised-fourth-down-throwaway-vs-49ers-wants-qb-to-take-his-shot-233900445.html",
+   "published": "2026-10-20T23:39:00+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-25T23:39:00+00:00"
+  },
+  {
+   "id": "nc9daf63813",
+   "topic": "nfl",
+   "title": "Eagles-Commanders stays in prime time for Week 8",
+   "text": "NFL reportedly \"strongly considered\" replacing it with Browns-Steelers.",
+   "link": "https://sports.yahoo.com/articles/eagles-commanders-stays-prime-time-233636323.html",
+   "published": "2026-10-20T23:36:36+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-25T23:36:36+00:00"
+  },
+  {
+   "id": "nfa42196997",
+   "topic": "nfl",
+   "title": "NFL, Saints address plans for Paris game during Week 6 as protests escalate in France",
+   "text": "The league says its continuing with its original plans and monitoring the situation",
+   "link": "https://www.cbssports.com/nfl/news/nfl-saints-address-paris-game-plans-week-6-protests/",
+   "published": "2026-10-20T22:26:16+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-25T22:26:16+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/18/d761f43c-b902-4438-a72b-633954f2fb49/paris-france.jpg"
+  },
+  {
+   "id": "n123fdf3842",
+   "topic": "nfl",
+   "title": "Eagles will not be punished for how team handled Jalen Hurts' blood clots situation, per report",
+   "text": "The NFL concluded the process to clear Hurts for Week 5 in London was handled appropriately",
+   "link": "https://www.cbssports.com/nfl/news/eagles-will-not-be-punished-jalen-hurts-blood-clots-situation/",
+   "published": "2026-10-20T20:54:56+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-25T20:54:56+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/20/129265bc-42b7-4899-ab91-91faf18f0b91/hurts.jpg"
+  },
+  {
+   "id": "nc6a4411348",
+   "topic": "it",
+   "title": "Chinesische Konzerne geben enorme Grafikkarten-Bestellung auf",
+   "text": "Bei Nvidia sind chinesische Bestellungen für mehr als sechs Millionen Grafikkarten RTX PRO 5500 eingegangen. Nvidia kann aber nur drei Millionen herstellen.",
+   "link": "https://www.heise.de/news/Chinesische-Konzerne-geben-enorme-Grafikkarten-Bestellung-auf-11494892.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-20T20:46:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-25T20:46:00+00:00"
+  },
+  {
+   "id": "n7e65e4392b",
+   "topic": "welt",
+   "title": "Selenskyj fordert Teilnahme an Putin-Xi-Trump-Treffen",
+   "text": "Trump hatte Interesse an einem Gespräch mit den Präsidenten Russlands und Chinas über die Ukraine gezeigt. Nach einem Treffen mit europäischen Partnern sowie dem US-Sondergesandten Witkoff in Oslo forderte Präsident Selenskyj nun eine Beteiligung Kiews.",
+   "link": "https://www.tagesschau.de/ausland/europa/selenskyj-witkoff-norwegen-100.html",
+   "published": "2026-10-20T20:01:00+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-23T20:01:00+00:00",
+   "img": "https://images.tagesschau.de/image/a50666ee-685e-4f98-a7fb-ba98d1b22a34/AAABoVrm2G4/AAABnSSvrFg/16x9-big/wolodymyr-selenskyj-276.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Ukraine-Krieg - Selenskyj trifft US-Gesandten Witkoff in Oslo - Teilnahme an möglichem Treffen mit Trump, Putin und Xi gefordert",
+     "link": "https://www.deutschlandfunk.de/selenskyj-trifft-us-gesandten-witkoff-in-oslo-teilnahme-an-moeglichem-treffen-mit-trump-putin-und-xi-102.html"
+    }
+   ]
+  },
+  {
+   "id": "necf19ebc81",
+   "topic": "welt",
+   "title": "So reagieren Frankreich und Italien auf die Ausschreitungen",
+   "text": "Ausgangssperren, Antiterror-Soldaten, neue Dekrete: Frankreich und Italien haben auf die Ausschreitungen am Wochenende reagiert. So sollen in Zukunft Unruhen verhindert werden.",
+   "link": "https://www.tagesschau.de/ausland/europa/frankreich-italien-ausschreitungen-proteste-100.html",
+   "published": "2026-10-20T19:56:31+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-23T19:56:31+00:00",
+   "img": "https://images.tagesschau.de/image/4e46c524-9b7f-4a2d-bd72-246300afb21c/AAABoVqycF4/AAABnSSvrFg/16x9-big/frankreich-proteste-218.jpg?width=1920"
+  },
+  {
    "id": "n18d64c0218",
    "topic": "politik",
    "title": "So will die AfD Boris Rhein in Erklärungsnot bringen",
-   "text": "Ministerpräsident Rhein hat den Begriff der Brandmauer gegen die AfD verworfen und deren Ausgrenzung im Bundestag kritisiert. Prompt startet die hessische AfD ihren 20. Anlauf auf einen Vizepräsidentenposten im Landtag – und setzt die CDU damit unter Druck.",
+   "text": "Ministerpräsident Boris Rhein hat sich vom Begriff der Brandmauer gegen die AfD verabschiedet und deren Ausgrenzung im Bundestag kritisiert. Nun startet die hessische AfD ihren 20. Anlauf auf einen Vizepräsidentenposten im Landtag – und setzt die CDU damit unter Druck.",
    "link": "https://www.hessenschau.de/politik/landtag/so-will-die-afd-boris-rhein-in-erklaerungsnot-bringen-v1,afd-kandidat-landtag-100.html",
    "published": "2026-10-20T19:17:06+00:00",
    "source": "hessenschau (hr)",
@@ -108,6 +280,18 @@
    "expires": "2026-10-24T19:17:06+00:00",
    "img": "https://www.hessenschau.de/politik/brandmauer-100~_t-1791216873170_v-16to9.jpg",
    "tag": "Hessen"
+  },
+  {
+   "id": "nd7d5cd80ea",
+   "topic": "it",
+   "title": "Neue Instrumente für Firmen: Microsoft verspricht mehr Cloud-Souveränität",
+   "text": "Mit erweiterten Kontrollwerkzeugen und lokalen Umgebungen will Microsoft regulatorische Bedenken zerstreuen. Doch Experten bleiben wegen US-Gesetzen skeptisch.",
+   "link": "https://www.heise.de/news/Neue-Instrumente-fuer-Firmen-Microsoft-verspricht-mehr-Cloud-Souveraenitaet-11494812.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-20T19:16:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-25T19:16:00+00:00"
   },
   {
    "id": "ne9ddc1b4c3",
@@ -120,12 +304,11 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-22T19:10:16+00:00",
-   "img": "https://bilder.deutschlandfunk.de/0c/51/15/4a/0c51154a-bc22-4a5f-867b-84e200a13754/ukraine-selenskyj-oslo-norwegen-treffen-store-stubb-witkoff-100-1920x1920.jpg",
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Selenskyj trifft sich mit US-Gesandtem Witkoff zu Gesprächen in Oslo",
-     "link": "https://www.tagesschau.de/ausland/europa/ukraine-treffen-witkoff-100.html"
+     "title": "Selenskyj fordert Teilnahme an Putin-Xi-Trump-Treffen",
+     "link": "https://www.tagesschau.de/ausland/europa/selenskyj-witkoff-norwegen-100.html"
     }
    ]
   },
@@ -139,8 +322,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-22T19:10:16+00:00",
-   "img": "https://bilder.deutschlandfunk.de/3a/64/b6/85/3a64b685-4fd1-488f-a6bb-11c2c1ed0d68/nato-116-1920x1920.jpg"
+   "expires": "2026-10-22T19:10:16+00:00"
   },
   {
    "id": "n3e7cc8c91a",
@@ -152,8 +334,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-22T19:10:16+00:00",
-   "img": "https://bilder.deutschlandfunk.de/1f/4e/12/8c/1f4e128c-9993-4027-b720-1c080261936d/festnahme-stuetzpunkt-fairford-100-1920x1920.jpg"
+   "expires": "2026-10-22T19:10:16+00:00"
   },
   {
    "id": "nbde84845b2",
@@ -165,8 +346,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-22T19:10:16+00:00",
-   "img": "https://bilder.deutschlandfunk.de/7f/a2/b3/01/7fa2b301-bf1c-434d-91de-2ce58b44e533/ebola-kongo-116-1920x1920.jpg"
+   "expires": "2026-10-22T19:10:16+00:00"
   },
   {
    "id": "n65e2325f18",
@@ -229,19 +409,6 @@
    "type": "Sportmedium",
    "lang": "en",
    "expires": "2026-10-25T19:03:29+00:00"
-  },
-  {
-   "id": "n123fdf3842",
-   "topic": "nfl",
-   "title": "Eagles will not be punished for how team handled Jalen Hurts' blood clots situation, per report",
-   "text": "The NFL concluded the process to clear Hurts for Week 5 in London was handled appropriately",
-   "link": "https://www.cbssports.com/nfl/news/eagles-will-not-be-punished-jalen-hurts-blood-clots-situation/",
-   "published": "2026-10-20T18:53:48+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-25T18:53:48+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/20/129265bc-42b7-4899-ab91-91faf18f0b91/hurts.jpg"
   },
   {
    "id": "nbaba26d2c5",
@@ -771,7 +938,8 @@
    "source": "Deutsche Welle",
    "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
    "lang": "de",
-   "expires": "2026-10-24T14:00:00+00:00"
+   "expires": "2026-10-24T14:00:00+00:00",
+   "img": "https://static.dw.com/image/65990279_302.jpg"
   },
   {
    "id": "n5f67705520",
@@ -834,7 +1002,8 @@
    "source": "Deutsche Welle",
    "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
    "lang": "de",
-   "expires": "2026-10-24T13:31:00+00:00"
+   "expires": "2026-10-24T13:31:00+00:00",
+   "img": "https://static.dw.com/image/79465228_302.jpg"
   },
   {
    "id": "nc392cea34a",
@@ -1009,14 +1178,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-23T10:52:48+00:00",
-   "img": "https://images.tagesschau.de/image/30a922fb-cfca-42d6-9583-5e974ec56ead/AAABoVh1YCI/AAABnSSvrFg/16x9-big/bahn-1430.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Verkehrsminister - Bundesweites Angebot für Gelegenheitsfahrer geplant",
-     "link": "https://www.deutschlandfunk.de/bundesweites-angebot-fuer-gelegenheitsfahrer-geplant-100.html"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/30a922fb-cfca-42d6-9583-5e974ec56ead/AAABoVh1YCI/AAABnSSvrFg/16x9-big/bahn-1430.jpg?width=1920"
   },
   {
    "id": "n8151944e89",
@@ -1034,7 +1196,7 @@
     {
      "source": "Deutschlandfunk",
      "title": "Ukraine-Krieg - Selenskyj trifft US-Gesandten Witkoff in Oslo - Teilnahme an möglichem Treffen mit Trump, Putin und Xi gefordert",
-     "link": "https://www.deutschlandfunk.de/selenskyj-trifft-us-gesandten-witkoff-in-oslo-teilnahme-an-moeglichem-treffen-mit-trump-putin-und-xi-100.html"
+     "link": "https://www.deutschlandfunk.de/selenskyj-trifft-us-gesandten-witkoff-in-oslo-teilnahme-an-moeglichem-treffen-mit-trump-putin-und-xi-102.html"
     }
    ]
   },
@@ -1242,8 +1404,8 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Selenskyj trifft sich mit US-Gesandtem Witkoff zu Gesprächen in Oslo",
-     "link": "https://www.tagesschau.de/ausland/europa/ukraine-treffen-witkoff-100.html"
+     "title": "Selenskyj fordert Teilnahme an Putin-Xi-Trump-Treffen",
+     "link": "https://www.tagesschau.de/ausland/europa/selenskyj-witkoff-norwegen-100.html"
     }
    ]
   },
@@ -1262,8 +1424,8 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Selenskyj trifft sich mit US-Gesandtem Witkoff zu Gesprächen in Oslo",
-     "link": "https://www.tagesschau.de/ausland/europa/ukraine-treffen-witkoff-100.html"
+     "title": "Selenskyj fordert Teilnahme an Putin-Xi-Trump-Treffen",
+     "link": "https://www.tagesschau.de/ausland/europa/selenskyj-witkoff-norwegen-100.html"
     }
    ]
   },
@@ -1545,7 +1707,7 @@
     {
      "source": "Deutschlandfunk",
      "title": "Ukraine-Krieg - Selenskyj trifft US-Gesandten Witkoff in Oslo - Teilnahme an möglichem Treffen mit Trump, Putin und Xi gefordert",
-     "link": "https://www.deutschlandfunk.de/selenskyj-trifft-us-gesandten-witkoff-in-oslo-teilnahme-an-moeglichem-treffen-mit-trump-putin-und-xi-100.html"
+     "link": "https://www.deutschlandfunk.de/selenskyj-trifft-us-gesandten-witkoff-in-oslo-teilnahme-an-moeglichem-treffen-mit-trump-putin-und-xi-102.html"
     }
    ]
   },
@@ -1587,181 +1749,6 @@
    "lang": "de",
    "expires": "2026-10-23T03:15:05+00:00",
    "img": "https://images.tagesschau.de/image/15dfef23-d764-46ed-89b8-ff6c12569e9e/AAABoVT6oRw/AAABnSSvrFg/16x9-big/merz-klingbeil-170.jpg?width=1920"
-  },
-  {
-   "id": "n2d1c5de68e",
-   "topic": "wirtschaft",
-   "title": "Uruguay: Ein Land, fast unabhängig von Öl und Gas",
-   "text": "Das 3,5-Millionen-Einwohner-Land in Südamerika steckte 2008 in einer Energiekrise. Heute gilt Uruguay als Klima-Champion. Wie hat das Land die Energiewende geschafft - und würde das auch für andere Länder funktionieren? Von Anne Herrberg.",
-   "link": "https://www.tagesschau.de/ausland/amerika/uruguay-erneuerbare-energie-klima-100.html",
-   "published": "2026-10-20T02:30:18+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-23T02:30:18+00:00",
-   "img": "https://images.tagesschau.de/image/5cf93ee8-200a-47a1-8e88-9347f10a2703/AAABoVcFSkg/AAABnSSvrFg/16x9-big/montevideo-110.jpg?width=1920"
-  },
-  {
-   "id": "n0223783d46",
-   "topic": "nfl",
-   "title": "Caleb Williams off Bears' injury report",
-   "text": "Bears quarterback Caleb Williams is off the team's injury report.",
-   "link": "https://sports.yahoo.com/articles/caleb-williams-off-bears-injury-000753882.html",
-   "published": "2026-10-20T00:07:53+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-25T00:07:53+00:00"
-  },
-  {
-   "id": "na7277e85e3",
-   "topic": "nfl",
-   "title": "Game Recap: Saints visit Giants in Week 6 Clash",
-   "text": "Catch up on everything that went down in East Rutherford.",
-   "link": "https://sports.yahoo.com/articles/game-recap-saints-visit-giants-000024910.html",
-   "published": "2026-10-20T00:00:24+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-25T00:00:24+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/2c02cde31fe7e68eaa6da27aeff97eb2.jpg"
-  },
-  {
-   "id": "n43f5a64bf8",
-   "topic": "politik",
-   "title": "Berlin - Grüne und SPD für Koalitionsverhandlungen mit Linkspartei",
-   "text": "Nach der SPD haben sich auch die Grünen in Berlin für die Aufnahme von Koalitionsverhandlungen mit der Linken ausgesprochen. Bei einem kleinen Parteitag stimmten am Abend 43 der 45 Delegierten dafür und zwei dagegen.",
-   "link": "https://www.deutschlandfunk.de/gruene-und-spd-fuer-koalitionsverhandlungen-mit-linkspartei-102.html",
-   "published": "2026-10-19T22:53:06+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-21T22:53:06+00:00"
-  },
-  {
-   "id": "n67fcf14b94",
-   "topic": "politik",
-   "title": "Ukraine-Krieg - Trump zu Dreiertreffen mit Putin und Xi bereit",
-   "text": "US-Präsident Trump hat sich offen für ein Gespräch zur Beendigung des",
-   "link": "https://www.deutschlandfunk.de/trump-zu-dreiertreffen-mit-putin-und-xi-bereit-106.html",
-   "published": "2026-10-19T22:53:06+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-21T22:53:06+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Selenskyj trifft sich mit US-Gesandtem Witkoff zu Gesprächen in Oslo",
-     "link": "https://www.tagesschau.de/ausland/europa/ukraine-treffen-witkoff-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n15cc646df8",
-   "topic": "politik",
-   "title": "Mecklenburg-Vorpommern - Landtag kommt erstmals nach der Wahl zusammen",
-   "text": "Einen Monat nach der Landtagswahl in Mecklenburg-Vorpommern kommt das neue Parlament heute erstmals zusammen.",
-   "link": "https://www.deutschlandfunk.de/landtag-kommt-erstmals-nach-der-wahl-zusammen-114.html",
-   "published": "2026-10-19T22:53:06+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-21T22:53:06+00:00",
-   "img": "https://bilder.deutschlandfunk.de/FI/LE/_5/13/FILE_513f14cc0a90c76c55698f710e6bdc53/247092911-jpg-100-768x768.jpg"
-  },
-  {
-   "id": "n72186c7c8e",
-   "topic": "politik",
-   "title": "Rot-Grün-Rot in Berlin - Wohnungskonzern Vonovia: Vergesellschaftung in geplanter Form verfassungswidrig",
-   "text": "Die Pläne von Linke, Grünen und SPD zur Vergesellschaftung großer Wohnungskonzerne werden aus Sicht des Immobilienkonzerns Vonovia vor Gericht nicht standhalten. Das Unternehmen teilte mit, man sei überzeugt, dass eine Vergesellschaftung in der vorgelegten und geplanten Art und Weise verfassungswidrig sei.",
-   "link": "https://www.deutschlandfunk.de/wohnungskonzern-vonovia-vergesellschaftung-in-geplanter-form-verfassungswidrig-102.html",
-   "published": "2026-10-19T22:53:06+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-21T22:53:06+00:00"
-  },
-  {
-   "id": "nb47386a735",
-   "topic": "politik",
-   "title": "Verkehrsminister - Bundesweites Angebot für Gelegenheitsfahrer geplant",
-   "text": "Die Verkehrsminister der Länder wollen auf ihrer bevorstehenden Herbstkonferenz am Mittwoch ein bundesweites Angebot für Gelegenheitsfahrer in Bussen und Bahnen auf den Weg bringen.",
-   "link": "https://www.deutschlandfunk.de/bundesweites-angebot-fuer-gelegenheitsfahrer-geplant-100.html",
-   "published": "2026-10-19T22:53:06+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-21T22:53:06+00:00",
-   "img": "https://bilder.deutschlandfunk.de/fc/13/f4/6d/fc13f46d-20b5-4fa0-bae3-b60e737bdf9b/regionalzug-vorbeifahrt-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Verkehrsminister planen Deutschlandticket für Gelegenheitsfahrer",
-     "link": "https://www.tagesschau.de/wirtschaft/verbraucher/deutschlandticket-316.html"
-    }
-   ]
-  },
-  {
-   "id": "na269042798",
-   "topic": "politik",
-   "title": "\"Invest in Germany Summit\" - Investitionsgipfel soll Geldgeber nach Deutschland locken - Absichtserklärung für KI-Zusammenarbeit mit Nvidia",
-   "text": "Die Bundesregierung hat mit dem US-Chiphersteller Nvidia eine Zusammenarbeit zur Entwicklung Künstlicher Intelligenz vereinbart. Wie die Bundesregierung mitteilte, wurde eine entsprechende Absichtserklärung mit Nvidia im Rahmen eines Investitionsgipfels in Berlin unterzeichnet.",
-   "link": "https://www.deutschlandfunk.de/investitionsgipfel-soll-geldgeber-nach-deutschland-locken-absichtserklaerung-fuer-ki-zusammenarbeit--102.html",
-   "published": "2026-10-19T22:53:06+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-21T22:53:06+00:00"
-  },
-  {
-   "id": "nbc24ea6f44",
-   "topic": "nfl",
-   "title": "Is Stefon Diggs playing Monday night? A look at the Commanders WR's status vs. 49ers on 'MNF'",
-   "text": "Diggs is officially listed as questionable with a hamstring injury",
-   "link": "https://www.cbssports.com/nfl/news/is-stefon-diggs-playing-tonight-injury-update-commanders-vs-49ers/",
-   "published": "2026-10-19T22:49:40+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-24T22:49:40+00:00"
-  },
-  {
-   "id": "nc0f32a8c6d",
-   "topic": "nfl",
-   "title": "Is Mike Evans playing on Monday night? A look at the 49ers WR's status vs. Commanders",
-   "text": "Evans is officially listed as questionable for Week 6",
-   "link": "https://www.cbssports.com/nfl/news/is-mike-evans-playing-monday-night-football/",
-   "published": "2026-10-19T22:47:47+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-24T22:47:47+00:00"
-  },
-  {
-   "id": "n45b026e8b4",
-   "topic": "it",
-   "title": "Kanzler Merz hofft auf Nvidia als Wachstumsbeschleuniger",
-   "text": "Der Gipfel „Invest in Germany“ startete in Berlin mit einer Plauderei zwischen Bundeskanzler und Nvidia-CEO. Beide wollen Industriedaten für KI nutzbar machen.",
-   "link": "https://www.heise.de/news/Kanzler-Merz-hofft-auf-Nvidia-als-Wachstumsbeschleuniger-11493401.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-19T21:50:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-24T21:50:00+00:00"
-  },
-  {
-   "id": "n2a49b6609f",
-   "topic": "wissenschaft",
-   "title": "Japan startet Mission zu Mars-Monden",
-   "text": "Der Mars-Mond Phobos steht im Mittelpunkt der jüngsten Weltraummission: Nun ist die Trägerrakete vom japanischen Weltraumbahnhof Tanegashima aufgebrochen. Es ist die erste Mission, bei der Material von der Marsregion zur Erde gebracht werden soll.",
-   "link": "https://www.tagesschau.de/wissen/weltraum/start-mission-mars-mond-100.html",
-   "published": "2026-10-19T20:43:14+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-02T20:43:14+00:00",
-   "img": "https://images.tagesschau.de/image/e3eb6476-8908-4a72-b970-3431a71f64ef/AAABoVnd6PA/AAABnSSvrFg/16x9-big/raketen-start-106.jpg?width=1920"
   }
  ]
 }
