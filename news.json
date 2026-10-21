@@ -1,100 +1,456 @@
 {
- "generated": "2026-10-21T17:13:18.371214+00:00",
+ "generated": "2026-10-21T21:43:39.824158+00:00",
  "briefing": [
-  "n56a787773e",
+  "n06312cf48d",
+  "nd8e44fbdb3",
+  "n1530aaa692",
   "ne4c6624cb2",
-  "n10ed5cab65",
   "n2a57b9e01f",
   "nb81298fad2",
-  "n5cf163a1f5",
   "n7f31d46b44",
+  "nd847ed5de4",
   "n819d26ea81",
-  "nf9ce598f88",
   "n705cae3cc5"
  ],
  "ranked": [
   {
-   "id": "n56a787773e",
-   "s": 33.0
+   "id": "n06312cf48d",
+   "s": 40.0
+  },
+  {
+   "id": "nd8e44fbdb3",
+   "s": 28.8
+  },
+  {
+   "id": "n1530aaa692",
+   "s": 27.8
   },
   {
    "id": "ne4c6624cb2",
-   "s": 27.7
-  },
-  {
-   "id": "n10ed5cab65",
    "s": 27.0
   },
   {
    "id": "n2a57b9e01f",
-   "s": 27.0
+   "s": 25.9
   },
   {
    "id": "nb81298fad2",
-   "s": 26.6
-  },
-  {
-   "id": "n5cf163a1f5",
-   "s": 25.8
+   "s": 25.5
   },
   {
    "id": "n7f31d46b44",
    "s": 23.0
   },
   {
-   "id": "n819d26ea81",
+   "id": "nd847ed5de4",
    "s": 23.0
   },
   {
-   "id": "nf9ce598f88",
-   "s": 21.6
+   "id": "n819d26ea81",
+   "s": 21.8
   },
   {
    "id": "n705cae3cc5",
-   "s": 21.3
+   "s": 20.2
   },
   {
    "id": "n9c7f491abb",
-   "s": 21.2
+   "s": 20.1
   },
   {
    "id": "n79a1d4350a",
-   "s": 20.9
+   "s": 19.8
+  },
+  {
+   "id": "n640dbd7ced",
+   "s": 19.6
   },
   {
    "id": "n41fe45e0e5",
-   "s": 20.6
-  },
-  {
-   "id": "n57cc9301b7",
-   "s": 20.3
-  },
-  {
-   "id": "nd8e44fbdb3",
-   "s": 19.9
-  },
-  {
-   "id": "n28706b1e59",
-   "s": 19.9
-  },
-  {
-   "id": "nced7ba26cb",
-   "s": 19.9
-  },
-  {
-   "id": "n46acf2aa65",
    "s": 19.4
   },
   {
-   "id": "n968acca052",
-   "s": 17.4
+   "id": "n57cc9301b7",
+   "s": 19.2
   },
   {
-   "id": "ne19d19a9ba",
-   "s": 17.0
+   "id": "n28706b1e59",
+   "s": 18.8
+  },
+  {
+   "id": "n22f960c417",
+   "s": 18.8
+  },
+  {
+   "id": "n46acf2aa65",
+   "s": 18.3
+  },
+  {
+   "id": "n52b040dee7",
+   "s": 17.1
   }
  ],
  "items": [
+  {
+   "id": "n7f31d46b44",
+   "topic": "politik",
+   "title": "Berlin Global Dialogue - Merz warnt vor hybriden Angriffen Russlands",
+   "text": "Bundeskanzler Merz hat vor mittlerweile täglichen hybriden Angriffen Russlands auf Deutschland gewarnt.",
+   "link": "https://www.deutschlandfunk.de/merz-warnt-vor-hybriden-angriffen-russlands-100.html",
+   "published": "2026-10-21T21:39:26+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-23T21:39:26+00:00",
+   "img": "https://bilder.deutschlandfunk.de/1d/48/07/8d/1d48078d-f560-444a-bbbc-b91942a18816/bundeskanzler-merz-berlin-global-dialogue-100-1920x1920.jpg"
+  },
+  {
+   "id": "n77770a33a5",
+   "topic": "politik",
+   "title": "Pendeldiplomatie - Russland zu Verhandlungen mit der Ukraine und den USA Mitte November bereit, Selenskyj schlägt Einfrieren der Frontlinie vor",
+   "text": "Im November soll ein neuer diplomatischer Anlauf für eine mögliche Lösung im Angriffskrieg Russlands gegen die Ukraine unternommen werden.",
+   "link": "https://www.deutschlandfunk.de/russland-zu-verhandlungen-mit-der-ukraine-und-den-usa-mitte-november-bereit-selenskyj-schlaegt-einfr-102.html",
+   "published": "2026-10-21T21:39:26+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-23T21:39:26+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Ukraine-Krieg: Putin schlägt Treffen mit Trump und Xi vor",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-106.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Ukraine-Krieg: Russland nimmt Deutschen wegen \"Söldnertums\" fest",
+     "link": "https://www.dw.com/de/ukraine-krieg-russland-nimmt-deutschen-wegen-söldnertums-fest/a-79722562?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "naddd24e014",
+   "topic": "politik",
+   "title": "Programmiersprache PHP - Weltweite Sicherheitslücke: Update für Webanbieter bereitgestellt",
+   "text": "Nach weltweiten Internet-Problemen wegen einer Sicherheitslücke soll ein inzwischen bereitgestelltes Update Abhilfe schaffen. Betreiber von Webanwendungen sind gehalten, für eine Aktualisierung zu sorgen. Zuvor waren zahlreiche Internetseiten vorsorglich abgeschaltet worden.",
+   "link": "https://www.deutschlandfunk.de/weltweite-sicherheitsluecke-update-fuer-webanbieter-bereitgestellt-100.html",
+   "published": "2026-10-21T21:39:26+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-23T21:39:26+00:00",
+   "img": "https://bilder.deutschlandfunk.de/03/f6/d3/cf/03f6d3cf-be3c-4877-9889-335bd0017d17/php-sicherheitsluecken-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Programmiersprache PHP: Sicherheitslücke bedroht weltweit Webseiten",
+     "link": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html"
+    }
+   ]
+  },
+  {
+   "id": "nd847ed5de4",
+   "topic": "politik",
+   "title": "Verbrauchertäuschung - \"Cambridge Analytica\"-Skandal: Gericht verurteilt Meta zu 25 Milliarden Dollar Strafzahlung",
+   "text": "In den USA ist der Facebook-Mutterkonzern Meta zu einer Zahlung von 25 Milliarden Dollar verurteilt worden.",
+   "link": "https://www.deutschlandfunk.de/cambridge-analytica-skandal-gericht-verurteilt-meta-zu-25-milliarden-dollar-strafzahlung-100.html",
+   "published": "2026-10-21T21:39:26+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-23T21:39:26+00:00",
+   "img": "https://bilder.deutschlandfunk.de/NO/VA/_3/5a/NOVA_35ad9b7855dde48b4385c861caca8054/craft-12862500-asset-100-1920x1920.jpg"
+  },
+  {
+   "id": "nd1ba474faf",
+   "topic": "politik",
+   "title": "Vatikan - Ärzte: Krebs bei Papst Leo hat nicht gestreut",
+   "text": "Der Lungenkrebs bei Papst Leo XIV. hat offenbar nicht gestreut.",
+   "link": "https://www.deutschlandfunk.de/aerzte-krebs-bei-papst-leo-hat-nicht-gestreut-100.html",
+   "published": "2026-10-21T21:39:26+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-23T21:39:26+00:00",
+   "img": "https://bilder.deutschlandfunk.de/68/99/01/e4/689901e4-8424-4b1e-b3ff-0a770465dab5/papst-angelusgebet-100-1920x1920.jpg"
+  },
+  {
+   "id": "na22f21d0ba",
+   "topic": "politik",
+   "title": "Fußball - München mit Punkteteilung, Niederlage für Leipzig in der Champions League",
+   "text": "In der Fußball-Champions-League hat es zwei Spiele mit deutscher Beteiligung gegeben:",
+   "link": "https://www.deutschlandfunk.de/muenchen-mit-punkteteilung-niederlage-fuer-leipzig-in-der-champions-league-102.html",
+   "published": "2026-10-21T21:39:26+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-23T21:39:26+00:00",
+   "img": "https://bilder.deutschlandfunk.de/f5/15/8e/98/f5158e98-fcfe-45f5-ba15-1e728679aa26/muenchen-arsenal-100-1920x1920.jpg"
+  },
+  {
+   "id": "nd96c7eb843",
+   "topic": "nfl",
+   "title": "Is starting J.J. McCarthy the right choice? BBV staff weighs in",
+   "text": "Our writers offer their opinions on the decision.",
+   "link": "https://sports.yahoo.com/articles/starting-j-j-mccarthy-choice-213846525.html",
+   "published": "2026-10-21T21:38:46+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-26T21:38:46+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/2d10b44dff9c3428831fb2dfb6b5a9a2.jpg"
+  },
+  {
+   "id": "nba2289533a",
+   "topic": "nfl",
+   "title": "Cardinals claim OT Albert Reese off waivers from the Panthers",
+   "text": "The Cardinals claimed offensive tackle Albert Reese off waivers on Wednesday, the team announced.",
+   "link": "https://sports.yahoo.com/articles/cardinals-claim-ot-albert-reese-213626102.html",
+   "published": "2026-10-21T21:36:26+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-26T21:36:26+00:00"
+  },
+  {
+   "id": "n60d62f74cd",
+   "topic": "wirtschaft",
+   "title": "PHP-Bedrohung: Was über die Sicherheitslücke bekannt ist",
+   "text": "Eine neu entdeckte, schwerwiegende Sicherheitslücke sorgt für Probleme. Betroffen ist die weitverbreitete Programmiersprache PHP, auf der ein Großteil des Internets basiert. Antworten auf die wichtigsten Fragen.",
+   "link": "https://www.tagesschau.de/wirtschaft/digitales/php-panne-100.html",
+   "published": "2026-10-21T21:02:37+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-24T21:02:37+00:00",
+   "img": "https://images.tagesschau.de/image/b06dd999-45e4-4be9-9c1c-c4d687d4df01/AAABoV8VI4k/AAABnSSvrFg/16x9-big/lan-netzwerkkabel-100.jpg?width=1920"
+  },
+  {
+   "id": "n1530aaa692",
+   "topic": "welt",
+   "title": "Datenschutzskandal: Facebook-Konzern Meta soll Milliardenstrafe zahlen",
+   "text": "Acht Jahre nach dem Skandal um den Missbrauch von Nutzerdaten ist der Facebookkonzern Meta in New Mexico zu einer Milliardenstrafe verurteilt worden. Der Fall solle anderen Tech-Unternehmen eine Warnung sein, sagte der Generalstaatsanwalt.",
+   "link": "https://www.tagesschau.de/ausland/meta-cambrigde-skandal-milliardenstrafe-100.html",
+   "published": "2026-10-21T20:47:20+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-24T20:47:20+00:00",
+   "img": "https://images.tagesschau.de/image/ee754246-3e1f-4bb1-9445-9756bd46d0c5/AAABoD5PNz4/AAABnSSvrFg/16x9-big/meta-178.jpg?width=1920",
+   "also": [
+    {
+     "source": "heise online",
+     "title": "Milliardenstrafe für Meta Platforms wegen systematischer Lügen: New Mexico",
+     "link": "https://www.heise.de/news/Milliardenstrafe-fuer-Meta-Platforms-wegen-systematischer-Luegen-New-Mexico-11496252.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
+  },
+  {
+   "id": "ncbcd4dd003",
+   "topic": "it",
+   "title": "Milliardenstrafe für Meta Platforms wegen systematischer Lügen: New Mexico",
+   "text": "Facebook hat seine Nutzer systematisch angelogen. Dafür soll Meta Platforms 25 Milliarden US-Dollar Strafe an New Mexico zahlen: 10.600 Euro pro Einwohner.",
+   "link": "https://www.heise.de/news/Milliardenstrafe-fuer-Meta-Platforms-wegen-systematischer-Luegen-New-Mexico-11496252.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-21T20:41:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-26T20:41:00+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Datenschutzskandal: Facebook-Konzern Meta soll Milliardenstrafe zahlen",
+     "link": "https://www.tagesschau.de/ausland/meta-cambrigde-skandal-milliardenstrafe-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n60a3c8c9bf",
+   "topic": "nfl",
+   "title": "Sam LaPorta sounds off about contract situation with Lions: 'I break my f-----g back for the team'",
+   "text": "LaPorta is not a happy camper right now",
+   "link": "https://www.cbssports.com/nfl/news/sam-laporta-sounds-off-about-contract-situation-lions/",
+   "published": "2026-10-21T20:21:30+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-26T20:21:30+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/21/14d8a3e5-2b3e-4386-913a-ec8f4605f69f/laporta.jpg"
+  },
+  {
+   "id": "nbe9262ab94",
+   "topic": "nfl",
+   "title": "Giants plan to start JJ McCarthy vs. Texans in Week 7",
+   "text": "McCarthy is set to make his first career start for Big Blue",
+   "link": "https://www.cbssports.com/nfl/news/giants-plan-to-start-jj-mccarthy-vs-texans-in-week-7-per-report/",
+   "published": "2026-10-21T20:18:06+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-26T20:18:06+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/19/0e409b85-0df4-4539-8807-b2a424cd10ec/mccarthywinston.jpg"
+  },
+  {
+   "id": "n0c23602a5e",
+   "topic": "it",
+   "title": "Nach Saudi-Übernahme: EA macht legendäres Studio BioWare dicht",
+   "text": "Electronic Arts schließt BioWare, das nächste „Mass Effect“ ist gestrichen. Es ist der erste große Umbau seit der Übernahme durch den saudischen Staatsfonds.",
+   "link": "https://www.heise.de/news/Mass-Effect-gestrichen-EA-schliesst-Rollenspiel-Studio-BioWare-11496230.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-21T20:08:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-26T20:08:00+00:00"
+  },
+  {
+   "id": "n6083ff8fd8",
+   "topic": "politik",
+   "title": "EuroCup: Skyliners verpassen Überraschung gegen Teneriffa",
+   "text": "Eine Halbzeit lang spielen die Skyliners Frankfurt den Favoriten aus Teneriffa nahezu an die Wand. Dann schlagen die Spanier zurück.",
+   "link": "https://www.hessenschau.de/sport/basketball/skyliners-frankfurt/eurocup-skyliners-verpassen-ueberraschung-gegen-teneriffa-v1,skyliners-teneriffa-100.html",
+   "published": "2026-10-21T19:38:40+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-25T19:38:40+00:00",
+   "img": "https://www.hessenschau.de/sport/basketball/skyliners-frankfurt/skyliners-teneriffa-102~_t-1792608588441_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "n00cd83a8e3",
+   "topic": "ki",
+   "title": "OpenAIs GPT-5.6 Sol und Gemini 4 Argon entdeckten die kritische PHP-Sicherheitslücke, die Millionen Webseiten betrifft",
+   "text": "OpenAIs GPT-5.6 Sol hat im Rahmen der Patch-the-Planet-Initiative eine kritische Sicherheitslücke in PHP entdeckt, die Millionen Webseiten weltweit betrifft. Auch die Sicherheitsfirma Wiz fand die Schwachstelle unabhängig, unter anderem mithilfe von Googles Gemini 4 Argon. OpenAI warnt: Dieselben KI-Fähigkeiten, die …",
+   "link": "https://the-decoder.de/openais-gpt-5-6-sol-und-gemini-4-argon-entdeckten-die-kritische-php-sicherheitsluecke-die-millionen-webseiten-betrifft/",
+   "published": "2026-10-21T19:37:01+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-28T19:37:01+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/08/cybersecurity_kraken.png"
+  },
+  {
+   "id": "naa3a747c6e",
+   "topic": "wirtschaft",
+   "title": "Wirtschaft vor acht vom 21.10.2026",
+   "text": "Wirtschaft vor acht vom 21.10.2026",
+   "link": "https://www.tagesschau.de/video/video-1670378.html",
+   "published": "2026-10-21T19:01:38+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-24T19:01:38+00:00",
+   "img": "https://images.tagesschau.de/image/ed23f7d6-6d57-4322-b6c1-6b738b19fa7e/AAABoV_XD94/AAABnSSvrFg/16x9-big/sendungsbild-1815268.jpg?width=1920"
+  },
+  {
+   "id": "n4d1b68974b",
+   "topic": "welt",
+   "title": "Osteuropa-Experte über Ukraine-Gespräche: \"Keine großen Hoffnungen\"",
+   "text": "Russland hat sich bereit gezeigt, die Gespräche mit den USA und der Ukraine wieder aufzunehmen. Aber sind Fortschritte wahrscheinlich? Osteuropa-Experte Umland zeigt sich im tagesschau24-Interview skeptisch.",
+   "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-russland-102.html",
+   "published": "2026-10-21T18:54:59+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-24T18:54:59+00:00",
+   "img": "https://images.tagesschau.de/image/30d964cc-bfd9-493b-997d-013c2c07564b/AAABoV_REgQ/AAABnSSvrFg/16x9-big/putin-trump-148.jpg?width=1920"
+  },
+  {
+   "id": "n376405f5e4",
+   "topic": "it",
+   "title": "EU plant arktisches Datenkabel",
+   "text": "Mit einem Datenkabelzentrum für die Arktis und einer Direktanbindung Grönlands möchte die EU-Kommission digitale Souveränität stärken und Seeleitungen schützen.",
+   "link": "https://www.heise.de/news/EU-plant-arktisches-Datenkabel-11496212.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-21T18:48:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-26T18:48:00+00:00"
+  },
+  {
+   "id": "n52b040dee7",
+   "topic": "welt",
+   "title": "KI - teuer und ineffizient? Konzerne fahren Nutzung zurück",
+   "text": "Künstliche Intelligenz soll menschliche Arbeit automatisieren und Unternehmen produktiver machen. Doch fehlerhafte Ergebnisse, steigende Betriebskosten und überzogene Erwartungen zwingen viele Unternehmen zum Umdenken.",
+   "link": "https://www.dw.com/de/ki-teuer-und-ineffizient-konzerne-fahren-nutzung-zurück/a-79724848?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-21T18:07:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-25T18:07:00+00:00",
+   "img": "https://static.dw.com/image/56601115_302.jpg"
+  },
+  {
+   "id": "nc4c24d85fc",
+   "topic": "welt",
+   "title": "Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich",
+   "text": "Auch US-Präsident Trump hatte sich zu den Unruhen in Frankreich zu Wort gemeldet - der französische Präsident Macron hat nun offenbar genug davon. Bei einem Besuch in Katar machte er seinem Ärger Luft. Von Cai Rienäcker.",
+   "link": "https://www.tagesschau.de/ausland/europa/macron-rede-112.html",
+   "published": "2026-10-21T17:48:20+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-24T17:48:20+00:00",
+   "img": "https://images.tagesschau.de/image/7591d6e9-1860-49f3-893a-ce7b33a918a7/AAABoV9dYv8/AAABnSSvrFg/16x9-big/macron-1014.jpg?width=1920"
+  },
+  {
+   "id": "n1956256d36",
+   "topic": "ki",
+   "title": "Google Cloud bietet als erster Anbieter Gemini, Claude und OpenAI-Modelle auf einer Plattform an",
+   "text": "Google Cloud bietet als erster großer Cloud-Anbieter alle drei führenden Modellreihen an: Gemini, Claude und nun auch OpenAIs GPTs. Zum Start kommen GPT-6 Astra, GPT-6.1 Sol und GPT-6 Luna als private Vorschau für Unternehmenskunden. Der Artikel Google Cloud bietet als erster Anbieter Gemini, Claude und OpenAI-Modelle …",
+   "link": "https://the-decoder.de/google-cloud-bietet-als-erster-anbieter-gemini-claude-und-openai-modelle-auf-einer-plattform-an/",
+   "published": "2026-10-21T17:34:22+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-28T17:34:22+00:00"
+  },
+  {
+   "id": "ne4c6624cb2",
+   "topic": "wirtschaft",
+   "title": "Programmiersprache PHP: Sicherheitslücke bedroht weltweit Webseiten",
+   "text": "Eine gravierende Sicherheitslücke bedroht Millionen Webseiten. Betroffen ist die weitverbreitete Programmiersprache PHP. In Deutschland sind Internetseiten mehrerer Städte vorsichtshalber abgeschaltet.",
+   "link": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html",
+   "published": "2026-10-21T17:32:26+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-24T17:32:26+00:00",
+   "img": "https://images.tagesschau.de/image/d304b88e-f2eb-41b7-90c1-212502437b3e/AAABoV-M8NI/AAABnSSvrFg/16x9-big/internetseite-stoerung-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Programmiersprache PHP - Weltweite Sicherheitslücke: Update für Webanbieter bereitgestellt",
+     "link": "https://www.deutschlandfunk.de/weltweite-sicherheitsluecke-update-fuer-webanbieter-bereitgestellt-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n936c062995",
+   "topic": "welt",
+   "title": "Verhältnis zu Israel: Ein heikles Thema für Demokraten und Republikaner",
+   "text": "In den USA schwindet die Solidarität mit Israel. Umfragen zeigen, dass sich insbesondere jüngere US-Amerikaner vom engen Verbündeten abwenden. Im Wahlkampf bereitet das Demokraten und Republikaner erhebliche Probleme. Von A. Henze.",
+   "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampfthema-israel-100.html",
+   "published": "2026-10-21T17:21:35+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-24T17:21:35+00:00",
+   "img": "https://images.tagesschau.de/image/ff010833-2e6e-4cf9-9d99-024db2bbd505/AAABoV9_Dvk/AAABnSSvrFg/16x9-big/demo-new-york-128.jpg?width=1920"
+  },
+  {
+   "id": "ncd7031222b",
+   "topic": "wirtschaft",
+   "title": "Marktbericht: DAX startet dank KI durch",
+   "text": "Von neuer KI-Zuversicht nach guten Unternehmensdaten getragen, nahm der DAX heute wieder kräftig Fahrt auf. Ein Treiber war das Thema Künstliche Intelligenz. Frankreich-Sorgen traten vorerst in den Hintergrund.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-118.html",
+   "published": "2026-10-21T17:17:42+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-24T17:17:42+00:00",
+   "img": "https://images.tagesschau.de/image/7426ec1d-c723-46a2-982e-15cb585de0ca/AAABle6hzm4/AAABnSSvrFg/16x9-big/dax-222.jpg?width=1920"
+  },
   {
    "id": "n6fc5f1f390",
    "topic": "politik",
@@ -123,6 +479,19 @@
    "img": "https://media.zenfs.com/en/sb_nation_articles_115/84f1c7c590d6f6a040109f8496c21027.jpg"
   },
   {
+   "id": "na42a6da361",
+   "topic": "welt",
+   "title": "Warum eskalieren die Studentenproteste in Albanien? Edi Rama munkelt über die Antifa, Experten sehen das anders",
+   "text": "Seit neun Tagen liefern sich junge Menschen in Albanien heftige Auseinandersetzungen mit der Polizei. Premier Edi Rama vermutet die Antifa dahinter. Experten sehen dafür keine Anhaltspunkte.",
+   "link": "https://www.dw.com/de/warum-eskalieren-die-studentenproteste-in-albanien-edi-rama-munkelt-über-die-antifa-experten-sehen-das-anders/a-79725653?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-21T17:05:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-25T17:05:00+00:00",
+   "img": "https://static.dw.com/image/79713543_302.jpg"
+  },
+  {
    "id": "n6f82964421",
    "topic": "politik",
    "title": "Ukraine-Krieg - Selenskyj schlägt Einfrieren der Front vor",
@@ -139,21 +508,13 @@
      "source": "Tagesschau",
      "title": "Ukraine-Krieg: Putin schlägt Treffen mit Trump und Xi vor",
      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-106.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Ukraine-Krieg: Russland nimmt Deutschen wegen \"Söldnertums\" fest",
+     "link": "https://www.dw.com/de/ukraine-krieg-russland-nimmt-deutschen-wegen-söldnertums-fest/a-79722562?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
-  },
-  {
-   "id": "n7f31d46b44",
-   "topic": "politik",
-   "title": "Berlin Global Dialogue - Merz warnt vor hybriden Angriffen Russlands",
-   "text": "Bundeskanzler Merz hat vor mittlerweile täglichen hybriden Angriffen Russlands auf Deutschland gewarnt.",
-   "link": "https://www.deutschlandfunk.de/merz-warnt-vor-hybriden-angriffen-russlands-100.html",
-   "published": "2026-10-21T17:03:13+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-23T17:03:13+00:00",
-   "img": "https://bilder.deutschlandfunk.de/1d/48/07/8d/1d48078d-f560-444a-bbbc-b91942a18816/bundeskanzler-merz-berlin-global-dialogue-100-1920x1920.jpg"
   },
   {
    "id": "n106b8d9cfe",
@@ -199,8 +560,12 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-23T17:03:13+00:00",
-   "img": "https://bilder.deutschlandfunk.de/2a/af/41/10/2aaf4110-518e-4ab6-a00e-da4bfd18cdfe/putin-witkoff-russland-100-1920x1920.jpg",
    "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Ukraine-Krieg: Putin schlägt Treffen mit Trump und Xi vor",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-106.html"
+    },
     {
      "source": "Deutsche Welle",
      "title": "Ukraine-Krieg: Russland nimmt Deutschen wegen \"Söldnertums\" fest",
@@ -274,19 +639,6 @@
    "img": "https://the-decoder.de/wp-content/uploads/2026/07/deepmind_hassabis.png"
   },
   {
-   "id": "n60d62f74cd",
-   "topic": "wirtschaft",
-   "title": "PHP-Bedrohung: Was über die Sicherheitslücke bekannt ist",
-   "text": "Eine neu entdeckte, schwerwiegende Sicherheitslücke sorgt für Probleme. Betroffen ist die weitverbreitete Programmiersprache PHP, auf der ein Großteil Internets basiert. Antworten auf die wichtigsten Fragen.",
-   "link": "https://www.tagesschau.de/wirtschaft/digitales/php-panne-100.html",
-   "published": "2026-10-21T16:50:16+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-24T16:50:16+00:00",
-   "img": "https://images.tagesschau.de/image/b06dd999-45e4-4be9-9c1c-c4d687d4df01/AAABoV8VI4k/AAABnSSvrFg/16x9-big/lan-netzwerkkabel-100.jpg?width=1920"
-  },
-  {
    "id": "n2864266f5b",
    "topic": "nfl",
    "title": "NFL trade deadline: 5 players we'd like to see get a change of scenery, including Jonathan Taylor",
@@ -298,26 +650,6 @@
    "lang": "en",
    "expires": "2026-10-26T16:41:01+00:00",
    "img": "https://sportshub.cbsistatic.com/i/2026/10/19/92446c92-5cca-4ac6-8fea-2882bdb5a433/jon.jpg"
-  },
-  {
-   "id": "ne4c6624cb2",
-   "topic": "wirtschaft",
-   "title": "Programmiersprache PHP: Sicherheitslücke bedroht weltweit Webseiten",
-   "text": "Eine gravierende Sicherheitslücke bedroht Millionen Webseiten. Betroffen ist die weitverbreitete Programmiersprache PHP. Die Internetseiten mehrerer Städte sind abgeschaltet.",
-   "link": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html",
-   "published": "2026-10-21T15:59:08+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-24T15:59:08+00:00",
-   "img": "https://images.tagesschau.de/image/fb8efc24-273d-4ccd-b1dd-321f88f0b9f4/AAABoV7GLcY/AAABnSSvrFg/16x9-big/leuchtende-tastatur-haende-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Programmiersprache PHP - Sicherheitslücke bedroht weltweit Webseiten - Kommunen schalten Internetdienste vorsorglich ab",
-     "link": "https://www.deutschlandfunk.de/sicherheitsluecke-bedroht-weltweit-webseiten-kommunen-schalten-internetdienste-vorsorglich-ab-102.html"
-    }
-   ]
   },
   {
    "id": "n29ae3bb8a9",
@@ -528,14 +860,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-24T13:08:58+00:00",
-   "img": "https://images.tagesschau.de/image/45217067-2cce-49ae-9be7-ea0db97002cc/AAABoV7rzHE/AAABnSSvrFg/16x9-big/polen-parlament-114.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Polen - Parlament verabschiedet Liberalisierung des Abtreibungsrechts - Veto des Präsidenten erwartet",
-     "link": "https://www.deutschlandfunk.de/parlament-verabschiedet-liberalisierung-des-abtreibungsrechts-veto-des-praesidenten-erwartet-108.html"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/45217067-2cce-49ae-9be7-ea0db97002cc/AAABoV7rzHE/AAABnSSvrFg/16x9-big/polen-parlament-114.jpg?width=1920"
   },
   {
    "id": "n2a57b9e01f",
@@ -570,6 +895,19 @@
    "expires": "2026-11-04T13:00:00+00:00"
   },
   {
+   "id": "n14b2edf99c",
+   "topic": "it",
+   "title": "Bei Dunkelflaute: Biogas erhält neue Rolle im Stromnetz",
+   "text": "10.000 Biogasanlagen in Deutschland arbeiten eher unbemerkt. Bald sollen sie Netzstabilität und Strompreis beeinflussen, Vorbildwirkung inklusive. ( Energiewende , Solarenergie )",
+   "link": "https://www.golem.de/news/bei-dunkelflaute-biogas-erhaelt-neue-rolle-im-stromnetz-2610-214361.html",
+   "published": "2026-10-21T12:31:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-26T12:31:02+00:00",
+   "img": "https://www.golem.de/2610/214361-604554-604552_rc.jpg"
+  },
+  {
    "id": "n0d386228df",
    "topic": "welt",
    "title": "Russland lässt inhaftierten US-Bürger Stephen Hubbard frei",
@@ -581,6 +919,26 @@
    "lang": "de",
    "expires": "2026-10-24T12:14:14+00:00",
    "img": "https://images.tagesschau.de/image/bdc0446f-0372-449c-979c-fd6722650aa0/AAABoV3oBh0/AAABnSSvrFg/16x9-big/hubbard-102.jpg?width=1920"
+  },
+  {
+   "id": "n9b02e95954",
+   "topic": "it",
+   "title": "Schufa-Score: Bundesgerichtshof hebt Schufa-Urteile auf",
+   "text": "Wie transparent muss die Schufa ihr Scoring-Verfahren erklären? Nach einem Urteil des Bundesgerichtshofs müssen vier Fälle in Dresden neu verhandelt werden. ( Schufa , Verbraucherschutz )",
+   "link": "https://www.golem.de/news/schufa-score-bundesgerichtshof-hebt-schufa-urteile-auf-2610-214358.html",
+   "published": "2026-10-21T12:00:06+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-26T12:00:06+00:00",
+   "img": "https://www.golem.de/2610/214358-604541-604536_rc.jpg",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Wirtschaftsauskunftei - Bundesgerichtshof urteilt zu Transparenz beim alten Schufa-Score",
+     "link": "https://www.deutschlandfunk.de/bundesgerichtshof-urteilt-zu-transparenz-beim-alten-schufa-score-100.html"
+    }
+   ]
   },
   {
    "id": "n043d1bce6b",
@@ -610,8 +968,13 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Ukraine-Krieg - Selenskyj schlägt Einfrieren der Front vor",
-     "link": "https://www.deutschlandfunk.de/selenskyj-schlaegt-einfrieren-der-front-vor-100.html"
+     "title": "Pendeldiplomatie - Russland zu Verhandlungen mit der Ukraine und den USA Mitte November bereit, Selenskyj schlägt Einfrieren der Frontlinie vor",
+     "link": "https://www.deutschlandfunk.de/russland-zu-verhandlungen-mit-der-ukraine-und-den-usa-mitte-november-bereit-selenskyj-schlaegt-einfr-102.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Ukraine-Krieg: Russland nimmt Deutschen wegen \"Söldnertums\" fest",
+     "link": "https://www.dw.com/de/ukraine-krieg-russland-nimmt-deutschen-wegen-söldnertums-fest/a-79722562?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -643,8 +1006,13 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Ukraine-Krieg - Russland zu Verhandlungen mit der Ukraine und den USA bereit",
-     "link": "https://www.deutschlandfunk.de/russland-zu-verhandlungen-mit-der-ukraine-und-den-usa-bereit-100.html"
+     "title": "Pendeldiplomatie - Russland zu Verhandlungen mit der Ukraine und den USA Mitte November bereit, Selenskyj schlägt Einfrieren der Frontlinie vor",
+     "link": "https://www.deutschlandfunk.de/russland-zu-verhandlungen-mit-der-ukraine-und-den-usa-mitte-november-bereit-selenskyj-schlaegt-einfr-102.html"
+    },
+    {
+     "source": "Tagesschau",
+     "title": "Ukraine-Krieg: Putin schlägt Treffen mit Trump und Xi vor",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-106.html"
     }
    ]
   },
@@ -728,6 +1096,11 @@
      "source": "Tagesschau",
      "title": "Ukraine-Krieg: Putin schlägt Treffen mit Trump und Xi vor",
      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-106.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Ukraine-Krieg: Russland nimmt Deutschen wegen \"Söldnertums\" fest",
+     "link": "https://www.dw.com/de/ukraine-krieg-russland-nimmt-deutschen-wegen-söldnertums-fest/a-79722562?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -1033,8 +1406,13 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Ukraine-Krieg - Selenskyj schlägt Einfrieren der Front vor",
-     "link": "https://www.deutschlandfunk.de/selenskyj-schlaegt-einfrieren-der-front-vor-100.html"
+     "title": "Pendeldiplomatie - Russland zu Verhandlungen mit der Ukraine und den USA Mitte November bereit, Selenskyj schlägt Einfrieren der Frontlinie vor",
+     "link": "https://www.deutschlandfunk.de/russland-zu-verhandlungen-mit-der-ukraine-und-den-usa-mitte-november-bereit-selenskyj-schlaegt-einfr-102.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Ukraine-Krieg: Russland nimmt Deutschen wegen \"Söldnertums\" fest",
+     "link": "https://www.dw.com/de/ukraine-krieg-russland-nimmt-deutschen-wegen-söldnertums-fest/a-79722562?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -1076,19 +1454,6 @@
    "lang": "de",
    "expires": "2026-10-24T08:52:52+00:00",
    "img": "https://images.tagesschau.de/image/78f8db94-b83c-4560-bc65-a7e94b3ebab1/AAABoV0jtoY/AAABnSSvrFg/16x9-big/proteste-frankreich-170.jpg?width=1920"
-  },
-  {
-   "id": "ncd7031222b",
-   "topic": "wirtschaft",
-   "title": "Marktbericht: DAX startet kaum verändert",
-   "text": "Der DAX ist verhalten in den Handel gestartet. Während KI-Werte sich dank SpaceX erholen, bleiben Investoren mit Blick auf weitere Tech-Bilanzen, die Unruhen in Frankreich und die Ölpreise vorsichtig.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-118.html",
-   "published": "2026-10-21T08:52:33+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-24T08:52:33+00:00",
-   "img": "https://images.tagesschau.de/image/89614d04-fccf-4229-aac5-bf0e60c2d362/AAABnSQoOG8/AAABnSSvrFg/16x9-big/boerse-498.jpg?width=1920"
   },
   {
    "id": "n80d9abddb6",
@@ -1226,7 +1591,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-23T04:45:15+00:00",
-   "img": "https://bilder.deutschlandfunk.de/FI/LE/_f/9d/FILE_f9d88a786f49650a31941fd2d74f17df/51942150-jpg-100-768x768.jpg"
+   "img": "https://bilder.deutschlandfunk.de/FI/LE/_f/9d/FILE_f9d88a786f49650a31941fd2d74f17df/51942150-jpg-100-768x768.jpg",
+   "also": [
+    {
+     "source": "Golem.de",
+     "title": "Schufa-Score: Bundesgerichtshof hebt Schufa-Urteile auf",
+     "link": "https://www.golem.de/news/schufa-score-bundesgerichtshof-hebt-schufa-urteile-auf-2610-214358.html"
+    }
+   ]
   },
   {
    "id": "n9a45c0883a",
@@ -1245,6 +1617,11 @@
      "source": "Tagesschau",
      "title": "Ukraine-Krieg: Putin schlägt Treffen mit Trump und Xi vor",
      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-106.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Ukraine-Krieg: Russland nimmt Deutschen wegen \"Söldnertums\" fest",
+     "link": "https://www.dw.com/de/ukraine-krieg-russland-nimmt-deutschen-wegen-söldnertums-fest/a-79722562?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -1439,14 +1816,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-24T01:11:10+00:00",
-   "img": "https://images.tagesschau.de/image/f433ca12-0788-429e-9cc3-db7b75eaff0d/AAABoVviQKs/AAABnSSvrFg/16x9-big/ebola-nigeria-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Epidemie - Erster Ebola-Fall in Nigeria nachgewiesen",
-     "link": "https://www.deutschlandfunk.de/erster-ebola-fall-in-nigeria-nachgewiesen-104.html"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/f433ca12-0788-429e-9cc3-db7b75eaff0d/AAABoVviQKs/AAABnSSvrFg/16x9-big/ebola-nigeria-100.jpg?width=1920"
   },
   {
    "id": "n8488e2d536",
@@ -1464,6 +1834,11 @@
      "source": "Tagesschau",
      "title": "Ukraine-Krieg: Putin schlägt Treffen mit Trump und Xi vor",
      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-106.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Ukraine-Krieg: Russland nimmt Deutschen wegen \"Söldnertums\" fest",
+     "link": "https://www.dw.com/de/ukraine-krieg-russland-nimmt-deutschen-wegen-söldnertums-fest/a-79722562?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -1478,338 +1853,6 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-22T23:40:03+00:00"
-  },
-  {
-   "id": "nd1ff663796",
-   "topic": "politik",
-   "title": "Nach Vorfall an Militärstützpunkt - Britische Polizei nimmt zwei Verdächtige erneut fest - Vorwurf der Spionage für Iran",
-   "text": "Im Zuge der Ermittlungen um mutmaßliche Anschlagspläne auf einen Militärstützpunkt in Großbritannien sind zwei Verdächtige erneut festgenommen worden.",
-   "link": "https://www.deutschlandfunk.de/britische-polizei-nimmt-zwei-verdaechtige-erneut-fest-vorwurf-der-spionage-fuer-iran-102.html",
-   "published": "2026-10-20T23:40:03+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-22T23:40:03+00:00"
-  },
-  {
-   "id": "n6d9668fbaf",
-   "topic": "politik",
-   "title": "Polen - Parlament verabschiedet Liberalisierung des Abtreibungsrechts - Veto des Präsidenten erwartet",
-   "text": "In Polen hat das Parlament mit knapper Mehrheit für eine Lockerung der strengen Abtreibungsregeln gestimmt.",
-   "link": "https://www.deutschlandfunk.de/parlament-verabschiedet-liberalisierung-des-abtreibungsrechts-veto-des-praesidenten-erwartet-108.html",
-   "published": "2026-10-20T23:40:03+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-22T23:40:03+00:00",
-   "img": "https://bilder.deutschlandfunk.de/b0/4d/88/c1/b04d88c1-c21e-49e2-a1c5-8a01eb73a244/donald-tusk-premierminister-polen-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Polens Parlament für Lockerung des Abtreibungsrechts",
-     "link": "https://www.tagesschau.de/ausland/europa/polen-abtreibungsrecht-lockerung-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n53a2f77a35",
-   "topic": "politik",
-   "title": "Epidemie - Erster Ebola-Fall in Nigeria nachgewiesen",
-   "text": "Nach dem Ebola-Ausbruch in Ostafrika ist erstmals auch eine Infektion in Nigeria bestätigt worden.",
-   "link": "https://www.deutschlandfunk.de/erster-ebola-fall-in-nigeria-nachgewiesen-104.html",
-   "published": "2026-10-20T23:40:03+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-22T23:40:03+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Nigeria bestätigt ersten Ebola-Fall",
-     "link": "https://www.tagesschau.de/ausland/ebola-nigeria-102.html"
-    }
-   ]
-  },
-  {
-   "id": "nea2718a587",
-   "topic": "nfl",
-   "title": "Dan Quinn says he talked to Jayden Daniels about ill-advised fourth-down throwaway vs. 49ers, wants QB to take his 'shot'",
-   "text": "Daniels tossed the ball out of bounds on a fourth-and-2 from the San Francisco 13-yard line, turning the ball over on downs early in the second quarter of a \"Monday Night Football\" loss.",
-   "link": "https://sports.yahoo.com/nfl/article/dan-quinn-says-he-talked-to-jayden-daniels-about-ill-advised-fourth-down-throwaway-vs-49ers-wants-qb-to-take-his-shot-233900445.html",
-   "published": "2026-10-20T23:39:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-25T23:39:00+00:00"
-  },
-  {
-   "id": "nc9daf63813",
-   "topic": "nfl",
-   "title": "Eagles-Commanders stays in prime time for Week 8",
-   "text": "NFL reportedly \"strongly considered\" replacing it with Browns-Steelers.",
-   "link": "https://sports.yahoo.com/articles/eagles-commanders-stays-prime-time-233636323.html",
-   "published": "2026-10-20T23:36:36+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-25T23:36:36+00:00"
-  },
-  {
-   "id": "nfa42196997",
-   "topic": "nfl",
-   "title": "NFL, Saints address plans for Paris game during Week 6 as protests escalate in France",
-   "text": "The league says its continuing with its original plans and monitoring the situation",
-   "link": "https://www.cbssports.com/nfl/news/nfl-saints-address-paris-game-plans-week-6-protests/",
-   "published": "2026-10-20T22:26:16+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-25T22:26:16+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/18/d761f43c-b902-4438-a72b-633954f2fb49/paris-france.jpg"
-  },
-  {
-   "id": "nc6a4411348",
-   "topic": "it",
-   "title": "Chinesische Konzerne geben enorme Grafikkarten-Bestellung auf",
-   "text": "Bei Nvidia sind chinesische Bestellungen für mehr als sechs Millionen Grafikkarten RTX PRO 5500 eingegangen. Nvidia kann aber nur drei Millionen herstellen.",
-   "link": "https://www.heise.de/news/Chinesische-Konzerne-geben-enorme-Grafikkarten-Bestellung-auf-11494892.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-20T20:46:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-25T20:46:00+00:00"
-  },
-  {
-   "id": "n7e65e4392b",
-   "topic": "welt",
-   "title": "Selenskyj fordert Teilnahme an Putin-Xi-Trump-Treffen",
-   "text": "Trump hatte Interesse an einem Gespräch mit den Präsidenten Russlands und Chinas über die Ukraine gezeigt. Nach einem Treffen mit europäischen Partnern sowie dem US-Sondergesandten Witkoff in Oslo forderte Präsident Selenskyj nun eine Beteiligung Kiews.",
-   "link": "https://www.tagesschau.de/ausland/europa/selenskyj-witkoff-norwegen-100.html",
-   "published": "2026-10-20T20:01:00+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-23T20:01:00+00:00",
-   "img": "https://images.tagesschau.de/image/a50666ee-685e-4f98-a7fb-ba98d1b22a34/AAABoVrm2G4/AAABnSSvrFg/16x9-big/wolodymyr-selenskyj-276.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Ukraine-Krieg - Selenskyj schlägt Einfrieren der Front vor",
-     "link": "https://www.deutschlandfunk.de/selenskyj-schlaegt-einfrieren-der-front-vor-100.html"
-    }
-   ]
-  },
-  {
-   "id": "necf19ebc81",
-   "topic": "welt",
-   "title": "So reagieren Frankreich und Italien auf die Ausschreitungen",
-   "text": "Ausgangssperren, Antiterror-Soldaten, neue Dekrete: Frankreich und Italien haben auf die Ausschreitungen am Wochenende reagiert. So sollen in Zukunft Unruhen verhindert werden.",
-   "link": "https://www.tagesschau.de/ausland/europa/frankreich-italien-ausschreitungen-proteste-100.html",
-   "published": "2026-10-20T19:56:31+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-23T19:56:31+00:00",
-   "img": "https://images.tagesschau.de/image/4e46c524-9b7f-4a2d-bd72-246300afb21c/AAABoVqycF4/AAABnSSvrFg/16x9-big/frankreich-proteste-218.jpg?width=1920"
-  },
-  {
-   "id": "n18d64c0218",
-   "topic": "politik",
-   "title": "So will die AfD Boris Rhein in Erklärungsnot bringen",
-   "text": "Ministerpräsident Boris Rhein hat sich vom Begriff der Brandmauer gegen die AfD verabschiedet und deren Ausgrenzung im Bundestag kritisiert. Nun startet die hessische AfD ihren 20. Anlauf auf einen Vizepräsidentenposten im Landtag – und setzt die CDU damit unter Druck.",
-   "link": "https://www.hessenschau.de/politik/landtag/so-will-die-afd-boris-rhein-in-erklaerungsnot-bringen-v1,afd-kandidat-landtag-100.html",
-   "published": "2026-10-20T19:17:06+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-24T19:17:06+00:00",
-   "img": "https://www.hessenschau.de/politik/brandmauer-100~_t-1791216873170_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "nd7d5cd80ea",
-   "topic": "it",
-   "title": "Neue Instrumente für Firmen: Microsoft verspricht mehr Cloud-Souveränität",
-   "text": "Mit erweiterten Kontrollwerkzeugen und lokalen Umgebungen will Microsoft regulatorische Bedenken zerstreuen. Doch Experten bleiben wegen US-Gesetzen skeptisch.",
-   "link": "https://www.heise.de/news/Neue-Instrumente-fuer-Firmen-Microsoft-verspricht-mehr-Cloud-Souveraenitaet-11494812.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-20T19:16:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-25T19:16:00+00:00"
-  },
-  {
-   "id": "ne9ddc1b4c3",
-   "topic": "politik",
-   "title": "Ukraine-Krieg - Selenskyj trifft US-Gesandten Witkoff in Oslo - Teilnahme an möglichem Treffen mit Trump, Putin und Xi gefordert",
-   "text": "Der ukrainische Präsident Selenskyj hat eine Teilnahme seines Landes an einem möglichen Gipfeltreffen von US-Präsident Trump, dem russischen Staatschef Putin und Chinas Staatschef Xi gefordert. Gespräche über die Zukunft seines Landes seien nur akzeptabel, wenn man auch am Verhandlungstisch sitze, sagte Selenskyj bei …",
-   "link": "https://www.deutschlandfunk.de/selenskyj-trifft-us-gesandten-witkoff-in-oslo-teilnahme-an-moeglichem-treffen-mit-trump-putin-und-xi-100.html",
-   "published": "2026-10-20T19:10:16+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-22T19:10:16+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Ukraine-Krieg: Putin schlägt Treffen mit Trump und Xi vor",
-     "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-106.html"
-    }
-   ]
-  },
-  {
-   "id": "n49f3c6fec3",
-   "topic": "politik",
-   "title": "Schwarzmeerregion - NATO verstärkt Überwachung nach wiederholten Drohnenangriffen auf Handelsschiffe",
-   "text": "Nach mehreren Drohnenangriffen auf Handelsschiffe vor den Küsten Bulgariens und Rumäniens verstärkt die NATO ihre Überwachung der Schwarzmeerregion.",
-   "link": "https://www.deutschlandfunk.de/nato-verstaerkt-ueberwachung-nach-wiederholten-drohnenangriffen-auf-handelsschiffe-100.html",
-   "published": "2026-10-20T19:10:16+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-22T19:10:16+00:00"
-  },
-  {
-   "id": "n3e7cc8c91a",
-   "topic": "politik",
-   "title": "Nach Vorfall an Militärstützpunkt - Britische Polizei nimmt zwei Verdächtige erneut fest - Vorwurf der Spionage für Iran",
-   "text": "Im Zuge der Ermittlungen um mutmaßliche Anschlagspläne auf einen Militärstützpunkt in Großbritannien sind zwei Verdächtige erneut festgenommen worden.",
-   "link": "https://www.deutschlandfunk.de/britische-polizei-nimmt-zwei-verdaechtige-erneut-fest-vorwurf-der-spionage-fuer-iran-100.html",
-   "published": "2026-10-20T19:10:16+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-22T19:10:16+00:00"
-  },
-  {
-   "id": "nbde84845b2",
-   "topic": "politik",
-   "title": "Epidemie - Erster Ebola-Fall in Nigeria nachgewiesen",
-   "text": "Nach dem Ebola-Ausbruch in Ostafrika ist erstmals auch eine Infektion in Nigeria bestätigt worden.",
-   "link": "https://www.deutschlandfunk.de/erster-ebola-fall-in-nigeria-nachgewiesen-102.html",
-   "published": "2026-10-20T19:10:16+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-22T19:10:16+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Nigeria bestätigt ersten Ebola-Fall",
-     "link": "https://www.tagesschau.de/ausland/ebola-nigeria-102.html"
-    }
-   ]
-  },
-  {
-   "id": "n65e2325f18",
-   "topic": "politik",
-   "title": "Investorengipfel in Berlin - Merz zufrieden mit zweitägigem Treffen",
-   "text": "Zum Abschluss des Investorengipfels hat Bundeskanzler Merz eine positive Bilanz gezogen. Er erklärte in Berlin, insgesamt seien bislang rund 230 Milliarden Euro an Investitionen in Deutschland zugesagt worden.",
-   "link": "https://www.deutschlandfunk.de/merz-zufrieden-mit-zweitaegigem-treffen-100.html",
-   "published": "2026-10-20T19:10:16+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-22T19:10:16+00:00",
-   "img": "https://bilder.deutschlandfunk.de/11/58/93/93/11589393-313c-44c7-ad0d-9ce57946d910/bundeskanzler-merz-investorengipfel-esmt-100-1920x1920.jpg"
-  },
-  {
-   "id": "n7d2af6f4e5",
-   "topic": "politik",
-   "title": "Festakt zum 65. Jahrestag - Bundeskanzler lobt deutsch-türkisches Anwerbeabkommen als Erfolgsgeschichte",
-   "text": "Bundeskanzler Merz hat den Beitrag türkischer Zuwanderer zur Entwicklung Deutschlands gewürdigt und vor neuem Fremdenhass gewarnt. Der CDU-Vorsitzende sagte bei einem Festakt zum 65. Jubiläum des deutsch-türkischen Anwerbeabkommens in Berlin, die Gastarbeiterinnen ‌und Gastarbeiter ⁠aus der Türkei hätten die …",
-   "link": "https://www.deutschlandfunk.de/bundeskanzler-lobt-deutsch-tuerkisches-anwerbeabkommen-als-erfolgsgeschichte-100.html",
-   "published": "2026-10-20T19:10:16+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-22T19:10:16+00:00",
-   "img": "https://bilder.deutschlandfunk.de/f3/31/7d/c2/f3317dc2-6020-46bd-874e-c3466a36f993/anwerbeabkommen-tuerkei-deutschland-festveranstaltung-migranten-wirtschaft-100-1920x1920.jpg"
-  },
-  {
-   "id": "nf4bfabcf93",
-   "topic": "nfl",
-   "title": "Week 7 fantasy defense rankings: Top DST streamers, starts",
-   "text": "The New York Jets are this week's sleeper defense/special teams unit. Pick them up as a bye-week fill-in as they face Malik Willis and the Dolphins.",
-   "link": "https://sports.yahoo.com/articles/week-7-fantasy-defense-rankings-190919914.html",
-   "published": "2026-10-20T19:09:19+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-25T19:09:19+00:00"
-  },
-  {
-   "id": "na711bb0e33",
-   "topic": "nfl",
-   "title": "Why Jason Kelce had 'odd' feeling amid Jalen Hurts' Week 5 health issue",
-   "text": "Jason Kelce saw what was likely Jalen Hurts' final start of 2026 in Week 5. He acknowledged feeling 'a little odd' about the lead-up to the game.",
-   "link": "https://sports.yahoo.com/articles/why-jason-kelce-had-odd-190819632.html",
-   "published": "2026-10-20T19:08:19+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-25T19:08:19+00:00"
-  },
-  {
-   "id": "n693fcf52fa",
-   "topic": "nfl",
-   "title": "Grading and ranking NFL first-year head coaches in new places after Week 6",
-   "text": "How the league's 10 new head coaches rank through the first third of the 2026 regular season",
-   "link": "https://www.cbssports.com/nfl/news/grading-ranking-nfl-first-year-head-coaches/",
-   "published": "2026-10-20T19:03:29+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-25T19:03:29+00:00"
-  },
-  {
-   "id": "nbaba26d2c5",
-   "topic": "ki",
-   "title": "DeepInfer: Deepseek gibt die Betriebssoftware hinter seinem schnellen KI-Modell frei",
-   "text": "Deepseek veröffentlicht mit DeepInfer sein internes Inference-Framework als Open Source. Das auf vLLM basierende System soll Rechenkosten und Energieverbrauch beim Betrieb von KI-Modellen senken. Damit erhöht das chinesische Unternehmen den Preisdruck auf westliche Anbieter wie OpenAI und Anthropic weiter. Der Artikel …",
-   "link": "https://the-decoder.de/deepinfer-deepseek-gibt-die-betriebssoftware-hinter-seinem-schnellen-ki-modell-frei/",
-   "published": "2026-10-20T18:51:15+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-27T18:51:15+00:00"
-  },
-  {
-   "id": "n285bf3ffbb",
-   "topic": "it",
-   "title": "Digital-Health-Podcast: Von Cyberrisiken bei Krankenhäusern und Medizinprodukten",
-   "text": "Offene Netze, fehlendes Personal, schnellere Angriffe: Martin Tettke erklärt im Podcast, wo Gesundheitseinrichtungen bei der IT-Sicherheit nachbessern müssen.",
-   "link": "https://www.heise.de/news/Digital-Health-Podcast-Von-Cyberrisiken-bei-Krankenhaeusern-und-Medizinprodukten-11479196.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-20T18:28:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-25T18:28:00+00:00"
-  },
-  {
-   "id": "n0ee8755a29",
-   "topic": "it",
-   "title": "Top 10: Bestes Tablet im Test – Samsung verteidigt Platz 1 vor Apple und Lenovo",
-   "text": "Auf der Couch surfen, spielen, arbeiten oder Netflix schauen: Das gelingt hervorragend mit einem Tablet. Wir zeigen die besten Modelle mit Android und iPadOS.",
-   "link": "https://www.heise.de/bestenlisten/testsieger/top-10-bestes-tablet-im-test-samsung-verteidigt-platz-1-vor-apple-und-lenovo/xdbnr3b?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-20T18:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-25T18:00:00+00:00"
-  },
-  {
-   "id": "n894a268979",
-   "topic": "wirtschaft",
-   "title": "Wirtschaft vor acht vom 20.10.2026",
-   "text": "Wirtschaft vor acht vom 20.10.2026",
-   "link": "https://www.tagesschau.de/video/video-1669678.html",
-   "published": "2026-10-20T17:56:23+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-23T17:56:23+00:00",
-   "img": "https://images.tagesschau.de/image/fbd3b864-ac6c-455b-8173-6be50d38c3c9/AAABoVp0viw/AAABnSSvrFg/16x9-big/sendungsbild-1814616.jpg?width=1920"
   }
  ]
 }
