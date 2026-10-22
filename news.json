@@ -1,96 +1,352 @@
 {
- "generated": "2026-10-21T21:43:39.824158+00:00",
+ "generated": "2026-10-22T04:47:53.852474+00:00",
  "briefing": [
   "n06312cf48d",
-  "nd8e44fbdb3",
   "n1530aaa692",
   "ne4c6624cb2",
-  "n2a57b9e01f",
   "nb81298fad2",
-  "n7f31d46b44",
-  "nd847ed5de4",
-  "n819d26ea81",
+  "nfec57e2cff",
+  "n5d4391da04",
+  "n3fd844535c",
+  "na400e38c8e",
+  "n4d1b68974b",
   "n705cae3cc5"
  ],
  "ranked": [
   {
    "id": "n06312cf48d",
-   "s": 40.0
-  },
-  {
-   "id": "nd8e44fbdb3",
-   "s": 28.8
+   "s": 38.2
   },
   {
    "id": "n1530aaa692",
-   "s": 27.8
+   "s": 26.0
   },
   {
    "id": "ne4c6624cb2",
-   "s": 27.0
-  },
-  {
-   "id": "n2a57b9e01f",
-   "s": 25.9
+   "s": 25.2
   },
   {
    "id": "nb81298fad2",
-   "s": 25.5
+   "s": 23.7
   },
   {
-   "id": "n7f31d46b44",
-   "s": 23.0
+   "id": "nfec57e2cff",
+   "s": 22.8
   },
   {
-   "id": "nd847ed5de4",
-   "s": 23.0
+   "id": "n5d4391da04",
+   "s": 22.8
   },
   {
-   "id": "n819d26ea81",
-   "s": 21.8
+   "id": "n3fd844535c",
+   "s": 22.8
+  },
+  {
+   "id": "na400e38c8e",
+   "s": 22.8
+  },
+  {
+   "id": "n4d1b68974b",
+   "s": 20.5
   },
   {
    "id": "n705cae3cc5",
-   "s": 20.2
+   "s": 18.4
   },
   {
    "id": "n9c7f491abb",
-   "s": 20.1
-  },
-  {
-   "id": "n79a1d4350a",
-   "s": 19.8
-  },
-  {
-   "id": "n640dbd7ced",
-   "s": 19.6
-  },
-  {
-   "id": "n41fe45e0e5",
-   "s": 19.4
-  },
-  {
-   "id": "n57cc9301b7",
-   "s": 19.2
-  },
-  {
-   "id": "n28706b1e59",
-   "s": 18.8
-  },
-  {
-   "id": "n22f960c417",
-   "s": 18.8
-  },
-  {
-   "id": "n46acf2aa65",
    "s": 18.3
   },
   {
-   "id": "n52b040dee7",
-   "s": 17.1
+   "id": "n79a1d4350a",
+   "s": 18.1
+  },
+  {
+   "id": "n640dbd7ced",
+   "s": 17.8
+  },
+  {
+   "id": "n41fe45e0e5",
+   "s": 17.7
+  },
+  {
+   "id": "n57cc9301b7",
+   "s": 17.4
+  },
+  {
+   "id": "n46acf2aa65",
+   "s": 16.5
+  },
+  {
+   "id": "nd1ba474faf",
+   "s": 16.2
+  },
+  {
+   "id": "n106b8d9cfe",
+   "s": 15.1
   }
  ],
  "items": [
+  {
+   "id": "n0c714554d5",
+   "topic": "welt",
+   "title": "Ukraine-Krieg trifft den zivilen Flugverkehr in Russland",
+   "text": "Angesichts der Bedrohung durch ukrainische Drohnen setzen die Moskauer Flughäfen immer häufiger ihren Betrieb aus. Wird Russland auf Dauer einen regulären Flugverkehr aufrechterhalten können?",
+   "link": "https://www.dw.com/de/ukraine-krieg-trifft-den-zivilen-flugverkehr-in-russland/a-79724364?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-22T04:29:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-26T04:29:00+00:00",
+   "img": "https://static.dw.com/image/75460805_302.jpg",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Pendeldiplomatie - Russland zu Verhandlungen mit der Ukraine und den USA bereit, Selenskyj schlägt Einfrieren der Frontlinie vor",
+     "link": "https://www.deutschlandfunk.de/russland-zu-verhandlungen-mit-der-ukraine-und-den-usa-bereit-selenskyj-schlaegt-einfrieren-der-front-102.html"
+    },
+    {
+     "source": "Tagesschau",
+     "title": "Ukraine-Krieg: Putin schlägt Treffen mit Trump und Xi vor",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-106.html"
+    }
+   ]
+  },
+  {
+   "id": "nc210d36744",
+   "topic": "it",
+   "title": "Donnerstag: Datenschutzfragen bei AfD-Leak, Gewinnexplosion bei Meta Platforms",
+   "text": "DSGVO-Pflicht von Parteien + Meta-Wachstum dank Werbung + Milliardenstrafe wegen Meta-Lügen + Aus für BioWare + Arktis-Alternative für Datenkabel + #heiseshow",
+   "link": "https://www.heise.de/news/Donnerstag-Datenschutzfragen-bei-AfD-Leak-Gewinnexplosion-bei-Meta-Platforms-11496298.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-22T04:15:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-27T04:15:00+00:00"
+  },
+  {
+   "id": "n01215973fc",
+   "topic": "it",
+   "title": "#heiseshow: Starlink-Drosselung, Luftbilder in Google Maps, Tesla Roadster",
+   "text": "In der #heiseshow: Starlink-Drosselung als Warnschuss für Europa, ein Gerichtsurteil gegen Luftbilder bei Google Maps und der abgehobene neue Tesla Roadster.",
+   "link": "https://www.heise.de/news/heiseshow-Starlink-Drosselung-Luftbilder-in-Google-Maps-Tesla-Roadster-11495658.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-22T04:11:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-27T04:11:00+00:00"
+  },
+  {
+   "id": "n7555313d40",
+   "topic": "politik",
+   "title": "Programmiersprache PHP - Weltweite Sicherheitslücke: Update für Webanbieter bereitgestellt",
+   "text": "Nach weltweiten Internet-Problemen wegen einer Sicherheitslücke soll ein inzwischen bereitgestelltes Update Abhilfe schaffen. Betreiber von Webanwendungen sind gehalten, für eine Aktualisierung zu sorgen. Zuvor waren zahlreiche Internetseiten vorsorglich abgeschaltet worden.",
+   "link": "https://www.deutschlandfunk.de/weltweite-sicherheitsluecke-update-fuer-webanbieter-bereitgestellt-102.html",
+   "published": "2026-10-22T04:06:13+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-24T04:06:13+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Programmiersprache PHP: Sicherheitslücke bedroht weltweit Webseiten",
+     "link": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html"
+    }
+   ]
+  },
+  {
+   "id": "nfec57e2cff",
+   "topic": "politik",
+   "title": "Ukraine-Krieg - Verletzte bei russischen Raketenangriffen auf Kiew",
+   "text": "Russland hat die ukrainische Hauptstadt Kiew erneut mit ballistischen Raketen angegriffen.",
+   "link": "https://www.deutschlandfunk.de/verletzte-bei-russischen-raketenangriffen-auf-kiew-104.html",
+   "published": "2026-10-22T04:06:13+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-24T04:06:13+00:00",
+   "img": "https://bilder.deutschlandfunk.de/f4/db/d4/e8/f4dbd4e8-d457-4464-a75e-073e2c30226f/kiew-angriff-108-1920x1920.jpg"
+  },
+  {
+   "id": "n5d4391da04",
+   "topic": "politik",
+   "title": "Militärhilfe für Ukraine - Grüne erhöhen Druck auf Kanzler Merz",
+   "text": "Die Grünen haben Bundeskanzler Merz aufgefordert, bei der US-Regierung auf eine weitere Unterstützung für die Ukraine zu dringen.",
+   "link": "https://www.deutschlandfunk.de/gruene-erhoehen-druck-auf-kanzler-merz-100.html",
+   "published": "2026-10-22T04:06:13+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-24T04:06:13+00:00",
+   "img": "https://bilder.deutschlandfunk.de/fa/87/60/6b/fa87606b-7a38-448e-9a2d-3276033408b3/merz-trump-oval-office-102-1920x1920.jpg"
+  },
+  {
+   "id": "nd624843e4a",
+   "topic": "politik",
+   "title": "Pendeldiplomatie - Russland zu Verhandlungen mit der Ukraine und den USA bereit, Selenskyj schlägt Einfrieren der Frontlinie vor",
+   "text": "Im November soll ein neuer diplomatischer Anlauf für eine mögliche Lösung im Angriffskrieg Russlands gegen die Ukraine unternommen werden.",
+   "link": "https://www.deutschlandfunk.de/russland-zu-verhandlungen-mit-der-ukraine-und-den-usa-bereit-selenskyj-schlaegt-einfrieren-der-front-102.html",
+   "published": "2026-10-22T04:06:13+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-24T04:06:13+00:00",
+   "img": "https://bilder.deutschlandfunk.de/2a/af/41/10/2aaf4110-518e-4ab6-a00e-da4bfd18cdfe/putin-witkoff-russland-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Ukraine-Krieg trifft den zivilen Flugverkehr in Russland",
+     "link": "https://www.dw.com/de/ukraine-krieg-trifft-den-zivilen-flugverkehr-in-russland/a-79724364?maca=de-rss-de-all-1119-xml-mrss"
+    },
+    {
+     "source": "Tagesschau",
+     "title": "Ukraine-Krieg: Putin schlägt Treffen mit Trump und Xi vor",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-106.html"
+    }
+   ]
+  },
+  {
+   "id": "n3fd844535c",
+   "topic": "politik",
+   "title": "Dammam - Saudi-Arabien: Mindestens ein Toter nach neuen Angriffen auf Flughafen - US-Regierung zieht Personal aus Botschaft ab",
+   "text": "In Saudi-Arabien ist erneut ein Flughafen angegriffen worden.",
+   "link": "https://www.deutschlandfunk.de/saudi-arabien-mindestens-ein-toter-nach-neuen-angriffen-auf-flughafen-us-regierung-zieht-personal-au-100.html",
+   "published": "2026-10-22T04:06:13+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-24T04:06:13+00:00",
+   "img": "https://bilder.deutschlandfunk.de/e1/06/7d/e2/e1067de2-6230-41ae-943b-92085b1ff504/die-nachrichten-kachel-2176-zu1224-100-768x768.jpg"
+  },
+  {
+   "id": "na400e38c8e",
+   "topic": "politik",
+   "title": "Berlin - SPD will Pflegereform im Bundestag nachbessern",
+   "text": "Die SPD-Bundestagsfraktion dringt auf Nachbesserungen beim Gesetzentwurf der Bundesregierung zur Pflegeversicherung.",
+   "link": "https://www.deutschlandfunk.de/spd-will-pflegereform-im-bundestag-nachbessern-100.html",
+   "published": "2026-10-22T04:06:13+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-24T04:06:13+00:00",
+   "img": "https://bilder.deutschlandfunk.de/de/c8/7f/87/dec87f87-5262-47c0-a7fa-4d04c466a39b/christos-pantazis-100-1920x1920.jpg"
+  },
+  {
+   "id": "n156b344e61",
+   "topic": "politik",
+   "title": "Hessen am Morgen: Die Nachrichten im Ticker vom 22.10.2026",
+   "text": "Jetzt live: Was in der Nacht passiert ist, was heute wichtig wird – und alles, was Hessen bewegt. Wir starten mit Ihnen in den Donnerstag.",
+   "link": "https://www.hessenschau.de/hessen-am-morgen/acht-verletzte-nach-auffahrunfall-bei-langen--hessen-am-morgen-die-nachrichten-im-ticker-vom-22102026,hessen-am-morgen-donnerstag-1032.html",
+   "published": "2026-10-22T04:01:03+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-26T04:01:03+00:00",
+   "img": "https://www.hessenschau.de/panorama/unfall-576~_t-1702895804487_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "nca825391aa",
+   "topic": "nfl",
+   "title": "Five Plays: Syracuse Second Quarter",
+   "text": "The scoreboard started to light up in the second quarter of the Louisville game against Syracuse on Saturday night. Let’s dive into some of the plays that stood out. This is a perfect play against the perfect defense, but Louisville has to do better here. Syracuse goes five wide, with the hopes that the Cards […]",
+   "link": "https://sports.yahoo.com/articles/five-plays-syracuse-second-quarter-035100678.html",
+   "published": "2026-10-22T03:51:00+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-27T03:51:00+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/e9a402897ccd6710fe4a9226c086ba0c.jpg"
+  },
+  {
+   "id": "n5152c6d27f",
+   "topic": "wissenschaft",
+   "title": "Wasserzeichen markieren bald auch KI-Texte von ChatGPT",
+   "text": "Stammt dieser Text von einer Künstlichen Intelligenz? Aufschluss geben können Wasserzeichen, die KI-generierte Texte markieren. OpenAI hat das nun für ChatGPT angekündigt. Von Pauline Möhle und Leila Boucheligua.",
+   "link": "https://www.tagesschau.de/wissen/ki-texte-wasserzeichen-100.html",
+   "published": "2026-10-22T03:30:26+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-05T03:30:26+00:00",
+   "img": "https://images.tagesschau.de/image/bb584e38-75c4-45af-9547-623b253cdf49/AAABldn6_NE/AAABnSSvrFg/16x9-big/chatgpt-118.jpg?width=1920"
+  },
+  {
+   "id": "n63b33707d8",
+   "topic": "wirtschaft",
+   "title": "Ausschüsse im EU-Parlament stimmen ab zum Verbrenner-Kompromiss",
+   "text": "Nach der Einigung der Unterhändler zur Abkehr vom \"Verbrenner-Aus\" befassen sich heute Ausschüsse im EU-Parlament damit. Die Abstimmungen werden zeigen, ob der Kompromiss hält. Von Christian Feld und Jean-Marie Magro.",
+   "link": "https://www.tagesschau.de/wirtschaft/verbrenner-aus-124.html",
+   "published": "2026-10-22T03:05:08+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-25T03:05:08+00:00",
+   "img": "https://images.tagesschau.de/image/3389a7e4-bc06-458d-8b1f-07b4b5e844a8/AAABmsqiuos/AAABnSSvrFg/16x9-big/verbrennermotor-102.jpg?width=1920"
+  },
+  {
+   "id": "n287a23dae7",
+   "topic": "it",
+   "title": "Meta Platforms erhöht Ausgaben deutlich, aber verdreifacht Nettogewinn",
+   "text": "Metas Umsatz und Nettogewinn steigen enorm, aber auch Ausgaben und Kosten. Die Nutzerzahlen nehmen zu, die Mitarbeiterzahl ab. Die Aktie zieht leicht an.",
+   "link": "https://www.heise.de/news/Meta-Platforms-erhoeht-Ausgaben-deutlich-aber-verdreifacht-Nettogewinn-11496284.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-22T03:04:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-27T03:04:00+00:00"
+  },
+  {
+   "id": "nc845f20943",
+   "topic": "nfl",
+   "title": "Joe Burrow says he didn't interact with VP Vance during Bengals practice visit",
+   "text": "VP JD Vance made a surprise visit at Bengals practice on Wednesday. Joe Burrow spoke about it after practice.",
+   "link": "https://sports.yahoo.com/articles/joe-burrow-says-didnt-interact-025516756.html",
+   "published": "2026-10-22T02:55:16+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-27T02:55:16+00:00"
+  },
+  {
+   "id": "n9652fde3cb",
+   "topic": "nfl",
+   "title": "NFL Week 7 injury report: Ravens' Lamar Jackson limited, Jets' Breece Hall a non-participant",
+   "text": "All the latest injury news as Week 7 gets set to kick off",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-7-injury-report-ravens-lamar-jackson-jets-breece-hall/",
+   "published": "2026-10-22T01:02:39+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-27T01:02:39+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/09/17/a1bea389-5319-4331-95e0-bf88dd221807/breece-hall-jets-imagn.jpg"
+  },
+  {
+   "id": "n4e32eaa034",
+   "topic": "nfl",
+   "title": "NFL trade deadline 2026: Saquon Barkley to Seahawks among 10 moves that need to happen",
+   "text": "These needle-moving deals would define the trade deadline",
+   "link": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-10-moves-saquon-barkley-seahawks/",
+   "published": "2026-10-22T00:28:45+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-27T00:28:45+00:00"
+  },
+  {
+   "id": "n8558337e42",
+   "topic": "it",
+   "title": "Entwicklerstudio: EA schließt Bioware und stoppt neues Mass Effect",
+   "text": "Nach mehr als 30 Jahren ist Schluss: Electronic Arts schließt das traditionsreiche Rollenspielstudio Bioware. ( Bioware , Electronic Arts )",
+   "link": "https://www.golem.de/news/entwicklerstudio-ea-schliesst-bioware-und-stoppt-neues-mass-effect-2610-214369.html",
+   "published": "2026-10-21T22:27:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-26T22:27:01+00:00",
+   "img": "https://www.golem.de/2610/214369-604583-604581_rc.jpg"
+  },
   {
    "id": "n7f31d46b44",
    "topic": "politik",
@@ -117,14 +373,14 @@
    "expires": "2026-10-23T21:39:26+00:00",
    "also": [
     {
+     "source": "Deutsche Welle",
+     "title": "Ukraine-Krieg trifft den zivilen Flugverkehr in Russland",
+     "link": "https://www.dw.com/de/ukraine-krieg-trifft-den-zivilen-flugverkehr-in-russland/a-79724364?maca=de-rss-de-all-1119-xml-mrss"
+    },
+    {
      "source": "Tagesschau",
      "title": "Ukraine-Krieg: Putin schlägt Treffen mit Trump und Xi vor",
      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-106.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Ukraine-Krieg: Russland nimmt Deutschen wegen \"Söldnertums\" fest",
-     "link": "https://www.dw.com/de/ukraine-krieg-russland-nimmt-deutschen-wegen-söldnertums-fest/a-79722562?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -139,7 +395,6 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-23T21:39:26+00:00",
-   "img": "https://bilder.deutschlandfunk.de/03/f6/d3/cf/03f6d3cf-be3c-4877-9889-335bd0017d17/php-sicherheitsluecken-100-1920x1920.jpg",
    "also": [
     {
      "source": "Tagesschau",
@@ -421,7 +676,7 @@
     {
      "source": "Deutschlandfunk",
      "title": "Programmiersprache PHP - Weltweite Sicherheitslücke: Update für Webanbieter bereitgestellt",
-     "link": "https://www.deutschlandfunk.de/weltweite-sicherheitsluecke-update-fuer-webanbieter-bereitgestellt-100.html"
+     "link": "https://www.deutschlandfunk.de/weltweite-sicherheitsluecke-update-fuer-webanbieter-bereitgestellt-102.html"
     }
    ]
   },
@@ -505,14 +760,14 @@
    "img": "https://bilder.deutschlandfunk.de/7c/32/d6/db/7c32d6db-e6bb-45bf-a805-de86f69ebce0/selenskyj-praesident-kiew-100-1920x1920.jpg",
    "also": [
     {
+     "source": "Deutsche Welle",
+     "title": "Ukraine-Krieg trifft den zivilen Flugverkehr in Russland",
+     "link": "https://www.dw.com/de/ukraine-krieg-trifft-den-zivilen-flugverkehr-in-russland/a-79724364?maca=de-rss-de-all-1119-xml-mrss"
+    },
+    {
      "source": "Tagesschau",
      "title": "Ukraine-Krieg: Putin schlägt Treffen mit Trump und Xi vor",
      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-106.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Ukraine-Krieg: Russland nimmt Deutschen wegen \"Söldnertums\" fest",
-     "link": "https://www.dw.com/de/ukraine-krieg-russland-nimmt-deutschen-wegen-söldnertums-fest/a-79722562?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -562,14 +817,14 @@
    "expires": "2026-10-23T17:03:13+00:00",
    "also": [
     {
+     "source": "Deutsche Welle",
+     "title": "Ukraine-Krieg trifft den zivilen Flugverkehr in Russland",
+     "link": "https://www.dw.com/de/ukraine-krieg-trifft-den-zivilen-flugverkehr-in-russland/a-79724364?maca=de-rss-de-all-1119-xml-mrss"
+    },
+    {
      "source": "Tagesschau",
      "title": "Ukraine-Krieg: Putin schlägt Treffen mit Trump und Xi vor",
      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-106.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Ukraine-Krieg: Russland nimmt Deutschen wegen \"Söldnertums\" fest",
-     "link": "https://www.dw.com/de/ukraine-krieg-russland-nimmt-deutschen-wegen-söldnertums-fest/a-79722562?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -873,14 +1128,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-24T13:08:11+00:00",
-   "img": "https://images.tagesschau.de/image/1f7bfde7-dfc2-46c4-aaa0-ea64ecb0c4e1/AAABoV6brDg/AAABnSSvrFg/16x9-big/musk-316.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Wirtschaft - Musk bestätigt: Tesla und SpaceX prüfen Zusammenschluss",
-     "link": "https://www.deutschlandfunk.de/musk-bestaetigt-tesla-und-spacex-pruefen-zusammenschluss-100.html"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/1f7bfde7-dfc2-46c4-aaa0-ea64ecb0c4e1/AAABoV6brDg/AAABnSSvrFg/16x9-big/musk-316.jpg?width=1920"
   },
   {
    "id": "n237a671684",
@@ -931,14 +1179,7 @@
    "type": "Fachmedium (IT)",
    "lang": "de",
    "expires": "2026-10-26T12:00:06+00:00",
-   "img": "https://www.golem.de/2610/214358-604541-604536_rc.jpg",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Wirtschaftsauskunftei - Bundesgerichtshof urteilt zu Transparenz beim alten Schufa-Score",
-     "link": "https://www.deutschlandfunk.de/bundesgerichtshof-urteilt-zu-transparenz-beim-alten-schufa-score-100.html"
-    }
-   ]
+   "img": "https://www.golem.de/2610/214358-604541-604536_rc.jpg"
   },
   {
    "id": "n043d1bce6b",
@@ -967,14 +1208,14 @@
    "img": "https://images.tagesschau.de/image/82c75df0-6192-4ec3-8128-1b31683cdc59/AAABoV7re4Q/AAABnSSvrFg/16x9-big/putin-witkoff-106.jpg?width=1920",
    "also": [
     {
-     "source": "Deutschlandfunk",
-     "title": "Pendeldiplomatie - Russland zu Verhandlungen mit der Ukraine und den USA Mitte November bereit, Selenskyj schlägt Einfrieren der Frontlinie vor",
-     "link": "https://www.deutschlandfunk.de/russland-zu-verhandlungen-mit-der-ukraine-und-den-usa-mitte-november-bereit-selenskyj-schlaegt-einfr-102.html"
+     "source": "Deutsche Welle",
+     "title": "Ukraine-Krieg trifft den zivilen Flugverkehr in Russland",
+     "link": "https://www.dw.com/de/ukraine-krieg-trifft-den-zivilen-flugverkehr-in-russland/a-79724364?maca=de-rss-de-all-1119-xml-mrss"
     },
     {
-     "source": "Deutsche Welle",
-     "title": "Ukraine-Krieg: Russland nimmt Deutschen wegen \"Söldnertums\" fest",
-     "link": "https://www.dw.com/de/ukraine-krieg-russland-nimmt-deutschen-wegen-söldnertums-fest/a-79722562?maca=de-rss-de-all-1119-xml-mrss"
+     "source": "Deutschlandfunk",
+     "title": "Pendeldiplomatie - Russland zu Verhandlungen mit der Ukraine und den USA bereit, Selenskyj schlägt Einfrieren der Frontlinie vor",
+     "link": "https://www.deutschlandfunk.de/russland-zu-verhandlungen-mit-der-ukraine-und-den-usa-bereit-selenskyj-schlaegt-einfrieren-der-front-102.html"
     }
    ]
   },
@@ -1006,8 +1247,8 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Pendeldiplomatie - Russland zu Verhandlungen mit der Ukraine und den USA Mitte November bereit, Selenskyj schlägt Einfrieren der Frontlinie vor",
-     "link": "https://www.deutschlandfunk.de/russland-zu-verhandlungen-mit-der-ukraine-und-den-usa-mitte-november-bereit-selenskyj-schlaegt-einfr-102.html"
+     "title": "Pendeldiplomatie - Russland zu Verhandlungen mit der Ukraine und den USA bereit, Selenskyj schlägt Einfrieren der Frontlinie vor",
+     "link": "https://www.deutschlandfunk.de/russland-zu-verhandlungen-mit-der-ukraine-und-den-usa-bereit-selenskyj-schlaegt-einfrieren-der-front-102.html"
     },
     {
      "source": "Tagesschau",
@@ -1093,14 +1334,14 @@
    "img": "https://bilder.deutschlandfunk.de/df/78/61/a0/df7861a0-724a-4ade-8ad0-f53091dbc33a/witkoff-putin-moskau-102-1920x1920.jpg",
    "also": [
     {
+     "source": "Deutsche Welle",
+     "title": "Ukraine-Krieg trifft den zivilen Flugverkehr in Russland",
+     "link": "https://www.dw.com/de/ukraine-krieg-trifft-den-zivilen-flugverkehr-in-russland/a-79724364?maca=de-rss-de-all-1119-xml-mrss"
+    },
+    {
      "source": "Tagesschau",
      "title": "Ukraine-Krieg: Putin schlägt Treffen mit Trump und Xi vor",
      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-106.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Ukraine-Krieg: Russland nimmt Deutschen wegen \"Söldnertums\" fest",
-     "link": "https://www.dw.com/de/ukraine-krieg-russland-nimmt-deutschen-wegen-söldnertums-fest/a-79722562?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -1405,14 +1646,14 @@
    "img": "https://images.tagesschau.de/image/258ad48a-e412-41de-82b5-095a7fb9e806/AAABoV08ipo/AAABnSSvrFg/16x9-big/wittkoff-dmitriev-100.jpg?width=1920",
    "also": [
     {
-     "source": "Deutschlandfunk",
-     "title": "Pendeldiplomatie - Russland zu Verhandlungen mit der Ukraine und den USA Mitte November bereit, Selenskyj schlägt Einfrieren der Frontlinie vor",
-     "link": "https://www.deutschlandfunk.de/russland-zu-verhandlungen-mit-der-ukraine-und-den-usa-mitte-november-bereit-selenskyj-schlaegt-einfr-102.html"
+     "source": "Deutsche Welle",
+     "title": "Ukraine-Krieg trifft den zivilen Flugverkehr in Russland",
+     "link": "https://www.dw.com/de/ukraine-krieg-trifft-den-zivilen-flugverkehr-in-russland/a-79724364?maca=de-rss-de-all-1119-xml-mrss"
     },
     {
-     "source": "Deutsche Welle",
-     "title": "Ukraine-Krieg: Russland nimmt Deutschen wegen \"Söldnertums\" fest",
-     "link": "https://www.dw.com/de/ukraine-krieg-russland-nimmt-deutschen-wegen-söldnertums-fest/a-79722562?maca=de-rss-de-all-1119-xml-mrss"
+     "source": "Deutschlandfunk",
+     "title": "Pendeldiplomatie - Russland zu Verhandlungen mit der Ukraine und den USA bereit, Selenskyj schlägt Einfrieren der Frontlinie vor",
+     "link": "https://www.deutschlandfunk.de/russland-zu-verhandlungen-mit-der-ukraine-und-den-usa-bereit-selenskyj-schlaegt-einfrieren-der-front-102.html"
     }
    ]
   },
@@ -1479,14 +1720,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-24T08:20:43+00:00",
-   "img": "https://images.tagesschau.de/image/dc4291c6-d9aa-4f67-b320-c00a3c944acb/AAABoV0_7EA/AAABnSSvrFg/16x9-big/netflix-248.jpg?width=1920",
-   "also": [
-    {
-     "source": "heise online",
-     "title": "Netflix wächst weiter und erfüllt externe Erwartungen, Aktie fällt trotzdem",
-     "link": "https://www.heise.de/news/Netflix-waechst-weiter-und-erfuellt-externe-Erwartungen-Aktie-faellt-trotzdem-11494940.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/dc4291c6-d9aa-4f67-b320-c00a3c944acb/AAABoV0_7EA/AAABnSSvrFg/16x9-big/netflix-248.jpg?width=1920"
   },
   {
    "id": "n640dbd7ced",
@@ -1579,280 +1813,6 @@
      "link": "https://www.spektrum.de/news/klimawandel-erde-steuert-laut-un-auf-2-8-grad-erwaermung-zu/2350698"
     }
    ]
-  },
-  {
-   "id": "nd8e44fbdb3",
-   "topic": "politik",
-   "title": "Wirtschaftsauskunftei - Bundesgerichtshof urteilt zu Transparenz beim alten Schufa-Score",
-   "text": "Der Bundesgerichtshof verkündet am Vormittag sein Urteil zu den Auskunftspflichten der Schufa über ihren sogenannten Score.",
-   "link": "https://www.deutschlandfunk.de/bundesgerichtshof-urteilt-zu-transparenz-beim-alten-schufa-score-100.html",
-   "published": "2026-10-21T04:45:15+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-23T04:45:15+00:00",
-   "img": "https://bilder.deutschlandfunk.de/FI/LE/_f/9d/FILE_f9d88a786f49650a31941fd2d74f17df/51942150-jpg-100-768x768.jpg",
-   "also": [
-    {
-     "source": "Golem.de",
-     "title": "Schufa-Score: Bundesgerichtshof hebt Schufa-Urteile auf",
-     "link": "https://www.golem.de/news/schufa-score-bundesgerichtshof-hebt-schufa-urteile-auf-2610-214358.html"
-    }
-   ]
-  },
-  {
-   "id": "n9a45c0883a",
-   "topic": "politik",
-   "title": "Russlands Krieg gegen die Ukraine - US-Gesandter Witkoff zu Treffen mit Putin in St. Petersburg erwartet",
-   "text": "Der US-Gesandte Witkoff wird nach Gesprächen mit dem ukrainischen Präsidenten Selenskyj in Oslo heute im russischen Sankt Petersburg erwartet. Bei seinem Treffen mit Russlands Präsident Putin will Witkoff neue Vorschläge aus Kiew für eine mögliche Friedenslösung vorstellen. Das berichten Nachrichtenagenturen unter …",
-   "link": "https://www.deutschlandfunk.de/us-gesandter-witkoff-zu-treffen-mit-putin-in-st-petersburg-erwartet-100.html",
-   "published": "2026-10-21T04:45:15+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-23T04:45:15+00:00",
-   "img": "https://bilder.deutschlandfunk.de/b7/1c/5a/e6/b71c5ae6-34b5-49d3-a394-7dde1fcd2df3/usa-russland-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Ukraine-Krieg: Putin schlägt Treffen mit Trump und Xi vor",
-     "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-106.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Ukraine-Krieg: Russland nimmt Deutschen wegen \"Söldnertums\" fest",
-     "link": "https://www.dw.com/de/ukraine-krieg-russland-nimmt-deutschen-wegen-söldnertums-fest/a-79722562?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n68612b9799",
-   "topic": "politik",
-   "title": "Wirtschaft - Musk bestätigt: Tesla und SpaceX prüfen Zusammenschluss",
-   "text": "Der Elektroautohersteller Tesla und das Raumfahrtunternehmen SpaceX prüfen einen Zusammenschluss.",
-   "link": "https://www.deutschlandfunk.de/musk-bestaetigt-tesla-und-spacex-pruefen-zusammenschluss-100.html",
-   "published": "2026-10-21T04:45:15+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-23T04:45:15+00:00",
-   "img": "https://bilder.deutschlandfunk.de/6f/31/98/fe/6f3198fe-842f-455f-9bb9-36e0560e01c8/elon-musk-134-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Was eine Fusion von Tesla und SpaceX bedeuten würde",
-     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-tesla-spacex-zusammenschluss-folgen-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n28706b1e59",
-   "topic": "politik",
-   "title": "Schwarzmeerregion - NATO verstärkt Überwachung nach Drohnenangriffen auf Handelsschiffe",
-   "text": "Nach mehreren Drohnenangriffen auf Handelsschiffe vor den Küsten Bulgariens und Rumäniens verstärkt die NATO ihre Überwachung der Schwarzmeerregion. Das Bündnis will zusätzliche Mittel für Überwachung, Aufklärung und forensische Analysen in die Region entsenden. Dies kündigte eine NATO-Sprecherin nach einer Sitzung …",
-   "link": "https://www.deutschlandfunk.de/nato-verstaerkt-ueberwachung-nach-drohnenangriffen-auf-handelsschiffe-100.html",
-   "published": "2026-10-21T04:45:15+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-23T04:45:15+00:00",
-   "img": "https://bilder.deutschlandfunk.de/3a/64/b6/85/3a64b685-4fd1-488f-a6bb-11c2c1ed0d68/nato-116-1920x1920.jpg"
-  },
-  {
-   "id": "n22f960c417",
-   "topic": "politik",
-   "title": "Künstliche Intelligenz - China kritisiert US-Verbot der KI DeepSeek in Bundesbehörden",
-   "text": "China hat das Verbot der chinesischen KI-App DeepSeek in US-Bundesbehörden kritisiert.",
-   "link": "https://www.deutschlandfunk.de/china-kritisiert-us-verbot-der-ki-deepseek-in-bundesbehoerden-100.html",
-   "published": "2026-10-21T04:45:15+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-23T04:45:15+00:00",
-   "img": "https://bilder.deutschlandfunk.de/43/51/65/de/435165de-7ea0-4140-aba2-6817711d1a08/deepseek-102-1920x1920.jpg"
-  },
-  {
-   "id": "n832578d84b",
-   "topic": "politik",
-   "title": "Kultur - Medientage München befassen sich unter anderem mit Künstlicher Intelligenz",
-   "text": "Die Intendantin des Bayerischen Rundfunks, Wildermuth, hat zu mehr Eigeninitiative und Innovation bei der Nutzung von Künstlicher Intelligenz im Journalismus aufgerufen.",
-   "link": "https://www.deutschlandfunk.de/medientage-muenchen-befassen-sich-unter-anderem-mit-kuenstlicher-intelligenz-100.html",
-   "published": "2026-10-21T04:45:15+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-23T04:45:15+00:00",
-   "img": "https://bilder.deutschlandfunk.de/85/90/13/ef/859013ef-a851-4edd-ab4e-6eb522f80872/318641495-100-1920x1920.jpg"
-  },
-  {
-   "id": "nced7ba26cb",
-   "topic": "wirtschaft",
-   "title": "China-Schock 2.0 - wie sich Europas Industrie schützen kann",
-   "text": "China setzt Europas Unternehmen zunehmend unter Druck - auch mit massiven Subventionen. Doch höhere Zölle allein reichen kaum aus. Was kann die EU noch tun, um ihre Wirtschaft zu schützen? Von Angela Göpfert.",
-   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-schock-europa-industrie-zoelle-100.html",
-   "published": "2026-10-21T04:41:58+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-24T04:41:58+00:00",
-   "img": "https://images.tagesschau.de/image/7bd3c651-9907-4ac1-abf8-978bf2824854/AAABlNBgMDY/AAABnSSvrFg/16x9-big/china-1256.jpg?width=1920"
-  },
-  {
-   "id": "nab49d840a0",
-   "topic": "welt",
-   "title": "Der Alltag in Slowjansk: Vom Leben nahe der Front",
-   "text": "Slowjansk im Donbass ist heute Kampfgebiet. Täglich verlassen Dutzende Menschen die ostukrainische Stadt. Wer zurückbleibt, lebt mit der ständigen Gefahr russischer Angriffe. Eine DW-Reporterin war vor Ort.",
-   "link": "https://www.dw.com/de/der-alltag-in-slowjansk-vom-leben-nahe-der-front/a-79715068?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-21T04:28:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-25T04:28:00+00:00",
-   "img": "https://static.dw.com/image/79680190_302.jpg"
-  },
-  {
-   "id": "n9f4772c3d3",
-   "topic": "nfl",
-   "title": "'Football 301': Arch Manning's NFL Draft stock isn't cooked and here's why",
-   "text": "The constant social media barrage calling Arch \"overrated\" or a \"bust\" doesn't move Yahoo Sports' Nate Tice. He's seen enough from the process, traits and underlying play to keep faith in Manning's long-term NFL potential.",
-   "link": "https://sports.yahoo.com/nfl/article/football-301-arch-mannings-nfl-draft-stock-isnt-cooked-and-heres-why-042321041.html",
-   "published": "2026-10-21T04:23:21+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-26T04:23:21+00:00"
-  },
-  {
-   "id": "ne263b44187",
-   "topic": "it",
-   "title": "Mittwoch: Chinas Überbestellungen bei Nvidia, Börsenzweifel an Netflix-Wachstum",
-   "text": "Milliarden-Order für KI-Inferenz + Netflix-Ausblick mit Vorsicht + Microsoft-Tools für Cloud-Souveränität + Podcast zu Cyberrisiken in Kliniken + Bit-Rauschen",
-   "link": "https://www.heise.de/news/Mittwoch-Chinas-Ueberbestellungen-bei-Nvidia-Boersenzweifel-an-Netflix-Wachstum-11494952.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-21T04:15:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-26T04:15:00+00:00"
-  },
-  {
-   "id": "n98393e6a92",
-   "topic": "it",
-   "title": "Bit-Rauschen, der Prozessor-Podcast: Datentypen, Zahlenformate und CPU-Leistung",
-   "text": "Wie digitale Zahlenformate die Rechenleistung von Prozessoren und KI-Beschleunigern beeinflussen, bespricht Folge 2026/21 des Podcasts Bit-Rauschen.",
-   "link": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-Datentypen-Zahlenformate-und-CPU-Leistung-11476401.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-21T04:10:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-26T04:10:00+00:00"
-  },
-  {
-   "id": "n78f1240a72",
-   "topic": "politik",
-   "title": "Warum sich junge Frauen in Gießen oft unsicher fühlen - und was die Stadt dagegen tut",
-   "text": "Es gibt Orte in der Gießener Innenstadt, die einige Frauen vor allem im Dunkeln bewusst meiden. Für das ARD-Projekt Young Reporter beschäftigt sich die 18-jährige Finja Meissner mit dem Unterschied zwischen tatsächlicher Sicherheit und subjektivem Sicherheitsgefühl.",
-   "link": "https://www.hessenschau.de/gesellschaft/warum-sich-junge-frauen-in-giessen-oft-unsicher-fuehlen---und-was-die-stadt-dagegen-tut-v1,ard-young-reporter-giessen-finja-100.html",
-   "published": "2026-10-21T04:05:58+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-25T04:05:58+00:00",
-   "img": "https://www.hessenschau.de/gesellschaft/ard-young-reporter-finja-112~_t-1792555557949_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "nde31acb466",
-   "topic": "nfl",
-   "title": "Eagles-Commanders Week 8 game will NOT be flexed out of Sunday night",
-   "text": "For better or for worse, you’ve gotta stay up late to watch the Birds next weekend.",
-   "link": "https://sports.yahoo.com/articles/eagles-commanders-week-8-game-034727149.html",
-   "published": "2026-10-21T03:47:27+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-26T03:47:27+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/273762028afa390d6fe21e07738358a8.jpg"
-  },
-  {
-   "id": "n52d5ff928e",
-   "topic": "welt",
-   "title": "El Salvadors Präsident kündigt an, Tausende Häftlinge freizulassen",
-   "text": "Menschenrechtsorganisationen kritisieren, dass etwa die Hälfte der 90.000 Menschen in El Salvadors Gefängnissen unschuldig inhaftiert ist. Nun hat Präsident Bukele überraschend angekündigt, Tausende freizulassen. Von Jenny Barke.",
-   "link": "https://www.tagesschau.de/ausland/amerika/el-salvador-bukele-gefangene-100.html",
-   "published": "2026-10-21T03:05:13+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-24T03:05:13+00:00",
-   "img": "https://images.tagesschau.de/image/998dfc0c-6605-4fca-8c0a-258f5790be63/AAABoV3x7Gs/AAABnSSvrFg/16x9-big/bukele-108.jpg?width=1920"
-  },
-  {
-   "id": "n491a6aeeef",
-   "topic": "it",
-   "title": "Netflix wächst weiter und erfüllt externe Erwartungen, Aktie fällt trotzdem",
-   "text": "Umsatz und Gewinne von Netflix steigen weiter, doch Ausblick und Werbezahlen enttäuschen die Börse. Die angepeilte Milliarde Zuschauer ist noch nicht erreicht.",
-   "link": "https://www.heise.de/news/Netflix-waechst-weiter-und-erfuellt-externe-Erwartungen-Aktie-faellt-trotzdem-11494940.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-21T03:02:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-26T03:02:00+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Streaming-Gigant unter Druck: Netflix wächst langsamer",
-     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/netflix-streaming-serien-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n4d3c369ccd",
-   "topic": "welt",
-   "title": "Nigeria bestätigt ersten Ebola-Fall",
-   "text": "Bislang waren drei afrikanische Länder von dem aktuellen Ebola-Ausbruch betroffen, nun meldet auch Nigeria einen Fall. Eine Frau sei in der Hauptstadt Abuja in Behandlung, so die Behörden. Nigeria ist das bevölkerungsreichste Land auf dem Kontinent.",
-   "link": "https://www.tagesschau.de/ausland/ebola-nigeria-102.html",
-   "published": "2026-10-21T01:11:10+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-24T01:11:10+00:00",
-   "img": "https://images.tagesschau.de/image/f433ca12-0788-429e-9cc3-db7b75eaff0d/AAABoVviQKs/AAABnSSvrFg/16x9-big/ebola-nigeria-100.jpg?width=1920"
-  },
-  {
-   "id": "n8488e2d536",
-   "topic": "politik",
-   "title": "Ukraine-Krieg - Selenskyj trifft US-Gesandten Witkoff in Oslo - Teilnahme an möglichem Treffen mit Trump, Putin und Xi gefordert",
-   "text": "Der ukrainische Präsident Selenskyj hat eine Teilnahme seines Landes an einem möglichen Gipfeltreffen von US-Präsident Trump, dem russischen Staatschef Putin und Chinas Staatschef Xi gefordert. Gespräche über die Zukunft seines Landes seien nur akzeptabel, wenn man auch am Verhandlungstisch sitze, sagte Selenskyj bei …",
-   "link": "https://www.deutschlandfunk.de/selenskyj-trifft-us-gesandten-witkoff-in-oslo-teilnahme-an-moeglichem-treffen-mit-trump-putin-und-xi-102.html",
-   "published": "2026-10-20T23:40:03+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-22T23:40:03+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Ukraine-Krieg: Putin schlägt Treffen mit Trump und Xi vor",
-     "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-106.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Ukraine-Krieg: Russland nimmt Deutschen wegen \"Söldnertums\" fest",
-     "link": "https://www.dw.com/de/ukraine-krieg-russland-nimmt-deutschen-wegen-söldnertums-fest/a-79722562?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n00036b372c",
-   "topic": "politik",
-   "title": "Schwarzmeerregion - NATO verstärkt Überwachung nach wiederholten Drohnenangriffen auf Handelsschiffe",
-   "text": "Nach mehreren Drohnenangriffen auf Handelsschiffe vor den Küsten Bulgariens und Rumäniens verstärkt die NATO ihre Überwachung der Schwarzmeerregion.",
-   "link": "https://www.deutschlandfunk.de/nato-verstaerkt-ueberwachung-nach-wiederholten-drohnenangriffen-auf-handelsschiffe-106.html",
-   "published": "2026-10-20T23:40:03+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-22T23:40:03+00:00"
   }
  ]
 }
