@@ -1,55 +1,450 @@
 {
- "generated": "2026-10-22T11:54:03.378402+00:00",
+ "generated": "2026-10-22T17:11:32.507459+00:00",
  "briefing": [
-  "n14178ba5db",
-  "n53a37f4308",
+  "nf87462024a",
   "na01cfbb3ca",
   "n0a5532f9de",
+  "nf9f53ae0e7",
+  "n87190da7f1",
   "n1530aaa692",
-  "ne4c6624cb2",
-  "n0376b34b60",
-  "n3abfbebcbd",
-  "nd770ee5f64"
+  "na3c4b0fafd",
+  "n75573afb0b",
+  "ne4c6624cb2"
  ],
  "ranked": [
   {
-   "id": "n14178ba5db",
-   "s": 37.7
-  },
-  {
-   "id": "n53a37f4308",
-   "s": 37.0
+   "id": "nf87462024a",
+   "s": 40.7
   },
   {
    "id": "na01cfbb3ca",
-   "s": 33.0
+   "s": 31.7
   },
   {
    "id": "n0a5532f9de",
-   "s": 27.7
+   "s": 26.3
+  },
+  {
+   "id": "nf9f53ae0e7",
+   "s": 23.0
+  },
+  {
+   "id": "n87190da7f1",
+   "s": 23.0
   },
   {
    "id": "n1530aaa692",
-   "s": 24.2
+   "s": 22.9
+  },
+  {
+   "id": "na3c4b0fafd",
+   "s": 22.8
+  },
+  {
+   "id": "n75573afb0b",
+   "s": 22.6
   },
   {
    "id": "ne4c6624cb2",
-   "s": 23.4
-  },
-  {
-   "id": "n0376b34b60",
-   "s": 23.0
-  },
-  {
-   "id": "n3abfbebcbd",
-   "s": 23.0
-  },
-  {
-   "id": "nd770ee5f64",
-   "s": 17.6
+   "s": 22.1
   }
  ],
  "items": [
+  {
+   "id": "n84c7c699a8",
+   "topic": "ki",
+   "title": "Google stellt Agent Compute Engine vor: eigene Rechenumgebung für KI-Agenten",
+   "text": "Google stellt mit Agent Compute Engine eine speziell für KI-Agenten entwickelte Laufzeitumgebung vor und erweitert zugleich die Governance-Funktionen, mit denen Unternehmen Agenten in Cloud-, Hybrid- und lokalen Umgebungen kontrollieren können. Der Artikel Google stellt Agent Compute Engine vor: eigene Rechenumgebung …",
+   "link": "https://the-decoder.de/google-stellt-agent-compute-engine-vor-eigene-rechenumgebung-fuer-ki-agenten/",
+   "published": "2026-10-22T17:10:09+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-29T17:10:09+00:00"
+  },
+  {
+   "id": "naa68134264",
+   "topic": "politik",
+   "title": "Finanzen - Steuerschätzer erwarten zusätzliche Milliarden-Einnahmen, Klingbeil sieht trotzdem \"keine neuen Spielräume\"",
+   "text": "Der Bund kann im kommenden Jahr mit höheren Steuereinnahmen rechnen. Wie das Bundesfinanzministerium mitteilte, geht die neue Steuerschätzung für 2027 von zusätzlichen Einnahmen von 4,1 Milliarden Euro aus. Bundesfinanzminister Klingbeil erklärte, er sehe trotzdem \"keine neuen Spielräume\" im Haushalt und verwies …",
+   "link": "https://www.deutschlandfunk.de/steuerschaetzer-erwarten-zusaetzliche-milliarden-einnahmen-klingbeil-sieht-trotzdem-keine-neuen-spie-100.html",
+   "published": "2026-10-22T17:06:17+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-24T17:06:17+00:00",
+   "img": "https://bilder.deutschlandfunk.de/a4/3f/75/dd/a43f75dd-9307-489b-9fd1-91278c2516db/finanzminister-klingbeil-steuerschaetzung-100-1920x1920.jpg"
+  },
+  {
+   "id": "nf9f53ae0e7",
+   "topic": "politik",
+   "title": "Ministerpräsidenten-Konferenz - Länder dringen auf Spritpreisdeckel zum 1. Januar",
+   "text": "Die Länder haben die Bundesregierung aufgefordert, einen Vorschlag für eine Deckelung der Spritpreise vorzulegen.",
+   "link": "https://www.deutschlandfunk.de/laender-dringen-auf-spritpreisdeckel-zum-1-januar-102.html",
+   "published": "2026-10-22T17:06:17+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-24T17:06:17+00:00",
+   "img": "https://bilder.deutschlandfunk.de/7b/c7/55/7e/7bc7557e-5d3d-4121-a46d-9e03867d228b/lies-100-1920x1920.jpg"
+  },
+  {
+   "id": "nf8d63198a0",
+   "topic": "politik",
+   "title": "Parteien - \"Extremismusklausel\" im Länderfinanzausgleich: Baden-Württemberg grundsätzlich offen",
+   "text": "Nach der Forderung des bayerischen Ministerpräsidenten Söder, eine sogenannte \"Extremismusklausel\" im Länderfinanzausgleich einzuführen, hat sich Baden-Württembergs Landesregierung grundsätzlich offen dafür gezeigt. Regierungschef Özdemir betonte allerdings, man wolle das nicht von der Parteifarbe eines …",
+   "link": "https://www.deutschlandfunk.de/extremismusklausel-im-laenderfinanzausgleich-baden-wuerttemberg-grundsaetzlich-offen-100.html",
+   "published": "2026-10-22T17:06:17+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-24T17:06:17+00:00",
+   "img": "https://bilder.deutschlandfunk.de/c3/d5/cd/ea/c3d5cdea-4268-47a5-a013-d0a1f0a000c7/oezdemir-112-1920x1920.jpg"
+  },
+  {
+   "id": "n41d69f2a79",
+   "topic": "politik",
+   "title": "Nach Krawallen - Frankreich genehmigt am Samstag nur von Gewerkschaften angemeldete Demonstrationen - alle Proteste in Marseille untersagt",
+   "text": "Nach den Ausschreitungen bei den Protesten in Frankreich hat Präsident Macron Einschränkungen für weitere Demonstrationen angekündigt.",
+   "link": "https://www.deutschlandfunk.de/frankreich-genehmigt-am-samstag-nur-von-gewerkschaften-angemeldete-demonstrationen-alle-proteste-in--100.html",
+   "published": "2026-10-22T17:06:17+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-24T17:06:17+00:00"
+  },
+  {
+   "id": "n87190da7f1",
+   "topic": "politik",
+   "title": "Energie - Europaparlament stimmt dafür, die Verschärfung der Klimaregeln für Methan zu verschieben",
+   "text": "Das Europaparlament hat sich dafür ausgesprochen, die verschärften Klimaschutzregeln für Methan-Emissionen im Energiesektor zu verschieben.",
+   "link": "https://www.deutschlandfunk.de/europaparlament-stimmt-dafuer-die-verschaerfung-der-klimaregeln-fuer-methan-zu-verschieben-100.html",
+   "published": "2026-10-22T17:06:17+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-24T17:06:17+00:00",
+   "img": "https://bilder.deutschlandfunk.de/ec/5d/30/88/ec5d3088-2326-4ff5-8667-4ab65134737a/oel-gas-methan-verordnung-100-1920x1920.jpg"
+  },
+  {
+   "id": "n18d05e442c",
+   "topic": "politik",
+   "title": "Bundesamt für Sicherheit in der Informationstechnik - BSI stellt bislang keine Angriffe durch PHP-Sicherheitslücke fest",
+   "text": "Das Bundesamt für Sicherheit in der Informationstechnik hat bislang keine Fälle festgestellt, in denen die Sicherheitslücke in der Programmiersprache PHP ausgenutzt wurde. Die Behörde erklärte, dennoch könnten erfolgreiche Angriffe derzeit nicht ausgeschlossen werden.",
+   "link": "https://www.deutschlandfunk.de/bsi-stellt-bislang-keine-angriffe-durch-php-sicherheitsluecke-fest-100.html",
+   "published": "2026-10-22T17:06:17+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-24T17:06:17+00:00",
+   "img": "https://bilder.deutschlandfunk.de/2a/56/d1/1f/2a56d11f-4f49-46e5-a818-54d08d7874c2/it-lagezentrum-100-1920x1920.jpg"
+  },
+  {
+   "id": "n00f666ccc8",
+   "topic": "wissenschaft",
+   "title": "Studie zur Zukunft der Medien: Bis 2035 könnte jeder zweite Journalist wegfallen",
+   "text": "Künstliche Intelligenz und große Tech-Konzerne verändern die Medienlandschaft. Eine neue Studie skizziert, wie stark Medien bis 2035 unter Druck geraten könnten.",
+   "link": "https://www.spektrum.de/news/ki-beeinflusst-zukunft-der-medien/2350909",
+   "published": "2026-10-22T17:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-05T17:00:00+00:00"
+  },
+  {
+   "id": "n98c9c8da4a",
+   "topic": "nfl",
+   "title": "Analyzing J.J. McCarthy's initial Giants performance and possible impact against Texans",
+   "text": "The Giants are turning to quarterback J.J. McCarthy, who will get the start in Week 7 against the Texans.",
+   "link": "https://sports.yahoo.com/articles/analyzing-j-j-mccarthys-initial-170000436.html",
+   "published": "2026-10-22T17:00:00+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-27T17:00:00+00:00",
+   "img": "https://media.zenfs.com/en/sny_articles_235/4d9051149144578075d06c90acc799f4.jpg"
+  },
+  {
+   "id": "n1919c748ba",
+   "topic": "it",
+   "title": "OpenAI-Agenten unterdrückten aktiv Sicherheitswarnungen",
+   "text": "Zwei OpenAI-Agenten haben aktiv Sicherheitswarnungen unterdrückt. Es wird geprüft, ob dies aus Missverständnis oder Absicht geschah.",
+   "link": "https://www.heise.de/news/OpenAI-Agenten-unterdrueckten-aktiv-Sicherheitswarnungen-11496302.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-22T16:49:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-27T16:49:00+00:00"
+  },
+  {
+   "id": "n033edde081",
+   "topic": "politik",
+   "title": "Krisengemeinde Löhnberg verkalkuliert sich um 300.000 Euro",
+   "text": "In der finanziell angeschlagenen Gemeinde Löhnberg ist erneut ein Loch im Haushalt aufgetaucht. Nach aktuellen Berechnungen stehen der Kommune im laufenden Jahr voraussichtlich rund 300.000 Euro weniger zur Verfügung als bislang erwartet.",
+   "link": "https://www.hessenschau.de/politik/krisengemeinde-loehnberg-verkalkuliert-sich-um-300000-euro-v1,loehnberg-haushalt-100.html",
+   "published": "2026-10-22T16:45:34+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-26T16:45:34+00:00",
+   "img": "https://www.hessenschau.de/politik/loehnberg-116~_t-1779963541951_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "n26ce199ae8",
+   "topic": "nfl",
+   "title": "Week 7 lineup questions? Fantasy Football Live has you covered on Sunday morning with last-minute start/sit advice",
+   "text": "Fantasy Football Live returns on Sunday morning with 2.5 hours of top-notch advice to get your lineup set for Week 7.",
+   "link": "https://sports.yahoo.com/fantasy/article/week-7-lineup-questions-fantasy-football-live-has-you-covered-on-sunday-morning-with-last-minute-startsit-advice-164128157.html",
+   "published": "2026-10-22T16:41:28+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-27T16:41:28+00:00"
+  },
+  {
+   "id": "ne183889333",
+   "topic": "wirtschaft",
+   "title": "Marktbericht: DAX fällt wieder zurück",
+   "text": "Der DAX hat bei volatilem Handel einen Teil seiner Gewinne vom Vortag wieder abgegeben. Er folgte einer schwachen Wall Street. Es waren mal wieder Nachrichten aus dem US-Tech-Sektor, die die Kurse bewegten.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-tesla-meta-sap-100.html",
+   "published": "2026-10-22T16:36:57+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-25T16:36:57+00:00",
+   "img": "https://images.tagesschau.de/image/56ba2f02-9500-4623-aa7c-ba298b6d9d91/AAABkeAoNJ4/AAABnSSvrFg/16x9-big/boerse-370.jpg?width=1920"
+  },
+  {
+   "id": "na3c4b0fafd",
+   "topic": "welt",
+   "title": "Bevölkerungsschutz: Wie Schweden für den Ernstfall vorsorgt",
+   "text": "Kriege, Extremwetter, Terror: Schweden bereitet seine Bevölkerung auf den möglichen Ernstfall vor - etwa mit einer Broschüre und Übungen. Denn klar ist auch: Im Fall der Fälle müssen die Menschen erstmal alleine klarkommen. Von Jana Sinram.",
+   "link": "https://www.tagesschau.de/ausland/schweden-bevoelkerungsschutz-100.html",
+   "published": "2026-10-22T16:35:29+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-25T16:35:29+00:00",
+   "img": "https://images.tagesschau.de/image/a78bbff3-3255-481e-83a6-3d585b1bc360/AAABoWRDGqo/AAABnSSvrFg/16x9-big/bunker-schweden-100.jpg?width=1920"
+  },
+  {
+   "id": "n0f4fc1c4dd",
+   "topic": "nfl",
+   "title": "Should Vikings trade for Justin Herbert? Making the case for and against potential blockbuster deal",
+   "text": "Minnesota has a championship-level defense, but the offense could use a spark",
+   "link": "https://www.cbssports.com/nfl/news/should-vikings-trade-for-justin-herbert-chargers/",
+   "published": "2026-10-22T16:24:41+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-27T16:24:41+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/21/ce0d27b8-28e6-43e4-860a-324deaecf64c/herbert.jpg"
+  },
+  {
+   "id": "ndb8444e707",
+   "topic": "ki",
+   "title": "Gartner-Umfrage: Nur 13 Prozent der Unternehmen ziehen echten Geschäftswert aus KI-Investitionen",
+   "text": "Nur 13 Prozent der Unternehmen ziehen laut einer Gartner-Umfrage unter 2.002 CIOs echten Geschäftswert aus ihren KI-Investitionen. Gleichzeitig erwarten 51 Prozent, dass KI die Betriebskosten sogar erhöht. Trotzdem planen 75 Prozent der CEOs, ihre Technologieausgaben weiter zu steigern: strategische Überzeugung …",
+   "link": "https://the-decoder.de/gartner-umfrage-nur-13-prozent-der-unternehmen-ziehen-echten-geschaeftswert-aus-ki-investitionen/",
+   "published": "2026-10-22T16:10:27+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-29T16:10:27+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/ai_value.png"
+  },
+  {
+   "id": "n8d17c72e8b",
+   "topic": "nfl",
+   "title": "Pick Six: Patriots-Bears predictions for Thursday night, plus NFL Week 7 picks and possible upsets",
+   "text": "Here's everything you need to know about the NFL for Oct. 22",
+   "link": "https://www.cbssports.com/nfl/news/pick-six-patriots-bears-predictions-plus-nfl-week-7-picks-upsets/",
+   "published": "2026-10-22T16:02:06+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-27T16:02:06+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/22/8423955e-3d51-446d-b9cc-c8085eab4079/maye-williams.jpg"
+  },
+  {
+   "id": "nef78f7fdd6",
+   "topic": "it",
+   "title": "(g+) Streaming: Netflix' 300-Milliarden-Dollar-Problem",
+   "text": "Netflix gibt Milliarden für Inhalte aus, doch die großen Hits bleiben aus. Die Financial Times zeigt in unserer Leseempfehlung, wie tief die Krise reicht. Von Anna Nicolaou ( Netflix , Disney )",
+   "link": "https://www.golem.de/news/streaming-netflix-300-milliarden-dollar-problem-2610-214364.html",
+   "published": "2026-10-22T16:00:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-27T16:00:02+00:00",
+   "img": "https://www.golem.de/2610/214364-604782-604780_rc.jpg"
+  },
+  {
+   "id": "na17ed77f52",
+   "topic": "it",
+   "title": "IT-Sicherheit: BSI-Präsidentin droht KI-Anbietern in den USA und in China mit Haftung",
+   "text": "BSI-Präsidentin Claudia Plattner wünscht sich ein schärferes Vorgehen gegen die Sicherheitsrisiken durch KI. Sie kritisiert einen unzureichenden, laxen Umgang mit IT-Sicherheit. ( BSI , KI )",
+   "link": "https://www.golem.de/news/it-sicherheit-bsi-praesidentin-droht-ki-anbietern-in-den-usa-und-in-china-mit-haftung-2610-214412.html",
+   "published": "2026-10-22T15:59:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-27T15:59:02+00:00",
+   "img": "https://www.golem.de/2610/214412-604799-604797_rc.jpg"
+  },
+  {
+   "id": "nef11fccca6",
+   "topic": "politik",
+   "title": "Steuerschätzung 2027: Mehr Geld, aber \"keine neuen Spielräume\"",
+   "text": "Trotz aktueller Krisen kann der Bund im kommenden Jahr mit mehr Steuereinnahmen rechnen als zunächst erwartet. Dennoch rechnet Finanzminister Klingbeil nicht mit mehr Spielräumen für den Haushalt.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/steuerschaetzung-bund-klingbeil-100.html",
+   "published": "2026-10-22T15:54:20+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-25T15:54:20+00:00",
+   "img": "https://images.tagesschau.de/image/4de88358-2633-4e3d-b591-e7e0549dbc4d/AAABoWO2yS8/AAABnSSvrFg/16x9-big/klingbeil-450.jpg?width=1920"
+  },
+  {
+   "id": "n3cc53bc53b",
+   "topic": "it",
+   "title": "Passwortmanager ohne Cloud-Zwang: Update für KeePassXC",
+   "text": "KeePassXC 2.8.0 schließt Sicherheitslücken, unterstützt Auto-Type unter Wayland und ermöglicht den Datenbankabgleich über externe Programme.",
+   "link": "https://www.heise.de/news/Passwortmanager-ohne-Cloud-Zwang-Update-fuer-KeePassXC-11497220.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-22T15:40:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-27T15:40:00+00:00"
+  },
+  {
+   "id": "n75573afb0b",
+   "topic": "welt",
+   "title": "Gipfel des Berliner Prozesses mit Kanzler Merz in Montenegro: Für ein Land könnte der angestrebte Beitritt in die EU bald Wirklichkeit werden",
+   "text": "Mit dem \"Berliner Prozess\" sollen die sechs westlichen Balkan-Staaten an die EU-Mitgliedschaft herangeführt werden. Eine Garantie gibt es nicht. Wie weit ist man nach zwölf Jahren gekommen?",
+   "link": "https://www.dw.com/de/gipfel-des-berliner-prozesses-mit-kanzler-merz-in-montenegro-für-ein-land-könnte-der-angestrebte-beitritt-in-die-eu-bald-wirklichkeit-werden/a-79726652?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-22T15:33:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-26T15:33:00+00:00",
+   "img": "https://static.dw.com/image/79731254_302.jpg"
+  },
+  {
+   "id": "nde106293cf",
+   "topic": "wissenschaft",
+   "title": "Bye, bye Photoshop, Word und Co?: KI stellt die Softwarewelt auf den Kopf",
+   "text": "Mit Sprachmodellen lassen sich teure Programme nachbauen. Die Macht der Tech-Konzernen könnte damit wackeln, während die digitale Welt in fehlerhaften KI-Kopien versinkt.",
+   "link": "https://www.spektrum.de/news/ki-kopiert-kommerzielle-software-wie-spiele-photoshop-oder-word/2350978",
+   "published": "2026-10-22T15:30:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-05T15:30:00+00:00"
+  },
+  {
+   "id": "n8609418a60",
+   "topic": "it",
+   "title": "heise+ | Nabenmotor von Bosch debütiert: So schlägt sich das Gazelle Curb im Alltag",
+   "text": "Das Gazelle Curb ist eines der ersten E-Bikes mit Boschs Nabenmotor. Es ist alltagstauglich ausgestattet und erschwinglich – das perfekte City-E-Bike?",
+   "link": "https://www.heise.de/tests/Nabenmotor-von-Bosch-debuetiert-So-schlaegt-sich-das-Gazelle-Curb-im-Alltag-11366478.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+   "published": "2026-10-22T15:30:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-27T15:30:00+00:00"
+  },
+  {
+   "id": "n7efda53efc",
+   "topic": "wissenschaft",
+   "title": "UN-Artenschutzkonferenz - Wie effektiv sind Schutzgebiete?",
+   "text": "30 Prozent der Erde sollen bis 2030 unter Naturschutz stehen. Dazu haben sich die Staaten der UN-Artenschutzkonferenz verpflichtet. Schon jetzt zeigen einige Konzepte Erfolge - aber Kosten und Aufwand sind hoch. Von Jenny von Sperber.",
+   "link": "https://www.tagesschau.de/wissen/tiere/un-artenschutzkonferenz-armenien-100.html",
+   "published": "2026-10-22T15:02:41+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-05T15:02:41+00:00",
+   "img": "https://images.tagesschau.de/image/bb53808f-d9cd-4a59-9755-6c41f2df4189/AAABoWQSJEM/AAABnSSvrFg/16x9-big/kegelrobben-124.jpg?width=1920"
+  },
+  {
+   "id": "n3b276467be",
+   "topic": "welt",
+   "title": "Merz zu Russland: \"Angriff auf gesamte politische Ordnung\"",
+   "text": "US-Präsident Trump rechnet mit einem baldigen Ende des Ukraine-Kriegs. Jüngst traf sein Unterhändler Witkoff Russlands Präsident Putin. Kanzler Merz dagegen bezeichnet die Bedrohung durch Moskau als seine größte Sorge.",
+   "link": "https://www.dw.com/de/merz-zu-russland-angriff-auf-gesamte-politische-ordnung/a-79730164?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-22T14:34:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-26T14:34:00+00:00",
+   "img": "https://static.dw.com/image/79722267_302.jpg"
+  },
+  {
+   "id": "n53c0c521ae",
+   "topic": "ki",
+   "title": "Recursive zeigt mit Flint erstes Ergebnis seines KI-gestützten Forschungsprozesses",
+   "text": "Das KI-Start-up Recursive zeigt mit Flint sein erstes Sprachmodell, ein von Ex-Deepmind-Forschern entwickeltes 40-Milliarden-Parameter-MoE für lokales Coding. Entstanden ist es in vier Monaten mithilfe des hauseigenen KI-Systems \"Eureka Machine\", das eigenständig Architekturen testet und optimiert. Ob der Ansatz …",
+   "link": "https://the-decoder.de/recursive-zeigt-mit-flint-erstes-ergebnis-seines-ki-gestuetzten-forschungsprozesses/",
+   "published": "2026-10-22T14:29:16+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-29T14:29:16+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/recursive-flint-header.jpg"
+  },
+  {
+   "id": "n992c066433",
+   "topic": "wissenschaft",
+   "title": "Assistierter Suizid: Selbstbestimmt Sterben",
+   "text": "In Deutschland darf man sich bei einem Suizid helfen lassen. Das gilt – unter bestimmten Voraussetzungen – auch für psychisch Kranke.",
+   "link": "https://www.spektrum.de/news/sterbehilfe-voraussetzungen-fuer-assistierten-suizid/2154006",
+   "published": "2026-10-22T14:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-05T14:00:00+00:00"
+  },
+  {
+   "id": "n60d62f74cd",
+   "topic": "wirtschaft",
+   "title": "PHP-Bedrohung: Was über die Sicherheitslücke bekannt ist",
+   "text": "Experten warnen vor einer schwerwiegenden Sicherheitslücke bei Webseiten. Betroffen ist die weitverbreitete Programmiersprache PHP. Was bedeutet das für Internetnutzer? Wie gravierend sind die Probleme?",
+   "link": "https://www.tagesschau.de/wirtschaft/digitales/php-panne-100.html",
+   "published": "2026-10-22T13:41:31+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-25T13:41:31+00:00",
+   "img": "https://images.tagesschau.de/image/b06dd999-45e4-4be9-9c1c-c4d687d4df01/AAABoV8VI4k/AAABnSSvrFg/16x9-big/lan-netzwerkkabel-100.jpg?width=1920"
+  },
+  {
+   "id": "n0f830006d6",
+   "topic": "politik",
+   "title": "Ausschluss einiger Länder vom Finanzausgleich - ginge das?",
+   "text": "Markus Söder will Bundesländer mit \"extremistischer\" Regierungsbeteiligung vom Länderfinanzausgleich ausschließen - und schaut dabei nach Berlin und Sachsen-Anhalt. Aber ginge das überhaupt? Von Frank Aischmann.",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/extremismusklausel-laenderfinanzausgleich-soeder-100.html",
+   "published": "2026-10-22T13:27:40+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-25T13:27:40+00:00",
+   "img": "https://images.tagesschau.de/image/85176c17-bb2b-4854-b0b7-9f6390e8f272/AAABoWPLv5Y/AAABnSSvrFg/16x9-big/soeder-924.jpg?width=1920"
+  },
+  {
+   "id": "n78aca18869",
+   "topic": "wirtschaft",
+   "title": "Welche wirtschaftlichen Folgen die PHP-Sicherheitslücke haben könnte",
+   "text": "Die PHP-Sicherheitslücke betrifft auch zahlreiche Unternehmen und deren Websites. Auch in Deutschland. Was das für die Wirtschaft bedeutet, erklärt IT-Sicherheitsexperte Thorsten Holz.",
+   "link": "https://www.tagesschau.de/wirtschaft/digitales/interview-php-sicherheitsluecke-folgen-unternehmen-verbraucher-100.html",
+   "published": "2026-10-22T12:02:43+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-25T12:02:43+00:00",
+   "img": "https://images.tagesschau.de/image/7f1ad8ea-4bd2-4eea-aa41-32a199b21470/AAABoWNd0sM/AAABnSSvrFg/16x9-big/programmierer-php-100.jpg?width=1920"
+  },
   {
    "id": "na01cfbb3ca",
    "topic": "politik",
@@ -80,8 +475,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-24T11:47:35+00:00",
-   "img": "https://bilder.deutschlandfunk.de/2b/7e/bf/2b/2b7ebf2b-66dd-44b8-be6d-8818fae16d8a/paris-120-1920x1920.jpg"
+   "expires": "2026-10-24T11:47:35+00:00"
   },
   {
    "id": "n6b1d4c94e9",
@@ -256,6 +650,19 @@
    "lang": "de",
    "expires": "2026-10-25T11:09:07+00:00",
    "img": "https://images.tagesschau.de/image/d20295c4-dfe1-449c-a0af-5effc46bb952/AAABoWKliPY/AAABnSSvrFg/16x9-big/frau-smartphone-114.jpg?width=1920"
+  },
+  {
+   "id": "ne91f54f87a",
+   "topic": "welt",
+   "title": "Ungarn gedenkt Revolution von 1956 und rechnet mit Orban ab",
+   "text": "Vor 70 Jahren schlug die Sowjetunion Ungarns Revolution blutig nieder. Die unter Orban grotesk verdrehte Geschichte will der neue Premier Peter Magyar zurechtrücken - und so mit Orbans korrupter Autokratie abrechnen.",
+   "link": "https://www.dw.com/de/ungarn-gedenkt-revolution-von-1956-und-rechnet-mit-orban-ab/a-79724536?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-22T11:03:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-26T11:03:00+00:00",
+   "img": "https://static.dw.com/image/79714503_302.jpg"
   },
   {
    "id": "n8fa9d2b262",
@@ -493,32 +900,6 @@
    "img": "https://images.tagesschau.de/image/f1d9d859-2acd-4e80-a5a2-dfbcfae162e5/AAABoWLgCWk/AAABnSSvrFg/16x9-big/ahornsirup-102.jpg?width=1920"
   },
   {
-   "id": "ne183889333",
-   "topic": "wirtschaft",
-   "title": "Marktbericht: Anleger zweifeln an KI-Rally",
-   "text": "Trotz starker SAP-Zahlen gibt der DAX im frühen Handel deutlich nach. Die Bilanzen von Meta und Tesla erfüllen die hohen Erwartungen der Anleger nicht, die Schwäche bei den Technologie-Werten setzt sich fort.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-tesla-meta-sap-100.html",
-   "published": "2026-10-22T08:39:51+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-25T08:39:51+00:00",
-   "img": "https://images.tagesschau.de/image/3270f35e-94f0-4240-aca1-d48eeae66ca3/AAABmjPoS5c/AAABnSSvrFg/16x9-big/dax-185.jpg?width=1920"
-  },
-  {
-   "id": "n60d62f74cd",
-   "topic": "wirtschaft",
-   "title": "PHP-Bedrohung: Was über die Sicherheitslücke bekannt ist",
-   "text": "Experten warnen vor einer schwerwiegenden Sicherheitslücke bei Webseiten. Betroffen ist die weitverbreitete Programmiersprache PHP. Was bedeutet das für Internetnutzer? Wie gravierend sind die Probleme?",
-   "link": "https://www.tagesschau.de/wirtschaft/digitales/php-panne-100.html",
-   "published": "2026-10-22T08:20:29+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-25T08:20:29+00:00",
-   "img": "https://images.tagesschau.de/image/b06dd999-45e4-4be9-9c1c-c4d687d4df01/AAABoV8VI4k/AAABnSSvrFg/16x9-big/lan-netzwerkkabel-100.jpg?width=1920"
-  },
-  {
    "id": "n5542460e7b",
    "topic": "ki",
    "title": "Anthropic schickt proaktiven Dauer-Agenten \"Claude Duet\" gegen Grok Bots, Meta Muse und OpenAIs Dots ins Rennen",
@@ -645,19 +1026,7 @@
    "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
    "lang": "de",
    "expires": "2026-10-26T04:29:00+00:00",
-   "img": "https://static.dw.com/image/75460805_302.jpg",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Pendeldiplomatie - Russland zu Verhandlungen mit der Ukraine und den USA bereit, Selenskyj schlägt Einfrieren der Frontlinie vor",
-     "link": "https://www.deutschlandfunk.de/russland-zu-verhandlungen-mit-der-ukraine-und-den-usa-bereit-selenskyj-schlaegt-einfrieren-der-front-102.html"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Ukraine-Krieg: Putin schlägt Treffen mit Trump und Xi vor",
-     "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-106.html"
-    }
-   ]
+   "img": "https://static.dw.com/image/75460805_302.jpg"
   },
   {
    "id": "nc210d36744",
@@ -739,19 +1108,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-24T04:06:13+00:00",
-   "img": "https://bilder.deutschlandfunk.de/2a/af/41/10/2aaf4110-518e-4ab6-a00e-da4bfd18cdfe/putin-witkoff-russland-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Ukraine-Krieg trifft den zivilen Flugverkehr in Russland",
-     "link": "https://www.dw.com/de/ukraine-krieg-trifft-den-zivilen-flugverkehr-in-russland/a-79724364?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Ukraine-Krieg: Putin schlägt Treffen mit Trump und Xi vor",
-     "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-106.html"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/2a/af/41/10/2aaf4110-518e-4ab6-a00e-da4bfd18cdfe/putin-witkoff-russland-100-1920x1920.jpg"
   },
   {
    "id": "n3fd844535c",
@@ -936,19 +1293,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-23T21:39:26+00:00",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Ukraine-Krieg trifft den zivilen Flugverkehr in Russland",
-     "link": "https://www.dw.com/de/ukraine-krieg-trifft-den-zivilen-flugverkehr-in-russland/a-79724364?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Ukraine-Krieg: Putin schlägt Treffen mit Trump und Xi vor",
-     "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-106.html"
-    }
-   ]
+   "expires": "2026-10-23T21:39:26+00:00"
   },
   {
    "id": "naddd24e014",
@@ -1310,19 +1655,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-23T17:03:13+00:00",
-   "img": "https://bilder.deutschlandfunk.de/7c/32/d6/db/7c32d6db-e6bb-45bf-a805-de86f69ebce0/selenskyj-praesident-kiew-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Ukraine-Krieg trifft den zivilen Flugverkehr in Russland",
-     "link": "https://www.dw.com/de/ukraine-krieg-trifft-den-zivilen-flugverkehr-in-russland/a-79724364?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Ukraine-Krieg: Putin schlägt Treffen mit Trump und Xi vor",
-     "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-106.html"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/7c/32/d6/db/7c32d6db-e6bb-45bf-a805-de86f69ebce0/selenskyj-praesident-kiew-100-1920x1920.jpg"
   },
   {
    "id": "n106b8d9cfe",
@@ -1354,426 +1687,6 @@
      "source": "Tagesschau",
      "title": "Programmiersprache PHP: Sicherheitslücke bedroht weltweit Webseiten",
      "link": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n56a787773e",
-   "topic": "politik",
-   "title": "Ukraine-Krieg - Russland zu Verhandlungen mit der Ukraine und den USA bereit",
-   "text": "Der russische Präsident Putin hat einer Wiederaufnahme von trilateralen Gesprächen mit der Ukraine und den USA grundsätzlich zugestimmt. Die Verhandlungen könnten nach dem 10. November beginnen, sagte Putins außenpolitischer Berater Uschakow in Sankt Petersburg.",
-   "link": "https://www.deutschlandfunk.de/russland-zu-verhandlungen-mit-der-ukraine-und-den-usa-bereit-100.html",
-   "published": "2026-10-21T17:03:13+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-23T17:03:13+00:00",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Ukraine-Krieg trifft den zivilen Flugverkehr in Russland",
-     "link": "https://www.dw.com/de/ukraine-krieg-trifft-den-zivilen-flugverkehr-in-russland/a-79724364?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Ukraine-Krieg: Putin schlägt Treffen mit Trump und Xi vor",
-     "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-106.html"
-    }
-   ]
-  },
-  {
-   "id": "n819d26ea81",
-   "topic": "politik",
-   "title": "Verkehrsministerkonferenz - Verkehrsminister vertagen Debatte über flexibles Deutschlandticket für Gelegenheitsfahrer",
-   "text": "Ein flexibles Deutschlandticket für Gelegenheitsfahrer im Öffentlichen Nahverkehr kommt vorerst nicht.",
-   "link": "https://www.deutschlandfunk.de/verkehrsminister-vertagen-debatte-ueber-flexibles-deutschlandticket-fuer-gelegenheitsfahrer-100.html",
-   "published": "2026-10-21T17:03:13+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-23T17:03:13+00:00",
-   "img": "https://bilder.deutschlandfunk.de/b8/5b/7a/2c/b85b7a2c-2129-46d2-aeaf-e75279baac26/deutschlandticket-preis-2026-oepnv-nahverkehr-bahn-100-1920x1920.jpg"
-  },
-  {
-   "id": "ne0de0e5d88",
-   "topic": "nfl",
-   "title": "5 things about the Rams",
-   "text": "Disappointing 2-4 Rams coming to Las Vegas in Week 7",
-   "link": "https://sports.yahoo.com/articles/5-things-rams-170100647.html",
-   "published": "2026-10-21T17:01:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-26T17:01:00+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/435bbd00df5478889532f5bdc40f5dbb.jpg"
-  },
-  {
-   "id": "nd838ecec2a",
-   "topic": "politik",
-   "title": "Polizei und Behörden beobachten Demo-Aufrufe für den 31. Oktober",
-   "text": "Auch in Deutschland ruft eine Initiative junge Menschen zu Protesten auf. Am 31. Oktober soll es bundesweit Demonstrationen geben. Polizei und Behörden beobachten die Lage und tauschen sich mit Frankreich und Italien aus.",
-   "link": "https://www.tagesschau.de/inland/aufruf-demos-sicherheitsbehoerden-100.html",
-   "published": "2026-10-21T16:57:53+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-24T16:57:53+00:00",
-   "img": "https://images.tagesschau.de/image/bcc10604-33b9-4f65-9f2f-c208c36ab3c2/AAABoV81fx8/AAABnSSvrFg/16x9-big/polizisten-162.jpg?width=1920"
-  },
-  {
-   "id": "n123fdf3842",
-   "topic": "nfl",
-   "title": "Eagles will not be punished for how team handled Jalen Hurts' blood clots situation, NFLPA responds",
-   "text": "The NFL concluded the process to clear Hurts for Week 5 in London was handled appropriately",
-   "link": "https://www.cbssports.com/nfl/news/eagles-will-not-be-punished-jalen-hurts-blood-clots-situation/",
-   "published": "2026-10-21T16:51:24+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-26T16:51:24+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/20/129265bc-42b7-4899-ab91-91faf18f0b91/hurts.jpg"
-  },
-  {
-   "id": "naa4efc7d1e",
-   "topic": "ki",
-   "title": "Deepmind-Gründer Hassabis rechnet jetzt schon in zwei bis drei Jahren mit künstlicher allgemeiner Intelligenz",
-   "text": "Demis Hassabis verkürzt seine AGI-Prognose erneut: Der Nobelpreisträger und frühere Google-Deepmind-Chef rechnet nun mit künstlicher allgemeiner Intelligenz in zwei bis drei Jahren. Anfang 2025 waren es noch drei bis fünf. Der Artikel Deepmind-Gründer Hassabis rechnet jetzt schon in zwei bis drei Jahren mit …",
-   "link": "https://the-decoder.de/deepmind-gruender-hassabis-rechnet-jetzt-schon-in-zwei-bis-drei-jahren-mit-kuenstlicher-allgemeiner-intelligenz/",
-   "published": "2026-10-21T16:50:46+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-28T16:50:46+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/07/deepmind_hassabis.png"
-  },
-  {
-   "id": "n2864266f5b",
-   "topic": "nfl",
-   "title": "NFL trade deadline: 5 players we'd like to see get a change of scenery, including Jonathan Taylor",
-   "text": "These blockbuster moves probably will not happen, but stars like Jonathan Taylor and Jeffery Simmons deserve a chance to play for true contenders",
-   "link": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-5-players-in-need-of-change-of-scenery-jonathan-taylor/",
-   "published": "2026-10-21T16:41:01+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-26T16:41:01+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/19/92446c92-5cca-4ac6-8fea-2882bdb5a433/jon.jpg"
-  },
-  {
-   "id": "n29ae3bb8a9",
-   "topic": "wissenschaft",
-   "title": "Erde steuert laut Bericht des UN-Umweltprogramms auf 2,8 Grad Erwärmung zu",
-   "text": "Erde steuert laut Bericht des UN-Umweltprogramms auf 2,8 Grad Erwärmung zu",
-   "link": "https://www.tagesschau.de/video/video-1670158.html",
-   "published": "2026-10-21T15:46:53+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-04T15:46:53+00:00",
-   "img": "https://images.tagesschau.de/image/766bd3d8-b242-4511-a4ed-7ff1b248dfc6/AAABoV8kups/AAABnSSvrFg/16x9-big/sendungsbild-1815186.jpg?width=1920"
-  },
-  {
-   "id": "n6e45f239cf",
-   "topic": "it",
-   "title": "Node.js-Update bessert hochriskante Lücken aus",
-   "text": "Neue Versionen für Node.js 22.x, 24.x und 26.x fixen hochriskante Sicherheitslücken und schützen vor kompromittierten Zertifikaten von eMudhra.",
-   "link": "https://www.heise.de/news/Node-js-fixt-eigene-und-geerbte-Sicherheitsluecken-11495996.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-21T15:37:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-26T15:37:00+00:00"
-  },
-  {
-   "id": "ndd5d134778",
-   "topic": "it",
-   "title": "heise+ | Fototour durch St. Gallen: Barock, Kunst und Natur entdecken",
-   "text": "Vom UNESCO-Welterbe Stiftsbibliothek bis zur roten Stadtlounge: St. Gallen bietet Fotografen eine ungewöhnliche Vielfalt an Motiven.",
-   "link": "https://www.heise.de/ratgeber/Fototour-durch-St-Gallen-Barock-Kunst-und-Natur-entdecken-11492085.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-   "published": "2026-10-21T15:30:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-26T15:30:00+00:00"
-  },
-  {
-   "id": "n698a9de0ae",
-   "topic": "it",
-   "title": "iPhone Duo: Reachability soll nachgeliefert werden",
-   "text": "Apple will laut Wired die Einhandhilfe Reachability für das iPhone Duo per Softwareupdate nachliefern – möglicherweise auch für seitliche Bildschirmränder.",
-   "link": "https://www.heise.de/news/iPhone-Duo-Reachability-soll-nachgeliefert-werden-11496008.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-21T15:25:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-26T15:25:00+00:00"
-  },
-  {
-   "id": "n59cb1f3a04",
-   "topic": "politik",
-   "title": "Nahverkehr: \"Deutschlandticket light\" kommt vorerst nicht",
-   "text": "Ein attraktives Ticket für gelegentliche Bus- und Bahnfahrer - das hatten Hamburg und Nordrhein-Westfalen für die Verkehrsministerkonferenz zur Beratung vorgeschlagen. Doch nun ist \"Deutschlandticket light\" bereits wieder vom Tisch.",
-   "link": "https://www.tagesschau.de/inland/deutschlandticket-light-kommt-nicht-100.html",
-   "published": "2026-10-21T15:16:35+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-24T15:16:35+00:00",
-   "img": "https://images.tagesschau.de/image/5c2d0902-d09e-4f7d-8a25-72a394f988cc/AAABoV6e3S8/AAABnSSvrFg/16x9-big/zug-regional-100.jpg?width=1920"
-  },
-  {
-   "id": "n968acca052",
-   "topic": "welt",
-   "title": "Indien: Der Mut der Frauen hinter den \"Kakerlaken\"-Protesten",
-   "text": "Trotz Polizeigewalt, Festnahmen und Online-Hetze gehen Frauen in Indien weiter auf die Straße. Sie lassen sich nicht einschüchtern und weigern sich, in die Opferrolle gedrängt zu werden.",
-   "link": "https://www.dw.com/de/indien-der-mut-der-frauen-hinter-den-kakerlaken-protesten/a-79723993?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-21T14:45:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-25T14:45:00+00:00",
-   "img": "https://static.dw.com/image/79631698_302.jpg"
-  },
-  {
-   "id": "nf65d7433b9",
-   "topic": "ki",
-   "title": "Inceptions Mercury 3 soll schnellstes Diffusions-Sprachmodell sein und GPT-6 Luna in acht von zwölf Benchmarks schlagen",
-   "text": "Inception schickt mit Mercury 3 das nach eigenen Angaben leistungsfähigste Diffusions-Sprachmodell ins Rennen. Es soll vier- bis achtmal schneller als GPT-6 Luna sowie Claude Haiku 5.5 sein und diese in acht von zwölf getesteten Benchmarks schlagen. Unabhängige Messungen fehlen aber noch. Der Artikel Inceptions …",
-   "link": "https://the-decoder.de/inceptions-mercury-3-soll-schnellstes-diffusions-sprachmodell-sein-und-gpt-6-luna-in-acht-von-zwoelf-benchmarks-schlagen/",
-   "published": "2026-10-21T14:36:45+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-28T14:36:45+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/inception.png"
-  },
-  {
-   "id": "n14178ba5db",
-   "topic": "welt",
-   "title": "Huthi-Attacken auf Saudi-Arabien: Angriff auf bin Salmans Vision",
-   "text": "Kronprinz Mohammed bin Salman will Saudi-Arabien öffnen, für Touristen und Investoren. Doch seine \"Vision 2030\" ist in Gefahr: Die Angriffe der Huthi zerstören das Image von Sicherheit und Stabilität. Von Tim Kukral.",
-   "link": "https://www.tagesschau.de/ausland/asien/huthi-saudi-arabien-104.html",
-   "published": "2026-10-21T14:35:26+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-24T14:35:26+00:00",
-   "img": "https://images.tagesschau.de/image/56d9d4f8-a09b-44f0-a3fe-9dbd7897a42c/AAABoV7EM5I/AAABnSSvrFg/16x9-big/flughafen-riad-feuer-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Tote bei Huthi-Angriff auf Flughafen in Saudi-Arabien",
-     "link": "https://www.dw.com/de/tote-bei-huthi-angriff-auf-flughafen-in-saudi-arabien/a-79730390?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Deutschlandfunk",
-     "title": "Dammam - Saudi-Arabien: Mindestens ein Toter nach neuen Angriffen auf Flughafen - US-Regierung zieht Personal aus Botschaft ab",
-     "link": "https://www.deutschlandfunk.de/saudi-arabien-mindestens-ein-toter-nach-neuen-angriffen-auf-flughafen-us-regierung-zieht-personal-au-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n58c77e8ee5",
-   "topic": "politik",
-   "title": "Aus Versehen in Kraft: Wie es zum Fehler bei der Tabaksteuer kam",
-   "text": "Die Tabaksteuer soll ab 2027 schrittweise steigen. Doch durch einen Fehler im Gesetzestext gelten eigentlich schon jetzt erhöhte Steuern auf Tabakwaren - allerdings nur auf dem Papier. Wie kam es dazu? Von Maximilian Ulrich.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/panne-tabaksteuer-gesetz-100.html",
-   "published": "2026-10-21T14:34:31+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-24T14:34:31+00:00",
-   "img": "https://images.tagesschau.de/image/f52788d6-8aee-4b62-89b1-c28ecf558b64/AAABoV7imfA/AAABnSSvrFg/16x9-big/tabak-zigaretten-100.jpg?width=1920"
-  },
-  {
-   "id": "nc11f93f963",
-   "topic": "ki",
-   "title": "Mistral und Nvidia entwickeln KI für schnellere Simulationen im Ingenieurwesen",
-   "text": "Mistral und Nvidia arbeiten zusammen, um technische Simulationen und Produktdesign in der Industrie mit KI zu beschleunigen. Der Artikel Mistral und Nvidia entwickeln KI für schnellere Simulationen im Ingenieurwesen erschien zuerst auf The Decoder .",
-   "link": "https://the-decoder.de/mistral-und-nvidia-entwickeln-ki-fuer-schnellere-simulationen-im-ingenieurwesen/",
-   "published": "2026-10-21T14:25:51+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-28T14:25:51+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/Mistral-Nvidia-partnership.webp"
-  },
-  {
-   "id": "n1e30aef46f",
-   "topic": "wissenschaft",
-   "title": "Gentechnik: Wie Biotechnologie die Evolution überlistet",
-   "text": "Genetisch veränderte Bakterien produzieren wertvolle Chemikalien - auf Kosten ihrer Fitness. Eine neue Strategie hindert die Evolution, gewünschte Fähigkeiten auszuselektieren.",
-   "link": "https://www.spektrum.de/news/fuer-rohstoffe-die-evolution-austricksen/2350493",
-   "published": "2026-10-21T14:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-04T14:00:00+00:00"
-  },
-  {
-   "id": "n682789c95c",
-   "topic": "welt",
-   "title": "Brasilien: Lula und Bolsonaro wollen Ausschluss des jeweils anderen",
-   "text": "Kurz vor der Stichwahl in Brasilien verschärft sich der Wahlkampf zwischen Lula und Bolsonaro. Beide Präsidentschaftsbewerber gehen nun gerichtlich gegen den jeweils anderen vor, um eine Annullierung der Kandidatur zu erreichen.",
-   "link": "https://www.tagesschau.de/ausland/amerika/lula-bolsonaro-ausschluss-stichwahl-100.html",
-   "published": "2026-10-21T13:40:07+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-24T13:40:07+00:00",
-   "img": "https://images.tagesschau.de/image/2b2c64c7-ded9-4231-864a-18c6daab9e2f/AAABoV6AQlM/AAABnSSvrFg/16x9-big/bolsonaro-da-silva-102.jpg?width=1920"
-  },
-  {
-   "id": "n81a58a8aba",
-   "topic": "wirtschaft",
-   "title": "Das abgespaltene Russlandgeschäft von Globus wirft neue Fragen auf",
-   "text": "Die Eigner der Handelsgruppe Globus sind unter dem Namen \"Hyperglobus\" weiter in Russland aktiv. Eine Plusminus-Recherche zeigt nun: Einer dieser Märkte unterstützt eine Organisation, die Ausrüstung an die russische Armee liefert. Von M. Fuchs.",
-   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/russland-globus-handel-100.html",
-   "published": "2026-10-21T13:31:14+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-24T13:31:14+00:00",
-   "img": "https://images.tagesschau.de/image/4b32bd38-16e4-4553-a454-913c81df431c/AAABoV7GAKo/AAABnSSvrFg/16x9-big/globus-markt-100.jpg?width=1920"
-  },
-  {
-   "id": "ne19d19a9ba",
-   "topic": "welt",
-   "title": "Frauenmagazin \"Emma\" wird nach 50 Jahren eingestellt",
-   "text": "\"Wir meinen: Es reicht\", sagt Deutschlands berühmteste Feministin Alice Schwarzer. Nach einem halben Jahrhundert frauenbewegter Zeit hört sie mit ihrem Magazin \"Emma\" auf.",
-   "link": "https://www.dw.com/de/frauenmagazin-emma-wird-nach-50-jahren-eingestellt/a-79723955?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-21T13:21:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-25T13:21:00+00:00",
-   "img": "https://static.dw.com/image/79723787_302.jpg"
-  },
-  {
-   "id": "nee6bdff2f2",
-   "topic": "wirtschaft",
-   "title": "BGH-Urteil: Entscheidung zu Transparenz bei Schufa",
-   "text": "Immer wieder gibt es Kritik am Score-System der Schufa. Zu undurchsichtig, lautet der Vorwurf. Nun hat der Bundesgerichtshof entschieden: Unter bestimmten Voraussetzungen muss die Schufa über die Berechnung informieren. Von Anne Stein.",
-   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bgh-urteil-schufa-114.html",
-   "published": "2026-10-21T13:18:47+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-24T13:18:47+00:00",
-   "img": "https://images.tagesschau.de/image/869c19d6-9124-4ec5-8abf-7a35d692271f/AAABmt4YFok/AAABnSSvrFg/16x9-big/schufa-148.jpg?width=1920"
-  },
-  {
-   "id": "n10ed5cab65",
-   "topic": "welt",
-   "title": "Polens Parlament für Lockerung des Abtreibungsrechts",
-   "text": "Die Verschärfung des Abtreibungsrechts unter der alten PiS-Regierung hatte monatelange Massenproteste in Polen ausgelöst. Nun hat das Parlament eine Lockerung eingeleitet - aber es droht ein Veto.",
-   "link": "https://www.tagesschau.de/ausland/europa/polen-abtreibungsrecht-lockerung-100.html",
-   "published": "2026-10-21T13:08:58+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-24T13:08:58+00:00",
-   "img": "https://images.tagesschau.de/image/45217067-2cce-49ae-9be7-ea0db97002cc/AAABoV7rzHE/AAABnSSvrFg/16x9-big/polen-parlament-114.jpg?width=1920"
-  },
-  {
-   "id": "n2a57b9e01f",
-   "topic": "wirtschaft",
-   "title": "Was eine Fusion von Tesla und SpaceX bedeuten würde",
-   "text": "Die Musk-Konzerne Tesla und SpaceX könnten sich zusammentun und so einen mehrere Billionen Dollar schweren Tech-Konzern bilden. Welche Folgen - aber auch Risiken - diese Fusion haben könnte.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-tesla-spacex-zusammenschluss-folgen-100.html",
-   "published": "2026-10-21T13:08:11+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-24T13:08:11+00:00",
-   "img": "https://images.tagesschau.de/image/1f7bfde7-dfc2-46c4-aaa0-ea64ecb0c4e1/AAABoV6brDg/AAABnSSvrFg/16x9-big/musk-316.jpg?width=1920"
-  },
-  {
-   "id": "n237a671684",
-   "topic": "wissenschaft",
-   "title": "Innere Uhr: Eine Depression mit eigenem Schlafprofil",
-   "text": "Eine große Analyse deutet auf einen neuen Depressions-Subtyp hin. Betroffene haben häufiger einen gestörten Schlaf-wach-Rhythmus und sprechen schlechter auf Antidepressiva an.",
-   "link": "https://www.spektrum.de/news/innere-uhr-und-depression-hinweise-auf-einen-neuen-subtyp/2350565",
-   "published": "2026-10-21T13:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-04T13:00:00+00:00"
-  },
-  {
-   "id": "n14b2edf99c",
-   "topic": "it",
-   "title": "Bei Dunkelflaute: Biogas erhält neue Rolle im Stromnetz",
-   "text": "10.000 Biogasanlagen in Deutschland arbeiten eher unbemerkt. Bald sollen sie Netzstabilität und Strompreis beeinflussen, Vorbildwirkung inklusive. ( Energiewende , Solarenergie )",
-   "link": "https://www.golem.de/news/bei-dunkelflaute-biogas-erhaelt-neue-rolle-im-stromnetz-2610-214361.html",
-   "published": "2026-10-21T12:31:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-26T12:31:02+00:00",
-   "img": "https://www.golem.de/2610/214361-604554-604552_rc.jpg"
-  },
-  {
-   "id": "n0d386228df",
-   "topic": "welt",
-   "title": "Russland lässt inhaftierten US-Bürger Stephen Hubbard frei",
-   "text": "Russland hat den US-Bürger Stephen Hubbard freigelassen. Er war 2024 wegen angeblichem \"Söldnertum\" für die Ukraine zu einer Haftstrafe verurteilt worden. Nahezu zeitgleich mit dessen Freilassung wurde offenbar ein deutscher Staatsbürger festgenommen.",
-   "link": "https://www.tagesschau.de/ausland/hubbard-freilassung-usa-russland-100.html",
-   "published": "2026-10-21T12:14:14+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-24T12:14:14+00:00",
-   "img": "https://images.tagesschau.de/image/bdc0446f-0372-449c-979c-fd6722650aa0/AAABoV3oBh0/AAABnSSvrFg/16x9-big/hubbard-102.jpg?width=1920"
-  },
-  {
-   "id": "n9b02e95954",
-   "topic": "it",
-   "title": "Schufa-Score: Bundesgerichtshof hebt Schufa-Urteile auf",
-   "text": "Wie transparent muss die Schufa ihr Scoring-Verfahren erklären? Nach einem Urteil des Bundesgerichtshofs müssen vier Fälle in Dresden neu verhandelt werden. ( Schufa , Verbraucherschutz )",
-   "link": "https://www.golem.de/news/schufa-score-bundesgerichtshof-hebt-schufa-urteile-auf-2610-214358.html",
-   "published": "2026-10-21T12:00:06+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-26T12:00:06+00:00",
-   "img": "https://www.golem.de/2610/214358-604541-604536_rc.jpg"
-  },
-  {
-   "id": "n043d1bce6b",
-   "topic": "politik",
-   "title": "Ministerium unterläuft Panne beim Gesetz zur Tabaksteuer",
-   "text": "Gestern wurde das Gesetz zur Anhebung der Tabaksteuer veröffentlicht. Eigentlich sollen die Steuersätze ab 2027 steigen. Doch durch eine Panne des Finanzministeriums gelten sie ab sofort - zumindest auf dem Papier.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-aus-versehen-in-kraft-100.html",
-   "published": "2026-10-21T11:58:33+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-24T11:58:33+00:00",
-   "img": "https://images.tagesschau.de/image/fd9be30f-b42d-48cb-89f1-8b2c56826d03/AAABoUHGCn8/AAABnSSvrFg/16x9-big/zigaretten-168.jpg?width=1920"
-  },
-  {
-   "id": "n53a37f4308",
-   "topic": "welt",
-   "title": "Ukraine-Krieg: Putin schlägt Treffen mit Trump und Xi vor",
-   "text": "In St. Petersburg berät Russlands Präsident Putin mit dem US-Vermittler Witkoff über den Ukraine-Krieg. Zum Auftakt der Gespräche schlug Putin ein Dreier-Treffen mit Trump und Xi in China vor - und kündigte erste Diesellieferungen an die USA an.",
-   "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-106.html",
-   "published": "2026-10-21T11:55:51+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-24T11:55:51+00:00",
-   "img": "https://images.tagesschau.de/image/82c75df0-6192-4ec3-8128-1b31683cdc59/AAABoV7re4Q/AAABnSSvrFg/16x9-big/putin-witkoff-106.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Ukraine-Krieg trifft den zivilen Flugverkehr in Russland",
-     "link": "https://www.dw.com/de/ukraine-krieg-trifft-den-zivilen-flugverkehr-in-russland/a-79724364?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Deutschlandfunk",
-     "title": "Pendeldiplomatie - Russland zu Verhandlungen mit der Ukraine und den USA bereit, Selenskyj schlägt Einfrieren der Frontlinie vor",
-     "link": "https://www.deutschlandfunk.de/russland-zu-verhandlungen-mit-der-ukraine-und-den-usa-bereit-selenskyj-schlaegt-einfrieren-der-front-102.html"
     }
    ]
   }
