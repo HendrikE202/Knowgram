@@ -163,5 +163,832 @@
     ]
    }
   ]
+ },
+ "n00cd83a8e3": {
+  "points": [
+   "OpenAIs Modell GPT-5.6 Sol fand im Rahmen der Patch-the-Planet-Initiative eine kritische PHP-Lücke.",
+   "Die Sicherheitsfirma Wiz entdeckte sie unabhängig davon, unter anderem mit Googles Gemini 4 Argon.",
+   "Die Behebung wurde über zwei Monate in fünf Phasen mit PHP-Team, Cloudflare, CISA und Weißem Haus koordiniert."
+  ],
+  "why": "Der Fall zeigt, dass KI Sicherheitslücken schneller finden kann – für Verteidiger wie für Angreifer.",
+  "slides": [
+   {
+    "h": "🧩 Hintergrund",
+    "text": "Bei „Coordinated Disclosure“ erfährt zuerst der Hersteller von einer Lücke, ein Patch wird vorbereitet und erst danach öffentlich gemacht. So sollen Angreifer keinen Vorsprung bekommen. KI-Modelle, die Code im großen Stil lesen, verändern das Tempo dieses Prozesses.",
+    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
+   },
+   {
+    "h": "❓ Was noch unklar ist",
+    "points": [
+     "Wie genau die Lücke ausgenutzt werden kann",
+     "Ob Angreifer sie vor der Entdeckung schon kannten",
+     "Wie sich das Vorgehen auf andere Software übertragen lässt"
+    ]
+   }
+  ]
+ },
+ "n06312cf48d": {
+  "points": [
+   "US-Sondergesandter Witkoff wurde von Putin in St. Petersburg empfangen.",
+   "Grundlage waren Gespräche in Oslo mit Selenskyj sowie NATO- und EU-Vertretern, Ergebnis laut Rubio „nichts Überraschendes“.",
+   "Norwegens Regierungschef Støre hofft auf Dreier-Gespräche; der Kreml lehnte direkte Verhandlungen mit Kiew bislang ab."
+  ],
+  "why": "Es geht darum, ob und in welchem Format über ein Ende des Krieges verhandelt wird.",
+  "slides": [
+   {
+    "h": "🧩 Hintergrund",
+    "text": "Seit dem russischen Großangriff 2022 gab es mehrere Vermittlungsversuche ohne dauerhaften Waffenstillstand. Streitpunkte sind regelmäßig Sicherheitsgarantien, Gebietsfragen und Sanktionen – genau die Themen, die laut Artikel auch in Oslo besprochen wurden.",
+    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
+   },
+   {
+    "h": "❓ Was noch unklar ist",
+    "points": [
+     "Ob es zu trilateralen Gesprächen kommt",
+     "Welche Vorschläge Witkoff konkret überbrachte",
+     "Wie der Kreml auf die Ideen der Europäer reagiert"
+    ]
+   }
+  ]
+ },
+ "n0c23602a5e": {
+  "points": [
+   "Electronic Arts schließt das Studio BioWare in Edmonton, ein neuer „Mass Effect“-Teil ist gestrichen.",
+   "EA streicht laut Variety rund drei Prozent der Belegschaft, etwa 400 Stellen.",
+   "Zuletzt arbeitete nur noch ein kleines Team an dem 2020 angekündigten Rollenspiel."
+  ],
+  "why": "Ein Studio, das das Rollenspiel-Genre mitprägte, verschwindet nach fast 30 Jahren.",
+  "slides": [
+   {
+    "h": "🧩 Hintergrund",
+    "text": "BioWare wurde 1995 gegründet und wurde mit „Baldur’s Gate“ (1998) bekannt, später folgten „Neverwinter Nights“ und „Knights of the Old Republic“. EA kaufte das Studio 2008; im selben Jahr erschien das erste „Mass Effect“."
+   },
+   {
+    "h": "❓ Was noch unklar ist",
+    "points": [
+     "Warum EA die Entscheidung nicht genauer begründet",
+     "Was mit den Marken „Mass Effect“ und „Dragon Age“ geschieht",
+     "Wie viele der Stellen BioWare betreffen"
+    ]
+   }
+  ]
+ },
+ "n1530aaa692": {
+  "points": [
+   "Der Bundesstaat New Mexico verklagte Meta 2021 wegen irreführender Angaben zur Weitergabe von Facebook-Daten an Dritt-Apps.",
+   "Ende September befand eine Jury das Unternehmen für haftbar.",
+   "Der Generalstaatsanwalt sprach von einem der höchsten Urteile auf Bundesstaatenebene in der US-Geschichte."
+  ],
+  "why": "Das Urteil könnte Maßstäbe dafür setzen, wie Bundesstaaten gegen Tech-Konzerne vorgehen.",
+  "slides": [
+   {
+    "h": "🧩 Hintergrund",
+    "text": "Der Hintergrund ist der Skandal um die Analysefirma Cambridge Analytica, der 2018 bekannt wurde. In den USA können Bundesstaaten auf Basis eigener Verbraucherschutzgesetze klagen, auch ohne ein Bundesgesetz zum Datenschutz.",
+    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
+   },
+   {
+    "h": "❓ Was noch unklar ist",
+    "points": [
+     "Ob Meta Berufung einlegt",
+     "Wie hoch die Summe am Ende tatsächlich ausfällt",
+     "Ob andere Bundesstaaten nachziehen"
+    ]
+   }
+  ]
+ },
+ "n1956256d36": {
+  "points": [
+   "Google Cloud bietet nun Gemini, Claude und OpenAIs GPT-Modelle auf einer Plattform an.",
+   "Neu sind GPT-6 Astra, GPT-6.1 Sol und GPT-6 Luna – als private Vorschau für Unternehmenskunden.",
+   "Die Kosten laufen über eine einzige Google-Cloud-Rechnung und lassen sich auf bestehende Verträge anrechnen."
+  ],
+  "why": "Firmen können Modelle verschiedener Hersteller vergleichen, ohne den Anbieter zu wechseln.",
+  "slides": [
+   {
+    "h": "🧩 Hintergrund",
+    "text": "Cloud-Anbieter verkaufen KI-Modelle als Dienst, die Firmen per Schnittstelle nutzen. Wer mehrere Modelle auf einer Plattform hat, kann je Aufgabe das passende wählen und vermeidet Abhängigkeit von einem Hersteller.",
+    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
+   },
+   {
+    "h": "❓ Was noch unklar ist",
+    "points": [
+     "Wann die Vorschau allgemein verfügbar wird",
+     "Welche Preise je Modell gelten",
+     "Wie Daten der Kunden verarbeitet werden"
+    ]
+   }
+  ]
+ },
+ "n1e30aef46f": {
+  "points": [
+   "Genetisch veränderte Bakterien produzieren wertvolle Chemikalien, verlieren dabei aber an Fitness.",
+   "Dadurch selektiert die Evolution die gewünschte Fähigkeit oft wieder weg.",
+   "Eine neue Strategie soll genau das verhindern."
+  ],
+  "why": "Stabile Produktionsstämme machen biotechnische Herstellung verlässlicher.",
+  "slides": [
+   {
+    "h": "🧩 Hintergrund",
+    "text": "Eine Zelle, die Energie in ein Fremdprodukt steckt, wächst langsamer. Mutanten, die die Produktion abschalten, teilen sich schneller und setzen sich in großen Kulturen durch. Das ist ein bekanntes Problem in der Biotechnologie.",
+    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
+   },
+   {
+    "h": "❓ Was offen ist",
+    "points": [
+     "Wie die neue Strategie technisch funktioniert",
+     "Ob sie im Industriemaßstab hält",
+     "Für welche Stoffe sie getestet wurde"
+    ]
+   }
+  ]
+ },
+ "n22f960c417": {
+  "points": [
+   "Peking kritisiert das Verbot der KI-App DeepSeek in US-Bundesbehörden.",
+   "Die USA nutzten die nationale Sicherheit als Vorwand, um China auszugrenzen, so das Handelsministerium.",
+   "Washington wirft chinesischen KI-Firmen vor, ihre Modelle mit Antworten amerikanischer Systeme trainiert zu haben; Peking weist das zurück."
+  ],
+  "why": "Der Streit verbindet Technologiewettbewerb, Datensicherheit und Handelspolitik.",
+  "slides": [
+   {
+    "h": "🧩 Hintergrund",
+    "text": "DeepSeek ist ein chinesisches KI-Unternehmen, dessen Modelle seit 2025 international Aufmerksamkeit bekamen. Staatliche Stellen in mehreren Ländern prüfen, ob solche Apps auf Behördengeräten zulässig sind, meist wegen Datenschutz- und Sicherheitsfragen.",
+    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
+   },
+   {
+    "h": "❓ Was noch unklar ist",
+    "points": [
+     "Welche Beweise für das Kopieren der Modelle vorliegen",
+     "Welche Gegenmaßnahmen China plant",
+     "Ob weitere Länder folgen"
+    ]
+   }
+  ]
+ },
+ "n237a671684": {
+  "points": [
+   "Eine Analyse von mehr als 10.000 Menschen mit Depression deutet auf einen eigenen zirkadianen Subtyp hin.",
+   "Betroffene haben häufiger einen gestörten Schlaf-wach-Rhythmus.",
+   "Sie sprechen offenbar schlechter auf gängige Antidepressiva an."
+  ],
+  "why": "Wenn sich Subtypen belegen lassen, könnten Therapien gezielter gewählt werden.",
+  "slides": [
+   {
+    "h": "🧩 Hintergrund",
+    "text": "Die innere Uhr steuert Schlaf, Hormone und Körpertemperatur in einem Rhythmus von etwa 24 Stunden. Schlafstörungen sind ein bekanntes Merkmal von Depressionen. Ein Subtyp ist eine Untergruppe mit ähnlichen Merkmalen.",
+    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
+   },
+   {
+    "h": "❓ Was noch unklar ist",
+    "points": [
+     "Ob der Zusammenhang kausal ist",
+     "Wie man den Subtyp im Alltag erkennt",
+     "Welche Behandlungen bei ihm besser wirken"
+    ]
+   }
+  ]
+ },
+ "n28706b1e59": {
+  "points": [
+   "Die NATO verstärkt nach Drohnenangriffen auf Handelsschiffe die Überwachung im Schwarzen Meer, auf Bitte Bulgariens.",
+   "Ein US-Marine-Aufklärungsflugzeug ist in Warna eingetroffen.",
+   "Im Oktober wurden vier Schiffe nahe Bulgarien angegriffen, zwei sanken, mehrere Menschen werden vermisst; die Angriffe werden russischen Drohnen zugeschrieben."
+  ],
+  "why": "Das Schwarze Meer ist eine wichtige Route für Getreide, Energie und Rohstoffe.",
+  "slides": [
+   {
+    "h": "🧩 Hintergrund",
+    "text": "Bulgarien, Rumänien und die Türkei sind NATO-Anrainer des Schwarzen Meeres. Die Meerengen zur Ägäis regelt der Vertrag von Montreux (1936), der die Durchfahrt von Kriegsschiffen beschränkt.",
+    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
+   },
+   {
+    "h": "❓ Was noch unklar ist",
+    "points": [
+     "Wer die Angriffe offiziell verantwortet",
+     "Welche Mittel die NATO genau entsendet",
+     "Wie sich das auf Getreideexporte auswirkt"
+    ]
+   }
+  ]
+ },
+ "n29ae3bb8a9": {
+  "points": [
+   "Laut UN-Umweltprogramm steuert die Erde auf etwa 2,8 Grad Erwärmung zu.",
+   "Gemeint ist der Anstieg der globalen Mitteltemperatur gegenüber der vorindustriellen Zeit.",
+   "Die Meldung stützt sich auf einen Bericht des UNEP; mehr Details liegen hier nicht vor."
+  ],
+  "why": "Der Wert zeigt die Lücke zwischen den Zusagen der Staaten und dem Ziel des Pariser Abkommens.",
+  "slides": [
+   {
+    "h": "🧩 Hintergrund",
+    "text": "Das Pariser Abkommen von 2015 hat das Ziel, die Erwärmung deutlich unter 2 Grad, möglichst bei 1,5 Grad zu halten. Der jährliche „Emissions Gap Report“ des UNEP vergleicht die Klimaversprechen der Staaten mit diesem Pfad.",
+    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
+   },
+   {
+    "h": "❓ Was noch unklar ist",
+    "points": [
+     "Von welchen Annahmen der Bericht ausgeht",
+     "Wie stark sich der Wert zum Vorjahr verändert hat",
+     "Welche Länder am meisten fehlen"
+    ]
+   }
+  ]
+ },
+ "n2a57b9e01f": {
+  "points": [
+   "Musk bestätigte erstmals formelle Gespräche über eine Fusion von Tesla und SpaceX.",
+   "Sonderausschüsse unabhängiger Direktoren prüfen sie, Musk ist wegen eines Interessenkonflikts nicht beteiligt.",
+   "Er nennt eine Einigung verfrüht; laut einem Insider könnte es auf eine Übernahme von Tesla durch SpaceX hinauslaufen."
+  ],
+  "why": "Ein Zusammenschluss würde einen Konzern mit mehreren Billionen Dollar Wert schaffen.",
+  "slides": [
+   {
+    "h": "🧩 Hintergrund",
+    "text": "Bei Fusionen mit gemeinsamem Großaktionär prüfen unabhängige Ausschüsse, ob die Bedingungen für die Minderheitsaktionäre fair sind. Tesla ist börsennotiert, SpaceX war bislang privat geführt.",
+    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
+   },
+   {
+    "h": "❓ Was noch unklar ist",
+    "points": [
+     "Ob es überhaupt zu einer Einigung kommt",
+     "Zu welchen Konditionen",
+     "Wie Aufsicht und Aktionäre reagieren"
+    ]
+   }
+  ]
+ },
+ "n376405f5e4": {
+  "points": [
+   "Die EU will mit Glasfaserleitungen durch die Arktis Alternativen zu geopolitischen Nadelöhren schaffen.",
+   "Geplant ist eine direkte Anbindung Europas über Grönland und Kanada an Japan und Südkorea.",
+   "Die Arktisstrategie der Kommission soll auch Unterseekabel vor Sabotage und hybriden Angriffen schützen."
+  ],
+  "why": "Der Großteil des Internetverkehrs zwischen Kontinenten läuft über Seekabel, deren Ausfall ganze Regionen trifft.",
+  "slides": [
+   {
+    "h": "🧩 Hintergrund",
+    "text": "Unterseekabel verbinden die Kontinente; Schäden entstehen meist durch Anker und Fischerei, aber auch Sabotage wird befürchtet. Die Verlegung in arktischen Gewässern ist wegen Eis und Kälte aufwendig.",
+    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
+   },
+   {
+    "h": "❓ Was noch unklar ist",
+    "points": [
+     "Wann und von wem die Leitungen gebaut werden",
+     "Was das Vorhaben kostet",
+     "Wie die Kabel vor Sabotage geschützt werden"
+    ]
+   }
+  ]
+ },
+ "n41fe45e0e5": {
+  "points": [
+   "Das CDU-Präsidium will den innerdeutschen Flugverkehr stärken.",
+   "Kurzstreckenflüge sind pro Kilometer besonders klimaschädlich, weil der Start einen großen Teil der Emissionen verursacht.",
+   "Die Bundesregierung senkte dieses Jahr schon Flugsicherungsgebühren und Luftverkehrssteuer; die Passagierzahl im Inlandsverkehr liegt seit 2019 etwa um die Hälfte niedriger."
+  ],
+  "why": "Die Frage ist, wie Luftverkehrsförderung und deutsche Klimaziele zusammenpassen.",
+  "slides": [
+   {
+    "h": "🧩 Hintergrund",
+    "text": "Deutschland will bis 2045 klimaneutral werden. Der Luftverkehr gehört zu den schwer zu dekarbonisierenden Sektoren, weil Alternativen wie synthetische Kraftstoffe teuer sind.",
+    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
+   },
+   {
+    "h": "❓ Was noch unklar ist",
+    "points": [
+     "Welche Maßnahmen die CDU genau fordert",
+     "Wie viel Verkehr auf die Bahn ausweichen könnte",
+     "Wie die Klimabilanz am Ende aussieht"
+    ]
+   }
+  ]
+ },
+ "n46acf2aa65": {
+  "points": [
+   "Nach neuen Kämpfen in Tigray wächst die Sorge vor einem Krieg zwischen Äthiopien und Eritrea.",
+   "Ministerpräsident Abiy kündigte eine sechsmonatige Übergangsregierung für Tigray an, die Regionalwahlen vorbereiten soll.",
+   "Zuvor hatte die TPLF mit sechs weiteren Gruppen im September eine Offensive gestartet, die zurückgeschlagen wurde."
+  ],
+  "why": "Ein neuer Krieg am Horn von Afrika würde eine ohnehin fragile Region weiter destabilisieren.",
+  "slides": [
+   {
+    "h": "🧩 Hintergrund",
+    "text": "Von 2020 bis 2022 tobte ein Krieg in Tigray zwischen der äthiopischen Regierung und der TPLF; er endete mit einem Friedensabkommen. Äthiopien und Eritrea haben eine wechselvolle Geschichte, darunter einen Grenzkrieg 1998 bis 2000.",
+    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
+   },
+   {
+    "h": "❓ Was noch unklar ist",
+    "points": [
+     "Ob Diplomatie einen Krieg verhindern kann",
+     "Wie sich Eritrea verhalten wird",
+     "Wie die Lage der Zivilbevölkerung ist"
+    ]
+   }
+  ]
+ },
+ "n4d1b68974b": {
+  "points": [
+   "Russland zeigt sich bereit, Gespräche mit USA und Ukraine wieder aufzunehmen.",
+   "Osteuropa-Experte Umland ist im tagesschau24-Interview skeptisch: „Keine großen Hoffnungen“.",
+   "Selenskyjs Angebot, die Frontlinie einzufrieren, sei nicht neu und locke den Kreml nach seiner Einschätzung kaum."
+  ],
+  "why": "Die Einschätzung eines Experten hilft, die Aussichten der Diplomatie nüchtern einzuordnen.",
+  "slides": [
+   {
+    "h": "🧩 Hintergrund",
+    "text": "Ein Einfrieren der Frontlinie bedeutet, dass die Kämpfe an der aktuellen Linie enden, ohne dass die Gebietsfragen geklärt sind. Umland ist ein Politikwissenschaftler mit Schwerpunkt Ukraine; seine Sicht ist eine Einzelmeinung.",
+    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
+   },
+   {
+    "h": "❓ Was noch unklar ist",
+    "points": [
+     "Ob sich Moskaus Haltung durch Druck ändert",
+     "Wie belastbar eine Waffenruhe wäre",
+     "Welche Rolle die USA spielen"
+    ]
+   }
+  ]
+ },
+ "n52b040dee7": {
+  "points": [
+   "Mehrere Unternehmen fahren ihre KI-Nutzung zurück: fehlerhafte Ergebnisse, steigende Betriebskosten, überzogene Erwartungen.",
+   "Das Weltwirtschaftsforum hatte erwartet, dass bis 2030 rund 92 Millionen Jobs wegfallen oder sich stark verändern und 170 Millionen neu entstehen.",
+   "Nach hohen Investitionen rücken Nutzen, Kosten und Risiken stärker in den Blick."
+  ],
+  "why": "Der Bericht zeigt, dass der KI-Einsatz im Alltag oft schwieriger ist als die Versprechen.",
+  "slides": [
+   {
+    "h": "🧩 Hintergrund",
+    "text": "KI-Dienste werden meist nach Nutzung (Tokens) abgerechnet, die Kosten wachsen also mit dem Einsatz. Gerade bei Fehlern, die menschlich nachkontrolliert werden müssen, kann der erhoffte Effizienzgewinn schrumpfen.",
+    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
+   },
+   {
+    "h": "❓ Was noch unklar ist",
+    "points": [
+     "Wie viele Firmen wirklich zurückfahren",
+     "Ob sich die Rechnung mit billigeren Modellen ändert",
+     "Wie sich das auf Stellenpläne auswirkt"
+    ]
+   }
+  ]
+ },
+ "n57cc9301b7": {
+  "points": [
+   "Laut Wall Street Journal und CBS News soll Musk die Drosselung von Starlink für die Ukraine angeordnet haben.",
+   "Er begrenzte demnach die Geschwindigkeit, mit der ukrainische Geräte sich verbinden; das behinderte Angriffs- und Abwehr-Drohnen.",
+   "Außenminister Rubio sagte, Trump habe vorher nichts gewusst; SpaceX äußerte sich zunächst nicht."
+  ],
+  "why": "Die Ukraine nutzt Starlink für Gefechtskommunikation – ein privates Unternehmen beeinflusst so ein Kriegsgeschehen.",
+  "slides": [
+   {
+    "h": "🧩 Hintergrund",
+    "text": "Starlink-Terminals wurden ab 2022 in großer Zahl in die Ukraine geliefert. Schon damals wurde diskutiert, wie abhängig das Land von einem privaten Anbieter ist.",
+    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
+   },
+   {
+    "h": "❓ Was noch unklar ist",
+    "points": [
+     "Ob die Berichte zutreffen",
+     "Warum die Drosselung erfolgt sein soll",
+     "Welche Folgen sie für die Front hatte"
+    ]
+   }
+  ]
+ },
+ "n60d62f74cd": {
+  "points": [
+   "Unter dem Namen „PHP2Shell“ warnen Fachleute vor zwei kritischen Schwachstellen in PHP (CVE-2026-109618 und CVE-2026-109619).",
+   "Das BSI hat eine offizielle Warnung herausgegeben.",
+   "Allein mit WordPress, das auf PHP basiert, werden Schätzungen zufolge 400 bis 500 Millionen Webseiten betrieben."
+  ],
+  "why": "PHP ist die Grundlage vieler Websites; eine Lücke im Kern betrifft sehr viele Betreiber.",
+  "slides": [
+   {
+    "h": "🧩 Hintergrund",
+    "text": "PHP ist eine serverseitige Skriptsprache; auf ihr laufen auch Joomla!, Moodle und Typo3. Betreiber sollten Updates ihrer PHP-Version und der Hosting-Pakete einspielen.",
+    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
+   },
+   {
+    "h": "❓ Was noch unklar ist",
+    "points": [
+     "Welche PHP-Versionen genau betroffen sind",
+     "Ob die Lücke bereits ausgenutzt wird",
+     "Wie viele Server noch ungepatcht sind"
+    ]
+   }
+  ]
+ },
+ "n705cae3cc5": {
+  "points": [
+   "Die britische Regierung genehmigte das Gasfeld Jackdaw rund 240 Kilometer vor Aberdeen.",
+   "Das Gas soll schon im kommenden Winter britische Haushalte versorgen; Jackdaw könnte etwa sechs Prozent der britischen Nordsee-Gasproduktion ausmachen.",
+   "Das Projekt spaltet die Labour-Partei, die 2024 versprach, keine neuen Lizenzen für Öl und Gas zu erteilen."
+  ],
+  "why": "Der Fall zeigt den Konflikt zwischen Energiesicherheit und Klimaschutz.",
+  "slides": [
+   {
+    "h": "🧩 Hintergrund",
+    "text": "Die Nordsee ist seit den 1960ern ein Förderrevier für Öl und Gas. Umweltverbände argumentieren, dass neue Felder die Klimaziele gefährden, Befürworter verweisen auf Versorgungssicherheit und Arbeitsplätze.",
+    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
+   },
+   {
+    "h": "❓ Was noch unklar ist",
+    "points": [
+     "Wie die Labour-Partei den Widerspruch auflöst",
+     "Wie die Gerichte auf Klagen reagieren",
+     "Wie viel Gas wirklich ins Netz kommt"
+    ]
+   }
+  ]
+ },
+ "n77770a33a5": {
+  "points": [
+   "Putin stimmte laut Berater Uschakow einer Wiederaufnahme trilateraler Gespräche mit den USA grundsätzlich zu.",
+   "Russland ist Mitte November zu Verhandlungen mit Ukraine und USA bereit.",
+   "Selenskyj schlug ein Einfrieren der Frontlinie als möglichen ersten Schritt für eine Waffenruhe vor."
+  ],
+  "why": "Nach Monaten ohne Bewegung zeichnet sich ein neuer Verhandlungstermin ab.",
+  "slides": [
+   {
+    "h": "🧩 Hintergrund",
+    "text": "Pendeldiplomatie bedeutet, dass ein Vermittler zwischen den Parteien reist und Positionen überbringt, statt dass alle an einem Tisch sitzen. Witkoff traf zuvor Selenskyj in Oslo und Putin in St. Petersburg.",
+    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
+   },
+   {
+    "h": "❓ Was noch unklar ist",
+    "points": [
+     "Ob der Termin im November hält",
+     "Unter welchen Bedingungen Moskau verhandelt",
+     "Ob Kiew einem Einfrieren zustimmt"
+    ]
+   }
+  ]
+ },
+ "n79a1d4350a": {
+  "points": [
+   "Nach Recherchen von Report Mainz und Spiegel wollte ein Geflecht von Firmen eine Bank in Bayern übernehmen.",
+   "Über ein Konto der TEN31 liefen binnen zehn Monaten 147 Millionen Euro, vieles von regimenahen Firmen.",
+   "Die Zahlungen mit mutmaßlichem Iran-Bezug machten laut Bafin-Schreiben mehr als die Hälfte der Bilanzsumme aus."
+  ],
+  "why": "Der Fall zeigt, wie Sanktionen über Tarnfirmen und Banken im Ausland umgangen werden könnten.",
+  "slides": [
+   {
+    "h": "🧩 Hintergrund",
+    "text": "Wegen internationaler Sanktionen ist der Zahlungsverkehr mit Iran stark eingeschränkt. Banken müssen Geldwäsche- und Sanktionsregeln einhalten, die Bafin überwacht das.",
+    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
+   },
+   {
+    "h": "❓ Was noch unklar ist",
+    "points": [
+     "Ob die Übernahme verhindert wurde",
+     "Wer genau hinter dem Firmengeflecht steht",
+     "Welche Konsequenzen für die Bank folgen"
+    ]
+   }
+  ]
+ },
+ "n7f31d46b44": {
+  "points": [
+   "Kanzler Merz warnte beim Berlin Global Dialogue vor mittlerweile täglichen hybriden Angriffen Russlands auf Deutschland.",
+   "Seine größte Sorge sei Russlands Versuch, die Gesellschaft zu destabilisieren – nicht Wirtschaft, USA oder China.",
+   "Der Krieg sei ein grundlegender Angriff auf die politische Ordnung seit 1990."
+  ],
+  "why": "Die Aussage zeigt, wie die Regierung die Bedrohung durch Desinformation und Sabotage gewichtet.",
+  "slides": [
+   {
+    "h": "🧩 Hintergrund",
+    "text": "Hybride Angriffe sind Mittel unterhalb der Schwelle eines offenen Krieges, etwa Cyberangriffe, Desinformation, Sabotage oder Drohnenflüge über Infrastruktur.",
+    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
+   },
+   {
+    "h": "❓ Was noch unklar ist",
+    "points": [
+     "Welche Angriffe konkret gemeint sind",
+     "Wie Deutschland seine Resilienz stärken will",
+     "Was die Bundesregierung offiziell Russland zuschreibt"
+    ]
+   }
+  ]
+ },
+ "n819d26ea81": {
+  "points": [
+   "Die Verkehrsminister vertagen die Debatte über ein flexibles Deutschlandticket für Gelegenheitsfahrer.",
+   "Der Vorschlag von Nordrhein-Westfalen und Hamburg: Einzelfahrten per App abrechnen, der Monatspreis wäre die Obergrenze.",
+   "Bayern ist skeptisch, ob das finanzierbar wäre."
+  ],
+  "why": "Es geht darum, ob Menschen ohne Abo das Deutschlandticket günstiger nutzen können.",
+  "slides": [
+   {
+    "h": "🧩 Hintergrund",
+    "text": "Das Deutschlandticket gibt es seit 2023 als bundesweites Monatsabo für den Nahverkehr. Länder und Bund teilen sich die Kosten für Einnahmeausfälle.",
+    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
+   },
+   {
+    "h": "❓ Was noch unklar ist",
+    "points": [
+     "Wann das Thema wieder auf die Tagesordnung kommt",
+     "Wie viel die Umstellung kostet",
+     "Ob andere Länder zustimmen"
+    ]
+   }
+  ]
+ },
+ "n936c062995": {
+  "points": [
+   "In den USA schwindet laut Umfragen die Solidarität mit Israel, vor allem bei Jüngeren.",
+   "Die Demokraten stehen unter Druck einer neuen Generation, etwa von Kandidaten wie Abdul El-Sayed in Michigan.",
+   "Der Konflikt bereitet im Wahlkampf beiden Parteien Probleme."
+  ],
+  "why": "Die Stimmung in den USA kann die Politik gegenüber Israel mittelfristig verändern.",
+  "slides": [
+   {
+    "h": "🧩 Hintergrund",
+    "text": "Die USA sind seit Jahrzehnten Israels wichtigster Verbündeter und größter Waffenlieferant. Die Wahlen in den USA finden im November statt, bei den Zwischenwahlen werden das Repräsentantenhaus und ein Teil des Senats neu gewählt.",
+    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
+   },
+   {
+    "h": "❓ Was noch unklar ist",
+    "points": [
+     "Wie stark sich die Umfragewerte in Wahlergebnissen zeigen",
+     "Ob sich die Regierungspolitik ändert",
+     "Wie Republikaner reagieren"
+    ]
+   }
+  ]
+ },
+ "n9c7f491abb": {
+  "points": [
+   "Polens Unterhaus beschloss eine Lockerung des fast vollständigen Abtreibungsverbots.",
+   "Ein Gesetz, das die Strafe für Beihilfe und Anstiftung abschafft, ging mit 217 zu 213 Stimmen durch.",
+   "Offen ist, ob Präsident Karol Nawrocki zustimmt."
+  ],
+  "why": "Polen hat eines der strengsten Abtreibungsgesetze Europas; ein Veto würde die Reform stoppen.",
+  "slides": [
+   {
+    "h": "🧩 Hintergrund",
+    "text": "Ein Präsident kann in Polen Gesetze durch ein Veto blockieren; der Sejm braucht dann eine Dreifünftelmehrheit. Das Thema war ein Wahlversprechen von Premier Tusk.",
+    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
+   },
+   {
+    "h": "❓ Was noch unklar ist",
+    "points": [
+     "Ob der Präsident unterschreibt oder sein Veto einlegt",
+     "Wie die zweite Gesetzesvorlage abschneidet",
+     "Ob eine Mehrheit zur Überstimmung reicht"
+    ]
+   }
+  ]
+ },
+ "naa4efc7d1e": {
+  "points": [
+   "Demis Hassabis rechnet mit künstlicher allgemeiner Intelligenz (AGI) in zwei bis drei Jahren.",
+   "Anfang des Jahres nannte er noch drei bis fünf Jahre.",
+   "Als Prüfstein nennt er den „Einstein-Test“: Käme ein nur mit Wissen bis 1901 trainiertes System auf Einsteins Arbeiten von 1905?"
+  ],
+  "why": "Prognosen aus der Branche prägen Investitionen und Debatten über Regulierung.",
+  "slides": [
+   {
+    "h": "🧩 Hintergrund",
+    "text": "AGI meint ein System mit dem vollen kognitiven Spektrum des Menschen. Es gibt keine einheitliche Definition, und Vorhersagen dazu sind unsicher.",
+    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
+   },
+   {
+    "h": "❓ Was noch unklar ist",
+    "points": [
+     "Wie man AGI messbar prüft",
+     "Ob die Prognose eintrifft",
+     "Wie andere Forscher die Aussage bewerten"
+    ]
+   }
+  ]
+ },
+ "naddd24e014": {
+  "points": [
+   "Für die PHP-Sicherheitslücke steht ein Update bereit; Betreiber sollen aktualisieren.",
+   "Zuvor hatten Kommunen, Behörden, Universitäten und Krankenhäuser ihre Online-Angebote vorsorglich abgeschaltet.",
+   "Normale Nutzer müssen nichts tun, können aber indirekt durch Ausfälle oder Datenabflüsse betroffen sein."
+  ],
+  "why": "Die Lücke ermöglicht laut BSI die Übernahme ganzer Websites und den Zugriff auf Datenbanken.",
+  "slides": [
+   {
+    "h": "🧩 Hintergrund",
+    "text": "Updates (Patches) schließen eine Lücke, wirken aber erst, wenn Betreiber sie einspielen. Bis dahin helfen vorsorgliches Abschalten oder Filterregeln.",
+    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
+   },
+   {
+    "h": "❓ Was noch unklar ist",
+    "points": [
+     "Wie viele Seiten noch ungeschützt sind",
+     "Ob bereits Daten abgeflossen sind",
+     "Wann die Dienste wieder erreichbar sind"
+    ]
+   }
+  ]
+ },
+ "nb81298fad2": {
+  "points": [
+   "Die EU-Kommission ermittelt gegen Booking.com wegen Betrugsanzeigen und Phishing.",
+   "Booking.com meldet laut Kommission 500 Prozent mehr Betrugsfälle weltweit.",
+   "Im ersten Halbjahr 2026 gab es 1.072 Meldungen mit 82.000 Euro Schaden, eine Verzehnfachung zum Vorjahr."
+  ],
+  "why": "Die EU will, dass Urlauber ohne Angst vor Betrug buchen können.",
+  "slides": [
+   {
+    "h": "🧩 Hintergrund",
+    "text": "Das Verfahren läuft vermutlich nach dem Digital Services Act (DSA), der große Plattformen zu Maßnahmen gegen illegale Inhalte verpflichtet. Bei Verstößen drohen hohe Geldstrafen.",
+    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
+   },
+   {
+    "h": "❓ Was noch unklar ist",
+    "points": [
+     "Welche Vorwürfe im Detail erhoben werden",
+     "Wie lange die Prüfung dauert",
+     "Welche Strafen drohen"
+    ]
+   }
+  ]
+ },
+ "nba2289533a": {
+  "points": [
+   "Die Cardinals haben Offensive Tackle Albert Reese per Waiver von den Panthers übernommen.",
+   "Reese stand im ersten 53-Mann-Kader der Panthers, war aber in jedem Spiel inaktiv.",
+   "Arizona braucht Tackle-Tiefe: Paris Johnson fällt aus, Jedrick Wills fehlte krank im Training."
+  ],
+  "why": "Kleine Kaderbewegungen zeigen, wo Teams Verletzungssorgen haben.",
+  "slides": [
+   {
+    "h": "🧩 Hintergrund",
+    "text": "Beim Waiver bekommt das Team mit der schlechtesten Bilanz den ersten Zugriff auf entlassene Spieler. Ein Offensive Tackle schützt den Quarterback an der Außenseite der Line.",
+    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
+   },
+   {
+    "h": "❓ Was noch unklar ist",
+    "points": [
+     "Ob Reese bald spielt",
+     "Wie sich die Line ohne Johnson schlägt",
+     "Ob Wills rechtzeitig fit wird"
+    ]
+   }
+  ]
+ },
+ "nc4c24d85fc": {
+  "points": [
+   "Macron sieht keine Hinweise auf ausländische Kräfte hinter den Unruhen in Frankreich.",
+   "Es habe aber eine ausländische Manipulation der Informationen im Nachhinein gegeben, auch von Staatslenkern.",
+   "Er wies die Behauptung einer Invasion von „Horden von Migranten und Islamisten“ als völlig falsch zurück."
+  ],
+  "why": "Der Streit zeigt, wie Unruhen in einem Land internationale Politik und Wahlkämpfe beeinflussen.",
+  "slides": [
+   {
+    "h": "🧩 Hintergrund",
+    "text": "Der Ort der Pressekonferenz war Doha in Katar. Frankreich ist im Vorwahlkampf; Macron sprach von „Wahlkampf auf unserem Rücken“.",
+    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
+   },
+   {
+    "h": "❓ Was noch unklar ist",
+    "points": [
+     "Wen Macron konkret meint",
+     "Wie Washington reagiert",
+     "Wie sich die Lage in Frankreich entwickelt"
+    ]
+   }
+  ]
+ },
+ "ncbcd4dd003": {
+  "points": [
+   "Der Richter verhängte die gesetzlichen 5.000 US-Dollar pro Verstoß, rund 219,5 Milliarden Dollar, und senkte sie ohne Begründung auf 25 Milliarden Dollar.",
+   "Die Geschworenen fanden im September fast 44 Millionen vorsätzliche Verstöße gegen ein Gesetz gegen unlautere Geschäftspraktiken.",
+   "Meta nennt es „fast unmöglich, in New Mexico Geschäfte zu treiben“."
+  ],
+  "why": "Das ist rund 12.000 Dollar pro Einwohner des Bundesstaates und eines der höchsten Urteile seiner Art.",
+  "slides": [
+   {
+    "h": "🧩 Hintergrund",
+    "text": "Der Fall geht auf die Weitergabe von Facebook-Daten an Dritt-Apps zurück. Strafen pro Verstoß können sich bei vielen Betroffenen enorm summieren; Gerichte senken sie in höheren Instanzen oft.",
+    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
+   },
+   {
+    "h": "❓ Was noch unklar ist",
+    "points": [
+     "Ob Berufung die Summe senkt",
+     "Wie Meta reagiert",
+     "Was das für andere Klagen bedeutet"
+    ]
+   }
+  ]
+ },
+ "ncd7031222b": {
+  "points": [
+   "Der DAX legte dank KI-Zuversicht kräftig zu; Frankreich-Sorgen traten zurück.",
+   "Ein Milliardengewinn von SpaceX im dritten Quartal hob die Stimmung im Technologiesektor.",
+   "Infineon und Siemens Energy führten das Plus an; SAP, Tesla, Meta und IBM legen Bilanzen vor."
+  ],
+  "why": "Die Quartalszahlen gelten als Stresstest für die KI-Fantasie am Markt.",
+  "slides": [
+   {
+    "h": "🧩 Hintergrund",
+    "text": "Der DAX ist der Leitindex der 40 größten deutschen börsennotierten Unternehmen. Quartalsberichte gelten als wichtige Kursimpulse.",
+    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
+   },
+   {
+    "h": "❓ Was noch unklar ist",
+    "points": [
+     "Ob die Tech-Bilanzen die Erwartungen erfüllen",
+     "Wie lange die Erholung hält",
+     "Wie sich Frankreich auf die Märkte auswirkt"
+    ]
+   }
+  ]
+ },
+ "nd1ba474faf": {
+  "points": [
+   "Der Lungenkrebs bei Papst Leo XIV. hat nicht gestreut.",
+   "Das entfernte Gewebe zeigte, dass die Erkrankung lokal begrenzt war, eine weitere Therapie ist nicht nötig.",
+   "Vor gut einer Woche wurde dem 71-Jährigen der untere rechte Lungenlappen entfernt; fünf Tage später trat er wieder öffentlich auf."
+  ],
+  "why": "Die Gesundheit des Papstes ist für die Kirche und viele Gläubige weltweit von Bedeutung.",
+  "slides": [
+   {
+    "h": "🧩 Hintergrund",
+    "text": "Ob ein Tumor gestreut hat, beurteilen Ärzte an der pathologischen Untersuchung des entfernten Gewebes. Das Angelus-Gebet spricht der Papst traditionell sonntags vom Fenster des Apostolischen Palastes.",
+    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
+   },
+   {
+    "h": "❓ Was noch unklar ist",
+    "points": [
+     "Wie die Nachsorge aussieht",
+     "Wann der Papst seine Termine voll aufnimmt",
+     "Ob weitere Kontrollen nötig sind"
+    ]
+   }
+  ]
+ },
+ "nd847ed5de4": {
+  "points": [
+   "Ein Gericht verurteilte Meta zu 25 Milliarden Dollar Strafe.",
+   "Meta verstieß laut Urteil gegen Verbraucherschutzgesetze New Mexicos mit irreführenden Angaben zum Datenschutz.",
+   "Der Fall geht auf den Skandal um die britische Analysefirma Cambridge Analytica zurück."
+  ],
+  "why": "Das Urteil ist ein Signal, dass Datenschutz-Versprechen rechtlich einklagbar sind.",
+  "slides": [
+   {
+    "h": "🧩 Hintergrund",
+    "text": "Bei Cambridge Analytica wurden 2018 Daten von Millionen Facebook-Nutzern ohne deren Wissen zur Wählerprofilierung genutzt.",
+    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
+   },
+   {
+    "h": "❓ Was noch unklar ist",
+    "points": [
+     "Ob das Urteil Bestand hat",
+     "Wie Meta reagiert",
+     "Ob weitere Staaten klagen"
+    ]
+   }
+  ]
+ },
+ "nd96c7eb843": {
+  "points": [
+   "Giants-Coach John Harbaugh ersetzt Jameis Winston als Starting-Quarterback durch J.J. McCarthy, ab Sonntag gegen die Texans.",
+   "Die BBV-Redaktion diskutiert, ob das richtig ist; ein Autor kritisiert, dass Winston nach einem schwachen Spiel gegen die Saints ersetzt wird.",
+   "Winston hatte laut Text zuvor drei Siege und ein Unentschieden geholt."
+  ],
+  "why": "Die Quarterback-Entscheidung prägt die weitere Saison der Giants.",
+  "slides": [
+   {
+    "h": "🧩 Hintergrund",
+    "text": "Ein Quarterback-Wechsel ist meist ein Signal für Aufbau oder Reaktion auf Leistung. Der Text ist ein Meinungsbeitrag, keine Nachricht.",
+    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
+   },
+   {
+    "h": "❓ Was noch unklar ist",
+    "points": [
+     "Wie McCarthy spielt",
+     "Ob Winston zurückkehrt",
+     "Wie das Team reagiert"
+    ]
+   }
+  ]
+ },
+ "ne4c6624cb2": {
+  "points": [
+   "Eine gravierende PHP-Sicherheitslücke bedroht weltweit Webseiten; in Deutschland sind Seiten mehrerer Städte vorsorglich abgeschaltet.",
+   "Es geht um zwei kritische Schwachstellen im Kern der Sprache, auf der Systeme wie WordPress laufen.",
+   "Das BSI stuft das Risiko mit „3 / Orange“ als außerordentlich hoch ein."
+  ],
+  "why": "Millionen Websites nutzen PHP; ungepatchte Server sind Ziele für Angreifer.",
+  "slides": [
+   {
+    "h": "🧩 Hintergrund",
+    "text": "WordPress betreibt Schätzungen zufolge 400 bis 500 Millionen Seiten. Neben dem BSI warnten Huntress und das PHP-Sicherheitsteam.",
+    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
+   },
+   {
+    "h": "❓ Was noch unklar ist",
+    "points": [
+     "Wie schnell Betreiber patchen",
+     "Ob Angriffe bereits laufen",
+     "Welche Dienste noch betroffen sind"
+    ]
+   }
+  ]
  }
 }
