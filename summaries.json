@@ -1,49 +1,4 @@
 {
- "n00cd83a8e3": {
-  "points": [
-   "OpenAIs Modell GPT-5.6 Sol fand im Rahmen der Patch-the-Planet-Initiative eine kritische PHP-Lücke.",
-   "Die Sicherheitsfirma Wiz entdeckte sie unabhängig davon, unter anderem mit Googles Gemini 4 Argon.",
-   "Die Behebung wurde über zwei Monate in fünf Phasen mit PHP-Team, Cloudflare, CISA und Weißem Haus koordiniert."
-  ],
-  "why": "Der Fall zeigt, dass KI Sicherheitslücken schneller finden kann – für Verteidiger wie für Angreifer.",
-  "slides": [
-   {
-    "h": "🧩 Hintergrund",
-    "text": "Bei „Coordinated Disclosure“ erfährt zuerst der Hersteller von einer Lücke, ein Patch wird vorbereitet und erst danach öffentlich gemacht. So sollen Angreifer keinen Vorsprung bekommen. KI-Modelle, die Code im großen Stil lesen, verändern das Tempo dieses Prozesses.",
-    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
-   },
-   {
-    "h": "❓ Was noch unklar ist",
-    "points": [
-     "Wie genau die Lücke ausgenutzt werden kann",
-     "Ob Angreifer sie vor der Entdeckung schon kannten",
-     "Wie sich das Vorgehen auf andere Software übertragen lässt"
-    ]
-   }
-  ]
- },
- "n0c23602a5e": {
-  "points": [
-   "Electronic Arts schließt das Studio BioWare in Edmonton, ein neuer „Mass Effect“-Teil ist gestrichen.",
-   "EA streicht laut Variety rund drei Prozent der Belegschaft, etwa 400 Stellen.",
-   "Zuletzt arbeitete nur noch ein kleines Team an dem 2020 angekündigten Rollenspiel."
-  ],
-  "why": "Ein Studio, das das Rollenspiel-Genre mitprägte, verschwindet nach fast 30 Jahren.",
-  "slides": [
-   {
-    "h": "🧩 Hintergrund",
-    "text": "BioWare wurde 1995 gegründet und wurde mit „Baldur’s Gate“ (1998) bekannt, später folgten „Neverwinter Nights“ und „Knights of the Old Republic“. EA kaufte das Studio 2008; im selben Jahr erschien das erste „Mass Effect“."
-   },
-   {
-    "h": "❓ Was noch unklar ist",
-    "points": [
-     "Warum EA die Entscheidung nicht genauer begründet",
-     "Was mit den Marken „Mass Effect“ und „Dragon Age“ geschieht",
-     "Wie viele der Stellen BioWare betreffen"
-    ]
-   }
-  ]
- },
  "n1530aaa692": {
   "points": [
    "Der Bundesstaat New Mexico verklagte Meta 2021 wegen irreführender Angaben zur Weitergabe von Facebook-Daten an Dritt-Apps.",
@@ -63,98 +18,6 @@
      "Ob Meta Berufung einlegt",
      "Wie hoch die Summe am Ende tatsächlich ausfällt",
      "Ob andere Bundesstaaten nachziehen"
-    ]
-   }
-  ]
- },
- "n1956256d36": {
-  "points": [
-   "Google Cloud bietet nun Gemini, Claude und OpenAIs GPT-Modelle auf einer Plattform an.",
-   "Neu sind GPT-6 Astra, GPT-6.1 Sol und GPT-6 Luna – als private Vorschau für Unternehmenskunden.",
-   "Die Kosten laufen über eine einzige Google-Cloud-Rechnung und lassen sich auf bestehende Verträge anrechnen."
-  ],
-  "why": "Firmen können Modelle verschiedener Hersteller vergleichen, ohne den Anbieter zu wechseln.",
-  "slides": [
-   {
-    "h": "🧩 Hintergrund",
-    "text": "Cloud-Anbieter verkaufen KI-Modelle als Dienst, die Firmen per Schnittstelle nutzen. Wer mehrere Modelle auf einer Plattform hat, kann je Aufgabe das passende wählen und vermeidet Abhängigkeit von einem Hersteller.",
-    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
-   },
-   {
-    "h": "❓ Was noch unklar ist",
-    "points": [
-     "Wann die Vorschau allgemein verfügbar wird",
-     "Welche Preise je Modell gelten",
-     "Wie Daten der Kunden verarbeitet werden"
-    ]
-   }
-  ]
- },
- "n376405f5e4": {
-  "points": [
-   "Die EU will mit Glasfaserleitungen durch die Arktis Alternativen zu geopolitischen Nadelöhren schaffen.",
-   "Geplant ist eine direkte Anbindung Europas über Grönland und Kanada an Japan und Südkorea.",
-   "Die Arktisstrategie der Kommission soll auch Unterseekabel vor Sabotage und hybriden Angriffen schützen."
-  ],
-  "why": "Der Großteil des Internetverkehrs zwischen Kontinenten läuft über Seekabel, deren Ausfall ganze Regionen trifft.",
-  "slides": [
-   {
-    "h": "🧩 Hintergrund",
-    "text": "Unterseekabel verbinden die Kontinente; Schäden entstehen meist durch Anker und Fischerei, aber auch Sabotage wird befürchtet. Die Verlegung in arktischen Gewässern ist wegen Eis und Kälte aufwendig.",
-    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
-   },
-   {
-    "h": "❓ Was noch unklar ist",
-    "points": [
-     "Wann und von wem die Leitungen gebaut werden",
-     "Was das Vorhaben kostet",
-     "Wie die Kabel vor Sabotage geschützt werden"
-    ]
-   }
-  ]
- },
- "n4d1b68974b": {
-  "points": [
-   "Russland zeigt sich bereit, Gespräche mit USA und Ukraine wieder aufzunehmen.",
-   "Osteuropa-Experte Umland ist im tagesschau24-Interview skeptisch: „Keine großen Hoffnungen“.",
-   "Selenskyjs Angebot, die Frontlinie einzufrieren, sei nicht neu und locke den Kreml nach seiner Einschätzung kaum."
-  ],
-  "why": "Die Einschätzung eines Experten hilft, die Aussichten der Diplomatie nüchtern einzuordnen.",
-  "slides": [
-   {
-    "h": "🧩 Hintergrund",
-    "text": "Ein Einfrieren der Frontlinie bedeutet, dass die Kämpfe an der aktuellen Linie enden, ohne dass die Gebietsfragen geklärt sind. Umland ist ein Politikwissenschaftler mit Schwerpunkt Ukraine; seine Sicht ist eine Einzelmeinung.",
-    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
-   },
-   {
-    "h": "❓ Was noch unklar ist",
-    "points": [
-     "Ob sich Moskaus Haltung durch Druck ändert",
-     "Wie belastbar eine Waffenruhe wäre",
-     "Welche Rolle die USA spielen"
-    ]
-   }
-  ]
- },
- "n52b040dee7": {
-  "points": [
-   "Mehrere Unternehmen fahren ihre KI-Nutzung zurück: fehlerhafte Ergebnisse, steigende Betriebskosten, überzogene Erwartungen.",
-   "Das Weltwirtschaftsforum hatte erwartet, dass bis 2030 rund 92 Millionen Jobs wegfallen oder sich stark verändern und 170 Millionen neu entstehen.",
-   "Nach hohen Investitionen rücken Nutzen, Kosten und Risiken stärker in den Blick."
-  ],
-  "why": "Der Bericht zeigt, dass der KI-Einsatz im Alltag oft schwieriger ist als die Versprechen.",
-  "slides": [
-   {
-    "h": "🧩 Hintergrund",
-    "text": "KI-Dienste werden meist nach Nutzung (Tokens) abgerechnet, die Kosten wachsen also mit dem Einsatz. Gerade bei Fehlern, die menschlich nachkontrolliert werden müssen, kann der erhoffte Effizienzgewinn schrumpfen.",
-    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
-   },
-   {
-    "h": "❓ Was noch unklar ist",
-    "points": [
-     "Wie viele Firmen wirklich zurückfahren",
-     "Ob sich die Rechnung mit billigeren Modellen ändert",
-     "Wie sich das auf Stellenpläne auswirkt"
     ]
    }
   ]
@@ -228,29 +91,6 @@
    }
   ]
  },
- "n936c062995": {
-  "points": [
-   "In den USA schwindet laut Umfragen die Solidarität mit Israel, vor allem bei Jüngeren.",
-   "Die Demokraten stehen unter Druck einer neuen Generation, etwa von Kandidaten wie Abdul El-Sayed in Michigan.",
-   "Der Konflikt bereitet im Wahlkampf beiden Parteien Probleme."
-  ],
-  "why": "Die Stimmung in den USA kann die Politik gegenüber Israel mittelfristig verändern.",
-  "slides": [
-   {
-    "h": "🧩 Hintergrund",
-    "text": "Die USA sind seit Jahrzehnten Israels wichtigster Verbündeter und größter Waffenlieferant. Die Wahlen in den USA finden im November statt, bei den Zwischenwahlen werden das Repräsentantenhaus und ein Teil des Senats neu gewählt.",
-    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
-   },
-   {
-    "h": "❓ Was noch unklar ist",
-    "points": [
-     "Wie stark sich die Umfragewerte in Wahlergebnissen zeigen",
-     "Ob sich die Regierungspolitik ändert",
-     "Wie Republikaner reagieren"
-    ]
-   }
-  ]
- },
  "naddd24e014": {
   "points": [
    "Für die PHP-Sicherheitslücke steht ein Update bereit; Betreiber sollen aktualisieren.",
@@ -297,29 +137,6 @@
    }
   ]
  },
- "nc4c24d85fc": {
-  "points": [
-   "Macron sieht keine Hinweise auf ausländische Kräfte hinter den Unruhen in Frankreich.",
-   "Es habe aber eine ausländische Manipulation der Informationen im Nachhinein gegeben, auch von Staatslenkern.",
-   "Er wies die Behauptung einer Invasion von „Horden von Migranten und Islamisten“ als völlig falsch zurück."
-  ],
-  "why": "Der Streit zeigt, wie Unruhen in einem Land internationale Politik und Wahlkämpfe beeinflussen.",
-  "slides": [
-   {
-    "h": "🧩 Hintergrund",
-    "text": "Der Ort der Pressekonferenz war Doha in Katar. Frankreich ist im Vorwahlkampf; Macron sprach von „Wahlkampf auf unserem Rücken“.",
-    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
-   },
-   {
-    "h": "❓ Was noch unklar ist",
-    "points": [
-     "Wen Macron konkret meint",
-     "Wie Washington reagiert",
-     "Wie sich die Lage in Frankreich entwickelt"
-    ]
-   }
-  ]
- },
  "ncbcd4dd003": {
   "points": [
    "Der Richter verhängte die gesetzlichen 5.000 US-Dollar pro Verstoß, rund 219,5 Milliarden Dollar, und senkte sie ohne Begründung auf 25 Milliarden Dollar.",
@@ -339,29 +156,6 @@
      "Ob Berufung die Summe senkt",
      "Wie Meta reagiert",
      "Was das für andere Klagen bedeutet"
-    ]
-   }
-  ]
- },
- "ncd7031222b": {
-  "points": [
-   "Der DAX legte dank KI-Zuversicht kräftig zu; Frankreich-Sorgen traten zurück.",
-   "Ein Milliardengewinn von SpaceX im dritten Quartal hob die Stimmung im Technologiesektor.",
-   "Infineon und Siemens Energy führten das Plus an; SAP, Tesla, Meta und IBM legen Bilanzen vor."
-  ],
-  "why": "Die Quartalszahlen gelten als Stresstest für die KI-Fantasie am Markt.",
-  "slides": [
-   {
-    "h": "🧩 Hintergrund",
-    "text": "Der DAX ist der Leitindex der 40 größten deutschen börsennotierten Unternehmen. Quartalsberichte gelten als wichtige Kursimpulse.",
-    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
-   },
-   {
-    "h": "❓ Was noch unklar ist",
-    "points": [
-     "Ob die Tech-Bilanzen die Erwartungen erfüllen",
-     "Wie lange die Erholung hält",
-     "Wie sich Frankreich auf die Märkte auswirkt"
     ]
    }
   ]
@@ -431,29 +225,6 @@
      "Wie McCarthy spielt",
      "Ob Winston zurückkehrt",
      "Wie das Team reagiert"
-    ]
-   }
-  ]
- },
- "ne4c6624cb2": {
-  "points": [
-   "Eine gravierende PHP-Sicherheitslücke bedroht weltweit Webseiten; in Deutschland sind Seiten mehrerer Städte vorsorglich abgeschaltet.",
-   "Es geht um zwei kritische Schwachstellen im Kern der Sprache, auf der Systeme wie WordPress laufen.",
-   "Das BSI stuft das Risiko mit „3 / Orange“ als außerordentlich hoch ein."
-  ],
-  "why": "Millionen Websites nutzen PHP; ungepatchte Server sind Ziele für Angreifer.",
-  "slides": [
-   {
-    "h": "🧩 Hintergrund",
-    "text": "WordPress betreibt Schätzungen zufolge 400 bis 500 Millionen Seiten. Neben dem BSI warnten Huntress und das PHP-Sicherheitsteam.",
-    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
-   },
-   {
-    "h": "❓ Was noch unklar ist",
-    "points": [
-     "Wie schnell Betreiber patchen",
-     "Ob Angriffe bereits laufen",
-     "Welche Dienste noch betroffen sind"
     ]
    }
   ]
