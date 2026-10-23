@@ -1,50 +1,668 @@
 {
- "generated": "2026-10-23T04:50:39.390004+00:00",
+ "generated": "2026-10-23T11:40:30.022842+00:00",
  "briefing": [
-  "nf87462024a",
+  "n090927d8c6",
   "n2404590288",
+  "n1a2101c11b",
+  "n83e0f2247e",
+  "n9ca9ec338c",
   "na01cfbb3ca",
-  "ncb896d5817",
-  "n0a5532f9de",
-  "n8f9aa3dd97",
-  "nc6d98da9a6",
-  "ne72cae4e70"
+  "n451fb8624a",
+  "n7bde313d12"
  ],
  "ranked": [
   {
-   "id": "nf87462024a",
-   "s": 37.7
-  },
-  {
-   "id": "n2404590288",
+   "id": "n090927d8c6",
    "s": 32.5
   },
   {
+   "id": "n2404590288",
+   "s": 30.8
+  },
+  {
+   "id": "n1a2101c11b",
+   "s": 27.8
+  },
+  {
+   "id": "n83e0f2247e",
+   "s": 27.6
+  },
+  {
+   "id": "n9ca9ec338c",
+   "s": 27.2
+  },
+  {
    "id": "na01cfbb3ca",
-   "s": 28.7
+   "s": 27.0
   },
   {
-   "id": "ncb896d5817",
-   "s": 27.4
+   "id": "n451fb8624a",
+   "s": 23.0
   },
   {
-   "id": "n0a5532f9de",
-   "s": 23.4
-  },
-  {
-   "id": "n8f9aa3dd97",
-   "s": 22.9
-  },
-  {
-   "id": "nc6d98da9a6",
-   "s": 22.9
-  },
-  {
-   "id": "ne72cae4e70",
-   "s": 22.3
+   "id": "n7bde313d12",
+   "s": 23.0
   }
  ],
  "items": [
+  {
+   "id": "nfcf45ea390",
+   "topic": "politik",
+   "title": "Nahost - Israel bereitet vollständige Abriegelung des Westjordanlands vor",
+   "text": "Die israelische Regierung hat das Militär angewiesen, sich auf eine vollständige Abriegelung des Westjordanlands vorzubereiten. Wie das Büro von Ministerpräsident Netanjahu mitteilte, wurden die Sicherheitskräfte aufgefordert, die Stadt Hebron umgehend zu sperren. Außerdem sollten sie Vorbereitungen für eine …",
+   "link": "https://www.deutschlandfunk.de/israel-bereitet-vollstaendige-abriegelung-des-westjordanlands-vor-100.html",
+   "published": "2026-10-23T11:33:21+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-25T11:33:21+00:00",
+   "img": "https://bilder.deutschlandfunk.de/84/01/c7/d9/8401c7d9-cfe9-48e5-8836-996a8e8a529c/westjordanland-hebron-grenze-soldaten-israel-palaestinenser-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Nach Angriff in Hebron: Israel bereitet Abriegelung des Westjordanlands vor",
+     "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n6e0a2da3ef",
+   "topic": "politik",
+   "title": "München - CSU-Generalsekretär Huber plädiert für \"Extremismusklausel\"",
+   "text": "CSU-Generalsekretär Huber sieht seine Partei als Bollwerk gegen radikale Parteien von Links wie von Rechts. Huber sagte im Deutschlandfunk, man müsse sich damit befassen, wie die Ränder zurückgedrängt werden könnten.",
+   "link": "https://www.deutschlandfunk.de/csu-generalsekretaer-huber-plaediert-fuer-extremismusklausel-102.html",
+   "published": "2026-10-23T11:33:21+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-25T11:33:21+00:00",
+   "img": "https://bilder.deutschlandfunk.de/61/f8/c8/95/61f8c895-4c59-49c7-b5cd-56123e1a9a4f/martin-huber-104-1920x1920.jpg"
+  },
+  {
+   "id": "n81622d7cbc",
+   "topic": "politik",
+   "title": "Nach Steuerschätzung - Forderungen nach Senkung der Stromsteuer für alle",
+   "text": "Nach der neuen Steuerschätzung gibt es Rufe nach weiteren Entlastungen: Weil der Bund im kommenden Jahr mit höheren Einnahmen rechnen kann, kommen aus mehreren Bundesländern Forderungen nach einer Senkung der Stromsteuer für alle. So verwies Hessens Ministerpräsident Rhein auf den Koalitionsvertrag.",
+   "link": "https://www.deutschlandfunk.de/forderungen-nach-senkung-der-stromsteuer-fuer-alle-100.html",
+   "published": "2026-10-23T11:33:21+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-25T11:33:21+00:00",
+   "img": "https://bilder.deutschlandfunk.de/FI/LE/_7/a6/FILE_7a669d84fac99230cfa2fbaa372585db/imago0107020200h-jpg-102-768x768.jpg"
+  },
+  {
+   "id": "nb6bd0ba943",
+   "topic": "politik",
+   "title": "Parteien - AfD-Datenleck: Weidel könnte in Spendenaffäre von 2018 erneut unter Druck geraten",
+   "text": "In der AfD-Spendenaffäre von 2018 gibt es möglicherweise neue Erkenntnisse.",
+   "link": "https://www.deutschlandfunk.de/afd-datenleck-weidel-koennte-in-spendenaffaere-von-2018-erneut-unter-druck-geraten-100.html",
+   "published": "2026-10-23T11:33:21+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-25T11:33:21+00:00",
+   "img": "https://bilder.deutschlandfunk.de/9c/a9/ca/ec/9ca9caec-a71b-4a10-8eea-ad90d88f8c5f/weidel-afd-berlin-100-1920x1920.jpg"
+  },
+  {
+   "id": "n136138bbf8",
+   "topic": "politik",
+   "title": "Nach Festnahme in Brandenburg - Mutmaßlicher russischer Spion in Untersuchungshaft",
+   "text": "​Der Bundesgerichtshof hat den in Brandenburg festgenommenen mutmaßlichen russischen Spion in Untersuchungshaft genommen. ‌",
+   "link": "https://www.deutschlandfunk.de/mutmasslicher-russischer-spion-in-untersuchungshaft-100.html",
+   "published": "2026-10-23T11:33:21+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-25T11:33:21+00:00",
+   "img": "https://bilder.deutschlandfunk.de/86/b7/c8/1e/86b7c81e-2a78-455c-a1b0-bb29cdd261fc/bundesanwaltschaft-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Mutmaßlicher russischer Spion in Brandenburg festgenommen",
+     "link": "https://www.tagesschau.de/inland/spionage-ruestungindustrie-festnahme-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n451fb8624a",
+   "topic": "politik",
+   "title": "Sanktionen ausgesetzt - Russlands erste Diesellieferung unterwegs in die USA",
+   "text": "Russland hat ein erstes Tankschiff mit 40.000 Tonnen Diesel an Bord auf den Weg Richtung USA geschickt.",
+   "link": "https://www.deutschlandfunk.de/russlands-erste-diesellieferung-unterwegs-in-die-usa-100.html",
+   "published": "2026-10-23T11:33:21+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-25T11:33:21+00:00",
+   "img": "https://bilder.deutschlandfunk.de/26/4f/59/0b/264f590b-6bdd-4573-aecf-eb467701a10e/russland-oel-tanker-oeltanker-hafen-grossbritannien-sperrung-schiff-einfahrt-100-1920x1920.jpg"
+  },
+  {
+   "id": "n5903bca021",
+   "topic": "it",
+   "title": "(g+) Cyber Resilience Act: Die Meldepflicht mit den eingebauten Lücken",
+   "text": "Seit September gilt eine neue EU-Meldepflicht für Sicherheitslücken. Doch wer ein älteres vernetztes Gerät besitzt, kann auf einem bekannten Problem sitzen bleiben - ganz legal. Eine Analyse von Jan Gruber ( Security , Exfat )",
+   "link": "https://www.golem.de/news/cyber-resilience-act-die-meldepflicht-mit-den-eingebauten-luecken-2610-214438.html",
+   "published": "2026-10-23T11:30:05+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-28T11:30:05+00:00",
+   "img": "https://www.golem.de/2610/214438-604917-604915_rc.jpg"
+  },
+  {
+   "id": "ne1d907bcf0",
+   "topic": "it",
+   "title": "heise+ | Termine mit Apple Kalender organisieren",
+   "text": "Termine aus iCloud, Google, Outlook und weiteren Diensten in einer App: Wir zeigen am iPad, wie Sie private und berufliche Verpflichtungen im Blick halten.",
+   "link": "https://www.heise.de/ratgeber/Termine-mit-Apple-Kalender-organisieren-11483072.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+   "published": "2026-10-23T11:30:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-28T11:30:00+00:00"
+  },
+  {
+   "id": "n7d5cd13653",
+   "topic": "it",
+   "title": "AfD-Leak: Mutmaßliche Täter bekennen sich",
+   "text": "In einem Interview mit der Zeit bekennen sich zwei anonyme Täter zu dem Cyberangriff auf die AfD: Es gehe um Transparenz und Gerechtigkeit.",
+   "link": "https://www.heise.de/news/AfD-Leak-Mutmassliche-Taeter-bekennen-sich-11498375.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-23T11:30:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-28T11:30:00+00:00"
+  },
+  {
+   "id": "n7bde313d12",
+   "topic": "politik",
+   "title": "CSU-Chef und Ministerpräsident: Der doppelte Söder",
+   "text": "Mit einer Rede von CSU-Chef Söder beginnt heute der Parteitag der Christsozialen. Söder zeigt sich als ambivalenter Politiker: Als Parteichef prägt er die Koalition, als Ministerpräsident kritisiert er sie zugleich. Von Sabine Henkel.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/csu-union-soeder-bundespolitik-100.html",
+   "published": "2026-10-23T11:28:38+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-26T11:28:38+00:00",
+   "img": "https://images.tagesschau.de/image/581f5ee4-441a-4f1b-9905-9407c59d6c08/AAABoWiFJHc/AAABnSSvrFg/16x9-big/soeder-926.jpg?width=1920"
+  },
+  {
+   "id": "na2cdf8707d",
+   "topic": "ki",
+   "title": "Canva bringt mit Craft sein erstes eigenes Bildmodell",
+   "text": "Die Designplattform Canva hat mit Canva Craft ihr erstes eigenes Modell zur Bildgenerierung veröffentlicht. Der Artikel Canva bringt mit Craft sein erstes eigenes Bildmodell erschien zuerst auf The Decoder .",
+   "link": "https://the-decoder.de/canva-bringt-mit-craft-sein-erstes-eigenes-bildmodell/",
+   "published": "2026-10-23T11:27:30+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-30T11:27:30+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/CanvaCraftthumbnail.avif"
+  },
+  {
+   "id": "n7bc4198bae",
+   "topic": "politik",
+   "title": "Herbststürme fegen über Hessen: Böen über 100 km/h erwartet",
+   "text": "Erst Luise, dann Manja: Durch Hessen ziehen nacheinander zwei Sturmtiefs. Es drohen Böen von über 100 km/h und kräftiger Regen. In neuen Woche folgt ein Wetter-Kontrast.",
+   "link": "https://www.hessenschau.de/panorama/herbststuerme-fegen-ueber-hessen-boeen-ueber-100-kmh-erwartet-v1,wetter-stuerme-regen-100.html",
+   "published": "2026-10-23T11:26:05+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-27T11:26:05+00:00",
+   "img": "https://www.hessenschau.de/panorama/badhomburg-frankfurt-wolken-regen-100~_t-1792754764579_v-16to9.jpg",
+   "tag": "Hessen",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Erste schwerere Herbststürme in Deutschland erwartet",
+     "link": "https://www.tagesschau.de/inland/wetter-herbst-sturm-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n930de5ef02",
+   "topic": "it",
+   "title": "EU-Staaten lehnen technische Lösung für Cookie-Banner ab",
+   "text": "Die EU-Staaten lehnen eine technische Lösung zur Reduzierung von Cookie-Bannern ab. Sie wollen mehr Ausnahmen für Betreiber, auf Kosten des Datenschutzes.",
+   "link": "https://www.heise.de/news/EU-Staaten-lehnen-technische-Loesung-fuer-Cookie-Banner-ab-11498018.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-23T11:24:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-28T11:24:00+00:00"
+  },
+  {
+   "id": "n36b683d50c",
+   "topic": "nfl",
+   "title": "Should the Browns work out a trade for RB Jonathan Taylor? Let’s explore",
+   "text": "Cleveland Browns running game has not been good. Could NFL trade deadline rumors involving Jonathan Taylor fix that?",
+   "link": "https://sports.yahoo.com/articles/browns-trade-rb-jonathan-taylor-111741571.html",
+   "published": "2026-10-23T11:17:41+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-28T11:17:41+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/0f079c2066dbd1455a7a6fb1bb2815ca.jpg"
+  },
+  {
+   "id": "na5a6d4c8b2",
+   "topic": "it",
+   "title": "Bundesdigitalminister Karsten Wildberger: Deutschland-App liegt hinter Zeitplan zurück",
+   "text": "Der Probebetrieb in allen Pilotkommunen für die Deutschland-App sollte eigentlich Mitte September starten. Karsten Wildberger räumt Probleme ein, relativiert aber mit gestiegenen Ansprüchen. ( Digitalisierung , KI )",
+   "link": "https://www.golem.de/news/bundesdigitalminister-karsten-wildberger-deutschland-app-liegt-hinter-zeitplan-zurueck-2610-214444.html",
+   "published": "2026-10-23T11:06:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-28T11:06:01+00:00",
+   "img": "https://www.golem.de/2610/214444-604946-604944_rc.jpg"
+  },
+  {
+   "id": "nd793c1454a",
+   "topic": "ki",
+   "title": "Code-Verifikation per KI: Anthropic nimmt die nächste Hürde der Software-Automatisierung",
+   "text": "Anthropic hat Claude mathematische Beweise für die Sicherheit bestehenden Codes erstellen lassen: rund 180 Millionen Zeilen Beweiscode für 123 Open-Source-Bibliotheken. Dabei fand das Modell Fehler, die jahrelanges Testen übersehen hatte. Anthropic will formale Verifikation per KI bald so praktikabel machen wie …",
+   "link": "https://the-decoder.de/code-verifikation-per-ki-anthropic-nimmt-die-naechste-huerde-der-software-automatisierung/",
+   "published": "2026-10-23T11:00:19+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-30T11:00:19+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/anthropic_claude-2.png"
+  },
+  {
+   "id": "nc3833825e9",
+   "topic": "wissenschaft",
+   "title": "Hirnentwicklung: Diese fünf Phasen durchläuft das Gehirn im Lauf des Lebens",
+   "text": "Wenn wir älter werden, macht unser Hirn typische Veränderungen durch. Nun haben Forscher fünf zentrale Wendepunkte identifiziert.",
+   "link": "https://www.spektrum.de/news/diese-fuenf-phasen-durchlaeuft-ihr-gehirn-im-lauf-des-lebens/2297824",
+   "published": "2026-10-23T11:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-06T11:00:00+00:00"
+  },
+  {
+   "id": "nc1510e5a53",
+   "topic": "nfl",
+   "title": "Tennessee Titans news: A chance at a win streak",
+   "text": "The Tennessee Titans are making a run for another victory in Week 7.",
+   "link": "https://sports.yahoo.com/articles/tennessee-titans-news-chance-win-110000531.html",
+   "published": "2026-10-23T11:00:00+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-28T11:00:00+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/562588e4d93bf039008ba85efcd75a03.jpg"
+  },
+  {
+   "id": "n1a2101c11b",
+   "topic": "welt",
+   "title": "Studie: Hitzesommer 2026 war in Europa der tödlichste bisher",
+   "text": "Mehr als 50.000 Menschen sind einer Schätzung zufolge in diesem Sommer aufgrund der Rekordtemperaturen gestorben. Besonders tödlich war der Juni 2026.",
+   "link": "https://www.dw.com/de/studie-hitzesommer-2026-war-in-europa-der-tödlichste-bisher/a-79741566?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-23T10:53:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-27T10:53:00+00:00",
+   "img": "https://static.dw.com/image/77687682_302.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Etwa 50.000 Hitzetote im Sommer 2026 in Europa",
+     "link": "https://www.tagesschau.de/wissen/klima/hitzetote-sommer-studie-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n27b37de026",
+   "topic": "politik",
+   "title": "Fachgesellschaften veröffentlichen Leitlinien für Suizidassistenz",
+   "text": "Wie sollen Ärzte oder Pflegekräfte reagieren, wenn Menschen in existenzieller Not sagen, dass sie sterben wollen? Ein Gesetz, das dafür Regeln vorgibt, fehlt. Eine neue Leitlinie setzt auf eingehende Beratung. Von Daniela Remus.",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/leitlinien-suizidassistenz-100.html",
+   "published": "2026-10-23T10:48:25+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-26T10:48:25+00:00",
+   "img": "https://images.tagesschau.de/image/5e1582a4-0b2d-415b-a2cf-50009e4806b8/AAABoWh_rLY/AAABnSSvrFg/16x9-big/patient-intensivstation-100.jpg?width=1920"
+  },
+  {
+   "id": "n93b3441295",
+   "topic": "welt",
+   "title": "Erneute Wahlverschiebung in Guinea-Bissau: Politisches Chaos hält an",
+   "text": "Die für den 6. Dezember angekündigten Wahlen in Guinea-Bissau sind auf unbestimmte Zeit verschoben. Ein neuer Termin steht nicht fest. Die Rückkehr zu einer zivilen Regierung bleibt ungewiss.",
+   "link": "https://www.dw.com/de/erneute-wahlverschiebung-in-guinea-bissau-politisches-chaos-hält-an/a-79729647?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-23T10:26:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-27T10:26:00+00:00",
+   "img": "https://static.dw.com/image/74915625_302.jpg"
+  },
+  {
+   "id": "n19b6ff1d26",
+   "topic": "wissenschaft",
+   "title": "Jubiläumsfolge 100x WTF Talk – Q & A",
+   "text": "Zur 100. Folge beantwortet das Team Fragen rund um den Podcast »WTF Talk«. 🎙️",
+   "link": "https://www.spektrum.de/podcast/wtf-talk-jubilaeumsfolge-100x-wtf-talk-q-und-a/2350921",
+   "published": "2026-10-23T10:15:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-06T10:15:00+00:00"
+  },
+  {
+   "id": "n83e0f2247e",
+   "topic": "welt",
+   "title": "Finnland genehmigt unterirdisches Atommüll-Endlager",
+   "text": "Finnland setzt zur Stromgewinnung auch auf Kernenergie - und hat nun grünes Licht für den Betrieb eines unterirdischen Endlagers für Tausende Tonnen hochradioaktiven Atommüll gegeben. Noch fehlt allerdings eine letzte Genehmigung.",
+   "link": "https://www.tagesschau.de/ausland/europa/finnland-endlager-atommuell-100.html",
+   "published": "2026-10-23T10:04:33+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-26T10:04:33+00:00",
+   "img": "https://images.tagesschau.de/image/72bbd938-cfa8-425f-8696-f45ee0686988/AAABoWgCM3g/AAABnSSvrFg/16x9-big/endlagertunnel-onkalo-102.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Finnland - Betriebsgenehmigung für unterirdisches Endlager für Atommüll",
+     "link": "https://www.deutschlandfunk.de/betriebsgenehmigung-fuer-unterirdisches-endlager-fuer-atommuell-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n7b3b56b24f",
+   "topic": "welt",
+   "title": "Russland kehrt zurück, Deutschland sagt ab: Kontroverse um FIFA U15-WM",
+   "text": "Deutschland gehört zu den wenigen FIFA-Mitgliedern, die eine Einladung zur Teilnahme an der U15-Weltmeisterschaft ablehnen. Das erstmals ausgetragenen Turnier markiert zudem die Rückkehr Russlands auf die Fußballbühne.",
+   "link": "https://www.dw.com/de/russland-kehrt-zurück-deutschland-sagt-ab-kontroverse-um-fifa-u15-wm/a-79740456?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-23T09:58:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-27T09:58:00+00:00",
+   "img": "https://static.dw.com/image/79734950_302.jpg"
+  },
+  {
+   "id": "n056da69641",
+   "topic": "wissenschaft",
+   "title": "Artenvielfalt: Forscher entdecken neue Hirschkäferart in Europa",
+   "text": "Hirschkäfer sind keine kleinen Tiere, dennoch wurde eine bislang unbekannte Art aus Griechenland lange übersehen. Die Artenvielfalt mehrte sich dank Citizen Science.",
+   "link": "https://www.spektrum.de/news/artenvielfalt-forscher-entdecken-neue-hirschkaeferart-in-europa/2351127",
+   "published": "2026-10-23T09:48:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-06T09:48:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/Hirschkaefer_Lucanus_appolon_1_.jpg.8419400.jpg?f=1280x720"
+  },
+  {
+   "id": "n090927d8c6",
+   "topic": "welt",
+   "title": "Nach Angriff in Hebron: Israel bereitet Abriegelung des Westjordanlands vor",
+   "text": "Die israelische Regierung hat das Militär angewiesen, sich auf eine vollständige Abriegelung des Westjordanlands vorzubereiten. Zuvor waren zwei Männer getötet worden, die einen Anschlag geplant haben sollen.",
+   "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-100.html",
+   "published": "2026-10-23T09:47:53+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-26T09:47:53+00:00",
+   "img": "https://images.tagesschau.de/image/5113fc05-b674-4528-8a19-ee38ea0a2139/AAABoWfUo7Q/AAABnSSvrFg/16x9-big/auto-sperre-westjordanland-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Nahost - Israel bereitet vollständige Abriegelung des Westjordanlands vor",
+     "link": "https://www.deutschlandfunk.de/israel-bereitet-vollstaendige-abriegelung-des-westjordanlands-vor-100.html"
+    }
+   ]
+  },
+  {
+   "id": "nec0a107268",
+   "topic": "welt",
+   "title": "Vor Knesset-Wahl: Junge Israelis zwischen Trauma und Zukunftssorge",
+   "text": "Der Terrorangriff der Hamas vor gut drei Jahren hat auch bei den jungen Wählern Israels tiefe Spuren hinterlassen. Sicherheit, Identität und die Sorge vor dem nächsten Krieg beeinflussen ihre Wahlentscheidung. Von Jan-Christoph Kitzler.",
+   "link": "https://www.tagesschau.de/ausland/asien/israel-parlamentswahlen-erstwaehler-100.html",
+   "published": "2026-10-23T09:33:59+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-26T09:33:59+00:00",
+   "img": "https://images.tagesschau.de/image/f044cdb3-68fc-4ead-b1f3-edf8215a3899/AAABoVSbZqI/AAABnSSvrFg/16x9-big/wahlplakat-tel-aviv-102.jpg?width=1920"
+  },
+  {
+   "id": "n172cb73399",
+   "topic": "ki",
+   "title": "OpenAI senkt Bewertungsziel und sammelt bis zu 30 Milliarden Dollar ein",
+   "text": "OpenAI steht kurz vor einer neuen Finanzierungsrunde über bis zu 30 Milliarden Dollar, hat dafür aber sein Bewertungsziel gesenkt. Der Artikel OpenAI senkt Bewertungsziel und sammelt bis zu 30 Milliarden Dollar ein erschien zuerst auf The Decoder .",
+   "link": "https://the-decoder.de/openai-senkt-bewertungsziel-und-sammelt-bis-zu-30-milliarden-dollar-ein/",
+   "published": "2026-10-23T09:30:38+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-30T09:30:38+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/07/openai-scientific-software-nano-banana-pro.jpg"
+  },
+  {
+   "id": "na3d702882b",
+   "topic": "wirtschaft",
+   "title": "Frankreichs Schuldenkrise: Droht eine neue Eurokrise?",
+   "text": "Frankreichs Anleiherenditen sind auf den höchsten Stand seit 2002 gestiegen. Wie groß ist die Ansteckungsgefahr für andere hochverschuldete Euroländer - und was kann die EZB dagegen tun? Von Angela Göpfert.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/frankreich-anleiherenditen-schuldenkrise-eurokrise-ezb-100.html",
+   "published": "2026-10-23T09:13:15+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-26T09:13:15+00:00",
+   "img": "https://images.tagesschau.de/image/6e162984-e98d-4e91-9421-ad32afd37a02/AAABoWO1FpI/AAABnSSvrFg/16x9-big/paris-proteste-134.jpg?width=1920"
+  },
+  {
+   "id": "n7d8a40ce9c",
+   "topic": "wirtschaft",
+   "title": "Ringen um Sparkurs bei Autobauer Volkswagen geht weiter",
+   "text": "Stellenabbau, Sparrunden und drohende Werkschließungen: Die Stimmung bei Volkswagen ist aufgeheizt, die Gewerkschaft IG Metall droht mit Streiks ab Januar. Heute spricht die Konzernspitze mit der IG Metall. Worum es bei dem Krisentreffen geht.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-ig-metall-ueberpruefungsgespraech-100.html",
+   "published": "2026-10-23T09:12:00+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-26T09:12:00+00:00",
+   "img": "https://images.tagesschau.de/image/9c694147-9f22-41f9-9750-896c27ad5a23/AAABoWeZ3KI/AAABnSSvrFg/16x9-big/vw-1632.jpg?width=1920"
+  },
+  {
+   "id": "nbd58526ae0",
+   "topic": "welt",
+   "title": "Opposition in Venezuela meldet sich zurück",
+   "text": "Seit der völkerrechtlich umstrittenen Festnahme von Venezuelas Langzeitmachthaber Maduro ist dessen Stellvertreterin Rodríguez auf Kuschelkurs mit US-Präsident Trump. Jetzt begehren Regierungsgegner erneut auf.",
+   "link": "https://www.dw.com/de/opposition-in-venezuela-meldet-sich-zurück/a-79739339?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-23T09:08:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-27T09:08:00+00:00",
+   "img": "https://static.dw.com/image/79739547_302.jpg"
+  },
+  {
+   "id": "n2b6c21230d",
+   "topic": "wirtschaft",
+   "title": "Marktbericht: Tech-Sorgen und hohe Ölpreise belasten den DAX",
+   "text": "Sorgen um den Technologiesektor und die Angst vor einer erneuten Eskalation im Nahen Osten drücken auf die Stimmung der Anleger. Der Ölpreis legt kräftig zu, damit steigen auch die Inflationsgefahren.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-boom-100.html",
+   "published": "2026-10-23T08:45:11+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-26T08:45:11+00:00",
+   "img": "https://images.tagesschau.de/image/d388efc0-d931-4876-9fbe-df4840ef0ed9/AAABmhb629g/AAABnSSvrFg/16x9-big/dax-195.jpg?width=1920"
+  },
+  {
+   "id": "n5e08762f10",
+   "topic": "welt",
+   "title": "Pferdekutschen im New Yorker Central Park sollen abgeschafft werden",
+   "text": "In New York geht eine Ära zu Ende. Die berühmten Pferdekutschen im Central Park werden schrittweise bis Juni 2028 abgeschafft. Der Stadtrat stimmte einem Gesetzesentwurf von Bürgermeister Mamdani zu. Von M. Ganslmeier.",
+   "link": "https://www.tagesschau.de/ausland/amerika/new-york-pferdekutschen-100.html",
+   "published": "2026-10-23T08:36:32+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-26T08:36:32+00:00",
+   "img": "https://images.tagesschau.de/image/6c979fc1-d809-408d-a68d-b6beae98f402/AAABoWeCJxE/AAABnSSvrFg/16x9-big/kutsche-new-york-104.jpg?width=1920"
+  },
+  {
+   "id": "n9ca9ec338c",
+   "topic": "politik",
+   "title": "Erste schwerere Herbststürme in Deutschland erwartet",
+   "text": "Gleich zwei Sturmtiefs ziehen auf Deutschland zu und bringen am Wochenende in weiten Teilen des Landes Sturmböen und viel Regen mit sich. Der Deutsche Wetterdienst hat für viele Regionen Warnungen herausgegeben.",
+   "link": "https://www.tagesschau.de/inland/wetter-herbst-sturm-100.html",
+   "published": "2026-10-23T08:33:26+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-26T08:33:26+00:00",
+   "img": "https://images.tagesschau.de/image/79db090c-a91f-434e-bfc2-19e76a7c9b9f/AAABoWeS1UY/AAABnSSvrFg/16x9-big/regenwolken-116.jpg?width=1920",
+   "also": [
+    {
+     "source": "hessenschau (hr)",
+     "title": "Herbststürme fegen über Hessen: Böen über 100 km/h erwartet",
+     "link": "https://www.hessenschau.de/panorama/herbststuerme-fegen-ueber-hessen-boeen-ueber-100-kmh-erwartet-v1,wetter-stuerme-regen-100.html"
+    }
+   ]
+  },
+  {
+   "id": "nb6056bb765",
+   "topic": "wirtschaft",
+   "title": "Weihnachtsbäume könnten teurer werden",
+   "text": "Weihnachten ohne festlich geschmückten Baum ist für viele undenkbar. Und in wenigen Wochen beginnt bereits die Ernte. Eines zeichnet sich aber bereits ab: Wer einen natürlichen Weihnachtsbaum will, muss tiefer in die Tasche greifen.",
+   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/weihnachtsbaum-saison-preise-anstieg-100.html",
+   "published": "2026-10-23T08:04:17+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-26T08:04:17+00:00",
+   "img": "https://images.tagesschau.de/image/485c4b08-2500-4f7c-ab17-cce8886493f0/AAABoWdHjLk/AAABnSSvrFg/16x9-big/weihnachtsbaum-520.jpg?width=1920"
+  },
+  {
+   "id": "n8265b358c9",
+   "topic": "welt",
+   "title": "News kompakt: Atommüll-Endlagerung in Finnland kann starten",
+   "text": "In Finnland hat das weltweit erste Endlager nun die Betriebsgenehmigung. Tausende Venezolaner fordern die Rückkehr von Oppositionspolitikerin Machado. Der DW-Nachrichtenüberblick.",
+   "link": "https://www.dw.com/de/news-kompakt-atommüll-endlagerung-in-finnland-kann-starten/a-79739081?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-23T07:33:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-27T07:33:00+00:00",
+   "img": "https://static.dw.com/image/74651205_302.jpg"
+  },
+  {
+   "id": "nd82e1b1768",
+   "topic": "wissenschaft",
+   "title": "Etwa 50.000 Hitzetote im Sommer 2026 in Europa",
+   "text": "Seit Beginn der Aufzeichnungen gab es noch nie so viele Hitzetote in Europa wie im Sommer 2026. Das hat eine britische Analyse ergeben. Die Folgen der von Menschen gemachten Klimaerwärmung werden den Forschern zufolge immer deutlicher.",
+   "link": "https://www.tagesschau.de/wissen/klima/hitzetote-sommer-studie-100.html",
+   "published": "2026-10-23T07:14:56+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T07:14:56+00:00",
+   "img": "https://images.tagesschau.de/image/8fc7b2c3-0dea-4ad2-9b2e-1583d0eb4cdc/AAABoWefZXY/AAABnSSvrFg/16x9-big/thermometer-103.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Studie: Hitzesommer 2026 war in Europa der tödlichste bisher",
+     "link": "https://www.dw.com/de/studie-hitzesommer-2026-war-in-europa-der-tödlichste-bisher/a-79741566?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "nb31f18d3c4",
+   "topic": "welt",
+   "title": "Venezuela: Tausende fordern Rückkehr von Machado",
+   "text": "In Venezuela haben Anhänger der Oppositionspolitikerin und Friedensnobelpreisträgerin Machado deren Rückkehr gefordert. Es war die größte Kundgebung seit der Absetzung von Präsident Maduro durch die USA.",
+   "link": "https://www.tagesschau.de/ausland/amerika/venezuela-demonstrationen-machado-100.html",
+   "published": "2026-10-23T07:01:24+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-26T07:01:24+00:00",
+   "img": "https://images.tagesschau.de/image/3e0e5893-147a-41b7-b3ae-9b6331656188/AAABoWeQenU/AAABnSSvrFg/16x9-big/venezuela-demonstration-caracas-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Erste Proteste seit fast zwei Jahren - Venezuela: Tausende Menschen fordern freie Wahlen",
+     "link": "https://www.deutschlandfunk.de/venezuela-tausende-menschen-fordern-freie-wahlen-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n6f2901e059",
+   "topic": "welt",
+   "title": "\"Top Gun\"-Darsteller Skerritt stirbt mit 93",
+   "text": "Er war Commander Mike \"Viper\" Metcalf an der Seite von Tom Cruise in \"Top Gun\". In \"Alien\" spielte er den Raumschiffkapitän Dallas. Nun ist der Schauspieler Tom Skerritt im Alter von 93 Jahren gestorben.",
+   "link": "https://www.tagesschau.de/ausland/amerika/tom-skerritt-gestorben-100.html",
+   "published": "2026-10-23T06:05:34+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-26T06:05:34+00:00",
+   "img": "https://images.tagesschau.de/image/fa41ba8f-bf59-485c-89ab-a5953b213eaa/AAABoWd1csA/AAABnSSvrFg/16x9-big/tom-skerritt-100.jpg?width=1920"
+  },
+  {
+   "id": "n71f7765f80",
+   "topic": "wissenschaft",
+   "title": "Brustkrebs bei Männern ist selten und wird meist spät entdeckt",
+   "text": "Brustkrebs beim Mann ist eine seltene Krankheit. Oft wird ein Tumor deshalb erst im fortgeschrittenen Stadium diagnostiziert - dadurch geht wertvolle Therapiezeit verloren. Von Christiane Stauß.",
+   "link": "https://www.tagesschau.de/wissen/gesundheit/brustkrebs-mann-100.html",
+   "published": "2026-10-23T05:26:29+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T05:26:29+00:00",
+   "img": "https://images.tagesschau.de/image/ff33e1af-db03-4dc6-b4d4-f3358d0b5996/AAABoV7ustw/AAABnSSvrFg/16x9-big/mann-brust-100.jpg?width=1920"
+  },
+  {
+   "id": "ne72cae4e70",
+   "topic": "welt",
+   "title": "Studentenbewegung: Zehntausende protestieren vor Neuwahl in Serbien",
+   "text": "An Sonntag wählen die Serben eine neues Parlament. Die oppositionelle \"Studentenliste\" tritt gegen die Partei Vucics an - Zehntausende Menschen kamen zu ihrer Abschlusskundgebung in Belgrad.",
+   "link": "https://www.tagesschau.de/ausland/europa/serbien-proteste-158.html",
+   "published": "2026-10-23T05:26:10+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-26T05:26:10+00:00",
+   "img": "https://images.tagesschau.de/image/949e12aa-b4d2-4d52-a62d-6cc83ee6dbf3/AAABoWXsMpw/AAABnSSvrFg/16x9-big/serbien-belgrad-100.jpg?width=1920"
+  },
+  {
+   "id": "n2bc81b284a",
+   "topic": "welt",
+   "title": "In 28 Städten: Demonstrationen für liberaleres Abtreibungsrecht in Polen",
+   "text": "In 28 polnischen Städten wurde für die Liberalisierung des Abtreibungsgesetzes demonstriert. Frauenorganisationen werfen der liberalkonservativen Regierung Tusk Untätigkeit vor. Von Palina Milling.",
+   "link": "https://www.tagesschau.de/ausland/europa/polen-abtreibung-protest-100.html",
+   "published": "2026-10-23T05:13:58+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-26T05:13:58+00:00",
+   "img": "https://images.tagesschau.de/image/17a86cb5-c38b-4f31-9f51-7162a6648f58/AAABoWZMPDs/AAABnSSvrFg/16x9-big/polen-protest-abtreibung-100.jpg?width=1920"
+  },
+  {
+   "id": "ndbefaabb63",
+   "topic": "wirtschaft",
+   "title": "\"Operation Chargeback\": Merkur-Tochterfirma wickelte Zahlungen ab",
+   "text": "Im Rahmen der \"Operation Chargeback\" ermitteln Behörden gegen internationale Geldwäsche-Netzwerke. Ex-Wirecard-Manager sind inzwischen angeklagt. Nach BR-Recherchen führen Spuren auch zu einer Tochterfirma des Glücksspielkonzerns Merkur.",
+   "link": "https://www.tagesschau.de/investigativ/br-recherche/gluecksspiel-geldwaesche-wirecard-100.html",
+   "published": "2026-10-23T05:04:03+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-26T05:04:03+00:00",
+   "img": "https://images.tagesschau.de/image/bcba4ff2-fd59-494d-897f-c7e4e1b10d92/AAABoWdf_DU/AAABnSSvrFg/16x9-big/online-gluecksspiel-104.jpg?width=1920"
+  },
   {
    "id": "n8f9aa3dd97",
    "topic": "politik",
@@ -56,7 +674,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-25T04:37:59+00:00",
-   "img": "https://bilder.deutschlandfunk.de/f9/79/d2/cb/f979d2cb-624c-40c5-bcea-0d0d44af51b0/venezuela-proteste-104-1920x1920.jpg"
+   "img": "https://bilder.deutschlandfunk.de/f9/79/d2/cb/f979d2cb-624c-40c5-bcea-0d0d44af51b0/venezuela-proteste-104-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Venezuela: Tausende fordern Rückkehr von Machado",
+     "link": "https://www.tagesschau.de/ausland/amerika/venezuela-demonstrationen-machado-100.html"
+    }
+   ]
   },
   {
    "id": "need8709dbf",
@@ -267,19 +892,6 @@
    "img": "https://sportshub.cbsistatic.com/i/2026/10/23/8191a10a-dc72-4043-bcca-fd360accf477/caleb-williams.jpg"
   },
   {
-   "id": "ne72cae4e70",
-   "topic": "welt",
-   "title": "Studentenbewegung: Tausende auf Straße in Serbien vor Neuwahl",
-   "text": "Drei Tage vor der Parlamentswahl am Sonntag ist in der serbischen Hauptstadt Belgrad eine riesige Menschenmenge zur Abschlusskundgebung der oppositionellen \"Studentenliste\" gekommen.",
-   "link": "https://www.tagesschau.de/ausland/europa/serbien-proteste-158.html",
-   "published": "2026-10-23T02:01:08+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T02:01:08+00:00",
-   "img": "https://images.tagesschau.de/image/949e12aa-b4d2-4d52-a62d-6cc83ee6dbf3/AAABoWXsMpw/AAABnSSvrFg/16x9-big/serbien-belgrad-100.jpg?width=1920"
-  },
-  {
    "id": "n657063ad62",
    "topic": "nfl",
    "title": "Brian Schottenheimer issues challenge to George Pickens as Cowboys search for answers on offense",
@@ -342,7 +954,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-24T21:35:04+00:00",
-   "img": "https://bilder.deutschlandfunk.de/FI/LE/_5/7e/FILE_57e879ae1b1f1d1cbced5094e23d0419/000-bk5qi-jpg-100-768x768.jpg"
+   "img": "https://bilder.deutschlandfunk.de/FI/LE/_5/7e/FILE_57e879ae1b1f1d1cbced5094e23d0419/000-bk5qi-jpg-100-768x768.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Finnland genehmigt unterirdisches Atommüll-Endlager",
+     "link": "https://www.tagesschau.de/ausland/europa/finnland-endlager-atommuell-100.html"
+    }
+   ]
   },
   {
    "id": "nd3b6e2e7da",
@@ -537,8 +1156,19 @@
    "source": "Deutsche Welle",
    "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
    "lang": "de",
-   "expires": "2026-10-26T17:51:00+00:00",
-   "img": "https://static.dw.com/image/79723936_302.jpg"
+   "expires": "2026-10-26T17:51:00+00:00"
+  },
+  {
+   "id": "nb91fd9b221",
+   "topic": "welt",
+   "title": "Drohnen und Raketen: Russlands Angriffe machen Kyjiw zur Frontstadt",
+   "text": "Die russischen Angriffe auf die ukrainische Hauptstadt werden häufiger und härter. Kyjiw erlebt das womöglich blutigste Jahr in diesem Krieg. Wo finden die Menschen Schutz? Und wie bewältigen sie ihren Alltag?",
+   "link": "https://www.dw.com/de/drohnen-und-raketen-russlands-angriffe-machen-kyjiw-zur-frontstadt/a-79733058?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-22T17:51:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-26T17:51:00+00:00"
   },
   {
    "id": "n0491ce1953",
@@ -1073,609 +1703,10 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Bundesanwaltschaft - Mutmaßlicher Russland-Spion in Brandenburg festgenommen",
-     "link": "https://www.deutschlandfunk.de/mutmasslicher-russland-spion-in-brandenburg-festgenommen-100.html"
+     "title": "Nach Festnahme in Brandenburg - Mutmaßlicher russischer Spion in Untersuchungshaft",
+     "link": "https://www.deutschlandfunk.de/mutmasslicher-russischer-spion-in-untersuchungshaft-100.html"
     }
    ]
-  },
-  {
-   "id": "n6ea4230c38",
-   "topic": "it",
-   "title": "(g+) Vier Coding-Agenten im Testeinsatz: Warum grüne Tests noch keinen guten Code garantieren",
-   "text": "Vier Coding-Agenten ändern Code in einer .NET-Bibliothek zur Datenprüfung. Obwohl ihre Lösungen die Tests bestehen, bleiben Fehler und Lücken. Wo müssen Entwickler nacharbeiten? Ein Praxistest von Fabian Deitelhoff ( Softwareentwicklung , KI )",
-   "link": "https://www.golem.de/news/vier-coding-agenten-im-testeinsatz-warum-gruene-tests-noch-keinen-guten-code-garantieren-2610-214395.html",
-   "published": "2026-10-22T11:30:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-27T11:30:02+00:00",
-   "img": "https://www.golem.de/2610/214395-604714-604712_rc.jpg"
-  },
-  {
-   "id": "n980caf4c6e",
-   "topic": "nfl",
-   "title": "The NFC East offers a turnaround chance for one struggling team - Daily Slop",
-   "text": "Which team will it be? The Commanders next 8 opponents have combined record of 17-29-1; 6 have 4 or 5 losses in 6 games",
-   "link": "https://sports.yahoo.com/articles/nfc-east-offers-turnaround-chance-113000845.html",
-   "published": "2026-10-22T11:30:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-27T11:30:00+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/98e3394a7d560ac8e670e5c0f4a5e6fc.jpg"
-  },
-  {
-   "id": "n09ae6c8784",
-   "topic": "it",
-   "title": "heise+ | Bauanleitung für einen kompakten Feinstaub-Warner",
-   "text": "Ein tragbares Luftqualitätsmessgerät für den Arbeitsplatz hilft bei der Einschätzung, ob und wie viel Feinstäube die Gesundheit belasten könnten.",
-   "link": "https://www.heise.de/ratgeber/Bauanleitung-fuer-einen-kompakten-Feinstaub-Warner-11485345.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-   "published": "2026-10-22T11:30:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-27T11:30:00+00:00"
-  },
-  {
-   "id": "n730f967a1b",
-   "topic": "it",
-   "title": "Xbox Cloud Gaming ab 4 Dollar: Microsoft testet Stundenpakete ohne Abo-Zwang",
-   "text": "Microsoft lässt Xbox-Insider erstmals Kontingente für Cloud-Spielzeit kaufen, ganz ohne Abo. Die Preise beginnen bei 4 US-Dollar für zehn Stunden.",
-   "link": "https://www.heise.de/news/Xbox-Cloud-Gaming-ab-4-Dollar-Microsoft-testet-Stundenpakete-ohne-Abo-Zwang-11496922.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-22T11:26:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-27T11:26:00+00:00"
-  },
-  {
-   "id": "nad9d81b69e",
-   "topic": "wirtschaft",
-   "title": "Was beim neuen Altersvorsorgedepot zu beachten ist",
-   "text": "Neben der Kapitalrente wird es auch eine neue staatlich geförderte Zusatzrente geben, das Altersvorsorgedepot. Es soll die \"Riester-Rente\" ablösen. Das Versprechen: mehr Aktien, ETFs und Renditechancen. Was es zu beachten gilt, erklärt Christian Sachsinger.",
-   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-100.html",
-   "published": "2026-10-22T11:09:07+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-25T11:09:07+00:00",
-   "img": "https://images.tagesschau.de/image/d20295c4-dfe1-449c-a0af-5effc46bb952/AAABoWKliPY/AAABnSSvrFg/16x9-big/frau-smartphone-114.jpg?width=1920"
-  },
-  {
-   "id": "ne91f54f87a",
-   "topic": "welt",
-   "title": "Ungarn gedenkt Revolution von 1956 und rechnet mit Orban ab",
-   "text": "Vor 70 Jahren schlug die Sowjetunion Ungarns Revolution blutig nieder. Die unter Orban grotesk verdrehte Geschichte will der neue Premier Peter Magyar zurechtrücken - und so mit Orbans korrupter Autokratie abrechnen.",
-   "link": "https://www.dw.com/de/ungarn-gedenkt-revolution-von-1956-und-rechnet-mit-orban-ab/a-79724536?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-22T11:03:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-26T11:03:00+00:00",
-   "img": "https://static.dw.com/image/79714503_302.jpg"
-  },
-  {
-   "id": "n8fa9d2b262",
-   "topic": "nfl",
-   "title": "Super Bowl stock report for Week 7: Caleb Williams puts Bears back in contention, Rams devolve into disaster",
-   "text": "We assess the NFL title race after Week 6 and identify three upcoming games that could reshape the Super Bowl picture",
-   "link": "https://www.cbssports.com/nfl/news/super-bowl-61-stock-report-nfl-week-bears-rams/",
-   "published": "2026-10-22T11:00:52+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-27T11:00:52+00:00"
-  },
-  {
-   "id": "n57e1d09d31",
-   "topic": "it",
-   "title": "WhatsApp-Fake von 500.000 Usern heruntergeladen: Was Betroffene jetzt tun können",
-   "text": "Im Google Play Store kursierte eine Fake-Version von WhatsApp, die von mehr als 500.000 Usern heruntergeladen wurde. Was Betroffene machen können.",
-   "link": "https://www.heise.de/news/WhatsApp-Fake-von-500-000-Usern-heruntergeladen-Was-Betroffene-jetzt-tun-koennen-11496838.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-22T11:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-27T11:00:00+00:00"
-  },
-  {
-   "id": "n9bfdd2826f",
-   "topic": "ki",
-   "title": "\"Skynet-Modus\": Autonomer KI-Agent kapert fremde Sprachmodelle für Cyberangriffe",
-   "text": "Sicherheitsforscher von Symantec haben einen offensiven KI-Agenten dokumentiert, der ungeschützte Sprachmodelle im Netz kapert und damit selbstständig Server angreift, Datenbanken stiehlt und Kryptominer installiert. Er führt bis zu 100.000 Schritte ohne menschliches Zutun aus und die Rechnung trägt der Besitzer des …",
-   "link": "https://the-decoder.de/skynet-modus-autonomer-ki-agent-kapert-fremde-sprachmodelle-fuer-cyberangriffe/",
-   "published": "2026-10-22T10:39:56+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-29T10:39:56+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/cybersecurity_kraken-1.png"
-  },
-  {
-   "id": "nbc3ea31230",
-   "topic": "welt",
-   "title": "Tote bei Huthi-Angriff auf Flughafen in Saudi-Arabien",
-   "text": "Die jemenitische Huthi-Miliz greift weiter Ziele in Saudi-Arabien an. Nach einer Attacke auf ein Ölfeld nahmen die vom Iran unterstützten Kämpfer auch den Flughafen der Stadt Dammam ins Visier.",
-   "link": "https://www.dw.com/de/tote-bei-huthi-angriff-auf-flughafen-in-saudi-arabien/a-79730390?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-22T10:33:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-26T10:33:00+00:00",
-   "img": "https://static.dw.com/image/79730724_302.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Tote nach Angriff auf Flughafen in Saudi-Arabien",
-     "link": "https://www.tagesschau.de/ausland/asien/flughafen-saudi-arabien-100.html"
-    },
-    {
-     "source": "Deutschlandfunk",
-     "title": "Dammam - Saudi-Arabien: Mindestens ein Toter nach neuen Angriffen auf Flughafen - US-Regierung zieht Personal aus Botschaft ab",
-     "link": "https://www.deutschlandfunk.de/saudi-arabien-mindestens-ein-toter-nach-neuen-angriffen-auf-flughafen-us-regierung-zieht-personal-au-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n0a5532f9de",
-   "topic": "politik",
-   "title": "SPD will Pflegereform nachbessern",
-   "text": "Bei der Ministerpräsidentenkonferenz dürfte heute wohl auch über die Pflegereform diskutiert werden. Die SPD will Nachbesserungen - und fordert eine Überarbeitung des Gesetzentwurfs.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/spd-pflegereform-104.html",
-   "published": "2026-10-22T10:31:09+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-25T10:31:09+00:00",
-   "img": "https://images.tagesschau.de/image/6447e8f0-a14c-4c48-82f8-94e8b1770785/AAABoWMlvho/AAABnSSvrFg/16x9-big/pflege-seniorenheim-102.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Berlin - SPD will Pflegereform im Bundestag nachbessern",
-     "link": "https://www.deutschlandfunk.de/spd-will-pflegereform-im-bundestag-nachbessern-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n2489391767",
-   "topic": "wissenschaft",
-   "title": "Wetter in Deutschland: Erste Herbststürme stehen bevor",
-   "text": "Sturmböen im Westen, mögliche Orkanböen im Bergland: Der Herbst zeigt sich von der ungemütlichen Seite. Hier erfahren Sie, wo es besonders stürmisch wird.",
-   "link": "https://www.spektrum.de/news/wetter-erste-herbststuerme-stehen-bevor/2350893",
-   "published": "2026-10-22T10:30:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-05T10:30:00+00:00"
-  },
-  {
-   "id": "nd770ee5f64",
-   "topic": "welt",
-   "title": "In Niger gekidnappte Europäerinnen: Freilassung nach anderthalb Jahren",
-   "text": "Eine Schweizerin und eine Österreicherin waren in der Gewalt von Dschihadisten. Nun sind sie auf dem Weg in die Freiheit.",
-   "link": "https://www.dw.com/de/in-niger-gekidnappte-europäerinnen-freilassung-nach-anderthalb-jahren/a-79730911?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-22T10:28:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-26T10:28:00+00:00",
-   "img": "https://static.dw.com/image/79731135_302.jpg"
-  },
-  {
-   "id": "nefa6223bd0",
-   "topic": "nfl",
-   "title": "NFL Week 7 upset alert: Can Giants upset Texans with JJ McCarthy at QB? Can Falcons beat 49ers?",
-   "text": "Baltimore and Denver are two other teams firmly at risk of being upset",
-   "link": "https://www.cbssports.com/nfl/news/nfl-week-7-upset-alert-why-five-favorites-could-fall-texans-49ers-seahawks/",
-   "published": "2026-10-22T10:00:46+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-27T10:00:46+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/21/a05f63d9-bf36-417a-ac78-ba67494a8d63/template-pic.jpg"
-  },
-  {
-   "id": "n25ee21921c",
-   "topic": "ki",
-   "title": "OpenAI-Agenten werten Mausgehirn-Daten in 32 Minuten aus, Menschen bräuchten Monate",
-   "text": "OpenAI hat zusammen mit PerturbAI und Scripps Research tausende KI-Agenten eingesetzt, um biologische Daten aus Millionen von Mauszellen zu analysieren. Der Artikel OpenAI-Agenten werten Mausgehirn-Daten in 32 Minuten aus, Menschen bräuchten Monate erschien zuerst auf The Decoder .",
-   "link": "https://the-decoder.de/openai-agenten-werten-mausgehirn-daten-in-32-minuten-aus-menschen-braeuchten-monate/",
-   "published": "2026-10-22T09:36:53+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-29T09:36:53+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/openai_orchestra_bio.png"
-  },
-  {
-   "id": "n511034677c",
-   "topic": "politik",
-   "title": "Schnieder besorgt über mögliche AfD-Beteiligung an Ministerpräsidentenkonferenz",
-   "text": "Die Ministerpräsidentenkonferenz tagt heute - noch ist kein AfD-Regierungschef dabei. Das könnte sich ändern, sollte Siegmund in Sachsen-Anhalt gewählt werden. Der rheinland-pfälzische Ministerpräsident Schnieder warnte vor Sicherheitsrisiken.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/schnieder-afd-ministerpraesidentenkonferenz-100.html",
-   "published": "2026-10-22T09:25:10+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-25T09:25:10+00:00",
-   "img": "https://images.tagesschau.de/image/9f151257-3b6a-4f01-9be2-e32c901e38b4/AAABoWKPpBY/AAABnSSvrFg/16x9-big/gordon-schnieder-110.jpg?width=1920"
-  },
-  {
-   "id": "n4b72aa505f",
-   "topic": "wirtschaft",
-   "title": "Die Kapitalrente - Befreiungsschlag oder Risiko?",
-   "text": "Von 2028 an soll die Kapitalrente das deutsche Rentensystem ergänzen: Beiträge werden in Fonds investiert, um die Altersvorsorge zu stärken. Kann die Kapitalrente die großen Hoffnungen erfüllen? Von Frank Aischmann.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/renten-reform-kapitalrente-100.html",
-   "published": "2026-10-22T09:24:26+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-25T09:24:26+00:00",
-   "img": "https://images.tagesschau.de/image/3811b66a-116c-4da8-b96d-0ca6633f6dcd/AAABnu3HSFM/AAABnSSvrFg/16x9-big/rente-472.jpg?width=1920"
-  },
-  {
-   "id": "n13eea91acf",
-   "topic": "wissenschaft",
-   "title": "Drei in einer Reihe",
-   "text": "Heutiges Thema im »Christian Spannagel«-Video: Muster & Strukturen.",
-   "link": "https://www.spektrum.de/video/christian-spannagel-drei-in-einer-reihe/2350735",
-   "published": "2026-10-22T09:16:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-05T09:16:00+00:00"
-  },
-  {
-   "id": "nc0083df7a3",
-   "topic": "wissenschaft",
-   "title": "Die Gelbe Wiesenraute ist Blume des Jahres 2027",
-   "text": "Seit 1980 kürt die Loki-Schmidt-Stiftung die Blume des Jahres. Für 2027 hat sie die Gelbe Wiesenraute auserkoren. Mit der Wahl der bis zu 1,50 Meter hohen Pflanze verbindet die Stiftung einen Appell.",
-   "link": "https://www.tagesschau.de/wissen/klima/blume-des-jahres-100.html",
-   "published": "2026-10-22T09:07:58+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-05T09:07:58+00:00",
-   "img": "https://images.tagesschau.de/image/72a398ad-6bc3-4bf0-b47e-50b5672d4aa9/AAABoWLaBbY/AAABnSSvrFg/16x9-big/gelbe-wiesenraute-104.jpg?width=1920"
-  },
-  {
-   "id": "n37bffa99ce",
-   "topic": "welt",
-   "title": "Weiter weltweit Internet-Probleme wegen PHP-Sicherheitslücke",
-   "text": "Bei den Betreibern von Internetseiten herrscht weiterhin Furcht, dass Kriminelle die neu entdeckte Sicherheitslücke in der wichtigen Programmiersprache PHP nutzen. Offenbar gab es bereits Millionen Hackerangriffe.",
-   "link": "https://www.dw.com/de/weiter-weltweit-internet-probleme-wegen-php-sicherheitslücke/a-79728533?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-22T09:05:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-26T09:05:00+00:00",
-   "img": "https://static.dw.com/image/68429011_302.jpg"
-  },
-  {
-   "id": "n6ea58be491",
-   "topic": "wissenschaft",
-   "title": "Tierverhalten: Orang-Utans wissen Gelächter zu schätzen",
-   "text": "Menschenaffen schätzen Erfahrungen, die sie in fröhlicher Stimmung machen, als besonders wertvoll ein.",
-   "link": "https://www.spektrum.de/news/orang-utans-wissen-gelaechter-zu-schaetzen/2350581",
-   "published": "2026-10-22T09:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-05T09:00:00+00:00"
-  },
-  {
-   "id": "nbab291fbde",
-   "topic": "welt",
-   "title": "Nach Treffen mit Witkoff - Russland greift Kiew erneut mit Raketen an",
-   "text": "Die gegenseitigen Angriffe gehen ungeachtet der US-Vermittlungsbemühungen weiter: Russland griff in der Nacht erneut die ukrainische Hauptstadt Kiew an, aus Moskau wurden Drohnenangriffe gemeldet.",
-   "link": "https://www.tagesschau.de/ausland/europa/ukraine-putin-witkoff-100.html",
-   "published": "2026-10-22T08:56:23+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-25T08:56:23+00:00",
-   "img": "https://images.tagesschau.de/image/f216a2aa-1814-422c-9701-f31245f0d578/AAABoWH4h-M/AAABnSSvrFg/16x9-big/ukraine-angriff-126.jpg?width=1920"
-  },
-  {
-   "id": "nbfbac3fb93",
-   "topic": "wirtschaft",
-   "title": "Kanada gehen die Ahornsirup-Reserven aus",
-   "text": "Kanada hat eine strategische Ahornsirup-Reserve - und die geht zur Neige. Bis Ende Februar kommenden Jahres dürfte sie komplett leer sein. Im vergangenen Jahr hatte es Hamsterkäufe von Importeuren gegeben, vor allem aus den USA.",
-   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/kanada-ahornsirup-exporte-usa-deutschland-100.html",
-   "published": "2026-10-22T08:52:53+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-25T08:52:53+00:00",
-   "img": "https://images.tagesschau.de/image/f1d9d859-2acd-4e80-a5a2-dfbcfae162e5/AAABoWLgCWk/AAABnSSvrFg/16x9-big/ahornsirup-102.jpg?width=1920"
-  },
-  {
-   "id": "n5542460e7b",
-   "topic": "ki",
-   "title": "Anthropic schickt proaktiven Dauer-Agenten \"Claude Duet\" gegen Grok Bots, Meta Muse und OpenAIs Dots ins Rennen",
-   "text": "Anthropic startet mit Claude Duet einen proaktiven KI-Agenten, der eigenständig Aufgaben erledigt – auch wenn der Nutzer offline ist. Die App basiert auf Claude Opus 5.5, greift über 6.000 Konnektoren auf Dienste wie Gmail, Slack oder Stripe zu und holt vor sensiblen Aktionen wie Zahlungen eine Freigabe ein. Anthropic …",
-   "link": "https://the-decoder.de/anthropic-schickt-proaktiven-dauer-agenten-claude-duet-gegen-grok-bots-meta-muse-und-openais-dots-ins-rennen/",
-   "published": "2026-10-22T08:15:22+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-29T08:15:22+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/Claude-Duet.png"
-  },
-  {
-   "id": "n59f953cf9f",
-   "topic": "wirtschaft",
-   "title": "Update Wirtschaft vom 22.10.2026",
-   "text": "Update Wirtschaft vom 22.10.2026",
-   "link": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1670512.html",
-   "published": "2026-10-22T08:07:28+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-25T08:07:28+00:00",
-   "img": "https://images.tagesschau.de/image/26bacf5c-244f-43ed-a1a4-6906896924df/AAABoWKmi3k/AAABnSSvrFg/16x9-big/sendungsbild-1815452.jpg?width=1920"
-  },
-  {
-   "id": "n654e2741f8",
-   "topic": "welt",
-   "title": "Knesset-Wahl: Was die Kriegskosten für Israels Wähler bedeuten",
-   "text": "Sicherheit steht in Israels Wahlkampf im Vordergrund. Doch drei Jahre Krieg haben die Wirtschaft schwer getroffen: Für viele Menschen geht es vor der Wahl am 27. Oktober auch um die Frage, wie es wirtschaftlich weitergehen soll. Von B. Meier.",
-   "link": "https://www.tagesschau.de/ausland/asien/israel-wirtschaft-wahl-100.html",
-   "published": "2026-10-22T07:56:08+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-25T07:56:08+00:00",
-   "img": "https://images.tagesschau.de/image/98acc4d4-73fa-41f9-934b-d7d71e104580/AAABoV4oeo0/AAABnSSvrFg/16x9-big/markt-gemuese-isarel-100.jpg?width=1920"
-  },
-  {
-   "id": "nf87462024a",
-   "topic": "welt",
-   "title": "Tote nach Angriff auf Flughafen in Saudi-Arabien",
-   "text": "Immer wieder greifen die Huthi aus dem Jemen zivile Ziele in Saudi-Arabien an. Nun werden Verletzte und zwei Todesopfer nach einer Attacke auf den Flughafen in Dammam gemeldet. Die USA kündigten an, diplomatisches Personal abzuziehen.",
-   "link": "https://www.tagesschau.de/ausland/asien/flughafen-saudi-arabien-100.html",
-   "published": "2026-10-22T07:50:35+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-25T07:50:35+00:00",
-   "img": "https://images.tagesschau.de/image/84661b8c-9262-4ae5-9601-43b028a06700/AAABoWIxz4Q/AAABnSSvrFg/16x9-big/flughafen-dammam-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Tote bei Huthi-Angriff auf Flughafen in Saudi-Arabien",
-     "link": "https://www.dw.com/de/tote-bei-huthi-angriff-auf-flughafen-in-saudi-arabien/a-79730390?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Deutschlandfunk",
-     "title": "Dammam - Saudi-Arabien: Mindestens ein Toter nach neuen Angriffen auf Flughafen - US-Regierung zieht Personal aus Botschaft ab",
-     "link": "https://www.deutschlandfunk.de/saudi-arabien-mindestens-ein-toter-nach-neuen-angriffen-auf-flughafen-us-regierung-zieht-personal-au-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n1971e35909",
-   "topic": "welt",
-   "title": "News kompakt: Papst Leo XIV. braucht keine weitere Krebsbehandlung",
-   "text": "Analysierte Gewebeproben zeigen: Der entfernte Tumor des Papstes war begrenzt. Warnung vor PHP-Schwachstelle hat weltweite Auswirkungen im Internet. Der DW-Nachrichtenüberblick.",
-   "link": "https://www.dw.com/de/news-kompakt-papst-leo-xiv-braucht-keine-weitere-krebsbehandlung/a-79728632?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-22T07:01:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-26T07:01:00+00:00",
-   "img": "https://static.dw.com/image/79723027_302.jpg"
-  },
-  {
-   "id": "ncc894086c6",
-   "topic": "welt",
-   "title": "Protein-Shakes & Co für Teenager: sinnvoll oder gefährlich?",
-   "text": "Proteinprodukte verheißen Muskelaufbau und Gewichtsabnahme - und sind sehr beliebt bei Jugendlichen. Für Kinder versprechen Eiweißpulver ein gesundes Wachstum. Stimmt das? Und wie viel Protein ist noch gesund?",
-   "link": "https://www.dw.com/de/protein-shakes-co-für-teenager-sinnvoll-oder-gefährlich/a-79722531?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-22T05:26:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-26T05:26:00+00:00",
-   "img": "https://static.dw.com/image/74441779_302.jpg"
-  },
-  {
-   "id": "n8b6488bb6c",
-   "topic": "welt",
-   "title": "US-Zwischenwahlen: Wie verlässlich sind die Umfragen vor den Midterms?",
-   "text": "Angesichts der landesweit niedrigen Zustimmungswerte für Trump hoffen viele Demokraten in den USA auf einen deutlichen Sieg bei den Zwischenwahlen in zwei Wochen. Umfragen nähren ihre Zuversicht. Doch sind sie verlässlich? Von Jan Oppel.",
-   "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-umfragen-100.html",
-   "published": "2026-10-22T05:03:31+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-25T05:03:31+00:00",
-   "img": "https://images.tagesschau.de/image/c78dd657-79ad-4506-b080-5dafd054e9e0/AAABoVpZM5I/AAABnSSvrFg/16x9-big/wahlplakate-texas-100.jpg?width=1920"
-  },
-  {
-   "id": "nb49f333eef",
-   "topic": "welt",
-   "title": "Republikaner kritisieren Trumps Ukraine-Kurs",
-   "text": "US-Präsident Trump nähert sich Russland an und lobt Kreml-Chef Putin ausdrücklich. Auch in Trumps eigener Partei, die ihm lange treu ergeben war, gibt es daran zunehmend Kritik. Einige Abgeordnete wählen deutliche Worte. Von C. Kühntopp.",
-   "link": "https://www.tagesschau.de/ausland/kritik-trump-ukraine-100.html",
-   "published": "2026-10-22T05:03:03+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-25T05:03:03+00:00",
-   "img": "https://images.tagesschau.de/image/b80a187c-562c-45ee-822d-6d86b45713b6/AAABoWIJ3rg/AAABnSSvrFg/16x9-big/trump-5372.jpg?width=1920"
-  },
-  {
-   "id": "n0c714554d5",
-   "topic": "welt",
-   "title": "Ukraine-Krieg trifft den zivilen Flugverkehr in Russland",
-   "text": "Angesichts der Bedrohung durch ukrainische Drohnen setzen die Moskauer Flughäfen immer häufiger ihren Betrieb aus. Wird Russland auf Dauer einen regulären Flugverkehr aufrechterhalten können?",
-   "link": "https://www.dw.com/de/ukraine-krieg-trifft-den-zivilen-flugverkehr-in-russland/a-79724364?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-22T04:29:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-26T04:29:00+00:00",
-   "img": "https://static.dw.com/image/75460805_302.jpg"
-  },
-  {
-   "id": "nc210d36744",
-   "topic": "it",
-   "title": "Donnerstag: Datenschutzfragen bei AfD-Leak, Gewinnexplosion bei Meta Platforms",
-   "text": "DSGVO-Pflicht von Parteien + Meta-Wachstum dank Werbung + Milliardenstrafe wegen Meta-Lügen + Aus für BioWare + Arktis-Alternative für Datenkabel + #heiseshow",
-   "link": "https://www.heise.de/news/Donnerstag-Datenschutzfragen-bei-AfD-Leak-Gewinnexplosion-bei-Meta-Platforms-11496298.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-22T04:15:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-27T04:15:00+00:00"
-  },
-  {
-   "id": "n01215973fc",
-   "topic": "it",
-   "title": "#heiseshow: Starlink-Drosselung, Luftbilder in Google Maps, Tesla Roadster",
-   "text": "In der #heiseshow: Starlink-Drosselung als Warnschuss für Europa, ein Gerichtsurteil gegen Luftbilder bei Google Maps und der abgehobene neue Tesla Roadster.",
-   "link": "https://www.heise.de/news/heiseshow-Starlink-Drosselung-Luftbilder-in-Google-Maps-Tesla-Roadster-11495658.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-22T04:11:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-27T04:11:00+00:00"
-  },
-  {
-   "id": "n7555313d40",
-   "topic": "politik",
-   "title": "Programmiersprache PHP - Weltweite Sicherheitslücke: Update für Webanbieter bereitgestellt",
-   "text": "Nach weltweiten Internet-Problemen wegen einer Sicherheitslücke soll ein inzwischen bereitgestelltes Update Abhilfe schaffen. Betreiber von Webanwendungen sind gehalten, für eine Aktualisierung zu sorgen. Zuvor waren zahlreiche Internetseiten vorsorglich abgeschaltet worden.",
-   "link": "https://www.deutschlandfunk.de/weltweite-sicherheitsluecke-update-fuer-webanbieter-bereitgestellt-102.html",
-   "published": "2026-10-22T04:06:13+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-24T04:06:13+00:00"
-  },
-  {
-   "id": "nfec57e2cff",
-   "topic": "politik",
-   "title": "Ukraine-Krieg - Verletzte bei russischen Raketenangriffen auf Kiew",
-   "text": "Russland hat die ukrainische Hauptstadt Kiew erneut mit ballistischen Raketen angegriffen.",
-   "link": "https://www.deutschlandfunk.de/verletzte-bei-russischen-raketenangriffen-auf-kiew-104.html",
-   "published": "2026-10-22T04:06:13+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-24T04:06:13+00:00",
-   "img": "https://bilder.deutschlandfunk.de/f4/db/d4/e8/f4dbd4e8-d457-4464-a75e-073e2c30226f/kiew-angriff-108-1920x1920.jpg"
-  },
-  {
-   "id": "n5d4391da04",
-   "topic": "politik",
-   "title": "Militärhilfe für Ukraine - Grüne erhöhen Druck auf Kanzler Merz",
-   "text": "Die Grünen haben Bundeskanzler Merz aufgefordert, bei der US-Regierung auf eine weitere Unterstützung für die Ukraine zu dringen.",
-   "link": "https://www.deutschlandfunk.de/gruene-erhoehen-druck-auf-kanzler-merz-100.html",
-   "published": "2026-10-22T04:06:13+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-24T04:06:13+00:00",
-   "img": "https://bilder.deutschlandfunk.de/fa/87/60/6b/fa87606b-7a38-448e-9a2d-3276033408b3/merz-trump-oval-office-102-1920x1920.jpg"
-  },
-  {
-   "id": "nd624843e4a",
-   "topic": "politik",
-   "title": "Pendeldiplomatie - Russland zu Verhandlungen mit der Ukraine und den USA bereit, Selenskyj schlägt Einfrieren der Frontlinie vor",
-   "text": "Im November soll ein neuer diplomatischer Anlauf für eine mögliche Lösung im Angriffskrieg Russlands gegen die Ukraine unternommen werden.",
-   "link": "https://www.deutschlandfunk.de/russland-zu-verhandlungen-mit-der-ukraine-und-den-usa-bereit-selenskyj-schlaegt-einfrieren-der-front-102.html",
-   "published": "2026-10-22T04:06:13+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-24T04:06:13+00:00",
-   "img": "https://bilder.deutschlandfunk.de/2a/af/41/10/2aaf4110-518e-4ab6-a00e-da4bfd18cdfe/putin-witkoff-russland-100-1920x1920.jpg"
-  },
-  {
-   "id": "n3fd844535c",
-   "topic": "politik",
-   "title": "Dammam - Saudi-Arabien: Mindestens ein Toter nach neuen Angriffen auf Flughafen - US-Regierung zieht Personal aus Botschaft ab",
-   "text": "In Saudi-Arabien ist erneut ein Flughafen angegriffen worden.",
-   "link": "https://www.deutschlandfunk.de/saudi-arabien-mindestens-ein-toter-nach-neuen-angriffen-auf-flughafen-us-regierung-zieht-personal-au-100.html",
-   "published": "2026-10-22T04:06:13+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-24T04:06:13+00:00",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Tote bei Huthi-Angriff auf Flughafen in Saudi-Arabien",
-     "link": "https://www.dw.com/de/tote-bei-huthi-angriff-auf-flughafen-in-saudi-arabien/a-79730390?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Tote nach Angriff auf Flughafen in Saudi-Arabien",
-     "link": "https://www.tagesschau.de/ausland/asien/flughafen-saudi-arabien-100.html"
-    }
-   ]
-  },
-  {
-   "id": "na400e38c8e",
-   "topic": "politik",
-   "title": "Berlin - SPD will Pflegereform im Bundestag nachbessern",
-   "text": "Die SPD-Bundestagsfraktion dringt auf Nachbesserungen beim Gesetzentwurf der Bundesregierung zur Pflegeversicherung.",
-   "link": "https://www.deutschlandfunk.de/spd-will-pflegereform-im-bundestag-nachbessern-100.html",
-   "published": "2026-10-22T04:06:13+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-24T04:06:13+00:00",
-   "img": "https://bilder.deutschlandfunk.de/de/c8/7f/87/dec87f87-5262-47c0-a7fa-4d04c466a39b/christos-pantazis-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "SPD will Pflegereform nachbessern",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/spd-pflegereform-104.html"
-    }
-   ]
-  },
-  {
-   "id": "n156b344e61",
-   "topic": "politik",
-   "title": "Hessen am Morgen: Die Nachrichten im Ticker vom 22.10.2026",
-   "text": "Jetzt live: Was in der Nacht passiert ist, was heute wichtig wird – und alles, was Hessen bewegt. Wir starten mit Ihnen in den Donnerstag.",
-   "link": "https://www.hessenschau.de/hessen-am-morgen/acht-verletzte-nach-auffahrunfall-bei-langen--hessen-am-morgen-die-nachrichten-im-ticker-vom-22102026,hessen-am-morgen-donnerstag-1032.html",
-   "published": "2026-10-22T04:01:03+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T04:01:03+00:00",
-   "img": "https://www.hessenschau.de/panorama/unfall-576~_t-1702895804487_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "nca825391aa",
-   "topic": "nfl",
-   "title": "Five Plays: Syracuse Second Quarter",
-   "text": "The scoreboard started to light up in the second quarter of the Louisville game against Syracuse on Saturday night. Let’s dive into some of the plays that stood out. This is a perfect play against the perfect defense, but Louisville has to do better here. Syracuse goes five wide, with the hopes that the Cards […]",
-   "link": "https://sports.yahoo.com/articles/five-plays-syracuse-second-quarter-035100678.html",
-   "published": "2026-10-22T03:51:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-27T03:51:00+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/e9a402897ccd6710fe4a9226c086ba0c.jpg"
-  },
-  {
-   "id": "n5152c6d27f",
-   "topic": "wissenschaft",
-   "title": "Wasserzeichen markieren bald auch KI-Texte von ChatGPT",
-   "text": "Stammt dieser Text von einer Künstlichen Intelligenz? Aufschluss geben können Wasserzeichen, die KI-generierte Texte markieren. OpenAI hat das nun für ChatGPT angekündigt. Von Pauline Möhle und Leila Boucheligua.",
-   "link": "https://www.tagesschau.de/wissen/ki-texte-wasserzeichen-100.html",
-   "published": "2026-10-22T03:30:26+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-05T03:30:26+00:00",
-   "img": "https://images.tagesschau.de/image/bb584e38-75c4-45af-9547-623b253cdf49/AAABldn6_NE/AAABnSSvrFg/16x9-big/chatgpt-118.jpg?width=1920"
   }
  ]
 }
