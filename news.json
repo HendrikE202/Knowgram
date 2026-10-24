@@ -1,61 +1,253 @@
 {
- "generated": "2026-10-24T15:57:29.730025+00:00",
+ "generated": "2026-10-24T20:50:51.448918+00:00",
  "briefing": [
-  "n090927d8c6",
+  "n916852829a",
   "n8d3ffd0373",
   "nb64c061e0a",
-  "n98ebb00de7",
   "n2c1cdb71e8",
   "n40b14fac25",
-  "nc8a75ed71c",
-  "n195c7ce6cf"
+  "ne6c08f7e00",
+  "nfd55153f76",
+  "n8e825e34ca"
  ],
  "ranked": [
   {
-   "id": "n090927d8c6",
-   "s": 37.0
+   "id": "n916852829a",
+   "s": 38.0
   },
   {
    "id": "n8d3ffd0373",
-   "s": 32.9
+   "s": 31.7
   },
   {
    "id": "nb64c061e0a",
-   "s": 27.5
-  },
-  {
-   "id": "n98ebb00de7",
-   "s": 27.4
+   "s": 26.3
   },
   {
    "id": "n2c1cdb71e8",
-   "s": 27.1
+   "s": 25.9
   },
   {
    "id": "n40b14fac25",
-   "s": 25.1
+   "s": 23.9
   },
   {
-   "id": "nc8a75ed71c",
-   "s": 23.0
+   "id": "ne6c08f7e00",
+   "s": 22.8
   },
   {
-   "id": "n195c7ce6cf",
-   "s": 22.2
+   "id": "nfd55153f76",
+   "s": 22.6
+  },
+  {
+   "id": "n8e825e34ca",
+   "s": 21.2
   }
  ],
  "items": [
+  {
+   "id": "n72af997d3c",
+   "topic": "nfl",
+   "title": "Dontayvion Wicks will not play against Cowboys in Week 7",
+   "text": "Eagles WR Dontayvion Wicks will not play after three straight DNP designations this week",
+   "link": "https://sports.yahoo.com/articles/dontayvion-wicks-not-play-against-203124940.html",
+   "published": "2026-10-24T20:31:24+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-29T20:31:24+00:00"
+  },
+  {
+   "id": "n7a05e033d5",
+   "topic": "nfl",
+   "title": "Falcons activate CB A.J. Terrell from IR",
+   "text": "The Falcons activated cornerback A.J.",
+   "link": "https://sports.yahoo.com/articles/falcons-activate-cb-j-terrell-202307978.html",
+   "published": "2026-10-24T20:23:07+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-29T20:23:07+00:00"
+  },
+  {
+   "id": "n76f56df089",
+   "topic": "nfl",
+   "title": "Ravens vs. Bengals: How to watch AFC North showdown with big playoff implications",
+   "text": "Everything you need to know to catch the Week 7 matchup",
+   "link": "https://www.cbssports.com/nfl/news/bengals-vs-ravens-how-to-watch-odds-preview-prediction/",
+   "published": "2026-10-24T20:19:56+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-29T20:19:56+00:00"
+  },
+  {
+   "id": "nd2eea70197",
+   "topic": "politik",
+   "title": "MT Melsungen siegt bei Balingen-Weilstetten nur mit viel Mühe",
+   "text": "Zwischen zwei wichtigen Champions-League-Spielen lag für die MT Melsungen die Bundesliga-Pflicht. Das Spiel bei Balingen-Weilstetten wurde dabei eine äußerst knappe Angelegenheit - mit gutem Ende für die Nordhessen.",
+   "link": "https://www.hessenschau.de/sport/handball/mt-melsungen/mt-melsungen-siegt-bei-balingen-weilstetten-nur-mit-viel-muehe-v1,mt-balingen-114.html",
+   "published": "2026-10-24T20:19:07+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T20:19:07+00:00",
+   "img": "https://www.hessenschau.de/sport/handball/mt-melsungen/mt-hbw-100~_t-1792871941155_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "n9f4191da45",
+   "topic": "nfl",
+   "title": "NFL Week 7 injury report: Lamar Jackson downgraded to out for Ravens matchup vs. Bengals",
+   "text": "A look at game statuses across the league",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-7-injury-report-baker-mayfield-lamar-jackson-questionable/",
+   "published": "2026-10-24T20:12:15+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-29T20:12:15+00:00"
+  },
+  {
+   "id": "n44a022be91",
+   "topic": "politik",
+   "title": "CSU-Parteitag - Merz ruft Union zu Geschlossenheit auf und warnt vor Extremisten \"von ganz links und ganz rechts\"",
+   "text": "Bundeskanzler Merz hat auf dem CSU-Parteitag in München die Zusammenarbeit in der Union gelobt. Zugleich mahnte er, CDU und CSU müssten künftig noch enger zusammenstehen, um Deutschland vor Extremisten von ganz links und ganz rechts zu bewahren. Zur Debatte über die Nachfolge von Bundespräsident Steinmeier äußerte er …",
+   "link": "https://www.deutschlandfunk.de/merz-ruft-union-zu-geschlossenheit-auf-und-warnt-vor-extremisten-von-ganz-links-und-ganz-rechts-100.html",
+   "published": "2026-10-24T20:04:34+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-26T20:04:34+00:00",
+   "img": "https://bilder.deutschlandfunk.de/d1/49/3b/fd/d1493bfd-1522-45f9-9394-3655af37efbe/merz-csu-parteitag-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "CSU-Parteitag: Merz äußert sich nicht zur Präsidentinnen-Frage",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/csu-parteitag-merz-106.html"
+    }
+   ]
+  },
+  {
+   "id": "n839b51fbf3",
+   "topic": "politik",
+   "title": "Landesweite Proteste - Erneut Ausschreitungen in Frankreich - laut Innenministerium fast 1.000 Festnahmen",
+   "text": "Unter starker Polizeipräsenz haben in Frankreich ‌Hunderttausende Menschen gegen hohe Lebenshaltungskosten und Misstände im Bildungssystem protestiert. In mehreren Städten gab es erneut Ausschreitungen, unter anderem nach der Hauptkundgebung in Paris.",
+   "link": "https://www.deutschlandfunk.de/erneut-ausschreitungen-in-frankreich-laut-innenministerium-fast-1-000-festnahmen-100.html",
+   "published": "2026-10-24T20:04:34+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-26T20:04:34+00:00",
+   "img": "https://bilder.deutschlandfunk.de/cc/19/22/1c/cc19221c-8b9d-4d7c-8bae-be27de16a880/proteste-paris-106-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Mehr als 100 Festnahmen bei Protesten in Frankreich",
+     "link": "https://www.dw.com/de/mehr-als-100-festnahmen-bei-protesten-in-frankreich/a-79750898?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "ne6c08f7e00",
+   "topic": "politik",
+   "title": "Wien - Staatengemeinschaft strebt neues Abkommen gegen Umweltkriminalität an",
+   "text": "Die internationale Staatengemeinschaft hat in Wien beschlossen, Verhandlungen über ein neues Abkommen gegen Umweltkriminalität aufzunehmen.",
+   "link": "https://www.deutschlandfunk.de/staatengemeinschaft-strebt-neues-abkommen-gegen-umweltkriminalitaet-an-100.html",
+   "published": "2026-10-24T20:04:34+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-26T20:04:34+00:00",
+   "img": "https://bilder.deutschlandfunk.de/NO/VA/_a/cc/NOVA_accc12b2cdd3be0e9eb4a6a76e59447b/craft-12709695-asset-100-1920x1920.jpg"
+  },
+  {
+   "id": "n80c286e81d",
+   "topic": "politik",
+   "title": "Slowakei - Regional- und Kommunalwahlen zu Ende",
+   "text": "In der Slowakei sind Regional- und Kommunalwahlen abgehalten worden.",
+   "link": "https://www.deutschlandfunk.de/regional-und-kommunalwahlen-zu-ende-100.html",
+   "published": "2026-10-24T20:04:34+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-26T20:04:34+00:00",
+   "img": "https://bilder.deutschlandfunk.de/23/eb/33/ff/23eb33ff-84f8-4fc3-b947-0445823ae994/slowakei-116-1920x1920.jpg"
+  },
+  {
+   "id": "n5f19911a55",
+   "topic": "politik",
+   "title": "Zeitumstellung - In der Nacht werden die Uhren eine Stunde zurückgestellt",
+   "text": "In der kommenden Nacht werden die Uhren wieder eine Stunde zurückgestellt - von 3 auf 2 Uhr. Damit gilt wieder die Mitteleuropäische Zeit.",
+   "link": "https://www.deutschlandfunk.de/in-der-nacht-werden-die-uhren-eine-stunde-zurueckgestellt-100.html",
+   "published": "2026-10-24T20:04:34+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-26T20:04:34+00:00",
+   "img": "https://bilder.deutschlandfunk.de/7f/44/17/c8/7f4417c8-225a-4cd5-a7f8-947070073541/sommerzeit-uhr-100-1920x1920.jpg"
+  },
+  {
+   "id": "nceaef9ee91",
+   "topic": "politik",
+   "title": "Fußball-Bundesliga - Siege für Dortmund, Leipzig, Bremen und Paderborn",
+   "text": "In der Fußball-Bundesliga hat Dortmund gegen Frankfurt mit 1:0 gewonnen. Die Mannschaft von Trainer Niko Kovac verdrängte damit Bayern München von der Tabellenspitze. Das Tor für den BVB schoss Maximilian Beier (80.).",
+   "link": "https://www.deutschlandfunk.de/siege-fuer-dortmund-leipzig-bremen-und-paderborn-102.html",
+   "published": "2026-10-24T20:04:34+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-26T20:04:34+00:00",
+   "img": "https://bilder.deutschlandfunk.de/87/49/3b/f4/87493bf4-35c4-434b-9cdc-41435c105bee/leipzig-frankfurt-bundesliga-100-1920x1920.jpg"
+  },
+  {
+   "id": "nfd55153f76",
+   "topic": "welt",
+   "title": "Vorgezogene Parlamentswahlen in Serbien: Machtwechsel oder weiter mit Aleksandar Vučić?",
+   "text": "Kommt es zum Showdown gegen den langjährigen Machthaber und Ex-Präsidenten Staatschef Aleksandar Vučić? Bei den vorgezogenen Parlamentswahlen in Serbien am Sonntag geht es um einen politischen Richtungswechsel im Land.",
+   "link": "https://www.dw.com/de/vorgezogene-parlamentswahlen-in-serbien-machtwechsel-oder-weiter-mit-aleksandar-vučić/a-79750692?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-24T19:20:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-28T19:20:00+00:00",
+   "img": "https://static.dw.com/image/79738242_302.jpg"
+  },
+  {
+   "id": "n98ebb00de7",
+   "topic": "welt",
+   "title": "Hunderttausende protestieren in Frankreich - neue Unruhen",
+   "text": "Eine Woche nach den schweren Ausschreitungen in Frankreich haben heute landesweit mehr als 400.000 Menschen demonstriert. Nach einem friedlichen Beginn kam es am Abend zu Zusammenstößen mit der Polizei. Fast 1.000 Menschen wurden festgenommen.",
+   "link": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html",
+   "published": "2026-10-24T19:00:39+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-27T19:00:39+00:00",
+   "img": "https://images.tagesschau.de/image/236feb84-b24d-4116-b8f0-5a0b0cf48424/AAABoW7hjg0/AAABnSSvrFg/16x9-big/marseille-protest-100.jpg?width=1920"
+  },
+  {
+   "id": "n29f8a2c99c",
+   "topic": "it",
+   "title": "Top 10: Die beste Smartwatch mit EKG – Gesundheitsuhren im Test",
+   "text": "Vorhofflimmern bleibt oft unbemerkt. Smartwatches mit EKG können Hinweise auf Herzrhythmusstörungen liefern. Wir zeigen die besten Gesundheitsuhren.",
+   "link": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-mit-ekg-gesundheitsuhren-im-test/02n25tj?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-24T18:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-29T18:00:00+00:00"
+  },
   {
    "id": "nb102feb4d7",
    "topic": "politik",
    "title": "CSU-Parteitag: Merz äußert sich nicht zur Präsidentinnen-Frage",
    "text": "Wird CSU-Politikerin Aigner Kandidatin für das Amt der Bundespräsidentin? Mit Spannung wurde erwartet, ob sich CDU-Chef Merz auf dem CSU-Parteitag dazu äußert. Er tat es nicht - und sendete doch ein Signal. Von Kerstin Palzer.",
    "link": "https://www.tagesschau.de/inland/innenpolitik/csu-parteitag-merz-106.html",
-   "published": "2026-10-24T15:54:16+00:00",
+   "published": "2026-10-24T16:51:47+00:00",
    "source": "Tagesschau",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-27T15:54:16+00:00",
+   "expires": "2026-10-27T16:51:47+00:00",
    "img": "https://images.tagesschau.de/image/75e53fcc-ad65-4552-9098-c0f1ed6df143/AAABoW5wUjA/AAABnSSvrFg/16x9-big/merz-aigner-102.jpg?width=1920",
    "also": [
     {
@@ -64,6 +256,44 @@
      "link": "https://www.deutschlandfunk.de/merz-ruft-union-zu-geschlossenheit-auf-und-warnt-vor-extremisten-von-ganz-links-und-ganz-rechts-100.html"
     }
    ]
+  },
+  {
+   "id": "n14b8834074",
+   "topic": "politik",
+   "title": "65 Jahre Anwerbeabkommen: Zum Arbeiten gekommen, Heimat gefunden",
+   "text": "Als Deutschland und die Türkei 1961 das Anwerbeabkommen unterschreiben, rechnet niemand damit, dass Hunderttausende Menschen dauerhaft eine Heimat hier finden werden. Für viele ein hart erarbeiteter Erfolg. Von Carolyn Wißing.",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/anwerbeabkommen-tuerkei-100.html",
+   "published": "2026-10-24T16:19:11+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-27T16:19:11+00:00",
+   "img": "https://images.tagesschau.de/image/8be3bd92-525f-4cd4-a0a6-b93d28f04157/AAABoWgUEo8/AAABnSSvrFg/16x9-big/sendungsbild-1816008.jpg?width=1920"
+  },
+  {
+   "id": "ned99427ccd",
+   "topic": "it",
+   "title": "BGH: Auch Textnachrichten können sexuellen Missbrauch per Chat begründen",
+   "text": "Der Bundesgerichtshof stellt klar: Pornografische Chats können selbst ohne Bilder oder Videos den Straftatbestand des Missbrauchs ohne Körperkontakt erfüllen.",
+   "link": "https://www.heise.de/news/BGH-Auch-Textnachrichten-koennen-sexuellen-Missbrauch-per-Chat-begruenden-11499273.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-24T16:19:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-29T16:19:00+00:00"
+  },
+  {
+   "id": "nd7d57ce8b1",
+   "topic": "welt",
+   "title": "Hausdurchsuchungen und Zwangsräumungen in Hebron",
+   "text": "Nach dem tödlichen Angriff auf israelische Soldaten geht die Armee weiter gegen Palästinenser in Hebron vor. Hunderte Menschen mussten überstürzt ihre Häuser verlassen. Von Bettina Meier.",
+   "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-104.html",
+   "published": "2026-10-24T16:06:57+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-27T16:06:57+00:00",
+   "img": "https://images.tagesschau.de/image/5f40dd81-b3e5-4438-ab65-ee5b3fe1c7b4/AAABoW6qTsk/AAABnSSvrFg/16x9-big/hebron-abriegelung-100.jpg?width=1920"
   },
   {
    "id": "n40ea3210ec",
@@ -79,9 +309,9 @@
    "img": "https://bilder.deutschlandfunk.de/cf/2f/74/f7/cf2f74f7-afff-40da-b03f-38649e87e125/paris-demo-frankreich-100-1920x1920.jpg",
    "also": [
     {
-     "source": "Tagesschau",
-     "title": "Viele Kontrollen und Festnahmen am Protesttag in Frankreich",
-     "link": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html"
+     "source": "Deutsche Welle",
+     "title": "Mehr als 100 Festnahmen bei Protesten in Frankreich",
+     "link": "https://www.dw.com/de/mehr-als-100-festnahmen-bei-protesten-in-frankreich/a-79750898?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -97,26 +327,6 @@
    "lang": "de",
    "expires": "2026-10-26T15:54:02+00:00",
    "img": "https://bilder.deutschlandfunk.de/a5/76/a0/44/a576a044-6238-420f-979a-0446efaef5df/bardella-frankreich-100-1920x1920.jpg"
-  },
-  {
-   "id": "n44a022be91",
-   "topic": "politik",
-   "title": "CSU-Parteitag - Merz ruft Union zu Geschlossenheit auf und warnt vor Extremisten \"von ganz links und ganz rechts\"",
-   "text": "Bundeskanzler Merz hat auf dem CSU-Parteitag in München die Zusammenarbeit in der Union gelobt. Zugleich mahnte er, CDU und CSU müssten künftig noch enger zusammenstehen, um Deutschland vor Extremisten von ganz links und ganz rechts zu bewahren. Zur Debatte über die Nachfolge von Bundespräsident Steinmeier äußerte er …",
-   "link": "https://www.deutschlandfunk.de/merz-ruft-union-zu-geschlossenheit-auf-und-warnt-vor-extremisten-von-ganz-links-und-ganz-rechts-100.html",
-   "published": "2026-10-24T15:54:02+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T15:54:02+00:00",
-   "img": "https://bilder.deutschlandfunk.de/d1/49/3b/fd/d1493bfd-1522-45f9-9394-3655af37efbe/merz-csu-parteitag-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "CSU-Parteitag: Merz äußert sich nicht zur Präsidentinnen-Frage",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/csu-parteitag-merz-106.html"
-    }
-   ]
   },
   {
    "id": "nc8a75ed71c",
@@ -264,14 +474,7 @@
    "source": "heise online",
    "type": "Fachmedium (IT)",
    "lang": "de",
-   "expires": "2026-10-29T14:46:00+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Griechenland verbietet Social Media für unter 15-Jährige",
-     "link": "https://www.tagesschau.de/ausland/europa/griechenland-social-media-100.html"
-    }
-   ]
+   "expires": "2026-10-29T14:46:00+00:00"
   },
   {
    "id": "n8fa937ceb6",
@@ -456,8 +659,26 @@
    "source": "Deutsche Welle",
    "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
    "lang": "de",
+   "expires": "2026-10-28T13:38:00+00:00"
+  },
+  {
+   "id": "n4933e4fcf5",
+   "topic": "welt",
+   "title": "Mehr als 100 Festnahmen bei Protesten in Frankreich",
+   "text": "Französische Sicherheitskräfte sind mit einem Großaufgebot im Einsatz. Wieder gibt es Ausschreitungen. Doch die Eskalation vor einer Woche wiederholt sich bisher nicht.",
+   "link": "https://www.dw.com/de/mehr-als-100-festnahmen-bei-protesten-in-frankreich/a-79750898?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-24T13:38:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
    "expires": "2026-10-28T13:38:00+00:00",
-   "img": "https://static.dw.com/image/79749961_302.jpg"
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Landesweite Proteste - Erneut Ausschreitungen in Frankreich - laut Innenministerium fast 1.000 Festnahmen",
+     "link": "https://www.deutschlandfunk.de/erneut-ausschreitungen-in-frankreich-laut-innenministerium-fast-1-000-festnahmen-100.html"
+    }
+   ]
   },
   {
    "id": "ne8897c6923",
@@ -471,26 +692,6 @@
    "lang": "de",
    "expires": "2026-10-27T13:36:26+00:00",
    "img": "https://images.tagesschau.de/image/323e9df3-a08e-458d-a941-e26927992033/AAABoW4ggCs/AAABnSSvrFg/16x9-big/flavio-jair-bolsonaro-100.jpg?width=1920"
-  },
-  {
-   "id": "n98ebb00de7",
-   "topic": "welt",
-   "title": "Viele Kontrollen und Festnahmen am Protesttag in Frankreich",
-   "text": "Eine Woche nach den schweren Ausschreitungen in Frankreich finden heute erneut große Demonstrationen statt. Bis zum frühen Nachmittag gab es mehr als 100 Festnahmen. 70.000 Ordnungskräfte sind im Einsatz.",
-   "link": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html",
-   "published": "2026-10-24T13:33:20+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T13:33:20+00:00",
-   "img": "https://images.tagesschau.de/image/6f9022d7-a842-4869-96d3-310a8150d010/AAABoW4drB4/AAABnSSvrFg/16x9-big/paris-ordnungskraefte-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Bisher keine größeren Zwischenfälle - Viele Kontrollen und Festnahmen bei Demonstrationen in Frankreich",
-     "link": "https://www.deutschlandfunk.de/viele-kontrollen-und-festnahmen-bei-demonstrationen-in-frankreich-100.html"
-    }
-   ]
   },
   {
    "id": "n195c7ce6cf",
@@ -969,8 +1170,8 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Proteste - Frankreich: 70.000 Polizisten sichern Demonstrationen - Sorge vor Ausschreitungen",
-     "link": "https://www.deutschlandfunk.de/frankreich-70-000-polizisten-sichern-demonstrationen-sorge-vor-ausschreitungen-102.html"
+     "title": "Landesweite Proteste - Erneut Ausschreitungen in Frankreich - laut Innenministerium fast 1.000 Festnahmen",
+     "link": "https://www.deutschlandfunk.de/erneut-ausschreitungen-in-frankreich-laut-innenministerium-fast-1-000-festnahmen-100.html"
     }
    ]
   },
@@ -1026,8 +1227,8 @@
    "also": [
     {
      "source": "Deutsche Welle",
-     "title": "News kompakt: Sorge vor neuen Ausschreitungen in Paris",
-     "link": "https://www.dw.com/de/news-kompakt-sorge-vor-neuen-ausschreitungen-in-paris/a-79748108?maca=de-rss-de-all-1119-xml-mrss"
+     "title": "Mehr als 100 Festnahmen bei Protesten in Frankreich",
+     "link": "https://www.dw.com/de/mehr-als-100-festnahmen-bei-protesten-in-frankreich/a-79750898?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -1170,19 +1371,6 @@
    "type": "Sportmedium",
    "lang": "en",
    "expires": "2026-10-29T00:14:10+00:00"
-  },
-  {
-   "id": "n9f4191da45",
-   "topic": "nfl",
-   "title": "NFL Week 7 injury report: Seahawks' Zach Charbonnet won't return for Sunday's game vs. Chiefs",
-   "text": "A look at game statuses across the league",
-   "link": "https://www.cbssports.com/nfl/news/nfl-week-7-injury-report-baker-mayfield-lamar-jackson-questionable/",
-   "published": "2026-10-23T22:23:32+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-28T22:23:32+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/09/8ba3b14f-1bb4-494b-b53b-6d887af1b2d1/lamar-jackson-baltimore-ravens-imagn-images.jpg"
   },
   {
    "id": "n5fa0f83c24",
@@ -1332,14 +1520,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-25T18:49:04+00:00",
-   "img": "https://bilder.deutschlandfunk.de/94/31/bc/5b/9431bc5b-66f7-4bc9-8e2b-07ce2eedd3ab/frankreich-macron-102-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Ein Toter und Verletzte: Innenminister spricht von Terror-Tat bei Paris",
-     "link": "https://www.tagesschau.de/ausland/frankreich-schuesse-terrorverdacht-100.html"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/94/31/bc/5b/9431bc5b-66f7-4bc9-8e2b-07ce2eedd3ab/frankreich-macron-102-1920x1920.jpg"
   },
   {
    "id": "n7af945b145",
@@ -1461,14 +1642,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-26T17:26:28+00:00",
-   "img": "https://images.tagesschau.de/image/a111bf3a-9485-4c36-82cc-c621e4893902/AAABoWlYGkY/AAABnSSvrFg/16x9-big/gebaeude-oleshky-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "USA: Waffenruhe für ukrainische Stadt Oleschky vereinbart",
-     "link": "https://www.dw.com/de/usa-waffenruhe-für-ukrainische-stadt-oleschky-vereinbart/a-79745990?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/a111bf3a-9485-4c36-82cc-c621e4893902/AAABoWlYGkY/AAABnSSvrFg/16x9-big/gebaeude-oleshky-100.jpg?width=1920"
   },
   {
    "id": "n9a89cfd4b2",
@@ -1570,245 +1744,6 @@
    "lang": "en",
    "expires": "2026-10-28T16:37:58+00:00",
    "img": "https://media.zenfs.com/en/la_times_articles_853/23135c2938bbecbc026daae31923b282.jpg"
-  },
-  {
-   "id": "ne33c63e007",
-   "topic": "welt",
-   "title": "Israel will Westjordanland nach Angriff in Hebron abriegeln",
-   "text": "Nach einem Angriff nahe Hebron im Westjordanland hat Israels Militär den Tod von zwei Soldaten bestätigt. Die Zufahrten zur Stadt sind gesperrt - bald soll die Armee das ganze Westjordanland abriegeln. Von B. Meier.",
-   "link": "https://www.tagesschau.de/ausland/israel-westjordanland-abriegelung-100.html",
-   "published": "2026-10-23T16:31:33+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T16:31:33+00:00",
-   "img": "https://images.tagesschau.de/image/fb67e229-3cce-48c8-a0a3-4c3628c69bd5/AAABoWlmaqk/AAABnSSvrFg/16x9-big/soldaten-hebron-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Nach tödlichem Angriff - Israelische Armee startet Großoffensive im Westjordanland",
-     "link": "https://www.deutschlandfunk.de/israelische-armee-startet-grossoffensive-im-westjordanland-104.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Israel beginnt \"Anti-Terror-Einsatz\" im Westjordanland",
-     "link": "https://www.dw.com/de/israel-beginnt-anti-terror-einsatz-im-westjordanland/a-79749417?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "nef6d68ee6c",
-   "topic": "ki",
-   "title": "Anthropic: Internes Claude-Modell ist leistungsfähiger und besser ausgerichtet als Mythos 5.1",
-   "text": "Anthropic verfügt nach eigenen Angaben über interne KI-Modelle, die leistungsfähiger und besser ausgerichtet sind als das öffentlich getestete Mythos 5.1. Letzteres hatte in einem Cybersicherheitstest des britischen AISI in 9 von 43 Läufen eigenständig Schadcode in ein echtes GitHub-Projekt eingeschleust und …",
-   "link": "https://the-decoder.de/anthropic-internes-claude-modell-ist-leistungsfaehiger-und-besser-ausgerichtet-als-mythos-5-1/",
-   "published": "2026-10-23T16:30:49+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-30T16:30:49+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/08/claude_gemini_pro-1-scaled.png"
-  },
-  {
-   "id": "n39f58de9e3",
-   "topic": "politik",
-   "title": "Diese Bücherei in Osthessen boomt",
-   "text": "Die Bücherei in Kalbach ist in ihrer Größenordnung vielleicht die erfolgreichste im ganzen Landkreis Fulda. Das hat seine Gründe: Sie ist offen für Neues und gleichzeitig bedacht auf Altbewährtes - allem voran das persönliche Gespräch.",
-   "link": "https://www.hessenschau.de/kultur/diese-buecherei-in-osthessen-boomt-v1,tag-der-bibliotheken-104.html",
-   "published": "2026-10-23T16:29:53+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T16:29:53+00:00",
-   "img": "https://www.hessenschau.de/kultur/bibliothek-kalbach-102~_t-1792772992210_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "n0d8f8e5198",
-   "topic": "it",
-   "title": "(g+) Wirtschaft in Asien: Was Silicon-Valley-Start-ups anders machen",
-   "text": "Warum entstehen im Silicon Valley mehr Tech-Giganten als in Asien? Nikkei-Asia-Chefredakteur Akito Tanaka erklärt, worauf es bei Start-ups ankommt. Von Akito Tanaka ( Wirtschaft , Silicon Valley )",
-   "link": "https://www.golem.de/news/wirtschaft-in-asien-was-silicon-valley-start-ups-anders-machen-2610-214458.html",
-   "published": "2026-10-23T16:00:03+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-28T16:00:03+00:00",
-   "img": "https://www.golem.de/2610/214458-605006-605004_rc.jpg"
-  },
-  {
-   "id": "ncdb06e71af",
-   "topic": "nfl",
-   "title": "Saquon Barkley on Jalen Hurts situation: 'It sucks that people tried to make it an Eagles vs. Jalen thing'",
-   "text": "Philadelphia has faced heavy scrutiny after the quarterback was ruled out for the season with blood clots in his lungs, prompting the NFLPA to demand an investigation into his medical care",
-   "link": "https://www.cbssports.com/nfl/news/saquon-barkley-breaks-silence-jalen-hurts-situation/",
-   "published": "2026-10-23T15:56:22+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-28T15:56:22+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/09/28/57d09bb5-1ca6-4ded-bab7-6666cf0f94d0/jalen-hurts-saquon-barkley.jpg"
-  },
-  {
-   "id": "nfdc7c99a96",
-   "topic": "welt",
-   "title": "USA: Waffenruhe für ukrainische Stadt Oleschky vereinbart",
-   "text": "Präsidentengattin Melania Trump meldet sich zu Wort: Sie habe zwischen Russland und der Ukraine vermittelt. Das hatte zuvor schon Papst Leo XIV. getan. Nun sollen Zivilisten die abgeriegelte Stadt verlassen können.",
-   "link": "https://www.dw.com/de/usa-waffenruhe-für-ukrainische-stadt-oleschky-vereinbart/a-79745990?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-23T15:51:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-27T15:51:00+00:00",
-   "img": "https://static.dw.com/image/79744863_302.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Vermittelt durch Melania Trump - Waffenruhe für besetzte ukrainische Stadt",
-     "link": "https://www.tagesschau.de/ausland/melania-trump-waffenruhe-oleschky-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n858e6f30a2",
-   "topic": "welt",
-   "title": "Griechenland verbietet Social Media für unter 15-Jährige",
-   "text": "Auch Griechenland will Kinder und Jugendliche vor Gefahren Sozialer Medien schützen. Das Parlament hat ein Verbot für unter 15-Jährige beschlossen. Künftig sollen Plattformen das Alter ihrer Nutzer überprüfen.",
-   "link": "https://www.tagesschau.de/ausland/europa/griechenland-social-media-100.html",
-   "published": "2026-10-23T15:44:49+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T15:44:49+00:00",
-   "img": "https://images.tagesschau.de/image/a90879f7-c1c8-4664-9930-90d802f1fc75/AAABoWkxyWc/AAABnSSvrFg/16x9-big/jugendliche-smartphone-126.jpg?width=1920",
-   "also": [
-    {
-     "source": "heise online",
-     "title": "Griechenland verbietet soziale Medien für unter 15-Jährige",
-     "link": "https://www.heise.de/news/Griechenland-verbietet-soziale-Medien-fuer-unter-15-Jaehrige-11499195.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    }
-   ]
-  },
-  {
-   "id": "n25e738e04b",
-   "topic": "welt",
-   "title": "Russlanddeutsche in Kasachstan und der Umgang mit dem Erbe der Sowjetunion",
-   "text": "Kasachstan ringt mit dem Erbe der Sowjetdiktatur. Vor 85 Jahren ließ Stalin Hunderttausende Menschen deportieren. Rund 400.000 Russlanddeutsche wurden nach Kasachstan verschleppt.",
-   "link": "https://www.dw.com/de/russlanddeutsche-in-kasachstan-und-der-umgang-mit-dem-erbe-der-sowjetunion/a-79728938?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-23T15:41:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-27T15:41:00+00:00",
-   "img": "https://static.dw.com/image/79713357_302.jpg"
-  },
-  {
-   "id": "n6d394f68e8",
-   "topic": "nfl",
-   "title": "Colts' Anthony Richardson facing charge for marijuana possession, per report",
-   "text": "Police cited the quarterback during an Oct. 12 traffic stop after officers discovered marijuana and THC gummies inside his vehicle",
-   "link": "https://www.cbssports.com/nfl/news/colts-anthony-richardson-charge-marijuana-possession/",
-   "published": "2026-10-23T15:39:56+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-28T15:39:56+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/23/e74e429c-b1e6-4619-9dbc-a63b6e9c1a58/colts.jpg"
-  },
-  {
-   "id": "n8905ac8ad2",
-   "topic": "it",
-   "title": "Interpol macht Cyberkriminelle in Afrika dingfest",
-   "text": "Phishing, verbotenes Kryptomining, Finanzbetrug: Bei einer internationalen Polizeioperation in Afrika haben Ermittler cyberkriminelle Netzwerke ausgehoben.",
-   "link": "https://www.heise.de/news/Interpol-macht-Cyberkriminelle-in-Afrika-dingfest-11498747.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-23T15:38:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-28T15:38:00+00:00"
-  },
-  {
-   "id": "nd2cbef21b9",
-   "topic": "it",
-   "title": "Nvidia-CEO nimmt KI-Entwickler in die Pflicht: Sollen keine Schäden anrichten",
-   "text": "Laut Jensen Huang macht nicht Regulierung KI sicher, sondern Engineering. Als Sicherheitsgurt für KI-Agenten empfiehlt Nvidia seine freie Software OpenShell.",
-   "link": "https://www.heise.de/news/Nvidia-CEO-nimmt-KI-Entwickler-in-die-Pflicht-Sollen-keine-Schaeden-anrichten-11498634.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-23T15:28:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-28T15:28:00+00:00"
-  },
-  {
-   "id": "nbff134bf26",
-   "topic": "ki",
-   "title": "OpenAI-Chef Altman warnt: Fortschrittliche KI kann nicht dauerhaft eingesperrt werden",
-   "text": "Sam Altman hält es für unmöglich, fortschrittliche KI dauerhaft in Sicherheitsumgebungen einzusperren. Sandboxes und Überwachung funktionierten nur temporär. Langfristig bleibe nur Alignment, ein bislang ungelöstes Problem. Zugleich warnt er vor weiteren Vorfällen: KI-Modelle finden bereits Hardware-Sicherheitslücken …",
-   "link": "https://the-decoder.de/openai-chef-altman-warnt-fortschrittliche-ki-kann-nicht-dauerhaft-eingesperrt-werden/",
-   "published": "2026-10-23T15:27:18+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-30T15:27:18+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/06/openai_Altman.png"
-  },
-  {
-   "id": "nb4843d3587",
-   "topic": "welt",
-   "title": "Ein Toter und Verletzte: Innenminister spricht von Terror-Tat bei Paris",
-   "text": "Aus einem Auto heraus hat ein Mann in mehreren Vororten von Paris Schüsse abgefeuert. Ein Mensch wurde getötet, es gibt mehrere Schwerverletzte. Frankreichs Innenminister Nuñez spricht von einer \"terroristischen Tat\".",
-   "link": "https://www.tagesschau.de/ausland/frankreich-schuesse-terrorverdacht-100.html",
-   "published": "2026-10-23T15:15:56+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T15:15:56+00:00",
-   "img": "https://images.tagesschau.de/image/d2a9ee68-d2ea-4c5d-abe1-8d02306797ba/AAABoWiJCJo/AAABnSSvrFg/16x9-big/paris-polizei-126.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Frankreich - Ein Toter und 5 Verletzte nahe Paris: Marcon geht von rassistisch motiviertem Terrorakt aus",
-     "link": "https://www.deutschlandfunk.de/ein-toter-und-5-verletzte-nahe-paris-marcon-geht-von-rassistisch-motiviertem-terrorakt-aus-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n090927d8c6",
-   "topic": "welt",
-   "title": "Nach Angriff in Hebron: Israel bereitet Abriegelung des Westjordanlands vor",
-   "text": "Die israelische Regierung hat das Militär angewiesen, sich auf eine vollständige Abriegelung des Westjordanlands vorzubereiten. Zuvor gab es einen palästinensischen Angriff in Hebron, zwei israelische Soldaten wurden dabei getötet.",
-   "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-100.html",
-   "published": "2026-10-23T15:06:05+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T15:06:05+00:00",
-   "img": "https://images.tagesschau.de/image/5113fc05-b674-4528-8a19-ee38ea0a2139/AAABoWfUo7Q/AAABnSSvrFg/16x9-big/auto-sperre-westjordanland-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Nach tödlichem Angriff - Israelische Armee startet Großoffensive im Westjordanland",
-     "link": "https://www.deutschlandfunk.de/israelische-armee-startet-grossoffensive-im-westjordanland-104.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Israel beginnt \"Anti-Terror-Einsatz\" im Westjordanland",
-     "link": "https://www.dw.com/de/israel-beginnt-anti-terror-einsatz-im-westjordanland/a-79749417?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n9f058c7e60",
-   "topic": "wissenschaft",
-   "title": "Gerade erst wiederentdeckt: Seltene Haarschnecke braucht schnelle Hilfe",
-   "text": "Die Haarschnecke von der Pazifikinsel Norfolk steht kurz vor dem Aussterben. Nun soll ein Hilfsprogramm sie in letzter Minute retten.",
-   "link": "https://www.spektrum.de/news/erst-wiederentdeckt-schnelle-hilfe-fuer-die-haarschnecke-noetig/2351201",
-   "published": "2026-10-23T15:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-06T15:00:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/Fanulena-imitatrix-in-the-wild_Credit_Isabel-Hyman.JPG.8419488.gif?f=1280x720"
   }
  ]
 }
