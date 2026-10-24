@@ -1,50 +1,556 @@
 {
- "generated": "2026-10-24T11:02:28.365683+00:00",
+ "generated": "2026-10-24T15:57:29.730025+00:00",
  "briefing": [
   "n090927d8c6",
-  "nb4843d3587",
-  "n6486dda492",
+  "n8d3ffd0373",
   "nb64c061e0a",
+  "n98ebb00de7",
+  "n2c1cdb71e8",
   "n40b14fac25",
-  "n08177c34e9",
-  "n7dc745364c",
-  "na085033e8f"
+  "nc8a75ed71c",
+  "n195c7ce6cf"
  ],
  "ranked": [
   {
    "id": "n090927d8c6",
-   "s": 38.0
+   "s": 37.0
   },
   {
-   "id": "nb4843d3587",
-   "s": 28.1
-  },
-  {
-   "id": "n6486dda492",
-   "s": 27.7
+   "id": "n8d3ffd0373",
+   "s": 32.9
   },
   {
    "id": "nb64c061e0a",
-   "s": 27.3
+   "s": 27.5
+  },
+  {
+   "id": "n98ebb00de7",
+   "s": 27.4
+  },
+  {
+   "id": "n2c1cdb71e8",
+   "s": 27.1
   },
   {
    "id": "n40b14fac25",
-   "s": 26.3
+   "s": 25.1
   },
   {
-   "id": "n08177c34e9",
-   "s": 23.8
-  },
-  {
-   "id": "n7dc745364c",
+   "id": "nc8a75ed71c",
    "s": 23.0
   },
   {
-   "id": "na085033e8f",
-   "s": 22.9
+   "id": "n195c7ce6cf",
+   "s": 22.2
   }
  ],
  "items": [
+  {
+   "id": "nb102feb4d7",
+   "topic": "politik",
+   "title": "CSU-Parteitag: Merz äußert sich nicht zur Präsidentinnen-Frage",
+   "text": "Wird CSU-Politikerin Aigner Kandidatin für das Amt der Bundespräsidentin? Mit Spannung wurde erwartet, ob sich CDU-Chef Merz auf dem CSU-Parteitag dazu äußert. Er tat es nicht - und sendete doch ein Signal. Von Kerstin Palzer.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/csu-parteitag-merz-106.html",
+   "published": "2026-10-24T15:54:16+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-27T15:54:16+00:00",
+   "img": "https://images.tagesschau.de/image/75e53fcc-ad65-4552-9098-c0f1ed6df143/AAABoW5wUjA/AAABnSSvrFg/16x9-big/merz-aigner-102.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "CSU-Parteitag - Merz ruft Union zu Geschlossenheit auf und warnt vor Extremisten \"von ganz links und ganz rechts\"",
+     "link": "https://www.deutschlandfunk.de/merz-ruft-union-zu-geschlossenheit-auf-und-warnt-vor-extremisten-von-ganz-links-und-ganz-rechts-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n40ea3210ec",
+   "topic": "politik",
+   "title": "Bisher keine größeren Zwischenfälle - Viele Kontrollen und Festnahmen bei Demonstrationen in Frankreich",
+   "text": "Zu Beginn des Protesttages in Frankreich haben die Behörden zahlreiche Kontrollen durchgeführt und 135 Menschen festgenommen. Nach Angaben von Innenminister Nuñez kam es in der ersten Tageshälfte zu keinen größeren Zwischenfällen. Landesweit sind rund 70.000 Sicherheitskräfte im Einsatz, um befürchtete neue …",
+   "link": "https://www.deutschlandfunk.de/viele-kontrollen-und-festnahmen-bei-demonstrationen-in-frankreich-100.html",
+   "published": "2026-10-24T15:54:02+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-26T15:54:02+00:00",
+   "img": "https://bilder.deutschlandfunk.de/cf/2f/74/f7/cf2f74f7-afff-40da-b03f-38649e87e125/paris-demo-frankreich-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Viele Kontrollen und Festnahmen am Protesttag in Frankreich",
+     "link": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n9ea776aa59",
+   "topic": "politik",
+   "title": "Parteien - Frankreichs Rechtspopulisten bestätigen Jordan Bardella an Parteispitze",
+   "text": "Der Vorsitzende von Frankreichs rechtspopulistischem Rassemblement National, Bardella, ist im Amt bestätigt worden.",
+   "link": "https://www.deutschlandfunk.de/frankreichs-rechtspopulisten-bestaetigen-jordan-bardella-an-parteispitze-100.html",
+   "published": "2026-10-24T15:54:02+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-26T15:54:02+00:00",
+   "img": "https://bilder.deutschlandfunk.de/a5/76/a0/44/a576a044-6238-420f-979a-0446efaef5df/bardella-frankreich-100-1920x1920.jpg"
+  },
+  {
+   "id": "n44a022be91",
+   "topic": "politik",
+   "title": "CSU-Parteitag - Merz ruft Union zu Geschlossenheit auf und warnt vor Extremisten \"von ganz links und ganz rechts\"",
+   "text": "Bundeskanzler Merz hat auf dem CSU-Parteitag in München die Zusammenarbeit in der Union gelobt. Zugleich mahnte er, CDU und CSU müssten künftig noch enger zusammenstehen, um Deutschland vor Extremisten von ganz links und ganz rechts zu bewahren. Zur Debatte über die Nachfolge von Bundespräsident Steinmeier äußerte er …",
+   "link": "https://www.deutschlandfunk.de/merz-ruft-union-zu-geschlossenheit-auf-und-warnt-vor-extremisten-von-ganz-links-und-ganz-rechts-100.html",
+   "published": "2026-10-24T15:54:02+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-26T15:54:02+00:00",
+   "img": "https://bilder.deutschlandfunk.de/d1/49/3b/fd/d1493bfd-1522-45f9-9394-3655af37efbe/merz-csu-parteitag-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "CSU-Parteitag: Merz äußert sich nicht zur Präsidentinnen-Frage",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/csu-parteitag-merz-106.html"
+    }
+   ]
+  },
+  {
+   "id": "nc8a75ed71c",
+   "topic": "politik",
+   "title": "Nahost - Palästinenser fordern Hilfe nach israelischem Armeeeinsatz",
+   "text": "Die palästinensische Autonomiebehörde ruft die internationale Gemeinschaft auf, wegen des Vorgehens israelischer Sicherheitskräfte im besetzten Westjordanland einzugreifen. Der Militäreinsatz stelle eine Kollektivstrafe dar, hieß es.",
+   "link": "https://www.deutschlandfunk.de/palaestinenser-fordern-hilfe-nach-israelischem-armeeeinsatz-102.html",
+   "published": "2026-10-24T15:54:02+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-26T15:54:02+00:00",
+   "img": "https://bilder.deutschlandfunk.de/f9/ee/ea/70/f9eeea70-f46d-4653-b9b4-24af63da690f/habron-westjordanland-terrorismus-israel-armee-soldaten-abriegelung-operation-palaestinenser-nahost-100-1920x1920.jpg"
+  },
+  {
+   "id": "n129473778d",
+   "topic": "politik",
+   "title": "Hunderte Teilnehmer - Proteste an mehreren Flughäfen gegen Abschiebungen",
+   "text": "An einer Reihe von deutschen Flughäfen hat ein Aktionsbündnis gegen Abschiebungen und Abschiebehaft demonstriert.",
+   "link": "https://www.deutschlandfunk.de/proteste-an-mehreren-flughaefen-gegen-abschiebungen-102.html",
+   "published": "2026-10-24T15:54:02+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-26T15:54:02+00:00",
+   "img": "https://bilder.deutschlandfunk.de/f4/37/3f/ff/f4373fff-b5fd-4383-a883-9819d7f24841/flughafen-abschiebung-demonstration-100-1920x1920.jpg"
+  },
+  {
+   "id": "nc9b55fd5dd",
+   "topic": "politik",
+   "title": "Fußball-Bundesliga - Siege für Leipzig, Bremen und Paderborn",
+   "text": "In der Fußball-Bundesliga hat Leipzig mit 4:0 gegen Elversberg gewonnen. Es war der vierte Heimsieg in dieser Saison, alle ohne Gegentor.",
+   "link": "https://www.deutschlandfunk.de/siege-fuer-leipzig-bremen-und-paderborn-100.html",
+   "published": "2026-10-24T15:54:02+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-26T15:54:02+00:00",
+   "img": "https://bilder.deutschlandfunk.de/7a/9c/f5/6e/7a9cf56e-9a95-4c6f-8492-71d18fa60035/leipzig-elversberg-100-1920x1920.jpg"
+  },
+  {
+   "id": "nadb92bf358",
+   "topic": "politik",
+   "title": "News zu Eintracht Frankfurt",
+   "text": "Hier bekommen Sie immer die neuesten Nachrichten über Eintracht Frankfurt.",
+   "link": "https://www.hessenschau.de/sport/fussball/eintracht-frankfurt/eintracht-frankfurt-news-ticker-baum-und-aseko-gegen-bvb-in-der-startelf,bundesliga-ticker-104.html",
+   "published": "2026-10-24T15:52:01+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T15:52:01+00:00",
+   "img": "https://www.hessenschau.de/sport/fussball/eintracht-frankfurt/elias-baum-110~_t-1789056974293_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "nc5551a965e",
+   "topic": "it",
+   "title": "Bundeswehr-Digitalfunk: Test bestanden, aber der Marder fällt durch",
+   "text": "Die Bundeswehr meldet Fortschritte beim Umrüsten auf Digitalfunk beim Heer. Doch das Mammutprojekt kämpft weiter mit technischen Hürden und Lieferverzögerungen.",
+   "link": "https://www.heise.de/news/Bundeswehr-Digitalfunk-Test-bestanden-aber-der-Marder-faellt-durch-11499229.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-24T15:39:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-29T15:39:00+00:00"
+  },
+  {
+   "id": "n8d3ffd0373",
+   "topic": "welt",
+   "title": "Krieg gegen die Ukraine: Starlink funktioniert wieder stabil",
+   "text": "Die Satellitenkommunikation von SpaceX in der Ukraine funktioniert nach Angaben aus Kiew wieder stabil. Die ukrainische Armee meldet derweil Angriffe auf russische Industrieanlagen.",
+   "link": "https://www.tagesschau.de/ausland/amerika/musk-starlink-ukraine-102.html",
+   "published": "2026-10-24T15:29:30+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-27T15:29:30+00:00",
+   "img": "https://images.tagesschau.de/image/0232602b-a10d-4723-ad50-6e379705e159/AAABoW2n8k0/AAABnSSvrFg/16x9-big/starlink-ukraine-108.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Russischer Angriffskrieg - Starlink-Satellitensystem funktioniert wieder über der Ukraine - Waffenstillstand für Oleschky bestätigt",
+     "link": "https://www.deutschlandfunk.de/starlink-satellitensystem-funktioniert-wieder-ueber-der-ukraine-waffenstillstand-fuer-oleschky-besta-100.html"
+    }
+   ]
+  },
+  {
+   "id": "ncad13afdf5",
+   "topic": "nfl",
+   "title": "Tyler’s Take: Adam Peters has the chance to play hero, but will he? (@tiller56)",
+   "text": "Mark Tyler details two trades that general manager Adam Peters could make to help save the Commanders 2026 campaign",
+   "link": "https://sports.yahoo.com/articles/tyler-adam-peters-chance-play-152553917.html",
+   "published": "2026-10-24T15:25:53+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-29T15:25:53+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/0f9db4e6c57190f160732645a4e16171.jpg"
+  },
+  {
+   "id": "n16bd3d8274",
+   "topic": "nfl",
+   "title": "Don’t expect an active trade deadline from the Bucs",
+   "text": "And that likely inactivity is part of the problem.",
+   "link": "https://sports.yahoo.com/articles/don-t-expect-active-trade-151954776.html",
+   "published": "2026-10-24T15:19:54+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-29T15:19:54+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/05b2fb572e889cec4e9fbc1fd59ab000.jpg"
+  },
+  {
+   "id": "nb1a3b18d66",
+   "topic": "nfl",
+   "title": "Revisiting Raiders' 2026 NFL Draft: What Vegas is getting out of Fernando Mendoza, what's next",
+   "text": "Sitting behind Kirk Cousins was always the initial plan, but the Raiders may soon be pressed to start the No. 1 overall selection",
+   "link": "https://www.cbssports.com/nfl/news/revisiting-raiders-2026-nfl-draft-no-1-pick-fernando-mendoza/",
+   "published": "2026-10-24T15:04:43+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-29T15:04:43+00:00"
+  },
+  {
+   "id": "n5a59a69bf8",
+   "topic": "ki",
+   "title": "Drei gefeuerte OpenAI-Forscher wehren sich gegen Leak-Vorwürfe und fürchten Einschüchterungseffekt",
+   "text": "Die drei von OpenAI entlassenen Sicherheitsforscher Tomek Korbak, Mikita Balesni und Jasmine Wang wehren sich öffentlich gegen Vorwürfe des Ex-Arbeitgebers: Sie bestreiten, vertrauliche Informationen weitergegeben zu haben, und sehen einen Zusammenhang mit ihrem Einsatz für besser überprüfbare KI-Systeme. Laut den …",
+   "link": "https://the-decoder.de/drei-gefeuerte-openai-forscher-wehren-sich-gegen-leak-vorwuerfe-und-fuerchten-einschuechterungseffekt/",
+   "published": "2026-10-24T14:58:33+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-31T14:58:33+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/openai_fired_researchers.png"
+  },
+  {
+   "id": "n4d7aa2aae6",
+   "topic": "it",
+   "title": "Griechenland verbietet soziale Medien für unter 15-Jährige",
+   "text": "Ein Gesetz nimmt Plattformen und Eltern in die Verantwortung, samt anonymer Alterskontrolle. Auf eine EU-Regelung wollte man nicht warten.",
+   "link": "https://www.heise.de/news/Griechenland-verbietet-soziale-Medien-fuer-unter-15-Jaehrige-11499195.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-24T14:46:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-29T14:46:00+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Griechenland verbietet Social Media für unter 15-Jährige",
+     "link": "https://www.tagesschau.de/ausland/europa/griechenland-social-media-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n8fa937ceb6",
+   "topic": "nfl",
+   "title": "NFL closes 'NFL House' in Paris amid security concerns as city braces for more protests",
+   "text": "The Week 7 matchup between the Steelers and Saints is still on as scheduled",
+   "link": "https://www.cbssports.com/nfl/news/nfl-paris-updates-saints-steelers-nfl-house-france-protests/",
+   "published": "2026-10-24T14:41:04+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-29T14:41:04+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/18/d761f43c-b902-4438-a72b-633954f2fb49/paris-france.jpg"
+  },
+  {
+   "id": "n52d1384fbc",
+   "topic": "it",
+   "title": "App-Store: iPhone Duo als Toaster",
+   "text": "App-Entwickler greifen die Möglichkeiten durch das faltbare Display des iPhone Duo auf und entwickeln teils absurde, teils nützliche Apps. ( iPhone Duo , iMac )",
+   "link": "https://www.golem.de/news/app-store-iphone-duo-als-toaster-2610-214479.html",
+   "published": "2026-10-24T14:40:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-29T14:40:02+00:00",
+   "img": "https://www.golem.de/2610/214479-605094-605092_rc.jpg"
+  },
+  {
+   "id": "ne922247321",
+   "topic": "wirtschaft",
+   "title": "Nach der Elternzeit: Wenn die Rückkehr in den Job schwierig wird",
+   "text": "Viele Mütter und Väter wollen nach der Elternzeit wieder arbeiten, häufig in Teilzeit. Doch nicht immer finden sie mit ihren Arbeitgebern eine Lösung. Betroffene berichten von Benachteiligungen, Fachleute fordern mehr Schutz. Von E. Özer.",
+   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/elternzeit-rueckkehr-job-100.html",
+   "published": "2026-10-24T14:26:17+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-27T14:26:17+00:00",
+   "img": "https://images.tagesschau.de/image/9da4ccd8-cee5-46e1-b95f-e38090fab173/AAABoV8Qe84/AAABnSSvrFg/16x9-big/kinder-kinderwagen-100.jpg?width=1920"
+  },
+  {
+   "id": "n74ce45211e",
+   "topic": "welt",
+   "title": "Faktencheck: Wie Flávio Bolsonaro Zweifel an Brasiliens Demokratie sät",
+   "text": "Hört man dem rechten Präsidentschaftskandidaten zu, könnte man glauben, der amtierende linke Präsident Lula habe Brasiliens Demokratie an den Rand des Abgrunds gebracht. Wie viel Wahrheit steckt hinter der Rhetorik?",
+   "link": "https://www.dw.com/de/faktencheck-wie-flávio-bolsonaro-zweifel-an-brasiliens-demokratie-sät/a-79745227?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-24T14:22:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-28T14:22:00+00:00",
+   "img": "https://static.dw.com/image/79744159_302.jpg"
+  },
+  {
+   "id": "n39bcdf4ca5",
+   "topic": "ki",
+   "title": "KI macht unerfahrene Anwälte sofort besser, könnte aber laut Studie ihre Karriereentwicklung bremsen",
+   "text": "Ein Feldexperiment mit 133 Patentanwälten zeigt einen Zielkonflikt beim KI-Einsatz: Berufsanfänger profitierten am stärksten von KI-Unterstützung beim Verfassen von Patentansprüchen, bauten aber ohne KI kaum dauerhaftes Können auf. Erfahrene Anwälte hingegen konnten das Gelernte behalten. Grundlegendes Fachwissen …",
+   "link": "https://the-decoder.de/ki-macht-unerfahrene-anwaelte-sofort-besser-koennte-aber-laut-studie-ihre-karriereentwicklung-bremsen/",
+   "published": "2026-10-24T14:21:05+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-31T14:21:05+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/09/patent-lawyers-nber-nano-banana-pro.jpg"
+  },
+  {
+   "id": "ndc88bddd6f",
+   "topic": "welt",
+   "title": "Israelische Armee startet Einsatz in Hebron",
+   "text": "Nach dem tödlichen Angriff auf Soldaten hat Israel in Hebron im Westjordanland einen Militäreinsatz begonnen. Premier Netanjahu kündigte eine \"sehr große Überraschung\" für die Palästinensische Autonomiebehörde an.",
+   "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-102.html",
+   "published": "2026-10-24T14:14:53+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-27T14:14:53+00:00",
+   "img": "https://images.tagesschau.de/image/2a396c0a-e923-4711-996b-aa3340ab3b09/AAABoW4Uff8/AAABnSSvrFg/16x9-big/westjordanland-hebron-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Nach tödlichem Angriff - Israelische Armee startet Großoffensive im Westjordanland",
+     "link": "https://www.deutschlandfunk.de/israelische-armee-startet-grossoffensive-im-westjordanland-104.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Israel beginnt \"Anti-Terror-Einsatz\" im Westjordanland",
+     "link": "https://www.dw.com/de/israel-beginnt-anti-terror-einsatz-im-westjordanland/a-79749417?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "ne4c4477422",
+   "topic": "it",
+   "title": "Wähleradressen: AfD droht wegen Datenleck Ärger mit dem Datenschutz",
+   "text": "Nach einem E-Mail-Leak prüft der Datenschutzbeauftragte, ob die AfD in MV Wählerdaten nicht ausreichend geschützt hat. ( Datenschutz , Politik )",
+   "link": "https://www.golem.de/news/waehleradressen-afd-droht-wegen-datenleck-aerger-mit-dem-datenschutz-2610-214478.html",
+   "published": "2026-10-24T14:05:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-29T14:05:02+00:00",
+   "img": "https://www.golem.de/2610/214478-605090-605088_rc.jpg"
+  },
+  {
+   "id": "n74b1b836dc",
+   "topic": "ki",
+   "title": "Blocks KI-Modell Dessa soll emotionale Signale verstehen, die heutige Sprach-KI ignoriert",
+   "text": "Block, das Unternehmen hinter Square und Cash App, stellt mit Dessa ein Sprachmodell vor, das Audio direkt verarbeitet, statt es erst in Text umzuwandeln. So soll es Emotionen, Sarkasmus und Pausen in Echtzeit erkennen. Das Modell läuft lokal auf einem MacBook Pro M4 Max, ist aber bisher nicht öffentlich verfügbar. …",
+   "link": "https://the-decoder.de/blocks-ki-modell-dessa-soll-emotionale-signale-verstehen-die-heutige-sprach-ki-ignoriert/",
+   "published": "2026-10-24T14:03:46+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-10-31T14:03:46+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/dessa_block.png"
+  },
+  {
+   "id": "ndf1c07f56c",
+   "topic": "wissenschaft",
+   "title": "Vorsicht, Denkfalle!: Kann ich nicht, mag ich nicht",
+   "text": "Unerreichbare Ziele schlechtzureden, macht das eigene Scheitern erträglicher. Aber auch wahrscheinlicher! Unser Psychologiekolumnist über den Saure-Trauben-Effekt.",
+   "link": "https://www.spektrum.de/kolumne/saure-trauben-effekt-wie-selbsttaeuschung-erfolg-verhindern-kann/2345261",
+   "published": "2026-10-24T14:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-07T14:00:00+00:00"
+  },
+  {
+   "id": "n8f6bc1355c",
+   "topic": "it",
+   "title": "Ecovacs X12S Omnicyclone im Test: Beutelloser Saugroboter mit Wassersprüher",
+   "text": "Der Ecovacs X12S Omnicyclone saugt mit 27.000 Pa und setzt auf eine beutellose Station. Ob er den Premiumpreis rechtfertigt, zeigt unser Test.",
+   "link": "https://www.heise.de/bestenlisten/testbericht/ecovacs-x12s-omnicyclone-im-test-beutelloser-saugroboter-mit-wassersprueher/059zlth?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-24T14:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-29T14:00:00+00:00"
+  },
+  {
+   "id": "nb64c061e0a",
+   "topic": "politik",
+   "title": "Nazi-Bau: Kehlsteinhaus am Obersalzberg durch Brand weitgehend zerstört",
+   "text": "Es diente den Nazis als Repräsentationsort hoch in den Bergen. In Nacht hat es nun im Kehlsteinhaus am Obersalzberg bei Berchtesgaden gebrannt. Die Polizei vermutet Brandstiftung und hat einen Verdächtigen festgenommen.",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/berchtesgaden-feuer-nazihaus-100.html",
+   "published": "2026-10-24T13:58:56+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-27T13:58:56+00:00",
+   "img": "https://images.tagesschau.de/image/31ad951d-b1a4-4757-9d95-dcd58da8337f/AAABoW3k3Lg/AAABnSSvrFg/16x9-big/kehlsteinhaus-114.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Bayern - Kehlsteinhaus am Obersalzberg durch Brand weitgehend zerstört",
+     "link": "https://www.deutschlandfunk.de/kehlsteinhaus-am-obersalzberg-durch-brand-weitgehend-zerstoert-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n8e825e34ca",
+   "topic": "welt",
+   "title": "Midterms in den USA: Amerikanischer Traum in weiter Ferne",
+   "text": "Höherer Lebensstandard durch harte Arbeit: Der klassische amerikanische Traum scheint jungen US-Bürgern zunehmend unerreichbar. Was erwarten sie von den Zwischenwahlen? Anne Schneider hat sich in Texas umgehört.",
+   "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-junge-waehler-100.html",
+   "published": "2026-10-24T13:47:08+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-27T13:47:08+00:00",
+   "img": "https://images.tagesschau.de/image/1bd073ba-d0c5-416f-b770-76c5502439f2/AAABoVgpKZI/AAABnSSvrFg/16x9-big/souvenir-shop-texas-100.jpg?width=1920"
+  },
+  {
+   "id": "n9a32308df4",
+   "topic": "welt",
+   "title": "Protest-Wochenende in Frankreich: Noch ist die Lage relativ ruhig",
+   "text": "Kommt es wieder zu Ausschreitungen und Plünderungen? Erste Proteste haben begonnen. Französische Sicherheitskräfte sind mit einem Großaufgebot im Einsatz.",
+   "link": "https://www.dw.com/de/protest-wochenende-in-frankreich-noch-ist-die-lage-relativ-ruhig/a-79750898?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-24T13:38:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-28T13:38:00+00:00",
+   "img": "https://static.dw.com/image/79749961_302.jpg"
+  },
+  {
+   "id": "ne8897c6923",
+   "topic": "welt",
+   "title": "Stichwahl in Brasilien: Flávio Bolsonaro - der Kandidat des Vaters",
+   "text": "Flávio Bolsonaro will seinen verurteilten Vater als Präsident beerben - und wohl auch aus der Haft befreien. Trotz allem: Für seine Anhänger ist der Familienname sein wichtigstes Kapital bei der morgigen Stichwahl. Von A. Herrberg und L. Bilard.",
+   "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-bolsonaro-106.html",
+   "published": "2026-10-24T13:36:26+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-27T13:36:26+00:00",
+   "img": "https://images.tagesschau.de/image/323e9df3-a08e-458d-a941-e26927992033/AAABoW4ggCs/AAABnSSvrFg/16x9-big/flavio-jair-bolsonaro-100.jpg?width=1920"
+  },
+  {
+   "id": "n98ebb00de7",
+   "topic": "welt",
+   "title": "Viele Kontrollen und Festnahmen am Protesttag in Frankreich",
+   "text": "Eine Woche nach den schweren Ausschreitungen in Frankreich finden heute erneut große Demonstrationen statt. Bis zum frühen Nachmittag gab es mehr als 100 Festnahmen. 70.000 Ordnungskräfte sind im Einsatz.",
+   "link": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html",
+   "published": "2026-10-24T13:33:20+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-27T13:33:20+00:00",
+   "img": "https://images.tagesschau.de/image/6f9022d7-a842-4869-96d3-310a8150d010/AAABoW4drB4/AAABnSSvrFg/16x9-big/paris-ordnungskraefte-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Bisher keine größeren Zwischenfälle - Viele Kontrollen und Festnahmen bei Demonstrationen in Frankreich",
+     "link": "https://www.deutschlandfunk.de/viele-kontrollen-und-festnahmen-bei-demonstrationen-in-frankreich-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n195c7ce6cf",
+   "topic": "welt",
+   "title": "\"Tinubu muss weg\": Regierungskritiker in Nigeria unter Druck",
+   "text": "Die Festnahme junger Männer wegen regierungskritischer T-Shirts und die Verhinderung eines politischen Treffens haben die Debatte über Meinungsfreiheit und das Recht auf Protest in Nigeria neu entfacht.",
+   "link": "https://www.dw.com/de/tinubu-muss-weg-regierungskritiker-in-nigeria-unter-druck/a-79719726?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-24T12:48:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-28T12:48:00+00:00",
+   "img": "https://static.dw.com/image/79711947_302.jpg"
+  },
+  {
+   "id": "n4cffd9dea2",
+   "topic": "welt",
+   "title": "Tschechien: Umstrittenes Rundfunkgebühren-Aus nimmt erste Hürde",
+   "text": "Wird der tschechische Rundfunk bald vom Wohlwollen der Regierung abhängig sein? Die Finanzierung soll sich ändern. Der Widerstand wächst.",
+   "link": "https://www.dw.com/de/tschechien-umstrittenes-rundfunkgebühren-aus-nimmt-erste-hürde/a-79750477?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-24T12:42:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-28T12:42:00+00:00",
+   "img": "https://static.dw.com/image/79750505_302.jpg"
+  },
+  {
+   "id": "n2c1cdb71e8",
+   "topic": "politik",
+   "title": "Merz auf CSU-Parteitag bejubelt für Begrüßung Aigners",
+   "text": "Der Kanzler ruft auf dem CSU-Parteitag zu Geschlossenheit auf und warnt vor Extremisten. Großen Applaus gibt es aber für einen besonderen Gruß, der im Zusammenhang mit der Diskussion über die Steinmeier-Nachfolge gesehen wurde.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/csu-cdu-merz-aigner-100.html",
+   "published": "2026-10-24T12:19:07+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-27T12:19:07+00:00",
+   "img": "https://images.tagesschau.de/image/b9a1484e-0137-48fd-96c3-88255c4468fb/AAABoW2eYRA/AAABnSSvrFg/16x9-big/merz-aigner-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "CSU-Parteitag - Merz ruft Union zu Geschlossenheit auf und warnt vor Extremisten \"von ganz links und ganz rechts\"",
+     "link": "https://www.deutschlandfunk.de/merz-ruft-union-zu-geschlossenheit-auf-und-warnt-vor-extremisten-von-ganz-links-und-ganz-rechts-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n43301e2cfe",
+   "topic": "welt",
+   "title": "Türkei und Griechenland: Neuer Seerechtsstreit im Mittelmeer",
+   "text": "Die Türkei will zusammen mit Libyen die Seegrenzen im Mittelmeer verändern und einen gemeinsamen Wirtschaftskorridor schaffen. Das sorgt für scharfen Protest aus Griechenland – und ruft auch die EU auf den Plan.",
+   "link": "https://www.dw.com/de/türkei-und-griechenland-neuer-seerechtsstreit-im-mittelmeer/a-79741004?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-24T11:36:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-28T11:36:00+00:00",
+   "img": "https://static.dw.com/image/79426060_302.jpg"
+  },
   {
    "id": "nd116a4d6c6",
    "topic": "politik",
@@ -96,7 +602,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-26T10:57:21+00:00",
-   "img": "https://bilder.deutschlandfunk.de/4d/b3/d7/5b/4db3d75b-7800-4e3a-a7bc-e9db9321c427/merzcsuparteitag-100-1920x1920.jpg"
+   "img": "https://bilder.deutschlandfunk.de/4d/b3/d7/5b/4db3d75b-7800-4e3a-a7bc-e9db9321c427/merzcsuparteitag-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "CSU-Parteitag: Merz äußert sich nicht zur Präsidentinnen-Frage",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/csu-parteitag-merz-106.html"
+    }
+   ]
   },
   {
    "id": "n77f45bfb39",
@@ -109,7 +622,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-26T10:57:21+00:00",
-   "img": "https://bilder.deutschlandfunk.de/81/40/39/fb/814039fb-3239-4c90-903a-3c91764b65a5/ukraine-drohnen-106-1920x1920.jpg"
+   "img": "https://bilder.deutschlandfunk.de/81/40/39/fb/814039fb-3239-4c90-903a-3c91764b65a5/ukraine-drohnen-106-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Krieg gegen die Ukraine: Starlink funktioniert wieder stabil",
+     "link": "https://www.tagesschau.de/ausland/amerika/musk-starlink-ukraine-102.html"
+    }
+   ]
   },
   {
    "id": "n19e0d75abd",
@@ -124,14 +644,14 @@
    "expires": "2026-10-26T10:57:21+00:00",
    "also": [
     {
+     "source": "Tagesschau",
+     "title": "Israelische Armee startet Einsatz in Hebron",
+     "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-102.html"
+    },
+    {
      "source": "Deutsche Welle",
      "title": "Israel beginnt \"Anti-Terror-Einsatz\" im Westjordanland",
      "link": "https://www.dw.com/de/israel-beginnt-anti-terror-einsatz-im-westjordanland/a-79749417?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Nach Anschlag auf Soldaten: Israel startet Operation im Westjordanland",
-     "link": "https://www.tagesschau.de/ausland/israel-westjordanland-militaeroperation-100.html"
     }
    ]
   },
@@ -163,7 +683,7 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Repräsentationsbau der Nazis: Großbrand im Kehlsteinhaus am Obersalzberg",
+     "title": "Nazi-Bau: Kehlsteinhaus am Obersalzberg durch Brand weitgehend zerstört",
      "link": "https://www.tagesschau.de/inland/gesellschaft/berchtesgaden-feuer-nazihaus-100.html"
     }
    ]
@@ -259,14 +779,14 @@
    "img": "https://static.dw.com/image/79739444_302.jpg",
    "also": [
     {
+     "source": "Tagesschau",
+     "title": "Israelische Armee startet Einsatz in Hebron",
+     "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-102.html"
+    },
+    {
      "source": "Deutschlandfunk",
      "title": "Nach tödlichem Angriff - Israelische Armee startet Großoffensive im Westjordanland",
      "link": "https://www.deutschlandfunk.de/israelische-armee-startet-grossoffensive-im-westjordanland-104.html"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Nach Anschlag auf Soldaten: Israel startet Operation im Westjordanland",
-     "link": "https://www.tagesschau.de/ausland/israel-westjordanland-militaeroperation-100.html"
     }
    ]
   },
@@ -385,26 +905,6 @@
    "expires": "2026-10-29T08:14:00+00:00"
   },
   {
-   "id": "nb64c061e0a",
-   "topic": "politik",
-   "title": "Repräsentationsbau der Nazis: Großbrand im Kehlsteinhaus am Obersalzberg",
-   "text": "Es diente den Nazis als Repräsentationsort hoch in den Bergen. Nun ist im Kehlsteinhaus am Obersalzberg bei Berchtesgaden ein Feuer ausgebrochen. Die Polizei vermutet Brandstiftung und nahm einen Verdächtigen fest.",
-   "link": "https://www.tagesschau.de/inland/gesellschaft/berchtesgaden-feuer-nazihaus-100.html",
-   "published": "2026-10-24T08:11:10+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T08:11:10+00:00",
-   "img": "https://images.tagesschau.de/image/93ccbd82-d3ba-4883-a6f3-4fce5950235f/AAABoWzJyDQ/AAABnSSvrFg/16x9-big/kehlsteinhaus-102.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Bayern - Kehlsteinhaus am Obersalzberg durch Brand weitgehend zerstört",
-     "link": "https://www.deutschlandfunk.de/kehlsteinhaus-am-obersalzberg-durch-brand-weitgehend-zerstoert-100.html"
-    }
-   ]
-  },
-  {
    "id": "nc64a8a2fff",
    "topic": "it",
    "title": "Continuous Architecture: KI zwingt uns dazu, veraltete Dokumentation aufzuräumen",
@@ -500,14 +1000,14 @@
    "expires": "2026-10-26T04:23:20+00:00",
    "also": [
     {
+     "source": "Tagesschau",
+     "title": "Israelische Armee startet Einsatz in Hebron",
+     "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-102.html"
+    },
+    {
      "source": "Deutsche Welle",
      "title": "Israel beginnt \"Anti-Terror-Einsatz\" im Westjordanland",
      "link": "https://www.dw.com/de/israel-beginnt-anti-terror-einsatz-im-westjordanland/a-79749417?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Nach Anschlag auf Soldaten: Israel startet Operation im Westjordanland",
-     "link": "https://www.tagesschau.de/ausland/israel-westjordanland-militaeroperation-100.html"
     }
    ]
   },
@@ -1006,14 +1506,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-25T16:57:13+00:00",
-   "img": "https://bilder.deutschlandfunk.de/b3/b0/11/3e/b3b0113e-c1f6-4e3f-b8c4-4d4cac67021e/melania-trump-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Russland und Ukraine tauschen erneut Gefangene aus",
-     "link": "https://www.tagesschau.de/ausland/europa/ukraine-gefangenenaustausch-150.html"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/b3/b0/11/3e/b3b0113e-c1f6-4e3f-b8c4-4d4cac67021e/melania-trump-100-1920x1920.jpg"
   },
   {
    "id": "n33dc142e51",
@@ -1187,7 +1680,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-26T15:44:49+00:00",
-   "img": "https://images.tagesschau.de/image/a90879f7-c1c8-4664-9930-90d802f1fc75/AAABoWkxyWc/AAABnSSvrFg/16x9-big/jugendliche-smartphone-126.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/a90879f7-c1c8-4664-9930-90d802f1fc75/AAABoWkxyWc/AAABnSSvrFg/16x9-big/jugendliche-smartphone-126.jpg?width=1920",
+   "also": [
+    {
+     "source": "heise online",
+     "title": "Griechenland verbietet soziale Medien für unter 15-Jährige",
+     "link": "https://www.heise.de/news/Griechenland-verbietet-soziale-Medien-fuer-unter-15-Jaehrige-11499195.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
   },
   {
    "id": "n25e738e04b",
@@ -1309,460 +1809,6 @@
    "lang": "de",
    "expires": "2026-11-06T15:00:00+00:00",
    "img": "https://static.spektrum.de/fm/912/thumbnails/Fanulena-imitatrix-in-the-wild_Credit_Isabel-Hyman.JPG.8419488.gif?f=1280x720"
-  },
-  {
-   "id": "nc09d28a1a3",
-   "topic": "wissenschaft",
-   "title": "Atommüll: Ein Endlager für die Ewigkeit",
-   "text": "In Finnland wird das weltweit erste Endlager für Atommüll fertiggestellt. Tief unter der Erde soll er Jahrtausende sicher überdauern – wie realistisch ist das?",
-   "link": "https://www.spektrum.de/news/onkalo-ein-sicheres-endlager-fuer-den-radioaktiven-atommuell/2279992",
-   "published": "2026-10-23T15:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-06T15:00:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/ONKALO_27.2.2024-001_1920.jpg.8274846.jpg?f=1280x720"
-  },
-  {
-   "id": "n5584a182a9",
-   "topic": "wissenschaft",
-   "title": "Mitochondrien: Wenn die Kraftwerke der Zellen stottern",
-   "text": "Eine neue Theorie verbindet zahlreiche Volkskrankheiten über den Energiestoffwechsel.",
-   "link": "https://www.spektrum.de/news/mitochondrien-wenn-die-kraftwerke-der-zellen-stottern/2345771",
-   "published": "2026-10-23T14:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-06T14:00:00+00:00"
-  },
-  {
-   "id": "n6486dda492",
-   "topic": "welt",
-   "title": "Russland und Ukraine tauschen erneut Gefangene aus",
-   "text": "In einem Gefangenenaustausch haben Russland und die Ukraine jeweils 270 Personen übergeben. Die Aktion ist Teil einer vor Monaten geplanten Vereinbarung. Unter den Freigelassenen sind auch ukrainische Soldaten, die für tot gehalten wurden.",
-   "link": "https://www.tagesschau.de/ausland/europa/ukraine-gefangenenaustausch-150.html",
-   "published": "2026-10-23T13:58:44+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T13:58:44+00:00",
-   "img": "https://images.tagesschau.de/image/bdc62c57-97bf-431d-8dcf-93076dea5a6f/AAABoWkOj5w/AAABnSSvrFg/16x9-big/gefangenenaustausch-ukraine-118.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Ukraine - Russland und die Ukraine vereinbaren humanitäre Feuerpause für Oleschky",
-     "link": "https://www.deutschlandfunk.de/russland-und-die-ukraine-vereinbaren-humanitaere-feuerpause-fuer-oleschky-100.html"
-    }
-   ]
-  },
-  {
-   "id": "nd131db0c5b",
-   "topic": "welt",
-   "title": "Faktencheck: Wie erkenne ich staatliche Propaganda?",
-   "text": "Politiker weltweit manipulieren Menschen, um ihr Denken und Handeln zu beeinflussen. In Demokratien und Diktaturen. Doch wie kann ich staatliche Propaganda erkennen? Das DW-Faktencheckteam gibt Tipps.",
-   "link": "https://www.dw.com/de/faktencheck-wie-erkenne-ich-staatliche-propaganda/a-60240842?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-23T13:06:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-27T13:06:00+00:00",
-   "img": "https://static.dw.com/image/59990104_302.png"
-  },
-  {
-   "id": "ned3bc1a30e",
-   "topic": "welt",
-   "title": "Erneut mutmaßlicher Drohnenangriff auf Schiff vor Rumäniens Küste",
-   "text": "Ein weiteres Handelsschiff soll Medienberichten zufolge nahe der rumänischen Küste von einer Drohne angegriffen worden sein. Es gebe mindestens ein Todesopfer. Rumäniens Präsident sieht die Verantwortung erneut bei Russland.",
-   "link": "https://www.tagesschau.de/ausland/europa/rumaenien-drohnenangriff-handelsschiff-100.html",
-   "published": "2026-10-23T13:01:59+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T13:01:59+00:00",
-   "img": "https://images.tagesschau.de/image/c2d520a4-c74c-41b1-97fb-f61c8d191afc/AAABoWj0Fow/AAABnSSvrFg/16x9-big/oeltanker-khoryv-100.jpg?width=1920"
-  },
-  {
-   "id": "n6019c0f4b0",
-   "topic": "wirtschaft",
-   "title": "Deutsche Baubranche verzeichnet Rekordanstieg bei Großaufträgen",
-   "text": "Es ist ein Lichtblick in angespannten Zeiten: Die deutsche Baubranche meldet das größte Auftragsplus seit Beginn der Aufzeichnung. Grund sind aber vor allem Großaufträge. Trotzdem bleibt der Mietmarkt angespannt.",
-   "link": "https://www.tagesschau.de/wirtschaft/konjunktur/baugewerbe-grossauftraege-100.html",
-   "published": "2026-10-23T11:53:21+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T11:53:21+00:00",
-   "img": "https://images.tagesschau.de/image/4dbaa864-41fa-4754-8c93-26ea43cf29cc/AAABoWerUCY/AAABnSSvrFg/16x9-big/wohnungsbau-322.jpg?width=1920"
-  },
-  {
-   "id": "n8d0d6132b4",
-   "topic": "welt",
-   "title": "Netanjahu stellt Abriegelung des Westjordanlands in Aussicht",
-   "text": "Der israelische Regierungschef muss bei der Wahl am Dienstag um seine Wiederwahl zittern. Nach einem tödlichen Schusswaffenangriff in Hebron präsentiert sich Benjamin Netanjahu als Garant für Sicherheit.",
-   "link": "https://www.dw.com/de/netanjahu-stellt-abriegelung-des-westjordanlands-in-aussicht/a-79742127?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-23T11:40:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-27T11:40:00+00:00",
-   "img": "https://static.dw.com/image/79741053_302.jpg",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Nach tödlichem Angriff - Israelische Armee startet Großoffensive im Westjordanland",
-     "link": "https://www.deutschlandfunk.de/israelische-armee-startet-grossoffensive-im-westjordanland-104.html"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Nach Anschlag auf Soldaten: Israel startet Operation im Westjordanland",
-     "link": "https://www.tagesschau.de/ausland/israel-westjordanland-militaeroperation-100.html"
-    }
-   ]
-  },
-  {
-   "id": "nfcf45ea390",
-   "topic": "politik",
-   "title": "Nahost - Israel bereitet vollständige Abriegelung des Westjordanlands vor",
-   "text": "Die israelische Regierung hat das Militär angewiesen, sich auf eine vollständige Abriegelung des Westjordanlands vorzubereiten. Wie das Büro von Ministerpräsident Netanjahu mitteilte, wurden die Sicherheitskräfte aufgefordert, die Stadt Hebron umgehend zu sperren. Außerdem sollten sie Vorbereitungen für eine …",
-   "link": "https://www.deutschlandfunk.de/israel-bereitet-vollstaendige-abriegelung-des-westjordanlands-vor-100.html",
-   "published": "2026-10-23T11:33:21+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-25T11:33:21+00:00",
-   "img": "https://bilder.deutschlandfunk.de/84/01/c7/d9/8401c7d9-cfe9-48e5-8836-996a8e8a529c/westjordanland-hebron-grenze-soldaten-israel-palaestinenser-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Israel beginnt \"Anti-Terror-Einsatz\" im Westjordanland",
-     "link": "https://www.dw.com/de/israel-beginnt-anti-terror-einsatz-im-westjordanland/a-79749417?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Nach Anschlag auf Soldaten: Israel startet Operation im Westjordanland",
-     "link": "https://www.tagesschau.de/ausland/israel-westjordanland-militaeroperation-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n6e0a2da3ef",
-   "topic": "politik",
-   "title": "München - CSU-Generalsekretär Huber plädiert für \"Extremismusklausel\"",
-   "text": "CSU-Generalsekretär Huber sieht seine Partei als Bollwerk gegen radikale Parteien von Links wie von Rechts. Huber sagte im Deutschlandfunk, man müsse sich damit befassen, wie die Ränder zurückgedrängt werden könnten.",
-   "link": "https://www.deutschlandfunk.de/csu-generalsekretaer-huber-plaediert-fuer-extremismusklausel-102.html",
-   "published": "2026-10-23T11:33:21+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-25T11:33:21+00:00",
-   "img": "https://bilder.deutschlandfunk.de/61/f8/c8/95/61f8c895-4c59-49c7-b5cd-56123e1a9a4f/martin-huber-104-1920x1920.jpg"
-  },
-  {
-   "id": "n81622d7cbc",
-   "topic": "politik",
-   "title": "Nach Steuerschätzung - Forderungen nach Senkung der Stromsteuer für alle",
-   "text": "Nach der neuen Steuerschätzung gibt es Rufe nach weiteren Entlastungen: Weil der Bund im kommenden Jahr mit höheren Einnahmen rechnen kann, kommen aus mehreren Bundesländern Forderungen nach einer Senkung der Stromsteuer für alle. So verwies Hessens Ministerpräsident Rhein auf den Koalitionsvertrag.",
-   "link": "https://www.deutschlandfunk.de/forderungen-nach-senkung-der-stromsteuer-fuer-alle-100.html",
-   "published": "2026-10-23T11:33:21+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-25T11:33:21+00:00",
-   "img": "https://bilder.deutschlandfunk.de/FI/LE/_7/a6/FILE_7a669d84fac99230cfa2fbaa372585db/imago0107020200h-jpg-102-768x768.jpg"
-  },
-  {
-   "id": "nb6bd0ba943",
-   "topic": "politik",
-   "title": "Parteien - AfD-Datenleck: Weidel könnte in Spendenaffäre von 2018 erneut unter Druck geraten",
-   "text": "In der AfD-Spendenaffäre von 2018 gibt es möglicherweise neue Erkenntnisse.",
-   "link": "https://www.deutschlandfunk.de/afd-datenleck-weidel-koennte-in-spendenaffaere-von-2018-erneut-unter-druck-geraten-100.html",
-   "published": "2026-10-23T11:33:21+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-25T11:33:21+00:00",
-   "img": "https://bilder.deutschlandfunk.de/9c/a9/ca/ec/9ca9caec-a71b-4a10-8eea-ad90d88f8c5f/weidel-afd-berlin-100-1920x1920.jpg"
-  },
-  {
-   "id": "n136138bbf8",
-   "topic": "politik",
-   "title": "Nach Festnahme in Brandenburg - Mutmaßlicher russischer Spion in Untersuchungshaft",
-   "text": "​Der Bundesgerichtshof hat den in Brandenburg festgenommenen mutmaßlichen russischen Spion in Untersuchungshaft genommen. ‌",
-   "link": "https://www.deutschlandfunk.de/mutmasslicher-russischer-spion-in-untersuchungshaft-100.html",
-   "published": "2026-10-23T11:33:21+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-25T11:33:21+00:00",
-   "img": "https://bilder.deutschlandfunk.de/86/b7/c8/1e/86b7c81e-2a78-455c-a1b0-bb29cdd261fc/bundesanwaltschaft-100-1920x1920.jpg"
-  },
-  {
-   "id": "n451fb8624a",
-   "topic": "politik",
-   "title": "Sanktionen ausgesetzt - Russlands erste Diesellieferung unterwegs in die USA",
-   "text": "Russland hat ein erstes Tankschiff mit 40.000 Tonnen Diesel an Bord auf den Weg Richtung USA geschickt.",
-   "link": "https://www.deutschlandfunk.de/russlands-erste-diesellieferung-unterwegs-in-die-usa-100.html",
-   "published": "2026-10-23T11:33:21+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-25T11:33:21+00:00",
-   "img": "https://bilder.deutschlandfunk.de/26/4f/59/0b/264f590b-6bdd-4573-aecf-eb467701a10e/russland-oel-tanker-oeltanker-hafen-grossbritannien-sperrung-schiff-einfahrt-100-1920x1920.jpg"
-  },
-  {
-   "id": "n5903bca021",
-   "topic": "it",
-   "title": "(g+) Cyber Resilience Act: Die Meldepflicht mit den eingebauten Lücken",
-   "text": "Seit September gilt eine neue EU-Meldepflicht für Sicherheitslücken. Doch wer ein älteres vernetztes Gerät besitzt, kann auf einem bekannten Problem sitzen bleiben - ganz legal. Eine Analyse von Jan Gruber ( Security , Exfat )",
-   "link": "https://www.golem.de/news/cyber-resilience-act-die-meldepflicht-mit-den-eingebauten-luecken-2610-214438.html",
-   "published": "2026-10-23T11:30:05+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-28T11:30:05+00:00",
-   "img": "https://www.golem.de/2610/214438-604917-604915_rc.jpg"
-  },
-  {
-   "id": "ne1d907bcf0",
-   "topic": "it",
-   "title": "heise+ | Termine mit Apple Kalender organisieren",
-   "text": "Termine aus iCloud, Google, Outlook und weiteren Diensten in einer App: Wir zeigen am iPad, wie Sie private und berufliche Verpflichtungen im Blick halten.",
-   "link": "https://www.heise.de/ratgeber/Termine-mit-Apple-Kalender-organisieren-11483072.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-   "published": "2026-10-23T11:30:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-28T11:30:00+00:00"
-  },
-  {
-   "id": "n7d5cd13653",
-   "topic": "it",
-   "title": "AfD-Leak: Mutmaßliche Täter bekennen sich",
-   "text": "In einem Interview mit der Zeit bekennen sich zwei anonyme Täter zu dem Cyberangriff auf die AfD: Es gehe um Transparenz und Gerechtigkeit.",
-   "link": "https://www.heise.de/news/AfD-Leak-Mutmassliche-Taeter-bekennen-sich-11498375.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-23T11:30:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-28T11:30:00+00:00"
-  },
-  {
-   "id": "n7bde313d12",
-   "topic": "politik",
-   "title": "CSU-Chef und Ministerpräsident: Der doppelte Söder",
-   "text": "Mit einer Rede von CSU-Chef Söder beginnt heute der Parteitag der Christsozialen. Söder zeigt sich als ambivalenter Politiker: Als Parteichef prägt er die Koalition, als Ministerpräsident kritisiert er sie zugleich. Von Sabine Henkel.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/csu-union-soeder-bundespolitik-100.html",
-   "published": "2026-10-23T11:28:38+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T11:28:38+00:00",
-   "img": "https://images.tagesschau.de/image/581f5ee4-441a-4f1b-9905-9407c59d6c08/AAABoWiFJHc/AAABnSSvrFg/16x9-big/soeder-926.jpg?width=1920"
-  },
-  {
-   "id": "na2cdf8707d",
-   "topic": "ki",
-   "title": "Canva bringt mit Craft sein erstes eigenes Bildmodell",
-   "text": "Die Designplattform Canva hat mit Canva Craft ihr erstes eigenes Modell zur Bildgenerierung veröffentlicht. Der Artikel Canva bringt mit Craft sein erstes eigenes Bildmodell erschien zuerst auf The Decoder .",
-   "link": "https://the-decoder.de/canva-bringt-mit-craft-sein-erstes-eigenes-bildmodell/",
-   "published": "2026-10-23T11:27:30+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-30T11:27:30+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/CanvaCraftthumbnail.avif"
-  },
-  {
-   "id": "n7bc4198bae",
-   "topic": "politik",
-   "title": "Herbststürme fegen über Hessen: Böen über 100 km/h erwartet",
-   "text": "Erst Luise, dann Manja: Durch Hessen ziehen nacheinander zwei Sturmtiefs. Es drohen Böen von über 100 km/h und kräftiger Regen. In neuen Woche folgt ein Wetter-Kontrast.",
-   "link": "https://www.hessenschau.de/panorama/herbststuerme-fegen-ueber-hessen-boeen-ueber-100-kmh-erwartet-v1,wetter-stuerme-regen-100.html",
-   "published": "2026-10-23T11:26:05+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T11:26:05+00:00",
-   "tag": "Hessen"
-  },
-  {
-   "id": "n930de5ef02",
-   "topic": "it",
-   "title": "EU-Staaten lehnen technische Lösung für Cookie-Banner ab",
-   "text": "Die EU-Staaten lehnen eine technische Lösung zur Reduzierung von Cookie-Bannern ab. Sie wollen mehr Ausnahmen für Betreiber, auf Kosten des Datenschutzes.",
-   "link": "https://www.heise.de/news/EU-Staaten-lehnen-technische-Loesung-fuer-Cookie-Banner-ab-11498018.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-23T11:24:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-28T11:24:00+00:00"
-  },
-  {
-   "id": "n36b683d50c",
-   "topic": "nfl",
-   "title": "Should the Browns work out a trade for RB Jonathan Taylor? Let’s explore",
-   "text": "Cleveland Browns running game has not been good. Could NFL trade deadline rumors involving Jonathan Taylor fix that?",
-   "link": "https://sports.yahoo.com/articles/browns-trade-rb-jonathan-taylor-111741571.html",
-   "published": "2026-10-23T11:17:41+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-28T11:17:41+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/0f079c2066dbd1455a7a6fb1bb2815ca.jpg"
-  },
-  {
-   "id": "na5a6d4c8b2",
-   "topic": "it",
-   "title": "Bundesdigitalminister Karsten Wildberger: Deutschland-App liegt hinter Zeitplan zurück",
-   "text": "Der Probebetrieb in allen Pilotkommunen für die Deutschland-App sollte eigentlich Mitte September starten. Karsten Wildberger räumt Probleme ein, relativiert aber mit gestiegenen Ansprüchen. ( Digitalisierung , KI )",
-   "link": "https://www.golem.de/news/bundesdigitalminister-karsten-wildberger-deutschland-app-liegt-hinter-zeitplan-zurueck-2610-214444.html",
-   "published": "2026-10-23T11:06:01+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-28T11:06:01+00:00",
-   "img": "https://www.golem.de/2610/214444-604946-604944_rc.jpg"
-  },
-  {
-   "id": "nd793c1454a",
-   "topic": "ki",
-   "title": "Code-Verifikation per KI: Anthropic nimmt die nächste Hürde der Software-Automatisierung",
-   "text": "Anthropic hat Claude mathematische Beweise für die Sicherheit bestehenden Codes erstellen lassen: rund 180 Millionen Zeilen Beweiscode für 123 Open-Source-Bibliotheken. Dabei fand das Modell Fehler, die jahrelanges Testen übersehen hatte. Anthropic will formale Verifikation per KI bald so praktikabel machen wie …",
-   "link": "https://the-decoder.de/code-verifikation-per-ki-anthropic-nimmt-die-naechste-huerde-der-software-automatisierung/",
-   "published": "2026-10-23T11:00:19+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-30T11:00:19+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/anthropic_claude-2.png"
-  },
-  {
-   "id": "nc3833825e9",
-   "topic": "wissenschaft",
-   "title": "Hirnentwicklung: Diese fünf Phasen durchläuft das Gehirn im Lauf des Lebens",
-   "text": "Wenn wir älter werden, macht unser Hirn typische Veränderungen durch. Nun haben Forscher fünf zentrale Wendepunkte identifiziert.",
-   "link": "https://www.spektrum.de/news/diese-fuenf-phasen-durchlaeuft-ihr-gehirn-im-lauf-des-lebens/2297824",
-   "published": "2026-10-23T11:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-06T11:00:00+00:00"
-  },
-  {
-   "id": "nc1510e5a53",
-   "topic": "nfl",
-   "title": "Tennessee Titans news: A chance at a win streak",
-   "text": "The Tennessee Titans are making a run for another victory in Week 7.",
-   "link": "https://sports.yahoo.com/articles/tennessee-titans-news-chance-win-110000531.html",
-   "published": "2026-10-23T11:00:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-28T11:00:00+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/562588e4d93bf039008ba85efcd75a03.jpg"
-  },
-  {
-   "id": "n1a2101c11b",
-   "topic": "welt",
-   "title": "Studie: Hitzesommer 2026 war in Europa der tödlichste bisher",
-   "text": "Mehr als 50.000 Menschen sind einer Schätzung zufolge in diesem Sommer aufgrund der Rekordtemperaturen gestorben. Besonders tödlich war der Juni 2026.",
-   "link": "https://www.dw.com/de/studie-hitzesommer-2026-war-in-europa-der-tödlichste-bisher/a-79741566?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-23T10:53:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-27T10:53:00+00:00",
-   "img": "https://static.dw.com/image/77687682_302.jpg"
-  },
-  {
-   "id": "n27b37de026",
-   "topic": "politik",
-   "title": "Fachgesellschaften veröffentlichen Leitlinien für Suizidassistenz",
-   "text": "Wie sollen Ärzte oder Pflegekräfte reagieren, wenn Menschen in existenzieller Not sagen, dass sie sterben wollen? Ein Gesetz, das dafür Regeln vorgibt, fehlt. Eine neue Leitlinie setzt auf eingehende Beratung. Von Daniela Remus.",
-   "link": "https://www.tagesschau.de/inland/gesellschaft/leitlinien-suizidassistenz-100.html",
-   "published": "2026-10-23T10:48:25+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T10:48:25+00:00",
-   "img": "https://images.tagesschau.de/image/5e1582a4-0b2d-415b-a2cf-50009e4806b8/AAABoWh_rLY/AAABnSSvrFg/16x9-big/patient-intensivstation-100.jpg?width=1920"
-  },
-  {
-   "id": "nce0bd0a2c3",
-   "topic": "wirtschaft",
-   "title": "PHP-Sicherheitslücke: IT-Experten fordern Maßnahmen über Updates hinaus",
-   "text": "Nach Aufdeckung der Sicherheitslücke in der Programmiersprache PHP sind viele Webseiten nach einem Update wieder verfügbar. Doch IT-Experten raten zu weiteren Maßnahmen: Betreiber von Webseiten müssten ihre Systeme genau prüfen.",
-   "link": "https://www.tagesschau.de/wirtschaft/digitales/it-sicherheit-php-100.html",
-   "published": "2026-10-23T10:47:03+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T10:47:03+00:00",
-   "img": "https://images.tagesschau.de/image/7dd14bf5-6319-4a50-b621-98cd86260a9f/AAABoWfHqZU/AAABnSSvrFg/16x9-big/php-smartphone-100.jpg?width=1920"
-  },
-  {
-   "id": "n93b3441295",
-   "topic": "welt",
-   "title": "Erneute Wahlverschiebung in Guinea-Bissau: Politisches Chaos hält an",
-   "text": "Die für den 6. Dezember angekündigten Wahlen in Guinea-Bissau sind auf unbestimmte Zeit verschoben. Ein neuer Termin steht nicht fest. Die Rückkehr zu einer zivilen Regierung bleibt ungewiss.",
-   "link": "https://www.dw.com/de/erneute-wahlverschiebung-in-guinea-bissau-politisches-chaos-hält-an/a-79729647?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-23T10:26:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-27T10:26:00+00:00",
-   "img": "https://static.dw.com/image/74915625_302.jpg"
-  },
-  {
-   "id": "n19b6ff1d26",
-   "topic": "wissenschaft",
-   "title": "Jubiläumsfolge 100x WTF Talk – Q & A",
-   "text": "Zur 100. Folge beantwortet das Team Fragen rund um den Podcast »WTF Talk«. 🎙️",
-   "link": "https://www.spektrum.de/podcast/wtf-talk-jubilaeumsfolge-100x-wtf-talk-q-und-a/2350921",
-   "published": "2026-10-23T10:15:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-06T10:15:00+00:00"
-  },
-  {
-   "id": "n83e0f2247e",
-   "topic": "wirtschaft",
-   "title": "Finnland genehmigt unterirdisches Atommüll-Endlager",
-   "text": "Finnland setzt zur Stromgewinnung auch auf Kernenergie - und hat nun grünes Licht für den Betrieb eines unterirdischen Endlagers für Tausende Tonnen hochradioaktiven Atommüll gegeben. Noch fehlt allerdings eine letzte Genehmigung.",
-   "link": "https://www.tagesschau.de/ausland/europa/finnland-endlager-atommuell-100.html",
-   "published": "2026-10-23T10:04:33+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T10:04:33+00:00",
-   "img": "https://images.tagesschau.de/image/72bbd938-cfa8-425f-8696-f45ee0686988/AAABoWgCM3g/AAABnSSvrFg/16x9-big/endlagertunnel-onkalo-102.jpg?width=1920"
-  },
-  {
-   "id": "n7b3b56b24f",
-   "topic": "welt",
-   "title": "Russland kehrt zurück, Deutschland sagt ab: Kontroverse um FIFA U15-WM",
-   "text": "Deutschland gehört zu den wenigen FIFA-Mitgliedern, die eine Einladung zur Teilnahme an der U15-Weltmeisterschaft ablehnen. Das erstmals ausgetragenen Turnier markiert zudem die Rückkehr Russlands auf die Fußballbühne.",
-   "link": "https://www.dw.com/de/russland-kehrt-zurück-deutschland-sagt-ab-kontroverse-um-fifa-u15-wm/a-79740456?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-23T09:58:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-27T09:58:00+00:00",
-   "img": "https://static.dw.com/image/79734950_302.jpg"
-  },
-  {
-   "id": "n056da69641",
-   "topic": "wissenschaft",
-   "title": "Artenvielfalt: Forscher entdecken neue Hirschkäferart in Europa",
-   "text": "Hirschkäfer sind keine kleinen Tiere, dennoch wurde eine bislang unbekannte Art aus Griechenland lange übersehen. Die Artenvielfalt mehrte sich dank Citizen Science.",
-   "link": "https://www.spektrum.de/news/artenvielfalt-forscher-entdecken-neue-hirschkaeferart-in-europa/2351127",
-   "published": "2026-10-23T09:48:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-06T09:48:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/Hirschkaefer_Lucanus_appolon_1_.jpg.8419400.jpg?f=1280x720"
   }
  ]
 }
