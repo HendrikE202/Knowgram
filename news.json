@@ -1,55 +1,500 @@
 {
- "generated": "2026-10-25T11:31:00.677691+00:00",
+ "generated": "2026-10-25T16:21:02.656888+00:00",
  "briefing": [
-  "n342a7377f6",
-  "n8d3ffd0373",
-  "ndc88bddd6f",
-  "ne8897c6923",
+  "nb38b7721f5",
+  "nb6a25d076f",
+  "n1deb15abca",
+  "nad22a68580",
+  "nb102feb4d7",
   "n5f19911a55",
-  "n40ea3210ec",
-  "na93a9902ce",
-  "nf9dd046064",
-  "n33e9fe3007"
+  "ne6662be2e3",
+  "n22f12222da"
  ],
  "ranked": [
   {
-   "id": "n342a7377f6",
-   "s": 32.3
+   "id": "nb38b7721f5",
+   "s": 39.9
   },
   {
-   "id": "n8d3ffd0373",
-   "s": 28.0
+   "id": "nb6a25d076f",
+   "s": 32.7
   },
   {
-   "id": "ndc88bddd6f",
-   "s": 27.7
+   "id": "n1deb15abca",
+   "s": 31.6
   },
   {
-   "id": "ne8897c6923",
-   "s": 27.5
+   "id": "nad22a68580",
+   "s": 30.9
+  },
+  {
+   "id": "nb102feb4d7",
+   "s": 27.1
   },
   {
    "id": "n5f19911a55",
-   "s": 24.1
-  },
-  {
-   "id": "n40ea3210ec",
-   "s": 23.1
-  },
-  {
-   "id": "na93a9902ce",
    "s": 22.9
   },
   {
-   "id": "nf9dd046064",
+   "id": "ne6662be2e3",
    "s": 22.9
   },
   {
-   "id": "n33e9fe3007",
-   "s": 17.0
+   "id": "n22f12222da",
+   "s": 22.9
   }
  ],
  "items": [
+  {
+   "id": "n3a892169f8",
+   "topic": "nfl",
+   "title": "South Carolina fans storm field after Tennessee upset. Then things get ugly",
+   "text": "South Carolina's field storm after upsetting Tennessee turned chaotic, with videos showing heated confrontations between Vols players and fans.",
+   "link": "https://sports.yahoo.com/articles/south-carolina-fans-storm-field-161136833.html",
+   "published": "2026-10-25T16:11:36+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-30T16:11:36+00:00"
+  },
+  {
+   "id": "n752ffc89aa",
+   "topic": "nfl",
+   "title": "NFL Week 7 last-minute best bets: Cardinals upset Broncos, Vikings cruise to win over Colts",
+   "text": "Need some last-minute advice on how to bet the Week 7 slate? Allow us to be of assistance",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-7-last-minute-best-bets-cardinals-broncos-vikings-colts/",
+   "published": "2026-10-25T16:09:08+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-30T16:09:08+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2025/09/06/48c2575b-15d3-4fa4-88dd-2aafc49fce0f/trey-mcbride-cardinals-imagn-images.jpg"
+  },
+  {
+   "id": "nb6eec6f42f",
+   "topic": "nfl",
+   "title": "Buccaneers vs. Panthers Week 7 inactives: Baker Mayfield returns",
+   "text": "The Tampa Bay Buccaneers are set to take on the Carolina Panthers Sunday afternoon in a crucial NFC South matchup at Bank of America Stadium in Charlotte. Tampa Bay received some encouraging news ahead of kickoff as quarterback Baker Mayfield is officially active and will start after missing the previous three games …",
+   "link": "https://sports.yahoo.com/articles/buccaneers-vs-panthers-week-7-160537772.html",
+   "published": "2026-10-25T16:05:37+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-30T16:05:37+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/e53172332d380420e85099c21130a050.jpg"
+  },
+  {
+   "id": "n26f6040e44",
+   "topic": "wissenschaft",
+   "title": "Verleihung des Deutschen Umweltpreises",
+   "text": "Verleihung des Deutschen Umweltpreises",
+   "link": "https://www.tagesschau.de/video/video-1672336.html",
+   "published": "2026-10-25T16:04:05+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-08T16:04:05+00:00",
+   "img": "https://images.tagesschau.de/image/5a45528f-b17e-4ddc-bfff-2320d2ec4967/AAABoXPM_0I/AAABnSSvrFg/16x9-big/sendungsbild-1816990.jpg?width=1920"
+  },
+  {
+   "id": "n0ff3a8f60c",
+   "topic": "politik",
+   "title": "Flohmärkte, Märkte und Feste in Hessen: Termine bis zum 1. November",
+   "text": "Für alle, die gerne nach Schnäppchen und Raritäten suchen: eine Übersicht über die Flohmärkte in Hessen bis Sonntag.",
+   "link": "https://www.hessenschau.de/freizeit/flohmaerkte-maerkte-und-feste-in-hessen-termine-bis-zum-1-november-v1,veranstaltungstipps-2644kw-100.html",
+   "published": "2026-10-25T16:02:27+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-29T16:02:27+00:00",
+   "img": "https://www.hessenschau.de/freizeit/flohmaerkte/flohmarkt-sujet-106~_t-1454487964237_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "n9b2e441551",
+   "topic": "politik",
+   "title": "VW-Tochter - Audi lässt Trump im Wahlkampf Bau eines US-Werks verkünden - Kritik aus der SPD",
+   "text": "Die verkehrspolitische Sprecherin der SPD, Cademartori, hat den Auftritt des Audi-Vorstandschefs Döllner bei einer Wahlkampfveranstaltung von US-Präsident Trump kritisiert. Trump hatte bei dem Ereignis im Bundesstaat Georgia verkündet, dass Audi sein erstes Werk in den USA bauen wolle. Er rief Döllner auf die Bühne …",
+   "link": "https://www.deutschlandfunk.de/audi-laesst-trump-im-wahlkampf-bau-eines-us-werks-verkuenden-kritik-aus-der-spd-100.html",
+   "published": "2026-10-25T15:52:16+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-27T15:52:16+00:00"
+  },
+  {
+   "id": "n23da978e07",
+   "topic": "politik",
+   "title": "Midterms - Obama greift Trump im Wahlkampf scharf an",
+   "text": "​Zehn Tage vor den Zwischenwahlen in den USA hat sich der ehemalige Präsident Obama in den Wahlkampf eingeschaltet - mit ⁠scharfer Kritik an ⁠seinem Nachfolger Donald Trump. Bei Auftritten in Cleveland und Detroit warf er dem republikanischen Präsidenten Korruption vor und verspottete dessen Politik.",
+   "link": "https://www.deutschlandfunk.de/obama-greift-trump-im-wahlkampf-scharf-an-100.html",
+   "published": "2026-10-25T15:52:16+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-27T15:52:16+00:00",
+   "img": "https://bilder.deutschlandfunk.de/b0/44/7b/dc/b0447bdc-b0a4-4167-a1ca-3a95d1b53960/obama-midterms-michigan-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Vor Midterms: Ex-US-Präsident Obama schaltet sich mit Trump-Kritik in Wahlkampf ein",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-wahl-102.html"
+    }
+   ]
+  },
+  {
+   "id": "ne6662be2e3",
+   "topic": "politik",
+   "title": "US-Kongresswahlen - Auf welche jüngeren Köpfe die Demokraten setzen",
+   "text": "Bei den US-Kongresswahlen am 3. November treten für die Demokratische Partei einige prominente jüngere Köpfe an. Sie symbolisieren den Generationswechsel in der Partei, den Anhänger nach der verlorenen Präsidentschaftswahl 2024 forderten. Drei Männer und eine Frau stehen beispielhaft für die verschiedenen Strömungen …",
+   "link": "https://www.deutschlandfunk.de/auf-welche-juengeren-koepfe-die-demokraten-setzen-100.html",
+   "published": "2026-10-25T15:52:16+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-27T15:52:16+00:00",
+   "img": "https://bilder.deutschlandfunk.de/3a/e7/ba/7a/3ae7ba7a-2d21-4c87-890f-52eb8f880fcd/james-talarico-texas-demokrat-100-1920x1920.jpg"
+  },
+  {
+   "id": "n2f9be84f2c",
+   "topic": "politik",
+   "title": "Streit um Satellitensystem - Ukraine weist Vorwürfe von Musk zu Starlink-Verstößen zurück",
+   "text": "Die Ukraine hat Vorwürfe des US-Unternehmers Musk zurückgewiesen, die Nutzungsbedingungen des Satellitensystems",
+   "link": "https://www.deutschlandfunk.de/ukraine-weist-vorwuerfe-von-musk-zu-starlink-verstoessen-zurueck-100.html",
+   "published": "2026-10-25T15:52:16+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-27T15:52:16+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Musk wirft Ukraine Verstoß bei Starlink-Nutzung vor",
+     "link": "https://www.tagesschau.de/ausland/amerika/musk-ukraine-starlink-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n22f12222da",
+   "topic": "politik",
+   "title": "Verteidigung gegen Russland - Ukrainische Raketenangriffe auf russische Ziele - mehrere Todesopfer",
+   "text": "Aus Russland werden ukrainische Luftangriffe gemeldet.",
+   "link": "https://www.deutschlandfunk.de/ukrainische-raketenangriffe-auf-russische-ziele-mehrere-todesopfer-100.html",
+   "published": "2026-10-25T15:52:16+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-27T15:52:16+00:00",
+   "img": "https://bilder.deutschlandfunk.de/bb/e0/c8/a1/bbe0c8a1-a05e-45b5-9d22-df4b422bdb79/ukraine-russland-angriff-drohne-100-1280x1280.jpg"
+  },
+  {
+   "id": "n5b6f18d6a8",
+   "topic": "politik",
+   "title": "Iran-Krieg - Strände in Emiraten wegen Ölverschmutzung geschlossen",
+   "text": "In den Vereinigten Arabischen Emiraten sind mehrere Strände wegen Ölverschmutzung geschlossen worden.",
+   "link": "https://www.deutschlandfunk.de/straende-in-emiraten-wegen-oelverschmutzung-geschlossen-102.html",
+   "published": "2026-10-25T15:52:16+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-27T15:52:16+00:00",
+   "img": "https://bilder.deutschlandfunk.de/28/e2/79/48/28e27948-3f1a-459c-8682-4fc86176a7be/strand-emirate-100-1920x1920.jpg"
+  },
+  {
+   "id": "nbe320dc167",
+   "topic": "it",
+   "title": "Audi-Chef verteidigt Werks-Pläne in den USA",
+   "text": "Audi lässt US-Präsident Trump im Wahlkampf den Bau eines US-Werks verkünden. Vorstands-Chef Döllner äußerte sich dazu am Sonntag.",
+   "link": "https://www.heise.de/news/Audi-Chef-verteidigt-Werks-Plaene-in-den-USA-11499465.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-25T15:43:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-30T15:43:00+00:00"
+  },
+  {
+   "id": "n918eaf8369",
+   "topic": "it",
+   "title": "Freiheit im Netz auf Talfahrt: Zensur, KI, Alterschecks und digitale Isolation",
+   "text": "Der Freedom-on-the-Net-Bericht 2026 verweist auf weltweit sinkende Internetfreiheiten. Autokraten isolieren Netze; Altersgrenzen und KI schaffen neue Hürden.",
+   "link": "https://www.heise.de/news/Freiheit-im-Netz-auf-Talfahrt-Zensur-KI-Alterschecks-und-digitale-Isolation-11499475.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-25T15:38:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-30T15:38:00+00:00"
+  },
+  {
+   "id": "n62b32632ac",
+   "topic": "welt",
+   "title": "\"Nur ein toter Bandit ist ein guter Bandit\" - Wahlkampf in Brasilien",
+   "text": "Brasiliens Wähler sehen Gewalt und Kriminalität als das größte Problem im Land. Die Macht der Banden wird immer größer. Die Kandidaten bei der Stichwahl ums Präsidentenamt heute stehen dabei für unterschiedliche Lösungen. Von Xenia Böttcher.",
+   "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-innere-sicherheit-100.html",
+   "published": "2026-10-25T15:16:47+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T15:16:47+00:00",
+   "img": "https://images.tagesschau.de/image/948e8b30-dfe7-488f-ac5a-076329d53d82/AAABoXOiu_U/AAABnSSvrFg/16x9-big/polizei-brasilien-100.jpg?width=1920"
+  },
+  {
+   "id": "n2f0a76edf8",
+   "topic": "welt",
+   "title": "Großbritannien: Burnham offen für Rückkehr zu EU-Freizügigkeit",
+   "text": "Der Brexit hat Großbritannien mehr Schaden als Nutzen gebracht - so sieht es zumindest der neue Premier Burnham. Jetzt zeigt er sich einmal mehr offen für eine Wiederannäherung an die EU - allerdings in Grenzen.",
+   "link": "https://www.tagesschau.de/ausland/burnham-freizuegigkeit-100.html",
+   "published": "2026-10-25T15:12:04+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T15:12:04+00:00",
+   "img": "https://images.tagesschau.de/image/b2bad63b-39ca-46d5-a377-4375a6ec0473/AAABoS_ZOsc/AAABnSSvrFg/16x9-big/burnham-158.jpg?width=1920"
+  },
+  {
+   "id": "nb6a25d076f",
+   "topic": "welt",
+   "title": "Audi kündigt US-Werk an - auf Trumps Wahlkampftour",
+   "text": "Immer wieder droht Trump ausländischen Unternehmen mit hohen Zöllen. Nun kündigte Audi den Bau seines ersten Werks in den USA an. Auf einer Wahlkampfveranstaltung durfte der US-Präsident damit auch für sich werben.",
+   "link": "https://www.tagesschau.de/ausland/amerika/audi-usa-trump-100.html",
+   "published": "2026-10-25T15:04:51+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T15:04:51+00:00",
+   "img": "https://images.tagesschau.de/image/2d475b55-fad5-4039-b944-32c6bc3a8b2b/AAABoXHj9CA/AAABnSSvrFg/16x9-big/audi-trump-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Audi kündigt Milliarden-Investition in den USA an",
+     "link": "https://www.dw.com/de/audi-kündigt-milliarden-investition-in-den-usa-an/a-79754352?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "n0e1aefc0cc",
+   "topic": "wissenschaft",
+   "title": "Imperium Romanum: Die verschollenen Straßen der Römer",
+   "text": "Das römische Straßennetz war etwa 110 000 Kilometer länger als bisher angenommen. Eine hoch aufgelöste Digitalkarte macht erstmals die verschollenen Wege sichtbar.",
+   "link": "https://www.spektrum.de/news/imperium-romanum-die-verschollenen-strassen-der-roemer/2325492",
+   "published": "2026-10-25T15:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-08T15:00:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/sa0626Brug01_2T4RM62_Alamy-viaSciAm.jpg.8388461.jpg?f=1280x720"
+  },
+  {
+   "id": "n73c49b4c0b",
+   "topic": "it",
+   "title": "Dieses Klapprad-E-Bike schaltet von selbst: Uto Pro 20 mit Riemenantrieb im Test",
+   "text": "Schnelles Falten, Zweigang-Automatik, Riemenantrieb: Das Klapprad-E-Bike Uto Pro 20 punktet in der Stadt. Was taugt es im Alltag?",
+   "link": "https://www.heise.de/bestenlisten/testbericht/dieses-klapprad-e-bike-schaltet-von-selbst-uto-pro-20-mit-riemenantrieb-im-test/cpln400?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-25T15:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-30T15:00:00+00:00"
+  },
+  {
+   "id": "naa9fcacd89",
+   "topic": "politik",
+   "title": "Sturmtief \"Manja\" fegt über Deutschland",
+   "text": "Stromausfall in Freiburg, mögliche Sturmflut und orkanartige Böen an der Nordsee: Sturm und Regen bestimmen heute das Wetter in Deutschland, es gab bereits zahlreiche Einsätze. Für Teile des Landes galten Warnungen.",
+   "link": "https://www.tagesschau.de/inland/wetter-sturm-112.html",
+   "published": "2026-10-25T14:48:27+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T14:48:27+00:00",
+   "img": "https://images.tagesschau.de/image/ec83de56-0d43-400b-a850-82b0fe018a46/AAABoXNgEyQ/AAABnSSvrFg/16x9-big/unwetter-schleswig-holstein-100.jpg?width=1920"
+  },
+  {
+   "id": "n8f10c77d63",
+   "topic": "nfl",
+   "title": "Steelers' Aaron Rodgers makes history during NFL's first game in Paris",
+   "text": "Rodgers continues to make history during his final season",
+   "link": "https://www.cbssports.com/nfl/news/steelers-aaron-rodgers-makes-history-nfls-first-game-in-paris/",
+   "published": "2026-10-25T14:43:38+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-30T14:43:38+00:00"
+  },
+  {
+   "id": "n59af02ad6e",
+   "topic": "welt",
+   "title": "Gaza droht eine neue Ernährungskrise",
+   "text": "Die Lage im Gazastreifen droht sich wieder zu verschärfen - denn das Welternährungsprogramm muss seine Lebensmittellieferungen massiv kürzen. Der Grund: Die internationalen Geldgeber zahlen deutlich weniger ein. Von Bettina Meier.",
+   "link": "https://www.tagesschau.de/ausland/gaza-ernaehrung-100.html",
+   "published": "2026-10-25T14:31:54+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T14:31:54+00:00",
+   "img": "https://images.tagesschau.de/image/d4fdf3f7-968c-442a-b9c7-ada7308dee2b/AAABoXNL1Lk/AAABnSSvrFg/16x9-big/gaza-1510.jpg?width=1920"
+  },
+  {
+   "id": "nbb25a74bae",
+   "topic": "wissenschaft",
+   "title": "Unser Heimatstern auf dem Prüfstand: Wie sonnenähnlich ist unsere Sonne eigentlich?",
+   "text": "Die Sonne gilt als Maßstab für Sterne ihres Typs. Doch wie gut passt sie tatsächlich zu ihren kosmischen Verwandten? Ein genauer Vergleich offenbart überraschende Unterschiede.",
+   "link": "https://www.spektrum.de/news/jetzt-mal-ehrlich-wie-sonnenaehnlich-ist-die-sonne-eigentlich/2349184",
+   "published": "2026-10-25T14:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-08T14:00:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/June2012sunspots.00500_print_erw.jpg.8416690.jpg?f=1280x720"
+  },
+  {
+   "id": "nb62353e410",
+   "topic": "welt",
+   "title": "Deutscher Umweltpreis würdigt \"Mutmacher\"",
+   "text": "Die Deutsche Bundesstiftung Umwelt zeichnet einen Ingenieur und eine Juristin aus, die Pionierarbeit für die Natur leisten. Echte Vorbilder, findet Bundespräsident Steinmeier.",
+   "link": "https://www.dw.com/de/deutscher-umweltpreis-würdigt-mutmacher/a-79755528?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-25T13:38:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-29T13:38:00+00:00",
+   "img": "https://static.dw.com/image/79755248_302.jpg"
+  },
+  {
+   "id": "nd7aa4db070",
+   "topic": "politik",
+   "title": "Steinmeier bei Umweltpreis-Verleihung: \"Die Fieberkurve unseres Planeten zeigt deutlich nach oben\"",
+   "text": "In Aachen ist der Deutsche Umweltpreis an die Klimajuristin Verheyen und den Membranfilter-Ingenieur Vossenkaul verliehen worden. Bundespräsident Steinmeier mahnte, dem Klimaschutz trotz anderer Krisen und Sorgen Priorität einzuräumen.",
+   "link": "https://www.tagesschau.de/inland/umweltpreis-142.html",
+   "published": "2026-10-25T13:13:45+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T13:13:45+00:00",
+   "img": "https://images.tagesschau.de/image/c9633176-21ce-44cc-85cd-562872195015/AAABoXMmDjs/AAABnSSvrFg/16x9-big/umweltpreistraeger-steinmeier-100.jpg?width=1920"
+  },
+  {
+   "id": "n5a1513eaad",
+   "topic": "it",
+   "title": "Risikoprüfungen werden Pflicht: China will KI-Jobverluste abfedern",
+   "text": "China will den KI-Einsatz am Arbeitsplatz steuern und Beschäftigte mit Risikoprüfungen, Umschulung und Schutz vor den Folgen der Automatisierung absichern. ( KI , Politik )",
+   "link": "https://www.golem.de/news/risikopruefungen-werden-pflicht-china-will-ki-jobverluste-abfedern-2610-214487.html",
+   "published": "2026-10-25T13:10:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-30T13:10:02+00:00",
+   "img": "https://www.golem.de/2610/214487-605130-605128_rc.jpg"
+  },
+  {
+   "id": "n63e2a10413",
+   "topic": "welt",
+   "title": "Stichwahl in Brasilien: Kopf-an-Kopf-Rennen zwischen Lula und Bolsonaro",
+   "text": "Feiert Bolsonaro ein Comeback? Flavio Bolsonaro, Sohn des Ex-Präsidenten, geht als Favorit in die Stichwahl gegen Amtsinhaber Lula. Umfragen sagen ein Kopf-an-Kopf Rennen voraus. Und eine Zerreißprobe für das Land.",
+   "link": "https://www.dw.com/de/stichwahl-in-brasilien-kopf-an-kopf-rennen-zwischen-lula-und-bolsonaro/a-79754404?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-25T13:02:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-29T13:02:00+00:00",
+   "img": "https://static.dw.com/image/79754280_302.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Lula oder Bolsonaro: Brasilien vor der Stichwahl",
+     "link": "https://www.tagesschau.de/ausland/amerika/brasilien-stichwahl-bolsonaro-lula-100.html"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "title": "Brasilien - Stichwahl über das Präsidentenamt zwischen Lula und Bolsonaro",
+     "link": "https://www.deutschlandfunk.de/stichwahl-ueber-das-praesidentenamt-zwischen-lula-und-bolsonaro-104.html"
+    }
+   ]
+  },
+  {
+   "id": "ne171a9ca12",
+   "topic": "it",
+   "title": "Rechenzentren: Google rodet Wald und lockt Wölfe in finnische Dörfer",
+   "text": "Google muss den Bau eines Rechenzentrums in Finnland wohl vorerst stoppen. 250.000 Bäume sind ohne Genehmigung entfernt worden. ( Google , Rechenzentrum )",
+   "link": "https://www.golem.de/news/rechenzentren-google-rodet-wald-und-lockt-woelfe-in-finnische-doerfer-2610-214485.html",
+   "published": "2026-10-25T12:39:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-30T12:39:02+00:00",
+   "img": "https://www.golem.de/2610/214485-605121-605119_rc.jpg"
+  },
+  {
+   "id": "n6a060a44ba",
+   "topic": "welt",
+   "title": "Proteste in Europa - auch mit Gewalt",
+   "text": "Nicht nur Frankreich - auch in vielen anderen europäischen Ländern wurde wieder protestiert. Dabei kam es mancherorts erneut zu Auseinandersetzungen mit der Polizei. Insgesamt melden die Behörden aber weniger Gewalt als am vergangenen Wochenende.",
+   "link": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-spanien-italien-protugal-albanien-100.html",
+   "published": "2026-10-25T12:21:49+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T12:21:49+00:00",
+   "img": "https://images.tagesschau.de/image/12480ce0-3910-4aae-b5a6-7b2d310c06d9/AAABoXIyT6w/AAABnSSvrFg/16x9-big/frankreich-proteste-238.jpg?width=1920"
+  },
+  {
+   "id": "n6c6895d4db",
+   "topic": "welt",
+   "title": "Audi kündigt Milliarden-Investition in den USA an",
+   "text": "Die Volkswagen-Tochter Audi baut ein eigenes Werk in den USA. Angekündigt wurde das auf einer Wahlkampfveranstaltung der Republikaner von US-Präsident Donald Trump. Noch sind allerdings Fragen offen.",
+   "link": "https://www.dw.com/de/audi-kündigt-milliarden-investition-in-den-usa-an/a-79754352?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-25T12:13:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-29T12:13:00+00:00",
+   "img": "https://static.dw.com/image/79754514_302.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Audi kündigt US-Werk an - auf Trumps Wahlkampftour",
+     "link": "https://www.tagesschau.de/ausland/amerika/audi-usa-trump-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n1e3640b15f",
+   "topic": "wirtschaft",
+   "title": "Wie ein Dorf in Brandenburg seinen Gasthof retten will",
+   "text": "In vielen Dörfern verschwinden die letzten Gaststätten. Im brandenburgischen Leißnitz wollen die Einwohner das verhindern. Gemeinsam wollen sie einen Ort erhalten, an dem Menschen zusammenkommen. Von Jacqueline Piwon.",
+   "link": "https://www.tagesschau.de/wirtschaft/dorfkneipe-rettung-brandenburg-100.html",
+   "published": "2026-10-25T12:06:21+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T12:06:21+00:00",
+   "img": "https://images.tagesschau.de/image/79aafefc-acd1-4a74-af02-874d792db655/AAABoUVCKdI/AAABnSSvrFg/16x9-big/dorfbewohner-leissnitz-100.jpg?width=1920"
+  },
+  {
+   "id": "nc1ee9eae3c",
+   "topic": "politik",
+   "title": "Pläne der Koalition: Wahlrechtsreform kommt kaum voran",
+   "text": "Neben dem Umbau der Sozialsysteme hat die schwarz-rote Koalition eine Reform angekündigt, bei der es für manche um die politische Existenz geht: Sie möchte das Wahlrecht ändern. Doch es geht nur langsam voran. Von Jakob Mayr.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/wahlrecht-reform-104.html",
+   "published": "2026-10-25T11:57:30+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T11:57:30+00:00",
+   "img": "https://images.tagesschau.de/image/18bdfa59-84b4-47dd-9fc5-1f696464400e/AAABoWg8pXQ/AAABnSSvrFg/16x9-big/bundestag-1428.jpg?width=1920"
+  },
+  {
+   "id": "n07c8ccf952",
+   "topic": "politik",
+   "title": "Dobrindt plant hohe Hürden für Vergesellschaftungen",
+   "text": "Geht es nach der Berliner Linkspartei, sollen Wohnungen in Zukunft vergesellschaftet werden. Doch die Bundesregierung will der Partei mit einem Gesetz zuvorkommen. Nun gibt es erste Details aus dem Innenministerium.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-vergesellschaftung-100.html",
+   "published": "2026-10-25T11:51:21+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T11:51:21+00:00",
+   "img": "https://images.tagesschau.de/image/2499f771-a9dd-4a29-8486-7b333fd578cc/AAABoXL_6vU/AAABnSSvrFg/16x9-big/berlin-vergesellschaftungen-100.jpg?width=1920"
+  },
   {
    "id": "na93a9902ce",
    "topic": "politik",
@@ -60,8 +505,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-27T11:18:28+00:00",
-   "img": "https://bilder.deutschlandfunk.de/b7/83/77/98/b7837798-d1f0-4936-a67d-9e3775620a3e/audi-suvs-in-usa-100-1280x1280.jpg"
+   "expires": "2026-10-27T11:18:28+00:00"
   },
   {
    "id": "nf9dd046064",
@@ -141,19 +585,6 @@
    "expires": "2026-10-30T11:15:00+00:00"
   },
   {
-   "id": "nb6a25d076f",
-   "topic": "welt",
-   "title": "Audi kündigt US-Werk an - auf Trumps Wahlkampftour",
-   "text": "Immer wieder droht Trump ausländischen Unternehmen mit hohen Zöllen. Nun kündigte Audi den Bau seines ersten Werks in den USA an. Auf einer Wahlkampfveranstaltung durfte der US-Präsident damit auch für sich werben.",
-   "link": "https://www.tagesschau.de/ausland/amerika/audi-usa-trump-100.html",
-   "published": "2026-10-25T11:14:29+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-28T11:14:29+00:00",
-   "img": "https://images.tagesschau.de/image/2d475b55-fad5-4039-b944-32c6bc3a8b2b/AAABoXHj9CA/AAABnSSvrFg/16x9-big/audi-trump-100.jpg?width=1920"
-  },
-  {
    "id": "n83c39a6b6c",
    "topic": "politik",
    "title": "Amanal Petros verpasst Heimsieg beim Frankfurt Marathon 2026 nur knapp",
@@ -194,19 +625,6 @@
    "img": "https://media.zenfs.com/en/sb_nation_articles_115/696d426c161dfccccd9877e0d8a48a46.jpg"
   },
   {
-   "id": "naa9fcacd89",
-   "topic": "politik",
-   "title": "Sturmtief \"Manja\" fegt über Deutschland",
-   "text": "Stromausfall in Freiburg, mögliche Sturmflut und orkanartige Böen an der Nordsee: Sturm und Regen bestimmen heute das Wetter in Deutschland, es gab bereits zahlreiche Einsätze. Für Teile des Landes galten Warnungen.",
-   "link": "https://www.tagesschau.de/inland/wetter-sturm-112.html",
-   "published": "2026-10-25T10:56:53+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-28T10:56:53+00:00",
-   "img": "https://images.tagesschau.de/image/884a8128-5302-4953-b831-e6cb3740a0ab/AAABoXKb0S8/AAABnSSvrFg/16x9-big/unwetter-baden-wuerttemberg-110.jpg?width=1920"
-  },
-  {
    "id": "n58b60e5b89",
    "topic": "welt",
    "title": "Großbrand am Kehlsteinhaus: Feuer wieder aufgeflammt",
@@ -235,7 +653,7 @@
   {
    "id": "n1deb15abca",
    "topic": "welt",
-   "title": "Vor Midterms: Ex-US-Präsident Obama schaltet sich in Wahlkampf mit Trump-Kritik ein",
+   "title": "Vor Midterms: Ex-US-Präsident Obama schaltet sich mit Trump-Kritik in Wahlkampf ein",
    "text": "Die Demokraten hoffen bei den Zwischenwahlen auf einen Sieg. Nun gibt es Wahlkampfhilfe vom früheren US-Präsidenten Obama. Der wirft Trump Korruption vor - und lästert über die Renovierungsarbeiten im Weißen Haus.",
    "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-wahl-102.html",
    "published": "2026-10-25T10:35:11+00:00",
@@ -243,7 +661,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-28T10:35:11+00:00",
-   "img": "https://images.tagesschau.de/image/99deff4b-d50e-4e7b-9c89-3c6ec5ff3798/AAABoXJueMA/AAABnSSvrFg/16x9-big/obama-954.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/99deff4b-d50e-4e7b-9c89-3c6ec5ff3798/AAABoXJueMA/AAABnSSvrFg/16x9-big/obama-954.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Midterms - Obama greift Trump im Wahlkampf scharf an",
+     "link": "https://www.deutschlandfunk.de/obama-greift-trump-im-wahlkampf-scharf-an-100.html"
+    }
+   ]
   },
   {
    "id": "n7d26b0ba29",
@@ -296,19 +721,6 @@
    "img": "https://the-decoder.de/wp-content/uploads/2026/10/tasteval_and_rsi.png"
   },
   {
-   "id": "n6a060a44ba",
-   "topic": "welt",
-   "title": "Proteste in Europa - auch mit Gewalt",
-   "text": "Nicht nur Frankreich - auch in vielen anderen europäischen Ländern wurde wieder protestiert. Dabei kam es mancherorts erneut zu Auseinandersetzungen mit der Polizei. Insgesamt melden die Behörden aber weniger Gewalt als am vergangenen Wochenende.",
-   "link": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-spanien-italien-protugal-albanien-100.html",
-   "published": "2026-10-25T08:55:32+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-28T08:55:32+00:00",
-   "img": "https://images.tagesschau.de/image/12480ce0-3910-4aae-b5a6-7b2d310c06d9/AAABoXIyT6w/AAABnSSvrFg/16x9-big/frankreich-proteste-238.jpg?width=1920"
-  },
-  {
    "id": "n342a7377f6",
    "topic": "welt",
    "title": "Israel will Westjordanland am Wahltag abriegeln",
@@ -319,14 +731,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-28T08:51:16+00:00",
-   "img": "https://images.tagesschau.de/image/d97311c9-8348-4f07-b955-1d558d3fb4b3/AAABoXEMPS8/AAABnSSvrFg/16x9-big/israel-westjordanland-144.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Israel beginnt \"Anti-Terror-Einsatz\" im Westjordanland",
-     "link": "https://www.dw.com/de/israel-beginnt-anti-terror-einsatz-im-westjordanland/a-79749417?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/d97311c9-8348-4f07-b955-1d558d3fb4b3/AAABoXEMPS8/AAABnSSvrFg/16x9-big/israel-westjordanland-144.jpg?width=1920"
   },
   {
    "id": "n4c12d55302",
@@ -383,7 +788,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-28T07:45:03+00:00",
-   "img": "https://images.tagesschau.de/image/3c5fc449-1908-4f6a-928a-9513ee37095c/AAABoVvgNgs/AAABnSSvrFg/16x9-big/elon-musk-294.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/3c5fc449-1908-4f6a-928a-9513ee37095c/AAABoVvgNgs/AAABnSSvrFg/16x9-big/elon-musk-294.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Streit um Satellitensystem - Ukraine weist Vorwürfe von Musk zu Starlink-Verstößen zurück",
+     "link": "https://www.deutschlandfunk.de/ukraine-weist-vorwuerfe-von-musk-zu-starlink-verstoessen-zurueck-100.html"
+    }
+   ]
   },
   {
    "id": "ncc25a43160",
@@ -448,6 +860,11 @@
    "expires": "2026-10-28T04:07:12+00:00",
    "img": "https://images.tagesschau.de/image/9ac8c9bf-ce83-4fd4-85c7-c284fe8da23d/AAABoXH7A5k/AAABnSSvrFg/16x9-big/brasilien-726.jpg?width=1920",
    "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Stichwahl in Brasilien: Kopf-an-Kopf-Rennen zwischen Lula und Bolsonaro",
+     "link": "https://www.dw.com/de/stichwahl-in-brasilien-kopf-an-kopf-rennen-zwischen-lula-und-bolsonaro/a-79754404?maca=de-rss-de-all-1119-xml-mrss"
+    },
     {
      "source": "Deutschlandfunk",
      "title": "Brasilien - Stichwahl über das Präsidentenamt zwischen Lula und Bolsonaro",
@@ -546,6 +963,11 @@
    "lang": "de",
    "expires": "2026-10-27T03:53:57+00:00",
    "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Stichwahl in Brasilien: Kopf-an-Kopf-Rennen zwischen Lula und Bolsonaro",
+     "link": "https://www.dw.com/de/stichwahl-in-brasilien-kopf-an-kopf-rennen-zwischen-lula-und-bolsonaro/a-79754404?maca=de-rss-de-all-1119-xml-mrss"
+    },
     {
      "source": "Tagesschau",
      "title": "Lula oder Bolsonaro: Brasilien vor der Stichwahl",
@@ -647,6 +1069,11 @@
    "lang": "de",
    "expires": "2026-10-26T22:09:43+00:00",
    "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Stichwahl in Brasilien: Kopf-an-Kopf-Rennen zwischen Lula und Bolsonaro",
+     "link": "https://www.dw.com/de/stichwahl-in-brasilien-kopf-an-kopf-rennen-zwischen-lula-und-bolsonaro/a-79754404?maca=de-rss-de-all-1119-xml-mrss"
+    },
     {
      "source": "Tagesschau",
      "title": "Lula oder Bolsonaro: Brasilien vor der Stichwahl",
@@ -860,7 +1287,8 @@
    "source": "Deutsche Welle",
    "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
    "lang": "de",
-   "expires": "2026-10-28T19:20:00+00:00"
+   "expires": "2026-10-28T19:20:00+00:00",
+   "img": "https://static.dw.com/image/79738242_302.jpg"
   },
   {
    "id": "n98ebb00de7",
@@ -1054,14 +1482,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-27T15:29:30+00:00",
-   "img": "https://images.tagesschau.de/image/0232602b-a10d-4723-ad50-6e379705e159/AAABoW2n8k0/AAABnSSvrFg/16x9-big/starlink-ukraine-108.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Russischer Angriffskrieg - Starlink-Satellitensystem funktioniert wieder über der Ukraine - Waffenstillstand für Oleschky bestätigt",
-     "link": "https://www.deutschlandfunk.de/starlink-satellitensystem-funktioniert-wieder-ueber-der-ukraine-waffenstillstand-fuer-oleschky-besta-100.html"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/0232602b-a10d-4723-ad50-6e379705e159/AAABoW2n8k0/AAABnSSvrFg/16x9-big/starlink-ukraine-108.jpg?width=1920"
   },
   {
    "id": "ncad13afdf5",
@@ -1202,14 +1623,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-27T14:14:53+00:00",
-   "img": "https://images.tagesschau.de/image/2a396c0a-e923-4711-996b-aa3340ab3b09/AAABoW4Uff8/AAABnSSvrFg/16x9-big/westjordanland-hebron-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Nach tödlichem Angriff - Israelische Armee startet Großoffensive im Westjordanland",
-     "link": "https://www.deutschlandfunk.de/israelische-armee-startet-grossoffensive-im-westjordanland-104.html"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/2a396c0a-e923-4711-996b-aa3340ab3b09/AAABoW4Uff8/AAABnSSvrFg/16x9-big/westjordanland-hebron-100.jpg?width=1920"
   },
   {
    "id": "ne4c4477422",
@@ -1272,14 +1686,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-27T13:58:56+00:00",
-   "img": "https://images.tagesschau.de/image/31ad951d-b1a4-4757-9d95-dcd58da8337f/AAABoW3k3Lg/AAABnSSvrFg/16x9-big/kehlsteinhaus-114.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Bayern - Kehlsteinhaus am Obersalzberg durch Brand weitgehend zerstört",
-     "link": "https://www.deutschlandfunk.de/kehlsteinhaus-am-obersalzberg-durch-brand-weitgehend-zerstoert-100.html"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/31ad951d-b1a4-4757-9d95-dcd58da8337f/AAABoW3k3Lg/AAABnSSvrFg/16x9-big/kehlsteinhaus-114.jpg?width=1920"
   },
   {
    "id": "n8e825e34ca",
@@ -1325,427 +1732,6 @@
      "link": "https://www.deutschlandfunk.de/erneut-ausschreitungen-in-frankreich-laut-innenministerium-fast-1-000-festnahmen-102.html"
     }
    ]
-  },
-  {
-   "id": "ne8897c6923",
-   "topic": "welt",
-   "title": "Stichwahl in Brasilien: Flávio Bolsonaro - der Kandidat des Vaters",
-   "text": "Flávio Bolsonaro will seinen verurteilten Vater als Präsident beerben - und wohl auch aus der Haft befreien. Trotz allem: Für seine Anhänger ist der Familienname sein wichtigstes Kapital bei der morgigen Stichwahl. Von A. Herrberg und L. Bilard.",
-   "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-bolsonaro-106.html",
-   "published": "2026-10-24T13:36:26+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T13:36:26+00:00",
-   "img": "https://images.tagesschau.de/image/323e9df3-a08e-458d-a941-e26927992033/AAABoW4ggCs/AAABnSSvrFg/16x9-big/flavio-jair-bolsonaro-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Brasilien - Stichwahl über das Präsidentenamt zwischen Lula und Bolsonaro",
-     "link": "https://www.deutschlandfunk.de/stichwahl-ueber-das-praesidentenamt-zwischen-lula-und-bolsonaro-104.html"
-    }
-   ]
-  },
-  {
-   "id": "n195c7ce6cf",
-   "topic": "welt",
-   "title": "\"Tinubu muss weg\": Regierungskritiker in Nigeria unter Druck",
-   "text": "Die Festnahme junger Männer wegen regierungskritischer T-Shirts und die Verhinderung eines politischen Treffens haben die Debatte über Meinungsfreiheit und das Recht auf Protest in Nigeria neu entfacht.",
-   "link": "https://www.dw.com/de/tinubu-muss-weg-regierungskritiker-in-nigeria-unter-druck/a-79719726?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-24T12:48:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-28T12:48:00+00:00",
-   "img": "https://static.dw.com/image/79711947_302.jpg"
-  },
-  {
-   "id": "n4cffd9dea2",
-   "topic": "welt",
-   "title": "Tschechien: Umstrittenes Rundfunkgebühren-Aus nimmt erste Hürde",
-   "text": "Wird der tschechische Rundfunk bald vom Wohlwollen der Regierung abhängig sein? Die Finanzierung soll sich ändern. Der Widerstand wächst.",
-   "link": "https://www.dw.com/de/tschechien-umstrittenes-rundfunkgebühren-aus-nimmt-erste-hürde/a-79750477?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-24T12:42:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-28T12:42:00+00:00",
-   "img": "https://static.dw.com/image/79750505_302.jpg"
-  },
-  {
-   "id": "n2c1cdb71e8",
-   "topic": "politik",
-   "title": "Merz auf CSU-Parteitag bejubelt für Begrüßung Aigners",
-   "text": "Der Kanzler ruft auf dem CSU-Parteitag zu Geschlossenheit auf und warnt vor Extremisten. Großen Applaus gibt es aber für einen besonderen Gruß, der im Zusammenhang mit der Diskussion über die Steinmeier-Nachfolge gesehen wurde.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/csu-cdu-merz-aigner-100.html",
-   "published": "2026-10-24T12:19:07+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T12:19:07+00:00",
-   "img": "https://images.tagesschau.de/image/b9a1484e-0137-48fd-96c3-88255c4468fb/AAABoW2eYRA/AAABnSSvrFg/16x9-big/merz-aigner-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "CSU-Parteitag - Merz ruft Union zu Geschlossenheit auf und warnt vor Extremisten \"von ganz links und ganz rechts\"",
-     "link": "https://www.deutschlandfunk.de/merz-ruft-union-zu-geschlossenheit-auf-und-warnt-vor-extremisten-von-ganz-links-und-ganz-rechts-102.html"
-    }
-   ]
-  },
-  {
-   "id": "n43301e2cfe",
-   "topic": "welt",
-   "title": "Türkei und Griechenland: Neuer Seerechtsstreit im Mittelmeer",
-   "text": "Die Türkei will zusammen mit Libyen die Seegrenzen im Mittelmeer verändern und einen gemeinsamen Wirtschaftskorridor schaffen. Das sorgt für scharfen Protest aus Griechenland – und ruft auch die EU auf den Plan.",
-   "link": "https://www.dw.com/de/türkei-und-griechenland-neuer-seerechtsstreit-im-mittelmeer/a-79741004?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-24T11:36:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-28T11:36:00+00:00",
-   "img": "https://static.dw.com/image/79426060_302.jpg"
-  },
-  {
-   "id": "nd116a4d6c6",
-   "topic": "politik",
-   "title": "Wiesbaden: Toter Mann in Wohnung gefunden - Frau festgenommen",
-   "text": "In einer Wohnung in Wiesbaden hat die Polizei einen männliche Leiche gefunden. Die Ermittler schließen ein Verbrechen nicht aus. Eine Frau wurde festgenommen.",
-   "link": "https://www.hessenschau.de/panorama/wiesbaden-toter-mann-in-wohnung-gefunden---frau-festgenommen-v1,leichenfund-wiesbaden-108.html",
-   "published": "2026-10-24T10:59:44+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-28T10:59:44+00:00",
-   "img": "https://www.hessenschau.de/panorama/polizeiabsperrung-110~_t-1777870684915_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "n40712849fb",
-   "topic": "it",
-   "title": "Palantir: NATO-KI hat keinen Kill-Switch",
-   "text": "Palantir beteuert, weder das Unternehmen noch die US-Regierung das Nato-System Maven abschalten zu können. Die Sorge vor einer Abhängigkeit von US-Technologie ist hoch. ( Palantir , KI )",
-   "link": "https://www.golem.de/news/palantir-nato-ki-hat-keinen-kill-switch-2610-214473.html",
-   "published": "2026-10-24T10:58:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-29T10:58:02+00:00",
-   "img": "https://www.golem.de/2610/214473-605070-605068_rc.jpg"
-  },
-  {
-   "id": "n7dc745364c",
-   "topic": "politik",
-   "title": "Nahost - Israel: Netanjahu erwägt Kryptowährungen gegen mögliche Sanktionen",
-   "text": "Israels Ministerpräsident Netanjahu lässt den Einsatz von Kryptowährungen prüfen, um sein Land gegen mögliche Sanktionen zu wappnen.",
-   "link": "https://www.deutschlandfunk.de/israel-netanjahu-erwaegt-kryptowaehrungen-gegen-moegliche-sanktionen-100.html",
-   "published": "2026-10-24T10:57:21+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T10:57:21+00:00",
-   "img": "https://bilder.deutschlandfunk.de/19/d5/ac/4a/19d5ac4a-645c-4040-9070-1b00c2a9b8a6/netanjahu-124-1920x1920.jpg"
-  },
-  {
-   "id": "nf6a7b2168d",
-   "topic": "politik",
-   "title": "CSU-Parteitag in München - Merz wirbt für Zusammenhalt der Union gegen Extremisten \"von ganz links und ganz rechts\"",
-   "text": "Bundeskanzler Merz hat auf dem Parteitag der CSU in München die Zusammenarbeit in der Union gelobt. Er dankte CSU-Chef Söder für die gute Partnerschaft. Merz mahnte zugleich, CDU und CSU müssten künftig noch enger zusammenstehen, um Deutschland vor Extremisten von ganz links und ganz rechts zu bewahren. Zudem betonte …",
-   "link": "https://www.deutschlandfunk.de/merz-wirbt-fuer-zusammenhalt-der-union-gegen-extremisten-von-ganz-links-und-ganz-rechts-100.html",
-   "published": "2026-10-24T10:57:21+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T10:57:21+00:00",
-   "img": "https://bilder.deutschlandfunk.de/4d/b3/d7/5b/4db3d75b-7800-4e3a-a7bc-e9db9321c427/merzcsuparteitag-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "CSU-Parteitag: Merz äußert sich nicht zur Präsidentinnen-Frage",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/csu-parteitag-merz-106.html"
-    }
-   ]
-  },
-  {
-   "id": "n77f45bfb39",
-   "topic": "politik",
-   "title": "Russischer Angriffskrieg - Starlink-Satellitensystem funktioniert wieder über der Ukraine - Waffenstillstand für Oleschky bestätigt",
-   "text": "Die Ukraine hat wieder uneingeschränkten Zugang zum US-Satelliten-Dienst Starlink. Verteidigungsminister Chmara teilte in Kiew mit, die Verbindung sei stabil. Er bestätigte damit Angaben von US-Präsident Trump. Der ukrainische Präsident Selenskyj hatte zuletzt über Probleme beim Einsatz von Starlink berichtet und …",
-   "link": "https://www.deutschlandfunk.de/starlink-satellitensystem-funktioniert-wieder-ueber-der-ukraine-waffenstillstand-fuer-oleschky-besta-100.html",
-   "published": "2026-10-24T10:57:21+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T10:57:21+00:00",
-   "img": "https://bilder.deutschlandfunk.de/81/40/39/fb/814039fb-3239-4c90-903a-3c91764b65a5/ukraine-drohnen-106-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Krieg gegen die Ukraine: Starlink funktioniert wieder stabil",
-     "link": "https://www.tagesschau.de/ausland/amerika/musk-starlink-ukraine-102.html"
-    }
-   ]
-  },
-  {
-   "id": "n19e0d75abd",
-   "topic": "politik",
-   "title": "Nach tödlichem Angriff - Israelische Armee startet Großoffensive im Westjordanland",
-   "text": "Nach dem Tod von zwei Soldaten bei einem Angriff bewaffneter Palästinenser hat die israelische Armee eine Offensive im besetzten Westjordanland gestartet. Es gebe zahlreiche Anti-Terror-Einsätze, hieß es in einer gemeinsamen Erklärung der israelischen Armee und des Inlandsgeheimdienstes Shin Bet.",
-   "link": "https://www.deutschlandfunk.de/israelische-armee-startet-grossoffensive-im-westjordanland-104.html",
-   "published": "2026-10-24T10:57:21+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T10:57:21+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Israelische Armee startet Einsatz in Hebron",
-     "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-102.html"
-    }
-   ]
-  },
-  {
-   "id": "nb3ddadc969",
-   "topic": "politik",
-   "title": "Sozialdemokratie - Juso-Chef Türmer gegen erneute Kandidatur Klingbeils für SPD-Vorsitz",
-   "text": "Juso-Chef Türmer hat sich gegen eine erneute Kandidatur des SPD-Vorsitzenden Klingbeil ausgesprochen.",
-   "link": "https://www.deutschlandfunk.de/juso-chef-tuermer-gegen-erneute-kandidatur-klingbeils-fuer-spd-vorsitz-108.html",
-   "published": "2026-10-24T10:57:21+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T10:57:21+00:00",
-   "img": "https://bilder.deutschlandfunk.de/ea/33/bf/a2/ea33bfa2-180e-47e5-ae60-e603eaa006fc/tuermer-jusos-100-1920x1920.jpg"
-  },
-  {
-   "id": "n48fc4d1595",
-   "topic": "politik",
-   "title": "Bayern - Kehlsteinhaus am Obersalzberg durch Brand weitgehend zerstört",
-   "text": "Das sogenannte Kehlsteinhaus auf dem Gelände des ehemaligen NS-Regierungszentrums Obersalzberg ist durch ein Feuer weitgehend zerstört worden.",
-   "link": "https://www.deutschlandfunk.de/kehlsteinhaus-am-obersalzberg-durch-brand-weitgehend-zerstoert-100.html",
-   "published": "2026-10-24T10:57:21+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T10:57:21+00:00",
-   "img": "https://bilder.deutschlandfunk.de/5a/a9/d9/80/5aa9d980-2d89-4251-92fb-0da161d403ec/kehlsteinhaus-feuer-obersalzberg-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Nazi-Bau: Kehlsteinhaus am Obersalzberg durch Brand weitgehend zerstört",
-     "link": "https://www.tagesschau.de/inland/gesellschaft/berchtesgaden-feuer-nazihaus-100.html"
-    }
-   ]
-  },
-  {
-   "id": "nb965c7d461",
-   "topic": "nfl",
-   "title": "Rhamondre Stevenson says Bears' defensive alignment helped with 48-yard TD",
-   "text": "Patriots running back Rhamondre Stevenson made one of the most stunning plays of this NFL season when he turned a short pass at the end of the first half and ran for a 48-yard touchdown against the Bears.",
-   "link": "https://sports.yahoo.com/articles/rhamondre-stevenson-says-bears-defensive-105304161.html",
-   "published": "2026-10-24T10:53:04+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-29T10:53:04+00:00"
-  },
-  {
-   "id": "nc052a4dc60",
-   "topic": "politik",
-   "title": "Debatte über SPD-Vorsitz: Mit oder ohne Klingbeil?",
-   "text": "Noch ist offen, ob SPD-Chef Klingbeil noch einmal für den Posten kandidiert. Der Juso-Vorsitzende Türmer hat eine klare Meinung: Er fordert einen Neustart an der Parteispitze. Bremens Bürgermeister Bovenschulte hält an Klingbeil fest.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/spd-chef-klingbeil-debatte-100.html",
-   "published": "2026-10-24T10:52:30+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T10:52:30+00:00",
-   "img": "https://images.tagesschau.de/image/69afef09-1cd2-4e8f-b67f-4817b4cb0449/AAABoW1nid8/AAABnSSvrFg/16x9-big/tuermer-klingbeil-100.jpg?width=1920"
-  },
-  {
-   "id": "n4321bac32b",
-   "topic": "wirtschaft",
-   "title": "Deutschlandticket für Gelegenheitsfahrer: Bilger findet Idee gut",
-   "text": "Schnell mit dem Handy bei Bahn oder Öffis einchecken - und der günstigste Tarif wird berechnet. Am Monatsende kostet das Ganze höchstens so viel wie das Deutschlandticket. Der Verkehrsminister findet die Idee gut.",
-   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bahn-nahverkehr-deutschlandticket-light-100.html",
-   "published": "2026-10-24T10:46:34+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T10:46:34+00:00",
-   "img": "https://images.tagesschau.de/image/0b9dfd8f-63ed-469d-9375-373e707e1d29/AAABoW1PJPI/AAABnSSvrFg/16x9-big/regionalzug-126.jpg?width=1920"
-  },
-  {
-   "id": "n86771eb0cd",
-   "topic": "ki",
-   "title": "OpenAI trainiert seine stärksten KI-Modelle nur noch ohne Internetzugang",
-   "text": "OpenAI trainiert seine leistungsfähigsten Modelle nur noch ohne Internetzugang, nachdem ein Forschungsmodell im September eine DNS-Fehlkonfiguration ausnutzte und ins offene Netz ausbrach. Bei internen Tests fanden KI-Agenten dennoch spektakuläre Wege, über Seitenkanäle verdeckt zu kommunizieren. Die Vorfälle …",
-   "link": "https://the-decoder.de/openai-trainiert-seine-staerksten-ki-modelle-nur-noch-ohne-internetzugang/",
-   "published": "2026-10-24T10:44:36+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-31T10:44:36+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/openai_misalign-2.png"
-  },
-  {
-   "id": "na085033e8f",
-   "topic": "welt",
-   "title": "Anschlag auf Kirche in Jordanien: Fahndung nach Tätern läuft",
-   "text": "Nach den tödlichen Schüssen bei einer Trauerfeier im Westen Jordaniens sind die Täter weiter auf der Flucht. Die Regierung in Amman stuft die Tat als Terrorakt ein.",
-   "link": "https://www.dw.com/de/anschlag-auf-kirche-in-jordanien-fahndung-nach-tätern-läuft/a-79749460?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-24T10:42:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-28T10:42:00+00:00",
-   "img": "https://static.dw.com/image/79749687_302.jpg"
-  },
-  {
-   "id": "nf0ac059c56",
-   "topic": "nfl",
-   "title": "Tee Higgins is in a league of his own vs. man coverage",
-   "text": "The Bengals wideout is thriving vs. man coverage.",
-   "link": "https://sports.yahoo.com/articles/tee-higgins-league-own-vs-104000091.html",
-   "published": "2026-10-24T10:40:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-29T10:40:00+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/555837b29380047734141a9386e2485c.jpg"
-  },
-  {
-   "id": "n40630da2a2",
-   "topic": "welt",
-   "title": "Israel beginnt \"Anti-Terror-Einsatz\" im Westjordanland",
-   "text": "Nach einem Anschlag am Freitag macht Regierungschef Benjamin Netanjahu seine Ankündigung wahr: Zahlreiche Soldaten suchen im Westjordanland nach \"terroristischer Infrastruktur\", wie die Armee mitteilt.",
-   "link": "https://www.dw.com/de/israel-beginnt-anti-terror-einsatz-im-westjordanland/a-79749417?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-24T10:20:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-28T10:20:00+00:00",
-   "img": "https://static.dw.com/image/79739444_302.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Israel will Westjordanland am Wahltag abriegeln",
-     "link": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-lockdown-parlamentswahlen-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n935d594b49",
-   "topic": "it",
-   "title": "Satellitennavigation: Nato kauft Störsender, die GPS auf 11 km lahmlegen",
-   "text": "Die Nato plant sechs mobile Störsender für GPS und Drohnenfunk. Der Störbereich lässt sich auf bis zu 11 km einstellen. ( GPS , Navigationssystem )",
-   "link": "https://www.golem.de/news/satellitennavigation-nato-kauft-stoersender-die-gps-auf-11-km-lahmlegen-2610-214472.html",
-   "published": "2026-10-24T10:12:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-29T10:12:02+00:00",
-   "img": "https://www.golem.de/2610/214472-605066-605064_rc.jpg"
-  },
-  {
-   "id": "na01691b640",
-   "topic": "it",
-   "title": "Kiew: Starlink bleibt weiter gedrosselt – entgegen Trumps Ankündigung",
-   "text": "Donald Trump verkündet das Ende der Starlink-Drosselung – doch Kiew kann keine Aufhebung feststellen.",
-   "link": "https://www.heise.de/news/Kiew-Starlink-bleibt-weiter-gedrosselt-entgegen-Trumps-Ankuendigung-11499145.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-24T10:02:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-29T10:02:00+00:00"
-  },
-  {
-   "id": "n9ff103cbd9",
-   "topic": "politik",
-   "title": "Verletzte und Schäden nach \"Sturmtief\" Luise",
-   "text": "Bäume und Äste auf Straßen und Gleisen, ein umgestürztes Gestell: Sturmtief \"Luise\" ist über Teile Deutschlands hinweggefegt. Zwei Menschen wurden schwer verletzt. Mit \"Manja\" zieht schon der nächste Sturm heran.",
-   "link": "https://www.tagesschau.de/inland/herbststurm-104.html",
-   "published": "2026-10-24T08:59:50+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T08:59:50+00:00",
-   "img": "https://images.tagesschau.de/image/2ce64551-8a79-4617-a4f3-892486cb272c/AAABoW0Znzo/AAABnSSvrFg/16x9-big/feuerwehreinsatz-duisburg-100.jpg?width=1920"
-  },
-  {
-   "id": "nd234a9dff2",
-   "topic": "wissenschaft",
-   "title": "Studie über Zeitumstellung - Welche Zeit ist besser für unsere Gesundheit?",
-   "text": "Was einmal Energie sparen sollte, ist jetzt für viele ein Ärgernis. Die EU-Kommission schlug 2018 vor, die Zeitumstellung abzuschaffen. Nur: Welche Zeit soll gelten? Forschende haben eine Antwort. Von Wiebke Drescher.",
-   "link": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-winterzeit-sommerzeit-114.html",
-   "published": "2026-10-24T08:55:12+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-07T08:55:12+00:00",
-   "img": "https://images.tagesschau.de/image/3cea98c0-bba7-48a7-856e-cca34aeaaeb2/AAABoWivUQI/AAABnSSvrFg/16x9-big/schlaf-menschen-100.jpg?width=1920"
-  },
-  {
-   "id": "neebb5c1a8a",
-   "topic": "ki",
-   "title": "Aufwendige Harnesses machen Coding-Agenten teurer, aber nicht besser",
-   "text": "Eine kontrollierte Studie zeigt: Der Wechsel zwischen Code-Agent-Harnesses wie Claude Code, OpenCode oder mini-SWE-agent verändert die Erfolgsquote kaum stärker als eine bloße Wiederholung desselben Durchlaufs. Die Kosten pro Aufgabe schwanken dagegen um das Dreifache, getrieben primär durch den System-Prompt, der bei …",
-   "link": "https://the-decoder.de/aufwendige-harnesses-machen-coding-agenten-teurer-aber-nicht-besser/",
-   "published": "2026-10-24T08:40:39+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-31T08:40:39+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/harness-buys-tokens-nano-banana-pro.jpg"
-  },
-  {
-   "id": "n33e9fe3007",
-   "topic": "wirtschaft",
-   "title": "Energie-Entkoppelung: So abhängig ist Europa noch von Russland",
-   "text": "Nach dem Vollangriff auf die Ukraine wollte Europa schnell unabhängig werden von russischer Energie. Teilweise ist das auch gelungen. Vor allem bei Öl und Uran bleiben aber alte Abhängigkeiten. Von Jean-Marie Magro.",
-   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/abhaengigkeit-russische-energie-100.html",
-   "published": "2026-10-24T08:27:08+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T08:27:08+00:00",
-   "img": "https://images.tagesschau.de/image/14c91b9c-d039-41ff-8c05-a380fde1807b/AAABoWNdIL4/AAABnSSvrFg/16x9-big/oelanlage-lkw-russland-100.jpg?width=1920"
-  },
-  {
-   "id": "n674e025568",
-   "topic": "wissenschaft",
-   "title": "So hart war das Leben der römischen Soldaten wirklich",
-   "text": "Wie lebte es sich als römischer Soldat fernab der Heimat – und was können wir heute überhaupt noch über diese Menschen herausfinden?",
-   "link": "https://www.spektrum.de/video/science-slam-so-hart-war-das-leben-der-roemischen-soldaten-wirklich/2351110",
-   "published": "2026-10-24T08:15:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-07T08:15:00+00:00"
-  },
-  {
-   "id": "na9a890e585",
-   "topic": "it",
-   "title": "Anthropic lässt KI-Agenten Verhandlungsregeln für Menschen lernen",
-   "text": "Anthropic berät sich angeblich mit Anwaltskanzleien, wie KI-Agenten künftig Preise, Gehälter und Verträge für ihre Nutzer aushandeln sollten.",
-   "link": "https://www.heise.de/news/Anthropic-laesst-KI-Agenten-Verhandlungsregeln-fuer-Menschen-lernen-11498981.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-24T08:14:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-29T08:14:00+00:00"
-  },
-  {
-   "id": "nc64a8a2fff",
-   "topic": "it",
-   "title": "Continuous Architecture: KI zwingt uns dazu, veraltete Dokumentation aufzuräumen",
-   "text": "Im Interview beschreibt Murat Erder, wie KI Softwareentwicklung verändern kann, ohne die grundlegenden Prinzipien guter Architektur außer Kraft zu setzen.",
-   "link": "https://www.heise.de/hintergrund/Continuous-Architecture-KI-zwingt-uns-dazu-veraltete-Dokumentation-aufzuraeumen-11497700.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-24T08:03:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-29T08:03:00+00:00"
   }
  ]
 }
