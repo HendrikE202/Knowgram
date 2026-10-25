@@ -1,50 +1,238 @@
 {
- "generated": "2026-10-24T23:15:38.479362+00:00",
+ "generated": "2026-10-25T04:42:34.047706+00:00",
  "briefing": [
   "n916852829a",
   "n8d3ffd0373",
   "n9092c3509f",
+  "n5f19911a55",
   "nb64c061e0a",
   "n2c1cdb71e8",
-  "n40b14fac25",
   "n116c5a1325",
   "nfd55153f76"
  ],
  "ranked": [
   {
    "id": "n916852829a",
-   "s": 37.4
+   "s": 37.0
   },
   {
    "id": "n8d3ffd0373",
-   "s": 31.1
+   "s": 29.7
   },
   {
    "id": "n9092c3509f",
-   "s": 28.2
+   "s": 27.0
+  },
+  {
+   "id": "n5f19911a55",
+   "s": 25.8
   },
   {
    "id": "nb64c061e0a",
-   "s": 25.7
+   "s": 24.3
   },
   {
    "id": "n2c1cdb71e8",
-   "s": 25.3
-  },
-  {
-   "id": "n40b14fac25",
-   "s": 23.3
+   "s": 23.9
   },
   {
    "id": "n116c5a1325",
-   "s": 22.7
+   "s": 22.8
   },
   {
    "id": "nfd55153f76",
-   "s": 22.0
+   "s": 20.7
   }
  ],
  "items": [
+  {
+   "id": "n9d084f97c4",
+   "topic": "nfl",
+   "title": "No. 25 Wildcats claw Cyclones",
+   "text": "Connor Moberly replaces Raynor in second half at quarterback",
+   "link": "https://sports.yahoo.com/articles/no-25-wildcats-claw-cyclones-041310635.html",
+   "published": "2026-10-25T04:13:10+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-30T04:13:10+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/c04ba4e7e68f5a4901130e350d21a08d.jpg"
+  },
+  {
+   "id": "n86dac2f9dd",
+   "topic": "wirtschaft",
+   "title": "Wie Erdwärme die Wärmeversorgung verändern soll",
+   "text": "In Potsdam wird gerade mehr als einen Kilometer in den Boden gebohrt, um künftig Tausende Haushalte mit Erdwärme zu versorgen. Die Technik birgt Risiken, aber auch viele Chancen. Von M. Kell und H. Christ.",
+   "link": "https://www.tagesschau.de/wirtschaft/technologie/erdwaerme-waermeversorgung-heizen-100.html",
+   "published": "2026-10-25T04:10:34+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T04:10:34+00:00",
+   "img": "https://images.tagesschau.de/image/9074f296-062b-4969-8698-46bebb74c3ee/AAABoTVNe_M/AAABnSSvrFg/16x9-big/heizen-158.jpg?width=1920"
+  },
+  {
+   "id": "nb38b7721f5",
+   "topic": "welt",
+   "title": "Lula oder Bolsonaro: Brasilien vor der Stichwahl",
+   "text": "Lula oder Bolsonaro - beide Präsidentschaftskandidaten liegen vor der Stichwahl in Brasilien gleichauf. Das Land ist tief gespalten. Dabei könnten gerade die Unentschlossenen zum entscheidenden Faktor werden. Von Anne Herrberg.",
+   "link": "https://www.tagesschau.de/ausland/amerika/brasilien-stichwahl-bolsonaro-lula-100.html",
+   "published": "2026-10-25T04:07:12+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T04:07:12+00:00",
+   "img": "https://images.tagesschau.de/image/d1655185-f8a9-452b-87c9-ae485a7ca38c/AAABoWuZ1jc/AAABnSSvrFg/16x9-big/lula-bolsonaro-102.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Brasilien - Stichwahl über das Präsidentenamt zwischen Lula und Bolsonaro",
+     "link": "https://www.deutschlandfunk.de/stichwahl-ueber-das-praesidentenamt-zwischen-lula-und-bolsonaro-104.html"
+    }
+   ]
+  },
+  {
+   "id": "n58a92bdd05",
+   "topic": "politik",
+   "title": "Landesweite Proteste - Erneut Ausschreitungen in Frankreich - laut Innenministerium fast 1.000 Festnahmen",
+   "text": "Unter starker Polizeipräsenz haben in Frankreich ‌Hunderttausende Menschen gegen hohe Lebenshaltungskosten und Misstände im Bildungssystem protestiert. In mehreren Städten gab es erneut Ausschreitungen, unter anderem nach der Hauptkundgebung in Paris.",
+   "link": "https://www.deutschlandfunk.de/erneut-ausschreitungen-in-frankreich-laut-innenministerium-fast-1-000-festnahmen-102.html",
+   "published": "2026-10-25T03:53:57+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-27T03:53:57+00:00",
+   "img": "https://bilder.deutschlandfunk.de/cc/19/22/1c/cc19221c-8b9d-4d7c-8bae-be27de16a880/proteste-paris-106-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Mehr als 100 Festnahmen bei Protesten in Frankreich",
+     "link": "https://www.dw.com/de/mehr-als-100-festnahmen-bei-protesten-in-frankreich/a-79750898?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "n116c5a1325",
+   "topic": "politik",
+   "title": "Wahlsonntag - Serbien wählt neues Parlament - Präsidentschaftswahlen in Bulgarien",
+   "text": "In Serbien finden heute vorgezogene Parlamentswahlen statt.",
+   "link": "https://www.deutschlandfunk.de/serbien-waehlt-neues-parlament-praesidentschaftswahlen-in-bulgarien-100.html",
+   "published": "2026-10-25T03:53:57+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-27T03:53:57+00:00",
+   "img": "https://bilder.deutschlandfunk.de/NO/VA/_6/1c/NOVA_61c1caee454f123daba811dc55f1b094/craft-13363019-asset-100-1920x1920.jpg"
+  },
+  {
+   "id": "n69cbb822e5",
+   "topic": "politik",
+   "title": "Wien - Staatengemeinschaft strebt neues Abkommen gegen Umweltkriminalität an",
+   "text": "Die internationale Staatengemeinschaft hat in Wien beschlossen, Verhandlungen über ein neues Abkommen gegen Umweltkriminalität aufzunehmen.",
+   "link": "https://www.deutschlandfunk.de/staatengemeinschaft-strebt-neues-abkommen-gegen-umweltkriminalitaet-an-106.html",
+   "published": "2026-10-25T03:53:57+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-27T03:53:57+00:00",
+   "img": "https://bilder.deutschlandfunk.de/NO/VA/_a/cc/NOVA_accc12b2cdd3be0e9eb4a6a76e59447b/craft-12709695-asset-100-1920x1920.jpg"
+  },
+  {
+   "id": "nf263744125",
+   "topic": "politik",
+   "title": "CSU-Parteitag - Merz ruft Union zu Geschlossenheit auf und warnt vor Extremisten \"von ganz links und ganz rechts\"",
+   "text": "Bundeskanzler Merz hat auf dem CSU-Parteitag in München die Zusammenarbeit in der Union gelobt. Zugleich mahnte er, CDU und CSU müssten künftig noch enger zusammenstehen, um Deutschland vor Extremisten von ganz links und ganz rechts zu bewahren. Zur Debatte über die Nachfolge von Bundespräsident Steinmeier äußerte er …",
+   "link": "https://www.deutschlandfunk.de/merz-ruft-union-zu-geschlossenheit-auf-und-warnt-vor-extremisten-von-ganz-links-und-ganz-rechts-102.html",
+   "published": "2026-10-25T03:53:57+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-27T03:53:57+00:00",
+   "img": "https://bilder.deutschlandfunk.de/d1/49/3b/fd/d1493bfd-1522-45f9-9394-3655af37efbe/merz-csu-parteitag-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "CSU-Parteitag: Merz äußert sich nicht zur Präsidentinnen-Frage",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/csu-parteitag-merz-106.html"
+    }
+   ]
+  },
+  {
+   "id": "n680d6f635e",
+   "topic": "politik",
+   "title": "Ukraine-Krieg - Musk beschuldigt Kiew, Starlink missbräuchlich genutzt zu haben",
+   "text": "Der US-Tech-Milliardär Musk hat dem ukrainischen Militär vorgeworfen, das Satelliteninternet Starlink für offensive Drohnenangriffe eingesetzt zu haben.",
+   "link": "https://www.deutschlandfunk.de/musk-beschuldigt-kiew-starlink-missbraeuchlich-genutzt-zu-haben-102.html",
+   "published": "2026-10-25T03:53:57+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-27T03:53:57+00:00",
+   "img": "https://bilder.deutschlandfunk.de/6d/c0/7b/c1/6dc07bc1-b974-4028-819c-4c147520b54e/myanmar-razzia-starlink-satelliten-empfaenger-beschlagnahmung-100-1920x1920.jpg"
+  },
+  {
+   "id": "nbb4c815af8",
+   "topic": "politik",
+   "title": "Brasilien - Stichwahl über das Präsidentenamt zwischen Lula und Bolsonaro",
+   "text": "In Brasilien wird heute in einer Stichwahl entschieden, ob Amtsinhaber Lula da Silva Präsident bleibt oder ob sein rechter Herausforderer Flávio Bolsonaro das höchste Staatsamt übernimmt.",
+   "link": "https://www.deutschlandfunk.de/stichwahl-ueber-das-praesidentenamt-zwischen-lula-und-bolsonaro-104.html",
+   "published": "2026-10-25T03:53:57+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-27T03:53:57+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Lula oder Bolsonaro: Brasilien vor der Stichwahl",
+     "link": "https://www.tagesschau.de/ausland/amerika/brasilien-stichwahl-bolsonaro-lula-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n5cac9681fc",
+   "topic": "nfl",
+   "title": "Browns extend DT Maliek Collins by two years",
+   "text": "The contract year of veteran defensive tackle Maliek Collins has resulted after only six games in new contact.",
+   "link": "https://sports.yahoo.com/articles/browns-extend-dt-maliek-collins-031441473.html",
+   "published": "2026-10-25T03:14:41+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-30T03:14:41+00:00"
+  },
+  {
+   "id": "n2a8721a5c2",
+   "topic": "nfl",
+   "title": "Prisco's Week 7 NFL picks: Lions edge Packers, Steelers top Saints in Paris",
+   "text": "Pete Prisco reveals all of his Week 7 picks, including the Chiefs over the Seahawks in Kenneth Walker's revenge game",
+   "link": "https://www.cbssports.com/nfl/news/priscos-week-7-nfl-picks-odds-expert-picks-upsets/",
+   "published": "2026-10-25T03:00:51+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-30T03:00:51+00:00"
+  },
+  {
+   "id": "nd0e6f74334",
+   "topic": "wissenschaft",
+   "title": "Sommerzeit beendet - Uhren um eine Stunde zurückgedreht",
+   "text": "Es ist wieder so weit: Die Sommerzeit ist zu Ende, die Uhren wurden um eine Stunde zurückgestellt. Auch wenn es in der ersten Nacht Vorteile bringt, sind die meisten Menschen nicht zufrieden mit der Zeitumstellung.",
+   "link": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-sommerzeit-138.html",
+   "published": "2026-10-25T01:11:58+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-08T01:11:58+00:00",
+   "img": "https://images.tagesschau.de/image/7d6b7325-7168-4ce9-baeb-c0e74e2c96eb/AAABoWMO72Y/AAABnSSvrFg/16x9-big/wecker-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Zeitumstellung - In der Nacht werden die Uhren eine Stunde zurückgestellt",
+     "link": "https://www.deutschlandfunk.de/in-der-nacht-werden-die-uhren-eine-stunde-zurueckgestellt-100.html"
+    }
+   ]
+  },
   {
    "id": "nfbeabf351b",
    "topic": "nfl",
@@ -84,25 +272,6 @@
    "img": "https://sportshub.cbsistatic.com/i/2026/10/24/3d166bfc-4123-433e-be4c-b07fce57d976/template-pic.jpg"
   },
   {
-   "id": "n58a92bdd05",
-   "topic": "politik",
-   "title": "Landesweite Proteste - Erneut Ausschreitungen in Frankreich - laut Innenministerium fast 1.000 Festnahmen",
-   "text": "Unter starker Polizeipräsenz haben in Frankreich ‌Hunderttausende Menschen gegen hohe Lebenshaltungskosten und Misstände im Bildungssystem protestiert. In mehreren Städten gab es erneut Ausschreitungen, unter anderem nach der Hauptkundgebung in Paris.",
-   "link": "https://www.deutschlandfunk.de/erneut-ausschreitungen-in-frankreich-laut-innenministerium-fast-1-000-festnahmen-102.html",
-   "published": "2026-10-24T22:09:43+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T22:09:43+00:00",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Mehr als 100 Festnahmen bei Protesten in Frankreich",
-     "link": "https://www.dw.com/de/mehr-als-100-festnahmen-bei-protesten-in-frankreich/a-79750898?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
    "id": "n75cea38823",
    "topic": "politik",
    "title": "Brasilien - Stichwahl über das Präsidentenamt: Lula oder Bolsonaro?",
@@ -113,56 +282,11 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-26T22:09:43+00:00",
-   "img": "https://bilder.deutschlandfunk.de/a9/71/70/68/a9717068-16c8-4fe0-86ef-7b8f832ffb7c/brasilien-praesidentschaftswahl-lula-da-silva-bolsonaro-100-1920x1920.jpg",
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Stichwahl in Brasilien: Flávio Bolsonaro - der Kandidat des Vaters",
-     "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-bolsonaro-106.html"
-    }
-   ]
-  },
-  {
-   "id": "n116c5a1325",
-   "topic": "politik",
-   "title": "Wahlsonntag - Serbien wählt neues Parlament - Präsidentschaftswahlen in Bulgarien",
-   "text": "In Serbien finden heute vorgezogene Parlamentswahlen statt.",
-   "link": "https://www.deutschlandfunk.de/serbien-waehlt-neues-parlament-praesidentschaftswahlen-in-bulgarien-100.html",
-   "published": "2026-10-24T22:09:43+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T22:09:43+00:00",
-   "img": "https://bilder.deutschlandfunk.de/NO/VA/_6/1c/NOVA_61c1caee454f123daba811dc55f1b094/craft-13363019-asset-100-1920x1920.jpg"
-  },
-  {
-   "id": "n69cbb822e5",
-   "topic": "politik",
-   "title": "Wien - Staatengemeinschaft strebt neues Abkommen gegen Umweltkriminalität an",
-   "text": "Die internationale Staatengemeinschaft hat in Wien beschlossen, Verhandlungen über ein neues Abkommen gegen Umweltkriminalität aufzunehmen.",
-   "link": "https://www.deutschlandfunk.de/staatengemeinschaft-strebt-neues-abkommen-gegen-umweltkriminalitaet-an-106.html",
-   "published": "2026-10-24T22:09:43+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T22:09:43+00:00"
-  },
-  {
-   "id": "nf263744125",
-   "topic": "politik",
-   "title": "CSU-Parteitag - Merz ruft Union zu Geschlossenheit auf und warnt vor Extremisten \"von ganz links und ganz rechts\"",
-   "text": "Bundeskanzler Merz hat auf dem CSU-Parteitag in München die Zusammenarbeit in der Union gelobt. Zugleich mahnte er, CDU und CSU müssten künftig noch enger zusammenstehen, um Deutschland vor Extremisten von ganz links und ganz rechts zu bewahren. Zur Debatte über die Nachfolge von Bundespräsident Steinmeier äußerte er …",
-   "link": "https://www.deutschlandfunk.de/merz-ruft-union-zu-geschlossenheit-auf-und-warnt-vor-extremisten-von-ganz-links-und-ganz-rechts-102.html",
-   "published": "2026-10-24T22:09:43+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T22:09:43+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "CSU-Parteitag: Merz äußert sich nicht zur Präsidentinnen-Frage",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/csu-parteitag-merz-106.html"
+     "title": "Lula oder Bolsonaro: Brasilien vor der Stichwahl",
+     "link": "https://www.tagesschau.de/ausland/amerika/brasilien-stichwahl-bolsonaro-lula-100.html"
     }
    ]
   },
@@ -328,7 +452,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-26T20:04:34+00:00",
-   "img": "https://bilder.deutschlandfunk.de/7f/44/17/c8/7f4417c8-225a-4cd5-a7f8-947070073541/sommerzeit-uhr-100-1920x1920.jpg"
+   "img": "https://bilder.deutschlandfunk.de/7f/44/17/c8/7f4417c8-225a-4cd5-a7f8-947070073541/sommerzeit-uhr-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Sommerzeit beendet - Uhren um eine Stunde zurückgedreht",
+     "link": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-sommerzeit-138.html"
+    }
+   ]
   },
   {
    "id": "nceaef9ee91",
@@ -840,8 +971,8 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Brasilien - Stichwahl über das Präsidentenamt: Lula oder Bolsonaro?",
-     "link": "https://www.deutschlandfunk.de/stichwahl-ueber-das-praesidentenamt-lula-oder-bolsonaro-100.html"
+     "title": "Brasilien - Stichwahl über das Präsidentenamt zwischen Lula und Bolsonaro",
+     "link": "https://www.deutschlandfunk.de/stichwahl-ueber-das-praesidentenamt-zwischen-lula-und-bolsonaro-104.html"
     }
    ]
   },
@@ -1195,19 +1326,6 @@
    "img": "https://images.tagesschau.de/image/3cea98c0-bba7-48a7-856e-cca34aeaaeb2/AAABoWivUQI/AAABnSSvrFg/16x9-big/schlaf-menschen-100.jpg?width=1920"
   },
   {
-   "id": "nd0e6f74334",
-   "topic": "wissenschaft",
-   "title": "Sommerzeit endet - Um 3:00 Uhr wird an der Uhr gedreht",
-   "text": "Es ist wieder so weit: Die Uhren werden um eine Stunde zurückgestellt. Auch wenn es in der ersten Nacht Vorteile bringt, sind die meisten Menschen nicht zufrieden mit der Zeitumstellung.",
-   "link": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-sommerzeit-138.html",
-   "published": "2026-10-24T08:54:51+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-07T08:54:51+00:00",
-   "img": "https://images.tagesschau.de/image/2283a5a3-8896-4752-b8eb-1c3c8c611260/AAABoWz3sbE/AAABnSSvrFg/16x9-big/wecker-118.jpg?width=1920"
-  },
-  {
    "id": "neebb5c1a8a",
    "topic": "ki",
    "title": "Aufwendige Harnesses machen Coding-Agenten teurer, aber nicht besser",
@@ -1438,8 +1556,8 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Brasilien - Stichwahl über das Präsidentenamt: Lula oder Bolsonaro?",
-     "link": "https://www.deutschlandfunk.de/stichwahl-ueber-das-praesidentenamt-lula-oder-bolsonaro-100.html"
+     "title": "Brasilien - Stichwahl über das Präsidentenamt zwischen Lula und Bolsonaro",
+     "link": "https://www.deutschlandfunk.de/stichwahl-ueber-das-praesidentenamt-zwischen-lula-und-bolsonaro-104.html"
     }
    ]
   },
@@ -1646,14 +1764,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-25T18:49:04+00:00",
-   "img": "https://bilder.deutschlandfunk.de/75/c0/6f/07/75c06f07-8299-4cf6-907b-1f77de961c7c/soeder-parteitag-102-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "CSU-Parteitag: Söder fordert Kampf gegen AfD und Linke",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/csu-soeder-parteitag-100.html"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/75/c0/6f/07/75c06f07-8299-4cf6-907b-1f77de961c7c/soeder-parteitag-102-1920x1920.jpg"
   },
   {
    "id": "n03bf4f071d",
@@ -1680,102 +1791,6 @@
    "lang": "de",
    "expires": "2026-10-25T18:49:04+00:00",
    "img": "https://bilder.deutschlandfunk.de/94/31/bc/5b/9431bc5b-66f7-4bc9-8e2b-07ce2eedd3ab/frankreich-macron-102-1920x1920.jpg"
-  },
-  {
-   "id": "n7af945b145",
-   "topic": "politik",
-   "title": "Staatsoberhaupt - CDU-Spitze wehrt sich gegen Festlegung auf Aigner als nächste Bundespräsidentin",
-   "text": "Die CDU will sich Medienberichten zufolge nicht auf die CSU-Politikerin Aigner als Kandidatin für die Nachfolge von Bundespräsident Steinmeier festlegen. Wie die Frankfurter Allgemeine Zeitung unter Berufung auf Parteikreise berichtet, erheben die Christdemokraten den Anspruch, einen eigenen Kandidaten oder eine …",
-   "link": "https://www.deutschlandfunk.de/cdu-spitze-wehrt-sich-gegen-festlegung-auf-aigner-als-naechste-bundespraesidentin-100.html",
-   "published": "2026-10-23T18:49:04+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-25T18:49:04+00:00"
-  },
-  {
-   "id": "n7fc708710a",
-   "topic": "ki",
-   "title": "Chinesisches KI-Modell Kimi K3.1 Pro schließt fast zu Anthropics Claude Opus 5.5 auf",
-   "text": "Moonshot AIs Kimi K3.1 Pro erreicht mit 55 Punkten Platz 4 im Artificial Analysis Intelligence Index, ein Sprung von 11 Punkten gegenüber dem Vorgänger. Nur drei Anthropic- und Meta-Modelle liegen noch davor. Gibt Moonshot die Gewichte wie geplant frei, schrumpft der Abstand zwischen offenen und proprietären Modellen …",
-   "link": "https://the-decoder.de/chinesisches-ki-modell-kimi-k3-1-pro-schliesst-fast-zu-anthropics-claude-opus-5-5-auf/",
-   "published": "2026-10-23T18:45:07+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-30T18:45:07+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/kimi_k31pro.png"
-  },
-  {
-   "id": "n08177c34e9",
-   "topic": "politik",
-   "title": "CSU-Parteitag: Söder fordert Kampf gegen AfD und Linke",
-   "text": "Zum Auftakt des CSU-Parteitags knöpft sich Parteichef Söder die Linke und die AfD vor. Und er weist auf den Ernst der Lage für die Union hin. Den meisten Applaus bekam er aber für etwas anderes. Von Anita Fünffinger.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/csu-soeder-parteitag-100.html",
-   "published": "2026-10-23T18:10:26+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T18:10:26+00:00",
-   "img": "https://images.tagesschau.de/image/052e0a42-d068-4142-b3ef-ef428748bb26/AAABoWnMAlQ/AAABnSSvrFg/16x9-big/soeder-936.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "CSU-Parteitag - Söder: \"Es geht jetzt um die Existenz der Volksparteien\"",
-     "link": "https://www.deutschlandfunk.de/soeder-es-geht-jetzt-um-die-existenz-der-volksparteien-104.html"
-    }
-   ]
-  },
-  {
-   "id": "nee3b1bbbcd",
-   "topic": "wirtschaft",
-   "title": "Wirtschaft vor acht vom 23.10.2026",
-   "text": "Wirtschaft vor acht vom 23.10.2026",
-   "link": "https://www.tagesschau.de/video/video-1671518.html",
-   "published": "2026-10-23T18:01:52+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T18:01:52+00:00",
-   "img": "https://images.tagesschau.de/image/276099e0-2b6b-4a09-9752-9e5c47995c8b/AAABoWntHI4/AAABnSSvrFg/16x9-big/sendungsbild-1816230.jpg?width=1920"
-  },
-  {
-   "id": "n352951fa65",
-   "topic": "it",
-   "title": "Top 10: Die beste kabellose Überwachungskamera im Test – Akku, WLAN, LTE & Solar",
-   "text": "4K-Auflösung, Dual-Objektiv, Akku, Wi-Fi und Laden per Solarmodul: Kabellose Überwachungskameras haben viel zu bieten. Wir zeigen die besten Modelle.",
-   "link": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-kabellose-ueberwachungskamera-im-test-akku-wlan-lte-und-solar/0spn5e4?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag#id-8-reolink-argus-eco-ultra",
-   "published": "2026-10-23T18:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-28T18:00:00+00:00"
-  },
-  {
-   "id": "nc78895c2ac",
-   "topic": "ki",
-   "title": "Drei Wochen Vor-Ort-Prüfung bei OpenAI offenbart zahlreiche Lücken im KI-Sicherheitssystem",
-   "text": "Externe Prüfer von METR und Redwood Research haben drei Wochen lang OpenAIs internes Überwachungssystem für KI-Agenten untersucht und erhebliche Lücken gefunden: Bis zu 25 Prozent des Agenten-Verkehrs ab der GPT-5.5-Klasse waren vermutlich nicht überwacht. OpenAI schwärzte weite Teile des 61-seitigen Berichts …",
-   "link": "https://the-decoder.de/drei-wochen-vor-ort-pruefung-bei-openai-offenbart-zahlreiche-luecken-im-ki-sicherheitssystem/",
-   "published": "2026-10-23T17:52:32+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-30T17:52:32+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2024/12/openai_safety_research_alignment_illustration.png"
-  },
-  {
-   "id": "n57e2ddb7d9",
-   "topic": "politik",
-   "title": "Bürgergeld und Einsparungen: Geschichte eines Irrtums",
-   "text": "2024 hatte Kanzler Merz im Wahlkampf versprochen, das \"System Bürgergeld vom Kopf auf die Füße\" zu stellen. Zweistellige Milliardenbeträge wollte er so einsparen. Gebracht aber hat die neue Grundsicherung bisher wenig. Von Isabell Karras.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/buergergeld-einsparungen-100.html",
-   "published": "2026-10-23T17:50:13+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T17:50:13+00:00",
-   "img": "https://images.tagesschau.de/image/410cae71-d997-43f0-8d31-3eb00bdd9e5f/AAABoCTJngo/AAABnSSvrFg/16x9-big/antrag-grundsicherung-100.jpg?width=1920"
   }
  ]
 }
