@@ -1,50 +1,314 @@
 {
- "generated": "2026-10-25T16:21:02.656888+00:00",
+ "generated": "2026-10-25T20:51:53.997453+00:00",
  "briefing": [
   "nb38b7721f5",
+  "ne764794da1",
   "nb6a25d076f",
   "n1deb15abca",
-  "nad22a68580",
   "nb102feb4d7",
-  "n5f19911a55",
   "ne6662be2e3",
-  "n22f12222da"
+  "n027cc3d2c3",
+  "n93524fa87a"
  ],
  "ranked": [
   {
    "id": "nb38b7721f5",
-   "s": 39.9
+   "s": 38.8
+  },
+  {
+   "id": "ne764794da1",
+   "s": 31.9
   },
   {
    "id": "nb6a25d076f",
-   "s": 32.7
-  },
-  {
-   "id": "n1deb15abca",
    "s": 31.6
   },
   {
-   "id": "nad22a68580",
-   "s": 30.9
+   "id": "n1deb15abca",
+   "s": 30.4
   },
   {
    "id": "nb102feb4d7",
-   "s": 27.1
-  },
-  {
-   "id": "n5f19911a55",
-   "s": 22.9
+   "s": 27.0
   },
   {
    "id": "ne6662be2e3",
    "s": 22.9
   },
   {
-   "id": "n22f12222da",
+   "id": "n027cc3d2c3",
+   "s": 22.9
+  },
+  {
+   "id": "n93524fa87a",
    "s": 22.9
   }
  ],
  "items": [
+  {
+   "id": "n0286b93803",
+   "topic": "politik",
+   "title": "DEL: Löwen Frankfurt verlieren im Penaltyschießen",
+   "text": "Die Löwen Frankfurt haben in der DEL eine Heimniederlage einstecken müssen. Am Sonntag verloren die Hessen gegen die Wolfsburg Grizzlys im Penaltyschießen.",
+   "link": "https://www.hessenschau.de/sport/eishockey/del-loewen-frankfurt-verlieren-im-penaltyschiessen-v2,loewen-grizzlys-106.html",
+   "published": "2026-10-25T20:48:55+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-29T20:48:55+00:00",
+   "img": "https://www.hessenschau.de/sport/mehr-sport/loewen-frankfurt-194~_t-1792938872707_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "n62b32632ac",
+   "topic": "welt",
+   "title": "\"Nur ein toter Bandit ist ein guter Bandit\" - Wahlkampf in Brasilien",
+   "text": "Brasiliens Wähler sehen Gewalt und Kriminalität als das größte Problem im Land. Die Macht der Banden wird immer größer. Die Kandidaten bei der Stichwahl ums Präsidentenamt heute stehen dabei für unterschiedliche Lösungen. Von Xenia Böttcher.",
+   "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-innere-sicherheit-100.html",
+   "published": "2026-10-25T20:43:16+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T20:43:16+00:00",
+   "img": "https://images.tagesschau.de/image/948e8b30-dfe7-488f-ac5a-076329d53d82/AAABoXOiu_U/AAABnSSvrFg/16x9-big/polizei-brasilien-100.jpg?width=1920"
+  },
+  {
+   "id": "n23da978e07",
+   "topic": "politik",
+   "title": "Midterms - Obama greift Trump im Wahlkampf scharf an",
+   "text": "Wenige Tage vor den Zwischenwahlen in den USA hat sich der ehemalige Präsident Obama in den Wahlkampf eingeschaltet - mit ⁠scharfer Kritik an ⁠seinem Nachfolger Donald Trump. Bei Auftritten in Cleveland und Detroit warf er dem republikanischen Präsidenten Korruption vor und verspottete dessen Politik.",
+   "link": "https://www.deutschlandfunk.de/obama-greift-trump-im-wahlkampf-scharf-an-100.html",
+   "published": "2026-10-25T20:38:20+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-27T20:38:20+00:00",
+   "img": "https://bilder.deutschlandfunk.de/b0/44/7b/dc/b0447bdc-b0a4-4167-a1ca-3a95d1b53960/obama-midterms-michigan-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Vor Midterms: Ex-US-Präsident Obama schaltet sich mit Trump-Kritik in Wahlkampf ein",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-wahl-102.html"
+    }
+   ]
+  },
+  {
+   "id": "ne6662be2e3",
+   "topic": "politik",
+   "title": "US-Kongresswahlen - Auf welche jüngeren Köpfe die Demokraten setzen",
+   "text": "Bei den US-Kongresswahlen am 3. November treten für die Demokratische Partei einige prominente jüngere Köpfe an. Sie symbolisieren den Generationswechsel in der Partei, den Anhänger nach der verlorenen Präsidentschaftswahl 2024 forderten. Drei Männer und eine Frau stehen beispielhaft für die verschiedenen Strömungen …",
+   "link": "https://www.deutschlandfunk.de/auf-welche-juengeren-koepfe-die-demokraten-setzen-100.html",
+   "published": "2026-10-25T20:38:20+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-27T20:38:20+00:00",
+   "img": "https://bilder.deutschlandfunk.de/3a/e7/ba/7a/3ae7ba7a-2d21-4c87-890f-52eb8f880fcd/james-talarico-texas-demokrat-100-1920x1920.jpg"
+  },
+  {
+   "id": "n027cc3d2c3",
+   "topic": "politik",
+   "title": "VW-Tochter - Audi lässt Trump im Wahlkampf Bau eines US-Werks verkünden - Auftritt von Audi-Chef verstößt gegen eigene Richtlinien",
+   "text": "Der Auftritt von Audi-Vorstandschef Döllner bei einer Wahlkampfveranstaltung von US-Präsident Trump verstößt nach Medienangaben gegen Richtlinien des Autokonzerns. Dort hatte Döllner den Bau eines neuen Audiwerks in den USA verkündet. Kritik kommt von der SPD.",
+   "link": "https://www.deutschlandfunk.de/audi-laesst-trump-im-wahlkampf-bau-eines-us-werks-verkuenden-auftritt-von-audi-chef-verstoesst-gegen-100.html",
+   "published": "2026-10-25T20:38:20+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-27T20:38:20+00:00",
+   "img": "https://bilder.deutschlandfunk.de/bd/e5/42/08/bde54208-8406-4f89-8312-5dbb0f90cf9e/audi-chef-doellner-trump-100-1920x1920.jpg"
+  },
+  {
+   "id": "n93524fa87a",
+   "topic": "politik",
+   "title": "Südamerika - Stichwahl um Präsidentschaftsamt: Oberstes Gericht ordnet Verlängerung der Öffnungszeit von Wahllokalen an",
+   "text": "Bei der Stichwahl in Brasilien bleiben die Wahllokale zwei Stunden länger geöffnet.",
+   "link": "https://www.deutschlandfunk.de/stichwahl-um-praesidentschaftsamt-oberstes-gericht-ordnet-verlaengerung-der-oeffnungszeit-von-wahllo-102.html",
+   "published": "2026-10-25T20:38:20+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-27T20:38:20+00:00",
+   "img": "https://bilder.deutschlandfunk.de/a9/71/70/68/a9717068-16c8-4fe0-86ef-7b8f832ffb7c/brasilien-praesidentschaftswahl-lula-da-silva-bolsonaro-100-1920x1920.jpg"
+  },
+  {
+   "id": "n05fc0238f3",
+   "topic": "politik",
+   "title": "Wahlsonntag - Hohe Beteiligung bei Parlamentswahl in Serbien - Präsidentschafts-Stichwahl in Bulgarien",
+   "text": "Bei der Parlamentswahl in Serbien hat die höchste Wahlbeteiligung seit 30 Jahren gegeben.",
+   "link": "https://www.deutschlandfunk.de/hohe-beteiligung-bei-parlamentswahl-in-serbien-praesidentschafts-stichwahl-in-bulgarien-102.html",
+   "published": "2026-10-25T20:38:20+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-27T20:38:20+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Hohe Wahlbeteiligung und Manipulationsvorwürfe in Serbien",
+     "link": "https://www.tagesschau.de/ausland/europa/serbien-wahl-update-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n81da4bdc2d",
+   "topic": "politik",
+   "title": "Nach Exil - Oppositionsführerin Machado soll zurück in Venezuela sein",
+   "text": "Rund zehn Monate nach ihrer heimlichen Ausreise aus Venezuela soll die Friedensnobelpreisträgerin María Corina Machado in ihr Heimatland zurückgekehrt sein. \"Ich bin hier. Bei euch\", schrieb Machado in Online-Medien. Auch der Oppositionspolitiker González verwies auf diese Mitteilung.",
+   "link": "https://www.deutschlandfunk.de/oppositionsfuehrerin-machado-soll-zurueck-in-venezuela-sein-100.html",
+   "published": "2026-10-25T20:38:20+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-27T20:38:20+00:00",
+   "img": "https://bilder.deutschlandfunk.de/9c/40/31/b8/9c4031b8-d9dd-400d-b7c5-d8048f8df319/nobelpreistraegerin-machdo-venezuela-100-512x512.jpg"
+  },
+  {
+   "id": "n29bbad6143",
+   "topic": "nfl",
+   "title": "Giants beat Texans 27-21 in overtime",
+   "text": "Giants RB Cam Skattebo ran 42 yards to the Houston 30 in OT, and Devin Singletary scored on next play.",
+   "link": "https://sports.yahoo.com/articles/giants-beat-texans-27-21-203644750.html",
+   "published": "2026-10-25T20:36:44+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-30T20:36:44+00:00"
+  },
+  {
+   "id": "n62a7a00b8c",
+   "topic": "nfl",
+   "title": "Broncos vs. Cardinals: Week 7 Live Fan Discussion",
+   "text": "Join Mile High Report to discuss the action from this Week 7 game between the Denver Broncos and Arizona Cardinals.",
+   "link": "https://sports.yahoo.com/articles/broncos-vs-cardinals-week-7-194500426.html",
+   "published": "2026-10-25T20:36:17+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-30T20:36:17+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/d0202860d3d7d7ed359e02e8806a6aa8.jpg"
+  },
+  {
+   "id": "n300ee3dad1",
+   "topic": "welt",
+   "title": "Auftakt der RN-Wahlkampagne: Le Pen spricht von \"Wiedergeburt\" Frankreichs",
+   "text": "Die rechtspopulistische französische Präsidentschaftskandidatin Le Pen führt derzeit in den Umfragen. Zum Auftakt der Wahlkampagne ihres Rassemblement National warb sie für einen politischen Neuanfang.",
+   "link": "https://www.tagesschau.de/ausland/europa/le-pen-frankreich-100.html",
+   "published": "2026-10-25T19:25:14+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T19:25:14+00:00",
+   "img": "https://images.tagesschau.de/image/274f91de-e565-4573-9330-b5d370a0773f/AAABoXRQYOc/AAABnSSvrFg/16x9-big/le-pen-frankreich-102.jpg?width=1920"
+  },
+  {
+   "id": "n908e1c49d9",
+   "topic": "nfl",
+   "title": "49ers RB Christian McCaffrey returns vs. Falcons after going to locker room with thigh injury",
+   "text": "The Niners can breathe a sigh of relief with CMC back on the field",
+   "link": "https://www.cbssports.com/nfl/news/49ers-rb-christian-mccaffrey-injury-updates-falcons/",
+   "published": "2026-10-25T19:07:53+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-30T19:07:53+00:00"
+  },
+  {
+   "id": "nc13357bfcc",
+   "topic": "nfl",
+   "title": "LOOK: Marvin Harrison Jr. catches first touchdown as a member of the Texans",
+   "text": "Marvin Harrison Jr. is catching TD passes from C.J. Stroud, just like old times",
+   "link": "https://www.cbssports.com/nfl/news/look-marvin-harrison-jr-catches-first-touchdown-texans/",
+   "published": "2026-10-25T19:05:37+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-30T19:05:37+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/25/5fca70b1-3e7d-4112-865e-f003c8317a27/marvtd.jpg"
+  },
+  {
+   "id": "nf0b599df14",
+   "topic": "it",
+   "title": "Top 10: Bester KVM-Switch im Test – Tastatur und Monitor mit mehreren PCs teilen",
+   "text": "Mit einem KVM-Switch kann man Maus, Tastatur und Monitor ohne Umstecken mit mehreren Computern verbinden. Wir zeigen die zehn besten Modelle aus unseren Tests.",
+   "link": "https://www.heise.de/bestenlisten/testsieger/top-10-bester-kvm-switch-im-test-tastatur-und-monitor-mit-mehreren-pcs-teilen/n8lkhn3?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-25T19:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-30T19:00:00+00:00"
+  },
+  {
+   "id": "n2c8e4ccb85",
+   "topic": "politik",
+   "title": "Stromsteuer-Debatte: Union und SPD weiter weit auseinander",
+   "text": "Dass Unternehmen und Haushalte beim Strompreis entlastet werden sollen, darüber herrscht in der Regierung Einigkeit. Unklar aber ist, wie das finanziert werden kann. Im Bericht aus Berlin machten CDU und SPD sehr unterschiedliche Vorschläge.",
+   "link": "https://www.tagesschau.de/inland/bericht-aus-berlin-stromsteuer-100.html",
+   "published": "2026-10-25T18:49:43+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T18:49:43+00:00",
+   "img": "https://images.tagesschau.de/image/9cea354c-b999-4f3e-b80d-621fd3470c99/AAABoXQtGEI/AAABnSSvrFg/16x9-big/kretschmer-bab-100.jpg?width=1920"
+  },
+  {
+   "id": "n5ef500d19a",
+   "topic": "politik",
+   "title": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
+   "text": "Das Kreuzfahrtschiff \"Mein Schiff 3\" ist nach dem Auslaufen in Bremerhaven bei stürmischem Wetter mit zwei Schiffen kollidiert. Zwei Schlepper wurden beschädigt. Nach aktuellem Stand gab es keine Verletzten.",
+   "link": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html",
+   "published": "2026-10-25T18:30:00+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T18:30:00+00:00",
+   "img": "https://images.tagesschau.de/image/6a3f8ef9-940f-4800-be2b-2f708d3bdf2c/AAABoXS-Gl8/AAABnSSvrFg/16x9-big/rb-an-einem-schiff-sind-mittransportierte-rettungsboote-beschaedigt-100.jpg?width=1920"
+  },
+  {
+   "id": "nff57cb6eef",
+   "topic": "it",
+   "title": "TLD-Berwerbungen: Privatwirtschaft greift nach Städtedomains",
+   "text": "Für hunderte neue Top-Level-Domains gibt es Mehrfachbewerber. Um Städtenamen wie München und Frankfurt bahnt sich Streit an.",
+   "link": "https://www.heise.de/news/TLD-Berwerbungen-Privatwirtschaft-greift-nach-Staedtedomains-11499409.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-25T17:11:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-30T17:11:00+00:00"
+  },
+  {
+   "id": "ne764794da1",
+   "topic": "welt",
+   "title": "Hohe Wahlbeteiligung und Manipulationsvorwürfe in Serbien",
+   "text": "Lange Schlangen vor den Wahllokalen in Serbien: Viele Menschen wünschen sich Veränderung. Bei der Parlamentswahl setzt die Studentenbewegung auf einen Erfolg. Doch auch Präsident Vucic hat überzeugte Anhänger.",
+   "link": "https://www.tagesschau.de/ausland/europa/serbien-wahl-update-100.html",
+   "published": "2026-10-25T16:24:20+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T16:24:20+00:00",
+   "img": "https://images.tagesschau.de/image/f90a7f85-8cba-4a3b-80e8-3acfb9b8b09c/AAABoXPImHI/AAABnSSvrFg/16x9-big/serbien-wahl-112.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Wahlsonntag - Hohe Beteiligung bei Parlamentswahl in Serbien - Präsidentschafts-Stichwahl in Bulgarien",
+     "link": "https://www.deutschlandfunk.de/hohe-beteiligung-bei-parlamentswahl-in-serbien-praesidentschafts-stichwahl-in-bulgarien-102.html"
+    }
+   ]
+  },
+  {
+   "id": "ncd45a90e36",
+   "topic": "welt",
+   "title": "Saudi-Arabien setzt gegen Huthis auf KI-Hilfe aus den USA",
+   "text": "Die USA unterstützen Saudi-Arabien mit KI-gestützter Zielerfassung im Kampf gegen die Huthis im Jemen. Doch Fachleute warnen: Der Einsatz von KI wirft technische, politische und menschenrechtliche Fragen auf.",
+   "link": "https://www.dw.com/de/saudi-arabien-setzt-gegen-huthis-auf-ki-hilfe-aus-den-usa/a-79747115?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-25T16:24:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-29T16:24:00+00:00",
+   "img": "https://static.dw.com/image/78307185_302.jpg"
+  },
   {
    "id": "n3a892169f8",
    "topic": "nfl",
@@ -123,39 +387,6 @@
    "expires": "2026-10-27T15:52:16+00:00"
   },
   {
-   "id": "n23da978e07",
-   "topic": "politik",
-   "title": "Midterms - Obama greift Trump im Wahlkampf scharf an",
-   "text": "​Zehn Tage vor den Zwischenwahlen in den USA hat sich der ehemalige Präsident Obama in den Wahlkampf eingeschaltet - mit ⁠scharfer Kritik an ⁠seinem Nachfolger Donald Trump. Bei Auftritten in Cleveland und Detroit warf er dem republikanischen Präsidenten Korruption vor und verspottete dessen Politik.",
-   "link": "https://www.deutschlandfunk.de/obama-greift-trump-im-wahlkampf-scharf-an-100.html",
-   "published": "2026-10-25T15:52:16+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T15:52:16+00:00",
-   "img": "https://bilder.deutschlandfunk.de/b0/44/7b/dc/b0447bdc-b0a4-4167-a1ca-3a95d1b53960/obama-midterms-michigan-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Vor Midterms: Ex-US-Präsident Obama schaltet sich mit Trump-Kritik in Wahlkampf ein",
-     "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-wahl-102.html"
-    }
-   ]
-  },
-  {
-   "id": "ne6662be2e3",
-   "topic": "politik",
-   "title": "US-Kongresswahlen - Auf welche jüngeren Köpfe die Demokraten setzen",
-   "text": "Bei den US-Kongresswahlen am 3. November treten für die Demokratische Partei einige prominente jüngere Köpfe an. Sie symbolisieren den Generationswechsel in der Partei, den Anhänger nach der verlorenen Präsidentschaftswahl 2024 forderten. Drei Männer und eine Frau stehen beispielhaft für die verschiedenen Strömungen …",
-   "link": "https://www.deutschlandfunk.de/auf-welche-juengeren-koepfe-die-demokraten-setzen-100.html",
-   "published": "2026-10-25T15:52:16+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T15:52:16+00:00",
-   "img": "https://bilder.deutschlandfunk.de/3a/e7/ba/7a/3ae7ba7a-2d21-4c87-890f-52eb8f880fcd/james-talarico-texas-demokrat-100-1920x1920.jpg"
-  },
-  {
    "id": "n2f9be84f2c",
    "topic": "politik",
    "title": "Streit um Satellitensystem - Ukraine weist Vorwürfe von Musk zu Starlink-Verstößen zurück",
@@ -223,19 +454,6 @@
    "type": "Fachmedium (IT)",
    "lang": "de",
    "expires": "2026-10-30T15:38:00+00:00"
-  },
-  {
-   "id": "n62b32632ac",
-   "topic": "welt",
-   "title": "\"Nur ein toter Bandit ist ein guter Bandit\" - Wahlkampf in Brasilien",
-   "text": "Brasiliens Wähler sehen Gewalt und Kriminalität als das größte Problem im Land. Die Macht der Banden wird immer größer. Die Kandidaten bei der Stichwahl ums Präsidentenamt heute stehen dabei für unterschiedliche Lösungen. Von Xenia Böttcher.",
-   "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-innere-sicherheit-100.html",
-   "published": "2026-10-25T15:16:47+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-28T15:16:47+00:00",
-   "img": "https://images.tagesschau.de/image/948e8b30-dfe7-488f-ac5a-076329d53d82/AAABoXOiu_U/AAABnSSvrFg/16x9-big/polizei-brasilien-100.jpg?width=1920"
   },
   {
    "id": "n2f0a76edf8",
@@ -903,7 +1121,13 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-27T03:53:57+00:00",
-   "img": "https://bilder.deutschlandfunk.de/NO/VA/_6/1c/NOVA_61c1caee454f123daba811dc55f1b094/craft-13363019-asset-100-1920x1920.jpg"
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Hohe Wahlbeteiligung und Manipulationsvorwürfe in Serbien",
+     "link": "https://www.tagesschau.de/ausland/europa/serbien-wahl-update-100.html"
+    }
+   ]
   },
   {
    "id": "n69cbb822e5",
@@ -1521,217 +1745,6 @@
    "type": "Sportmedium",
    "lang": "en",
    "expires": "2026-10-29T15:04:43+00:00"
-  },
-  {
-   "id": "n5a59a69bf8",
-   "topic": "ki",
-   "title": "Drei gefeuerte OpenAI-Forscher wehren sich gegen Leak-Vorwürfe und fürchten Einschüchterungseffekt",
-   "text": "Die drei von OpenAI entlassenen Sicherheitsforscher Tomek Korbak, Mikita Balesni und Jasmine Wang wehren sich öffentlich gegen Vorwürfe des Ex-Arbeitgebers: Sie bestreiten, vertrauliche Informationen weitergegeben zu haben, und sehen einen Zusammenhang mit ihrem Einsatz für besser überprüfbare KI-Systeme. Laut den …",
-   "link": "https://the-decoder.de/drei-gefeuerte-openai-forscher-wehren-sich-gegen-leak-vorwuerfe-und-fuerchten-einschuechterungseffekt/",
-   "published": "2026-10-24T14:58:33+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-31T14:58:33+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/openai_fired_researchers.png"
-  },
-  {
-   "id": "n4d7aa2aae6",
-   "topic": "it",
-   "title": "Griechenland verbietet soziale Medien für unter 15-Jährige",
-   "text": "Ein Gesetz nimmt Plattformen und Eltern in die Verantwortung, samt anonymer Alterskontrolle. Auf eine EU-Regelung wollte man nicht warten.",
-   "link": "https://www.heise.de/news/Griechenland-verbietet-soziale-Medien-fuer-unter-15-Jaehrige-11499195.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-24T14:46:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-29T14:46:00+00:00"
-  },
-  {
-   "id": "n8fa937ceb6",
-   "topic": "nfl",
-   "title": "NFL closes 'NFL House' in Paris amid security concerns as city braces for more protests",
-   "text": "The Week 7 matchup between the Steelers and Saints is still on as scheduled",
-   "link": "https://www.cbssports.com/nfl/news/nfl-paris-updates-saints-steelers-nfl-house-france-protests/",
-   "published": "2026-10-24T14:41:04+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-29T14:41:04+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/18/d761f43c-b902-4438-a72b-633954f2fb49/paris-france.jpg"
-  },
-  {
-   "id": "n52d1384fbc",
-   "topic": "it",
-   "title": "App-Store: iPhone Duo als Toaster",
-   "text": "App-Entwickler greifen die Möglichkeiten durch das faltbare Display des iPhone Duo auf und entwickeln teils absurde, teils nützliche Apps. ( iPhone Duo , iMac )",
-   "link": "https://www.golem.de/news/app-store-iphone-duo-als-toaster-2610-214479.html",
-   "published": "2026-10-24T14:40:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-29T14:40:02+00:00",
-   "img": "https://www.golem.de/2610/214479-605094-605092_rc.jpg"
-  },
-  {
-   "id": "ne922247321",
-   "topic": "wirtschaft",
-   "title": "Nach der Elternzeit: Wenn die Rückkehr in den Job schwierig wird",
-   "text": "Viele Mütter und Väter wollen nach der Elternzeit wieder arbeiten, häufig in Teilzeit. Doch nicht immer finden sie mit ihren Arbeitgebern eine Lösung. Betroffene berichten von Benachteiligungen, Fachleute fordern mehr Schutz. Von E. Özer.",
-   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/elternzeit-rueckkehr-job-100.html",
-   "published": "2026-10-24T14:26:17+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T14:26:17+00:00",
-   "img": "https://images.tagesschau.de/image/9da4ccd8-cee5-46e1-b95f-e38090fab173/AAABoV8Qe84/AAABnSSvrFg/16x9-big/kinder-kinderwagen-100.jpg?width=1920"
-  },
-  {
-   "id": "n74ce45211e",
-   "topic": "welt",
-   "title": "Faktencheck: Wie Flávio Bolsonaro Zweifel an Brasiliens Demokratie sät",
-   "text": "Hört man dem rechten Präsidentschaftskandidaten zu, könnte man glauben, der amtierende linke Präsident Lula habe Brasiliens Demokratie an den Rand des Abgrunds gebracht. Wie viel Wahrheit steckt hinter der Rhetorik?",
-   "link": "https://www.dw.com/de/faktencheck-wie-flávio-bolsonaro-zweifel-an-brasiliens-demokratie-sät/a-79745227?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-24T14:22:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-28T14:22:00+00:00",
-   "img": "https://static.dw.com/image/79744159_302.jpg"
-  },
-  {
-   "id": "n39bcdf4ca5",
-   "topic": "ki",
-   "title": "KI macht unerfahrene Anwälte sofort besser, könnte aber laut Studie ihre Karriereentwicklung bremsen",
-   "text": "Ein Feldexperiment mit 133 Patentanwälten zeigt einen Zielkonflikt beim KI-Einsatz: Berufsanfänger profitierten am stärksten von KI-Unterstützung beim Verfassen von Patentansprüchen, bauten aber ohne KI kaum dauerhaftes Können auf. Erfahrene Anwälte hingegen konnten das Gelernte behalten. Grundlegendes Fachwissen …",
-   "link": "https://the-decoder.de/ki-macht-unerfahrene-anwaelte-sofort-besser-koennte-aber-laut-studie-ihre-karriereentwicklung-bremsen/",
-   "published": "2026-10-24T14:21:05+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-31T14:21:05+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/09/patent-lawyers-nber-nano-banana-pro.jpg"
-  },
-  {
-   "id": "ndc88bddd6f",
-   "topic": "welt",
-   "title": "Israelische Armee startet Einsatz in Hebron",
-   "text": "Nach dem tödlichen Angriff auf Soldaten hat Israel in Hebron im Westjordanland einen Militäreinsatz begonnen. Premier Netanjahu kündigte eine \"sehr große Überraschung\" für die Palästinensische Autonomiebehörde an.",
-   "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-102.html",
-   "published": "2026-10-24T14:14:53+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T14:14:53+00:00",
-   "img": "https://images.tagesschau.de/image/2a396c0a-e923-4711-996b-aa3340ab3b09/AAABoW4Uff8/AAABnSSvrFg/16x9-big/westjordanland-hebron-100.jpg?width=1920"
-  },
-  {
-   "id": "ne4c4477422",
-   "topic": "it",
-   "title": "Wähleradressen: AfD droht wegen Datenleck Ärger mit dem Datenschutz",
-   "text": "Nach einem E-Mail-Leak prüft der Datenschutzbeauftragte, ob die AfD in MV Wählerdaten nicht ausreichend geschützt hat. ( Datenschutz , Politik )",
-   "link": "https://www.golem.de/news/waehleradressen-afd-droht-wegen-datenleck-aerger-mit-dem-datenschutz-2610-214478.html",
-   "published": "2026-10-24T14:05:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-29T14:05:02+00:00",
-   "img": "https://www.golem.de/2610/214478-605090-605088_rc.jpg"
-  },
-  {
-   "id": "n74b1b836dc",
-   "topic": "ki",
-   "title": "Blocks KI-Modell Dessa soll emotionale Signale verstehen, die heutige Sprach-KI ignoriert",
-   "text": "Block, das Unternehmen hinter Square und Cash App, stellt mit Dessa ein Sprachmodell vor, das Audio direkt verarbeitet, statt es erst in Text umzuwandeln. So soll es Emotionen, Sarkasmus und Pausen in Echtzeit erkennen. Das Modell läuft lokal auf einem MacBook Pro M4 Max, ist aber bisher nicht öffentlich verfügbar. …",
-   "link": "https://the-decoder.de/blocks-ki-modell-dessa-soll-emotionale-signale-verstehen-die-heutige-sprach-ki-ignoriert/",
-   "published": "2026-10-24T14:03:46+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-10-31T14:03:46+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/dessa_block.png"
-  },
-  {
-   "id": "ndf1c07f56c",
-   "topic": "wissenschaft",
-   "title": "Vorsicht, Denkfalle!: Kann ich nicht, mag ich nicht",
-   "text": "Unerreichbare Ziele schlechtzureden, macht das eigene Scheitern erträglicher. Aber auch wahrscheinlicher! Unser Psychologiekolumnist über den Saure-Trauben-Effekt.",
-   "link": "https://www.spektrum.de/kolumne/saure-trauben-effekt-wie-selbsttaeuschung-erfolg-verhindern-kann/2345261",
-   "published": "2026-10-24T14:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-07T14:00:00+00:00"
-  },
-  {
-   "id": "n8f6bc1355c",
-   "topic": "it",
-   "title": "Ecovacs X12S Omnicyclone im Test: Beutelloser Saugroboter mit Wassersprüher",
-   "text": "Der Ecovacs X12S Omnicyclone saugt mit 27.000 Pa und setzt auf eine beutellose Station. Ob er den Premiumpreis rechtfertigt, zeigt unser Test.",
-   "link": "https://www.heise.de/bestenlisten/testbericht/ecovacs-x12s-omnicyclone-im-test-beutelloser-saugroboter-mit-wassersprueher/059zlth?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-24T14:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-29T14:00:00+00:00"
-  },
-  {
-   "id": "nb64c061e0a",
-   "topic": "politik",
-   "title": "Nazi-Bau: Kehlsteinhaus am Obersalzberg durch Brand weitgehend zerstört",
-   "text": "Es diente den Nazis als Repräsentationsort hoch in den Bergen. In Nacht hat es nun im Kehlsteinhaus am Obersalzberg bei Berchtesgaden gebrannt. Die Polizei vermutet Brandstiftung und hat einen Verdächtigen festgenommen.",
-   "link": "https://www.tagesschau.de/inland/gesellschaft/berchtesgaden-feuer-nazihaus-100.html",
-   "published": "2026-10-24T13:58:56+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T13:58:56+00:00",
-   "img": "https://images.tagesschau.de/image/31ad951d-b1a4-4757-9d95-dcd58da8337f/AAABoW3k3Lg/AAABnSSvrFg/16x9-big/kehlsteinhaus-114.jpg?width=1920"
-  },
-  {
-   "id": "n8e825e34ca",
-   "topic": "welt",
-   "title": "Midterms in den USA: Amerikanischer Traum in weiter Ferne",
-   "text": "Höherer Lebensstandard durch harte Arbeit: Der klassische amerikanische Traum scheint jungen US-Bürgern zunehmend unerreichbar. Was erwarten sie von den Zwischenwahlen? Anne Schneider hat sich in Texas umgehört.",
-   "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-junge-waehler-100.html",
-   "published": "2026-10-24T13:47:08+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T13:47:08+00:00",
-   "img": "https://images.tagesschau.de/image/1bd073ba-d0c5-416f-b770-76c5502439f2/AAABoVgpKZI/AAABnSSvrFg/16x9-big/souvenir-shop-texas-100.jpg?width=1920"
-  },
-  {
-   "id": "n9a32308df4",
-   "topic": "welt",
-   "title": "Protest-Wochenende in Frankreich: Noch ist die Lage relativ ruhig",
-   "text": "Kommt es wieder zu Ausschreitungen und Plünderungen? Erste Proteste haben begonnen. Französische Sicherheitskräfte sind mit einem Großaufgebot im Einsatz.",
-   "link": "https://www.dw.com/de/protest-wochenende-in-frankreich-noch-ist-die-lage-relativ-ruhig/a-79750898?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-24T13:38:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-28T13:38:00+00:00"
-  },
-  {
-   "id": "n4933e4fcf5",
-   "topic": "welt",
-   "title": "Mehr als 100 Festnahmen bei Protesten in Frankreich",
-   "text": "Französische Sicherheitskräfte sind mit einem Großaufgebot im Einsatz. Wieder gibt es Ausschreitungen. Doch die Eskalation vor einer Woche wiederholt sich bisher nicht.",
-   "link": "https://www.dw.com/de/mehr-als-100-festnahmen-bei-protesten-in-frankreich/a-79750898?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-24T13:38:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-28T13:38:00+00:00",
-   "img": "https://static.dw.com/image/79749961_302.jpg",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Landesweite Proteste - Erneut Ausschreitungen in Frankreich - laut Innenministerium fast 1.000 Festnahmen",
-     "link": "https://www.deutschlandfunk.de/erneut-ausschreitungen-in-frankreich-laut-innenministerium-fast-1-000-festnahmen-102.html"
-    }
-   ]
   }
  ]
 }

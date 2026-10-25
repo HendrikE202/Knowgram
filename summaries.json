@@ -37,25 +37,6 @@
    }
   ]
  },
- "n74ce45211e": {
-  "points": [
-   "Der Faktencheck prüft Aussagen des rechten Kandidaten Flávio Bolsonaro, Brasiliens Demokratie sei unter Lula in Gefahr.",
-   "Flávio Bolsonaro behauptet unter anderem, die Regierung habe „gemeinsam mit einer Fraktion des Obersten Bundesgerichts“ regiert.",
-   "Die Wahl am 25. Oktober fällt zwischen Lula und Flávio Bolsonaro, dem Sohn des inhaftierten Ex-Präsidenten Jair Bolsonaro."
-  ],
-  "why": "Der Faktencheck hilft einzuordnen, welche Aussagen im Wahlkampf belegbar sind und welche nicht.",
-  "slides": [
-   {
-    "h": "🧩 Hintergrund",
-    "text": "Das Oberste Bundesgericht (STF) hat in Brasilien weitreichende Befugnisse, auch bei Wahlfragen. Seine Entscheidungen, etwa gegen Jair Bolsonaro, sind politisch umstritten, das Lager des Ex-Präsidenten kritisiert sie.",
-    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
-   },
-   {
-    "h": "🔎 Was man nachschauen sollte",
-    "text": "Vom Faktencheck ist im Textanfang nur die Behauptung zu lesen. Das Ergebnis der Prüfung steht im vollständigen Artikel und sollte dort nachgelesen werden."
-   }
-  ]
- },
  "n75cea38823": {
   "points": [
    "Bei der Stichwahl in Brasilien treten Amtsinhaber Lula da Silva (links) und Flávio Bolsonaro (rechts) an.",
@@ -72,25 +53,6 @@
    {
     "h": "❓ Was noch unklar ist",
     "text": "Der Ausgang war bei Redaktionsschluss offen; der Textanfang nennt nur Umfragen, die als Gleichstand gelten. Das Ergebnis steht erst nach der Auszählung fest."
-   }
-  ]
- },
- "nb64c061e0a": {
-  "points": [
-   "Im von den Nazis erbauten Kehlsteinhaus bei Berchtesgaden brach ein Feuer aus.",
-   "Die Polizei vermutet Brandstiftung und nahm einen Verdächtigen vorläufig fest; ob er mit dem Feuer zusammenhängt, wird geprüft.",
-   "Rund 200 Einsatzkräfte waren im Einsatz, das Gebäude ist schwer erreichbar."
-  ],
-  "why": "Das Gebäude ist ein Ort der NS-Geschichte und heute eine Touristenattraktion, Schäden betreffen daher auch Erinnerungskultur und Tourismus.",
-  "slides": [
-   {
-    "h": "🧩 Hintergrund",
-    "text": "Das Kehlsteinhaus wurde 1937 bis 1938 als Geschenk zum 50. Geburtstag Hitlers gebaut und liegt auf rund 1800 Metern. Heute ist es ein Ausflugslokal mit Dokumentation auf dem Obersalzberg.",
-    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
-   },
-   {
-    "h": "❓ Was noch unklar ist",
-    "text": "Brandursache, Schadenshöhe und die Rolle des Festgenommenen sind laut Textanfang offen; die Polizei ermittelt."
    }
   ]
  },
@@ -281,82 +243,6 @@
    {
     "h": "❓ Was noch unklar ist",
     "text": "Wann alle Verbände ausgestattet sind und warum der Schützenpanzer Marder die Prüfung nicht besteht, geht aus dem Textanfang nicht vollständig hervor."
-   }
-  ]
- },
- "n5a59a69bf8": {
-  "points": [
-   "Drei von OpenAI entlassene Sicherheitsforscher (Tomek Korbak, Mikita Balesni, Jasmine Wang) bestreiten, vertrauliche Informationen weitergegeben zu haben.",
-   "OpenAI hatte sie nach einer internen Untersuchung wegen mutmaßlicher Verstöße gegen Regeln zu sensiblen Informationen entlassen.",
-   "Die drei vermuten einen Zusammenhang mit ihrem Einsatz für besser überprüfbare KI-Systeme und fürchten einen Einschüchterungseffekt."
-  ],
-  "why": "Der Streit berührt die Frage, wie offen Forschende in KI-Firmen über Risiken sprechen dürfen.",
-  "slides": [
-   {
-    "h": "🧩 Hintergrund",
-    "text": "Reasoning-Modelle halten ihre Zwischenschritte auf einem internen „Notizblock“ fest (Chain of Thought). Sicherheitsforscher untersuchen diese Spuren, um zu verstehen, was ein Modell tut. Ob und wie sie öffentlich sein dürfen, ist ein Streitpunkt.",
-    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
-   },
-   {
-    "h": "❓ Was noch unklar ist",
-    "text": "Was genau durchgesickert sein soll, nennt der Textanfang nicht. Es steht Aussage gegen Aussage: Die Firma nennt Regelverstöße, die Betroffenen weisen das zurück."
-   }
-  ]
- },
- "n39bcdf4ca5": {
-  "points": [
-   "Ein dreimonatiges Feldexperiment mit 133 Patentanwälten in elf US-Kanzleien untersuchte den KI-Einsatz beim Arbeiten.",
-   "KI verbesserte die sofortige Leistung, besonders bei Berufsanfängern.",
-   "Fiel die KI weg, profitierten nur die erfahrenen Anwälte vom Üben, was die Karriereentwicklung Unerfahrener bremsen könnte."
-  ],
-  "why": "Wer KI im Beruf nutzt, sollte bedenken, ob er dabei noch lernt oder nur schneller wird.",
-  "slides": [
-   {
-    "h": "🧩 Hintergrund",
-    "text": "Das Arbeitspapier stammt vom National Bureau of Economic Research (NBER) und ist nicht begutachtet („Working Paper“). Ein randomisierter Kontrollversuch teilt Teilnehmer zufällig in Gruppen ein und gilt als aussagekräftiger als reine Befragungen.",
-    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
-   },
-   {
-    "h": "❓ Was noch unklar ist",
-    "text": "Ob die Ergebnisse für andere Berufe gelten, ist offen: Untersucht wurden nur Patentanwälte. Zur Begutachtung des Papiers macht der Textanfang keine Angabe."
-   }
-  ]
- },
- "n74b1b836dc": {
-  "points": [
-   "Block, das Unternehmen hinter Square und Cash App, stellt das Sprachmodell Dessa vor.",
-   "Laut Block wurde es ausschließlich mit menschlicher Sprache, ohne Text, von Grund auf trainiert und verarbeitet Audio direkt.",
-   "Dadurch soll es Emotionen, Sarkasmus, Lachen und Pausen in Echtzeit erkennen."
-  ],
-  "why": "Wenn Sprachmodelle Betonung verstehen, könnten Sprachassistenten natürlicher und für Kundendienst oder Barrierefreiheit nützlicher werden.",
-  "slides": [
-   {
-    "h": "🧩 Hintergrund",
-    "text": "Übliche Sprachassistenten wandeln Sprache zuerst in Text um, verarbeiten ihn und sprechen das Ergebnis. Dabei gehen Tonfall, Pausen und Gefühle verloren. Ein Modell, das Audio direkt verarbeitet, kann sie in Prinzip nutzen.",
-    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
-   },
-   {
-    "h": "❓ Was noch unklar ist",
-    "text": "Die Angaben stammen von Block selbst; eine unabhängige Prüfung der Fähigkeiten und ein Vergleich mit anderen Systemen fehlen im Textanfang."
-   }
-  ]
- },
- "ne922247321": {
-  "points": [
-   "Viele Eltern wollen nach der Elternzeit wieder arbeiten, oft in Teilzeit, doch nicht immer finden sie mit dem Arbeitgeber eine Lösung.",
-   "Im Beispiel soll eine Auszubildende in einer Tierklinik einen Aufhebungsvertrag unterschrieben haben, nachdem eine Teilzeitausbildung nicht zustande kam.",
-   "Der Arbeitgeber AniCura sagt, eine Teilzeitausbildung sei grundsätzlich möglich; im Fall seien mehrere Optionen geprüft worden."
-  ],
-  "why": "Der Fall zeigt, wo Eltern nach der Elternzeit auf Hürden stoßen und was ein Aufhebungsvertrag bedeuten kann.",
-  "slides": [
-   {
-    "h": "🧩 Hintergrund",
-    "text": "Elternzeit gibt einen Anspruch auf Rückkehr, Teilzeitwünsche sind an Bedingungen wie Betriebsgröße geknüpft. Ein Aufhebungsvertrag beendet das Arbeitsverhältnis einvernehmlich, kann aber Nachteile wie eine Sperrzeit beim Arbeitslosengeld haben.",
-    "note": "🧩 Allgemeines Hintergrundwissen (KI), nicht aus dem Artikel · ohne Gewähr"
-   },
-   {
-    "h": "🔎 Was man nachschauen sollte",
-    "text": "Was im konkreten Fall tatsächlich vereinbart wurde, geben die zwei Seiten unterschiedlich wieder. Für eigene Fälle hilft eine Beratung bei Gewerkschaft, Kammer oder Beratungsstelle."
    }
   ]
  },
