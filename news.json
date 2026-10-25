@@ -1,50 +1,414 @@
 {
- "generated": "2026-10-25T04:42:34.047706+00:00",
+ "generated": "2026-10-25T11:31:00.677691+00:00",
  "briefing": [
-  "n916852829a",
+  "n342a7377f6",
   "n8d3ffd0373",
-  "n9092c3509f",
+  "ndc88bddd6f",
+  "ne8897c6923",
   "n5f19911a55",
-  "nb64c061e0a",
-  "n2c1cdb71e8",
-  "n116c5a1325",
-  "nfd55153f76"
+  "n40ea3210ec",
+  "na93a9902ce",
+  "nf9dd046064",
+  "n33e9fe3007"
  ],
  "ranked": [
   {
-   "id": "n916852829a",
-   "s": 37.0
+   "id": "n342a7377f6",
+   "s": 32.3
   },
   {
    "id": "n8d3ffd0373",
-   "s": 29.7
+   "s": 28.0
   },
   {
-   "id": "n9092c3509f",
-   "s": 27.0
+   "id": "ndc88bddd6f",
+   "s": 27.7
+  },
+  {
+   "id": "ne8897c6923",
+   "s": 27.5
   },
   {
    "id": "n5f19911a55",
-   "s": 25.8
+   "s": 24.1
   },
   {
-   "id": "nb64c061e0a",
-   "s": 24.3
+   "id": "n40ea3210ec",
+   "s": 23.1
   },
   {
-   "id": "n2c1cdb71e8",
-   "s": 23.9
+   "id": "na93a9902ce",
+   "s": 22.9
   },
   {
-   "id": "n116c5a1325",
-   "s": 22.8
+   "id": "nf9dd046064",
+   "s": 22.9
   },
   {
-   "id": "nfd55153f76",
-   "s": 20.7
+   "id": "n33e9fe3007",
+   "s": 17.0
   }
  ],
  "items": [
+  {
+   "id": "na93a9902ce",
+   "topic": "politik",
+   "title": "VW-Tochter - Audi lässt Trump im Wahlkampf Bau eines US-Werks verkünden",
+   "text": "Audi baut für vier Milliarden Dollar sein erstes eigenes Werk in den USA. Das kündigte US-Präsident Trump bei einer Wahlkampfveranstaltung im Bundesstaat Georgia an. Er rief dann Audi-Chef Döllner auf die Bühne, der Trump für dessen Unterstützung dankte.",
+   "link": "https://www.deutschlandfunk.de/audi-laesst-trump-im-wahlkampf-bau-eines-us-werks-verkuenden-100.html",
+   "published": "2026-10-25T11:18:28+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-27T11:18:28+00:00",
+   "img": "https://bilder.deutschlandfunk.de/b7/83/77/98/b7837798-d1f0-4936-a67d-9e3775620a3e/audi-suvs-in-usa-100-1280x1280.jpg"
+  },
+  {
+   "id": "nf9dd046064",
+   "topic": "politik",
+   "title": "Nordirak - Iranische Revolutionsgarden greifen Kurden-Stützpunkt an",
+   "text": "Die iranischen Revolutionsgarden haben Staatsmedien zufolge erneut kurdische Stellungen im Nachbarland Irak mit Drohnen angegriffen.",
+   "link": "https://www.deutschlandfunk.de/iranische-revolutionsgarden-greifen-kurden-stuetzpunkt-an-100.html",
+   "published": "2026-10-25T11:18:28+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-27T11:18:28+00:00",
+   "img": "https://bilder.deutschlandfunk.de/d2/76/ac/22/d276ac22-bc14-4151-b876-aa275f31b70c/iran-drohnen-100-512x512.jpg"
+  },
+  {
+   "id": "n7608ecdba2",
+   "topic": "politik",
+   "title": "Migration - Frontex soll zentrale \"EU-Abschiebeagentur\" werden",
+   "text": "EU-Migrationskommissar Brunner will Frontex zur zentralen Abschiebeagentur machen. Das sagte er der \"Welt am Sonntag\". Man setze die europäische Migrationswende konsequent fort.",
+   "link": "https://www.deutschlandfunk.de/frontex-soll-zentrale-eu-abschiebeagentur-werden-100.html",
+   "published": "2026-10-25T11:18:28+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-27T11:18:28+00:00",
+   "img": "https://bilder.deutschlandfunk.de/ea/f9/c0/08/eaf9c008-2145-46a2-b69b-1c6d457cdb15/eu-grenze-frontex-100-1920x1920.jpg"
+  },
+  {
+   "id": "n3529ed9cd9",
+   "topic": "politik",
+   "title": "Portugal - Polizei in Lissabon löst Protestcamp gegen Wohnungsnot auf",
+   "text": "Die portugiesische Polizei hat in den frühen Morgenstunden ein Protestcamp gegen die Wohnungsnot im ‌Zentrum von Lissabon ⁠geräumt.",
+   "link": "https://www.deutschlandfunk.de/polizei-in-lissabon-loest-protestcamp-gegen-wohnungsnot-auf-102.html",
+   "published": "2026-10-25T11:18:28+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-27T11:18:28+00:00",
+   "img": "https://bilder.deutschlandfunk.de/e4/32/9d/eb/e4329deb-74d8-4c98-b205-09aea33a0e71/lissabon-protestcamp-100-1920x1920.jpg"
+  },
+  {
+   "id": "n54298de4af",
+   "topic": "politik",
+   "title": "Bundesliga - FC Augsburg verurteilt rassistische Angriffe auf Spieler Juma Bah",
+   "text": "Fußball-Bundesligist FC Augsburg hat rassistische Beleidigungen gegen seinen Abwehrspieler Juma Bah scharf verurteilt. Man sei erschüttert über diesen Hass, erklärte der Verein. Der 20-Jährige aus Sierra Leone war nach dem Spiel gegen den 1. FC Union Berlin in den sozialen Netzwerken verbal angegriffen worden.",
+   "link": "https://www.deutschlandfunk.de/fc-augsburg-verurteilt-rassistische-angriffe-auf-spieler-juma-bah-100.html",
+   "published": "2026-10-25T11:18:28+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-27T11:18:28+00:00",
+   "img": "https://bilder.deutschlandfunk.de/49/7a/6c/df/497a6cdf-5f5e-443b-a2e7-75c6ea74ef37/abdulai-juma-bah-100-1920x1920.jpg"
+  },
+  {
+   "id": "ndb0832dcbd",
+   "topic": "politik",
+   "title": "Baden-Württemberg - Stromausfall in Freiburg: Haushalte wieder am Netz",
+   "text": "In Freiburg im Breisgau ist wegen eines Unwetters zeitweise der Strom ausgefallen.",
+   "link": "https://www.deutschlandfunk.de/stromausfall-in-freiburg-haushalte-wieder-am-netz-100.html",
+   "published": "2026-10-25T11:18:28+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-27T11:18:28+00:00",
+   "img": "https://bilder.deutschlandfunk.de/6d/9c/3c/c8/6d9c3cc8-d257-4c0f-b6be-034a58f835e7/freiburg-strom-leitung-stronleitung-sturm-wind-schaeden-reparatur-100-1920x1920.jpg"
+  },
+  {
+   "id": "na14ce56642",
+   "topic": "nfl",
+   "title": "Sunday Night Football: How to watch the Kansas City Chiefs vs. Seattle Seahawks game tonight",
+   "text": "Here's how to tune into Sunday Night Football tonight without cable.",
+   "link": "https://sports.yahoo.com/nfl/article/sunday-night-football-how-to-watch-the-kansas-city-chiefs-vs-seattle-seahawks-game-tonight-111500681.html",
+   "published": "2026-10-25T11:15:00+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-30T11:15:00+00:00"
+  },
+  {
+   "id": "nb6a25d076f",
+   "topic": "welt",
+   "title": "Audi kündigt US-Werk an - auf Trumps Wahlkampftour",
+   "text": "Immer wieder droht Trump ausländischen Unternehmen mit hohen Zöllen. Nun kündigte Audi den Bau seines ersten Werks in den USA an. Auf einer Wahlkampfveranstaltung durfte der US-Präsident damit auch für sich werben.",
+   "link": "https://www.tagesschau.de/ausland/amerika/audi-usa-trump-100.html",
+   "published": "2026-10-25T11:14:29+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T11:14:29+00:00",
+   "img": "https://images.tagesschau.de/image/2d475b55-fad5-4039-b944-32c6bc3a8b2b/AAABoXHj9CA/AAABnSSvrFg/16x9-big/audi-trump-100.jpg?width=1920"
+  },
+  {
+   "id": "n83c39a6b6c",
+   "topic": "politik",
+   "title": "Amanal Petros verpasst Heimsieg beim Frankfurt Marathon 2026 nur knapp",
+   "text": "Amanal Petros hat beim Frankfurt Marathon 2026 ein starkes Rennen hingelegt - nur einer war noch besser.",
+   "link": "https://www.hessenschau.de/sport/mehr-sport/frankfurt-marathon/amanal-petros-verpasst-heimsieg-beim-frankfurt-marathon-2026-nur-knapp-v1,frankfurt-marathon-ergebnisse-100.html",
+   "published": "2026-10-25T11:11:10+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-29T11:11:10+00:00",
+   "img": "https://www.hessenschau.de/sport/mehr-sport/frankfurt-marathon/marathon-petros-106~_t-1792926670306_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "nf5a159edaf",
+   "topic": "it",
+   "title": "Keine Ablösung von Microsoft Office: Dänemark beendet Collabora-Test",
+   "text": "Dänemark hat einen Test mit Collabora beendet. Damit bleibt offen, wie realistisch der Abschied von Microsoft Office in Behörden ist. ( Office , Office-Suite )",
+   "link": "https://www.golem.de/news/keine-abloesung-von-microsoft-office-daenemark-beendet-collabora-test-2610-214483.html",
+   "published": "2026-10-25T11:07:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-30T11:07:02+00:00",
+   "img": "https://www.golem.de/2610/214483-605113-605111_rc.jpg"
+  },
+  {
+   "id": "n7397a50a88",
+   "topic": "nfl",
+   "title": "Browns extend defensive player with $30 million deal overnight",
+   "text": "Talented run defender gets two more years.",
+   "link": "https://sports.yahoo.com/articles/browns-extend-defensive-player-30-110551076.html",
+   "published": "2026-10-25T11:05:51+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-30T11:05:51+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/696d426c161dfccccd9877e0d8a48a46.jpg"
+  },
+  {
+   "id": "naa9fcacd89",
+   "topic": "politik",
+   "title": "Sturmtief \"Manja\" fegt über Deutschland",
+   "text": "Stromausfall in Freiburg, mögliche Sturmflut und orkanartige Böen an der Nordsee: Sturm und Regen bestimmen heute das Wetter in Deutschland, es gab bereits zahlreiche Einsätze. Für Teile des Landes galten Warnungen.",
+   "link": "https://www.tagesschau.de/inland/wetter-sturm-112.html",
+   "published": "2026-10-25T10:56:53+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T10:56:53+00:00",
+   "img": "https://images.tagesschau.de/image/884a8128-5302-4953-b831-e6cb3740a0ab/AAABoXKb0S8/AAABnSSvrFg/16x9-big/unwetter-baden-wuerttemberg-110.jpg?width=1920"
+  },
+  {
+   "id": "n58b60e5b89",
+   "topic": "welt",
+   "title": "Großbrand am Kehlsteinhaus: Feuer wieder aufgeflammt",
+   "text": "Der Brand an Hitlers Kehlsteinhaus im früheren Nazi-Sperrgebiet Obersalzberg war gelöscht. Nun musste die Feuerwehr in der Nacht erneut ausrücken.",
+   "link": "https://www.dw.com/de/großbrand-am-kehlsteinhaus-feuer-wieder-aufgeflammt/a-79754334?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-25T10:45:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-29T10:45:00+00:00",
+   "img": "https://static.dw.com/image/79754182_302.jpg"
+  },
+  {
+   "id": "ndb26215d1d",
+   "topic": "it",
+   "title": "Local Wikipedia: Suchmaschine zeigt interessante Orte in Laufreichweite an",
+   "text": "Ob Sehenswürdigkeiten, Clubs, Museen oder Fun Facts: Local Wikipedia gibt Wikipedia-Artikel aus, die zum eingegebenen Standort passen. ( Wikipedia , Suchmaschine )",
+   "link": "https://www.golem.de/news/local-wikipedia-suchmaschine-zeigt-interessante-orte-in-laufreichweite-an-2610-214482.html",
+   "published": "2026-10-25T10:36:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-30T10:36:01+00:00",
+   "img": "https://www.golem.de/2610/214482-605108-605106_rc.jpg"
+  },
+  {
+   "id": "n1deb15abca",
+   "topic": "welt",
+   "title": "Vor Midterms: Ex-US-Präsident Obama schaltet sich in Wahlkampf mit Trump-Kritik ein",
+   "text": "Die Demokraten hoffen bei den Zwischenwahlen auf einen Sieg. Nun gibt es Wahlkampfhilfe vom früheren US-Präsidenten Obama. Der wirft Trump Korruption vor - und lästert über die Renovierungsarbeiten im Weißen Haus.",
+   "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-wahl-102.html",
+   "published": "2026-10-25T10:35:11+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T10:35:11+00:00",
+   "img": "https://images.tagesschau.de/image/99deff4b-d50e-4e7b-9c89-3c6ec5ff3798/AAABoXJueMA/AAABnSSvrFg/16x9-big/obama-954.jpg?width=1920"
+  },
+  {
+   "id": "n7d26b0ba29",
+   "topic": "it",
+   "title": "„Tal der Tränen“: Warum Angreifer bei Sicherheitslücken derzeit im Vorteil sind",
+   "text": "Ein Experte der Cyberagentur des Bundes erklärt, warum Sicherheitslücken wie die PHP-Schwachstelle derzeit zunehmen und wie KI künftig helfen könnte.",
+   "link": "https://www.heise.de/news/Cyberagentur-Software-Schwachstellen-bleiben-laenger-ein-Problem-11499379.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-25T10:28:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-30T10:28:00+00:00"
+  },
+  {
+   "id": "nc557603a13",
+   "topic": "it",
+   "title": "heise+ | Desinfec't: Defekten Grub-Bootloader unter Linux wiederherstellen",
+   "text": "Wenn Linux nicht mehr von selbst bootet, können Sie den Desinfec't-Bootloader benutzen oder mit Desinfec't Ihr installiertes Linux reparieren.",
+   "link": "https://www.heise.de/ratgeber/Desinfec-t-Defekten-Grub-Bootloader-unter-Linux-wiederherstellen-11488347.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+   "published": "2026-10-25T10:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-30T10:00:00+00:00"
+  },
+  {
+   "id": "nf45dc6f90f",
+   "topic": "ki",
+   "title": "Nvidias offene Daten-Engine Flora soll Robotikdaten 125-mal günstiger beschriften als GPT-6 Astra",
+   "text": "Nvidias neue Daten-Engine Flora soll eine Stunde Robotervideo für 72 Cent annotieren statt für 88 Dollar mit GPT-6 Astra, bei leicht besserer Qualität. Das offene System aus drei feinjustierten Qwen3.5-Modellen erkennt Fehler in Roboteraktionen deutlich zuverlässiger als die Konkurrenz, schwächelt aber teils bei …",
+   "link": "https://the-decoder.de/nvidias-offene-daten-engine-flora-soll-robotikdaten-125-mal-guenstiger-beschriften-als-gpt-6-astra/",
+   "published": "2026-10-25T09:45:49+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-01T09:45:49+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/nvidia-flora-hero-robot-hands.jpg"
+  },
+  {
+   "id": "nb926d4f324",
+   "topic": "ki",
+   "title": "Anthropic-Mitgründer zieht Prognose für sich selbst verbessernde KI auf 2027 vor",
+   "text": "Ein Test von P-Zero Research soll zeigen, dass KI-Modelle beim Entwerfen und Auswerten von Experimenten rasant zulegen. Anthropic-Mitgründer Jack Clark hält selbstverbessernde KI deshalb schon 2027 für möglich. Der Artikel Anthropic-Mitgründer zieht Prognose für sich selbst verbessernde KI auf 2027 vor erschien zuerst …",
+   "link": "https://the-decoder.de/anthropic-mitgruender-zieht-prognose-fuer-sich-selbst-verbessernde-ki-auf-2027-vor/",
+   "published": "2026-10-25T09:26:46+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-01T09:26:46+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/tasteval_and_rsi.png"
+  },
+  {
+   "id": "n6a060a44ba",
+   "topic": "welt",
+   "title": "Proteste in Europa - auch mit Gewalt",
+   "text": "Nicht nur Frankreich - auch in vielen anderen europäischen Ländern wurde wieder protestiert. Dabei kam es mancherorts erneut zu Auseinandersetzungen mit der Polizei. Insgesamt melden die Behörden aber weniger Gewalt als am vergangenen Wochenende.",
+   "link": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-spanien-italien-protugal-albanien-100.html",
+   "published": "2026-10-25T08:55:32+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T08:55:32+00:00",
+   "img": "https://images.tagesschau.de/image/12480ce0-3910-4aae-b5a6-7b2d310c06d9/AAABoXIyT6w/AAABnSSvrFg/16x9-big/frankreich-proteste-238.jpg?width=1920"
+  },
+  {
+   "id": "n342a7377f6",
+   "topic": "welt",
+   "title": "Israel will Westjordanland am Wahltag abriegeln",
+   "text": "Vor der Parlamentswahl in Israel verschärft die Armee ihr Vorgehen im Westjordanland. Demnach sollen sämtliche Übergänge zu dem Palästinensergebiet geschlossen werden, teilte das Militär mit.",
+   "link": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-lockdown-parlamentswahlen-100.html",
+   "published": "2026-10-25T08:51:16+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T08:51:16+00:00",
+   "img": "https://images.tagesschau.de/image/d97311c9-8348-4f07-b955-1d558d3fb4b3/AAABoXEMPS8/AAABnSSvrFg/16x9-big/israel-westjordanland-144.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Israel beginnt \"Anti-Terror-Einsatz\" im Westjordanland",
+     "link": "https://www.dw.com/de/israel-beginnt-anti-terror-einsatz-im-westjordanland/a-79749417?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "n4c12d55302",
+   "topic": "ki",
+   "title": "Weniger ist mehr: Anthropic rät zum einzelnen KI-Agent statt zu vielen Subagenten",
+   "text": "Anthropic rät Unternehmen, Multi-Agent-Architekturen zugunsten eines einzelnen Hauptagenten mit bedarfsweise geladenem Kontext aufzugeben. In einem Kundenfall habe das die Geschwindigkeit verdoppelt. Für den Umbau stellt Anthropic ein Migrations-Kit auf GitHub bereit. Der Artikel Weniger ist mehr: Anthropic rät zum …",
+   "link": "https://the-decoder.de/weniger-ist-mehr-anthropic-raet-zum-einzelnen-ki-agent-statt-zu-vielen-subagenten/",
+   "published": "2026-10-25T08:42:10+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-01T08:42:10+00:00"
+  },
+  {
+   "id": "n737a4ab3f5",
+   "topic": "welt",
+   "title": "Mehr als 1000 Festnahmen nach neuen Protesten in Frankreich",
+   "text": "Die Demonstrationen in Frankreich reißen nicht ab. Am Samstag gingen wieder Hunderttausende auf die Straße. Die Polizei nahm mehr als 1000 Menschen fest. Allerdings gab es weniger Gewalt als am Wochenende zuvor.",
+   "link": "https://www.dw.com/de/mehr-als-1000-festnahmen-nach-neuen-protesten-in-frankreich/a-79753740?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-25T08:29:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-29T08:29:00+00:00",
+   "img": "https://static.dw.com/image/79751809_302.jpg",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Landesweite Proteste - Erneut Ausschreitungen in Frankreich - laut Innenministerium fast 1.000 Festnahmen",
+     "link": "https://www.deutschlandfunk.de/erneut-ausschreitungen-in-frankreich-laut-innenministerium-fast-1-000-festnahmen-102.html"
+    }
+   ]
+  },
+  {
+   "id": "n7c5cb05a45",
+   "topic": "it",
+   "title": "„Tomb Raider“: Der Hit, der Core Design zum Verhängnis wurde",
+   "text": "Vor 30 Jahren sprang Lara Croft erstmals durch die 3D-Welten von „Tomb Raider“. Sie wurde zur Gaming-Ikone, aber auch zum Fluch für das Entwicklerteam.",
+   "link": "https://www.heise.de/hintergrund/30-Jahre-Tomb-Raider-Zum-Erfolg-verdammt-11495198.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-25T08:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-30T08:00:00+00:00"
+  },
+  {
+   "id": "nad22a68580",
+   "topic": "welt",
+   "title": "Musk wirft Ukraine Verstoß bei Starlink-Nutzung vor",
+   "text": "Tech-Milliardär Musk wirft der Ukraine vor, seinen Satelliten-Internetdienst Starlink für tödliche Drohnenangriffe missbraucht zu haben. Das System sei kein \"Mittel zum Töten\", sagte Musk. Die Sicherheitslücke sei inzwischen aber geschlossen.",
+   "link": "https://www.tagesschau.de/ausland/amerika/musk-ukraine-starlink-100.html",
+   "published": "2026-10-25T07:45:03+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T07:45:03+00:00",
+   "img": "https://images.tagesschau.de/image/3c5fc449-1908-4f6a-928a-9513ee37095c/AAABoVvgNgs/AAABnSSvrFg/16x9-big/elon-musk-294.jpg?width=1920"
+  },
+  {
+   "id": "ncc25a43160",
+   "topic": "wissenschaft",
+   "title": "Freistetters Formelwelt: Der unüberwindbare Primzahl-Graben",
+   "text": "Welchen Abstand können aufeinanderfolgende Primzahlen höchstens haben? Mit dieser Frage hängt ein offenes Problem der Mathematik zusammen, das eine KI nun vielleicht gelöst hat.",
+   "link": "https://www.spektrum.de/kolumne/freistetters-formelwelt-freistteters-formelwelt/2350943",
+   "published": "2026-10-25T07:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-08T07:00:00+00:00"
+  },
+  {
+   "id": "n8040a6a431",
+   "topic": "wissenschaft",
+   "title": "Welcher Wert ist gesucht?",
+   "text": "Wie viele Stufen der Rolltreppe müsste der Manager hinaufsteigen, wenn sie sich nicht bewegen würde?",
+   "link": "https://www.spektrum.de/raetsel/welcher-wert-ist-gesucht/2266202",
+   "published": "2026-10-25T07:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-08T07:00:00+00:00"
+  },
   {
    "id": "n9d084f97c4",
    "topic": "nfl",
@@ -82,7 +446,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-28T04:07:12+00:00",
-   "img": "https://images.tagesschau.de/image/d1655185-f8a9-452b-87c9-ae485a7ca38c/AAABoWuZ1jc/AAABnSSvrFg/16x9-big/lula-bolsonaro-102.jpg?width=1920",
+   "img": "https://images.tagesschau.de/image/9ac8c9bf-ce83-4fd4-85c7-c284fe8da23d/AAABoXH7A5k/AAABnSSvrFg/16x9-big/brasilien-726.jpg?width=1920",
    "also": [
     {
      "source": "Deutschlandfunk",
@@ -106,8 +470,8 @@
    "also": [
     {
      "source": "Deutsche Welle",
-     "title": "Mehr als 100 Festnahmen bei Protesten in Frankreich",
-     "link": "https://www.dw.com/de/mehr-als-100-festnahmen-bei-protesten-in-frankreich/a-79750898?maca=de-rss-de-all-1119-xml-mrss"
+     "title": "Mehr als 1000 Festnahmen nach neuen Protesten in Frankreich",
+     "link": "https://www.dw.com/de/mehr-als-1000-festnahmen-nach-neuen-protesten-in-frankreich/a-79753740?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -216,8 +580,8 @@
   {
    "id": "nd0e6f74334",
    "topic": "wissenschaft",
-   "title": "Sommerzeit beendet - Uhren um eine Stunde zurückgedreht",
-   "text": "Es ist wieder so weit: Die Sommerzeit ist zu Ende, die Uhren wurden um eine Stunde zurückgestellt. Auch wenn es in der ersten Nacht Vorteile bringt, sind die meisten Menschen nicht zufrieden mit der Zeitumstellung.",
+   "title": "Sommerzeit beendet - Uhren um eine Stunde zurückgestellt",
+   "text": "Die Sommerzeit ist zu Ende, die Uhren wurden um eine Stunde zurückgestellt. Auch wenn es in der ersten Nacht Vorteile bringt, sind die meisten Menschen nicht zufrieden mit der Zeitumstellung.",
    "link": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-sommerzeit-138.html",
    "published": "2026-10-25T01:11:58+00:00",
    "source": "Tagesschau",
@@ -411,8 +775,8 @@
    "also": [
     {
      "source": "Deutsche Welle",
-     "title": "Mehr als 100 Festnahmen bei Protesten in Frankreich",
-     "link": "https://www.dw.com/de/mehr-als-100-festnahmen-bei-protesten-in-frankreich/a-79750898?maca=de-rss-de-all-1119-xml-mrss"
+     "title": "Mehr als 1000 Festnahmen nach neuen Protesten in Frankreich",
+     "link": "https://www.dw.com/de/mehr-als-1000-festnahmen-nach-neuen-protesten-in-frankreich/a-79753740?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -456,7 +820,7 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Sommerzeit beendet - Uhren um eine Stunde zurückgedreht",
+     "title": "Sommerzeit beendet - Uhren um eine Stunde zurückgestellt",
      "link": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-sommerzeit-138.html"
     }
    ]
@@ -484,14 +848,25 @@
    "source": "Deutsche Welle",
    "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
    "lang": "de",
-   "expires": "2026-10-28T19:20:00+00:00",
-   "img": "https://static.dw.com/image/79738242_302.jpg"
+   "expires": "2026-10-28T19:20:00+00:00"
+  },
+  {
+   "id": "nb1f5f4beb5",
+   "topic": "welt",
+   "title": "Vorgezogene Parlamentswahlen in Serbien: Machtwechsel oder weiter mit Aleksandar Vucic?",
+   "text": "Kommt es zum Showdown gegen den langjährigen Machthaber und Ex-Präsidenten Staatschef Aleksandar Vucic? Bei den vorgezogenen Parlamentswahlen in Serbien am Sonntag geht es um einen politischen Richtungswechsel im Land.",
+   "link": "https://www.dw.com/de/vorgezogene-parlamentswahlen-in-serbien-machtwechsel-oder-weiter-mit-aleksandar-vucic/a-79750692?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-24T19:20:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-28T19:20:00+00:00"
   },
   {
    "id": "n98ebb00de7",
    "topic": "welt",
    "title": "Hunderttausende protestieren in Frankreich - neue Unruhen",
-   "text": "Eine Woche nach den schweren Ausschreitungen in Frankreich haben heute landesweit mehr als 400.000 Menschen demonstriert. Nach einem friedlichen Beginn kam es am Abend zu Zusammenstößen mit der Polizei. Fast 1.000 Menschen wurden festgenommen.",
+   "text": "Eine Woche nach den schweren Ausschreitungen in Frankreich haben am Samstag landesweit mehr als 400.000 Menschen demonstriert. Nach einem friedlichen Beginn kam es am Abend zu Zusammenstößen mit der Polizei. Fast 1.000 Menschen wurden festgenommen.",
    "link": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html",
    "published": "2026-10-24T19:00:39+00:00",
    "source": "Tagesschau",
@@ -585,8 +960,8 @@
    "also": [
     {
      "source": "Deutsche Welle",
-     "title": "Mehr als 100 Festnahmen bei Protesten in Frankreich",
-     "link": "https://www.dw.com/de/mehr-als-100-festnahmen-bei-protesten-in-frankreich/a-79750898?maca=de-rss-de-all-1119-xml-mrss"
+     "title": "Mehr als 1000 Festnahmen nach neuen Protesten in Frankreich",
+     "link": "https://www.dw.com/de/mehr-als-1000-festnahmen-nach-neuen-protesten-in-frankreich/a-79753740?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -833,11 +1208,6 @@
      "source": "Deutschlandfunk",
      "title": "Nach tödlichem Angriff - Israelische Armee startet Großoffensive im Westjordanland",
      "link": "https://www.deutschlandfunk.de/israelische-armee-startet-grossoffensive-im-westjordanland-104.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Israel beginnt \"Anti-Terror-Einsatz\" im Westjordanland",
-     "link": "https://www.dw.com/de/israel-beginnt-anti-terror-einsatz-im-westjordanland/a-79749417?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -1131,11 +1501,6 @@
      "source": "Tagesschau",
      "title": "Israelische Armee startet Einsatz in Hebron",
      "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-102.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Israel beginnt \"Anti-Terror-Einsatz\" im Westjordanland",
-     "link": "https://www.dw.com/de/israel-beginnt-anti-terror-einsatz-im-westjordanland/a-79749417?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -1264,13 +1629,8 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Israelische Armee startet Einsatz in Hebron",
-     "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-102.html"
-    },
-    {
-     "source": "Deutschlandfunk",
-     "title": "Nach tödlichem Angriff - Israelische Armee startet Großoffensive im Westjordanland",
-     "link": "https://www.deutschlandfunk.de/israelische-armee-startet-grossoffensive-im-westjordanland-104.html"
+     "title": "Israel will Westjordanland am Wahltag abriegeln",
+     "link": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-lockdown-parlamentswahlen-100.html"
     }
    ]
   },
@@ -1386,411 +1746,6 @@
    "type": "Fachmedium (IT)",
    "lang": "de",
    "expires": "2026-10-29T08:03:00+00:00"
-  },
-  {
-   "id": "n1176b11de7",
-   "topic": "wissenschaft",
-   "title": "Serie: Bäume mit Zukunft: Die Esskastanie – stachelige Früchte und edles Holz",
-   "text": "Wer bei der Esskastanie nur an heiße Maroni denkt, verpasst, was diese Baumart noch alles zu bieten hat. In Teil 6 unserer Serie finden wir ein neues altes Multitalent im Wald.",
-   "link": "https://www.spektrum.de/news/baeume-mit-zukunft-teil-6-die-esskastanie/2319046",
-   "published": "2026-10-24T08:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-07T08:00:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/6_Esskastanie.jpg.8400729.jpg?f=1280x720"
-  },
-  {
-   "id": "ne4f230be3a",
-   "topic": "wissenschaft",
-   "title": "Diskussion um Zeitumstellung: Dauerhaft Winter- oder Sommerzeit: Was wäre gesünder?",
-   "text": "Über die Abschaffung der Zeitumstellung wird seit Jahren diskutiert. Vielen ist dabei nicht klar: Die oft favorisierte Lösung wäre wohl keineswegs die gesündere.",
-   "link": "https://www.spektrum.de/news/zeitumstellung-winterzeit-oder-sommerzeit-was-ist-gesuender/2348339",
-   "published": "2026-10-24T07:30:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-07T07:30:00+00:00"
-  },
-  {
-   "id": "n827571c16f",
-   "topic": "welt",
-   "title": "Polen: Historische Zeugnisse von NS-Verbrechen übergeben",
-   "text": "Knapp ein Jahr nach der gestoppten Versteigerung von Dokumenten von NS-Opfern sind die Artefakte in Warschau an Gedenkstätten, Museen und Archive in Polen sowie anderen europäischen Staaten übergeben worden.",
-   "link": "https://www.dw.com/de/polen-historische-zeugnisse-von-ns-verbrechen-übergeben/a-79747233?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-24T07:18:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-28T07:18:00+00:00",
-   "img": "https://static.dw.com/image/79746285_302.jpg"
-  },
-  {
-   "id": "n71ade17641",
-   "topic": "welt",
-   "title": "News kompakt: Sorge vor neuen Ausschreitungen in Paris",
-   "text": "In Frankreichs Hauptstadt fürchten nicht nur Ladenbesitzer eine neue Eskalation der Gewalt. 70.000 Polizisten sind im Einsatz. In der Nacht zu Sonntag endet die Sommerzeit in der EU. Der DW-Nachrichtenüberblick.",
-   "link": "https://www.dw.com/de/news-kompakt-sorge-vor-neuen-ausschreitungen-in-paris/a-79748108?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-24T07:12:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-28T07:12:00+00:00",
-   "img": "https://static.dw.com/image/79748381_302.jpg",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Landesweite Proteste - Erneut Ausschreitungen in Frankreich - laut Innenministerium fast 1.000 Festnahmen",
-     "link": "https://www.deutschlandfunk.de/erneut-ausschreitungen-in-frankreich-laut-innenministerium-fast-1-000-festnahmen-102.html"
-    }
-   ]
-  },
-  {
-   "id": "n403334893f",
-   "topic": "politik",
-   "title": "Cloud-Dienste - Amazon-Chef: Cloud-Kapazitäten wegen KI für 2027 und 2028 weitgehend ausgebucht",
-   "text": "Wegen der starken Nachfrage nach IT-Infrastruktur für Künstliche Intelligenz sind die Cloud-Kapazitäten von Amazon für die nächsten Jahre weitgehend vergeben.",
-   "link": "https://www.deutschlandfunk.de/amazon-chef-cloud-kapazitaeten-wegen-ki-fuer-2027-und-2028-weitgehend-ausgebucht-100.html",
-   "published": "2026-10-24T04:23:20+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T04:23:20+00:00",
-   "img": "https://bilder.deutschlandfunk.de/f3/f6/1e/0b/f3f61e0b-4d49-4b7b-90d5-5d44bea7fdcb/amazon-aws-cloud-stoerung-100-1920x1920.jpg"
-  },
-  {
-   "id": "nf4b11a9b81",
-   "topic": "politik",
-   "title": "Nahost - Israel startet \"Anti-Terror-Operation\" im Westjordanland nach tödlichem Schusswaffenangriff in Hebron",
-   "text": "Nach dem tödlichen Angriff auf israelische Soldaten in der Stadt Hebron hat die Armee nach eigenen Angaben eine Anti-Terror-Operation im Westjordanland gestartet. Dazu gehört unter anderem die Abriegelung der Stadt Hebron.",
-   "link": "https://www.deutschlandfunk.de/israel-startet-anti-terror-operation-im-westjordanland-nach-toedlichem-schusswaffenangriff-in-hebron-100.html",
-   "published": "2026-10-24T04:23:20+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T04:23:20+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Israelische Armee startet Einsatz in Hebron",
-     "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-102.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Israel beginnt \"Anti-Terror-Einsatz\" im Westjordanland",
-     "link": "https://www.dw.com/de/israel-beginnt-anti-terror-einsatz-im-westjordanland/a-79749417?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n40b14fac25",
-   "topic": "politik",
-   "title": "Proteste - Frankreich: 70.000 Polizisten sichern Demonstrationen - Sorge vor Ausschreitungen",
-   "text": "In Frankreich sind weitere landesweite Demonstrationen angekündigt.",
-   "link": "https://www.deutschlandfunk.de/frankreich-70-000-polizisten-sichern-demonstrationen-sorge-vor-ausschreitungen-102.html",
-   "published": "2026-10-24T04:23:20+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T04:23:20+00:00",
-   "img": "https://bilder.deutschlandfunk.de/NO/VA/_0/ea/NOVA_0eab99f641e7508923108c56f833e100/craft-13458715-asset-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Mehr als 100 Festnahmen bei Protesten in Frankreich",
-     "link": "https://www.dw.com/de/mehr-als-100-festnahmen-bei-protesten-in-frankreich/a-79750898?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n0806585f6c",
-   "topic": "politik",
-   "title": "Handelsstreit - USA hebt Zölle auf manche Produkte aus Kanada wieder auf - Druck von US-Grenzstaaten",
-   "text": "Die US-Regierung hat Zölle auf einige Agrarprodukte aus Kanada wieder aufgehoben.",
-   "link": "https://www.deutschlandfunk.de/usa-hebt-zoelle-auf-manche-produkte-aus-kanada-wieder-auf-druck-von-us-grenzstaaten-102.html",
-   "published": "2026-10-24T04:23:20+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T04:23:20+00:00",
-   "img": "https://bilder.deutschlandfunk.de/08/29/d9/33/0829d933-3387-426b-8f02-ec2b817ebf95/carney-trump-100-1920x1920.jpg"
-  },
-  {
-   "id": "n95dbb50bd5",
-   "topic": "politik",
-   "title": "Skandal um Kryptowährung - Verfahren gegen Argentiniens Präsidenten Milei eingestellt",
-   "text": "In Argentinien hat die Justiz ein Verfahren gegen Präsident Milei wegen Betrugsvorwürfen im Zusammenhang mit einer Kryptowährung eingestellt.",
-   "link": "https://www.deutschlandfunk.de/verfahren-gegen-argentiniens-praesidenten-milei-eingestellt-100.html",
-   "published": "2026-10-24T04:23:20+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T04:23:20+00:00",
-   "img": "https://bilder.deutschlandfunk.de/c8/f9/39/2e/c8f9392e-9d6f-4f6e-b359-34509c26a146/milei-argentinien-106-1920x1920.jpg"
-  },
-  {
-   "id": "n53494d7bd2",
-   "topic": "politik",
-   "title": "Ebola-Epidemie - Kenia meldet zweiten Todesfall",
-   "text": "Kenia hat einen zweiten Ebola-Todesfall gemeldet.",
-   "link": "https://www.deutschlandfunk.de/kenia-meldet-zweiten-todesfall-100.html",
-   "published": "2026-10-24T04:23:20+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T04:23:20+00:00",
-   "img": "https://bilder.deutschlandfunk.de/31/05/c3/7a/3105c37a-2b03-4622-8a8e-5c36564e33bc/kenia-ebola-100-1920x1920.jpg"
-  },
-  {
-   "id": "n9092c3509f",
-   "topic": "welt",
-   "title": "Brasilien vor der Stichwahl: Die Macht der Influencer",
-   "text": "Wer beherrscht die Sozialen Netzwerke? Diese Frage könnte in Brasilien wahlentscheidend sein. Im digitalen Wahlkampf kann Bolsonaro auf den erfolgreichsten Influencer des Landes zählen - doch auch die Linke hat dazugelernt. Von A. Herrberg.",
-   "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-influencer-100.html",
-   "published": "2026-10-24T04:13:03+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T04:13:03+00:00",
-   "img": "https://images.tagesschau.de/image/49149aff-1a39-4365-9bc9-ca5d1a9b956e/AAABoWOKbuY/AAABnSSvrFg/16x9-big/selfie-brasilien-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Brasilien - Stichwahl über das Präsidentenamt zwischen Lula und Bolsonaro",
-     "link": "https://www.deutschlandfunk.de/stichwahl-ueber-das-praesidentenamt-zwischen-lula-und-bolsonaro-104.html"
-    }
-   ]
-  },
-  {
-   "id": "ne35d7d9902",
-   "topic": "welt",
-   "title": "US-Midterms: Die Sorge vor einer neuen Wahllüge Trumps",
-   "text": "Seitdem Trump vor sechs Jahren gegen Biden verlor, leugnet er das Wahlergebnis. Die Lüge ist Doktrin in seiner Partei, viele US-Bürger haben sie verinnerlicht. Was, wenn die Republikaner nun die Zwischenwahlen verlieren sollten? Von C. Kühntopp.",
-   "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-trump-wahlbetrug-100.html",
-   "published": "2026-10-24T04:10:57+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T04:10:57+00:00",
-   "img": "https://images.tagesschau.de/image/4977a173-9125-438b-8829-a8dfddff63aa/AAABoWwMbfI/AAABnSSvrFg/16x9-big/trump-dallas-100.jpg?width=1920"
-  },
-  {
-   "id": "n1dec7a0453",
-   "topic": "nfl",
-   "title": "Seahawks sent mixed signals about whether Zach Charbonnet would play on Sunday",
-   "text": "The Seahawks sent plenty of mixed signals this week regarding the question of whether running back Zach Charbonnet would play on Sunday.",
-   "link": "https://sports.yahoo.com/articles/seahawks-sent-mixed-signals-whether-034154308.html",
-   "published": "2026-10-24T03:41:54+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-29T03:41:54+00:00"
-  },
-  {
-   "id": "n43e841a56a",
-   "topic": "nfl",
-   "title": "NFL predictions: Jets, Aaron Glenn face a must win game against winless Dolphins",
-   "text": "Let’s make some predictions!",
-   "link": "https://sports.yahoo.com/articles/nfl-predictions-jets-aaron-glenn-031654913.html",
-   "published": "2026-10-24T03:16:54+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-29T03:16:54+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/487ac003da2db7dbc0b5989e9dd72499.jpg"
-  },
-  {
-   "id": "n4bcd35331e",
-   "topic": "politik",
-   "title": "Wie sieht die Zukunft der Raffinerien aus?",
-   "text": "Deutschlands Raffinerien stehen vor einem grundlegenden Wandel: Weg von fossilen Rohstoffen, hin zu klimafreundlicheren Alternativen. Wirtschaftsministerin Reiche will dafür eine Strategie vorlegen. Doch Experten sind skeptisch. Von Oda Lambrecht.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/raffineriestrategie-100.html",
-   "published": "2026-10-24T01:06:57+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T01:06:57+00:00",
-   "img": "https://images.tagesschau.de/image/12519c40-0df6-4402-95d7-87335f1c683c/AAABnQVOSP0/AAABnSSvrFg/16x9-big/oel-142.jpg?width=1920"
-  },
-  {
-   "id": "n916852829a",
-   "topic": "welt",
-   "title": "Nach Anschlag auf Soldaten: Israel startet Operation im Westjordanland",
-   "text": "Nach den tödlichen Schüssen auf zwei Soldaten hat Israels Armee einen \"Anti-Terror-Einsatz\" im Westjordanland begonnen. Man suche dort nach Waffen und Terrorinfrastruktur. Israels Premier drohte zudem mit einem großangelegten Militäreinsatz.",
-   "link": "https://www.tagesschau.de/ausland/israel-westjordanland-militaeroperation-100.html",
-   "published": "2026-10-24T01:01:43+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T01:01:43+00:00",
-   "img": "https://images.tagesschau.de/image/165069c4-ef89-4bc5-a057-14b8a0dfd86e/AAABoWsq8OM/AAABnSSvrFg/16x9-big/israel-westjordanland-142.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Nach tödlichem Angriff - Israelische Armee startet Großoffensive im Westjordanland",
-     "link": "https://www.deutschlandfunk.de/israelische-armee-startet-grossoffensive-im-westjordanland-104.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Israel beginnt \"Anti-Terror-Einsatz\" im Westjordanland",
-     "link": "https://www.dw.com/de/israel-beginnt-anti-terror-einsatz-im-westjordanland/a-79749417?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "nf0617abfdf",
-   "topic": "nfl",
-   "title": "Cowboys' George Pickens brushes off Brian Schottenheimer's critique, says team needs to improve",
-   "text": "Schottenheimer challenged Pro Bowl WR George Pickens on his effort in the run game, Pickens talked about the team",
-   "link": "https://www.cbssports.com/nfl/news/cowboys-george-pickens-deflects-brian-schottenheimers-critique/",
-   "published": "2026-10-24T00:14:10+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-29T00:14:10+00:00"
-  },
-  {
-   "id": "n5fa0f83c24",
-   "topic": "nfl",
-   "title": "Giants-Texans final injury report: Tremaine Edmunds out, Micah McFadden in",
-   "text": "Giants get good news on the offensive line.",
-   "link": "https://sports.yahoo.com/articles/giants-texans-final-injury-report-200703412.html",
-   "published": "2026-10-23T21:12:43+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-28T21:12:43+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/41c6b6676a21efe4b605a1030aa14fc9.jpg"
-  },
-  {
-   "id": "ne8e34f0116",
-   "topic": "nfl",
-   "title": "NFL Week 7 betting advice: Eagles-Cowboys pick and props",
-   "text": "Are you betting on the Birds?",
-   "link": "https://sports.yahoo.com/articles/nfl-week-7-betting-advice-211206275.html",
-   "published": "2026-10-23T21:12:06+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-28T21:12:06+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/c7e9e53547098e5e3db02f73b390c294.jpg"
-  },
-  {
-   "id": "nf7b4b9d937",
-   "topic": "politik",
-   "title": "Warnung vor Sturmböen: Tiefs Luise und Manja ziehen nacheinander durch Hessen",
-   "text": "Erst Luise, dann Manja: Durch Hessen ziehen nacheinander zwei Sturmtiefs. Es drohen Böen von über 100 km/h und kräftiger Regen. In der neuen Woche folgt ein Wetter-Kontrast.",
-   "link": "https://www.hessenschau.de/panorama/warnung-vor-sturmboeen-tiefs-luise-und-manja-ziehen-nacheinander-durch-hessen-v2,wetter-stuerme-regen-100.html",
-   "published": "2026-10-23T19:56:51+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T19:56:51+00:00",
-   "img": "https://www.hessenschau.de/panorama/badhomburg-frankfurt-wolken-regen-100~_t-1792754764579_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "na2af8de32e",
-   "topic": "politik",
-   "title": "CSU-Chef Söder spricht von \"Herausforderung für die Demokratie\"",
-   "text": "CSU-Chef Söder sieht die Demokratie vor großen Herausforderungen. Er verlangte zudem finanzielle Entlastungen für die Bevölkerung. Es müsse etwas passieren, betonte der bayrische Ministerpräsident im Interview mit den tagesthemen.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/csu-soeder-138.html",
-   "published": "2026-10-23T19:45:20+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T19:45:20+00:00",
-   "img": "https://images.tagesschau.de/image/5aad0f93-8911-4b06-ae2d-b9eb439bba40/AAABoWnyfdg/AAABnSSvrFg/16x9-big/soeder-938.jpg?width=1920"
-  },
-  {
-   "id": "n59a98f9edb",
-   "topic": "nfl",
-   "title": "Lamar Jackson says he's 'heading in the right direction' for potential return vs. Bengals",
-   "text": "Baltimore's offense could be back at full strength soon as Jackson progresses toward a possible return against Cincinnati",
-   "link": "https://www.cbssports.com/nfl/news/lamar-jackson-injury-update-ravens-qb-return-bengals/",
-   "published": "2026-10-23T19:27:40+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-28T19:27:40+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/14/a1b79e15-886c-465e-8699-9ebce238b575/lamar-jackson-ravens-13.jpg"
-  },
-  {
-   "id": "n51091984a0",
-   "topic": "nfl",
-   "title": "Giants RB Cam Skattebo says he 'got taught a lesson' after surprise benching",
-   "text": "After being effectively benched and watching New York release Najee Harris days later, Skattebo acknowledged his situation",
-   "link": "https://www.cbssports.com/nfl/news/cam-skattebo-giants-benching-najee-harris-release/",
-   "published": "2026-10-23T19:04:47+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-28T19:04:47+00:00"
-  },
-  {
-   "id": "n0616e7c0ef",
-   "topic": "politik",
-   "title": "Neue Initiative - Acht Staaten setzen sich für freie Schifffahrt ein",
-   "text": "Deutschland und sieben weitere Staaten setzen sich nach den Worten von Außenminister Wadephul gemeinsam für Lösungen im Iran-Konflikt und für eine freie Schifffahrt ein.",
-   "link": "https://www.deutschlandfunk.de/acht-staaten-setzen-sich-fuer-freie-schifffahrt-ein-100.html",
-   "published": "2026-10-23T18:49:04+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-25T18:49:04+00:00",
-   "img": "https://bilder.deutschlandfunk.de/e7/92/25/46/e7922546-02be-49b2-8185-74240d323373/bundesaussenminister-wadephul-barrot-miliband-treffen-100-1920x1920.jpg"
-  },
-  {
-   "id": "n05072a32eb",
-   "topic": "politik",
-   "title": "Geplante Vergesellschaftung - Linken-Chef Pantisano stellt sich gegen Gewinnerzielung mit Mieten",
-   "text": "In der Debatte über eine Vergesellschaftung von Wohnungsunternehmen hat sich der Vorsitzende der Linkspartei, Pantisano, gegen die Gewinnerzielung mit Mieten ausgesprochen. Erträge aus Wohnungen seien für den Erhalt und bei Genossenschaften auch zur Schaffung neuer Wohnungen gedacht, sagte Pantisano im Interview der …",
-   "link": "https://www.deutschlandfunk.de/linken-chef-pantisano-stellt-sich-gegen-gewinnerzielung-mit-mieten-102.html",
-   "published": "2026-10-23T18:49:04+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-25T18:49:04+00:00",
-   "img": "https://bilder.deutschlandfunk.de/ed/bc/8a/74/edbc8a74-ab2a-4125-9ad9-a4383de98227/luigi-pantisano-100-1920x1920.jpg"
-  },
-  {
-   "id": "n4ddf3eb55b",
-   "topic": "politik",
-   "title": "CSU-Parteitag - Söder: \"Es geht jetzt um die Existenz der Volksparteien\"",
-   "text": "Der CSU-Vorsitzende Söder hat harte politische Auseinandersetzungen mit AfD und Linkspartei angekündigt. Es gehe jetzt um die Existenz der Volksparteien, sagte Söder zum Auftakt des CSU-Parteitags in München. Seine Partei werde dem Erstarken der Radikalen nicht tatenlos zusehen und es nicht zulassen, diesen das Land …",
-   "link": "https://www.deutschlandfunk.de/soeder-es-geht-jetzt-um-die-existenz-der-volksparteien-104.html",
-   "published": "2026-10-23T18:49:04+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-25T18:49:04+00:00",
-   "img": "https://bilder.deutschlandfunk.de/75/c0/6f/07/75c06f07-8299-4cf6-907b-1f77de961c7c/soeder-parteitag-102-1920x1920.jpg"
-  },
-  {
-   "id": "n03bf4f071d",
-   "topic": "politik",
-   "title": "Hannover - VW-Spitze, Betriebsrat und IG Metall ringen um Sparkurs",
-   "text": "​Die IG Metall und der VW-Betriebsrat fordern von Volkswagen die Rücknahme der Kündigung von Haustarifverträgen.",
-   "link": "https://www.deutschlandfunk.de/vw-spitze-betriebsrat-und-ig-metall-ringen-um-sparkurs-116.html",
-   "published": "2026-10-23T18:49:04+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-25T18:49:04+00:00",
-   "img": "https://bilder.deutschlandfunk.de/eb/91/7e/91/eb917e91-d617-4b93-ae53-45f5534c0fe3/vw-volkswagen-ig-metall-verhandlungen-standorte-zukunftstarifvertrag-100-1920x1920.jpg"
-  },
-  {
-   "id": "ne9a5320da0",
-   "topic": "politik",
-   "title": "Frankreich - Ein Toter und 5 Verletzte nahe Paris: Marcon geht von rassistisch motiviertem Terrorakt aus",
-   "text": "Frankreichs Präsident Macron hat den tödlichen Schusswaffenangriff nahe Paris mit einem Toten und fünf Verletzten als rassistisch motivierten Terrorakt bezeichnet.",
-   "link": "https://www.deutschlandfunk.de/ein-toter-und-5-verletzte-nahe-paris-marcon-geht-von-rassistisch-motiviertem-terrorakt-aus-100.html",
-   "published": "2026-10-23T18:49:04+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-25T18:49:04+00:00",
-   "img": "https://bilder.deutschlandfunk.de/94/31/bc/5b/9431bc5b-66f7-4bc9-8e2b-07ce2eedd3ab/frankreich-macron-102-1920x1920.jpg"
   }
  ]
 }
