@@ -1,50 +1,599 @@
 {
- "generated": "2026-10-26T04:48:22.904806+00:00",
+ "generated": "2026-10-26T13:04:44.360636+00:00",
  "briefing": [
-  "nb38b7721f5",
+  "nccb0b85026",
+  "n3fcc4bc6ab",
   "ne764794da1",
   "nb6a25d076f",
   "n1deb15abca",
-  "n58a92bdd05",
-  "nbbcccb03f8",
-  "nb2595ff044",
-  "n92220942de"
+  "n1c2617d040",
+  "nbcbea5bcce",
+  "n896d074c79",
+  "nbbcccb03f8"
  ],
  "ranked": [
   {
-   "id": "nb38b7721f5",
-   "s": 37.0
+   "id": "nccb0b85026",
+   "s": 41.5
+  },
+  {
+   "id": "n3fcc4bc6ab",
+   "s": 27.9
   },
   {
    "id": "ne764794da1",
-   "s": 29.9
+   "s": 27.8
   },
   {
    "id": "nb6a25d076f",
-   "s": 29.6
+   "s": 27.5
   },
   {
    "id": "n1deb15abca",
-   "s": 28.4
-  },
-  {
-   "id": "n58a92bdd05",
    "s": 27.0
   },
   {
+   "id": "n1c2617d040",
+   "s": 23.0
+  },
+  {
+   "id": "nbcbea5bcce",
+   "s": 23.0
+  },
+  {
+   "id": "n896d074c79",
+   "s": 23.0
+  },
+  {
    "id": "nbbcccb03f8",
-   "s": 23.0
-  },
-  {
-   "id": "nb2595ff044",
-   "s": 23.0
-  },
-  {
-   "id": "n92220942de",
-   "s": 21.6
+   "s": 20.9
   }
  ],
  "items": [
+  {
+   "id": "n7b4fa803e6",
+   "topic": "politik",
+   "title": "Mann kommt in brennendem Wohnwagen in Kassel ums Leben",
+   "text": "In den Flammen seines brennenden Wohnwagens ist in Kassel ein Mensch gestorben. Ein 66-Jähriger kam mit schweren Verletzungen ins Krankenhaus. Ein weiterer Mann blieb unverletzt.",
+   "link": "https://www.hessenschau.de/panorama/mann-kommt-in-brennendem-wohnwagen-in-kassel-ums-leben-v2,wohnwagenbrand-kassel-100.html",
+   "published": "2026-10-26T13:04:21+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-30T13:04:21+00:00",
+   "img": "https://www.hessenschau.de/panorama/wohnwagenbrand-104~_t-1792998384745_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "n03b3e30692",
+   "topic": "it",
+   "title": "95 Milliarden US-Dollar: Meta verkauft Anteile für gigantische KI-Investition",
+   "text": "Meta Plattforms braucht 95 Milliarden US-Dollar für weitere KI-Pläne. Der Werbemarkt bringt dafür nicht genug ein. ( Meta , Rechenzentrum )",
+   "link": "https://www.golem.de/news/95-milliarden-us-dollar-meta-verkauft-anteile-fuer-gigantische-ki-investition-2610-214517.html",
+   "published": "2026-10-26T13:00:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-31T13:00:02+00:00",
+   "img": "https://www.golem.de/2610/214517-605279-605277_rc.jpg"
+  },
+  {
+   "id": "nc9bee5688e",
+   "topic": "nfl",
+   "title": "Giants among NFL's biggest Week 7 winners; today's rare Sports Equinox with World Series, MNF, WNBA Finals",
+   "text": "Plus highlights from UFC 333, another chaotic weekend of college football and blockbuster NHL trade",
+   "link": "https://www.cbssports.com/nfl/news/giants-among-nfls-biggest-week-7-winners-todays-rare-sports-equinox-with-world-series-mnf-wnba-finals/",
+   "published": "2026-10-26T12:56:38+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-31T12:56:38+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/26/a55dbc41-553a-4ba7-bc6b-de85c9dc699b/untitled-design-2026-10-25t224644-396.png"
+  },
+  {
+   "id": "n6cc8758eea",
+   "topic": "nfl",
+   "title": "NFL Week 7 grades: Falcons earn solid 'A' mark, while Panthers flop with a resounding 'F'",
+   "text": "We're grading every game from Week 7 that has been played so far",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-7-grades-falcons-buccaneers-giants-panthers/",
+   "published": "2026-10-26T12:56:29+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-31T12:56:29+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/25/d6c522d9-f14d-4210-946a-16833baffc3d/atlanta-falcons.jpg"
+  },
+  {
+   "id": "n1c2617d040",
+   "topic": "politik",
+   "title": "Nach Auftritt des Audi-Chefs mit Trump - Niedersachsens Ministerpräsident Lies: Audi-Werk in den USA ist noch nicht beschlossen",
+   "text": "Der niedersächsische Ministerpräsident Lies hat sich der Kritik an Audi-Chef Döllner wegen dessen gemeinsamen Auftritts mit US-Präsident Trump angeschlossen. Eine Wahlkampfveranstaltung sei nicht der richtige Ort für die Ankündigung einer Investition dieser Größenordnung, sagte der SPD-Politiker.",
+   "link": "https://www.deutschlandfunk.de/niedersachsens-ministerpraesident-lies-audi-werk-in-den-usa-ist-noch-nicht-beschlossen-100.html",
+   "published": "2026-10-26T12:55:40+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T12:55:40+00:00",
+   "img": "https://bilder.deutschlandfunk.de/7b/c7/55/7e/7bc7557e-5d3d-4121-a46d-9e03867d228b/lies-100-1920x1920.jpg"
+  },
+  {
+   "id": "nbcbea5bcce",
+   "topic": "politik",
+   "title": "Angriffe gegen Neonazis - \"Antifa-Ost\"-Komplex: Angeklagter gestorben",
+   "text": "Einer der Angeklagten im sogenannten \"Antifa-Ost\"-Komplex ist tot.",
+   "link": "https://www.deutschlandfunk.de/antifa-ost-komplex-angeklagter-gestorben-100.html",
+   "published": "2026-10-26T12:55:40+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T12:55:40+00:00",
+   "img": "https://bilder.deutschlandfunk.de/60/b6/56/d5/60b656d5-a51c-4a8c-94f9-68792c02ce32/antifa-ost-komplex-angeklagte-prozess-linksextremisten-100-1920x1920.jpg"
+  },
+  {
+   "id": "n896d074c79",
+   "topic": "politik",
+   "title": "Koalitionsvorhaben - Union sieht ersten Gesetzentwurf für günstigeren Wohnungsbau noch skeptisch",
+   "text": "Der erste Gesetzentwurf des Justizministeriums für günstigeren Wohnungsbau stößt in der Union noch auf Skepsis. Der baupolitische Sprecher der Unionsfraktion, Luczak, äußerte Zweifel an dem Vorschlag, von bisher üblichen Standards nach unten abweichen zu können.",
+   "link": "https://www.deutschlandfunk.de/union-sieht-ersten-gesetzentwurf-fuer-guenstigeren-wohnungsbau-noch-skeptisch-100.html",
+   "published": "2026-10-26T12:55:40+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T12:55:40+00:00",
+   "img": "https://bilder.deutschlandfunk.de/70/7c/ab/b7/707cabb7-4fa6-4281-bc79-c8583a056695/neubau-bauland-rohbau-100-1920x1920.jpg"
+  },
+  {
+   "id": "neeee578a5a",
+   "topic": "politik",
+   "title": "Wahl in Brasilien - Von der Leyen und Merz gratulieren Lula da Silva",
+   "text": "EU-Kommissionspräsidentin von der Leyen hat Brasiliens Staatschef Lula da Silva zu dessen Wiederwahl gratuliert. Bei der Präsidentschaftsstichwahl in Lateinamerikas größter Volkswirtschaft hätten die Demokratie und der Multilateralismus gesiegt, erklärte von der Leyen im Onlinedienst X.",
+   "link": "https://www.deutschlandfunk.de/von-der-leyen-und-merz-gratulieren-lula-da-silva-100.html",
+   "published": "2026-10-26T12:55:40+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T12:55:40+00:00",
+   "img": "https://bilder.deutschlandfunk.de/a4/35/9d/07/a4359d07-439e-4aa7-95f7-683b390a17bb/lula-von-der-leyen-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Brasiliens Präsident Lula gewinnt Stichwahl, Bolsonaro erkennt das Ergebnis nicht an - News kompakt: Das Wichtigste kurz gefasst",
+     "link": "https://www.dw.com/de/brasiliens-präsident-lula-gewinnt-stichwahl-bolsonaro-erkennt-das-ergebnis-nicht-an-news-kompakt-das-wichtigste-kurz-gefasst/a-79759184?maca=de-rss-de-all-1119-xml-mrss"
+    },
+    {
+     "source": "Tagesschau",
+     "title": "Lula gewinnt Wahl in Brasilien - Bolsonaro erkennt Niederlage nicht an",
+     "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n596797a287",
+   "topic": "politik",
+   "title": "Nach Wahlsieg gegen Vucic - Wofür steht die Studentenbewegung in Serbien?",
+   "text": "In Serbien hat die Liste der neuen oppositionellen Studentenbewegung die vorgezogene Parlamentswahl gewonnen. Sie erreichte mit gut 52 Prozent der Stimmen die absolute Mehrheit. Der langjährige Machthaber Vucic räumte die Niederlage seiner Partei ein. Wer nun Regierungschef wird, ist trotz des Wahlsiegs der …",
+   "link": "https://www.deutschlandfunk.de/wofuer-steht-die-studentenbewegung-in-serbien-100.html",
+   "published": "2026-10-26T12:55:40+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T12:55:40+00:00",
+   "img": "https://bilder.deutschlandfunk.de/1e/97/a1/0b/1e97a10b-bf16-4b98-8e87-04dc262cfbb6/ilija-srdanovic-serbien-wahl-parlamentswahl-machtwechsel-vucic-studentenliste-100-1920x1920.jpg"
+  },
+  {
+   "id": "nf11ede51d1",
+   "topic": "politik",
+   "title": "Thailand - Erdrutsche und Überschwemmungen auf beliebter Urlaubsinsel Phuket",
+   "text": "Auf der thailändischen Insel Phuket hat es nach schweren Regenfällen Erdrutsche und Überschwemmungen gegeben.",
+   "link": "https://www.deutschlandfunk.de/erdrutsche-und-ueberschwemmungen-auf-beliebter-urlaubsinsel-phuket-100.html",
+   "published": "2026-10-26T12:55:40+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T12:55:40+00:00",
+   "img": "https://bilder.deutschlandfunk.de/32/dc/56/6d/32dc566d-9f73-4c38-83d6-e7e98f24db93/thailand-insel-phuket-erdrutsche-ueberschwemmung-regen-100-768x768.jpg"
+  },
+  {
+   "id": "n3fcc4bc6ab",
+   "topic": "wirtschaft",
+   "title": "Audi-Chef bei Trump - Verstoß gegen Konzernregeln?",
+   "text": "US-Präsident Trump und Audi-Chef Döllner auf einer Bühne - das stößt auf scharfe Kritik. Der Vorstandsvorsitzende kündigte in den USA ein neues Werk an. Nun könnten die eigenen Konzernleitlinien für ihn zum Problem werden.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-us-werk-doellner-trump-100.html",
+   "published": "2026-10-26T12:48:59+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-29T12:48:59+00:00",
+   "img": "https://images.tagesschau.de/image/19fe1ab4-786c-4a6c-a36a-1721f8e3e265/AAABoXd_6EU/AAABnSSvrFg/16x9-big/gernot-doellner-102.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "VW-Tochter - Audi lässt Trump im Wahlkampf Bau eines US-Werks verkünden - Auftritt von Audi-Chef verstößt gegen eigene Richtlinien",
+     "link": "https://www.deutschlandfunk.de/audi-laesst-trump-im-wahlkampf-bau-eines-us-werks-verkuenden-auftritt-von-audi-chef-verstoesst-gegen-102.html"
+    }
+   ]
+  },
+  {
+   "id": "nf1bf536983",
+   "topic": "nfl",
+   "title": "Baker Mayfield: Sunday's win was a statement of our potential",
+   "text": "Buccaneers quarterback Baker Mayfield said his right thumb might be a little sore after Sunday's win over the Panthers moved the team to 2-5, but he did it with a smile because the cause of the soreness was how often he handed the ball off.",
+   "link": "https://sports.yahoo.com/articles/baker-mayfield-sundays-win-statement-124450818.html",
+   "published": "2026-10-26T12:44:50+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-31T12:44:50+00:00"
+  },
+  {
+   "id": "ne4f5ee1b72",
+   "topic": "it",
+   "title": "Apple verkauft Ersatzteile für iPhone 18 Pro und neue Macs",
+   "text": "Apple erweitert den Repair-Shop: Wer möchte, erhält nun Originalteile für neue iPhones und Macs. Billig sind sie nicht. Fürs Duo erschien das Reparaturhandbuch.",
+   "link": "https://www.heise.de/news/Apple-verkauft-Ersatzteile-fuer-iPhone-18-Pro-und-neue-Macs-11495922.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-26T12:44:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-31T12:44:00+00:00"
+  },
+  {
+   "id": "nde94c2bffa",
+   "topic": "nfl",
+   "title": "Kenneth Walker III explains why he didn't shake hands with Seahawks after Chiefs' loss: 'I was frustrated'",
+   "text": "Kenneth Walker III wasn't pleased to see his former teammates celebrating after Sunday's loss.",
+   "link": "https://sports.yahoo.com/nfl/article/kenneth-walker-iii-explains-why-he-didnt-shake-hands-with-seahawks-after-chiefs-loss-i-was-frustrated-123859449.html",
+   "published": "2026-10-26T12:38:59+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-31T12:38:59+00:00"
+  },
+  {
+   "id": "n0c64a5a511",
+   "topic": "it",
+   "title": "(g+) IT-Arbeitsmarkt: Mit welchen Tech-Stacks Entwickler jetzt gefragt sind",
+   "text": "SAP, Cloud-Betrieb und IT-Sicherheit statt angesagter Frameworks: Welche Kompetenzen Unternehmen tatsächlich nachfragen und worauf IT-Freelancer jetzt setzen sollten. Ein Ratgebertext von Pierre Wilken ( Arbeit , Java )",
+   "link": "https://www.golem.de/news/it-arbeitsmarkt-mit-welchen-tech-stacks-entwickler-jetzt-gefragt-sind-2610-214504.html",
+   "published": "2026-10-26T12:30:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-31T12:30:02+00:00",
+   "img": "https://www.golem.de/2610/214504-605229-605227_rc.jpg"
+  },
+  {
+   "id": "n4c06b8f549",
+   "topic": "wissenschaft",
+   "title": "US-Zwischenwahlen: GPT für Demokraten, Grok für Republikaner",
+   "text": "Ein Experiment zu den US-Midterms offenbart eine deutliche politische Schlagseite bei KI-Sprachmodellen. Diese entsteht durch die Auswahl der Quellen und der Themenfelder.",
+   "link": "https://www.spektrum.de/news/ki-und-us-midterms-gpt-fuer-demokraten-grok-fuer-republikaner/2351350",
+   "published": "2026-10-26T12:30:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-09T12:30:00+00:00"
+  },
+  {
+   "id": "n80e9ff3827",
+   "topic": "it",
+   "title": "heise+ | XXL-Tablet Samsung Galaxy Tab S12 Ultra im Test",
+   "text": "Wer ein richtig großes und flottes Tablet braucht, findet es bei Samsung. Der Preis für das Galaxy Tab S12 Ultra ist allerdings happig.",
+   "link": "https://www.heise.de/tests/XXL-Tablet-Samsung-Galaxy-Tab-S12-Ultra-im-Test-11431506.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+   "published": "2026-10-26T12:30:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-31T12:30:00+00:00"
+  },
+  {
+   "id": "n157ff2b8ab",
+   "topic": "it",
+   "title": "Echter Nachthimmel: Vincent van Goghs „Sternennacht“ astronomisch datiert",
+   "text": "Die „Sternennacht“ gehört zu Vincent van Goghs wichtigsten Werken. Unklar war, wie sehr sie auf echten Beobachtungen beruhte. Nun gibt es wohl eine Antwort.",
+   "link": "https://www.heise.de/news/Echter-Nachthimmel-Vincent-van-Goghs-Sternennacht-astronomisch-datiert-11499771.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-26T12:17:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-31T12:17:00+00:00"
+  },
+  {
+   "id": "n5eb3722184",
+   "topic": "wissenschaft",
+   "title": "Riechen per Datenpaket: Gerüche über das Internet verschicken",
+   "text": "Videos, Sprache und Musik schicken wir heute wie selbstverständlich und in Echtzeit um die Welt. Bald könnten wir auch Gerüche wahrnehmen, die an anderen Orten entstehen.",
+   "link": "https://www.spektrum.de/news/aus-der-ferne-riechen-gerueche-digital-verschickt/2350980",
+   "published": "2026-10-26T11:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-09T11:00:00+00:00"
+  },
+  {
+   "id": "n15c6c4efa3",
+   "topic": "welt",
+   "title": "Thailands Urlaubsinsel Phuket nach Starkregen unter Wasser - Meteorologen rechnen mit weiteren Niederschlägen",
+   "text": "Phuket zählt zu Thailands wichtigsten Tourismuszielen. Nun haben heftige Regenfälle im Badeort Patong schwere Schäden angerichtet. Der Wetterdienst warnt vor weiteren Niederschlägen.",
+   "link": "https://www.dw.com/de/thailands-urlaubsinsel-phuket-nach-starkregen-unter-wasser-meteorologen-rechnen-mit-weiteren-niederschlägen/a-79760438?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-26T10:59:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-30T10:59:00+00:00",
+   "img": "https://static.dw.com/image/79760683_302.jpg"
+  },
+  {
+   "id": "n132805535a",
+   "topic": "welt",
+   "title": "Angriffe zwischen Saudi-Arabien und den Huthis im Jemen nehmen zu",
+   "text": "Seit der erneuten Eskalation des Jemen-Konflikts greifen sich die vom Iran unterstützten Huthis und Saudi-Arabien fast täglich an. Der saudische Flughafen in Riad ist nicht zum ersten Mal das Ziel.",
+   "link": "https://www.dw.com/de/angriffe-zwischen-saudi-arabien-und-den-huthis-im-jemen-nehmen-zu/a-79760782?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-26T10:55:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-30T10:55:00+00:00",
+   "img": "https://static.dw.com/image/79756169_302.jpg"
+  },
+  {
+   "id": "n5ef500d19a",
+   "topic": "politik",
+   "title": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
+   "text": "Das Kreuzfahrtschiff \"Mein Schiff 3\" ist nach dem Auslaufen in Bremerhaven bei stürmischem Wetter mit zwei Schiffen kollidiert. Zwei Schlepper wurden beschädigt. Nach aktuellem Stand gab es keine Verletzten.",
+   "link": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html",
+   "published": "2026-10-26T10:54:00+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-29T10:54:00+00:00",
+   "img": "https://images.tagesschau.de/image/c92cce3d-8052-424b-9f1b-b3bc9a4cbf30/AAABoXfnNJw/AAABnSSvrFg/16x9-big/rb-ein-wagen-der-port-authority-steht-vor-der-mein-schiff-3-im-kreuzfahrtterminal-100.jpg?width=1920"
+  },
+  {
+   "id": "n91bf8e8a74",
+   "topic": "welt",
+   "title": "Serbiens Studierende beenden die Ära des Präsidenten Vucic",
+   "text": "Nach zwei Jahren Protest gewinnt die Studierendenliste bei der Parlamentswahl die absolute Mehrheit. Serbien feiert die Abwahl des Vucic-Systems und den historischen Machtwechsel. Nun beginnt die schwierigste Aufgabe.",
+   "link": "https://www.dw.com/de/serbiens-studierende-beenden-die-ära-des-präsidenten-vucic/a-79759750?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-26T10:34:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-30T10:34:00+00:00",
+   "img": "https://static.dw.com/image/79758771_302.jpg"
+  },
+  {
+   "id": "n2006fa03e6",
+   "topic": "wirtschaft",
+   "title": "Ifo-Index: Konjunkturbelebung setzt sich fort",
+   "text": "Die Stimmung in den deutschen Chefetagen hellt sich weiter auf: Trotz hoher Energiepreise ist der ifo-Geschäftsklimaindex im Oktober zum sechsten Mal in Folge gestiegen.",
+   "link": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-index-oktober-102.html",
+   "published": "2026-10-26T10:29:32+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-29T10:29:32+00:00",
+   "img": "https://images.tagesschau.de/image/bb390a96-5b78-430c-8e58-96caf63ec1dd/AAABoXeSqqk/AAABnSSvrFg/16x9-big/konjunktur-418.jpg?width=1920"
+  },
+  {
+   "id": "n49313a942d",
+   "topic": "politik",
+   "title": "Kreuzfahrtschiff rammt Containerschiffe - neue Sturmflutwarnung",
+   "text": "Bei hohen Wellen und starkem Wind hat ein Kreuzfahrtschiff in Bremerhaven zwei Containerschiffe gerammt. Insgesamt verlief die Sturmnacht im Norden relativ glimpflich. Doch für den Mittag gibt es weitere Sturmflutwarnungen.",
+   "link": "https://www.tagesschau.de/inland/herbststurm-norden-deutschland-100.html",
+   "published": "2026-10-26T10:22:13+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-29T10:22:13+00:00",
+   "img": "https://images.tagesschau.de/image/2fbc9641-2c16-4fbf-9c94-fa30c59b95f3/AAABoXdBTh4/AAABnSSvrFg/16x9-big/kreuzfahrtschiff-kollision-102.jpg?width=1920"
+  },
+  {
+   "id": "nec6a2f57fc",
+   "topic": "wirtschaft",
+   "title": "Marktbericht: Gesunkene Kurse locken Schnäppchenjäger an",
+   "text": "Nach den Kursverlusten in der vergangenen Woche geht der DAX heute auf Erholungskurs. Der ifo-Geschäftsklimaindex unterstützt, aber ein hoher Ölpreis und die Sorgen um die Nachhaltigkeit des KI-Boom belasten.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-ezb-100.html",
+   "published": "2026-10-26T10:19:27+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-29T10:19:27+00:00",
+   "img": "https://images.tagesschau.de/image/9665c1da-a9f3-45e3-85ec-906c3f567c9f/AAABk92yH2w/AAABnSSvrFg/16x9-big/boerse-382.jpg?width=1920"
+  },
+  {
+   "id": "ndc66baf055",
+   "topic": "ki",
+   "title": "Hochfrequenzhändler investieren Milliarden in KI-Rechenleistung",
+   "text": "Hochfrequenzhändler wie Jane Street und Hudson River Trading liefern sich inzwischen einen Wettlauf um Rechenleistung für KI. Der Artikel Hochfrequenzhändler investieren Milliarden in KI-Rechenleistung erschien zuerst auf The Decoder .",
+   "link": "https://the-decoder.de/hochfrequenzhaendler-investieren-milliarden-in-ki-rechenleistung/",
+   "published": "2026-10-26T09:44:33+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-02T09:44:33+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2024/05/money_server_room.png"
+  },
+  {
+   "id": "nc16dd798f0",
+   "topic": "welt",
+   "title": "Netanjahus Gegenkandidaten bei der Israel-Wahl: Gemeinsam für den Neuanfang?",
+   "text": "Morgen wählt Israel. Dann entscheidet sich, ob das Land seinen Premier behält. Oder ob das \"Anti-Netanjahu-Bündnis\" gewinnt. Doch die unterschiedlichen Vorstellungen der Kandidaten könnten zum Problem werden. Von J.-C. Kitzler.",
+   "link": "https://www.tagesschau.de/ausland/asien/israel-wahlen-netanjahu-100.html",
+   "published": "2026-10-26T09:41:25+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-29T09:41:25+00:00",
+   "img": "https://images.tagesschau.de/image/1e0e5b7f-87b3-424f-9200-a7fd7455e1ac/AAABoXdJX4k/AAABnSSvrFg/16x9-big/wahlplakate-israel-100.jpg?width=1920"
+  },
+  {
+   "id": "nf90bdcbc95",
+   "topic": "wissenschaft",
+   "title": "Zukunft der Mondlandungen: Eine neuer Zeitplan für die Mondmission Artemis III",
+   "text": "Die Artemis-III-Mission entscheidet über die Zukunft der Mondlandungen: SpaceX oder Blue Origin – wer wird gewinnen?",
+   "link": "https://www.spektrum.de/news/eine-neuer-zeitplan-fuer-artemis-iii/2351256",
+   "published": "2026-10-26T09:30:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-09T09:30:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/artemisi111122.jpg.8372246.jpg?f=1280x720"
+  },
+  {
+   "id": "n0c8b0cfd8e",
+   "topic": "welt",
+   "title": "Wie die Ukraine einen Soldaten per Drohne rettete",
+   "text": "Der Ukraine ist eine spektakuläre Mission gelungen: Erstmals wurde ein verwundeter Soldat aus dem Frontgebiet mit einer Drohne ausgeflogen. Im ARD-Interview berichtet er, wie er seine Rettung erlebte. Von V. Golod und N. Bula.",
+   "link": "https://www.tagesschau.de/ausland/europa/ukraine-soldat-rettung-drohne-100.html",
+   "published": "2026-10-26T09:17:03+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-29T09:17:03+00:00",
+   "img": "https://images.tagesschau.de/image/0f315c02-6d6a-4d38-bb7b-d1976d7a6b9a/AAABoXclW7Q/AAABnSSvrFg/16x9-big/vlasenko-100.jpg?width=1920"
+  },
+  {
+   "id": "n1e91061893",
+   "topic": "welt",
+   "title": "Steinmeiers Staatsbesuch in China: Balanceakt in heiklen Zeiten",
+   "text": "Bundespräsident Steinmeier reist zum Staatsbesuch nach China. In einer politisch und wirtschaftlich heiklen Phase setzt Deutschland auf Dialog.",
+   "link": "https://www.dw.com/de/steinmeiers-staatsbesuch-in-china-balanceakt-in-heiklen-zeiten/a-79759624?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-26T09:11:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-30T09:11:00+00:00",
+   "img": "https://static.dw.com/image/69444823_302.jpg"
+  },
+  {
+   "id": "n1656dbc8b8",
+   "topic": "welt",
+   "title": "Umfragen vor den Midterms: Trumps frühere Wähler wenden sich von ihm ab",
+   "text": "US-Präsident Trump wurde 2024 von vielen Menschen gewählt, die sonst nicht für die Republikaner stimmen. Kurz vor den Zwischenwahlen zeigen Umfragen nun: Diese Wähler hat er besonders enttäuscht. Von Jörg Schönenborn.",
+   "link": "https://www.tagesschau.de/ausland/amerika/midterms-umfragen-trump-100.html",
+   "published": "2026-10-26T09:06:38+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-29T09:06:38+00:00",
+   "img": "https://images.tagesschau.de/image/7eb7b007-37ed-4ea5-a417-038c91ea0047/AAABoXOkG3o/AAABnSSvrFg/16x9-big/trump-5380.jpg?width=1920"
+  },
+  {
+   "id": "n1a293db623",
+   "topic": "ki",
+   "title": "Toyota will mit 400.000 Robotern und Milliarden-Investment zum Robotik-Riesen werden",
+   "text": "Toyota will zum globalen Robotik-Konzern werden und investiert dafür in humanoide Roboter und Fabrikautomatisierung. Der Artikel Toyota will mit 400.000 Robotern und Milliarden-Investment zum Robotik-Riesen werden erschien zuerst auf The Decoder .",
+   "link": "https://the-decoder.de/toyota-will-mit-400-000-robotern-und-milliarden-investment-zum-robotik-riesen-werden/",
+   "published": "2026-10-26T09:03:15+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-02T09:03:15+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/Walden-Robotics-robot.avif"
+  },
+  {
+   "id": "nd513e2be59",
+   "topic": "welt",
+   "title": "Frankreich: Rechtspopulistin Marine Le Pen startet Wahlkampf",
+   "text": "Nach den Unruhen in Frankreich gewinnt Marine Le Pen in Umfragen hinzu. Auf einem Parteitag des \"Rassemblement National\" (RN) in Orléans eröffnet sie offiziell den Wahlkampf.",
+   "link": "https://www.dw.com/de/frankreich-rechtspopulistin-marine-le-pen-startet-wahlkampf/a-79759731?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-26T08:42:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-30T08:42:00+00:00",
+   "img": "https://static.dw.com/image/79757107_302.jpg"
+  },
+  {
+   "id": "n60ec39e15b",
+   "topic": "welt",
+   "title": "Brasiliens Präsident Lula gewinnt Stichwahl, Bolsonaro erkennt das Ergebnis nicht an - News kompakt: Das Wichtigste kurz gefasst",
+   "text": "Amtsinhaber Lula da Silva hat die Präsidentschaftswahl in Brasilien gewonnen, allerdings erkennt der unterlegene Flávio Bolsonaro das Ergebnis nicht an. Und Alexandar Vučić räumt seine Wahlniederlage in Serbien ein.",
+   "link": "https://www.dw.com/de/brasiliens-präsident-lula-gewinnt-stichwahl-bolsonaro-erkennt-das-ergebnis-nicht-an-news-kompakt-das-wichtigste-kurz-gefasst/a-79759184?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-26T08:00:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-30T08:00:00+00:00",
+   "img": "https://static.dw.com/image/79758627_302.jpg",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Wahl in Brasilien - Von der Leyen und Merz gratulieren Lula da Silva",
+     "link": "https://www.deutschlandfunk.de/von-der-leyen-und-merz-gratulieren-lula-da-silva-100.html"
+    },
+    {
+     "source": "Tagesschau",
+     "title": "Lula gewinnt Wahl in Brasilien - Bolsonaro erkennt Niederlage nicht an",
+     "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html"
+    }
+   ]
+  },
+  {
+   "id": "nccb0b85026",
+   "topic": "welt",
+   "title": "Lula gewinnt Wahl in Brasilien - Bolsonaro erkennt Niederlage nicht an",
+   "text": "Der linke Staatschef Lula hat die Präsidentschaftswahl in Brasilien gewonnen. Er setzte sich gegen den rechten Kandidaten Bolsonaro durch - doch der will das Ergebnis nicht anerkennen.",
+   "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html",
+   "published": "2026-10-26T06:58:43+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-29T06:58:43+00:00",
+   "img": "https://images.tagesschau.de/image/7e52859b-49af-4843-83be-ad391e13f68b/AAABoXXW07o/AAABnSSvrFg/16x9-big/lula-234.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Wahl in Brasilien - Von der Leyen und Merz gratulieren Lula da Silva",
+     "link": "https://www.deutschlandfunk.de/von-der-leyen-und-merz-gratulieren-lula-da-silva-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Brasiliens Präsident Lula gewinnt Stichwahl, Bolsonaro erkennt das Ergebnis nicht an - News kompakt: Das Wichtigste kurz gefasst",
+     "link": "https://www.dw.com/de/brasiliens-präsident-lula-gewinnt-stichwahl-bolsonaro-erkennt-das-ergebnis-nicht-an-news-kompakt-das-wichtigste-kurz-gefasst/a-79759184?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "n69dc508465",
+   "topic": "welt",
+   "title": "Wahlen in Brasilien: Eine Nacht zwischen Jubel und Misstrauen",
+   "text": "Feuerwerk und Freudentränen - in Brasilien feiern Anhänger den Wahlsieg von Lula als Erfolg der Demokratie. Doch während die einen aufatmen, warnen andere vor dem politischen Kampf, der jetzt erst beginnt. Von Anne Herrberg.",
+   "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-102.html",
+   "published": "2026-10-26T06:34:32+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-29T06:34:32+00:00",
+   "img": "https://images.tagesschau.de/image/4fc17ab7-03af-404f-8477-d7838d031dc9/AAABoXcPeNA/AAABnSSvrFg/16x9-big/lula-brasilien-132.jpg?width=1920"
+  },
+  {
+   "id": "n870aff98e3",
+   "topic": "wissenschaft",
+   "title": "Wie die Goldsuche Natur und Lebensgrundlagen in Ghana zerstört",
+   "text": "In Ghana wird unter extremen Bedingungen Gold abgebaut - auch Kakaoplantagen müssen dafür weichen. Mit verheerenden Folgen: Zurück bleiben zerstörte Landschaften und verdreckte, belastete Flüsse. Von Judith Hartmann und Jakob Sax.",
+   "link": "https://www.tagesschau.de/wissen/klima/goldabbau-ghana-abholzung-regenwald-100.html",
+   "published": "2026-10-26T06:13:21+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-09T06:13:21+00:00",
+   "img": "https://images.tagesschau.de/image/ef721bb8-7f94-4ba3-8dc6-b701ed2ec582/AAABoWmaVl0/AAABnSSvrFg/16x9-big/goldmine-ghana-100.jpg?width=1920"
+  },
+  {
+   "id": "n52a117e0b8",
+   "topic": "wirtschaft",
+   "title": "Deutsche Nachrichtendienste setzen auf Cloud-System von Google",
+   "text": "Um geheime Informationen schneller untereinander austauschen zu können, wollen BND, Verfassungsschutz und MAD ein gemeinsames Cloud-System aufbauen. Nach Recherchen von NDR und WDR soll Google dabei eine maßgebliche Rolle spielen. Von F. Flade und R. Pinkert.",
+   "link": "https://www.tagesschau.de/investigativ/ndr-wdr/nachrichtendienst-google-100.html",
+   "published": "2026-10-26T05:11:08+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-29T05:11:08+00:00",
+   "img": "https://images.tagesschau.de/image/76f1d164-a5b5-4e09-a708-2604589dde2b/AAABoWjURUw/AAABnSSvrFg/16x9-big/google-cloud-112.jpg?width=1920"
+  },
   {
    "id": "nbbcccb03f8",
    "topic": "politik",
@@ -72,14 +621,14 @@
    "img": "https://bilder.deutschlandfunk.de/a9/71/70/68/a9717068-16c8-4fe0-86ef-7b8f832ffb7c/brasilien-praesidentschaftswahl-lula-da-silva-bolsonaro-100-1920x1920.jpg",
    "also": [
     {
-     "source": "Tagesschau",
-     "title": "Lula gewinnt Wahl in Brasilien",
-     "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html"
+     "source": "Deutsche Welle",
+     "title": "Brasiliens Präsident Lula gewinnt Stichwahl, Bolsonaro erkennt das Ergebnis nicht an - News kompakt: Das Wichtigste kurz gefasst",
+     "link": "https://www.dw.com/de/brasiliens-präsident-lula-gewinnt-stichwahl-bolsonaro-erkennt-das-ergebnis-nicht-an-news-kompakt-das-wichtigste-kurz-gefasst/a-79759184?maca=de-rss-de-all-1119-xml-mrss"
     },
     {
-     "source": "Deutsche Welle",
-     "title": "Stichwahl in Brasilien: Kopf-an-Kopf-Rennen zwischen Lula und Bolsonaro",
-     "link": "https://www.dw.com/de/stichwahl-in-brasilien-kopf-an-kopf-rennen-zwischen-lula-und-bolsonaro/a-79754404?maca=de-rss-de-all-1119-xml-mrss"
+     "source": "Tagesschau",
+     "title": "Lula gewinnt Wahl in Brasilien - Bolsonaro erkennt Niederlage nicht an",
+     "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html"
     }
    ]
   },
@@ -186,46 +735,8 @@
    "img": "https://sportshub.cbsistatic.com/i/2026/10/26/e4db0b1f-aa70-4cde-8e67-7820cdbdf937/skattebo.jpg"
   },
   {
-   "id": "nccb0b85026",
-   "topic": "welt",
-   "title": "Lula gewinnt Wahl in Brasilien",
-   "text": "Der linke Staatschef Lula hat die Präsidentschaftswahl in Brasilien gewonnen. Der Trump-Gegner setzte sich gegen den rechten Kandidaten Bolsonaro durch - doch der will das Ergebnis nicht anerkennen.",
-   "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html",
-   "published": "2026-10-26T03:28:19+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-29T03:28:19+00:00",
-   "img": "https://images.tagesschau.de/image/7e52859b-49af-4843-83be-ad391e13f68b/AAABoXXW07o/AAABnSSvrFg/16x9-big/lula-234.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Brasilien - Lula gewinnt Präsidenten-Stichwahl - Bolsonaro erkennt Ergebnis nicht an",
-     "link": "https://www.deutschlandfunk.de/lula-gewinnt-praesidenten-stichwahl-bolsonaro-erkennt-ergebnis-nicht-an-100.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Stichwahl in Brasilien: Kopf-an-Kopf-Rennen zwischen Lula und Bolsonaro",
-     "link": "https://www.dw.com/de/stichwahl-in-brasilien-kopf-an-kopf-rennen-zwischen-lula-und-bolsonaro/a-79754404?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n6cc8758eea",
-   "topic": "nfl",
-   "title": "NFL Week 7 grades: Falcons earn solid 'A' mark, while Panthers flop with a resounding 'F'",
-   "text": "We're grading every game from Week 7 that has been played so far",
-   "link": "https://www.cbssports.com/nfl/news/nfl-week-7-grades-falcons-buccaneers-giants-panthers/",
-   "published": "2026-10-26T03:24:47+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-31T03:24:47+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/25/d6c522d9-f14d-4210-946a-16833baffc3d/atlanta-falcons.jpg"
-  },
-  {
    "id": "n92220942de",
-   "topic": "politik",
+   "topic": "wirtschaft",
    "title": "Neuer Gebäudetyp E: Schnelles und günstiges Bauen per Gesetz",
    "text": "Deutschland braucht mehr bezahlbaren Wohnraum. Das soll unter anderem mit dem Gebäudetyp E gelingen - das E steht hier für \"einfach\". Der Gesetzentwurf liegt dem ARD-Hauptstadtstudio exklusiv vor. Von Oliver Neuroth.",
    "link": "https://www.tagesschau.de/inland/gebaeudetyp-e-104.html",
@@ -345,7 +856,14 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-27T22:54:41+00:00"
+   "expires": "2026-10-27T22:54:41+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Audi-Chef bei Trump - Verstoß gegen Konzernregeln?",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-us-werk-doellner-trump-100.html"
+    }
+   ]
   },
   {
    "id": "n0286b93803",
@@ -417,7 +935,14 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-27T20:38:20+00:00"
+   "expires": "2026-10-27T20:38:20+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Audi-Chef bei Trump - Verstoß gegen Konzernregeln?",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-us-werk-doellner-trump-100.html"
+    }
+   ]
   },
   {
    "id": "n93524fa87a",
@@ -552,19 +1077,6 @@
    "img": "https://images.tagesschau.de/image/9cea354c-b999-4f3e-b80d-621fd3470c99/AAABoXQtGEI/AAABnSSvrFg/16x9-big/kretschmer-bab-100.jpg?width=1920"
   },
   {
-   "id": "n5ef500d19a",
-   "topic": "politik",
-   "title": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
-   "text": "Das Kreuzfahrtschiff \"Mein Schiff 3\" ist nach dem Auslaufen in Bremerhaven bei stürmischem Wetter mit zwei Schiffen kollidiert. Zwei Schlepper wurden beschädigt. Nach aktuellem Stand gab es keine Verletzten.",
-   "link": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html",
-   "published": "2026-10-25T18:30:00+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-28T18:30:00+00:00",
-   "img": "https://images.tagesschau.de/image/6a3f8ef9-940f-4800-be2b-2f708d3bdf2c/AAABoXTVqLQ/AAABnSSvrFg/16x9-big/rb-an-einem-schiff-sind-mittransportierte-rettungsboote-beschaedigt-100.jpg?width=1920"
-  },
-  {
    "id": "nff57cb6eef",
    "topic": "it",
    "title": "TLD-Bewerbungen: Privatwirtschaft greift nach Städtedomains",
@@ -684,7 +1196,14 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-27T15:52:16+00:00"
+   "expires": "2026-10-27T15:52:16+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Audi-Chef bei Trump - Verstoß gegen Konzernregeln?",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-us-werk-doellner-trump-100.html"
+    }
+   ]
   },
   {
    "id": "n2f9be84f2c",
@@ -696,14 +1215,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-27T15:52:16+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Musk wirft Ukraine Verstoß bei Starlink-Nutzung vor",
-     "link": "https://www.tagesschau.de/ausland/amerika/musk-ukraine-starlink-100.html"
-    }
-   ]
+   "expires": "2026-10-27T15:52:16+00:00"
   },
   {
    "id": "n22f12222da",
@@ -918,12 +1430,12 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Brasilien - Lula gewinnt Präsidenten-Stichwahl - Bolsonaro erkennt Ergebnis nicht an",
-     "link": "https://www.deutschlandfunk.de/lula-gewinnt-praesidenten-stichwahl-bolsonaro-erkennt-ergebnis-nicht-an-100.html"
+     "title": "Wahl in Brasilien - Von der Leyen und Merz gratulieren Lula da Silva",
+     "link": "https://www.deutschlandfunk.de/von-der-leyen-und-merz-gratulieren-lula-da-silva-100.html"
     },
     {
      "source": "Tagesschau",
-     "title": "Lula gewinnt Wahl in Brasilien",
+     "title": "Lula gewinnt Wahl in Brasilien - Bolsonaro erkennt Niederlage nicht an",
      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html"
     }
    ]
@@ -1023,7 +1535,14 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-27T11:18:28+00:00"
+   "expires": "2026-10-27T11:18:28+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Audi-Chef bei Trump - Verstoß gegen Konzernregeln?",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-us-werk-doellner-trump-100.html"
+    }
+   ]
   },
   {
    "id": "nf9dd046064",
@@ -1199,528 +1718,6 @@
    "type": "Fachmedium (IT)",
    "lang": "de",
    "expires": "2026-10-30T10:28:00+00:00"
-  },
-  {
-   "id": "nc557603a13",
-   "topic": "it",
-   "title": "heise+ | Desinfec't: Defekten Grub-Bootloader unter Linux wiederherstellen",
-   "text": "Wenn Linux nicht mehr von selbst bootet, können Sie den Desinfec't-Bootloader benutzen oder mit Desinfec't Ihr installiertes Linux reparieren.",
-   "link": "https://www.heise.de/ratgeber/Desinfec-t-Defekten-Grub-Bootloader-unter-Linux-wiederherstellen-11488347.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-   "published": "2026-10-25T10:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-30T10:00:00+00:00"
-  },
-  {
-   "id": "nf45dc6f90f",
-   "topic": "ki",
-   "title": "Nvidias offene Daten-Engine Flora soll Robotikdaten 125-mal günstiger beschriften als GPT-6 Astra",
-   "text": "Nvidias neue Daten-Engine Flora soll eine Stunde Robotervideo für 72 Cent annotieren statt für 88 Dollar mit GPT-6 Astra, bei leicht besserer Qualität. Das offene System aus drei feinjustierten Qwen3.5-Modellen erkennt Fehler in Roboteraktionen deutlich zuverlässiger als die Konkurrenz, schwächelt aber teils bei …",
-   "link": "https://the-decoder.de/nvidias-offene-daten-engine-flora-soll-robotikdaten-125-mal-guenstiger-beschriften-als-gpt-6-astra/",
-   "published": "2026-10-25T09:45:49+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-01T09:45:49+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/nvidia-flora-hero-robot-hands.jpg"
-  },
-  {
-   "id": "nb926d4f324",
-   "topic": "ki",
-   "title": "Anthropic-Mitgründer zieht Prognose für sich selbst verbessernde KI auf 2027 vor",
-   "text": "Ein Test von P-Zero Research soll zeigen, dass KI-Modelle beim Entwerfen und Auswerten von Experimenten rasant zulegen. Anthropic-Mitgründer Jack Clark hält selbstverbessernde KI deshalb schon 2027 für möglich. Der Artikel Anthropic-Mitgründer zieht Prognose für sich selbst verbessernde KI auf 2027 vor erschien zuerst …",
-   "link": "https://the-decoder.de/anthropic-mitgruender-zieht-prognose-fuer-sich-selbst-verbessernde-ki-auf-2027-vor/",
-   "published": "2026-10-25T09:26:46+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-01T09:26:46+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/tasteval_and_rsi.png"
-  },
-  {
-   "id": "n342a7377f6",
-   "topic": "welt",
-   "title": "Israel will Westjordanland am Wahltag abriegeln",
-   "text": "Vor der Parlamentswahl in Israel verschärft die Armee ihr Vorgehen im Westjordanland. Demnach sollen sämtliche Übergänge zu dem Palästinensergebiet geschlossen werden, teilte das Militär mit.",
-   "link": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-lockdown-parlamentswahlen-100.html",
-   "published": "2026-10-25T08:51:16+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-28T08:51:16+00:00",
-   "img": "https://images.tagesschau.de/image/d97311c9-8348-4f07-b955-1d558d3fb4b3/AAABoXEMPS8/AAABnSSvrFg/16x9-big/israel-westjordanland-144.jpg?width=1920"
-  },
-  {
-   "id": "n4c12d55302",
-   "topic": "ki",
-   "title": "Weniger ist mehr: Anthropic rät zum einzelnen KI-Agent statt zu vielen Subagenten",
-   "text": "Anthropic rät Unternehmen, Multi-Agent-Architekturen zugunsten eines einzelnen Hauptagenten mit bedarfsweise geladenem Kontext aufzugeben. In einem Kundenfall habe das die Geschwindigkeit verdoppelt. Für den Umbau stellt Anthropic ein Migrations-Kit auf GitHub bereit. Der Artikel Weniger ist mehr: Anthropic rät zum …",
-   "link": "https://the-decoder.de/weniger-ist-mehr-anthropic-raet-zum-einzelnen-ki-agent-statt-zu-vielen-subagenten/",
-   "published": "2026-10-25T08:42:10+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-01T08:42:10+00:00"
-  },
-  {
-   "id": "n737a4ab3f5",
-   "topic": "welt",
-   "title": "Mehr als 1000 Festnahmen nach neuen Protesten in Frankreich",
-   "text": "Die Demonstrationen in Frankreich reißen nicht ab. Am Samstag gingen wieder Hunderttausende auf die Straße. Die Polizei nahm mehr als 1000 Menschen fest. Allerdings gab es weniger Gewalt als am Wochenende zuvor.",
-   "link": "https://www.dw.com/de/mehr-als-1000-festnahmen-nach-neuen-protesten-in-frankreich/a-79753740?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-25T08:29:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-29T08:29:00+00:00",
-   "img": "https://static.dw.com/image/79751809_302.jpg",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Landesweite Proteste - Erneut Ausschreitungen in Frankreich - laut Innenministerium fast 1.000 Festnahmen",
-     "link": "https://www.deutschlandfunk.de/erneut-ausschreitungen-in-frankreich-laut-innenministerium-fast-1-000-festnahmen-102.html"
-    }
-   ]
-  },
-  {
-   "id": "n7c5cb05a45",
-   "topic": "it",
-   "title": "„Tomb Raider“: Der Hit, der Core Design zum Verhängnis wurde",
-   "text": "Vor 30 Jahren sprang Lara Croft erstmals durch die 3D-Welten von „Tomb Raider“. Sie wurde zur Gaming-Ikone, aber auch zum Fluch für das Entwicklerteam.",
-   "link": "https://www.heise.de/hintergrund/30-Jahre-Tomb-Raider-Zum-Erfolg-verdammt-11495198.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-25T08:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-30T08:00:00+00:00"
-  },
-  {
-   "id": "nad22a68580",
-   "topic": "welt",
-   "title": "Musk wirft Ukraine Verstoß bei Starlink-Nutzung vor",
-   "text": "Tech-Milliardär Musk wirft der Ukraine vor, seinen Satelliten-Internetdienst Starlink für tödliche Drohnenangriffe missbraucht zu haben. Das System sei kein \"Mittel zum Töten\", sagte Musk. Die Sicherheitslücke sei inzwischen aber geschlossen.",
-   "link": "https://www.tagesschau.de/ausland/amerika/musk-ukraine-starlink-100.html",
-   "published": "2026-10-25T07:45:03+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-28T07:45:03+00:00",
-   "img": "https://images.tagesschau.de/image/3c5fc449-1908-4f6a-928a-9513ee37095c/AAABoVvgNgs/AAABnSSvrFg/16x9-big/elon-musk-294.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Streit um Satellitensystem - Ukraine weist Vorwürfe von Musk zu Starlink-Verstößen zurück",
-     "link": "https://www.deutschlandfunk.de/ukraine-weist-vorwuerfe-von-musk-zu-starlink-verstoessen-zurueck-100.html"
-    }
-   ]
-  },
-  {
-   "id": "ncc25a43160",
-   "topic": "wissenschaft",
-   "title": "Freistetters Formelwelt: Der unüberwindbare Primzahl-Graben",
-   "text": "Welchen Abstand können aufeinanderfolgende Primzahlen höchstens haben? Mit dieser Frage hängt ein offenes Problem der Mathematik zusammen, das eine KI nun vielleicht gelöst hat.",
-   "link": "https://www.spektrum.de/kolumne/freistetters-formelwelt-freistteters-formelwelt/2350943",
-   "published": "2026-10-25T07:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-08T07:00:00+00:00"
-  },
-  {
-   "id": "n8040a6a431",
-   "topic": "wissenschaft",
-   "title": "Welcher Wert ist gesucht?",
-   "text": "Wie viele Stufen der Rolltreppe müsste der Manager hinaufsteigen, wenn sie sich nicht bewegen würde?",
-   "link": "https://www.spektrum.de/raetsel/welcher-wert-ist-gesucht/2266202",
-   "published": "2026-10-25T07:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-08T07:00:00+00:00"
-  },
-  {
-   "id": "n9d084f97c4",
-   "topic": "nfl",
-   "title": "No. 25 Wildcats claw Cyclones",
-   "text": "Connor Moberly replaces Raynor in second half at quarterback",
-   "link": "https://sports.yahoo.com/articles/no-25-wildcats-claw-cyclones-041310635.html",
-   "published": "2026-10-25T04:13:10+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-30T04:13:10+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/c04ba4e7e68f5a4901130e350d21a08d.jpg"
-  },
-  {
-   "id": "n86dac2f9dd",
-   "topic": "wirtschaft",
-   "title": "Wie Erdwärme die Wärmeversorgung verändern soll",
-   "text": "In Potsdam wird gerade mehr als einen Kilometer in den Boden gebohrt, um künftig Tausende Haushalte mit Erdwärme zu versorgen. Die Technik birgt Risiken, aber auch viele Chancen. Von M. Kell und H. Christ.",
-   "link": "https://www.tagesschau.de/wirtschaft/technologie/erdwaerme-waermeversorgung-heizen-100.html",
-   "published": "2026-10-25T04:10:34+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-28T04:10:34+00:00",
-   "img": "https://images.tagesschau.de/image/9074f296-062b-4969-8698-46bebb74c3ee/AAABoTVNe_M/AAABnSSvrFg/16x9-big/heizen-158.jpg?width=1920"
-  },
-  {
-   "id": "nb38b7721f5",
-   "topic": "welt",
-   "title": "Lula oder Bolsonaro: Brasilien vor der Stichwahl",
-   "text": "Lula oder Bolsonaro - beide Präsidentschaftskandidaten liegen vor der Stichwahl in Brasilien gleichauf. Das Land ist tief gespalten. Dabei könnten gerade die Unentschlossenen zum entscheidenden Faktor werden. Von Anne Herrberg.",
-   "link": "https://www.tagesschau.de/ausland/amerika/brasilien-stichwahl-bolsonaro-lula-100.html",
-   "published": "2026-10-25T04:07:12+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-28T04:07:12+00:00",
-   "img": "https://images.tagesschau.de/image/9ac8c9bf-ce83-4fd4-85c7-c284fe8da23d/AAABoXH7A5k/AAABnSSvrFg/16x9-big/brasilien-726.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Brasilien - Lula gewinnt Präsidenten-Stichwahl - Bolsonaro erkennt Ergebnis nicht an",
-     "link": "https://www.deutschlandfunk.de/lula-gewinnt-praesidenten-stichwahl-bolsonaro-erkennt-ergebnis-nicht-an-100.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Stichwahl in Brasilien: Kopf-an-Kopf-Rennen zwischen Lula und Bolsonaro",
-     "link": "https://www.dw.com/de/stichwahl-in-brasilien-kopf-an-kopf-rennen-zwischen-lula-und-bolsonaro/a-79754404?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n58a92bdd05",
-   "topic": "politik",
-   "title": "Landesweite Proteste - Erneut Ausschreitungen in Frankreich - laut Innenministerium fast 1.000 Festnahmen",
-   "text": "Unter starker Polizeipräsenz haben in Frankreich ‌Hunderttausende Menschen gegen hohe Lebenshaltungskosten und Misstände im Bildungssystem protestiert. In mehreren Städten gab es erneut Ausschreitungen, unter anderem nach der Hauptkundgebung in Paris.",
-   "link": "https://www.deutschlandfunk.de/erneut-ausschreitungen-in-frankreich-laut-innenministerium-fast-1-000-festnahmen-102.html",
-   "published": "2026-10-25T03:53:57+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T03:53:57+00:00",
-   "img": "https://bilder.deutschlandfunk.de/cc/19/22/1c/cc19221c-8b9d-4d7c-8bae-be27de16a880/proteste-paris-106-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Mehr als 1000 Festnahmen nach neuen Protesten in Frankreich",
-     "link": "https://www.dw.com/de/mehr-als-1000-festnahmen-nach-neuen-protesten-in-frankreich/a-79753740?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n116c5a1325",
-   "topic": "politik",
-   "title": "Wahlsonntag - Serbien wählt neues Parlament - Präsidentschaftswahlen in Bulgarien",
-   "text": "In Serbien finden heute vorgezogene Parlamentswahlen statt.",
-   "link": "https://www.deutschlandfunk.de/serbien-waehlt-neues-parlament-praesidentschaftswahlen-in-bulgarien-100.html",
-   "published": "2026-10-25T03:53:57+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T03:53:57+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Hohe Wahlbeteiligung und Manipulationsvorwürfe in Serbien",
-     "link": "https://www.tagesschau.de/ausland/europa/serbien-wahl-update-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n69cbb822e5",
-   "topic": "politik",
-   "title": "Wien - Staatengemeinschaft strebt neues Abkommen gegen Umweltkriminalität an",
-   "text": "Die internationale Staatengemeinschaft hat in Wien beschlossen, Verhandlungen über ein neues Abkommen gegen Umweltkriminalität aufzunehmen.",
-   "link": "https://www.deutschlandfunk.de/staatengemeinschaft-strebt-neues-abkommen-gegen-umweltkriminalitaet-an-106.html",
-   "published": "2026-10-25T03:53:57+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T03:53:57+00:00",
-   "img": "https://bilder.deutschlandfunk.de/NO/VA/_a/cc/NOVA_accc12b2cdd3be0e9eb4a6a76e59447b/craft-12709695-asset-100-1920x1920.jpg"
-  },
-  {
-   "id": "nf263744125",
-   "topic": "politik",
-   "title": "CSU-Parteitag - Merz ruft Union zu Geschlossenheit auf und warnt vor Extremisten \"von ganz links und ganz rechts\"",
-   "text": "Bundeskanzler Merz hat auf dem CSU-Parteitag in München die Zusammenarbeit in der Union gelobt. Zugleich mahnte er, CDU und CSU müssten künftig noch enger zusammenstehen, um Deutschland vor Extremisten von ganz links und ganz rechts zu bewahren. Zur Debatte über die Nachfolge von Bundespräsident Steinmeier äußerte er …",
-   "link": "https://www.deutschlandfunk.de/merz-ruft-union-zu-geschlossenheit-auf-und-warnt-vor-extremisten-von-ganz-links-und-ganz-rechts-102.html",
-   "published": "2026-10-25T03:53:57+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T03:53:57+00:00",
-   "img": "https://bilder.deutschlandfunk.de/d1/49/3b/fd/d1493bfd-1522-45f9-9394-3655af37efbe/merz-csu-parteitag-100-1920x1920.jpg"
-  },
-  {
-   "id": "n680d6f635e",
-   "topic": "politik",
-   "title": "Ukraine-Krieg - Musk beschuldigt Kiew, Starlink missbräuchlich genutzt zu haben",
-   "text": "Der US-Tech-Milliardär Musk hat dem ukrainischen Militär vorgeworfen, das Satelliteninternet Starlink für offensive Drohnenangriffe eingesetzt zu haben.",
-   "link": "https://www.deutschlandfunk.de/musk-beschuldigt-kiew-starlink-missbraeuchlich-genutzt-zu-haben-102.html",
-   "published": "2026-10-25T03:53:57+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T03:53:57+00:00",
-   "img": "https://bilder.deutschlandfunk.de/6d/c0/7b/c1/6dc07bc1-b974-4028-819c-4c147520b54e/myanmar-razzia-starlink-satelliten-empfaenger-beschlagnahmung-100-1920x1920.jpg"
-  },
-  {
-   "id": "nbb4c815af8",
-   "topic": "politik",
-   "title": "Brasilien - Stichwahl über das Präsidentenamt zwischen Lula und Bolsonaro",
-   "text": "In Brasilien wird heute in einer Stichwahl entschieden, ob Amtsinhaber Lula da Silva Präsident bleibt oder ob sein rechter Herausforderer Flávio Bolsonaro das höchste Staatsamt übernimmt.",
-   "link": "https://www.deutschlandfunk.de/stichwahl-ueber-das-praesidentenamt-zwischen-lula-und-bolsonaro-104.html",
-   "published": "2026-10-25T03:53:57+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T03:53:57+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Lula gewinnt Wahl in Brasilien",
-     "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Stichwahl in Brasilien: Kopf-an-Kopf-Rennen zwischen Lula und Bolsonaro",
-     "link": "https://www.dw.com/de/stichwahl-in-brasilien-kopf-an-kopf-rennen-zwischen-lula-und-bolsonaro/a-79754404?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n5cac9681fc",
-   "topic": "nfl",
-   "title": "Browns extend DT Maliek Collins by two years",
-   "text": "The contract year of veteran defensive tackle Maliek Collins has resulted after only six games in new contact.",
-   "link": "https://sports.yahoo.com/articles/browns-extend-dt-maliek-collins-031441473.html",
-   "published": "2026-10-25T03:14:41+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-30T03:14:41+00:00"
-  },
-  {
-   "id": "n2a8721a5c2",
-   "topic": "nfl",
-   "title": "Prisco's Week 7 NFL picks: Lions edge Packers, Steelers top Saints in Paris",
-   "text": "Pete Prisco reveals all of his Week 7 picks, including the Chiefs over the Seahawks in Kenneth Walker's revenge game",
-   "link": "https://www.cbssports.com/nfl/news/priscos-week-7-nfl-picks-odds-expert-picks-upsets/",
-   "published": "2026-10-25T03:00:51+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-30T03:00:51+00:00"
-  },
-  {
-   "id": "nd0e6f74334",
-   "topic": "wissenschaft",
-   "title": "Sommerzeit beendet - Uhren um eine Stunde zurückgestellt",
-   "text": "Die Sommerzeit ist zu Ende, die Uhren wurden um eine Stunde zurückgestellt. Auch wenn es in der ersten Nacht Vorteile bringt, sind die meisten Menschen nicht zufrieden mit der Zeitumstellung.",
-   "link": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-sommerzeit-138.html",
-   "published": "2026-10-25T01:11:58+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-08T01:11:58+00:00",
-   "img": "https://images.tagesschau.de/image/7d6b7325-7168-4ce9-baeb-c0e74e2c96eb/AAABoWMO72Y/AAABnSSvrFg/16x9-big/wecker-100.jpg?width=1920"
-  },
-  {
-   "id": "nfbeabf351b",
-   "topic": "nfl",
-   "title": "49ers linebacker Fred Warner fined twice for hits in Week 6 win over Commanders, totaling $65,673",
-   "text": "Warner has been fined for four separate hits this season, also drawing discipline for two hits against the Cardinals in Week 3.",
-   "link": "https://sports.yahoo.com/nfl/article/49ers-linebacker-fred-warner-fined-twice-for-hits-in-week-6-win-over-commanders-totaling-65673-222853051.html",
-   "published": "2026-10-24T22:28:53+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-29T22:28:53+00:00"
-  },
-  {
-   "id": "n9a84359aaf",
-   "topic": "nfl",
-   "title": "Giants' John Harbaugh details J.J. McCarthy decision with convincing explanation: 'Heck of a skill set'",
-   "text": "The switch from Jameis Winston to McCarthy comes after the third-year quarterback has been with the team for four weeks",
-   "link": "https://www.cbssports.com/nfl/news/giants-john-harbaugh-details-j-j-mccarthy-start/",
-   "published": "2026-10-24T22:18:20+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-29T22:18:20+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/24/e19b763e-55e8-4013-9a6c-0b8944dde386/jhabr.png"
-  },
-  {
-   "id": "n73ad19ee02",
-   "topic": "nfl",
-   "title": "NFL levies two fines to 49ers LB Fred Warner for hit on Commanders TE Chig Okonkwo",
-   "text": "Warner was initially flagged for the violation, but the officials picked it up",
-   "link": "https://www.cbssports.com/nfl/news/nfl-levies-two-fines-to-49ers-lb-fred-warner/",
-   "published": "2026-10-24T22:12:23+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-29T22:12:23+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/24/3d166bfc-4123-433e-be4c-b07fce57d976/template-pic.jpg"
-  },
-  {
-   "id": "n75cea38823",
-   "topic": "politik",
-   "title": "Brasilien - Stichwahl über das Präsidentenamt: Lula oder Bolsonaro?",
-   "text": "Über die Präsidentschaft in Brasilien wird heute in einer Stichwahl zwischen dem linksgerichteten Amtsinhaber Lula da Silva und dem rechten Herausforderer Flávio Bolsonaro entschieden.",
-   "link": "https://www.deutschlandfunk.de/stichwahl-ueber-das-praesidentenamt-lula-oder-bolsonaro-100.html",
-   "published": "2026-10-24T22:09:43+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T22:09:43+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Lula gewinnt Wahl in Brasilien",
-     "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Stichwahl in Brasilien: Kopf-an-Kopf-Rennen zwischen Lula und Bolsonaro",
-     "link": "https://www.dw.com/de/stichwahl-in-brasilien-kopf-an-kopf-rennen-zwischen-lula-und-bolsonaro/a-79754404?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n168f8b532c",
-   "topic": "politik",
-   "title": "Jemen - Huthi-Miliz meldet neue Angriffe auf Saudi-Arabien",
-   "text": "Die jemenitische Huthi-Miliz hat nach eigenen Angaben erneut mehrere Angriffe auf Saudi-Arabien durchgeführt.",
-   "link": "https://www.deutschlandfunk.de/huthi-miliz-meldet-neue-angriffe-auf-saudi-arabien-102.html",
-   "published": "2026-10-24T22:09:43+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T22:09:43+00:00",
-   "img": "https://bilder.deutschlandfunk.de/ba/19/52/d5/ba1952d5-6be8-4f93-bbac-70bac12ccafa/jemen-angriffe-102-1920x1920.jpg"
-  },
-  {
-   "id": "n97f1a2937f",
-   "topic": "nfl",
-   "title": "Cowboys fans render a decision on Brian Schottenheimer’s fate",
-   "text": "Cowboys fans are pretty upset right now.",
-   "link": "https://sports.yahoo.com/articles/cowboys-fans-render-decision-brian-220000760.html",
-   "published": "2026-10-24T22:00:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-29T22:00:00+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/27e234413e27ad1a1961da9c3c668302.jpg"
-  },
-  {
-   "id": "n72af997d3c",
-   "topic": "nfl",
-   "title": "Dontayvion Wicks will not play against Cowboys in Week 7",
-   "text": "Eagles WR Dontayvion Wicks will not play after three straight DNP designations this week",
-   "link": "https://sports.yahoo.com/articles/dontayvion-wicks-not-play-against-203124940.html",
-   "published": "2026-10-24T20:31:24+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-29T20:31:24+00:00"
-  },
-  {
-   "id": "n7a05e033d5",
-   "topic": "nfl",
-   "title": "Falcons activate CB A.J. Terrell from IR",
-   "text": "The Falcons activated cornerback A.J.",
-   "link": "https://sports.yahoo.com/articles/falcons-activate-cb-j-terrell-202307978.html",
-   "published": "2026-10-24T20:23:07+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-29T20:23:07+00:00"
-  },
-  {
-   "id": "n76f56df089",
-   "topic": "nfl",
-   "title": "Ravens vs. Bengals: How to watch AFC North showdown with big playoff implications",
-   "text": "Everything you need to know to catch the Week 7 matchup",
-   "link": "https://www.cbssports.com/nfl/news/bengals-vs-ravens-how-to-watch-odds-preview-prediction/",
-   "published": "2026-10-24T20:19:56+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-29T20:19:56+00:00"
-  },
-  {
-   "id": "nd2eea70197",
-   "topic": "politik",
-   "title": "MT Melsungen siegt bei Balingen-Weilstetten nur mit viel Mühe",
-   "text": "Zwischen zwei wichtigen Champions-League-Spielen lag für die MT Melsungen die Bundesliga-Pflicht. Das Spiel bei Balingen-Weilstetten wurde dabei eine äußerst knappe Angelegenheit - mit gutem Ende für die Nordhessen.",
-   "link": "https://www.hessenschau.de/sport/handball/mt-melsungen/mt-melsungen-siegt-bei-balingen-weilstetten-nur-mit-viel-muehe-v1,mt-balingen-114.html",
-   "published": "2026-10-24T20:19:07+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-28T20:19:07+00:00",
-   "img": "https://www.hessenschau.de/sport/handball/mt-melsungen/mt-hbw-100~_t-1792871941155_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "n9f4191da45",
-   "topic": "nfl",
-   "title": "NFL Week 7 injury report: Lamar Jackson downgraded to out for Ravens matchup vs. Bengals",
-   "text": "A look at game statuses across the league",
-   "link": "https://www.cbssports.com/nfl/news/nfl-week-7-injury-report-baker-mayfield-lamar-jackson-questionable/",
-   "published": "2026-10-24T20:12:15+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-29T20:12:15+00:00"
-  },
-  {
-   "id": "n44a022be91",
-   "topic": "politik",
-   "title": "CSU-Parteitag - Merz ruft Union zu Geschlossenheit auf und warnt vor Extremisten \"von ganz links und ganz rechts\"",
-   "text": "Bundeskanzler Merz hat auf dem CSU-Parteitag in München die Zusammenarbeit in der Union gelobt. Zugleich mahnte er, CDU und CSU müssten künftig noch enger zusammenstehen, um Deutschland vor Extremisten von ganz links und ganz rechts zu bewahren. Zur Debatte über die Nachfolge von Bundespräsident Steinmeier äußerte er …",
-   "link": "https://www.deutschlandfunk.de/merz-ruft-union-zu-geschlossenheit-auf-und-warnt-vor-extremisten-von-ganz-links-und-ganz-rechts-100.html",
-   "published": "2026-10-24T20:04:34+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T20:04:34+00:00"
-  },
-  {
-   "id": "n839b51fbf3",
-   "topic": "politik",
-   "title": "Landesweite Proteste - Erneut Ausschreitungen in Frankreich - laut Innenministerium fast 1.000 Festnahmen",
-   "text": "Unter starker Polizeipräsenz haben in Frankreich ‌Hunderttausende Menschen gegen hohe Lebenshaltungskosten und Misstände im Bildungssystem protestiert. In mehreren Städten gab es erneut Ausschreitungen, unter anderem nach der Hauptkundgebung in Paris.",
-   "link": "https://www.deutschlandfunk.de/erneut-ausschreitungen-in-frankreich-laut-innenministerium-fast-1-000-festnahmen-100.html",
-   "published": "2026-10-24T20:04:34+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T20:04:34+00:00",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Mehr als 1000 Festnahmen nach neuen Protesten in Frankreich",
-     "link": "https://www.dw.com/de/mehr-als-1000-festnahmen-nach-neuen-protesten-in-frankreich/a-79753740?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "ne6c08f7e00",
-   "topic": "politik",
-   "title": "Wien - Staatengemeinschaft strebt neues Abkommen gegen Umweltkriminalität an",
-   "text": "Die internationale Staatengemeinschaft hat in Wien beschlossen, Verhandlungen über ein neues Abkommen gegen Umweltkriminalität aufzunehmen.",
-   "link": "https://www.deutschlandfunk.de/staatengemeinschaft-strebt-neues-abkommen-gegen-umweltkriminalitaet-an-100.html",
-   "published": "2026-10-24T20:04:34+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T20:04:34+00:00"
   }
  ]
 }
