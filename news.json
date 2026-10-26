@@ -1,50 +1,228 @@
 {
- "generated": "2026-10-25T23:16:49.446181+00:00",
+ "generated": "2026-10-26T04:48:22.904806+00:00",
  "briefing": [
   "nb38b7721f5",
-  "nbbcccb03f8",
   "ne764794da1",
   "nb6a25d076f",
   "n1deb15abca",
   "n58a92bdd05",
-  "nb102feb4d7",
-  "n4e854f6902"
+  "nbbcccb03f8",
+  "nb2595ff044",
+  "n92220942de"
  ],
  "ranked": [
   {
    "id": "nb38b7721f5",
-   "s": 38.2
-  },
-  {
-   "id": "nbbcccb03f8",
-   "s": 32.9
+   "s": 37.0
   },
   {
    "id": "ne764794da1",
-   "s": 31.3
+   "s": 29.9
   },
   {
    "id": "nb6a25d076f",
-   "s": 31.0
+   "s": 29.6
   },
   {
    "id": "n1deb15abca",
-   "s": 29.8
+   "s": 28.4
   },
   {
    "id": "n58a92bdd05",
-   "s": 28.2
-  },
-  {
-   "id": "nb102feb4d7",
    "s": 27.0
   },
   {
-   "id": "n4e854f6902",
-   "s": 22.9
+   "id": "nbbcccb03f8",
+   "s": 23.0
+  },
+  {
+   "id": "nb2595ff044",
+   "s": 23.0
+  },
+  {
+   "id": "n92220942de",
+   "s": 21.6
   }
  ],
  "items": [
+  {
+   "id": "nbbcccb03f8",
+   "topic": "politik",
+   "title": "Parlamentswahl - Serbien steht vor einem Machtwechsel - Vucic räumt Niederlage ein",
+   "text": "Serbien steht nach der Parlamentswahl vor einem Machtwechsel.",
+   "link": "https://www.deutschlandfunk.de/serbien-steht-vor-einem-machtwechsel-vucic-raeumt-niederlage-ein-102.html",
+   "published": "2026-10-26T04:43:47+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T04:43:47+00:00",
+   "img": "https://bilder.deutschlandfunk.de/10/98/1c/b4/10981cb4-53b3-4091-987d-f6dddafb8bf2/serbien-vucic-wahl-100-1920x1920.jpg"
+  },
+  {
+   "id": "n50c998a9cb",
+   "topic": "politik",
+   "title": "Brasilien - Lula gewinnt Präsidenten-Stichwahl - Bolsonaro erkennt Ergebnis nicht an",
+   "text": "In Brasilien hat der linksgerichtete Amtsinhaber Lula da Silva die Stichwahl um das Präsidentenamt gewonnen. Das teilte das Oberste Wahlgericht mit. Der 80-Jährige kommt auf fast 52 Prozent der Stimmen.",
+   "link": "https://www.deutschlandfunk.de/lula-gewinnt-praesidenten-stichwahl-bolsonaro-erkennt-ergebnis-nicht-an-100.html",
+   "published": "2026-10-26T04:43:47+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T04:43:47+00:00",
+   "img": "https://bilder.deutschlandfunk.de/a9/71/70/68/a9717068-16c8-4fe0-86ef-7b8f832ffb7c/brasilien-praesidentschaftswahl-lula-da-silva-bolsonaro-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Lula gewinnt Wahl in Brasilien",
+     "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Stichwahl in Brasilien: Kopf-an-Kopf-Rennen zwischen Lula und Bolsonaro",
+     "link": "https://www.dw.com/de/stichwahl-in-brasilien-kopf-an-kopf-rennen-zwischen-lula-und-bolsonaro/a-79754404?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "nb2595ff044",
+   "topic": "politik",
+   "title": "SPD - \"Wahlkampfhilfe für Autokraten\": Vorwürfe gegen VW nach Audi-Chef-Auftritt bei Trump",
+   "text": "Der Auftritt des Vorstandschefs der VW-Tochter Audi, Döllner, im Wahlkampf von US-Präsident Trump ist auf Kritik gestoßen. Es sei eine Schande, insbesondere in Anbetracht der Geschichte des VW-Konzerns, erklärte die SPD-Bundestagsabgeordnete Cademartori.",
+   "link": "https://www.deutschlandfunk.de/wahlkampfhilfe-fuer-autokraten-vorwuerfe-gegen-vw-nach-audi-chef-auftritt-bei-trump-100.html",
+   "published": "2026-10-26T04:43:47+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T04:43:47+00:00",
+   "img": "https://bilder.deutschlandfunk.de/f4/62/96/c3/f46296c3-6615-4c17-8ea7-8a6d94256826/isabel-cademartori-100-1920x1920.jpg"
+  },
+  {
+   "id": "nc08be2be68",
+   "topic": "politik",
+   "title": "\"Luise\" und \"Manja\" - Schäden und Verletzte bei Herbststürmen - Kreuzfahrtschiff stößt mit Frachter zusammen",
+   "text": "Herbststürme haben in Deutschland und anderen Ländern Westeuropas Schäden hinterlassen.",
+   "link": "https://www.deutschlandfunk.de/schaeden-und-verletzte-bei-herbststuermen-kreuzfahrtschiff-stoesst-mit-frachter-zusammen-100.html",
+   "published": "2026-10-26T04:43:47+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T04:43:47+00:00"
+  },
+  {
+   "id": "n0c1bb97c28",
+   "topic": "politik",
+   "title": "Kehrtwende - Berichte über AfD-Leaks: Interne Mails belegen Weidels Abkehr von Distanzierung zum rechten Flügel",
+   "text": "In der Diskussion um die politische Ausrichtung der AfD ist interne Kommunikation veröffentlicht worden, die im Gegensatz zum heutigen Auftreten der Parteispitze steht.",
+   "link": "https://www.deutschlandfunk.de/berichte-ueber-afd-leaks-interne-mails-belegen-weidels-abkehr-von-distanzierung-zum-rechten-fluegel-100.html",
+   "published": "2026-10-26T04:43:47+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T04:43:47+00:00",
+   "img": "https://bilder.deutschlandfunk.de/9c/a9/ca/ec/9ca9caec-a71b-4a10-8eea-ad90d88f8c5f/weidel-afd-berlin-100-1920x1920.jpg"
+  },
+  {
+   "id": "na523ec083e",
+   "topic": "politik",
+   "title": "NDR - Fernsehansagerin Hanni Vanhaiden mit 88 Jahren gestorben",
+   "text": "Die frühere NDR-Fernsehansagerin Hanni Vanhaiden ist tot.",
+   "link": "https://www.deutschlandfunk.de/fernsehansagerin-hanni-vanhaiden-mit-88-jahren-gestorben-100.html",
+   "published": "2026-10-26T04:43:47+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T04:43:47+00:00",
+   "img": "https://bilder.deutschlandfunk.de/b1/99/1d/2d/b1991d2d-c428-42df-bff5-73b7cac590c6/hanni-vanhaiden-100-768x768.jpg"
+  },
+  {
+   "id": "nd27e8dee3b",
+   "topic": "nfl",
+   "title": "Broncos are home underdogs to Chiefs in Week 8 (OVERDOG SZN)",
+   "text": "The Denver Broncos are home underdogs to the Kansas City Chiefs in Week 8. The disrespect it palpable. Overdog time.",
+   "link": "https://sports.yahoo.com/articles/broncos-home-underdogs-chiefs-week-043921926.html",
+   "published": "2026-10-26T04:39:21+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-31T04:39:21+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/030b535f6c032bed4d11b81dad2b3ee9.jpg"
+  },
+  {
+   "id": "n614d872c9c",
+   "topic": "nfl",
+   "title": "Bears vs. Seahawks odds: Opening lines for Week 8 matchup",
+   "text": "The Chicago Bears and the Seattle Seahawks are both coming off prime-time Week 7 wins, and they’ll face each other under the lights in Week 8 on Monday Night Football. The (5-2) Bears knocked off the New England Patriots 30 to 24 on Thursday Night Football, while the (4-3) Seahawks just won 20 to 3 […]",
+   "link": "https://sports.yahoo.com/articles/bears-vs-seahawks-odds-opening-041309537.html",
+   "published": "2026-10-26T04:13:09+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-31T04:13:09+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/b85af008c92e3f59139535e267a3c833.jpg"
+  },
+  {
+   "id": "n94b1869ee6",
+   "topic": "it",
+   "title": "Google erlaubt sich nun Zugriff auf Gmail und Fotos für personalisierte Werbung",
+   "text": "Durch eine Änderung der Datenschutzerklärung kann Google jetzt Anzeigen auf Basis persönlicher E-Mails und Fotos personalisieren. Das lässt sich aber abstellen.",
+   "link": "https://www.heise.de/news/Google-erlaubt-sich-nun-Zugriff-auf-Gmail-und-Fotos-fuer-personalisierte-Werbung-11499567.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-26T04:03:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-31T04:03:00+00:00"
+  },
+  {
+   "id": "n246887afbf",
+   "topic": "nfl",
+   "title": "Cam Skattebo says he's going to keep breaking NFL rules after getting flagged for rarely enforced penalty",
+   "text": "Skattebo made it clear he intends to keep seeking out contact",
+   "link": "https://www.cbssports.com/nfl/news/cam-skattebo-rare-penalty-giants-texans-2026/",
+   "published": "2026-10-26T03:40:02+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-31T03:40:02+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/26/e4db0b1f-aa70-4cde-8e67-7820cdbdf937/skattebo.jpg"
+  },
+  {
+   "id": "nccb0b85026",
+   "topic": "welt",
+   "title": "Lula gewinnt Wahl in Brasilien",
+   "text": "Der linke Staatschef Lula hat die Präsidentschaftswahl in Brasilien gewonnen. Der Trump-Gegner setzte sich gegen den rechten Kandidaten Bolsonaro durch - doch der will das Ergebnis nicht anerkennen.",
+   "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html",
+   "published": "2026-10-26T03:28:19+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-29T03:28:19+00:00",
+   "img": "https://images.tagesschau.de/image/7e52859b-49af-4843-83be-ad391e13f68b/AAABoXXW07o/AAABnSSvrFg/16x9-big/lula-234.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Brasilien - Lula gewinnt Präsidenten-Stichwahl - Bolsonaro erkennt Ergebnis nicht an",
+     "link": "https://www.deutschlandfunk.de/lula-gewinnt-praesidenten-stichwahl-bolsonaro-erkennt-ergebnis-nicht-an-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Stichwahl in Brasilien: Kopf-an-Kopf-Rennen zwischen Lula und Bolsonaro",
+     "link": "https://www.dw.com/de/stichwahl-in-brasilien-kopf-an-kopf-rennen-zwischen-lula-und-bolsonaro/a-79754404?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "n6cc8758eea",
+   "topic": "nfl",
+   "title": "NFL Week 7 grades: Falcons earn solid 'A' mark, while Panthers flop with a resounding 'F'",
+   "text": "We're grading every game from Week 7 that has been played so far",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-7-grades-falcons-buccaneers-giants-panthers/",
+   "published": "2026-10-26T03:24:47+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-31T03:24:47+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/25/d6c522d9-f14d-4210-946a-16833baffc3d/atlanta-falcons.jpg"
+  },
   {
    "id": "n92220942de",
    "topic": "politik",
@@ -108,26 +286,6 @@
    "expires": "2026-10-30T23:00:48+00:00"
   },
   {
-   "id": "nbbcccb03f8",
-   "topic": "politik",
-   "title": "Parlamentswahl - Serbien steht vor einem Machtwechsel - Vucic räumt Niederlage ein",
-   "text": "Serbien steht nach der Parlamentswahl vor einem Machtwechsel. Der ehemalige Staatspräsident Vucic räumte die Niederlage seiner Partei gegen die sogenannte Studentenliste ein. Das neue Bündnis mit ihrem Spitzenkandidaten Ilija Srdanovic erzielte serbischen Medien zufolge mit mehr als 51 Prozent der Stimmen die absolute …",
-   "link": "https://www.deutschlandfunk.de/serbien-steht-vor-einem-machtwechsel-vucic-raeumt-niederlage-ein-102.html",
-   "published": "2026-10-25T22:54:41+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T22:54:41+00:00",
-   "img": "https://bilder.deutschlandfunk.de/10/98/1c/b4/10981cb4-53b3-4091-987d-f6dddafb8bf2/serbien-vucic-wahl-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Vorgezogene Parlamentswahlen in Serbien: Machtwechsel oder weiter mit Aleksandar Vučić?",
-     "link": "https://www.dw.com/de/vorgezogene-parlamentswahlen-in-serbien-machtwechsel-oder-weiter-mit-aleksandar-vučić/a-79750692?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
    "id": "n9fab3b107d",
    "topic": "politik",
    "title": "Südamerika - Stichwahl um Präsidentschaftsamt: Auszählung hat begonnen",
@@ -175,8 +333,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-27T22:54:41+00:00",
-   "img": "https://bilder.deutschlandfunk.de/d0/06/58/04/d0065804-b589-4a0c-8b14-53acf473e34c/bremerhaven-kollision-100-768x768.jpg"
+   "expires": "2026-10-27T22:54:41+00:00"
   },
   {
    "id": "ndff8296680",
@@ -410,7 +567,7 @@
   {
    "id": "nff57cb6eef",
    "topic": "it",
-   "title": "TLD-Berwerbungen: Privatwirtschaft greift nach Städtedomains",
+   "title": "TLD-Bewerbungen: Privatwirtschaft greift nach Städtedomains",
    "text": "Für hunderte neue Top-Level-Domains gibt es Mehrfachbewerber. Um Städtenamen wie München und Frankfurt bahnt sich Streit an.",
    "link": "https://www.heise.de/news/TLD-Berwerbungen-Privatwirtschaft-greift-nach-Staedtedomains-11499409.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
    "published": "2026-10-25T17:11:00+00:00",
@@ -760,14 +917,14 @@
    "img": "https://static.dw.com/image/79754280_302.jpg",
    "also": [
     {
-     "source": "Tagesschau",
-     "title": "Lula oder Bolsonaro: Brasilien vor der Stichwahl",
-     "link": "https://www.tagesschau.de/ausland/amerika/brasilien-stichwahl-bolsonaro-lula-100.html"
+     "source": "Deutschlandfunk",
+     "title": "Brasilien - Lula gewinnt Präsidenten-Stichwahl - Bolsonaro erkennt Ergebnis nicht an",
+     "link": "https://www.deutschlandfunk.de/lula-gewinnt-praesidenten-stichwahl-bolsonaro-erkennt-ergebnis-nicht-an-100.html"
     },
     {
-     "source": "Deutschlandfunk",
-     "title": "Brasilien - Stichwahl über das Präsidentenamt zwischen Lula und Bolsonaro",
-     "link": "https://www.deutschlandfunk.de/stichwahl-ueber-das-praesidentenamt-zwischen-lula-und-bolsonaro-104.html"
+     "source": "Tagesschau",
+     "title": "Lula gewinnt Wahl in Brasilien",
+     "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html"
     }
    ]
   },
@@ -1222,14 +1379,14 @@
    "img": "https://images.tagesschau.de/image/9ac8c9bf-ce83-4fd4-85c7-c284fe8da23d/AAABoXH7A5k/AAABnSSvrFg/16x9-big/brasilien-726.jpg?width=1920",
    "also": [
     {
+     "source": "Deutschlandfunk",
+     "title": "Brasilien - Lula gewinnt Präsidenten-Stichwahl - Bolsonaro erkennt Ergebnis nicht an",
+     "link": "https://www.deutschlandfunk.de/lula-gewinnt-praesidenten-stichwahl-bolsonaro-erkennt-ergebnis-nicht-an-100.html"
+    },
+    {
      "source": "Deutsche Welle",
      "title": "Stichwahl in Brasilien: Kopf-an-Kopf-Rennen zwischen Lula und Bolsonaro",
      "link": "https://www.dw.com/de/stichwahl-in-brasilien-kopf-an-kopf-rennen-zwischen-lula-und-bolsonaro/a-79754404?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Deutschlandfunk",
-     "title": "Brasilien - Stichwahl über das Präsidentenamt zwischen Lula und Bolsonaro",
-     "link": "https://www.deutschlandfunk.de/stichwahl-ueber-das-praesidentenamt-zwischen-lula-und-bolsonaro-104.html"
     }
    ]
   },
@@ -1296,14 +1453,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-27T03:53:57+00:00",
-   "img": "https://bilder.deutschlandfunk.de/d1/49/3b/fd/d1493bfd-1522-45f9-9394-3655af37efbe/merz-csu-parteitag-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "CSU-Parteitag: Merz äußert sich nicht zur Präsidentinnen-Frage",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/csu-parteitag-merz-106.html"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/d1/49/3b/fd/d1493bfd-1522-45f9-9394-3655af37efbe/merz-csu-parteitag-100-1920x1920.jpg"
   },
   {
    "id": "n680d6f635e",
@@ -1331,14 +1481,14 @@
    "expires": "2026-10-27T03:53:57+00:00",
    "also": [
     {
+     "source": "Tagesschau",
+     "title": "Lula gewinnt Wahl in Brasilien",
+     "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html"
+    },
+    {
      "source": "Deutsche Welle",
      "title": "Stichwahl in Brasilien: Kopf-an-Kopf-Rennen zwischen Lula und Bolsonaro",
      "link": "https://www.dw.com/de/stichwahl-in-brasilien-kopf-an-kopf-rennen-zwischen-lula-und-bolsonaro/a-79754404?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Lula oder Bolsonaro: Brasilien vor der Stichwahl",
-     "link": "https://www.tagesschau.de/ausland/amerika/brasilien-stichwahl-bolsonaro-lula-100.html"
     }
    ]
   },
@@ -1377,14 +1527,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-08T01:11:58+00:00",
-   "img": "https://images.tagesschau.de/image/7d6b7325-7168-4ce9-baeb-c0e74e2c96eb/AAABoWMO72Y/AAABnSSvrFg/16x9-big/wecker-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Zeitumstellung - In der Nacht werden die Uhren eine Stunde zurückgestellt",
-     "link": "https://www.deutschlandfunk.de/in-der-nacht-werden-die-uhren-eine-stunde-zurueckgestellt-100.html"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/7d6b7325-7168-4ce9-baeb-c0e74e2c96eb/AAABoWMO72Y/AAABnSSvrFg/16x9-big/wecker-100.jpg?width=1920"
   },
   {
    "id": "nfbeabf351b",
@@ -1437,14 +1580,14 @@
    "expires": "2026-10-26T22:09:43+00:00",
    "also": [
     {
+     "source": "Tagesschau",
+     "title": "Lula gewinnt Wahl in Brasilien",
+     "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html"
+    },
+    {
      "source": "Deutsche Welle",
      "title": "Stichwahl in Brasilien: Kopf-an-Kopf-Rennen zwischen Lula und Bolsonaro",
      "link": "https://www.dw.com/de/stichwahl-in-brasilien-kopf-an-kopf-rennen-zwischen-lula-und-bolsonaro/a-79754404?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Lula oder Bolsonaro: Brasilien vor der Stichwahl",
-     "link": "https://www.tagesschau.de/ausland/amerika/brasilien-stichwahl-bolsonaro-lula-100.html"
     }
    ]
   },
@@ -1546,14 +1689,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-26T20:04:34+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "CSU-Parteitag: Merz äußert sich nicht zur Präsidentinnen-Frage",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/csu-parteitag-merz-106.html"
-    }
-   ]
+   "expires": "2026-10-26T20:04:34+00:00"
   },
   {
    "id": "n839b51fbf3",
@@ -1585,174 +1721,6 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-26T20:04:34+00:00"
-  },
-  {
-   "id": "n80c286e81d",
-   "topic": "politik",
-   "title": "Slowakei - Regional- und Kommunalwahlen zu Ende",
-   "text": "In der Slowakei sind Regional- und Kommunalwahlen abgehalten worden.",
-   "link": "https://www.deutschlandfunk.de/regional-und-kommunalwahlen-zu-ende-100.html",
-   "published": "2026-10-24T20:04:34+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T20:04:34+00:00",
-   "img": "https://bilder.deutschlandfunk.de/23/eb/33/ff/23eb33ff-84f8-4fc3-b947-0445823ae994/slowakei-116-1920x1920.jpg"
-  },
-  {
-   "id": "n5f19911a55",
-   "topic": "politik",
-   "title": "Zeitumstellung - In der Nacht werden die Uhren eine Stunde zurückgestellt",
-   "text": "In der kommenden Nacht werden die Uhren wieder eine Stunde zurückgestellt - von 3 auf 2 Uhr. Damit gilt wieder die Mitteleuropäische Zeit.",
-   "link": "https://www.deutschlandfunk.de/in-der-nacht-werden-die-uhren-eine-stunde-zurueckgestellt-100.html",
-   "published": "2026-10-24T20:04:34+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T20:04:34+00:00",
-   "img": "https://bilder.deutschlandfunk.de/7f/44/17/c8/7f4417c8-225a-4cd5-a7f8-947070073541/sommerzeit-uhr-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Sommerzeit beendet - Uhren um eine Stunde zurückgestellt",
-     "link": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-sommerzeit-138.html"
-    }
-   ]
-  },
-  {
-   "id": "nceaef9ee91",
-   "topic": "politik",
-   "title": "Fußball-Bundesliga - Siege für Dortmund, Leipzig, Bremen und Paderborn",
-   "text": "In der Fußball-Bundesliga hat Dortmund gegen Frankfurt mit 1:0 gewonnen. Die Mannschaft von Trainer Niko Kovac verdrängte damit Bayern München von der Tabellenspitze. Das Tor für den BVB schoss Maximilian Beier (80.).",
-   "link": "https://www.deutschlandfunk.de/siege-fuer-dortmund-leipzig-bremen-und-paderborn-102.html",
-   "published": "2026-10-24T20:04:34+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-26T20:04:34+00:00",
-   "img": "https://bilder.deutschlandfunk.de/87/49/3b/f4/87493bf4-35c4-434b-9cdc-41435c105bee/leipzig-frankfurt-bundesliga-100-1920x1920.jpg"
-  },
-  {
-   "id": "nfd55153f76",
-   "topic": "welt",
-   "title": "Vorgezogene Parlamentswahlen in Serbien: Machtwechsel oder weiter mit Aleksandar Vučić?",
-   "text": "Kommt es zum Showdown gegen den langjährigen Machthaber und Ex-Präsidenten Staatschef Aleksandar Vučić? Bei den vorgezogenen Parlamentswahlen in Serbien am Sonntag geht es um einen politischen Richtungswechsel im Land.",
-   "link": "https://www.dw.com/de/vorgezogene-parlamentswahlen-in-serbien-machtwechsel-oder-weiter-mit-aleksandar-vučić/a-79750692?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-24T19:20:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-28T19:20:00+00:00",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Parlamentswahl - Serbien steht vor einem Machtwechsel - Vucic räumt Niederlage ein",
-     "link": "https://www.deutschlandfunk.de/serbien-steht-vor-einem-machtwechsel-vucic-raeumt-niederlage-ein-102.html"
-    }
-   ]
-  },
-  {
-   "id": "nb1f5f4beb5",
-   "topic": "welt",
-   "title": "Vorgezogene Parlamentswahlen in Serbien: Machtwechsel oder weiter mit Aleksandar Vucic?",
-   "text": "Kommt es zum Showdown gegen den langjährigen Machthaber und Ex-Präsidenten Staatschef Aleksandar Vucic? Bei den vorgezogenen Parlamentswahlen in Serbien am Sonntag geht es um einen politischen Richtungswechsel im Land.",
-   "link": "https://www.dw.com/de/vorgezogene-parlamentswahlen-in-serbien-machtwechsel-oder-weiter-mit-aleksandar-vucic/a-79750692?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-24T19:20:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-28T19:20:00+00:00",
-   "img": "https://static.dw.com/image/79738242_302.jpg",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Parlamentswahl - Serbien steht vor einem Machtwechsel - Vucic räumt Niederlage ein",
-     "link": "https://www.deutschlandfunk.de/serbien-steht-vor-einem-machtwechsel-vucic-raeumt-niederlage-ein-102.html"
-    }
-   ]
-  },
-  {
-   "id": "n98ebb00de7",
-   "topic": "welt",
-   "title": "Hunderttausende protestieren in Frankreich - neue Unruhen",
-   "text": "Eine Woche nach den schweren Ausschreitungen in Frankreich haben am Samstag landesweit mehr als 400.000 Menschen demonstriert. Nach einem friedlichen Beginn kam es am Abend zu Zusammenstößen mit der Polizei. Fast 1.000 Menschen wurden festgenommen.",
-   "link": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html",
-   "published": "2026-10-24T19:00:39+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T19:00:39+00:00",
-   "img": "https://images.tagesschau.de/image/236feb84-b24d-4116-b8f0-5a0b0cf48424/AAABoW7hjg0/AAABnSSvrFg/16x9-big/marseille-protest-100.jpg?width=1920"
-  },
-  {
-   "id": "n29f8a2c99c",
-   "topic": "it",
-   "title": "Top 10: Die beste Smartwatch mit EKG – Gesundheitsuhren im Test",
-   "text": "Vorhofflimmern bleibt oft unbemerkt. Smartwatches mit EKG können Hinweise auf Herzrhythmusstörungen liefern. Wir zeigen die besten Gesundheitsuhren.",
-   "link": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-mit-ekg-gesundheitsuhren-im-test/02n25tj?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-24T18:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-29T18:00:00+00:00"
-  },
-  {
-   "id": "nb102feb4d7",
-   "topic": "politik",
-   "title": "CSU-Parteitag: Merz äußert sich nicht zur Präsidentinnen-Frage",
-   "text": "Wird CSU-Politikerin Aigner Kandidatin für das Amt der Bundespräsidentin? Mit Spannung wurde erwartet, ob sich CDU-Chef Merz auf dem CSU-Parteitag dazu äußert. Er tat es nicht - und sendete doch ein Signal. Von Kerstin Palzer.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/csu-parteitag-merz-106.html",
-   "published": "2026-10-24T16:51:47+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T16:51:47+00:00",
-   "img": "https://images.tagesschau.de/image/75e53fcc-ad65-4552-9098-c0f1ed6df143/AAABoW5wUjA/AAABnSSvrFg/16x9-big/merz-aigner-102.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "CSU-Parteitag - Merz ruft Union zu Geschlossenheit auf und warnt vor Extremisten \"von ganz links und ganz rechts\"",
-     "link": "https://www.deutschlandfunk.de/merz-ruft-union-zu-geschlossenheit-auf-und-warnt-vor-extremisten-von-ganz-links-und-ganz-rechts-102.html"
-    }
-   ]
-  },
-  {
-   "id": "n14b8834074",
-   "topic": "politik",
-   "title": "65 Jahre Anwerbeabkommen: Zum Arbeiten gekommen, Heimat gefunden",
-   "text": "Als Deutschland und die Türkei 1961 das Anwerbeabkommen unterschreiben, rechnet niemand damit, dass Hunderttausende Menschen dauerhaft eine Heimat hier finden werden. Für viele ein hart erarbeiteter Erfolg. Von Carolyn Wißing.",
-   "link": "https://www.tagesschau.de/inland/gesellschaft/anwerbeabkommen-tuerkei-100.html",
-   "published": "2026-10-24T16:19:11+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T16:19:11+00:00",
-   "img": "https://images.tagesschau.de/image/8be3bd92-525f-4cd4-a0a6-b93d28f04157/AAABoWgUEo8/AAABnSSvrFg/16x9-big/sendungsbild-1816008.jpg?width=1920"
-  },
-  {
-   "id": "ned99427ccd",
-   "topic": "it",
-   "title": "BGH: Auch Textnachrichten können sexuellen Missbrauch per Chat begründen",
-   "text": "Der Bundesgerichtshof stellt klar: Pornografische Chats können selbst ohne Bilder oder Videos den Straftatbestand des Missbrauchs ohne Körperkontakt erfüllen.",
-   "link": "https://www.heise.de/news/BGH-Auch-Textnachrichten-koennen-sexuellen-Missbrauch-per-Chat-begruenden-11499273.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-24T16:19:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-29T16:19:00+00:00"
-  },
-  {
-   "id": "nd7d57ce8b1",
-   "topic": "welt",
-   "title": "Hausdurchsuchungen und Zwangsräumungen in Hebron",
-   "text": "Nach dem tödlichen Angriff auf israelische Soldaten geht die Armee weiter gegen Palästinenser in Hebron vor. Hunderte Menschen mussten überstürzt ihre Häuser verlassen. Von Bettina Meier.",
-   "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-104.html",
-   "published": "2026-10-24T16:06:57+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T16:06:57+00:00",
-   "img": "https://images.tagesschau.de/image/5f40dd81-b3e5-4438-ab65-ee5b3fe1c7b4/AAABoW6qTsk/AAABnSSvrFg/16x9-big/hebron-abriegelung-100.jpg?width=1920"
   }
  ]
 }
