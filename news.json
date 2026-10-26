@@ -1,55 +1,633 @@
 {
- "generated": "2026-10-26T13:04:44.360636+00:00",
+ "generated": "2026-10-26T20:29:36.796967+00:00",
  "briefing": [
   "nccb0b85026",
   "n3fcc4bc6ab",
   "ne764794da1",
-  "nb6a25d076f",
-  "n1deb15abca",
-  "n1c2617d040",
-  "nbcbea5bcce",
-  "n896d074c79",
-  "nbbcccb03f8"
+  "n2d9f309c99",
+  "nf3123314cb",
+  "n93d53548fd",
+  "n2f77ceac83",
+  "nbaa03ed870",
+  "n2db4a3c3a7",
+  "nbcbea5bcce"
  ],
  "ranked": [
   {
    "id": "nccb0b85026",
-   "s": 41.5
+   "s": 39.6
   },
   {
    "id": "n3fcc4bc6ab",
-   "s": 27.9
+   "s": 36.1
   },
   {
    "id": "ne764794da1",
-   "s": 27.8
-  },
-  {
-   "id": "nb6a25d076f",
-   "s": 27.5
-  },
-  {
-   "id": "n1deb15abca",
    "s": 27.0
   },
   {
-   "id": "n1c2617d040",
-   "s": 23.0
+   "id": "n2d9f309c99",
+   "s": 22.9
+  },
+  {
+   "id": "nf3123314cb",
+   "s": 22.9
+  },
+  {
+   "id": "n93d53548fd",
+   "s": 22.9
+  },
+  {
+   "id": "n2f77ceac83",
+   "s": 22.7
+  },
+  {
+   "id": "nbaa03ed870",
+   "s": 22.0
+  },
+  {
+   "id": "n2db4a3c3a7",
+   "s": 22.0
   },
   {
    "id": "nbcbea5bcce",
-   "s": 23.0
+   "s": 21.1
   },
   {
    "id": "n896d074c79",
-   "s": 23.0
+   "s": 21.1
+  },
+  {
+   "id": "n91bf8e8a74",
+   "s": 20.5
+  },
+  {
+   "id": "n2006fa03e6",
+   "s": 20.5
+  },
+  {
+   "id": "nc16dd798f0",
+   "s": 20.3
+  },
+  {
+   "id": "n0c8b0cfd8e",
+   "s": 20.2
   },
   {
    "id": "nbbcccb03f8",
-   "s": 20.9
+   "s": 19.1
+  },
+  {
+   "id": "nb2595ff044",
+   "s": 19.1
+  },
+  {
+   "id": "ndb7fddc18c",
+   "s": 17.4
   }
  ],
  "items": [
+  {
+   "id": "n39834dccdd",
+   "topic": "nfl",
+   "title": "Packers bring up Mekhi Becton to the active roster, Jacob Monk to IR",
+   "text": "The Packers seem adamant on keeping 11 offensive linemen on their 53-man roster, following Jacob Monk’s placement on the IR",
+   "link": "https://sports.yahoo.com/articles/packers-bring-mekhi-becton-active-202008695.html",
+   "published": "2026-10-26T20:20:08+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-31T20:20:08+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/dc71bdc3f7fe16ddf8f017ebd1758cf7.jpg"
+  },
+  {
+   "id": "n23f3c09f40",
+   "topic": "nfl",
+   "title": "Recap: Saints play Steelers in inaugural Paris matchup",
+   "text": "Catch up on all the action from France.",
+   "link": "https://sports.yahoo.com/articles/recap-saints-play-steelers-inaugural-201902138.html",
+   "published": "2026-10-26T20:19:02+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-31T20:19:02+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/3eb7edf41553f77cdb8adf17bf32f8e9.jpg"
+  },
+  {
+   "id": "n97ded3a358",
+   "topic": "ki",
+   "title": "OpenAI bringt GPT-6.1 Terra: Günstiger und genauer als der Vorgänger",
+   "text": "OpenAI hat mit GPT-6.1 Terra ein neues Mittelklasse-Modell veröffentlicht, das die API-Preise gegenüber dem Vorgänger GPT-5.6 Terra halbiert. Laut Artificial Analysis setzt das Modell eine neue Bestmarke beim Verhältnis von Intelligenz zu Kosten und eignet sich besonders für gängige Computerarbeit, insbesondere für …",
+   "link": "https://the-decoder.de/openai-bringt-gpt-6-1-terra-guenstiger-und-genauer-als-der-vorgaenger/",
+   "published": "2026-10-26T20:08:55+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-02T20:08:55+00:00"
+  },
+  {
+   "id": "n3502d9a61c",
+   "topic": "it",
+   "title": "Microsoft bietet 60.000 Mitarbeitern Goldenen Handschlag",
+   "text": "„Bitte geh‟, sagt Microsoft zu 60.000 Mitarbeitern in 4 Ländern. „Wir zahlen auch was.‟ Es ist ein Signal: KI bedeutet Kündigungen International.",
+   "link": "https://www.heise.de/news/Microsoft-bietet-60-000-Mitarbeitern-Goldenen-Handschlag-11501027.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-26T20:08:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-31T20:08:00+00:00",
+   "also": [
+    {
+     "source": "Golem.de",
+     "title": "KI-Kosten: Microsoft bietet bis zu 60.000 Mitarbeitern Abfindungen an",
+     "link": "https://www.golem.de/news/ki-kosten-microsoft-bietet-bis-zu-60-000-mitarbeitern-abfindungen-an-2610-214531.html"
+    }
+   ]
+  },
+  {
+   "id": "n2d9f309c99",
+   "topic": "politik",
+   "title": "Frankreich - Nach Protesten: Regierung kündigt Reformen im Bildungswesen an",
+   "text": "Die französische Regierung hat nach wochenlangen Protesten von Schülerinnen, Schülern und Studierenden Verbesserungen im Bildungswesen angekündigt.",
+   "link": "https://www.deutschlandfunk.de/nach-protesten-regierung-kuendigt-reformen-im-bildungswesen-an-102.html",
+   "published": "2026-10-26T19:57:03+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T19:57:03+00:00",
+   "img": "https://bilder.deutschlandfunk.de/00/c1/21/a3/00c121a3-3ba6-49d3-8d82-9d907e3e21a3/lyon-proteste-102-1920x1920.jpg"
+  },
+  {
+   "id": "na4d37f3a52",
+   "topic": "politik",
+   "title": "Investitionen in den USA - Audi-Chef Döllner weist Kritik an Auftritt mit US-Präsident Trump zurück",
+   "text": "Der Audi-Vorstandsvorsitzende Döllner hat die Kritik an seinem Auftritt auf einer Wahlkampfveranstaltung von US-Präsident Trump zurückgewiesen. Er schrieb in einer Mitteilung an die Beschäftigten, Produktionsvorstand Walker und er seien gebeten worden, die Investitionspläne vorzustellen. Döllner betonte, im Interesse …",
+   "link": "https://www.deutschlandfunk.de/audi-chef-doellner-weist-kritik-an-auftritt-mit-us-praesident-trump-zurueck-100.html",
+   "published": "2026-10-26T19:57:03+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T19:57:03+00:00",
+   "img": "https://bilder.deutschlandfunk.de/46/8e/de/04/468ede04-f705-453a-bb8c-43661d86b5c2/doellner-audi-chef-trump-usa-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Kritik an Audi-Chef Döllner reißt nach Auftritt mit Trump nicht ab",
+     "link": "https://www.tagesschau.de/inland/audi-kritik-doellner-trump-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Audi-Chef Döllner nach Auftritt mit Trump in der Kritik",
+     "link": "https://www.dw.com/de/audi-chef-döllner-nach-auftritt-mit-trump-in-der-kritik/a-79764234?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "na618c6c2c4",
+   "topic": "politik",
+   "title": "Angestrebter Personalabbau - Microsoft will jedem vierten Mitarbeiter eine Abfindung anbieten",
+   "text": "Der Software-Konzern Microsoft hat etwa jedem vierten Mitarbeiter eine Abfindung angeboten.",
+   "link": "https://www.deutschlandfunk.de/microsoft-will-jedem-vierten-mitarbeiter-eine-abfindung-anbieten-100.html",
+   "published": "2026-10-26T19:57:03+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T19:57:03+00:00"
+  },
+  {
+   "id": "nf3123314cb",
+   "topic": "politik",
+   "title": "Nachfolge von Steinmeier - SPD-Frakionschef Miersch will CSU-Politikerin Aigner als nächste Bundespräsidentin",
+   "text": "In der Diskussion über die Nachfolge von Bundespräsident Steinmeier hat sich SPD-Fraktionschef Miersch für die CSU-Politikerin Aigner ausgesprochen.",
+   "link": "https://www.deutschlandfunk.de/spd-frakionschef-miersch-will-csu-politikerin-aigner-als-naechste-bundespraesidentin-102.html",
+   "published": "2026-10-26T19:57:03+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T19:57:03+00:00",
+   "img": "https://bilder.deutschlandfunk.de/87/d5/91/40/87d59140-5ed7-46c1-8cb1-7b6408ef8437/generaldebatte-miersch-bundestag-100-1920x1920.jpg"
+  },
+  {
+   "id": "n93d53548fd",
+   "topic": "politik",
+   "title": "EU-Verhandlungen - Ausnahme für Ostsee-Heringsfischer bleibt bestehen",
+   "text": "Deutsche Ostseefischer dürfen auch im kommenden Jahr weiter mit kleinen Booten und Stellnetzen gezielt Hering fangen.",
+   "link": "https://www.deutschlandfunk.de/ausnahme-fuer-ostsee-heringsfischer-bleibt-bestehen-100.html",
+   "published": "2026-10-26T19:57:03+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T19:57:03+00:00",
+   "img": "https://bilder.deutschlandfunk.de/c8/89/92/2f/c889922f-0b29-4b76-995b-bd4f75e2db1d/alois-rainer-csu-landwirtschaftsminister-agrar-fischerei-verbot-luxemburg-100-1920x1920.jpg"
+  },
+  {
+   "id": "ne71e8c0714",
+   "topic": "politik",
+   "title": "Bericht - Bundesrechnungshof sieht Fehlentwicklungen bei Bahn-Sanierungen",
+   "text": "Der Bundesrechnungshof wirft der Bahn erhebliche Mängel bei der Sanierung viel befahrener Zugstrecken vor. Die Nachrichtenagentur dpa zitiert aus einem entsprechenden Bericht der Behörde an den Haushaltsausschuss des Bundestags. Darin heißt es, die ersten Korridorsanierungen zeigten gravierende Fehlentwicklungen.",
+   "link": "https://www.deutschlandfunk.de/bundesrechnungshof-sieht-fehlentwicklungen-bei-bahn-sanierungen-100.html",
+   "published": "2026-10-26T19:57:03+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-28T19:57:03+00:00",
+   "img": "https://bilder.deutschlandfunk.de/NO/VA/_1/f3/NOVA_1f38edfe49109683ca753ab39ee776c6/craft-12555228-asset-100-1920x1920.jpg"
+  },
+  {
+   "id": "ne349b31d8c",
+   "topic": "politik",
+   "title": "Kritik an Audi-Chef Döllner reißt nach Auftritt mit Trump nicht ab",
+   "text": "Der Auftritt von Audi-Chef Döllner an der Seite von US-Präsident Trump sorgt weiter für Kritik. SPD-Generalsekretär Klüssendorf fordert Konsequenzen vom Mutterkonzern VW. Audi selbst verteidigt den Auftritt.",
+   "link": "https://www.tagesschau.de/inland/audi-kritik-doellner-trump-100.html",
+   "published": "2026-10-26T19:56:04+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-29T19:56:04+00:00",
+   "img": "https://images.tagesschau.de/image/c75175e1-3383-485a-b61d-f9f29721e772/AAABoXnIy2Y/AAABnSSvrFg/16x9-big/doellner-trump-104.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Investitionen in den USA - Audi-Chef Döllner weist Kritik an Auftritt mit US-Präsident Trump zurück",
+     "link": "https://www.deutschlandfunk.de/audi-chef-doellner-weist-kritik-an-auftritt-mit-us-praesident-trump-zurueck-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Audi-Chef Döllner nach Auftritt mit Trump in der Kritik",
+     "link": "https://www.dw.com/de/audi-chef-döllner-nach-auftritt-mit-trump-in-der-kritik/a-79764234?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "n032a0ffdae",
+   "topic": "it",
+   "title": "iOS und macOS 27.2: Das ändert sich auf iPhones, iPads und Macs",
+   "text": "Apple springt auf 27.2: iPhone, Mac und iPad erhalten neue Funktionen, Siri AI lernt mehr Sprachen und in Deutschland ändert sich die Werbe-Tracking-Nachfrage.",
+   "link": "https://www.heise.de/news/iOS-und-macOS-27-2-Das-aendert-sich-auf-iPhones-iPads-und-Macs-11500927.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-26T19:34:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-31T19:34:00+00:00"
+  },
+  {
+   "id": "nc2ea4ef990",
+   "topic": "it",
+   "title": "Er spielte Pavel Chekov: Star-Trek-Darsteller Walter König ist tot",
+   "text": "Walter Koenig spielte Pavel Chekov in der klassischen Star-Trek-Serie und den Filmen, war aber auch ein wunderbarer Schurke in Babylon 5. Ein Nachruf von Peter Osteried ( Star Trek , In eigener Sache )",
+   "link": "https://www.golem.de/news/er-spielte-pavel-chekov-star-trek-darsteller-walter-koenig-ist-tot-2610-214532.html",
+   "published": "2026-10-26T19:31:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-31T19:31:01+00:00",
+   "img": "https://www.golem.de/2610/214532-605335-605332_rc.jpg",
+   "also": [
+    {
+     "source": "heise online",
+     "title": "Chekov ist tot – zum Tode von Walter Koenig",
+     "link": "https://www.heise.de/news/Der-sympathischste-Russe-in-Star-Trek-zum-Tode-von-Walter-Koenig-11500971.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
+  },
+  {
+   "id": "n5a0cd0393c",
+   "topic": "nfl",
+   "title": "Today's top games to watch, best bets, odds: Brewers vs. Rays World Series Game 3, Cowboys vs. Eagles MNF",
+   "text": "Find best bets and props for the biggest games in sports on Monday from the SportsLine Projection Model and top CBS Sports experts",
+   "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-brewers-vs-rays-world-series-game-3-cowboys-vs-eagles-mnf/",
+   "published": "2026-10-26T19:30:47+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-31T19:30:47+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/20/e0d2033a-c06f-4b36-94a0-5353321e822a/peralta-imagn.png"
+  },
+  {
+   "id": "na5ce172d7a",
+   "topic": "it",
+   "title": "Chekov ist tot – zum Tode von Walter Koenig",
+   "text": "Mit 90 Jahren ist Walter Koenig gestorben. Bekannt wurde er durch „Star Trek“ in den 60ern, in den 90ern spielte er in „Babylon 5“ eine ganz andere Rolle.",
+   "link": "https://www.heise.de/news/Der-sympathischste-Russe-in-Star-Trek-zum-Tode-von-Walter-Koenig-11500971.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-26T19:20:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-31T19:20:00+00:00",
+   "also": [
+    {
+     "source": "Golem.de",
+     "title": "Er spielte Pavel Chekov: Star-Trek-Darsteller Walter König ist tot",
+     "link": "https://www.golem.de/news/er-spielte-pavel-chekov-star-trek-darsteller-walter-koenig-ist-tot-2610-214532.html"
+    }
+   ]
+  },
+  {
+   "id": "n7a47d356e5",
+   "topic": "nfl",
+   "title": "NFL trade deadline matchmaker: Vikings add Jonathan Taylor to boost offense, Chiefs nab WR",
+   "text": "Moves for several contenders who could look to buy",
+   "link": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-matchmaker-vikings-jonathan-taylor-chiefs/",
+   "published": "2026-10-26T19:07:59+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-10-31T19:07:59+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/26/5e605614-cd1d-46b9-88eb-23fd917fc8f2/justin-jefferson-jonathan-taylor.jpg"
+  },
+  {
+   "id": "n2f77ceac83",
+   "topic": "wirtschaft",
+   "title": "Wirtschaft vor acht vom 26.10.2026",
+   "text": "Wirtschaft vor acht vom 26.10.2026",
+   "link": "https://www.tagesschau.de/video/video-1673070.html",
+   "published": "2026-10-26T19:06:30+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-29T19:06:30+00:00",
+   "img": "https://images.tagesschau.de/image/26320758-5718-4f04-8455-6bf696bbcb9c/AAABoXmbTh4/AAABnSSvrFg/16x9-big/sendungsbild-1817514.jpg?width=1920"
+  },
+  {
+   "id": "nf6542c16cc",
+   "topic": "ki",
+   "title": "Anthropics Börsenprospekt offenbart Rekordwachstum und milliardenschwere Risiken",
+   "text": "Anthropic hat als erstes großes KI-Labor einen Börsenprospekt bei der SEC eingereicht und will unter dem Kürzel \"ANT\" an die Nasdaq. Die Zahlen sind beeindruckend: 11,6 Milliarden Dollar Quartalsumsatz, erstmals operativer Gewinn, bestehende Kunden verneunfachen ihre durchschnittlichen Ausgaben im Jahresvergleich. Dem …",
+   "link": "https://the-decoder.de/anthropics-boersenprospekt-offenbart-rekordwachstum-und-milliardenschwere-risiken/",
+   "published": "2026-10-26T18:52:45+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-02T18:52:45+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/anthropic_claude_bull_.png"
+  },
+  {
+   "id": "nf3106c34a0",
+   "topic": "it",
+   "title": "KI-Kosten: Microsoft bietet bis zu 60.000 Mitarbeitern Abfindungen an",
+   "text": "Microsoft will Mitarbeiter loswerden und macht ihnen Angebote. Potenziell könnten 60.000 Beschäftigte annehmen. ( Microsoft , Rechenzentrum )",
+   "link": "https://www.golem.de/news/ki-kosten-microsoft-bietet-bis-zu-60-000-mitarbeitern-abfindungen-an-2610-214531.html",
+   "published": "2026-10-26T18:50:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-10-31T18:50:02+00:00",
+   "img": "https://www.golem.de/2610/214531-605330-605328_rc.jpg",
+   "also": [
+    {
+     "source": "heise online",
+     "title": "Microsoft bietet 60.000 Mitarbeitern Goldenen Handschlag",
+     "link": "https://www.heise.de/news/Microsoft-bietet-60-000-Mitarbeitern-Goldenen-Handschlag-11501027.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
+  },
+  {
+   "id": "ndb7fddc18c",
+   "topic": "wirtschaft",
+   "title": "Audi investiert in Amerika, Neckarsulm bangt",
+   "text": "Audi will in den USA ein neues Werk bauen, der Auftritt des Firmenchefs auf einer Wahlkampfveranstaltung von Trump sorgt für heftige Kritik. Zugleich ist die Zukunft von deutschen Audi-Werken offen - wie in Neckarsulm. Von F. Siegel.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-usa-trump-neckarsulm-100.html",
+   "published": "2026-10-26T17:56:22+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-29T17:56:22+00:00",
+   "img": "https://images.tagesschau.de/image/0dd0f183-9926-4395-a16e-9664211b0d9e/AAABoXjs8w4/AAABnSSvrFg/16x9-big/audi-werk-104.jpg?width=1920"
+  },
+  {
+   "id": "n6079ed3372",
+   "topic": "politik",
+   "title": "Kommunen setzen auf neue Konzepte bei Cybersicherheit",
+   "text": "Eine Gemeinde zahlt für einen großen Auftrag - das Geld landet aber bei Kriminellen. Weil solche Betrugsmaschen häufiger werden, setzen Kommunen auf neue Konzepte gegen Cyberkriminalität - und brauchen gut geschultes Personal. Von Markus Kaiser.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/cybersicherheit-ki-kommunen-100.html",
+   "published": "2026-10-26T17:56:13+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-29T17:56:13+00:00",
+   "img": "https://images.tagesschau.de/image/9a6b9845-a5ab-4bad-9e0f-57006d91c532/AAABnHr-qfs/AAABnSSvrFg/16x9-big/cyberangriff-144.jpg?width=1920"
+  },
+  {
+   "id": "nd52fdd5410",
+   "topic": "politik",
+   "title": "\"MietSofort\": Verbraucherzentrale warnt vor Kostenfalle bei Online-Mietplattform",
+   "text": "Wer über das Portal \"MietSofort\" nach einer Wohnung sucht, erlebt mitunter eine böse Überraschung. Bei der Verbraucherzentrale Hessen häufen sich Beschwerden über das Online-Portal.",
+   "link": "https://www.hessenschau.de/panorama/mietsofort-verbraucherzentrale-warnt-vor-kostenfalle-bei-online-mietplattform-v1,mietplattform-verbraucherschutz-100.html",
+   "published": "2026-10-26T17:39:11+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-30T17:39:11+00:00",
+   "img": "https://www.hessenschau.de/panorama/mietsofort-betrug-100~_t-1792492143082_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "n6c9a5422f6",
+   "topic": "ki",
+   "title": "Open-Source-Forum auf Reddit schließt KI-Beiträge aus und erntet heftige Kritik",
+   "text": "Das Reddit-Forum r/opensource verbietet ab sofort Beiträge über KI-Projekte, egal ob sie mit KI erstellt, KI-gestützt oder für KI gedacht sind. Zudem müssen vorgestellte Projekte mindestens ein Jahr alt sein und mehrere Mitwirkende haben. Auch nicht-englischsprachige Beiträge werden künftig ausgeschlossen. Als …",
+   "link": "https://the-decoder.de/open-source-forum-auf-reddit-schliesst-ki-beitraege-aus-und-erntet-heftige-kritik/",
+   "published": "2026-10-26T17:16:20+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-02T17:16:20+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/reddit_ai_ban.png"
+  },
+  {
+   "id": "nec6a2f57fc",
+   "topic": "wirtschaft",
+   "title": "Marktbericht: Klare Gewinne zum Wochenstart",
+   "text": "Dank eines robusten ifo-Geschäftsklimas konnte sich der DAX zum Wochenstart deutlich erholen. Eine Trendwende ist das aber noch nicht. In dieser Woche stehen noch einige gewichtige Daten an.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-ezb-100.html",
+   "published": "2026-10-26T17:05:23+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-29T17:05:23+00:00",
+   "img": "https://images.tagesschau.de/image/1d9254b0-75a1-48b6-a8e7-77746406dfc0/AAABns_HxYg/AAABnSSvrFg/16x9-big/boerse-518.jpg?width=1920"
+  },
+  {
+   "id": "nbaa03ed870",
+   "topic": "welt",
+   "title": "Welche Folgen das Wahlergebnis für Brasilien haben könnte",
+   "text": "Ihm fehlen Millionen Stimmen, doch seine Niederlage akzeptiert er nicht: Brasiliens rechter Präsidentschaftskandidat Bolsonaro. Das weckt Erinnerungen an die Abwahl seines Vaters. Was nun folgen könnte, erklärt Experte Maihold.",
+   "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-126.html",
+   "published": "2026-10-26T16:27:33+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-29T16:27:33+00:00",
+   "img": "https://images.tagesschau.de/image/1a67ebe9-a5aa-4734-9cbd-3fa9dbc4ddc2/AAABoXjB4ZM/AAABnSSvrFg/16x9-big/bolsonaro-336.jpg?width=1920"
+  },
+  {
+   "id": "n2db4a3c3a7",
+   "topic": "welt",
+   "title": "Nach der Brasilien Wahl: Aufatmen in Berlin über den Sieg Lulas",
+   "text": "In Deutschland zeigen sich fast alle Politiker und Parteien erleichtert über den Sieg von Amtsinhaber Lula da Silva bei der Präsidentschafts-Stichwahl in Brasilien.",
+   "link": "https://www.dw.com/de/nach-der-brasilien-wahl-aufatmen-in-berlin-über-den-sieg-lulas/a-79764434?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-26T16:23:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-30T16:23:00+00:00",
+   "img": "https://static.dw.com/image/79758692_302.jpg"
+  },
+  {
+   "id": "n4c15cfed6a",
+   "topic": "welt",
+   "title": "Was hinter Audis Vier-Milliarden-Dollar-Deal mit Trump steckt",
+   "text": "Der Autobauer aus dem Hause VW will sein erstes Werk in den USA eröffnen. Die DW untersucht die Reaktion Deutschlands angesichts des massiven Stellenabbaus in der heimischen Autoindustrie.",
+   "link": "https://www.dw.com/de/was-hinter-audis-vier-milliarden-dollar-deal-mit-trump-steckt/a-79768812?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-26T16:18:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-30T16:18:00+00:00",
+   "img": "https://static.dw.com/image/79355326_302.jpg"
+  },
+  {
+   "id": "n28f763263d",
+   "topic": "welt",
+   "title": "Wahlsieg der Studentenliste: Serbien betritt politisches Neuland",
+   "text": "Absolute Mehrheit für die Studentenliste: In Serbien hat sie überraschend klar die Parlamentswahl gewonnen. Aber wie kann aus einer Protestbewegung eine Regierung werden? Vieles ist unklar - und die Aufgaben sind groß.",
+   "link": "https://www.tagesschau.de/ausland/europa/serbien-wahlsieg-studentenliste-100.html",
+   "published": "2026-10-26T16:11:54+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-29T16:11:54+00:00",
+   "img": "https://images.tagesschau.de/image/d04470bc-d114-4cee-9cc8-a7d18b616440/AAABoXkHYlA/AAABnSSvrFg/16x9-big/serbien-wahl-feier-102.jpg?width=1920"
+  },
+  {
+   "id": "ncba4af37f7",
+   "topic": "wissenschaft",
+   "title": "Kosmologisches Rätsel: 14-Jähriger fordert die Dunkle Energie heraus",
+   "text": "Für seine Forschung erhielt Liam Desre einen europäischen Nachwuchspreis. Sein Modell erklärt die beschleunigte Ausdehnung des Universums und könnte die Hubble-Spannung lösen.",
+   "link": "https://www.spektrum.de/news/14-jaehriger-gewinnt-preis-fuer-alternative-theorie-zu-dunkler-energie/2351372",
+   "published": "2026-10-26T16:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-09T16:00:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/Euclid_spots_interacting_galaxies.jpg.8339037.jpg?f=1280x720"
+  },
+  {
+   "id": "n9566b8769a",
+   "topic": "wirtschaft",
+   "title": "KI-Unternehmen Anthropic beantragt Börsengang und warnt vor Risiken",
+   "text": "Das amerikanische KI-Unternehmen Anthropic gibt den Startschuss für einen Mega-Börsengang schon im November und reicht die nötigen Unterlagen ein. Es dürfte einer der größten Börsengänge aller Zeiten werden.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-bereitet-boersengang-vor-100.html",
+   "published": "2026-10-26T15:49:36+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-29T15:49:36+00:00",
+   "img": "https://images.tagesschau.de/image/c13df737-1fdf-42db-9959-972e7161cca4/AAABoXiV9qY/AAABnSSvrFg/16x9-big/anthropic-134.jpg?width=1920"
+  },
+  {
+   "id": "n3c26f1e792",
+   "topic": "welt",
+   "title": "Russland wird erstmals seit 2022 WM-Gastgeber in olympischer Sportart Gewichtheben",
+   "text": "Die Gewichtheber-WM 2030 wird in Russland stattfinden. Während der Weltverband IWF die Vergabe nach Moskau verteidigt, kündigt die Ukraine Einsprüche gegen die Entscheidung an.",
+   "link": "https://www.dw.com/de/russland-wird-erstmals-seit-2022-wm-gastgeber-in-olympischer-sportart-gewichtheben/a-79765424?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-26T15:29:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-30T15:29:00+00:00",
+   "img": "https://static.dw.com/image/79766535_302.jpg"
+  },
+  {
+   "id": "nfd9af6f79b",
+   "topic": "welt",
+   "title": "Hauptsache gegen Russland: Unterstützt die Ukraine Tuareg und Islamisten in Mali?\"",
+   "text": "Ukrainische Drohnen-Spezialisten sollen Tuareg-Rebellen in Mali unterstützen, die gemeinsam mit Dschihadisten gegen die Militärregierung und russische Kräfte kämpfen. Eine riskante Allianz.",
+   "link": "https://www.dw.com/de/hauptsache-gegen-russland-unterstützt-die-ukraine-tuareg-und-islamisten-in-mali/a-79740626?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-26T15:20:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-30T15:20:00+00:00",
+   "img": "https://static.dw.com/image/77138024_302.jpg"
+  },
+  {
+   "id": "n70de15afda",
+   "topic": "politik",
+   "title": "Wahl des Bundespräsidenten: Wer folgt auf Steinmeier?",
+   "text": "Am 30. Januar wählt die Bundesversammlung ein neues Staatsoberhaupt. Doch wer für die Nachfolge von Frank-Walter Steinmeier ins Rennen geschickt wird, ist noch offen. Welche Namen gehandelt werden, wer die besten Chancen hat und wie die Wahl abläuft.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/bundespraesidentenwahl-102.html",
+   "published": "2026-10-26T15:07:22+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-29T15:07:22+00:00",
+   "img": "https://images.tagesschau.de/image/e1453247-34bc-4f3e-88fd-6a9c620b8bd9/AAABoXfKAK8/AAABnSSvrFg/16x9-big/frank-walter-steinmeier-254.jpg?width=1920"
+  },
+  {
+   "id": "n49313a942d",
+   "topic": "politik",
+   "title": "Kreuzfahrtschiff rammt Containerschiffe - Polizei ermittelt gegen Kapitän",
+   "text": "Nach der Schiffskollision in Bremerhaven während eines Sturms ermittelt die Polizei gegen den Kapitän des Kreuzfahrtschiffs \"Mein Schiff 3\". Es geht um einen möglichen Verstoß gegen die Sorgfaltspflicht. Die Kreuzfahrt ist abgesagt.",
+   "link": "https://www.tagesschau.de/inland/herbststurm-norden-deutschland-100.html",
+   "published": "2026-10-26T14:30:41+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-29T14:30:41+00:00",
+   "img": "https://images.tagesschau.de/image/2fbc9641-2c16-4fbf-9c94-fa30c59b95f3/AAABoXdBTh4/AAABnSSvrFg/16x9-big/kreuzfahrtschiff-kollision-102.jpg?width=1920"
+  },
+  {
+   "id": "n0c1fc7b3a6",
+   "topic": "wissenschaft",
+   "title": "Ökoakustik: Die Lauscher im Walde",
+   "text": "Geräusche aus der Natur bergen wertvolle Informationen über Ökosysteme. Doch Tierlaute zuverlässig aufzuzeichnen und zuzuordnen, erweist sich als vertrackt.",
+   "link": "https://www.spektrum.de/news/oekoakustik-des-waldes/2298477",
+   "published": "2026-10-26T14:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-09T14:00:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/AmSci2025-07HeathF1_BeckyHeath.jpg.8417371.jpg?f=1280x720"
+  },
+  {
+   "id": "n3612e925f5",
+   "topic": "welt",
+   "title": "Audi-Chef Döllner nach Auftritt mit Trump in der Kritik",
+   "text": "Der zum Volkswagen-Konzern gehörende Autobauer Audi plant ein Werk in den USA. Das machte Audi-Chef Döllner bei einer Wahlkampfveranstaltung von US-Präsident Trump deutlich. Jetzt gibt es Kritik von mehreren Seiten.",
+   "link": "https://www.dw.com/de/audi-chef-döllner-nach-auftritt-mit-trump-in-der-kritik/a-79764234?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-26T13:42:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-30T13:42:00+00:00",
+   "img": "https://static.dw.com/image/79754483_302.jpg",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Investitionen in den USA - Audi-Chef Döllner weist Kritik an Auftritt mit US-Präsident Trump zurück",
+     "link": "https://www.deutschlandfunk.de/audi-chef-doellner-weist-kritik-an-auftritt-mit-us-praesident-trump-zurueck-100.html"
+    },
+    {
+     "source": "Tagesschau",
+     "title": "Kritik an Audi-Chef Döllner reißt nach Auftritt mit Trump nicht ab",
+     "link": "https://www.tagesschau.de/inland/audi-kritik-doellner-trump-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n43bd394599",
+   "topic": "wirtschaft",
+   "title": "Wachsende Branche: So viele Bestatter-Azubis wie nie",
+   "text": "So viele junge Menschen wie nie lassen sich zur Bestattungsfachkraft ausbilden - in zehn Jahren hat sich die Zahl der Auszubildenden verdoppelt. Zugleich wird die Beerdigung immer teuer.",
+   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/mehr-ausbildung-bestattungsfachkraft-100.html",
+   "published": "2026-10-26T13:34:05+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-29T13:34:05+00:00",
+   "img": "https://images.tagesschau.de/image/eb454596-730a-4edd-983f-d8c1346e989f/AAABoXf_anM/AAABnSSvrFg/16x9-big/bestattungen-106.jpg?width=1920"
+  },
   {
    "id": "n7b4fa803e6",
    "topic": "politik",
@@ -63,6 +641,19 @@
    "expires": "2026-10-30T13:04:21+00:00",
    "img": "https://www.hessenschau.de/panorama/wohnwagenbrand-104~_t-1792998384745_v-16to9.jpg",
    "tag": "Hessen"
+  },
+  {
+   "id": "n505ed2e3cb",
+   "topic": "welt",
+   "title": "Harry Kane: Ballon d’Or für Bayern Münchens Stürmer?",
+   "text": "Harry Kane steht davor, die jahrzehntelange Ballon-d'Or-Durststrecke des FC Bayern zu beenden. Der englische Nationalstürmer hat sich seit seinem Wechsel nach München sogar noch weiterentwickelt. Wird er nun belohnt?",
+   "link": "https://www.dw.com/de/harry-kane-ballon-d-or-für-bayern-münchens-stürmer/a-79760904?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-26T13:01:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-10-30T13:01:00+00:00",
+   "img": "https://static.dw.com/image/79657123_302.jpg"
   },
   {
    "id": "n03b3e30692",
@@ -114,7 +705,19 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-28T12:55:40+00:00",
-   "img": "https://bilder.deutschlandfunk.de/7b/c7/55/7e/7bc7557e-5d3d-4121-a46d-9e03867d228b/lies-100-1920x1920.jpg"
+   "img": "https://bilder.deutschlandfunk.de/7b/c7/55/7e/7bc7557e-5d3d-4121-a46d-9e03867d228b/lies-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Kritik an Audi-Chef Döllner reißt nach Auftritt mit Trump nicht ab",
+     "link": "https://www.tagesschau.de/inland/audi-kritik-doellner-trump-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Audi-Chef Döllner nach Auftritt mit Trump in der Kritik",
+     "link": "https://www.dw.com/de/audi-chef-döllner-nach-auftritt-mit-trump-in-der-kritik/a-79764234?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
   },
   {
    "id": "nbcbea5bcce",
@@ -208,8 +811,13 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "VW-Tochter - Audi lässt Trump im Wahlkampf Bau eines US-Werks verkünden - Auftritt von Audi-Chef verstößt gegen eigene Richtlinien",
-     "link": "https://www.deutschlandfunk.de/audi-laesst-trump-im-wahlkampf-bau-eines-us-werks-verkuenden-auftritt-von-audi-chef-verstoesst-gegen-102.html"
+     "title": "Investitionen in den USA - Audi-Chef Döllner weist Kritik an Auftritt mit US-Präsident Trump zurück",
+     "link": "https://www.deutschlandfunk.de/audi-chef-doellner-weist-kritik-an-auftritt-mit-us-praesident-trump-zurueck-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Audi-Chef Döllner nach Auftritt mit Trump in der Kritik",
+     "link": "https://www.dw.com/de/audi-chef-döllner-nach-auftritt-mit-trump-in-der-kritik/a-79764234?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -266,7 +874,7 @@
    "id": "n4c06b8f549",
    "topic": "wissenschaft",
    "title": "US-Zwischenwahlen: GPT für Demokraten, Grok für Republikaner",
-   "text": "Ein Experiment zu den US-Midterms offenbart eine deutliche politische Schlagseite bei KI-Sprachmodellen. Diese entsteht durch die Auswahl der Quellen und der Themenfelder.",
+   "text": "Ein Experiment zu den US-Midterms offenbart eine deutliche politische Schlagseite bei KI-Sprachmodellen. Diese entsteht durch die Auswahl der Quellen und Themenfelder.",
    "link": "https://www.spektrum.de/news/ki-und-us-midterms-gpt-fuer-demokraten-grok-fuer-republikaner/2351350",
    "published": "2026-10-26T12:30:00+00:00",
    "source": "Spektrum der Wissenschaft",
@@ -347,7 +955,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-29T10:54:00+00:00",
-   "img": "https://images.tagesschau.de/image/c92cce3d-8052-424b-9f1b-b3bc9a4cbf30/AAABoXfnNJw/AAABnSSvrFg/16x9-big/rb-ein-wagen-der-port-authority-steht-vor-der-mein-schiff-3-im-kreuzfahrtterminal-100.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/635cab73-0e6f-43f7-9e52-c5c0143d34b0/AAABoXm6Gmk/AAABnSSvrFg/16x9-big/rb-die-mein-schiff-3-liegt-an-der-bremerhavener-columbuskaje-das-kreuzfahrtschiff-war-am-vortag-bei-stuermischem-wetter-mit-zwei-containerschiffen-kollidiert-100.jpg?width=1920"
   },
   {
    "id": "n91bf8e8a74",
@@ -376,32 +984,6 @@
    "img": "https://images.tagesschau.de/image/bb390a96-5b78-430c-8e58-96caf63ec1dd/AAABoXeSqqk/AAABnSSvrFg/16x9-big/konjunktur-418.jpg?width=1920"
   },
   {
-   "id": "n49313a942d",
-   "topic": "politik",
-   "title": "Kreuzfahrtschiff rammt Containerschiffe - neue Sturmflutwarnung",
-   "text": "Bei hohen Wellen und starkem Wind hat ein Kreuzfahrtschiff in Bremerhaven zwei Containerschiffe gerammt. Insgesamt verlief die Sturmnacht im Norden relativ glimpflich. Doch für den Mittag gibt es weitere Sturmflutwarnungen.",
-   "link": "https://www.tagesschau.de/inland/herbststurm-norden-deutschland-100.html",
-   "published": "2026-10-26T10:22:13+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-29T10:22:13+00:00",
-   "img": "https://images.tagesschau.de/image/2fbc9641-2c16-4fbf-9c94-fa30c59b95f3/AAABoXdBTh4/AAABnSSvrFg/16x9-big/kreuzfahrtschiff-kollision-102.jpg?width=1920"
-  },
-  {
-   "id": "nec6a2f57fc",
-   "topic": "wirtschaft",
-   "title": "Marktbericht: Gesunkene Kurse locken Schnäppchenjäger an",
-   "text": "Nach den Kursverlusten in der vergangenen Woche geht der DAX heute auf Erholungskurs. Der ifo-Geschäftsklimaindex unterstützt, aber ein hoher Ölpreis und die Sorgen um die Nachhaltigkeit des KI-Boom belasten.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-ezb-100.html",
-   "published": "2026-10-26T10:19:27+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-29T10:19:27+00:00",
-   "img": "https://images.tagesschau.de/image/9665c1da-a9f3-45e3-85ec-906c3f567c9f/AAABk92yH2w/AAABnSSvrFg/16x9-big/boerse-382.jpg?width=1920"
-  },
-  {
    "id": "ndc66baf055",
    "topic": "ki",
    "title": "Hochfrequenzhändler investieren Milliarden in KI-Rechenleistung",
@@ -425,7 +1007,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-29T09:41:25+00:00",
-   "img": "https://images.tagesschau.de/image/1e0e5b7f-87b3-424f-9200-a7fd7455e1ac/AAABoXdJX4k/AAABnSSvrFg/16x9-big/wahlplakate-israel-100.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/1e0e5b7f-87b3-424f-9200-a7fd7455e1ac/AAABoXh2XSA/AAABnSSvrFg/16x9-big/wahlplakate-israel-100.jpg?width=1920"
   },
   {
    "id": "nf90bdcbc95",
@@ -451,7 +1033,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-29T09:17:03+00:00",
-   "img": "https://images.tagesschau.de/image/0f315c02-6d6a-4d38-bb7b-d1976d7a6b9a/AAABoXclW7Q/AAABnSSvrFg/16x9-big/vlasenko-100.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/0f315c02-6d6a-4d38-bb7b-d1976d7a6b9a/AAABoXj4GnY/AAABnSSvrFg/16x9-big/wlassenko-100.jpg?width=1920"
   },
   {
    "id": "n1e91061893",
@@ -477,7 +1059,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-29T09:06:38+00:00",
-   "img": "https://images.tagesschau.de/image/7eb7b007-37ed-4ea5-a417-038c91ea0047/AAABoXOkG3o/AAABnSSvrFg/16x9-big/trump-5380.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/7eb7b007-37ed-4ea5-a417-038c91ea0047/AAABoXhh1N4/AAABnSSvrFg/16x9-big/trump-5380.jpg?width=1920"
   },
   {
    "id": "n1a293db623",
@@ -736,7 +1318,7 @@
   },
   {
    "id": "n92220942de",
-   "topic": "wirtschaft",
+   "topic": "politik",
    "title": "Neuer Gebäudetyp E: Schnelles und günstiges Bauen per Gesetz",
    "text": "Deutschland braucht mehr bezahlbaren Wohnraum. Das soll unter anderem mit dem Gebäudetyp E gelingen - das E steht hier für \"einfach\". Der Gesetzentwurf liegt dem ARD-Hauptstadtstudio exklusiv vor. Von Oliver Neuroth.",
    "link": "https://www.tagesschau.de/inland/gebaeudetyp-e-104.html",
@@ -860,8 +1442,13 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Audi-Chef bei Trump - Verstoß gegen Konzernregeln?",
-     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-us-werk-doellner-trump-100.html"
+     "title": "Kritik an Audi-Chef Döllner reißt nach Auftritt mit Trump nicht ab",
+     "link": "https://www.tagesschau.de/inland/audi-kritik-doellner-trump-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Audi-Chef Döllner nach Auftritt mit Trump in der Kritik",
+     "link": "https://www.dw.com/de/audi-chef-döllner-nach-auftritt-mit-trump-in-der-kritik/a-79764234?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -903,14 +1490,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-27T20:38:20+00:00",
-   "img": "https://bilder.deutschlandfunk.de/b0/44/7b/dc/b0447bdc-b0a4-4167-a1ca-3a95d1b53960/obama-midterms-michigan-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Vor Midterms: Ex-US-Präsident Obama schaltet sich mit Trump-Kritik in Wahlkampf ein",
-     "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-wahl-102.html"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/b0/44/7b/dc/b0447bdc-b0a4-4167-a1ca-3a95d1b53960/obama-midterms-michigan-100-1920x1920.jpg"
   },
   {
    "id": "ne6662be2e3",
@@ -939,8 +1519,13 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Audi-Chef bei Trump - Verstoß gegen Konzernregeln?",
-     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-us-werk-doellner-trump-100.html"
+     "title": "Kritik an Audi-Chef Döllner reißt nach Auftritt mit Trump nicht ab",
+     "link": "https://www.tagesschau.de/inland/audi-kritik-doellner-trump-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Audi-Chef Döllner nach Auftritt mit Trump in der Kritik",
+     "link": "https://www.dw.com/de/audi-chef-döllner-nach-auftritt-mit-trump-in-der-kritik/a-79764234?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -1200,8 +1785,13 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Audi-Chef bei Trump - Verstoß gegen Konzernregeln?",
-     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-us-werk-doellner-trump-100.html"
+     "title": "Kritik an Audi-Chef Döllner reißt nach Auftritt mit Trump nicht ab",
+     "link": "https://www.tagesschau.de/inland/audi-kritik-doellner-trump-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Audi-Chef Döllner nach Auftritt mit Trump in der Kritik",
+     "link": "https://www.dw.com/de/audi-chef-döllner-nach-auftritt-mit-trump-in-der-kritik/a-79764234?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -1216,508 +1806,6 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-27T15:52:16+00:00"
-  },
-  {
-   "id": "n22f12222da",
-   "topic": "politik",
-   "title": "Verteidigung gegen Russland - Ukrainische Raketenangriffe auf russische Ziele - mehrere Todesopfer",
-   "text": "Aus Russland werden ukrainische Luftangriffe gemeldet.",
-   "link": "https://www.deutschlandfunk.de/ukrainische-raketenangriffe-auf-russische-ziele-mehrere-todesopfer-100.html",
-   "published": "2026-10-25T15:52:16+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T15:52:16+00:00",
-   "img": "https://bilder.deutschlandfunk.de/bb/e0/c8/a1/bbe0c8a1-a05e-45b5-9d22-df4b422bdb79/ukraine-russland-angriff-drohne-100-1280x1280.jpg"
-  },
-  {
-   "id": "n5b6f18d6a8",
-   "topic": "politik",
-   "title": "Iran-Krieg - Strände in Emiraten wegen Ölverschmutzung geschlossen",
-   "text": "In den Vereinigten Arabischen Emiraten sind mehrere Strände wegen Ölverschmutzung geschlossen worden.",
-   "link": "https://www.deutschlandfunk.de/straende-in-emiraten-wegen-oelverschmutzung-geschlossen-102.html",
-   "published": "2026-10-25T15:52:16+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T15:52:16+00:00",
-   "img": "https://bilder.deutschlandfunk.de/28/e2/79/48/28e27948-3f1a-459c-8682-4fc86176a7be/strand-emirate-100-1920x1920.jpg"
-  },
-  {
-   "id": "nbe320dc167",
-   "topic": "it",
-   "title": "Audi-Chef verteidigt Werks-Pläne in den USA",
-   "text": "Audi lässt US-Präsident Trump im Wahlkampf den Bau eines US-Werks verkünden. Vorstands-Chef Döllner äußerte sich dazu am Sonntag.",
-   "link": "https://www.heise.de/news/Audi-Chef-verteidigt-Werks-Plaene-in-den-USA-11499465.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-25T15:43:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-30T15:43:00+00:00"
-  },
-  {
-   "id": "n918eaf8369",
-   "topic": "it",
-   "title": "Freiheit im Netz auf Talfahrt: Zensur, KI, Alterschecks und digitale Isolation",
-   "text": "Der Freedom-on-the-Net-Bericht 2026 verweist auf weltweit sinkende Internetfreiheiten. Autokraten isolieren Netze; Altersgrenzen und KI schaffen neue Hürden.",
-   "link": "https://www.heise.de/news/Freiheit-im-Netz-auf-Talfahrt-Zensur-KI-Alterschecks-und-digitale-Isolation-11499475.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-25T15:38:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-30T15:38:00+00:00"
-  },
-  {
-   "id": "n2f0a76edf8",
-   "topic": "welt",
-   "title": "Großbritannien: Burnham offen für Rückkehr zu EU-Freizügigkeit",
-   "text": "Der Brexit hat Großbritannien mehr Schaden als Nutzen gebracht - so sieht es zumindest der neue Premier Burnham. Jetzt zeigt er sich einmal mehr offen für eine Wiederannäherung an die EU - allerdings in Grenzen.",
-   "link": "https://www.tagesschau.de/ausland/burnham-freizuegigkeit-100.html",
-   "published": "2026-10-25T15:12:04+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-28T15:12:04+00:00",
-   "img": "https://images.tagesschau.de/image/b2bad63b-39ca-46d5-a377-4375a6ec0473/AAABoS_ZOsc/AAABnSSvrFg/16x9-big/burnham-158.jpg?width=1920"
-  },
-  {
-   "id": "nb6a25d076f",
-   "topic": "welt",
-   "title": "Audi kündigt US-Werk an - auf Trumps Wahlkampftour",
-   "text": "Immer wieder droht Trump ausländischen Unternehmen mit hohen Zöllen. Nun kündigte Audi den Bau seines ersten Werks in den USA an. Auf einer Wahlkampfveranstaltung durfte der US-Präsident damit auch für sich werben.",
-   "link": "https://www.tagesschau.de/ausland/amerika/audi-usa-trump-100.html",
-   "published": "2026-10-25T15:04:51+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-28T15:04:51+00:00",
-   "img": "https://images.tagesschau.de/image/2d475b55-fad5-4039-b944-32c6bc3a8b2b/AAABoXHj9CA/AAABnSSvrFg/16x9-big/audi-trump-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Audi kündigt Milliarden-Investition in den USA an",
-     "link": "https://www.dw.com/de/audi-kündigt-milliarden-investition-in-den-usa-an/a-79754352?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n0e1aefc0cc",
-   "topic": "wissenschaft",
-   "title": "Imperium Romanum: Die verschollenen Straßen der Römer",
-   "text": "Das römische Straßennetz war etwa 110 000 Kilometer länger als bisher angenommen. Eine hoch aufgelöste Digitalkarte macht erstmals die verschollenen Wege sichtbar.",
-   "link": "https://www.spektrum.de/news/imperium-romanum-die-verschollenen-strassen-der-roemer/2325492",
-   "published": "2026-10-25T15:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-08T15:00:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/sa0626Brug01_2T4RM62_Alamy-viaSciAm.jpg.8388461.jpg?f=1280x720"
-  },
-  {
-   "id": "n73c49b4c0b",
-   "topic": "it",
-   "title": "Dieses Klapprad-E-Bike schaltet von selbst: Uto Pro 20 mit Riemenantrieb im Test",
-   "text": "Schnelles Falten, Zweigang-Automatik, Riemenantrieb: Das Klapprad-E-Bike Uto Pro 20 punktet in der Stadt. Was taugt es im Alltag?",
-   "link": "https://www.heise.de/bestenlisten/testbericht/dieses-klapprad-e-bike-schaltet-von-selbst-uto-pro-20-mit-riemenantrieb-im-test/cpln400?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-25T15:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-30T15:00:00+00:00"
-  },
-  {
-   "id": "naa9fcacd89",
-   "topic": "politik",
-   "title": "Sturmtief \"Manja\" fegt über Deutschland",
-   "text": "Stromausfall in Freiburg, mögliche Sturmflut und orkanartige Böen an der Nordsee: Sturm und Regen bestimmen heute das Wetter in Deutschland, es gab bereits zahlreiche Einsätze. Für Teile des Landes galten Warnungen.",
-   "link": "https://www.tagesschau.de/inland/wetter-sturm-112.html",
-   "published": "2026-10-25T14:48:27+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-28T14:48:27+00:00",
-   "img": "https://images.tagesschau.de/image/ec83de56-0d43-400b-a850-82b0fe018a46/AAABoXNgEyQ/AAABnSSvrFg/16x9-big/unwetter-schleswig-holstein-100.jpg?width=1920"
-  },
-  {
-   "id": "n8f10c77d63",
-   "topic": "nfl",
-   "title": "Steelers' Aaron Rodgers makes history during NFL's first game in Paris",
-   "text": "Rodgers continues to make history during his final season",
-   "link": "https://www.cbssports.com/nfl/news/steelers-aaron-rodgers-makes-history-nfls-first-game-in-paris/",
-   "published": "2026-10-25T14:43:38+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-30T14:43:38+00:00"
-  },
-  {
-   "id": "n59af02ad6e",
-   "topic": "welt",
-   "title": "Gaza droht eine neue Ernährungskrise",
-   "text": "Die Lage im Gazastreifen droht sich wieder zu verschärfen - denn das Welternährungsprogramm muss seine Lebensmittellieferungen massiv kürzen. Der Grund: Die internationalen Geldgeber zahlen deutlich weniger ein. Von Bettina Meier.",
-   "link": "https://www.tagesschau.de/ausland/gaza-ernaehrung-100.html",
-   "published": "2026-10-25T14:31:54+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-28T14:31:54+00:00",
-   "img": "https://images.tagesschau.de/image/d4fdf3f7-968c-442a-b9c7-ada7308dee2b/AAABoXNL1Lk/AAABnSSvrFg/16x9-big/gaza-1510.jpg?width=1920"
-  },
-  {
-   "id": "nbb25a74bae",
-   "topic": "wissenschaft",
-   "title": "Unser Heimatstern auf dem Prüfstand: Wie sonnenähnlich ist unsere Sonne eigentlich?",
-   "text": "Die Sonne gilt als Maßstab für Sterne ihres Typs. Doch wie gut passt sie tatsächlich zu ihren kosmischen Verwandten? Ein genauer Vergleich offenbart überraschende Unterschiede.",
-   "link": "https://www.spektrum.de/news/jetzt-mal-ehrlich-wie-sonnenaehnlich-ist-die-sonne-eigentlich/2349184",
-   "published": "2026-10-25T14:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-08T14:00:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/June2012sunspots.00500_print_erw.jpg.8416690.jpg?f=1280x720"
-  },
-  {
-   "id": "nb62353e410",
-   "topic": "welt",
-   "title": "Deutscher Umweltpreis würdigt \"Mutmacher\"",
-   "text": "Die Deutsche Bundesstiftung Umwelt zeichnet einen Ingenieur und eine Juristin aus, die Pionierarbeit für die Natur leisten. Echte Vorbilder, findet Bundespräsident Steinmeier.",
-   "link": "https://www.dw.com/de/deutscher-umweltpreis-würdigt-mutmacher/a-79755528?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-25T13:38:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-29T13:38:00+00:00",
-   "img": "https://static.dw.com/image/79755248_302.jpg"
-  },
-  {
-   "id": "nd7aa4db070",
-   "topic": "politik",
-   "title": "Steinmeier bei Umweltpreis-Verleihung: \"Die Fieberkurve unseres Planeten zeigt deutlich nach oben\"",
-   "text": "In Aachen ist der Deutsche Umweltpreis an die Klimajuristin Verheyen und den Membranfilter-Ingenieur Vossenkaul verliehen worden. Bundespräsident Steinmeier mahnte, dem Klimaschutz trotz anderer Krisen und Sorgen Priorität einzuräumen.",
-   "link": "https://www.tagesschau.de/inland/umweltpreis-142.html",
-   "published": "2026-10-25T13:13:45+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-28T13:13:45+00:00",
-   "img": "https://images.tagesschau.de/image/c9633176-21ce-44cc-85cd-562872195015/AAABoXMmDjs/AAABnSSvrFg/16x9-big/umweltpreistraeger-steinmeier-100.jpg?width=1920"
-  },
-  {
-   "id": "n5a1513eaad",
-   "topic": "it",
-   "title": "Risikoprüfungen werden Pflicht: China will KI-Jobverluste abfedern",
-   "text": "China will den KI-Einsatz am Arbeitsplatz steuern und Beschäftigte mit Risikoprüfungen, Umschulung und Schutz vor den Folgen der Automatisierung absichern. ( KI , Politik )",
-   "link": "https://www.golem.de/news/risikopruefungen-werden-pflicht-china-will-ki-jobverluste-abfedern-2610-214487.html",
-   "published": "2026-10-25T13:10:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-30T13:10:02+00:00",
-   "img": "https://www.golem.de/2610/214487-605130-605128_rc.jpg"
-  },
-  {
-   "id": "n63e2a10413",
-   "topic": "welt",
-   "title": "Stichwahl in Brasilien: Kopf-an-Kopf-Rennen zwischen Lula und Bolsonaro",
-   "text": "Feiert Bolsonaro ein Comeback? Flavio Bolsonaro, Sohn des Ex-Präsidenten, geht als Favorit in die Stichwahl gegen Amtsinhaber Lula. Umfragen sagen ein Kopf-an-Kopf Rennen voraus. Und eine Zerreißprobe für das Land.",
-   "link": "https://www.dw.com/de/stichwahl-in-brasilien-kopf-an-kopf-rennen-zwischen-lula-und-bolsonaro/a-79754404?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-25T13:02:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-29T13:02:00+00:00",
-   "img": "https://static.dw.com/image/79754280_302.jpg",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Wahl in Brasilien - Von der Leyen und Merz gratulieren Lula da Silva",
-     "link": "https://www.deutschlandfunk.de/von-der-leyen-und-merz-gratulieren-lula-da-silva-100.html"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Lula gewinnt Wahl in Brasilien - Bolsonaro erkennt Niederlage nicht an",
-     "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html"
-    }
-   ]
-  },
-  {
-   "id": "ne171a9ca12",
-   "topic": "it",
-   "title": "Rechenzentren: Google rodet Wald und lockt Wölfe in finnische Dörfer",
-   "text": "Google muss den Bau eines Rechenzentrums in Finnland wohl vorerst stoppen. 250.000 Bäume sind ohne Genehmigung entfernt worden. ( Google , Rechenzentrum )",
-   "link": "https://www.golem.de/news/rechenzentren-google-rodet-wald-und-lockt-woelfe-in-finnische-doerfer-2610-214485.html",
-   "published": "2026-10-25T12:39:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-30T12:39:02+00:00",
-   "img": "https://www.golem.de/2610/214485-605121-605119_rc.jpg"
-  },
-  {
-   "id": "n6a060a44ba",
-   "topic": "welt",
-   "title": "Proteste in Europa - auch mit Gewalt",
-   "text": "Nicht nur Frankreich - auch in vielen anderen europäischen Ländern wurde wieder protestiert. Dabei kam es mancherorts erneut zu Auseinandersetzungen mit der Polizei. Insgesamt melden die Behörden aber weniger Gewalt als am vergangenen Wochenende.",
-   "link": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-spanien-italien-protugal-albanien-100.html",
-   "published": "2026-10-25T12:21:49+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-28T12:21:49+00:00",
-   "img": "https://images.tagesschau.de/image/12480ce0-3910-4aae-b5a6-7b2d310c06d9/AAABoXIyT6w/AAABnSSvrFg/16x9-big/frankreich-proteste-238.jpg?width=1920"
-  },
-  {
-   "id": "n6c6895d4db",
-   "topic": "welt",
-   "title": "Audi kündigt Milliarden-Investition in den USA an",
-   "text": "Die Volkswagen-Tochter Audi baut ein eigenes Werk in den USA. Angekündigt wurde das auf einer Wahlkampfveranstaltung der Republikaner von US-Präsident Donald Trump. Noch sind allerdings Fragen offen.",
-   "link": "https://www.dw.com/de/audi-kündigt-milliarden-investition-in-den-usa-an/a-79754352?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-25T12:13:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-29T12:13:00+00:00",
-   "img": "https://static.dw.com/image/79754514_302.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Audi kündigt US-Werk an - auf Trumps Wahlkampftour",
-     "link": "https://www.tagesschau.de/ausland/amerika/audi-usa-trump-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n1e3640b15f",
-   "topic": "wirtschaft",
-   "title": "Wie ein Dorf in Brandenburg seinen Gasthof retten will",
-   "text": "In vielen Dörfern verschwinden die letzten Gaststätten. Im brandenburgischen Leißnitz wollen die Einwohner das verhindern. Gemeinsam wollen sie einen Ort erhalten, an dem Menschen zusammenkommen. Von Jacqueline Piwon.",
-   "link": "https://www.tagesschau.de/wirtschaft/dorfkneipe-rettung-brandenburg-100.html",
-   "published": "2026-10-25T12:06:21+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-28T12:06:21+00:00",
-   "img": "https://images.tagesschau.de/image/79aafefc-acd1-4a74-af02-874d792db655/AAABoUVCKdI/AAABnSSvrFg/16x9-big/dorfbewohner-leissnitz-100.jpg?width=1920"
-  },
-  {
-   "id": "nc1ee9eae3c",
-   "topic": "politik",
-   "title": "Pläne der Koalition: Wahlrechtsreform kommt kaum voran",
-   "text": "Neben dem Umbau der Sozialsysteme hat die schwarz-rote Koalition eine Reform angekündigt, bei der es für manche um die politische Existenz geht: Sie möchte das Wahlrecht ändern. Doch es geht nur langsam voran. Von Jakob Mayr.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/wahlrecht-reform-104.html",
-   "published": "2026-10-25T11:57:30+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-28T11:57:30+00:00",
-   "img": "https://images.tagesschau.de/image/18bdfa59-84b4-47dd-9fc5-1f696464400e/AAABoWg8pXQ/AAABnSSvrFg/16x9-big/bundestag-1428.jpg?width=1920"
-  },
-  {
-   "id": "n07c8ccf952",
-   "topic": "politik",
-   "title": "Dobrindt plant hohe Hürden für Vergesellschaftungen",
-   "text": "Geht es nach der Berliner Linkspartei, sollen Wohnungen in Zukunft vergesellschaftet werden. Doch die Bundesregierung will der Partei mit einem Gesetz zuvorkommen. Nun gibt es erste Details aus dem Innenministerium.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-vergesellschaftung-100.html",
-   "published": "2026-10-25T11:51:21+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-28T11:51:21+00:00",
-   "img": "https://images.tagesschau.de/image/2499f771-a9dd-4a29-8486-7b333fd578cc/AAABoXL_6vU/AAABnSSvrFg/16x9-big/berlin-vergesellschaftungen-100.jpg?width=1920"
-  },
-  {
-   "id": "na93a9902ce",
-   "topic": "politik",
-   "title": "VW-Tochter - Audi lässt Trump im Wahlkampf Bau eines US-Werks verkünden",
-   "text": "Audi baut für vier Milliarden Dollar sein erstes eigenes Werk in den USA. Das kündigte US-Präsident Trump bei einer Wahlkampfveranstaltung im Bundesstaat Georgia an. Er rief dann Audi-Chef Döllner auf die Bühne, der Trump für dessen Unterstützung dankte.",
-   "link": "https://www.deutschlandfunk.de/audi-laesst-trump-im-wahlkampf-bau-eines-us-werks-verkuenden-100.html",
-   "published": "2026-10-25T11:18:28+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T11:18:28+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Audi-Chef bei Trump - Verstoß gegen Konzernregeln?",
-     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-us-werk-doellner-trump-100.html"
-    }
-   ]
-  },
-  {
-   "id": "nf9dd046064",
-   "topic": "politik",
-   "title": "Nordirak - Iranische Revolutionsgarden greifen Kurden-Stützpunkt an",
-   "text": "Die iranischen Revolutionsgarden haben Staatsmedien zufolge erneut kurdische Stellungen im Nachbarland Irak mit Drohnen angegriffen.",
-   "link": "https://www.deutschlandfunk.de/iranische-revolutionsgarden-greifen-kurden-stuetzpunkt-an-100.html",
-   "published": "2026-10-25T11:18:28+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T11:18:28+00:00",
-   "img": "https://bilder.deutschlandfunk.de/d2/76/ac/22/d276ac22-bc14-4151-b876-aa275f31b70c/iran-drohnen-100-512x512.jpg"
-  },
-  {
-   "id": "n7608ecdba2",
-   "topic": "politik",
-   "title": "Migration - Frontex soll zentrale \"EU-Abschiebeagentur\" werden",
-   "text": "EU-Migrationskommissar Brunner will Frontex zur zentralen Abschiebeagentur machen. Das sagte er der \"Welt am Sonntag\". Man setze die europäische Migrationswende konsequent fort.",
-   "link": "https://www.deutschlandfunk.de/frontex-soll-zentrale-eu-abschiebeagentur-werden-100.html",
-   "published": "2026-10-25T11:18:28+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T11:18:28+00:00",
-   "img": "https://bilder.deutschlandfunk.de/ea/f9/c0/08/eaf9c008-2145-46a2-b69b-1c6d457cdb15/eu-grenze-frontex-100-1920x1920.jpg"
-  },
-  {
-   "id": "n3529ed9cd9",
-   "topic": "politik",
-   "title": "Portugal - Polizei in Lissabon löst Protestcamp gegen Wohnungsnot auf",
-   "text": "Die portugiesische Polizei hat in den frühen Morgenstunden ein Protestcamp gegen die Wohnungsnot im ‌Zentrum von Lissabon ⁠geräumt.",
-   "link": "https://www.deutschlandfunk.de/polizei-in-lissabon-loest-protestcamp-gegen-wohnungsnot-auf-102.html",
-   "published": "2026-10-25T11:18:28+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T11:18:28+00:00",
-   "img": "https://bilder.deutschlandfunk.de/e4/32/9d/eb/e4329deb-74d8-4c98-b205-09aea33a0e71/lissabon-protestcamp-100-1920x1920.jpg"
-  },
-  {
-   "id": "n54298de4af",
-   "topic": "politik",
-   "title": "Bundesliga - FC Augsburg verurteilt rassistische Angriffe auf Spieler Juma Bah",
-   "text": "Fußball-Bundesligist FC Augsburg hat rassistische Beleidigungen gegen seinen Abwehrspieler Juma Bah scharf verurteilt. Man sei erschüttert über diesen Hass, erklärte der Verein. Der 20-Jährige aus Sierra Leone war nach dem Spiel gegen den 1. FC Union Berlin in den sozialen Netzwerken verbal angegriffen worden.",
-   "link": "https://www.deutschlandfunk.de/fc-augsburg-verurteilt-rassistische-angriffe-auf-spieler-juma-bah-100.html",
-   "published": "2026-10-25T11:18:28+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T11:18:28+00:00",
-   "img": "https://bilder.deutschlandfunk.de/49/7a/6c/df/497a6cdf-5f5e-443b-a2e7-75c6ea74ef37/abdulai-juma-bah-100-1920x1920.jpg"
-  },
-  {
-   "id": "ndb0832dcbd",
-   "topic": "politik",
-   "title": "Baden-Württemberg - Stromausfall in Freiburg: Haushalte wieder am Netz",
-   "text": "In Freiburg im Breisgau ist wegen eines Unwetters zeitweise der Strom ausgefallen.",
-   "link": "https://www.deutschlandfunk.de/stromausfall-in-freiburg-haushalte-wieder-am-netz-100.html",
-   "published": "2026-10-25T11:18:28+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-27T11:18:28+00:00",
-   "img": "https://bilder.deutschlandfunk.de/6d/9c/3c/c8/6d9c3cc8-d257-4c0f-b6be-034a58f835e7/freiburg-strom-leitung-stronleitung-sturm-wind-schaeden-reparatur-100-1920x1920.jpg"
-  },
-  {
-   "id": "na14ce56642",
-   "topic": "nfl",
-   "title": "Sunday Night Football: How to watch the Kansas City Chiefs vs. Seattle Seahawks game tonight",
-   "text": "Here's how to tune into Sunday Night Football tonight without cable.",
-   "link": "https://sports.yahoo.com/nfl/article/sunday-night-football-how-to-watch-the-kansas-city-chiefs-vs-seattle-seahawks-game-tonight-111500681.html",
-   "published": "2026-10-25T11:15:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-30T11:15:00+00:00"
-  },
-  {
-   "id": "n83c39a6b6c",
-   "topic": "politik",
-   "title": "Amanal Petros verpasst Heimsieg beim Frankfurt Marathon 2026 nur knapp",
-   "text": "Amanal Petros hat beim Frankfurt Marathon 2026 ein starkes Rennen hingelegt - nur einer war noch besser.",
-   "link": "https://www.hessenschau.de/sport/mehr-sport/frankfurt-marathon/amanal-petros-verpasst-heimsieg-beim-frankfurt-marathon-2026-nur-knapp-v1,frankfurt-marathon-ergebnisse-100.html",
-   "published": "2026-10-25T11:11:10+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-29T11:11:10+00:00",
-   "img": "https://www.hessenschau.de/sport/mehr-sport/frankfurt-marathon/marathon-petros-106~_t-1792926670306_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "nf5a159edaf",
-   "topic": "it",
-   "title": "Keine Ablösung von Microsoft Office: Dänemark beendet Collabora-Test",
-   "text": "Dänemark hat einen Test mit Collabora beendet. Damit bleibt offen, wie realistisch der Abschied von Microsoft Office in Behörden ist. ( Office , Office-Suite )",
-   "link": "https://www.golem.de/news/keine-abloesung-von-microsoft-office-daenemark-beendet-collabora-test-2610-214483.html",
-   "published": "2026-10-25T11:07:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-30T11:07:02+00:00",
-   "img": "https://www.golem.de/2610/214483-605113-605111_rc.jpg"
-  },
-  {
-   "id": "n7397a50a88",
-   "topic": "nfl",
-   "title": "Browns extend defensive player with $30 million deal overnight",
-   "text": "Talented run defender gets two more years.",
-   "link": "https://sports.yahoo.com/articles/browns-extend-defensive-player-30-110551076.html",
-   "published": "2026-10-25T11:05:51+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-10-30T11:05:51+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/696d426c161dfccccd9877e0d8a48a46.jpg"
-  },
-  {
-   "id": "n58b60e5b89",
-   "topic": "welt",
-   "title": "Großbrand am Kehlsteinhaus: Feuer wieder aufgeflammt",
-   "text": "Der Brand an Hitlers Kehlsteinhaus im früheren Nazi-Sperrgebiet Obersalzberg war gelöscht. Nun musste die Feuerwehr in der Nacht erneut ausrücken.",
-   "link": "https://www.dw.com/de/großbrand-am-kehlsteinhaus-feuer-wieder-aufgeflammt/a-79754334?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-25T10:45:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-29T10:45:00+00:00",
-   "img": "https://static.dw.com/image/79754182_302.jpg"
-  },
-  {
-   "id": "ndb26215d1d",
-   "topic": "it",
-   "title": "Local Wikipedia: Suchmaschine zeigt interessante Orte in Laufreichweite an",
-   "text": "Ob Sehenswürdigkeiten, Clubs, Museen oder Fun Facts: Local Wikipedia gibt Wikipedia-Artikel aus, die zum eingegebenen Standort passen. ( Wikipedia , Suchmaschine )",
-   "link": "https://www.golem.de/news/local-wikipedia-suchmaschine-zeigt-interessante-orte-in-laufreichweite-an-2610-214482.html",
-   "published": "2026-10-25T10:36:01+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-30T10:36:01+00:00",
-   "img": "https://www.golem.de/2610/214482-605108-605106_rc.jpg"
-  },
-  {
-   "id": "n1deb15abca",
-   "topic": "welt",
-   "title": "Vor Midterms: Ex-US-Präsident Obama schaltet sich mit Trump-Kritik in Wahlkampf ein",
-   "text": "Die Demokraten hoffen bei den Zwischenwahlen auf einen Sieg. Nun gibt es Wahlkampfhilfe vom früheren US-Präsidenten Obama. Der wirft Trump Korruption vor - und lästert über die Renovierungsarbeiten im Weißen Haus.",
-   "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-wahl-102.html",
-   "published": "2026-10-25T10:35:11+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-28T10:35:11+00:00",
-   "img": "https://images.tagesschau.de/image/99deff4b-d50e-4e7b-9c89-3c6ec5ff3798/AAABoXJueMA/AAABnSSvrFg/16x9-big/obama-954.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Midterms - Obama greift Trump im Wahlkampf scharf an",
-     "link": "https://www.deutschlandfunk.de/obama-greift-trump-im-wahlkampf-scharf-an-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n7d26b0ba29",
-   "topic": "it",
-   "title": "„Tal der Tränen“: Warum Angreifer bei Sicherheitslücken derzeit im Vorteil sind",
-   "text": "Ein Experte der Cyberagentur des Bundes erklärt, warum Sicherheitslücken wie die PHP-Schwachstelle derzeit zunehmen und wie KI künftig helfen könnte.",
-   "link": "https://www.heise.de/news/Cyberagentur-Software-Schwachstellen-bleiben-laenger-ein-Problem-11499379.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-25T10:28:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-10-30T10:28:00+00:00"
   }
  ]
 }
