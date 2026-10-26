@@ -2258,4 +2258,53 @@ window.CARDS = [
       { h: "🧩 Was heute gilt", text: "Heute richtet sich eine Quarantäne nach der Inkubationszeit der jeweiligen Krankheit, nicht nach einer festen Zahl. Bei Covid-19 waren es zeitweise 10 bis 14 Tage. Das Wort ist geblieben, die Zahl Vierzig nicht." }
     ],
     text: "Wenn heute jemand in Quarantäne muss, steckt darin eine Zahl: Das Wort kommt vom italienischen „quaranta giorni“, vierzig Tage. Hafenstädte wie Ragusa ließen im 14. Jahrhundert Schiffe aus Pestgebieten so lange warten. Warum ausgerechnet vierzig und nicht dreißig oder fünfzig?" },
+  // ---- Neu 2026-10-26
+  { id: "nf13", topic: "nfl", title: "Hail Mary: Warum der Verzweiflungswurf so heißt", q: "Hail Mary pass Roger Staubach Drew Pearson 1975", more: ["nf5", "nf12"],
+    points: ["Der Name wurde nach einem Playoff-Spiel am 28. Dezember 1975 populär","Dallas-Quarterback Roger Staubach warf in letzter Minute weit auf Drew Pearson, der zum Sieg gegen Minnesota fing","Staubach sagte später, er habe ein Ave Maria gebetet"],
+    why: "Der Wurf zeigt, warum Football-Fans bis zur letzten Sekunde dranbleiben: Aus Chancenlosigkeit wird manchmal ein Spielzug.",
+    slides: [
+      { h: "🏈 Was die Defense erwartet", text: "Wenige Sekunden vor Schluss, weite Entfernung zur Endzone: Der Quarterback wirft den Ball so weit wie möglich in die Zone, in der mehrere Receiver und Verteidiger zusammenlaufen. Gewinnen kann den Ball, wer ihn am höchsten erwischt oder wer ihn nach dem Abprallen sicher fängt. Die Trefferquote ist gering." },
+      { h: "🕰️ Der Abend von 1975", steps: ["Dallas liegt im Playoff-Viertelfinale gegen Minnesota kurz vor Schluss zurück","Staubach wirft von der eigenen Hälfte tief in Richtung Endzone","Pearson fängt den Ball an der Hüfte und läuft in die Endzone","Dallas gewinnt 17:14, der Begriff „Hail Mary“ wird im Football zum Standard"], img: "Roger Staubach" },
+      { h: "🔢 Wie oft klappt es?", big: { n: "selten", l: "Genaue Quoten schwanken je nach Zählweise stark; verlässlich ist nur: Ein Treffer ist die Ausnahme, deshalb bleiben solche Spiele in Erinnerung" } },
+      { h: "🧩 Taktik von beiden Seiten", points: ["Die Offense schickt viele Receiver in die Zone, damit mehrere Chancen entstehen","Die Defense stellt oft große Spieler hin, die den Ball wegschlagen sollen","Entscheidend ist oft der Abpraller, nicht der Wurf selbst"] }
+    ],
+    text: "Am 28. Dezember 1975 lag Dallas in den Playoffs kurz vor Schluss gegen Minnesota hinten. Quarterback Roger Staubach warf den Ball weit in die Endzone, wo Drew Pearson ihn fing: Sieg. Staubach sagte, er habe dabei ein Ave Maria gebetet. Seither heißt der Verzweiflungswurf „Hail Mary“." },
+  { id: "ma13", topic: "mathe", title: "Warum die Eins so oft vorn steht: Das Benford-Gesetz", q: "Benfordsches Gesetz", more: ["ma4", "ma3"],
+    points: ["In vielen echten Datensätzen beginnt etwa 30 Prozent der Zahlen mit einer 1, nur rund 5 Prozent mit einer 9","Die Beobachtung machte Simon Newcomb 1881, Frank Benford prüfte sie 1938 an Tausenden Zahlen","Prüfer nutzen sie, um manipulierte Buchhaltung aufzuspüren"],
+    why: "Wer Zahlen frei erfindet, verteilt die Anfangsziffern meist gleichmäßig, und gerade das verrät die Fälschung.",
+    slides: [
+      { h: "🔢 Die Verteilung", points: ["Eins: etwa 30,1 Prozent","Zwei: etwa 17,6 Prozent","Drei: etwa 12,5 Prozent","Neun: etwa 4,6 Prozent"], note: "Formel: Anteil der Anfangsziffer d = log10(1 + 1/d)" },
+      { h: "❓ Warum eigentlich?", text: "Bei Größen, die wachsen oder über viele Größenordnungen streuen, braucht der Weg von 1 auf 2 einen Verdopplungsschritt, der von 9 auf 10 nur einen kleinen Zuwachs von elf Prozent. Wächst etwas prozentual gleichmäßig, hält es sich deshalb lange bei Zahlen mit führender Eins auf." },
+      { h: "🕵️ Einsatz bei Prüfungen", steps: ["Man zählt die Anfangsziffern etwa einer Reihe von Rechnungen","Die Häufigkeiten werden mit der erwarteten Verteilung verglichen","Starke Abweichungen sind nur ein Verdacht, kein Beweis","Dann folgt die Prüfung der einzelnen Belege"] },
+      { h: "⚠️ Wo es nicht gilt", text: "Das Gesetz passt nicht zu Daten, die in einem engen Bereich liegen, etwa Körpergrößen in Zentimetern, oder zu vergebenen Nummern wie Postleitzahlen. Auch Preise, die bewusst bei 9,99 enden, brechen das Muster." }
+    ],
+    text: "Nimm eine Tabelle mit Einwohnerzahlen, Flusslängen oder Rechnungsbeträgen: Rund 30 Prozent der Zahlen beginnen mit einer 1, nur etwa 5 Prozent mit einer 9. Das Benford-Gesetz klingt unfair, ist aber gut belegt. Weil Fälscher es selten kennen, hilft es Prüfern, erfundene Zahlen zu entlarven." },
+  { id: "pl13", topic: "philosophie", title: "Ockhams Rasiermesser: Die einfachste Erklärung gewinnt nicht immer", q: "Ockhams Rasiermesser Wilhelm von Ockham", more: ["pl1", "pl3"],
+    points: ["Zugeschrieben wird es dem Franziskaner Wilhelm von Ockham (um 1287 bis 1347)","Die Regel: Nimm keine Annahmen mehr an, als zur Erklärung nötig sind","Sie ist eine Faustregel für die Auswahl von Hypothesen, kein Naturgesetz"],
+    why: "Wer das Prinzip kennt, kann Verschwörungserzählungen und überladene Modelle besser auf ihre Zusatzannahmen abklopfen.",
+    slides: [
+      { h: "🧩 Was „einfach“ heißt", text: "Gemeint ist nicht die kürzeste Erklärung, sondern die mit den wenigsten unbelegten Zusatzannahmen. Eine lange Kette gut belegter Schritte kann besser sein als ein kurzer Satz, der ein Wunder voraussetzt." },
+      { h: "🕵️ Beispiel Crop Circles", steps: ["Beobachtung: Muster in einem Kornfeld","Erklärung A: Menschen haben sie mit Brettern und Seilen getreten","Erklärung B: Außerirdische Besucher","B braucht Wesen, Reisen und Motive, die niemand belegt","Als Menschen 1991 Urheberschaft bekannten, bestätigte sich A"] },
+      { h: "❓ Missverständnis", text: "Der Satz „Entia non sunt multiplicanda praeter necessitatem“ steht so wohl nicht in Ockhams Schriften, die gängige Fassung entstand später. Und die Regel sagt nicht, dass die Welt einfach ist: In der Biologie oder Physik sind richtige Erklärungen oft verwickelt." },
+      { h: "⚖️ Grenzen in der Wissenschaft", points: ["Bei gleich guten Erklärungen hilft sie als Tie-Breaker","Passen die Daten nicht, muss ein komplexeres Modell gewinnen","In der Statistik entspricht sie dem Gedanken, ein Modell nicht mit zu vielen Parametern zu überladen"] }
+    ],
+    text: "Ein Kornfeld, ein riesiges Muster: Menschen mit Brettern oder Besucher aus dem All? Der Franziskaner Wilhelm von Ockham, um 1287 bis 1347, gilt als Namensgeber einer Faustregel: Nimm nicht mehr Annahmen an als nötig. Aber heißt das, die einfachste Erklärung ist immer richtig? Genau das ist der Irrtum." },
+  { id: "te14", topic: "technik", title: "Thermoskanne: Die Isolierflasche kommt aus dem Labor", q: "Thermosflasche Dewar-Gefäß Reinhold Burger", more: ["te5", "te3"],
+    points: ["Der Schotte James Dewar entwickelte um 1892 ein doppelwandiges Glasgefäß mit Vakuum, um flüssige Gase zu lagern","Der Berliner Glasbläser Reinhold Burger machte daraus eine Alltagsflasche und meldete 1903 „Thermos“ an","Das Vakuum bremst Wärmeleitung und Wärmeströmung, die Spiegelschicht die Strahlung"],
+    why: "Dieselbe Idee steckt in Isolierbehältern, die Medikamente oder Impfstoffe kühl halten.",
+    slides: [
+      { h: "🔧 Drei Wege, Wärme zu verlieren", points: ["Leitung: Wärme wandert durch Material, im Vakuum fehlt es","Strömung: warme Luft steigt auf, im Vakuum gibt es keine Luft","Strahlung: Wärme geht als Infrarotlicht, eine Spiegelschicht wirft sie zurück"] },
+      { h: "❓ Warum bleibt es nicht ewig heiß?", text: "Ein perfekter Schutz existiert nicht. Wärme fließt über Verschluss und Rand der Flasche, wo Innen- und Außenwand verbunden sind. Deshalb sinkt die Temperatur über Stunden langsam. Hochwertige Kannen verlieren in zwölf Stunden spürbar, aber nicht komplett." },
+      { h: "🕰️ Vom Labor in die Küche", steps: ["Um 1892: Dewar baut das Vakuumgefäß für flüssige Luft","Burger entwickelt es für Haushalte weiter und beantragt 1903 den Schutz","„Thermos“ wird zum bekannten Markennamen, hierzulande sagt man oft einfach „Thermoskanne“","Heute bestehen viele Modelle statt aus Glas aus Edelstahl"], img: "Vacuum flask" }
+    ],
+    text: "Ein Gefäß mit doppelter Wand und luftleerem Zwischenraum hält Kaffee stundenlang heiß. Erfunden hat es um 1892 der Schotte James Dewar, um flüssige Gase aufzubewahren. Der Berliner Glasbläser Reinhold Burger machte 1903 daraus ein Produkt für den Alltag. Aber warum wird der Tee trotzdem irgendwann kalt?" },
+  { id: "ar13", topic: "ar", title: "Pompeji: Die Abgüsse, die Hohlräume im Ascheboden füllten", q: "Pompeji Gipsabgüsse Giuseppe Fiorelli", more: ["ar3", "ge3"],
+    points: ["Beim Ausbruch des Vesuv 79 n. Chr. verschüttete Asche die Stadt Pompeji","Giuseppe Fiorelli goss ab 1863 Gips in die Hohlräume, die zerfallene Körper in der erstarrten Asche hinterlassen hatten","So entstanden Abgüsse von Menschen und Tieren in ihren letzten Haltungen"],
+    why: "Die Abgüsse machen aus einer Katastrophe von vor knapp 2.000 Jahren einzelne Schicksale sichtbar, auch wenn ihre Deutung bis heute nachgeprüft wird.",
+    slides: [
+      { h: "🔬 Wie die Methode funktioniert", steps: ["Asche und Bims umschlossen die Körper und erhärteten","Weichteile vergingen, Knochen und Zähne blieben, ein Hohlraum entstand","Fiorelli bohrte hinein und goss flüssigen Gips","Nach dem Abbinden wurde die Ascheschicht entfernt"], img: "Pompeii plaster cast" },
+      { h: "🔢 Zahlen", big: { n: "um 1.100", l: "Opfer wurden bis Anfang des 21. Jahrhunderts in Pompeji gefunden; die Gesamtzahl der Toten ist unsicher, Schätzungen für die Stadt liegen deutlich höher" } },
+      { h: "❓ Was Forscher heute hinterfragen", text: "Neuere Untersuchungen mit Röntgen und DNA zeigen, dass einige Abgüsse Knochen mehrerer Personen oder nachträglich ergänzte Teile enthalten. Auch alte Deutungen als „Familie“ oder „Liebespaar“ ließen sich bei DNA-Analysen 2024 nicht bestätigen." }
+    ],
+    text: "Als der Vesuv im Jahr 79 n. Chr. ausbrach, begrub Asche Pompeji samt seinen Bewohnern. Die Körper vergingen, doch in der erstarrten Asche blieben Hohlräume. Der Archäologe Giuseppe Fiorelli kam ab 1863 auf die Idee, sie mit Gips auszugießen. Was sieht man darin, und was bleibt Deutung?" },
 ];
