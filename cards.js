@@ -2307,4 +2307,54 @@ window.CARDS = [
       { h: "❓ Was Forscher heute hinterfragen", text: "Neuere Untersuchungen mit Röntgen und DNA zeigen, dass einige Abgüsse Knochen mehrerer Personen oder nachträglich ergänzte Teile enthalten. Auch alte Deutungen als „Familie“ oder „Liebespaar“ ließen sich bei DNA-Analysen 2024 nicht bestätigen." }
     ],
     text: "Als der Vesuv im Jahr 79 n. Chr. ausbrach, begrub Asche Pompeji samt seinen Bewohnern. Die Körper vergingen, doch in der erstarrten Asche blieben Hohlräume. Der Archäologe Giuseppe Fiorelli kam ab 1863 auf die Idee, sie mit Gips auszugießen. Was sieht man darin, und was bleibt Deutung?" },
+  // ---- Neu 2026-10-27
+  { id: "me13", topic: "medizin", title: "Warum Antibiotika bei einer Grippe nichts bringen", q: "Antibiotikaresistenz Viren Bakterien Unterschied",
+    more: ["me1"],
+    points: ["Antibiotika greifen Strukturen von Bakterien an, die Viren gar nicht besitzen","Falscher Einsatz fördert Resistenzen: überlebende Keime vermehren sich und geben ihre Abwehr weiter","Die WHO zählt Antibiotikaresistenz zu den größten Gesundheitsgefahren"],
+    why: "Wer Antibiotika nur bei bakteriellen Infekten und wie verordnet nimmt, hält sie für alle wirksam.",
+    slides: [
+      { h: "🔬 Wo Antibiotika ansetzen", points: ["Penicilline stören den Aufbau der Bakterienzellwand, die Viren fehlt","Andere Wirkstoffe blockieren die bakteriellen Ribosomen, die Eiweiß herstellen","Viren vermehren sich in menschlichen Zellen, deshalb braucht man spezielle Virostatika"] },
+      { h: "🧬 So entsteht Resistenz", steps: ["Unter den Milliarden Keimen trägt zufällig einer eine Mutation, die das Mittel unschädlich macht","Das Antibiotikum tötet die empfindlichen Konkurrenten","Der resistente Keim vermehrt sich ungestört","Bakterien können Resistenzgene per Plasmid sogar an andere Arten weitergeben"] },
+      { h: "❓ Wann Antibiotika trotzdem fallen", text: "Bei Husten oder Schnupfen sind fast immer Viren schuld. Ärzte verschreiben Antibiotika aber, wenn zusätzlich eine bakterielle Infektion droht, etwa eine Lungenentzündung nach einer Grippe. Dann gilt: Packung zu Ende nehmen, wie verordnet, und nichts aufbewahren oder weitergeben. Auch in der Tiermast wird der Einsatz kritisch gesehen." },
+      { h: "🔢 Zahlen", big: { n: "≈ 1,3 Mio.", l: "Todesfälle weltweit waren 2019 laut einer Studie in The Lancet direkt auf resistente Bakterien zurückzuführen; die Schätzung ist mit Unsicherheit behaftet" } }
+    ],
+    text: "Husten, Schnupfen, Grippe: Verursacher sind meist Viren. Antibiotika wirken aber nur gegen Bakterien, etwa indem sie deren Zellwand zerstören, die Viren gar nicht haben. Wer sie trotzdem nimmt, hilft nicht sich, sondern den Keimen: Resistente Bakterien überleben und vermehren sich. Wie schnell das gehen kann, zeigt der Blick auf ihre Vermehrung." },
+  { id: "kl13", topic: "klima", title: "Warum die Meere Wärme speichern und die Luft nicht", q: "Ozean Wärmespeicher spezifische Wärmekapazität Erwärmung",
+    points: ["Wasser speichert pro Kilogramm rund viermal so viel Wärme wie Luft","Die Ozeane haben seit 1970 etwa 90 Prozent der zusätzlichen Wärme des Klimasystems aufgenommen","Das dämpft die Lufterwärmung, doch die Wärme bleibt und treibt Meeresspiegel und Wetter"],
+    why: "Die Meere erklären, warum Klimafolgen verzögert eintreten und sich über Jahrhunderte nicht einfach zurückdrehen.",
+    slides: [
+      { h: "🧩 Die Rechnung dahinter", text: "Die spezifische Wärmekapazität von Wasser liegt bei rund 4,2 Kilojoule pro Kilogramm und Kelvin, die von Luft bei etwa 1. Dazu kommt die Masse: Allein die obersten drei Meter des Ozeans fassen so viel Wärme wie die gesamte Atmosphäre darüber." },
+      { h: "🌊 Was mit der Wärme passiert", steps: ["Wärme dringt von der Oberfläche in tiefere Schichten ein","Wasser dehnt sich beim Erwärmen aus, der Meeresspiegel steigt (thermische Ausdehnung)","Warmes Oberflächenwasser liefert mehr Energie für Stürme und Meereshitzewellen","Korallenbleiche und Verschiebungen von Fischbeständen sind Folgen"] },
+      { h: "🔢 Zahlen", big: { n: "≈ 90 %", l: "der zusätzlichen Wärme im Klimasystem seit den 1970er-Jahren stecken laut IPCC-Berichten im Ozean" } }
+    ],
+    text: "Die Erde nimmt durch Treibhausgase mehr Wärme auf, doch die Luft erwärmt sich nur langsam. Der Grund: Etwa 90 Prozent der zusätzlichen Energie landen im Meer. Wasser kann pro Kilogramm viermal mehr Wärme speichern als Luft und ist dazu massereich. Doch wohin geht diese Wärme, und was löst sie aus?" },
+  { id: "sc13", topic: "sc", title: "Golden Ticket: Wie Angreifer sich ihre eigene Kerberos-Eintrittskarte drucken", q: "Golden Ticket Kerberos krbtgt Mimikatz", more: ["sc8", "sc10"],
+    points: ["Kerberos-Tickets (TGT) werden mit dem Passwort-Hash des Kontos krbtgt signiert","Wer diesen Hash besitzt, kann gültige TGTs für beliebige Benutzer selbst fälschen","Abhilfe: krbtgt-Passwort zweimal nacheinander zurücksetzen und Domänencontroller absichern"],
+    why: "Ein Golden Ticket gilt als Totalschaden der Windows-Domäne und zeigt, warum Domänencontroller wie Tresore behandelt werden.",
+    slides: [
+      { h: "🔧 Ablauf des Angriffs", steps: ["Angreifer erlangen Domänenadmin-Rechte und lesen den krbtgt-Hash aus dem Domänencontroller (z. B. per DCSync)","Mit Tools wie Mimikatz fälschen sie ein TGT für ein beliebiges Konto, auch für ein nicht existierendes","Das Ticket ist frei wählbar gültig, oft über Jahre, da der Angreifer die Laufzeit selbst festlegt","Mit dem TGT fordern sie Dienst-Tickets an und bewegen sich unbemerkt durchs Netz"] },
+      { h: "❓ Warum es so schwer zu erkennen ist", text: "Das gefälschte Ticket ist kryptografisch gültig, der Domänencontroller prüft nur die Signatur. Auffällig sind Ticket-Laufzeiten jenseits der Richtlinie, Anmeldungen ohne vorherigen TGT-Antrag (Event 4768 fehlt) oder ein Benutzername, den es nicht gibt. Die Erkennung braucht Logging und Analyse auf den Domänencontrollern." },
+      { h: "🛡️ Gegenmaßnahmen im Betrieb", points: ["Das krbtgt-Passwort zweimal im Abstand der Ticket-Laufzeit ändern, denn AD merkt sich die alte Version","Tiered Administration: Domänenadmins nie auf normalen Arbeitsplätzen anmelden","Domänencontroller patchen, Zugriff minimieren, Credential Guard und Monitoring aktivieren"] },
+      { h: "🕰️ Einordnung", text: "Die Technik ist seit etwa 2014 durch Mimikatz von Benjamin Delpy verbreitet. Sie setzt voraus, dass Angreifer schon weitreichende Rechte haben, ist also eher ein Mittel zur Dauerpräsenz als zum Einbruch. Verwandt ist das Silver Ticket, das nur für einen einzelnen Dienst gilt." }
+    ],
+    text: "Ein Golden Ticket ist ein gefälschtes Kerberos-Ticket, mit dem Angreifer in einer Windows-Domäne jeden Benutzer imitieren können. Nötig ist nur der Passwort-Hash des Kontos krbtgt, mit dem die Ticket-Ausgabe signiert wird. Wer ihn hat, braucht keine Passwörter mehr. Wie reagiert man, wenn die Tür nur so zu öffnen ist?" },
+  { id: "bi24", topic: "biologie", title: "Warum wir Kopfschmerz fühlen, obwohl das Gehirn keinen Schmerz spürt", q: "Kopfschmerz Schmerzrezeptoren Gehirn Hirnhaut Trigeminus",
+    points: ["Das Hirngewebe selbst besitzt keine Schmerzrezeptoren","Schmerz entsteht in Hirnhäuten, Gefäßen, Muskeln und Nerven rund um den Kopf","Der Trigeminusnerv meldet diese Reize ans Gehirn, das sie als Kopfschmerz deutet"],
+    why: "Das erklärt, warum Neurochirurgen bei Wachoperationen am Gehirn operieren können, während Kopf und Haut betäubt sind.",
+    slides: [
+      { h: "🧩 Wo es wirklich weh tut", points: ["Hirnhäute (Dura mater) sind dicht mit Schmerzfasern durchzogen","Auch Blutgefäße im Schädel und Kopfhaut sowie Nackenmuskeln melden Schmerz","Bei Migräne sind laut gängiger Theorie das Trigeminus-Gefäß-System und Botenstoffe wie CGRP beteiligt"] },
+      { h: "🔬 Der Weg des Signals", steps: ["Ein Reiz (Dehnung, Entzündung, Spannung) aktiviert Schmerzrezeptoren","Der Trigeminusnerv leitet das Signal zum Hirnstamm","Der Thalamus verteilt es an die Großhirnrinde","Dort entsteht die bewusste Empfindung, die der Körper „Kopf“ zuordnet"] },
+      { h: "🔢 Zahlen", big: { n: "> 50 %", l: "der Erwachsenen haben laut WHO in einem Jahr mindestens einmal Kopfschmerzen; Spannungskopfschmerz ist am häufigsten" } },
+      { h: "❓ Was bleibt offen", text: "Die genauen Auslöser der Migräne sind nicht vollständig geklärt. Neue Medikamente gegen CGRP wirken bei vielen Patienten, nicht bei allen. Wiederkehrende oder plötzlich sehr starke Kopfschmerzen gehören ärztlich abgeklärt." }
+    ],
+    text: "Das Gehirn kann alles verarbeiten, nur selbst nicht fühlen: Hirngewebe hat keine Schmerzrezeptoren. Neurochirurgen operieren manchmal sogar am wachen Patienten, der dabei sprechen kann. Kopfschmerz entsteht an Hirnhäuten, Gefäßen und Muskeln drumherum. Aber wie landet dieses Signal dann als Schmerz im Bewusstsein?" },
+  { id: "ge17", topic: "geschichte", title: "Die Sintflut stand schon vor der Bibel auf Tontafeln", q: "Gilgamesch-Epos George Smith Sintflut Tafel 11", more: ["ge2", "ar3"],
+    points: ["Das Gilgamesch-Epos ist eines der ältesten erhaltenen Literaturwerke der Welt","Der Brite George Smith las 1872 auf einer Tafel aus Ninive eine Flutgeschichte","Sie erinnert an die Sintflut der Bibel, ist aber deutlich älter"],
+    why: "Der Fund zeigte, dass Erzählmotive im Alten Orient weit älter und weiter verbreitet waren als gedacht.",
+    slides: [
+      { h: "🕰️ Vom Fund zur Entzifferung", steps: ["Ab 1849: Ausgräber finden in Ninive die Bibliothek des assyrischen Königs Assurbanipal (7. Jh. v. Chr.)","Tausende Keilschrifttafeln lagern im Britischen Museum","1872: George Smith erkennt auf Tafel XI die Flutgeschichte","Smith soll vor Aufregung Kleider abgelegt haben – die Anekdote ist nicht sicher belegt"], img: "Gilgamesh flood tablet" },
+      { h: "🧩 Was im Epos passiert", text: "Gilgamesch, König von Uruk, sucht nach dem Tod seines Freundes Enkidu das ewige Leben. Er trifft Utnapischtim, den Überlebenden einer Flut, der ein Boot gebaut und Tiere gerettet hat. Am Ende kehrt Gilgamesch ohne Unsterblichkeit heim und blickt stolz auf seine Stadtmauern." },
+      { h: "❓ Wie alt ist das wirklich?", text: "Die bekannteste Fassung (zwölf Tafeln) stammt aus dem ersten Jahrtausend v. Chr. und wird Sin-leqi-unninni zugeschrieben. Einzelne sumerische Gedichte um Gilgamesch sind über 1.000 Jahre älter. Ein König Gilgamesch von Uruk hat wohl um 2600 v. Chr. gelebt, sicher ist das nicht." }
+    ],
+    text: "1872 las der Brite George Smith im Britischen Museum eine Keilschrifttafel aus Ninive und stieß auf eine Flutgeschichte, die der biblischen Sintflut frappierend ähnelt. Sie stammt aus dem Gilgamesch-Epos, in dieser Fassung über 2.500 Jahre alt. Wer erzählte die Geschichte zuerst, und wer hat von wem abgeschrieben?" },
 ];
