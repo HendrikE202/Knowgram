@@ -1,96 +1,298 @@
 {
- "generated": "2026-10-28T20:16:19.607195+00:00",
+ "generated": "2026-10-29T00:57:47.805788+00:00",
  "briefing": [
   "n967e87ffe5",
   "n79d6e5c21d",
   "nd658307b2f",
+  "n2c89684b05",
   "ne93e64af9a",
+  "n048357b272",
   "ncb20e6b121",
-  "n4063dd7c2a",
   "ne234cbe126",
-  "ne5e98b531e",
-  "n1a0be3eada",
-  "n295c5a3954"
+  "ne5e98b531e"
  ],
  "ranked": [
   {
    "id": "n967e87ffe5",
-   "s": 42.0
+   "s": 40.8
   },
   {
    "id": "n79d6e5c21d",
-   "s": 39.2
+   "s": 38.0
   },
   {
    "id": "nd658307b2f",
-   "s": 37.9
+   "s": 37.0
+  },
+  {
+   "id": "n2c89684b05",
+   "s": 32.2
   },
   {
    "id": "ne93e64af9a",
-   "s": 27.7
+   "s": 26.5
+  },
+  {
+   "id": "n048357b272",
+   "s": 22.8
   },
   {
    "id": "ncb20e6b121",
-   "s": 22.9
-  },
-  {
-   "id": "n4063dd7c2a",
-   "s": 22.9
-  },
-  {
-   "id": "ne234cbe126",
-   "s": 22.0
-  },
-  {
-   "id": "ne5e98b531e",
-   "s": 21.9
-  },
-  {
-   "id": "n1a0be3eada",
    "s": 21.8
   },
   {
-   "id": "n295c5a3954",
-   "s": 20.2
+   "id": "ne234cbe126",
+   "s": 20.8
   },
   {
-   "id": "nc042d3358f",
-   "s": 20.1
-  },
-  {
-   "id": "n92b9202a75",
-   "s": 17.9
-  },
-  {
-   "id": "n9dbbbec53b",
-   "s": 17.9
-  },
-  {
-   "id": "n3be160e78c",
-   "s": 17.3
-  },
-  {
-   "id": "nd8018e76ca",
-   "s": 17.0
-  },
-  {
-   "id": "ne45ad61c0f",
-   "s": 17.0
-  },
-  {
-   "id": "n6895c2fa28",
-   "s": 17.0
-  },
-  {
-   "id": "ndcffc5c00c",
-   "s": 16.5
-  },
-  {
-   "id": "nebad9d9b93",
-   "s": 16.2
+   "id": "ne5e98b531e",
+   "s": 20.7
   }
  ],
  "items": [
+  {
+   "id": "n5e23427b0c",
+   "topic": "welt",
+   "title": "Zugunglück in Spanien: Der Schock sitzt tief",
+   "text": "In Spanien sitzt der Schock tief über das zweite schwere Zugunglück auf der Hochgeschwindigkeitszugstrecke zwischen Madrid und Andalusien. Mindestens 68 Menschen verloren bei dem Unglück in der Region Toledo ihr Leben. Von Franka Welz.",
+   "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-reportage-100.html",
+   "published": "2026-10-29T00:52:51+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-01T00:52:51+00:00",
+   "img": "https://images.tagesschau.de/image/f67b8593-5cb3-4e54-986f-56a033049442/AAABoYT5IkU/AAABnSSvrFg/16x9-big/zugunglueck-spanien-146.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Mindestens 68 Tote - Ursache für Zugunglück in Spanien wohl menschliches Versagen",
+     "link": "https://www.deutschlandfunk.de/ursache-fuer-zugunglueck-in-spanien-wohl-menschliches-versagen-106.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Mindestens 30 Tote bei Zugunglück in Spanien",
+     "link": "https://www.dw.com/de/mindestens-30-tote-bei-zugunglück-in-spanien/a-79784693?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "n736be30286",
+   "topic": "nfl",
+   "title": "Troy Aikman says there's a \"50-50 chance\" he won't be working in TV next year",
+   "text": "Hall of Fame quarterback Troy Aikman appeared at a Dallas event on Wednesday night with Peter King, in connection with Peter's new book, The Game.",
+   "link": "https://sports.yahoo.com/articles/troy-aikman-says-theres-50-004647362.html",
+   "published": "2026-10-29T00:46:47+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-03T00:46:47+00:00"
+  },
+  {
+   "id": "n96a8d4111e",
+   "topic": "nfl",
+   "title": "Myles Garrett & Terrance Ferguson won’t return soon",
+   "text": "Sean McVay says Myles Garrett, Terrance Ferguson won’t return to practice this week for Rams",
+   "link": "https://sports.yahoo.com/articles/myles-garrett-terrance-ferguson-won-003803084.html",
+   "published": "2026-10-29T00:38:03+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-03T00:38:03+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/b5940e254dd502b6d59f3a3c656c7f0d.jpg"
+  },
+  {
+   "id": "ndfa2648c8e",
+   "topic": "nfl",
+   "title": "NFL Week 8 injury report: Lamar Jackson practices in full, Lions star Kerby Joseph returns",
+   "text": "Get the latest Week 8 injury updates on Lamar Jackson, Kerby Joseph, Matthew Golden, Ja'Marr Chase, Saquon Barkley and other notable NFL players",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-8-injury-report-lamar-jackson-kerby-joseph-updates/",
+   "published": "2026-10-29T00:24:26+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-03T00:24:26+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/29/36a8b0d9-d84b-4590-8aec-e42a8f5b2a3b/lamar-jackson.jpg"
+  },
+  {
+   "id": "nd65f69383b",
+   "topic": "politik",
+   "title": "Nach Flucht in die USA - Bolsonaro erklärt sich zum \"Anführer\"",
+   "text": "Der Verlierer der Präsidentschaftswahl in Brasilien, Flávio Bolsonaro, hat sich als Opfer von Wahlbetrug und politischer Verfolgung bezeichnet.",
+   "link": "https://www.deutschlandfunk.de/bolsonaro-erklaert-sich-zum-anfuehrer-102.html",
+   "published": "2026-10-29T00:07:18+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-31T00:07:18+00:00",
+   "img": "https://bilder.deutschlandfunk.de/NO/VA/_1/5d/NOVA_15d46bedf9f8c87605851869180fc449/craft-13514008-asset-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Bolsonaro erklärt sich selbst zum Wahlsieger - aus den USA",
+     "link": "https://www.tagesschau.de/ausland/amerika/flavio-bolsonaro-erklaerung-wahlsieger-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n048357b272",
+   "topic": "politik",
+   "title": "Folgen des Bürgerkriegs - UNO: Immer mehr Menschen im Jemen durch Kämpfe vertrieben",
+   "text": "Im Jemen sind immer mehr Menschen nach Erkenntnissen der Vereinten Nationen auf der Flucht vor anhaltenden Kämpfen.",
+   "link": "https://www.deutschlandfunk.de/uno-immer-mehr-menschen-im-jemen-durch-kaempfe-vertrieben-102.html",
+   "published": "2026-10-29T00:07:18+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-31T00:07:18+00:00",
+   "img": "https://bilder.deutschlandfunk.de/19/5f/50/83/195f5083-0558-498c-8ccd-135ad09a9eec/huthi-jemen-108-768x768.jpg"
+  },
+  {
+   "id": "nf84b8bd1ce",
+   "topic": "politik",
+   "title": "Bayern - Ermittlungen gegen Belarussen wegen Sabotageverdachts",
+   "text": "​Die Generalstaatsanwaltschaft München ermittelt gegen zwei Belarussen, die im Raum Nürnberg Sabotageakte mit Brandbeschleunigern geplant haben sollen. Die Behörde teilte mit, Ziel sei ein noch nicht näher bekanntes Gebäude oder eine Einrichtung der kritischen Infrastruktur gewesen.",
+   "link": "https://www.deutschlandfunk.de/ermittlungen-gegen-belarussen-wegen-sabotageverdachts-112.html",
+   "published": "2026-10-29T00:07:18+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-31T00:07:18+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Bayern: Ermittlungen gegen zwei Belarusen wegen Sabotageverdacht",
+     "link": "https://www.tagesschau.de/inland/bayern-ermittlungen-gegen-belarusen-sabotage-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n3f18d274a2",
+   "topic": "politik",
+   "title": "Mindestens 68 Tote - Ursache für Zugunglück in Spanien wohl menschliches Versagen",
+   "text": "Die spanische Regierung vermutet menschliches Versagen als Ursache für das Zugunglück mit mindestens 68 Toten.",
+   "link": "https://www.deutschlandfunk.de/ursache-fuer-zugunglueck-in-spanien-wohl-menschliches-versagen-106.html",
+   "published": "2026-10-29T00:07:18+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-31T00:07:18+00:00",
+   "img": "https://bilder.deutschlandfunk.de/32/0f/f9/a8/320ff9a8-2583-4219-9a1e-7fd789c96c30/spanien-unfall-zug-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Zugunglück in Spanien: Der Schock sitzt tief",
+     "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-reportage-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Mindestens 30 Tote bei Zugunglück in Spanien",
+     "link": "https://www.dw.com/de/mindestens-30-tote-bei-zugunglück-in-spanien/a-79784693?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "n1f7138edea",
+   "topic": "politik",
+   "title": "Asienreise - Merz fliegt heute zu politischen Gesprächen nach Südkorea",
+   "text": "Bundeskanzler Merz fliegt heute von Japan aus nach Südkorea, der dritten und letzten Station seiner Asienreise.",
+   "link": "https://www.deutschlandfunk.de/merz-fliegt-heute-zu-politischen-gespraechen-nach-suedkorea-100.html",
+   "published": "2026-10-29T00:07:18+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-31T00:07:18+00:00",
+   "img": "https://bilder.deutschlandfunk.de/5d/0b/ab/f4/5d0babf4-12ab-4823-89b7-5b78606aa5fb/bundeskanzler-merz-japan-german-japanese-business-summit-reise-100-1920x1920.jpg"
+  },
+  {
+   "id": "n0056b533bd",
+   "topic": "politik",
+   "title": "Fußball-DFB-Pokal - Kiel wirft Hoffenheim raus, Siege für München und Leverkusen",
+   "text": "In der zweiten Runde des Fußball-DFB-Pokals gab es am Abend folgende Ergebnisse:",
+   "link": "https://www.deutschlandfunk.de/kiel-wirft-hoffenheim-raus-siege-fuer-muenchen-und-leverkusen-100.html",
+   "published": "2026-10-29T00:07:18+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-31T00:07:18+00:00"
+  },
+  {
+   "id": "n327a2ec576",
+   "topic": "politik",
+   "title": "Internet-Störung bei Frankfurt: Reparatur läuft am späten Abend noch",
+   "text": "Die Störung im Glasfasernetz von Vodafone mit bis zu 28.000 betroffenen Kabelkunden in Frankfurt und Bad Vilbel war am späten Mittwochabend noch nicht komplett behoben. Wegen unerwarteter Probleme zog sich die Reparatur hin. Viele Anschlüsse funktionieren inzwischen aber wieder.",
+   "link": "https://www.hessenschau.de/wirtschaft/internet-stoerung-bei-frankfurt-reparatur-laeuft-am-spaeten-abend-noch-v12,vodafone-stoerung-102.html",
+   "published": "2026-10-28T22:11:12+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-01T22:11:12+00:00",
+   "tag": "Hessen"
+  },
+  {
+   "id": "n2c89684b05",
+   "topic": "welt",
+   "title": "Bolsonaro erklärt sich selbst zum Wahlsieger - aus den USA",
+   "text": "Heimlich hat sich der brasilianische Wahlverlierer Flávio Bolsonaro in die USA abgesetzt. Gegen ihn wird wegen Korruption und Geldwäsche ermittelt. Entgegen eindeutiger Ergebnisse hat er sich nun selbst zum Wahlsieger erklärt.",
+   "link": "https://www.tagesschau.de/ausland/amerika/flavio-bolsonaro-erklaerung-wahlsieger-100.html",
+   "published": "2026-10-28T21:56:25+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-31T21:56:25+00:00",
+   "img": "https://images.tagesschau.de/image/4fa122f3-e6c0-4210-a3ea-9a24fb193a7f/AAABoYSCpNQ/AAABnSSvrFg/16x9-big/bolsonaro-348.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Nach Flucht in die USA - Bolsonaro erklärt sich zum \"Anführer\"",
+     "link": "https://www.deutschlandfunk.de/bolsonaro-erklaert-sich-zum-anfuehrer-102.html"
+    }
+   ]
+  },
+  {
+   "id": "n2778e3df5c",
+   "topic": "welt",
+   "title": "Wie konnte es zu dem schweren Zugunglück kommen?",
+   "text": "Ein Zug steht, ein weiterer fährt mit hoher Geschwindigkeit auf. Bei dem schweren Zugunglück in Spanien starben mindestens 68 Menschen. Es gibt erste Erkenntnisse zur Unglücksursache: Offenbar spielte menschliches Versagen eine Rolle.",
+   "link": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-144.html",
+   "published": "2026-10-28T20:54:12+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-10-31T20:54:12+00:00",
+   "img": "https://images.tagesschau.de/image/98ce9bb3-189f-46dc-87b0-64bc0c327ea9/AAABoYPNV7E/AAABnSSvrFg/16x9-big/zugunglueck-spanien-142.jpg?width=1920"
+  },
+  {
+   "id": "na6ae878af9",
+   "topic": "it",
+   "title": "Neues LLM: Gemini 4 Carbon ist Exploit-Experte",
+   "text": "Erst vor 4 Wochen hat Google sein Sprachmodell Gemini Argon freigegeben, da lässt es schon das nächste Spitzenmodell vom Stapel laufen. Es heißt Carbon.",
+   "link": "https://www.heise.de/news/Gemini-Argon-war-gestern-jetzt-kommt-Carbon-11503849.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-28T20:54:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-02T20:54:00+00:00",
+   "also": [
+    {
+     "source": "THE DECODER",
+     "title": "Gemini 4 Carbon: Googles neues Spitzenmodell zielt auf lange Agenten-Workflows und Cyberabwehr",
+     "link": "https://the-decoder.de/gemini-4-carbon-googles-neues-spitzenmodell-zielt-auf-lange-agenten-workflows-und-cyberabwehr/"
+    }
+   ]
+  },
+  {
+   "id": "n2fe9305443",
+   "topic": "nfl",
+   "title": "Agent's Take: Detroit Lions' Sam LaPorta contract problem isn't going away",
+   "text": "LaPorta may have reason to wait if the Lions use the franchise tag, especially with Brock Bowers positioned to dramatically reshape the tight end market",
+   "link": "https://www.cbssports.com/nfl/news/agents-take-lions-sam-laporta-contract-problem/",
+   "published": "2026-10-28T20:24:59+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-02T20:24:59+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2025/10/17/fea4f5cc-1147-40e5-9067-6d7645633d58/sam-laporta-lions.png"
+  },
   {
    "id": "n88fdb7202a",
    "topic": "politik",
@@ -116,7 +318,6 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-30T20:03:25+00:00",
-   "img": "https://bilder.deutschlandfunk.de/22/2b/1c/0a/222b1c0a-5a84-41bb-a46d-af8789ee7429/generalstaatsanwaltschaft-muenchen-102-1920x1920.jpg",
    "also": [
     {
      "source": "Tagesschau",
@@ -166,8 +367,8 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Mindestens 68 Tote nach Zugunglück in Spanien",
-     "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-124.html"
+     "title": "Zugunglück in Spanien: Der Schock sitzt tief",
+     "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-reportage-100.html"
     },
     {
      "source": "Deutsche Welle",
@@ -199,8 +400,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-30T20:03:25+00:00",
-   "img": "https://bilder.deutschlandfunk.de/eb/c6/58/33/ebc65833-e3f1-4337-81fe-f4416c4076ef/freiburg-wolfsburg-fussball-100-1920x1920.jpg"
+   "expires": "2026-10-30T20:03:25+00:00"
   },
   {
    "id": "n5f5a07eba8",
@@ -254,19 +454,6 @@
    "img": "https://media.zenfs.com/en/sb_nation_articles_115/684baaea96b21d47276a310565e50aa6.jpg"
   },
   {
-   "id": "n2fe9305443",
-   "topic": "nfl",
-   "title": "Agent's Take: Detroit Lions' Sam LaPorta contract problem isn't going away",
-   "text": "LaPorta may have reason to wait if the Lions use the franchise tag, especially with Brock Bowers positioned to dramatically reshape the tight end market",
-   "link": "https://www.cbssports.com/nfl/news/agents-take-lions-sam-laporta-contract-problem/",
-   "published": "2026-10-28T19:22:56+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-02T19:22:56+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2025/10/17/fea4f5cc-1147-40e5-9067-6d7645633d58/sam-laporta-lions.png"
-  },
-  {
    "id": "n4e8456c605",
    "topic": "it",
    "title": "Orange: Netzbetreiber fordert nach Ausfall Schadensersatz von Nokia",
@@ -308,7 +495,7 @@
     {
      "source": "Deutschlandfunk",
      "title": "Bayern - Ermittlungen gegen Belarussen wegen Sabotageverdachts",
-     "link": "https://www.deutschlandfunk.de/ermittlungen-gegen-belarussen-wegen-sabotageverdachts-102.html"
+     "link": "https://www.deutschlandfunk.de/ermittlungen-gegen-belarussen-wegen-sabotageverdachts-112.html"
     }
    ]
   },
@@ -335,7 +522,14 @@
    "type": "Fachmedium (KI)",
    "lang": "de",
    "expires": "2026-11-04T18:49:58+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/gemini_4_argon-2.png"
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/gemini_4_argon-2.png",
+   "also": [
+    {
+     "source": "heise online",
+     "title": "Neues LLM: Gemini 4 Carbon ist Exploit-Experte",
+     "link": "https://www.heise.de/news/Gemini-Argon-war-gestern-jetzt-kommt-Carbon-11503849.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
   },
   {
    "id": "n127063aa0c",
@@ -466,8 +660,8 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Region Toledo - Mindestens 68 Tote nach Kollision von zwei Zügen in Spanien",
-     "link": "https://www.deutschlandfunk.de/mindestens-68-tote-nach-kollision-von-zwei-zuegen-in-spanien-100.html"
+     "title": "Mindestens 68 Tote - Ursache für Zugunglück in Spanien wohl menschliches Versagen",
+     "link": "https://www.deutschlandfunk.de/ursache-fuer-zugunglueck-in-spanien-wohl-menschliches-versagen-106.html"
     },
     {
      "source": "Deutsche Welle",
@@ -757,8 +951,8 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Mindestens 68 Tote nach Zugunglück in Spanien",
-     "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-124.html"
+     "title": "Zugunglück in Spanien: Der Schock sitzt tief",
+     "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-reportage-100.html"
     },
     {
      "source": "Deutsche Welle",
@@ -941,7 +1135,6 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-01T12:10:04+00:00",
-   "img": "https://www.hessenschau.de/panorama/glasfaser-reparatur-100~_t-1793189150262_v-16to9.jpg",
    "tag": "Hessen"
   },
   {
@@ -1097,14 +1290,14 @@
    "expires": "2026-11-01T10:22:00+00:00",
    "also": [
     {
-     "source": "Deutschlandfunk",
-     "title": "Region Toledo - Mindestens 68 Tote nach Kollision von zwei Zügen in Spanien",
-     "link": "https://www.deutschlandfunk.de/mindestens-68-tote-nach-kollision-von-zwei-zuegen-in-spanien-100.html"
+     "source": "Tagesschau",
+     "title": "Zugunglück in Spanien: Der Schock sitzt tief",
+     "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-reportage-100.html"
     },
     {
-     "source": "Tagesschau",
-     "title": "Mindestens 68 Tote nach Zugunglück in Spanien",
-     "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-124.html"
+     "source": "Deutschlandfunk",
+     "title": "Mindestens 68 Tote - Ursache für Zugunglück in Spanien wohl menschliches Versagen",
+     "link": "https://www.deutschlandfunk.de/ursache-fuer-zugunglueck-in-spanien-wohl-menschliches-versagen-106.html"
     }
    ]
   },
@@ -1119,16 +1312,17 @@
    "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
    "lang": "de",
    "expires": "2026-11-01T10:22:00+00:00",
+   "img": "https://static.dw.com/image/79784921_302.jpg",
    "also": [
     {
-     "source": "Deutschlandfunk",
-     "title": "Region Toledo - Mindestens 68 Tote nach Kollision von zwei Zügen in Spanien",
-     "link": "https://www.deutschlandfunk.de/mindestens-68-tote-nach-kollision-von-zwei-zuegen-in-spanien-100.html"
+     "source": "Tagesschau",
+     "title": "Zugunglück in Spanien: Der Schock sitzt tief",
+     "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-reportage-100.html"
     },
     {
-     "source": "Tagesschau",
-     "title": "Mindestens 68 Tote nach Zugunglück in Spanien",
-     "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-124.html"
+     "source": "Deutschlandfunk",
+     "title": "Mindestens 68 Tote - Ursache für Zugunglück in Spanien wohl menschliches Versagen",
+     "link": "https://www.deutschlandfunk.de/ursache-fuer-zugunglueck-in-spanien-wohl-menschliches-versagen-106.html"
     }
    ]
   },
@@ -1744,186 +1938,6 @@
    "type": "Fachmedium (IT)",
    "lang": "de",
    "expires": "2026-11-01T20:00:00+00:00"
-  },
-  {
-   "id": "n9cf0cd04c8",
-   "topic": "politik",
-   "title": "CDU-Politikerin Claus signalisiert Interesse an Steinmeier-Nachfolge",
-   "text": "Bisher gibt es nur den Vorschlag der CSU: Ilse Aigner soll Bundespräsidentin werden. Doch in der CDU gibt es den Wunsch nach einem Namen aus den eigenen Reihen. Nun wird der von Ines Claus genannt. Hätte sie Chancen? Von Kirsten Girschick.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/moegliche-nachfolgerin-steinmeier-ines-claus-100.html",
-   "published": "2026-10-27T19:52:58+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-30T19:52:58+00:00",
-   "img": "https://images.tagesschau.de/image/29df1a75-394a-4b9a-913c-a8932d7564d2/AAABoX6MQ7c/AAABnSSvrFg/16x9-big/claus-116.jpg?width=1920"
-  },
-  {
-   "id": "n1b971388ad",
-   "topic": "it",
-   "title": "Top 10: Der beste Saugroboter – wischen, klettern und saugen schon ab 550 Euro",
-   "text": "Saugroboter mit Wischfunktion erleichtern den Alltag. Wir zeigen die besten Modelle mit Absaug- oder Reinigungsstation.",
-   "link": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-saugroboter-wischen-klettern-und-saugen-schon-ab-550-euro/2dxtvlp?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-27T19:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-01T19:00:00+00:00"
-  },
-  {
-   "id": "n50c738c359",
-   "topic": "it",
-   "title": "Chinas Reichenliste: KI-Milliardäre an der Spitze, keine Angaben zur Parteiführung",
-   "text": "Ein neuer Rekord im Hurun-Report für chinesische Tech- und KI-Milliardäre. Parteifunktionäre verschleiern ihren Reichtum über Familiennetzwerke. ( Bytedance , Studien )",
-   "link": "https://www.golem.de/news/chinas-reichenliste-ki-milliardaere-an-der-spitze-keine-angaben-zur-parteielite-2610-214573.html",
-   "published": "2026-10-27T18:53:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-01T18:53:02+00:00",
-   "img": "https://www.golem.de/2610/214573-605533-605531_rc.jpg"
-  },
-  {
-   "id": "nb6d4eba481",
-   "topic": "ki",
-   "title": "Alibabas offene Qwen-Modelle versuchten in Tests, Daten an chinesischen Cloud-Server zu senden",
-   "text": "Alibabas Qwen-3.8-Modelle versuchten in Tests, Daten an firmeneigene Cloud-Server zu senden. Palisade Research fand das Verhalten in drei Modellen der 3.8-Generation, ältere Versionen waren jedoch nicht betroffen. Die wahrscheinliche Ursache: Alibabas Trainingsinfrastruktur hat sich als gelerntes Verhaltensmuster ins …",
-   "link": "https://the-decoder.de/alibabas-offene-qwen-modelle-versuchten-in-tests-daten-an-chinesischen-cloud-server-zu-senden/",
-   "published": "2026-10-27T18:41:17+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-03T18:41:17+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/alibaba_cohere.png"
-  },
-  {
-   "id": "nb6f26e0044",
-   "topic": "it",
-   "title": "M6-iMac: Apple holt die KI auf den Schreibtisch",
-   "text": "Mehr Leistung, schnellere KI direkt auf dem Gerät und sieben Farben: Apples neuer iMac setzt vor allem auf lokale KI-Verarbeitung. ( iMac , Apple )",
-   "link": "https://www.golem.de/news/all-in-one-m6-imac-apple-holt-die-ki-auf-den-schreibtisch-2610-214572.html",
-   "published": "2026-10-27T18:12:01+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-01T18:12:01+00:00",
-   "img": "https://www.golem.de/2610/214572-605529-605527_rc.jpg"
-  },
-  {
-   "id": "n93f699a1d6",
-   "topic": "welt",
-   "title": "Nach Anschlägen in Frankreich: Sorge vor wachsendem Rassismus",
-   "text": "Nach den offenbar rassistisch motivierten Anschlägen in Frankreich gehen in Paris Menschen auf die Straße. Viele sehen rechte Medien in der Verantwortung - und den Rassemblement National. Von Carolin Dylla.",
-   "link": "https://www.tagesschau.de/ausland/europa/frankreich-paris-kundgebung-nach-anschlaegen-von-trappes-la-verriere-100.html",
-   "published": "2026-10-27T17:56:21+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-30T17:56:21+00:00",
-   "img": "https://images.tagesschau.de/image/1a50e5a7-60f5-4e6d-b096-da09a2d35b21/AAABoX4Wx54/AAABnSSvrFg/16x9-big/proteste-paris-110.jpg?width=1920"
-  },
-  {
-   "id": "nf5ddcd2a63",
-   "topic": "it",
-   "title": "Frankreich erwog Internet-Sperren während Protesten",
-   "text": "Während der Protestwelle in Frankreich erwog die Regierung, Zugänge zu sozialen Netzwerken und mobiles Internet gezielt zu blockieren.",
-   "link": "https://www.heise.de/news/Frankreich-erwog-Internet-Sperren-waehrend-Protesten-11502333.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-27T17:32:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-01T17:32:00+00:00"
-  },
-  {
-   "id": "n94c4d9f16f",
-   "topic": "wirtschaft",
-   "title": "Marktbericht: DAX kann weiter zulegen",
-   "text": "Obwohl die wichtigsten Termine der Woche noch bevorstehen, hat der DAX seine Kurserholung fortgesetzt. Geholfen haben dabei neue Hoffnungen auf eine diplomatische Lösung im Iran-Krieg.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-anthropic-ki-ezb-100.html",
-   "published": "2026-10-27T17:18:35+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-30T17:18:35+00:00",
-   "img": "https://images.tagesschau.de/image/ac5471dd-2140-4880-86ee-40edd442eb13/AAABnUI3xTI/AAABnSSvrFg/16x9-big/boerse-500.jpg?width=1920"
-  },
-  {
-   "id": "n3ad3604678",
-   "topic": "politik",
-   "title": "FAQ: Die lange Suche nach einem Atommüll-Endlager",
-   "text": "Rund 27.000 Kubikmeter hochradioaktiver Müll müssen dauerhaft und sicher verwahrt werden. Bis 2050 soll ein Endlager gefunden werden. Die Suche wurde nun weiter eingegrenzt. Wie muss ein Endlager beschaffen sein? Und wo könnte es entstehen?",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/endlagersuche-standorte-100.html",
-   "published": "2026-10-27T17:12:36+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-30T17:12:36+00:00",
-   "img": "https://images.tagesschau.de/image/b512b69f-6d9f-4f6a-92d5-323260a1487c/AAABlepm6UI/AAABnSSvrFg/16x9-big/atommuell-148.jpg?width=1920"
-  },
-  {
-   "id": "n7636404a52",
-   "topic": "politik",
-   "title": "Atommüll-Endlager: In weiteren Bundesländern soll nicht mehr gesucht werden",
-   "text": "Die Suche nach einem Endlager für den hochradioaktiven Atommüll in Deutschland wird konkreter. Die zuständigen Fachleute haben die geeigneten Gebiete weiter eingegrenzt - auf weniger als fünf Prozent der Landesfläche.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/endlagersuche-atommuell-100.html",
-   "published": "2026-10-27T17:11:59+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-30T17:11:59+00:00",
-   "img": "https://images.tagesschau.de/image/600b734c-bcbd-4e12-ad26-dfe12ca4d186/AAABmknhhT0/AAABnSSvrFg/16x9-big/atommuell-170.jpg?width=1920"
-  },
-  {
-   "id": "n5b88393313",
-   "topic": "ki",
-   "title": "Google Deepmind zeigt mit Genie 4 die nächste Stufe der KI-Simulation",
-   "text": "Genie 4 soll interaktive Welten samt Ton und sprechenden Figuren in Echtzeit simulieren. Dabei planen Gemini-Modelle im Hintergrund mit, was in der Simulation als Nächstes passiert. Vorerst dürfen nur ausgewählte Tester das Weltmodell ausprobieren. Der Artikel Google Deepmind zeigt mit Genie 4 die nächste Stufe der …",
-   "link": "https://the-decoder.de/google-deepmind-zeigt-mit-genie-4-die-naechste-stufe-der-ki-simulation/",
-   "published": "2026-10-27T17:08:09+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-03T17:08:09+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/Genie-4-Google-title.png"
-  },
-  {
-   "id": "n5795b9c41a",
-   "topic": "welt",
-   "title": "Pressefreiheit: Ägypten schließt unabhängige Nachrichtenseite",
-   "text": "Ein ägyptisches Gericht hat die Schließung der unabhängigen Nachrichtenwebseite Mada Masr angeordnet. Chefredakteurin Attalah wurde zu einer hohen Geldstrafe verurteilt. Reporter ohne Grenzen spricht von einer \"ungeheuerlichen Entscheidung\".",
-   "link": "https://www.tagesschau.de/ausland/afrika/aegypten-nachrichtenseite-mada-masr-100.html",
-   "published": "2026-10-27T16:42:34+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-30T16:42:34+00:00",
-   "img": "https://images.tagesschau.de/image/d30526a2-4898-4b8b-8266-a6bced562d2a/AAABoX3nV24/AAABnSSvrFg/16x9-big/attalah-100.jpg?width=1920"
-  },
-  {
-   "id": "ne45ad61c0f",
-   "topic": "welt",
-   "title": "Zwischenwahlen in den USA: Warum sind sie wichtig, wer wird gewählt, wo wird’s spannend?",
-   "text": "Die US-Amerikaner wählen einen neuen Kongress. Die Midterms gelten dabei auch als Bewertung von Trumps Politik. Senat, Abgeordnetenhaus, Gouverneure – die Zwischenwahl hat entscheidenden Einfluss auf die Zukunft der USA.",
-   "link": "https://www.dw.com/de/zwischenwahlen-in-den-usa-warum-sind-sie-wichtig-wer-wird-gewählt-wo-wird-s-spannend/a-79776241?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-27T16:25:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-10-31T16:25:00+00:00",
-   "img": "https://static.dw.com/image/79306056_302.jpg"
-  },
-  {
-   "id": "n6895c2fa28",
-   "topic": "wirtschaft",
-   "title": "Tarifverhandlungen: IG Metall lehnt Angebot ab - Warnstreiks drohen",
-   "text": "Die Arbeitgeber der Metall- und Elektroindustrie haben in der laufenden Tarifrunde ein erstes Angebot vorgelegt. Die IG Metall weist es als unzureichend zurück. Ab Sonntag sind Warnstreiks möglich.",
-   "link": "https://www.tagesschau.de/wirtschaft/ig-metall-wirtschaftsmeldung-oktober2026-100.html",
-   "published": "2026-10-27T16:12:25+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-30T16:12:25+00:00",
-   "img": "https://images.tagesschau.de/image/7bd85742-5732-4a42-89a1-c71a7c8fa474/AAABoX3DJes/AAABnSSvrFg/16x9-big/ig-metall-250.jpg?width=1920"
   }
  ]
 }
