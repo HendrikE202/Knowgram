@@ -1,55 +1,540 @@
 {
- "generated": "2026-10-30T01:00:19.294889+00:00",
+ "generated": "2026-10-30T10:01:57.813661+00:00",
  "briefing": [
   "n3058635739",
-  "n2778e3df5c",
   "nb5543487e3",
   "n3b1110d357",
-  "n118668da38",
   "n509faa0040",
+  "n1b3b4f7eca",
   "n59cc501c40",
-  "n9115609a4a",
-  "nf506aa58b4"
+  "na6f28e567e",
+  "n8641eb1951",
+  "n9115609a4a"
  ],
  "ranked": [
   {
    "id": "n3058635739",
-   "s": 42.4
-  },
-  {
-   "id": "n2778e3df5c",
-   "s": 33.1
+   "s": 47.9
   },
   {
    "id": "nb5543487e3",
-   "s": 32.8
+   "s": 30.5
   },
   {
    "id": "n3b1110d357",
-   "s": 32.5
-  },
-  {
-   "id": "n118668da38",
-   "s": 30.6
-  },
-  {
-   "id": "n509faa0040",
    "s": 30.3
   },
   {
+   "id": "n509faa0040",
+   "s": 28.0
+  },
+  {
+   "id": "n1b3b4f7eca",
+   "s": 27.5
+  },
+  {
    "id": "n59cc501c40",
-   "s": 29.2
+   "s": 27.0
+  },
+  {
+   "id": "na6f28e567e",
+   "s": 23.0
+  },
+  {
+   "id": "n8641eb1951",
+   "s": 22.9
   },
   {
    "id": "n9115609a4a",
-   "s": 22.4
-  },
-  {
-   "id": "nf506aa58b4",
-   "s": 21.4
+   "s": 20.2
   }
  ],
  "items": [
+  {
+   "id": "n47864ae76e",
+   "topic": "politik",
+   "title": "Caricatura Frankfurt zeigt \"60 Jahre Star Trek\": Kirks Kommandosessel und Klingonen",
+   "text": "Die Schau ist klein, aber der Spaßfaktor groß: Zum 60-jährigen Bestehen widmet die Caricatura dem Star Trek-Kult eine Ausstellung. Insider-Scherze aus der Weltraum-Welt treffen hier auf reale Themen aus Politik, Geschichte und Gesellschaft.",
+   "link": "https://www.hessenschau.de/kultur/caricatura-frankfurt-zeigt-60-jahre-star-trek-kirks-kommandosessel-und-klingonen-v2,star-trek-caricatura-frankfurt-100.html",
+   "published": "2026-10-30T10:00:27+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-03T10:00:27+00:00",
+   "img": "https://www.hessenschau.de/kultur/caricatura-star-trek-100~_t-1793276762782_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "na6f28e567e",
+   "topic": "wirtschaft",
+   "title": "Deutsche Wirtschaft wächst überraschend im Sommer",
+   "text": "Nach einem starken Halbjahr hat sich auch im Sommer die Erholung der deutschen Wirtschaft fortgesetzt. Dabei hatten viele Experten mit einer Stagnation gerechnet. Die privaten Ausgaben sind jedoch weiterhin verhalten.",
+   "link": "https://www.tagesschau.de/wirtschaft/konjunktur/entwicklung-bip-deutschland-sommer-100.html",
+   "published": "2026-10-30T09:50:45+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T09:50:45+00:00",
+   "img": "https://images.tagesschau.de/image/eb011f34-2bf4-4b6e-9580-4e6222929b68/AAABoYwixYc/AAABnSSvrFg/16x9-big/konjunktur-424.jpg?width=1920"
+  },
+  {
+   "id": "n239cf9ef6a",
+   "topic": "nfl",
+   "title": "Why Justin Herbert, 3 other NFL stars won't be traded: Follow the money",
+   "text": "These four NFL stars are highly unlikely to be dealt before the NFL trade deadline due to their contracts.",
+   "link": "https://sports.yahoo.com/articles/why-justin-herbert-3-other-094655053.html",
+   "published": "2026-10-30T09:46:55+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-04T09:46:55+00:00",
+   "img": "https://media.zenfs.com/en/usa_today_sports_articles_558/570c4d5e35c0b357594b4b26ec78147f.jpg"
+  },
+  {
+   "id": "nece2e60eb1",
+   "topic": "wirtschaft",
+   "title": "Krise in Automobilbranche: Gewinn bei Audi bricht drastisch ein",
+   "text": "Auch der Autobauer Audi steckt in der Krise: Der Gewinn brach im dritten Quartal deutlich ein. Grund ist unter anderem das schwache China-Geschäft. Neue Automodelle sollen positive Impulse bringen.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/automobil-audi-gewinneinbruch-100.html",
+   "published": "2026-10-30T09:42:12+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T09:42:12+00:00",
+   "img": "https://images.tagesschau.de/image/0de6f7b9-b895-4aa2-a1ab-d78c9b17da15/AAABoYv1pSM/AAABnSSvrFg/16x9-big/audi-260.jpg?width=1920"
+  },
+  {
+   "id": "nfc887d7107",
+   "topic": "welt",
+   "title": "Zugunglück in Spanien: Fahrdatenschreiber geborgen",
+   "text": "Auf den Schock nach dem schweren Zugunglück in Spanien folgt die Suche nach der Ursache: Ermittler haben die Fahrdatenschreiber in den Wracks gefunden. Die Daten werden nun ausgewertet - und liefern hoffentlich Antworten.",
+   "link": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-156.html",
+   "published": "2026-10-30T09:39:38+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T09:39:38+00:00",
+   "img": "https://images.tagesschau.de/image/66f416f5-f843-43a2-aa35-189765c1a3c9/AAABoYwsVgM/AAABnSSvrFg/16x9-big/suche-guardia-vivil-100.jpg?width=1920"
+  },
+  {
+   "id": "n37aba29265",
+   "topic": "it",
+   "title": "OmniFocus und OmniOutliner: Apps spezifisch an das iPhone Duo angepasst",
+   "text": "Zwei traditionsreiche Apps der Omni Group sind bereit für Apples Foldable – und zeigen, was damit möglich ist.",
+   "link": "https://www.heise.de/news/OmniFocus-und-OmniOutliner-Apps-spezifisch-an-das-iPhone-Duo-angepasst-11495875.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-30T09:36:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-04T09:36:00+00:00"
+  },
+  {
+   "id": "n8641eb1951",
+   "topic": "welt",
+   "title": "Milliarden-Hack auf Kryptowährungsbörse Binance",
+   "text": "Die größte Digitalwährungsbörse Binance ist Ziel eines Hackerangriffs mit milliardenschweren Folgen geworden. Eine US-Analysefirma vermutet nordkoreanische Hacker hinter dem Diebstahl.",
+   "link": "https://www.dw.com/de/milliarden-hack-auf-kryptowährungsbörse-binance/a-79804737?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-30T09:30:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-03T09:30:00+00:00",
+   "img": "https://static.dw.com/image/67520947_302.jpg"
+  },
+  {
+   "id": "n0ee472dea6",
+   "topic": "it",
+   "title": "heise+ | WLAN-System im Test: Devolo WiFi 7 Mesh BE9300",
+   "text": "Mesh-WLAN mit mehreren Basen verspricht schnelles Internet auch in der letzten Ecke. Wir haben Devolos kompakte Dreiband-Funker ausprobiert. Nicht alles glänzt.",
+   "link": "https://www.heise.de/tests/WLAN-System-im-Test-Devolo-WiFi-7-Mesh-BE9300-11493233.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+   "published": "2026-10-30T09:30:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-04T09:30:00+00:00"
+  },
+  {
+   "id": "n3058635739",
+   "topic": "politik",
+   "title": "Captain Jean-Luc Picard - \"Star Trek\": Schauspieler Patrick Stewart gestorben",
+   "text": "Der Tod des Schauspielers Patrick Stewart hat weltweit für Trauer gesorgt. Stewart war vor allem durch seine Rolle als Captain Jean-Luc Picard in der Serie \"Star Trek\" bekannt geworden. Kollegen und Fans zollen dem britischen Star Tribut.",
+   "link": "https://www.deutschlandfunk.de/star-trek-schauspieler-patrick-stewart-gestorben-106.html",
+   "published": "2026-10-30T09:28:28+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-01T09:28:28+00:00",
+   "img": "https://bilder.deutschlandfunk.de/68/4e/b3/c1/684eb3c1-7a30-47b5-b86a-863ea91c5823/stewart-patrick-star-trek-100-1280x1280.jpg",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Star-Trek-Schauspieler Patrick Stewart ist tot",
+     "link": "https://www.dw.com/de/star-trek-schauspieler-patrick-stewart-ist-tot/a-79803535?maca=de-rss-de-all-1119-xml-mrss"
+    },
+    {
+     "source": "heise online",
+     "title": "Patrick Stewart ist tot",
+     "link": "https://www.heise.de/news/Patrick-Stewart-ist-tot-11505529.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    },
+    {
+     "source": "Golem.de",
+     "title": "Patrick Stewart: Der Captain hat die Brücke verlassen",
+     "link": "https://www.golem.de/news/patrick-stewart-der-captain-hat-die-bruecke-verlassen-2610-146919.html"
+    }
+   ]
+  },
+  {
+   "id": "n479426c851",
+   "topic": "politik",
+   "title": "Automobilbranche - Audi rutscht fast in die roten Zahlen",
+   "text": "Der Autohersteller Audi hat im dritten Quartal einen deutlichen Gewinneinbruch verzeichnet. Nach Steuern verdiente die VW-Tochter nur noch 95 Millionen Euro, wie das Unternehmen mitteilte. Das waren 87 Prozent weniger als im gleichen Vorjahreszeitraum, als der Gewinn noch bei 718 Millionen Euro lag.",
+   "link": "https://www.deutschlandfunk.de/audi-rutscht-fast-in-die-roten-zahlen-100.html",
+   "published": "2026-10-30T09:28:28+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-01T09:28:28+00:00"
+  },
+  {
+   "id": "nf93dbdfadc",
+   "topic": "politik",
+   "title": "NVE-Szene - Nach \"White Tiger\": Grüne pochen auf Offensive gegen Extremismus ohne Ideologien",
+   "text": "Angesichts der zunehmenden Relevanz von Terrorismus ohne Ideologie fordern die Grünen eine klare Definition und ein Lagebild des Phänomens.",
+   "link": "https://www.deutschlandfunk.de/nach-white-tiger-gruene-pochen-auf-offensive-gegen-extremismus-ohne-ideologien-100.html",
+   "published": "2026-10-30T09:28:28+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-01T09:28:28+00:00",
+   "img": "https://bilder.deutschlandfunk.de/c5/34/0e/ea/c5340eea-8b2a-47f8-8297-15b288d24a14/fall-white-tiger-100-1920x1920.jpg"
+  },
+  {
+   "id": "ndf372fcd79",
+   "topic": "politik",
+   "title": "Nordseeküste - Erste Herbst-Sturmfluten lassen Badestrände auf Norderney und Wangerooge schrumpfen",
+   "text": "Die ersten Herbststürme dieses Jahres haben auf fast allen ostfriesischen Inseln deutlich sichtbare Schäden hinterlassen. Zum Teil gingen erhebliche Teile der Badestrände verloren. Den Schutz der Inseln insgesamt sehen die Behörden aber nicht gefährdet.",
+   "link": "https://www.deutschlandfunk.de/erste-herbst-sturmfluten-lassen-badestraende-auf-norderney-und-wangerooge-schrumpfen-100.html",
+   "published": "2026-10-30T09:28:28+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-01T09:28:28+00:00",
+   "img": "https://bilder.deutschlandfunk.de/91/4b/38/93/914b3893-3ec9-4a6d-bd94-f206171a5d4f/norderney-weisse-duene-sturmfluten-strandabschnitt-sand-abbruchkanten-sturmflut-100-1920x1920.jpg"
+  },
+  {
+   "id": "ncda8869cb4",
+   "topic": "politik",
+   "title": "Schule - Zu viel Unterrichtsausfall: Ex-Abiturient verklagt Rheinland-Pfalz",
+   "text": "Ein 20 Jahre alter Ex-Abiturient verklagt das Land Rheinland-Pfalz, weil während seiner Oberstufenzeit am Eduard-Spranger-Gymnasium in Landau nach seiner Dokumentation Hunderte Unterrichtsstunden ausgefallen sind.",
+   "link": "https://www.deutschlandfunk.de/zu-viel-unterrichtsausfall-ex-abiturient-verklagt-rheinland-pfalz-100.html",
+   "published": "2026-10-30T09:28:28+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-01T09:28:28+00:00",
+   "img": "https://bilder.deutschlandfunk.de/9e/49/51/26/9e495126-edc0-4f16-8917-0ae5116309b0/schule-lehrermangel-unterrichtsausfall-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Klage in Rheinland-Pfalz: Wie viel Unterrichtsausfall ist zu viel?",
+     "link": "https://www.tagesschau.de/inland/gesellschaft/unterrichtsausfall-klage-rheinland-pfalz-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n1838a49f45",
+   "topic": "politik",
+   "title": "Einwanderung - Ähnlich wie in Europa: Südkorea streitet über Migration und Fachkräftemangel",
+   "text": "In Südkorea führen Konflikte um Migration, Fachkräftemangel und Integration inzwischen zu ähnlichen Diskussionen, wie sie Europa seit Jahren beschäftigen.",
+   "link": "https://www.deutschlandfunk.de/aehnlich-wie-in-europa-suedkorea-streitet-ueber-migration-und-fachkraeftemangel-100.html",
+   "published": "2026-10-30T09:28:28+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-01T09:28:28+00:00",
+   "img": "https://bilder.deutschlandfunk.de/dd/a9/fe/b3/dda9feb3-69a3-436b-82e0-c37184ba2bd2/lee-jae-myung-praesident-suedkorea-100-1920x1920.jpg"
+  },
+  {
+   "id": "n6bc3fe360c",
+   "topic": "it",
+   "title": "WordPress: Exploit-Versuche beobachtet, Update stopft Schadcode-Lücke",
+   "text": "WordPress-Updates stopfen mehrere Sicherheitslücken. Über eine lässt sich Schadcode einschleusen. Angriffsversuche laufen.",
+   "link": "https://www.heise.de/news/WordPress-Update-stopft-Schadcode-Luecke-Exploit-Versuche-beobachtet-11505811.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-30T09:27:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-04T09:27:00+00:00"
+  },
+  {
+   "id": "n870df273b6",
+   "topic": "wirtschaft",
+   "title": "Marktbericht: DAX steuert auf großes Wochenplus zu",
+   "text": "Der DAX rutscht im frühen Handel zwar wieder unter 26.000 Punkte, er bleibt aber in Schlagweite. Trotz steigender Ölpreise und schwacher Bilanzen von Intel und Amazon hält sich der deutsche Leitindex stabil.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-geldanlage-amazon-100.html",
+   "published": "2026-10-30T09:25:43+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T09:25:43+00:00",
+   "img": "https://images.tagesschau.de/image/42152e4c-2b1d-4f6e-a48d-9c1adf615e01/AAABnYVt-C0/AAABnSSvrFg/16x9-big/boerse-504.jpg?width=1920"
+  },
+  {
+   "id": "ne269feb73c",
+   "topic": "politik",
+   "title": "Debatte um Eralp überlagert Regierungsbildung",
+   "text": "Die Regierungsbildung in Berlin wird erneut von einer Debatte über die Linkspartei überschattet. Im Fokus: die eventuell künftige Regierende Bürgermeisterin Eralp. Und die Frage, wie entschieden sie gegen Islamismus vorgehen kann.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-eralp-debatte-spiegel-bericht-100.html",
+   "published": "2026-10-30T09:02:46+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T09:02:46+00:00",
+   "img": "https://images.tagesschau.de/image/d7849051-0dc5-4c74-8721-4a10c68c2ef0/AAABoYvgyWo/AAABnSSvrFg/16x9-big/linkspartei-eralp-100.jpg?width=1920"
+  },
+  {
+   "id": "n4780bce985",
+   "topic": "wissenschaft",
+   "title": "Tiefsee: Gigantischer Aalschwarm vor Tasmanien entdeckt",
+   "text": "An einem Unterwasserberg südlich von Tasmanien versammeln sich regelmäßig Millionen Aale. Sie kommen hier aus einem Grund zusammen.",
+   "link": "https://www.spektrum.de/news/tiefsee-wo-sich-millionen-aale-versammeln/2351924",
+   "published": "2026-10-30T09:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-13T09:00:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/PATIEN_4.JPG.8420879.gif?f=1280x720"
+  },
+  {
+   "id": "n61c30079cb",
+   "topic": "nfl",
+   "title": "The Bear’s Den: Jeffery Simmons on his way to Halas Hall",
+   "text": "The Jeffery Simmons era begins for the Chicago Bears as the team prepares for MNF at the Seattle Seahawks",
+   "link": "https://sports.yahoo.com/articles/bear-den-jeffery-simmons-way-090000226.html",
+   "published": "2026-10-30T09:00:00+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-04T09:00:00+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/178a17866f3a69b3f32b4bbbcbb3a0ae.jpg"
+  },
+  {
+   "id": "n5d78ed6460",
+   "topic": "welt",
+   "title": "EU und Kanada rücken enger zusammen - News kompakt: Das Wichtigste kurz gefasst",
+   "text": "Angesichts einer sich verändernden Weltordnung arbeiten die Europäische Union und Kanada an einer neuen Partnerschaft. Nach der Parlamentswahl in Israel sind nun alle Stimmen ausgezählt. Der DW-Nachrichtenüberblick.",
+   "link": "https://www.dw.com/de/eu-und-kanada-rücken-enger-zusammen-news-kompakt-das-wichtigste-kurz-gefasst/a-79803077?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-30T08:00:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-03T08:00:00+00:00",
+   "img": "https://static.dw.com/image/79801921_302.jpg"
+  },
+  {
+   "id": "n00699971da",
+   "topic": "welt",
+   "title": "Kampf den Schattenflotten: Was kann die EU ohne die USA tun?",
+   "text": "Die USA sollen Medienberichten zufolge erwägen, sogenannte \"Dark Tankers\" in legale Schiffe umzuwandeln, um ihnen den Transport von Rohöl zu ermöglichen, das nicht den Sanktionen unterliegt.",
+   "link": "https://www.dw.com/de/kampf-den-schattenflotten-was-kann-die-eu-ohne-die-usa-tun/a-79797804?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-30T07:58:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-03T07:58:00+00:00",
+   "img": "https://static.dw.com/image/79679167_302.jpg"
+  },
+  {
+   "id": "n1b3b4f7eca",
+   "topic": "politik",
+   "title": "Klage in Rheinland-Pfalz: Wie viel Unterrichtsausfall ist zu viel?",
+   "text": "Ein ehemaliger Schüler verklagt das Land Rheinland-Pfalz, weil während seiner Oberstufenzeit zu viel Unterricht ausgefallen sein soll. Mit dem Fall beschäftigt sich jetzt das Verwaltungsgericht Neustadt. Von C. Kehlbach und H. Diekert.",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/unterrichtsausfall-klage-rheinland-pfalz-100.html",
+   "published": "2026-10-30T07:56:44+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T07:56:44+00:00",
+   "img": "https://images.tagesschau.de/image/560b7151-9107-43c0-8c1a-e14ad381bda3/AAABoYhpOqg/AAABnSSvrFg/16x9-big/klassenzimmer-184.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Schule - Zu viel Unterrichtsausfall: Ex-Abiturient verklagt Rheinland-Pfalz",
+     "link": "https://www.deutschlandfunk.de/zu-viel-unterrichtsausfall-ex-abiturient-verklagt-rheinland-pfalz-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n7c9a4fdf80",
+   "topic": "wirtschaft",
+   "title": "Fehlende Wohnungen: Was hat der \"Bau-Turbo\" bislang gebracht?",
+   "text": "In Deutschland werden viel zu wenig Wohnungen gebaut. Dabei versucht die Bundesregierung gegenzusteuern - etwa mit dem \"Bau-Turbo\", der seit einem Jahr gilt. Was hat das Gesetz bislang gebracht? Von Axel John.",
+   "link": "https://www.tagesschau.de/wirtschaft/konjunktur/bauturbo-wohnungen-immobilien-100.html",
+   "published": "2026-10-30T07:55:53+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T07:55:53+00:00",
+   "img": "https://images.tagesschau.de/image/5c82355f-22c0-4406-b0b4-220b96eb59b9/AAABoYvWZGQ/AAABnSSvrFg/16x9-big/baustelle-402.jpg?width=1920"
+  },
+  {
+   "id": "nd7773dadf3",
+   "topic": "welt",
+   "title": "Guinea-Bissau: Internationale Menschenhändler machen sich einen schwachen Staat zunutze",
+   "text": "Sie träumten von einem Job in Europa, Kanada oder den USA: In Guinea-Bissau wurden rund 70 Menschen aus den Fängen eines mutmaßlichen kriminellen Netzwerks befreit. Doch ihr Kampf um ein Leben in Würde beginnt erst.",
+   "link": "https://www.dw.com/de/guinea-bissau-internationale-menschenhändler-machen-sich-einen-schwachen-staat-zunutze/a-79783741?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-30T07:31:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-03T07:31:00+00:00",
+   "img": "https://static.dw.com/image/67606590_302.png"
+  },
+  {
+   "id": "n3996b23213",
+   "topic": "wissenschaft",
+   "title": "Reise zum Saturnmond: Schicken Sie Ihren Namen mit Dragonfly zum Titan",
+   "text": "Die NASA-Raumsonde Dragonfly soll sich im Juli 2028 auf den Weg zum Saturnmond Titan machen, Sie können Ihren Namen mit auf die Reise schicken!",
+   "link": "https://www.spektrum.de/news/schicken-sie-ihren-namen-mit-dragonfly-zum-titan/2352042",
+   "published": "2026-10-30T07:30:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-13T07:30:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/boarding-pass-Tilmann-Althaus.jpeg.8421031.jpeg?f=1280x720"
+  },
+  {
+   "id": "n3c26f1e792",
+   "topic": "welt",
+   "title": "Russland wird erstmals seit 2022 WM-Gastgeber in olympischer Sportart Gewichtheben",
+   "text": "Die Gewichtheber-WM 2030 wird in Russland stattfinden. Während der Weltverband IWF die Vergabe nach Moskau verteidigt, kündigt die Ukraine Einsprüche gegen die Entscheidung an. Klare Kritik kommt vom deutschen Verband.",
+   "link": "https://www.dw.com/de/russland-wird-erstmals-seit-2022-wm-gastgeber-in-olympischer-sportart-gewichtheben/a-79765424?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-30T07:27:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-03T07:27:00+00:00",
+   "img": "https://static.dw.com/image/79766535_302.jpg"
+  },
+  {
+   "id": "n49a0ecd7bf",
+   "topic": "wirtschaft",
+   "title": "Milliardenschwerer Hackerangriff auf Kryptobörse Binance",
+   "text": "Die weltgrößte Kryptobörse Binance ist offenbar Opfer einer massiven Cyberattacke geworden. Betroffen sind Digitalwährungen im Wert von mehr als sechs Milliarden Dollar. Was bedeutet das für Kunden?",
+   "link": "https://www.tagesschau.de/wirtschaft/technologie/hackerangriff-kryptoboerse-binance-100.html",
+   "published": "2026-10-30T07:24:20+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T07:24:20+00:00",
+   "img": "https://images.tagesschau.de/image/c98477ae-0b7c-46ba-921a-1bae298474ce/AAABoYumwKE/AAABnSSvrFg/16x9-big/binance-106.jpg?width=1920"
+  },
+  {
+   "id": "nbb6f8295c2",
+   "topic": "wissenschaft",
+   "title": "Ein radikal anderes Hörgefühl",
+   "text": "Cochlea-Implantate helfen Menschen mit Hörverlust. In lauten Umgebungen stoßen die Prothesen jedoch an Grenzen. Statt elektrischer Impulse könnte Licht den Hörnerv stimulieren. 🎙️",
+   "link": "https://www.spektrum.de/podcast/hoeren-mit-licht-optische-cochlea-implantate/2352045",
+   "published": "2026-10-30T07:10:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-13T07:10:00+00:00"
+  },
+  {
+   "id": "n2ad303d81f",
+   "topic": "welt",
+   "title": "Star-Trek-Schauspieler Patrick Stewart ist tot",
+   "text": "Als Captain Picard auf der Enterprise gelangte Shakespeare-Mime Patrick Stewart zu Weltruhm. Im Alter von 86 Jahren ist er jetzt in Los Angeles gestorben. Fans und Stars trauern.",
+   "link": "https://www.dw.com/de/star-trek-schauspieler-patrick-stewart-ist-tot/a-79803535?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-30T06:39:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-03T06:39:00+00:00",
+   "img": "https://static.dw.com/image/79803158_302.jpg",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Captain Jean-Luc Picard - \"Star Trek\": Schauspieler Patrick Stewart gestorben",
+     "link": "https://www.deutschlandfunk.de/star-trek-schauspieler-patrick-stewart-gestorben-106.html"
+    },
+    {
+     "source": "heise online",
+     "title": "Patrick Stewart ist tot",
+     "link": "https://www.heise.de/news/Patrick-Stewart-ist-tot-11505529.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    },
+    {
+     "source": "Golem.de",
+     "title": "Patrick Stewart: Der Captain hat die Brücke verlassen",
+     "link": "https://www.golem.de/news/patrick-stewart-der-captain-hat-die-bruecke-verlassen-2610-146919.html"
+    }
+   ]
+  },
+  {
+   "id": "ndef0edeb16",
+   "topic": "wirtschaft",
+   "title": "EU-Kanada-Gipfel: Zusammenarbeit bei KI verstärken",
+   "text": "Gemeinsam unabhängiger werden - das ist das große Ziel der angestrebten neuen Allianz zwischen Kanada und der EU. Ein Beispiel: die Zusammenarbeit im Bereich Künstlicher Intelligenz. Von Giselle Ucar.",
+   "link": "https://www.tagesschau.de/ausland/amerika/eu-kanada-ki-100.html",
+   "published": "2026-10-30T06:38:08+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T06:38:08+00:00",
+   "img": "https://images.tagesschau.de/image/f777cc2e-6e6c-4a70-96d9-74a583c70bef/AAABoYj25Qw/AAABnSSvrFg/16x9-big/flaggen-eu-kanada-100.jpg?width=1920"
+  },
+  {
+   "id": "n581b99cc0f",
+   "topic": "welt",
+   "title": "EU-Kanada-Gipfel: \"Die neue Allianz ist keine Marketing-Übung\"",
+   "text": "Beim EU-Kanada-Gipfel ging es auf europäischer Seite bislang viel darum, wie die neue Allianz denn heißen soll. Kanadas Premier Carney sagt dazu: \"Der Name ist egal.\" Heute sollen konkrete Vereinbarungen folgen. Von Martin Ganslmeier.",
+   "link": "https://www.tagesschau.de/ausland/amerika/eu-kanada-zweiter-tag-100.html",
+   "published": "2026-10-30T05:46:43+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T05:46:43+00:00",
+   "img": "https://images.tagesschau.de/image/a941aa47-ad1a-40ef-9847-b50d3f9a9d75/AAABoYtQaKU/AAABnSSvrFg/16x9-big/carney-136.jpg?width=1920"
+  },
+  {
+   "id": "nc959d34bc9",
+   "topic": "nfl",
+   "title": "Packers' Christian Watson returns against Panthers after chest injury, hospital visit",
+   "text": "The Packers wide receiver was injured on a 53-yard reception in the first half",
+   "link": "https://www.cbssports.com/nfl/news/christian-watson-injury-update-packers-wr-hospital/",
+   "published": "2026-10-30T04:02:55+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-04T04:02:55+00:00"
+  },
+  {
+   "id": "n8e9d6abca0",
+   "topic": "welt",
+   "title": "Oppositionspolitikerin Machado: Was bedeutet ihre Rückkehr für Venezuela?",
+   "text": "Die venezolanische Oppositionspolitikerin María Corina Machado ist aus dem Exil zurückgekehrt. Dort ermittelt die Justiz gegen sie wegen Vaterlandverrats - doch sie versteckt sich nicht mehr. Von Jenny Barke.",
+   "link": "https://www.tagesschau.de/ausland/amerika/venezuela-machado-106.html",
+   "published": "2026-10-30T03:22:31+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T03:22:31+00:00",
+   "img": "https://images.tagesschau.de/image/96583fa6-e034-4a6f-892a-048db265b22b/AAABoYpPIjU/AAABnSSvrFg/16x9-big/machado-134.jpg?width=1920"
+  },
+  {
+   "id": "n1f7f6c1c13",
+   "topic": "welt",
+   "title": "Frankreich bereitet sich auf neue Schülerproteste vor",
+   "text": "Frankreich stellt sich auf ein unruhiges Wochenende ein: Erneut wollen Schüler im ganzen Land gegen die Bildungspolitik protestieren. Denn die ersten Zugeständnisse der Regierung reichen ihnen nicht aus. Von Julia Borutta.",
+   "link": "https://www.tagesschau.de/ausland/europa/frankreich-schuelerproteste-halloween-100.html",
+   "published": "2026-10-30T01:44:07+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T01:44:07+00:00",
+   "img": "https://images.tagesschau.de/image/e76ffaf8-80e1-4aa9-961d-66a628e75012/AAABoYkC9II/AAABnSSvrFg/16x9-big/demonstranten-studenten-100.jpg?width=1920"
+  },
   {
    "id": "ne65765f733",
    "topic": "nfl",
@@ -92,14 +577,14 @@
    "id": "nb5543487e3",
    "topic": "welt",
    "title": "Wahl in Israel: Alle Stimmen ausgezählt - Patt bleibt bestehen",
-   "text": "Die Auszählung der Stimmen in Israel bestätigt, dass eine äußerst schwierige Regierungsbildung bevorsteht. Unterdessen ist ein Streit über das Wahlergebnis entbrannt - die Likud-Partei spricht von \"gestohlener Wahl\".",
+   "text": "Die Auszählung aller Stimmen in Israel bestätigt, dass eine äußerst schwierige Regierungsbildung bevorsteht. Unterdessen ist ein Streit über das Wahlergebnis entbrannt - die Likud-Partei spricht von \"gestohlener Wahl\".",
    "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-ergebnis-102.html",
    "published": "2026-10-30T00:01:06+00:00",
    "source": "Tagesschau",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-02T00:01:06+00:00",
-   "img": "https://images.tagesschau.de/image/721030da-7f64-441f-8cbe-9c96622df662/AAABoYlXMEU/AAABnSSvrFg/16x9-big/israel-wahl-auszaehlung-100.jpg?width=1920",
+   "img": "https://images.tagesschau.de/image/5d299661-3165-41f5-9e4a-d4dabf9c3133/AAABoYt9Bvc/AAABnSSvrFg/16x9-big/wahlplakatwand-104.jpg?width=1920",
    "also": [
     {
      "source": "Deutsche Welle",
@@ -123,15 +608,15 @@
   {
    "id": "n3b1110d357",
    "topic": "welt",
-   "title": "Bosnien-Herzegowina: Militär-Hubschrauber abgestürzt - vier Tote",
-   "text": "In dem einstigen Bürgerkriegsland Bosnien-Herzegowina verunglückt ein Militärhelikopter der EU-Friedensmission. Die Insassen kamen alle aus Italien. Der genaue Hergang ist noch unklar.",
+   "title": "Bosnien und Herzegowina: Militärhubschrauber abgestürzt - vier Tote",
+   "text": "Beim Absturz eines Militärhubschraubers der EU-Friedenstruppe in Bosnien und Herzegowina sind vier Menschen ums Leben gekommen. Die Insassen kamen alle aus Italien. Der genaue Hergang ist noch unklar.",
    "link": "https://www.tagesschau.de/ausland/europa/hubschrauber-bosnien-absturz-100.html",
    "published": "2026-10-29T23:05:38+00:00",
    "source": "Tagesschau",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-01T23:05:38+00:00",
-   "img": "https://images.tagesschau.de/image/8f80f896-c899-46dd-ba51-aa80e807b0e6/AAABoYnS5HU/AAABnSSvrFg/16x9-big/bosnien-ch47-chinook-100.jpg?width=1920",
+   "img": "https://images.tagesschau.de/image/7efef0da-eca7-4228-9af2-e5d5755a1599/AAABoYvqMMU/AAABnSSvrFg/16x9-big/wrack-helikopter-100.jpg?width=1920",
    "also": [
     {
      "source": "Deutschlandfunk",
@@ -181,7 +666,7 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Bosnien-Herzegowina: Militär-Hubschrauber abgestürzt - vier Tote",
+     "title": "Bosnien und Herzegowina: Militärhubschrauber abgestürzt - vier Tote",
      "link": "https://www.tagesschau.de/ausland/europa/hubschrauber-bosnien-absturz-100.html"
     }
    ]
@@ -225,31 +710,6 @@
    "img": "https://bilder.deutschlandfunk.de/ff/0e/b2/cd/ff0eb2cd-1968-4a3d-abdc-57a2d15204df/zverev-tennis-102-1920x1920.jpg"
   },
   {
-   "id": "n3058635739",
-   "topic": "politik",
-   "title": "USA - \"Star Trek\": Schauspieler Patrick Stewart gestorben",
-   "text": "Der britische Schauspieler Patrick Stewart ist im Alter von 86 Jahren gestorben.",
-   "link": "https://www.deutschlandfunk.de/star-trek-schauspieler-patrick-stewart-gestorben-106.html",
-   "published": "2026-10-29T22:41:06+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-31T22:41:06+00:00",
-   "img": "https://bilder.deutschlandfunk.de/68/4e/b3/c1/684eb3c1-7a30-47b5-b86a-863ea91c5823/stewart-patrick-star-trek-100-1280x1280.jpg",
-   "also": [
-    {
-     "source": "heise online",
-     "title": "Patrick Stewart ist tot",
-     "link": "https://www.heise.de/news/Patrick-Stewart-ist-tot-11505529.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    },
-    {
-     "source": "Golem.de",
-     "title": "Patrick Stewart: Der Captain hat die Brücke verlassen",
-     "link": "https://www.golem.de/news/patrick-stewart-der-captain-hat-die-bruecke-verlassen-2610-146919.html"
-    }
-   ]
-  },
-  {
    "id": "n9115609a4a",
    "topic": "politik",
    "title": "EU-Kanada - Gipfeltreffen endet in Montreal - Beide Seiten wollen engere Zusammenarbeit",
@@ -289,8 +749,13 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "USA - \"Star Trek\": Schauspieler Patrick Stewart gestorben",
+     "title": "Captain Jean-Luc Picard - \"Star Trek\": Schauspieler Patrick Stewart gestorben",
      "link": "https://www.deutschlandfunk.de/star-trek-schauspieler-patrick-stewart-gestorben-106.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Star-Trek-Schauspieler Patrick Stewart ist tot",
+     "link": "https://www.dw.com/de/star-trek-schauspieler-patrick-stewart-ist-tot/a-79803535?maca=de-rss-de-all-1119-xml-mrss"
     },
     {
      "source": "Golem.de",
@@ -314,8 +779,13 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "USA - \"Star Trek\": Schauspieler Patrick Stewart gestorben",
+     "title": "Captain Jean-Luc Picard - \"Star Trek\": Schauspieler Patrick Stewart gestorben",
      "link": "https://www.deutschlandfunk.de/star-trek-schauspieler-patrick-stewart-gestorben-106.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Star-Trek-Schauspieler Patrick Stewart ist tot",
+     "link": "https://www.dw.com/de/star-trek-schauspieler-patrick-stewart-ist-tot/a-79803535?maca=de-rss-de-all-1119-xml-mrss"
     },
     {
      "source": "heise online",
@@ -662,19 +1132,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-01T16:59:55+00:00",
-   "img": "https://images.tagesschau.de/image/1ce57dd8-6203-4b88-86d3-f3473b5f2732/AAABoYh7NVc/AAABnSSvrFg/16x9-big/gerichtsmediziner-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "News kompakt: Staatstrauer nach schwerem Zugunglück in Spanien",
-     "link": "https://www.dw.com/de/news-kompakt-staatstrauer-nach-schwerem-zugunglück-in-spanien/a-79792262?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Deutschlandfunk",
-     "title": "Mindestens 68 Tote - Ursache für Zugunglück in Spanien wohl menschliches Versagen",
-     "link": "https://www.deutschlandfunk.de/ursache-fuer-zugunglueck-in-spanien-wohl-menschliches-versagen-106.html"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/1ce57dd8-6203-4b88-86d3-f3473b5f2732/AAABoYh7NVc/AAABnSSvrFg/16x9-big/gerichtsmediziner-100.jpg?width=1920"
   },
   {
    "id": "nfdd0837799",
@@ -742,19 +1200,6 @@
    "img": "https://images.tagesschau.de/image/7733e94c-9832-4a31-8683-d5b92b0440cc/AAABoYh4pu4/AAABnSSvrFg/16x9-big/soeder-merz-124.jpg?width=1920"
   },
   {
-   "id": "n00699971da",
-   "topic": "welt",
-   "title": "Kampf den Schattenflotten: Was kann die EU ohne die USA tun?",
-   "text": "Die USA sollen Medienberichten zufolge erwägen, sogenannte \"Dark Tankers\" in legale Schiffe umzuwandeln, um ihnen den Transport von Rohöl zu ermöglichen, das nicht den Sanktionen unterliegt.",
-   "link": "https://www.dw.com/de/kampf-den-schattenflotten-was-kann-die-eu-ohne-die-usa-tun/a-79797804?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-29T15:45:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-02T15:45:00+00:00",
-   "img": "https://static.dw.com/image/79679167_302.jpg"
-  },
-  {
    "id": "n53386f032f",
    "topic": "welt",
    "title": "Bundespräsident Steinmeier verbindet Grundsatzrede in Peking mit symbolischem Tischtennis-Auftritt",
@@ -778,14 +1223,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-01T15:18:04+00:00",
-   "img": "https://images.tagesschau.de/image/4085d903-660f-4dac-b3ba-2b3e57873f0c/AAABoYc2aG4/AAABnSSvrFg/16x9-big/ezb-562.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Wirtschaft - US-Zentralbank Fed lässt Leitzins unverändert",
-     "link": "https://www.deutschlandfunk.de/us-zentralbank-fed-laesst-leitzins-unveraendert-100.html"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/4085d903-660f-4dac-b3ba-2b3e57873f0c/AAABoYc2aG4/AAABnSSvrFg/16x9-big/ezb-562.jpg?width=1920"
   },
   {
    "id": "n2a4457ce6f",
@@ -1014,19 +1452,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-01T11:24:09+00:00",
-   "img": "https://images.tagesschau.de/image/f67b8593-5cb3-4e54-986f-56a033049442/AAABoYT5IkU/AAABnSSvrFg/16x9-big/zugunglueck-spanien-146.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "News kompakt: Staatstrauer nach schwerem Zugunglück in Spanien",
-     "link": "https://www.dw.com/de/news-kompakt-staatstrauer-nach-schwerem-zugunglück-in-spanien/a-79792262?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Deutschlandfunk",
-     "title": "Mindestens 68 Tote - Ursache für Zugunglück in Spanien wohl menschliches Versagen",
-     "link": "https://www.deutschlandfunk.de/ursache-fuer-zugunglueck-in-spanien-wohl-menschliches-versagen-106.html"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/f67b8593-5cb3-4e54-986f-56a033049442/AAABoYT5IkU/AAABnSSvrFg/16x9-big/zugunglueck-spanien-146.jpg?width=1920"
   },
   {
    "id": "nd5ef459ea1",
@@ -1302,486 +1728,6 @@
    "lang": "de",
    "expires": "2026-11-01T08:51:06+00:00",
    "img": "https://images.tagesschau.de/image/f29c4d89-9563-4d9d-8598-5046c623e3c4/AAABoYbbAlI/AAABnSSvrFg/16x9-big/sendungsbild-1818950.jpg?width=1920"
-  },
-  {
-   "id": "n217c36ee36",
-   "topic": "welt",
-   "title": "US-Zwischenwahlen: Trump holen seine Versprechen ein",
-   "text": "Er werde das Leben in den USA wieder erschwinglich machen, hatte Trump 2024 versprochen. Zwei Jahre danach sieht die Wirklichkeit anders aus - nicht zuletzt an den Zapfsäulen. Das wirkt sich auf die Umfragen vor den Midterms aus. Von J. Schönenborn.",
-   "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-lebenshaltungskosten-102.html",
-   "published": "2026-10-29T08:21:07+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-01T08:21:07+00:00",
-   "img": "https://images.tagesschau.de/image/058e8a24-4658-4180-9ce5-ce30304585d2/AAABoQ-xMYg/AAABnSSvrFg/16x9-big/trump-dekret-diesel-100.jpg?width=1920"
-  },
-  {
-   "id": "n97250b8206",
-   "topic": "wirtschaft",
-   "title": "Milliardenverlust bei Volkswagen",
-   "text": "Hohe Abschreibungen und ein schwaches China-Geschäft haben Volkswagen tiefrote Zahlen beschert. Der Konzernverlust lag im dritten Quartal bei 5,8 Milliarden Euro. VW-Aktien fallen.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-milliardenverlust-102.html",
-   "published": "2026-10-29T08:16:16+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-01T08:16:16+00:00",
-   "img": "https://images.tagesschau.de/image/ee2ef295-3557-4a7a-88a1-49a14eccafee/AAABoYaY67w/AAABnSSvrFg/16x9-big/vw-1026.jpg?width=1920"
-  },
-  {
-   "id": "n57d7ea3972",
-   "topic": "wissenschaft",
-   "title": "Wenn das Herz aus dem Takt gerät",
-   "text": "Das Herz schlägt rund drei Milliarden Mal im Laufe eines Lebens. Aber was passiert, wenn es aus dem Takt gerät? Stefan Luther erforscht, wie Herzrhythmusstörungen entstehen. 🎙️",
-   "link": "https://www.spektrum.de/podcast/ach-mensch-wenn-das-herz-aus-dem-takt-geraet/2351681",
-   "published": "2026-10-29T08:13:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-12T08:13:00+00:00"
-  },
-  {
-   "id": "n9436e6393a",
-   "topic": "welt",
-   "title": "News kompakt: Staatstrauer nach schwerem Zugunglück in Spanien",
-   "text": "In Spanien gehen die Bergungsarbeiten nach dem Zugunglück weiter. Ministerpräsident Sánchez rief eine dreitägige Staatstrauer aus. Bolsonaro erklärt sich in den USA zum Anführer Brasiliens. Der DW-Nachrichtenüberblick.",
-   "link": "https://www.dw.com/de/news-kompakt-staatstrauer-nach-schwerem-zugunglück-in-spanien/a-79792262?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-29T08:00:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-02T08:00:00+00:00",
-   "img": "https://static.dw.com/image/79792008_302.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Zugunglück in Spanien: Ein Land zwischen Trauer und Aufarbeitung",
-     "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-132.html"
-    },
-    {
-     "source": "Deutschlandfunk",
-     "title": "Mindestens 68 Tote - Ursache für Zugunglück in Spanien wohl menschliches Versagen",
-     "link": "https://www.deutschlandfunk.de/ursache-fuer-zugunglueck-in-spanien-wohl-menschliches-versagen-106.html"
-    }
-   ]
-  },
-  {
-   "id": "nd86b7357d7",
-   "topic": "wissenschaft",
-   "title": "Sucht und Segen",
-   "text": "Florian Heinen und Jörg Noller beleuchten die Digitalisierung und ihre Folgen für Kinder und Jugendliche. Sie bevorzugen gute Rahmenbedingungen gegenüber Verboten. Eine Rezension",
-   "link": "https://www.spektrum.de/rezension/buchkritik-zu-das-digitale-kind/2351781",
-   "published": "2026-10-29T07:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-12T07:00:00+00:00",
-   "img": "https://static.spektrum.de/fm/47/thumbnails/Heinen_Kind.jpg.8420519.jpg?f=1280x720"
-  },
-  {
-   "id": "n7d8b904e4d",
-   "topic": "welt",
-   "title": "Hoffnung auf unabhängige Medien in Serbien",
-   "text": "Nach der Niederlage der Vucic-Partei in Serbien hoffen viele Menschen wieder auf eine unabhängige Berichterstattung. Eine Initiative fordert den Entzug der Sendelizenz für Informer - einem Propagandasender im Dienste des Ex-Präsidenten. Von S. Hahne.",
-   "link": "https://www.tagesschau.de/ausland/europa/serbien-medien-100.html",
-   "published": "2026-10-29T06:46:15+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-01T06:46:15+00:00",
-   "img": "https://images.tagesschau.de/image/3b13a41f-964a-404e-b0fb-1a7b102a8c7a/AAABoYX_NL8/AAABnSSvrFg/16x9-big/vucic-plakat-100.jpg?width=1920"
-  },
-  {
-   "id": "nb9e5ab0e36",
-   "topic": "wirtschaft",
-   "title": "Wie lange ist Christine Lagarde noch EZB-Chefin?",
-   "text": "In vielen Euro-Ländern stockt die Konjunktur, Proteste wie in Frankreich setzen Regierungen unter Druck. Da bräuchte die EZB eine starke Führung - doch über die Zukunft von Notenbankchefin Lagarde wird heftig spekuliert. Von Oliver Feldforth.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-zinsen-lagarde-100.html",
-   "published": "2026-10-29T06:28:41+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-01T06:28:41+00:00",
-   "img": "https://images.tagesschau.de/image/bd0eafef-0f21-4287-b4f5-762e60dda0b7/AAABoYZBO04/AAABnSSvrFg/16x9-big/lagarde-326.jpg?width=1920"
-  },
-  {
-   "id": "neb26c01472",
-   "topic": "welt",
-   "title": "EU-Kanada-Gipfel: Kanada wird vorerst kein \"assoziiertes EU-Mitglied\"",
-   "text": "Kanzler Merz und andere EU-Regierungschefs haben die Kanada-Pläne von EU-Kommissionspräsidentin von der Leyen abgeschwächt - kurz vor dem heute beginnenden EU-Kanada-Gipfel. Von einer \"assoziierten Mitgliedschaft\" ist nicht mehr die Rede. Von S. Fritz.",
-   "link": "https://www.tagesschau.de/ausland/europa/eu-kanada-gipfel-100.html",
-   "published": "2026-10-29T06:20:37+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-01T06:20:37+00:00",
-   "img": "https://images.tagesschau.de/image/93996ff9-bc64-447b-b6af-4a96aca5bca9/AAABoK2g_CE/AAABnSSvrFg/16x9-big/carney-von-der-leyen-100.jpg?width=1920"
-  },
-  {
-   "id": "na23b16b96d",
-   "topic": "welt",
-   "title": "Gen-Z-Proteste an Halloween: Drohen Szenen wie in Frankreich?",
-   "text": "Jetzt auch in Deutschland: Jugendliche der \"Gen Z\" wollen für bessere Bildung und mehr Klimaschutz demonstrieren. Politiker warnen vor Gewalt wie in Frankreich, Experten sehen jedoch Unterschiede zwischen beiden Ländern.",
-   "link": "https://www.dw.com/de/gen-z-proteste-an-halloween-drohen-szenen-wie-in-frankreich/a-79774624?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-29T06:02:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-02T06:02:00+00:00",
-   "img": "https://static.dw.com/image/79754386_302.jpg"
-  },
-  {
-   "id": "nb2cf1361e0",
-   "topic": "wissenschaft",
-   "title": "Wie Spazierengehen auf die Psyche wirkt",
-   "text": "Gerade jetzt im Herbst kann ein Spaziergang besonders guttun. Studien zeigen, dass regelmäßiges Gehen Stimmung, Gesundheit und soziale Kontakte fördern kann. In einigen Städten haben sich Spazierclubs gebildet. Von Gerald Perschke.",
-   "link": "https://www.tagesschau.de/wissen/gesundheit/herbst-spaziergang-100.html",
-   "published": "2026-10-29T05:45:03+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-12T05:45:03+00:00",
-   "img": "https://images.tagesschau.de/image/cbd93947-7212-43c8-a6bb-ae60911912e0/AAABmbnqxTk/AAABnSSvrFg/16x9-big/spaziergang-108.jpg?width=1920"
-  },
-  {
-   "id": "n2778e3df5c",
-   "topic": "welt",
-   "title": "Wie konnte es zu dem schweren Zugunglück in Spanien kommen?",
-   "text": "Nach dem schweren Zugunglück in Spanien gibt es erste Erkenntnisse zur Unglücksursache: Offenbar spielte menschliches Versagen eine Rolle. Vor dem Verkehrsministerium in Madrid kam es am Abend zu Protesten und Ausschreitungen.",
-   "link": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-144.html",
-   "published": "2026-10-29T05:34:13+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-01T05:34:13+00:00",
-   "img": "https://images.tagesschau.de/image/98ce9bb3-189f-46dc-87b0-64bc0c327ea9/AAABoYPNV7E/AAABnSSvrFg/16x9-big/zugunglueck-spanien-142.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "News kompakt: Staatstrauer nach schwerem Zugunglück in Spanien",
-     "link": "https://www.dw.com/de/news-kompakt-staatstrauer-nach-schwerem-zugunglück-in-spanien/a-79792262?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Deutschlandfunk",
-     "title": "Mindestens 68 Tote - Ursache für Zugunglück in Spanien wohl menschliches Versagen",
-     "link": "https://www.deutschlandfunk.de/ursache-fuer-zugunglueck-in-spanien-wohl-menschliches-versagen-106.html"
-    }
-   ]
-  },
-  {
-   "id": "nf3db87f57e",
-   "topic": "nfl",
-   "title": "NFL QB Power Rankings, Week 8: There's a new name at No. 1, Patrick Mahomes out of the top 10",
-   "text": "Jared Goff seizes the top spot, Joe Burrow climbs into the top five and Mahomes drops out of the top 10",
-   "link": "https://www.cbssports.com/nfl/news/nfl-qb-power-rankings-week-8-jared-goff-patrick-mahomes/",
-   "published": "2026-10-29T04:27:09+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-03T04:27:09+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/28/90b2137a-f604-467b-802e-fac667f2a6d5/jared-coff-lions.jpg"
-  },
-  {
-   "id": "ndfa2648c8e",
-   "topic": "nfl",
-   "title": "NFL Week 8 injury report: Lamar Jackson practices in full, Lions star Kerby Joseph returns",
-   "text": "Get the latest Week 8 injury updates on Lamar Jackson, Kerby Joseph, Matthew Golden, Ja'Marr Chase, Saquon Barkley and other notable NFL players",
-   "link": "https://www.cbssports.com/nfl/news/nfl-week-8-injury-report-lamar-jackson-kerby-joseph-updates/",
-   "published": "2026-10-29T04:25:40+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-03T04:25:40+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/29/36a8b0d9-d84b-4590-8aec-e42a8f5b2a3b/lamar-jackson.jpg"
-  },
-  {
-   "id": "n327afd6129",
-   "topic": "welt",
-   "title": "Brasiliens Wahlverlierer: Bolsonaros spektakuläre Flucht",
-   "text": "Ein Privatflugzeug, Zwischenstopps, die Ankunft in den USA - der brasilianische Wahlverlierer Bolsonaro ist nun in Florida - und bezeichnet sich als \"Anführer\" Brasiliens. Wie geht das rechte Lager mit dem geflüchteten Bolsonaro um? Von A. Herrberg.",
-   "link": "https://www.tagesschau.de/ausland/amerika/bolsonaro-flucht-100.html",
-   "published": "2026-10-29T02:14:59+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-01T02:14:59+00:00",
-   "img": "https://images.tagesschau.de/image/a9b84f79-28ea-47f0-9a7b-acbe41d12073/AAABoYVJs8Y/AAABnSSvrFg/16x9-big/bolsonaro-jet-100.jpg?width=1920"
-  },
-  {
-   "id": "n736be30286",
-   "topic": "nfl",
-   "title": "Troy Aikman says there's a \"50-50 chance\" he won't be working in TV next year",
-   "text": "Hall of Fame quarterback Troy Aikman appeared at a Dallas event on Wednesday night with Peter King, in connection with Peter's new book, The Game.",
-   "link": "https://sports.yahoo.com/articles/troy-aikman-says-theres-50-004647362.html",
-   "published": "2026-10-29T00:46:47+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-03T00:46:47+00:00"
-  },
-  {
-   "id": "n96a8d4111e",
-   "topic": "nfl",
-   "title": "Myles Garrett & Terrance Ferguson won’t return soon",
-   "text": "Sean McVay says Myles Garrett, Terrance Ferguson won’t return to practice this week for Rams",
-   "link": "https://sports.yahoo.com/articles/myles-garrett-terrance-ferguson-won-003803084.html",
-   "published": "2026-10-29T00:38:03+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-03T00:38:03+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/b5940e254dd502b6d59f3a3c656c7f0d.jpg"
-  },
-  {
-   "id": "nd65f69383b",
-   "topic": "politik",
-   "title": "Nach Flucht in die USA - Bolsonaro erklärt sich zum \"Anführer\"",
-   "text": "Der Verlierer der Präsidentschaftswahl in Brasilien, Flávio Bolsonaro, hat sich als Opfer von Wahlbetrug und politischer Verfolgung bezeichnet.",
-   "link": "https://www.deutschlandfunk.de/bolsonaro-erklaert-sich-zum-anfuehrer-102.html",
-   "published": "2026-10-29T00:07:18+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-31T00:07:18+00:00",
-   "img": "https://bilder.deutschlandfunk.de/NO/VA/_1/5d/NOVA_15d46bedf9f8c87605851869180fc449/craft-13514008-asset-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Bolsonaro erklärt sich selbst zum Wahlsieger - aus den USA",
-     "link": "https://www.tagesschau.de/ausland/amerika/flavio-bolsonaro-erklaerung-wahlsieger-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n048357b272",
-   "topic": "politik",
-   "title": "Folgen des Bürgerkriegs - UNO: Immer mehr Menschen im Jemen durch Kämpfe vertrieben",
-   "text": "Im Jemen sind immer mehr Menschen nach Erkenntnissen der Vereinten Nationen auf der Flucht vor anhaltenden Kämpfen.",
-   "link": "https://www.deutschlandfunk.de/uno-immer-mehr-menschen-im-jemen-durch-kaempfe-vertrieben-102.html",
-   "published": "2026-10-29T00:07:18+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-31T00:07:18+00:00",
-   "img": "https://bilder.deutschlandfunk.de/19/5f/50/83/195f5083-0558-498c-8ccd-135ad09a9eec/huthi-jemen-108-768x768.jpg"
-  },
-  {
-   "id": "nf84b8bd1ce",
-   "topic": "politik",
-   "title": "Bayern - Ermittlungen gegen Belarussen wegen Sabotageverdachts",
-   "text": "​Die Generalstaatsanwaltschaft München ermittelt gegen zwei Belarussen, die im Raum Nürnberg Sabotageakte mit Brandbeschleunigern geplant haben sollen. Die Behörde teilte mit, Ziel sei ein noch nicht näher bekanntes Gebäude oder eine Einrichtung der kritischen Infrastruktur gewesen.",
-   "link": "https://www.deutschlandfunk.de/ermittlungen-gegen-belarussen-wegen-sabotageverdachts-112.html",
-   "published": "2026-10-29T00:07:18+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-31T00:07:18+00:00"
-  },
-  {
-   "id": "n3f18d274a2",
-   "topic": "politik",
-   "title": "Mindestens 68 Tote - Ursache für Zugunglück in Spanien wohl menschliches Versagen",
-   "text": "Die spanische Regierung vermutet menschliches Versagen als Ursache für das Zugunglück mit mindestens 68 Toten.",
-   "link": "https://www.deutschlandfunk.de/ursache-fuer-zugunglueck-in-spanien-wohl-menschliches-versagen-106.html",
-   "published": "2026-10-29T00:07:18+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-31T00:07:18+00:00",
-   "img": "https://bilder.deutschlandfunk.de/32/0f/f9/a8/320ff9a8-2583-4219-9a1e-7fd789c96c30/spanien-unfall-zug-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Zugunglück in Spanien: Ein Land zwischen Trauer und Aufarbeitung",
-     "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-132.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "News kompakt: Staatstrauer nach schwerem Zugunglück in Spanien",
-     "link": "https://www.dw.com/de/news-kompakt-staatstrauer-nach-schwerem-zugunglück-in-spanien/a-79792262?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n1f7138edea",
-   "topic": "politik",
-   "title": "Asienreise - Merz fliegt heute zu politischen Gesprächen nach Südkorea",
-   "text": "Bundeskanzler Merz fliegt heute von Japan aus nach Südkorea, der dritten und letzten Station seiner Asienreise.",
-   "link": "https://www.deutschlandfunk.de/merz-fliegt-heute-zu-politischen-gespraechen-nach-suedkorea-100.html",
-   "published": "2026-10-29T00:07:18+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-31T00:07:18+00:00",
-   "img": "https://bilder.deutschlandfunk.de/5d/0b/ab/f4/5d0babf4-12ab-4823-89b7-5b78606aa5fb/bundeskanzler-merz-japan-german-japanese-business-summit-reise-100-1920x1920.jpg"
-  },
-  {
-   "id": "n0056b533bd",
-   "topic": "politik",
-   "title": "Fußball-DFB-Pokal - Kiel wirft Hoffenheim raus, Siege für München und Leverkusen",
-   "text": "In der zweiten Runde des Fußball-DFB-Pokals gab es am Abend folgende Ergebnisse:",
-   "link": "https://www.deutschlandfunk.de/kiel-wirft-hoffenheim-raus-siege-fuer-muenchen-und-leverkusen-100.html",
-   "published": "2026-10-29T00:07:18+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-31T00:07:18+00:00"
-  },
-  {
-   "id": "n327a2ec576",
-   "topic": "politik",
-   "title": "Internet-Störung bei Frankfurt: Reparatur läuft am späten Abend noch",
-   "text": "Die Störung im Glasfasernetz von Vodafone mit bis zu 28.000 betroffenen Kabelkunden in Frankfurt und Bad Vilbel war am späten Mittwochabend noch nicht komplett behoben. Wegen unerwarteter Probleme zog sich die Reparatur hin. Viele Anschlüsse funktionieren inzwischen aber wieder.",
-   "link": "https://www.hessenschau.de/wirtschaft/internet-stoerung-bei-frankfurt-reparatur-laeuft-am-spaeten-abend-noch-v12,vodafone-stoerung-102.html",
-   "published": "2026-10-28T22:11:12+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-01T22:11:12+00:00",
-   "tag": "Hessen"
-  },
-  {
-   "id": "n2c89684b05",
-   "topic": "welt",
-   "title": "Bolsonaro erklärt sich selbst zum Wahlsieger - aus den USA",
-   "text": "Heimlich hat sich der brasilianische Wahlverlierer Flávio Bolsonaro in die USA abgesetzt. Gegen ihn wird wegen Korruption und Geldwäsche ermittelt. Entgegen eindeutiger Ergebnisse hat er sich nun selbst zum Wahlsieger erklärt.",
-   "link": "https://www.tagesschau.de/ausland/amerika/flavio-bolsonaro-erklaerung-wahlsieger-100.html",
-   "published": "2026-10-28T21:56:25+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-31T21:56:25+00:00",
-   "img": "https://images.tagesschau.de/image/4fa122f3-e6c0-4210-a3ea-9a24fb193a7f/AAABoYSCpNQ/AAABnSSvrFg/16x9-big/bolsonaro-348.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Nach Flucht in die USA - Bolsonaro erklärt sich zum \"Anführer\"",
-     "link": "https://www.deutschlandfunk.de/bolsonaro-erklaert-sich-zum-anfuehrer-102.html"
-    }
-   ]
-  },
-  {
-   "id": "na6ae878af9",
-   "topic": "it",
-   "title": "Neues LLM: Gemini 4 Carbon ist Exploit-Experte",
-   "text": "Erst vor 4 Wochen hat Google sein Sprachmodell Gemini Argon freigegeben, da lässt es schon das nächste Spitzenmodell vom Stapel laufen. Es heißt Carbon.",
-   "link": "https://www.heise.de/news/Gemini-Argon-war-gestern-jetzt-kommt-Carbon-11503849.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-28T20:54:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-02T20:54:00+00:00"
-  },
-  {
-   "id": "n2fe9305443",
-   "topic": "nfl",
-   "title": "Agent's Take: Detroit Lions' Sam LaPorta contract problem isn't going away",
-   "text": "LaPorta may have reason to wait if the Lions use the franchise tag, especially with Brock Bowers positioned to dramatically reshape the tight end market",
-   "link": "https://www.cbssports.com/nfl/news/agents-take-lions-sam-laporta-contract-problem/",
-   "published": "2026-10-28T20:24:59+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-02T20:24:59+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2025/10/17/fea4f5cc-1147-40e5-9067-6d7645633d58/sam-laporta-lions.png"
-  },
-  {
-   "id": "n88fdb7202a",
-   "topic": "politik",
-   "title": "Drama in Skopje: MT Melsungen weiter in der Königsklasse vertreten",
-   "text": "Die MT Melsungen macht es im entscheidenden Spiel der Gruppenphase bis zur letzten Sekunde spannend und bejubelt am Ende das benötigte Unentschieden. In der Hauptrunde der Champions League warten prominente Gegner.",
-   "link": "https://www.hessenschau.de/sport/handball/mt-melsungen/drama-in-skopje-mt-melsungen-weiter-in-der-koenigsklasse-vertreten-v1,melsungen-champions-league-100.html",
-   "published": "2026-10-28T20:10:03+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-01T20:10:03+00:00",
-   "img": "https://www.hessenschau.de/sport/handball/mt-melsungen/imago-simic-102~_t-1793218202388_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "n5d54a51c3e",
-   "topic": "politik",
-   "title": "Bayern - Ermittlungen gegen Belarussen wegen Sabotageverdachts",
-   "text": "​Die Generalstaatsanwaltschaft München ermittelt gegen zwei Belarussen, die im Raum Nürnberg Sabotageakte mit Brandbeschleunigern geplant haben sollen. Die Behörde teilte mit, Ziel sei ein noch nicht näher bekanntes Gebäude oder eine Einrichtung der kritischen Infrastruktur gewesen.",
-   "link": "https://www.deutschlandfunk.de/ermittlungen-gegen-belarussen-wegen-sabotageverdachts-102.html",
-   "published": "2026-10-28T20:03:25+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-30T20:03:25+00:00"
-  },
-  {
-   "id": "n92b9202a75",
-   "topic": "politik",
-   "title": "Rückführung - 40 straffällig gewordene Afghanen aus Deutschland abgeschoben",
-   "text": "Aus Deutschland sind 40 Afghanen in ihre Heimat abgeschoben worden.",
-   "link": "https://www.deutschlandfunk.de/40-straffaellig-gewordene-afghanen-aus-deutschland-abgeschoben-104.html",
-   "published": "2026-10-28T20:03:25+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-30T20:03:25+00:00",
-   "img": "https://bilder.deutschlandfunk.de/e0/57/80/5a/e057805a-0ef3-4a66-b617-f37aa07b2893/abschiebung-nach-afghanistan-102-768x768.jpg"
-  },
-  {
-   "id": "ncb20e6b121",
-   "topic": "politik",
-   "title": "Wirtschaft - US-Zentralbank Fed lässt Leitzins unverändert",
-   "text": "Die US-Zentralbank Federal Reserve hat den Leitzins unverändert gelassen.",
-   "link": "https://www.deutschlandfunk.de/us-zentralbank-fed-laesst-leitzins-unveraendert-100.html",
-   "published": "2026-10-28T20:03:25+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-30T20:03:25+00:00",
-   "img": "https://bilder.deutschlandfunk.de/c6/4b/e4/99/c64be499-391d-40ca-af6e-47844a969794/fed-washington-gebauede-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Europäische Zentralbank hält Leitzins unverändert",
-     "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-570.html"
-    }
-   ]
-  },
-  {
-   "id": "n73afe44aee",
-   "topic": "politik",
-   "title": "Region Toledo - Mindestens 68 Tote nach Kollision von zwei Zügen in Spanien",
-   "text": "In der spanischen Provinz Toledo sind bei einem Zusammenstoß zweier Hochgeschwindigkeitszüge mindestens 68 Menschen ums Leben gekommen. Wie die Behörden der Region Kastilien-La Mancha mitteilten, kann die Zahl der Opfer noch steigen.",
-   "link": "https://www.deutschlandfunk.de/mindestens-68-tote-nach-kollision-von-zwei-zuegen-in-spanien-100.html",
-   "published": "2026-10-28T20:03:25+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-30T20:03:25+00:00",
-   "img": "https://bilder.deutschlandfunk.de/2f/d2/3f/95/2fd23f95-c7c4-4030-8e69-ccde9acfae53/zugunglueck-spanien-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Zugunglück in Spanien: Ein Land zwischen Trauer und Aufarbeitung",
-     "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-132.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "News kompakt: Staatstrauer nach schwerem Zugunglück in Spanien",
-     "link": "https://www.dw.com/de/news-kompakt-staatstrauer-nach-schwerem-zugunglück-in-spanien/a-79792262?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n4063dd7c2a",
-   "topic": "politik",
-   "title": "Nach Parlamentswahl - Israels Präsident Herzog will mit allen Fraktionen reden",
-   "text": "Der israelische Präsident Herzog will nach der Parlamentswahl Konsultationen mit den Parteien aufnehmen. Er werde jede einzelne Fraktion anhören, sagte Herzog. Er erwarte von allen Beteiligten, mit einer offenen Haltung in die Gespräche zu gehen.",
-   "link": "https://www.deutschlandfunk.de/israels-praesident-herzog-will-mit-allen-fraktionen-reden-100.html",
-   "published": "2026-10-28T20:03:25+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-30T20:03:25+00:00",
-   "img": "https://bilder.deutschlandfunk.de/b2/95/6e/a2/b2956ea2-35a9-4656-93a4-293625faebca/herzog-israel-100-1920x1920.jpg"
   }
  ]
 }
