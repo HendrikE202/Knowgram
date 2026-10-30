@@ -1,55 +1,718 @@
 {
- "generated": "2026-10-30T10:01:57.813661+00:00",
+ "generated": "2026-10-30T18:00:19.964620+00:00",
  "briefing": [
   "n3058635739",
-  "nb5543487e3",
   "n3b1110d357",
-  "n509faa0040",
   "n1b3b4f7eca",
-  "n59cc501c40",
-  "na6f28e567e",
-  "n8641eb1951",
-  "n9115609a4a"
+  "n60905cab15",
+  "n090a27c9e4",
+  "n870df273b6",
+  "n3954ff1c38",
+  "n54d7e70643",
+  "n5b0f20f12e",
+  "nfe2bbc2cef"
  ],
  "ranked": [
   {
    "id": "n3058635739",
-   "s": 47.9
-  },
-  {
-   "id": "nb5543487e3",
-   "s": 30.5
+   "s": 45.9
   },
   {
    "id": "n3b1110d357",
-   "s": 30.3
-  },
-  {
-   "id": "n509faa0040",
-   "s": 28.0
+   "s": 28.3
   },
   {
    "id": "n1b3b4f7eca",
-   "s": 27.5
+   "s": 25.5
   },
   {
-   "id": "n59cc501c40",
-   "s": 27.0
-  },
-  {
-   "id": "na6f28e567e",
-   "s": 23.0
-  },
-  {
-   "id": "n8641eb1951",
+   "id": "n60905cab15",
    "s": 22.9
   },
   {
-   "id": "n9115609a4a",
-   "s": 20.2
+   "id": "n090a27c9e4",
+   "s": 22.9
+  },
+  {
+   "id": "n870df273b6",
+   "s": 22.8
+  },
+  {
+   "id": "n3954ff1c38",
+   "s": 22.4
+  },
+  {
+   "id": "n54d7e70643",
+   "s": 22.4
+  },
+  {
+   "id": "n5b0f20f12e",
+   "s": 22.2
+  },
+  {
+   "id": "nfe2bbc2cef",
+   "s": 22.0
+  },
+  {
+   "id": "n60d0f4b921",
+   "s": 22.0
+  },
+  {
+   "id": "n1af8ab6526",
+   "s": 21.6
+  },
+  {
+   "id": "n4d6a0ae3f7",
+   "s": 21.2
+  },
+  {
+   "id": "na6f28e567e",
+   "s": 21.0
+  },
+  {
+   "id": "n95cb4016b2",
+   "s": 20.9
+  },
+  {
+   "id": "n8641eb1951",
+   "s": 20.9
+  },
+  {
+   "id": "n49a0ecd7bf",
+   "s": 20.4
+  },
+  {
+   "id": "ne573ee14be",
+   "s": 17.9
+  },
+  {
+   "id": "ne51fdf46bb",
+   "s": 17.5
   }
  ],
  "items": [
+  {
+   "id": "n6a22ce06bc",
+   "topic": "nfl",
+   "title": "Steelers legend Kordell Stewart changes narrative on his NFL career in new HBO documentary",
+   "text": "Stewart wants his career to be remembered for what happened on the field",
+   "link": "https://www.cbssports.com/nfl/news/steelers-legend-kordell-stewart-changes-narrative-hbo-documentary/",
+   "published": "2026-10-30T17:58:38+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-04T17:58:38+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/29/a98801dc-5982-488c-892f-571e498fb4d8/slash.jpg"
+  },
+  {
+   "id": "n6b11714f22",
+   "topic": "wissenschaft",
+   "title": "Abschluss der UN-Weltnaturkonferenz COP17",
+   "text": "Um den Schutz der biologischen Vielfalt und wie dieser bis 2030 erreicht werden kann, darum geht es auf der UN-Konferenz COP17 im armenischen Eriwan.",
+   "link": "https://www.tagesschau.de/video/video-1675330.html",
+   "published": "2026-10-30T17:53:25+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-13T17:53:25+00:00",
+   "img": "https://images.tagesschau.de/image/a3b7e5a3-4a5f-4324-9f5f-b6531c0789b1/AAABoY3tv9g/AAABnSSvrFg/16x9-big/30102026-cop17-weltnaturkonferenz-un-100.jpg?width=1920"
+  },
+  {
+   "id": "nb3900d8b6f",
+   "topic": "nfl",
+   "title": "Ravens coach Jesse Minter confirms Lamar Jackson will return from ankle injury, start vs. Bills",
+   "text": "The two-time MVP hasn't played since Week 4 after suffering a high ankle sprain",
+   "link": "https://www.cbssports.com/nfl/news/ravens-lamar-jackson-injury-update-bills/",
+   "published": "2026-10-30T17:50:27+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-04T17:50:27+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/28/74d5444f-0a02-47a1-959c-635938add981/lamar-jackson-ravens-imagn-images.jpg"
+  },
+  {
+   "id": "nca033174d6",
+   "topic": "nfl",
+   "title": "Lamar Jackson set to return in Week 8 to help Ravens snap 2-game losing streak: 'That's what I'm ready to do'",
+   "text": "Jackson has been out since Week 4 with a high ankle sprain.",
+   "link": "https://sports.yahoo.com/nfl/breaking-news/article/lamar-jackson-set-to-return-in-week-8-to-help-ravens-snap-2-game-losing-streak-thats-what-im-ready-to-do-174713573.html",
+   "published": "2026-10-30T17:46:50+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-04T17:46:50+00:00"
+  },
+  {
+   "id": "nbce5851ca7",
+   "topic": "it",
+   "title": "Tripo.ai und Meshy: KIs für 3D-Modelle schotten sich nach Milliardenbewertung ab",
+   "text": "Kostenlos 3D-Modelle entwerfen, ohne sich in komplexe Programme einzuarbeiten. Das war bei Tripo.ai und Meshy möglich - vor ihrer Milliardenbewertung. Ein Erfahrungsbericht von Achim Sawall ( DIY - Do it yourself , KI )",
+   "link": "https://www.golem.de/news/tripo-ai-und-meshy-kis-fuer-3d-modelle-schotten-sich-nach-milliardenbewertung-ab-2610-214705.html",
+   "published": "2026-10-30T17:45:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-04T17:45:02+00:00",
+   "img": "https://www.golem.de/2610/214705-606166-606164_rc.jpg"
+  },
+  {
+   "id": "n19ce56e028",
+   "topic": "nfl",
+   "title": "Packers RB Josh Jacobs says hands-behind-back gesture after first-half TD vs. Panthers was ode to gospel song",
+   "text": "Jacobs was arrested in May and ultimately pleaded no contest to misdemeanor charges of battery and criminal damage to property.",
+   "link": "https://sports.yahoo.com/nfl/article/packers-rb-josh-jacobs-says-hands-behind-back-gesture-after-first-half-td-vs-panthers-was-ode-to-gospel-song-174240433.html",
+   "published": "2026-10-30T17:42:40+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-04T17:42:40+00:00"
+  },
+  {
+   "id": "n1d6e02cc9d",
+   "topic": "ki",
+   "title": "GPT-Modelle sollen künftig aus Erinnerungen ableiten, was Nutzer wirklich wollen",
+   "text": "OpenAI hat seine Model-Spec überarbeitet und ordnet die Verhaltensregeln für KI-Modelle nun um fünf Grundwerte, darunter Treue zur menschlichen Absicht und Korrigierbarkeit. GPT soll künftig aus Gesprächsverläufen ableiten, was Nutzer wirklich wollen, und eigene Annahmen offenlegen. Ob sich die Modelle daran halten …",
+   "link": "https://the-decoder.de/gpt-modelle-sollen-kuenftig-aus-erinnerungen-ableiten-was-nutzer-wirklich-wollen/",
+   "published": "2026-10-30T17:39:26+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-06T17:39:26+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/openai.png"
+  },
+  {
+   "id": "ne573ee14be",
+   "topic": "politik",
+   "title": "\"Gen Z regelt\" - Bundesweite Jugendproteste geplant - Forderung nach bezahlbarem Leben",
+   "text": "In bundesweiten Kundgebungen wollen junge Menschen morgen für bessere Bildung und ein bezahlbares Leben auf die Straße gehen. In den vier Großstädten Berlin, Köln, Frankfurt am Main und München veranstaltet die Gruppierung \"GenZ regelt!\" eigene Kundgebungen, in 30 weiteren Städten können sich Interessenten örtlichen …",
+   "link": "https://www.deutschlandfunk.de/bundesweite-jugendproteste-geplant-forderung-nach-bezahlbarem-leben-100.html",
+   "published": "2026-10-30T17:32:37+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-01T17:32:37+00:00",
+   "img": "https://bilder.deutschlandfunk.de/NO/VA/_a/cc/NOVA_acc044d89f65637de4fde774d1c68f43/craft-13515260-asset-100-1920x1920.jpg"
+  },
+  {
+   "id": "n60905cab15",
+   "topic": "politik",
+   "title": "Arbeitsmarkt - IG Metall startet am Sonntag erste Warnstreik-Welle",
+   "text": "​Im Tarifstreit der Metall- und Elektroindustrie ruft die IG Metall an diesem Wochenende zu ersten Warnstreiks auf.",
+   "link": "https://www.deutschlandfunk.de/ig-metall-startet-am-sonntag-erste-warnstreik-welle-100.html",
+   "published": "2026-10-30T17:32:37+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-01T17:32:37+00:00",
+   "img": "https://bilder.deutschlandfunk.de/fe/4f/28/c1/fe4f28c1-c4c9-4bd4-9e51-9efb8e247691/proteste-autoindustrie-100-1920x1920.jpg"
+  },
+  {
+   "id": "n090a27c9e4",
+   "topic": "politik",
+   "title": "Eurostat - Mehr Bahnfahrten in der EU - Spitzenreiter war Luxemburg",
+   "text": "Bahnreisende in der EU haben im vergangenen Jahr so viele Kilometer zurückgelegt wie nie zuvor seit Beginn der Erhebung 2004.",
+   "link": "https://www.deutschlandfunk.de/mehr-bahnfahrten-in-der-eu-spitzenreiter-war-luxemburg-100.html",
+   "published": "2026-10-30T17:32:37+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-01T17:32:37+00:00",
+   "img": "https://bilder.deutschlandfunk.de/FI/LE/_4/8e/FILE_48e3a22ed34091bdf4691ba1d22fc358/61828088-jpg-100-768x768.jpg"
+  },
+  {
+   "id": "ne2d7ddf0e9",
+   "topic": "politik",
+   "title": "G20-Außenminister-Treffen - Rubio fordert gemeinsames Vorgehen gegen Bedrohungen der Weltwirtschaft",
+   "text": "US-Außenminister Rubio hat beim Treffen der G20-Außenminister eine stärkere Zusammenarbeit gefordert, um gegen Bedrohungen der Weltwirtschaft vorzugehen. Wirtschaftliche und geopolitische Krisen bedrohten den globalen Handel, die Versorgung mit Energie und Lebensmitteln sowie die freie Schifffahrt, sagte Rubio zum …",
+   "link": "https://www.deutschlandfunk.de/rubio-fordert-gemeinsames-vorgehen-gegen-bedrohungen-der-weltwirtschaft-102.html",
+   "published": "2026-10-30T17:32:37+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-01T17:32:37+00:00",
+   "img": "https://bilder.deutschlandfunk.de/dc/b7/ae/e3/dcb7aee3-0905-44e5-b203-f00053e1a265/rubio-g-20-treffen-100-1920x1920.jpg"
+  },
+  {
+   "id": "n84b9b7d04a",
+   "topic": "politik",
+   "title": "Plattform Binance - Reaktionen auf Krypto-Hackerangriff: \"Entsetzen an der Börse\", \"3,3 Milliarden Dollar sind nicht mehr zurückzuholen\"",
+   "text": "Der Hackerangriff auf die weltgrößte Digitalwährungsbörse Binance hat bei Anlegern und Börsenvertretern für Aufruhr gesorgt. Wie das Unternehmen erklärte, wurden Kryptowährungen im Wert von 6,3 Milliarden US-Dollar gestohlen, um einen Teil davon wird noch gerungen. Ein Überblick über den Ablauf des wohl größten …",
+   "link": "https://www.deutschlandfunk.de/reaktionen-auf-krypto-hackerangriff-entsetzen-an-der-boerse-3-3-milliarden-dollar-sind-nicht-mehr-zu-100.html",
+   "published": "2026-10-30T17:32:37+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-01T17:32:37+00:00",
+   "img": "https://bilder.deutschlandfunk.de/63/c7/08/26/63c70826-5020-4a28-857b-b6ccfdceaf75/binance-100-1920x1920.jpg"
+  },
+  {
+   "id": "n95cb4016b2",
+   "topic": "politik",
+   "title": "Gipfel in Montreal - EU und Kanada schmieden \"Allianz für die Zukunft\"",
+   "text": "Die Europäische Union und Kanada rücken angesichts wachsender geopolitischer Spannungen und des schwierigen Verhältnisses zu den USA enger zusammen. Zum Abschluss eines Gipfeltreffens in Montreal vereinbarten beide Seiten eine sogenannte Allianz für die Zukunft.",
+   "link": "https://www.deutschlandfunk.de/eu-und-kanada-schmieden-allianz-fuer-die-zukunft-100.html",
+   "published": "2026-10-30T17:32:37+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-01T17:32:37+00:00"
+  },
+  {
+   "id": "n6df9108a93",
+   "topic": "politik",
+   "title": "Hessen am Abend: Baumaschinen in Flammen – und tausende Jugendliche ohne Lehrstelle",
+   "text": "Brandstiftung auf Rheinmetall-Baustelle in Calden vermutet, tausende Jugendliche ohne Lehrstelle und Skilift-Betrieb auf dem Hohen Meißner droht dauerhaft Stillstand. Das und mehr gibt es in Sven-Oliver Schibats Blick auf den Tag.",
+   "link": "https://www.hessenschau.de/hessen-am-abend/hessen-am-abend-baumaschinen-in-flammen--und-tausende-jugendliche-ohne-lehrstelle-v1,hessen-am-abend-freitag-274.html",
+   "published": "2026-10-30T17:27:53+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-03T17:27:53+00:00",
+   "img": "https://www.hessenschau.de/panorama/hessen-am-abend-928~_t-1793375058435_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "n2f079abf85",
+   "topic": "wissenschaft",
+   "title": "Simon Plentinger, WDR, zum Abschluss der UNO-Biodiversitätskonferenz in Armenien",
+   "text": "Simon Plentinger, WDR, zum Abschluss der UNO-Biodiversitätskonferenz in Armenien",
+   "link": "https://www.tagesschau.de/video/video-1675312.html",
+   "published": "2026-10-30T17:23:35+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-13T17:23:35+00:00",
+   "img": "https://images.tagesschau.de/image/1715f3d5-5c58-4a6b-a3c1-809f6765bd24/AAABoY3WWnA/AAABnSSvrFg/16x9-big/sendungsbild-1819810.jpg?width=1920"
+  },
+  {
+   "id": "n6f6b90cc5c",
+   "topic": "welt",
+   "title": "Proteste gegen Meloni: Hunderttausende demonstrieren in Italien",
+   "text": "Hohe Lebenshaltungskosten, steigende Rüstungsausgaben, zu wenig Investition in Bildung: In Italien sind Hunderttausende Menschen gegen die Politik der Regierung auf die Straße gegangen - begleitet von einem massiven Polizeiaufgebot.",
+   "link": "https://www.tagesschau.de/ausland/europa/italien-protest-meloni-100.html",
+   "published": "2026-10-30T17:23:20+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T17:23:20+00:00",
+   "img": "https://images.tagesschau.de/image/a82583bc-7d56-47a2-b7b3-5f24582ee034/AAABoYxf0ec/AAABnSSvrFg/16x9-big/rom-demo-104.jpg?width=1920"
+  },
+  {
+   "id": "n870df273b6",
+   "topic": "wirtschaft",
+   "title": "Marktbericht: Schwaches Ende einer starken Börsenwoche",
+   "text": "Zum Wochenschluss schwächelt der DAX, nachdem er zuvor viermal in Folge gestiegen war. Auslöser sind der hohe Ölpreis, aber auch schwache Tech-Vorgaben aus Übersee.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-geldanlage-amazon-100.html",
+   "published": "2026-10-30T17:22:12+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T17:22:12+00:00",
+   "img": "https://images.tagesschau.de/image/a8ff5642-3cb8-40d8-942e-38a10780677e/AAABlep13Mg/AAABnSSvrFg/16x9-big/boerse-frankfurt-155.jpg?width=1920"
+  },
+  {
+   "id": "na3a33fec7c",
+   "topic": "it",
+   "title": "(g+) Künstliche Intelligenz: Anthropic und das Rätsel der drei fehlenden Zahlen",
+   "text": "Drei entscheidende Zahlen fehlen im Börsenprospekt von Anthropic. Die Financial Times erklärt, was sie über das Unternehmen und den KI-Boom verraten würden. Von Richard Waters ( Anthropic , Wirtschaft )",
+   "link": "https://www.golem.de/news/kuenstliche-intelligenz-anthropic-und-das-raetsel-der-drei-fehlenden-zahlen-2610-214704.html",
+   "published": "2026-10-30T17:03:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-04T17:03:01+00:00",
+   "img": "https://www.golem.de/2610/214704-606162-606160_rc.jpg"
+  },
+  {
+   "id": "n75ba9d7a2e",
+   "topic": "wissenschaft",
+   "title": "Weltgemeinschaft ringt um den Schutz der Natur bei Konferenz im armenischen Eriwan",
+   "text": "Weltgemeinschaft ringt um den Schutz der Natur bei Konferenz im armenischen Eriwan",
+   "link": "https://www.tagesschau.de/video/video-1675258.html",
+   "published": "2026-10-30T16:54:09+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-13T16:54:09+00:00",
+   "img": "https://images.tagesschau.de/image/e7e2802c-fdff-4894-a170-b69718cb8332/AAABoY26E6s/AAABnSSvrFg/16x9-big/sendungsbild-1819790.jpg?width=1920"
+  },
+  {
+   "id": "ne269feb73c",
+   "topic": "politik",
+   "title": "Debatte um Eralp überlagert Regierungsbildung",
+   "text": "Die Regierungsbildung in Berlin wird erneut von einer Debatte um die Linke überschattet. Im Fokus: die eventuell künftige Regierende Bürgermeisterin Eralp und ihr Umgang mit Islamismus. Ihre Partei stellt sich entschieden hinter sie.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-eralp-debatte-spiegel-bericht-100.html",
+   "published": "2026-10-30T16:44:36+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T16:44:36+00:00",
+   "img": "https://images.tagesschau.de/image/d7849051-0dc5-4c74-8721-4a10c68c2ef0/AAABoYvgyWo/AAABnSSvrFg/16x9-big/linkspartei-eralp-100.jpg?width=1920"
+  },
+  {
+   "id": "n7c6b594953",
+   "topic": "it",
+   "title": "Neue Filme und Serien bei Netflix, Disney+ und Amazon Prime im November 2026",
+   "text": "Im November läuft bei Disney+ die 2. Staffel von „Scrubs“. Netflix zeigt „Blood & Sinners“ und bei Amazon Prime ist „Madden“ im Programm.",
+   "link": "https://www.heise.de/news/Neue-Filme-und-Serien-bei-Netflix-Disney-und-Amazon-Prime-im-November-2026-11506552.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-30T16:43:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-04T16:43:00+00:00"
+  },
+  {
+   "id": "nfab39c2439",
+   "topic": "it",
+   "title": "Tels-Besitzer in Südkorea umgingen Sperren für Full Self Driving",
+   "text": "In Südkorea ermittelt die Polizei gegen 80 Tesla-Fahrer. Sie sollen FSD-Sperren mit externen Geräten illegal umgangen haben.",
+   "link": "https://www.heise.de/news/Tesla-Besitzer-in-Suedkorea-nutzten-illegal-Full-Self-Driving-11506444.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-30T16:34:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-04T16:34:00+00:00"
+  },
+  {
+   "id": "nf8d8969504",
+   "topic": "it",
+   "title": "Erster Fall: Mann muss wegen Religion keine KI nutzen",
+   "text": "Ein Mann in den USA erhielt eine Sondererlaubnis, keine KI auf der Arbeit nutzen zu müssen. Er beruft sich auf religiöse Gründe.",
+   "link": "https://www.heise.de/news/Ausnahmeerlaubnis-Mann-muss-wegen-Religion-keine-KI-nutzen-11506630.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-30T16:28:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-04T16:28:00+00:00"
+  },
+  {
+   "id": "ne36e8c3119",
+   "topic": "ki",
+   "title": "Googles KI-Suche kappt den Traffic: Reddit-Aktie bricht um mehr als ein Viertel ein",
+   "text": "Reddit verliert durch Googles AI Overviews und AI Mode mehr als eine Million Suchverweise pro Woche. Die Aktie brach daher trotz guter Quartalszahlen um über 25 Prozent ein. CEO Steve Huffman testet nun Login-Schranken und will Reddit unabhängiger vom offenen Web machen. Was Reddit trifft, droht der gesamten …",
+   "link": "https://the-decoder.de/googles-ki-suche-kappt-den-traffic-reddit-aktie-bricht-um-mehr-als-ein-viertel-ein/",
+   "published": "2026-10-30T16:10:24+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-06T16:10:24+00:00"
+  },
+  {
+   "id": "ne51fdf46bb",
+   "topic": "politik",
+   "title": "Jugendproteste: \"Sie meinen es jetzt wirklich ernst\"",
+   "text": "Steigende Preise, marode Schulen, fehlender Dialog: Im Interview erklärt der Protestforscher Florian Staudt, warum junge Menschen in Europa protestieren - und was die Politik aus seiner Sicht jetzt tun sollte.",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-gruende-100.html",
+   "published": "2026-10-30T16:03:53+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T16:03:53+00:00",
+   "img": "https://images.tagesschau.de/image/377abb38-b249-4990-a6ed-3622a43e0c95/AAABoY0h5_U/AAABnSSvrFg/16x9-big/jugendliche-224.jpg?width=1920"
+  },
+  {
+   "id": "nfaa12b0926",
+   "topic": "ki",
+   "title": "KI-Radar #5: Kurz vor AGI – warum gehen dann so viele? Die neuen KI-Labs und ihre Wetten",
+   "text": "OpenAI spricht vom AGI-Zeitalter, Nvidia-Chef Jensen Huang erklärt AGI für erreicht. Zugleich verlassen Mitentwickler der heutigen Modelle OpenAI, Google DeepMind und Meta und sammeln für eigene Labs Milliarden ein, oft ohne Produkt. Sie wetten darauf, dass das heutige Rezept allein nicht reicht. Wir sortieren 45 …",
+   "link": "https://the-decoder.de/ki-radar-5-kurz-vor-agi-warum-gehen-dann-so-viele-die-neuen-ki-labs-und-ihre-wetten/",
+   "published": "2026-10-30T16:00:37+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-06T16:00:37+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/Frontier-Radar-5-Neolabs.png"
+  },
+  {
+   "id": "n216aff0e26",
+   "topic": "wissenschaft",
+   "title": "Mikroben: Blinde Passagiere über dem Regenwald",
+   "text": "Ohne den Staub aus der Sahara fehlen dem Regenwald am Amazonas Nährstoffe. Doch mit den Körnchen reisen auch zahlreiche Mikroben über den Atlantik.",
+   "link": "https://www.spektrum.de/news/mikroben-mit-dem-staub-kommen-blinde-passagiere-zum-regenwald/2352114",
+   "published": "2026-10-30T16:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-13T16:00:00+00:00"
+  },
+  {
+   "id": "nc38bb35699",
+   "topic": "politik",
+   "title": "Gen-Z-Protest: Polizei will Anreise von Gewalttätern stoppen",
+   "text": "Vor den \"Gen Z regelt\"-Demonstrationen am Samstag wollen die Behörden gewaltbereite Personen schon an der Grenze stoppen. Die Initiatoren machen der Bundesregierung schwere Vorwürfe und bekommen prominente Unterstützung für ihren Protest.",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/genz-proteste-polizei-gewalttaeter-100.html",
+   "published": "2026-10-30T15:58:19+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T15:58:19+00:00",
+   "img": "https://images.tagesschau.de/image/ad99640f-2c35-45ec-a4cb-3f9ff669e9d1/AAABoY0OSmM/AAABnSSvrFg/16x9-big/geschaeft-holzbretter-100.jpg?width=1920"
+  },
+  {
+   "id": "ncd065477ee",
+   "topic": "politik",
+   "title": "Klage wegen Unterrichtsausfall: Ex-Schüler scheitert vor Gericht",
+   "text": "Mehr als 400 ausgefallene Unterrichtsstunden, aber kein Anspruch auf eine Neubewertung des Abiturs: Die Klage eines ehemaligen Schülers aus Landau gegen das Land Rheinland-Pfalz blieb ohne Erfolg. Von Christoph Kehlbach.",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/unterrichtsausfall-klage-abgewiesen-100.html",
+   "published": "2026-10-30T15:55:15+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T15:55:15+00:00",
+   "img": "https://images.tagesschau.de/image/14102e35-48e8-439a-8fb0-4c556e6d4d00/AAABmEAxqQI/AAABnSSvrFg/16x9-big/abitur-138.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Schule - Zu viel Unterrichtsausfall: Ex-Abiturient verklagt Rheinland-Pfalz",
+     "link": "https://www.deutschlandfunk.de/zu-viel-unterrichtsausfall-ex-abiturient-verklagt-rheinland-pfalz-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n3954ff1c38",
+   "topic": "welt",
+   "title": "Oleschky-Evakuierung: Wer verhandelt für Russland und die Ukraine?",
+   "text": "Moskau und Kyjiw haben mit der humanitären Mission für die Menschen im russisch besetzten Oleschky begonnen. Sie wird von den Ombudspersonen beider Länder koordiniert. Wer sind sie und wie arbeiten sie zusammen?",
+   "link": "https://www.dw.com/de/oleschky-evakuierung-wer-verhandelt-für-russland-und-die-ukraine/a-79808325?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-30T15:48:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-03T15:48:00+00:00",
+   "img": "https://static.dw.com/image/78434427_302.jpg"
+  },
+  {
+   "id": "n840a510f86",
+   "topic": "welt",
+   "title": "Nach gescheiterter Hinrichtung: Pike beklagt ständige Schmerzen",
+   "text": "Als erste Frau seit 200 Jahren sollte Christa Pike in Tennessee hingerichtet werden. Doch sie überlebte die Gabe eines eigentlich tödlichen Medikaments. In einer ersten Stellungnahme berichtet sie von ständigen Schmerzen.",
+   "link": "https://www.tagesschau.de/ausland/amerika/pike-aeussert-sich-erstmals-nach-gescheiterter-hinrichtung-100.html",
+   "published": "2026-10-30T15:46:27+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T15:46:27+00:00",
+   "img": "https://images.tagesschau.de/image/2367fafb-978d-47c7-94b2-a338ad13e5e2/AAABoPUyHjY/AAABnSSvrFg/16x9-big/christa-pike-100.jpg?width=1920"
+  },
+  {
+   "id": "n54d7e70643",
+   "topic": "welt",
+   "title": "Steigende Zinsen sprengen Frankreichs Haushalt, während die politischen Extreme den Menschen unerfüllbare Versprechungen machen",
+   "text": "Wegen der landesweiten Proteste will Frankreich vier Milliarden Euro zusätzlich in den Bildungsbereich stecken. Dabei hat das hoch verschuldete Land kaum finanzielle Spielräume. Und die Zinskosten steigen immer weiter.",
+   "link": "https://www.dw.com/de/steigende-zinsen-sprengen-frankreichs-haushalt-während-die-politischen-extreme-den-menschen-unerfüllbare-versprechungen-machen/a-79805455?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-30T15:33:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-03T15:33:00+00:00",
+   "img": "https://static.dw.com/image/79796551_302.jpg"
+  },
+  {
+   "id": "n5b0f20f12e",
+   "topic": "welt",
+   "title": "Behörden in Israel weisen Wahlbetrugsvorwürfe zurück",
+   "text": "Bei den Wahlen in Israel habe es eine groß angelegte Einmischung durch das Ausland gegeben, behauptet die Partei von Ministerpräsident Benjamin Netanjahu. Im Zentrum der Vorwürfe stehen die arabischen Parteien.",
+   "link": "https://www.dw.com/de/behörden-in-israel-weisen-wahlbetrugsvorwürfe-zurück/a-79808773?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-30T14:57:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-03T14:57:00+00:00",
+   "img": "https://static.dw.com/image/79799414_302.jpg"
+  },
+  {
+   "id": "nf4e2451504",
+   "topic": "politik",
+   "title": "Nach Eralp-Interview: Müssen sich Medien an Absprachen halten?",
+   "text": "Wer Medien ein Interview gibt, verlangt mitunter die Freigabe des Gesprächs vor der Veröffentlichung. Absprachen können jedoch gebrochen werden - was folgt daraus? Und wie ist die Lage im Fall Eralp? Von Max Bauer.",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/autorisierung-medien-100.html",
+   "published": "2026-10-30T14:56:30+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T14:56:30+00:00",
+   "img": "https://images.tagesschau.de/image/121024ae-957e-4f23-b0b9-69591df6b9b7/AAABoYzKAeM/AAABnSSvrFg/16x9-big/zeitungen-128.jpg?width=1920"
+  },
+  {
+   "id": "n1cabe2246c",
+   "topic": "welt",
+   "title": "Día de Muertos und andere Totenrituale rund um den Globus",
+   "text": "Ob der Tag der Toten in Mexiko oder das Ausgraben Verstorbener in Madagaskar, um sie bei Laune zu halten: Die Menschen zelebrieren teils ungewöhnliche Rituale für die Verstorbenen.",
+   "link": "https://www.dw.com/de/día-de-muertos-und-andere-totenrituale-rund-um-den-globus/a-67517129?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-30T14:34:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-03T14:34:00+00:00",
+   "img": "https://static.dw.com/image/70606363_302.jpg"
+  },
+  {
+   "id": "n39a8d641c7",
+   "topic": "welt",
+   "title": "US-Präsident Trump verliert einen wichtigen Verbündeten nach der Serbien-Wahl und gewinnt in Brasilien keinen neuen hinzu",
+   "text": "Bolsonaro kommt nicht an die Macht, Vucic wurde abgewählt und selbst Netanjahu ist geschwächt: US-Präsident Donald Trump ist mit aktuellen globalen Wahlergebnissen unzufrieden - und spricht wieder von Betrug.",
+   "link": "https://www.dw.com/de/us-präsident-trump-verliert-einen-wichtigen-verbündeten-nach-der-serbien-wahl-und-gewinnt-in-brasilien-keinen-neuen-hinzu/a-79800362?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-30T14:33:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-03T14:33:00+00:00",
+   "img": "https://static.dw.com/image/79567904_302.jpg"
+  },
+  {
+   "id": "na65500a519",
+   "topic": "welt",
+   "title": "Wahl-Patt in Israel: Regierungsbildung nicht in Sicht",
+   "text": "Das Endergebnis der Wahl in Israel bringt für keinen Parteienblock eine regierungsfähige Mehrheit. Jetzt könnten die arabischen Parteien zum Zuge kommen. Doch aus dem Netanjahu-Lager kommen neue Vorwürfe. Konkurrent Eisenkot reagiert. Von Tim Aßmann.",
+   "link": "https://www.tagesschau.de/ausland/asien/israel-wahlergebnis-korri-100.html",
+   "published": "2026-10-30T14:28:05+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T14:28:05+00:00",
+   "img": "https://images.tagesschau.de/image/4fd8cb36-680d-4b40-a806-2223e18d10b5/AAABoYzqT78/AAABnSSvrFg/16x9-big/wahlplakat-netanjahu-102.jpg?width=1920"
+  },
+  {
+   "id": "nfe2bbc2cef",
+   "topic": "wirtschaft",
+   "title": "Inflationsrate geht im Oktober auf 2,8 Prozent zurück",
+   "text": "Die hohe Inflation in Deutschland ‌hat sich im Oktober spürbar abgeschwächt. Dafür sorgen vor allem die fallenden Preise an den Zapfsäulen. Doch Ökonomen geben noch keine Entwarnung.",
+   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/inflationsrate-deutschland-oktober-100.html",
+   "published": "2026-10-30T14:08:37+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T14:08:37+00:00",
+   "img": "https://images.tagesschau.de/image/566cc412-8755-4cba-b3b6-41c0044a4ba3/AAABoYzxgjY/AAABnSSvrFg/16x9-big/euro-314.jpg?width=1920"
+  },
+  {
+   "id": "n5f84d853cb",
+   "topic": "wissenschaft",
+   "title": "Kometen im November 2026: Einst verlorener Wanderer kommt wieder in Reichweite",
+   "text": "Mehrere Kometen durchqueren im November auffällige Regionen des Sternenhimmels. Höhepunkt ist 11P/Tempel-Swift-LINEAR, dessen Bahngeometrie in diesem Herbst besonders günstig ist.",
+   "link": "https://www.spektrum.de/news/kometen-im-november-2026-verlorener-wanderer-wieder-in-reichweite/2333144",
+   "published": "2026-10-30T14:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-13T14:00:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/LESERBILD_235p-linear_L_2026_07_07_19h15m--facebook.jpg.8391308.jpg?f=1280x720"
+  },
+  {
+   "id": "nf9ef9e4cbe",
+   "topic": "wirtschaft",
+   "title": "Wie der VW-Vorstand die Laune bei den Skoda-Mitarbeitern drückt",
+   "text": "Während die Konzernmutter Volkswagen viele Probleme hat, erwirtschaftet die tschechische Tochter Skoda passable Gewinne. Doch das ist für den Hersteller nicht automatisch von Vorteil. Von André Berthold.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/skoda-144.html",
+   "published": "2026-10-30T13:51:43+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T13:51:43+00:00"
+  },
+  {
+   "id": "n60d0f4b921",
+   "topic": "welt",
+   "title": "China: Kommunistische Partei Chinas fordert mehr Disziplin",
+   "text": "Die Kommunistische Partei Chinas verlangt von ihren Mitgliedern mehr Loyalität. 2027 wird die Parteispitze neu gewählt. Unklar bleibt, wer Xi Jinping wann nachfolgen wird. Die Herausforderungen sind vielfältig.",
+   "link": "https://www.dw.com/de/china-kommunistische-partei-chinas-fordert-mehr-disziplin/a-79801448?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-30T13:49:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-03T13:49:00+00:00",
+   "img": "https://static.dw.com/image/79799552_302.jpg"
+  },
+  {
+   "id": "nfc887d7107",
+   "topic": "welt",
+   "title": "Zugunglück in Spanien: Fahrdatenschreiber geborgen",
+   "text": "Auf den Schock nach dem schweren Zugunglück in Spanien folgt die Suche nach der Ursache: Ermittler haben die Fahrdatenschreiber in den Wracks gefunden. Die Daten werden nun ausgewertet - und liefern hoffentlich Antworten.",
+   "link": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-156.html",
+   "published": "2026-10-30T12:32:41+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T12:32:41+00:00",
+   "img": "https://images.tagesschau.de/image/66f416f5-f843-43a2-aa35-189765c1a3c9/AAABoYwsVgM/AAABnSSvrFg/16x9-big/suche-guardia-vivil-100.jpg?width=1920"
+  },
+  {
+   "id": "n1af8ab6526",
+   "topic": "wirtschaft",
+   "title": "Experte zum Krypto-Angriff: \"Drei Milliarden sind definitiv weg\"",
+   "text": "Beim Hackerangriff auf die Kryptobörse Binance geht es um Digitalwährungen in Milliardenhöhe. Cybersicherheitsexperte Mirko Ross erklärt, warum die Spur nach Nordkorea führt und was Anleger beachten sollten.",
+   "link": "https://www.tagesschau.de/wirtschaft/technologie/hackerangriff-binance-interview-100.html",
+   "published": "2026-10-30T12:32:21+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T12:32:21+00:00",
+   "img": "https://images.tagesschau.de/image/6005bf42-35ee-49c0-a9de-0c0c82432647/AAABoYumLh8/AAABnSSvrFg/16x9-big/binance-104.jpg?width=1920"
+  },
+  {
+   "id": "nfbca3e8acd",
+   "topic": "wissenschaft",
+   "title": "Kleinplaneten im November 2026: Zwei helle Apollo-Asteroiden in Erdnähe",
+   "text": "Vier helle Kleinplaneten sowie zwei erdnahe Apollo-Asteroiden sind am Novemberhimmel beobachtenswert. Enge Sternpassagen und eine Galaxie bieten reizvolle Fotomotive.",
+   "link": "https://www.spektrum.de/news/kleinplaneten-im-november-2026-helle-apollo-asteroiden-in-erdnaehe/2333146",
+   "published": "2026-10-30T12:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-13T12:00:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/Looking_at_Earth_from_an_Asteroid_zuschnitt_FireflyUpscaler2xSkal.jpg.8340993.jpg?f=1280x720"
+  },
+  {
+   "id": "n1c50222086",
+   "topic": "politik",
+   "title": "1992 in Halle veröffentlicht: Die Drahtzieher hinter der Stasi-Liste",
+   "text": "Vor mehr als 30 Jahren sorgte eine Liste mit rund 4.500 Namen von geführten Stasi-Informanten in Halle für Aufsehen. Wer sie verfasste, blieb jahrzehntelang unbekannt. Nun sprechen die Verfasser erstmals öffentlich. Von Ottilie Wied.",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/stasi-liste-halle-100.html",
+   "published": "2026-10-30T11:51:06+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T11:51:06+00:00",
+   "img": "https://images.tagesschau.de/image/2b196c8a-a44f-4296-b704-bf9e084fc668/AAABoYyq3GY/AAABnSSvrFg/16x9-big/menschen-neues-forum-100.jpg?width=1920"
+  },
+  {
+   "id": "n1775453df4",
+   "topic": "welt",
+   "title": "Merz hofft auf friedliche Wiedervereinigung Koreas",
+   "text": "Ein wiedervereintes Korea - diese Hoffnung hat Kanzler Merz beim Besuch an Südkoreas Grenze geäußert. Angesichts Nordkoreas zunehmender Abschottung liegt dieses Ziel in weiter Ferne. Und das berge laut Merz auch für Europa eine Gefahr.",
+   "link": "https://www.tagesschau.de/ausland/asien/merz-asienreise-suedkorea-100.html",
+   "published": "2026-10-30T11:14:51+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T11:14:51+00:00",
+   "img": "https://images.tagesschau.de/image/d98f3c1c-4855-4391-a42b-36addee83399/AAABoYyFBsQ/AAABnSSvrFg/16x9-big/merz-suedkorea-demarkationslinie-100.jpg?width=1920"
+  },
+  {
+   "id": "n4d6a0ae3f7",
+   "topic": "welt",
+   "title": "G20-Außenministertreffen mit Lawrow und Wadephul in Atlanta",
+   "text": "Die Außenminister der G20-Staaten treffen sich in den USA. Mit dabei ist auch Russlands Vertreter Lawrow. Für Deutschland nimmt Minister Wadephul teil. Das Treffen könnte beim Umgang mit Russland eine Art Generalprobe für den G20-Gipfel sein.",
+   "link": "https://www.tagesschau.de/ausland/amerika/aussenministertreffen-usa-100.html",
+   "published": "2026-10-30T10:37:11+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T10:37:11+00:00",
+   "img": "https://images.tagesschau.de/image/b0a555c0-6286-4248-a552-17ca85912a5d/AAABoYwgDmg/AAABnSSvrFg/16x9-big/atlanta-g20-100.jpg?width=1920"
+  },
+  {
+   "id": "nb8eca3a6d8",
+   "topic": "wirtschaft",
+   "title": "Fast drei Millionen Arbeitslose im Oktober",
+   "text": "Die Arbeitslosigkeit ist im Oktober zurückgegangen, die übliche Herbstbelebung aber nahezu ausgeblieben. Im Vergleich zum Vorjahr gibt es sogar mehr Arbeitslose. Als Grund nennt BA-Chefin Nahles die wirtschaftlichen Rahmenbedingungen.",
+   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/arbeitslose-statistik-oktober-100.html",
+   "published": "2026-10-30T10:32:55+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T10:32:55+00:00"
+  },
   {
    "id": "n47864ae76e",
    "topic": "politik",
@@ -102,19 +765,6 @@
    "lang": "de",
    "expires": "2026-11-02T09:42:12+00:00",
    "img": "https://images.tagesschau.de/image/0de6f7b9-b895-4aa2-a1ab-d78c9b17da15/AAABoYv1pSM/AAABnSSvrFg/16x9-big/audi-260.jpg?width=1920"
-  },
-  {
-   "id": "nfc887d7107",
-   "topic": "welt",
-   "title": "Zugunglück in Spanien: Fahrdatenschreiber geborgen",
-   "text": "Auf den Schock nach dem schweren Zugunglück in Spanien folgt die Suche nach der Ursache: Ermittler haben die Fahrdatenschreiber in den Wracks gefunden. Die Daten werden nun ausgewertet - und liefern hoffentlich Antworten.",
-   "link": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-156.html",
-   "published": "2026-10-30T09:39:38+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-02T09:39:38+00:00",
-   "img": "https://images.tagesschau.de/image/66f416f5-f843-43a2-aa35-189765c1a3c9/AAABoYwsVgM/AAABnSSvrFg/16x9-big/suche-guardia-vivil-100.jpg?width=1920"
   },
   {
    "id": "n37aba29265",
@@ -236,8 +886,8 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Klage in Rheinland-Pfalz: Wie viel Unterrichtsausfall ist zu viel?",
-     "link": "https://www.tagesschau.de/inland/gesellschaft/unterrichtsausfall-klage-rheinland-pfalz-100.html"
+     "title": "Klage wegen Unterrichtsausfall: Ex-Schüler scheitert vor Gericht",
+     "link": "https://www.tagesschau.de/inland/gesellschaft/unterrichtsausfall-klage-abgewiesen-100.html"
     }
    ]
   },
@@ -265,32 +915,6 @@
    "type": "Fachmedium (IT)",
    "lang": "de",
    "expires": "2026-11-04T09:27:00+00:00"
-  },
-  {
-   "id": "n870df273b6",
-   "topic": "wirtschaft",
-   "title": "Marktbericht: DAX steuert auf großes Wochenplus zu",
-   "text": "Der DAX rutscht im frühen Handel zwar wieder unter 26.000 Punkte, er bleibt aber in Schlagweite. Trotz steigender Ölpreise und schwacher Bilanzen von Intel und Amazon hält sich der deutsche Leitindex stabil.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-geldanlage-amazon-100.html",
-   "published": "2026-10-30T09:25:43+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-02T09:25:43+00:00",
-   "img": "https://images.tagesschau.de/image/42152e4c-2b1d-4f6e-a48d-9c1adf615e01/AAABnYVt-C0/AAABnSSvrFg/16x9-big/boerse-504.jpg?width=1920"
-  },
-  {
-   "id": "ne269feb73c",
-   "topic": "politik",
-   "title": "Debatte um Eralp überlagert Regierungsbildung",
-   "text": "Die Regierungsbildung in Berlin wird erneut von einer Debatte über die Linkspartei überschattet. Im Fokus: die eventuell künftige Regierende Bürgermeisterin Eralp. Und die Frage, wie entschieden sie gegen Islamismus vorgehen kann.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-eralp-debatte-spiegel-bericht-100.html",
-   "published": "2026-10-30T09:02:46+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-02T09:02:46+00:00",
-   "img": "https://images.tagesschau.de/image/d7849051-0dc5-4c74-8721-4a10c68c2ef0/AAABoYvgyWo/AAABnSSvrFg/16x9-big/linkspartei-eralp-100.jpg?width=1920"
   },
   {
    "id": "n4780bce985",
@@ -473,7 +1097,7 @@
   },
   {
    "id": "ndef0edeb16",
-   "topic": "wirtschaft",
+   "topic": "welt",
    "title": "EU-Kanada-Gipfel: Zusammenarbeit bei KI verstärken",
    "text": "Gemeinsam unabhängiger werden - das ist das große Ziel der angestrebten neuen Allianz zwischen Kanada und der EU. Ein Beispiel: die Zusammenarbeit im Bereich Künstlicher Intelligenz. Von Giselle Ucar.",
    "link": "https://www.tagesschau.de/ausland/amerika/eu-kanada-ki-100.html",
@@ -584,14 +1208,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-02T00:01:06+00:00",
-   "img": "https://images.tagesschau.de/image/5d299661-3165-41f5-9e4a-d4dabf9c3133/AAABoYt9Bvc/AAABnSSvrFg/16x9-big/wahlplakatwand-104.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Israel nach der Wahl: Hoffnung auf eine Regierung ohne Extremisten",
-     "link": "https://www.dw.com/de/israel-nach-der-wahl-hoffnung-auf-eine-regierung-ohne-extremisten/a-79795042?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/5d299661-3165-41f5-9e4a-d4dabf9c3133/AAABoYt9Bvc/AAABnSSvrFg/16x9-big/wahlplakatwand-104.jpg?width=1920"
   },
   {
    "id": "n0bc75f6c9e",
@@ -719,8 +1336,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-10-31T22:41:06+00:00",
-   "img": "https://bilder.deutschlandfunk.de/86/0a/48/9b/860a489b-7a82-42d0-97c0-a6d4d27db6a6/eu-kanada-gipfel-100-1920x1920.jpg"
+   "expires": "2026-10-31T22:41:06+00:00"
   },
   {
    "id": "nfe4c6709ad",
@@ -893,14 +1509,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-31T18:27:09+00:00",
-   "img": "https://bilder.deutschlandfunk.de/63/7f/bb/a0/637fbba0-e67e-45c6-a06e-65cc51754a41/ukraine-russland-krieg-angriff-raketen-drohnen-dnipro-102-1280x1280.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Zahlreiche Tote bei Angriff auf Bahnhof in Dnipro",
-     "link": "https://www.tagesschau.de/ausland/europa/russland-ukraine-angriffe-120.html"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/63/7f/bb/a0/637fbba0-e67e-45c6-a06e-65cc51754a41/ukraine-russland-krieg-angriff-raketen-drohnen-dnipro-102-1280x1280.jpg"
   },
   {
    "id": "ndd89ee1233",
@@ -1120,614 +1729,6 @@
    "lang": "de",
    "expires": "2026-11-03T17:00:01+00:00",
    "img": "https://www.golem.de/2610/214656-605931-605929_rc.jpg"
-  },
-  {
-   "id": "neb87c3ef8c",
-   "topic": "welt",
-   "title": "Zugunglück in Spanien: Ein Land zwischen Trauer und Aufarbeitung",
-   "text": "Nach dem Zugunglück in Spanien sind Schock und Trauer groß. Forensiker identifizieren weiterhin Todesopfer. Zudem wurden die Gesprächsprotokolle der Leitstelle mit den Lokomotivführern veröffentlicht. Von Julia Macher.",
-   "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-132.html",
-   "published": "2026-10-29T16:59:55+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-01T16:59:55+00:00",
-   "img": "https://images.tagesschau.de/image/1ce57dd8-6203-4b88-86d3-f3473b5f2732/AAABoYh7NVc/AAABnSSvrFg/16x9-big/gerichtsmediziner-100.jpg?width=1920"
-  },
-  {
-   "id": "nfdd0837799",
-   "topic": "welt",
-   "title": "Südafrika bewirbt sich mit der Stadt Durban um Olympia",
-   "text": "Noch nie hat ein afrikanischer Staat Olympische oder Paralympische Spiele ausgerichtet. Südafrika schickt nun Durban für 2036 und 2040 ins Bewerberrennen - einer von derzeit sechs Konkurrenten für München.",
-   "link": "https://www.tagesschau.de/ausland/afrika/suedafrika-olympia-bewerbung-durban-100.html",
-   "published": "2026-10-29T16:52:47+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-01T16:52:47+00:00",
-   "img": "https://images.tagesschau.de/image/e3a31b93-062e-4df3-b5de-42cbad628768/AAABoYfpPRQ/AAABnSSvrFg/16x9-big/moses-mabhida-stadium-100.jpg?width=1920"
-  },
-  {
-   "id": "n02725edd47",
-   "topic": "welt",
-   "title": "Wie der Konflikt der Tichanowskis die belarussische Opposition prägt",
-   "text": "Sergej Tichanowski kritisiert in Livestreams die Arbeit seiner Frau Swetlana Tichanowskaja und ihres Büros. Er stellt zudem ihre Legitimität infrage. Welche Folgen hat das für die politischen Kräfte im Exil?",
-   "link": "https://www.dw.com/de/wie-der-konflikt-der-tichanowskis-die-belarussische-opposition-prägt/a-79789242?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-29T16:35:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-02T16:35:00+00:00",
-   "img": "https://static.dw.com/image/74472861_302.jpg"
-  },
-  {
-   "id": "n8972220a88",
-   "topic": "welt",
-   "title": "65 Jahre deutsch-türkisches Anwerbeabkommen – die Altersarmut der Gastarbeiter",
-   "text": "Am 30. Oktober 1961 schlossen die Bundesrepublik Deutschland und die Türkei ein Abkommen zur temporären Anwerbung von Arbeitskräften. Doch viele blieben - und sind heute armutsgefährdet.",
-   "link": "https://www.dw.com/de/65-jahre-deutsch-türkisches-anwerbeabkommen-die-altersarmut-der-gastarbeiter/a-79743427?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-29T16:30:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-02T16:30:00+00:00",
-   "img": "https://static.dw.com/image/79740400_302.jpg"
-  },
-  {
-   "id": "n7d79d3100e",
-   "topic": "wissenschaft",
-   "title": "Möglicher neuer Zwergplanet im Sonnensystem entdeckt",
-   "text": "Am äußeren Rand des Sonnensystems haben Astronomen einen seltenen Himmelskörper entdeckt: einen möglichen neuen Zwergplaneten. Bestätigt sich der Fund, wäre \"2026 ED138\" erst der sechste bekannte Zwergplanet. Von Uwe Gradwohl.",
-   "link": "https://www.tagesschau.de/wissen/weltraum/zwergplanet-entdeckung-100.html",
-   "published": "2026-10-29T16:28:56+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-12T16:28:56+00:00",
-   "img": "https://images.tagesschau.de/image/609b4690-b38e-4b04-9b97-af6e10fb34b8/AAABoYhJv-A/AAABnSSvrFg/16x9-big/2026-ed-138-100.jpg?width=1920"
-  },
-  {
-   "id": "nfad610e882",
-   "topic": "politik",
-   "title": "Steinmeier-Nachfolge: Die Kandidatensuche wird zur Machtfrage",
-   "text": "Deutschland sucht eine Nachfolge für Bundespräsident Steinmeier. Die Kandidatendebatte bei CDU/CSU ist unübersichtlich und parteipolitisch aufgeladen - nicht zum ersten Mal in der Geschichte. Von Georg Schwarte.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/bundespraesident-kandidatensuche-union-100.html",
-   "published": "2026-10-29T16:22:50+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-01T16:22:50+00:00",
-   "img": "https://images.tagesschau.de/image/7733e94c-9832-4a31-8683-d5b92b0440cc/AAABoYh4pu4/AAABnSSvrFg/16x9-big/soeder-merz-124.jpg?width=1920"
-  },
-  {
-   "id": "n53386f032f",
-   "topic": "welt",
-   "title": "Bundespräsident Steinmeier verbindet Grundsatzrede in Peking mit symbolischem Tischtennis-Auftritt",
-   "text": "Frank-Walter Steinmeier richtet in Peking eine Botschaft an China: Mit dem Aufstieg zur Weltmacht wächst die Verantwortung. Später greift er mit Timo Boll zum Tischtennisschläger.",
-   "link": "https://www.dw.com/de/bundespräsident-steinmeier-verbindet-grundsatzrede-in-peking-mit-symbolischem-tischtennis-auftritt/a-79797176?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-29T15:24:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-02T15:24:00+00:00",
-   "img": "https://static.dw.com/image/79795177_302.jpg"
-  },
-  {
-   "id": "n118668da38",
-   "topic": "wirtschaft",
-   "title": "Europäische Zentralbank hält Leitzins unverändert",
-   "text": "Die Europäische Zentralbank (EZB) hat wie erwartet die Leitzinsen unverändert bei 2,5 Prozent belassen. Zuvor hatte auch die US-Notenbank Fed von einer Änderung ihrer Leitzinsen abgesehen.",
-   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-570.html",
-   "published": "2026-10-29T15:18:04+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-01T15:18:04+00:00",
-   "img": "https://images.tagesschau.de/image/4085d903-660f-4dac-b3ba-2b3e57873f0c/AAABoYc2aG4/AAABnSSvrFg/16x9-big/ezb-562.jpg?width=1920"
-  },
-  {
-   "id": "n2a4457ce6f",
-   "topic": "welt",
-   "title": "Israel nach der Wahl: Hoffnung auf eine Regierung ohne Extremisten",
-   "text": "Deutsche Politiker warten ab: Noch ist unklar, wer Israel künftig regiert. Die Sorge gilt auch Gaza: Welche Folgen hätte ein Machtvakuum? Viele hoffen zudem auf eine Regierung ohne religiöse Hardliner.",
-   "link": "https://www.dw.com/de/israel-nach-der-wahl-hoffnung-auf-eine-regierung-ohne-extremisten/a-79795042?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-29T15:09:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-02T15:09:00+00:00",
-   "img": "https://static.dw.com/image/79759992_302.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Wahl in Israel: Alle Stimmen ausgezählt - Patt bleibt bestehen",
-     "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-ergebnis-102.html"
-    }
-   ]
-  },
-  {
-   "id": "n14531635c6",
-   "topic": "welt",
-   "title": "Ukraine-Krieg: Was über Evakuierung aus Oleschky bekannt ist",
-   "text": "Die lokale Waffenruhe in Oleschky hält seit mehreren Tagen. Die humanitäre Lage in der Stadt ist prekär. Die Evakuierungslisten werden erstellt, die Zahl der Ausreisewilligen könnte bei rund Tausend liegen.",
-   "link": "https://www.dw.com/de/ukraine-krieg-was-über-evakuierung-aus-oleschky-bekannt-ist/a-79795347?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-29T15:00:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-02T15:00:00+00:00",
-   "img": "https://static.dw.com/image/79792549_302.jpg"
-  },
-  {
-   "id": "n83eb4b2204",
-   "topic": "wissenschaft",
-   "title": "Entwarnung im Orion: Beteigeuze fängt sich wieder",
-   "text": "Der rote Riesenstern wurde in den vergangenen Monaten immer lichtschwächer. Nun scheint seine Talfahrt vorerst gestoppt. Die visuelle Helligkeit stagniert bei etwa einer Magnitude.",
-   "link": "https://www.spektrum.de/news/entwarnung-im-orion-beteigeuze-faengt-sich-wieder/2351599",
-   "published": "2026-10-29T15:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-12T15:00:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/hajnal_orion_lampenhain_2024_01_09_zuschnitt.jpg.8420309.jpg?f=1280x720"
-  },
-  {
-   "id": "n801fb83607",
-   "topic": "ki",
-   "title": "Mistral gibt \"Le Chonk\" frei: Stark beim Code, im Gesamtvergleich hinter China",
-   "text": "Mistral hat die Gewichte von Large 4 alias \"Le Chonk\" veröffentlicht, ein Billionen-Parameter-Modell, vollständig in Europa trainiert. Beim Programmieren sieht Mistral es vor der offenen Konkurrenz, im unabhängigen Test erweist es sich als schnell und relativ günstig. Gegen chinesische Spitzenmodelle reicht es dennoch …",
-   "link": "https://the-decoder.de/mistral-gibt-le-chonk-frei-stark-unter-offenen-modellen-guenstig-im-betrieb-klar-hinter-der-spitze/",
-   "published": "2026-10-29T14:54:27+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-05T14:54:27+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/07/mistral_ai-3.png"
-  },
-  {
-   "id": "nfb2b146d1a",
-   "topic": "welt",
-   "title": "Steinmeier wird in China überraschend deutlich",
-   "text": "Für asiatische Verhältnisse geradezu laut kritisiert der Bundespräsident den politischen und wirtschaftlichen Kurs der Volksrepublik. \"Mit Größe und Macht kommt große Verantwortung\", betonte er.",
-   "link": "https://www.dw.com/de/steinmeier-wird-in-china-überraschend-deutlich/a-79797976?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-29T14:41:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-02T14:41:00+00:00",
-   "img": "https://static.dw.com/image/79795211_302.jpg",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Besuch in Peking - Steinmeier appelliert an China wegen Ukraine-Krieg und Handelskonflikt",
-     "link": "https://www.deutschlandfunk.de/steinmeier-appelliert-an-china-wegen-ukraine-krieg-und-handelskonflikt-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n1caccc6f75",
-   "topic": "wirtschaft",
-   "title": "Kommentar zum \"Tankrabatt\": Die Regierung schmeißt Milliarden aus dem Fenster",
-   "text": "Vor vier Wochen ist die Neuauflage des \"Tankrabatts\" in Kraft getreten. Für die Bundesregierung war es eine Beruhigungspille kurz vor den Wahlen, meint Jan Zimmermann. Der Frust an der Tankstelle bleibt jedoch.",
-   "link": "https://www.tagesschau.de/kommentar/tankrabatt-ein-monat-100.html",
-   "published": "2026-10-29T14:25:14+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-01T14:25:14+00:00",
-   "img": "https://images.tagesschau.de/image/093997a5-b96c-456e-8738-1e886137dd36/AAABoYgM-MU/AAABnSSvrFg/16x9-big/friedrich-merz-540.jpg?width=1920"
-  },
-  {
-   "id": "n58d6443b29",
-   "topic": "wirtschaft",
-   "title": "Hohe Spritpreise: Bringt der \"Tankrabatt\" wirklich etwas?",
-   "text": "Seit dem 1. Oktober gilt ein neuer \"Tankrabatt\". Experten zufolge geben die Mineralölkonzerne die Ersparnis nur zum Teil an die Autofahrer weiter. Der Interessenverband der Branche widerspricht. Von Max Ortmann und Jan Koch.",
-   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/tankrabatt-entlastung-bilanz-100.html",
-   "published": "2026-10-29T14:23:49+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-01T14:23:49+00:00",
-   "img": "https://images.tagesschau.de/image/6d30e1ec-3958-4075-9234-4929d20d9127/AAABoQyzFJo/AAABnSSvrFg/16x9-big/zapfsaeule-tankstelle-104.jpg?width=1920"
-  },
-  {
-   "id": "n509faa0040",
-   "topic": "welt",
-   "title": "Zahlreiche Tote bei Angriff auf Bahnhof in Dnipro",
-   "text": "Eine russische Drohne hat nach ukrainischen Angaben am Bahnhof von Dnipro mindestens 14 Menschen getötet. Während Russland und die Ukraine sich weiter gegenseitig mit Drohnen angreifen, hält die Waffenruhe in der Frontstadt Oleschky.",
-   "link": "https://www.tagesschau.de/ausland/europa/russland-ukraine-angriffe-120.html",
-   "published": "2026-10-29T14:04:36+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-01T14:04:36+00:00",
-   "img": "https://images.tagesschau.de/image/b6cffbf3-12b7-4c72-b7cb-67f744b32dc2/AAABoYeG6C4/AAABnSSvrFg/16x9-big/ukraine-dnipro-angriff-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Ukraine - 13 Tote bei russischem Luftangriff auf Bahnhof in Dnipro",
-     "link": "https://www.deutschlandfunk.de/13-tote-bei-russischem-luftangriff-auf-bahnhof-in-dnipro-100.html"
-    }
-   ]
-  },
-  {
-   "id": "nf43ae644bd",
-   "topic": "wissenschaft",
-   "title": "Chemie trifft Quantenphysik: Maßgeschneiderte Molekül-Qubits fürs Quanteninternet",
-   "text": "Ein neuartiges Qubit speichert Quanteninformation über Rekordzeiten hinweg und sendet stabile Lichtsignale aus. Das Besondere: Es wurde gezielt für diesen Zweck entwickelt.",
-   "link": "https://www.spektrum.de/news/massgeschneiderte-molekuel-qubits-fuers-quanteninternet/2351607",
-   "published": "2026-10-29T14:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-12T14:00:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/Scientific_illustration.jpg.8420810.jpg?f=1280x720"
-  },
-  {
-   "id": "n9d0d5a1350",
-   "topic": "ki",
-   "title": "US-Kartellwächter untersuchen Nvidias Hugging-Face-Übernahme und Verkaufspraktiken",
-   "text": "Das US-Justizministerium prüft Nvidias geplante Übernahme der Open-Source-Plattform Hugging Face. Der Artikel US-Kartellwächter untersuchen Nvidias Hugging-Face-Übernahme und Verkaufspraktiken erschien zuerst auf The Decoder .",
-   "link": "https://the-decoder.de/us-kartellwaechter-untersuchen-nvidias-hugging-face-uebernahme-und-verkaufspraktiken/",
-   "published": "2026-10-29T13:58:49+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-05T13:58:49+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/09/hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2-1536x864-1.png"
-  },
-  {
-   "id": "n20042dccb4",
-   "topic": "welt",
-   "title": "Der Dackel: Kultfigur und politisches Symbol",
-   "text": "Klein und kurzbeinig: Der Dackel gilt als Deutschlands kultigste Hunderasse. Künstler und Designer nutzen ihn seit Jahrzehnten als Symbol für Witz und Eigensinn - und auch in politischen Kontexten taucht er auf.",
-   "link": "https://www.dw.com/de/der-dackel-kultfigur-und-politisches-symbol/a-79653292?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-29T13:13:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-02T13:13:00+00:00",
-   "img": "https://static.dw.com/image/67485002_302.jpg"
-  },
-  {
-   "id": "n504f071f53",
-   "topic": "wirtschaft",
-   "title": "Was bringt eine EU-Allianz mit Kanada den Verbrauchern in Europa?",
-   "text": "Die EU und Kanada wollen wirtschaftlich und politisch enger zusammenrücken. Könnte eine verstärkte Kooperation Europas Lieferketten sichern, Preise stabil halten, Abhängigkeiten reduzieren? Von Petra Thiele.",
-   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/kanada-eu-allianz-folgen-verbraucher-100.html",
-   "published": "2026-10-29T13:12:47+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-01T13:12:47+00:00",
-   "img": "https://images.tagesschau.de/image/a9763561-b274-4cac-b308-66eaade1b898/AAABoOvloug/AAABnSSvrFg/16x9-big/kanada-zoelle-106.jpg?width=1920"
-  },
-  {
-   "id": "nd437747b95",
-   "topic": "welt",
-   "title": "Wie Kanada unter Trumps Zöllen leidet",
-   "text": "Beim heute beginnenden Gipfel in Montreal geht es auch darum, wie eng die Zusammenarbeit mit der EU sein wird. In Kanada sind die Erwartungen groß. Denn die Folgen von Trumps Zöllen sind längst spürbar. Von Giselle Ucar.",
-   "link": "https://www.tagesschau.de/ausland/amerika/kanada-zoelle-trump-eu-100.html",
-   "published": "2026-10-29T13:12:09+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-01T13:12:09+00:00",
-   "img": "https://images.tagesschau.de/image/0047e2f0-9d16-4174-94d6-c6dea5db945e/AAABoYdztOs/AAABnSSvrFg/16x9-big/montreal-108.jpg?width=1920"
-  },
-  {
-   "id": "n73dcec5cf1",
-   "topic": "welt",
-   "title": "Opiumproduktion in Afghanistan stark gestiegen",
-   "text": "Die Taliban haben den Anbau von Schlafmohn und die Herstellung von Opium in Afghanistan 2022 verboten. Nun ist die Produktion den UN zufolge erstmals wieder gestiegen - um 400 Prozent innerhalb eines Jahres.",
-   "link": "https://www.tagesschau.de/ausland/asien/afghanistan-zunahme-opiumproduktion-100.html",
-   "published": "2026-10-29T12:50:48+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-01T12:50:48+00:00",
-   "img": "https://images.tagesschau.de/image/50a1807b-53d9-4562-8bf8-1416af32966a/AAABoYbwZck/AAABnSSvrFg/16x9-big/mohnblumen-afghanistan-100.jpg?width=1920"
-  },
-  {
-   "id": "n818f8f033a",
-   "topic": "politik",
-   "title": "Wer am Samstag auf die Straße geht - und was zu erwarten ist",
-   "text": "Am Samstag soll es in zahlreichen Städten Deutschlands zu Protesten kommen. Nach den Ausschreitungen etwa in Frankreich ist die Sorge vor Gewalt groß. Zu recht? Was sagen die Sicherheitsbehörden, was Experten - und worum geht es eigentlich?",
-   "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-regelt-proteste-100.html",
-   "published": "2026-10-29T12:02:19+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-01T12:02:19+00:00",
-   "img": "https://images.tagesschau.de/image/13a3cc22-d409-4262-8cd5-c9a1e3fe3f8b/AAABoYaUSV4/AAABnSSvrFg/16x9-big/schueler-demonstration-100.jpg?width=1920"
-  },
-  {
-   "id": "n5e23427b0c",
-   "topic": "welt",
-   "title": "Zugunglück in Spanien: Der Schock sitzt tief",
-   "text": "In Spanien sitzt der Schock tief über das zweite schwere Zugunglück auf der Hochgeschwindigkeitszugstrecke zwischen Madrid und Andalusien. Mindestens 69 Menschen verloren bei dem Unglück in der Region Toledo ihr Leben. Von Franka Welz.",
-   "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-reportage-100.html",
-   "published": "2026-10-29T11:24:09+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-01T11:24:09+00:00",
-   "img": "https://images.tagesschau.de/image/f67b8593-5cb3-4e54-986f-56a033049442/AAABoYT5IkU/AAABnSSvrFg/16x9-big/zugunglueck-spanien-146.jpg?width=1920"
-  },
-  {
-   "id": "nd5ef459ea1",
-   "topic": "welt",
-   "title": "Suche nach Opfern des Zugunglücks in Spanien geht weiter",
-   "text": "In Spanien suchen die Rettungskräfte nach dem schweren Zugunglück nach weiteren Opfern in den Waggon-Trümmern. Die Regierung versprach Aufklärung, in Madrid gab es Proteste. Als Unfallursache könnte menschliches Versagen eine Rolle gespielt haben.",
-   "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-128.html",
-   "published": "2026-10-29T11:22:21+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-01T11:22:21+00:00",
-   "img": "https://images.tagesschau.de/image/da2c0804-858b-4676-96bd-d51ddbd10635/AAABoYaeqFo/AAABnSSvrFg/16x9-big/spanien-zug-bergung-100.jpg?width=1920"
-  },
-  {
-   "id": "na67bd20e86",
-   "topic": "welt",
-   "title": "Steinmeier-Rede in China: \"Mit Größe und Macht kommt große Verantwortung\"",
-   "text": "Bundespräsident Steinmeier hat an der renommierten Peking-Universität eine Rede gehalten. Dabei richtete er klare Forderungen an China - bekundete aber auch seinen Respekt für die Volksrepublik.",
-   "link": "https://www.tagesschau.de/ausland/asien/steinmeier-china-102.html",
-   "published": "2026-10-29T11:21:17+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-01T11:21:17+00:00",
-   "img": "https://images.tagesschau.de/image/b42331c3-11f2-4f83-905d-700ed804f5a9/AAABoYc8ISY/AAABnSSvrFg/16x9-big/steinmeier-1492.jpg?width=1920"
-  },
-  {
-   "id": "n03e993d5dd",
-   "topic": "it",
-   "title": "Einsteiger-CPUs: Intel erweitert günstige Reihe Wildcat Lake",
-   "text": "Ein Modell mit mehr P-Cores, eines komplett ohne: Ein Leak zeigt, dass Intel weitere CPUs für günstige Computer plant. ( Prozessor , Intel )",
-   "link": "https://www.golem.de/news/einsteiger-cpus-intel-erweitert-guenstige-reihe-wildcat-lake-2610-214627.html",
-   "published": "2026-10-29T09:54:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-03T09:54:02+00:00",
-   "img": "https://www.golem.de/2610/214627-605795-605793_rc.jpg"
-  },
-  {
-   "id": "n59cc501c40",
-   "topic": "politik",
-   "title": "Besuch in Peking - Steinmeier appelliert an China wegen Ukraine-Krieg und Handelskonflikt",
-   "text": "Bundespräsident Steinmeier hat China dazu aufgerufen, gemeinsam für Frieden und einen freien Welthandel einzutreten.",
-   "link": "https://www.deutschlandfunk.de/steinmeier-appelliert-an-china-wegen-ukraine-krieg-und-handelskonflikt-100.html",
-   "published": "2026-10-29T09:50:29+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-31T09:50:29+00:00",
-   "img": "https://bilder.deutschlandfunk.de/f9/56/72/2d/f956722d-107e-4f7e-aa79-73a72123746f/bundespraesident-steinmeier-peking-rede-universitaet-ehrenprofessur-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Steinmeier wird in China überraschend deutlich",
-     "link": "https://www.dw.com/de/steinmeier-wird-in-china-überraschend-deutlich/a-79797976?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n31b9f9717c",
-   "topic": "politik",
-   "title": "Kommunen - Schuldenlast 2025 um fast zehn Prozent gestiegen",
-   "text": "Die Schulden der Kommunen sind im vergangenen Jahr um fast zehn Prozent gestiegen.",
-   "link": "https://www.deutschlandfunk.de/schuldenlast-2025-um-fast-zehn-prozent-gestiegen-102.html",
-   "published": "2026-10-29T09:50:29+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-31T09:50:29+00:00",
-   "img": "https://bilder.deutschlandfunk.de/f7/a0/8f/8f/f7a08f8f-b0c6-48f8-b6fd-6410d620525a/statistisches-bundesamt-102-1920x1920.jpg"
-  },
-  {
-   "id": "n8c0ba32797",
-   "topic": "politik",
-   "title": "Wolfsburg - VW meldet Milliardenverlust im dritten Quartal",
-   "text": "Der Autobauer Volkswagen meldet im dritten Quartal einen Milliardenverlust. Wie der Konzern in Wolfsburg mitteilte, lag das Ergebnis nach Steuern in den Monaten Juli bis September bei minus 5,82 Milliarden Euro.",
-   "link": "https://www.deutschlandfunk.de/vw-meldet-milliardenverlust-im-dritten-quartal-100.html",
-   "published": "2026-10-29T09:50:29+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-31T09:50:29+00:00",
-   "img": "https://bilder.deutschlandfunk.de/29/71/37/6c/2971376c-aebc-48b6-b4f4-1648351d23f9/vw-sparpaket-100-1920x1920.jpg"
-  },
-  {
-   "id": "naafc777137",
-   "topic": "politik",
-   "title": "\"Gen Z regelt\" - Weitere Schülervertretung distanziert sich von Protestaufruf für 31. Oktober",
-   "text": "Weitere Schülervertreter haben sich von den für Samstag angekündigten Protesten distanziert.",
-   "link": "https://www.deutschlandfunk.de/weitere-schuelervertretung-distanziert-sich-von-protestaufruf-fuer-31-oktober-102.html",
-   "published": "2026-10-29T09:50:29+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-31T09:50:29+00:00",
-   "img": "https://bilder.deutschlandfunk.de/a6/e3/2d/f3/a6e32df3-ed3e-415d-a200-abc8317d83b3/otto-suhr-institut-gen-z-proteste-uni-100-1920x1920.jpg"
-  },
-  {
-   "id": "n18d75bb3ce",
-   "topic": "politik",
-   "title": "USA - Hacker veröffentlichen Daten von ICE-Beschäftigten",
-   "text": "In den USA ist eine Hackergruppe an Daten zu zehntausenden Beschäftigten des Heimatschutzministeriums gelangt.",
-   "link": "https://www.deutschlandfunk.de/hacker-veroeffentlichen-daten-von-ice-beschaeftigten-100.html",
-   "published": "2026-10-29T09:50:29+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-31T09:50:29+00:00",
-   "img": "https://bilder.deutschlandfunk.de/77/2c/71/8c/772c718c-0d07-4063-82a6-755dbc28d60b/ice-einwanderungsbehoerde-us-behoerde-wappen-abzeichen-marke-usa-migration-100-1280x1280.jpg"
-  },
-  {
-   "id": "n9fa15e9fa2",
-   "topic": "politik",
-   "title": "Montreal - EU streicht die \"assoziierte\" Mitgliedschaft aus Entwurf für Gipfel mit Kanada",
-   "text": "Die Pläne einer \"assoziierten\" EU-Mitgliedschaft Kanadas sind offenbar vorerst vom Tisch. In einem Entwurf für die Abschlusserklärung des heute beginnenden Gipfels der Europäischen Union mit Kanada ist davon nach Medienberichten nicht mehr die Rede - offenbar wegen Widerstands auch aus Deutschland.",
-   "link": "https://www.deutschlandfunk.de/eu-streicht-die-assoziierte-mitgliedschaft-aus-entwurf-fuer-gipfel-mit-kanada-102.html",
-   "published": "2026-10-29T09:50:29+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-31T09:50:29+00:00",
-   "img": "https://bilder.deutschlandfunk.de/fc/7d/c5/a3/fc7dc5a3-c8d1-4e02-a6f7-b6c19747de89/imago0867009676h-100-1920x1920.jpg"
-  },
-  {
-   "id": "n0d616ecda9",
-   "topic": "politik",
-   "title": "Vodafone-Großstörung (fast) behoben, neue Probleme bei anderem Anbieter",
-   "text": "Die Störung im Glasfasernetz von Vodafone mit mehr als 28.000 betroffenen Kabelkunden in Frankfurt und Bad Vilbel ist offiziell behoben - allerdings treten vereinzelt noch Störungen auf. Unterdessen meldete ein anderer Anbieter Probleme.",
-   "link": "https://www.hessenschau.de/wirtschaft/vodafone-grossstoerung-fast-behoben-neue-probleme-bei-anderem-anbieter-v15,vodafone-stoerung-102.html",
-   "published": "2026-10-29T09:43:41+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-02T09:43:41+00:00",
-   "img": "https://www.hessenschau.de/panorama/glasfaser-reparatur-100~_t-1793189150262_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "n3bc6e1a91d",
-   "topic": "nfl",
-   "title": "Golden Nuggets: Go… Panthers?",
-   "text": "Your daily San Francisco 49ers news for Thursday, October 29th, 2026",
-   "link": "https://sports.yahoo.com/articles/golden-nuggets-panthers-094157069.html",
-   "published": "2026-10-29T09:41:57+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-03T09:41:57+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/81c7f34b72d6761101338e5264ccd9eb.jpg"
-  },
-  {
-   "id": "nef4e511e33",
-   "topic": "it",
-   "title": "Volkswagen meldet 5,82 Milliarden Euro Quartalsverlust",
-   "text": "Milliarden-Abschreibung auf Porsche, schwache China-Geschäfte und teurer Konzernumbau: Bei Volkswagen läuft es noch schlechter als erwartet.",
-   "link": "https://www.heise.de/news/Volkswagen-meldet-5-82-Milliarden-Euro-Quartalsverlust-11504313.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-29T09:36:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-03T09:36:00+00:00"
-  },
-  {
-   "id": "n3e3319ecf4",
-   "topic": "it",
-   "title": "Samsung gibt groben Ausblick auf Galaxy S27 und Produktroadmap 2027",
-   "text": "Samsung hat im Zuge der Veröffentlichung der Quartalszahlen einen Ausblick auf das Galaxy S27 und eine grobe Produktroadmap für das Jahr 2027 gewährt.",
-   "link": "https://www.heise.de/news/Samsung-gibt-groben-Ausblick-auf-Galaxy-S27-und-Produktroadmap-2027-11504263.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-29T09:33:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-03T09:33:00+00:00"
-  },
-  {
-   "id": "n688f758a77",
-   "topic": "nfl",
-   "title": "Brian Thomas Jr. to Chiefs? 8 trade deadline deals we'd love to see",
-   "text": "The 2026 NFL trade deadline is approaching on Nov. 10. Here's a look at eight moves we'd like to see happen.",
-   "link": "https://sports.yahoo.com/articles/brian-thomas-jr-chiefs-8-093102968.html",
-   "published": "2026-10-29T09:31:02+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-03T09:31:02+00:00"
-  },
-  {
-   "id": "ndec571d12d",
-   "topic": "it",
-   "title": "heise+ | Datenarchitektur als Schlüssel für erfolgreiche Transformationsprojekte",
-   "text": "Transformationsprojekte scheitern oft an unklaren Datenverantwortlichkeiten. Drei Fallstricke zeigen, wie eine solide Datenarchitektur Risiken minimiert.",
-   "link": "https://www.heise.de/hintergrund/Datenarchitektur-als-Schluessel-fuer-erfolgreiche-Transformationsprojekte-11501475.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-   "published": "2026-10-29T09:30:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-03T09:30:00+00:00"
-  },
-  {
-   "id": "n2f71aca2c8",
-   "topic": "ki",
-   "title": "Googles KI-Suche bremst die klassische Suche und schickt die Aktie trotz Cloud-Rekord auf Talfahrt",
-   "text": "Google verliert nach den Quartalszahlen bis zu zehn Prozent an der Börse. Während sich der Cloud-Umsatz auf 30,7 Milliarden US-Dollar mehr als verdoppelt, wächst das Suchgeschäft mit zwölf Prozent schwächer als erwartet. Der Konzern räumt ein, dass sich der stark wachsende KI-Modus bislang schlechter vermarkten lässt …",
-   "link": "https://the-decoder.de/googles-ki-suche-bremst-die-klassische-suche-und-schickt-die-aktie-trotz-cloud-rekord-auf-talfahrt/",
-   "published": "2026-10-29T09:29:34+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-05T09:29:34+00:00"
-  },
-  {
-   "id": "n809670a122",
-   "topic": "wirtschaft",
-   "title": "KI-Investitionen tragen nicht überall Früchte",
-   "text": "Die Tech-Giganten im Silicon Valley stecken Milliarden in Künstliche Intelligenz. Doch die investierten Gelder führen nicht automatisch zu Wachstum. Das zeigen die Zahlen von Microsoft und Alphabet.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-alphabet-kuenstliche-intelligenz-cloud-100.html",
-   "published": "2026-10-29T09:28:06+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-01T09:28:06+00:00",
-   "img": "https://images.tagesschau.de/image/0aeb86e4-e219-421c-b3da-75b4a146ac8a/AAABoYbG7o8/AAABnSSvrFg/16x9-big/alphabet-microsoft-100.jpg?width=1920"
-  },
-  {
-   "id": "n91de495185",
-   "topic": "politik",
-   "title": "Pflegeversicherung: Linnemann schließt Leistungskürzungen nicht aus",
-   "text": "Gesundheitsminister Linnemann hält Einschnitte bei der Pflegeversicherung für möglich. Angesichts steigender Kosten müssten rund zehn Prozent eingespart werden. Patientenschützer warnen vor den Folgen für die häusliche Pflege.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/linnemann-kuerzungen-pflegeleistungen-100.html",
-   "published": "2026-10-29T09:27:28+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-01T09:27:28+00:00",
-   "img": "https://images.tagesschau.de/image/3120d5f9-ef8d-4e66-9fd7-24b7be835795/AAABoYfH7m4/AAABnSSvrFg/16x9-big/linnemann-208.jpg?width=1920"
-  },
-  {
-   "id": "n7cab3706e9",
-   "topic": "it",
-   "title": "Endlagersuche: Noch 5 Prozent Deutschlands für Endlagerung geeignet",
-   "text": "Nur wenige Regionen kommen noch für ein Atommüllendlager infrage. Fünf Bundesländer sind komplett ausgeschieden, weitere folgen. ( Atomkraft , Energie & Klima )",
-   "link": "https://www.golem.de/news/endlagersuche-noch-5-prozent-deutschlands-fuer-endlagerung-geeignet-2610-214625.html",
-   "published": "2026-10-29T09:01:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-03T09:01:02+00:00",
-   "img": "https://www.golem.de/2610/214625-605774-605772_rc.jpg"
-  },
-  {
-   "id": "nce9f090b2c",
-   "topic": "wissenschaft",
-   "title": "Wechseljahre: Die Menopause verändert den ganzen Körper schlagartig",
-   "text": "Eine Auswertung von 300 Millionen Gesundheitsdaten zeigt: Rund um die letzte Periode verändern sich zahlreiche Laborwerte überraschend sprunghaft.",
-   "link": "https://www.spektrum.de/news/wechseljahre-menopause-veraendert-den-ganzen-koerper-schlagartig/2349626",
-   "published": "2026-10-29T09:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-12T09:00:00+00:00"
-  },
-  {
-   "id": "na77b0a75b3",
-   "topic": "wirtschaft",
-   "title": "Update Wirtschaft vom 29.10.2026",
-   "text": "Update Wirtschaft vom 29.10.2026",
-   "link": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1674420.html",
-   "published": "2026-10-29T08:51:06+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-01T08:51:06+00:00",
-   "img": "https://images.tagesschau.de/image/f29c4d89-9563-4d9d-8598-5046c623e3c4/AAABoYbbAlI/AAABnSSvrFg/16x9-big/sendungsbild-1818950.jpg?width=1920"
   }
  ]
 }
