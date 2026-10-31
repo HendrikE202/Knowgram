@@ -1,55 +1,284 @@
 {
- "generated": "2026-10-30T22:21:10.889370+00:00",
+ "generated": "2026-10-31T05:42:29.361367+00:00",
  "briefing": [
-  "n3058635739",
-  "n3b1110d357",
+  "n27b12e5897",
   "nc98f9d9a4b",
+  "n3b1110d357",
+  "nd3695faff1",
+  "n702123d213",
+  "n3058635739",
   "n1b3b4f7eca",
-  "n60905cab15",
-  "n090a27c9e4",
-  "nfa4108600c",
-  "n870df273b6",
-  "n3954ff1c38"
+  "n26ae9e13ce"
  ],
  "ranked": [
   {
-   "id": "n3058635739",
-   "s": 44.8
-  },
-  {
-   "id": "n3b1110d357",
-   "s": 27.2
+   "id": "n27b12e5897",
+   "s": 27.8
   },
   {
    "id": "nc98f9d9a4b",
-   "s": 27.2
+   "s": 27.6
+  },
+  {
+   "id": "n3b1110d357",
+   "s": 27.0
+  },
+  {
+   "id": "nd3695faff1",
+   "s": 23.0
+  },
+  {
+   "id": "n702123d213",
+   "s": 23.0
+  },
+  {
+   "id": "n3058635739",
+   "s": 22.9
   },
   {
    "id": "n1b3b4f7eca",
-   "s": 24.4
+   "s": 22.6
   },
   {
-   "id": "n60905cab15",
-   "s": 22.9
-  },
-  {
-   "id": "n090a27c9e4",
-   "s": 22.9
-  },
-  {
-   "id": "nfa4108600c",
-   "s": 22.1
-  },
-  {
-   "id": "n870df273b6",
-   "s": 21.8
-  },
-  {
-   "id": "n3954ff1c38",
-   "s": 21.4
+   "id": "n26ae9e13ce",
+   "s": 22.5
   }
  ],
  "items": [
+  {
+   "id": "n932c6fed2e",
+   "topic": "politik",
+   "title": "\"Gen Z regelt\" - Bundesweite Jugendproteste geplant - Forderung nach bezahlbarem Leben",
+   "text": "Bundesweit wollen junge Menschen heute für bessere Bildung und ein bezahlbares Leben auf die Straße gehen. In den vier Großstädten Berlin, Köln, Frankfurt am Main und München veranstaltet die Gruppierung \"GenZ regelt!\" eigene Kundgebungen, in 30 weiteren Städten haben örtliche Initiativen Demonstrationen angemeldet.",
+   "link": "https://www.deutschlandfunk.de/bundesweite-jugendproteste-geplant-forderung-nach-bezahlbarem-leben-102.html",
+   "published": "2026-10-31T05:37:46+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T05:37:46+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Jugendproteste in mehr als 30 Städten geplant",
+     "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-112.html"
+    }
+   ]
+  },
+  {
+   "id": "nd3695faff1",
+   "topic": "politik",
+   "title": "Parteien - Berliner Linke entscheidet über Koalitionsverhandlungen - Medienbericht: Eralp mit Personenschützer auf Parteitag",
+   "text": "Sechs Wochen nach der Wahl zum Berliner Abgeordnetenhaus entscheidet die Berliner Linke heute auf einem Parteitag über den Beginn von Koalitionsverhandlungen mit Grünen und SPD.",
+   "link": "https://www.deutschlandfunk.de/berliner-linke-entscheidet-ueber-koalitionsverhandlungen-medienbericht-eralp-mit-personenschuetzer-a-100.html",
+   "published": "2026-10-31T05:37:46+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T05:37:46+00:00",
+   "img": "https://bilder.deutschlandfunk.de/d5/ef/5e/24/d5ef5e24-abaa-4c38-8198-8adce43c3112/linke-parteitag-berlin-elif-eralp-100-1920x1920.jpg"
+  },
+  {
+   "id": "n2bcff35bf5",
+   "topic": "politik",
+   "title": "Weitgehend friedlich - Landesweite Massenproteste in Italien für bessere Bildung und gegen hohe Preise",
+   "text": "In Italien haben Hunderttausende Menschen gegen steigende Lebenshaltungskosten und für mehr Geld für Bildung demonstriert. Die Gewerkschaft USB sprach von mindestens einer Million Teilnehmern.",
+   "link": "https://www.deutschlandfunk.de/landesweite-massenproteste-in-italien-fuer-bessere-bildung-und-gegen-hohe-preise-102.html",
+   "published": "2026-10-31T05:37:46+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T05:37:46+00:00"
+  },
+  {
+   "id": "n0630acbd59",
+   "topic": "politik",
+   "title": "Arbeitsmarkt - IG Metall startet erste Warnstreik-Welle",
+   "text": "​Im Tarifstreit der Metall- und Elektroindustrie ruft die IG Metall an diesem Wochenende zu ersten Warnstreiks auf. Arbeitsniederlegungen und Kundgebungen sind für die Nacht von heute auf morgen geplant; am Montag soll nach Angaben der Gewerkschaft erstmals auch ⁠ein großer bayerischer Autohersteller betroffen sein.",
+   "link": "https://www.deutschlandfunk.de/ig-metall-startet-erste-warnstreik-welle-120.html",
+   "published": "2026-10-31T05:37:46+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T05:37:46+00:00"
+  },
+  {
+   "id": "n2192b86555",
+   "topic": "politik",
+   "title": "Gewalt und schwindende Ressourcen - UNHCR: Lage afrikanischer Flüchtlinge im Jemen verschlimmert sich",
+   "text": "Das Flüchtlingshilfswerk der Vereinten Nationen zeigt sich besorgt über die Situation von mehr als 65.000 größtenteils afrikanischen Flüchtlingen im Jemen. Die Menschen in dem Kriegsland seien Opfer einer sich rapide verschlimmernden humanitären Krise, erklärte ein UNHCR-Sprecher in Genf.",
+   "link": "https://www.deutschlandfunk.de/unhcr-lage-afrikanischer-fluechtlinge-im-jemen-verschlimmert-sich-104.html",
+   "published": "2026-10-31T05:37:46+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T05:37:46+00:00"
+  },
+  {
+   "id": "ncb0f43ad5f",
+   "topic": "politik",
+   "title": "Krypto-Hackerangriff auf Binance - \"3,3 Milliarden Dollar sind nicht mehr zurückzuholen\"",
+   "text": "Der Hackerangriff auf die weltgrößte Digitalwährungsbörse Binance hat bei Anlegern und Börsenvertretern für Aufruhr gesorgt. Wie das Unternehmen erklärte, wurden Kryptowährungen im Wert von 6,3 Milliarden US-Dollar gestohlen, um einen Teil davon wird noch gerungen. Ein Überblick über den Ablauf des wohl größten …",
+   "link": "https://www.deutschlandfunk.de/3-3-milliarden-dollar-sind-nicht-mehr-zurueckzuholen-100.html",
+   "published": "2026-10-31T05:37:46+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T05:37:46+00:00"
+  },
+  {
+   "id": "n702123d213",
+   "topic": "welt",
+   "title": "Klimafreundlicheres Fliegen könnte Milliardenschäden vermeiden",
+   "text": "Flugzeuge verursachen hohe Emissionen und schaden dem Klima. Doch optimierte Flugrouten und nachhaltige Treibstoffe können viele Schäden vermindern. Die Umstellung hat schon begonnen und es gibt großes Potential.",
+   "link": "https://www.dw.com/de/klimafreundlicheres-fliegen-könnte-milliardenschäden-vermeiden/a-79678575?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-10-31T05:35:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-04T05:35:00+00:00",
+   "img": "https://static.dw.com/image/79683442_302.jpg"
+  },
+  {
+   "id": "n836168a773",
+   "topic": "it",
+   "title": "Adobe-Konkurrenz? Das taugt KI-Klon PhotoCraft | c't uplink",
+   "text": "Das Projekt ArtCraft entstand per Vibe-Coding und ahmt Photoshop, PowerPoint & Co. nach. Im c’t uplink diskutieren wir, was KI-Kopien können – und was nicht.",
+   "link": "https://www.heise.de/news/Adobe-Konkurrenz-Das-taugt-KI-Klon-PhotoCraft-c-t-uplink-11505956.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-10-31T05:30:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-05T05:30:00+00:00"
+  },
+  {
+   "id": "n27b12e5897",
+   "topic": "politik",
+   "title": "Jugendproteste in mehr als 30 Städten geplant",
+   "text": "Wachsende Unzufriedenheit und Zukunftsängste: Die GenZ protestiert bundesweit für bessere Bildung, Klimaschutz und mehr politische Teilhabe. In mehr als 30 Städten sind Demonstrationen angekündigt. Von Jan Koch.",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-112.html",
+   "published": "2026-10-31T04:52:31+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-03T04:52:31+00:00",
+   "img": "https://images.tagesschau.de/image/08aa6f05-11c3-4adc-bd3f-ad620756cca3/AAABoZBNUYc/AAABnSSvrFg/16x9-big/proteste-188.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "\"Gen Z regelt\" - Bundesweite Jugendproteste geplant - Forderung nach bezahlbarem Leben",
+     "link": "https://www.deutschlandfunk.de/bundesweite-jugendproteste-geplant-forderung-nach-bezahlbarem-leben-102.html"
+    }
+   ]
+  },
+  {
+   "id": "n187a4befeb",
+   "topic": "welt",
+   "title": "Frust bei US-Farmern könnte Trump Stimmen bei den Midterms kosten",
+   "text": "Landwirte gelten als wichtige Wählergruppe der US-Republikaner. Doch steigende Kosten und eine unberechenbare Zollpolitik sorgen für Frust. Das könnte bei den Zwischenwahlen zum Stresstest für die Trump-Regierung werden. Von S. Jackisch.",
+   "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-landwirtschaft-100.html",
+   "published": "2026-10-31T04:52:21+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-03T04:52:21+00:00",
+   "img": "https://images.tagesschau.de/image/19f2b79f-aac6-491a-9c76-5095229a5dcd/AAABoY5Y21Q/AAABnSSvrFg/16x9-big/iowa-farm-100.jpg?width=1920"
+  },
+  {
+   "id": "nc98f9d9a4b",
+   "topic": "welt",
+   "title": "\"Allianz für die Zukunft\": Kanada und Europa gründen Bündnis",
+   "text": "Die EU und Kanada gründen in Montreal eine \"Allianz für die Zukunft\". Ziel ist mehr Unabhängigkeit und eine engere Zusammenarbeit von KI bis Raumfahrt. Auch die Ukraine spielt eine Rolle.",
+   "link": "https://www.tagesschau.de/ausland/amerika/kanada-eu-allianz-zukunft-100.html",
+   "published": "2026-10-31T03:57:32+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-03T03:57:32+00:00",
+   "img": "https://images.tagesschau.de/image/b24841d1-87c4-4a16-ba6c-c4db63284842/AAABoY4uPLA/AAABnSSvrFg/16x9-big/kanada-eu-buendnis-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Gipfel in Montreal - EU und Kanada schmieden \"Allianz für die Zukunft\"",
+     "link": "https://www.deutschlandfunk.de/eu-und-kanada-schmieden-allianz-fuer-die-zukunft-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n26ae9e13ce",
+   "topic": "welt",
+   "title": "Polen: Tumult und Protest vor dem Verfassungsgericht",
+   "text": "Der Machtkampf um das polnische Verfassungsgericht spitzt sich zu. Die Polizei sicherte das Gebäude ab, nachdem sich Protestierende dort versammelt hatten. Auslöser ist die mutmaßliche Suspendierung der bisherigen Gerichtsführung.",
+   "link": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-streit-100.html",
+   "published": "2026-10-31T03:42:57+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-03T03:42:57+00:00",
+   "img": "https://images.tagesschau.de/image/519b2f4f-df27-4e95-8bcf-d77a469a8d94/AAABoY9o_tw/AAABnSSvrFg/16x9-big/warschau-verfassungsgericht-100.jpg?width=1920"
+  },
+  {
+   "id": "n4a9ca4f548",
+   "topic": "welt",
+   "title": "G20-Außenministertreffen in Atlanta: Russland bleibt auf Distanz",
+   "text": "In Atlanta beraten die G20-Außenminister über internationale Krisen und die Folgen für die Weltwirtschaft. Doch die Gräben zwischen den Teilnehmenden sind tief. Vor allem Russlands Außenminister Lawrow sparte nicht mit Kritik.",
+   "link": "https://www.tagesschau.de/ausland/amerika/g20-aussenminister-102.html",
+   "published": "2026-10-31T03:05:42+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-03T03:05:42+00:00",
+   "img": "https://images.tagesschau.de/image/0c397f94-5de0-41e8-bf4f-4d9385bcc5ec/AAABoY_rktU/AAABnSSvrFg/16x9-big/lawrow-298.jpg?width=1920"
+  },
+  {
+   "id": "n0d858600c9",
+   "topic": "nfl",
+   "title": "Report: Philip Rivers has \"emerged as the focus\" of NC State coaching search",
+   "text": "Six days ago, former NFL (and NC State) quarterback Philip Rivers was identified as a person \"expected to be in the mix\" for the now-vacant Wolfpack head-coaching job.",
+   "link": "https://sports.yahoo.com/articles/report-philip-rivers-emerged-focus-030320015.html",
+   "published": "2026-10-31T03:03:20+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-05T03:03:20+00:00"
+  },
+  {
+   "id": "n6b05dafae6",
+   "topic": "nfl",
+   "title": "Jordan Love passes Brett Favre for multi-touchdown games to start season",
+   "text": "The Packers have had three starting quarterbacks since Brett Favre replaced Don Majkowski in Week 3 of the 1992 season.",
+   "link": "https://sports.yahoo.com/articles/jordan-love-passes-brett-favre-021251584.html",
+   "published": "2026-10-31T02:12:51+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-05T02:12:51+00:00"
+  },
+  {
+   "id": "nd0f56310f4",
+   "topic": "welt",
+   "title": "US-Regierung genehmigt \"Patriot\"-Lieferungen an Ukraine",
+   "text": "Um sich gegen russische Angriffe zur Wehr zu setzen, ist die Ukraine vor allem auf US-Waffenlieferungen angewiesen. Diese kamen zuletzt ins Stocken. Bei einer Lieferung hat das US-Außenministerium nun grünes Licht gegeben.",
+   "link": "https://www.tagesschau.de/ausland/amerika/usa-ukraine-patriot-100.html",
+   "published": "2026-10-30T23:56:24+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T23:56:24+00:00",
+   "img": "https://images.tagesschau.de/image/968e7d78-8248-45ab-a5b3-c7f16815a1e6/AAABnLz_Yjc/AAABnSSvrFg/16x9-big/tuerkei-patriot-100.jpg?width=1920"
+  },
+  {
+   "id": "n1ffaaddf60",
+   "topic": "nfl",
+   "title": "NFL Week 8 final injury report: Latest on Lamar Jackson, AJ Brown, George Pickens, more",
+   "text": "A rundown of each team's final Week 8 injury report",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-8-injury-report-lamar-jackson-aj-brown-emeka-egbuka-more/",
+   "published": "2026-10-30T22:30:10+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-04T22:30:10+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/08/22/1597b539-bcff-480c-b48d-b88fb359c87b/emeka-egbuka-tampa-bay-buccaneers-imagn-images.jpg"
+  },
   {
    "id": "ne50eb70bb2",
    "topic": "nfl",
@@ -74,7 +303,13 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-01T22:00:06+00:00",
-   "img": "https://bilder.deutschlandfunk.de/NO/VA/_a/cc/NOVA_acc044d89f65637de4fde774d1c68f43/craft-13515260-asset-100-1920x1920.jpg"
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Jugendproteste in mehr als 30 Städten geplant",
+     "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-112.html"
+    }
+   ]
   },
   {
    "id": "n60905cab15",
@@ -86,8 +321,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-11-01T22:00:06+00:00",
-   "img": "https://bilder.deutschlandfunk.de/fe/4f/28/c1/fe4f28c1-c4c9-4bd4-9e51-9efb8e247691/proteste-autoindustrie-100-1920x1920.jpg"
+   "expires": "2026-11-01T22:00:06+00:00"
   },
   {
    "id": "n090a27c9e4",
@@ -112,8 +346,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-11-01T22:00:06+00:00",
-   "img": "https://bilder.deutschlandfunk.de/63/c7/08/26/63c70826-5020-4a28-857b-b6ccfdceaf75/binance-100-1920x1920.jpg"
+   "expires": "2026-11-01T22:00:06+00:00"
   },
   {
    "id": "nf611458277",
@@ -125,8 +358,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-11-01T22:00:06+00:00",
-   "img": "https://bilder.deutschlandfunk.de/04/83/14/c5/048314c5-e3ec-4d94-a228-8b3eb3bf8e89/proteste-italien-100-1920x1920.jpg"
+   "expires": "2026-11-01T22:00:06+00:00"
   },
   {
    "id": "n648717fcf1",
@@ -152,19 +384,6 @@
    "lang": "en",
    "expires": "2026-11-04T21:59:30+00:00",
    "img": "https://media.zenfs.com/en/sb_nation_articles_115/33c9540947bb459d43ba0f46a8eada63.jpg"
-  },
-  {
-   "id": "n1ffaaddf60",
-   "topic": "nfl",
-   "title": "NFL Week 8 final injury report: Latest on Lamar Jackson, AJ Brown, George Pickens, more",
-   "text": "A rundown of each team's final Week 8 injury report",
-   "link": "https://www.cbssports.com/nfl/news/nfl-week-8-injury-report-lamar-jackson-aj-brown-emeka-egbuka-more/",
-   "published": "2026-10-30T21:48:08+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-04T21:48:08+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/08/22/1597b539-bcff-480c-b48d-b88fb359c87b/emeka-egbuka-tampa-bay-buccaneers-imagn-images.jpg"
   },
   {
    "id": "nddccb17575",
@@ -229,26 +448,6 @@
    "type": "Fachmedium (IT)",
    "lang": "de",
    "expires": "2026-11-04T19:00:00+00:00"
-  },
-  {
-   "id": "nc98f9d9a4b",
-   "topic": "welt",
-   "title": "\"Allianz für die Zukunft\": Kanada und Europa gründen Bündnis",
-   "text": "Die EU und Kanada gründen in Montreal eine \"Allianz für die Zukunft\". Ziel ist mehr Unabhängigkeit und eine engere Zusammenarbeit von KI bis Raumfahrt. Auch die Ukraine spielt eine Rolle.",
-   "link": "https://www.tagesschau.de/ausland/amerika/kanada-eu-allianz-zukunft-100.html",
-   "published": "2026-10-30T18:59:17+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-02T18:59:17+00:00",
-   "img": "https://images.tagesschau.de/image/b24841d1-87c4-4a16-ba6c-c4db63284842/AAABoY4uPLA/AAABnSSvrFg/16x9-big/kanada-eu-buendnis-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Gipfel in Montreal - EU und Kanada schmieden \"Allianz für die Zukunft\"",
-     "link": "https://www.deutschlandfunk.de/eu-und-kanada-schmieden-allianz-fuer-die-zukunft-100.html"
-    }
-   ]
   },
   {
    "id": "n0d3de765cc",
@@ -984,16 +1183,6 @@
      "source": "Deutsche Welle",
      "title": "Star-Trek-Schauspieler Patrick Stewart ist tot",
      "link": "https://www.dw.com/de/star-trek-schauspieler-patrick-stewart-ist-tot/a-79803535?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "heise online",
-     "title": "Patrick Stewart ist tot",
-     "link": "https://www.heise.de/news/Patrick-Stewart-ist-tot-11505529.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    },
-    {
-     "source": "Golem.de",
-     "title": "Patrick Stewart: Der Captain hat die Brücke verlassen",
-     "link": "https://www.golem.de/news/patrick-stewart-der-captain-hat-die-bruecke-verlassen-2610-146919.html"
     }
    ]
   },
@@ -1246,16 +1435,6 @@
      "source": "Deutschlandfunk",
      "title": "Captain Jean-Luc Picard - \"Star Trek\": Schauspieler Patrick Stewart gestorben",
      "link": "https://www.deutschlandfunk.de/star-trek-schauspieler-patrick-stewart-gestorben-106.html"
-    },
-    {
-     "source": "heise online",
-     "title": "Patrick Stewart ist tot",
-     "link": "https://www.heise.de/news/Patrick-Stewart-ist-tot-11505529.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    },
-    {
-     "source": "Golem.de",
-     "title": "Patrick Stewart: Der Captain hat die Brücke verlassen",
-     "link": "https://www.golem.de/news/patrick-stewart-der-captain-hat-die-bruecke-verlassen-2610-146919.html"
     }
    ]
   },
@@ -1476,230 +1655,6 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-10-31T22:41:06+00:00"
-  },
-  {
-   "id": "n719418f5f2",
-   "topic": "politik",
-   "title": "Tennis - Alexander Zverev wird ab Montag als Nummer 1 der Weltrangliste geführt",
-   "text": "Alexander Zverev wird von Montag an erstmals die Tennis-Weltrangliste anführen.",
-   "link": "https://www.deutschlandfunk.de/alexander-zverev-wird-ab-montag-als-nummer-1-der-weltrangliste-gefuehrt-110.html",
-   "published": "2026-10-29T22:41:06+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-31T22:41:06+00:00",
-   "img": "https://bilder.deutschlandfunk.de/ff/0e/b2/cd/ff0eb2cd-1968-4a3d-abdc-57a2d15204df/zverev-tennis-102-1920x1920.jpg"
-  },
-  {
-   "id": "n9115609a4a",
-   "topic": "politik",
-   "title": "EU-Kanada - Gipfeltreffen endet in Montreal - Beide Seiten wollen engere Zusammenarbeit",
-   "text": "In Montreal wollen heute am zweiten Tag des EU-Kanada-Gipfels Spitzenvertreter beider Seiten eine engere Zusammenarbeit besiegeln.",
-   "link": "https://www.deutschlandfunk.de/gipfeltreffen-endet-in-montreal-beide-seiten-wollen-engere-zusammenarbeit-100.html",
-   "published": "2026-10-29T22:41:06+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-31T22:41:06+00:00"
-  },
-  {
-   "id": "nfe4c6709ad",
-   "topic": "it",
-   "title": "Linux-Lücke: Claude schreibt Root-Exploit, Ubuntu und RHEL ohne Patch",
-   "text": "Eine schwere Sicherheitslücke im Linux-Kernel ermöglicht unter bestimmten Bedingungen Angriffe aus der Ferne. Es ist Patch-Zeit. ( Security-Alert , Linux-Kernel )",
-   "link": "https://www.golem.de/news/linux-luecke-claude-schreibt-root-exploit-ubuntu-und-rhel-ohne-patch-2610-214664.html",
-   "published": "2026-10-29T20:56:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-03T20:56:02+00:00",
-   "img": "https://www.golem.de/2610/214664-605965-605963_rc.jpg"
-  },
-  {
-   "id": "n58bb372dc1",
-   "topic": "it",
-   "title": "Patrick Stewart ist tot",
-   "text": "Der britische Schauspieler Patrick Stewart ist am Mittwoch gestorben. Er wurde 86 Jahre alt.",
-   "link": "https://www.heise.de/news/Patrick-Stewart-ist-tot-11505529.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-29T20:29:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-03T20:29:00+00:00",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Captain Jean-Luc Picard - \"Star Trek\": Schauspieler Patrick Stewart gestorben",
-     "link": "https://www.deutschlandfunk.de/star-trek-schauspieler-patrick-stewart-gestorben-106.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Star-Trek-Schauspieler Patrick Stewart ist tot",
-     "link": "https://www.dw.com/de/star-trek-schauspieler-patrick-stewart-ist-tot/a-79803535?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Golem.de",
-     "title": "Patrick Stewart: Der Captain hat die Brücke verlassen",
-     "link": "https://www.golem.de/news/patrick-stewart-der-captain-hat-die-bruecke-verlassen-2610-146919.html"
-    }
-   ]
-  },
-  {
-   "id": "n57e4e2f201",
-   "topic": "it",
-   "title": "Patrick Stewart: Der Captain hat die Brücke verlassen",
-   "text": "Anfangs als halbgarer Ersatz für Captain Kirk von vielen abgelehnt, wurde Patrick Stewart zur Seele und dem Gewissen von Star Trek. Als Jean-Luc Picard ist der große Mime, der nun von uns gegangen ist, unvergessen. Ein Nachruf von Peter Osteried ( Nachruf , Internet )",
-   "link": "https://www.golem.de/news/patrick-stewart-der-captain-hat-die-bruecke-verlassen-2610-146919.html",
-   "published": "2026-10-29T20:25:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-03T20:25:02+00:00",
-   "img": "https://www.golem.de/2610/146919-223798-223796_rc.jpg",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Captain Jean-Luc Picard - \"Star Trek\": Schauspieler Patrick Stewart gestorben",
-     "link": "https://www.deutschlandfunk.de/star-trek-schauspieler-patrick-stewart-gestorben-106.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Star-Trek-Schauspieler Patrick Stewart ist tot",
-     "link": "https://www.dw.com/de/star-trek-schauspieler-patrick-stewart-ist-tot/a-79803535?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "heise online",
-     "title": "Patrick Stewart ist tot",
-     "link": "https://www.heise.de/news/Patrick-Stewart-ist-tot-11505529.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    }
-   ]
-  },
-  {
-   "id": "n1cdbf48468",
-   "topic": "politik",
-   "title": "Debatte in der Koalition über Steuer auf Umsätze durch KI",
-   "text": "In Deutschland könnte es eine Steuer auf Umsätze geben, die mit Künstlicher Intelligenz erzielt werden. Auch Familienministerin Prien sprach sich nun dafür aus. So soll auf Veränderungen in der Arbeitswelt reagiert werden - zum Beispiel auf Jobverluste.",
-   "link": "https://www.tagesschau.de/inland/ministerin-prien-ki-steuer-100.html",
-   "published": "2026-10-29T20:12:03+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-01T20:12:03+00:00",
-   "img": "https://images.tagesschau.de/image/b4ba9c8c-add4-4ed6-8734-1c2a43363ed3/AAABoYkyIBs/AAABnSSvrFg/16x9-big/roboter-314.jpg?width=1920"
-  },
-  {
-   "id": "nfd35433f4d",
-   "topic": "ki",
-   "title": "OpenAI verdoppelt ChatGPT-Nutzungslimits für Pro-Tarife und Business Premium",
-   "text": "OpenAI verdoppelt die Work- und Codex-Nutzungslimits für einige kostenpflichtige Tarife: von Pro 100 bis Business Premium. Ursprünglich geplante Kürzungen beim Pro-200-Tarif wurden nach Nutzerkritik zurückgenommen. Effizientere Modelle wie Terra und Sol sollen die nutzbare Kapazität zusätzlich steigern. Das ist kurz …",
-   "link": "https://the-decoder.de/openai-verdoppelt-chatgpt-nutzungslimits-fuer-pro-tarife-und-business-premium/",
-   "published": "2026-10-29T19:51:27+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-05T19:51:27+00:00"
-  },
-  {
-   "id": "nedc60a7007",
-   "topic": "wirtschaft",
-   "title": "Wirtschaft vor acht vom 29.10.2026",
-   "text": "Wirtschaft vor acht vom 29.10.2026",
-   "link": "https://www.tagesschau.de/video/video-1674822.html",
-   "published": "2026-10-29T19:30:50+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-01T19:30:50+00:00",
-   "img": "https://images.tagesschau.de/image/65ee381d-c758-484a-b75d-921f1f1a2c8a/AAABoYkktZo/AAABnSSvrFg/16x9-big/sendungsbild-1819240.jpg?width=1920"
-  },
-  {
-   "id": "nbd25dc923b",
-   "topic": "it",
-   "title": "Telekom legt Fusionspläne mit US-Tochter auf Eis",
-   "text": "Die Telekom hat sich einem Medienbericht zufolge vorerst gegen eine Fusion mit der US-Tochter T-Mobile entschieden. Endgültig soll das nicht sein.",
-   "link": "https://www.heise.de/news/Telekom-legt-Fusionsplaene-mit-US-Tochter-auf-Eis-11504783.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-29T19:20:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-03T19:20:00+00:00"
-  },
-  {
-   "id": "n5451267443",
-   "topic": "wirtschaft",
-   "title": "Wer auf EZB-Chefin Christine Lagarde folgen könnte",
-   "text": "Früher als geplant tritt die Suche nach einer Nachfolge für EZB-Chefin Lagarde in die heiße Phase - die Französin scheidet vorzeitig aus dem Amt. Was sind die Hintergründe, wer könnte nachrücken an der Spitze der Notenbank? Von Constantin Röse.",
-   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-ruecktritt-lagarde-100.html",
-   "published": "2026-10-29T18:40:44+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-01T18:40:44+00:00",
-   "img": "https://images.tagesschau.de/image/58c6a5b2-091b-4fbc-a28e-4aee3f008817/AAABoYj-n3M/AAABnSSvrFg/16x9-big/lagarde-334.jpg?width=1920"
-  },
-  {
-   "id": "n80fbe68857",
-   "topic": "politik",
-   "title": "Medienethik - Kritik am \"Spiegel\" wegen Veröffentlichung von Autorisierungs-Kommentaren Elif Eralps",
-   "text": "Ein Interview des \"Spiegel\" sorgt für Diskussionen über dessen Umgang mit vertraulichen Informationen: Es geht um die Veröffentlichung von Kommentaren der Berliner Linken-Fraktionschefin Eralp zu einem Interview mit ihr. Nicht nur Parteikollegen der Politikerin kritisieren das Vorgehen des Nachrichtenmagazins - auch …",
-   "link": "https://www.deutschlandfunk.de/kritik-am-spiegel-wegen-veroeffentlichung-von-autorisierungs-kommentaren-elif-eralps-100.html",
-   "published": "2026-10-29T18:27:09+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-31T18:27:09+00:00"
-  },
-  {
-   "id": "nf506aa58b4",
-   "topic": "politik",
-   "title": "Montreal - EU-Kanada-Gipfel beginnt - Von der Leyen: Beziehungen auf höchstmögliche Ebene heben",
-   "text": "In Montreal hat der zweitägige EU-Kanada-Gipfel begonnen. In einer Grundsatzrede stellte Kommissionspräsidentin von der Leyen dem nordamerikanischen Land eine enge Partnerschaft in Aussicht.",
-   "link": "https://www.deutschlandfunk.de/eu-kanada-gipfel-beginnt-von-der-leyen-beziehungen-auf-hoechstmoegliche-ebene-heben-100.html",
-   "published": "2026-10-29T18:27:09+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-31T18:27:09+00:00",
-   "img": "https://bilder.deutschlandfunk.de/81/a9/80/43/81a98043-2a55-469f-bd7e-32081286d8b3/leyen-eu-kanada-gipfel-100-1920x1920.jpg"
-  },
-  {
-   "id": "nf381650f6e",
-   "topic": "politik",
-   "title": "Ukraine - 13 Tote bei russischem Luftangriff auf Bahnhof in Dnipro",
-   "text": "Russland hat den Hauptbahnhof der ostukrainischen Stadt Dnipro mit Drohnen angegriffen.",
-   "link": "https://www.deutschlandfunk.de/13-tote-bei-russischem-luftangriff-auf-bahnhof-in-dnipro-100.html",
-   "published": "2026-10-29T18:27:09+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-31T18:27:09+00:00",
-   "img": "https://bilder.deutschlandfunk.de/63/7f/bb/a0/637fbba0-e67e-45c6-a06e-65cc51754a41/ukraine-russland-krieg-angriff-raketen-drohnen-dnipro-102-1280x1280.jpg"
-  },
-  {
-   "id": "ndd89ee1233",
-   "topic": "politik",
-   "title": "Kraftstoffe - Bericht: Mineralölverbände verweigern Mitarbeit an Spritpreisdeckel",
-   "text": "Die Mineralölbranche verweigert einem Medienbericht zufolge die Mitarbeit an einem freiwilligen Kraftstoffpreisdeckel.",
-   "link": "https://www.deutschlandfunk.de/bericht-mineraloelverbaende-verweigern-mitarbeit-an-spritpreisdeckel-100.html",
-   "published": "2026-10-29T18:27:09+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-31T18:27:09+00:00",
-   "img": "https://bilder.deutschlandfunk.de/67/e7/19/25/67e71925-be04-4af2-bfa6-9bd7bef0e8ab/tanken-auto-verbrenner-benzin-100-1920x1920.jpg"
-  },
-  {
-   "id": "n470eda351a",
-   "topic": "politik",
-   "title": "Verteidigungsminister - Japan und USA wollen Zusammenarbeit bei Raketenproduktion ausbauen",
-   "text": "Japan und die USA wollen ein Werk für die Endmontage und Inspektion der radargelenkten Rakete \"Amraam\" errichten.",
-   "link": "https://www.deutschlandfunk.de/japan-und-usa-wollen-zusammenarbeit-bei-raketenproduktion-ausbauen-100.html",
-   "published": "2026-10-29T18:27:09+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-10-31T18:27:09+00:00",
-   "img": "https://bilder.deutschlandfunk.de/18/d4/d3/00/18d4d300-0be5-43c6-bd32-4923858e05cf/amraam-rakete-ruestung-waffe-100-1920x1920.jpg"
   }
  ]
 }
