@@ -1,62 +1,241 @@
 {
- "generated": "2026-10-31T19:18:17.518499+00:00",
+ "generated": "2026-11-01T00:08:35.889985+00:00",
  "briefing": [
   "ne056238871",
   "n4a324054ea",
+  "n61ed762265",
   "n27b12e5897",
   "nc98f9d9a4b",
   "nfa8f5e48f2",
-  "n823a6e023e",
   "n0803e4b406",
-  "n5f584a7249"
+  "n63fa85405f"
  ],
  "ranked": [
   {
    "id": "ne056238871",
-   "s": 35.1
+   "s": 33.9
   },
   {
    "id": "n4a324054ea",
-   "s": 31.3
+   "s": 30.1
+  },
+  {
+   "id": "n61ed762265",
+   "s": 27.1
   },
   {
    "id": "n27b12e5897",
-   "s": 24.4
+   "s": 23.2
   },
   {
    "id": "nc98f9d9a4b",
-   "s": 24.2
+   "s": 23.0
   },
   {
    "id": "nfa8f5e48f2",
-   "s": 22.9
-  },
-  {
-   "id": "n823a6e023e",
-   "s": 22.7
+   "s": 22.6
   },
   {
    "id": "n0803e4b406",
-   "s": 21.9
+   "s": 20.7
   },
   {
-   "id": "n5f584a7249",
-   "s": 21.3
+   "id": "n63fa85405f",
+   "s": 19.0
   }
  ],
  "items": [
+  {
+   "id": "n13b07ee7d4",
+   "topic": "nfl",
+   "title": "Dolphins Fans: Miami Dolphins Vs. New England Patriots Predictions",
+   "text": "Miami Dolphins fans share their prediction for tomorrows game against the New England Patriots.",
+   "link": "https://sports.yahoo.com/articles/dolphins-fans-miami-dolphins-vs-000000088.html",
+   "published": "2026-11-01T00:00:00+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-06T00:00:00+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/8221a724f935c4c8c1f39a58527e790b.jpg"
+  },
+  {
+   "id": "n81d9c93b00",
+   "topic": "politik",
+   "title": "Scheiben eingeschlagen, Geschäfte geplündert: Ausschreitungen in Frankfurt",
+   "text": "In Frankfurt kommt es nach der Auflösung des größtenteils friedlichen Gen-Z-Protests zu Ausschreitungen. Die Polizei hat den Bereich rund um die Zeil abgeriegelt. Scheiben wurden eingeschlagen, Geschäfte geplündert.",
+   "link": "https://www.hessenschau.de/panorama/scheiben-eingeschlagen-geschaefte-gepluendert-ausschreitungen-in-frankfurt-v6,gen-z-ausschreitungen-frankfurt-100.html",
+   "published": "2026-10-31T23:54:33+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-04T23:54:33+00:00",
+   "img": "https://www.hessenschau.de/panorama/sek-frankfurt-108~_t-1793485360633_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "n3aa6d3ada0",
+   "topic": "politik",
+   "title": "Berlin - Linke stimmt für Koalitionsverhandlungen mit Grünen und SPD",
+   "text": "Die Linke in Berlin hat sich für die Aufnahme von Koalitionsverhandlungen mit Grünen und SPD ausgeprochen. Auf einem Landesparteitag stimmte eine deutliche Mehrheit der Delegierten dafür. Grüne und SPD hatten Koalitionsgesprächen bereits Mitte Oktober zugestimmt.",
+   "link": "https://www.deutschlandfunk.de/linke-stimmt-fuer-koalitionsverhandlungen-mit-gruenen-und-spd-102.html",
+   "published": "2026-10-31T23:41:49+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T23:41:49+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Berliner Linke stimmt für Aufnahme von Koalitionsverhandlungen mit Grünen und SPD",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/linke-parteitag-koalitionsverhandlungen-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Linke in Berlin kommen der Regierungsübernahme näher",
+     "link": "https://www.dw.com/de/linke-in-berlin-kommen-der-regierungsübernahme-näher/a-79817713?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "nf624721d4d",
+   "topic": "politik",
+   "title": "\"Gen Z regelt\" - Zehntausende bei Jugendprotesten - Ausschreitungen in mehreren Städten",
+   "text": "Nach dem friedlichen Protest Zehntausender junger Menschen ist es in mehreren deutschen Städten zu Ausschreitungen gekommen. Aus Frankfurt wurden verletzte Polizisten gemeldet, aus Berlin Flaschen- und Böllerwürfe und aus Hamburg brennende Barrikaden. In mehreren Städten kamen Wasserwerfer zum Einsatz.",
+   "link": "https://www.deutschlandfunk.de/zehntausende-bei-jugendprotesten-ausschreitungen-in-mehreren-staedten-102.html",
+   "published": "2026-10-31T23:41:49+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T23:41:49+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Weitgehend friedlich - in einigen Städten Ausschreitungen",
+     "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-102.html"
+    }
+   ]
+  },
+  {
+   "id": "n319393338b",
+   "topic": "politik",
+   "title": "BKA - Bericht: Zahl islamistisch motivierter antisemitischer Straftaten auf Höchststand",
+   "text": "Die Zahl antisemitischer Straftaten in Deutschland, die islamistisch motiviert sind, hat nach Presseinformationen einen neuen Höchststand erreicht.",
+   "link": "https://www.deutschlandfunk.de/bericht-zahl-islamistisch-motivierter-antisemitischer-straftaten-auf-hoechststand-106.html",
+   "published": "2026-10-31T23:41:49+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T23:41:49+00:00"
+  },
+  {
+   "id": "n71f1d68f7e",
+   "topic": "politik",
+   "title": "Religion - Katholische Christen begehen Allerheiligen",
+   "text": "Katholische Christen begehen heute das Hochfest Allerheiligen.",
+   "link": "https://www.deutschlandfunk.de/katholische-christen-begehen-allerheiligen-100.html",
+   "published": "2026-10-31T23:41:49+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T23:41:49+00:00",
+   "img": "https://bilder.deutschlandfunk.de/FI/LE/_2/e2/FILE_2e2702a8ce57c0cd5ee3287f030fe3f2/imago0105991245h-jpg-100-768x768.jpg"
+  },
+  {
+   "id": "nc2eb12db6b",
+   "topic": "politik",
+   "title": "Fußball-Bundesliga - München und Dortmund trennen sich unentschieden",
+   "text": "In der Fußball-Bundesliga hat der FC Bayern München die alleinige Tabellenführung verpasst. Im Topspiel kam der deutsche Rekordmeister im eigenen Stadion trotz zweimaliger Führung gegen Verfolger Borussia Dortmund nur zu einem 2:2 (1:0).",
+   "link": "https://www.deutschlandfunk.de/muenchen-und-dortmund-trennen-sich-unentschieden-100.html",
+   "published": "2026-10-31T23:41:49+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T23:41:49+00:00",
+   "img": "https://bilder.deutschlandfunk.de/e5/d9/33/2c/e5d9332c-d5e1-48e8-aa7c-d34335df873e/bayern-dortmund-106-1920x1920.jpg"
+  },
+  {
+   "id": "na1722a43af",
+   "topic": "politik",
+   "title": "Religion - EKD-Ratsvorsitzende Fehrs wirbt zum Reformationstag für neue Fehlerkultur in Politik und Alltag",
+   "text": "Die Ratsvorsitzende der Evangelischen Kirche in Deutschland, Fehrs, hat anlässlich des Reformationstags zu mehr Toleranz aufgerufen.",
+   "link": "https://www.deutschlandfunk.de/ekd-ratsvorsitzende-fehrs-wirbt-zum-reformationstag-fuer-neue-fehlerkultur-in-politik-und-alltag-106.html",
+   "published": "2026-10-31T23:41:49+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-02T23:41:49+00:00"
+  },
+  {
+   "id": "nb1513af5bf",
+   "topic": "nfl",
+   "title": "What signing Lan Larison to the 53-man roster means for the Patriots",
+   "text": "The Patriots added to their running back group ahead of their game against the Dolphins.",
+   "link": "https://sports.yahoo.com/articles/signing-lan-larison-53-man-232559295.html",
+   "published": "2026-10-31T23:25:59+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-05T23:25:59+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/cc3dea4c26e435253cdb0789ad82c774.jpg"
+  },
+  {
+   "id": "n3452d5ef1d",
+   "topic": "nfl",
+   "title": "Commanders vs. Eagles: Struggling NFC East squads face off on 'Sunday Night Football'",
+   "text": "Here's what you need to know to catch the game",
+   "link": "https://www.cbssports.com/nfl/news/commanders-vs-eagles-where-to-watch-prediction/",
+   "published": "2026-10-31T23:00:58+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-05T23:00:58+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/31/7eb14f70-727a-4f93-9ae1-b56d61e607c1/jayden-daniels-commanders-17.jpg"
+  },
   {
    "id": "nfa8f5e48f2",
    "topic": "welt",
    "title": "Erneut Proteste und Zusammenstöße in Frankreich",
    "text": "Am dritten Samstag in Folge haben in Frankreich Hunderttausende Menschen protestiert - erst friedlich, doch am Ende kam es wieder zu Zusammenstößen mit der Polizei. Die bleibt auch nach Ende der Protestzüge in Alarmbereitschaft. Von J. Borutta.",
    "link": "https://www.tagesschau.de/ausland/frankreich-proteste-242.html",
-   "published": "2026-10-31T19:02:09+00:00",
+   "published": "2026-10-31T22:32:55+00:00",
    "source": "Tagesschau",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-11-03T19:02:09+00:00",
+   "expires": "2026-11-03T22:32:55+00:00",
    "img": "https://images.tagesschau.de/image/fcbe1d73-006b-4606-a07a-409c491f52ef/AAABoZM40mI/AAABnSSvrFg/16x9-big/paris-1032.jpg?width=1920"
+  },
+  {
+   "id": "n61ed762265",
+   "topic": "politik",
+   "title": "Weitgehend friedlich - in einigen Städten Ausschreitungen",
+   "text": "Bessere Bildung, mehr Klimaschutz und bezahlbarer Wohnraum - dafür sind Zehntausende in vielen deutschen Städten auf die Straße gezogen. Die Proteste der \"Gen Z regelt\" blieben weitgehend friedlich. Doch am Abend kam es zu einigen Ausschreitungen.",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-102.html",
+   "published": "2026-10-31T20:33:42+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-03T20:33:42+00:00",
+   "img": "https://images.tagesschau.de/image/351fb06b-846d-4d72-9e5a-276ea9f46658/AAABoZN6Pzg/AAABnSSvrFg/16x9-big/jugendproteste-104.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "\"Gen Z regelt\" - Zehntausende bei Jugendprotesten - Ausschreitungen in mehreren Städten",
+     "link": "https://www.deutschlandfunk.de/zehntausende-bei-jugendprotesten-ausschreitungen-in-mehreren-staedten-102.html"
+    }
+   ]
+  },
+  {
+   "id": "n3221bb4be4",
+   "topic": "welt",
+   "title": "Der Kampf um das polnische Verfassungsgericht eskaliert",
+   "text": "Nach der Absetzung der bisherigen Gerichtsspitze eskaliert der Streit über Polens Verfassungsgericht: Regierung und Opposition werfen sich gegenseitig vor, die Justiz zu gefährden. Vor dem Gebäude gab es erneut Proteste.",
+   "link": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-100.html",
+   "published": "2026-10-31T20:11:14+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-03T20:11:14+00:00",
+   "img": "https://images.tagesschau.de/image/9f49bd5c-5daa-4757-ad0b-b6f9d181edc3/AAABoZIXzaw/AAABnSSvrFg/16x9-big/polen-verfassungsgericht-122.jpg?width=1920"
   },
   {
    "id": "n9387a637fe",
@@ -82,7 +261,13 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-02T19:00:53+00:00",
-   "img": "https://bilder.deutschlandfunk.de/27/4b/0a/95/274b0a95-673c-452d-ac58-b9e9a762c40e/koeln-ausschreitungen-100-1920x1920.jpg"
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Weitgehend friedlich - in einigen Städten Ausschreitungen",
+     "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-102.html"
+    }
+   ]
   },
   {
    "id": "n86acc8496a",
@@ -95,7 +280,6 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-02T19:00:53+00:00",
-   "img": "https://bilder.deutschlandfunk.de/b0/12/3c/ae/b0123cae-b002-473b-aec6-258143cd7622/linke-berlin-102-1920x1920.jpg",
    "also": [
     {
      "source": "Tagesschau",
@@ -132,8 +316,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-11-02T19:00:53+00:00",
-   "img": "https://bilder.deutschlandfunk.de/5d/5d/14/cc/5d5d14cc-69ab-4640-95e3-e200f92d3091/berlin-razzia-palaestinenser-100-1280x1280.jpg"
+   "expires": "2026-11-02T19:00:53+00:00"
   },
   {
    "id": "nea926b15af",
@@ -145,8 +328,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-11-02T19:00:53+00:00",
-   "img": "https://bilder.deutschlandfunk.de/13/08/f3/02/1308f302-8c39-4fcc-9e11-01ee7c27819c/kirsten-fehrs-100-1920x1920.jpg"
+   "expires": "2026-11-02T19:00:53+00:00"
   },
   {
    "id": "n07f699bc6a",
@@ -255,7 +437,7 @@
     {
      "source": "Deutschlandfunk",
      "title": "Berlin - Linke stimmt für Koalitionsverhandlungen mit Grünen und SPD",
-     "link": "https://www.deutschlandfunk.de/linke-stimmt-fuer-koalitionsverhandlungen-mit-gruenen-und-spd-100.html"
+     "link": "https://www.deutschlandfunk.de/linke-stimmt-fuer-koalitionsverhandlungen-mit-gruenen-und-spd-102.html"
     },
     {
      "source": "Deutsche Welle",
@@ -280,7 +462,7 @@
     {
      "source": "Deutschlandfunk",
      "title": "Berlin - Linke stimmt für Koalitionsverhandlungen mit Grünen und SPD",
-     "link": "https://www.deutschlandfunk.de/linke-stimmt-fuer-koalitionsverhandlungen-mit-gruenen-und-spd-100.html"
+     "link": "https://www.deutschlandfunk.de/linke-stimmt-fuer-koalitionsverhandlungen-mit-gruenen-und-spd-102.html"
     },
     {
      "source": "Tagesschau",
@@ -363,7 +545,8 @@
    "source": "THE DECODER",
    "type": "Fachmedium (KI)",
    "lang": "de",
-   "expires": "2026-11-07T16:13:37+00:00"
+   "expires": "2026-11-07T16:13:37+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/openai.png"
   },
   {
    "id": "n69a0de5baa",
@@ -408,14 +591,7 @@
    "type": "Wissenschaftsmagazin",
    "lang": "de",
    "expires": "2026-11-14T15:00:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/LESERBILD_2026-03-29-Mond_Regulus.png.8362194.png?f=1280x720",
-   "also": [
-    {
-     "source": "heise online",
-     "title": "Neue Filme und Serien bei Netflix, Disney+ und Amazon Prime im November 2026",
-     "link": "https://www.heise.de/news/Neue-Filme-und-Serien-bei-Netflix-Disney-und-Amazon-Prime-im-November-2026-11506552.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    }
-   ]
+   "img": "https://static.spektrum.de/fm/912/thumbnails/LESERBILD_2026-03-29-Mond_Regulus.png.8362194.png?f=1280x720"
   },
   {
    "id": "n0803e4b406",
@@ -487,19 +663,6 @@
    "type": "Wissenschaftsmagazin",
    "lang": "de",
    "expires": "2026-11-14T14:00:00+00:00"
-  },
-  {
-   "id": "n3221bb4be4",
-   "topic": "welt",
-   "title": "Der Kampf um das polnische Verfassungsgericht eskaliert",
-   "text": "Nach der Absetzung der bisherigen Gerichtsspitze eskaliert der Streit über Polens Verfassungsgericht: Regierung und Opposition werfen sich gegenseitig vor, die Justiz zu gefährden. Vor dem Gebäude gab es erneut Proteste.",
-   "link": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-100.html",
-   "published": "2026-10-31T13:57:56+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-03T13:57:56+00:00",
-   "img": "https://images.tagesschau.de/image/9f49bd5c-5daa-4757-ad0b-b6f9d181edc3/AAABoZIXzaw/AAABnSSvrFg/16x9-big/polen-verfassungsgericht-122.jpg?width=1920"
   },
   {
    "id": "nc9767a9c67",
@@ -949,7 +1112,7 @@
     {
      "source": "Deutschlandfunk",
      "title": "Berlin - Linke stimmt für Koalitionsverhandlungen mit Grünen und SPD",
-     "link": "https://www.deutschlandfunk.de/linke-stimmt-fuer-koalitionsverhandlungen-mit-gruenen-und-spd-100.html"
+     "link": "https://www.deutschlandfunk.de/linke-stimmt-fuer-koalitionsverhandlungen-mit-gruenen-und-spd-102.html"
     },
     {
      "source": "Deutsche Welle",
@@ -1038,7 +1201,14 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-11-02T05:37:46+00:00"
+   "expires": "2026-11-02T05:37:46+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Weitgehend friedlich - in einigen Städten Ausschreitungen",
+     "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-102.html"
+    }
+   ]
   },
   {
    "id": "n0630acbd59",
@@ -1283,7 +1453,14 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-11-01T22:00:06+00:00"
+   "expires": "2026-11-01T22:00:06+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Weitgehend friedlich - in einigen Städten Ausschreitungen",
+     "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-102.html"
+    }
+   ]
   },
   {
    "id": "n648717fcf1",
@@ -1570,152 +1747,6 @@
    "lang": "de",
    "expires": "2026-11-13T17:23:35+00:00",
    "img": "https://images.tagesschau.de/image/1715f3d5-5c58-4a6b-a3c1-809f6765bd24/AAABoY3WWnA/AAABnSSvrFg/16x9-big/sendungsbild-1819810.jpg?width=1920"
-  },
-  {
-   "id": "n6f6b90cc5c",
-   "topic": "welt",
-   "title": "Proteste gegen Meloni: Hunderttausende demonstrieren in Italien",
-   "text": "Hohe Lebenshaltungskosten, steigende Rüstungsausgaben, zu wenig Investition in Bildung: In Italien sind Hunderttausende Menschen gegen die Politik der Regierung auf die Straße gegangen - begleitet von einem massiven Polizeiaufgebot.",
-   "link": "https://www.tagesschau.de/ausland/europa/italien-protest-meloni-100.html",
-   "published": "2026-10-30T17:23:20+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-02T17:23:20+00:00",
-   "img": "https://images.tagesschau.de/image/a82583bc-7d56-47a2-b7b3-5f24582ee034/AAABoYxf0ec/AAABnSSvrFg/16x9-big/rom-demo-104.jpg?width=1920"
-  },
-  {
-   "id": "n870df273b6",
-   "topic": "wirtschaft",
-   "title": "Marktbericht: Schwaches Ende einer starken Börsenwoche",
-   "text": "Zum Wochenschluss schwächelt der DAX, nachdem er zuvor viermal in Folge gestiegen war. Auslöser sind der hohe Ölpreis, aber auch schwache Tech-Vorgaben aus Übersee.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-geldanlage-amazon-100.html",
-   "published": "2026-10-30T17:22:12+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-02T17:22:12+00:00",
-   "img": "https://images.tagesschau.de/image/a8ff5642-3cb8-40d8-942e-38a10780677e/AAABlep13Mg/AAABnSSvrFg/16x9-big/boerse-frankfurt-155.jpg?width=1920"
-  },
-  {
-   "id": "na3a33fec7c",
-   "topic": "it",
-   "title": "(g+) Künstliche Intelligenz: Anthropic und das Rätsel der drei fehlenden Zahlen",
-   "text": "Drei entscheidende Zahlen fehlen im Börsenprospekt von Anthropic. Die Financial Times erklärt, was sie über das Unternehmen und den KI-Boom verraten würden. Von Richard Waters ( Anthropic , Wirtschaft )",
-   "link": "https://www.golem.de/news/kuenstliche-intelligenz-anthropic-und-das-raetsel-der-drei-fehlenden-zahlen-2610-214704.html",
-   "published": "2026-10-30T17:03:01+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-04T17:03:01+00:00",
-   "img": "https://www.golem.de/2610/214704-606162-606160_rc.jpg"
-  },
-  {
-   "id": "n75ba9d7a2e",
-   "topic": "wissenschaft",
-   "title": "Weltgemeinschaft ringt um den Schutz der Natur bei Konferenz im armenischen Eriwan",
-   "text": "Weltgemeinschaft ringt um den Schutz der Natur bei Konferenz im armenischen Eriwan",
-   "link": "https://www.tagesschau.de/video/video-1675258.html",
-   "published": "2026-10-30T16:54:09+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-13T16:54:09+00:00",
-   "img": "https://images.tagesschau.de/image/e7e2802c-fdff-4894-a170-b69718cb8332/AAABoY26E6s/AAABnSSvrFg/16x9-big/sendungsbild-1819790.jpg?width=1920"
-  },
-  {
-   "id": "ne269feb73c",
-   "topic": "politik",
-   "title": "Debatte um Eralp überlagert Regierungsbildung",
-   "text": "Die Regierungsbildung in Berlin wird erneut von einer Debatte um die Linke überschattet. Im Fokus: die eventuell künftige Regierende Bürgermeisterin Eralp und ihr Umgang mit Islamismus. Ihre Partei stellt sich entschieden hinter sie.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-eralp-debatte-spiegel-bericht-100.html",
-   "published": "2026-10-30T16:44:36+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-02T16:44:36+00:00",
-   "img": "https://images.tagesschau.de/image/d7849051-0dc5-4c74-8721-4a10c68c2ef0/AAABoYvgyWo/AAABnSSvrFg/16x9-big/linkspartei-eralp-100.jpg?width=1920"
-  },
-  {
-   "id": "n7c6b594953",
-   "topic": "it",
-   "title": "Neue Filme und Serien bei Netflix, Disney+ und Amazon Prime im November 2026",
-   "text": "Im November läuft bei Disney+ die 2. Staffel von „Scrubs“. Netflix zeigt „Blood & Sinners“ und bei Amazon Prime ist „Madden“ im Programm.",
-   "link": "https://www.heise.de/news/Neue-Filme-und-Serien-bei-Netflix-Disney-und-Amazon-Prime-im-November-2026-11506552.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-30T16:43:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-04T16:43:00+00:00",
-   "also": [
-    {
-     "source": "Spektrum der Wissenschaft",
-     "title": "Beobachtungstipp: Sternbedeckungen durch den Mond im November 2026",
-     "link": "https://www.spektrum.de/news/beobachtungstipp-sternbedeckungen-durch-den-mond-im-november-2026/2333140"
-    }
-   ]
-  },
-  {
-   "id": "nfab39c2439",
-   "topic": "it",
-   "title": "Tels-Besitzer in Südkorea umgingen Sperren für Full Self Driving",
-   "text": "In Südkorea ermittelt die Polizei gegen 80 Tesla-Fahrer. Sie sollen FSD-Sperren mit externen Geräten illegal umgangen haben.",
-   "link": "https://www.heise.de/news/Tesla-Besitzer-in-Suedkorea-nutzten-illegal-Full-Self-Driving-11506444.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-30T16:34:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-04T16:34:00+00:00"
-  },
-  {
-   "id": "nf8d8969504",
-   "topic": "it",
-   "title": "Erster Fall: Mann muss wegen Religion keine KI nutzen",
-   "text": "Ein Mann in den USA erhielt eine Sondererlaubnis, keine KI auf der Arbeit nutzen zu müssen. Er beruft sich auf religiöse Gründe.",
-   "link": "https://www.heise.de/news/Ausnahmeerlaubnis-Mann-muss-wegen-Religion-keine-KI-nutzen-11506630.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-30T16:28:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-04T16:28:00+00:00"
-  },
-  {
-   "id": "ne36e8c3119",
-   "topic": "ki",
-   "title": "Googles KI-Suche kappt den Traffic: Reddit-Aktie bricht um mehr als ein Viertel ein",
-   "text": "Reddit verliert durch Googles AI Overviews und AI Mode mehr als eine Million Suchverweise pro Woche. Die Aktie brach daher trotz guter Quartalszahlen um über 25 Prozent ein. CEO Steve Huffman testet nun Login-Schranken und will Reddit unabhängiger vom offenen Web machen. Was Reddit trifft, droht der gesamten …",
-   "link": "https://the-decoder.de/googles-ki-suche-kappt-den-traffic-reddit-aktie-bricht-um-mehr-als-ein-viertel-ein/",
-   "published": "2026-10-30T16:10:24+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-06T16:10:24+00:00"
-  },
-  {
-   "id": "ne51fdf46bb",
-   "topic": "politik",
-   "title": "Jugendproteste: \"Sie meinen es jetzt wirklich ernst\"",
-   "text": "Steigende Preise, marode Schulen, fehlender Dialog: Im Interview erklärt der Protestforscher Florian Staudt, warum junge Menschen in Europa protestieren - und was die Politik aus seiner Sicht jetzt tun sollte.",
-   "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-gruende-100.html",
-   "published": "2026-10-30T16:03:53+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-02T16:03:53+00:00",
-   "img": "https://images.tagesschau.de/image/377abb38-b249-4990-a6ed-3622a43e0c95/AAABoY0h5_U/AAABnSSvrFg/16x9-big/jugendliche-224.jpg?width=1920"
-  },
-  {
-   "id": "nfaa12b0926",
-   "topic": "ki",
-   "title": "KI-Radar #5: Kurz vor AGI – warum gehen dann so viele? Die neuen KI-Labs und ihre Wetten",
-   "text": "OpenAI spricht vom AGI-Zeitalter, Nvidia-Chef Jensen Huang erklärt AGI für erreicht. Zugleich verlassen Mitentwickler der heutigen Modelle OpenAI, Google DeepMind und Meta und sammeln für eigene Labs Milliarden ein, oft ohne Produkt. Sie wetten darauf, dass das heutige Rezept allein nicht reicht. Wir sortieren 45 …",
-   "link": "https://the-decoder.de/ki-radar-5-kurz-vor-agi-warum-gehen-dann-so-viele-die-neuen-ki-labs-und-ihre-wetten/",
-   "published": "2026-10-30T16:00:37+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-06T16:00:37+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/Frontier-Radar-5-Neolabs.png"
   }
  ]
 }
