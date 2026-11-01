@@ -1,88 +1,585 @@
 {
- "generated": "2026-11-01T06:06:22.078621+00:00",
+ "generated": "2026-11-01T13:26:14.813835+00:00",
  "briefing": [
+  "nbf3b96c6e7",
   "nf586393a0c",
-  "ne056238871",
+  "nde05382a23",
   "n4a324054ea",
-  "n4b49cd6429",
+  "nda58deba85",
   "n61ed762265",
-  "na38c46f67c",
-  "n3cb60a5614",
-  "n0803e4b406",
-  "n63fa85405f",
-  "nb341dcd975"
+  "n9fa05e5d18",
+  "n5cb926c86a",
+  "n7c93c90a28"
  ],
  "ranked": [
   {
-   "id": "nf586393a0c",
-   "s": 32.4
+   "id": "nbf3b96c6e7",
+   "s": 38.1
   },
   {
-   "id": "ne056238871",
-   "s": 32.4
+   "id": "nf586393a0c",
+   "s": 30.6
+  },
+  {
+   "id": "nde05382a23",
+   "s": 27.1
   },
   {
    "id": "n4a324054ea",
-   "s": 28.6
-  },
-  {
-   "id": "n4b49cd6429",
    "s": 27.0
   },
   {
+   "id": "nda58deba85",
+   "s": 26.6
+  },
+  {
    "id": "n61ed762265",
-   "s": 25.6
+   "s": 23.8
   },
   {
-   "id": "na38c46f67c",
-   "s": 22.8
+   "id": "n9fa05e5d18",
+   "s": 23.0
   },
   {
-   "id": "n3cb60a5614",
-   "s": 22.6
+   "id": "n5cb926c86a",
+   "s": 22.9
   },
   {
-   "id": "n0803e4b406",
-   "s": 19.2
-  },
-  {
-   "id": "n63fa85405f",
-   "s": 17.5
-  },
-  {
-   "id": "nb341dcd975",
-   "s": 17.1
-  },
-  {
-   "id": "n702123d213",
-   "s": 17.0
-  },
-  {
-   "id": "n4a9ca4f548",
-   "s": 17.0
-  },
-  {
-   "id": "nd0f56310f4",
-   "s": 17.0
-  },
-  {
-   "id": "n090a27c9e4",
-   "s": 17.0
-  },
-  {
-   "id": "n16e278a867",
-   "s": 17.0
-  },
-  {
-   "id": "n6d18336abc",
-   "s": 16.9
-  },
-  {
-   "id": "n71f1d68f7e",
-   "s": 16.4
+   "id": "n7c93c90a28",
+   "s": 22.7
   }
  ],
  "items": [
+  {
+   "id": "n8d562ae644",
+   "topic": "it",
+   "title": "Mit Fourier aus China: Meta entwickelt humanoiden Prototyp eines Roboter",
+   "text": "Meta System arbeitet mit einem Startup aus China zusammen. Man sucht nach Hardware-Plattformen für seine KI-Agenten. ( Roboter , Wirtschaft )",
+   "link": "https://www.golem.de/news/mit-fourier-aus-china-meta-entwickelt-humanoiden-prototyp-eines-roboter-2611-214730.html",
+   "published": "2026-11-01T13:25:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-06T13:25:01+00:00",
+   "img": "https://www.golem.de/2611/214730-606278-606276_rc.jpg"
+  },
+  {
+   "id": "n9fa05e5d18",
+   "topic": "politik",
+   "title": "Vandalismus in Frankfurt - Hessens Innenminister Minister Poseck (CDU) spricht von \"Gewaltexzessen\" und kündigt konsequente Strafverfolgung an",
+   "text": "Nach bundesweiten friedlichen Jugendprotesten ist es gestern in mehreren Städten zu Ausschreitungen gekommen. Besonders betroffen war Frankfurt am Main. Nach Angaben von Hessens Innenminister Poseck wurden mehr als 100 Polizisten verletzt, einer von ihnen schwer.",
+   "link": "https://www.deutschlandfunk.de/hessens-innenminister-minister-poseck-cdu-spricht-von-gewaltexzessen-und-kuendigt-konsequente-strafv-100.html",
+   "published": "2026-11-01T13:22:43+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-03T13:22:43+00:00",
+   "img": "https://bilder.deutschlandfunk.de/23/71/63/d9/237163d9-d4f3-4340-90c5-b223ae840b3d/frankfurt-krawalle-100-1920x1920.jpg"
+  },
+  {
+   "id": "n2d08313a85",
+   "topic": "politik",
+   "title": "Lissabon und Porto - Zusammenstöße bei Räumung von Protestcamps in Portugal",
+   "text": "In Portugal ist es bei der Räumung von Protestlagern zu Auseinandersetzungen zwischen der Polizei und den Demonstranten gekommen.",
+   "link": "https://www.deutschlandfunk.de/zusammenstoesse-bei-raeumung-von-protestcamps-in-portugal-100.html",
+   "published": "2026-11-01T13:22:43+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-03T13:22:43+00:00",
+   "img": "https://bilder.deutschlandfunk.de/7d/8c/fc/b6/7d8cfcb6-cf27-4ead-8a7f-19491673812a/portugal-116-1280x1280.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Demos gegen Wohnungsnot in Portugal - Protestcamps geräumt",
+     "link": "https://www.tagesschau.de/ausland/portugal-protest-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n5c8970393e",
+   "topic": "politik",
+   "title": "Online-Shops - Neue Einfuhrgebühr macht Bestellungen aus Nicht-EU-Ländern teurer",
+   "text": "Für Waren, die in Onlineshops außerhalb der EU bestellt werden, wird seit heute eine weitere Gebühr fällig: Je Produktgruppe, wie etwa T-Shirts, Schrauben oder Ladekabel, muss der Händler zwei Euro zahlen. Handelsverbände rechnen damit, dass die Gebühr zumindest teilweise an die Verbraucher weitergegeben wird.",
+   "link": "https://www.deutschlandfunk.de/neue-einfuhrgebuehr-macht-bestellungen-aus-nicht-eu-laendern-teurer-100.html",
+   "published": "2026-11-01T13:22:43+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-03T13:22:43+00:00",
+   "img": "https://bilder.deutschlandfunk.de/86/cb/78/a2/86cb78a2-bfd2-4bc8-aa9d-f0c43eb77886/temu-paket-100-1920x1920.jpg"
+  },
+  {
+   "id": "n50abb66467",
+   "topic": "politik",
+   "title": "Halloween - Nadeln in gesammelten Süßigkeiten entdeckt",
+   "text": "Am Halloween-Abend haben Familien in mehreren Bundesländern Nadeln und andere Objekte in Süßigkeiten gefunden. In allen Fällen hatten Kinder die Süßigkeiten in der Nachbarschaft gesammelt. Verletzt wurde nach bisherigen Angaben niemand. Die Polizei rief Eltern auf, gesammelte Süßigkeiten genau zu überprüfen.",
+   "link": "https://www.deutschlandfunk.de/nadeln-in-gesammelten-suessigkeiten-entdeckt-100.html",
+   "published": "2026-11-01T13:22:43+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-03T13:22:43+00:00",
+   "img": "https://bilder.deutschlandfunk.de/FI/LE/_7/6d/FILE_76d4c4dfbc474e128e4d65daa57e68c8/53232674-jpg-100-768x768.jpg"
+  },
+  {
+   "id": "n040d757eb4",
+   "topic": "politik",
+   "title": "Finanzen - Nach Hacker-Angriff: Binance gibt Kundenauszahlungen schrittweise frei",
+   "text": "Nach dem Cyberangriff auf die Digitalwährungsbörse Binance erlaubt das Unternehmen wieder erste Kundenauszahlungen.",
+   "link": "https://www.deutschlandfunk.de/nach-hacker-angriff-binance-gibt-kundenauszahlungen-schrittweise-frei-100.html",
+   "published": "2026-11-01T13:22:43+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-03T13:22:43+00:00"
+  },
+  {
+   "id": "n14e5cc28d2",
+   "topic": "politik",
+   "title": "Großbritannien - London: Hunderte Festnahmen bei Solidaritäts-Demo für verbotene Aktivistengruppe \"Palestine Action\"",
+   "text": "In London sind bei Protesten gegen das Verbot der Gruppe \"Palestine Action\" erneut Hunderte Menschen festgenommen worden.",
+   "link": "https://www.deutschlandfunk.de/london-hunderte-festnahmen-bei-solidaritaets-demo-fuer-verbotene-aktivistengruppe-palestine-action-100.html",
+   "published": "2026-11-01T13:22:43+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-03T13:22:43+00:00",
+   "img": "https://bilder.deutschlandfunk.de/c7/8a/a1/f6/c78aa1f6-5281-4736-9f30-68c11d25f4f8/london-festnahmen-100-1920x1920.jpg"
+  },
+  {
+   "id": "n1479f7d834",
+   "topic": "nfl",
+   "title": "Chiefs News: Chiefs-Broncos is a pivotal AFC West bout",
+   "text": "The latest Chiefs news, brought fresh to you every morning!",
+   "link": "https://sports.yahoo.com/articles/chiefs-news-chiefs-broncos-pivotal-131711321.html",
+   "published": "2026-11-01T13:17:11+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-06T13:17:11+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/a53b8416609b6842eb82a3341b9f0d02.jpg"
+  },
+  {
+   "id": "nd8ecbb0916",
+   "topic": "nfl",
+   "title": "The Bengals offensive line has been REALLY good this season",
+   "text": "This is refreshing to see the Bengals’ offensive line playing the way they’re playing right now.",
+   "link": "https://sports.yahoo.com/articles/bengals-offensive-line-really-good-131500267.html",
+   "published": "2026-11-01T13:15:00+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-06T13:15:00+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/aa3dc25cb8a2fd72923aaae203ec37ae.jpg"
+  },
+  {
+   "id": "n584f9ed248",
+   "topic": "politik",
+   "title": "FAQ: Wie lief der \"Gen Z regelt\"-Protest? Wie geht es weiter?",
+   "text": "Mehr als 180.000 Menschen hatten sich zum bundesweiten \"Gen Z regelt\"-Protesttag angemeldet. Es kamen deutlich weniger. Woran könnte es gelegen haben? Wie reagiert die Politik und welche neuen Aktionen sind geplant?",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/demonstration-protest-genz-100.html",
+   "published": "2026-11-01T13:10:16+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-04T13:10:16+00:00",
+   "img": "https://images.tagesschau.de/image/48909d4b-1bef-4d3d-9cb2-f18b4eea4d8e/AAABoZZ3yQk/AAABnSSvrFg/16x9-big/genz-266.jpg?width=1920"
+  },
+  {
+   "id": "ne45576fe91",
+   "topic": "politik",
+   "title": "Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag",
+   "text": "Bei den Protesten am Tag ging es um bessere Bildung oder die Wehrpflicht, Zehntausende demonstrierten friedlich. Am Abend übernahmen in einigen Städten dann Krawallmacher und Extremisten. Besonders in Frankfurt eskalierte die Lage.",
+   "link": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html",
+   "published": "2026-11-01T13:07:16+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-04T13:07:16+00:00",
+   "img": "https://images.tagesschau.de/image/17d67126-2747-4a82-b1c3-15cd570eaa3f/AAABoZR_zgc/AAABnSSvrFg/16x9-big/frankfurt-ausschreitungen-102.jpg?width=1920"
+  },
+  {
+   "id": "n9cf9de4569",
+   "topic": "it",
+   "title": "Midterms: Wie Elon Musk mit Rekordspenden die US-Wahl beeinflusst",
+   "text": "Um die Senatsmehrheit der Republikaner zu sichern, schleust der Tesla- und SpaceX-Chef dreistellige Millionenbeträge in den Wahlkampf. ( Elon Musk , Politik )",
+   "link": "https://www.golem.de/news/midterms-wie-elon-musk-mit-rekordspenden-die-us-wahl-beeinflusst-2611-214727.html",
+   "published": "2026-11-01T13:02:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-06T13:02:01+00:00",
+   "img": "https://www.golem.de/2611/214727-606266-606264_rc.jpg"
+  },
+  {
+   "id": "n5cb926c86a",
+   "topic": "welt",
+   "title": "Dobrindt verurteilt Gewalt nach \"Gen Z\"-Protesten in Deutschland",
+   "text": "Erst demonstrierten bundesweit Zehntausende junge Menschen friedlich. Später kam es vor allem in Frankfurt am Main zu schlimmen Szenen. Der deutsche Innenminister fordert harte Strafen für Randalierer.",
+   "link": "https://www.dw.com/de/dobrindt-verurteilt-gewalt-nach-gen-z-protesten-in-deutschland/a-79820787?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-01T13:02:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-05T13:02:00+00:00",
+   "img": "https://static.dw.com/image/79819793_302.jpg"
+  },
+  {
+   "id": "n4ac74f96f1",
+   "topic": "wissenschaft",
+   "title": "Cholesterin: Unbekannte Gefahr im Blut",
+   "text": "Auch manche sehr gesund lebende Menschen haben enorm erhöhte Cholesterinwerte. Sie können schon in jungen Jahren einen Herzinfarkt erleiden. Viele wissen nichts von dem Risiko.",
+   "link": "https://www.spektrum.de/news/warum-gesunde-menschen-gefaehrlich-hohe-cholesterinwerte-haben/2208034",
+   "published": "2026-11-01T13:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-15T13:00:00+00:00"
+  },
+  {
+   "id": "na4e07112f1",
+   "topic": "it",
+   "title": "heise+ | Humanoide Roboter: Dank KI im kommenden Jahr alltagstauglich?",
+   "text": "Mit KI lernen humanoide Roboter immer schneller. Mehrere Hersteller wollen 2027 neue Modelle veröffentlichen – ein Überblick, was sie können und was nicht.",
+   "link": "https://www.heise.de/hintergrund/Humanoide-Roboter-Dank-KI-im-kommenden-Jahr-alltagstauglich-11499883.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+   "published": "2026-11-01T13:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-06T13:00:00+00:00"
+  },
+  {
+   "id": "n2160844337",
+   "topic": "wirtschaft",
+   "title": "Füllstandsvorgaben bei Gasspeichern nicht erreicht",
+   "text": "Bis heute sollten die Gasspeicher einen durchschnittlichen Füllstand von 70 Prozent erreichen - aber die Vorgabe wurde verfehlt. Die Versorgung im Winter sei dennoch gesichert, betonen Wirtschaftsministerium und Bundesnetzagentur.",
+   "link": "https://www.tagesschau.de/wirtschaft/energie/gasspeicher-vorgaben-ziel-verfehlt-100.html",
+   "published": "2026-11-01T12:53:52+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-04T12:53:52+00:00",
+   "img": "https://images.tagesschau.de/image/90fcaddf-4c0f-4c73-804d-d38f627af935/AAABoKjuL6U/AAABnSSvrFg/16x9-big/gas-206.jpg?width=1920"
+  },
+  {
+   "id": "n426ea861ec",
+   "topic": "politik",
+   "title": "\"Wie Jagdszenen\": hr-Reporterin schildert die Nacht der Gewalt in Frankfurt",
+   "text": "Erst friedliche Gen-Z-Proteste, dann schwere Ausschreitungen: hr-Reporterin Heike Borufka hat die Krawalle in der Frankfurter Innenstadt hautnah miterlebt. Sie berichtet von einem Katz-und-Maus-Spiel mit der Polizei, fliegenden Böllern und Momenten, in denen sie selbst Schutz suchen musste.",
+   "link": "https://www.hessenschau.de/panorama/wie-jagdszenen-hr-reporterin-schildert-die-nacht-der-gewalt-in-frankfurt-v1,interview-borufka-100.html",
+   "published": "2026-11-01T12:28:58+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-05T12:28:58+00:00",
+   "img": "https://www.hessenschau.de/gesellschaft/borufka_jagdszenen-100~_t-1793535426270_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "naca2a99b0c",
+   "topic": "ki",
+   "title": "Chinesische KI-Modelle antworten politisch differenzierter als ihr Ruf vermuten lässt",
+   "text": "Vals AI hat 25 KI-Modelle auf ihre Nähe zu Positionen der chinesischen Regierung getestet, mit unerwartetem Ergebnis: Chinesische Modelle antworten weniger einheitlich regierungstreu als vermutet, während auch westliche Modelle gelegentlich offizielle Pekinger Positionen übernehmen. Besonders die Sprache der Anfrage …",
+   "link": "https://the-decoder.de/chinesische-ki-modelle-antworten-politisch-differenzierter-als-ihr-ruf-vermuten-laesst/",
+   "published": "2026-11-01T12:27:01+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-08T12:27:01+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2030/10/KI-Bias-Propaganda.png"
+  },
+  {
+   "id": "n7c93c90a28",
+   "topic": "welt",
+   "title": "Deutscher übernimmt Leitung der EU-Staatsanwaltschaft",
+   "text": "Die Europäische Staatsanwaltschaft (EUStA) ermittelt in Tausenden Fällen mit Schäden in Milliardenhöhe. Nun rückt der deutsche Topjurist Andrés Ritter an die Spitze der EU-Behörde in Luxemburg.",
+   "link": "https://www.dw.com/de/deutscher-übernimmt-leitung-der-eu-staatsanwaltschaft/a-79821644?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-01T12:20:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-05T12:20:00+00:00",
+   "img": "https://static.dw.com/image/79821671_302.jpg"
+  },
+  {
+   "id": "n9b356f278f",
+   "topic": "nfl",
+   "title": "Prisco's Week 8 NFL expert picks: Lions hand Vikings their first loss, Chiefs over Broncos",
+   "text": "Pete Prisco reveals all of his Week 8 picks, including the Bills to top the Ravens in a high-scoring game",
+   "link": "https://www.cbssports.com/nfl/news/pete-priscos-week-8-nfl-picks-odds-predictions/",
+   "published": "2026-11-01T12:00:57+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-06T12:00:57+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/15/86663ec8-d068-4504-8a46-383cdd9d72a3/jared-goff-lions.jpg"
+  },
+  {
+   "id": "n6d18336abc",
+   "topic": "politik",
+   "title": "\"Gen Z regelt\" will Demos fortsetzen",
+   "text": "Das Fazit der Organisatoren der \"Gen Z regelt\"-Proteste fällt positiv aus - trotz der vereinzelten Gewalt. Man habe keinen Einfluss darauf, was nach Ende der Demos passiere, sagte ein Sprecher. Der Protest soll bald weitergehen.",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-demos-bilanz-100.html",
+   "published": "2026-11-01T11:58:42+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-04T11:58:42+00:00",
+   "img": "https://images.tagesschau.de/image/6e5bb6aa-dfd3-4d91-bf28-e0a33d2da407/AAABoZS7Q4s/AAABnSSvrFg/16x9-big/gen-z-demo-100.jpg?width=1920"
+  },
+  {
+   "id": "nda9ff51fe4",
+   "topic": "ki",
+   "title": "ChatGPT setzt neue Gerätelimits: OpenAI macht Schluss mit Abo-Hopping",
+   "text": "OpenAI begrenzt bei ChatGPT nun die Zahl bezahlter Konten pro Gerät und Zahlungskarte. Wer das Limit erreicht, wird gesperrt. Abmelden allein schafft keinen Platz. Die Maßnahme zielt wahrscheinlich auf Nutzer, die mit mehreren günstigen Abos ihre Nutzung maximieren, und drängt sie zu teureren Optionen wie …",
+   "link": "https://the-decoder.de/chatgpt-setzt-neue-geraetelimits-openai-macht-schluss-mit-abo-hopping/",
+   "published": "2026-11-01T11:53:04+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-08T11:53:04+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/08/openai_chatgpt.png"
+  },
+  {
+   "id": "n63147ffa04",
+   "topic": "welt",
+   "title": "Trump: Bolsonaro kann in den USA bleiben",
+   "text": "Nach seiner Wahlniederlage hat Flávio Bolsonaro Brasilien fluchtartig in Richtung USA verlassen - trotz eines gerichtlichen Ausreiseverbots. Wenn es nach US-Präsident Trump geht, kann er so lange bleiben, wie er will.",
+   "link": "https://www.dw.com/de/trump-bolsonaro-kann-in-den-usa-bleiben/a-79821509?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-01T11:25:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-05T11:25:00+00:00",
+   "img": "https://static.dw.com/image/79821725_302.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Trump lädt Flávio Bolsonaro zum Bleiben ein",
+     "link": "https://www.tagesschau.de/ausland/amerika/trump-bolsonaro-usa-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n9adb037b71",
+   "topic": "welt",
+   "title": "Israel: Demos für Einbindung der arabischen Parteien",
+   "text": "Sie demonstrierten für Veränderung - und die Ablösung von Premier Netanjahu: In Israel haben Hunderte die Opposition dazu aufgerufen, die arabischen Parteien an der Regierungsbildung zu beteiligen.",
+   "link": "https://www.tagesschau.de/ausland/asien/israel-demo-arabische-parteien-100.html",
+   "published": "2026-11-01T11:24:19+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-04T11:24:19+00:00",
+   "img": "https://images.tagesschau.de/image/0177f223-3cc5-4615-981f-5d0db95461e4/AAABoZajhwU/AAABnSSvrFg/16x9-big/israel-demonstrationen-110.jpg?width=1920"
+  },
+  {
+   "id": "n262eb45ca0",
+   "topic": "welt",
+   "title": "Vor 40 Jahren: Als eine Chemiewolke über Basel zog",
+   "text": "Vor 40 Jahren brannte bei Basel eine Lagerhalle, in der große Mengen gefährlicher Chemikalien gelagert waren. Ein Giftwolke zog über die Stadt, verseuchtes Löschwasser floss in den Rhein. Was hat sich durch die Katastrophe verändert? Von S. Biegger.",
+   "link": "https://www.tagesschau.de/ausland/europa/schweiz-40-jahre-chemieunfall-sandoz-100.html",
+   "published": "2026-11-01T11:06:56+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-04T11:06:56+00:00",
+   "img": "https://images.tagesschau.de/image/d1a3a80f-ee8b-4757-8be3-b91cc4d321ec/AAABoYdwzdw/AAABnSSvrFg/16x9-big/sandoz-feuer-100.jpg?width=1920"
+  },
+  {
+   "id": "nf9087fbf9d",
+   "topic": "wissenschaft",
+   "title": "Aktuelles am Himmel im November 2026: Die Zeit der Feuerkugeln",
+   "text": "Im November können Sie nach hellen Meteoren Ausschau halten und eine Begegnung des Roten Planeten Mars mit dem Gasriesen Jupiter verfolgen.",
+   "link": "https://www.spektrum.de/news/aktuelles-am-himmel-november-2026/2333395",
+   "published": "2026-11-01T11:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-15T11:00:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/Teaser_Startrails.jpg.8103767.jpg?f=1280x720"
+  },
+  {
+   "id": "n8cfa737d62",
+   "topic": "it",
+   "title": "FAQ: Warum es neue Gebühren für Importe gibt, und was sie bringen sollen",
+   "text": "Waren von Shein, Temu oder AliExpress sind in der EU beliebt. Nun wird für die Einfuhr von Produkten eine neue Gebühr fällig. Was bedeutet das für Verbraucher?",
+   "link": "https://www.heise.de/news/FAQ-Warum-es-neue-Gebuehren-fuer-Importe-gibt-und-was-sie-bringen-sollen-11507280.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-01T11:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-06T11:00:00+00:00"
+  },
+  {
+   "id": "nd273a250de",
+   "topic": "it",
+   "title": "FBI: Nordkorea steckt hinter Milliarden-Kryptodiebstahl bei Binance",
+   "text": "Das FBI macht die nordkoreanische Gruppe TraderTraitor für den milliardenschweren Hackerangriff auf Binance verantwortlich.",
+   "link": "https://www.heise.de/news/FBI-Nordkorea-steckt-hinter-Milliarden-Kryptodiebstahl-bei-Binance-11507160.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-01T10:52:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-06T10:52:00+00:00"
+  },
+  {
+   "id": "nafd901d607",
+   "topic": "ki",
+   "title": "Google-Forscher wollen Video-KI beibringen, unausgesprochene Wünsche zu erkennen",
+   "text": "Mit StreamVibe will ein Forschungsteam um Google einen Video-Agenten schaffen, der beim Kochen oder Möbelaufbau nur dann eingreift, wenn er wirklich gebraucht wird. Ein umfangreicher Benchmark zeigt allerdings: Bei längeren Videos treffen alle getesteten Modelle den richtigen Zeitpunkt kaum noch. Fehler schaukeln sich …",
+   "link": "https://the-decoder.de/google-forscher-wollen-video-ki-beibringen-unausgesprochene-wuensche-zu-erkennen/",
+   "published": "2026-11-01T10:08:21+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-08T10:08:21+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/02-streamvibe-kochassistent-1920x1080-1.jpg"
+  },
+  {
+   "id": "nde05382a23",
+   "topic": "welt",
+   "title": "Demos gegen Wohnungsnot in Portugal - Protestcamps geräumt",
+   "text": "In vielen europäischen Ländern gehen momentan junge Menschen auf die Straße - auch in Portugal. Dort richten sich die Demonstrationen vor allem gegen die Wohnungsnot. Die Polizei ging hart gegen ein Protestcamp in Lissabon vor.",
+   "link": "https://www.tagesschau.de/ausland/portugal-protest-100.html",
+   "published": "2026-11-01T09:46:44+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-04T09:46:44+00:00",
+   "img": "https://images.tagesschau.de/image/dc29ddfe-ee86-4343-912c-5af89a89fb06/AAABoZZWi7E/AAABnSSvrFg/16x9-big/portugal-protest-102.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Lissabon und Porto - Zusammenstöße bei Räumung von Protestcamps in Portugal",
+     "link": "https://www.deutschlandfunk.de/zusammenstoesse-bei-raeumung-von-protestcamps-in-portugal-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n4c3b1f4be4",
+   "topic": "wissenschaft",
+   "title": "Chronifizierung: Sind psychische Störungen heute schwerer zu überwinden als früher?",
+   "text": "Psychische Erkrankungen bleiben heute offenbar häufiger bestehen oder kehren öfter wieder als noch vor rund einem Jahrzehnt.",
+   "link": "https://www.spektrum.de/news/chronifizierung-mehr-rueckfaelle-laengere-verlaeufe/2350170",
+   "published": "2026-11-01T09:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-15T09:00:00+00:00"
+  },
+  {
+   "id": "n6c48af34ab",
+   "topic": "welt",
+   "title": "Atommüll-Endlager gesucht: Deutschlands schwierige Mission",
+   "text": "Finnland ist weltweit das erste Land mit einem Endlager für Atommüll. Deutschland sucht nach einem solchen Ort, andere Länder haben noch gar nicht damit angefangen. Experten erwarten Kosten von vielen Milliarden Euro.",
+   "link": "https://www.dw.com/de/atommüll-endlager-gesucht-deutschlands-schwierige-mission/a-79798572?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-01T08:52:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-05T08:52:00+00:00",
+   "img": "https://static.dw.com/image/74651094_302.jpg"
+  },
+  {
+   "id": "n1521b46c50",
+   "topic": "welt",
+   "title": "Ukraine: Zehn Tage gegen den Krieg im Kopf",
+   "text": "In den ukrainischen Karpaten versuchen Soldatinnen und Soldaten, für ein paar Tage Abstand vom Krieg zu gewinnen. Doch die Erinnerungen lassen sich nicht einfach abschütteln. Von Susanne Petersohn.",
+   "link": "https://www.tagesschau.de/ausland/europa/ukraine-erholung-soldaten-100.html",
+   "published": "2026-11-01T08:43:57+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-04T08:43:57+00:00",
+   "img": "https://images.tagesschau.de/image/1957f54f-f4f5-495b-a0f4-54e8d806a563/AAABoYK-yi0/AAABnSSvrFg/16x9-big/gruppensitzung-reha-100.jpg?width=1920"
+  },
+  {
+   "id": "n10c3073fc6",
+   "topic": "politik",
+   "title": "Microcars boomen - aber wie sicher sind sie?",
+   "text": "Sie sehen aus wie Kleinwagen, sind aber keine: Microcars sind maximal 45 km/h schnell und dürfen in Deutschland schon ab 15 Jahren gefahren werden. Wie sicher sind die beliebten Mini-Autos? Von Hermann Scholz.",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/microcars-sicherheit-100.html",
+   "published": "2026-11-01T08:41:59+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-04T08:41:59+00:00",
+   "img": "https://images.tagesschau.de/image/80693670-b573-4d8d-8e78-0fb341c674df/AAABoYI7hsQ/AAABnSSvrFg/16x9-big/microauto-100.jpg?width=1920"
+  },
+  {
+   "id": "n71a37424b5",
+   "topic": "politik",
+   "title": "Steinmeier zu KI: \"Nicht das Ob steht zur Frage, sondern das Wie\"",
+   "text": "Zum Abschluss seiner China-Reise hat Bundespräsident Steinmeier vor den Risiken Künstlicher Intelligenz für die Demokratie gewarnt. Über Fortschritte im Handelskonflikt zwischen Europa und China äußerte er sich vorsichtig optimistisch. Von D. Hebestreit und M. Deiß.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/steinmeier-ki-100.html",
+   "published": "2026-11-01T08:01:11+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-04T08:01:11+00:00",
+   "img": "https://images.tagesschau.de/image/217954b6-d9ff-46c5-b4f0-a228fd1ad0c1/AAABoZYMDUM/AAABnSSvrFg/16x9-big/sendungsbild-1820470.jpg?width=1920"
+  },
+  {
+   "id": "nfd79448847",
+   "topic": "wissenschaft",
+   "title": "Matthias Deiß, ARD Berlin, im Interview mit Bundespräsident Frank-Walter Steinmeier",
+   "text": "Matthias Deiß, ARD Berlin, im Interview mit Bundespräsident Frank-Walter Steinmeier",
+   "link": "https://www.tagesschau.de/video/video-1675930.html",
+   "published": "2026-11-01T08:01:01+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-15T08:01:01+00:00",
+   "img": "https://images.tagesschau.de/image/5c360425-8c72-4b68-86b7-24b942653821/AAABoZP5Icw/AAABnSSvrFg/16x9-big/sendungsbild-1820352.jpg?width=1920"
+  },
+  {
+   "id": "n5d625188c2",
+   "topic": "wirtschaft",
+   "title": "Wie KI Entwicklung und Alltag verändert - kreativ auf Knopfdruck?",
+   "text": "Ob bei der Entwicklung neuer Produkte, in der Werbung oder bei der Gestaltung des eigenen Zuhauses: KI ist im Alltag angekommen. Sie spart oft Zeit, wirft aber auch Fragen nach Kreativität, Arbeitsplätzen und Vertrauen auf. Von Anke Heinhaus.",
+   "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-veraenderung-wirtschaft-alltag-100.html",
+   "published": "2026-11-01T08:00:49+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-04T08:00:49+00:00",
+   "img": "https://images.tagesschau.de/image/dc0d4ff1-2bef-4c6d-88b8-663bd70d6330/AAABoTpb2XE/AAABnSSvrFg/16x9-big/buero-ki-start-up-100.jpg?width=1920"
+  },
+  {
+   "id": "n838d51391a",
+   "topic": "welt",
+   "title": "Bunte \"Tag der Toten\"-Parade zieht durch Mexiko-Stadt",
+   "text": "Schaurige Skelette, elegante Catrinas: In Mexiko-Stadt hat zum zehnten Mal eine Parade zum \"Tag der Toten\" stattgefunden. Das farbenfrohe Schauspiel geht auf einen Bond-Film zurück, die Traditionen dahinter sind viel älter.",
+   "link": "https://www.tagesschau.de/ausland/mexiko-feierlichkeiten-november-100.html",
+   "published": "2026-11-01T07:57:56+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-04T07:57:56+00:00",
+   "img": "https://images.tagesschau.de/image/f648bdc6-0ffb-489e-80cf-1727d7a90a49/AAABoZXnZqY/AAABnSSvrFg/16x9-big/mexiko-parade-tagdertoten-106.jpg?width=1920"
+  },
+  {
+   "id": "nda58deba85",
+   "topic": "welt",
+   "title": "Trump lädt Flávio Bolsonaro zum Bleiben ein",
+   "text": "Nach seiner Wahlniederlage setzte sich der brasilianische Präsidentschaftskandidat Flávio Bolsonaro in die USA ab. Dort darf er bleiben - \"so lange, wie er will\", sagte Präsident Trump. Treffen will er Bolsonaro vorerst nicht.",
+   "link": "https://www.tagesschau.de/ausland/amerika/trump-bolsonaro-usa-100.html",
+   "published": "2026-11-01T07:45:02+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-04T07:45:02+00:00",
+   "img": "https://images.tagesschau.de/image/2be04343-b2bc-4534-b2e4-46f970e3ff0e/AAABoZWlMg0/AAABnSSvrFg/16x9-big/trump-halloween-102.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Trump: Bolsonaro kann in den USA bleiben",
+     "link": "https://www.dw.com/de/trump-bolsonaro-kann-in-den-usa-bleiben/a-79821509?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
   {
    "id": "nae817aea92",
    "topic": "wissenschaft",
@@ -178,28 +675,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-11-03T05:12:57+00:00",
-   "img": "https://bilder.deutschlandfunk.de/63/c7/08/26/63c70826-5020-4a28-857b-b6ccfdceaf75/binance-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Binance will alle Verluste nach Hackerangriff ersetzen",
-     "link": "https://www.tagesschau.de/wirtschaft/technologie/usa-binance-hackerangriff-verluste-100.html"
-    }
-   ]
-  },
-  {
-   "id": "ne45576fe91",
-   "topic": "politik",
-   "title": "Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag",
-   "text": "Bei den Protesten am Tag ging es um bessere Bildung oder die Wehrpflicht, Zehntausende demonstrierten friedlich. Am Abend übernahmen in einigen Städten dann Krawallmacher und Extremisten. Sie hatten sich offenbar teils gezielt unter die Demos gemischt.",
-   "link": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html",
-   "published": "2026-11-01T04:42:41+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-04T04:42:41+00:00",
-   "img": "https://images.tagesschau.de/image/17d67126-2747-4a82-b1c3-15cd570eaa3f/AAABoZR_zgc/AAABnSSvrFg/16x9-big/frankfurt-ausschreitungen-102.jpg?width=1920"
+   "expires": "2026-11-03T05:12:57+00:00"
   },
   {
    "id": "n2a6b0198d2",
@@ -259,19 +735,6 @@
    "lang": "en",
    "expires": "2026-11-06T03:41:26+00:00",
    "img": "https://media.zenfs.com/en/sb_nation_articles_115/2b877fc834dac852b2ac39cd23a31740.jpg"
-  },
-  {
-   "id": "n6d18336abc",
-   "topic": "politik",
-   "title": "\"Gen Z regelt\" will am 20. November wieder demonstrieren",
-   "text": "Man habe keinen Einfluss darauf, was nach Ende der Demos passiere, sagte ein \"Gen Z\"-Sprecher. Von Gewalt hatte sich die Initiative stets distanziert. Ihr Fazit der Jugendproteste fällt positiv aus. Am 20. November will sie erneut demonstrieren.",
-   "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-demos-bilanz-100.html",
-   "published": "2026-11-01T01:44:46+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-04T01:44:46+00:00",
-   "img": "https://images.tagesschau.de/image/6e5bb6aa-dfd3-4d91-bf28-e0a33d2da407/AAABoZS7Q4s/AAABnSSvrFg/16x9-big/gen-z-demo-100.jpg?width=1920"
   },
   {
    "id": "n7d2e410e8b",
@@ -1001,14 +1464,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-02T12:20:46+00:00",
-   "img": "https://bilder.deutschlandfunk.de/NO/VA/_a/cc/NOVA_acc044d89f65637de4fde774d1c68f43/craft-13515260-asset-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Jugendproteste in mehr als 30 Städten geplant",
-     "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-112.html"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/NO/VA/_a/cc/NOVA_acc044d89f65637de4fde774d1c68f43/craft-13515260-asset-100-1920x1920.jpg"
   },
   {
    "id": "ndc37ae6cd5",
@@ -1272,538 +1728,6 @@
    "lang": "de",
    "expires": "2026-11-03T08:49:15+00:00",
    "img": "https://images.tagesschau.de/image/005f06c7-ca9c-4c25-9207-cbebb48ad074/AAABoZDn2MM/AAABnSSvrFg/16x9-big/israel-arabischepartei-100.jpg?width=1920"
-  },
-  {
-   "id": "n26ae9e13ce",
-   "topic": "welt",
-   "title": "Polen: Tumult und Protest vor dem Verfassungsgericht",
-   "text": "Der Machtkampf um das polnische Verfassungsgericht spitzt sich zu. Die Polizei sicherte das Gebäude ab, nachdem sich Protestierende dort versammelt hatten. Auslöser ist die mutmaßliche Suspendierung der bisherigen Gerichtsführung.",
-   "link": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-streit-100.html",
-   "published": "2026-10-31T08:25:36+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-03T08:25:36+00:00",
-   "img": "https://images.tagesschau.de/image/519b2f4f-df27-4e95-8bcf-d77a469a8d94/AAABoY9o_tw/AAABnSSvrFg/16x9-big/warschau-verfassungsgericht-100.jpg?width=1920"
-  },
-  {
-   "id": "n63fa85405f",
-   "topic": "welt",
-   "title": "Ukraine soll Nachschub an Patriot-Raketen erhalten - News kompakt: Das Wichtigste kurz gefasst",
-   "text": "Die USA genehmigen den Verkauf Hunderter Abfangraketen an die Ukraine. Die europaweiten Jugendproteste erfassen nun auch Deutschland. Der DW-Nachrichtenüberblick.",
-   "link": "https://www.dw.com/de/ukraine-soll-nachschub-an-patriot-raketen-erhalten-news-kompakt-das-wichtigste-kurz-gefasst/a-79813926?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-31T08:00:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-04T08:00:00+00:00",
-   "img": "https://static.dw.com/image/79813989_302.jpg"
-  },
-  {
-   "id": "n19c03fb909",
-   "topic": "wissenschaft",
-   "title": "Warkus’ Welt: Der Philosoph, der sein Fach in Brand setzte",
-   "text": "Kaum jemand hat Forschung und Gesellschaft so stark beeinflusst wie Michel Foucault – ein Philosoph, dessen Ideen sich wieder größter Beliebtheit erfreuen.",
-   "link": "https://www.spektrum.de/kolumne/michel-foucault-macht-wissen-und-die-ordnung-der-dinge/2351908",
-   "published": "2026-10-31T08:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-14T08:00:00+00:00"
-  },
-  {
-   "id": "nbfef9a2eb1",
-   "topic": "wirtschaft",
-   "title": "KI bei der Geldanlage: Wie sicher sind ChatGPT-Anlagetipps?",
-   "text": "Immer mehr Menschen holen sich bei der Geldanlage Rat von ChatGPT oder Claude. Experten sehen in den KI-Anlagetipps durchaus Potenzial, warnen aber auch vor Fehlern und Risiken. Von Angela Göpfert.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/ki-geldanlage-chatgpt-anlagetipps-risiken-100.html",
-   "published": "2026-10-31T07:45:19+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-03T07:45:19+00:00",
-   "img": "https://images.tagesschau.de/image/6630d35e-9b1e-437a-bfb0-9450202270ff/AAABoYeVsmk/AAABnSSvrFg/16x9-big/chatgpt-156.jpg?width=1920"
-  },
-  {
-   "id": "ne056238871",
-   "topic": "politik",
-   "title": "Die Linke in Berlin: Aus dem Trubel in die Koalition?",
-   "text": "Die Berliner Linke entscheidet heute über den Start von Koalitionsverhandlungen mit SPD und Grünen. Überschattet wird der Parteitag von Antisemitismusvorwürfen und einem Spiegel-Bericht. Von Frank Aischmann.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/linke-berlin-parteitag-eralp-100.html",
-   "published": "2026-10-31T07:43:12+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-03T07:43:12+00:00",
-   "img": "https://images.tagesschau.de/image/ea37117d-67ad-42b4-ae9c-271f9952c93e/AAABoZDpn_w/AAABnSSvrFg/16x9-big/linke-berlin-114.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Berlin - Linke stimmt für Koalitionsverhandlungen mit Grünen und SPD",
-     "link": "https://www.deutschlandfunk.de/linke-stimmt-fuer-koalitionsverhandlungen-mit-gruenen-und-spd-102.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Linke in Berlin kommen der Regierungsübernahme näher",
-     "link": "https://www.dw.com/de/linke-in-berlin-kommen-der-regierungsübernahme-näher/a-79817713?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "nd2f1814116",
-   "topic": "welt",
-   "title": "Einigung bei der UN-Biodiversitätskonferenz erzielt",
-   "text": "Wie kann die Artenvielfalt geschützt werden? Darüber wurde bei der UN-Biodiversitätskonferenz intensiv verhandelt. Am Ende gab es in Armenien eine Einigung - wenn auch keine besonders ambitionierte.",
-   "link": "https://www.tagesschau.de/ausland/asien/biodiversitaet-cop-armenien-100.html",
-   "published": "2026-10-31T07:09:41+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-03T07:09:41+00:00",
-   "img": "https://images.tagesschau.de/image/db3e4b22-08c6-4259-8053-cb76eff5a286/AAABoZCoOXY/AAABnSSvrFg/16x9-big/armenien-konferenz-100.jpg?width=1920"
-  },
-  {
-   "id": "nb341dcd975",
-   "topic": "welt",
-   "title": "Russlands gigantisches Radarsystem in Kaliningrad als neues Ohr in die NATO",
-   "text": "Der Bau einer riesigen Radaranlage in der russischen Exklave Kaliningrad steht kurz vor dem Abschluss. Mit ihm könnte Russland große Teile Europas überwachen.",
-   "link": "https://www.dw.com/de/russlands-gigantisches-radarsystem-in-kaliningrad-als-neues-ohr-in-die-nato/a-79812059?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-31T06:30:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-04T06:30:00+00:00",
-   "img": "https://static.dw.com/image/79328338_302.jpg"
-  },
-  {
-   "id": "n932c6fed2e",
-   "topic": "politik",
-   "title": "\"Gen Z regelt\" - Bundesweite Jugendproteste geplant - Forderung nach bezahlbarem Leben",
-   "text": "Bundesweit wollen junge Menschen heute für bessere Bildung und ein bezahlbares Leben auf die Straße gehen. In den vier Großstädten Berlin, Köln, Frankfurt am Main und München veranstaltet die Gruppierung \"GenZ regelt!\" eigene Kundgebungen, in 30 weiteren Städten haben örtliche Initiativen Demonstrationen angemeldet.",
-   "link": "https://www.deutschlandfunk.de/bundesweite-jugendproteste-geplant-forderung-nach-bezahlbarem-leben-102.html",
-   "published": "2026-10-31T05:37:46+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-02T05:37:46+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Jugendproteste in mehr als 30 Städten geplant",
-     "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-112.html"
-    }
-   ]
-  },
-  {
-   "id": "nd3695faff1",
-   "topic": "politik",
-   "title": "Parteien - Berliner Linke entscheidet über Koalitionsverhandlungen - Medienbericht: Eralp mit Personenschützer auf Parteitag",
-   "text": "Sechs Wochen nach der Wahl zum Berliner Abgeordnetenhaus entscheidet die Berliner Linke heute auf einem Parteitag über den Beginn von Koalitionsverhandlungen mit Grünen und SPD.",
-   "link": "https://www.deutschlandfunk.de/berliner-linke-entscheidet-ueber-koalitionsverhandlungen-medienbericht-eralp-mit-personenschuetzer-a-100.html",
-   "published": "2026-10-31T05:37:46+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-02T05:37:46+00:00",
-   "img": "https://bilder.deutschlandfunk.de/d5/ef/5e/24/d5ef5e24-abaa-4c38-8198-8adce43c3112/linke-parteitag-berlin-elif-eralp-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Berliner Linke stimmt für Aufnahme von Koalitionsverhandlungen mit Grünen und SPD",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/linke-parteitag-koalitionsverhandlungen-100.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Linke in Berlin kommen der Regierungsübernahme näher",
-     "link": "https://www.dw.com/de/linke-in-berlin-kommen-der-regierungsübernahme-näher/a-79817713?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n2bcff35bf5",
-   "topic": "politik",
-   "title": "Weitgehend friedlich - Landesweite Massenproteste in Italien für bessere Bildung und gegen hohe Preise",
-   "text": "In Italien haben Hunderttausende Menschen gegen steigende Lebenshaltungskosten und für mehr Geld für Bildung demonstriert. Die Gewerkschaft USB sprach von mindestens einer Million Teilnehmern.",
-   "link": "https://www.deutschlandfunk.de/landesweite-massenproteste-in-italien-fuer-bessere-bildung-und-gegen-hohe-preise-102.html",
-   "published": "2026-10-31T05:37:46+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-02T05:37:46+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Weitgehend friedlich - in einigen Städten Ausschreitungen",
-     "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-102.html"
-    }
-   ]
-  },
-  {
-   "id": "n0630acbd59",
-   "topic": "politik",
-   "title": "Arbeitsmarkt - IG Metall startet erste Warnstreik-Welle",
-   "text": "​Im Tarifstreit der Metall- und Elektroindustrie ruft die IG Metall an diesem Wochenende zu ersten Warnstreiks auf. Arbeitsniederlegungen und Kundgebungen sind für die Nacht von heute auf morgen geplant; am Montag soll nach Angaben der Gewerkschaft erstmals auch ⁠ein großer bayerischer Autohersteller betroffen sein.",
-   "link": "https://www.deutschlandfunk.de/ig-metall-startet-erste-warnstreik-welle-120.html",
-   "published": "2026-10-31T05:37:46+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-02T05:37:46+00:00"
-  },
-  {
-   "id": "n2192b86555",
-   "topic": "politik",
-   "title": "Gewalt und schwindende Ressourcen - UNHCR: Lage afrikanischer Flüchtlinge im Jemen verschlimmert sich",
-   "text": "Das Flüchtlingshilfswerk der Vereinten Nationen zeigt sich besorgt über die Situation von mehr als 65.000 größtenteils afrikanischen Flüchtlingen im Jemen. Die Menschen in dem Kriegsland seien Opfer einer sich rapide verschlimmernden humanitären Krise, erklärte ein UNHCR-Sprecher in Genf.",
-   "link": "https://www.deutschlandfunk.de/unhcr-lage-afrikanischer-fluechtlinge-im-jemen-verschlimmert-sich-104.html",
-   "published": "2026-10-31T05:37:46+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-02T05:37:46+00:00"
-  },
-  {
-   "id": "ncb0f43ad5f",
-   "topic": "politik",
-   "title": "Krypto-Hackerangriff auf Binance - \"3,3 Milliarden Dollar sind nicht mehr zurückzuholen\"",
-   "text": "Der Hackerangriff auf die weltgrößte Digitalwährungsbörse Binance hat bei Anlegern und Börsenvertretern für Aufruhr gesorgt. Wie das Unternehmen erklärte, wurden Kryptowährungen im Wert von 6,3 Milliarden US-Dollar gestohlen, um einen Teil davon wird noch gerungen. Ein Überblick über den Ablauf des wohl größten …",
-   "link": "https://www.deutschlandfunk.de/3-3-milliarden-dollar-sind-nicht-mehr-zurueckzuholen-100.html",
-   "published": "2026-10-31T05:37:46+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-02T05:37:46+00:00"
-  },
-  {
-   "id": "n702123d213",
-   "topic": "welt",
-   "title": "Klimafreundlicheres Fliegen könnte Milliardenschäden vermeiden",
-   "text": "Flugzeuge verursachen hohe Emissionen und schaden dem Klima. Doch optimierte Flugrouten und nachhaltige Treibstoffe können viele Schäden vermindern. Die Umstellung hat schon begonnen und es gibt großes Potential.",
-   "link": "https://www.dw.com/de/klimafreundlicheres-fliegen-könnte-milliardenschäden-vermeiden/a-79678575?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-10-31T05:35:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-04T05:35:00+00:00",
-   "img": "https://static.dw.com/image/79683442_302.jpg"
-  },
-  {
-   "id": "n836168a773",
-   "topic": "it",
-   "title": "Adobe-Konkurrenz? Das taugt KI-Klon PhotoCraft | c't uplink",
-   "text": "Das Projekt ArtCraft entstand per Vibe-Coding und ahmt Photoshop, PowerPoint & Co. nach. Im c’t uplink diskutieren wir, was KI-Kopien können – und was nicht.",
-   "link": "https://www.heise.de/news/Adobe-Konkurrenz-Das-taugt-KI-Klon-PhotoCraft-c-t-uplink-11505956.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-31T05:30:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-05T05:30:00+00:00"
-  },
-  {
-   "id": "n27b12e5897",
-   "topic": "politik",
-   "title": "Jugendproteste in mehr als 30 Städten geplant",
-   "text": "Wachsende Unzufriedenheit und Zukunftsängste: Die GenZ protestiert bundesweit für bessere Bildung, Klimaschutz und mehr politische Teilhabe. In mehr als 30 Städten sind Demonstrationen angekündigt. Von Jan Koch.",
-   "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-112.html",
-   "published": "2026-10-31T04:52:31+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-03T04:52:31+00:00",
-   "img": "https://images.tagesschau.de/image/ddaf932b-1f34-40ab-886e-3e5c3e6a3aa1/AAABoZL6ihk/AAABnSSvrFg/16x9-big/genz-muenster-demo-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "\"Gen Z regelt\" - Bundesweite Jugendproteste geplant; Sprecherin Dinter weist mögliche Unterwanderung zurück",
-     "link": "https://www.deutschlandfunk.de/bundesweite-jugendproteste-geplant-sprecherin-dinter-weist-moegliche-unterwanderung-zurueck-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n187a4befeb",
-   "topic": "welt",
-   "title": "Frust bei US-Farmern könnte Trump Stimmen bei den Midterms kosten",
-   "text": "Landwirte gelten als wichtige Wählergruppe der US-Republikaner. Doch steigende Kosten und eine unberechenbare Zollpolitik sorgen für Frust. Das könnte bei den Zwischenwahlen zum Stresstest für die Trump-Regierung werden. Von S. Jackisch.",
-   "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-landwirtschaft-100.html",
-   "published": "2026-10-31T04:52:21+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-03T04:52:21+00:00",
-   "img": "https://images.tagesschau.de/image/19f2b79f-aac6-491a-9c76-5095229a5dcd/AAABoY5Y21Q/AAABnSSvrFg/16x9-big/iowa-farm-100.jpg?width=1920"
-  },
-  {
-   "id": "nc98f9d9a4b",
-   "topic": "welt",
-   "title": "\"Allianz für die Zukunft\": Kanada und Europa gründen Bündnis",
-   "text": "Die EU und Kanada gründen in Montreal eine \"Allianz für die Zukunft\". Ziel ist mehr Unabhängigkeit und eine engere Zusammenarbeit von KI bis Raumfahrt. Auch die Ukraine spielt eine Rolle.",
-   "link": "https://www.tagesschau.de/ausland/amerika/kanada-eu-allianz-zukunft-100.html",
-   "published": "2026-10-31T03:57:32+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-03T03:57:32+00:00",
-   "img": "https://images.tagesschau.de/image/b24841d1-87c4-4a16-ba6c-c4db63284842/AAABoY4uPLA/AAABnSSvrFg/16x9-big/kanada-eu-buendnis-100.jpg?width=1920"
-  },
-  {
-   "id": "n4a9ca4f548",
-   "topic": "welt",
-   "title": "G20-Außenministertreffen in Atlanta: Russland bleibt auf Distanz",
-   "text": "In Atlanta beraten die G20-Außenminister über internationale Krisen und die Folgen für die Weltwirtschaft. Doch die Gräben zwischen den Teilnehmenden sind tief. Vor allem Russlands Außenminister Lawrow sparte nicht mit Kritik.",
-   "link": "https://www.tagesschau.de/ausland/amerika/g20-aussenminister-102.html",
-   "published": "2026-10-31T03:05:42+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-03T03:05:42+00:00",
-   "img": "https://images.tagesschau.de/image/0c397f94-5de0-41e8-bf4f-4d9385bcc5ec/AAABoY_rktU/AAABnSSvrFg/16x9-big/lawrow-298.jpg?width=1920"
-  },
-  {
-   "id": "n0d858600c9",
-   "topic": "nfl",
-   "title": "Report: Philip Rivers has \"emerged as the focus\" of NC State coaching search",
-   "text": "Six days ago, former NFL (and NC State) quarterback Philip Rivers was identified as a person \"expected to be in the mix\" for the now-vacant Wolfpack head-coaching job.",
-   "link": "https://sports.yahoo.com/articles/report-philip-rivers-emerged-focus-030320015.html",
-   "published": "2026-10-31T03:03:20+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-05T03:03:20+00:00"
-  },
-  {
-   "id": "n6b05dafae6",
-   "topic": "nfl",
-   "title": "Jordan Love passes Brett Favre for multi-touchdown games to start season",
-   "text": "The Packers have had three starting quarterbacks since Brett Favre replaced Don Majkowski in Week 3 of the 1992 season.",
-   "link": "https://sports.yahoo.com/articles/jordan-love-passes-brett-favre-021251584.html",
-   "published": "2026-10-31T02:12:51+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-05T02:12:51+00:00"
-  },
-  {
-   "id": "nd0f56310f4",
-   "topic": "welt",
-   "title": "US-Regierung genehmigt \"Patriot\"-Lieferungen an Ukraine",
-   "text": "Um sich gegen russische Angriffe zur Wehr zu setzen, ist die Ukraine vor allem auf US-Waffenlieferungen angewiesen. Diese kamen zuletzt ins Stocken. Bei einer Lieferung hat das US-Außenministerium nun grünes Licht gegeben.",
-   "link": "https://www.tagesschau.de/ausland/amerika/usa-ukraine-patriot-100.html",
-   "published": "2026-10-30T23:56:24+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-02T23:56:24+00:00",
-   "img": "https://images.tagesschau.de/image/968e7d78-8248-45ab-a5b3-c7f16815a1e6/AAABnLz_Yjc/AAABnSSvrFg/16x9-big/tuerkei-patriot-100.jpg?width=1920"
-  },
-  {
-   "id": "ne50eb70bb2",
-   "topic": "nfl",
-   "title": "Packers Winners and Losers: Week 8 vs. the Panthers",
-   "text": "The best and worst as the Packers find a way to make it work after a short week.",
-   "link": "https://sports.yahoo.com/articles/packers-winners-losers-week-8-221020255.html",
-   "published": "2026-10-30T22:10:20+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-04T22:10:20+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/bf72fa3bf93361e0d0ee07b53792a9d4.jpg"
-  },
-  {
-   "id": "ne573ee14be",
-   "topic": "politik",
-   "title": "\"Gen Z regelt\" - Bundesweite Jugendproteste geplant - Forderung nach bezahlbarem Leben",
-   "text": "In bundesweiten Kundgebungen wollen junge Menschen für bessere Bildung und ein bezahlbares Leben auf die Straße gehen. In den vier Großstädten Berlin, Köln, Frankfurt am Main und München veranstaltet die Gruppierung \"GenZ regelt!\" eigene Kundgebungen, in 30 weiteren Städten können sich Interessenten örtlichen …",
-   "link": "https://www.deutschlandfunk.de/bundesweite-jugendproteste-geplant-forderung-nach-bezahlbarem-leben-100.html",
-   "published": "2026-10-30T22:00:06+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-01T22:00:06+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Jugendproteste in mehr als 30 Städten geplant",
-     "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-112.html"
-    }
-   ]
-  },
-  {
-   "id": "n60905cab15",
-   "topic": "politik",
-   "title": "Arbeitsmarkt - IG Metall startet am Sonntag erste Warnstreik-Welle",
-   "text": "​Im Tarifstreit der Metall- und Elektroindustrie ruft die IG Metall an diesem Wochenende zu ersten Warnstreiks auf. Arbeitsniederlegungen und Kundgebungen sind für die Nacht von Samstag auf Sonntag geplant; am Montag soll nach Angaben der Gewerkschaft erstmals auch ⁠ein großer bayerischer Autohersteller betroffen sein.",
-   "link": "https://www.deutschlandfunk.de/ig-metall-startet-am-sonntag-erste-warnstreik-welle-100.html",
-   "published": "2026-10-30T22:00:06+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-01T22:00:06+00:00"
-  },
-  {
-   "id": "n090a27c9e4",
-   "topic": "politik",
-   "title": "Eurostat - Mehr Bahnfahrten in der EU - Spitzenreiter war Luxemburg",
-   "text": "Bahnreisende in der EU haben im vergangenen Jahr so viele Kilometer zurückgelegt wie nie zuvor seit Beginn der Erhebung 2004.",
-   "link": "https://www.deutschlandfunk.de/mehr-bahnfahrten-in-der-eu-spitzenreiter-war-luxemburg-100.html",
-   "published": "2026-10-30T22:00:06+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-01T22:00:06+00:00",
-   "img": "https://bilder.deutschlandfunk.de/FI/LE/_4/8e/FILE_48e3a22ed34091bdf4691ba1d22fc358/61828088-jpg-100-768x768.jpg"
-  },
-  {
-   "id": "n84b9b7d04a",
-   "topic": "politik",
-   "title": "Plattform Binance - Reaktionen auf Krypto-Hackerangriff: \"Entsetzen an der Börse\", \"3,3 Milliarden Dollar sind nicht mehr zurückzuholen\"",
-   "text": "Der Hackerangriff auf die weltgrößte Digitalwährungsbörse Binance hat bei Anlegern und Börsenvertretern für Aufruhr gesorgt. Wie das Unternehmen erklärte, wurden Kryptowährungen im Wert von 6,3 Milliarden US-Dollar gestohlen, um einen Teil davon wird noch gerungen. Ein Überblick über den Ablauf des wohl größten …",
-   "link": "https://www.deutschlandfunk.de/reaktionen-auf-krypto-hackerangriff-entsetzen-an-der-boerse-3-3-milliarden-dollar-sind-nicht-mehr-zu-100.html",
-   "published": "2026-10-30T22:00:06+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-01T22:00:06+00:00"
-  },
-  {
-   "id": "nf611458277",
-   "topic": "politik",
-   "title": "Weitgehend friedlich - Landesweite Massenproteste in Italien für bessere Bildung und gegen hohe Preise",
-   "text": "In Italien haben Hunderttausende Menschen gegen steigende Lebenshaltungskosten und für mehr Geld für Bildung demonstriert. Die Gewerkschaft USB sprach von mindestens einer Million Teilnehmern.",
-   "link": "https://www.deutschlandfunk.de/landesweite-massenproteste-in-italien-fuer-bessere-bildung-und-gegen-hohe-preise-100.html",
-   "published": "2026-10-30T22:00:06+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-01T22:00:06+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Weitgehend friedlich - in einigen Städten Ausschreitungen",
-     "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-102.html"
-    }
-   ]
-  },
-  {
-   "id": "n648717fcf1",
-   "topic": "politik",
-   "title": "Gewalt und schwindende Ressourcen - UNHCR: Lage afrikanischer Flüchtlinge im Jemen verschlimmert sich",
-   "text": "Das Flüchtlingshilfswerk der Vereinten Nationen zeigt sich besorgt über die Situation von mehr als 65.000 größtenteils afrikanischen Flüchtlingen im Jemen. Die Menschen in dem Kriegsland seien Opfer einer sich rapide verschlimmernden humanitären Krise, erklärte ein UNHCR-Sprecher in Genf.",
-   "link": "https://www.deutschlandfunk.de/unhcr-lage-afrikanischer-fluechtlinge-im-jemen-verschlimmert-sich-100.html",
-   "published": "2026-10-30T22:00:06+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-01T22:00:06+00:00"
-  },
-  {
-   "id": "n318f201f5b",
-   "topic": "nfl",
-   "title": "Steelers OT Troy Fautanu responds to Jared Verse comments",
-   "text": "Steelers OT Troy Fautanu responds to Jared Verse.",
-   "link": "https://sports.yahoo.com/articles/steelers-ot-troy-fautanu-responds-215930040.html",
-   "published": "2026-10-30T21:59:30+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-04T21:59:30+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/33c9540947bb459d43ba0f46a8eada63.jpg"
-  },
-  {
-   "id": "nddccb17575",
-   "topic": "nfl",
-   "title": "NFL Week 8 schedule: Why you should watch these three underrated games",
-   "text": "Here are three games you should watch that people may not be talking about",
-   "link": "https://www.cbssports.com/nfl/news/nfl-week-8-schedule-where-to-watch-these-three-underrated-games/",
-   "published": "2026-10-30T21:24:09+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-04T21:24:09+00:00"
-  },
-  {
-   "id": "n16e278a867",
-   "topic": "wirtschaft",
-   "title": "Wirtschaft vor acht vom 30.10.2026",
-   "text": "Wirtschaft vor acht vom 30.10.2026",
-   "link": "https://www.tagesschau.de/video/video-1675498.html",
-   "published": "2026-10-30T20:26:47+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-02T20:26:47+00:00",
-   "img": "https://images.tagesschau.de/image/fb67811d-3fd2-4941-b737-986ef3e718f2/AAABoY59hKU/AAABnSSvrFg/16x9-big/sendungsbild-1819922.jpg?width=1920"
-  },
-  {
-   "id": "n70f0d126e0",
-   "topic": "politik",
-   "title": "Regionalliga Südwest: Steinbach Haiger und FSV Frankfurt teilen Punkte",
-   "text": "Das erste Hessen-Duell an diesem Regionalliga-Spieltag hat keinen Sieger gefunden. Für den FSV Frankfurt geht damit eine schwarze Serie weiter.",
-   "link": "https://www.hessenschau.de/sport/fussball/regionalliga/regionalliga-suedwest-steinbach-haiger-und-fsv-frankfurt-teilen-punkte-v1,fsv-steinbach-108.html",
-   "published": "2026-10-30T20:22:24+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-03T20:22:24+00:00",
-   "img": "https://www.hessenschau.de/sport/fussball/regionalliga/kleinhenz-114~_t-1793391744210_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "n4b49cd6429",
-   "topic": "wirtschaft",
-   "title": "Binance will alle Verluste nach Hackerangriff ersetzen",
-   "text": "Nach einem Hackerangriff mit einem Schaden von 6,3 Milliarden Dollar will Binance alle Verluste ersetzen. Der Fall zeigt, wie verwundbar Kryptowerte sind, und wirft Fragen zur Sicherheit digitaler Anlagen auf.",
-   "link": "https://www.tagesschau.de/wirtschaft/technologie/usa-binance-hackerangriff-verluste-100.html",
-   "published": "2026-10-30T20:21:33+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-02T20:21:33+00:00",
-   "img": "https://images.tagesschau.de/image/a0816700-ed50-4ee8-af39-ed742d73f760/AAABoY3FWOk/AAABnSSvrFg/16x9-big/30102026-binace-crypto-hackerangriff-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Hackerangriff - FBI macht nordkoreanische Hacker für Angriff auf Kryptowährungsbörse Binance verantwortlich",
-     "link": "https://www.deutschlandfunk.de/fbi-macht-nordkoreanische-hacker-fuer-angriff-auf-kryptowaehrungsboerse-binance-verantwortlich-102.html"
-    }
-   ]
-  },
-  {
-   "id": "n2589e2692a",
-   "topic": "it",
-   "title": "Top 10: Der beste GPS-Tracker für Hund & Katze im Test – viel besser als Airtag",
-   "text": "GPS-Tracker helfen beim Aufspüren entlaufener Haustiere und kosten zwischen 22 und 90 Euro. Wir haben die Haustier-Finder getestet und zeigen die zehn besten.",
-   "link": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-gps-tracker-fuer-hund-und-katze-im-test-viel-besser-als-airtag/mqeplqh?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-30T19:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-04T19:00:00+00:00"
-  },
-  {
-   "id": "n0d3de765cc",
-   "topic": "ki",
-   "title": "Oxford-Forscher lässt Claude-KI-Agent erfolgreich autonom ein Mausgehirn operieren",
-   "text": "Claude Sonnet 5 hat bei einer Gehirnoperation an einer Maus eigenständig Medikament, Zielregion und Koordinaten gewählt und den Eingriff autonom durchgeführt. Laut dem verantwortlichen Forscher Ocana-Santero ist es der erste Fall, in dem ein KI-Agent Therapieentscheidung und Ausführung an einem lebenden Säugetier …",
-   "link": "https://the-decoder.de/oxford-forscher-laesst-claude-ki-agent-erfolgreich-autonom-ein-mausgehirn-operieren/",
-   "published": "2026-10-30T18:56:59+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-06T18:56:59+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/claude_mouse_op.png"
-  },
-  {
-   "id": "nfa4108600c",
-   "topic": "welt",
-   "title": "USA: Bereitet Newsom eine Präsidentschaftskandidatur vor?",
-   "text": "Der Wahlkampf in den USA ist für Politiker auch eine Gelegenheit, sich zu positionieren - für die Präsidentschaftswahl 2028. Kaliforniens Gouverneur Newsom werden Ambitionen nachgesagt - doch es gibt viele Vorbehalte. Von R. Spiegelhauer.",
-   "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-newsom-ambitionen-100.html",
-   "published": "2026-10-30T18:46:53+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-02T18:46:53+00:00",
-   "img": "https://images.tagesschau.de/image/5ab7a123-3d09-4857-b3c7-f7c8eda3bacd/AAABoYzUalw/AAABnSSvrFg/16x9-big/fanartikel-newsom-100.jpg?width=1920"
   }
  ]
 }
