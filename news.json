@@ -1,50 +1,291 @@
 {
- "generated": "2026-11-01T00:08:35.889985+00:00",
+ "generated": "2026-11-01T06:06:22.078621+00:00",
  "briefing": [
+  "nf586393a0c",
   "ne056238871",
   "n4a324054ea",
+  "n4b49cd6429",
   "n61ed762265",
-  "n27b12e5897",
-  "nc98f9d9a4b",
-  "nfa8f5e48f2",
+  "na38c46f67c",
+  "n3cb60a5614",
   "n0803e4b406",
-  "n63fa85405f"
+  "n63fa85405f",
+  "nb341dcd975"
  ],
  "ranked": [
   {
+   "id": "nf586393a0c",
+   "s": 32.4
+  },
+  {
    "id": "ne056238871",
-   "s": 33.9
+   "s": 32.4
   },
   {
    "id": "n4a324054ea",
-   "s": 30.1
+   "s": 28.6
+  },
+  {
+   "id": "n4b49cd6429",
+   "s": 27.0
   },
   {
    "id": "n61ed762265",
-   "s": 27.1
+   "s": 25.6
   },
   {
-   "id": "n27b12e5897",
-   "s": 23.2
+   "id": "na38c46f67c",
+   "s": 22.8
   },
   {
-   "id": "nc98f9d9a4b",
-   "s": 23.0
-  },
-  {
-   "id": "nfa8f5e48f2",
+   "id": "n3cb60a5614",
    "s": 22.6
   },
   {
    "id": "n0803e4b406",
-   "s": 20.7
+   "s": 19.2
   },
   {
    "id": "n63fa85405f",
-   "s": 19.0
+   "s": 17.5
+  },
+  {
+   "id": "nb341dcd975",
+   "s": 17.1
+  },
+  {
+   "id": "n702123d213",
+   "s": 17.0
+  },
+  {
+   "id": "n4a9ca4f548",
+   "s": 17.0
+  },
+  {
+   "id": "nd0f56310f4",
+   "s": 17.0
+  },
+  {
+   "id": "n090a27c9e4",
+   "s": 17.0
+  },
+  {
+   "id": "n16e278a867",
+   "s": 17.0
+  },
+  {
+   "id": "n6d18336abc",
+   "s": 16.9
+  },
+  {
+   "id": "n71f1d68f7e",
+   "s": 16.4
   }
  ],
  "items": [
+  {
+   "id": "nae817aea92",
+   "topic": "wissenschaft",
+   "title": "Planetenlauf im November 2026: Reichlich Planeten am Morgen",
+   "text": "Merkur liefert seine beste Morgenshow des Jahres. Venus kehrt rasch auf die Himmelsbühne zurück, während Jupiter und Mars sich im Löwen treffen. Uranus tritt in Opposition.",
+   "link": "https://www.spektrum.de/news/planetenlauf-im-november-2026-reichlich-planeten-am-morgen/2330901",
+   "published": "2026-11-01T06:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-15T06:00:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/LESERBILD_marsjupiteraugust14b_GraXper.jpg.8388560.jpg?f=1280x720"
+  },
+  {
+   "id": "n319393338b",
+   "topic": "politik",
+   "title": "BKA - Bericht: Zahl islamistisch motivierter antisemitischer Straftaten auf Höchststand",
+   "text": "Die Zahl antisemitischer Straftaten in Deutschland, die islamistisch motiviert sind, hat nach Presseinformationen einen neuen Höchststand erreicht.",
+   "link": "https://www.deutschlandfunk.de/bericht-zahl-islamistisch-motivierter-antisemitischer-straftaten-auf-hoechststand-106.html",
+   "published": "2026-11-01T05:12:57+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-03T05:12:57+00:00",
+   "img": "https://bilder.deutschlandfunk.de/5d/5d/14/cc/5d5d14cc-69ab-4640-95e3-e200f92d3091/berlin-razzia-palaestinenser-100-1280x1280.jpg"
+  },
+  {
+   "id": "n4064478071",
+   "topic": "politik",
+   "title": "\"Gen Z regelt\" - CDU-Generalsekretärin Hoppermann: Demonstrationen als Deckmantel für Gewalt und Ausschreitungen",
+   "text": "CDU-Generalsekretärin Hoppermann hat die Krawalle nach Jugend-Demonstrationen in mehreren deutschen Städten verurteilt.",
+   "link": "https://www.deutschlandfunk.de/cdu-generalsekretaerin-hoppermann-demonstrationen-als-deckmantel-fuer-gewalt-und-ausschreitungen-100.html",
+   "published": "2026-11-01T05:12:57+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-03T05:12:57+00:00",
+   "img": "https://bilder.deutschlandfunk.de/d0/1f/5b/72/d01f5b72-cd8c-4466-86d6-6f716a321a6b/cdu-sitzung-hoppermann-100-1920x1920.jpg"
+  },
+  {
+   "id": "n13973d360b",
+   "topic": "politik",
+   "title": "Jugend-Demos - SPD fordert Bildungsgipfel",
+   "text": "Die SPD im Bundestag macht sich angesichts der Jugendproteste in mehreren deutschen Städten für einen nationalen Bildungsgipfel stark.",
+   "link": "https://www.deutschlandfunk.de/spd-fordert-bildungsgipfel-100.html",
+   "published": "2026-11-01T05:12:57+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-03T05:12:57+00:00",
+   "img": "https://bilder.deutschlandfunk.de/3e/33/b9/5c/3e33b95c-8c2e-466e-98a9-703dfb4bf456/268580932-100-1920x1920.jpg"
+  },
+  {
+   "id": "na38c46f67c",
+   "topic": "politik",
+   "title": "Interview - Kramp-Karrenbauer warnt vor Regierungen von AfD und Linken",
+   "text": "Die frühere CDU-Vorsitzende Kramp-Karrenbauer hat vor einer Regierungsübernahme der AfD in Sachsen-Anhalt, beziehungsweise der Linken in Berlin gewarnt.",
+   "link": "https://www.deutschlandfunk.de/kramp-karrenbauer-warnt-vor-regierungen-von-afd-und-linken-100.html",
+   "published": "2026-11-01T05:12:57+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-03T05:12:57+00:00",
+   "img": "https://bilder.deutschlandfunk.de/79/90/73/9c/7990739c-fea4-4ba3-9e48-5916a442b2a7/annegret-kramp-karrenbauer-cdu-konrad-adenauer-stiftung-vorsitzende-100-1920x1920.jpg"
+  },
+  {
+   "id": "n8c1b1ade7f",
+   "topic": "politik",
+   "title": "Tarife - Warnstreiks der IG Metall begonnen",
+   "text": "Im Tarifkonflikt der Metallindustrie haben in der Nacht Warnstreiks begonnen.",
+   "link": "https://www.deutschlandfunk.de/warnstreiks-der-ig-metall-begonnen-100.html",
+   "published": "2026-11-01T05:12:57+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-03T05:12:57+00:00",
+   "img": "https://bilder.deutschlandfunk.de/FI/LE/_5/37/FILE_537fac075587e0fd4045b87391645c8b/133823390-jpg-100-768x768.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Warnstreiks der IG Metall kurz nach Mitternacht angelaufen",
+     "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-108.html"
+    }
+   ]
+  },
+  {
+   "id": "n1eceefca97",
+   "topic": "politik",
+   "title": "Hackerangriff - FBI macht nordkoreanische Hacker für Angriff auf Kryptowährungsbörse Binance verantwortlich",
+   "text": "Die US-Bundespolizei macht Nordkorea für den milliardenschweren Hackerangriff auf die Kryptowährungsbörse Binance verantwortlich.",
+   "link": "https://www.deutschlandfunk.de/fbi-macht-nordkoreanische-hacker-fuer-angriff-auf-kryptowaehrungsboerse-binance-verantwortlich-102.html",
+   "published": "2026-11-01T05:12:57+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-03T05:12:57+00:00",
+   "img": "https://bilder.deutschlandfunk.de/63/c7/08/26/63c70826-5020-4a28-857b-b6ccfdceaf75/binance-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Binance will alle Verluste nach Hackerangriff ersetzen",
+     "link": "https://www.tagesschau.de/wirtschaft/technologie/usa-binance-hackerangriff-verluste-100.html"
+    }
+   ]
+  },
+  {
+   "id": "ne45576fe91",
+   "topic": "politik",
+   "title": "Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag",
+   "text": "Bei den Protesten am Tag ging es um bessere Bildung oder die Wehrpflicht, Zehntausende demonstrierten friedlich. Am Abend übernahmen in einigen Städten dann Krawallmacher und Extremisten. Sie hatten sich offenbar teils gezielt unter die Demos gemischt.",
+   "link": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html",
+   "published": "2026-11-01T04:42:41+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-04T04:42:41+00:00",
+   "img": "https://images.tagesschau.de/image/17d67126-2747-4a82-b1c3-15cd570eaa3f/AAABoZR_zgc/AAABnSSvrFg/16x9-big/frankfurt-ausschreitungen-102.jpg?width=1920"
+  },
+  {
+   "id": "n2a6b0198d2",
+   "topic": "nfl",
+   "title": "The Good, The Bad, and The Ugly: North Carolina Tar Heels 2026 Edition",
+   "text": "Miami went on the road and found a way to win. But let’s look under the hood of the win in Chapel hill",
+   "link": "https://sports.yahoo.com/articles/good-bad-ugly-north-carolina-043211689.html",
+   "published": "2026-11-01T04:32:11+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-06T04:32:11+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/c47401067ba8512b9be11abbb3ff664f.jpg"
+  },
+  {
+   "id": "n3cb60a5614",
+   "topic": "welt",
+   "title": "Polen: Tusk beklagt Angriff auf \"Demokratie und Rechtsstaat\"",
+   "text": "Polens Präsident drängt sich mit Körpereinsatz ins Verfassungsgericht und drückt eine Richterin nach unten. Nun äußert sich Regierungschef Tusk zu dem Vorfall. Der Opposition wirft er einen Angriff auf Demokratie und Rechtsstaat vor.",
+   "link": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-102.html",
+   "published": "2026-11-01T04:26:15+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-04T04:26:15+00:00",
+   "img": "https://images.tagesschau.de/image/4cbf5fa6-4a9f-4f77-ac34-9a92650a4bb4/AAABoLB37b8/AAABnSSvrFg/16x9-big/tusk-360.jpg?width=1920"
+  },
+  {
+   "id": "nf586393a0c",
+   "topic": "wirtschaft",
+   "title": "Warnstreiks der IG Metall kurz nach Mitternacht angelaufen",
+   "text": "Die IG Metall hat \"starke Warnstreiks\" angekündigt - und in der Nacht damit begonnen. Die Gewerkschaft will damit Druck in den Tarifverhandlungen machen. Betroffen sind wichtige Industriezweige wie Auto oder Maschinenbau.",
+   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-108.html",
+   "published": "2026-11-01T03:48:45+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-04T03:48:45+00:00",
+   "img": "https://images.tagesschau.de/image/ee2a223d-bc92-4963-8f3f-bb64caca5e5b/AAABoZU5U5o/AAABnSSvrFg/16x9-big/warnstreik-456.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Tarife - Warnstreiks der IG Metall begonnen",
+     "link": "https://www.deutschlandfunk.de/warnstreiks-der-ig-metall-begonnen-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n2a4f83f808",
+   "topic": "nfl",
+   "title": "Recap: Miami survives North Carolina 38-35",
+   "text": "Wow. All I can immediately muster as I sit down at my computer. The Miami Hurricanes remained perfect on Saturday night in Chapel Hill, just barely getting past North Carolina 38-35. Darian Mensah was 22/29 passing for 274 yards and three scores with no interceptions. Mark Fletcher, Jr. had 13 rushes for 43 yards with …",
+   "link": "https://sports.yahoo.com/articles/recap-miami-survives-north-carolina-034126681.html",
+   "published": "2026-11-01T03:41:26+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-06T03:41:26+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/2b877fc834dac852b2ac39cd23a31740.jpg"
+  },
+  {
+   "id": "n6d18336abc",
+   "topic": "politik",
+   "title": "\"Gen Z regelt\" will am 20. November wieder demonstrieren",
+   "text": "Man habe keinen Einfluss darauf, was nach Ende der Demos passiere, sagte ein \"Gen Z\"-Sprecher. Von Gewalt hatte sich die Initiative stets distanziert. Ihr Fazit der Jugendproteste fällt positiv aus. Am 20. November will sie erneut demonstrieren.",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-demos-bilanz-100.html",
+   "published": "2026-11-01T01:44:46+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-04T01:44:46+00:00",
+   "img": "https://images.tagesschau.de/image/6e5bb6aa-dfd3-4d91-bf28-e0a33d2da407/AAABoZS7Q4s/AAABnSSvrFg/16x9-big/gen-z-demo-100.jpg?width=1920"
+  },
+  {
+   "id": "n7d2e410e8b",
+   "topic": "politik",
+   "title": "Scheiben eingeschlagen, Geschäfte geplündert: Ausschreitungen in Frankfurt",
+   "text": "In Frankfurt ist es nach der Auflösung des größtenteils friedlichen Gen-Z-Protests zu Ausschreitungen gekommen. Die Polizei riegelte den Bereich rund um die Zeil ab. Scheiben wurden eingeschlagen, Geschäfte geplündert.",
+   "link": "https://www.hessenschau.de/panorama/scheiben-eingeschlagen-geschaefte-gepluendert-ausschreitungen-in-frankfurt-v8,gen-z-ausschreitungen-frankfurt-100.html",
+   "published": "2026-11-01T00:32:58+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-05T00:32:58+00:00",
+   "tag": "Hessen"
+  },
   {
    "id": "n13b07ee7d4",
    "topic": "nfl",
@@ -69,7 +310,6 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-04T23:54:33+00:00",
-   "img": "https://www.hessenschau.de/panorama/sek-frankfurt-108~_t-1793485360633_v-16to9.jpg",
    "tag": "Hessen"
   },
   {
@@ -114,18 +354,6 @@
      "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-102.html"
     }
    ]
-  },
-  {
-   "id": "n319393338b",
-   "topic": "politik",
-   "title": "BKA - Bericht: Zahl islamistisch motivierter antisemitischer Straftaten auf Höchststand",
-   "text": "Die Zahl antisemitischer Straftaten in Deutschland, die islamistisch motiviert sind, hat nach Presseinformationen einen neuen Höchststand erreicht.",
-   "link": "https://www.deutschlandfunk.de/bericht-zahl-islamistisch-motivierter-antisemitischer-straftaten-auf-hoechststand-106.html",
-   "published": "2026-10-31T23:41:49+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-02T23:41:49+00:00"
   },
   {
    "id": "n71f1d68f7e",
@@ -1315,14 +1543,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-03T03:57:32+00:00",
-   "img": "https://images.tagesschau.de/image/b24841d1-87c4-4a16-ba6c-c4db63284842/AAABoY4uPLA/AAABnSSvrFg/16x9-big/kanada-eu-buendnis-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Gipfel in Montreal - EU und Kanada schmieden \"Allianz für die Zukunft\"",
-     "link": "https://www.deutschlandfunk.de/eu-und-kanada-schmieden-allianz-fuer-die-zukunft-100.html"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/b24841d1-87c4-4a16-ba6c-c4db63284842/AAABoY4uPLA/AAABnSSvrFg/16x9-big/kanada-eu-buendnis-100.jpg?width=1920"
   },
   {
    "id": "n4a9ca4f548",
@@ -1537,7 +1758,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-02T20:21:33+00:00",
-   "img": "https://images.tagesschau.de/image/a0816700-ed50-4ee8-af39-ed742d73f760/AAABoY3FWOk/AAABnSSvrFg/16x9-big/30102026-binace-crypto-hackerangriff-100.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/a0816700-ed50-4ee8-af39-ed742d73f760/AAABoY3FWOk/AAABnSSvrFg/16x9-big/30102026-binace-crypto-hackerangriff-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Hackerangriff - FBI macht nordkoreanische Hacker für Angriff auf Kryptowährungsbörse Binance verantwortlich",
+     "link": "https://www.deutschlandfunk.de/fbi-macht-nordkoreanische-hacker-fuer-angriff-auf-kryptowaehrungsboerse-binance-verantwortlich-102.html"
+    }
+   ]
   },
   {
    "id": "n2589e2692a",
@@ -1576,177 +1804,6 @@
    "lang": "de",
    "expires": "2026-11-02T18:46:53+00:00",
    "img": "https://images.tagesschau.de/image/5ab7a123-3d09-4857-b3c7-f7c8eda3bacd/AAABoYzUalw/AAABnSSvrFg/16x9-big/fanartikel-newsom-100.jpg?width=1920"
-  },
-  {
-   "id": "n33d1058ef2",
-   "topic": "it",
-   "title": "Zentralbank stellt die Weichen für den digitalen Euro",
-   "text": "Die Deutsche Telekom und der spanische Telefónica-Konzern gehören zu den Konsortien, die Konnektivitätsdienste für den digitalen Euro leisten sollen.",
-   "link": "https://www.heise.de/news/Zentralbank-stellt-die-Weichen-fuer-den-digitalen-Euro-11506763.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-30T18:26:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-04T18:26:00+00:00"
-  },
-  {
-   "id": "n1fd56b7919",
-   "topic": "ki",
-   "title": "Mainpulierte Claude-Code-Extension für Cursor sammelte Nutzerdaten und richtete Fernzugriff ein",
-   "text": "Eine manipulierte Claude-Code-Extension war rund elf Stunden im Cursor-Marketplace verfügbar und hat bis zu 5.000 Nutzer betroffen. Die Fake-Extension versuchte, Nutzerdaten abzugreifen und Fernzugriff einzurichten. Cursor hat den gesamten Marketplace vorübergehend abgeschaltet. Der Artikel Mainpulierte …",
-   "link": "https://the-decoder.de/mainpulierte-claude-code-extension-fuer-cursor-sammelte-nutzerdaten-und-richtete-fernzugriff-ein/",
-   "published": "2026-10-30T18:10:10+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-06T18:10:10+00:00"
-  },
-  {
-   "id": "n6a22ce06bc",
-   "topic": "nfl",
-   "title": "Steelers legend Kordell Stewart changes narrative on his NFL career in new HBO documentary",
-   "text": "Stewart wants his career to be remembered for what happened on the field",
-   "link": "https://www.cbssports.com/nfl/news/steelers-legend-kordell-stewart-changes-narrative-hbo-documentary/",
-   "published": "2026-10-30T17:58:38+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-04T17:58:38+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/29/a98801dc-5982-488c-892f-571e498fb4d8/slash.jpg"
-  },
-  {
-   "id": "n6b11714f22",
-   "topic": "wissenschaft",
-   "title": "Abschluss der UN-Weltnaturkonferenz COP17",
-   "text": "Um den Schutz der biologischen Vielfalt und wie dieser bis 2030 erreicht werden kann, darum geht es auf der UN-Konferenz COP17 im armenischen Eriwan.",
-   "link": "https://www.tagesschau.de/video/video-1675330.html",
-   "published": "2026-10-30T17:53:25+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-13T17:53:25+00:00",
-   "img": "https://images.tagesschau.de/image/a3b7e5a3-4a5f-4324-9f5f-b6531c0789b1/AAABoY3tv9g/AAABnSSvrFg/16x9-big/30102026-cop17-weltnaturkonferenz-un-100.jpg?width=1920"
-  },
-  {
-   "id": "nb3900d8b6f",
-   "topic": "nfl",
-   "title": "Ravens coach Jesse Minter confirms Lamar Jackson will return from ankle injury, start vs. Bills",
-   "text": "The two-time MVP hasn't played since Week 4 after suffering a high ankle sprain",
-   "link": "https://www.cbssports.com/nfl/news/ravens-lamar-jackson-injury-update-bills/",
-   "published": "2026-10-30T17:50:27+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-04T17:50:27+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/28/74d5444f-0a02-47a1-959c-635938add981/lamar-jackson-ravens-imagn-images.jpg"
-  },
-  {
-   "id": "nca033174d6",
-   "topic": "nfl",
-   "title": "Lamar Jackson set to return in Week 8 to help Ravens snap 2-game losing streak: 'That's what I'm ready to do'",
-   "text": "Jackson has been out since Week 4 with a high ankle sprain.",
-   "link": "https://sports.yahoo.com/nfl/breaking-news/article/lamar-jackson-set-to-return-in-week-8-to-help-ravens-snap-2-game-losing-streak-thats-what-im-ready-to-do-174713573.html",
-   "published": "2026-10-30T17:46:50+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-04T17:46:50+00:00"
-  },
-  {
-   "id": "nbce5851ca7",
-   "topic": "it",
-   "title": "Tripo.ai und Meshy: KIs für 3D-Modelle schotten sich nach Milliardenbewertung ab",
-   "text": "Kostenlos 3D-Modelle entwerfen, ohne sich in komplexe Programme einzuarbeiten. Das war bei Tripo.ai und Meshy möglich - vor ihrer Milliardenbewertung. Ein Erfahrungsbericht von Achim Sawall ( DIY - Do it yourself , KI )",
-   "link": "https://www.golem.de/news/tripo-ai-und-meshy-kis-fuer-3d-modelle-schotten-sich-nach-milliardenbewertung-ab-2610-214705.html",
-   "published": "2026-10-30T17:45:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-04T17:45:02+00:00",
-   "img": "https://www.golem.de/2610/214705-606166-606164_rc.jpg"
-  },
-  {
-   "id": "n19ce56e028",
-   "topic": "nfl",
-   "title": "Packers RB Josh Jacobs says hands-behind-back gesture after first-half TD vs. Panthers was ode to gospel song",
-   "text": "Jacobs was arrested in May and ultimately pleaded no contest to misdemeanor charges of battery and criminal damage to property.",
-   "link": "https://sports.yahoo.com/nfl/article/packers-rb-josh-jacobs-says-hands-behind-back-gesture-after-first-half-td-vs-panthers-was-ode-to-gospel-song-174240433.html",
-   "published": "2026-10-30T17:42:40+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-04T17:42:40+00:00"
-  },
-  {
-   "id": "n1d6e02cc9d",
-   "topic": "ki",
-   "title": "GPT-Modelle sollen künftig aus Erinnerungen ableiten, was Nutzer wirklich wollen",
-   "text": "OpenAI hat seine Model-Spec überarbeitet und ordnet die Verhaltensregeln für KI-Modelle nun um fünf Grundwerte, darunter Treue zur menschlichen Absicht und Korrigierbarkeit. GPT soll künftig aus Gesprächsverläufen ableiten, was Nutzer wirklich wollen, und eigene Annahmen offenlegen. Ob sich die Modelle daran halten …",
-   "link": "https://the-decoder.de/gpt-modelle-sollen-kuenftig-aus-erinnerungen-ableiten-was-nutzer-wirklich-wollen/",
-   "published": "2026-10-30T17:39:26+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-06T17:39:26+00:00"
-  },
-  {
-   "id": "ne2d7ddf0e9",
-   "topic": "politik",
-   "title": "G20-Außenminister-Treffen - Rubio fordert gemeinsames Vorgehen gegen Bedrohungen der Weltwirtschaft",
-   "text": "US-Außenminister Rubio hat beim Treffen der G20-Außenminister eine stärkere Zusammenarbeit gefordert, um gegen Bedrohungen der Weltwirtschaft vorzugehen. Wirtschaftliche und geopolitische Krisen bedrohten den globalen Handel, die Versorgung mit Energie und Lebensmitteln sowie die freie Schifffahrt, sagte Rubio zum …",
-   "link": "https://www.deutschlandfunk.de/rubio-fordert-gemeinsames-vorgehen-gegen-bedrohungen-der-weltwirtschaft-102.html",
-   "published": "2026-10-30T17:32:37+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-01T17:32:37+00:00",
-   "img": "https://bilder.deutschlandfunk.de/dc/b7/ae/e3/dcb7aee3-0905-44e5-b203-f00053e1a265/rubio-g-20-treffen-100-1920x1920.jpg"
-  },
-  {
-   "id": "n95cb4016b2",
-   "topic": "politik",
-   "title": "Gipfel in Montreal - EU und Kanada schmieden \"Allianz für die Zukunft\"",
-   "text": "Die Europäische Union und Kanada rücken angesichts wachsender geopolitischer Spannungen und des schwierigen Verhältnisses zu den USA enger zusammen. Zum Abschluss eines Gipfeltreffens in Montreal vereinbarten beide Seiten eine sogenannte Allianz für die Zukunft.",
-   "link": "https://www.deutschlandfunk.de/eu-und-kanada-schmieden-allianz-fuer-die-zukunft-100.html",
-   "published": "2026-10-30T17:32:37+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-01T17:32:37+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "\"Allianz für die Zukunft\": Kanada und Europa gründen Bündnis",
-     "link": "https://www.tagesschau.de/ausland/amerika/kanada-eu-allianz-zukunft-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n6df9108a93",
-   "topic": "politik",
-   "title": "Hessen am Abend: Baumaschinen in Flammen – und tausende Jugendliche ohne Lehrstelle",
-   "text": "Brandstiftung auf Rheinmetall-Baustelle in Calden vermutet, tausende Jugendliche ohne Lehrstelle und Skilift-Betrieb auf dem Hohen Meißner droht dauerhaft Stillstand. Das und mehr gibt es in Sven-Oliver Schibats Blick auf den Tag.",
-   "link": "https://www.hessenschau.de/hessen-am-abend/hessen-am-abend-baumaschinen-in-flammen--und-tausende-jugendliche-ohne-lehrstelle-v1,hessen-am-abend-freitag-274.html",
-   "published": "2026-10-30T17:27:53+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-03T17:27:53+00:00",
-   "img": "https://www.hessenschau.de/panorama/hessen-am-abend-928~_t-1793375058435_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "n2f079abf85",
-   "topic": "wissenschaft",
-   "title": "Simon Plentinger, BR, zzt. Eriwan, zum Abschluss der UN-Biodiversitätskonferenz in Armenien",
-   "text": "Simon Plentinger, BR, zzt. Eriwan, zum Abschluss der UN-Biodiversitätskonferenz in Armenien",
-   "link": "https://www.tagesschau.de/video/video-1675312.html",
-   "published": "2026-10-30T17:23:35+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-13T17:23:35+00:00",
-   "img": "https://images.tagesschau.de/image/1715f3d5-5c58-4a6b-a3c1-809f6765bd24/AAABoY3WWnA/AAABnSSvrFg/16x9-big/sendungsbild-1819810.jpg?width=1920"
   }
  ]
 }
