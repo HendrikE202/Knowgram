@@ -1,55 +1,621 @@
 {
- "generated": "2026-11-02T00:45:29.406304+00:00",
+ "generated": "2026-11-02T11:09:15.190902+00:00",
  "briefing": [
+  "n692e12d5d2",
+  "ned2e72b196",
   "n5cb926c86a",
   "n1521b46c50",
-  "nf586393a0c",
-  "n584f9ed248",
-  "nde05382a23",
-  "nda58deba85",
   "n3d301c4254",
-  "n7b9bf21112",
-  "na56aa3b879"
+  "nedd3d44aa7",
+  "nd98dd23142",
+  "na18053cc05",
+  "n1106e07fe5",
+  "na69e50ca89"
  ],
  "ranked": [
   {
+   "id": "n692e12d5d2",
+   "s": 42.7
+  },
+  {
+   "id": "ned2e72b196",
+   "s": 30.8
+  },
+  {
    "id": "n5cb926c86a",
-   "s": 30.2
+   "s": 27.6
   },
   {
    "id": "n1521b46c50",
-   "s": 29.0
-  },
-  {
-   "id": "nf586393a0c",
-   "s": 27.8
-  },
-  {
-   "id": "n584f9ed248",
-   "s": 25.5
-  },
-  {
-   "id": "nde05382a23",
-   "s": 24.3
-  },
-  {
-   "id": "nda58deba85",
-   "s": 23.7
+   "s": 27.0
   },
   {
    "id": "n3d301c4254",
    "s": 23.0
   },
   {
-   "id": "n7b9bf21112",
+   "id": "nedd3d44aa7",
    "s": 23.0
   },
   {
-   "id": "na56aa3b879",
-   "s": 21.7
+   "id": "nd98dd23142",
+   "s": 23.0
+  },
+  {
+   "id": "na18053cc05",
+   "s": 23.0
+  },
+  {
+   "id": "n1106e07fe5",
+   "s": 22.8
+  },
+  {
+   "id": "na69e50ca89",
+   "s": 22.5
+  },
+  {
+   "id": "n2fe0b4729e",
+   "s": 22.5
+  },
+  {
+   "id": "n75bcd2145f",
+   "s": 22.5
+  },
+  {
+   "id": "nd5a652d4b8",
+   "s": 22.4
+  },
+  {
+   "id": "n2baad25ffd",
+   "s": 22.3
+  },
+  {
+   "id": "nde05382a23",
+   "s": 22.0
+  },
+  {
+   "id": "n7b9bf21112",
+   "s": 20.4
+  },
+  {
+   "id": "n8619e09fe5",
+   "s": 19.1
+  },
+  {
+   "id": "n83fd14fdbf",
+   "s": 19.1
   }
  ],
  "items": [
+  {
+   "id": "n3d301c4254",
+   "topic": "politik",
+   "title": "Abgeordnetenhaus - Rot-grün-rote Koalitionsverhandlungen beginnen in Berlin",
+   "text": "In Berlin haben rund sechs Wochen nach der Abgeordnetenhauswahl die Koalitionsverhandlungen zwischen Linken, Grünen und SPD begonnen. Als letzte Partei hatte die Linke am Wochenende für solche Gespräche gestimmt.",
+   "link": "https://www.deutschlandfunk.de/rot-gruen-rote-koalitionsverhandlungen-beginnen-in-berlin-100.html",
+   "published": "2026-11-02T11:04:35+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-04T11:04:35+00:00",
+   "img": "https://bilder.deutschlandfunk.de/9d/9a/dc/ec/9d9adcec-46e3-456c-9a6d-fa893915495c/koalitionsverhandlungen-berlin-100-1920x1920.jpg"
+  },
+  {
+   "id": "nedd3d44aa7",
+   "topic": "politik",
+   "title": "Bundesjustizministerin - Hubig stellt Gesetzentwurf für schärferes Sexualstrafrecht vor - höheres Strafmaß etwa bei Gruppenvergewaltigungen",
+   "text": "Das Justizministerium hat einen ersten Referentenentwurf zur Verschärfung des Sexualstrafrechts veröffentlicht. Vorgesehen sind unter anderem erstmals Strafen für verbale sexuelle Belästigung sowie höhere Sanktionen und Verjährungsfristen bei Vergewaltigung.",
+   "link": "https://www.deutschlandfunk.de/hubig-stellt-gesetzentwurf-fuer-schaerferes-sexualstrafrecht-vor-hoeheres-strafmass-etwa-bei-gruppen-100.html",
+   "published": "2026-11-02T11:04:35+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-04T11:04:35+00:00",
+   "img": "https://bilder.deutschlandfunk.de/NO/VA/_6/37/NOVA_637e47ab4e2dbb1c7768df36ba096d0b/craft-13077708-asset-100-1920x1920.jpg"
+  },
+  {
+   "id": "nd98dd23142",
+   "topic": "politik",
+   "title": "Chancen und Risiken von KI - Digitalgipfel der Bundesregierung hat begonnen - Wildberger: \"Anschluss nicht verpassen\"",
+   "text": "In Berlin hat ein zweitägiger Digitalgipfel der Bundesregierung begonnen. In diesem Jahr stehen vor allem die Chancen, Risiken und Auswirkungen von Künstlicher Intelligenz im Mittelpunkt.",
+   "link": "https://www.deutschlandfunk.de/digitalgipfel-der-bundesregierung-hat-begonnen-wildberger-anschluss-nicht-verpassen-100.html",
+   "published": "2026-11-02T11:04:35+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-04T11:04:35+00:00",
+   "img": "https://bilder.deutschlandfunk.de/5d/df/c9/5e/5ddfc95e-4b27-474b-bafe-9d48d7d7c1b5/digitalgipfel-karsten-wildberger-100-1920x1920.jpg"
+  },
+  {
+   "id": "n7141fc0cd3",
+   "topic": "politik",
+   "title": "Tarife - Weitere Warnstreiks der IG Metall - Kritik der Arbeitgeber",
+   "text": "Im Tarifkonflikt der Metall- und Elektroindustrie weitet die IG Metall ihre Warnstreiks aus. In mehreren Bundesländern legten Beschäftigte heute früh die Arbeit nieder. Die ersten Arbeitskampfmaßnahmen hatten bereits gestern unmittelbar nach Ende der Friedenspflicht begonnen.",
+   "link": "https://www.deutschlandfunk.de/weitere-warnstreiks-der-ig-metall-kritik-der-arbeitgeber-104.html",
+   "published": "2026-11-02T11:04:35+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-04T11:04:35+00:00",
+   "img": "https://bilder.deutschlandfunk.de/f4/f6/de/96/f4f6de96-91c2-4f8b-a383-43934b2d02d1/ig-metall-streiks-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "IG Metall weitet im Tarifstreit Warnstreiks aus",
+     "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-120.html"
+    }
+   ]
+  },
+  {
+   "id": "na18053cc05",
+   "topic": "politik",
+   "title": "Beratungen in Brüssel - Kallas und Streeting: Zeit noch nicht reif für Verhandlungen über britischen EU-Wiedereintritt",
+   "text": "Zweieinhalb Wochen vor dem EU-Großbritannien-Gipfel sehen sich beide Seiten noch nicht bereit für Verhandlungen über einen Wiedereintritt des Landes in den Staatenbund.",
+   "link": "https://www.deutschlandfunk.de/kallas-und-streeting-zeit-noch-nicht-reif-fuer-verhandlungen-ueber-britischen-eu-wiedereintritt-100.html",
+   "published": "2026-11-02T11:04:35+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-04T11:04:35+00:00",
+   "img": "https://bilder.deutschlandfunk.de/2d/b6/3f/8a/2db63f8a-5c72-4e5d-a8da-43ba0bbb8be5/kallas-streeting-bruessel-100-1920x1920.jpg"
+  },
+  {
+   "id": "n61757e540a",
+   "topic": "politik",
+   "title": "Haushaltsstreit - Belgiens Premierminister De Wever bietet König Philippe seinen Rücktritt an",
+   "text": "In Belgien hat Regierungschef De Wever wegen des Haushaltsstreits in der Regierungskoalition König Philippe seinen Rücktritt angeboten.",
+   "link": "https://www.deutschlandfunk.de/belgiens-premierminister-de-wever-bietet-koenig-philippe-seinen-ruecktritt-an-102.html",
+   "published": "2026-11-02T11:04:35+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-04T11:04:35+00:00",
+   "img": "https://bilder.deutschlandfunk.de/9e/a8/69/98/9ea86998-90ef-4b63-a1ad-e631663bb337/bart-de-wever-100-1920x1920.jpg"
+  },
+  {
+   "id": "n95754c36d5",
+   "topic": "politik",
+   "title": "Bas beklagt im ARD-Interview mangelnde Menschlichkeit im Politikbetrieb",
+   "text": "Nach einem Schicksalsschlag hat sich SPD-Politikerin Bas aus der ersten Reihe der Politik zurückgezogen. Ihr Rücktritt löste in der Koalition eine Krise aus. Im ARD-Interview spricht sie nun über Menschlichkeit und das \"harte politische Geschäft\".",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/bas-ruecktritt-feldenkirchen-100.html",
+   "published": "2026-11-02T11:02:57+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-05T11:02:57+00:00",
+   "img": "https://images.tagesschau.de/image/6ef2c2b5-6132-4dcc-93f4-a72a3205996d/AAABoZu_354/AAABnSSvrFg/16x9-big/bas-268.jpg?width=1920"
+  },
+  {
+   "id": "n42c278fe71",
+   "topic": "it",
+   "title": "Smarte Anwendungen: Biohacking für zu Hause",
+   "text": "Unsere Autorin hat einen Blutzuckersensor, einen Fitnessring und einen Zyklustracker getestet. Was ihr dabei gefallen hat und was überhaupt nicht. Ein Praxistest von Andrea Maurer ( Technik/Hardware , Datenschutz )",
+   "link": "https://www.golem.de/news/smarte-anwendungen-biohacking-fuer-zuhause-2611-214731.html",
+   "published": "2026-11-02T11:00:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-07T11:00:02+00:00",
+   "img": "https://www.golem.de/2611/214731-606282-606280_rc.jpg"
+  },
+  {
+   "id": "nf11d588cc7",
+   "topic": "nfl",
+   "title": "Commanders vs. Rams odds: Opening lines for Week 9 matchup",
+   "text": "The Commanders are big home underdogs against the Rams",
+   "link": "https://sports.yahoo.com/articles/commanders-vs-rams-odds-opening-110000282.html",
+   "published": "2026-11-02T11:00:00+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-07T11:00:00+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/03ccab48bb5794eca1ecba6a66c19f18.jpg"
+  },
+  {
+   "id": "nc0301e6983",
+   "topic": "nfl",
+   "title": "Ravens QB Tyler Huntley could miss TNF vs. Jags with suspected turf toe",
+   "text": "Ravens quarterbacks Lamar Jackson and Tyler Huntley both suffered injuries in Sunday’s loss to the Bills.",
+   "link": "https://sports.yahoo.com/articles/ravens-qb-tyler-huntley-could-110000775.html",
+   "published": "2026-11-02T11:00:00+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-07T11:00:00+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/8064b1515866183915e750a493d7ba2a.jpg"
+  },
+  {
+   "id": "nc75c9cec2c",
+   "topic": "it",
+   "title": "heise+ | Entra-Housekeeping: Ungenutzte Konten im Tenant finden und aufräumen",
+   "text": "Wer verwaiste Objekte in einem gewachsenen Tenant zuverlässig finden will, braucht technische Signale und organisatorischen Kontext. Ein Leitfaden.",
+   "link": "https://www.heise.de/hintergrund/Entra-Housekeeping-Ungenutzte-Konten-im-Tenant-finden-und-aufraeumen-11477776.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+   "published": "2026-11-02T11:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-07T11:00:00+00:00"
+  },
+  {
+   "id": "n13b2d1587e",
+   "topic": "welt",
+   "title": "Kreuzfahrt-Weltreise endet vorzeitig in Kambodscha",
+   "text": "Für manche sollte es eine Kreuzfahrt bis ans Lebensende werden - doch jetzt endete die Reise der \"MV Odyssey\" vorzeitig in Kambodscha. Grund sind laut Reederei die stark gestiegenen Treibstoffpreise. Von Angelika Henkel.",
+   "link": "https://www.tagesschau.de/ausland/asien/kambodscha-kreuzfahrt-odyssey-100.html",
+   "published": "2026-11-02T10:51:06+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-05T10:51:06+00:00",
+   "img": "https://images.tagesschau.de/image/d46baa67-2da1-46e2-afc8-06c5e0feaa99/AAABoZuWZMg/AAABnSSvrFg/16x9-big/montoya-100.jpg?width=1920"
+  },
+  {
+   "id": "n4b40133535",
+   "topic": "it",
+   "title": "Nintendo: Switch-2-Emulatoren bringen Mario Kart World auf den PC",
+   "text": "Einige konnten das Switch-2-Spiel bereits mit 60 fps testen. Eine Person hat das sogar auf MacOS zum Laufen bekommen. ( Nintendo Switch , Nintendo )",
+   "link": "https://www.golem.de/news/nintendo-switch-2-emulatoren-bringen-mario-kart-world-auf-den-pc-2611-214749.html",
+   "published": "2026-11-02T10:50:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-07T10:50:01+00:00",
+   "img": "https://www.golem.de/2611/214749-606362-606360_rc.jpg"
+  },
+  {
+   "id": "nc8d81ed534",
+   "topic": "welt",
+   "title": "Prien fordert nach Jugendprotesten Debatte über Integration",
+   "text": "Nach den Demonstrationen der Generation Z kam es in mehreren Städten zu Gewalt. Bildungsministerin Karin Prien will auch mögliche Integrationsprobleme untersuchen. Zugleich fordert sie mehr Gehör für junge Menschen.",
+   "link": "https://www.dw.com/de/prien-fordert-nach-jugendprotesten-debatte-über-integration/a-79827961?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-02T10:46:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-06T10:46:00+00:00",
+   "img": "https://static.dw.com/image/79157834_302.jpg"
+  },
+  {
+   "id": "na7362d3da3",
+   "topic": "it",
+   "title": "Apple kauft agentisches Datenanalyseunternehmen Ascend.io",
+   "text": "Apple hat wieder bei einer kleineren Firma zugeschlagen: Ascend.io arbeitete an Software, die mit KI-Agenten-Hilfe Business-Infos auswertete.",
+   "link": "https://www.heise.de/news/Apple-kauft-agentisches-Datenanalyseunternehmen-Ascend-io-11506976.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-02T10:33:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-07T10:33:00+00:00"
+  },
+  {
+   "id": "n53100fce53",
+   "topic": "ki",
+   "title": "Angst vor strengeren Regeln: Wie OpenAI die US-Politik beeinflussen will",
+   "text": "OpenAI bereitet für die Zeit nach den US-Zwischenwahlen eine politische Lobby- und PR-Offensive vor. Der Artikel Angst vor strengeren Regeln: Wie OpenAI die US-Politik beeinflussen will erschien zuerst auf The Decoder .",
+   "link": "https://the-decoder.de/angst-vor-strengeren-regeln-wie-openai-die-us-politik-beeinflussen-will/",
+   "published": "2026-11-02T10:30:59+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-09T10:30:59+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/09/openai_chatgpt-2.png"
+  },
+  {
+   "id": "n90586b59f2",
+   "topic": "it",
+   "title": "NAND-Hersteller: „Rache“ an Apple genommen?",
+   "text": "Apple verhandelte einst hart um die günstigsten NAND-Tarife. Doch mittlerweile hat der Konzern dank des KI-Booms nicht mehr die Oberhand, so ein Bericht.",
+   "link": "https://www.heise.de/news/NAND-Hersteller-Rache-an-Apple-genommen-11506968.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-02T10:28:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-07T10:28:00+00:00"
+  },
+  {
+   "id": "n45130eec77",
+   "topic": "politik",
+   "title": "Auschreitungen in Frankfurt: Gehen die Forderungen der Gen Z jetzt in der Debatte unter?",
+   "text": "Plünderungen, Böller, Angriffe auf Polizisten - Nach den Krawallen am Rande der Gen-Z-Proteste vom Wochenende in Frankfurt spricht Innenminister Poseck über ein mögliches Verbot weiterer Demos. Andere Politiker mahnten, man müsse legitimen Protest von Gewaltexzessen trennen.",
+   "link": "https://www.hessenschau.de/gesellschaft/auschreitungen-in-frankfurt-gehen-die-forderungen-der-gen-z-jetzt-in-der-debatte-unter-v2,genz-demos-reax-100.html",
+   "published": "2026-11-02T10:17:58+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T10:17:58+00:00",
+   "img": "https://www.hessenschau.de/gesellschaft/genz-demo-110~_t-1793611624702_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "n1106e07fe5",
+   "topic": "welt",
+   "title": "Michigan vor US-Zwischenwahl: Demokratin unterstützt jetzt Republikaner",
+   "text": "Der Kampf um den Senatssitz für den US-Bundesstaat Michigan ist eng. Nun könnte das Rennen noch spannender werden. Denn eine prominente Demokratin unterstützt nun den Spitzenkandidaten der Republikaner. Der fühlt sich geehrt. Auch Trump freut sich.",
+   "link": "https://www.tagesschau.de/ausland/amerika/midterms-michigan-streit-demokraten-100.html",
+   "published": "2026-11-02T10:16:12+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-05T10:16:12+00:00",
+   "img": "https://images.tagesschau.de/image/816adfaa-5eeb-4852-a9b6-9973ee40086c/AAABoZs0020/AAABnSSvrFg/16x9-big/rogers-stevens-100.jpg?width=1920"
+  },
+  {
+   "id": "nceaadf9757",
+   "topic": "wissenschaft",
+   "title": "Bilder der Woche: Der Katzenkopfnebel im Sternbild Schiffskiel",
+   "text": "Ein kleiner Teil des Carina-Nebels im südlichen Sternbild Schiffskiel wird wegen seiner Form Katzenkopfnebel genannt. In ihm bilden sich gerade neue Sterne.",
+   "link": "https://www.spektrum.de/alias/bilder-der-woche/der-katzenkopfnebel-im-blick-der-weltraumteleskope-webb-und-hubble/2352068",
+   "published": "2026-11-02T10:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-16T10:00:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/weic2622a.jpg.8421076.jpg?f=1280x720"
+  },
+  {
+   "id": "n692e12d5d2",
+   "topic": "welt",
+   "title": "Bulgariens amtierende Präsidentin Jotowa gewinnt Stichwahl",
+   "text": "Bulgariens Amtsinhaberin Jotowa hat die Stichwahl um das Präsidentenamt nach Auszählung aller Stimmen gewonnen. Herausforderer Gjurow landete auf dem zweiten Platz. Jotowa gehört zum Lager des als russlandfreundlich geltenden Regierungschefs Radew.",
+   "link": "https://www.tagesschau.de/ausland/europa/stichwahl-bulgarien-102.html",
+   "published": "2026-11-02T09:57:30+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-05T09:57:30+00:00",
+   "img": "https://images.tagesschau.de/image/34fd81e3-ab88-4dbf-878b-3d7c22ad7dec/AAABoZjUoew/AAABnSSvrFg/16x9-big/ilijana-jotowa-102.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Bulgariens Präsidentin Jotowa bleibt im Amt",
+     "link": "https://www.dw.com/de/bulgariens-präsidentin-jotowa-bleibt-im-amt/a-79826496?maca=de-rss-de-all-1119-xml-mrss"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "title": "Stichwahl - Amtsinhaberin Jotowa gewinnt Prognosen zufolge Präsidentschaftswahl in Bulgarien",
+     "link": "https://www.deutschlandfunk.de/amtsinhaberin-jotowa-gewinnt-prognosen-zufolge-praesidentschaftswahl-in-bulgarien-102.html"
+    }
+   ]
+  },
+  {
+   "id": "n567a0f0b44",
+   "topic": "welt",
+   "title": "Bulgariens Präsidentin Jotowa bleibt im Amt",
+   "text": "Richtungsentscheidung im EU- und NATO-Land Bulgarien: Bei der Stichwahl um das Präsidentenamt ist die russlandfreundliche Amtsinhaberin Ilijana Jotowa die klare Gewinnerin.",
+   "link": "https://www.dw.com/de/bulgariens-präsidentin-jotowa-bleibt-im-amt/a-79826496?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-02T09:24:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-06T09:24:00+00:00",
+   "img": "https://static.dw.com/image/79826469_302.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Bulgariens amtierende Präsidentin Jotowa gewinnt Stichwahl",
+     "link": "https://www.tagesschau.de/ausland/europa/stichwahl-bulgarien-102.html"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "title": "Stichwahl - Amtsinhaberin Jotowa gewinnt Prognosen zufolge Präsidentschaftswahl in Bulgarien",
+     "link": "https://www.deutschlandfunk.de/amtsinhaberin-jotowa-gewinnt-prognosen-zufolge-praesidentschaftswahl-in-bulgarien-102.html"
+    }
+   ]
+  },
+  {
+   "id": "nda166dd0f1",
+   "topic": "politik",
+   "title": "Bildungsministerin Prien: Gewalt nach Jugenddemos wirft Integrationsfragen auf",
+   "text": "Frankfurt, Köln, Hamburg: In mehreren Städten eskalierte am Wochenende die Lage nach den \"Gen Z regelt\"-Protesten. Wer waren die Gewalttäter? Darüber gibt es eine Debatte. Für Bildungsministerin Prien geht es auch um Fragen der Integration.",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/jugendprotest-ausschreitungen-prien-100.html",
+   "published": "2026-11-02T09:21:20+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-05T09:21:20+00:00",
+   "img": "https://images.tagesschau.de/image/7be42cc8-fbc3-4ac3-b431-d8938bf2dd13/AAABoZuQLjE/AAABnSSvrFg/16x9-big/krawall-frankfurt-100.jpg?width=1920"
+  },
+  {
+   "id": "na69e50ca89",
+   "topic": "wirtschaft",
+   "title": "Marktbericht: Gespannte Lage vor US-Zwischenwahlen",
+   "text": "Vor den US-Zwischenwahlen halten sich die Anleger lieber zurück. Zum Wochenstart gibt der DAX etwas nach. Mit Spannung warten die Investoren auch auf die heutigen Apple-Zahlen.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-168.html",
+   "published": "2026-11-02T09:06:31+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-05T09:06:31+00:00",
+   "img": "https://images.tagesschau.de/image/0b3a9a5d-52cf-45fe-a52a-0b7d4d3a7087/AAABnLJSNeo/AAABnSSvrFg/16x9-big/boerse-488.jpg?width=1920"
+  },
+  {
+   "id": "nefab1229f0",
+   "topic": "wissenschaft",
+   "title": "Pompeji: Archäologen räumen 2000 Jahre alten Schrank auf",
+   "text": "Ein Fall für Marie Kondo? In einem Schrank in Pompeji lagerten einst Töpfe, Schmuck, Kosmetikutensilien, Münzen und Gewichte. Doch das scheinbare Chaos hatte System.",
+   "link": "https://www.spektrum.de/news/pompeji-archaeologen-raeumen-2000-jahre-alten-schrank-auf/2352154",
+   "published": "2026-11-02T09:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-16T09:00:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/materiali-rinvenuti-nel-tunnel-antropico-1-1200x801.jpg.8421433.jpg?f=1280x720"
+  },
+  {
+   "id": "n2fe0b4729e",
+   "topic": "wirtschaft",
+   "title": "Binance-Kunden heben nach Hackerangriff Milliarden ab",
+   "text": "Einen Großteil der gestohlenen Kundengelder hat Binance nach dem Hackerangriff mittlerweile ersetzt. Dennoch kämpft die Kryptobörse mit einem Vertrauensverlust. Kunden haben 3,6 Milliarden Dollar abgezogen.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/binance-kundengelder-100.html",
+   "published": "2026-11-02T08:59:47+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-05T08:59:47+00:00",
+   "img": "https://images.tagesschau.de/image/6005bf42-35ee-49c0-a9de-0c0c82432647/AAABoYumLh8/AAABnSSvrFg/16x9-big/binance-104.jpg?width=1920"
+  },
+  {
+   "id": "n75bcd2145f",
+   "topic": "wirtschaft",
+   "title": "Update Wirtschaft vom 02.11.2026",
+   "text": "Update Wirtschaft vom 02.11.2026",
+   "link": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1676508.html",
+   "published": "2026-11-02T08:59:30+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-05T08:59:30+00:00",
+   "img": "https://images.tagesschau.de/image/809c6aba-73f6-42b7-9cc0-9ffb1f09e21f/AAABoZt8IzY/AAABnSSvrFg/16x9-big/sendungsbild-1820982.jpg?width=1920"
+  },
+  {
+   "id": "nd5a652d4b8",
+   "topic": "welt",
+   "title": "Würgt der neue Konflikt Äthiopiens Wirtschaftswachstum ab?",
+   "text": "Äthiopiens Wirtschaft wächst kräftig. Doch neue Kämpfe im Norden des BRICS-Mitgliedsstaates könnten Investitionen bremsen, die Staatsfinanzen belasten und die Lebenshaltungskosten weiter in die Höhe treiben.",
+   "link": "https://www.dw.com/de/würgt-der-neue-konflikt-äthiopiens-wirtschaftswachstum-ab/a-79804678?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-02T08:56:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-06T08:56:00+00:00",
+   "img": "https://static.dw.com/image/79652307_302.jpg"
+  },
+  {
+   "id": "n2baad25ffd",
+   "topic": "welt",
+   "title": "Neun Tote bei Flugzeugabsturz in Florida",
+   "text": "In den USA sind neun Menschen beim Absturz eines Flugzeugs gestorben. Der Privatjet war im Bundesstaat Florida über einem Wohngebiet abgestürzt. Zuvor hatte der Pilot Probleme mit dem Wetter gemeldet.",
+   "link": "https://www.tagesschau.de/ausland/amerika/flugzeugabsturz-usa-florida-100.html",
+   "published": "2026-11-02T08:13:47+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-05T08:13:47+00:00",
+   "img": "https://images.tagesschau.de/image/0e994a0d-39a0-4378-a18b-758a6a761f61/AAABoZsrMFA/AAABnSSvrFg/16x9-big/florida-186.jpg?width=1920"
+  },
+  {
+   "id": "n5def0638b2",
+   "topic": "welt",
+   "title": "Digitalgipfel rund um KI startet in Berlin - News kompakt: Das Wichtigste kurz gefasst",
+   "text": "Künstliche Intelligenz ist in aller Munde. Auf einem zweitägigen Treffen in Deutschlands Hauptstadt wird über Chancen und Risiken beraten. Bulgariens Präsidentin Jotowa gewinnt Stichwahl. Der DW-Nachrichtenüberblick.",
+   "link": "https://www.dw.com/de/digitalgipfel-rund-um-ki-startet-in-berlin-news-kompakt-das-wichtigste-kurz-gefasst/a-79825269?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-02T08:01:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-06T08:01:00+00:00",
+   "img": "https://static.dw.com/image/79799960_302.jpg"
+  },
+  {
+   "id": "n5bd89717a3",
+   "topic": "wissenschaft",
+   "title": "Schlafstörungen: Durchwachte Nächte hinterlassen Spuren im Speichel",
+   "text": "Schweizer Forschende haben in Speichelproben rund ein Dutzend Biomarker für Schlaflosigkeit gefunden. Demnach könnte sich massiver Schlafmangel mit Speicheltests nachweisen lassen.",
+   "link": "https://www.spektrum.de/news/schlaflosigkeit-durchwachte-naechte-hinterlassen-spuren-im-speichel/2350814",
+   "published": "2026-11-02T08:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-16T08:00:00+00:00"
+  },
+  {
+   "id": "n3fa9f977f4",
+   "topic": "welt",
+   "title": "Fehlalarm in Kiew nach Hackerangriff auf Warn-App",
+   "text": "Vor Angriffen warnt die Ukraine die Bevölkerung per App. Doch dabei gibt es nun ein Problem: Die App wurde gehackt, in Kiew wurde fälschlicherweise vor \"Gefahr durch Strahlung\" gewarnt. Auch Russland meldet einen Angriff auf seine Warn-App.",
+   "link": "https://www.tagesschau.de/ausland/europa/warn-app-ukraine-russland-gehackt-100.html",
+   "published": "2026-11-02T06:35:32+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-05T06:35:32+00:00",
+   "img": "https://images.tagesschau.de/image/1e0de475-12a6-4cff-bf9e-f8e9178bf201/AAABoIjH-p4/AAABnSSvrFg/16x9-big/kiew-538.jpg?width=1920"
+  },
+  {
+   "id": "n242d2b11f5",
+   "topic": "welt",
+   "title": "Was das Rennen bei den Midterms entscheiden könnte",
+   "text": "Umfragen deuten darauf hin, dass die Demokraten bei den Midterms das Repräsentantenhaus zurückerobern. Gelingt das auch im Senat? Es wird wohl auf besonders umkämpfte Bundesstaaten ankommen. Von Jörg Schönenborn.",
+   "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-demokraten-republikaner-100.html",
+   "published": "2026-11-02T06:11:04+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-05T06:11:04+00:00",
+   "img": "https://images.tagesschau.de/image/1bb75ddf-a0b1-4ba6-8963-8976d2a2fecb/AAABoZgpxQI/AAABnSSvrFg/16x9-big/midterms-waehlerin-100.jpg?width=1920"
+  },
+  {
+   "id": "n6f9b9e5568",
+   "topic": "nfl",
+   "title": "NFL Week 8 grades for every team: Cowboys get an 'F' for choking, Steelers surge to 'A+'",
+   "text": "We're handing out grades for every team that played in Week 8",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-8-grades-cowboys-get-an-f-steelers-surge-to-a/",
+   "published": "2026-11-02T05:02:39+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-07T05:02:39+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/11/01/7ba87764-0b73-409b-80e9-f3624b851517/schotty.jpg"
+  },
+  {
+   "id": "n4fa0b16345",
+   "topic": "nfl",
+   "title": "Five things we learned as Broncos stun Chiefs, seize first place in AFC West",
+   "text": "Denver's quarterback delivered another remarkable finish, while a vastly improved defense and two emerging running backs helped the Broncos take control of the AFC West",
+   "link": "https://www.cbssports.com/nfl/news/chiefs-broncos-five-things-we-learned-bo-nix/",
+   "published": "2026-11-02T04:20:59+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-07T04:20:59+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/11/02/894689f3-0be5-43c9-ac5d-bddaa74be68f/bo-nix-broncos-10.jpg"
+  },
+  {
+   "id": "n6e36484256",
+   "topic": "politik",
+   "title": "Digitalgipfel der Bundesregierung: Ist der KI-Zug in Deutschland schon abgefahren?",
+   "text": "Die Bundesregierung lädt zum Digitalgipfel nach Berlin. Im Mittelpunkt der zweitägigen Konferenz steht die Frage, wie Deutschland und Europa beim Thema Künstliche Intelligenz global mitreden können.Von J. F. Willems.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/digitalgipfel-bundesregierung-100.html",
+   "published": "2026-11-02T04:19:28+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-05T04:19:28+00:00",
+   "img": "https://images.tagesschau.de/image/c1e20454-4a43-4eab-886d-923ad85062e0/AAABoZp70nc/AAABnSSvrFg/16x9-big/digitalgipfel-ansicht-gehirn-bildschirm-100.jpg?width=1920"
+  },
+  {
+   "id": "ned2e72b196",
+   "topic": "wirtschaft",
+   "title": "IG Metall weitet im Tarifstreit Warnstreiks aus",
+   "text": "Die ersten Fließbänder standen schon am Sonntag still, mit dem Wochenbeginn rollt in der Metall- und Elektroindustrie nun eine größere Streikwelle an. Nach der ergebnislosen zweiten Tarifrunde rief die IG Metall zu Arbeitsniederlegungen auf.",
+   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-120.html",
+   "published": "2026-11-02T02:15:40+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-05T02:15:40+00:00",
+   "img": "https://images.tagesschau.de/image/00732538-b22c-47e4-849c-877f037cb624/AAABoZoBbAA/AAABnSSvrFg/16x9-big/ig-metall-260.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Tarife - Weitere Warnstreiks der IG Metall - Kritik der Arbeitgeber",
+     "link": "https://www.deutschlandfunk.de/weitere-warnstreiks-der-ig-metall-kritik-der-arbeitgeber-104.html"
+    }
+   ]
+  },
+  {
+   "id": "n20058ab305",
+   "topic": "welt",
+   "title": "Ukraine: Feuerpause in Oleschky ausgelaufen",
+   "text": "Die Feuerpause in Oleschky ist vorbei. Vor ihrem Ende nutzte das ukrainische Militär noch die Gelegenheit, weitere Menschen aus der Region in Sicherheit zu bringen. Unterdessen melden Ukraine und Russland Cyberattacken auf ihre Warn-Apps.",
+   "link": "https://www.tagesschau.de/ausland/europa/ukraine-waffenruhe-cherson-100.html",
+   "published": "2026-11-02T01:09:27+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-05T01:09:27+00:00",
+   "img": "https://images.tagesschau.de/image/269540d6-d27d-44e3-ae7f-22656aa2bca3/AAABoZnD__4/AAABnSSvrFg/16x9-big/region-cherson-100.jpg?width=1920"
+  },
   {
    "id": "n1256021f6a",
    "topic": "nfl",
@@ -86,19 +652,6 @@
    "lang": "en",
    "expires": "2026-11-07T00:35:15+00:00",
    "img": "https://sportshub.cbsistatic.com/i/2026/11/02/9f38019f-c5c5-48b3-8287-e55c73703009/cowboys.jpg"
-  },
-  {
-   "id": "n3d301c4254",
-   "topic": "politik",
-   "title": "Abgeordnetenhaus - Rot-grün-rote Koalitionsverhandlungen beginnen in Berlin",
-   "text": "In Berlin beginnen rund sechs Wochen nach der Abgeordnetenhauswahl die Koalitionsverhandlungen zwischen Linken, Grünen und SPD. Als letzte Partei hatten die Linken am Wochenende für Gespräche gestimmt.",
-   "link": "https://www.deutschlandfunk.de/rot-gruen-rote-koalitionsverhandlungen-beginnen-in-berlin-100.html",
-   "published": "2026-11-02T00:34:08+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-04T00:34:08+00:00",
-   "img": "https://bilder.deutschlandfunk.de/b0/12/3c/ae/b0123cae-b002-473b-aec6-258143cd7622/linke-berlin-102-1920x1920.jpg"
   },
   {
    "id": "nd34178a5a2",
@@ -180,7 +733,7 @@
   {
    "id": "nd88b718522",
    "topic": "welt",
-   "title": "100 Tage im Amt: Spürbar anders - Ukraines Armee unter Chef Drapatyj",
+   "title": "Wie sich die ukrainische Armee unter ihrem neuen Chef Drapatyj verändert",
    "text": "Seit 100 Tagen ist der neue ukrainische Armeechef Drapatyj im Amt. Er verändert Führungsstrukturen und setzt auf mehr Eigenverantwortung an der Front. Auch kremlkritische russische Analysten bemerken eine Veränderung. Von Florian Kellermann.",
    "link": "https://www.tagesschau.de/ausland/europa/ukraine-kommandeur-100.html",
    "published": "2026-11-01T23:50:04+00:00",
@@ -188,7 +741,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-04T23:50:04+00:00",
-   "img": "https://images.tagesschau.de/image/2b2a67ce-68fa-404f-ad0e-2d7252afc4d1/AAABoZmFLdo/AAABnSSvrFg/16x9-big/mychajlo-drapaty-100.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/2b2a67ce-68fa-404f-ad0e-2d7252afc4d1/AAABoZt4b9M/AAABnSSvrFg/16x9-big/mychajlo-drapatyj-100.jpg?width=1920"
   },
   {
    "id": "n06277fda80",
@@ -201,19 +754,6 @@
    "type": "Fachmedium (IT)",
    "lang": "de",
    "expires": "2026-11-06T21:38:00+00:00"
-  },
-  {
-   "id": "n692e12d5d2",
-   "topic": "welt",
-   "title": "Bulgariens amtierende Präsidentin Jotowa liegt bei Stichwahl vorn",
-   "text": "Sie sieht sich als \"Präsidentin des Friedens\": Bulgariens Amtsinhaberin Jotowa liegt laut Prognosen bei der Stichwahl vorn. Die russlandfreundliche Politikerin setzte sich gegen Herausforderer Gjurow durch.",
-   "link": "https://www.tagesschau.de/ausland/europa/stichwahl-bulgarien-102.html",
-   "published": "2026-11-01T20:37:14+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-04T20:37:14+00:00",
-   "img": "https://images.tagesschau.de/image/34fd81e3-ab88-4dbf-878b-3d7c22ad7dec/AAABoZjUoew/AAABnSSvrFg/16x9-big/ilijana-jotowa-102.jpg?width=1920"
   },
   {
    "id": "n05a9db8ccb",
@@ -292,7 +832,19 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-03T19:37:03+00:00",
-   "img": "https://bilder.deutschlandfunk.de/9c/4a/da/36/9c4ada36-2bf7-4f95-96f3-891b2c32ca5d/bulgarien-stichwahl-jotowa-100-1920x1920.jpg"
+   "img": "https://bilder.deutschlandfunk.de/9c/4a/da/36/9c4ada36-2bf7-4f95-96f3-891b2c32ca5d/bulgarien-stichwahl-jotowa-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Bulgariens amtierende Präsidentin Jotowa gewinnt Stichwahl",
+     "link": "https://www.tagesschau.de/ausland/europa/stichwahl-bulgarien-102.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Bulgariens Präsidentin Jotowa bleibt im Amt",
+     "link": "https://www.dw.com/de/bulgariens-präsidentin-jotowa-bleibt-im-amt/a-79826496?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
   },
   {
    "id": "n0e8bc4e2b1",
@@ -1195,500 +1747,6 @@
      "link": "https://www.dw.com/de/trump-bolsonaro-kann-in-den-usa-bleiben/a-79821509?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
-  },
-  {
-   "id": "nae817aea92",
-   "topic": "wissenschaft",
-   "title": "Planetenlauf im November 2026: Reichlich Planeten am Morgen",
-   "text": "Merkur liefert seine beste Morgenshow des Jahres. Venus kehrt rasch auf die Himmelsbühne zurück, während Jupiter und Mars sich im Löwen treffen. Uranus tritt in Opposition.",
-   "link": "https://www.spektrum.de/news/planetenlauf-im-november-2026-reichlich-planeten-am-morgen/2330901",
-   "published": "2026-11-01T06:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-15T06:00:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/LESERBILD_marsjupiteraugust14b_GraXper.jpg.8388560.jpg?f=1280x720"
-  },
-  {
-   "id": "n319393338b",
-   "topic": "politik",
-   "title": "BKA - Bericht: Zahl islamistisch motivierter antisemitischer Straftaten auf Höchststand",
-   "text": "Die Zahl antisemitischer Straftaten in Deutschland, die islamistisch motiviert sind, hat nach Presseinformationen einen neuen Höchststand erreicht.",
-   "link": "https://www.deutschlandfunk.de/bericht-zahl-islamistisch-motivierter-antisemitischer-straftaten-auf-hoechststand-106.html",
-   "published": "2026-11-01T05:12:57+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-03T05:12:57+00:00",
-   "img": "https://bilder.deutschlandfunk.de/5d/5d/14/cc/5d5d14cc-69ab-4640-95e3-e200f92d3091/berlin-razzia-palaestinenser-100-1280x1280.jpg"
-  },
-  {
-   "id": "n4064478071",
-   "topic": "politik",
-   "title": "\"Gen Z regelt\" - CDU-Generalsekretärin Hoppermann: Demonstrationen als Deckmantel für Gewalt und Ausschreitungen",
-   "text": "CDU-Generalsekretärin Hoppermann hat die Krawalle nach Jugend-Demonstrationen in mehreren deutschen Städten verurteilt.",
-   "link": "https://www.deutschlandfunk.de/cdu-generalsekretaerin-hoppermann-demonstrationen-als-deckmantel-fuer-gewalt-und-ausschreitungen-100.html",
-   "published": "2026-11-01T05:12:57+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-03T05:12:57+00:00",
-   "img": "https://bilder.deutschlandfunk.de/d0/1f/5b/72/d01f5b72-cd8c-4466-86d6-6f716a321a6b/cdu-sitzung-hoppermann-100-1920x1920.jpg"
-  },
-  {
-   "id": "n13973d360b",
-   "topic": "politik",
-   "title": "Jugend-Demos - SPD fordert Bildungsgipfel",
-   "text": "Die SPD im Bundestag macht sich angesichts der Jugendproteste in mehreren deutschen Städten für einen nationalen Bildungsgipfel stark.",
-   "link": "https://www.deutschlandfunk.de/spd-fordert-bildungsgipfel-100.html",
-   "published": "2026-11-01T05:12:57+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-03T05:12:57+00:00",
-   "img": "https://bilder.deutschlandfunk.de/3e/33/b9/5c/3e33b95c-8c2e-466e-98a9-703dfb4bf456/268580932-100-1920x1920.jpg"
-  },
-  {
-   "id": "na38c46f67c",
-   "topic": "politik",
-   "title": "Interview - Kramp-Karrenbauer warnt vor Regierungen von AfD und Linken",
-   "text": "Die frühere CDU-Vorsitzende Kramp-Karrenbauer hat vor einer Regierungsübernahme der AfD in Sachsen-Anhalt, beziehungsweise der Linken in Berlin gewarnt.",
-   "link": "https://www.deutschlandfunk.de/kramp-karrenbauer-warnt-vor-regierungen-von-afd-und-linken-100.html",
-   "published": "2026-11-01T05:12:57+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-03T05:12:57+00:00",
-   "img": "https://bilder.deutschlandfunk.de/79/90/73/9c/7990739c-fea4-4ba3-9e48-5916a442b2a7/annegret-kramp-karrenbauer-cdu-konrad-adenauer-stiftung-vorsitzende-100-1920x1920.jpg"
-  },
-  {
-   "id": "n8c1b1ade7f",
-   "topic": "politik",
-   "title": "Tarife - Warnstreiks der IG Metall begonnen",
-   "text": "Im Tarifkonflikt der Metallindustrie haben in der Nacht Warnstreiks begonnen.",
-   "link": "https://www.deutschlandfunk.de/warnstreiks-der-ig-metall-begonnen-100.html",
-   "published": "2026-11-01T05:12:57+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-03T05:12:57+00:00",
-   "img": "https://bilder.deutschlandfunk.de/FI/LE/_5/37/FILE_537fac075587e0fd4045b87391645c8b/133823390-jpg-100-768x768.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Warnstreiks der IG Metall kurz nach Mitternacht angelaufen",
-     "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-108.html"
-    }
-   ]
-  },
-  {
-   "id": "n1eceefca97",
-   "topic": "politik",
-   "title": "Hackerangriff - FBI macht nordkoreanische Hacker für Angriff auf Kryptowährungsbörse Binance verantwortlich",
-   "text": "Die US-Bundespolizei macht Nordkorea für den milliardenschweren Hackerangriff auf die Kryptowährungsbörse Binance verantwortlich.",
-   "link": "https://www.deutschlandfunk.de/fbi-macht-nordkoreanische-hacker-fuer-angriff-auf-kryptowaehrungsboerse-binance-verantwortlich-102.html",
-   "published": "2026-11-01T05:12:57+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-03T05:12:57+00:00"
-  },
-  {
-   "id": "n2a6b0198d2",
-   "topic": "nfl",
-   "title": "The Good, The Bad, and The Ugly: North Carolina Tar Heels 2026 Edition",
-   "text": "Miami went on the road and found a way to win. But let’s look under the hood of the win in Chapel hill",
-   "link": "https://sports.yahoo.com/articles/good-bad-ugly-north-carolina-043211689.html",
-   "published": "2026-11-01T04:32:11+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-06T04:32:11+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/c47401067ba8512b9be11abbb3ff664f.jpg"
-  },
-  {
-   "id": "n3cb60a5614",
-   "topic": "welt",
-   "title": "Polen: Tusk beklagt Angriff auf \"Demokratie und Rechtsstaat\"",
-   "text": "Polens Präsident drängt sich mit Körpereinsatz ins Verfassungsgericht und drückt eine Richterin nach unten. Nun äußert sich Regierungschef Tusk zu dem Vorfall. Der Opposition wirft er einen Angriff auf Demokratie und Rechtsstaat vor.",
-   "link": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-102.html",
-   "published": "2026-11-01T04:26:15+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-04T04:26:15+00:00",
-   "img": "https://images.tagesschau.de/image/4cbf5fa6-4a9f-4f77-ac34-9a92650a4bb4/AAABoLB37b8/AAABnSSvrFg/16x9-big/tusk-360.jpg?width=1920"
-  },
-  {
-   "id": "nf586393a0c",
-   "topic": "wirtschaft",
-   "title": "Warnstreiks der IG Metall kurz nach Mitternacht angelaufen",
-   "text": "Die IG Metall hat \"starke Warnstreiks\" angekündigt - und in der Nacht damit begonnen. Die Gewerkschaft will damit Druck in den Tarifverhandlungen machen. Betroffen sind wichtige Industriezweige wie Auto oder Maschinenbau.",
-   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-108.html",
-   "published": "2026-11-01T03:48:45+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-04T03:48:45+00:00",
-   "img": "https://images.tagesschau.de/image/ee2a223d-bc92-4963-8f3f-bb64caca5e5b/AAABoZU5U5o/AAABnSSvrFg/16x9-big/warnstreik-456.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Tarife - Warnstreiks der IG Metall begonnen",
-     "link": "https://www.deutschlandfunk.de/warnstreiks-der-ig-metall-begonnen-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n2a4f83f808",
-   "topic": "nfl",
-   "title": "Recap: Miami survives North Carolina 38-35",
-   "text": "Wow. All I can immediately muster as I sit down at my computer. The Miami Hurricanes remained perfect on Saturday night in Chapel Hill, just barely getting past North Carolina 38-35. Darian Mensah was 22/29 passing for 274 yards and three scores with no interceptions. Mark Fletcher, Jr. had 13 rushes for 43 yards with …",
-   "link": "https://sports.yahoo.com/articles/recap-miami-survives-north-carolina-034126681.html",
-   "published": "2026-11-01T03:41:26+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-06T03:41:26+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/2b877fc834dac852b2ac39cd23a31740.jpg"
-  },
-  {
-   "id": "n7d2e410e8b",
-   "topic": "politik",
-   "title": "Scheiben eingeschlagen, Geschäfte geplündert: Ausschreitungen in Frankfurt",
-   "text": "In Frankfurt ist es nach der Auflösung des größtenteils friedlichen Gen-Z-Protests zu Ausschreitungen gekommen. Die Polizei riegelte den Bereich rund um die Zeil ab. Scheiben wurden eingeschlagen, Geschäfte geplündert.",
-   "link": "https://www.hessenschau.de/panorama/scheiben-eingeschlagen-geschaefte-gepluendert-ausschreitungen-in-frankfurt-v8,gen-z-ausschreitungen-frankfurt-100.html",
-   "published": "2026-11-01T00:32:58+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-05T00:32:58+00:00",
-   "tag": "Hessen"
-  },
-  {
-   "id": "n13b07ee7d4",
-   "topic": "nfl",
-   "title": "Dolphins Fans: Miami Dolphins Vs. New England Patriots Predictions",
-   "text": "Miami Dolphins fans share their prediction for tomorrows game against the New England Patriots.",
-   "link": "https://sports.yahoo.com/articles/dolphins-fans-miami-dolphins-vs-000000088.html",
-   "published": "2026-11-01T00:00:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-06T00:00:00+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/8221a724f935c4c8c1f39a58527e790b.jpg"
-  },
-  {
-   "id": "n81d9c93b00",
-   "topic": "politik",
-   "title": "Scheiben eingeschlagen, Geschäfte geplündert: Ausschreitungen in Frankfurt",
-   "text": "In Frankfurt kommt es nach der Auflösung des größtenteils friedlichen Gen-Z-Protests zu Ausschreitungen. Die Polizei hat den Bereich rund um die Zeil abgeriegelt. Scheiben wurden eingeschlagen, Geschäfte geplündert.",
-   "link": "https://www.hessenschau.de/panorama/scheiben-eingeschlagen-geschaefte-gepluendert-ausschreitungen-in-frankfurt-v6,gen-z-ausschreitungen-frankfurt-100.html",
-   "published": "2026-10-31T23:54:33+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-04T23:54:33+00:00",
-   "tag": "Hessen"
-  },
-  {
-   "id": "n3aa6d3ada0",
-   "topic": "politik",
-   "title": "Berlin - Linke stimmt für Koalitionsverhandlungen mit Grünen und SPD",
-   "text": "Die Linke in Berlin hat sich für die Aufnahme von Koalitionsverhandlungen mit Grünen und SPD ausgeprochen. Auf einem Landesparteitag stimmte eine deutliche Mehrheit der Delegierten dafür. Grüne und SPD hatten Koalitionsgesprächen bereits Mitte Oktober zugestimmt.",
-   "link": "https://www.deutschlandfunk.de/linke-stimmt-fuer-koalitionsverhandlungen-mit-gruenen-und-spd-102.html",
-   "published": "2026-10-31T23:41:49+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-02T23:41:49+00:00"
-  },
-  {
-   "id": "nf624721d4d",
-   "topic": "politik",
-   "title": "\"Gen Z regelt\" - Zehntausende bei Jugendprotesten - Ausschreitungen in mehreren Städten",
-   "text": "Nach dem friedlichen Protest Zehntausender junger Menschen ist es in mehreren deutschen Städten zu Ausschreitungen gekommen. Aus Frankfurt wurden verletzte Polizisten gemeldet, aus Berlin Flaschen- und Böllerwürfe und aus Hamburg brennende Barrikaden. In mehreren Städten kamen Wasserwerfer zum Einsatz.",
-   "link": "https://www.deutschlandfunk.de/zehntausende-bei-jugendprotesten-ausschreitungen-in-mehreren-staedten-102.html",
-   "published": "2026-10-31T23:41:49+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-02T23:41:49+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Weitgehend friedlich - in einigen Städten Ausschreitungen",
-     "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-102.html"
-    }
-   ]
-  },
-  {
-   "id": "n71f1d68f7e",
-   "topic": "politik",
-   "title": "Religion - Katholische Christen begehen Allerheiligen",
-   "text": "Katholische Christen begehen heute das Hochfest Allerheiligen.",
-   "link": "https://www.deutschlandfunk.de/katholische-christen-begehen-allerheiligen-100.html",
-   "published": "2026-10-31T23:41:49+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-02T23:41:49+00:00"
-  },
-  {
-   "id": "nc2eb12db6b",
-   "topic": "politik",
-   "title": "Fußball-Bundesliga - München und Dortmund trennen sich unentschieden",
-   "text": "In der Fußball-Bundesliga hat der FC Bayern München die alleinige Tabellenführung verpasst. Im Topspiel kam der deutsche Rekordmeister im eigenen Stadion trotz zweimaliger Führung gegen Verfolger Borussia Dortmund nur zu einem 2:2 (1:0).",
-   "link": "https://www.deutschlandfunk.de/muenchen-und-dortmund-trennen-sich-unentschieden-100.html",
-   "published": "2026-10-31T23:41:49+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-02T23:41:49+00:00",
-   "img": "https://bilder.deutschlandfunk.de/e5/d9/33/2c/e5d9332c-d5e1-48e8-aa7c-d34335df873e/bayern-dortmund-106-1920x1920.jpg"
-  },
-  {
-   "id": "na1722a43af",
-   "topic": "politik",
-   "title": "Religion - EKD-Ratsvorsitzende Fehrs wirbt zum Reformationstag für neue Fehlerkultur in Politik und Alltag",
-   "text": "Die Ratsvorsitzende der Evangelischen Kirche in Deutschland, Fehrs, hat anlässlich des Reformationstags zu mehr Toleranz aufgerufen.",
-   "link": "https://www.deutschlandfunk.de/ekd-ratsvorsitzende-fehrs-wirbt-zum-reformationstag-fuer-neue-fehlerkultur-in-politik-und-alltag-106.html",
-   "published": "2026-10-31T23:41:49+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-02T23:41:49+00:00"
-  },
-  {
-   "id": "nb1513af5bf",
-   "topic": "nfl",
-   "title": "What signing Lan Larison to the 53-man roster means for the Patriots",
-   "text": "The Patriots added to their running back group ahead of their game against the Dolphins.",
-   "link": "https://sports.yahoo.com/articles/signing-lan-larison-53-man-232559295.html",
-   "published": "2026-10-31T23:25:59+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-05T23:25:59+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/cc3dea4c26e435253cdb0789ad82c774.jpg"
-  },
-  {
-   "id": "n3452d5ef1d",
-   "topic": "nfl",
-   "title": "Commanders vs. Eagles: Struggling NFC East squads face off on 'Sunday Night Football'",
-   "text": "Here's what you need to know to catch the game",
-   "link": "https://www.cbssports.com/nfl/news/commanders-vs-eagles-where-to-watch-prediction/",
-   "published": "2026-10-31T23:00:58+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-05T23:00:58+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/31/7eb14f70-727a-4f93-9ae1-b56d61e607c1/jayden-daniels-commanders-17.jpg"
-  },
-  {
-   "id": "nfa8f5e48f2",
-   "topic": "welt",
-   "title": "Erneut Proteste und Zusammenstöße in Frankreich",
-   "text": "Am dritten Samstag in Folge haben in Frankreich Hunderttausende Menschen protestiert - erst friedlich, doch am Ende kam es wieder zu Zusammenstößen mit der Polizei. Die bleibt auch nach Ende der Protestzüge in Alarmbereitschaft. Von J. Borutta.",
-   "link": "https://www.tagesschau.de/ausland/frankreich-proteste-242.html",
-   "published": "2026-10-31T22:32:55+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-03T22:32:55+00:00",
-   "img": "https://images.tagesschau.de/image/fcbe1d73-006b-4606-a07a-409c491f52ef/AAABoZM40mI/AAABnSSvrFg/16x9-big/paris-1032.jpg?width=1920"
-  },
-  {
-   "id": "n61ed762265",
-   "topic": "politik",
-   "title": "Weitgehend friedlich - in einigen Städten Ausschreitungen",
-   "text": "Bessere Bildung, mehr Klimaschutz und bezahlbarer Wohnraum - dafür sind Zehntausende in vielen deutschen Städten auf die Straße gezogen. Die Proteste der \"Gen Z regelt\" blieben weitgehend friedlich. Doch am Abend kam es zu einigen Ausschreitungen.",
-   "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-102.html",
-   "published": "2026-10-31T20:33:42+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-03T20:33:42+00:00",
-   "img": "https://images.tagesschau.de/image/351fb06b-846d-4d72-9e5a-276ea9f46658/AAABoZN6Pzg/AAABnSSvrFg/16x9-big/jugendproteste-104.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "\"Gen Z regelt\" - Zehntausende bei Jugendprotesten - Ausschreitungen in mehreren Städten",
-     "link": "https://www.deutschlandfunk.de/zehntausende-bei-jugendprotesten-ausschreitungen-in-mehreren-staedten-102.html"
-    }
-   ]
-  },
-  {
-   "id": "n3221bb4be4",
-   "topic": "welt",
-   "title": "Der Kampf um das polnische Verfassungsgericht eskaliert",
-   "text": "Nach der Absetzung der bisherigen Gerichtsspitze eskaliert der Streit über Polens Verfassungsgericht: Regierung und Opposition werfen sich gegenseitig vor, die Justiz zu gefährden. Vor dem Gebäude gab es erneut Proteste.",
-   "link": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-100.html",
-   "published": "2026-10-31T20:11:14+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-03T20:11:14+00:00",
-   "img": "https://images.tagesschau.de/image/9f49bd5c-5daa-4757-ad0b-b6f9d181edc3/AAABoZIXzaw/AAABnSSvrFg/16x9-big/polen-verfassungsgericht-122.jpg?width=1920"
-  },
-  {
-   "id": "n9387a637fe",
-   "topic": "nfl",
-   "title": "Ravens-Bills Keys to Victory: can Lamar Jackson outduel Josh Allen?",
-   "text": "Lamar Jackson is back and ready to take on Josh Allen and the Bills. Here’s how the Ravens can win on Sunday.",
-   "link": "https://sports.yahoo.com/articles/ravens-bills-keys-victory-lamar-190110498.html",
-   "published": "2026-10-31T19:01:10+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-05T19:01:10+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/657a08be548d9d3be27b621627eca87d.jpg"
-  },
-  {
-   "id": "nc1dd1fbcfd",
-   "topic": "politik",
-   "title": "\"Gen Z regelt\" - Zehntausende bei Jugendprotesten - Ausschreitungen in mehreren Städten",
-   "text": "Nach dem friedlichen Protest Zehntausender junger Menschen ist es in mehreren deutschen Städten zu Ausschreitungen gekommen. Aus Frankfurt wurden verletzte Polizisten gemeldet, aus Berlin Flaschen- und Böllerwürfe und aus Hamburg brennende Barrikaden. In mehreren Städten kamen Wasserwerfer zum Einsatz.",
-   "link": "https://www.deutschlandfunk.de/zehntausende-bei-jugendprotesten-ausschreitungen-in-mehreren-staedten-100.html",
-   "published": "2026-10-31T19:00:53+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-02T19:00:53+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Weitgehend friedlich - in einigen Städten Ausschreitungen",
-     "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-102.html"
-    }
-   ]
-  },
-  {
-   "id": "n86acc8496a",
-   "topic": "politik",
-   "title": "Berlin - Linke stimmt für Koalitionsverhandlungen mit Grünen und SPD",
-   "text": "Die Linke in Berlin hat sich für die Aufnahme von Koalitionsverhandlungen mit Grünen und SPD ausgeprochen. Auf einem Landesparteitag stimmte eine deutliche Mehrheit der Delegierten dafür. Grüne und SPD hatten Koalitionsgesprächen bereits Mitte Oktober zugestimmt.",
-   "link": "https://www.deutschlandfunk.de/linke-stimmt-fuer-koalitionsverhandlungen-mit-gruenen-und-spd-100.html",
-   "published": "2026-10-31T19:00:53+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-02T19:00:53+00:00"
-  },
-  {
-   "id": "n5641625517",
-   "topic": "politik",
-   "title": "Demonstrationen - Hunderttausende Teilnehmer bei neuen Protesten in Frankreich",
-   "text": "In Frankreich sind erneut hunderttausende Menschen gegen hohe Lebenshaltungskosten und Missstände im Bildungssystem auf die Straße gegangen.",
-   "link": "https://www.deutschlandfunk.de/hunderttausende-teilnehmer-bei-neuen-protesten-in-frankreich-100.html",
-   "published": "2026-10-31T19:00:53+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-02T19:00:53+00:00",
-   "img": "https://bilder.deutschlandfunk.de/8a/ca/59/66/8aca5966-ed7b-422c-b3dc-f35ec2c7f12c/frankreich-protest-lille-100-1920x1920.jpg"
-  },
-  {
-   "id": "n2c8bbb1d94",
-   "topic": "politik",
-   "title": "BKA - Bericht: Zahl islamistisch motivierter antisemitischer Straftaten auf Höchststand",
-   "text": "Die Zahl antisemitischer Straftaten in Deutschland, die islamistisch motiviert sind, hat nach Presseinformationen einen neuen Höchststand erreicht.",
-   "link": "https://www.deutschlandfunk.de/bericht-zahl-islamistisch-motivierter-antisemitischer-straftaten-auf-hoechststand-102.html",
-   "published": "2026-10-31T19:00:53+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-02T19:00:53+00:00"
-  },
-  {
-   "id": "nea926b15af",
-   "topic": "politik",
-   "title": "Religion - EKD-Ratsvorsitzende Fehrs wirbt zum Reformationstag für neue Fehlerkultur in Politik und Alltag",
-   "text": "Die Ratsvorsitzende der Evangelischen Kirche in Deutschland, Fehrs, hat anlässlich des heutigen Reformationstags zu mehr Toleranz aufgerufen.",
-   "link": "https://www.deutschlandfunk.de/ekd-ratsvorsitzende-fehrs-wirbt-zum-reformationstag-fuer-neue-fehlerkultur-in-politik-und-alltag-100.html",
-   "published": "2026-10-31T19:00:53+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-02T19:00:53+00:00"
-  },
-  {
-   "id": "n07f699bc6a",
-   "topic": "politik",
-   "title": "Brauchtum - Kinder und Jugendliche ziehen an Halloween durch die Straßen – Autofahrer zur Vorsicht aufgerufen",
-   "text": "Zu Halloween werden heute Abend vielerorts wieder zahlreiche Kinder und Jugendliche in Gruselkostümen unterwegs sein.",
-   "link": "https://www.deutschlandfunk.de/kinder-und-jugendliche-ziehen-an-halloween-durch-die-strassen-autofahrer-zur-vorsicht-aufgerufen-100.html",
-   "published": "2026-10-31T19:00:53+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-02T19:00:53+00:00",
-   "img": "https://bilder.deutschlandfunk.de/13/5d/dc/72/135ddc72-eeed-49a2-b245-1df5ef70b93a/mann-mit-geschminkter-maske-100-1920x1920.jpg"
-  },
-  {
-   "id": "n60d8e9955e",
-   "topic": "nfl",
-   "title": "The price for Jonathan Taylor: 1st round pick + Defensive Tackle",
-   "text": "Negotiations for a Jonathan Taylor trade are ongoing as the deadline looms, and the Colts have named a price.",
-   "link": "https://sports.yahoo.com/articles/price-jonathan-taylor-1st-round-190000735.html",
-   "published": "2026-10-31T19:00:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-05T19:00:00+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/62aa1c1f4b9fa0845e98d736f4c09e44.jpg"
-  },
-  {
-   "id": "n014d7ea4bb",
-   "topic": "it",
-   "title": "Top 10: Das beste City- und Trekking-E-Bike – Preis-Leistungs-Sieger für 899 €",
-   "text": "Wir hatten gut 60 City-E-Bikes im Test – mit Fokus auf Ausstattung und Preis-Leistung. Das sind die zehn besten Pedelecs für die Stadt.",
-   "link": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-city-und-trekking-e-bike-preis-leistungs-sieger-fuer-899-euro/syrrc15?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-10-31T19:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-05T19:00:00+00:00"
-  },
-  {
-   "id": "n39424c7274",
-   "topic": "politik",
-   "title": "Polizei löst Gen-Z-Protest in Frankfurt auf - tausende Teilnehmende",
-   "text": "Zum Gen-Z-Protesttag zogen tausende Demonstrierende durch die Frankfurter Innenstadt. Mehrfach stoppte der Zug wegen Pyrotechnik. Die Polizei löste die Demo vor dem Ende der Route auf.",
-   "link": "https://www.hessenschau.de/panorama/polizei-loest-gen-z-protest-in-frankfurt-auf---tausende-teilnehmende-v12,frankfurt-gen-z-demo-100.html",
-   "published": "2026-10-31T18:53:07+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-04T18:53:07+00:00",
-   "img": "https://www.hessenschau.de/panorama/wasserwerfer-104~_t-1793468266195_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "n1ffaaddf60",
-   "topic": "nfl",
-   "title": "NFL Week 8 final injury report: Patriots' AJ Brown ruled out, latest on Lamar Jackson, more",
-   "text": "A rundown of each team's final Week 8 injury report",
-   "link": "https://www.cbssports.com/nfl/news/nfl-week-8-injury-report-lamar-jackson-aj-brown-emeka-egbuka-more/",
-   "published": "2026-10-31T18:22:40+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-05T18:22:40+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/08/22/1597b539-bcff-480c-b48d-b88fb359c87b/emeka-egbuka-tampa-bay-buccaneers-imagn-images.jpg"
-  },
-  {
-   "id": "ne9902203fc",
-   "topic": "nfl",
-   "title": "Broncos host rival Chiefs in game that could decide AFC West",
-   "text": "Everything you need to know for Sunday's huge divisional game",
-   "link": "https://www.cbssports.com/nfl/news/broncos-chiefs-where-to-watch-prediction/",
-   "published": "2026-10-31T18:15:08+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-05T18:15:08+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/08/25/5831c134-1a7f-4ab4-809a-52ebecde2084/patrick-mahomes-nfl-chiefs-vs-broncos.jpg"
   }
  ]
 }
