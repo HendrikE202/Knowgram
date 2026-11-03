@@ -1,50 +1,695 @@
 {
- "generated": "2026-11-03T06:48:21.430843+00:00",
+ "generated": "2026-11-03T17:03:45.913746+00:00",
  "briefing": [
   "n91efa3c377",
   "n8d6b1f159d",
   "n4857233c60",
   "n21b5123906",
-  "n61757e540a",
-  "n692e12d5d2",
-  "nd278b5914b",
-  "nd5fd9092ae"
+  "n51b8b7ee25",
+  "ne45ad61c0f",
+  "nd184134b0b",
+  "n146dfea7bc",
+  "n909b6a586b"
  ],
  "ranked": [
   {
    "id": "n91efa3c377",
-   "s": 44.9
+   "s": 32.4
   },
   {
    "id": "n8d6b1f159d",
-   "s": 32.7
+   "s": 30.1
   },
   {
    "id": "n4857233c60",
-   "s": 29.6
+   "s": 27.1
   },
   {
    "id": "n21b5123906",
-   "s": 29.5
+   "s": 27.0
   },
   {
-   "id": "n61757e540a",
-   "s": 28.1
+   "id": "n51b8b7ee25",
+   "s": 23.0
   },
   {
-   "id": "n692e12d5d2",
-   "s": 27.8
+   "id": "ne45ad61c0f",
+   "s": 22.5
   },
   {
-   "id": "nd278b5914b",
-   "s": 19.1
+   "id": "nd184134b0b",
+   "s": 22.2
   },
   {
-   "id": "nd5fd9092ae",
-   "s": 18.4
+   "id": "n146dfea7bc",
+   "s": 21.8
+  },
+  {
+   "id": "n909b6a586b",
+   "s": 17.5
   }
  ],
  "items": [
+  {
+   "id": "n61d300d24d",
+   "topic": "it",
+   "title": "(g+) MRAM statt DRAM: Neuer KI-Chip soll 98 Prozent weniger Strom verbrauchen",
+   "text": "Ein Toyota-Zulieferer hat einen KI-Chip entwickelt, der deutlich sparsamer und schneller arbeiten soll. Die Technik könnte die KI-Verarbeitung in Autos verbessern, berichtet Nikkei Asia. Von Shota Uehara ( KI , Toyota )",
+   "link": "https://www.golem.de/news/mram-statt-dram-neuer-ki-chip-soll-98-prozent-weniger-strom-verbrauchen-2611-214806.html",
+   "published": "2026-11-03T17:00:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-08T17:00:01+00:00",
+   "img": "https://www.golem.de/2611/214806-606630-606628_rc.jpg"
+  },
+  {
+   "id": "n15d933e432",
+   "topic": "it",
+   "title": "Mysteriöses Zucken im Stromnetz: Forscher lösen Rätsel um USV-Selbsttests",
+   "text": "Jede Minute zucken Stromnetze weltweit kurz. Forscher finden heraus: Gleichzeitige Selbsttests von USVs und Batteriespeichern sind dafür verantwortlich.",
+   "link": "https://www.heise.de/news/Mysterioeses-Zucken-im-Stromnetz-Forscher-loesen-Raetsel-um-USV-Selbsttests-11510323.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-03T16:54:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-08T16:54:00+00:00"
+  },
+  {
+   "id": "nbd79794bbe",
+   "topic": "politik",
+   "title": "Sabotage-Verdacht - Weitere Festnahme in Deutschland nach Brand in polnischer \"Starlink\"-Anlage",
+   "text": "Nach dem Brand in einer polnischen Anlage des Satellitenbetreibers Starlink ist in Deutschland ein weiterer Tatverdächtiger festgenommen worden.",
+   "link": "https://www.deutschlandfunk.de/weitere-festnahme-in-deutschland-nach-brand-in-polnischer-starlink-anlage-100.html",
+   "published": "2026-11-03T16:53:47+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-05T16:53:47+00:00"
+  },
+  {
+   "id": "n216a6d4b0f",
+   "topic": "politik",
+   "title": "Altersbezüge - Medien: Rentner können 2027 mit einer Erhöhung um 4,09 Prozent rechnen",
+   "text": "Die rund 21-einhalb Millionen Rentner in Deutschland können auf mehr Geld im nächsten Jahr hoffen.",
+   "link": "https://www.deutschlandfunk.de/medien-rentner-koennen-2027-mit-einer-erhoehung-um-4-09-prozent-rechnen-102.html",
+   "published": "2026-11-03T16:53:47+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-05T16:53:47+00:00",
+   "img": "https://bilder.deutschlandfunk.de/50/3b/43/ed/503b43ed-71d6-4bf5-81ce-0cf87e6d8f3e/lebenserwartung-100-1920x1920.jpg"
+  },
+  {
+   "id": "n51b8b7ee25",
+   "topic": "politik",
+   "title": "Kraftstoffpreisdeckel - SPD kündigt Widerstand gegen Gesetzentwurf an",
+   "text": "Die Pläne von Bundeswirtschaftsministerin Reiche für den angekündigten Kraftstoffpreisdeckel sorgen weiter für Kritik, auch in den Reihen der Regierung.",
+   "link": "https://www.deutschlandfunk.de/spd-kuendigt-widerstand-gegen-gesetzentwurf-an-100.html",
+   "published": "2026-11-03T16:53:47+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-05T16:53:47+00:00",
+   "img": "https://bilder.deutschlandfunk.de/e3/35/58/e6/e33558e6-86d1-4d8d-96a1-2f523a94cf63/kluessendorf-spd-100-1920x1920.jpg"
+  },
+  {
+   "id": "n1bf5245a09",
+   "topic": "politik",
+   "title": "Selenskyj in Berlin - Merz verspricht mehr Hilfe für die Ukraine",
+   "text": "Bundeskanzler Merz hat an Russland appelliert, den Krieg gegen die Ukraine zu beenden. Der regionale Waffenstillstand von Oleschky könne ein Vorbild sein für eine weitreichende Waffenruhe, sagte Merz nach einem Treffen mit dem ukrainischen Präsidenten Selenskyj in Berlin.",
+   "link": "https://www.deutschlandfunk.de/merz-verspricht-mehr-hilfe-fuer-die-ukraine-100.html",
+   "published": "2026-11-03T16:53:47+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-05T16:53:47+00:00",
+   "img": "https://bilder.deutschlandfunk.de/88/00/d4/08/8800d408-39fe-4c94-8c37-f580ab6324bf/merz-206-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Merz verspricht mehr Hilfe für die Ukraine und appelliert an Europäer",
+     "link": "https://www.tagesschau.de/ausland/europa/merz-selenskyj-134.html"
+    },
+    {
+     "source": "Golem.de",
+     "title": "Digitalgipfel: Merz will Abhängigkeit von US-KI drastisch reduzieren",
+     "link": "https://www.golem.de/news/digitalgipfel-merz-will-abhaengigkeit-von-us-ki-drastisch-reduzieren-2611-214771.html"
+    }
+   ]
+  },
+  {
+   "id": "n03c63d0a2f",
+   "topic": "politik",
+   "title": "US-Kongresswahlen - Die Zwischen-Wahlen laufen - Demokraten hoffen auf Sieg über Trumps Republikaner bei Midterms",
+   "text": "In den USA finden die Zwischenwahlen zum Kongress statt. Zur Abstimmung stehen sämtliche 435 Sitze im Repräsentantenhaus sowie 35 der insgesamt 100 Sitze im Senat. Die Republikaner haben in beiden Kammern eine hauchdünne Mehrheit.",
+   "link": "https://www.deutschlandfunk.de/die-zwischen-wahlen-laufen-demokraten-hoffen-auf-sieg-ueber-trumps-republikaner-bei-midterms-100.html",
+   "published": "2026-11-03T16:53:47+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-05T16:53:47+00:00",
+   "img": "https://bilder.deutschlandfunk.de/1b/25/8c/b6/1b258cb6-f341-4319-a2c5-bb4274c43f7d/wahllokal-ohio-midterms-100-1920x1920.jpg"
+  },
+  {
+   "id": "n2a3a0bbfb2",
+   "topic": "politik",
+   "title": "Automobilwirtschaft - Zulieferer Schaeffler streicht 3.460 Stellen und schließt fünf Standorte",
+   "text": "Der Automobil-Zulieferer Schaeffler hat die Schließung von fünf Standorten und einen Stellenabbau angekündigt.",
+   "link": "https://www.deutschlandfunk.de/zulieferer-schaeffler-streicht-3-460-stellen-und-schliesst-fuenf-standorte-100.html",
+   "published": "2026-11-03T16:53:47+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-05T16:53:47+00:00",
+   "img": "https://bilder.deutschlandfunk.de/dd/17/15/4f/dd17154f-2e6a-49fd-9bf0-c8ae4afcb0cb/schaeffler-100-1920x1920.jpg"
+  },
+  {
+   "id": "nbe2bebf07f",
+   "topic": "nfl",
+   "title": "Dan Campbell credits Mike Kafka for big play to Amon-Ra St. Brown",
+   "text": "The Lions ran what may have been the most inventive play of the week in the NFL when wide receiver Amon-Ra St.",
+   "link": "https://sports.yahoo.com/articles/dan-campbell-credits-mike-kafka-164700647.html",
+   "published": "2026-11-03T16:47:00+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-08T16:47:00+00:00"
+  },
+  {
+   "id": "nd35ea74ad6",
+   "topic": "nfl",
+   "title": "NFL Power Rankings for Week 9: Are they beginning to Bo-lieve?",
+   "text": "The national media has to start taking notice of the 6-2 Denver Broncos. They don’t quite bo-lieve yet, but if they keep winning….",
+   "link": "https://sports.yahoo.com/articles/nfl-power-rankings-week-9-164535162.html",
+   "published": "2026-11-03T16:45:35+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-08T16:45:35+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/75483b5ac19c8e8c50f012828123857c.jpg"
+  },
+  {
+   "id": "n495758576b",
+   "topic": "it",
+   "title": "EuGH-Gutachten: Googles Chatbot könnte Urheberrecht von Verlagen verletzen",
+   "text": "Ein Verlag sieht sein Leistungsschutzrecht durch die KI-Übersichten von Google verletzt. Die Klage könnte in Teilen erfolgreich sein. ( KI , Urheberrecht )",
+   "link": "https://www.golem.de/news/eugh-gutachten-googles-chatbot-koennte-urheberrecht-von-verlagen-verletzen-2611-214812.html",
+   "published": "2026-11-03T16:45:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-08T16:45:01+00:00",
+   "img": "https://www.golem.de/2611/214812-606661-606659_rc.jpg"
+  },
+  {
+   "id": "n8c5eed9730",
+   "topic": "it",
+   "title": "Google legt Botnetz lahm, beschuldigt Hersteller von Android-Set-Top-Boxen",
+   "text": "Ein Botnetz aus über einer Million infizierter Android-Geräte stammte offenbar vom Gerätehersteller selbst. Geräte waren ab Werk mit Malware verseucht.",
+   "link": "https://www.heise.de/news/Google-legt-Botnetz-lahm-beschuldigt-Hersteller-von-Android-Set-Top-Boxen-11510056.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-03T16:40:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-08T16:40:00+00:00"
+  },
+  {
+   "id": "n8cad482194",
+   "topic": "ki",
+   "title": "KI-Agenten steuern jetzt ein Teleskop für die Suche nach außerirdischer Intelligenz",
+   "text": "Das SETI Institute und Breakthrough Listen lassen am Allen Telescope Array nun KI-Agenten das Teleskop steuern und die eingehenden Radiosignale auswerten. Aufgaben, die bisher Wochen dauerten, sollen so in Stunden erledigt werden – erstmals erkannte das System einen Pulsar im Krebsnebel in Echtzeit. Der Artikel …",
+   "link": "https://the-decoder.de/ki-agenten-steuern-jetzt-ein-teleskop-fuer-die-suche-nach-ausserirdischer-intelligenz/",
+   "published": "2026-11-03T16:35:06+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-10T16:35:06+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/11/IMG_1607-ATA-2023-CREDIT-Joe-Marfia-1536x1024-1.jpg"
+  },
+  {
+   "id": "n7f4f626c43",
+   "topic": "it",
+   "title": "FreeRDP bringt Remote-Desktops in den Browser",
+   "text": "FreeRDP 3.33.0 unterstützt WebAssembly für den Browser, experimentelle UDP-Verbindungen und verbessert RemoteApp unter SDL.",
+   "link": "https://www.heise.de/news/FreeRDP-bringt-Remote-Desktops-in-den-Browser-11510187.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-03T16:34:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-08T16:34:00+00:00"
+  },
+  {
+   "id": "nb1183fff94",
+   "topic": "politik",
+   "title": "Hesssiche Kommunen fordern halbe Milliarde Euro Soforthilfe",
+   "text": "Zu viele Aufgaben, zu wenig Geld: Hessens Gemeinden, Städte und Kreise sind nach eigenem Bekunden endgültig über dem Limit. Von der schwarz-roten Koalition erwarten sie eine rasche Finanzspritze. Die Antwort des Finanzministers wird sie nicht erfreuen.",
+   "link": "https://www.hessenschau.de/politik/hesssiche-kommunen-fordern-halbe-milliarde-euro-soforthilfe-v1,hilfeschrei-hessische-kommunen-finanznot-100.html",
+   "published": "2026-11-03T16:31:53+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T16:31:53+00:00",
+   "img": "https://www.hessenschau.de/politik/kommunaler-finanzausgleich-106~_t-1766158563300_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "nc68ffb13bd",
+   "topic": "nfl",
+   "title": "Could NFC North have four playoff teams? After strong Week 8, it's looking more likely than ever",
+   "text": "The NFC North's worst team is 5-3",
+   "link": "https://www.cbssports.com/nfl/news/nfc-north-four-playoff-teams-looking-more-likely-than-ever/",
+   "published": "2026-11-03T16:26:58+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-08T16:26:58+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/11/03/b0c93551-7245-4f98-9203-f9e2b5400fe8/nfcnorth.jpg"
+  },
+  {
+   "id": "n770b962173",
+   "topic": "politik",
+   "title": "Dobrindt verteidigt \"Chaoten\"-Aussage nach Krawallen vom Wochenende",
+   "text": "Sind \"migrantische Milieus\" für die Gewalt vom Wochenende verantwortlich? Die Aussagen von Innenminister Dobrindt stoßen weiter auf breite Kritik. Der Minister selbst will seine Wortwahl jedoch nicht korrigieren.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-genz-proteste-100.html",
+   "published": "2026-11-03T16:14:29+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T16:14:29+00:00",
+   "img": "https://images.tagesschau.de/image/70f69f82-1f8a-4384-814d-fde5d62a427a/AAABoaIwx-A/AAABnSSvrFg/16x9-big/dobrindt-572.jpg?width=1920"
+  },
+  {
+   "id": "n084a54cd79",
+   "topic": "politik",
+   "title": "\"Gen Z\"-Proteste: Wann dürfen Demos verboten werden?",
+   "text": "Fliegende Steine, zerstörte Schaufenster und Plünderungen: Vor allem in Frankfurt kam es am Wochenende nach den \"Gen Z\"-Protesten zu Krawallen. Dürfen künftige Demos deshalb verboten werden? Von Antonetta Stephany und Anne Stein.",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-verbot-100.html",
+   "published": "2026-11-03T16:12:40+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T16:12:40+00:00",
+   "img": "https://images.tagesschau.de/image/95a0bc5a-be60-41f6-8477-5b0856fbe567/AAABoaFZbnA/AAABnSSvrFg/16x9-big/teilnehmer-demonstration-102.jpg?width=1920"
+  },
+  {
+   "id": "neaae5a672d",
+   "topic": "wissenschaft",
+   "title": "Angriffe auf Kühlsysteme: Warum Supermärkte von Cyberangriffen kalt erwischt werden",
+   "text": "Nun sind auch deutsche Supermärkte von Cyberangriffen auf Kühlsysteme betroffen. Die Vorfälle weisen auf Sicherheitslücken hin - Handelsketten und Hersteller haben es den Angreifern offenbar leicht gemacht. Von Sven Kästner.",
+   "link": "https://www.tagesschau.de/wissen/kuehlsysteme-schutz-100.html",
+   "published": "2026-11-03T16:10:04+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-17T16:10:04+00:00",
+   "img": "https://images.tagesschau.de/image/2aa1a7a0-1dfe-4f65-bcfc-8453b86450af/AAABoaHv5G4/AAABnSSvrFg/16x9-big/supermarkt-kuehlregale-100.jpg?width=1920"
+  },
+  {
+   "id": "naf03c08287",
+   "topic": "welt",
+   "title": "Merz verspricht mehr Hilfe für die Ukraine und appelliert an Europäer",
+   "text": "Russische Angriffe auf die Energie-Infrastruktur, Raketeneinschläge in den Städten: Der Ukraine droht ein harter Kriegswinter. Kanzler Merz sagt Unterstützung zu - fordert aber auch mehr Engagement der europäischen Partner.",
+   "link": "https://www.tagesschau.de/ausland/europa/merz-selenskyj-134.html",
+   "published": "2026-11-03T16:08:15+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T16:08:15+00:00",
+   "img": "https://images.tagesschau.de/image/977cf63c-9a68-4093-afbb-ba679eac4fe0/AAABoaHeKvE/AAABnSSvrFg/16x9-big/selenskyj-merz-140.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Selenskyj in Berlin - Merz verspricht mehr Hilfe für die Ukraine",
+     "link": "https://www.deutschlandfunk.de/merz-verspricht-mehr-hilfe-fuer-die-ukraine-100.html"
+    },
+    {
+     "source": "Golem.de",
+     "title": "Digitalgipfel: Merz will Abhängigkeit von US-KI drastisch reduzieren",
+     "link": "https://www.golem.de/news/digitalgipfel-merz-will-abhaengigkeit-von-us-ki-drastisch-reduzieren-2611-214771.html"
+    }
+   ]
+  },
+  {
+   "id": "n7033913b2a",
+   "topic": "nfl",
+   "title": "Klint Kubiak addresses Ashton Jeanty's disappearance from game plan vs. Jets",
+   "text": "Jeanty had just two carries and played less than 40% of the snaps against New York",
+   "link": "https://www.cbssports.com/nfl/news/klint-kubiak-ashton-jeantys-disappearance-from-game-plan-vs-jets/",
+   "published": "2026-11-03T16:03:59+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-08T16:03:59+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/11/02/8a616cbb-b8bf-4de8-9665-dd0ed40cbcdd/ashton-jeanty-raiders.jpg"
+  },
+  {
+   "id": "n38bcc9fe82",
+   "topic": "wissenschaft",
+   "title": "Sprachmodelle optimieren Sprachmodelle: KI entschlüsselt die Blackbox der künstlichen Intelligenz",
+   "text": "Das Innere neuronaler Netze gilt als kaum durchschaubar. Doch Sprachmodelle können es verstehen und sogar verbessern. Das macht die KI-Entwicklung womöglich ressourcenschonender.",
+   "link": "https://www.spektrum.de/news/ki-sprachmodelle-ist-die-zeit-des-aufwendigen-ki-trainings-vorbei/2352465",
+   "published": "2026-11-03T16:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-17T16:00:00+00:00"
+  },
+  {
+   "id": "n47d62cfed4",
+   "topic": "wirtschaft",
+   "title": "Weihnachtsgeschäft: Kinderwünsche und Händlerträume",
+   "text": "Weihnachtszeit ist Umsatzzeit: Trotz Krisenstimmung zeigt sich der Einzelhandel zuversichtlich. Doch wo Kinder ins Träumen geraten, ist die Stimmung der Händler angespannt. Von Juri Sonnenholzner.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/spielwaren-hde-weihnachtsgeschaeft-rofu-100.html",
+   "published": "2026-11-03T15:47:04+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T15:47:04+00:00",
+   "img": "https://images.tagesschau.de/image/6a22ca40-d411-4e92-8958-8efff5660b26/AAABoaFtyAg/AAABnSSvrFg/16x9-big/laden-rofu-100.jpg?width=1920"
+  },
+  {
+   "id": "n7b2de1bf43",
+   "topic": "wirtschaft",
+   "title": "Erster Spot vor 70 Jahren: Als die Werbung ins Fernsehen kam",
+   "text": "Mit einem Fleck auf der Tischdecke fing es an - und zwar in Bayern: Vor 70 Jahren wurde der erste Werbespot im deutschen Fernsehen ausgestrahlt. Seitdem hat sich Werbung massiv verändert. Und das große Geld fließt längst in andere Kanäle. Von Laura Bisch.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/70-jahre-werbefernsehen-100.html",
+   "published": "2026-11-03T15:46:23+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T15:46:23+00:00",
+   "img": "https://images.tagesschau.de/image/cc682bd6-cf25-46b1-8f3c-014635274b46/AAABoaH0WmE/AAABnSSvrFg/16x9-big/werbung-114.jpg?width=1920"
+  },
+  {
+   "id": "ne45ad61c0f",
+   "topic": "welt",
+   "title": "Zwischenwahlen in den USA: Warum sind sie wichtig, wer wird gewählt, wo wird's spannend?",
+   "text": "Die US-Amerikaner wählen ihren neuen Kongress: Senat, Abgeordnetenhaus, Gouverneure - die Zwischenwahlen stellen wichtige Weichen für die Zukunft der USA. Und sie bewerten immer auch die Politik des Präsidenten.",
+   "link": "https://www.dw.com/de/zwischenwahlen-in-den-usa-warum-sind-sie-wichtig-wer-wird-gewählt-wo-wird-s-spannend/a-79776241?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-03T15:10:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-07T15:10:00+00:00",
+   "img": "https://static.dw.com/image/79841034_302.jpg"
+  },
+  {
+   "id": "ndc7e78755e",
+   "topic": "wissenschaft",
+   "title": "Sabotage im Supermarkt: Was hinter den Cyberangriffen auf Kühlanlagen steckt",
+   "text": "In Supermärkten wurden Kühlanlagen aus der Ferne in den Heizmodus geschaltet – Lebensmittel verdarben, teils kam es zu Schwelbränden. Wie konnten die Angreifer eindringen?",
+   "link": "https://www.spektrum.de/news/sabotage-im-supermarkt-was-hinter-den-cyberangriffen-steckt/2352523",
+   "published": "2026-11-03T15:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-17T15:00:00+00:00"
+  },
+  {
+   "id": "nc9b34d2ca9",
+   "topic": "wirtschaft",
+   "title": "Evonik wehrt sich gegen Chemieriese BASF",
+   "text": "Es wäre die größte Fusion in der deutschen Chemiebranche: Wenn BASF und Evonik zusammengingen, entstünde ein Konzern mit einem Jahresumsatz von rund 74 Milliarden Euro. Doch noch sträubt sich Evonik. Von Michael Heussen.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/evonik-basf-fusion-100.html",
+   "published": "2026-11-03T14:59:40+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T14:59:40+00:00",
+   "img": "https://images.tagesschau.de/image/36b9faed-a98c-455e-a299-8c59c4b95517/AAABoaHi-Y0/AAABnSSvrFg/16x9-big/chemieindustrie-116.jpg?width=1920"
+  },
+  {
+   "id": "n909b6a586b",
+   "topic": "welt",
+   "title": "Deutschland: Harte Schläge gegen kriminelle Vereinigungen",
+   "text": "Mit Razzien ist die Polizei gegen verschiedene Netzwerke von Kriminellen vorgegangen. Dabei ging es einerseits um die Kriminalitätsform \"Crime as a Service\". Im Fokus standen außerdem mutmaßliche Linksextremisten.",
+   "link": "https://www.dw.com/de/deutschland-harte-schläge-gegen-kriminelle-vereinigungen/a-79843275?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-03T14:59:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-07T14:59:00+00:00",
+   "img": "https://static.dw.com/image/77878231_302.jpg"
+  },
+  {
+   "id": "nb066cb5345",
+   "topic": "welt",
+   "title": "Die Republik Kosovo ist nach einem weiteren Femizid in Aufruhr: Arlinda Zekaj suchte Schutz, doch Behörden ignorierten ihre Hilferufe",
+   "text": "Sie zeigte ihren Mann an, warnte vor seinem Bruder und flehte um Schutz - trotzdem reagierte die Polizei nicht adäquat. Der Mord an Arlinda Zekaj legt ein dramatisches Versagen staatlicher Institutionen offen.",
+   "link": "https://www.dw.com/de/die-republik-kosovo-ist-nach-einem-weiteren-femizid-in-aufruhr-arlinda-zekaj-suchte-schutz-doch-behörden-ignorierten-ihre-hilferufe/a-79836495?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-03T14:57:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-07T14:57:00+00:00",
+   "img": "https://static.dw.com/image/79826371_302.jpg"
+  },
+  {
+   "id": "naace738884",
+   "topic": "ki",
+   "title": "OpenAI holt früheren US-Heeresminister für Militär- und Geheimdienstgeschäft",
+   "text": "OpenAI holt mit Dan Driscoll den früheren zivilen Chef der US Army als \"Senior Counselor for National Security Modernization\" an Bord, wohl auch um Regierungsaufträge zu gewinnen und KI-Regeln für Militär und Geheimdienste mitzugestalten. Der Vertraute von Vizepräsident JD Vance, der KI-Projekte der Army vorantrieb …",
+   "link": "https://the-decoder.de/openai-holt-frueheren-us-heeresminister-fuer-militaer-und-geheimdienstgeschaeft/",
+   "published": "2026-11-03T14:52:28+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-10T14:52:28+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/11/openai_driscoll.png"
+  },
+  {
+   "id": "n3c43a58f3b",
+   "topic": "welt",
+   "title": "Bayern München in Nairobi: Wie Kenia und andere afrikanische Länder mit Sport globalen Einfluss gewinnen wollen",
+   "text": "Bayern München eröffnet in Nairobi ein neues Fußballstadion und unterstreicht damit einen größeren Trend: Afrikanische Länder setzen auf den Sport, um Investitionen anzuziehen und ihr internationales Profil zu stärken.",
+   "link": "https://www.dw.com/de/bayern-münchen-in-nairobi-wie-kenia-und-andere-afrikanische-länder-mit-sport-globalen-einfluss-gewinnen-wollen/a-79840825?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-03T14:33:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-07T14:33:00+00:00",
+   "img": "https://static.dw.com/image/79797144_302.jpg"
+  },
+  {
+   "id": "nd184134b0b",
+   "topic": "wirtschaft",
+   "title": "Cyberangriffe auf Kühlanlagen auch in deutschen Supermärkten",
+   "text": "Statt fünf waren es plötzlich 50 Grad: In der Nacht haben Hacker in mehreren Supermärkten in Deutschland die Kühlanlagen umgestellt. Große Mengen an Lebensmitteln mussten entsorgt werden. Ähnliche Cyberangriffe gab es auch im Ausland.",
+   "link": "https://www.tagesschau.de/wirtschaft/digitales/cyberangriffe-supermarkt-hacker-100.html",
+   "published": "2026-11-03T13:49:27+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T13:49:27+00:00",
+   "img": "https://images.tagesschau.de/image/445e58cf-c3c2-4911-b9d3-21ade4e40cb7/AAABoaEEmkU/AAABnSSvrFg/16x9-big/kuehlregal-102.jpg?width=1920"
+  },
+  {
+   "id": "n3424ee094c",
+   "topic": "wirtschaft",
+   "title": "Anspannung am Wahltag: Was die Midterms für die Börse bedeuten",
+   "text": "Die Zwischenwahlen in den USA leiten oft eine starke Börsenphase ein. Diesmal bergen sie aber eine Reihe von Stolpersteinen. Von Detlev Landmesser.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-midterms-boerse-100.html",
+   "published": "2026-11-03T13:33:24+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T13:33:24+00:00",
+   "img": "https://images.tagesschau.de/image/d726ff5b-764a-4fd1-abcc-2f3341838768/AAABmMuktaQ/AAABnSSvrFg/16x9-big/nyse-412.jpg?width=1920"
+  },
+  {
+   "id": "n20835610cc",
+   "topic": "wirtschaft",
+   "title": "EU genehmigt MediaMarktSaturn-Übernahme durch JD.com",
+   "text": "Der chinesische Tech-Riese JD.com darf Europas größten Elektronikfachhändler MediaMarktSaturn übernehmen. Das hat die EU-Kommission entschieden. Doch aus Brüssel kommen Auflagen.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/eu-mediamarkt-saturn-jd-genehmigung-100.html",
+   "published": "2026-11-03T13:25:20+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T13:25:20+00:00",
+   "img": "https://images.tagesschau.de/image/95591cc8-7e78-42f1-92f2-fc324115d59b/AAABoaEcUVU/AAABnSSvrFg/16x9-big/mediamarkt-saturn-102.jpg?width=1920"
+  },
+  {
+   "id": "nf958c44f34",
+   "topic": "wissenschaft",
+   "title": "Existenzielle Psychotherapie: Wozu das alles? Sinnsuche in schweren Zeiten",
+   "text": "Lebenskrisen stellen uns vor grundsätzliche Fragen: Wer bin ich? Was ist mir wichtig? Existenzielle und sinnzentrierte Therapien helfen, den Blick auf das Wesentliche zu richten.",
+   "link": "https://www.spektrum.de/news/existenzielle-therapie-sinnsuche-in-schweren-zeiten/2318680",
+   "published": "2026-11-03T13:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-17T13:00:00+00:00"
+  },
+  {
+   "id": "nf894896006",
+   "topic": "politik",
+   "title": "Bundesweite Razzia gegen mutmaßliche Linksextremisten",
+   "text": "Die Polizei hat in mehreren Bundesländern die Wohnungen von mutmaßlichen Linksextremisten durchsucht. Es geht um den Verdacht der Bildung einer kriminellen Vereinigung. Fünf Verdächtige wurden festgenommen.",
+   "link": "https://www.tagesschau.de/inland/razzia-linksextremismus-100.html",
+   "published": "2026-11-03T12:48:39+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T12:48:39+00:00",
+   "img": "https://images.tagesschau.de/image/9ff683de-5360-4f68-bd22-d655aeb23306/AAABoaD8DFk/AAABnSSvrFg/16x9-big/polizei-einsatz-168.jpg?width=1920"
+  },
+  {
+   "id": "nb50d7c3e1c",
+   "topic": "welt",
+   "title": "Wahlen in den USA: Wie geht es nach den Midterms weiter? Vier Szenarien",
+   "text": "Bei den Zwischenwahlen in den USA steht für Trump viel auf dem Spiel: Verlieren seine Republikaner, könnte das Regieren für ihn komplizierter werden. Welche Szenarien sind denkbar? Ein Überblick. Von Jörn Unsöld und Eckart Aretz.",
+   "link": "https://www.tagesschau.de/ausland/amerika/midterms-szenarien-100.html",
+   "published": "2026-11-03T12:24:53+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T12:24:53+00:00",
+   "img": "https://images.tagesschau.de/image/9e4b48cc-a1e7-4651-aa17-04dfaeec83f3/AAABoYKmqUo/AAABnSSvrFg/16x9-big/frau-wahllokal-100.jpg?width=1920"
+  },
+  {
+   "id": "n146dfea7bc",
+   "topic": "welt",
+   "title": "Krypto-Dementi aus Nordkorea: \"Absurde Rhetorik\" der USA",
+   "text": "Nach dem spektakulären Hackerangriff auf die Handelsplattform Binance zeigt sich die Führung in Pjöngjang empört. Washington hatte mit dem Finger in Richtung Nordkorea gewiesen - nicht ohne Hinweis auf frühere Fälle.",
+   "link": "https://www.dw.com/de/krypto-dementi-aus-nordkorea-absurde-rhetorik-der-usa/a-79839615?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-03T12:22:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-07T12:22:00+00:00",
+   "img": "https://static.dw.com/image/77446935_302.jpg"
+  },
+  {
+   "id": "nb5315ec9d7",
+   "topic": "ki",
+   "title": "Anthropic beschleunigt langlaufende KI-Agenten mit neuen \"Message Threads\"",
+   "text": "Anthropic führt Message Threads für die Messages-API ein. Statt bei jedem Turn die gesamte Konversation erneut zu senden, übermitteln Agenten nur noch neue Nachrichten. Bei Anfragen mit 500.000 bis einer Million Token sinkt die Wartezeit bis zum ersten Token um rund 35 Prozent. Der Artikel Anthropic beschleunigt …",
+   "link": "https://the-decoder.de/anthropic-beschleunigt-langlaufende-ki-agenten-mit-neuen-message-threads/",
+   "published": "2026-11-03T12:20:49+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-10T12:20:49+00:00"
+  },
+  {
+   "id": "n0774f0ec68",
+   "topic": "welt",
+   "title": "Die Midterms in Zahlen und Karten",
+   "text": "Senat, Repräsentantenhaus, Bundesstaaten - die Wähler stellen unter anderem US-Präsident Trump ein Zwischenzeugnis aus. Wie ist die Lage für Republikaner und Demokraten? Ein Überblick über Zahlen und Wahlgeografie.",
+   "link": "https://www.tagesschau.de/ausland/amerika/midterms-ergebnisse-102.html",
+   "published": "2026-11-03T12:17:36+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T12:17:36+00:00",
+   "img": "https://images.tagesschau.de/image/d5028027-8fa5-4d83-b097-22f7f4f596b0/AAABoaHAdu4/AAABnSSvrFg/16x9-big/grafik-midterms-usa-senat-sitze-104.jpg?width=1920"
+  },
+  {
+   "id": "n74c4896974",
+   "topic": "welt",
+   "title": "Krieg gegen die Ukraine: Russland bombardiert Krankenhaus in Charkiw",
+   "text": "Russland setzt seine Angriffe auf die Ukraine fort: Nach einem Hilfsgüter-Verteilzentrum am Montag wurden heute medizinische Einrichtungen und Energieanlagen bombardiert. Präsident Selenskyj ist zu einem Besuch in Berlin eingetroffen.",
+   "link": "https://www.tagesschau.de/ausland/europa/ukraine-russische-angriffe-118.html",
+   "published": "2026-11-03T12:16:22+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T12:16:22+00:00",
+   "img": "https://images.tagesschau.de/image/61a36373-f805-4c1b-9845-ae5e8bb719ab/AAABoaFIhh0/AAABnSSvrFg/16x9-big/krankenzimmer-charkiw-100.jpg?width=1920"
+  },
+  {
+   "id": "nb2c0651bbb",
+   "topic": "welt",
+   "title": "Spanien: Zweitliga-Fußballer stirbt nach Zusammenprall",
+   "text": "Jesus de Miguel, Stürmer des CD Teneriffa, kollidiert im Ligaspiel mit dem gegnerischen Torhüter, erleidet schwere Kopfverletzungen und verstirbt in der Klinik. Sein Tod erschüttert den spanischen Fußball.",
+   "link": "https://www.dw.com/de/spanien-zweitliga-fußballer-stirbt-nach-zusammenprall/a-79840782?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-03T12:16:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-07T12:16:00+00:00",
+   "img": "https://static.dw.com/image/79840277_302.jpg"
+  },
+  {
+   "id": "n393a6f0ba8",
+   "topic": "wissenschaft",
+   "title": "Sind Männer gesundheitlich schlechter dran als Frauen?",
+   "text": "Männer haben im Schnitt eine deutlich geringere Lebenserwartung als Frauen. Ein neuer Bericht zeigt: Auch Geschlechterrollen und das Wirken von Gesellschaftsnormen spielen bei der Gesundheit von Männern eine Rolle. Von Niels Walker.",
+   "link": "https://www.tagesschau.de/wissen/gesundheit/maenner-gesundheit-102.html",
+   "published": "2026-11-03T10:07:38+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-17T10:07:38+00:00",
+   "img": "https://images.tagesschau.de/image/71ca6187-199a-4547-aad2-bc6a67e42216/AAABoZwCSlw/AAABnSSvrFg/16x9-big/spaziergang-mann-regen-100.jpg?width=1920"
+  },
+  {
+   "id": "n726b98a48f",
+   "topic": "welt",
+   "title": "Midterms: \"Entscheidende Wahl für Entwicklung der US-Demokratie\"",
+   "text": "Unter Trump haben die USA eine autoritäre Phase erreicht, sagt der Historiker Manfred Berg. Ob diese Entwicklung weitergehe, hänge von dieser und der Wahl 2028 ab. Doch selbst bei einer Niederlage werde Trump an seinem Politikstil festhalten.",
+   "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-zustand-demokratie-102.html",
+   "published": "2026-11-03T09:40:40+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T09:40:40+00:00",
+   "img": "https://images.tagesschau.de/image/08dcceb7-adf0-4aae-8686-7da07ddccd35/AAABoaB401w/AAABnSSvrFg/16x9-big/donald-trump-984.jpg?width=1920"
+  },
+  {
+   "id": "n6120b8699e",
+   "topic": "politik",
+   "title": "US-Wahlen: Wie Trumps Kurs die Bundesregierung herausfordert",
+   "text": "Bei den Kongresswahlen entscheidet sich, ob Präsident Trump seine Politik weiterhin weitgehend ungehindert durchziehen kann. Das wird auch von der Bundespolitik aufmerksam beobachtet. Von Nicole Markwald.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/midterms-usa-deutschland-102.html",
+   "published": "2026-11-03T09:22:54+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T09:22:54+00:00",
+   "img": "https://images.tagesschau.de/image/1280d8f3-0d7d-444b-904a-6c9bbd3b8553/AAABnrclt_M/AAABnSSvrFg/16x9-big/donald-trump-friedrich-merz-washington-100.jpg?width=1920"
+  },
+  {
+   "id": "n7b7e92bf33",
+   "topic": "welt",
+   "title": "Ukraine meldet mindestens 26 Tote bei Angriff in Region Saporischschja",
+   "text": "Bei einem russischen Angriff in der Region Saporischschja sind der Ukraine zufolge mindestens 26 Menschen getötet worden. Präsident Selenskyj warf Moskau gezieltes Bombardement vor. Der Staatschef wird heute in Berlin erwartet.",
+   "link": "https://www.tagesschau.de/ausland/ukraine-saporischschja-tote-100.html",
+   "published": "2026-11-03T09:00:13+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T09:00:13+00:00",
+   "img": "https://images.tagesschau.de/image/ac39726d-d3d0-4cc1-abba-095cd2bff56f/AAABoZ_tGwc/AAABnSSvrFg/16x9-big/ukraine-angriff-saporischschja-102.jpg?width=1920"
+  },
+  {
+   "id": "nce8f24e657",
+   "topic": "welt",
+   "title": "Midterms: So läuft der Wahltag in den USA ab",
+   "text": "Wann ist bei den Zwischenwahlen mit verlässlichen Ergebnissen zu rechnen? Wie lange haben die Wahllokale geöffnet - und wann nehmen die neugewählten Abgeordneten ihre Arbeit im Kongress auf? Ein Überblick über den Ablauf der Midterms.",
+   "link": "https://www.tagesschau.de/ausland/amerika/midterms-ablauf-100.html",
+   "published": "2026-11-03T08:06:22+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T08:06:22+00:00",
+   "img": "https://images.tagesschau.de/image/1b208994-0db4-4b3c-bea0-9d308f8f20c6/AAABoYjV8A0/AAABnSSvrFg/16x9-big/waehlerin-wahllokal-106.jpg?width=1920"
+  },
+  {
+   "id": "n125f1b1846",
+   "topic": "politik",
+   "title": "Bilger will sogenannte Handy-Blitzer bundesweit einführen",
+   "text": "Mit sogenannten Handy-Blitzern können Fahrer erwischt werden, die das Mobiltelefon am Steuer nutzen. Das gibt es bislang nur in Rheinland-Pfalz, Bundesverkehrsminister Bilger will die Technik bundesweit einführen.",
+   "link": "https://www.tagesschau.de/inland/bilger-handy-blitzer-100.html",
+   "published": "2026-11-03T07:39:12+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T07:39:12+00:00",
+   "img": "https://images.tagesschau.de/image/d61f38e3-bcf6-4f92-b5ed-c977aadc7306/AAABoaAvie0/AAABnSSvrFg/16x9-big/handy-steuer-116.jpg?width=1920"
+  },
   {
    "id": "n7279fec1b2",
    "topic": "wissenschaft",
@@ -181,19 +826,6 @@
    "type": "Fachmedium (IT)",
    "lang": "de",
    "expires": "2026-11-08T06:30:00+00:00"
-  },
-  {
-   "id": "n7b7e92bf33",
-   "topic": "welt",
-   "title": "Ukraine meldet mindestens 26 Tote bei Angriff in Region Saporischschja",
-   "text": "Bei einem russischen Angriff in der Region Saporischschja sind der Ukraine zufolge mindestens 26 Menschen getötet worden. Präsident Selenskyj warf Moskau gezieltes Bombardement vor - demnach traf die Attacke ein Verteilzentrum für Hilfsgüter.",
-   "link": "https://www.tagesschau.de/ausland/ukraine-saporischschja-tote-100.html",
-   "published": "2026-11-03T06:26:47+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T06:26:47+00:00",
-   "img": "https://images.tagesschau.de/image/ac39726d-d3d0-4cc1-abba-095cd2bff56f/AAABoZ_tGwc/AAABnSSvrFg/16x9-big/ukraine-angriff-saporischschja-102.jpg?width=1920"
   },
   {
    "id": "nb70a2c1c80",
@@ -394,18 +1026,13 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Digitalgipfel in Berlin: Merz fordert mehr digitale Souveränität",
-     "link": "https://www.tagesschau.de/inland/digitalgipfel-wildberger-merz-ki-100.html"
+     "title": "Merz verspricht mehr Hilfe für die Ukraine und appelliert an Europäer",
+     "link": "https://www.tagesschau.de/ausland/europa/merz-selenskyj-134.html"
     },
     {
      "source": "Golem.de",
      "title": "Digitalgipfel: Merz will Abhängigkeit von US-KI drastisch reduzieren",
      "link": "https://www.golem.de/news/digitalgipfel-merz-will-abhaengigkeit-von-us-ki-drastisch-reduzieren-2611-214771.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Digitalgipfel rund um KI startet in Berlin - News kompakt: Das Wichtigste kurz gefasst",
-     "link": "https://www.dw.com/de/digitalgipfel-rund-um-ki-startet-in-berlin-news-kompakt-das-wichtigste-kurz-gefasst/a-79825269?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -687,18 +1314,13 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Berlin - Merz spricht sich offenbar für Frau als neue Bundespräsidentin aus - \"Kandidatin der politischen Mitte\"",
-     "link": "https://www.deutschlandfunk.de/merz-spricht-sich-offenbar-fuer-frau-als-neue-bundespraesidentin-aus-kandidatin-der-politischen-mitt-100.html"
+     "title": "Selenskyj in Berlin - Merz verspricht mehr Hilfe für die Ukraine",
+     "link": "https://www.deutschlandfunk.de/merz-verspricht-mehr-hilfe-fuer-die-ukraine-100.html"
     },
     {
      "source": "Golem.de",
      "title": "Digitalgipfel: Merz will Abhängigkeit von US-KI drastisch reduzieren",
      "link": "https://www.golem.de/news/digitalgipfel-merz-will-abhaengigkeit-von-us-ki-drastisch-reduzieren-2611-214771.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Digitalgipfel rund um KI startet in Berlin - News kompakt: Das Wichtigste kurz gefasst",
-     "link": "https://www.dw.com/de/digitalgipfel-rund-um-ki-startet-in-berlin-news-kompakt-das-wichtigste-kurz-gefasst/a-79825269?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -717,18 +1339,13 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Berlin - Merz spricht sich offenbar für Frau als neue Bundespräsidentin aus - \"Kandidatin der politischen Mitte\"",
-     "link": "https://www.deutschlandfunk.de/merz-spricht-sich-offenbar-fuer-frau-als-neue-bundespraesidentin-aus-kandidatin-der-politischen-mitt-100.html"
+     "title": "Selenskyj in Berlin - Merz verspricht mehr Hilfe für die Ukraine",
+     "link": "https://www.deutschlandfunk.de/merz-verspricht-mehr-hilfe-fuer-die-ukraine-100.html"
     },
     {
      "source": "Golem.de",
      "title": "Digitalgipfel: Merz will Abhängigkeit von US-KI drastisch reduzieren",
      "link": "https://www.golem.de/news/digitalgipfel-merz-will-abhaengigkeit-von-us-ki-drastisch-reduzieren-2611-214771.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Digitalgipfel rund um KI startet in Berlin - News kompakt: Das Wichtigste kurz gefasst",
-     "link": "https://www.dw.com/de/digitalgipfel-rund-um-ki-startet-in-berlin-news-kompakt-das-wichtigste-kurz-gefasst/a-79825269?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -760,18 +1377,13 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Berlin - Merz spricht sich offenbar für Frau als neue Bundespräsidentin aus - \"Kandidatin der politischen Mitte\"",
-     "link": "https://www.deutschlandfunk.de/merz-spricht-sich-offenbar-fuer-frau-als-neue-bundespraesidentin-aus-kandidatin-der-politischen-mitt-100.html"
+     "title": "Selenskyj in Berlin - Merz verspricht mehr Hilfe für die Ukraine",
+     "link": "https://www.deutschlandfunk.de/merz-verspricht-mehr-hilfe-fuer-die-ukraine-100.html"
     },
     {
      "source": "Tagesschau",
-     "title": "Digitalgipfel in Berlin: Merz fordert mehr digitale Souveränität",
-     "link": "https://www.tagesschau.de/inland/digitalgipfel-wildberger-merz-ki-100.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Digitalgipfel rund um KI startet in Berlin - News kompakt: Das Wichtigste kurz gefasst",
-     "link": "https://www.dw.com/de/digitalgipfel-rund-um-ki-startet-in-berlin-news-kompakt-das-wichtigste-kurz-gefasst/a-79825269?maca=de-rss-de-all-1119-xml-mrss"
+     "title": "Merz verspricht mehr Hilfe für die Ukraine und appelliert an Europäer",
+     "link": "https://www.tagesschau.de/ausland/europa/merz-selenskyj-134.html"
     }
    ]
   },
@@ -955,14 +1567,7 @@
    "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
    "lang": "de",
    "expires": "2026-11-06T14:04:00+00:00",
-   "img": "https://static.dw.com/image/79830913_302.jpg",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Haushaltsstreit - Belgiens Premierminister De Wever bietet König Philippe seinen Rücktritt an",
-     "link": "https://www.deutschlandfunk.de/belgiens-premierminister-de-wever-bietet-koenig-philippe-seinen-ruecktritt-an-102.html"
-    }
-   ]
+   "img": "https://static.dw.com/image/79830913_302.jpg"
   },
   {
    "id": "nb7946eef8d",
@@ -1105,660 +1710,6 @@
    "lang": "de",
    "expires": "2026-11-04T11:04:35+00:00",
    "img": "https://bilder.deutschlandfunk.de/5d/df/c9/5e/5ddfc95e-4b27-474b-bafe-9d48d7d7c1b5/digitalgipfel-karsten-wildberger-100-1920x1920.jpg"
-  },
-  {
-   "id": "n7141fc0cd3",
-   "topic": "politik",
-   "title": "Tarife - Weitere Warnstreiks der IG Metall - Kritik der Arbeitgeber",
-   "text": "Im Tarifkonflikt der Metall- und Elektroindustrie weitet die IG Metall ihre Warnstreiks aus. In mehreren Bundesländern legten Beschäftigte heute früh die Arbeit nieder. Die ersten Arbeitskampfmaßnahmen hatten bereits gestern unmittelbar nach Ende der Friedenspflicht begonnen.",
-   "link": "https://www.deutschlandfunk.de/weitere-warnstreiks-der-ig-metall-kritik-der-arbeitgeber-104.html",
-   "published": "2026-11-02T11:04:35+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-04T11:04:35+00:00",
-   "img": "https://bilder.deutschlandfunk.de/f4/f6/de/96/f4f6de96-91c2-4f8b-a383-43934b2d02d1/ig-metall-streiks-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "IG Metall weitet im Tarifstreit Warnstreiks aus",
-     "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-120.html"
-    }
-   ]
-  },
-  {
-   "id": "na18053cc05",
-   "topic": "politik",
-   "title": "Beratungen in Brüssel - Kallas und Streeting: Zeit noch nicht reif für Verhandlungen über britischen EU-Wiedereintritt",
-   "text": "Zweieinhalb Wochen vor dem EU-Großbritannien-Gipfel sehen sich beide Seiten noch nicht bereit für Verhandlungen über einen Wiedereintritt des Landes in den Staatenbund.",
-   "link": "https://www.deutschlandfunk.de/kallas-und-streeting-zeit-noch-nicht-reif-fuer-verhandlungen-ueber-britischen-eu-wiedereintritt-100.html",
-   "published": "2026-11-02T11:04:35+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-04T11:04:35+00:00",
-   "img": "https://bilder.deutschlandfunk.de/2d/b6/3f/8a/2db63f8a-5c72-4e5d-a8da-43ba0bbb8be5/kallas-streeting-bruessel-100-1920x1920.jpg"
-  },
-  {
-   "id": "n61757e540a",
-   "topic": "politik",
-   "title": "Haushaltsstreit - Belgiens Premierminister De Wever bietet König Philippe seinen Rücktritt an",
-   "text": "In Belgien hat Regierungschef De Wever wegen des Haushaltsstreits in der Regierungskoalition König Philippe seinen Rücktritt angeboten.",
-   "link": "https://www.deutschlandfunk.de/belgiens-premierminister-de-wever-bietet-koenig-philippe-seinen-ruecktritt-an-102.html",
-   "published": "2026-11-02T11:04:35+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-04T11:04:35+00:00",
-   "img": "https://bilder.deutschlandfunk.de/9e/a8/69/98/9ea86998-90ef-4b63-a1ad-e631663bb337/bart-de-wever-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Belgiens Premier De Wever bietet Rücktritt an",
-     "link": "https://www.dw.com/de/belgiens-premier-de-wever-bietet-rücktritt-an/a-79830776?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n95754c36d5",
-   "topic": "politik",
-   "title": "Bas beklagt im ARD-Interview mangelnde Menschlichkeit im Politikbetrieb",
-   "text": "Nach einem Schicksalsschlag hat sich SPD-Politikerin Bas aus der ersten Reihe der Politik zurückgezogen. Ihr Rücktritt löste in der Koalition eine Krise aus. Im ARD-Interview spricht sie nun über Menschlichkeit und das \"harte politische Geschäft\".",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/bas-ruecktritt-feldenkirchen-100.html",
-   "published": "2026-11-02T11:02:57+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-05T11:02:57+00:00",
-   "img": "https://images.tagesschau.de/image/6ef2c2b5-6132-4dcc-93f4-a72a3205996d/AAABoZu_354/AAABnSSvrFg/16x9-big/bas-268.jpg?width=1920"
-  },
-  {
-   "id": "n42c278fe71",
-   "topic": "it",
-   "title": "Smarte Anwendungen: Biohacking für zu Hause",
-   "text": "Unsere Autorin hat einen Blutzuckersensor, einen Fitnessring und einen Zyklustracker getestet. Was ihr dabei gefallen hat und was überhaupt nicht. Ein Praxistest von Andrea Maurer ( Technik/Hardware , Datenschutz )",
-   "link": "https://www.golem.de/news/smarte-anwendungen-biohacking-fuer-zuhause-2611-214731.html",
-   "published": "2026-11-02T11:00:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-07T11:00:02+00:00",
-   "img": "https://www.golem.de/2611/214731-606282-606280_rc.jpg"
-  },
-  {
-   "id": "nf11d588cc7",
-   "topic": "nfl",
-   "title": "Commanders vs. Rams odds: Opening lines for Week 9 matchup",
-   "text": "The Commanders are big home underdogs against the Rams",
-   "link": "https://sports.yahoo.com/articles/commanders-vs-rams-odds-opening-110000282.html",
-   "published": "2026-11-02T11:00:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-07T11:00:00+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/03ccab48bb5794eca1ecba6a66c19f18.jpg"
-  },
-  {
-   "id": "nc0301e6983",
-   "topic": "nfl",
-   "title": "Ravens QB Tyler Huntley could miss TNF vs. Jags with suspected turf toe",
-   "text": "Ravens quarterbacks Lamar Jackson and Tyler Huntley both suffered injuries in Sunday’s loss to the Bills.",
-   "link": "https://sports.yahoo.com/articles/ravens-qb-tyler-huntley-could-110000775.html",
-   "published": "2026-11-02T11:00:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-07T11:00:00+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/8064b1515866183915e750a493d7ba2a.jpg"
-  },
-  {
-   "id": "nc75c9cec2c",
-   "topic": "it",
-   "title": "heise+ | Entra-Housekeeping: Ungenutzte Konten im Tenant finden und aufräumen",
-   "text": "Wer verwaiste Objekte in einem gewachsenen Tenant zuverlässig finden will, braucht technische Signale und organisatorischen Kontext. Ein Leitfaden.",
-   "link": "https://www.heise.de/hintergrund/Entra-Housekeeping-Ungenutzte-Konten-im-Tenant-finden-und-aufraeumen-11477776.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-   "published": "2026-11-02T11:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-07T11:00:00+00:00"
-  },
-  {
-   "id": "n13b2d1587e",
-   "topic": "welt",
-   "title": "Kreuzfahrt-Weltreise endet vorzeitig in Kambodscha",
-   "text": "Für manche sollte es eine Kreuzfahrt bis ans Lebensende werden - doch jetzt endete die Reise der \"MV Odyssey\" vorzeitig in Kambodscha. Grund sind laut Reederei die stark gestiegenen Treibstoffpreise. Von Angelika Henkel.",
-   "link": "https://www.tagesschau.de/ausland/asien/kambodscha-kreuzfahrt-odyssey-100.html",
-   "published": "2026-11-02T10:51:06+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-05T10:51:06+00:00",
-   "img": "https://images.tagesschau.de/image/af747784-2d55-4420-b44c-cd99e8f2b20e/AAABoZv3CWU/AAABnSSvrFg/16x9-big/odyssey-102.jpg?width=1920"
-  },
-  {
-   "id": "n4b40133535",
-   "topic": "it",
-   "title": "Nintendo: Switch-2-Emulatoren bringen Mario Kart World auf den PC",
-   "text": "Einige konnten das Switch-2-Spiel bereits mit 60 fps testen. Eine Person hat das sogar auf MacOS zum Laufen bekommen. ( Nintendo Switch , Nintendo )",
-   "link": "https://www.golem.de/news/nintendo-switch-2-emulatoren-bringen-mario-kart-world-auf-den-pc-2611-214749.html",
-   "published": "2026-11-02T10:50:01+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-07T10:50:01+00:00",
-   "img": "https://www.golem.de/2611/214749-606362-606360_rc.jpg"
-  },
-  {
-   "id": "nc8d81ed534",
-   "topic": "welt",
-   "title": "Prien fordert nach Jugendprotesten Debatte über Integration",
-   "text": "Nach den Demonstrationen der Generation Z kam es in mehreren Städten zu Gewalt. Bildungsministerin Karin Prien will auch mögliche Integrationsprobleme untersuchen. Zugleich fordert sie mehr Gehör für junge Menschen.",
-   "link": "https://www.dw.com/de/prien-fordert-nach-jugendprotesten-debatte-über-integration/a-79827961?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-02T10:46:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-06T10:46:00+00:00"
-  },
-  {
-   "id": "n93cc74c14d",
-   "topic": "welt",
-   "title": "Prien fordert nach Jugendprotesten Debatte über Integration in Deutschland",
-   "text": "Nach den Demonstrationen der Generation Z kam es in mehreren Städten zu Gewalt. Bildungsministerin Karin Prien will auch mögliche Integrationsprobleme untersuchen. Zugleich fordert sie mehr Gehör für junge Menschen.",
-   "link": "https://www.dw.com/de/prien-fordert-nach-jugendprotesten-debatte-über-integration-in-deutschland/a-79827961?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-02T10:46:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-06T10:46:00+00:00"
-  },
-  {
-   "id": "na7362d3da3",
-   "topic": "it",
-   "title": "Apple kauft agentisches Datenanalyseunternehmen Ascend.io",
-   "text": "Apple hat wieder bei einer kleineren Firma zugeschlagen: Ascend.io arbeitete an Software, die mit KI-Agenten-Hilfe Business-Infos auswertete.",
-   "link": "https://www.heise.de/news/Apple-kauft-agentisches-Datenanalyseunternehmen-Ascend-io-11506976.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-02T10:33:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-07T10:33:00+00:00"
-  },
-  {
-   "id": "n53100fce53",
-   "topic": "ki",
-   "title": "Angst vor strengeren Regeln: Wie OpenAI die US-Politik beeinflussen will",
-   "text": "OpenAI bereitet für die Zeit nach den US-Zwischenwahlen eine politische Lobby- und PR-Offensive vor. Der Artikel Angst vor strengeren Regeln: Wie OpenAI die US-Politik beeinflussen will erschien zuerst auf The Decoder .",
-   "link": "https://the-decoder.de/angst-vor-strengeren-regeln-wie-openai-die-us-politik-beeinflussen-will/",
-   "published": "2026-11-02T10:30:59+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-09T10:30:59+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/09/openai_chatgpt-2.png"
-  },
-  {
-   "id": "n90586b59f2",
-   "topic": "it",
-   "title": "NAND-Hersteller: „Rache“ an Apple genommen?",
-   "text": "Apple verhandelte einst hart um die günstigsten NAND-Tarife. Doch mittlerweile hat der Konzern dank des KI-Booms nicht mehr die Oberhand, so ein Bericht.",
-   "link": "https://www.heise.de/news/NAND-Hersteller-Rache-an-Apple-genommen-11506968.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-02T10:28:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-07T10:28:00+00:00"
-  },
-  {
-   "id": "n45130eec77",
-   "topic": "politik",
-   "title": "Auschreitungen in Frankfurt: Gehen die Forderungen der Gen Z jetzt in der Debatte unter?",
-   "text": "Plünderungen, Böller, Angriffe auf Polizisten - Nach den Krawallen am Rande der Gen-Z-Proteste vom Wochenende in Frankfurt spricht Innenminister Poseck über ein mögliches Verbot weiterer Demos. Andere Politiker mahnten, man müsse legitimen Protest von Gewaltexzessen trennen.",
-   "link": "https://www.hessenschau.de/gesellschaft/auschreitungen-in-frankfurt-gehen-die-forderungen-der-gen-z-jetzt-in-der-debatte-unter-v2,genz-demos-reax-100.html",
-   "published": "2026-11-02T10:17:58+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T10:17:58+00:00",
-   "img": "https://www.hessenschau.de/gesellschaft/genz-demo-110~_t-1793611624702_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "n1106e07fe5",
-   "topic": "welt",
-   "title": "Michigan vor US-Zwischenwahl: Demokratin unterstützt jetzt Republikaner",
-   "text": "Der Kampf um den Senatssitz für den US-Bundesstaat Michigan ist eng. Nun könnte das Rennen noch spannender werden. Denn eine prominente Demokratin unterstützt nun den Spitzenkandidaten der Republikaner. Der fühlt sich geehrt. Auch Trump freut sich.",
-   "link": "https://www.tagesschau.de/ausland/amerika/midterms-michigan-streit-demokraten-100.html",
-   "published": "2026-11-02T10:16:12+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-05T10:16:12+00:00",
-   "img": "https://images.tagesschau.de/image/816adfaa-5eeb-4852-a9b6-9973ee40086c/AAABoZs0020/AAABnSSvrFg/16x9-big/rogers-stevens-100.jpg?width=1920"
-  },
-  {
-   "id": "nceaadf9757",
-   "topic": "wissenschaft",
-   "title": "Bilder der Woche: Der Katzenkopfnebel im Sternbild Schiffskiel",
-   "text": "Ein kleiner Teil des Carina-Nebels im südlichen Sternbild Schiffskiel wird wegen seiner Form Katzenkopfnebel genannt. In ihm bilden sich gerade neue Sterne.",
-   "link": "https://www.spektrum.de/alias/bilder-der-woche/der-katzenkopfnebel-im-blick-der-weltraumteleskope-webb-und-hubble/2352068",
-   "published": "2026-11-02T10:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-16T10:00:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/weic2622a.jpg.8421076.jpg?f=1280x720"
-  },
-  {
-   "id": "n692e12d5d2",
-   "topic": "welt",
-   "title": "Bulgariens amtierende Präsidentin Jotowa gewinnt Stichwahl",
-   "text": "Bulgariens Amtsinhaberin Jotowa hat die Stichwahl um das Präsidentenamt nach Auszählung aller Stimmen gewonnen. Herausforderer Gjurow landete auf dem zweiten Platz. Jotowa gehört zum Lager des als russlandfreundlich geltenden Regierungschefs Radew.",
-   "link": "https://www.tagesschau.de/ausland/europa/stichwahl-bulgarien-102.html",
-   "published": "2026-11-02T09:57:30+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-05T09:57:30+00:00",
-   "img": "https://images.tagesschau.de/image/34fd81e3-ab88-4dbf-878b-3d7c22ad7dec/AAABoZjUoew/AAABnSSvrFg/16x9-big/ilijana-jotowa-102.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Bulgariens Präsidentin Jotowa bleibt im Amt",
-     "link": "https://www.dw.com/de/bulgariens-präsidentin-jotowa-bleibt-im-amt/a-79826496?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n567a0f0b44",
-   "topic": "welt",
-   "title": "Bulgariens Präsidentin Jotowa bleibt im Amt",
-   "text": "Richtungsentscheidung im EU- und NATO-Land Bulgarien: Bei der Stichwahl um das Präsidentenamt ist die russlandfreundliche Amtsinhaberin Ilijana Jotowa die klare Gewinnerin.",
-   "link": "https://www.dw.com/de/bulgariens-präsidentin-jotowa-bleibt-im-amt/a-79826496?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-02T09:24:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-06T09:24:00+00:00",
-   "img": "https://static.dw.com/image/79826469_302.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Bulgariens amtierende Präsidentin Jotowa gewinnt Stichwahl",
-     "link": "https://www.tagesschau.de/ausland/europa/stichwahl-bulgarien-102.html"
-    }
-   ]
-  },
-  {
-   "id": "nda166dd0f1",
-   "topic": "politik",
-   "title": "Bildungsministerin Prien: Gewalt nach Jugenddemos wirft Integrationsfragen auf",
-   "text": "Frankfurt, Köln, Hamburg: In mehreren Städten eskalierte am Wochenende die Lage nach den \"Gen Z regelt\"-Protesten. Wer waren die Gewalttäter? Darüber gibt es eine Debatte. Für Bildungsministerin Prien geht es auch um Fragen der Integration.",
-   "link": "https://www.tagesschau.de/inland/gesellschaft/jugendprotest-ausschreitungen-prien-100.html",
-   "published": "2026-11-02T09:21:20+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-05T09:21:20+00:00",
-   "img": "https://images.tagesschau.de/image/7be42cc8-fbc3-4ac3-b431-d8938bf2dd13/AAABoZuQLjE/AAABnSSvrFg/16x9-big/krawall-frankfurt-100.jpg?width=1920"
-  },
-  {
-   "id": "na69e50ca89",
-   "topic": "wirtschaft",
-   "title": "Marktbericht: Gespannte Lage vor US-Zwischenwahlen",
-   "text": "Vor den US-Zwischenwahlen halten sich die Anleger lieber zurück. Zum Wochenstart gibt der DAX etwas nach. Mit Spannung warten die Investoren auch auf die heutigen Apple-Zahlen.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-168.html",
-   "published": "2026-11-02T09:06:31+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-05T09:06:31+00:00",
-   "img": "https://images.tagesschau.de/image/0b3a9a5d-52cf-45fe-a52a-0b7d4d3a7087/AAABnLJSNeo/AAABnSSvrFg/16x9-big/boerse-488.jpg?width=1920"
-  },
-  {
-   "id": "nefab1229f0",
-   "topic": "wissenschaft",
-   "title": "Pompeji: Archäologen räumen 2000 Jahre alten Schrank auf",
-   "text": "Ein Fall für Marie Kondo? In einem Schrank in Pompeji lagerten einst Töpfe, Schmuck, Kosmetikutensilien, Münzen und Gewichte. Doch das scheinbare Chaos hatte System.",
-   "link": "https://www.spektrum.de/news/pompeji-archaeologen-raeumen-2000-jahre-alten-schrank-auf/2352154",
-   "published": "2026-11-02T09:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-16T09:00:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/materiali-rinvenuti-nel-tunnel-antropico-1-1200x801.jpg.8421433.jpg?f=1280x720"
-  },
-  {
-   "id": "n2fe0b4729e",
-   "topic": "wirtschaft",
-   "title": "Binance-Kunden heben nach Hackerangriff Milliarden ab",
-   "text": "Einen Großteil der gestohlenen Kundengelder hat Binance nach dem Hackerangriff mittlerweile ersetzt. Dennoch kämpft die Kryptobörse mit einem Vertrauensverlust. Kunden haben 3,6 Milliarden Dollar abgezogen.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/binance-kundengelder-100.html",
-   "published": "2026-11-02T08:59:47+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-05T08:59:47+00:00",
-   "img": "https://images.tagesschau.de/image/6005bf42-35ee-49c0-a9de-0c0c82432647/AAABoYumLh8/AAABnSSvrFg/16x9-big/binance-104.jpg?width=1920"
-  },
-  {
-   "id": "n75bcd2145f",
-   "topic": "wirtschaft",
-   "title": "Update Wirtschaft vom 02.11.2026",
-   "text": "Update Wirtschaft vom 02.11.2026",
-   "link": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1676508.html",
-   "published": "2026-11-02T08:59:30+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-05T08:59:30+00:00",
-   "img": "https://images.tagesschau.de/image/809c6aba-73f6-42b7-9cc0-9ffb1f09e21f/AAABoZt8IzY/AAABnSSvrFg/16x9-big/sendungsbild-1820982.jpg?width=1920"
-  },
-  {
-   "id": "nd5a652d4b8",
-   "topic": "welt",
-   "title": "Würgt der neue Konflikt Äthiopiens Wirtschaftswachstum ab?",
-   "text": "Äthiopiens Wirtschaft wächst kräftig. Doch neue Kämpfe im Norden des BRICS-Mitgliedsstaates könnten Investitionen bremsen, die Staatsfinanzen belasten und die Lebenshaltungskosten weiter in die Höhe treiben.",
-   "link": "https://www.dw.com/de/würgt-der-neue-konflikt-äthiopiens-wirtschaftswachstum-ab/a-79804678?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-02T08:56:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-06T08:56:00+00:00",
-   "img": "https://static.dw.com/image/79652307_302.jpg"
-  },
-  {
-   "id": "n5def0638b2",
-   "topic": "welt",
-   "title": "Digitalgipfel rund um KI startet in Berlin - News kompakt: Das Wichtigste kurz gefasst",
-   "text": "Künstliche Intelligenz ist in aller Munde. Auf einem zweitägigen Treffen in Deutschlands Hauptstadt wird über Chancen und Risiken beraten. Bulgariens Präsidentin Jotowa gewinnt Stichwahl. Der DW-Nachrichtenüberblick.",
-   "link": "https://www.dw.com/de/digitalgipfel-rund-um-ki-startet-in-berlin-news-kompakt-das-wichtigste-kurz-gefasst/a-79825269?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-02T08:01:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-06T08:01:00+00:00",
-   "img": "https://static.dw.com/image/79799960_302.jpg",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Berlin - Merz spricht sich offenbar für Frau als neue Bundespräsidentin aus - \"Kandidatin der politischen Mitte\"",
-     "link": "https://www.deutschlandfunk.de/merz-spricht-sich-offenbar-fuer-frau-als-neue-bundespraesidentin-aus-kandidatin-der-politischen-mitt-100.html"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Digitalgipfel in Berlin: Merz fordert mehr digitale Souveränität",
-     "link": "https://www.tagesschau.de/inland/digitalgipfel-wildberger-merz-ki-100.html"
-    },
-    {
-     "source": "Golem.de",
-     "title": "Digitalgipfel: Merz will Abhängigkeit von US-KI drastisch reduzieren",
-     "link": "https://www.golem.de/news/digitalgipfel-merz-will-abhaengigkeit-von-us-ki-drastisch-reduzieren-2611-214771.html"
-    }
-   ]
-  },
-  {
-   "id": "n5bd89717a3",
-   "topic": "wissenschaft",
-   "title": "Schlafstörungen: Durchwachte Nächte hinterlassen Spuren im Speichel",
-   "text": "Schweizer Forschende haben in Speichelproben rund ein Dutzend Biomarker für Schlaflosigkeit gefunden. Demnach könnte sich massiver Schlafmangel mit Speicheltests nachweisen lassen.",
-   "link": "https://www.spektrum.de/news/schlaflosigkeit-durchwachte-naechte-hinterlassen-spuren-im-speichel/2350814",
-   "published": "2026-11-02T08:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-16T08:00:00+00:00"
-  },
-  {
-   "id": "n3fa9f977f4",
-   "topic": "welt",
-   "title": "Fehlalarm in Kiew nach Hackerangriff auf Warn-App",
-   "text": "Vor Angriffen warnt die Ukraine die Bevölkerung per App. Doch dabei gibt es nun ein Problem: Die App wurde gehackt, in Kiew wurde fälschlicherweise vor \"Gefahr durch Strahlung\" gewarnt. Auch Russland meldet einen Angriff auf seine Warn-App.",
-   "link": "https://www.tagesschau.de/ausland/europa/warn-app-ukraine-russland-gehackt-100.html",
-   "published": "2026-11-02T06:35:32+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-05T06:35:32+00:00",
-   "img": "https://images.tagesschau.de/image/1e0de475-12a6-4cff-bf9e-f8e9178bf201/AAABoIjH-p4/AAABnSSvrFg/16x9-big/kiew-538.jpg?width=1920"
-  },
-  {
-   "id": "n242d2b11f5",
-   "topic": "welt",
-   "title": "Was das Rennen bei den Midterms entscheiden könnte",
-   "text": "Umfragen deuten darauf hin, dass die Demokraten bei den Midterms das Repräsentantenhaus zurückerobern. Gelingt das auch im Senat? Es wird wohl auf besonders umkämpfte Bundesstaaten ankommen. Von Jörg Schönenborn.",
-   "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-demokraten-republikaner-100.html",
-   "published": "2026-11-02T06:11:04+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-05T06:11:04+00:00",
-   "img": "https://images.tagesschau.de/image/1bb75ddf-a0b1-4ba6-8963-8976d2a2fecb/AAABoZgpxQI/AAABnSSvrFg/16x9-big/midterms-waehlerin-100.jpg?width=1920"
-  },
-  {
-   "id": "n4fa0b16345",
-   "topic": "nfl",
-   "title": "Five things we learned as Broncos stun Chiefs, seize first place in AFC West",
-   "text": "Denver's quarterback delivered another remarkable finish, while a vastly improved defense and two emerging running backs helped the Broncos take control of the AFC West",
-   "link": "https://www.cbssports.com/nfl/news/chiefs-broncos-five-things-we-learned-bo-nix/",
-   "published": "2026-11-02T04:20:59+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-07T04:20:59+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/11/02/894689f3-0be5-43c9-ac5d-bddaa74be68f/bo-nix-broncos-10.jpg"
-  },
-  {
-   "id": "n6e36484256",
-   "topic": "politik",
-   "title": "Digitalgipfel der Bundesregierung: Ist der KI-Zug in Deutschland schon abgefahren?",
-   "text": "Die Bundesregierung lädt zum Digitalgipfel nach Berlin. Im Mittelpunkt der zweitägigen Konferenz steht die Frage, wie Deutschland und Europa beim Thema Künstliche Intelligenz global mitreden können.Von J. F. Willems.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/digitalgipfel-bundesregierung-100.html",
-   "published": "2026-11-02T04:19:28+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-05T04:19:28+00:00",
-   "img": "https://images.tagesschau.de/image/c1e20454-4a43-4eab-886d-923ad85062e0/AAABoZp70nc/AAABnSSvrFg/16x9-big/digitalgipfel-ansicht-gehirn-bildschirm-100.jpg?width=1920"
-  },
-  {
-   "id": "ned2e72b196",
-   "topic": "wirtschaft",
-   "title": "IG Metall weitet im Tarifstreit Warnstreiks aus",
-   "text": "Die ersten Fließbänder standen schon am Sonntag still, mit dem Wochenbeginn rollt in der Metall- und Elektroindustrie nun eine größere Streikwelle an. Nach der ergebnislosen zweiten Tarifrunde rief die IG Metall zu Arbeitsniederlegungen auf.",
-   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-120.html",
-   "published": "2026-11-02T02:15:40+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-05T02:15:40+00:00",
-   "img": "https://images.tagesschau.de/image/00732538-b22c-47e4-849c-877f037cb624/AAABoZoBbAA/AAABnSSvrFg/16x9-big/ig-metall-260.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Tarife - Weitere Warnstreiks der IG Metall - Kritik der Arbeitgeber",
-     "link": "https://www.deutschlandfunk.de/weitere-warnstreiks-der-ig-metall-kritik-der-arbeitgeber-104.html"
-    }
-   ]
-  },
-  {
-   "id": "n20058ab305",
-   "topic": "welt",
-   "title": "Ukraine: Feuerpause in Oleschky ausgelaufen",
-   "text": "Die Feuerpause in Oleschky ist vorbei. Vor ihrem Ende nutzte das ukrainische Militär noch die Gelegenheit, weitere Menschen aus der Region in Sicherheit zu bringen. Unterdessen melden Ukraine und Russland Cyberattacken auf ihre Warn-Apps.",
-   "link": "https://www.tagesschau.de/ausland/europa/ukraine-waffenruhe-cherson-100.html",
-   "published": "2026-11-02T01:09:27+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-05T01:09:27+00:00",
-   "img": "https://images.tagesschau.de/image/269540d6-d27d-44e3-ae7f-22656aa2bca3/AAABoZnD__4/AAABnSSvrFg/16x9-big/region-cherson-100.jpg?width=1920"
-  },
-  {
-   "id": "n1256021f6a",
-   "topic": "nfl",
-   "title": "Fantasy Football Booms & Busts: Another 'craziest week of the season' in Week 8",
-   "text": "Fantasy football analyst Scott Pianowski examines some of the biggest winners and losers in a wild Week 8.",
-   "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-booms--busts-another-craziest-week-of-the-season-in-week-8-004202114.html",
-   "published": "2026-11-02T00:42:02+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-07T00:42:02+00:00"
-  },
-  {
-   "id": "na99412dcb3",
-   "topic": "nfl",
-   "title": "Rams' Aaron Donald mishandles fumble trying to score first career touchdown, sending Myles Garrett into laughter",
-   "text": "Donald was in hot pursuit of the one thing that has arguably eluded him during his acclaimed NFL career.",
-   "link": "https://sports.yahoo.com/nfl/article/rams-aaron-donald-mishandles-fumble-trying-to-score-first-career-touchdown-sending-myles-garrett-into-laughter-003825171.html",
-   "published": "2026-11-02T00:36:38+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-07T00:36:38+00:00"
-  },
-  {
-   "id": "n6f695326f3",
-   "topic": "nfl",
-   "title": "Why Jerry Jones 'doesn't see' firing Brian Schottenheimer midseason after disaster Cowboys loss to Cardinals",
-   "text": "Dallas squandered a 14-point fourth-quarter lead in its overtime loss to Arizona, but Jones says he is not considering an in-season coaching change",
-   "link": "https://www.cbssports.com/nfl/news/jerry-jones-cowboys-fire-brian-schottenheimer-midseason-cardinals-loss/",
-   "published": "2026-11-02T00:35:15+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-07T00:35:15+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/11/02/9f38019f-c5c5-48b3-8287-e55c73703009/cowboys.jpg"
-  },
-  {
-   "id": "nd34178a5a2",
-   "topic": "politik",
-   "title": "\"Blanker Rassismus\" - Politik attackiert Ex-Sportreporter Waldemar Hartmann nach Aussage zu Eralp (Die Linke)",
-   "text": "Der frühere ARD-Sportreporter Waldemar Hartmann hat mit Aussagen zur Berliner Linken-Politikerin Eralp Rassismusvorwürfe von Bundespolitikern verschiedener Parteien auf sich gezogen.",
-   "link": "https://www.deutschlandfunk.de/politik-attackiert-ex-sportreporter-waldemar-hartmann-nach-aussage-zu-eralp-die-linke-100.html",
-   "published": "2026-11-02T00:34:08+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-04T00:34:08+00:00",
-   "img": "https://bilder.deutschlandfunk.de/a3/7d/e3/85/a37de385-2a20-4baa-a91c-4dfc3f5fa5a1/waldemar-hartmann-100-1920x1920.jpg"
-  },
-  {
-   "id": "n7b9bf21112",
-   "topic": "politik",
-   "title": "\"Rente mit 63\" - Handwerkspräsident für höhere Abschläge bei Frührente - \"auch wenn das bei einigen meiner Leute auf Ärger stößt\"",
-   "text": "Der Zentralverband des Deutschen Handwerks wirbt für höhere Abschläge bei einem vorzeitigen Renteneintritt.",
-   "link": "https://www.deutschlandfunk.de/handwerkspraesident-fuer-hoehere-abschlaege-bei-fruehrente-auch-wenn-das-bei-einigen-meiner-leute-au-100.html",
-   "published": "2026-11-02T00:34:08+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-04T00:34:08+00:00",
-   "img": "https://bilder.deutschlandfunk.de/fe/12/1b/86/fe121b86-7262-454f-af93-24747816a795/dittrich-zentralverband-deutsches-handwerk-100-1920x1920.jpg"
-  },
-  {
-   "id": "n511e0db3cf",
-   "topic": "politik",
-   "title": "Religion - Katholische Christen begehen Allerheiligen",
-   "text": "Katholische Christen haben das Hochfest Allerheiligen gefeiert.",
-   "link": "https://www.deutschlandfunk.de/katholische-christen-begehen-allerheiligen-108.html",
-   "published": "2026-11-02T00:34:08+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-04T00:34:08+00:00"
-  },
-  {
-   "id": "n3c9f1a8f86",
-   "topic": "politik",
-   "title": "Hamburg - Deutscher Beatles-Wegbereiter Horst Fascher gestorben",
-   "text": "Der deutsche Beatles-Wegbereiter Horst Fascher ist gestorben.",
-   "link": "https://www.deutschlandfunk.de/deutscher-beatles-wegbereiter-horst-fascher-gestorben-100.html",
-   "published": "2026-11-02T00:34:08+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-04T00:34:08+00:00",
-   "img": "https://bilder.deutschlandfunk.de/5a/e4/93/26/5ae49326-545a-4df8-aac5-d8b90080757a/horst-fascher-100-1920x1920.jpg"
-  },
-  {
-   "id": "n8797e84b76",
-   "topic": "politik",
-   "title": "Formel 1 - Mercedes-Pilot Kimi Antonelli zum ersten Mal Weltmeister",
-   "text": "Der Mercedes-Fahrer Kimi Antonelli ist zum ersten Mal Formel-1-Weltmeister.",
-   "link": "https://www.deutschlandfunk.de/mercedes-pilot-kimi-antonelli-zum-ersten-mal-weltmeister-106.html",
-   "published": "2026-11-02T00:34:08+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-04T00:34:08+00:00",
-   "img": "https://bilder.deutschlandfunk.de/fa/1a/35/ef/fa1a35ef-8799-4670-a42d-a195b06a6539/kimi-antonelli-100-1920x1920.jpg"
-  },
-  {
-   "id": "nf47c47f992",
-   "topic": "nfl",
-   "title": "Bengals wild overtime win ends with final score that's never happened before in NFL history",
-   "text": "Ladies and gentlemen, we have a scorigami!",
-   "link": "https://www.cbssports.com/nfl/news/bengals-wild-overtime-win-ends-scorigami/",
-   "published": "2026-11-02T00:20:16+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-07T00:20:16+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/11/02/475d0979-63d8-414f-b054-2aa96ccfaeaf/joe-burrow-bengals.jpg"
-  },
-  {
-   "id": "nd88b718522",
-   "topic": "welt",
-   "title": "Wie sich die ukrainische Armee unter ihrem neuen Chef Drapatyj verändert",
-   "text": "Seit 100 Tagen ist der neue ukrainische Armeechef Drapatyj im Amt. Er verändert Führungsstrukturen und setzt auf mehr Eigenverantwortung an der Front. Auch kremlkritische russische Analysten bemerken eine Veränderung. Von Florian Kellermann.",
-   "link": "https://www.tagesschau.de/ausland/europa/ukraine-kommandeur-100.html",
-   "published": "2026-11-01T23:50:04+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-04T23:50:04+00:00",
-   "img": "https://images.tagesschau.de/image/2b2a67ce-68fa-404f-ad0e-2d7252afc4d1/AAABoZt4b9M/AAABnSSvrFg/16x9-big/mychajlo-drapatyj-100.jpg?width=1920"
-  },
-  {
-   "id": "n06277fda80",
-   "topic": "it",
-   "title": "Apple meldet Kompromittierung von Geräten durch Spyware",
-   "text": "Müssen sich Bundespolitiker Sorgen machen, dass sich auf ihren iPhones Schadsoftware befindet? Der Digitalminister bestätigt einen amtlichen Hinweis.",
-   "link": "https://www.heise.de/news/BSI-Warnung-vor-Spaehsoftware-auf-Politiker-Handys-11507404.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-01T21:38:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-06T21:38:00+00:00"
-  },
-  {
-   "id": "n05a9db8ccb",
-   "topic": "welt",
-   "title": "Schmuggel, Macht, Profit: Das Geschäft mit den Migranten in Libyen",
-   "text": "Immer mehr Migranten brechen von Ostlibyen nach Kreta auf. Hinter der Route stehen flexible Schmugglernetzwerke. Wie sie arbeiten - und warum mögliche Verbindungen mit Machtstrukturen in Libyen Fragen aufwerfen.",
-   "link": "https://www.dw.com/de/schmuggel-macht-profit-das-geschäft-mit-den-migranten-in-libyen/a-79775632?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-01T20:30:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-05T20:30:00+00:00",
-   "img": "https://static.dw.com/image/76577985_302.jpg"
-  },
-  {
-   "id": "nc206377f74",
-   "topic": "politik",
-   "title": "Ausschreitungen nach Protesten: Unterwanderung oder spontane Eskalation?",
-   "text": "Verletzte und geplünderte Geschäfte - die Ausschreitungen nach den Protesten der Gen Z lösen Entsetzen aus. In Köln und Frankfurt wurden die Demos nach Einschätzung der Polizei unterwandert. Innenminister Dobrindt kündigte ein hartes Vorgehen an.",
-   "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html",
-   "published": "2026-11-01T20:27:02+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-04T20:27:02+00:00",
-   "img": "https://images.tagesschau.de/image/fd2489d7-fda1-4850-bb76-8e819b2e671b/AAABoZiK1NE/AAABnSSvrFg/16x9-big/frankfurt-ausschreitungen-106.jpg?width=1920"
   }
  ]
 }
