@@ -1,50 +1,798 @@
 {
- "generated": "2026-11-04T06:23:46.260436+00:00",
+ "generated": "2026-11-04T17:15:25.920589+00:00",
  "briefing": [
+  "nb63285c8ca",
   "na6af393098",
-  "naf03c08287",
-  "ncdc8873bc1",
-  "nce8f24e657",
-  "n65764ad137",
-  "nf82beda09d",
-  "n63121e0a91",
-  "n461f0ecb84"
+  "n83d6b231bc",
+  "n234d1619f6",
+  "nd516e3703f",
+  "n6232993577",
+  "nfe0f7d352e",
+  "n03b2231439",
+  "n9e79eaa421"
  ],
  "ranked": [
   {
+   "id": "nb63285c8ca",
+   "s": 42.2
+  },
+  {
    "id": "na6af393098",
-   "s": 42.9
+   "s": 40.2
   },
   {
-   "id": "naf03c08287",
-   "s": 39.4
+   "id": "n83d6b231bc",
+   "s": 32.3
   },
   {
-   "id": "ncdc8873bc1",
-   "s": 31.1
+   "id": "n234d1619f6",
+   "s": 29.8
   },
   {
-   "id": "nce8f24e657",
-   "s": 27.4
+   "id": "nd516e3703f",
+   "s": 22.9
   },
   {
-   "id": "n65764ad137",
-   "s": 25.2
+   "id": "n6232993577",
+   "s": 22.9
   },
   {
-   "id": "nf82beda09d",
-   "s": 23.0
+   "id": "nfe0f7d352e",
+   "s": 22.9
   },
   {
-   "id": "n63121e0a91",
-   "s": 23.0
+   "id": "n03b2231439",
+   "s": 22.7
   },
   {
-   "id": "n461f0ecb84",
-   "s": 21.1
+   "id": "n9e79eaa421",
+   "s": 20.3
   }
  ],
  "items": [
+  {
+   "id": "nbb9a2dabc5",
+   "topic": "welt",
+   "title": "Liveblog zu den Midterms: ++ Vance sieht Iran-Krieg als Grund für Wahlschlappe ++",
+   "text": "US-Vizepräsident Vance führt die Niederlagen der Republikaner auf den Iran-Krieg zurück. Laut Medienberichten will der derzeitige Sprecher des Repräsentantenhauses, Johnson, nicht erneut als Fraktionschef der Republikaner kandidieren.",
+   "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
+   "published": "2026-11-04T17:05:44+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T17:05:44+00:00",
+   "img": "https://images.tagesschau.de/image/7383e65d-830d-44c4-914c-05a03a701938/AAABoaeCyWU/AAABnSSvrFg/16x9-big/jd-vance-134.jpg?width=1920"
+  },
+  {
+   "id": "nd23df4e805",
+   "topic": "it",
+   "title": "(g+) Wirtschaft: AWS-Manager warnt vor Denkfehler beim KI-Einsatz",
+   "text": "Zeitersparnis allein reicht nicht. In einem Gastbeitrag für Nikkei Asia erklärt ein AWS-Manager, wie Firmen mit KI nicht nur Kosten sparen, sondern mehr Geld verdienen können. Von Jaime Valles ( KI , AWS )",
+   "link": "https://www.golem.de/news/wirtschaft-aws-manager-warnt-vor-denkfehler-beim-ki-einsatz-2611-214864.html",
+   "published": "2026-11-04T17:00:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-09T17:00:02+00:00",
+   "img": "https://www.golem.de/2611/214864-606885-606883_rc.jpg"
+  },
+  {
+   "id": "n731d4fc060",
+   "topic": "wissenschaft",
+   "title": "Neurodiversität: Ähnelt sich ADHS bei Jungen und Mädchen stärker als gedacht?",
+   "text": "Jungen gelten als impulsiv, Mädchen eher als verträumt. Eine große Langzeitstudie deutet nun darauf hin, dass die Unterschiede kleiner ausfallen als oft angenommen.",
+   "link": "https://www.spektrum.de/news/adhs-bei-jungen-und-maedchen-unterschiede-oft-kleiner-als-gedacht/2349976",
+   "published": "2026-11-04T17:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-18T17:00:00+00:00"
+  },
+  {
+   "id": "n5b5513d182",
+   "topic": "nfl",
+   "title": "Former Seahawks draft pick has become one of the NFL’s unlikely sack leaders",
+   "text": "There are only eight players with at least six sacks entering Week 9 of the NFL season, and one of those players is a former Seahawk.",
+   "link": "https://sports.yahoo.com/articles/former-seahawks-draft-pick-become-170000849.html",
+   "published": "2026-11-04T17:00:00+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-09T17:00:00+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/7af06bfd7f96fbb17f05d65238f21deb.jpg"
+  },
+  {
+   "id": "n7c697a8cfa",
+   "topic": "nfl",
+   "title": "Bills vs Ravens game balls: Far from perfect but several players stepped up for Buffalo",
+   "text": "Handing out game balls for Buffalo’s win over the Baltimore",
+   "link": "https://sports.yahoo.com/articles/bills-vs-ravens-game-balls-170000251.html",
+   "published": "2026-11-04T17:00:00+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-09T17:00:00+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/f5d1d581c7a42f1fd374ed8fa66448dd.jpg"
+  },
+  {
+   "id": "n5bb6893a1b",
+   "topic": "welt",
+   "title": "Kommentar zu den Midterms: Hoffentlich vermasseln sie es nicht",
+   "text": "Das Rezept der Republikaner, ganz auf US-Präsident Trump und viel Geld zu setzen, ist nicht aufgegangen. Den Demokraten gelang es, Zuversicht zu vermitteln, meint Samuel Jackisch. Diese Chance müssen sie jetzt aber auch nutzen.",
+   "link": "https://www.tagesschau.de/kommentar/usa-midterms-120.html",
+   "published": "2026-11-04T16:50:16+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T16:50:16+00:00",
+   "img": "https://images.tagesschau.de/image/12958bfa-d1fd-491a-810e-625fb80e6996/AAABoaddlxk/AAABnSSvrFg/16x9-big/anstecker-demokraten-100.jpg?width=1920"
+  },
+  {
+   "id": "ned65cf8cf6",
+   "topic": "welt",
+   "title": "Nach Sieg bei den Midterms: Welche Optionen die Demokraten haben",
+   "text": "Lahme Ente oder entfesselter Kampfhahn - Meinungen darüber, was die Politik von US-Präsident Trump in den verbleibenden zwei Jahren ausmachen wird, variieren. Die Demokraten jedenfalls kündigen große Vorhaben an - und Trump sein Veto. Von Gabi Biesinger.",
+   "link": "https://www.tagesschau.de/ausland/demokraten-optionen-100.html",
+   "published": "2026-11-04T16:49:39+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T16:49:39+00:00",
+   "img": "https://images.tagesschau.de/image/178f7497-ff7d-459a-80a4-f5f5342042d4/AAABoaZgpiU/AAABnSSvrFg/16x9-big/hakeem-jeffries-104.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "US-Kongresswahlen - Die Zwischen-Wahlen laufen - Demokraten hoffen auf Sieg über Trumps Republikaner bei Midterms",
+     "link": "https://www.deutschlandfunk.de/die-zwischen-wahlen-laufen-demokraten-hoffen-auf-sieg-ueber-trumps-republikaner-bei-midterms-100.html"
+    }
+   ]
+  },
+  {
+   "id": "nd516e3703f",
+   "topic": "politik",
+   "title": "Wahlen in den USA - Historische Siege für Demokraten",
+   "text": "Bei den Zwischenwahlen in den USA sind den Demokraten zahlreiche überraschende und bedeutende Siege gelungen, unter anderem in republikanischen Hochburgen wie Kansas oder Texas. Dabei wurden die erste schwarze und die erste indigene Gouverneurin und auch die erste indigene Senatorin gewählt.",
+   "link": "https://www.deutschlandfunk.de/historische-siege-fuer-demokraten-100.html",
+   "published": "2026-11-04T16:48:33+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T16:48:33+00:00",
+   "img": "https://bilder.deutschlandfunk.de/83/e5/f6/a6/83e5f6a6-a420-44a5-a7e0-3398b71d5aa0/midterms-demokraten-100-1920x1920.jpg"
+  },
+  {
+   "id": "n6643dd8b81",
+   "topic": "politik",
+   "title": "Migrationspolitik - Bundeskabinett bringt Halbierung von \"Westbalkan-Kontingent\" auf den Weg",
+   "text": "Die Bundesregierung hat eine Halbierung des Zuwanderungskontingents für Arbeitskräfte aus den Westbalkan-Staaten auf den Weg gebracht.",
+   "link": "https://www.deutschlandfunk.de/bundeskabinett-bringt-halbierung-von-westbalkan-kontingent-auf-den-weg-100.html",
+   "published": "2026-11-04T16:48:33+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T16:48:33+00:00",
+   "img": "https://bilder.deutschlandfunk.de/60/22/17/5c/6022175c-5ce1-4250-9a4c-a0b2d318dfb7/bundeskabinett-kabinett-108-1920x1920.jpg"
+  },
+  {
+   "id": "n6232993577",
+   "topic": "politik",
+   "title": "Umwelt - Laut UNO-Bericht fehlen Milliarden für Kampf gegen Klimawandel",
+   "text": "Um die Folgen des Klimawandels zu bewältigen, sind nach einem Bericht des UNO-Umweltprogramms UNEP bis 2035 jedes Jahr 305 Milliarden US-Dollar notwendig. 2024 ist aber laut einem aktuellen UNEP-Bericht nur rund ein Zehntel dieser Summe von den Industrieländern an die besonders betroffenen Länder im globalen Süden …",
+   "link": "https://www.deutschlandfunk.de/laut-uno-bericht-fehlen-milliarden-fuer-kampf-gegen-klimawandel-100.html",
+   "published": "2026-11-04T16:48:33+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T16:48:33+00:00",
+   "img": "https://bilder.deutschlandfunk.de/NO/VA/_4/90/NOVA_490dca468979f87f0957bad9cc64b2f6/craft-12182247-asset-100-1920x1920.jpg"
+  },
+  {
+   "id": "nfe0f7d352e",
+   "topic": "politik",
+   "title": "Midterms - Wadephul hofft nach US-Kongresswahl auf mehr Unterstützung für Ukraine",
+   "text": "Bundesaußenminister Wadephul hofft nach dem Sieg der US-Demokraten bei den Zwischenwahlen auf eine neue Dynamik zur Unterstützung der Ukraine.",
+   "link": "https://www.deutschlandfunk.de/wadephul-hofft-nach-us-kongresswahl-auf-mehr-unterstuetzung-fuer-ukraine-102.html",
+   "published": "2026-11-04T16:48:33+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T16:48:33+00:00",
+   "img": "https://bilder.deutschlandfunk.de/48/b9/ce/0d/48b9ce0d-3775-447a-9ece-a28ddb83465a/wadephul-atlanta-100-1920x1920.jpg"
+  },
+  {
+   "id": "n5a2f0fb4f6",
+   "topic": "politik",
+   "title": "Westbalkan - EU-Kommission: Montenegro könnte nächstes EU-Mitglied werden",
+   "text": "Montenegro könnte nach Einschätzung der EU-Kommission das nächste Mitgliedsland der Europäischen Union werden.",
+   "link": "https://www.deutschlandfunk.de/eu-kommission-montenegro-koennte-naechstes-eu-mitglied-werden-102.html",
+   "published": "2026-11-04T16:48:33+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T16:48:33+00:00",
+   "img": "https://bilder.deutschlandfunk.de/2d/50/d1/57/2d50d157-e8fe-46b5-9447-905fcded8925/eu-montenegro-beitritt-westbalkan-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "EU-Kommission sieht Montenegro im Endspurt für EU-Beitritt",
+     "link": "https://www.dw.com/de/eu-kommission-sieht-montenegro-im-endspurt-für-eu-beitritt/a-79856088?maca=de-rss-de-all-1119-xml-mrss"
+    },
+    {
+     "source": "Tagesschau",
+     "title": "Montenegro könnte EU-Mitgliedsland Nummer 28 werden",
+     "link": "https://www.tagesschau.de/ausland/europa/eu-montenegro-100.html"
+    }
+   ]
+  },
+  {
+   "id": "nf5885f90c1",
+   "topic": "politik",
+   "title": "\"Checks and Balances\" - USA nach den Zwischenwahlen: Welche Folgen hat das Ergebnis für Präsident Trump?",
+   "text": "Die Ergebnisse der Zwischenwahlen haben weitreichende Folgen für den politischen Prozess in den USA. Denn durch die Mehrheit der Demokraten in beiden Kongresskammern wird es für Präsident Trump schwieriger, seine politischen Ziele durchzusetzen. Die Auswirkungen im Überblick.",
+   "link": "https://www.deutschlandfunk.de/usa-nach-den-zwischenwahlen-welche-folgen-hat-das-ergebnis-fuer-praesident-trump-100.html",
+   "published": "2026-11-04T16:48:33+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T16:48:33+00:00",
+   "img": "https://bilder.deutschlandfunk.de/60/d1/a4/10/60d1a410-682b-4c97-b0ec-835af37b9898/capitol-washington-kongress-usa-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "US-Midterms: Wie Trump abgestraft wurde - und was die Folgen sind",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-ergebnisse-midterms-faq-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n2b4d9d67fb",
+   "topic": "politik",
+   "title": "Deutsche Nationalbibliothek in Frankfurt wird 80: Fünf (un)nütze Fakten",
+   "text": "Zusammen mit dem Standort Leipzig gehört die Deutsche Nationalbibliothek zu den größten Bibliotheken der Welt. Dieses Jahr feiert sie 80. Geburtstag. Gesammelt wird hier alles, was auf Papier gedruckt wird – und mehr.",
+   "link": "https://www.hessenschau.de/kultur/deutsche-nationalbibliothek-in-frankfurt-wird-80-fuenf-unnuetze-fakten-v1,80-jahre-nationalbibliothek-angeberwissen-100.html",
+   "published": "2026-11-04T16:45:13+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-08T16:45:13+00:00",
+   "img": "https://www.hr2.de/veranstaltungen/kulturverfuehrung/hr2-kvf_dnb_12-23_-102~_t-1699611943340_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "naf72a44489",
+   "topic": "it",
+   "title": "Nokia: KI wird fast die Hälfte des Netzwerkverkehrs ausmachen",
+   "text": "Autonome Agenten werden den weltweiten Datenverkehr fundamental verändern. Hintergrund ist der Einstieg von Nvidia bei Nokia und die Umstellung auf AI-RAN-Hardware. ( Nokia , Nvidia )",
+   "link": "https://www.golem.de/news/nokia-ki-wird-fast-die-haelfte-des-netzwerkverkehrs-ausmachen-2611-214863.html",
+   "published": "2026-11-04T16:44:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-09T16:44:01+00:00",
+   "img": "https://www.golem.de/2611/214863-606881-606879_rc.jpg",
+   "also": [
+    {
+     "source": "THE DECODER",
+     "title": "Schnelle KI-Entwicklung: Fast die Hälfte aktueller LLM-Befunde ist bereits veraltet",
+     "link": "https://the-decoder.de/schnelle-ki-entwicklung-fast-die-haelfte-aktueller-llm-befunde-ist-bereits-veraltet/"
+    }
+   ]
+  },
+  {
+   "id": "na6dde221f6",
+   "topic": "wissenschaft",
+   "title": "Jeder vierte Jugendliche bewegt sich laut WHO kaum",
+   "text": "Sport und Bewegung gehören für viele Kinder und Jugendliche nicht mehr zum Alltag. Nur 14 Prozent bewegen sich laut WHO täglich für eine Stunde mäßig bis intensiv. Auch in Deutschland gibt es viele Bewegungsmuffel.",
+   "link": "https://www.tagesschau.de/wissen/gesundheit/kinder-jugendliche-bewegung-100.html",
+   "published": "2026-11-04T16:37:10+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-18T16:37:10+00:00",
+   "img": "https://images.tagesschau.de/image/b663d58e-c338-4105-8431-d2bb45fae639/AAABoadT0Xs/AAABnSSvrFg/16x9-big/jugendliche-228.jpg?width=1920",
+   "also": [
+    {
+     "source": "Spektrum der Wissenschaft",
+     "title": "Bewegungsmangel: Jeder vierte Jugendliche treibt keinen Sport",
+     "link": "https://www.spektrum.de/news/bewegungsmangel-jeder-vierte-jugendliche-treibt-keinen-sport/2352755"
+    }
+   ]
+  },
+  {
+   "id": "n7b1889ec31",
+   "topic": "it",
+   "title": "iPhone Duo: Warum viele Apps noch nicht richtig angepasst sind",
+   "text": "Nicht angepasste Apps trüben das Vergnügen mit Apples erstem faltbaren iPhone noch mit schwarzen Balken. Doch das dürfte sich bald ändern.",
+   "link": "https://www.heise.de/news/iPhone-Duo-Warum-viele-Apps-noch-nicht-richtig-angepasst-sind-11512597.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-04T16:36:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-09T16:36:00+00:00"
+  },
+  {
+   "id": "na0f976204a",
+   "topic": "it",
+   "title": "heise+ | So hackt sich Google mit KI selbst: Interview mit dem Leiter der Red Teams",
+   "text": "Daniel Fabian hat in seinen knapp 17 Jahren bei Google viel gesehen. Im Interview erzählt er uns, wie KI seine Arbeit nachhaltig verändert hat.",
+   "link": "https://www.heise.de/hintergrund/So-hackt-sich-Google-mit-KI-selbst-Interview-mit-dem-Leiter-der-Red-Teams-11471434.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+   "published": "2026-11-04T16:30:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-09T16:30:00+00:00"
+  },
+  {
+   "id": "nbe3bf8812a",
+   "topic": "politik",
+   "title": "Bund fördert Schwimmenlernen mit 20 Millionen Euro",
+   "text": "Mehr als die Hälfte aller Grundschulkinder in Deutschland kann nicht sicher schwimmen. Mit einem Förderprogramm von 20 Millionen Euro will der Bund das ändern. Schwimmverbände und Hilfsorganisationen sollen dabei helfen.",
+   "link": "https://www.tagesschau.de/inland/foerderprogramm-bund-schwimmen-100.html",
+   "published": "2026-11-04T16:29:29+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T16:29:29+00:00",
+   "img": "https://images.tagesschau.de/image/825da6fc-947a-40b8-b773-c13747ce4301/AAABoacWcOE/AAABnSSvrFg/16x9-big/junge-schwimmbad-100.jpg?width=1920"
+  },
+  {
+   "id": "n1a3a9b6258",
+   "topic": "ki",
+   "title": "CloudOpsBench testet KI-Modelle bei DevOps und selbst die besten lösen nur 60 Prozent",
+   "text": "CloudOpsBench ist ein neuer Open-Source-Benchmark, der misst, wie gut KI-Agenten typische DevOps-Aufgaben in der Cloud bewältigen: Dienste reparieren, Ressourcen entfernen, Zugriffsrechte einschränken, Updates ausrollen oder Projekte stilllegen. Der Artikel CloudOpsBench testet KI-Modelle bei DevOps und selbst die …",
+   "link": "https://the-decoder.de/cloudopsbench-testet-ki-modelle-bei-devops-und-selbst-die-besten-loesen-nur-60-prozent/",
+   "published": "2026-11-04T16:15:52+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-11T16:15:52+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2025/02/Huginn-RM-title.png"
+  },
+  {
+   "id": "neb5fb6abb0",
+   "topic": "welt",
+   "title": "Ukraine: Oleschky-Mission als erster Schritt zum Frieden?",
+   "text": "Aus Oleschky wurden Hunderte Zivilisten evakuiert. Manche Beobachter sprechen von einer erfolgreichen humanitären Mission, andere warnen, Russland habe die Waffenruhe genutzt, um seine militärische Position zu stärken.",
+   "link": "https://www.dw.com/de/ukraine-oleschky-mission-als-erster-schritt-zum-frieden/a-79843995?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-04T16:07:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-08T16:07:00+00:00",
+   "img": "https://static.dw.com/image/79817132_302.jpg"
+  },
+  {
+   "id": "n03b2231439",
+   "topic": "wirtschaft",
+   "title": "Deutsche verbrauchen 2026 weniger Energie - das hat einen Grund",
+   "text": "Deutschlands Energieverbrauch sinkt laut Experten in diesem Jahr. Besonders beim Heizöl halten sich die Haushalte zurück, zugleich wächst der Anteil Erneuerbarer Energien.",
+   "link": "https://www.tagesschau.de/wirtschaft/energie/energiebilanz-heizoel-100.html",
+   "published": "2026-11-04T16:05:31+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T16:05:31+00:00",
+   "img": "https://images.tagesschau.de/image/78c568a6-125b-49b1-9cba-55942391a1a4/AAABlJb-XHw/AAABnSSvrFg/16x9-big/heizoel-108.jpg?width=1920"
+  },
+  {
+   "id": "n04097e3902",
+   "topic": "wissenschaft",
+   "title": "Bewegungsmangel: Jeder vierte Jugendliche treibt keinen Sport",
+   "text": "Laut WHO ist ein Viertel der 11- bis 17-Jährigen kaum oder gar nicht körperlich aktiv. Zwischen Mädchen und Jungs zeigen sich dabei deutliche Unterschiede.",
+   "link": "https://www.spektrum.de/news/bewegungsmangel-jeder-vierte-jugendliche-treibt-keinen-sport/2352755",
+   "published": "2026-11-04T16:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-18T16:00:00+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Jeder vierte Jugendliche bewegt sich laut WHO kaum",
+     "link": "https://www.tagesschau.de/wissen/gesundheit/kinder-jugendliche-bewegung-100.html"
+    }
+   ]
+  },
+  {
+   "id": "na637307e23",
+   "topic": "it",
+   "title": "Griechischer Satellit testet Laserkommunikation zur Erde",
+   "text": "Ein in Griechenland entwickelter Satellit hat erfolgreich Laserkommunikation aus dem All getestet. Die eingesetzte Technik stammt aus Europa.",
+   "link": "https://www.heise.de/news/Griechischer-Satellit-testet-Laserkommunikation-zur-Erde-11512517.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-04T15:43:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-09T15:43:00+00:00"
+  },
+  {
+   "id": "nf36893f06e",
+   "topic": "welt",
+   "title": "Reaktionen auf US-Wahlergebnis: Verhaltene Freude, vorsichtige Hoffnung",
+   "text": "Der spektakuläre Triumph der US-Demokraten bei den Zwischenwahlen hat weltweit Reaktionen ausgelöst: Russland setzt weiter auf Präsident Trump, China hält sich bedeckt, in der EU und Südafrika macht sich Hoffnung breit.",
+   "link": "https://www.tagesschau.de/ausland/amerika/midterms-usa-internationale-reaktionen-100.html",
+   "published": "2026-11-04T15:42:29+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T15:42:29+00:00",
+   "img": "https://images.tagesschau.de/image/b3cb576f-40ba-47ba-a7cc-7f7564434499/AAABoab4aBc/AAABnSSvrFg/16x9-big/flagge-kapitol-100.jpg?width=1920"
+  },
+  {
+   "id": "n3fe7fe84cd",
+   "topic": "nfl",
+   "title": "Browns' Deshaun Watson in concussion protocol: Shedeur Sanders potentially in line to start Week 9 at Saints",
+   "text": "Watson cleared evaluation Sunday but started having symptoms Monday night",
+   "link": "https://www.cbssports.com/nfl/news/browns-deshaun-watson-concussion-protocol-shedeur-sanders-week-9-saints/",
+   "published": "2026-11-04T15:31:37+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-09T15:31:37+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/11/04/baaff22f-14fe-408e-8a5f-2ba4e3553d5b/deshaun-watson-browns-3.jpg"
+  },
+  {
+   "id": "n1687362f94",
+   "topic": "nfl",
+   "title": "Brandon Aiyuk files to be reinstated, will report to 49ers facility this week, per report",
+   "text": "San Francisco now has the option to trade or release the disgruntled wide receiver, with an outright cut viewed as the most likely outcome after a turbulent year away from the team",
+   "link": "https://www.cbssports.com/nfl/news/brandon-aiyuk-files-to-be-reinstated-49ers/",
+   "published": "2026-11-04T15:17:19+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-09T15:17:19+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/11/04/aef81414-be72-4952-b551-9f9146285887/ai.jpg"
+  },
+  {
+   "id": "ne11d415694",
+   "topic": "ki",
+   "title": "GPT-6 Astra sieht die Matrix: Für das Sprachmodell sind KI-Gewichte lesbarer Code",
+   "text": "MIT-Forscher zeigen, dass OpenAIs GPT-6 Astra die Gewichte anderer KI-Modelle lesen und gezielt umschreiben kann – ohne klassisches Training. In einem Experiment steigerte Astra die Mathematik-Trefferquote eines Qwen-Modells von 7,9 auf 48,1 Prozent, indem es nur 0,016 Prozent der Gewichte veränderte. Der Ansatz …",
+   "link": "https://the-decoder.de/gpt-6-astra-sieht-die-matrix-fuer-das-sprachmodell-sind-ki-gewichte-lesbarer-code/",
+   "published": "2026-11-04T15:07:44+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-11T15:07:44+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/11/Weight-Space-Programming.png"
+  },
+  {
+   "id": "n164407acad",
+   "topic": "welt",
+   "title": "EU-Kommission sieht Montenegro im Endspurt für EU-Beitritt",
+   "text": "Brüssel nennt Namen und Daten: Geht es nach dem Willen der Europäischen Kommission, steht eine neue EU-Erweiterungsrunde bevor. Voraussetzung ist aber, dass alle Kandidaten Ergebnisse liefern.",
+   "link": "https://www.dw.com/de/eu-kommission-sieht-montenegro-im-endspurt-für-eu-beitritt/a-79856088?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-04T15:02:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-08T15:02:00+00:00",
+   "img": "https://static.dw.com/image/79398755_302.jpg",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Westbalkan - EU-Kommission: Montenegro könnte nächstes EU-Mitglied werden",
+     "link": "https://www.deutschlandfunk.de/eu-kommission-montenegro-koennte-naechstes-eu-mitglied-werden-102.html"
+    },
+    {
+     "source": "Tagesschau",
+     "title": "Montenegro könnte EU-Mitgliedsland Nummer 28 werden",
+     "link": "https://www.tagesschau.de/ausland/europa/eu-montenegro-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n5464149ab3",
+   "topic": "welt",
+   "title": "Kanada und mehrere Eishockey-Nationen erhöhen den Druck gegen Russlands Rückkehr zu internationalen Turnieren",
+   "text": "Nach dem CAS-Urteil zur Rückkehr russischer Eishockey-Teams wächst der Druck auf den Weltverband. Kanadas Premier will keine russischen Profis einreisen lassen, der WM-Hauptsponsor droht mit Rückzug.",
+   "link": "https://www.dw.com/de/kanada-und-mehrere-eishockey-nationen-erhöhen-den-druck-gegen-russlands-rückkehr-zu-internationalen-turnieren/a-79855632?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-04T14:55:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-08T14:55:00+00:00",
+   "img": "https://static.dw.com/image/72485913_302.jpg"
+  },
+  {
+   "id": "n0c21eca645",
+   "topic": "wirtschaft",
+   "title": "Neuer EZB-Chef: Niederlande nominieren Ex-Zentralbanker Knot",
+   "text": "Der frühere niederländische Zentralbankchef Knot ist nun offiziell für den EZB-Chefsessel nominiert. Er gilt als aussichtsreicher Kandidat für die Nachfolge der scheidenden Christine Lagarde.",
+   "link": "https://www.tagesschau.de/wirtschaft/konjunktur/knot-nominierung-ezb-100.html",
+   "published": "2026-11-04T14:30:36+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T14:30:36+00:00",
+   "img": "https://images.tagesschau.de/image/c8b6006a-2850-4e36-9caf-f20ee945d5d4/AAABoabiLPc/AAABnSSvrFg/16x9-big/klaas-knot-106.jpg?width=1920"
+  },
+  {
+   "id": "n54ae66455e",
+   "topic": "wissenschaft",
+   "title": "Außergewöhnliches Vogelfossil: Frühe Eulen jagten offenbar noch bei Tageslicht",
+   "text": "Was verrät die letzte Mahlzeit eines Vogels nach 47 Millionen Jahren? Ein gut erhaltenes Skelett aus der Grube Messel eröffnet nun neue Perspektiven auf die Evolution der Eulen.",
+   "link": "https://www.spektrum.de/news/vogelfossil-wann-wurden-eulen-nachtaktiv/2352672",
+   "published": "2026-11-04T14:30:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-18T14:30:00+00:00"
+  },
+  {
+   "id": "nb63285c8ca",
+   "topic": "welt",
+   "title": "Montenegro könnte EU-Mitgliedsland Nummer 28 werden",
+   "text": "Viele Länder möchten EU-Mitglied werden - für Montenegro läuft es am besten. Die EU hält einen Beitritt des kleinen Balkan-Landes schon 2028 für möglich. Für andere Staaten gebe es hingegen gerade eher keine Perspektive.",
+   "link": "https://www.tagesschau.de/ausland/europa/eu-montenegro-100.html",
+   "published": "2026-11-04T14:11:39+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T14:11:39+00:00",
+   "img": "https://images.tagesschau.de/image/bfb067fd-4f50-4786-9bb3-536328b63559/AAABoaauQlo/AAABnSSvrFg/16x9-big/flagge-montenegro-102.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Westbalkan - EU-Kommission: Montenegro könnte nächstes EU-Mitglied werden",
+     "link": "https://www.deutschlandfunk.de/eu-kommission-montenegro-koennte-naechstes-eu-mitglied-werden-102.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "EU-Kommission sieht Montenegro im Endspurt für EU-Beitritt",
+     "link": "https://www.dw.com/de/eu-kommission-sieht-montenegro-im-endspurt-für-eu-beitritt/a-79856088?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "n8efecac4cd",
+   "topic": "welt",
+   "title": "Beschwerde ohne Abhilfe? Die Herausforderungen des Beschwerdemechanismus der Asiatischen Infrastruktur-Investitionsbank",
+   "text": "Wie leicht zugänglich sind die Beschwerdemechanismen der Asiatischen Infrastruktur-Investitionsbank (AIIB)? Betroffene stoßen auf erhebliche Hürden. Kritiker fordern Reformen und mehr Transparenz.",
+   "link": "https://www.dw.com/de/beschwerde-ohne-abhilfe-die-herausforderungen-des-beschwerdemechanismus-der-asiatischen-infrastruktur-investitionsbank/a-79855498?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-04T14:09:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-08T14:09:00+00:00",
+   "img": "https://static.dw.com/image/79842589_302.jpg"
+  },
+  {
+   "id": "n68b0200c2b",
+   "topic": "welt",
+   "title": "US-Midterms: Wie Trump abgestraft wurde - und was die Folgen sind",
+   "text": "Ein Teilerfolg für die Demokraten war erwartet worden. Doch die Zwischenwahlen in den USA kommen einem Desaster für Präsident Trump gleich. Was war dafür ausschlaggebend und wie geht es jetzt weiter? Fragen und Antworten von E. Aretz und C. Schwanitz.",
+   "link": "https://www.tagesschau.de/ausland/amerika/usa-ergebnisse-midterms-faq-100.html",
+   "published": "2026-11-04T13:44:41+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T13:44:41+00:00",
+   "img": "https://images.tagesschau.de/image/f44d6ac1-c09a-4c37-a1e1-86f6499d7ece/AAABoabOAVo/AAABnSSvrFg/16x9-big/trump-maga-caps-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "\"Checks and Balances\" - USA nach den Zwischenwahlen: Welche Folgen hat das Ergebnis für Präsident Trump?",
+     "link": "https://www.deutschlandfunk.de/usa-nach-den-zwischenwahlen-welche-folgen-hat-das-ergebnis-fuer-praesident-trump-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n6ca5bb0a0a",
+   "topic": "wissenschaft",
+   "title": "RNA-Medizin: Was kommt nach der Corona-Impfung?",
+   "text": "Bekannt wurde die RNA-Medizin vor allem während der Corona-Pandemie - durch die mRNA-Impfstoffe. Künftig könnten solche Therapien auch bei Herz-Kreislauf-Erkrankungen, seltenen Krankheiten oder Krebs zum Einsatz kommen.",
+   "link": "https://www.tagesschau.de/wissen/gesundheit/rna-forschung-chancen-und-risiken-100.html",
+   "published": "2026-11-04T13:21:52+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-18T13:21:52+00:00",
+   "img": "https://images.tagesschau.de/image/1dff1ba1-1ca1-426c-bd98-a978989a711e/AAABoaZX6-s/AAABnSSvrFg/16x9-big/rna-forschung-100.jpg?width=1920"
+  },
+  {
+   "id": "n316daddd51",
+   "topic": "wirtschaft",
+   "title": "Marktbericht: Demokraten-Sieg gibt DAX Rückenwind",
+   "text": "Der überraschende Erfolg der US-Demokraten steht bei den Märkten im Fokus und treibt etwa den DAX an. Gleichzeitig geraten Tech-Aktien unter Druck: Anleger befürchten, dass die Demokraten den KI-Sektor stärker regulieren könnten.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/reaktionen-midterms-102.html",
+   "published": "2026-11-04T13:11:29+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T13:11:29+00:00",
+   "img": "https://images.tagesschau.de/image/87e3db69-9963-4b9d-a2cc-526e0306ecd2/AAABoaamGdo/AAABnSSvrFg/16x9-big/midterms-218.jpg?width=1920"
+  },
+  {
+   "id": "n1fae516a6c",
+   "topic": "politik",
+   "title": "Deutsche Reaktionen auf Midterms: Gratulation und gedämpfte Erwartungen",
+   "text": "Deutsche Politiker haben die Niederlage der Republikaner bei den US-Midterms begrüßt, dämpfen aber die Erwartung an eine andere Außenpolitik von Präsident Trump. Eine SPD-Politikerin warnt vor einer \"wütenden Ente\" im Weißen Haus.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-deutschland-midterms-100.html",
+   "published": "2026-11-04T12:49:49+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T12:49:49+00:00",
+   "img": "https://images.tagesschau.de/image/c2330fb9-9436-4572-b9b8-7038cbf2338d/AAABoaY3XBo/AAABnSSvrFg/16x9-big/trump-merz-124.jpg?width=1920"
+  },
+  {
+   "id": "n960709ec8e",
+   "topic": "wissenschaft",
+   "title": "Wo die Menschen in Deutschland am längsten leben",
+   "text": "Die Lebenserwartung steigt - allerdings nicht überall gleichermaßen. Baden-Württemberg liegt vorn. Im Osten Deutschlands ist der Abstand zwischen Frauen und Männern besonders groß. Und mancherorts sinkt die Lebenserwartung von Frauen sogar.",
+   "link": "https://www.tagesschau.de/wissen/gesundheit/lebenserwartung-maenner-frauen-102.html",
+   "published": "2026-11-04T12:38:29+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-18T12:38:29+00:00",
+   "img": "https://images.tagesschau.de/image/8538e917-0c43-46f3-bf84-f12f22d5945f/AAABoaZzDfM/AAABnSSvrFg/16x9-big/jogger-126.jpg?width=1920"
+  },
+  {
+   "id": "n1b39e48e16",
+   "topic": "welt",
+   "title": "Wahlergebnis in Israel trotz Netanjahus Vorwürfen bestätigt",
+   "text": "Der amtierende Regierungschef hatte nach seiner Niederlage noch behauptet, arabische Parteien hätten \"die Wahl gestohlen\". Gegenkandidat Eisenkot zeigte sich empört. Präsident Herzog spricht ein ernstes Wort.",
+   "link": "https://www.dw.com/de/wahlergebnis-in-israel-trotz-netanjahus-vorwürfen-bestätigt/a-79853841?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-04T12:36:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-08T12:36:00+00:00",
+   "img": "https://static.dw.com/image/79788323_302.jpg"
+  },
+  {
+   "id": "n59c0b98bf9",
+   "topic": "ki",
+   "title": "Anthropics neues Open-Source-Tool soll beweisen, welches KI-Modell wirklich antwortet",
+   "text": "Anthropic stellt mit FlashProve einen Forschungsprototyp vor, der kryptografisch nachweisen soll, ob eine KI-Antwort tatsächlich vom behaupteten Modell stammt. Das System hat noch deutliche Einschränkungen. Der Artikel Anthropics neues Open-Source-Tool soll beweisen, welches KI-Modell wirklich antwortet erschien …",
+   "link": "https://the-decoder.de/anthropics-neues-open-source-tool-soll-beweisen-welches-ki-modell-wirklich-antwortet/",
+   "published": "2026-11-04T12:28:49+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-11T12:28:49+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/11/Anthropic-FlashProve.webp"
+  },
+  {
+   "id": "n0671aa3419",
+   "topic": "welt",
+   "title": "Die Demokraten gewinnen die US-Zwischenwahlen. Doch in der Außenpolitik bleibt Donald Trump ein Machtfaktor. Was das für Deutschland bedeutet.",
+   "text": "Historische Niederlage für die Republikaner, aber kein Machtverlust für Trump auf der Weltbühne. Welche Risiken haben Deutschland und Europa jetzt zu erwarten?",
+   "link": "https://www.dw.com/de/die-demokraten-gewinnen-die-us-zwischenwahlen-doch-in-der-außenpolitik-bleibt-donald-trump-ein-machtfaktor-was-das-für-deutschland-bedeutet/a-79852921?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-04T12:15:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-08T12:15:00+00:00",
+   "img": "https://static.dw.com/image/77503067_302.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "US-Zwischenwahlen: Demokraten steuern auf Wahlerfolg zu",
+     "link": "https://www.tagesschau.de/ausland/amerika/midterms-usa-wahl-100.html"
+    }
+   ]
+  },
+  {
+   "id": "nf3d6c037c7",
+   "topic": "politik",
+   "title": "Wohngeldreform könnte Bedürftige doppelt treffen",
+   "text": "Die Bundesregierung plant eine Reform des Wohngelds, um mehrere Milliarden einzusparen. Ein Drittel der bisher Wohngeldberechtigten könnte den Anspruch auf Wohngeld verlieren. Von Teresa Peters.",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/wohngeld-reform-sozialkaufhaus-100.html",
+   "published": "2026-11-04T12:01:12+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T12:01:12+00:00",
+   "img": "https://images.tagesschau.de/image/0e129fe0-539b-4c90-9fff-be6d782b5b47/AAABoaIowhs/AAABnSSvrFg/16x9-big/sozialkaufhaus-montabaur-100.jpg?width=1920"
+  },
+  {
+   "id": "n6fc35f64c1",
+   "topic": "politik",
+   "title": "15 Jahre danach bleiben Schmerz und offene Fragen",
+   "text": "Als im November 2011 die Taten des NSU ans Licht kommen, enden für die Familien der Mordopfer Jahre der Ungewissheit. Trotzdem hält ihr Schmerz bis heute an - weil die Ermittlungsakten weiter viele Leerstellen haben. Von Carolyn Wißing.",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/nsu-enttarnung-102.html",
+   "published": "2026-11-04T11:36:16+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T11:36:16+00:00",
+   "img": "https://images.tagesschau.de/image/466fdbe2-226e-4143-ae35-4cec4a2ded79/AAABoaaeE_M/AAABnSSvrFg/16x9-big/opfer-nsu-105.jpg?width=1920"
+  },
+  {
+   "id": "n7ad0d536f4",
+   "topic": "welt",
+   "title": "Midterms: Eine historische Wahl mit vielen Premieren",
+   "text": "Die erste schwarze Gouverneurin, eine indigene Senatorin und demokratische Siege in republikanischen Hochburgen wie Kansas oder Texas: Den Demokraten gelang bei den Midterms vielerorts Historisches - eine Auswahl.",
+   "link": "https://www.tagesschau.de/ausland/amerika/midterms-historische-siege-100.html",
+   "published": "2026-11-04T11:23:58+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T11:23:58+00:00",
+   "img": "https://images.tagesschau.de/image/461df750-4955-4f69-abda-7fe57ba2e154/AAABoaXN7Go/AAABnSSvrFg/16x9-big/bottoms-102.jpg?width=1920"
+  },
+  {
+   "id": "n4e3977f2c2",
+   "topic": "wirtschaft",
+   "title": "Inflation im Euroraum steigt auf 4,0 Prozent",
+   "text": "Die Teuerung in der Eurozone ist im Oktober auf 4,0 Prozent gestiegen. Das ist die höchste Inflationsrate seit September 2023. Besonders die hohen Energiepreise sind Treiber der aktuellen Entwicklung.",
+   "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-eurozone-oktober-102.html",
+   "published": "2026-11-04T11:12:00+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T11:12:00+00:00",
+   "img": "https://images.tagesschau.de/image/82dfb70d-edf5-4e3d-861e-fb7e97fe6c3f/AAABoYzyluk/AAABnSSvrFg/16x9-big/inflation-262.jpg?width=1920"
+  },
+  {
+   "id": "n6a660b6e42",
+   "topic": "politik",
+   "title": "Bund und Länder üben Krisenmanagement bei Hitzewellen",
+   "text": "45 Grad im Schatten und das nach mehreren Dürrejahren. Dieses fiktive Szenario ist Grundlage für die Übung von zehn Bundesländer und 20 Bundesbehörden. Das Ziel: Deutschland soll für solche Katastrophen vorbereitet werden.",
+   "link": "https://www.tagesschau.de/inland/bbk-krisenmanagement-duerre-hitze-100.html",
+   "published": "2026-11-04T11:06:34+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T11:06:34+00:00",
+   "img": "https://images.tagesschau.de/image/8f11ef00-c0f4-46a8-a713-cca6362e95ae/AAABoaYVb9k/AAABnSSvrFg/16x9-big/hitzewarnung-108.jpg?width=1920"
+  },
+  {
+   "id": "n0774f0ec68",
+   "topic": "welt",
+   "title": "Die Ergebnisse der Midterms in den USA in Zahlen und Karten",
+   "text": "In den USA läuft die Auszählung nach den Zwischenwahlen. Wer liegt im Senat und im Repräsentantenhaus vorn? Wer entschied welche Rennen um diese Sitze und um die Gouverneursposten für sich? Ergebnisse in Zahlen und Karten.",
+   "link": "https://www.tagesschau.de/ausland/amerika/midterms-ergebnisse-102.html",
+   "published": "2026-11-04T09:58:04+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T09:58:04+00:00",
+   "img": "https://images.tagesschau.de/image/754a03c8-b76b-4d28-b22a-497747d636c4/AAABoac3Lxc/AAABnSSvrFg/16x9-big/midterms-senat-geographisch-100.jpg?width=1920"
+  },
+  {
+   "id": "n3206626e35",
+   "topic": "wirtschaft",
+   "title": "Update Wirtschaft vom 04.11.2026",
+   "text": "Update Wirtschaft vom 04.11.2026",
+   "link": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1677864.html",
+   "published": "2026-11-04T09:29:34+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T09:29:34+00:00",
+   "img": "https://images.tagesschau.de/image/b50496f3-b97c-44cb-893f-4963ec807c0b/AAABoaXkY9s/AAABnSSvrFg/16x9-big/sendungsbild-1822172.jpg?width=1920"
+  },
+  {
+   "id": "n18aacbd95a",
+   "topic": "wirtschaft",
+   "title": "BMW erwirtschaftet noch weniger Gewinn",
+   "text": "Die Absatzkrise in China lässt den Gewinn von BMW im dritten Quartal weiter einbrechen. Auch teure Abfindungen und das vorgezogene Aus älterer Modelle verhageln dem Münchner Autobauer die Bilanz.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bmw-gewinnwarnung-100.html",
+   "published": "2026-11-04T08:21:37+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T08:21:37+00:00",
+   "img": "https://images.tagesschau.de/image/439375cb-2e39-42d4-8d84-daed8c64c763/AAABlgxkf6Q/AAABnSSvrFg/16x9-big/bmw-235.jpg?width=1920"
+  },
+  {
+   "id": "n64ff787be5",
+   "topic": "politik",
+   "title": "Stromsteuer: Kommt die Entlastung für Bürgerinnen und Bürger noch?",
+   "text": "Die Stromsteuer soll sinken - das fordert allen voran Kanzler Merz und bekommt dafür viel Zuspruch. Noch offen ist allerdings die Finanzierung. Können Bürgerinnen und Bürger bald mit einer Entlastung rechnen? Von Philipp Eckstein.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/stromsteuer-bundesregierung-entlastung-100.html",
+   "published": "2026-11-04T07:31:04+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T07:31:04+00:00",
+   "img": "https://images.tagesschau.de/image/92b2986f-8fe4-4d90-ae35-176cfbca1133/AAABoPcpVZs/AAABnSSvrFg/16x9-big/klingbeil-merz-154.jpg?width=1920"
+  },
   {
    "id": "n5c33996530",
    "topic": "politik",
@@ -95,14 +843,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-06T06:20:35+00:00",
-   "img": "https://bilder.deutschlandfunk.de/9d/54/27/bc/9d5427bc-567f-448f-9fc7-213a9baf60bb/party-sc-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Liveblog zu den Midterms: ++ Trump will Wahlergebnisse anerkennen ++",
-     "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/9d/54/27/bc/9d5427bc-567f-448f-9fc7-213a9baf60bb/party-sc-100-1920x1920.jpg"
   },
   {
    "id": "n69a6a42d90",
@@ -169,26 +910,6 @@
    "img": "https://www.golem.de/2611/214821-606695-606693_rc.jpg"
   },
   {
-   "id": "nbb9a2dabc5",
-   "topic": "welt",
-   "title": "Liveblog zu den Midterms: ++ Trump will Wahlergebnisse anerkennen ++",
-   "text": "US-Präsident Trump hat angekündigt, die Wahlergebnisse der Midterms anzuerkennen. In Georgia wurde die erste schwarze Frau als Gouverneurin gewählt. Die Entwicklungen im Liveblog.",
-   "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
-   "published": "2026-11-04T06:13:47+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-07T06:13:47+00:00",
-   "img": "https://images.tagesschau.de/image/b780b014-d654-44f9-ae2e-ab85a7928960/AAABoSbjyVc/AAABnSSvrFg/16x9-big/trump-5328.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Newsblog zu den US-\"Midterms\" - Trump will Wahlergebnis akzeptieren",
-     "link": "https://www.deutschlandfunk.de/trump-will-wahlergebnis-akzeptieren-100.html"
-    }
-   ]
-  },
-  {
    "id": "na6af393098",
    "topic": "welt",
    "title": "US-Zwischenwahl: Demokraten erobern Mehrheit im Senat",
@@ -224,19 +945,6 @@
    "type": "Fachmedium (IT)",
    "lang": "de",
    "expires": "2026-11-09T06:06:00+00:00"
-  },
-  {
-   "id": "n0774f0ec68",
-   "topic": "welt",
-   "title": "Die Ergebnisse der Midterms in den USA in Zahlen und Karten",
-   "text": "In den USA läuft die Auszählung nach den Zwischenwahlen auf Hochtouren. Wer liegt im Senat und im Repräsentantenhaus vorn? Wer entschied welche Rennen um die Sitze im Kongress und um die Gouverneursposten für sich? Ergebnisse in Zahlen und Karten.",
-   "link": "https://www.tagesschau.de/ausland/amerika/midterms-ergebnisse-102.html",
-   "published": "2026-11-04T06:05:14+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-07T06:05:14+00:00",
-   "img": "https://images.tagesschau.de/image/d5028027-8fa5-4d83-b097-22f7f4f596b0/AAABoaHAdu4/AAABnSSvrFg/16x9-big/grafik-midterms-usa-senat-sitze-104.jpg?width=1920"
   },
   {
    "id": "nafec627d31",
@@ -279,7 +987,7 @@
    "id": "n3cbe51843c",
    "topic": "politik",
    "title": "Karlsruhe prüft Fraktionsausschluss von AfD-Politiker",
-   "text": "Für den AfD-Politiker Jan Wenzel Schmidt hatte die Vetternwirtschaftsdebatte Folgen. Er flog aus der Fraktion, nachdem er die Debatte ins Rollen gebracht hatte. Nun wehrt er sich gerichtlich. Von Anne Stein.",
+   "text": "Für den AfD-Politiker Jan Wenzel Schmidt hatte die Vetternwirtschaftsdebatte Folgen. Er flog aus der Bundestagsfraktion, nachdem er die Debatte ins Rollen gebracht hatte. Nun wehrt er sich gerichtlich. Von Anne Stein.",
    "link": "https://www.tagesschau.de/inland/innenpolitik/bundesverfassungsgericht-afd-fraktionsausschluss-100.html",
    "published": "2026-11-04T05:22:34+00:00",
    "source": "Tagesschau",
@@ -360,7 +1068,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-07T04:32:37+00:00",
-   "img": "https://images.tagesschau.de/image/097ce7bc-116f-412a-afd7-6d282afec0a1/AAABoaSK70w/AAABnSSvrFg/16x9-big/jon-ossoff-georgia-100.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/097ce7bc-116f-412a-afd7-6d282afec0a1/AAABoaSK70w/AAABnSSvrFg/16x9-big/jon-ossoff-georgia-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Die Demokraten gewinnen die US-Zwischenwahlen. Doch in der Außenpolitik bleibt Donald Trump ein Machtfaktor. Was das für Deutschland bedeutet.",
+     "link": "https://www.dw.com/de/die-demokraten-gewinnen-die-us-zwischenwahlen-doch-in-der-außenpolitik-bleibt-donald-trump-ein-machtfaktor-was-das-für-deutschland-bedeutet/a-79852921?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
   },
   {
    "id": "n39fda435fc",
@@ -397,14 +1112,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-06T22:49:56+00:00",
-   "img": "https://images.tagesschau.de/image/7bfe3afd-df5d-4068-8773-bed8cec0c7f3/AAABoaHss2g/AAABnSSvrFg/16x9-big/wahllokal-midterms-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Newsblog zu den US-\"Midterms\" - Trump will Wahlergebnis akzeptieren",
-     "link": "https://www.deutschlandfunk.de/trump-will-wahlergebnis-akzeptieren-100.html"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/7bfe3afd-df5d-4068-8773-bed8cec0c7f3/AAABoaHss2g/AAABnSSvrFg/16x9-big/wahllokal-midterms-100.jpg?width=1920"
   },
   {
    "id": "n461f0ecb84",
@@ -756,7 +1464,14 @@
    "type": "Fachmedium (KI)",
    "lang": "de",
    "expires": "2026-11-10T18:19:43+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/11/ai_goalpost_moving.png"
+   "img": "https://the-decoder.de/wp-content/uploads/2026/11/ai_goalpost_moving.png",
+   "also": [
+    {
+     "source": "Golem.de",
+     "title": "Nokia: KI wird fast die Hälfte des Netzwerkverkehrs ausmachen",
+     "link": "https://www.golem.de/news/nokia-ki-wird-fast-die-haelfte-des-netzwerkverkehrs-ausmachen-2611-214863.html"
+    }
+   ]
   },
   {
    "id": "n1cbdd91a0a",
@@ -926,8 +1641,8 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Was eine Niederlage Trumps bei den Midterms für die EU bedeuten würde",
-     "link": "https://www.tagesschau.de/ausland/europa/us-midterms-europa-100.html"
+     "title": "Nach Sieg bei den Midterms: Welche Optionen die Demokraten haben",
+     "link": "https://www.tagesschau.de/ausland/demokraten-optionen-100.html"
     }
    ]
   },
@@ -1084,681 +1799,6 @@
    "lang": "de",
    "expires": "2026-11-17T16:10:04+00:00",
    "img": "https://images.tagesschau.de/image/2aa1a7a0-1dfe-4f65-bcfc-8453b86450af/AAABoaHv5G4/AAABnSSvrFg/16x9-big/supermarkt-kuehlregale-100.jpg?width=1920"
-  },
-  {
-   "id": "naf03c08287",
-   "topic": "welt",
-   "title": "Merz verspricht mehr Hilfe für die Ukraine und appelliert an Europäer",
-   "text": "Russische Angriffe auf die Energie-Infrastruktur, Raketeneinschläge in den Städten: Der Ukraine droht ein harter Kriegswinter. Kanzler Merz sagt Unterstützung zu - fordert aber auch mehr Engagement der europäischen Partner.",
-   "link": "https://www.tagesschau.de/ausland/europa/merz-selenskyj-134.html",
-   "published": "2026-11-03T16:08:15+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T16:08:15+00:00",
-   "img": "https://images.tagesschau.de/image/977cf63c-9a68-4093-afbb-ba679eac4fe0/AAABoaHeKvE/AAABnSSvrFg/16x9-big/selenskyj-merz-140.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Berlin - Merz ruft Russland zu Friedensverhandlungen mit der Ukraine auf",
-     "link": "https://www.deutschlandfunk.de/merz-ruft-russland-zu-friedensverhandlungen-mit-der-ukraine-auf-114.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Ukraine-Krieg: Bundeskanzler Friedrich Merz und der ukrainische Präsident Wolodymyr Selenskyj beraten in Berlin",
-     "link": "https://www.dw.com/de/ukraine-krieg-bundeskanzler-friedrich-merz-und-der-ukrainische-präsident-wolodymyr-selenskyj-beraten-in-berlin/a-79846015?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n7033913b2a",
-   "topic": "nfl",
-   "title": "Klint Kubiak addresses Ashton Jeanty's disappearance from game plan vs. Jets",
-   "text": "Jeanty had just two carries and played less than 40% of the snaps against New York",
-   "link": "https://www.cbssports.com/nfl/news/klint-kubiak-ashton-jeantys-disappearance-from-game-plan-vs-jets/",
-   "published": "2026-11-03T16:03:59+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-08T16:03:59+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/11/02/8a616cbb-b8bf-4de8-9665-dd0ed40cbcdd/ashton-jeanty-raiders.jpg"
-  },
-  {
-   "id": "n38bcc9fe82",
-   "topic": "wissenschaft",
-   "title": "Sprachmodelle optimieren Sprachmodelle: KI entschlüsselt die Blackbox der künstlichen Intelligenz",
-   "text": "Das Innere neuronaler Netze gilt als kaum durchschaubar. Doch Sprachmodelle können es verstehen und sogar verbessern. Das macht die KI-Entwicklung womöglich ressourcenschonender.",
-   "link": "https://www.spektrum.de/news/ki-sprachmodelle-ist-die-zeit-des-aufwendigen-ki-trainings-vorbei/2352465",
-   "published": "2026-11-03T16:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-17T16:00:00+00:00"
-  },
-  {
-   "id": "n47d62cfed4",
-   "topic": "wirtschaft",
-   "title": "Weihnachtsgeschäft: Kinderwünsche und Händlerträume",
-   "text": "Weihnachtszeit ist Umsatzzeit: Trotz Krisenstimmung zeigt sich der Einzelhandel zuversichtlich. Doch wo Kinder ins Träumen geraten, ist die Stimmung der Händler angespannt. Von Juri Sonnenholzner.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/spielwaren-hde-weihnachtsgeschaeft-rofu-100.html",
-   "published": "2026-11-03T15:47:04+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T15:47:04+00:00",
-   "img": "https://images.tagesschau.de/image/6a22ca40-d411-4e92-8958-8efff5660b26/AAABoaFtyAg/AAABnSSvrFg/16x9-big/laden-rofu-100.jpg?width=1920"
-  },
-  {
-   "id": "n7b2de1bf43",
-   "topic": "wirtschaft",
-   "title": "Erster Spot vor 70 Jahren: Als die Werbung ins Fernsehen kam",
-   "text": "Mit einem Fleck auf der Tischdecke fing es an - und zwar in Bayern: Vor 70 Jahren wurde der erste Werbespot im deutschen Fernsehen ausgestrahlt. Seitdem hat sich Werbung massiv verändert. Und das große Geld fließt längst in andere Kanäle. Von Laura Bisch.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/70-jahre-werbefernsehen-100.html",
-   "published": "2026-11-03T15:46:23+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T15:46:23+00:00",
-   "img": "https://images.tagesschau.de/image/cc682bd6-cf25-46b1-8f3c-014635274b46/AAABoaH0WmE/AAABnSSvrFg/16x9-big/werbung-114.jpg?width=1920"
-  },
-  {
-   "id": "ne45ad61c0f",
-   "topic": "welt",
-   "title": "Zwischenwahlen in den USA: Warum sind sie wichtig, wer wird gewählt, wo wird's spannend?",
-   "text": "Die US-Amerikaner wählen ihren neuen Kongress: Senat, Abgeordnetenhaus, Gouverneure - die Zwischenwahlen stellen wichtige Weichen für die Zukunft der USA. Und sie bewerten immer auch die Politik des Präsidenten.",
-   "link": "https://www.dw.com/de/zwischenwahlen-in-den-usa-warum-sind-sie-wichtig-wer-wird-gewählt-wo-wird-s-spannend/a-79776241?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-03T15:10:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-07T15:10:00+00:00",
-   "img": "https://static.dw.com/image/79841034_302.jpg"
-  },
-  {
-   "id": "ndc7e78755e",
-   "topic": "wissenschaft",
-   "title": "Sabotage im Supermarkt: Was hinter den Cyberangriffen auf Kühlanlagen steckt",
-   "text": "In Supermärkten wurden Kühlanlagen aus der Ferne in den Heizmodus geschaltet – Lebensmittel verdarben, teils kam es zu Schwelbränden. Wie konnten die Angreifer eindringen?",
-   "link": "https://www.spektrum.de/news/sabotage-im-supermarkt-was-hinter-den-cyberangriffen-steckt/2352523",
-   "published": "2026-11-03T15:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-17T15:00:00+00:00"
-  },
-  {
-   "id": "nc9b34d2ca9",
-   "topic": "wirtschaft",
-   "title": "Evonik wehrt sich gegen Chemieriese BASF",
-   "text": "Es wäre die größte Fusion in der deutschen Chemiebranche: Wenn BASF und Evonik zusammengingen, entstünde ein Konzern mit einem Jahresumsatz von rund 74 Milliarden Euro. Doch noch sträubt sich Evonik. Von Michael Heussen.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/evonik-basf-fusion-100.html",
-   "published": "2026-11-03T14:59:40+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T14:59:40+00:00",
-   "img": "https://images.tagesschau.de/image/36b9faed-a98c-455e-a299-8c59c4b95517/AAABoaHi-Y0/AAABnSSvrFg/16x9-big/chemieindustrie-116.jpg?width=1920"
-  },
-  {
-   "id": "n909b6a586b",
-   "topic": "welt",
-   "title": "Deutschland: Harte Schläge gegen kriminelle Vereinigungen",
-   "text": "Mit Razzien ist die Polizei gegen verschiedene Netzwerke von Kriminellen vorgegangen. Dabei ging es einerseits um die Kriminalitätsform \"Crime as a Service\". Im Fokus standen außerdem mutmaßliche Linksextremisten.",
-   "link": "https://www.dw.com/de/deutschland-harte-schläge-gegen-kriminelle-vereinigungen/a-79843275?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-03T14:59:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-07T14:59:00+00:00",
-   "img": "https://static.dw.com/image/77878231_302.jpg"
-  },
-  {
-   "id": "nb066cb5345",
-   "topic": "welt",
-   "title": "Die Republik Kosovo ist nach einem weiteren Femizid in Aufruhr: Arlinda Zekaj suchte Schutz, doch Behörden ignorierten ihre Hilferufe",
-   "text": "Sie zeigte ihren Mann an, warnte vor seinem Bruder und flehte um Schutz - trotzdem reagierte die Polizei nicht adäquat. Der Mord an Arlinda Zekaj legt ein dramatisches Versagen staatlicher Institutionen offen.",
-   "link": "https://www.dw.com/de/die-republik-kosovo-ist-nach-einem-weiteren-femizid-in-aufruhr-arlinda-zekaj-suchte-schutz-doch-behörden-ignorierten-ihre-hilferufe/a-79836495?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-03T14:57:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-07T14:57:00+00:00",
-   "img": "https://static.dw.com/image/79826371_302.jpg"
-  },
-  {
-   "id": "naace738884",
-   "topic": "ki",
-   "title": "OpenAI holt früheren US-Heeresminister für Militär- und Geheimdienstgeschäft",
-   "text": "OpenAI holt mit Dan Driscoll den früheren zivilen Chef der US Army als \"Senior Counselor for National Security Modernization\" an Bord, wohl auch um Regierungsaufträge zu gewinnen und KI-Regeln für Militär und Geheimdienste mitzugestalten. Der Vertraute von Vizepräsident JD Vance, der KI-Projekte der Army vorantrieb …",
-   "link": "https://the-decoder.de/openai-holt-frueheren-us-heeresminister-fuer-militaer-und-geheimdienstgeschaeft/",
-   "published": "2026-11-03T14:52:28+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-10T14:52:28+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/11/openai_driscoll.png"
-  },
-  {
-   "id": "n3c43a58f3b",
-   "topic": "welt",
-   "title": "Bayern München in Nairobi: Wie Kenia und andere afrikanische Länder mit Sport globalen Einfluss gewinnen wollen",
-   "text": "Bayern München eröffnet in Nairobi ein neues Fußballstadion und unterstreicht damit einen größeren Trend: Afrikanische Länder setzen auf den Sport, um Investitionen anzuziehen und ihr internationales Profil zu stärken.",
-   "link": "https://www.dw.com/de/bayern-münchen-in-nairobi-wie-kenia-und-andere-afrikanische-länder-mit-sport-globalen-einfluss-gewinnen-wollen/a-79840825?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-03T14:33:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-07T14:33:00+00:00",
-   "img": "https://static.dw.com/image/79797144_302.jpg"
-  },
-  {
-   "id": "nd184134b0b",
-   "topic": "wirtschaft",
-   "title": "Cyberangriffe auf Kühlanlagen auch in deutschen Supermärkten",
-   "text": "Statt fünf waren es plötzlich 50 Grad: In der Nacht haben Hacker in mehreren Supermärkten in Deutschland die Kühlanlagen umgestellt. Große Mengen an Lebensmitteln mussten entsorgt werden. Ähnliche Cyberangriffe gab es auch im Ausland.",
-   "link": "https://www.tagesschau.de/wirtschaft/digitales/cyberangriffe-supermarkt-hacker-100.html",
-   "published": "2026-11-03T13:49:27+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T13:49:27+00:00",
-   "img": "https://images.tagesschau.de/image/445e58cf-c3c2-4911-b9d3-21ade4e40cb7/AAABoaEEmkU/AAABnSSvrFg/16x9-big/kuehlregal-102.jpg?width=1920"
-  },
-  {
-   "id": "n3424ee094c",
-   "topic": "wirtschaft",
-   "title": "Anspannung am Wahltag: Was die Midterms für die Börse bedeuten",
-   "text": "Die Zwischenwahlen in den USA leiten oft eine starke Börsenphase ein. Diesmal bergen sie aber eine Reihe von Stolpersteinen. Von Detlev Landmesser.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-midterms-boerse-100.html",
-   "published": "2026-11-03T13:33:24+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T13:33:24+00:00",
-   "img": "https://images.tagesschau.de/image/d726ff5b-764a-4fd1-abcc-2f3341838768/AAABmMuktaQ/AAABnSSvrFg/16x9-big/nyse-412.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "US-Kongresswahlen - Die Zwischen-Wahlen laufen - Demokraten hoffen auf Sieg über Trumps Republikaner bei Midterms",
-     "link": "https://www.deutschlandfunk.de/die-zwischen-wahlen-laufen-demokraten-hoffen-auf-sieg-ueber-trumps-republikaner-bei-midterms-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n20835610cc",
-   "topic": "wirtschaft",
-   "title": "EU genehmigt MediaMarktSaturn-Übernahme durch JD.com",
-   "text": "Der chinesische Tech-Riese JD.com darf Europas größten Elektronikfachhändler MediaMarktSaturn übernehmen. Das hat die EU-Kommission entschieden. Doch aus Brüssel kommen Auflagen.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/eu-mediamarkt-saturn-jd-genehmigung-100.html",
-   "published": "2026-11-03T13:25:20+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T13:25:20+00:00",
-   "img": "https://images.tagesschau.de/image/95591cc8-7e78-42f1-92f2-fc324115d59b/AAABoaEcUVU/AAABnSSvrFg/16x9-big/mediamarkt-saturn-102.jpg?width=1920"
-  },
-  {
-   "id": "nf958c44f34",
-   "topic": "wissenschaft",
-   "title": "Existenzielle Psychotherapie: Wozu das alles? Sinnsuche in schweren Zeiten",
-   "text": "Lebenskrisen stellen uns vor grundsätzliche Fragen: Wer bin ich? Was ist mir wichtig? Existenzielle und sinnzentrierte Therapien helfen, den Blick auf das Wesentliche zu richten.",
-   "link": "https://www.spektrum.de/news/existenzielle-therapie-sinnsuche-in-schweren-zeiten/2318680",
-   "published": "2026-11-03T13:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-17T13:00:00+00:00"
-  },
-  {
-   "id": "nf894896006",
-   "topic": "politik",
-   "title": "Bundesweite Razzia gegen mutmaßliche Linksextremisten",
-   "text": "Die Polizei hat in mehreren Bundesländern die Wohnungen von mutmaßlichen Linksextremisten durchsucht. Es geht um den Verdacht der Bildung einer kriminellen Vereinigung. Fünf Verdächtige wurden festgenommen.",
-   "link": "https://www.tagesschau.de/inland/razzia-linksextremismus-100.html",
-   "published": "2026-11-03T12:48:39+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T12:48:39+00:00",
-   "img": "https://images.tagesschau.de/image/9ff683de-5360-4f68-bd22-d655aeb23306/AAABoaD8DFk/AAABnSSvrFg/16x9-big/polizei-einsatz-168.jpg?width=1920"
-  },
-  {
-   "id": "nb50d7c3e1c",
-   "topic": "welt",
-   "title": "Wahlen in den USA: Wie geht es nach den Midterms weiter? Vier Szenarien",
-   "text": "Bei den Zwischenwahlen in den USA steht für Trump viel auf dem Spiel: Verlieren seine Republikaner, könnte das Regieren für ihn komplizierter werden. Welche Szenarien sind denkbar? Ein Überblick. Von Jörn Unsöld und Eckart Aretz.",
-   "link": "https://www.tagesschau.de/ausland/amerika/midterms-szenarien-100.html",
-   "published": "2026-11-03T12:24:53+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T12:24:53+00:00",
-   "img": "https://images.tagesschau.de/image/9e4b48cc-a1e7-4651-aa17-04dfaeec83f3/AAABoYKmqUo/AAABnSSvrFg/16x9-big/frau-wahllokal-100.jpg?width=1920"
-  },
-  {
-   "id": "n146dfea7bc",
-   "topic": "welt",
-   "title": "Krypto-Dementi aus Nordkorea: \"Absurde Rhetorik\" der USA",
-   "text": "Nach dem spektakulären Hackerangriff auf die Handelsplattform Binance zeigt sich die Führung in Pjöngjang empört. Washington hatte mit dem Finger in Richtung Nordkorea gewiesen - nicht ohne Hinweis auf frühere Fälle.",
-   "link": "https://www.dw.com/de/krypto-dementi-aus-nordkorea-absurde-rhetorik-der-usa/a-79839615?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-03T12:22:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-07T12:22:00+00:00",
-   "img": "https://static.dw.com/image/77446935_302.jpg"
-  },
-  {
-   "id": "nb5315ec9d7",
-   "topic": "ki",
-   "title": "Anthropic beschleunigt langlaufende KI-Agenten mit neuen \"Message Threads\"",
-   "text": "Anthropic führt Message Threads für die Messages-API ein. Statt bei jedem Turn die gesamte Konversation erneut zu senden, übermitteln Agenten nur noch neue Nachrichten. Bei Anfragen mit 500.000 bis einer Million Token sinkt die Wartezeit bis zum ersten Token um rund 35 Prozent. Der Artikel Anthropic beschleunigt …",
-   "link": "https://the-decoder.de/anthropic-beschleunigt-langlaufende-ki-agenten-mit-neuen-message-threads/",
-   "published": "2026-11-03T12:20:49+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-10T12:20:49+00:00"
-  },
-  {
-   "id": "n74c4896974",
-   "topic": "welt",
-   "title": "Krieg gegen die Ukraine: Russland bombardiert Krankenhaus in Charkiw",
-   "text": "Russland setzt seine Angriffe auf die Ukraine fort: Nach einem Hilfsgüter-Verteilzentrum am Montag wurden heute medizinische Einrichtungen und Energieanlagen bombardiert. Präsident Selenskyj ist zu einem Besuch in Berlin eingetroffen.",
-   "link": "https://www.tagesschau.de/ausland/europa/ukraine-russische-angriffe-118.html",
-   "published": "2026-11-03T12:16:22+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T12:16:22+00:00",
-   "img": "https://images.tagesschau.de/image/61a36373-f805-4c1b-9845-ae5e8bb719ab/AAABoaFIhh0/AAABnSSvrFg/16x9-big/krankenzimmer-charkiw-100.jpg?width=1920"
-  },
-  {
-   "id": "nb2c0651bbb",
-   "topic": "welt",
-   "title": "Spanien: Zweitliga-Fußballer stirbt nach Zusammenprall",
-   "text": "Jesus de Miguel, Stürmer des CD Teneriffa, kollidiert im Ligaspiel mit dem gegnerischen Torhüter, erleidet schwere Kopfverletzungen und verstirbt in der Klinik. Sein Tod erschüttert den spanischen Fußball.",
-   "link": "https://www.dw.com/de/spanien-zweitliga-fußballer-stirbt-nach-zusammenprall/a-79840782?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-03T12:16:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-07T12:16:00+00:00",
-   "img": "https://static.dw.com/image/79840277_302.jpg"
-  },
-  {
-   "id": "n393a6f0ba8",
-   "topic": "wissenschaft",
-   "title": "Sind Männer gesundheitlich schlechter dran als Frauen?",
-   "text": "Männer haben im Schnitt eine deutlich geringere Lebenserwartung als Frauen. Ein neuer Bericht zeigt: Auch Geschlechterrollen und das Wirken von Gesellschaftsnormen spielen bei der Gesundheit von Männern eine Rolle. Von Niels Walker.",
-   "link": "https://www.tagesschau.de/wissen/gesundheit/maenner-gesundheit-102.html",
-   "published": "2026-11-03T10:07:38+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-17T10:07:38+00:00",
-   "img": "https://images.tagesschau.de/image/71ca6187-199a-4547-aad2-bc6a67e42216/AAABoZwCSlw/AAABnSSvrFg/16x9-big/spaziergang-mann-regen-100.jpg?width=1920"
-  },
-  {
-   "id": "n726b98a48f",
-   "topic": "welt",
-   "title": "Midterms: \"Entscheidende Wahl für Entwicklung der US-Demokratie\"",
-   "text": "Unter Trump haben die USA eine autoritäre Phase erreicht, sagt der Historiker Manfred Berg. Ob diese Entwicklung weitergehe, hänge von dieser und der Wahl 2028 ab. Doch selbst bei einer Niederlage werde Trump an seinem Politikstil festhalten.",
-   "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-zustand-demokratie-102.html",
-   "published": "2026-11-03T09:40:40+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T09:40:40+00:00",
-   "img": "https://images.tagesschau.de/image/08dcceb7-adf0-4aae-8686-7da07ddccd35/AAABoaB401w/AAABnSSvrFg/16x9-big/donald-trump-984.jpg?width=1920"
-  },
-  {
-   "id": "n6120b8699e",
-   "topic": "politik",
-   "title": "US-Wahlen: Wie Trumps Kurs die Bundesregierung herausfordert",
-   "text": "Bei den Kongresswahlen entscheidet sich, ob Präsident Trump seine Politik weiterhin weitgehend ungehindert durchziehen kann. Das wird auch von der Bundespolitik aufmerksam beobachtet. Von Nicole Markwald.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/midterms-usa-deutschland-102.html",
-   "published": "2026-11-03T09:22:54+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T09:22:54+00:00",
-   "img": "https://images.tagesschau.de/image/1280d8f3-0d7d-444b-904a-6c9bbd3b8553/AAABnrclt_M/AAABnSSvrFg/16x9-big/donald-trump-friedrich-merz-washington-100.jpg?width=1920"
-  },
-  {
-   "id": "n7b7e92bf33",
-   "topic": "welt",
-   "title": "Ukraine meldet mindestens 26 Tote bei Angriff in Region Saporischschja",
-   "text": "Bei einem russischen Angriff in der Region Saporischschja sind der Ukraine zufolge mindestens 26 Menschen getötet worden. Präsident Selenskyj warf Moskau gezieltes Bombardement vor. Der Staatschef wird heute in Berlin erwartet.",
-   "link": "https://www.tagesschau.de/ausland/ukraine-saporischschja-tote-100.html",
-   "published": "2026-11-03T09:00:13+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T09:00:13+00:00",
-   "img": "https://images.tagesschau.de/image/ac39726d-d3d0-4cc1-abba-095cd2bff56f/AAABoZ_tGwc/AAABnSSvrFg/16x9-big/ukraine-angriff-saporischschja-102.jpg?width=1920"
-  },
-  {
-   "id": "nce8f24e657",
-   "topic": "welt",
-   "title": "Midterms: So läuft der Wahltag in den USA ab",
-   "text": "Wann ist bei den Zwischenwahlen mit verlässlichen Ergebnissen zu rechnen? Wie lange haben die Wahllokale geöffnet - und wann nehmen die neugewählten Abgeordneten ihre Arbeit im Kongress auf? Ein Überblick über den Ablauf der Midterms.",
-   "link": "https://www.tagesschau.de/ausland/amerika/midterms-ablauf-100.html",
-   "published": "2026-11-03T08:06:22+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T08:06:22+00:00",
-   "img": "https://images.tagesschau.de/image/1b208994-0db4-4b3c-bea0-9d308f8f20c6/AAABoYjV8A0/AAABnSSvrFg/16x9-big/waehlerin-wahllokal-106.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "US-Kongresswahlen - Die Zwischen-Wahlen laufen - Demokraten hoffen auf Sieg über Trumps Republikaner bei Midterms",
-     "link": "https://www.deutschlandfunk.de/die-zwischen-wahlen-laufen-demokraten-hoffen-auf-sieg-ueber-trumps-republikaner-bei-midterms-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n125f1b1846",
-   "topic": "politik",
-   "title": "Bilger will sogenannte Handy-Blitzer bundesweit einführen",
-   "text": "Mit sogenannten Handy-Blitzern können Fahrer erwischt werden, die das Mobiltelefon am Steuer nutzen. Das gibt es bislang nur in Rheinland-Pfalz, Bundesverkehrsminister Bilger will die Technik bundesweit einführen.",
-   "link": "https://www.tagesschau.de/inland/bilger-handy-blitzer-100.html",
-   "published": "2026-11-03T07:39:12+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T07:39:12+00:00",
-   "img": "https://images.tagesschau.de/image/d61f38e3-bcf6-4f92-b5ed-c977aadc7306/AAABoaAvie0/AAABnSSvrFg/16x9-big/handy-steuer-116.jpg?width=1920"
-  },
-  {
-   "id": "n7279fec1b2",
-   "topic": "wissenschaft",
-   "title": "Bilden Sie aus diesen vier Formen eine spiegelsymmetrische Figur",
-   "text": "Wie kann aus vier Pentiamanten eine spiegelsymmetrische Figur gebildet werden?",
-   "link": "https://www.spektrum.de/raetsel/wie-entsteht-hier-eine-spiegelsymmetrische-figur/2340887",
-   "published": "2026-11-03T06:42:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-17T06:42:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/2000x857-75.png.8421517.png?f=1280x720"
-  },
-  {
-   "id": "nb2534c1578",
-   "topic": "politik",
-   "title": "US-Kongresswahlen - Demokraten hoffen auf Sieg über Trumps Republikaner bei Midterms",
-   "text": "In den USA finden heute die Zwischenwahlen zum Kongress statt. Die ersten Wahllokale öffnen am späten Vormittag unserer Zeit. Zur Abstimmung stehen sämtliche 435 Sitze im Repräsentantenhaus sowie 35 der insgesamt 100 Sitze im Senat. Die Republikaner haben in beiden Kammern eine hauchdünne Mehrheit.",
-   "link": "https://www.deutschlandfunk.de/demokraten-hoffen-auf-sieg-ueber-trumps-republikaner-bei-midterms-100.html",
-   "published": "2026-11-03T06:40:29+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-05T06:40:29+00:00",
-   "img": "https://bilder.deutschlandfunk.de/46/b3/fa/7f/46b3fa7f-454b-4374-8263-e3e1db96add2/us-kongress-gebaeude-sonnenaufgang-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Was eine Niederlage Trumps bei den Midterms für die EU bedeuten würde",
-     "link": "https://www.tagesschau.de/ausland/europa/us-midterms-europa-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n651d44ca90",
-   "topic": "politik",
-   "title": "USA - Wo sich der Kampf um den US-Senat entscheidet",
-   "text": "Bei den Kongresswahlen in den USA müssen die Demokraten vier Sitze hinzugewinnen, um den Republikanern von Präsident Trump die Mehrheit im Senat abzunehmen. Umfragen zufolge ist der Ausgang ‌unklar. Die wichtigsten Bundesstaaten im ⁠Überblick:",
-   "link": "https://www.deutschlandfunk.de/wo-sich-der-kampf-um-den-us-senat-entscheidet-100.html",
-   "published": "2026-11-03T06:40:29+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-05T06:40:29+00:00",
-   "img": "https://bilder.deutschlandfunk.de/d8/ba/55/78/d8ba5578-e5f3-4808-906a-d5bf9072ed3c/usa-demokratie-100-1920x1920.jpg"
-  },
-  {
-   "id": "n51e8796fef",
-   "topic": "politik",
-   "title": "Midterms - Supreme Court weist Eilantrag von US-Regierung in Streit um kalifornische Briefwahlstimmen zurück",
-   "text": "Kurz vor den Zwischenwahlen in den Vereinigten Staaten hat der Oberste Gerichtshof einen Eilantrag der US-Regierung zur Briefwahl in Kalifornien abgewiesen.",
-   "link": "https://www.deutschlandfunk.de/supreme-court-weist-eilantrag-von-us-regierung-in-streit-um-kalifornische-briefwahlstimmen-zurueck-100.html",
-   "published": "2026-11-03T06:40:29+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-05T06:40:29+00:00",
-   "img": "https://bilder.deutschlandfunk.de/74/1d/b3/40/741db340-2797-420c-be91-83417a9e9e2a/supreme-court-usa-104-1920x1920.jpg"
-  },
-  {
-   "id": "n2d25c783c1",
-   "topic": "politik",
-   "title": "Nahost - USA bestätigen begrenzte Angriffe auf iranische Ziele in der Straße von Hormus",
-   "text": "Die USA haben begrenzte Militärschläge auf die iranische Insel Keschm in der Straße von Hormus bestätigt. Ein US-Regierungsvertreter sagte, es handle sich nicht um die Wiederaufnahme größerer Kampfhandlungen.",
-   "link": "https://www.deutschlandfunk.de/usa-bestaetigen-begrenzte-angriffe-auf-iranische-ziele-in-der-strasse-von-hormus-102.html",
-   "published": "2026-11-03T06:40:29+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-05T06:40:29+00:00",
-   "img": "https://bilder.deutschlandfunk.de/6b/77/a9/49/6b77a949-7fb6-4b17-a4b1-28333ec32108/iran-keschm-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "USA greifen offenbar iranische Ziele in Straße von Hormus an",
-     "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-126.html"
-    }
-   ]
-  },
-  {
-   "id": "nf15e78f341",
-   "topic": "politik",
-   "title": "Nach Testlauf in Rheinland-Pfalz - Bilger für bundesweite Einführung von Handy-Blitzern",
-   "text": "Bundesverkehrsminister Bilger will sich für eine bundesweite Einführung von sogenannten Handy-Blitzern einsetzen.",
-   "link": "https://www.deutschlandfunk.de/bilger-fuer-bundesweite-einfuehrung-von-handy-blitzern-102.html",
-   "published": "2026-11-03T06:40:29+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-05T06:40:29+00:00"
-  },
-  {
-   "id": "n0edf85cdce",
-   "topic": "politik",
-   "title": "Unabhängigkeit von US-Konzernen - Sechs Bundesländer starten Open-Source-Bildungsplattform",
-   "text": "Sechs Bundesländer haben einen Rahmenvertrag für eine digital souveräne Bildungsplattform unterzeichnet.",
-   "link": "https://www.deutschlandfunk.de/sechs-bundeslaender-starten-open-source-bildungsplattform-100.html",
-   "published": "2026-11-03T06:40:29+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-05T06:40:29+00:00",
-   "img": "https://bilder.deutschlandfunk.de/FI/LE/_1/1d/FILE_11d871003f2432bc7add4c5fa40fa4d3/124150742-jpg-102-768x768.jpg"
-  },
-  {
-   "id": "n4800da7ef8",
-   "topic": "it",
-   "title": "Quartalsbericht: Apple mit Rekordquartal aber unausgewogenem Wachstum",
-   "text": "Apple steigert Umsatz und Gewinn deutlich. Der Rekord beruht jedoch vor allem auf dem iPhone, den Services und wenigen starken Märkten. ( Apple , Wirtschaft )",
-   "link": "https://www.golem.de/news/quartalsbericht-apple-mit-rekordquartal-aber-unausgewogenem-wachstum-2611-214774.html",
-   "published": "2026-11-03T06:32:01+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-08T06:32:01+00:00",
-   "img": "https://www.golem.de/2611/214774-606478-606476_rc.jpg"
-  },
-  {
-   "id": "naf3f0b23b4",
-   "topic": "politik",
-   "title": "Niko Ilicevics Rekord-Debüt: Sofort mittendrin",
-   "text": "Durch seine Einwechslung gegen den Hamburger SV ist Eintracht Frankfurts Niko Ilicevic nun der jüngste Bundesligaspieler aller Zeiten. Den Rekord teilt er sich allerdings mit einem Ex-Talent, dessen Story auch eine Warnung vor zu viel Hype ist.",
-   "link": "https://www.hessenschau.de/sport/fussball/eintracht-frankfurt/niko-ilicevics-rekord-debuet-sofort-mittendrin-v1,ilicevic-122.html",
-   "published": "2026-11-03T06:30:34+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-07T06:30:34+00:00",
-   "img": "https://www.hessenschau.de/sport/fussball/eintracht-frankfurt/ilicevic-124~_t-1793618691513_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "n3628221624",
-   "topic": "it",
-   "title": "heise+ | Abliteration erklärt: So lassen sich Schranken in Sprachmodellen durchbrechen",
-   "text": "Wer weiß, wo das „Gewissen“ eines Sprachmodells sitzt, kann es mit mathematischen Operationen lahmlegen. Wir erläutern die Grundlagen.",
-   "link": "https://www.heise.de/hintergrund/Abliteration-erklaert-Wo-KI-ihr-Gewissen-hat-und-wie-man-es-ausradiert-11462982.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-   "published": "2026-11-03T06:30:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-08T06:30:00+00:00"
-  },
-  {
-   "id": "nb70a2c1c80",
-   "topic": "it",
-   "title": "Astragon Development: Trotz Millionenförderung schließt deutsches Entwicklerstudio",
-   "text": "Mehr als 1,8 Millionen Euro Förderung sind für die Schiffssimulation Seafarer bewilligt worden. Kurz nach dem Start stehen die Entwickler vor dem Aus. ( Spiele-Entwicklung , Spieletest )",
-   "link": "https://www.golem.de/news/astragon-development-trotz-millionenfoerderung-schliesst-deutsches-entwicklerstudio-2611-214773.html",
-   "published": "2026-11-03T06:19:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-08T06:19:02+00:00",
-   "img": "https://www.golem.de/2611/214773-606474-606472_rc.jpg"
-  },
-  {
-   "id": "n7b261339a2",
-   "topic": "nfl",
-   "title": "Bears vs. Buccaneers odds: Opening lines for Week 9 matchup",
-   "text": "Check out the early odds for the Buccaneers at the Bears game on November 8 on Sunday Night Football.",
-   "link": "https://sports.yahoo.com/articles/bears-vs-buccaneers-odds-opening-061751526.html",
-   "published": "2026-11-03T06:17:51+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-08T06:17:51+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/8f77ec168cf94af8ab67e35803fca7ce.jpg"
-  },
-  {
-   "id": "nc9d0d3de3b",
-   "topic": "wissenschaft",
-   "title": "Sternengeschichten Spezial Oktober 2026",
-   "text": "Eine Geschichte von einem toten Stern, der grün leuchtet, was Sterne eigentlich gar nicht tun sollten. 🎙️",
-   "link": "https://www.spektrum.de/podcast/sternengeschichten-sternengeschichten-spezial-oktober-2026/2352312",
-   "published": "2026-11-03T06:13:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-17T06:13:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/noirlab2613a.jpg.8366307.jpg?f=1280x720"
-  },
-  {
-   "id": "n13594e8fe9",
-   "topic": "wissenschaft",
-   "title": "Optogenetik",
-   "text": "Was Optogenetik ist und wie der Medizinnobelpreis dafür dem gesamten Innovationsfeld hilft, darüber spricht der Host Thomas Ramge mit Daniel Keppeler. 🎙️",
-   "link": "https://www.spektrum.de/podcast/sprind-optogenetik/2352309",
-   "published": "2026-11-03T06:13:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-17T06:13:00+00:00"
-  },
-  {
-   "id": "nd4cddacb5b",
-   "topic": "it",
-   "title": "heise+ | Wie bleibt Akku im Elektroauto lange leistungsfähig?",
-   "text": "Zellchemie, Zellformat und Ladeverhalten bestimmen, wie schnell ein E-Auto-Akku altert. Ein Überblick über die Batterietypen und was ihnen schadet.",
-   "link": "https://www.heise.de/hintergrund/Wie-bleibt-Akku-im-Elektroauto-lange-leistungsfaehig-11496499.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-   "published": "2026-11-03T06:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-08T06:00:00+00:00"
-  },
-  {
-   "id": "n82639649e7",
-   "topic": "it",
-   "title": "heise+ | SAP Fiori Elements: Was ändert sich für ABAP-Entwickler?",
-   "text": "Mit SAP Fiori Elements entsteht die Benutzeroberfläche metadatengetrieben. Entwickler modellieren Daten, Verhalten und Metadaten.",
-   "link": "https://www.heise.de/ratgeber/SAP-Fiori-Elements-Was-aendert-sich-fuer-ABAP-Entwickler-11498368.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-   "published": "2026-11-03T06:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-08T06:00:00+00:00"
-  },
-  {
-   "id": "n9b2d2f817d",
-   "topic": "nfl",
-   "title": "Luther Burden III gets the scoring started in Seattle",
-   "text": "Luther Burden III had 65 yards on seven receptions, which included a touchdown on Chicago's opening drive on MNF.",
-   "link": "https://sports.yahoo.com/articles/luther-burden-iii-gets-scoring-053700997.html",
-   "published": "2026-11-03T05:37:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-08T05:37:00+00:00"
-  },
-  {
-   "id": "n8d6b1f159d",
-   "topic": "welt",
-   "title": "USA greifen offenbar iranische Ziele in Straße von Hormus an",
-   "text": "Kurz vor den Midterms haben die USA Medienberichten zufolge wieder Iran angegriffen. Dabei soll es sich um einzelne Angriffe auf die Insel Qeschm in der Straße von Hormus handeln. Iran meldet den Abschuss einer US-Drohne.",
-   "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-126.html",
-   "published": "2026-11-03T05:33:48+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T05:33:48+00:00",
-   "img": "https://images.tagesschau.de/image/f8c6e40e-20c3-435f-8a8c-0efe6538b970/AAABl4clT0o/AAABnSSvrFg/16x9-big/hormus-105.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Nahost - USA bestätigen begrenzte Angriffe auf iranische Ziele in der Straße von Hormus",
-     "link": "https://www.deutschlandfunk.de/usa-bestaetigen-begrenzte-angriffe-auf-iranische-ziele-in-der-strasse-von-hormus-102.html"
-    }
-   ]
-  },
-  {
-   "id": "n6f9b9e5568",
-   "topic": "nfl",
-   "title": "NFL Week 8 grades for every team: Bears earn 'A+' for destroying Seahawks, Cowboys get an 'F' for choking",
-   "text": "We're handing out grades for every team that played in Week 8",
-   "link": "https://www.cbssports.com/nfl/news/nfl-week-8-grades-cowboys-get-an-f-steelers-surge-to-a/",
-   "published": "2026-11-03T04:41:03+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-08T04:41:03+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/11/01/7ba87764-0b73-409b-80e9-f3624b851517/schotty.jpg"
-  },
-  {
-   "id": "n0ae5d927b5",
-   "topic": "welt",
-   "title": "US-Vermittler Witkoff kündigt Gespräche mit Russland und Ukraine an",
-   "text": "Die USA, Russland und die Ukraine haben zuletzt im Februar im Dreierformat miteinander gesprochen. Kommende Woche wollen sie wieder zusammenkommen. US-Sondergesandter Witkoff nennt konkrete Ziele.",
-   "link": "https://www.tagesschau.de/ausland/amerika/ukraine-verhandlungen-104.html",
-   "published": "2026-11-03T03:55:28+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T03:55:28+00:00",
-   "img": "https://images.tagesschau.de/image/78c59452-cb21-4d7c-af99-93eb30b49013/AAABoZ_vTEk/AAABnSSvrFg/16x9-big/witkoff-166.jpg?width=1920"
-  },
-  {
-   "id": "nbbd939f10e",
-   "topic": "welt",
-   "title": "Polen: Die Verfassungsgerichtskrise - kein Ende in Sicht",
-   "text": "Vor dem Verfassungsgericht in Polen hat es am Wochenende Tumulte gegeben, der Staatschef brach eine Auslandsreise ab. Zuvor wurden der Gerichtspräsident und sein Stellvertreter suspendiert. Ein Kompromiss ist nicht in Sicht. Von P. Milling.",
-   "link": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-krise-100.html",
-   "published": "2026-11-03T02:25:42+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T02:25:42+00:00",
-   "img": "https://images.tagesschau.de/image/68b15cfe-a327-413c-8de4-27b126062e1a/AAABoZ8Sn_c/AAABnSSvrFg/16x9-big/polen-verfassungsgericht-130.jpg?width=1920"
   }
  ]
 }
