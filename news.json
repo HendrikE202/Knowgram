@@ -1,50 +1,367 @@
 {
- "generated": "2026-11-03T23:24:07.674632+00:00",
+ "generated": "2026-11-04T06:23:46.260436+00:00",
  "briefing": [
+  "na6af393098",
   "naf03c08287",
+  "ncdc8873bc1",
   "nce8f24e657",
-  "n8d6b1f159d",
   "n65764ad137",
-  "n461f0ecb84",
-  "n971261883f",
-  "n5df9c5cf19",
-  "n6e6ad9e4ba"
+  "nf82beda09d",
+  "n63121e0a91",
+  "n461f0ecb84"
  ],
  "ranked": [
   {
+   "id": "na6af393098",
+   "s": 42.9
+  },
+  {
    "id": "naf03c08287",
-   "s": 41.2
+   "s": 39.4
+  },
+  {
+   "id": "ncdc8873bc1",
+   "s": 31.1
   },
   {
    "id": "nce8f24e657",
-   "s": 29.2
-  },
-  {
-   "id": "n8d6b1f159d",
-   "s": 28.5
+   "s": 27.4
   },
   {
    "id": "n65764ad137",
-   "s": 26.9
+   "s": 25.2
+  },
+  {
+   "id": "nf82beda09d",
+   "s": 23.0
+  },
+  {
+   "id": "n63121e0a91",
+   "s": 23.0
   },
   {
    "id": "n461f0ecb84",
-   "s": 22.8
-  },
-  {
-   "id": "n971261883f",
-   "s": 22.8
-  },
-  {
-   "id": "n5df9c5cf19",
-   "s": 22.8
-  },
-  {
-   "id": "n6e6ad9e4ba",
-   "s": 22.4
+   "s": 21.1
   }
  ],
  "items": [
+  {
+   "id": "n5c33996530",
+   "topic": "politik",
+   "title": "Hessen am Morgen: Die Nachrichten im Ticker vom 04.11.2026",
+   "text": "Jetzt live: Was in der Nacht passiert ist, was heute wichtig wird - und alles, was Hessen bewegt. Wir starten mit Ihnen in den Mittwoch.",
+   "link": "https://www.hessenschau.de/hessen-am-morgen/sperrung-auf-der-a5---pkw-landet-auf-dem-dach--hessen-am-morgen-die-nachrichten-im-ticker-vom-04112026,hessen-am-morgen-mittwoch-1080.html",
+   "published": "2026-11-04T06:21:42+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-08T06:21:42+00:00",
+   "img": "https://www.hessenschau.de/kultur/konsti-kunstwerk-abgehaengt-100~_t-1793768433019_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "n7acd0f34cd",
+   "topic": "politik",
+   "title": "Midterms - Republikaner verlieren Mehrheit in Repräsentantenhaus und Senat",
+   "text": "Bei den Zwischenwahlen in den USA haben die Republikaner nach dem Repräsentantenhaus Hochrechnungen zufolge auch die Kontrolle über den Senat verloren. Wie die Nachrichtenagentur AP auf Grundlage von Wählerbefragungen und Stimmauszählungen berichtete, sicherten sich die Demokraten in beiden Kammern jeweils mehr als …",
+   "link": "https://www.deutschlandfunk.de/republikaner-verlieren-mehrheit-in-repraesentantenhaus-und-senat-102.html",
+   "published": "2026-11-04T06:20:35+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T06:20:35+00:00",
+   "img": "https://bilder.deutschlandfunk.de/NO/VA/_0/75/NOVA_075ae14c7d1c4ad25d902de5073eecba/craft-13521613-asset-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "US-Zwischenwahl: Demokraten erobern Mehrheit im Senat",
+     "link": "https://www.tagesschau.de/ausland/amerika/eilmeldung-midterms-usa-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "US-Midterms: Demokraten erobern Mehrheit im Senat",
+     "link": "https://www.dw.com/de/us-midterms-demokraten-erobern-mehrheit-im-senat/a-79848805?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "n9e79eaa421",
+   "topic": "politik",
+   "title": "Newsblog zu den US-\"Midterms\" - Trump will Wahlergebnis akzeptieren",
+   "text": "+++ Die Demokraten nehmen den Republikanern sowohl die Mehrheit im Repräsentantenhaus als auch im Senat ab. +++ Trump will Ergebnis der Zwischenwahlen akzeptieren. +++ Historische Siege feierten die Demokraten unter anderem in Texas und Kansas. +++ Weitere Entwicklungen zu den \"Midterms\" im Newsblog.",
+   "link": "https://www.deutschlandfunk.de/trump-will-wahlergebnis-akzeptieren-100.html",
+   "published": "2026-11-04T06:20:35+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T06:20:35+00:00",
+   "img": "https://bilder.deutschlandfunk.de/9d/54/27/bc/9d5427bc-567f-448f-9fc7-213a9baf60bb/party-sc-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Liveblog zu den Midterms: ++ Trump will Wahlergebnisse anerkennen ++",
+     "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n69a6a42d90",
+   "topic": "politik",
+   "title": "Industrie - Metall-Arbeitgeber gehen von weiterem Job-Abbau aus",
+   "text": "Angesichts der anhaltend schwachen Auftragslage und hoher Produktionskosten ‌rechnet der ⁠Arbeitgeberverband Gesamtmetall einem Zeitungsbericht zufolge mit einer Beschleunigung des Stellenabbaus in der Metall- und Elektroindustrie.",
+   "link": "https://www.deutschlandfunk.de/metall-arbeitgeber-gehen-von-weiterem-job-abbau-aus-100.html",
+   "published": "2026-11-04T06:20:35+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T06:20:35+00:00",
+   "img": "https://bilder.deutschlandfunk.de/75/d9/93/7d/75d9937d-c9ba-4767-bcf2-154ea518273d/metallindustrie-100-1920x1920.jpg"
+  },
+  {
+   "id": "nf82beda09d",
+   "topic": "politik",
+   "title": "Ukraine-Krieg - Drohnenangriff auf Filiale des russischen Internet-Händlers Ozon",
+   "text": "Die ukrainische Armee hat Agenturberichten zufolge in der Nacht erneut eine Filiale eines großen russischen Internethändlers beschossen.",
+   "link": "https://www.deutschlandfunk.de/drohnenangriff-auf-filiale-des-russischen-internet-haendlers-ozon-100.html",
+   "published": "2026-11-04T06:20:35+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T06:20:35+00:00",
+   "img": "https://bilder.deutschlandfunk.de/e1/06/7d/e2/e1067de2-6230-41ae-943b-92085b1ff504/die-nachrichten-kachel-2176-zu1224-100-768x768.jpg"
+  },
+  {
+   "id": "n124ff164e1",
+   "topic": "politik",
+   "title": "Handy-Blitzer - Auch Deutsche Verkehrssicherheitsrat fordert härtere Maßnahmen gegen Handy am Steuer",
+   "text": "Nach Bundesverkehrsminister Bilger hat sich auch der Deutsche Verkehrssicherheitsrat für die bundesweite Einführung von sogenannten Handy-Blitzern auf Autobahnen ausgesprochen.",
+   "link": "https://www.deutschlandfunk.de/auch-deutsche-verkehrssicherheitsrat-fordert-haertere-massnahmen-gegen-handy-am-steuer-100.html",
+   "published": "2026-11-04T06:20:35+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T06:20:35+00:00"
+  },
+  {
+   "id": "n63121e0a91",
+   "topic": "politik",
+   "title": "Wahlversprechen von Lula - Senat in Brasilien beschließt Gesetz zur Bekämpfung der organisierten Kriminalität",
+   "text": "In Brasilien hat der Senat eine weitreichende Reform von Präsident Lula da Silva zur Bekämpfung der organisierten Kriminalität gebilligt.",
+   "link": "https://www.deutschlandfunk.de/senat-in-brasilien-beschliesst-gesetz-zur-bekaempfung-der-organisierten-kriminalitaet-102.html",
+   "published": "2026-11-04T06:20:35+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T06:20:35+00:00",
+   "img": "https://bilder.deutschlandfunk.de/0f/99/7b/53/0f997b53-f9da-4a13-ac91-2d21d20c39e4/lula-siegt-stichwahl-bolsonaro-100-1920x1920.jpg"
+  },
+  {
+   "id": "n99ed5d9f5d",
+   "topic": "it",
+   "title": "Aufholjagd: Umweltminister setzt weiter auf E-Autos",
+   "text": "Umweltminister Carsten Schneider ist überzeugt: E-Autos werden sich am Markt durchsetzen, unabhängig davon, wie die EU beim Verbrenner-Aus entscheide. ( Elektromobilität , Auto )",
+   "link": "https://www.golem.de/news/aufholjagd-umweltminister-setzt-weiter-auf-e-autos-2611-214821.html",
+   "published": "2026-11-04T06:19:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-09T06:19:02+00:00",
+   "img": "https://www.golem.de/2611/214821-606695-606693_rc.jpg"
+  },
+  {
+   "id": "nbb9a2dabc5",
+   "topic": "welt",
+   "title": "Liveblog zu den Midterms: ++ Trump will Wahlergebnisse anerkennen ++",
+   "text": "US-Präsident Trump hat angekündigt, die Wahlergebnisse der Midterms anzuerkennen. In Georgia wurde die erste schwarze Frau als Gouverneurin gewählt. Die Entwicklungen im Liveblog.",
+   "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
+   "published": "2026-11-04T06:13:47+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T06:13:47+00:00",
+   "img": "https://images.tagesschau.de/image/b780b014-d654-44f9-ae2e-ab85a7928960/AAABoSbjyVc/AAABnSSvrFg/16x9-big/trump-5328.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Newsblog zu den US-\"Midterms\" - Trump will Wahlergebnis akzeptieren",
+     "link": "https://www.deutschlandfunk.de/trump-will-wahlergebnis-akzeptieren-100.html"
+    }
+   ]
+  },
+  {
+   "id": "na6af393098",
+   "topic": "welt",
+   "title": "US-Zwischenwahl: Demokraten erobern Mehrheit im Senat",
+   "text": "Bei den Midterms haben sich die Demokraten eine knappe Mehrheit im Senat gesichert. Sie konnten mehrere Bundesstaaten erobern, die lange in der Hand der Republikaner waren.",
+   "link": "https://www.tagesschau.de/ausland/amerika/eilmeldung-midterms-usa-100.html",
+   "published": "2026-11-04T06:10:55+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T06:10:55+00:00",
+   "img": "https://images.tagesschau.de/image/8e6be664-a867-424d-82e0-a1f8ce29c500/AAABoaTfkVw/AAABnSSvrFg/16x9-big/demokraten-124.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Midterms - Republikaner verlieren Mehrheit in Repräsentantenhaus und Senat",
+     "link": "https://www.deutschlandfunk.de/republikaner-verlieren-mehrheit-in-repraesentantenhaus-und-senat-102.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "US-Midterms: Demokraten erobern Mehrheit im Senat",
+     "link": "https://www.dw.com/de/us-midterms-demokraten-erobern-mehrheit-im-senat/a-79848805?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "n70806dcbed",
+   "topic": "it",
+   "title": "Google: Schulen, die KI-Tools deaktivieren, verlieren auch Zugang zur Suche",
+   "text": "Parallel zur Vorstellung neuer KI-Werkzeuge für Schulen hat Google klargestellt, dass Schulen, die sie sperren, auch die Internetsuche nicht nutzen können.",
+   "link": "https://www.heise.de/news/Google-Schulen-die-KI-Tools-deaktivieren-verlieren-auch-Zugang-zur-Suche-11510788.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-04T06:06:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-09T06:06:00+00:00"
+  },
+  {
+   "id": "n0774f0ec68",
+   "topic": "welt",
+   "title": "Die Ergebnisse der Midterms in den USA in Zahlen und Karten",
+   "text": "In den USA läuft die Auszählung nach den Zwischenwahlen auf Hochtouren. Wer liegt im Senat und im Repräsentantenhaus vorn? Wer entschied welche Rennen um die Sitze im Kongress und um die Gouverneursposten für sich? Ergebnisse in Zahlen und Karten.",
+   "link": "https://www.tagesschau.de/ausland/amerika/midterms-ergebnisse-102.html",
+   "published": "2026-11-04T06:05:14+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T06:05:14+00:00",
+   "img": "https://images.tagesschau.de/image/d5028027-8fa5-4d83-b097-22f7f4f596b0/AAABoaHAdu4/AAABnSSvrFg/16x9-big/grafik-midterms-usa-senat-sitze-104.jpg?width=1920"
+  },
+  {
+   "id": "nafec627d31",
+   "topic": "it",
+   "title": "heise+ | Preisbrecher für Straßenfahrer: E-Pickup KGM Musso EV im Test",
+   "text": "Der Elektro-Pickup Musso EV unterbietet selbst Verbrenner-Pickups beim Preis. Allerdings taugt die Pkw-lastige Auslegung nur bedingt im Nutzfahrzeug-Einsatz.",
+   "link": "https://www.heise.de/tests/Preisbrecher-fuer-Strassenfahrer-E-Pickup-KGM-Musso-EV-im-Test-11438885.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+   "published": "2026-11-04T06:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-09T06:00:00+00:00"
+  },
+  {
+   "id": "ne0752e202f",
+   "topic": "it",
+   "title": "Cyberangriffe auf Kühlsysteme: Hersteller in der Kritik",
+   "text": "Vernetzte Technik kann Angriffsflächen bieten. Ein IT-Experte fordert strengere Prüfungen – was sich aus seiner Sicht ändern muss.",
+   "link": "https://www.heise.de/news/Sabotage-an-Kuehlanlagen-Experte-ruegt-Hersteller-11510792.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-04T05:54:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-09T05:54:00+00:00"
+  },
+  {
+   "id": "n54f37c776c",
+   "topic": "wirtschaft",
+   "title": "Airlines streichen Flüge: Verliert Deutschland den Anschluss?",
+   "text": "Fluggesellschaften klagen über zu hohe Steuern und Abgaben in Deutschland. Die Airlines haben zuletzt etliche Verbindungen gestrichen. Verliert die deutsche Luftfahrt den Anschluss? Von Sebastian Schreiber.",
+   "link": "https://www.tagesschau.de/wirtschaft/luftfahrt-lufthansa-wirtschaftsstandort-100.html",
+   "published": "2026-11-04T05:23:01+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T05:23:01+00:00",
+   "img": "https://images.tagesschau.de/image/6067dcc6-1f26-44e0-8831-3708895d4eba/AAABoaCY3rc/AAABnSSvrFg/16x9-big/flugverkehr-126.jpg?width=1920"
+  },
+  {
+   "id": "n3cbe51843c",
+   "topic": "politik",
+   "title": "Karlsruhe prüft Fraktionsausschluss von AfD-Politiker",
+   "text": "Für den AfD-Politiker Jan Wenzel Schmidt hatte die Vetternwirtschaftsdebatte Folgen. Er flog aus der Fraktion, nachdem er die Debatte ins Rollen gebracht hatte. Nun wehrt er sich gerichtlich. Von Anne Stein.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/bundesverfassungsgericht-afd-fraktionsausschluss-100.html",
+   "published": "2026-11-04T05:22:34+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T05:22:34+00:00",
+   "img": "https://images.tagesschau.de/image/1fc76651-f82b-43dc-969f-0854ec5cefb9/AAABnLR6K1g/AAABnSSvrFg/16x9-big/wenzel-schmidt-100.jpg?width=1920"
+  },
+  {
+   "id": "nfbc31808a7",
+   "topic": "nfl",
+   "title": "Buyers, sellers or fence-sitters? All 32 NFL teams slotted before the trade deadline",
+   "text": "We sorted all 32 teams into three categories ahead of the Nov. 10 trade deadline: buyers, sellers and fence-sitters.",
+   "link": "https://sports.yahoo.com/nfl/article/buyers-sellers-or-fence-sitters-all-32-nfl-teams-slotted-before-the-trade-deadline-051811133.html",
+   "published": "2026-11-04T05:18:11+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-09T05:18:11+00:00"
+  },
+  {
+   "id": "n07b7246435",
+   "topic": "nfl",
+   "title": "Jake Ferguson gets good prognosis on ankle injury",
+   "text": "Dallas Cowboys tight end Jake Ferguson suffered an ankle injury in Week 8, but head coach Brian Schottenheimer said the initial feedback was good.",
+   "link": "https://sports.yahoo.com/articles/jake-ferguson-gets-good-prognosis-051557667.html",
+   "published": "2026-11-04T05:15:57+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-09T05:15:57+00:00"
+  },
+  {
+   "id": "n2db3efcebb",
+   "topic": "welt",
+   "title": "US-Midterms: Demokraten erobern Mehrheit im Senat",
+   "text": "Bei den Kongresswahlen in den USA haben die Demokraten die Kontrolle über den Senat zurückgewonnen. Auch im Repräsentantenhaus deutet sich ein Machtwechsel an. Präsident Trump kündigte an, die Ergebnisse anzuerkennen.",
+   "link": "https://www.dw.com/de/us-midterms-demokraten-erobern-mehrheit-im-senat/a-79848805?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-04T05:00:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-08T05:00:00+00:00",
+   "img": "https://static.dw.com/image/79834056_302.jpg",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Midterms - Republikaner verlieren Mehrheit in Repräsentantenhaus und Senat",
+     "link": "https://www.deutschlandfunk.de/republikaner-verlieren-mehrheit-in-repraesentantenhaus-und-senat-102.html"
+    },
+    {
+     "source": "Tagesschau",
+     "title": "US-Zwischenwahl: Demokraten erobern Mehrheit im Senat",
+     "link": "https://www.tagesschau.de/ausland/amerika/eilmeldung-midterms-usa-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n179922abf4",
+   "topic": "wissenschaft",
+   "title": "Diagnosen: Das Profil von Autisten ist heute ein anderes als früher",
+   "text": "Früher war eine Autismusdiagnose eher mit Erkrankungen wie Epilepsie oder Psychosen verbunden. Heute geht die Diagnose zunehmend mit ADHS, Ängsten und Depressionen einher.",
+   "link": "https://www.spektrum.de/news/das-profil-von-menschen-mit-autismus-ist-heute-anders-als-frueher/2352500",
+   "published": "2026-11-04T05:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-18T05:00:00+00:00"
+  },
+  {
+   "id": "n234d1619f6",
+   "topic": "welt",
+   "title": "US-Zwischenwahlen: Demokraten steuern auf Wahlerfolg zu",
+   "text": "Nach Schließung vieler Wahllokale zeichnet sich ein Erfolg für die Demokraten ab. Laut US-Medien ist klar, dass sie vier Senatssitze von den Republikanern erobern. Auch im Rennen um die Mehrheit im Repräsentantenhaus machen sie wichtige Punkte.",
+   "link": "https://www.tagesschau.de/ausland/amerika/midterms-usa-wahl-100.html",
+   "published": "2026-11-04T04:32:37+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T04:32:37+00:00",
+   "img": "https://images.tagesschau.de/image/097ce7bc-116f-412a-afd7-6d282afec0a1/AAABoaSK70w/AAABnSSvrFg/16x9-big/jon-ossoff-georgia-100.jpg?width=1920"
+  },
   {
    "id": "n39fda435fc",
    "topic": "nfl",
@@ -68,6 +385,26 @@
    "type": "Sportmedium",
    "lang": "en",
    "expires": "2026-11-08T23:11:41+00:00"
+  },
+  {
+   "id": "ncdc8873bc1",
+   "topic": "welt",
+   "title": "Liveblog zu den Midterms: ++ US-Justizministerium schickt Wahlbeobachter in alle Bundesstaaten ++",
+   "text": "Das US-Justizministerium schickt zahlreiche Wahlbeobachter in alle Bundesstaaten. Kritiker befürchten eine abschreckende Wirkung durch deren Präsenz. Bei den US-Midterms wird ein spannendes Rennen erwartet. Die Entwicklungen im Liveblog.",
+   "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-102.html",
+   "published": "2026-11-03T22:49:56+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T22:49:56+00:00",
+   "img": "https://images.tagesschau.de/image/7bfe3afd-df5d-4068-8773-bed8cec0c7f3/AAABoaHss2g/AAABnSSvrFg/16x9-big/wahllokal-midterms-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Newsblog zu den US-\"Midterms\" - Trump will Wahlergebnis akzeptieren",
+     "link": "https://www.deutschlandfunk.de/trump-will-wahlergebnis-akzeptieren-100.html"
+    }
+   ]
   },
   {
    "id": "n461f0ecb84",
@@ -1024,19 +1361,6 @@
    "expires": "2026-11-10T12:20:49+00:00"
   },
   {
-   "id": "n0774f0ec68",
-   "topic": "welt",
-   "title": "Die Midterms in Zahlen und Karten",
-   "text": "Senat, Repräsentantenhaus, Bundesstaaten - die Wähler stellen unter anderem US-Präsident Trump ein Zwischenzeugnis aus. Wie ist die Lage für Republikaner und Demokraten? Ein Überblick über Zahlen und Wahlgeografie.",
-   "link": "https://www.tagesschau.de/ausland/amerika/midterms-ergebnisse-102.html",
-   "published": "2026-11-03T12:17:36+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T12:17:36+00:00",
-   "img": "https://images.tagesschau.de/image/d5028027-8fa5-4d83-b097-22f7f4f596b0/AAABoaHAdu4/AAABnSSvrFg/16x9-big/grafik-midterms-usa-senat-sitze-104.jpg?width=1920"
-  },
-  {
    "id": "n74c4896974",
    "topic": "welt",
    "title": "Krieg gegen die Ukraine: Russland bombardiert Krankenhaus in Charkiw",
@@ -1236,8 +1560,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-11-05T06:40:29+00:00",
-   "img": "https://bilder.deutschlandfunk.de/1d/82/03/9f/1d82039f-870a-408a-b301-2bc24e0fa461/monocam-handyblitzer-100-1920x1920.jpg"
+   "expires": "2026-11-05T06:40:29+00:00"
   },
   {
    "id": "n0edf85cdce",
@@ -1436,275 +1759,6 @@
    "lang": "de",
    "expires": "2026-11-06T02:25:42+00:00",
    "img": "https://images.tagesschau.de/image/68b15cfe-a327-413c-8de4-27b126062e1a/AAABoZ8Sn_c/AAABnSSvrFg/16x9-big/polen-verfassungsgericht-130.jpg?width=1920"
-  },
-  {
-   "id": "nc61738dc98",
-   "topic": "nfl",
-   "title": "NFL reinstates James Pearce Jr. after eight-game suspension: Why EDGE returns at critical time for Falcons",
-   "text": "Pearce's insertion into the lineup could be the lift the Falcons need to emerge as the NFC South's top team",
-   "link": "https://www.cbssports.com/nfl/news/nfl-reinstates-james-pearce-jr-after-eight-game-suspension-falcons/",
-   "published": "2026-11-03T01:09:32+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-08T01:09:32+00:00"
-  },
-  {
-   "id": "n81ae389a2d",
-   "topic": "welt",
-   "title": "Zwischenwahlen in den USA: Bleibt das Land regierbar?",
-   "text": "Wegen der enormen Preissteigerungen durch Trumps Zölle und den Iran-Krieg könnten die Republikaner bei den heutigen Midterms abgestraft werden. Die Folge wäre ein politisches Patt. Droht den USA der Stillstand? Von Anne Schneider.",
-   "link": "https://www.tagesschau.de/ausland/amerika/midterms-auftakt-100.html",
-   "published": "2026-11-03T00:44:25+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T00:44:25+00:00",
-   "img": "https://images.tagesschau.de/image/67fc4bbe-88de-4695-8e20-dd8ac15ba289/AAABoaAfGrc/AAABnSSvrFg/16x9-big/capitol-hill-106.jpg?width=1920"
-  },
-  {
-   "id": "ndd5627cbc8",
-   "topic": "politik",
-   "title": "Berlin - Merz spricht sich offenbar für Frau als neue Bundespräsidentin aus - \"Kandidatin der politischen Mitte\"",
-   "text": "Der CDU-Vorsitzende Merz hat sich bei der Nachfolge von Bundespräsident Steinmeier offenbar festgelegt, für die Union auf jeden Fall eine Frau vorzuschlagen. Mehrere Nachrichtenagenturen zitieren Teilnehmer einer Konferenz in der CDU-Parteizentrale: Merz habe dort erklärt, dass es eine Frau werden müsse.",
-   "link": "https://www.deutschlandfunk.de/merz-spricht-sich-offenbar-fuer-frau-als-neue-bundespraesidentin-aus-kandidatin-der-politischen-mitt-100.html",
-   "published": "2026-11-02T21:31:49+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-04T21:31:49+00:00",
-   "img": "https://bilder.deutschlandfunk.de/eb/98/0a/c5/eb980ac5-d1c5-4284-befc-b8558af6f32b/bundeskanzler-merz-cdu-klausurtagung-senkung-stromsteuer-100-1920x1920.jpg"
-  },
-  {
-   "id": "n25f760b7fa",
-   "topic": "politik",
-   "title": "Energie - SPD kritisiert Reiches Entwurf für Preisobergrenze an Tankstellen",
-   "text": "Ein erster Gesetzentwurf aus dem Wirtschaftsministerium zur Begrenzung der Preise an Tankstellen ist bei der SPD auf Kritik gestoßen.",
-   "link": "https://www.deutschlandfunk.de/spd-kritisiert-reiches-entwurf-fuer-preisobergrenze-an-tankstellen-102.html",
-   "published": "2026-11-02T21:31:49+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-04T21:31:49+00:00",
-   "img": "https://bilder.deutschlandfunk.de/2b/d4/c5/23/2bd4c523-2598-42d8-a063-4cd70e2bd2f8/spritpreis-tankstelle-zapfsaeulen-100-1920x1920.jpg"
-  },
-  {
-   "id": "n69095c7de0",
-   "topic": "politik",
-   "title": "Naher Osten - Netanjahu schlägt große Koalitionsregierung für Israel unter seiner Führung vor",
-   "text": "Kurz vor dem Beginn der Beratungen mit dem israelischen Präsidenten Herzog über die Regierungsbildung hat Ministerpräsident Netanjahu einen Vorschlag vorgelegt.",
-   "link": "https://www.deutschlandfunk.de/netanjahu-schlaegt-grosse-koalitionsregierung-fuer-israel-unter-seiner-fuehrung-vor-102.html",
-   "published": "2026-11-02T21:31:49+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-04T21:31:49+00:00",
-   "img": "https://bilder.deutschlandfunk.de/a1/6e/39/85/a16e3985-a4a7-45e2-8419-851ab1901cbf/netanjahu-130-1920x1920.jpg"
-  },
-  {
-   "id": "nac11aa68dc",
-   "topic": "politik",
-   "title": "Vermittler führen Gespräche - Diplomatische Bemühungen um Ende des Iran-Kriegs intensiviert",
-   "text": "Die diplomatischen Bemühungen um ein Ende des Iran-Kriegs haben sich intensiviert.",
-   "link": "https://www.deutschlandfunk.de/diplomatische-bemuehungen-um-ende-des-iran-kriegs-intensiviert-102.html",
-   "published": "2026-11-02T21:31:49+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-04T21:31:49+00:00",
-   "img": "https://bilder.deutschlandfunk.de/df/a2/1b/68/dfa21b68-f1e2-400a-b2a0-8412968065c0/iran-flagge-102-1920x1920.jpg"
-  },
-  {
-   "id": "n17fae843d6",
-   "topic": "politik",
-   "title": "Berlin - Deutschland und Großbritannien stärken militärische Zusammenarbeit",
-   "text": "Deutschland und Großbritannien wollen ihre militärische Zusammenarbeit intensivieren.",
-   "link": "https://www.deutschlandfunk.de/deutschland-und-grossbritannien-staerken-militaerische-zusammenarbeit-100.html",
-   "published": "2026-11-02T21:31:49+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-04T21:31:49+00:00",
-   "img": "https://bilder.deutschlandfunk.de/c3/a4/36/d5/c3a436d5-7c1a-40ba-b8dc-ff283297d56c/pistorius-streeting-100-1920x1920.jpg"
-  },
-  {
-   "id": "nf68477a9d2",
-   "topic": "politik",
-   "title": "Abgeordnetenhaus - Rot-grün-rote Koalitionsverhandlungen sollen bald weitergehen",
-   "text": "In Berlin wollen Linke, Grüne und SPD ihre Koalitionsverhandlungen nach dem heutigen Auftakt zügig fortsetzen. Linke-Fraktionschefin Eralp sprach von sehr guten Beratungen. Dabei sei es insbesondere um den Landeshaushalt gegangen.",
-   "link": "https://www.deutschlandfunk.de/rot-gruen-rote-koalitionsverhandlungen-sollen-bald-weitergehen-102.html",
-   "published": "2026-11-02T21:31:49+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-04T21:31:49+00:00"
-  },
-  {
-   "id": "naa85a46fcd",
-   "topic": "nfl",
-   "title": "Patriots waive safety Elliott Davison, re-sign running back Terrell Jennings to practice squad",
-   "text": "Elliott Davison’s stay on the 53-man roster ended Monday.",
-   "link": "https://sports.yahoo.com/articles/patriots-waive-safety-elliott-davison-213143131.html",
-   "published": "2026-11-02T21:31:43+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-07T21:31:43+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/6a693da65c4207a2fbce02cdea2f5c38.jpg"
-  },
-  {
-   "id": "n8d003f3632",
-   "topic": "nfl",
-   "title": "Bills open as ‘MNF’ road favorites against Vikings in Week 9",
-   "text": "Josh Allen and the Buffalo Bills march west looking to make up for lost time with the Minnesota Vikings in Week 9",
-   "link": "https://sports.yahoo.com/articles/bills-open-mnf-road-favorites-212705632.html",
-   "published": "2026-11-02T21:27:05+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-07T21:27:05+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/0b22cb02adb7295f1adbb61ddc17e57f.jpg"
-  },
-  {
-   "id": "n70b9fe0715",
-   "topic": "politik",
-   "title": "Langer Stau auf A3 nach Unfall am Offenbacher Kreuz",
-   "text": "Nach einem Lkw-Unfall an einer Autobahnbrücke an der A3 am Montagmittag ist es zu kilometerlangen Staus zwischen Hanau und Frankfurt gekommen. Die Sperrung der Hauptstrecke wurde am Abend aufgehoben. Die Verbindung zur A661 blieb gesperrt.",
-   "link": "https://www.hessenschau.de/panorama/langer-stau-auf-a3-nach-unfall-am-offenbacher-kreuz-v4,a3-stau-108.html",
-   "published": "2026-11-02T21:02:48+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T21:02:48+00:00",
-   "img": "https://www.hessenschau.de/panorama/a3-021126-stau-100~_t-1793641581341_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "ne7c5e2f3d9",
-   "topic": "it",
-   "title": "Urheberrechtsverletzungen: New York Times verklagt Brave Software",
-   "text": "Die New York Times und andere US-Blätter verklagen den Entwickler des Webbrowsers Brave wegen Urheberrechtsverletzungen und unerlaubtem KI-Training.",
-   "link": "https://www.heise.de/news/Urheberrechtsverletzungen-New-York-Times-verklagt-Brave-Software-11508651.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-02T20:55:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-07T20:55:00+00:00"
-  },
-  {
-   "id": "nb266df6559",
-   "topic": "nfl",
-   "title": "2026 NFL trade deadline QB rankings: Mac Jones, Kirk Cousins lead 10 best targets",
-   "text": "With the Ravens, Eagles and other teams potentially searching for help, we rank 10 quarterbacks who could be available before the Nov. 10 deadline",
-   "link": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-qb-rankings-mac-jones-kirk-cousins/",
-   "published": "2026-11-02T20:41:46+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-07T20:41:46+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/13/7dc0b44d-31de-493b-97be-d958594c11ab/kirk-cousins-las-vegas-raiders-imagn-images.jpg"
-  },
-  {
-   "id": "n0c02e93f12",
-   "topic": "welt",
-   "title": "Warum es bei diesen Midterms auch auf Alaska ankommen könnte",
-   "text": "Obwohl Alaska traditionell republikanisch wählt, liegt die Demokratin Peltola in Umfragen vorn. Der Ausgang im nördlichsten Bundesstaat könnte die Midterms entscheidend beeinflussen. Den Wahlkampf bestimmen auch hier die hohen Preise. Von Torben Börgers.",
-   "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-alaska-100.html",
-   "published": "2026-11-02T20:15:15+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-05T20:15:15+00:00",
-   "img": "https://images.tagesschau.de/image/12ccc582-6581-4fa7-812d-a35c2646a6aa/AAABoZsAUWw/AAABnSSvrFg/16x9-big/menschen-wahllokal-100.jpg?width=1920"
-  },
-  {
-   "id": "na1a4b065aa",
-   "topic": "nfl",
-   "title": "Jack Campbell injury updates: Lions LB remains in hospital, but 'indications are positive'",
-   "text": "The All-Pro linebacker suffered what appeared to be a serious injury vs. the Vikings",
-   "link": "https://www.cbssports.com/nfl/news/lions-jack-campbell-injury-updates-vikings/",
-   "published": "2026-11-02T20:12:52+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-07T20:12:52+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/11/01/1bd0d920-1cdc-4dd5-9598-7f565bc4deb9/jack.jpg"
-  },
-  {
-   "id": "n0922c2068e",
-   "topic": "welt",
-   "title": "Wie die Menschen in Cherson die Oleschky-Waffenruhe erlebten",
-   "text": "Die Waffenruhe zur Evakuierung von Zivilisten aus dem russisch besetzten Oleschky hat in Cherson am gegenüberliegenden Dnipro-Ufer Freude, aber auch Ängste ausgelöst. Ein DW-Reporter, der aus Cherson stammt, war vor Ort.",
-   "link": "https://www.dw.com/de/wie-die-menschen-in-cherson-die-oleschky-waffenruhe-erlebten/a-79831796?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-02T20:08:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-06T20:08:00+00:00",
-   "img": "https://static.dw.com/image/79824054_302.jpg"
-  },
-  {
-   "id": "n559d7067e2",
-   "topic": "wirtschaft",
-   "title": "Wirtschaft vor acht vom 02.11.2026",
-   "text": "Wirtschaft vor acht vom 02.11.2026",
-   "link": "https://www.tagesschau.de/video/video-1676936.html",
-   "published": "2026-11-02T20:02:11+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-05T20:02:11+00:00",
-   "img": "https://images.tagesschau.de/image/5c139d29-2fe4-483c-b039-ee0e8f0f81db/AAABoZ3apTU/AAABnSSvrFg/16x9-big/sendungsbild-1821284.jpg?width=1920"
-  },
-  {
-   "id": "n14936ca8bd",
-   "topic": "welt",
-   "title": "Abenteurer Bushby kehrt nach 28 Jahren von Weltreise zurück",
-   "text": "50.000 Kilometer in 28 Jahren - hinter dem englischen Abenteurer Karl Bushby liegt eine gewaltige Wanderung. Nun ist er in seine Heimatstadt Hull zurückgekehrt - und wurde von seiner gerührten Mutter empfangen. Von Lisa-Maria Röhling.",
-   "link": "https://www.tagesschau.de/ausland/bushby-lauf-100.html",
-   "published": "2026-11-02T20:00:49+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-05T20:00:49+00:00",
-   "img": "https://images.tagesschau.de/image/688ee8d6-3e55-4916-8f91-46b5893a539a/AAABoZ2xu6Q/AAABnSSvrFg/16x9-big/bushby-102.jpg?width=1920"
-  },
-  {
-   "id": "na02d2420ad",
-   "topic": "wissenschaft",
-   "title": "Versteinerte Zellen: Dinosaurierknochen enthält noch Blutspuren",
-   "text": "Immer wieder finden Fachleute seltsame Strukturen in Dinosaurierknochen. Eine chemische Analyse zeigt nun, dass es sich wahrscheinlich um rote Blutkörperchen handelt.",
-   "link": "https://www.spektrum.de/news/dinosaurierknochen-enthaelt-noch-blut/2352350",
-   "published": "2026-11-02T20:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-16T20:00:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/Sayao-etal_ScientificReports10-2020_fig10.jpg.8421779.jpg?f=1280x720"
-  },
-  {
-   "id": "n7e86074832",
-   "topic": "ki",
-   "title": "Goldman Sachs schränkt KI-Coding-Tools für Trader und Banker wieder ein",
-   "text": "Goldman Sachs schränkt den Zugang zu KI-Coding-Tools wie Claude Code und GitHub Copilot ein: Nur noch Ingenieure dürfen sie nutzen, Trader und Banker sind ausgesperrt. Noch im Juli hatte CIO Marco Argenti das \"Vibe Coding\" durch Nicht-Techniker öffentlich gelobt, jetzt verweist die Bank auf \"Produktivität und …",
-   "link": "https://the-decoder.de/goldman-sachs-schraenkt-ki-coding-tools-fuer-trader-und-banker-wieder-ein/",
-   "published": "2026-11-02T19:57:03+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-09T19:57:03+00:00"
-  },
-  {
-   "id": "ndebdd06ed0",
-   "topic": "it",
-   "title": "„Automatisierung und KI“: SUSE streicht jede zehnte Stelle",
-   "text": "Linux-Spezialist SUSE wird massiv Stellen abbauen. Automatisierung und KI machten die „schmerzhafte Entscheidung“ notwendig, erklärt der CEO den Beschäftigten.",
-   "link": "https://www.heise.de/news/Automatisierung-und-KI-SUSE-streicht-jede-zehnte-Stelle-11508641.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-02T19:45:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-07T19:45:00+00:00"
   }
  ]
 }
