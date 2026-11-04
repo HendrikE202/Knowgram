@@ -1,67 +1,463 @@
 {
- "generated": "2026-11-04T17:15:25.920589+00:00",
+ "generated": "2026-11-04T23:40:02.059621+00:00",
  "briefing": [
   "nb63285c8ca",
   "na6af393098",
-  "n83d6b231bc",
+  "n9f66f471eb",
   "n234d1619f6",
-  "nd516e3703f",
-  "n6232993577",
-  "nfe0f7d352e",
-  "n03b2231439",
-  "n9e79eaa421"
+  "nafea15b940",
+  "na8403d500f",
+  "nd199286462",
+  "nad40f3f911"
  ],
  "ranked": [
   {
    "id": "nb63285c8ca",
-   "s": 42.2
+   "s": 40.6
   },
   {
    "id": "na6af393098",
-   "s": 40.2
+   "s": 38.6
   },
   {
-   "id": "n83d6b231bc",
-   "s": 32.3
+   "id": "n9f66f471eb",
+   "s": 33.0
   },
   {
    "id": "n234d1619f6",
-   "s": 29.8
+   "s": 28.2
   },
   {
-   "id": "nd516e3703f",
-   "s": 22.9
+   "id": "nafea15b940",
+   "s": 27.0
   },
   {
-   "id": "n6232993577",
-   "s": 22.9
+   "id": "na8403d500f",
+   "s": 23.0
   },
   {
-   "id": "nfe0f7d352e",
-   "s": 22.9
+   "id": "nd199286462",
+   "s": 23.0
   },
   {
-   "id": "n03b2231439",
-   "s": 22.7
-  },
-  {
-   "id": "n9e79eaa421",
-   "s": 20.3
+   "id": "nad40f3f911",
+   "s": 23.0
   }
  ],
  "items": [
   {
-   "id": "nbb9a2dabc5",
-   "topic": "welt",
-   "title": "Liveblog zu den Midterms: ++ Vance sieht Iran-Krieg als Grund für Wahlschlappe ++",
-   "text": "US-Vizepräsident Vance führt die Niederlagen der Republikaner auf den Iran-Krieg zurück. Laut Medienberichten will der derzeitige Sprecher des Repräsentantenhauses, Johnson, nicht erneut als Fraktionschef der Republikaner kandidieren.",
-   "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
-   "published": "2026-11-04T17:05:44+00:00",
+   "id": "n9f66f471eb",
+   "topic": "politik",
+   "title": "Bayerns Wirtschaftsminister Hubert Aiwanger ist tot",
+   "text": "Bayerns Wirtschaftsminister und Vize-Ministerpräsident Hubert Aiwanger ist tot, wie das ARD-Hauptstadtstudio aus Regierungskreisen erfuhr. Der Freie-Wähler-Chef starb demnach im Alter von 55 Jahren in einem Berliner Hotel.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/hubert-aiwanger-tot-100.html",
+   "published": "2026-11-04T23:35:58+00:00",
    "source": "Tagesschau",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-11-07T17:05:44+00:00",
-   "img": "https://images.tagesschau.de/image/7383e65d-830d-44c4-914c-05a03a701938/AAABoaeCyWU/AAABnSSvrFg/16x9-big/jd-vance-134.jpg?width=1920"
+   "expires": "2026-11-07T23:35:58+00:00",
+   "img": "https://images.tagesschau.de/image/330f6630-9913-4ebc-a661-85f4840220a5/AAABoahdBeA/AAABnSSvrFg/16x9-big/hubert-aiwanger-202.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Bayern - Freie-Wähler-Chef Hubert Aiwanger im Alter von 55 Jahren gestorben",
+     "link": "https://www.deutschlandfunk.de/freie-waehler-chef-hubert-aiwanger-im-alter-von-55-jahren-gestorben-108.html"
+    }
+   ]
+  },
+  {
+   "id": "nce399c2ee6",
+   "topic": "politik",
+   "title": "Bayern - Freie-Wähler-Chef Hubert Aiwanger im Alter von 55 Jahren gestorben",
+   "text": "Der bayerische Wirtschaftsminister und Bundesvorsitzende der Freien Wähler, Hubert Aiwanger, ist tot. Nach Angaben der Berliner Staatsanwaltschaft wurde er in einem Hotel in der Hauptstadt tot aufgefunden. Aiwanger wurde 55 Jahre alt.",
+   "link": "https://www.deutschlandfunk.de/freie-waehler-chef-hubert-aiwanger-im-alter-von-55-jahren-gestorben-108.html",
+   "published": "2026-11-04T23:32:43+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T23:32:43+00:00",
+   "img": "https://bilder.deutschlandfunk.de/7f/88/8d/56/7f888d56-d05f-4b67-8264-bb1cdf5fa2d7/hubert-aiwanger-120-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Bayerns Wirtschaftsminister Hubert Aiwanger ist tot",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/hubert-aiwanger-tot-100.html"
+    }
+   ]
+  },
+  {
+   "id": "na77f056d68",
+   "topic": "politik",
+   "title": "Nach den \"Midterms\" - Präsident Trump und Vize Vance nach Republikaner-Niederlage bei US-Kongresswahlen uneins über Fortführung des Iran-Kriegs",
+   "text": "Nach der Niederlage der Republikaner bei den US-Kongresswahlen zeichnet sich Uneinigkeit zwischen Präsident Trump und seinem Stellvertreter Vance bezüglich einer Fortführung des Iran-Kriegs ab.",
+   "link": "https://www.deutschlandfunk.de/praesident-trump-und-vize-vance-nach-republikaner-niederlage-bei-us-kongresswahlen-uneins-ueber-fort-106.html",
+   "published": "2026-11-04T23:32:43+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T23:32:43+00:00",
+   "img": "https://bilder.deutschlandfunk.de/6b/90/84/a3/6b9084a3-e0c1-44b3-a5c9-e16bc4868288/jd-vance-us-vizepraesident-100-1280x1280.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Liveblog zu den Midterms: ++ Trump verteidigt Iran-Krieg ++",
+     "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html"
+    }
+   ]
+  },
+  {
+   "id": "na8403d500f",
+   "topic": "politik",
+   "title": "Nach den \"Midterms\" - Ukrainischer Präsident Selenskyj und EU-Außenbeauftragte Kallas erhoffen sich nach US-Kongresswahl mehr amerikanischen Druck auf Russland",
+   "text": "Der ukrainische Präsident Selenskyj erhofft sich durch den Sieg der US-Demokraten bei der Kongresswahl mehr amerikanische Unterstützung für sein Land im Krieg gegen den Aggressor Russland.",
+   "link": "https://www.deutschlandfunk.de/ukrainischer-praesident-selenskyj-und-eu-aussenbeauftragte-kallas-erhoffen-sich-nach-us-kongresswahl-102.html",
+   "published": "2026-11-04T23:32:43+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T23:32:43+00:00",
+   "img": "https://bilder.deutschlandfunk.de/b7/5f/13/7d/b75f137d-a51a-4f9f-8ceb-d0f017ef2a2a/eu-aussenbeauftragte-kaja-kallas-kommission-gipfel-100-1920x1920.jpg"
+  },
+  {
+   "id": "nd199286462",
+   "topic": "politik",
+   "title": "Nach der Parlamentswahl - Israelisch-arabische Partei Raam stellt sich hinter Eisenkot als Regierungschef",
+   "text": "Nach der Parlamentswahl in Israel hat sich eine der beiden großen arabischen Parteien hinter Oppositionsführer Eisenkot gestellt.",
+   "link": "https://www.deutschlandfunk.de/israelisch-arabische-partei-raam-stellt-sich-hinter-eisenkot-als-regierungschef-102.html",
+   "published": "2026-11-04T23:32:43+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T23:32:43+00:00",
+   "img": "https://bilder.deutschlandfunk.de/43/de/4b/36/43de4b36-150c-4f3f-aa7e-89e137dbd68c/israel-partei-raam-wahl-parlamentswahl-parteivorsitzender-vorsitzender-jerusalem-100-1920x1920.jpg"
+  },
+  {
+   "id": "nad40f3f911",
+   "topic": "politik",
+   "title": "Bundespräsidentenwahl - Unterstützung in der CDU für Aigner wächst",
+   "text": "In der CDU wächst die Unterstützung für eine Kandidatur der bayerischen Landtagspräsidentin Aigner als Bundespräsidentin.",
+   "link": "https://www.deutschlandfunk.de/unterstuetzung-in-der-cdu-fuer-aigner-waechst-104.html",
+   "published": "2026-11-04T23:32:43+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T23:32:43+00:00",
+   "img": "https://bilder.deutschlandfunk.de/4d/60/d9/f2/4d60d9f2-7a74-4d6f-aa5d-d5a53a483e5a/571774613-100-1920x1920.jpg"
+  },
+  {
+   "id": "na3c2f10859",
+   "topic": "politik",
+   "title": "Verdacht auf Körperverletzung - Nadeln in weiteren Süßigkeiten entdeckt",
+   "text": "In mehreren deutschen Regionen sind weitere Fälle von Halloween-Süßigkeiten bekannt geworden, die mit Metallteilen präpariert wurden.",
+   "link": "https://www.deutschlandfunk.de/nadeln-in-weiteren-suessigkeiten-entdeckt-110.html",
+   "published": "2026-11-04T23:32:43+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-06T23:32:43+00:00",
+   "img": "https://bilder.deutschlandfunk.de/89/c8/be/87/89c8be87-d971-468d-ac7d-bba5b89bf220/halloween-suessigkeiten-suesses-oder-saures-kinder-brauch-100-1920x1920.jpg"
+  },
+  {
+   "id": "n626a131060",
+   "topic": "nfl",
+   "title": "Predicting the full 14-team NFL playoff bracket entering Week 9: Bears make Super Bowl run",
+   "text": "Are the Bears the best team in the NFC? Our latest playoff projection answers that question",
+   "link": "https://www.cbssports.com/nfl/news/predicting-the-full-14-team-nfl-playoff-bracket-week-9-bears/",
+   "published": "2026-11-04T23:31:23+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-09T23:31:23+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/11/04/b7fe991c-804c-4252-a2e3-71af5d9d3685/caleb-williams-bears.jpg"
+  },
+  {
+   "id": "n2acd93a9c6",
+   "topic": "nfl",
+   "title": "Jacoby Brissett trade gives Zay Flowers and the Ravens’ offense a fantasy lifeline",
+   "text": "Jacoby Brissett looks ready to save the day for fantasy football managers after reportedly being dealt to the Ravens.",
+   "link": "https://sports.yahoo.com/fantasy/article/jacoby-brissett-trade-gives-zay-flowers-and-the-ravens-offense-a-fantasy-lifeline-233113075.html",
+   "published": "2026-11-04T23:31:13+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-09T23:31:13+00:00"
+  },
+  {
+   "id": "n0c60d3e648",
+   "topic": "nfl",
+   "title": "Packers RB Josh Jacobs describes latest abuse allegations as an 'attack,' not worried about suspension from league",
+   "text": "At least three other women have accused Josh Jacobs of abuse after his arrest in May.",
+   "link": "https://sports.yahoo.com/nfl/article/packers-rb-josh-jacobs-describes-latest-abuse-allegations-as-an-attack-not-worried-about-suspension-from-league-232954880.html",
+   "published": "2026-11-04T23:29:54+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-09T23:29:54+00:00"
+  },
+  {
+   "id": "n2e976028bb",
+   "topic": "it",
+   "title": "Sven Knapp: Breko warnt vor Schein-Verhandlungen beim Open Access",
+   "text": "Der Bundestag debattiert über die Novelle des Telekommunikationsgesetzes - doch aus Sicht der alternativen Netzbetreiber steuert das Gesetz gegen die eigenen Ziele, so der Breko. ( Breko , Open Access )",
+   "link": "https://www.golem.de/news/sven-knapp-breko-warnt-vor-schein-verhandlungen-beim-open-access-2611-214872.html",
+   "published": "2026-11-04T23:15:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-09T23:15:02+00:00",
+   "img": "https://www.golem.de/2611/214872-606925-606923_rc.jpg"
+  },
+  {
+   "id": "nffb835e5e2",
+   "topic": "it",
+   "title": "Tim Höttges: Telekom-Chef wirbt bei Bundesregierung für T-Mobile US-Fusion",
+   "text": "Während das vorläufige Aus für die Fusion zwischen der Deutschen Telekom und T-Mobile US vermeldet wurde, treibt Höttges das Projekt laut Insidern mit Nachdruck voran. ( Timotheus Höttges , Telekom )",
+   "link": "https://www.golem.de/news/tim-hoettges-telekom-chef-wirbt-bei-bundesregierung-fuer-t-mobile-us-fusion-2611-214871.html",
+   "published": "2026-11-04T22:23:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-09T22:23:02+00:00",
+   "img": "https://www.golem.de/2611/214871-606921-606919_rc.jpg"
+  },
+  {
+   "id": "nbb9a2dabc5",
+   "topic": "welt",
+   "title": "Liveblog zu den Midterms: ++ Trump verteidigt Iran-Krieg ++",
+   "text": "US-Präsident Trump hat trotz des Wahldebakels betont, am Kurs im Iran-Krieg festhalten zu wollen. Außenminister Wadephul erwartet weiterhin eine konstruktive Zusammenarbeit mit der US-Regierung.",
+   "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
+   "published": "2026-11-04T22:08:00+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T22:08:00+00:00",
+   "img": "https://images.tagesschau.de/image/74e6c976-51e1-4bc8-b302-43b9965bad5e/AAABoagNzso/AAABnSSvrFg/16x9-big/trump-5418.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Nach den \"Midterms\" - Präsident Trump und Vize Vance nach Republikaner-Niederlage bei US-Kongresswahlen uneins über Fortführung des Iran-Kriegs",
+     "link": "https://www.deutschlandfunk.de/praesident-trump-und-vize-vance-nach-republikaner-niederlage-bei-us-kongresswahlen-uneins-ueber-fort-106.html"
+    }
+   ]
+  },
+  {
+   "id": "n74952a2abe",
+   "topic": "nfl",
+   "title": "Matthew Stafford's wife calls out NFL over apparent scheduling disadvantage given to Rams",
+   "text": "Los Angeles will play in the NFL's first-ever Thanksgiving Eve game, which doesn't give the Rams a true bye week",
+   "link": "https://www.cbssports.com/nfl/news/matthew-staffords-wife-calls-out-nfl-rams-thanksgiving-eve/",
+   "published": "2026-11-04T21:27:54+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-09T21:27:54+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/11/04/ed6563ee-bd73-4033-8f89-b9d7bd6c43dc/stafford-rams.jpg"
+  },
+  {
+   "id": "n32c752da3e",
+   "topic": "welt",
+   "title": "Liveblog zu den Midterms: ++ Vance sieht Iran-Krieg als Grund für Wahlschlappe ++",
+   "text": "US-Vizepräsident Vance führt die Niederlagen der Republikaner auf den Iran-Krieg zurück. Laut Medienberichten will der derzeitige Sprecher des Repräsentantenhauses, Johnson, nicht erneut als Fraktionschef der Republikaner kandidieren.",
+   "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-106.html",
+   "published": "2026-11-04T21:26:33+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T21:26:33+00:00",
+   "img": "https://images.tagesschau.de/image/7383e65d-830d-44c4-914c-05a03a701938/AAABoaeCyWU/AAABnSSvrFg/16x9-big/jd-vance-134.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Nach den \"Midterms\" - Präsident Trump und Vize Vance nach Republikaner-Niederlage bei US-Kongresswahlen uneins über Fortführung des Iran-Kriegs",
+     "link": "https://www.deutschlandfunk.de/praesident-trump-und-vize-vance-nach-republikaner-niederlage-bei-us-kongresswahlen-uneins-ueber-fort-106.html"
+    }
+   ]
+  },
+  {
+   "id": "n200203a4fa",
+   "topic": "it",
+   "title": "Canva: Umstrukturierung und Stellenabbau",
+   "text": "Angesichts „neuer Technologien“ und langsameren Wachstums plant das Softwareunternehmen Canva eine umfassende Umstrukturierung mit schlankeren Strukturen.",
+   "link": "https://www.heise.de/news/Canva-Umstrukturierung-und-Stellenabbau-11512750.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-04T21:25:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-09T21:25:00+00:00"
+  },
+  {
+   "id": "n581221f0b2",
+   "topic": "welt",
+   "title": "Vance zu den Midterms: \"Der Grund für unsere Niederlage ist der Krieg\"",
+   "text": "Nach der Wahlschlappe der Republikaner geht in der Partei die Spurensuche los, warum sie solche herben Verluste gegen die Demokraten einstecken musste. Für Vizepräsident Vance ist klar: Der Iran-Krieg ist schuld. Von K. Fuß.",
+   "link": "https://www.tagesschau.de/ausland/amerika/midterms-vance-irankrieg-100.html",
+   "published": "2026-11-04T21:15:24+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T21:15:24+00:00",
+   "img": "https://images.tagesschau.de/image/dd13161f-e5e5-44f2-b730-449bb56102a0/AAABoI7eowY/AAABnSSvrFg/16x9-big/vance-184.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Nach den \"Midterms\" - Präsident Trump und Vize Vance nach Republikaner-Niederlage bei US-Kongresswahlen uneins über Fortführung des Iran-Kriegs",
+     "link": "https://www.deutschlandfunk.de/praesident-trump-und-vize-vance-nach-republikaner-niederlage-bei-us-kongresswahlen-uneins-ueber-fort-106.html"
+    }
+   ]
+  },
+  {
+   "id": "neafd9edf8f",
+   "topic": "politik",
+   "title": "Ryanair will Flüge von Kassel Airport anbieten - zwei Ziele im Süden",
+   "text": "Ab März 2027 soll es von Kassel aus wieder Flüge in den Süden geben: Wie die irische Billigfluglinie Ryanair und der Flughafen mitteilten, sind zwei wöchentliche Verbindungen nach Spanien und Italien geplant.",
+   "link": "https://www.hessenschau.de/wirtschaft/ryanair-will-fluege-von-kassel-airport-anbieten---zwei-ziele-im-sueden-v3,ryanair-kassel-100.html",
+   "published": "2026-11-04T20:49:31+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-08T20:49:31+00:00",
+   "img": "https://www.hessenschau.de/wirtschaft/ryanair-160~_t-1536656803484_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "n28fe815e96",
+   "topic": "it",
+   "title": "Digital Health: Wie gut sind Gesundheitsämter auf Pandemien vorbereitet?",
+   "text": "Trotz Millionenförderung bleibt in Gesundheitsämtern der digitale Flickenteppich. Im Digital-Health-Podcast geht es um die Frage, was für kommende Krisen fehlt.",
+   "link": "https://www.heise.de/news/Digital-Health-Wie-gut-sind-Gesundheitsaemter-auf-Pandemien-vorbereitet-11512713.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-04T20:32:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-09T20:32:00+00:00"
+  },
+  {
+   "id": "nbf07732d5f",
+   "topic": "politik",
+   "title": "Gen-Z-Protest: Bundestag debattiert über Konsequenzen nach Krawallen",
+   "text": "Die Krawalle vom Wochenende haben den Bundestag erreicht. In einer Aktuellen Stunde herrschte weitgehend Einigkeit in der Verurteilung der Gewalt - über ihre Ursachen und die angemessene Wortwahl gingen die Meinungen auseinander. Von F. Aischmann.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/gen-z-aktuelle-stunde-100.html",
+   "published": "2026-11-04T20:24:21+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T20:24:21+00:00",
+   "img": "https://images.tagesschau.de/image/ec43f7a5-fa42-4386-a1a0-938af32f30ce/AAABoagAR6s/AAABnSSvrFg/16x9-big/dobrindt-bundestag-102.jpg?width=1920"
+  },
+  {
+   "id": "n6a86911557",
+   "topic": "it",
+   "title": "Chipfertigung: EU investiert Hunderte Millionen in Chipdesign-Plattform",
+   "text": "Mit Investitionen in Höhe von 525 Millionen Euro fördert die EU eine neue Generation europäischer Chipdesign-Unternehmen. Europa will unabhängiger werden.",
+   "link": "https://www.heise.de/news/Europaeische-Chipdesign-Plattform-EU-investiert-Hunderte-Millionen-11512717.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-04T20:13:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-09T20:13:00+00:00"
+  },
+  {
+   "id": "n53eff4b95e",
+   "topic": "ki",
+   "title": "ChatGPT kann jetzt animierte GIFs erstellen - OpenAI rollt neue Bildfunktion aus",
+   "text": "OpenAI spendiert ChatGPT eine GIF-Funktion: Mit dem neuen Images-2.6-Modell lassen sich animierte GIFs per Textprompt oder Foto erstellen und anschließend in Geschwindigkeit und Einzelframes anpassen. Nutzer generieren inzwischen laut OpenAI mehr als vier Milliarden Bilder pro Woche. Der Artikel ChatGPT kann jetzt …",
+   "link": "https://the-decoder.de/chatgpt-kann-jetzt-animierte-gifs-erstellen-openai-rollt-neue-bildfunktion-aus/",
+   "published": "2026-11-04T19:30:20+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-11T19:30:20+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/11/openai_gif_cat.png"
+  },
+  {
+   "id": "n33c0d6e8c9",
+   "topic": "wissenschaft",
+   "title": "Außerirdischer Vulkanismus: Hat der Mars aktive Vulkane?",
+   "text": "Im Bereich des Marsvulkans Alba Mons fanden sich in Daten der europäischen Raumsonde Trace Gas Orbiter Spalten in der Oberfläche, aus denen offenbar Salzsäure als Gas austritt.",
+   "link": "https://www.spektrum.de/news/hinweise-auf-aktiven-vulkanismus-auf-dem-mars-gefunden/2352453",
+   "published": "2026-11-04T19:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-18T19:00:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/Alba_Mons_MOLA_zoom_64.jpg.8421903.jpg?f=1280x720"
+  },
+  {
+   "id": "n53232ac30e",
+   "topic": "wirtschaft",
+   "title": "Wirtschaft vor acht vom 04.11.2026",
+   "text": "Wirtschaft vor acht vom 04.11.2026",
+   "link": "https://www.tagesschau.de/video/video-1678250.html",
+   "published": "2026-11-04T18:58:13+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T18:58:13+00:00",
+   "img": "https://images.tagesschau.de/image/51a846e1-aa3b-4569-b9be-c32783748ef9/AAABoafs9ho/AAABnSSvrFg/16x9-big/sendungsbild-1822456.jpg?width=1920"
+  },
+  {
+   "id": "n026dd2c1ab",
+   "topic": "ki",
+   "title": "Anthropic-API-Nutzer können Wasserzeichen bei älteren Claude-Modellen leicht umgehen",
+   "text": "Anthropic weitet sein Text-Wasserzeichen auf vier weitere Claude-Modelle aus, getrieben von der Dezember-Deadline des EU-AI-Acts. Bei älteren Modellen vor der 4.7-Serie genügt allerdings eine kleine Änderung der Sampling-Parameter, um die Markierung zu umgehen. Der Artikel Anthropic-API-Nutzer können Wasserzeichen bei …",
+   "link": "https://the-decoder.de/anthropic-api-nutzer-koennen-wasserzeichen-bei-aelteren-claude-modellen-leicht-umgehen/",
+   "published": "2026-11-04T18:56:55+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-11T18:56:55+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/08/Claude-Watermark.png"
+  },
+  {
+   "id": "n65c88cbf9d",
+   "topic": "ki",
+   "title": "OpenAI übernimmt Entwickler-Tool-Firma Pierre für bessere KI-Coding-Werkzeuge",
+   "text": "OpenAI übernimmt das Entwickler-Toolunternehmen Pierre Computer Company, dessen Bibliotheken \"Trees\" und \"Diffs\" bereits im Coding-Agenten Codex zum Einsatz kommen. Zusammen mit dem kürzlich vorgestellten Git-Backend Pando baut OpenAI damit seine Infrastruktur für die Zusammenarbeit zwischen Entwicklern und KI-Agenten …",
+   "link": "https://the-decoder.de/openai-uebernimmt-entwickler-tool-firma-pierre-fuer-bessere-ki-coding-werkzeuge/",
+   "published": "2026-11-04T18:41:03+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-11T18:41:03+00:00"
+  },
+  {
+   "id": "n0774f0ec68",
+   "topic": "welt",
+   "title": "Die Ergebnisse der Midterms in den USA in Zahlen und Karten",
+   "text": "In den USA läuft die Auszählung nach den Zwischenwahlen. Wer liegt im Senat und im Repräsentantenhaus vorn? Wer entschied welche Rennen um diese Sitze und um die Gouverneursposten für sich? Ergebnisse in Zahlen und Karten.",
+   "link": "https://www.tagesschau.de/ausland/amerika/midterms-ergebnisse-102.html",
+   "published": "2026-11-04T18:10:21+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T18:10:21+00:00",
+   "img": "https://images.tagesschau.de/image/754a03c8-b76b-4d28-b22a-497747d636c4/AAABoac3Lxc/AAABnSSvrFg/16x9-big/midterms-senat-geographisch-100.jpg?width=1920"
+  },
+  {
+   "id": "n1fae516a6c",
+   "topic": "welt",
+   "title": "Deutsche Reaktionen auf Midterms: Gratulation und gedämpfte Erwartungen",
+   "text": "Deutsche Politiker haben die Niederlage der Republikaner bei den US-Midterms begrüßt, dämpfen aber die Erwartung an eine andere Außenpolitik von Präsident Trump. Eine SPD-Politikerin warnt vor einer \"wütenden Ente\" im Weißen Haus.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-deutschland-midterms-100.html",
+   "published": "2026-11-04T18:00:44+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T18:00:44+00:00",
+   "img": "https://images.tagesschau.de/image/c2330fb9-9436-4572-b9b8-7038cbf2338d/AAABoafHWvQ/AAABnSSvrFg/16x9-big/trump-merz-124.jpg?width=1920"
+  },
+  {
+   "id": "n832ed641a0",
+   "topic": "wirtschaft",
+   "title": "Marktbericht: DAX-Anleger in Kauflaune",
+   "text": "Der DAX steigt zeitweise auf den höchsten Stand seit zwei Monaten. Neben positiven Unternehmenszahlen sorgt auch die Hoffnung auf mehr politische Berechenbarkeit in den USA für Rückenwind.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-118.html",
+   "published": "2026-11-04T17:31:22+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T17:31:22+00:00",
+   "img": "https://images.tagesschau.de/image/3270f35e-94f0-4240-aca1-d48eeae66ca3/AAABmjPoS5c/AAABnSSvrFg/16x9-big/dax-185.jpg?width=1920"
   },
   {
    "id": "nd23df4e805",
@@ -138,14 +534,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-07T16:49:39+00:00",
-   "img": "https://images.tagesschau.de/image/178f7497-ff7d-459a-80a4-f5f5342042d4/AAABoaZgpiU/AAABnSSvrFg/16x9-big/hakeem-jeffries-104.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "US-Kongresswahlen - Die Zwischen-Wahlen laufen - Demokraten hoffen auf Sieg über Trumps Republikaner bei Midterms",
-     "link": "https://www.deutschlandfunk.de/die-zwischen-wahlen-laufen-demokraten-hoffen-auf-sieg-ueber-trumps-republikaner-bei-midterms-100.html"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/178f7497-ff7d-459a-80a4-f5f5342042d4/AAABoaZgpiU/AAABnSSvrFg/16x9-big/hakeem-jeffries-104.jpg?width=1920"
   },
   {
    "id": "nd516e3703f",
@@ -269,14 +658,7 @@
    "type": "Fachmedium (IT)",
    "lang": "de",
    "expires": "2026-11-09T16:44:01+00:00",
-   "img": "https://www.golem.de/2611/214863-606881-606879_rc.jpg",
-   "also": [
-    {
-     "source": "THE DECODER",
-     "title": "Schnelle KI-Entwicklung: Fast die Hälfte aktueller LLM-Befunde ist bereits veraltet",
-     "link": "https://the-decoder.de/schnelle-ki-entwicklung-fast-die-haelfte-aktueller-llm-befunde-ist-bereits-veraltet/"
-    }
-   ]
+   "img": "https://www.golem.de/2611/214863-606881-606879_rc.jpg"
   },
   {
    "id": "na6dde221f6",
@@ -605,19 +987,6 @@
    "img": "https://images.tagesschau.de/image/87e3db69-9963-4b9d-a2cc-526e0306ecd2/AAABoaamGdo/AAABnSSvrFg/16x9-big/midterms-218.jpg?width=1920"
   },
   {
-   "id": "n1fae516a6c",
-   "topic": "politik",
-   "title": "Deutsche Reaktionen auf Midterms: Gratulation und gedämpfte Erwartungen",
-   "text": "Deutsche Politiker haben die Niederlage der Republikaner bei den US-Midterms begrüßt, dämpfen aber die Erwartung an eine andere Außenpolitik von Präsident Trump. Eine SPD-Politikerin warnt vor einer \"wütenden Ente\" im Weißen Haus.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-deutschland-midterms-100.html",
-   "published": "2026-11-04T12:49:49+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-07T12:49:49+00:00",
-   "img": "https://images.tagesschau.de/image/c2330fb9-9436-4572-b9b8-7038cbf2338d/AAABoaY3XBo/AAABnSSvrFg/16x9-big/trump-merz-124.jpg?width=1920"
-  },
-  {
    "id": "n960709ec8e",
    "topic": "wissenschaft",
    "title": "Wo die Menschen in Deutschland am längsten leben",
@@ -742,19 +1111,6 @@
    "img": "https://images.tagesschau.de/image/8f11ef00-c0f4-46a8-a713-cca6362e95ae/AAABoaYVb9k/AAABnSSvrFg/16x9-big/hitzewarnung-108.jpg?width=1920"
   },
   {
-   "id": "n0774f0ec68",
-   "topic": "welt",
-   "title": "Die Ergebnisse der Midterms in den USA in Zahlen und Karten",
-   "text": "In den USA läuft die Auszählung nach den Zwischenwahlen. Wer liegt im Senat und im Repräsentantenhaus vorn? Wer entschied welche Rennen um diese Sitze und um die Gouverneursposten für sich? Ergebnisse in Zahlen und Karten.",
-   "link": "https://www.tagesschau.de/ausland/amerika/midterms-ergebnisse-102.html",
-   "published": "2026-11-04T09:58:04+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-07T09:58:04+00:00",
-   "img": "https://images.tagesschau.de/image/754a03c8-b76b-4d28-b22a-497747d636c4/AAABoac3Lxc/AAABnSSvrFg/16x9-big/midterms-senat-geographisch-100.jpg?width=1920"
-  },
-  {
    "id": "n3206626e35",
    "topic": "wirtschaft",
    "title": "Update Wirtschaft vom 04.11.2026",
@@ -843,7 +1199,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-06T06:20:35+00:00",
-   "img": "https://bilder.deutschlandfunk.de/9d/54/27/bc/9d5427bc-567f-448f-9fc7-213a9baf60bb/party-sc-100-1920x1920.jpg"
+   "img": "https://bilder.deutschlandfunk.de/9d/54/27/bc/9d5427bc-567f-448f-9fc7-213a9baf60bb/party-sc-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Liveblog zu den Midterms: ++ Trump verteidigt Iran-Krieg ++",
+     "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html"
+    }
+   ]
   },
   {
    "id": "n69a6a42d90",
@@ -1112,7 +1475,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-06T22:49:56+00:00",
-   "img": "https://images.tagesschau.de/image/7bfe3afd-df5d-4068-8773-bed8cec0c7f3/AAABoaHss2g/AAABnSSvrFg/16x9-big/wahllokal-midterms-100.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/7bfe3afd-df5d-4068-8773-bed8cec0c7f3/AAABoaHss2g/AAABnSSvrFg/16x9-big/wahllokal-midterms-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Nach den \"Midterms\" - Präsident Trump und Vize Vance nach Republikaner-Niederlage bei US-Kongresswahlen uneins über Fortführung des Iran-Kriegs",
+     "link": "https://www.deutschlandfunk.de/praesident-trump-und-vize-vance-nach-republikaner-niederlage-bei-us-kongresswahlen-uneins-ueber-fort-106.html"
+    }
+   ]
   },
   {
    "id": "n461f0ecb84",
@@ -1151,19 +1521,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-05T22:40:47+00:00",
-   "img": "https://bilder.deutschlandfunk.de/87/15/c6/64/8715c664-74c9-41fa-b39a-bb4a3c09624a/merz-selenskyj-berlin-102-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Ukraine-Krieg: Bundeskanzler Friedrich Merz und der ukrainische Präsident Wolodymyr Selenskyj beraten in Berlin",
-     "link": "https://www.dw.com/de/ukraine-krieg-bundeskanzler-friedrich-merz-und-der-ukrainische-präsident-wolodymyr-selenskyj-beraten-in-berlin/a-79846015?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Selenskyj, Merz und der Kampf gegen die Zweifel",
-     "link": "https://www.tagesschau.de/ausland/europa/merz-selenskyj-ukrainehilfe-100.html"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/87/15/c6/64/8715c664-74c9-41fa-b39a-bb4a3c09624a/merz-selenskyj-berlin-102-1920x1920.jpg"
   },
   {
    "id": "n5df9c5cf19",
@@ -1302,19 +1660,7 @@
    "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
    "lang": "de",
    "expires": "2026-11-07T19:26:00+00:00",
-   "img": "https://static.dw.com/image/79842785_302.jpg",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Berlin - Merz ruft Russland zu Friedensverhandlungen mit der Ukraine auf",
-     "link": "https://www.deutschlandfunk.de/merz-ruft-russland-zu-friedensverhandlungen-mit-der-ukraine-auf-114.html"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Selenskyj, Merz und der Kampf gegen die Zweifel",
-     "link": "https://www.tagesschau.de/ausland/europa/merz-selenskyj-ukrainehilfe-100.html"
-    }
-   ]
+   "img": "https://static.dw.com/image/79842785_302.jpg"
   },
   {
    "id": "ne6d18cc011",
@@ -1423,382 +1769,10 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "US-Kongresswahlen - Die Zwischen-Wahlen laufen - Demokraten hoffen auf Sieg über Trumps Republikaner bei Midterms",
-     "link": "https://www.deutschlandfunk.de/die-zwischen-wahlen-laufen-demokraten-hoffen-auf-sieg-ueber-trumps-republikaner-bei-midterms-100.html"
+     "title": "Nach den \"Midterms\" - Präsident Trump und Vize Vance nach Republikaner-Niederlage bei US-Kongresswahlen uneins über Fortführung des Iran-Kriegs",
+     "link": "https://www.deutschlandfunk.de/praesident-trump-und-vize-vance-nach-republikaner-niederlage-bei-us-kongresswahlen-uneins-ueber-fort-106.html"
     }
    ]
-  },
-  {
-   "id": "n83d6b231bc",
-   "topic": "welt",
-   "title": "Selenskyj, Merz und der Kampf gegen die Zweifel",
-   "text": "Auch vor dem fünften Winter seit Russlands Überfall ist ein Ende des Krieges in der Ukraine nicht in Sicht. Kanzler Merz betont, dass er fest an der Seite des Landes steht. Doch nicht nur er merkt, dass immer mehr Überzeugungsarbeit nötig ist. Von Gabor Halasz.",
-   "link": "https://www.tagesschau.de/ausland/europa/merz-selenskyj-ukrainehilfe-100.html",
-   "published": "2026-11-03T18:27:43+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T18:27:43+00:00",
-   "img": "https://images.tagesschau.de/image/91bc4a1a-7308-4736-9f7d-7e6541ae8342/AAABoaKqxlY/AAABnSSvrFg/16x9-big/merz-slenskyj-106.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Berlin - Merz ruft Russland zu Friedensverhandlungen mit der Ukraine auf",
-     "link": "https://www.deutschlandfunk.de/merz-ruft-russland-zu-friedensverhandlungen-mit-der-ukraine-auf-114.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Ukraine-Krieg: Bundeskanzler Friedrich Merz und der ukrainische Präsident Wolodymyr Selenskyj beraten in Berlin",
-     "link": "https://www.dw.com/de/ukraine-krieg-bundeskanzler-friedrich-merz-und-der-ukrainische-präsident-wolodymyr-selenskyj-beraten-in-berlin/a-79846015?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "ncc1e5e3a04",
-   "topic": "ki",
-   "title": "Schnelle KI-Entwicklung: Fast die Hälfte aktueller LLM-Befunde ist bereits veraltet",
-   "text": "Stanford-Forscher haben 50 vielzitierte Behauptungen über LLMs an 20 aktuellen Modellen nachgeprüft: 44 Prozent der Befunde sind inzwischen \"abgelaufen\", weitere 34 Prozent deutlich abgeschwächt. Die durchschnittliche Haltbarkeit liegt bei knapp 16 Monaten. Aussagen über Modellschwächen verfallen am schnellsten. Der …",
-   "link": "https://the-decoder.de/schnelle-ki-entwicklung-fast-die-haelfte-aktueller-llm-befunde-ist-bereits-veraltet/",
-   "published": "2026-11-03T18:19:43+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-10T18:19:43+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/11/ai_goalpost_moving.png",
-   "also": [
-    {
-     "source": "Golem.de",
-     "title": "Nokia: KI wird fast die Hälfte des Netzwerkverkehrs ausmachen",
-     "link": "https://www.golem.de/news/nokia-ki-wird-fast-die-haelfte-des-netzwerkverkehrs-ausmachen-2611-214863.html"
-    }
-   ]
-  },
-  {
-   "id": "n1cbdd91a0a",
-   "topic": "it",
-   "title": "Boost Mobile: Elon Musk sucht mit neuem Zukauf die Mobilfunk-Hintertür",
-   "text": "Musk will Starlink unbedingt zum Mobilfunkanbieter in den USA ausbauen. Nun verhandelt SpaceX über den Kauf eines MVNOs, um sich Netzkapazität zu sichern. Eine Analyse von Achim Sawall ( SpaceX , Mobilfunk )",
-   "link": "https://www.golem.de/news/boost-mobile-elon-musk-sucht-mit-neuem-zukauf-die-mobilfunk-hintertuer-2611-214815.html",
-   "published": "2026-11-03T17:50:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-08T17:50:02+00:00",
-   "img": "https://www.golem.de/2611/214815-606669-606667_rc.jpg"
-  },
-  {
-   "id": "n7c90701797",
-   "topic": "welt",
-   "title": "Spanien beschließt nach Zugunglück neue Sicherheitsmaßnahmen im Bahnverkehr",
-   "text": "69 Menschen starben vor knapp einer Woche bei der Kollision zweier Hochgeschwindigkeitszüge - es war bereits das zweite schwere Zugunglück in Spanien in diesem Jahr. Nun sollen neue Maßnahmen die Sicherheit verbessern.",
-   "link": "https://www.tagesschau.de/ausland/spanien-sicherheitsmassnahmen-100.html",
-   "published": "2026-11-03T17:32:23+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T17:32:23+00:00",
-   "img": "https://images.tagesschau.de/image/3e13c8d6-3392-4220-ad42-18fa7f746017/AAABoaJIk40/AAABnSSvrFg/16x9-big/zugunglueck-spanien-158.jpg?width=1920"
-  },
-  {
-   "id": "na2f4d36973",
-   "topic": "it",
-   "title": "Von Fallout bis GTA: President Evil",
-   "text": "Vom größenwahnsinnigen Tentakel bis zum Zombie im Weißen Haus: Zum Abend der US-Midterms stellen wir zehn denkwürdige Videospielpräsidenten vor. Von Fabian Mauruschat ( Spiele , Command & Conquer )",
-   "link": "https://www.golem.de/news/von-fallout-bis-gta-president-evil-2611-214794.html",
-   "published": "2026-11-03T17:30:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-08T17:30:02+00:00",
-   "img": "https://www.golem.de/2611/214794-606570-606568_rc.jpg"
-  },
-  {
-   "id": "n169b4d269a",
-   "topic": "wirtschaft",
-   "title": "Marktbericht: DAX fällt leicht zurück",
-   "text": "Inmitten der Zahlenflut zum dritten Quartal und angesichts des Wahltages in den USA hielten sich die Anleger bedeckt. Der DAX konnte seine anfänglichen Verluste aber eingrenzen.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-apple-midterms-100.html",
-   "published": "2026-11-03T17:10:25+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T17:10:25+00:00",
-   "img": "https://images.tagesschau.de/image/fe99f018-c075-4100-b866-642ea2df054d/AAABmnbk3IY/AAABnSSvrFg/16x9-big/boerse-466.jpg?width=1920"
-  },
-  {
-   "id": "nb8196dce07",
-   "topic": "politik",
-   "title": "Weitere gefährliche Halloween-Süßigkeiten entdeckt - auch im Ausland",
-   "text": "Nadeln in Schokoriegeln, Metall in Fruchtgummi: Immer mehr manipulierte Halloween-Süßigkeiten werden gemeldet - und das nicht nur in Deutschland. In einigen Fällen verletzten sich Kinder.",
-   "link": "https://www.tagesschau.de/inland/halloween-suessigkeiten-nadeln-100.html",
-   "published": "2026-11-03T17:02:41+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T17:02:41+00:00",
-   "img": "https://images.tagesschau.de/image/b541e2e9-adea-44ae-8ad5-1bae4e1410ca/AAABoaG4VAU/AAABnSSvrFg/16x9-big/kaubonbon-metallstuecke-102.jpg?width=1920"
-  },
-  {
-   "id": "n61d300d24d",
-   "topic": "it",
-   "title": "(g+) MRAM statt DRAM: Neuer KI-Chip soll 98 Prozent weniger Strom verbrauchen",
-   "text": "Ein Toyota-Zulieferer hat einen KI-Chip entwickelt, der deutlich sparsamer und schneller arbeiten soll. Die Technik könnte die KI-Verarbeitung in Autos verbessern, berichtet Nikkei Asia. Von Shota Uehara ( KI , Toyota )",
-   "link": "https://www.golem.de/news/mram-statt-dram-neuer-ki-chip-soll-98-prozent-weniger-strom-verbrauchen-2611-214806.html",
-   "published": "2026-11-03T17:00:01+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-08T17:00:01+00:00",
-   "img": "https://www.golem.de/2611/214806-606630-606628_rc.jpg"
-  },
-  {
-   "id": "n15d933e432",
-   "topic": "it",
-   "title": "Mysteriöses Zucken im Stromnetz: Forscher lösen Rätsel um USV-Selbsttests",
-   "text": "Jede Minute zucken Stromnetze weltweit kurz. Forscher finden heraus: Gleichzeitige Selbsttests von USVs und Batteriespeichern sind dafür verantwortlich.",
-   "link": "https://www.heise.de/news/Mysterioeses-Zucken-im-Stromnetz-Forscher-loesen-Raetsel-um-USV-Selbsttests-11510323.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-03T16:54:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-08T16:54:00+00:00"
-  },
-  {
-   "id": "nbd79794bbe",
-   "topic": "politik",
-   "title": "Sabotage-Verdacht - Weitere Festnahme in Deutschland nach Brand in polnischer \"Starlink\"-Anlage",
-   "text": "Nach dem Brand in einer polnischen Anlage des Satellitenbetreibers Starlink ist in Deutschland ein weiterer Tatverdächtiger festgenommen worden.",
-   "link": "https://www.deutschlandfunk.de/weitere-festnahme-in-deutschland-nach-brand-in-polnischer-starlink-anlage-100.html",
-   "published": "2026-11-03T16:53:47+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-05T16:53:47+00:00"
-  },
-  {
-   "id": "n216a6d4b0f",
-   "topic": "politik",
-   "title": "Altersbezüge - Medien: Rentner können 2027 mit einer Erhöhung um 4,09 Prozent rechnen",
-   "text": "Die rund 21-einhalb Millionen Rentner in Deutschland können auf mehr Geld im nächsten Jahr hoffen.",
-   "link": "https://www.deutschlandfunk.de/medien-rentner-koennen-2027-mit-einer-erhoehung-um-4-09-prozent-rechnen-102.html",
-   "published": "2026-11-03T16:53:47+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-05T16:53:47+00:00",
-   "img": "https://bilder.deutschlandfunk.de/50/3b/43/ed/503b43ed-71d6-4bf5-81ce-0cf87e6d8f3e/lebenserwartung-100-1920x1920.jpg"
-  },
-  {
-   "id": "n51b8b7ee25",
-   "topic": "politik",
-   "title": "Kraftstoffpreisdeckel - SPD kündigt Widerstand gegen Gesetzentwurf an",
-   "text": "Die Pläne von Bundeswirtschaftsministerin Reiche für den angekündigten Kraftstoffpreisdeckel sorgen weiter für Kritik, auch in den Reihen der Regierung.",
-   "link": "https://www.deutschlandfunk.de/spd-kuendigt-widerstand-gegen-gesetzentwurf-an-100.html",
-   "published": "2026-11-03T16:53:47+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-05T16:53:47+00:00",
-   "img": "https://bilder.deutschlandfunk.de/e3/35/58/e6/e33558e6-86d1-4d8d-96a1-2f523a94cf63/kluessendorf-spd-100-1920x1920.jpg"
-  },
-  {
-   "id": "n1bf5245a09",
-   "topic": "politik",
-   "title": "Selenskyj in Berlin - Merz verspricht mehr Hilfe für die Ukraine",
-   "text": "Bundeskanzler Merz hat an Russland appelliert, den Krieg gegen die Ukraine zu beenden. Der regionale Waffenstillstand von Oleschky könne ein Vorbild sein für eine weitreichende Waffenruhe, sagte Merz nach einem Treffen mit dem ukrainischen Präsidenten Selenskyj in Berlin.",
-   "link": "https://www.deutschlandfunk.de/merz-verspricht-mehr-hilfe-fuer-die-ukraine-100.html",
-   "published": "2026-11-03T16:53:47+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-05T16:53:47+00:00",
-   "img": "https://bilder.deutschlandfunk.de/88/00/d4/08/8800d408-39fe-4c94-8c37-f580ab6324bf/merz-206-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Ukraine-Krieg: Bundeskanzler Friedrich Merz und der ukrainische Präsident Wolodymyr Selenskyj beraten in Berlin",
-     "link": "https://www.dw.com/de/ukraine-krieg-bundeskanzler-friedrich-merz-und-der-ukrainische-präsident-wolodymyr-selenskyj-beraten-in-berlin/a-79846015?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Selenskyj, Merz und der Kampf gegen die Zweifel",
-     "link": "https://www.tagesschau.de/ausland/europa/merz-selenskyj-ukrainehilfe-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n03c63d0a2f",
-   "topic": "politik",
-   "title": "US-Kongresswahlen - Die Zwischen-Wahlen laufen - Demokraten hoffen auf Sieg über Trumps Republikaner bei Midterms",
-   "text": "In den USA finden die Zwischenwahlen zum Kongress statt. Zur Abstimmung stehen sämtliche 435 Sitze im Repräsentantenhaus sowie 35 der insgesamt 100 Sitze im Senat. Die Republikaner haben in beiden Kammern eine hauchdünne Mehrheit.",
-   "link": "https://www.deutschlandfunk.de/die-zwischen-wahlen-laufen-demokraten-hoffen-auf-sieg-ueber-trumps-republikaner-bei-midterms-100.html",
-   "published": "2026-11-03T16:53:47+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-05T16:53:47+00:00",
-   "img": "https://bilder.deutschlandfunk.de/1b/25/8c/b6/1b258cb6-f341-4319-a2c5-bb4274c43f7d/wahllokal-ohio-midterms-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Nach Sieg bei den Midterms: Welche Optionen die Demokraten haben",
-     "link": "https://www.tagesschau.de/ausland/demokraten-optionen-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n2a3a0bbfb2",
-   "topic": "politik",
-   "title": "Automobilwirtschaft - Zulieferer Schaeffler streicht 3.460 Stellen und schließt fünf Standorte",
-   "text": "Der Automobil-Zulieferer Schaeffler hat die Schließung von fünf Standorten und einen Stellenabbau angekündigt.",
-   "link": "https://www.deutschlandfunk.de/zulieferer-schaeffler-streicht-3-460-stellen-und-schliesst-fuenf-standorte-100.html",
-   "published": "2026-11-03T16:53:47+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-05T16:53:47+00:00",
-   "img": "https://bilder.deutschlandfunk.de/dd/17/15/4f/dd17154f-2e6a-49fd-9bf0-c8ae4afcb0cb/schaeffler-100-1920x1920.jpg"
-  },
-  {
-   "id": "nbe2bebf07f",
-   "topic": "nfl",
-   "title": "Dan Campbell credits Mike Kafka for big play to Amon-Ra St. Brown",
-   "text": "The Lions ran what may have been the most inventive play of the week in the NFL when wide receiver Amon-Ra St.",
-   "link": "https://sports.yahoo.com/articles/dan-campbell-credits-mike-kafka-164700647.html",
-   "published": "2026-11-03T16:47:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-08T16:47:00+00:00"
-  },
-  {
-   "id": "nd35ea74ad6",
-   "topic": "nfl",
-   "title": "NFL Power Rankings for Week 9: Are they beginning to Bo-lieve?",
-   "text": "The national media has to start taking notice of the 6-2 Denver Broncos. They don’t quite bo-lieve yet, but if they keep winning….",
-   "link": "https://sports.yahoo.com/articles/nfl-power-rankings-week-9-164535162.html",
-   "published": "2026-11-03T16:45:35+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-08T16:45:35+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/75483b5ac19c8e8c50f012828123857c.jpg"
-  },
-  {
-   "id": "n495758576b",
-   "topic": "it",
-   "title": "EuGH-Gutachten: Googles Chatbot könnte Urheberrecht von Verlagen verletzen",
-   "text": "Ein Verlag sieht sein Leistungsschutzrecht durch die KI-Übersichten von Google verletzt. Die Klage könnte in Teilen erfolgreich sein. ( KI , Urheberrecht )",
-   "link": "https://www.golem.de/news/eugh-gutachten-googles-chatbot-koennte-urheberrecht-von-verlagen-verletzen-2611-214812.html",
-   "published": "2026-11-03T16:45:01+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-08T16:45:01+00:00",
-   "img": "https://www.golem.de/2611/214812-606661-606659_rc.jpg"
-  },
-  {
-   "id": "n8c5eed9730",
-   "topic": "it",
-   "title": "Google legt Botnetz lahm, beschuldigt Hersteller von Android-Set-Top-Boxen",
-   "text": "Ein Botnetz aus über einer Million infizierter Android-Geräte stammte offenbar vom Gerätehersteller selbst. Geräte waren ab Werk mit Malware verseucht.",
-   "link": "https://www.heise.de/news/Google-legt-Botnetz-lahm-beschuldigt-Hersteller-von-Android-Set-Top-Boxen-11510056.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-03T16:40:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-08T16:40:00+00:00"
-  },
-  {
-   "id": "n8cad482194",
-   "topic": "ki",
-   "title": "KI-Agenten steuern jetzt ein Teleskop für die Suche nach außerirdischer Intelligenz",
-   "text": "Das SETI Institute und Breakthrough Listen lassen am Allen Telescope Array nun KI-Agenten das Teleskop steuern und die eingehenden Radiosignale auswerten. Aufgaben, die bisher Wochen dauerten, sollen so in Stunden erledigt werden – erstmals erkannte das System einen Pulsar im Krebsnebel in Echtzeit. Der Artikel …",
-   "link": "https://the-decoder.de/ki-agenten-steuern-jetzt-ein-teleskop-fuer-die-suche-nach-ausserirdischer-intelligenz/",
-   "published": "2026-11-03T16:35:06+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-10T16:35:06+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/11/IMG_1607-ATA-2023-CREDIT-Joe-Marfia-1536x1024-1.jpg"
-  },
-  {
-   "id": "n7f4f626c43",
-   "topic": "it",
-   "title": "FreeRDP bringt Remote-Desktops in den Browser",
-   "text": "FreeRDP 3.33.0 unterstützt WebAssembly für den Browser, experimentelle UDP-Verbindungen und verbessert RemoteApp unter SDL.",
-   "link": "https://www.heise.de/news/FreeRDP-bringt-Remote-Desktops-in-den-Browser-11510187.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-03T16:34:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-08T16:34:00+00:00"
-  },
-  {
-   "id": "nb1183fff94",
-   "topic": "politik",
-   "title": "Hesssiche Kommunen fordern halbe Milliarde Euro Soforthilfe",
-   "text": "Zu viele Aufgaben, zu wenig Geld: Hessens Gemeinden, Städte und Kreise sind nach eigenem Bekunden endgültig über dem Limit. Von der schwarz-roten Koalition erwarten sie eine rasche Finanzspritze. Die Antwort des Finanzministers wird sie nicht erfreuen.",
-   "link": "https://www.hessenschau.de/politik/hesssiche-kommunen-fordern-halbe-milliarde-euro-soforthilfe-v1,hilfeschrei-hessische-kommunen-finanznot-100.html",
-   "published": "2026-11-03T16:31:53+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-07T16:31:53+00:00",
-   "img": "https://www.hessenschau.de/politik/kommunaler-finanzausgleich-106~_t-1766158563300_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "nc68ffb13bd",
-   "topic": "nfl",
-   "title": "Could NFC North have four playoff teams? After strong Week 8, it's looking more likely than ever",
-   "text": "The NFC North's worst team is 5-3",
-   "link": "https://www.cbssports.com/nfl/news/nfc-north-four-playoff-teams-looking-more-likely-than-ever/",
-   "published": "2026-11-03T16:26:58+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-08T16:26:58+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/11/03/b0c93551-7245-4f98-9203-f9e2b5400fe8/nfcnorth.jpg"
-  },
-  {
-   "id": "n770b962173",
-   "topic": "politik",
-   "title": "Dobrindt verteidigt \"Chaoten\"-Aussage nach Krawallen vom Wochenende",
-   "text": "Sind \"migrantische Milieus\" für die Gewalt vom Wochenende verantwortlich? Die Aussagen von Innenminister Dobrindt stoßen weiter auf breite Kritik. Der Minister selbst will seine Wortwahl jedoch nicht korrigieren.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-genz-proteste-100.html",
-   "published": "2026-11-03T16:14:29+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T16:14:29+00:00",
-   "img": "https://images.tagesschau.de/image/70f69f82-1f8a-4384-814d-fde5d62a427a/AAABoaIwx-A/AAABnSSvrFg/16x9-big/dobrindt-572.jpg?width=1920"
-  },
-  {
-   "id": "n084a54cd79",
-   "topic": "politik",
-   "title": "\"Gen Z\"-Proteste: Wann dürfen Demos verboten werden?",
-   "text": "Fliegende Steine, zerstörte Schaufenster und Plünderungen: Vor allem in Frankfurt kam es am Wochenende nach den \"Gen Z\"-Protesten zu Krawallen. Dürfen künftige Demos deshalb verboten werden? Von Antonetta Stephany und Anne Stein.",
-   "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-verbot-100.html",
-   "published": "2026-11-03T16:12:40+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T16:12:40+00:00",
-   "img": "https://images.tagesschau.de/image/95a0bc5a-be60-41f6-8477-5b0856fbe567/AAABoaFZbnA/AAABnSSvrFg/16x9-big/teilnehmer-demonstration-102.jpg?width=1920"
-  },
-  {
-   "id": "neaae5a672d",
-   "topic": "wissenschaft",
-   "title": "Angriffe auf Kühlsysteme: Warum Supermärkte von Cyberangriffen kalt erwischt werden",
-   "text": "Nun sind auch deutsche Supermärkte von Cyberangriffen auf Kühlsysteme betroffen. Die Vorfälle weisen auf Sicherheitslücken hin - Handelsketten und Hersteller haben es den Angreifern offenbar leicht gemacht. Von Sven Kästner.",
-   "link": "https://www.tagesschau.de/wissen/kuehlsysteme-schutz-100.html",
-   "published": "2026-11-03T16:10:04+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-17T16:10:04+00:00",
-   "img": "https://images.tagesschau.de/image/2aa1a7a0-1dfe-4f65-bcfc-8453b86450af/AAABoaHv5G4/AAABnSSvrFg/16x9-big/supermarkt-kuehlregale-100.jpg?width=1920"
   }
  ]
 }
