@@ -1,50 +1,427 @@
 {
- "generated": "2026-11-05T17:24:51.630505+00:00",
+ "generated": "2026-11-05T23:38:36.629590+00:00",
  "briefing": [
   "n9e21062d90",
-  "n79b29d7bac",
+  "n2d510726eb",
+  "nbf07732d5f",
   "n9f66f471eb",
-  "nc359597864",
   "n581221f0b2",
-  "ndcc67739d2",
+  "n772659164f",
   "n0cfc14aa5a",
-  "nf4f8303881"
+  "n958326e534"
  ],
  "ranked": [
   {
    "id": "n9e21062d90",
-   "s": 31.3
+   "s": 29.8
   },
   {
-   "id": "n79b29d7bac",
-   "s": 28.7
+   "id": "n2d510726eb",
+   "s": 28.6
+  },
+  {
+   "id": "nbf07732d5f",
+   "s": 27.0
   },
   {
    "id": "n9f66f471eb",
-   "s": 28.5
-  },
-  {
-   "id": "nc359597864",
-   "s": 28.0
+   "s": 27.0
   },
   {
    "id": "n581221f0b2",
-   "s": 28.0
+   "s": 27.0
   },
   {
-   "id": "ndcc67739d2",
-   "s": 23.0
+   "id": "n772659164f",
+   "s": 21.7
   },
   {
    "id": "n0cfc14aa5a",
-   "s": 21.8
+   "s": 20.3
   },
   {
-   "id": "nf4f8303881",
-   "s": 17.8
+   "id": "n958326e534",
+   "s": 16.9
   }
  ],
  "items": [
+  {
+   "id": "nc21d2f9846",
+   "topic": "nfl",
+   "title": "As Chargers' offense struggles, Mike McDaniel will move from the sideline to the booth",
+   "text": "Chargers offensive coordinator Mike McDaniel will get a different perspective on his struggling offense on Sunday against the Texans.",
+   "link": "https://sports.yahoo.com/articles/chargers-offense-struggles-mike-mcdaniel-231937778.html",
+   "published": "2026-11-05T23:19:37+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-10T23:19:37+00:00"
+  },
+  {
+   "id": "nb2839d7c51",
+   "topic": "nfl",
+   "title": "Cleveland Browns are still struggling to change the team’s culture",
+   "text": "Two plays from the loss in Pittsburgh highlight how far the team still has to go to stop being bullied.",
+   "link": "https://sports.yahoo.com/articles/cleveland-browns-still-struggling-change-231657662.html",
+   "published": "2026-11-05T23:16:57+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-10T23:16:57+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/91e52725fd5a4b7c540d962a30e86618.jpg"
+  },
+  {
+   "id": "nd6f5c45cf7",
+   "topic": "nfl",
+   "title": "Cowboys stars reject George Pickens trade talk ahead of NFL deadline",
+   "text": "As speculation builds about Pickens' future in Dallas, Prescott praised him as a teammate and Lamb explained how the receiver changes opposing defenses",
+   "link": "https://www.cbssports.com/nfl/news/george-pickens-trade-rumors-cowboys-nfl-deadline/",
+   "published": "2026-11-05T22:52:14+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-10T22:52:14+00:00"
+  },
+  {
+   "id": "n11836dabf6",
+   "topic": "politik",
+   "title": "Ukraine-Krieg - Trump stellt nach Treffen mit Putin-Vertrautem mögliches Abkommen in Aussicht",
+   "text": "US-Präsident Trump hat nach eigenen Angaben den russischen Unterhändler und Putin-Vertrauten Dmitrijew im Weißen Haus empfangen. Anschließend stellte Trump ein mögliches Abkommen in Aussicht, das nach seinen Worten über die Ukraine hinausreichen und Auswirkungen auf ganz Europa haben könnte.",
+   "link": "https://www.deutschlandfunk.de/trump-stellt-nach-treffen-mit-putin-vertrautem-moegliches-abkommen-in-aussicht-102.html",
+   "published": "2026-11-05T22:49:36+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T22:49:36+00:00",
+   "img": "https://bilder.deutschlandfunk.de/15/16/96/97/15169697-2178-45bf-a7b5-0ceb0d0df1a0/donald-trump-us-praesident-110-1920x1920.jpg"
+  },
+  {
+   "id": "n1a91d5e559",
+   "topic": "politik",
+   "title": "Berlin - Bundestag korrigiert Panne bei Tabaksteuererhöhung",
+   "text": "Der Bundestag hat eine Panne bei der Tabaksteuererhöhung korrigiert.",
+   "link": "https://www.deutschlandfunk.de/bundestag-korrigiert-panne-bei-tabaksteuererhoehung-102.html",
+   "published": "2026-11-05T22:49:36+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T22:49:36+00:00",
+   "img": "https://bilder.deutschlandfunk.de/FI/LE/_9/45/FILE_945aa94a1266be8f39f78a835ef7c72b/lungenkrebs-jpg-108-1280x1280.jpg"
+  },
+  {
+   "id": "n9a28ce1333",
+   "topic": "politik",
+   "title": "Tierschutz - Bundestag beschließt Schlachthöfe-Videoüberwachung und verschiebt Tierhaltungslogo",
+   "text": "Größere Schlachthöfe in Deutschland sind künftig zur Videoüberwachung ihrer Betriebe verpflichtet. Ein entsprechendes Gesetz verabschiedete der Bundestag in Berlin. Damit soll die Einhaltung der Tierschutzvorschriften sichergestellt werden. Bei einem anderen Thema sieht die Koalition Nachbesserungs-Bedarf.",
+   "link": "https://www.deutschlandfunk.de/bundestag-beschliesst-schlachthoefe-videoueberwachung-und-verschiebt-tierhaltungslogo-102.html",
+   "published": "2026-11-05T22:49:36+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T22:49:36+00:00",
+   "img": "https://bilder.deutschlandfunk.de/17/db/bd/b1/17dbbdb1-ae46-4299-a94b-c8ec7ef2c5f2/schlachthof-niederlande-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Golem.de",
+     "title": "Führerschein: Bundestag beschließt Reform der Fahrschulausbildung",
+     "link": "https://www.golem.de/news/fuehrerschein-bundestag-beschliesst-reform-der-fahrschulausbildung-2611-214907.html"
+    }
+   ]
+  },
+  {
+   "id": "n383aec8450",
+   "topic": "politik",
+   "title": "Straßenverkehr - Bundestag verlängert Sonderrechte für E-Autos und billigt Führerschein-Reform",
+   "text": "Der Bundestag hat einer Verlängerung von Sonderrechten für Elektroautos zugestimmt. Das Parlament beschloss zudem den ersten Teil einer Führerschein-Reform.",
+   "link": "https://www.deutschlandfunk.de/bundestag-verlaengert-sonderrechte-fuer-e-autos-und-billigt-fuehrerschein-reform-102.html",
+   "published": "2026-11-05T22:49:36+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T22:49:36+00:00",
+   "img": "https://bilder.deutschlandfunk.de/84/00/2d/0c/84002d0c-d355-421c-b5b1-12d16c341db2/elektroauto-102-1920x1920.jpg"
+  },
+  {
+   "id": "n7c37ee49a5",
+   "topic": "politik",
+   "title": "Frankreich - Rund 600.000 Menschen demonstrieren für Bildung und höhere Löhne",
+   "text": "In Frankreich haben landesweit rund 600.000 Menschen für bessere Bildungsbedingungen und höhere Löhne demonstriert. Zu den Protesten hatten Gewerkschaften sowie Schüler- und Studierendenverbände aufgerufen.",
+   "link": "https://www.deutschlandfunk.de/rund-600-000-menschen-demonstrieren-fuer-bildung-und-hoehere-loehne-106.html",
+   "published": "2026-11-05T22:49:36+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T22:49:36+00:00",
+   "img": "https://bilder.deutschlandfunk.de/55/88/da/06/5588da06-e5cd-49a3-b83d-41e114a6f350/frankreich-lyon-proteste-demonstrationen-schueler-loehne-100-1920x1920.jpg"
+  },
+  {
+   "id": "n1161db9210",
+   "topic": "politik",
+   "title": "Frankfurt am Main - Landgericht: Verlängerung der Mietpreisbremse in Hessen unwirksam",
+   "text": "Das Landgericht Frankfurt am Main hält die Verlängerung der sogenannten Mietpreisbremse in Hessen um ein Jahr für unwirksam.",
+   "link": "https://www.deutschlandfunk.de/landgericht-verlaengerung-der-mietpreisbremse-in-hessen-unwirksam-104.html",
+   "published": "2026-11-05T22:49:36+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T22:49:36+00:00",
+   "img": "https://bilder.deutschlandfunk.de/39/d9/cd/ee/39d9cdee-bf20-4dd5-bb70-bf30653c7ae0/mietwohnungen-100-1920x1920.jpg"
+  },
+  {
+   "id": "n95b0f42334",
+   "topic": "it",
+   "title": "Brasilien: Gericht verbietet Meta die Nutzung von Medieninhalten für KI-Training",
+   "text": "Metas neue Nutzungsbedingungen sahen die kostenlose Überlassung von Inhalten vor. Ein Gericht in Brasilien erklärt dies für unzulässig und droht mit Zwangsgeld.",
+   "link": "https://www.heise.de/news/Brasilien-Gericht-verbietet-Meta-die-Nutzung-von-Medieninhalten-fuer-KI-Training-11514246.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-05T22:22:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-10T22:22:00+00:00"
+  },
+  {
+   "id": "n84597699c2",
+   "topic": "nfl",
+   "title": "Is Bhayshul Tuten playing on TNF? A look at the Jaguars RB's status against Ravens",
+   "text": "Tuten hasn't practiced all week while dealing with ankle and foot injuries",
+   "link": "https://www.cbssports.com/nfl/news/jaguars-vs-ravens-bhayshul-tuten-status-tnf/",
+   "published": "2026-11-05T22:14:40+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-10T22:14:40+00:00"
+  },
+  {
+   "id": "n4e2a8eaf0e",
+   "topic": "welt",
+   "title": "Hunderttausende protestieren in Frankreich für bessere Lebensbedingungen",
+   "text": "Der Ruf nach höheren Löhnen, Steuergerechtigkeit und mehr Geld für Bildung hat in Frankreich erneut Hunderttausende auf die Straßen getrieben. Der Aktionstag verlief weitgehend friedlich, es kam mancherorts dennoch zu Ausschreitungen.",
+   "link": "https://www.tagesschau.de/ausland/europa/streik-proteste-frankreich-100.html",
+   "published": "2026-11-05T21:18:10+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-08T21:18:10+00:00",
+   "img": "https://images.tagesschau.de/image/91b8d417-f963-4987-bdfb-b61f4d228ca8/AAABoazzJoA/AAABnSSvrFg/16x9-big/demonstranten-paris-104.jpg?width=1920"
+  },
+  {
+   "id": "n4760846756",
+   "topic": "wissenschaft",
+   "title": "Oktopusse: Wie sich Kraken durch kleinste Löcher zwängen",
+   "text": "Zu eng? Ach was! Oktopusse nutzen ihre acht Arme, um sich durch schmalste Ritzen zu quetschen.",
+   "link": "https://www.spektrum.de/news/kraken-oktopusse-zwaengen-sich-durch-schmalste-loecher/2352868",
+   "published": "2026-11-05T21:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-19T21:00:00+00:00"
+  },
+  {
+   "id": "ndde2a27de4",
+   "topic": "it",
+   "title": "Jugendschutz in Netz: Google, Meta und TikTok klagen gegen kalifornisches Gesetz",
+   "text": "Um Jugendliche zu schützen, untersagt ein Gesetz in Kalifornien personalisierte Empfehlungen und Autoplay von Videos. Google, Meta und TikTok klagen dagegen.",
+   "link": "https://www.heise.de/news/Jugendschutz-in-Netz-Google-Meta-und-TikTok-klagen-gegen-kalifornisches-Gesetz-11514162.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-05T20:15:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-10T20:15:00+00:00"
+  },
+  {
+   "id": "n8791ee5a64",
+   "topic": "ki",
+   "title": "GPT-6 Cyber: OpenAI trainiert KI-Modell gezielt für die Jagd nach Sicherheitslücken",
+   "text": "OpenAI stellt mit GPT-6 Cyber ein KI-Modell vor, das gezielt Sicherheitslücken in Software aufspüren, Exploits entwickeln und Patches vorschlagen soll. Bereits jetzt hat es laut OpenAI 81 unbekannte Schwachstellen in Firefox und 948 funktionierende Exploits im Linux-Kernel gefunden, deutlich mehr als der Vorgänger. …",
+   "link": "https://the-decoder.de/gpt-6-cyber-openai-trainiert-ki-modell-gezielt-fuer-die-jagd-nach-sicherheitsluecken/",
+   "published": "2026-11-05T19:50:25+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-12T19:50:25+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/11/openai_cybersecurity.png"
+  },
+  {
+   "id": "nb9910e53cb",
+   "topic": "it",
+   "title": "Tierschutz: Nur große Schlachthöfe von Videopflicht betroffen",
+   "text": "Der Bundestag hat eine Videoüberwachungspflicht für Schlachthöfe beschlossen – allerdings nur für größere Betriebe.",
+   "link": "https://www.heise.de/news/Tierschutz-Nur-grosse-Schlachthoefe-von-Videopflicht-betroffen-11513964.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-05T19:15:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-10T19:15:00+00:00"
+  },
+  {
+   "id": "nd6b65c5c8d",
+   "topic": "politik",
+   "title": "Landesrechnungshof warnt: Immer mehr hessische Kommunen überziehen ihr Konto",
+   "text": "In seinem aktuellen Bericht zur Lage der Kommunen zeichnet der Landesrechnungshof ein düsteres Bild. Immer mehr Städte, Gemeinden und Kreisen in Hessen haben enorme Geldprobleme. Präsident Becker sieht Bund und Land in der Pflicht, aber auch die Kommunen selbst.",
+   "link": "https://www.hessenschau.de/politik/landesrechnungshof-warnt-immer-mehr-hessische-kommunen-ueberziehen-ihr-konto-v1,kommunen-finanznot-rechnungshof-100.html",
+   "published": "2026-11-05T19:11:46+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-09T19:11:46+00:00",
+   "img": "https://www.hessenschau.de/politik/rechnungshof-116~_t-1728645044282_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "ndfed495e67",
+   "topic": "wirtschaft",
+   "title": "Supermärkte: Warum Kühlregale leicht zu hacken sind",
+   "text": "Angefangen hat es mit Angriffen auf Kühlsysteme in französischen Supermärkten. Inzwischen sind auch deutsche Einzelhändler betroffen. Experten rechnen mit weiteren Attacken auf Kritische Infrastruktur - und Wohnzimmer. Von S. Wolff",
+   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/hacker-kuehlsysteme-supermaerkte-100.html",
+   "published": "2026-11-05T19:11:03+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-08T19:11:03+00:00",
+   "img": "https://images.tagesschau.de/image/1a3ebc67-f846-4558-b6e1-dbc96f6cdfa1/AAABoaaLDok/AAABnSSvrFg/16x9-big/cyberangriff-supermarkt-102.jpg?width=1920"
+  },
+  {
+   "id": "n958326e534",
+   "topic": "welt",
+   "title": "Wawira Njiru - Kenias Frau für Schulessen erhielt den Deutschen Afrika-Preis",
+   "text": "Von 25 Kindern zu 730.000 täglichen Mahlzeiten: Wawira Njiru erhält den Deutschen Afrika-Preis. Nun will sie ihr Schulessen-Programm auf weitere afrikanische Länder ausweiten.",
+   "link": "https://www.dw.com/de/wawira-njiru-kenias-frau-für-schulessen-erhielt-den-deutschen-afrika-preis/a-79655695?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-05T19:08:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-09T19:08:00+00:00",
+   "img": "https://static.dw.com/image/79861581_302.jpg"
+  },
+  {
+   "id": "n468ad8fbee",
+   "topic": "ki",
+   "title": "Google veröffentlicht Gemini Omni 1.2 Flash mit längeren Clips und günstigeren Preisen",
+   "text": "Google Deepmind macht Gemini Omni 1.2 Flash allgemein verfügbar: Das Videogenerierungsmodell erzeugt jetzt bis zu 15-sekündige Clips, lässt sich per Konversation Schritt für Schritt bearbeiten und kostet bei 720p nur noch 0,07 Dollar pro Sekunde, 30 Prozent weniger als der Vorgänger. Wer Entwürfe in niedriger …",
+   "link": "https://the-decoder.de/google-veroeffentlicht-gemini-omni-1-2-flash-mit-laengeren-clips-und-guenstigeren-preisen/",
+   "published": "2026-11-05T18:30:31+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-12T18:30:31+00:00"
+  },
+  {
+   "id": "n772659164f",
+   "topic": "welt",
+   "title": "Paraguays Präsident tritt nach Bankenpleite zurück",
+   "text": "Inmitten einer schweren Bankenkrise seines Landes hat Paraguays Präsident Peña seinen Rücktritt eingereicht. Ihm wurden geschäftliche Beziehungen zur Muttergesellschaft der Pleitebank vorgeworfen. Von A. Herrberg.",
+   "link": "https://www.tagesschau.de/ausland/amerika/paraguay-ruecktritt-praesident-100.html",
+   "published": "2026-11-05T18:26:37+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-08T18:26:37+00:00",
+   "img": "https://images.tagesschau.de/image/fe153856-aef9-4c0a-a0ac-0db2aa4e955e/AAABoa0KZI8/AAABnSSvrFg/16x9-big/pena-102.jpg?width=1920"
+  },
+  {
+   "id": "n796a7aa540",
+   "topic": "welt",
+   "title": "ARD-Deutschlandtrend: Große Mehrheit sieht junge Menschen politisch benachteiligt. Gen-Z-Proteste finden breite Zustimmung.",
+   "text": "Die Gen-Z-Proteste in Deutschland spiegeln ein verbreitetes Gefühl wider: eine große Mehrheit der Bürger meint, dass die Anliegen junger Menschen von der Politik nicht ausreichend berücksichtigt werden.",
+   "link": "https://www.dw.com/de/ard-deutschlandtrend-große-mehrheit-sieht-junge-menschen-politisch-benachteiligt-gen-z-proteste-finden-breite-zustimmung/a-79869492?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-05T18:15:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-09T18:15:00+00:00",
+   "img": "https://static.dw.com/image/79821196_302.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "ARD-DeutschlandTrend: Große Mehrheit hat Verständnis für Jugendproteste",
+     "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-november-108.html"
+    }
+   ]
+  },
+  {
+   "id": "n89e51b14de",
+   "topic": "politik",
+   "title": "Kameras in Schlachthöfen: Mehr Überwachung für den Tierschutz",
+   "text": "Der Bundestag hat eine verpflichtende Videoüberwachung in großen Schlachthöfen beschlossen. Doch Ausnahmen für kleine Betriebe und Fragen zur Umsetzung sorgen für Diskussionen. Von Eva Huber.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-tierschutzgesetz-100.html",
+   "published": "2026-11-05T18:02:22+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-08T18:02:22+00:00",
+   "img": "https://images.tagesschau.de/image/9ddfd8db-915b-4ae9-9685-bed94f4b4fc6/AAABoawBJm0/AAABnSSvrFg/16x9-big/schweine-transporter-100.jpg?width=1920"
+  },
+  {
+   "id": "nca6c0f981c",
+   "topic": "welt",
+   "title": "Investor Benko wegen Millionenbetrugs zu weiterer Haftstrafe verurteilt",
+   "text": "Die Vorwürfe gegen den österreichischen Immobilieninvestor René Benko sind umfangreich: Nach einer Verurteilung wegen Gläubigerschädigung im September folgt nun eine weitere wegen Betrugs. Sie ist noch nicht rechtskräftig.",
+   "link": "https://www.tagesschau.de/ausland/europa/benko-prozess-neue-strafe-100.html",
+   "published": "2026-11-05T17:56:47+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-08T17:56:47+00:00",
+   "img": "https://images.tagesschau.de/image/22c9fede-c3b6-42bf-9d65-2296423a5980/AAABoazFYc4/AAABnSSvrFg/16x9-big/rene-benko-126.jpg?width=1920"
+  },
+  {
+   "id": "n81b44470cb",
+   "topic": "it",
+   "title": "Telekom-Chef Tim Höttges: Auch Musk kann für SpaceX-Mobilfunk \"nicht über Wasser gehen\"",
+   "text": "Telekom-Chef Höttges rechnet fest damit, dass Elon Musk mit SpaceX ein viertes US-Mobilfunknetz aufbauen wird und auch nach Europa strebt. ( Elon Musk , Telekom )",
+   "link": "https://www.golem.de/news/telekom-chef-tim-hoettges-musk-kann-fuer-spacex-mobilfunk-nicht-ueber-wasser-gehen-2611-214910.html",
+   "published": "2026-11-05T17:50:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-10T17:50:02+00:00",
+   "img": "https://www.golem.de/2611/214910-607092-607090_rc.jpg"
+  },
+  {
+   "id": "n06381422a2",
+   "topic": "ki",
+   "title": "Baidu veröffentlicht ERNIE 5.5 Flash Base mit 280 Milliarden Parametern als Open-Source-Basismodell",
+   "text": "Baidu veröffentlicht ERNIE 5.5 Flash Base, ein Mixture-of-Experts-Sprachmodell mit 280 Milliarden Parametern, von denen nur 14 Milliarden pro Token aktiv sind. Das auf 33,5 Billionen Token vortrainierte Modell wird ohne Feintuning freigegeben – als Ausgangspunkt für eigene Anpassungen der Community. Der Artikel Baidu …",
+   "link": "https://the-decoder.de/baidu-veroeffentlicht-ernie-5-5-flash-base-mit-280-milliarden-parametern-als-open-source-basismodell/",
+   "published": "2026-11-05T17:44:41+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-12T17:44:41+00:00"
+  },
+  {
+   "id": "n9a0c948fee",
+   "topic": "it",
+   "title": "Führerschein: Bundestag beschließt Reform der Fahrschulausbildung",
+   "text": "Die Reform der Fahrschulausbildung soll den Führerschein billiger machen. Eltern können künftig als \"Fahrpraxisanleiter\" fungieren. ( Mobilität , Auto )",
+   "link": "https://www.golem.de/news/fuehrerschein-bundestag-beschliesst-reform-der-fahrschulausbildung-2611-214907.html",
+   "published": "2026-11-05T17:29:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-10T17:29:01+00:00",
+   "img": "https://www.golem.de/2611/214907-607083-607081_rc.jpg",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Tierschutz - Bundestag beschließt Schlachthöfe-Videoüberwachung und verschiebt Tierhaltungslogo",
+     "link": "https://www.deutschlandfunk.de/bundestag-beschliesst-schlachthoefe-videoueberwachung-und-verschiebt-tierhaltungslogo-102.html"
+    }
+   ]
+  },
+  {
+   "id": "n0cae129389",
+   "topic": "wirtschaft",
+   "title": "Bundestags-Votum: Mehr Vorteile für E-Autos im Stadtverkehr möglich",
+   "text": "Günstiger parken und keine E-Kennzeichen-Pflicht mehr: Der Bundestag hat das reformierte Elektromobilitätsgesetz verabschiedet. Bisher nutzen allerdings nur wenige Kommunen den Spielraum des Gesetzes aus. Von Michael Eiden.",
+   "link": "https://www.tagesschau.de/wirtschaft/energie/elektromobilitaetsgesetz-100.html",
+   "published": "2026-11-05T17:27:08+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-08T17:27:08+00:00",
+   "img": "https://images.tagesschau.de/image/27c52895-be63-4621-b70a-30733f57e3e1/AAABoadNX2A/AAABnSSvrFg/16x9-big/e-auto-174.jpg?width=1920"
+  },
   {
    "id": "n5b1120ccce",
    "topic": "it",
@@ -230,7 +607,7 @@
   {
    "id": "n3a663741c2",
    "topic": "welt",
-   "title": "Ukraine: Korruption und Mafiastrukturen in Geheimdienst und der Polizei?",
+   "title": "Ukraine: Korruption und Mafiastrukturen bei Geheimdienst und Polizei?",
    "text": "Ukrainische Antikorruptionsbehörden haben neue Ermittlungsergebnisse veröffentlicht, die schockieren: Der Korruptionsskandal zieht offenbar noch weitere Kreise als bisher bekannt - und betrifft auch Geheimdienst und Polizei. Von F. Kellermann.",
    "link": "https://www.tagesschau.de/ausland/ukraine-korruption-116.html",
    "published": "2026-11-05T17:03:34+00:00",
@@ -276,7 +653,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-08T17:01:09+00:00",
-   "img": "https://images.tagesschau.de/image/cc3708c1-f48c-43a9-ad65-499b2ce07d74/AAABmamZfiU/AAABnSSvrFg/16x9-big/deutschlandtrend-3337.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/cc3708c1-f48c-43a9-ad65-499b2ce07d74/AAABmamZfiU/AAABnSSvrFg/16x9-big/deutschlandtrend-3337.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "ARD-Deutschlandtrend: Große Mehrheit sieht junge Menschen politisch benachteiligt. Gen-Z-Proteste finden breite Zustimmung.",
+     "link": "https://www.dw.com/de/ard-deutschlandtrend-große-mehrheit-sieht-junge-menschen-politisch-benachteiligt-gen-z-proteste-finden-breite-zustimmung/a-79869492?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
   },
   {
    "id": "n4978e286ad",
@@ -430,7 +814,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-08T15:25:23+00:00",
-   "img": "https://images.tagesschau.de/image/4ce8454c-ad7e-4d63-b0cb-86db5fe55617/AAABoaw0cKY/AAABnSSvrFg/16x9-big/hotel-neuer-fritz-100.jpg?width=1920",
+   "img": "https://images.tagesschau.de/image/4ce8454c-ad7e-4d63-b0cb-86db5fe55617/AAABoazIc-M/AAABnSSvrFg/16x9-big/hotel-neuer-fritz-100.jpg?width=1920",
    "also": [
     {
      "source": "Deutschlandfunk",
@@ -476,7 +860,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-08T14:32:28+00:00",
-   "img": "https://images.tagesschau.de/image/2460cd03-bee3-4439-8157-17c7a3a50c9d/AAABoawgHRI/AAABnSSvrFg/16x9-big/wallbdrige-daenemark-100.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/2460cd03-bee3-4439-8157-17c7a3a50c9d/AAABoa0DFUo/AAABnSSvrFg/16x9-big/wallbdrige-daenemark-100.jpg?width=1920"
   },
   {
    "id": "n47de0e6be7",
@@ -489,7 +873,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-08T14:20:37+00:00",
-   "img": "https://images.tagesschau.de/image/9bc70d70-2865-4654-99e6-7ff106653283/AAABoauPIjQ/AAABnSSvrFg/16x9-big/flugzeug-362.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/9bc70d70-2865-4654-99e6-7ff106653283/AAABoa1MoPo/AAABnSSvrFg/16x9-big/flugzeug-362.jpg?width=1920"
   },
   {
    "id": "n49604f1770",
@@ -633,19 +1017,6 @@
    "lang": "de",
    "expires": "2026-11-08T11:47:58+00:00",
    "img": "https://images.tagesschau.de/image/9e3f005c-31ee-4b68-895b-ad06addf2ad8/AAABoasv5IE/AAABnSSvrFg/16x9-big/strasse-von-hormus-186.jpg?width=1920"
-  },
-  {
-   "id": "n89e51b14de",
-   "topic": "politik",
-   "title": "Kameras in Schlachthöfen: Mehr Überwachung für den Tierschutz",
-   "text": "Der Bundestag berät für einen besseren Tierschutz über verpflichtende Videoüberwachung in großen Schlachthöfen. Doch Ausnahmen für kleine Betriebe und Fragen zur Umsetzung sorgen für Diskussionen. Von Eva Huber.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-tierschutzgesetz-100.html",
-   "published": "2026-11-05T11:26:09+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-08T11:26:09+00:00",
-   "img": "https://images.tagesschau.de/image/9ddfd8db-915b-4ae9-9685-bed94f4b4fc6/AAABoawBJm0/AAABnSSvrFg/16x9-big/schweine-transporter-100.jpg?width=1920"
   },
   {
    "id": "n9e21062d90",
@@ -846,7 +1217,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-07T06:09:33+00:00",
-   "img": "https://bilder.deutschlandfunk.de/da/80/15/be/da8015be-3541-4b5c-a4a8-32c953d0ef6f/pflege-zu-hause-100-1920x1920.jpg"
+   "img": "https://bilder.deutschlandfunk.de/da/80/15/be/da8015be-3541-4b5c-a4a8-32c953d0ef6f/pflege-zu-hause-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Golem.de",
+     "title": "Führerschein: Bundestag beschließt Reform der Fahrschulausbildung",
+     "link": "https://www.golem.de/news/fuehrerschein-bundestag-beschliesst-reform-der-fahrschulausbildung-2611-214907.html"
+    }
+   ]
   },
   {
    "id": "n08bdfabf97",
@@ -1014,14 +1392,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-08T00:10:07+00:00",
-   "img": "https://images.tagesschau.de/image/f7922e28-6c0a-4519-ac03-9b0a79a53300/AAABoakCnb8/AAABnSSvrFg/16x9-big/kiew-statue-102.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Midterms - Wadephul hofft nach US-Kongresswahl auf mehr Unterstützung für Ukraine",
-     "link": "https://www.deutschlandfunk.de/wadephul-hofft-nach-us-kongresswahl-auf-mehr-unterstuetzung-fuer-ukraine-102.html"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/f7922e28-6c0a-4519-ac03-9b0a79a53300/AAABoakCnb8/AAABnSSvrFg/16x9-big/kiew-statue-102.jpg?width=1920"
   },
   {
    "id": "n9f66f471eb",
@@ -1349,374 +1720,6 @@
    "type": "Fachmedium (KI)",
    "lang": "de",
    "expires": "2026-11-11T18:41:03+00:00"
-  },
-  {
-   "id": "n0774f0ec68",
-   "topic": "welt",
-   "title": "Die Ergebnisse der Midterms in den USA in Zahlen und Karten",
-   "text": "In den USA läuft die Auszählung nach den Zwischenwahlen. Wer liegt im Senat und im Repräsentantenhaus vorn? Wer entschied welche Rennen um diese Sitze und um die Gouverneursposten für sich? Ergebnisse in Zahlen und Karten.",
-   "link": "https://www.tagesschau.de/ausland/amerika/midterms-ergebnisse-102.html",
-   "published": "2026-11-04T18:10:21+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-07T18:10:21+00:00",
-   "img": "https://images.tagesschau.de/image/754a03c8-b76b-4d28-b22a-497747d636c4/AAABoac3Lxc/AAABnSSvrFg/16x9-big/midterms-senat-geographisch-100.jpg?width=1920"
-  },
-  {
-   "id": "n1fae516a6c",
-   "topic": "politik",
-   "title": "Deutsche Reaktionen auf Midterms: Gratulation und gedämpfte Erwartungen",
-   "text": "Deutsche Politiker haben die Niederlage der Republikaner bei den US-Midterms begrüßt, dämpfen aber die Erwartung an eine andere Außenpolitik von Präsident Trump. Eine SPD-Politikerin warnt vor einer \"wütenden Ente\" im Weißen Haus.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-deutschland-midterms-100.html",
-   "published": "2026-11-04T18:00:44+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-07T18:00:44+00:00",
-   "img": "https://images.tagesschau.de/image/c2330fb9-9436-4572-b9b8-7038cbf2338d/AAABoafHWvQ/AAABnSSvrFg/16x9-big/trump-merz-124.jpg?width=1920"
-  },
-  {
-   "id": "n832ed641a0",
-   "topic": "wirtschaft",
-   "title": "Marktbericht: DAX-Anleger in Kauflaune",
-   "text": "Der DAX steigt zeitweise auf den höchsten Stand seit zwei Monaten. Neben positiven Unternehmenszahlen sorgt auch die Hoffnung auf mehr politische Berechenbarkeit in den USA für Rückenwind.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-118.html",
-   "published": "2026-11-04T17:31:22+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-07T17:31:22+00:00",
-   "img": "https://images.tagesschau.de/image/3270f35e-94f0-4240-aca1-d48eeae66ca3/AAABmjPoS5c/AAABnSSvrFg/16x9-big/dax-185.jpg?width=1920"
-  },
-  {
-   "id": "nd23df4e805",
-   "topic": "it",
-   "title": "(g+) Wirtschaft: AWS-Manager warnt vor Denkfehler beim KI-Einsatz",
-   "text": "Zeitersparnis allein reicht nicht. In einem Gastbeitrag für Nikkei Asia erklärt ein AWS-Manager, wie Firmen mit KI nicht nur Kosten sparen, sondern mehr Geld verdienen können. Von Jaime Valles ( KI , AWS )",
-   "link": "https://www.golem.de/news/wirtschaft-aws-manager-warnt-vor-denkfehler-beim-ki-einsatz-2611-214864.html",
-   "published": "2026-11-04T17:00:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-09T17:00:02+00:00",
-   "img": "https://www.golem.de/2611/214864-606885-606883_rc.jpg"
-  },
-  {
-   "id": "n731d4fc060",
-   "topic": "wissenschaft",
-   "title": "Neurodiversität: Ähnelt sich ADHS bei Jungen und Mädchen stärker als gedacht?",
-   "text": "Jungen gelten als impulsiv, Mädchen eher als verträumt. Eine große Langzeitstudie deutet nun darauf hin, dass die Unterschiede kleiner ausfallen als oft angenommen.",
-   "link": "https://www.spektrum.de/news/adhs-bei-jungen-und-maedchen-unterschiede-oft-kleiner-als-gedacht/2349976",
-   "published": "2026-11-04T17:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-18T17:00:00+00:00"
-  },
-  {
-   "id": "n5b5513d182",
-   "topic": "nfl",
-   "title": "Former Seahawks draft pick has become one of the NFL’s unlikely sack leaders",
-   "text": "There are only eight players with at least six sacks entering Week 9 of the NFL season, and one of those players is a former Seahawk.",
-   "link": "https://sports.yahoo.com/articles/former-seahawks-draft-pick-become-170000849.html",
-   "published": "2026-11-04T17:00:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-09T17:00:00+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/7af06bfd7f96fbb17f05d65238f21deb.jpg"
-  },
-  {
-   "id": "n7c697a8cfa",
-   "topic": "nfl",
-   "title": "Bills vs Ravens game balls: Far from perfect but several players stepped up for Buffalo",
-   "text": "Handing out game balls for Buffalo’s win over the Baltimore",
-   "link": "https://sports.yahoo.com/articles/bills-vs-ravens-game-balls-170000251.html",
-   "published": "2026-11-04T17:00:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-09T17:00:00+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/f5d1d581c7a42f1fd374ed8fa66448dd.jpg"
-  },
-  {
-   "id": "n5bb6893a1b",
-   "topic": "welt",
-   "title": "Kommentar zu den Midterms: Hoffentlich vermasseln sie es nicht",
-   "text": "Das Rezept der Republikaner, ganz auf US-Präsident Trump und viel Geld zu setzen, ist nicht aufgegangen. Den Demokraten gelang es, Zuversicht zu vermitteln, meint Samuel Jackisch. Diese Chance müssen sie jetzt aber auch nutzen.",
-   "link": "https://www.tagesschau.de/kommentar/usa-midterms-120.html",
-   "published": "2026-11-04T16:50:16+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-07T16:50:16+00:00",
-   "img": "https://images.tagesschau.de/image/12958bfa-d1fd-491a-810e-625fb80e6996/AAABoaddlxk/AAABnSSvrFg/16x9-big/anstecker-demokraten-100.jpg?width=1920"
-  },
-  {
-   "id": "ned65cf8cf6",
-   "topic": "welt",
-   "title": "Nach Sieg bei den Midterms: Welche Optionen die Demokraten haben",
-   "text": "Lahme Ente oder entfesselter Kampfhahn - Meinungen darüber, was die Politik von US-Präsident Trump in den verbleibenden zwei Jahren ausmachen wird, variieren. Die Demokraten jedenfalls kündigen große Vorhaben an - und Trump sein Veto. Von Gabi Biesinger.",
-   "link": "https://www.tagesschau.de/ausland/demokraten-optionen-100.html",
-   "published": "2026-11-04T16:49:39+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-07T16:49:39+00:00",
-   "img": "https://images.tagesschau.de/image/178f7497-ff7d-459a-80a4-f5f5342042d4/AAABoaZgpiU/AAABnSSvrFg/16x9-big/hakeem-jeffries-104.jpg?width=1920"
-  },
-  {
-   "id": "nd516e3703f",
-   "topic": "politik",
-   "title": "Wahlen in den USA - Historische Siege für Demokraten",
-   "text": "Bei den Zwischenwahlen in den USA sind den Demokraten zahlreiche überraschende und bedeutende Siege gelungen, unter anderem in republikanischen Hochburgen wie Kansas oder Texas. Dabei wurden die erste schwarze und die erste indigene Gouverneurin und auch die erste indigene Senatorin gewählt.",
-   "link": "https://www.deutschlandfunk.de/historische-siege-fuer-demokraten-100.html",
-   "published": "2026-11-04T16:48:33+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T16:48:33+00:00",
-   "img": "https://bilder.deutschlandfunk.de/83/e5/f6/a6/83e5f6a6-a420-44a5-a7e0-3398b71d5aa0/midterms-demokraten-100-1920x1920.jpg"
-  },
-  {
-   "id": "n6643dd8b81",
-   "topic": "politik",
-   "title": "Migrationspolitik - Bundeskabinett bringt Halbierung von \"Westbalkan-Kontingent\" auf den Weg",
-   "text": "Die Bundesregierung hat eine Halbierung des Zuwanderungskontingents für Arbeitskräfte aus den Westbalkan-Staaten auf den Weg gebracht.",
-   "link": "https://www.deutschlandfunk.de/bundeskabinett-bringt-halbierung-von-westbalkan-kontingent-auf-den-weg-100.html",
-   "published": "2026-11-04T16:48:33+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T16:48:33+00:00",
-   "img": "https://bilder.deutschlandfunk.de/60/22/17/5c/6022175c-5ce1-4250-9a4c-a0b2d318dfb7/bundeskabinett-kabinett-108-1920x1920.jpg"
-  },
-  {
-   "id": "n6232993577",
-   "topic": "politik",
-   "title": "Umwelt - Laut UNO-Bericht fehlen Milliarden für Kampf gegen Klimawandel",
-   "text": "Um die Folgen des Klimawandels zu bewältigen, sind nach einem Bericht des UNO-Umweltprogramms UNEP bis 2035 jedes Jahr 305 Milliarden US-Dollar notwendig. 2024 ist aber laut einem aktuellen UNEP-Bericht nur rund ein Zehntel dieser Summe von den Industrieländern an die besonders betroffenen Länder im globalen Süden …",
-   "link": "https://www.deutschlandfunk.de/laut-uno-bericht-fehlen-milliarden-fuer-kampf-gegen-klimawandel-100.html",
-   "published": "2026-11-04T16:48:33+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T16:48:33+00:00",
-   "img": "https://bilder.deutschlandfunk.de/NO/VA/_4/90/NOVA_490dca468979f87f0957bad9cc64b2f6/craft-12182247-asset-100-1920x1920.jpg"
-  },
-  {
-   "id": "nfe0f7d352e",
-   "topic": "politik",
-   "title": "Midterms - Wadephul hofft nach US-Kongresswahl auf mehr Unterstützung für Ukraine",
-   "text": "Bundesaußenminister Wadephul hofft nach dem Sieg der US-Demokraten bei den Zwischenwahlen auf eine neue Dynamik zur Unterstützung der Ukraine.",
-   "link": "https://www.deutschlandfunk.de/wadephul-hofft-nach-us-kongresswahl-auf-mehr-unterstuetzung-fuer-ukraine-102.html",
-   "published": "2026-11-04T16:48:33+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T16:48:33+00:00",
-   "img": "https://bilder.deutschlandfunk.de/48/b9/ce/0d/48b9ce0d-3775-447a-9ece-a28ddb83465a/wadephul-atlanta-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Midterms in den USA: Verhaltener Optimismus in der Ukraine nach US-Wahl",
-     "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-zwischenwahl-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n5a2f0fb4f6",
-   "topic": "politik",
-   "title": "Westbalkan - EU-Kommission: Montenegro könnte nächstes EU-Mitglied werden",
-   "text": "Montenegro könnte nach Einschätzung der EU-Kommission das nächste Mitgliedsland der Europäischen Union werden.",
-   "link": "https://www.deutschlandfunk.de/eu-kommission-montenegro-koennte-naechstes-eu-mitglied-werden-102.html",
-   "published": "2026-11-04T16:48:33+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T16:48:33+00:00",
-   "img": "https://bilder.deutschlandfunk.de/2d/50/d1/57/2d50d157-e8fe-46b5-9447-905fcded8925/eu-montenegro-beitritt-westbalkan-100-1920x1920.jpg"
-  },
-  {
-   "id": "nf5885f90c1",
-   "topic": "politik",
-   "title": "\"Checks and Balances\" - USA nach den Zwischenwahlen: Welche Folgen hat das Ergebnis für Präsident Trump?",
-   "text": "Die Ergebnisse der Zwischenwahlen haben weitreichende Folgen für den politischen Prozess in den USA. Denn durch die Mehrheit der Demokraten in beiden Kongresskammern wird es für Präsident Trump schwieriger, seine politischen Ziele durchzusetzen. Die Auswirkungen im Überblick.",
-   "link": "https://www.deutschlandfunk.de/usa-nach-den-zwischenwahlen-welche-folgen-hat-das-ergebnis-fuer-praesident-trump-100.html",
-   "published": "2026-11-04T16:48:33+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T16:48:33+00:00",
-   "img": "https://bilder.deutschlandfunk.de/60/d1/a4/10/60d1a410-682b-4c97-b0ec-835af37b9898/capitol-washington-kongress-usa-100-1920x1920.jpg"
-  },
-  {
-   "id": "n2b4d9d67fb",
-   "topic": "politik",
-   "title": "Deutsche Nationalbibliothek in Frankfurt wird 80: Fünf (un)nütze Fakten",
-   "text": "Zusammen mit dem Standort Leipzig gehört die Deutsche Nationalbibliothek zu den größten Bibliotheken der Welt. Dieses Jahr feiert sie 80. Geburtstag. Gesammelt wird hier alles, was auf Papier gedruckt wird – und mehr.",
-   "link": "https://www.hessenschau.de/kultur/deutsche-nationalbibliothek-in-frankfurt-wird-80-fuenf-unnuetze-fakten-v1,80-jahre-nationalbibliothek-angeberwissen-100.html",
-   "published": "2026-11-04T16:45:13+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-08T16:45:13+00:00",
-   "img": "https://www.hr2.de/veranstaltungen/kulturverfuehrung/hr2-kvf_dnb_12-23_-102~_t-1699611943340_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "naf72a44489",
-   "topic": "it",
-   "title": "Nokia: KI wird fast die Hälfte des Netzwerkverkehrs ausmachen",
-   "text": "Autonome Agenten werden den weltweiten Datenverkehr fundamental verändern. Hintergrund ist der Einstieg von Nvidia bei Nokia und die Umstellung auf AI-RAN-Hardware. ( Nokia , Nvidia )",
-   "link": "https://www.golem.de/news/nokia-ki-wird-fast-die-haelfte-des-netzwerkverkehrs-ausmachen-2611-214863.html",
-   "published": "2026-11-04T16:44:01+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-09T16:44:01+00:00",
-   "img": "https://www.golem.de/2611/214863-606881-606879_rc.jpg"
-  },
-  {
-   "id": "na6dde221f6",
-   "topic": "wissenschaft",
-   "title": "Jeder vierte Jugendliche bewegt sich laut WHO kaum",
-   "text": "Sport und Bewegung gehören für viele Kinder und Jugendliche nicht mehr zum Alltag. Nur 14 Prozent bewegen sich laut WHO täglich für eine Stunde mäßig bis intensiv. Auch in Deutschland gibt es viele Bewegungsmuffel.",
-   "link": "https://www.tagesschau.de/wissen/gesundheit/kinder-jugendliche-bewegung-100.html",
-   "published": "2026-11-04T16:37:10+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-18T16:37:10+00:00",
-   "img": "https://images.tagesschau.de/image/b663d58e-c338-4105-8431-d2bb45fae639/AAABoadT0Xs/AAABnSSvrFg/16x9-big/jugendliche-228.jpg?width=1920",
-   "also": [
-    {
-     "source": "Spektrum der Wissenschaft",
-     "title": "Bewegungsmangel: Jeder vierte Jugendliche treibt keinen Sport",
-     "link": "https://www.spektrum.de/news/bewegungsmangel-jeder-vierte-jugendliche-treibt-keinen-sport/2352755"
-    }
-   ]
-  },
-  {
-   "id": "n7b1889ec31",
-   "topic": "it",
-   "title": "iPhone Duo: Warum viele Apps noch nicht richtig angepasst sind",
-   "text": "Nicht angepasste Apps trüben das Vergnügen mit Apples erstem faltbaren iPhone noch mit schwarzen Balken. Doch das dürfte sich bald ändern.",
-   "link": "https://www.heise.de/news/iPhone-Duo-Warum-viele-Apps-noch-nicht-richtig-angepasst-sind-11512597.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-04T16:36:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-09T16:36:00+00:00"
-  },
-  {
-   "id": "na0f976204a",
-   "topic": "it",
-   "title": "heise+ | So hackt sich Google mit KI selbst: Interview mit dem Leiter der Red Teams",
-   "text": "Daniel Fabian hat in seinen knapp 17 Jahren bei Google viel gesehen. Im Interview erzählt er uns, wie KI seine Arbeit nachhaltig verändert hat.",
-   "link": "https://www.heise.de/hintergrund/So-hackt-sich-Google-mit-KI-selbst-Interview-mit-dem-Leiter-der-Red-Teams-11471434.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-   "published": "2026-11-04T16:30:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-09T16:30:00+00:00"
-  },
-  {
-   "id": "nbe3bf8812a",
-   "topic": "politik",
-   "title": "Bund fördert Schwimmenlernen mit 20 Millionen Euro",
-   "text": "Mehr als die Hälfte aller Grundschulkinder in Deutschland kann nicht sicher schwimmen. Mit einem Förderprogramm von 20 Millionen Euro will der Bund das ändern. Schwimmverbände und Hilfsorganisationen sollen dabei helfen.",
-   "link": "https://www.tagesschau.de/inland/foerderprogramm-bund-schwimmen-100.html",
-   "published": "2026-11-04T16:29:29+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-07T16:29:29+00:00",
-   "img": "https://images.tagesschau.de/image/825da6fc-947a-40b8-b773-c13747ce4301/AAABoacWcOE/AAABnSSvrFg/16x9-big/junge-schwimmbad-100.jpg?width=1920"
-  },
-  {
-   "id": "n1a3a9b6258",
-   "topic": "ki",
-   "title": "CloudOpsBench testet KI-Modelle bei DevOps und selbst die besten lösen nur 60 Prozent",
-   "text": "CloudOpsBench ist ein neuer Open-Source-Benchmark, der misst, wie gut KI-Agenten typische DevOps-Aufgaben in der Cloud bewältigen: Dienste reparieren, Ressourcen entfernen, Zugriffsrechte einschränken, Updates ausrollen oder Projekte stilllegen. Der Artikel CloudOpsBench testet KI-Modelle bei DevOps und selbst die …",
-   "link": "https://the-decoder.de/cloudopsbench-testet-ki-modelle-bei-devops-und-selbst-die-besten-loesen-nur-60-prozent/",
-   "published": "2026-11-04T16:15:52+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-11T16:15:52+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2025/02/Huginn-RM-title.png"
-  },
-  {
-   "id": "neb5fb6abb0",
-   "topic": "welt",
-   "title": "Ukraine: Oleschky-Mission als erster Schritt zum Frieden?",
-   "text": "Aus Oleschky wurden Hunderte Zivilisten evakuiert. Manche Beobachter sprechen von einer erfolgreichen humanitären Mission, andere warnen, Russland habe die Waffenruhe genutzt, um seine militärische Position zu stärken.",
-   "link": "https://www.dw.com/de/ukraine-oleschky-mission-als-erster-schritt-zum-frieden/a-79843995?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-04T16:07:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-08T16:07:00+00:00",
-   "img": "https://static.dw.com/image/79817132_302.jpg"
-  },
-  {
-   "id": "n03b2231439",
-   "topic": "wirtschaft",
-   "title": "Deutsche verbrauchen 2026 weniger Energie - das hat einen Grund",
-   "text": "Deutschlands Energieverbrauch sinkt laut Experten in diesem Jahr. Besonders beim Heizöl halten sich die Haushalte zurück, zugleich wächst der Anteil Erneuerbarer Energien.",
-   "link": "https://www.tagesschau.de/wirtschaft/energie/energiebilanz-heizoel-100.html",
-   "published": "2026-11-04T16:05:31+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-07T16:05:31+00:00",
-   "img": "https://images.tagesschau.de/image/78c568a6-125b-49b1-9cba-55942391a1a4/AAABlJb-XHw/AAABnSSvrFg/16x9-big/heizoel-108.jpg?width=1920"
-  },
-  {
-   "id": "n04097e3902",
-   "topic": "wissenschaft",
-   "title": "Bewegungsmangel: Jeder vierte Jugendliche treibt keinen Sport",
-   "text": "Laut WHO ist ein Viertel der 11- bis 17-Jährigen kaum oder gar nicht körperlich aktiv. Zwischen Mädchen und Jungs zeigen sich dabei deutliche Unterschiede.",
-   "link": "https://www.spektrum.de/news/bewegungsmangel-jeder-vierte-jugendliche-treibt-keinen-sport/2352755",
-   "published": "2026-11-04T16:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-18T16:00:00+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Jeder vierte Jugendliche bewegt sich laut WHO kaum",
-     "link": "https://www.tagesschau.de/wissen/gesundheit/kinder-jugendliche-bewegung-100.html"
-    }
-   ]
-  },
-  {
-   "id": "na637307e23",
-   "topic": "it",
-   "title": "Griechischer Satellit testet Laserkommunikation zur Erde",
-   "text": "Ein in Griechenland entwickelter Satellit hat erfolgreich Laserkommunikation aus dem All getestet. Die eingesetzte Technik stammt aus Europa.",
-   "link": "https://www.heise.de/news/Griechischer-Satellit-testet-Laserkommunikation-zur-Erde-11512517.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-04T15:43:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-09T15:43:00+00:00"
-  },
-  {
-   "id": "nf36893f06e",
-   "topic": "welt",
-   "title": "Reaktionen auf US-Wahlergebnis: Verhaltene Freude, vorsichtige Hoffnung",
-   "text": "Der spektakuläre Triumph der US-Demokraten bei den Zwischenwahlen hat weltweit Reaktionen ausgelöst: Russland setzt weiter auf Präsident Trump, China hält sich bedeckt, in der EU und Südafrika macht sich Hoffnung breit.",
-   "link": "https://www.tagesschau.de/ausland/amerika/midterms-usa-internationale-reaktionen-100.html",
-   "published": "2026-11-04T15:42:29+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-07T15:42:29+00:00",
-   "img": "https://images.tagesschau.de/image/b3cb576f-40ba-47ba-a7cc-7f7564434499/AAABoab4aBc/AAABnSSvrFg/16x9-big/flagge-kapitol-100.jpg?width=1920"
   }
  ]
 }
