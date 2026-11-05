@@ -1,50 +1,360 @@
 {
- "generated": "2026-11-04T23:40:02.059621+00:00",
+ "generated": "2026-11-05T06:47:49.368666+00:00",
  "briefing": [
   "nb63285c8ca",
   "na6af393098",
+  "n79b29d7bac",
   "n9f66f471eb",
-  "n234d1619f6",
-  "nafea15b940",
+  "ncdc8873bc1",
+  "n2d510726eb",
   "na8403d500f",
-  "nd199286462",
-  "nad40f3f911"
+  "nd199286462"
  ],
  "ranked": [
   {
    "id": "nb63285c8ca",
-   "s": 40.6
+   "s": 38.8
   },
   {
    "id": "na6af393098",
-   "s": 38.6
+   "s": 37.0
+  },
+  {
+   "id": "n79b29d7bac",
+   "s": 31.3
   },
   {
    "id": "n9f66f471eb",
-   "s": 33.0
+   "s": 31.2
   },
   {
-   "id": "n234d1619f6",
-   "s": 28.2
-  },
-  {
-   "id": "nafea15b940",
+   "id": "ncdc8873bc1",
    "s": 27.0
   },
   {
+   "id": "n2d510726eb",
+   "s": 22.8
+  },
+  {
    "id": "na8403d500f",
-   "s": 23.0
+   "s": 21.2
   },
   {
    "id": "nd199286462",
-   "s": 23.0
-  },
-  {
-   "id": "nad40f3f911",
-   "s": 23.0
+   "s": 21.2
   }
  ],
  "items": [
+  {
+   "id": "nd7609f5dc5",
+   "topic": "politik",
+   "title": "Nach Zivilklausel-Entscheidung: Polizei räumt besetzten Hörsaal an Uni Kassel",
+   "text": "Am frühen Morgen hat die Polizei einen besetzten Hörsaal der Uni Kassel geräumt. Sechs Beamte wurden dabei leicht verletzt. Die Studierenden hatten dagegen protestiert, dass sich die Uni der Zusammenarbeit mit Rüstungsfirmen öffnet.",
+   "link": "https://www.hessenschau.de/gesellschaft/nach-zivilklausel-entscheidung-polizei-raeumt-besetzten-hoersaal-an-uni-kassel-v1,hoersaal-besetzung-kassel-100.html",
+   "published": "2026-11-05T06:36:08+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-09T06:36:08+00:00",
+   "img": "https://www.hessenschau.de/nordhessen/protest-uni-kassel-102~_t-1793860820708_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "nb9456f364f",
+   "topic": "politik",
+   "title": "Reaktionen auf Tod Aiwangers: Söder spricht von \"absoluter Tragödie\"",
+   "text": "Der unerwartete Tod von Hubert Aiwanger mit 55 Jahren hat parteiübergreifend Bestürzung ausgelöst. Der Chef der Freien Wähler war leblos in einem Hotel aufgefunden worden. Bayerns Ministerpräsident Söder sprach von einer \"absoluten Tragödie\".",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-gestorben-reaktionen-100.html",
+   "published": "2026-11-05T06:31:26+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-08T06:31:26+00:00",
+   "img": "https://images.tagesschau.de/image/9526788b-a593-416f-9d83-7c024e337cc0/AAABoapntBI/AAABnSSvrFg/16x9-big/hubert-aiwanger-204.jpg?width=1920"
+  },
+  {
+   "id": "n1d17ca2292",
+   "topic": "it",
+   "title": "Domain-Jubiläum: Wie KI und Apps die Bedeutung von .de verändern",
+   "text": "Für „shopping.de“ wurden fast zwei Millionen Euro gezahlt, heute gibt es über 18 Millionen .de-Domains. Apps und KI verändern, wie wir Adressen im Netz nutzen.",
+   "link": "https://www.heise.de/news/de-wird-40-Deutschlands-digitale-Adresse-im-Wandel-11511264.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-05T06:21:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-10T06:21:00+00:00"
+  },
+  {
+   "id": "n86a60fb30a",
+   "topic": "wirtschaft",
+   "title": "Marktbericht: DAX nähert sich dem Rekordhoch",
+   "text": "Nach den US-Zwischenwahlen ist die Euphorie an den Börsen groß: Der DAX robbt sich immer näher an sein Rekordhoch heran. Hilfreich ist auch der sinkende Ölpreis, der den Inflationsdruck senken könnte.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zwischenwahlen-100.html",
+   "published": "2026-11-05T06:20:58+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-08T06:20:58+00:00",
+   "img": "https://images.tagesschau.de/image/fe99f018-c075-4100-b866-642ea2df054d/AAABmnbk3IY/AAABnSSvrFg/16x9-big/boerse-466.jpg?width=1920"
+  },
+  {
+   "id": "n01248c0b28",
+   "topic": "it",
+   "title": "Forscher setzen KI zur Erzeugung von Legierungen aus Metallschrott ein",
+   "text": "Forscher nutzen KI, um leistungsfähigere Metalllegierungen aus Altmetall zu erzeugen. Das soll die Metallherstellung umweltfreundlicher machen – und günstiger.",
+   "link": "https://www.heise.de/news/Forscher-setzen-KI-zur-Erzeugung-von-Legierungen-aus-Metallschrott-ein-11512695.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-05T06:11:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-10T06:11:00+00:00"
+  },
+  {
+   "id": "nce399c2ee6",
+   "topic": "politik",
+   "title": "Bayern - Freie Wähler-Chef Hubert Aiwanger im Alter von 55 Jahren gestorben",
+   "text": "Der bayerische Wirtschaftsminister und Bundesvorsitzende der Freien Wähler, Hubert Aiwanger, ist tot. Nach Angaben der Berliner Staatsanwaltschaft wurde er in einem Hotel in der Hauptstadt tot aufgefunden. Aiwanger wurde 55 Jahre alt.",
+   "link": "https://www.deutschlandfunk.de/freie-waehler-chef-hubert-aiwanger-im-alter-von-55-jahren-gestorben-108.html",
+   "published": "2026-11-05T06:09:33+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T06:09:33+00:00",
+   "img": "https://bilder.deutschlandfunk.de/21/28/6d/04/21286d04-8165-4832-a33e-90b523a90282/hubert-aiwanger-124-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Bayerns Wirtschaftsminister Hubert Aiwanger ist tot",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/hubert-aiwanger-tot-100.html"
+    }
+   ]
+  },
+  {
+   "id": "na77f056d68",
+   "topic": "politik",
+   "title": "Nach den \"Midterms\" - Präsident Trump und Vize Vance nach Republikaner-Niederlage bei US-Kongresswahlen uneins über Fortführung des Iran-Kriegs",
+   "text": "Nach der Niederlage der Republikaner bei den US-Kongresswahlen zeichnet sich Uneinigkeit zwischen Präsident Trump und seinem Stellvertreter Vance bezüglich einer Fortführung des Iran-Kriegs ab.",
+   "link": "https://www.deutschlandfunk.de/praesident-trump-und-vize-vance-nach-republikaner-niederlage-bei-us-kongresswahlen-uneins-ueber-fort-106.html",
+   "published": "2026-11-05T06:09:33+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T06:09:33+00:00",
+   "img": "https://bilder.deutschlandfunk.de/6b/90/84/a3/6b9084a3-e0c1-44b3-a5c9-e16bc4868288/jd-vance-us-vizepraesident-100-1280x1280.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Liveblog zu den Midterms: ++ Trump verteidigt Iran-Krieg ++",
+     "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html"
+    }
+   ]
+  },
+  {
+   "id": "nee250aa716",
+   "topic": "politik",
+   "title": "Bundespräsidentinnenwahl - Unionsfraktionschef Frei nennt die bayerische Landtagspräsidentin Aigner eine \"hervorragende Personalie\"",
+   "text": "Der Vorsitzende der Unionsfraktion im Bundestag, Frei, hat die Erwartung geäußert, dass der Vorschlag von CDU und CSU für das Amt der Bundespräsidentin parteiübergreifend auf breite Zustimmung stoßen werde. Dass die bayerische Landtagspräsidentin Aigner, CSU, eine ganz hervorragende Personalie sei, habe sie über viele …",
+   "link": "https://www.deutschlandfunk.de/unionsfraktionschef-frei-nennt-die-bayerische-landtagspraesidentin-aigner-eine-hervorragende-persona-100.html",
+   "published": "2026-11-05T06:09:33+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T06:09:33+00:00"
+  },
+  {
+   "id": "n8c5ea8496e",
+   "topic": "politik",
+   "title": "Altersvorsorge - Kapitalrente aufs neue Jahr verschoben - junge Unionsabgeordnete sauer",
+   "text": "Der Vorsitzende der \"Jungen Gruppe\" der Unionsfraktion, Reddig, hat die Verzögerung bei der geplanten Kapitalrente kritisiert.",
+   "link": "https://www.deutschlandfunk.de/kapitalrente-aufs-neue-jahr-verschoben-junge-unionsabgeordnete-sauer-100.html",
+   "published": "2026-11-05T06:09:33+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T06:09:33+00:00",
+   "img": "https://bilder.deutschlandfunk.de/c4/14/10/7f/c414107f-3d22-49c9-a918-c33e17e4679d/pascal-reddig-100-1920x1920.jpg"
+  },
+  {
+   "id": "n2d510726eb",
+   "topic": "politik",
+   "title": "Erste Lesung - Bundestag berät über Pläne der Regierung für eine Reform der Pflegeversicherung",
+   "text": "Der Bundestag debattiert heute erstmals über die Pflegereform.",
+   "link": "https://www.deutschlandfunk.de/bundestag-beraet-ueber-plaene-der-regierung-fuer-eine-reform-der-pflegeversicherung-110.html",
+   "published": "2026-11-05T06:09:33+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T06:09:33+00:00",
+   "img": "https://bilder.deutschlandfunk.de/da/80/15/be/da8015be-3541-4b5c-a4a8-32c953d0ef6f/pflege-zu-hause-100-1920x1920.jpg"
+  },
+  {
+   "id": "n08bdfabf97",
+   "topic": "politik",
+   "title": "\"White Tiger\" - NVE-Szene: Experten warnen vor Extremismus ohne Ideologien als wachsende Gefahr in Deutschland",
+   "text": "Extremismus ohne klare politische oder religiöse Ideologie entwickelt sich nach Einschätzung von Experten zu einer wachsenden Gefahr in Deutschland.",
+   "link": "https://www.deutschlandfunk.de/nve-szene-experten-warnen-vor-extremismus-ohne-ideologien-als-wachsende-gefahr-in-deutschland-100.html",
+   "published": "2026-11-05T06:09:33+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-07T06:09:33+00:00",
+   "img": "https://bilder.deutschlandfunk.de/c5/34/0e/ea/c5340eea-8b2a-47f8-8297-15b288d24a14/fall-white-tiger-100-1920x1920.jpg"
+  },
+  {
+   "id": "n385b0bf47d",
+   "topic": "it",
+   "title": "heise+ | Yamaha XSR 900 im Test: Ein Sportgerät, getarnt als Retro-Bike",
+   "text": "Die Yamaha XSR 900 kombiniert den bewährten Dreizylinder mit dem Stil der 80er-Jahre. Wer Spaß auf der Landstraße schätzt und gern auffällt, sitzt hier richtig.",
+   "link": "https://www.heise.de/tests/Yamaha-XSR-900-im-Test-Ein-Sportgeraet-getarnt-als-Retro-Bike-11461883.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+   "published": "2026-11-05T06:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-10T06:00:00+00:00"
+  },
+  {
+   "id": "n29c18aeabc",
+   "topic": "welt",
+   "title": "US-Demokraten: Der gemäßigte Kurs verspricht weitere Erfolge",
+   "text": "Nach den Midterms sieht sich der linke Parteiflügel der Demokraten gestärkt, doch Top-Demokraten im Kongress setzen auf einen gemäßigten Kurs. Auch Experten sagen: Das hilft in einem \"Mitte-Rechts-Land\". Von C. Kühntopp.",
+   "link": "https://www.tagesschau.de/ausland/amerika/midterms-demokraten-100.html",
+   "published": "2026-11-05T05:57:08+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-08T05:57:08+00:00",
+   "img": "https://images.tagesschau.de/image/76f0f48a-255d-429a-af66-cbdadb24ae28/AAABoaovwyY/AAABnSSvrFg/16x9-big/demokraten-jeffries-100.jpg?width=1920"
+  },
+  {
+   "id": "n7a3da18ee4",
+   "topic": "politik",
+   "title": "Bundestag debattiert über Pflegereform",
+   "text": "Der Bundestag debattiert heute über eine erste Pflegereform. Die große Strukturreform soll dann im neuen Jahr folgen. Was kommt damit auf Angehörige zu? Von Birthe Sönnichsen.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/pflege-reform-bundestag-100.html",
+   "published": "2026-11-05T05:52:28+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-08T05:52:28+00:00",
+   "img": "https://images.tagesschau.de/image/c74becb4-5a80-4b29-baa7-3c14f4377c41/AAABnp0SwIo/AAABnSSvrFg/16x9-big/pflege-angehoerige-102.jpg?width=1920"
+  },
+  {
+   "id": "nbb9a2dabc5",
+   "topic": "welt",
+   "title": "Liveblog zu den Midterms: ++ Trump verteidigt Iran-Krieg ++",
+   "text": "US-Präsident Trump hat trotz des Wahldebakels betont, am Kurs im Iran-Krieg festhalten zu wollen. Außenminister Wadephul erwartet weiterhin eine konstruktive Zusammenarbeit mit der US-Regierung.",
+   "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
+   "published": "2026-11-05T05:16:43+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-08T05:16:43+00:00",
+   "img": "https://images.tagesschau.de/image/74e6c976-51e1-4bc8-b302-43b9965bad5e/AAABoagNzso/AAABnSSvrFg/16x9-big/trump-5418.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Nach den \"Midterms\" - Präsident Trump und Vize Vance nach Republikaner-Niederlage bei US-Kongresswahlen uneins über Fortführung des Iran-Kriegs",
+     "link": "https://www.deutschlandfunk.de/praesident-trump-und-vize-vance-nach-republikaner-niederlage-bei-us-kongresswahlen-uneins-ueber-fort-106.html"
+    }
+   ]
+  },
+  {
+   "id": "n8ba39371b0",
+   "topic": "nfl",
+   "title": "Josh Jacobs not expecting to miss more time",
+   "text": "Green Bay Packers RB Josh Jacobs confident he will avoid more punishment",
+   "link": "https://sports.yahoo.com/articles/josh-jacobs-not-expecting-miss-041038792.html",
+   "published": "2026-11-05T04:10:38+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-10T04:10:38+00:00"
+  },
+  {
+   "id": "n91e9c19e23",
+   "topic": "welt",
+   "title": "Strafen gegen Vucic-Propagandasendungen bei Informer und Prva in Serbien",
+   "text": "Nach dem Wahlsieg der Studentischen Liste sind erste Veränderungen schon spürbar. Eine serbische Medienaufsichtsbehörde hat Zwangspausen gegen Vucic-Propagandasendungen verhängt. Von Oliver Soos.",
+   "link": "https://www.tagesschau.de/ausland/europa/serbien-medienaufsicht-strafe-100.html",
+   "published": "2026-11-05T04:05:08+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-08T04:05:08+00:00",
+   "img": "https://images.tagesschau.de/image/ec39890e-6646-43e7-9fe4-722aa52eb9de/AAABoalNKbo/AAABnSSvrFg/16x9-big/medien-serbien-100.jpg?width=1920"
+  },
+  {
+   "id": "n86649f9138",
+   "topic": "politik",
+   "title": "Suche nach mehrheitsfähiger Kandidatin: Merz und die Bundespräsidentinnen-Frage",
+   "text": "Eine Frau soll es werden - so weit hat sich Kanzler Merz in der Bundespräsidenten-Frage festgelegt. Einige Namen kursieren, doch welche Kandidatin hätte genug Rückhalt? Eine Entscheidung dürfte in Kürze fallen. Von Tina Handel.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/bundespraesident-wahl-kandidatinnen-100.html",
+   "published": "2026-11-05T03:21:38+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-08T03:21:38+00:00",
+   "img": "https://images.tagesschau.de/image/73406896-4829-4187-9def-0e859f03a207/AAABlgt9I-8/AAABnSSvrFg/16x9-big/bellevue-129.jpg?width=1920"
+  },
+  {
+   "id": "n06f1300ecd",
+   "topic": "nfl",
+   "title": "Have faith in Josh Wallace",
+   "text": "Rams are in good hands with Josh Wallace following Jaylen Watson’s season-ending injury",
+   "link": "https://sports.yahoo.com/articles/faith-josh-wallace-031512796.html",
+   "published": "2026-11-05T03:15:12+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-10T03:15:12+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/118cec8801df3444290aca98f7ac6297.jpg"
+  },
+  {
+   "id": "n4c4c43ae23",
+   "topic": "nfl",
+   "title": "NFL Week 9 injury report: Micah Parsons returns to Packers practice, Rams lose Jaylen Watson for season",
+   "text": "Parsons has opened his 21-day practice window, while Jackson, Sam Darnold and Deshaun Watson headline the notable quarterback injuries entering Week 9",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-9-injury-report-micah-parsons-jaylen-watson-rams/",
+   "published": "2026-11-05T03:07:09+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-10T03:07:09+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/31/83777f86-2b40-428b-8328-dc3d10423791/micah-parsons-packers-3.jpg"
+  },
+  {
+   "id": "nd03111c85a",
+   "topic": "welt",
+   "title": "Frankreich: Nach den Protesten sollen jetzt Streiks folgen",
+   "text": "Die wichtigsten Gewerkschaften in Frankreich haben für heute zu Streiks und landesweiten Protesten aufgerufen. Auch die Proteste der Schüler und Studierenden schließen sich an. Kann das funktionieren? Von C. Dylla.",
+   "link": "https://www.tagesschau.de/ausland/europa/proteste-streiks-frankreich-100.html",
+   "published": "2026-11-05T01:52:28+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-08T01:52:28+00:00",
+   "img": "https://images.tagesschau.de/image/e892caa1-f741-42e7-a5bb-86e590c84907/AAABoak1rHw/AAABnSSvrFg/16x9-big/paris-protest-106.jpg?width=1920"
+  },
+  {
+   "id": "n79b29d7bac",
+   "topic": "welt",
+   "title": "Midterms in den USA: Verhaltener Optimismus in der Ukraine nach US-Wahl",
+   "text": "Die Wahlschlappe von Trumps Republikanern lässt viele in der Ukraine auf einen Kurswechsel der USA hoffen. Doch ob es tatsächlich so schnell zu Veränderungen kommt, daran zweifelt man. Von F. Kellermann.",
+   "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-zwischenwahl-100.html",
+   "published": "2026-11-05T00:10:07+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-08T00:10:07+00:00",
+   "img": "https://images.tagesschau.de/image/f7922e28-6c0a-4519-ac03-9b0a79a53300/AAABoakCnb8/AAABnSSvrFg/16x9-big/kiew-statue-102.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Midterms - Wadephul hofft nach US-Kongresswahl auf mehr Unterstützung für Ukraine",
+     "link": "https://www.deutschlandfunk.de/wadephul-hofft-nach-us-kongresswahl-auf-mehr-unterstuetzung-fuer-ukraine-102.html"
+    }
+   ]
+  },
   {
    "id": "n9f66f471eb",
    "topic": "politik",
@@ -60,48 +370,8 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Bayern - Freie-Wähler-Chef Hubert Aiwanger im Alter von 55 Jahren gestorben",
+     "title": "Bayern - Freie Wähler-Chef Hubert Aiwanger im Alter von 55 Jahren gestorben",
      "link": "https://www.deutschlandfunk.de/freie-waehler-chef-hubert-aiwanger-im-alter-von-55-jahren-gestorben-108.html"
-    }
-   ]
-  },
-  {
-   "id": "nce399c2ee6",
-   "topic": "politik",
-   "title": "Bayern - Freie-Wähler-Chef Hubert Aiwanger im Alter von 55 Jahren gestorben",
-   "text": "Der bayerische Wirtschaftsminister und Bundesvorsitzende der Freien Wähler, Hubert Aiwanger, ist tot. Nach Angaben der Berliner Staatsanwaltschaft wurde er in einem Hotel in der Hauptstadt tot aufgefunden. Aiwanger wurde 55 Jahre alt.",
-   "link": "https://www.deutschlandfunk.de/freie-waehler-chef-hubert-aiwanger-im-alter-von-55-jahren-gestorben-108.html",
-   "published": "2026-11-04T23:32:43+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T23:32:43+00:00",
-   "img": "https://bilder.deutschlandfunk.de/7f/88/8d/56/7f888d56-d05f-4b67-8264-bb1cdf5fa2d7/hubert-aiwanger-120-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Bayerns Wirtschaftsminister Hubert Aiwanger ist tot",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/hubert-aiwanger-tot-100.html"
-    }
-   ]
-  },
-  {
-   "id": "na77f056d68",
-   "topic": "politik",
-   "title": "Nach den \"Midterms\" - Präsident Trump und Vize Vance nach Republikaner-Niederlage bei US-Kongresswahlen uneins über Fortführung des Iran-Kriegs",
-   "text": "Nach der Niederlage der Republikaner bei den US-Kongresswahlen zeichnet sich Uneinigkeit zwischen Präsident Trump und seinem Stellvertreter Vance bezüglich einer Fortführung des Iran-Kriegs ab.",
-   "link": "https://www.deutschlandfunk.de/praesident-trump-und-vize-vance-nach-republikaner-niederlage-bei-us-kongresswahlen-uneins-ueber-fort-106.html",
-   "published": "2026-11-04T23:32:43+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T23:32:43+00:00",
-   "img": "https://bilder.deutschlandfunk.de/6b/90/84/a3/6b9084a3-e0c1-44b3-a5c9-e16bc4868288/jd-vance-us-vizepraesident-100-1280x1280.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Liveblog zu den Midterms: ++ Trump verteidigt Iran-Krieg ++",
-     "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html"
     }
    ]
   },
@@ -141,8 +411,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-11-06T23:32:43+00:00",
-   "img": "https://bilder.deutschlandfunk.de/4d/60/d9/f2/4d60d9f2-7a74-4d6f-aa5d-d5a53a483e5a/571774613-100-1920x1920.jpg"
+   "expires": "2026-11-06T23:32:43+00:00"
   },
   {
    "id": "na3c2f10859",
@@ -198,7 +467,7 @@
    "id": "n2e976028bb",
    "topic": "it",
    "title": "Sven Knapp: Breko warnt vor Schein-Verhandlungen beim Open Access",
-   "text": "Der Bundestag debattiert über die Novelle des Telekommunikationsgesetzes - doch aus Sicht der alternativen Netzbetreiber steuert das Gesetz gegen die eigenen Ziele, so der Breko. ( Breko , Open Access )",
+   "text": "Der Bundestag debattiert über die Novelle des Telekommunikationsgesetzes - doch aus Sicht der alternativen Netzbetreiber steuert das Gesetz laut Breko gegen die eigenen Ziele. ( Breko , Open Access )",
    "link": "https://www.golem.de/news/sven-knapp-breko-warnt-vor-schein-verhandlungen-beim-open-access-2611-214872.html",
    "published": "2026-11-04T23:15:02+00:00",
    "source": "Golem.de",
@@ -219,26 +488,6 @@
    "lang": "de",
    "expires": "2026-11-09T22:23:02+00:00",
    "img": "https://www.golem.de/2611/214871-606921-606919_rc.jpg"
-  },
-  {
-   "id": "nbb9a2dabc5",
-   "topic": "welt",
-   "title": "Liveblog zu den Midterms: ++ Trump verteidigt Iran-Krieg ++",
-   "text": "US-Präsident Trump hat trotz des Wahldebakels betont, am Kurs im Iran-Krieg festhalten zu wollen. Außenminister Wadephul erwartet weiterhin eine konstruktive Zusammenarbeit mit der US-Regierung.",
-   "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
-   "published": "2026-11-04T22:08:00+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-07T22:08:00+00:00",
-   "img": "https://images.tagesschau.de/image/74e6c976-51e1-4bc8-b302-43b9965bad5e/AAABoagNzso/AAABnSSvrFg/16x9-big/trump-5418.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Nach den \"Midterms\" - Präsident Trump und Vize Vance nach Republikaner-Niederlage bei US-Kongresswahlen uneins über Fortführung des Iran-Kriegs",
-     "link": "https://www.deutschlandfunk.de/praesident-trump-und-vize-vance-nach-republikaner-niederlage-bei-us-kongresswahlen-uneins-ueber-fort-106.html"
-    }
-   ]
   },
   {
    "id": "n74952a2abe",
@@ -334,7 +583,7 @@
   {
    "id": "nbf07732d5f",
    "topic": "politik",
-   "title": "Gen-Z-Protest: Bundestag debattiert über Konsequenzen nach Krawallen",
+   "title": "\"Gen-Z\"-Protest: Bundestag debattiert über Konsequenzen nach Krawallen",
    "text": "Die Krawalle vom Wochenende haben den Bundestag erreicht. In einer Aktuellen Stunde herrschte weitgehend Einigkeit in der Verurteilung der Gewalt - über ihre Ursachen und die angemessene Wortwahl gingen die Meinungen auseinander. Von F. Aischmann.",
    "link": "https://www.tagesschau.de/inland/innenpolitik/gen-z-aktuelle-stunde-100.html",
    "published": "2026-11-04T20:24:21+00:00",
@@ -435,7 +684,7 @@
   },
   {
    "id": "n1fae516a6c",
-   "topic": "welt",
+   "topic": "politik",
    "title": "Deutsche Reaktionen auf Midterms: Gratulation und gedämpfte Erwartungen",
    "text": "Deutsche Politiker haben die Niederlage der Republikaner bei den US-Midterms begrüßt, dämpfen aber die Erwartung an eine andere Außenpolitik von Präsident Trump. Eine SPD-Politikerin warnt vor einer \"wütenden Ente\" im Weißen Haus.",
    "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-deutschland-midterms-100.html",
@@ -586,7 +835,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-06T16:48:33+00:00",
-   "img": "https://bilder.deutschlandfunk.de/48/b9/ce/0d/48b9ce0d-3775-447a-9ece-a28ddb83465a/wadephul-atlanta-100-1920x1920.jpg"
+   "img": "https://bilder.deutschlandfunk.de/48/b9/ce/0d/48b9ce0d-3775-447a-9ece-a28ddb83465a/wadephul-atlanta-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Midterms in den USA: Verhaltener Optimismus in der Ukraine nach US-Wahl",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-zwischenwahl-100.html"
+    }
+   ]
   },
   {
    "id": "n5a2f0fb4f6",
@@ -1509,270 +1765,6 @@
    "lang": "de",
    "expires": "2026-11-05T22:40:47+00:00",
    "img": "https://bilder.deutschlandfunk.de/f7/8d/b9/75/f78db975-d8eb-4e23-ad86-642b74d25320/oscar-puente-mindestpausen-ruhezeiten-busfahrer-europa-arbeitsbedingungen-eu-reisebusse-100-1920x1920.jpg"
-  },
-  {
-   "id": "n381e005ed8",
-   "topic": "politik",
-   "title": "Berlin - Merz ruft Russland zu Friedensverhandlungen mit der Ukraine auf",
-   "text": "Zum Abschluss seines Besuchs in Berlin hat der ukrainische Staatschef Selenskyj mit Bundespräsident Steinmeier zu Abend gegessen.",
-   "link": "https://www.deutschlandfunk.de/merz-ruft-russland-zu-friedensverhandlungen-mit-der-ukraine-auf-114.html",
-   "published": "2026-11-03T22:40:47+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-05T22:40:47+00:00",
-   "img": "https://bilder.deutschlandfunk.de/87/15/c6/64/8715c664-74c9-41fa-b39a-bb4a3c09624a/merz-selenskyj-berlin-102-1920x1920.jpg"
-  },
-  {
-   "id": "n5df9c5cf19",
-   "topic": "politik",
-   "title": "Nahost - Auftakt zu Konsultationen zur Regierungsbildung in Israel",
-   "text": "In Israel beginnen heute die Konsultationen zur Regierungsbildung.",
-   "link": "https://www.deutschlandfunk.de/auftakt-zu-konsultationen-zur-regierungsbildung-in-israel-100.html",
-   "published": "2026-11-03T22:40:47+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-05T22:40:47+00:00",
-   "img": "https://bilder.deutschlandfunk.de/0b/8a/d5/d1/0b8ad5d1-c364-4191-92a8-bd507306343d/netanjahu-eisenkot-100-1920x1920.jpg"
-  },
-  {
-   "id": "nca7eaa197a",
-   "topic": "politik",
-   "title": "Champions League - Stuttgart verliert gegen Galatasaray Istanbul",
-   "text": "In der Fußball-Championsleague hat der VFB Stuttgart gegen Galatasaray Istanbul verloren.",
-   "link": "https://www.deutschlandfunk.de/stuttgart-verliert-gegen-galatasaray-istanbul-106.html",
-   "published": "2026-11-03T22:40:47+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-05T22:40:47+00:00",
-   "img": "https://bilder.deutschlandfunk.de/a7/c3/ed/7c/a7c3ed7c-ec24-4b06-b192-83cdd22de4d8/stuttgart-108-1920x1920.jpg"
-  },
-  {
-   "id": "n6af3d33689",
-   "topic": "politik",
-   "title": "Flugverkehr - Lufthansa steigt bei der portugieschen Tap ein",
-   "text": "Der Einstieg des Lufthansa-Konzerns bei der portugiesischen Staatsfluglinie Tap ist beschlossen.",
-   "link": "https://www.deutschlandfunk.de/lufthansa-steigt-bei-der-portugieschen-tap-ein-106.html",
-   "published": "2026-11-03T22:40:47+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-05T22:40:47+00:00",
-   "img": "https://bilder.deutschlandfunk.de/FI/LE/_2/89/FILE_2891153bee246ad0edce840aa0828e0d/imago83013963h-tap-jpg-100-768x768.jpg"
-  },
-  {
-   "id": "n31309ae580",
-   "topic": "nfl",
-   "title": "Bills release C.J. Gardner-Johnson just days after being suspended for spitting incident",
-   "text": "Gardner-Johnson signed a one-year deal with Buffalo back in March",
-   "link": "https://www.cbssports.com/nfl/news/bills-release-c-j-gardner-johnson-days-after-being-suspended-spitting-incident/",
-   "published": "2026-11-03T22:04:59+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-08T22:04:59+00:00"
-  },
-  {
-   "id": "ne20c44d1ed",
-   "topic": "nfl",
-   "title": "Giants sign Greg Newsome to three-year, $46 million extension, per report",
-   "text": "Newsome was playing on a one-year deal he signed with New York in March",
-   "link": "https://www.cbssports.com/nfl/news/giants-sign-greg-newsome-three-year-46-million-extension/",
-   "published": "2026-11-03T21:40:41+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-08T21:40:41+00:00"
-  },
-  {
-   "id": "n6e6ad9e4ba",
-   "topic": "welt",
-   "title": "Reaktion auf Zugunglücke: Spaniens Verkehrsminister tritt zurück",
-   "text": "Zwei schwere Zugunglücke haben Spanien in diesem Jahr erschüttert. Nun zieht Verkehrsminister Puente die politischen Konsequenzen. Außerdem beschloss die Regierung neue Maßnahmen, um die Sicherheit zu verbessern.",
-   "link": "https://www.tagesschau.de/ausland/spanien-zugunglueck-puente-ruecktritt-100.html",
-   "published": "2026-11-03T20:58:56+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T20:58:56+00:00",
-   "img": "https://images.tagesschau.de/image/4141b557-c7c8-4671-9d78-3b1a80a10857/AAABoaM1OZM/AAABnSSvrFg/16x9-big/puente-100.jpg?width=1920"
-  },
-  {
-   "id": "n0011d023f3",
-   "topic": "it",
-   "title": "Extremwetter: Mobilfunkverband GSMA fordert koordiniertes Handeln",
-   "text": "Die GSMA warnt vor zunehmenden Risiken für Mobilfunknetze durch extremes Wetter und fordert eine koordinierte Politik zum Schutz kritischer Infrastrukturen.",
-   "link": "https://www.heise.de/news/Extremwetter-Mobilfunkverband-GSMA-fordert-koordiniertes-Handeln-11510739.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-03T20:54:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-08T20:54:00+00:00"
-  },
-  {
-   "id": "n128e4fabea",
-   "topic": "welt",
-   "title": "Vor 15 Jahren enttarnte sich die NSU-Terrorgruppe, die zehn Menschen ermordete und viele andere verletzte",
-   "text": "Am 4. November 2011 enttarnte die Rechtsterroristin Beate Zschäpe den Nationalsozialistischen Untergrund. Fragen bleiben: Wie geht es den Familien der Ermordeten und Anschlagsopfern? Ist die Aufarbeitung gelungen?",
-   "link": "https://www.dw.com/de/vor-15-jahren-enttarnte-sich-die-nsu-terrorgruppe-die-zehn-menschen-ermordete-und-viele-andere-verletzte/a-79833580?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-03T20:23:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-07T20:23:00+00:00",
-   "img": "https://static.dw.com/image/79801698_302.jpg"
-  },
-  {
-   "id": "nb37af2b1ad",
-   "topic": "it",
-   "title": "heise+ | Linux-Distribution Fedora 45: KDE Plasma 6.8, Gnome 51 und Kmscon",
-   "text": "Ein Security-Vorfall verzögerte das Release, sodass KDE Plasma 6.8 noch drin landet. Außerdem kommt Fedora 45 mit Gnome 51 und einer aufpolierten Textkonsole.",
-   "link": "https://www.heise.de/news/Linux-Distribution-Fedora-45-KDE-Plasma-6-8-Gnome-51-und-Kmscon-11505699.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-   "published": "2026-11-03T20:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-08T20:00:00+00:00"
-  },
-  {
-   "id": "nd4c4250dfa",
-   "topic": "ki",
-   "title": "OpenAIs GPT-6-Astra designt in unter einer Woche ein KI-Gadget vom Gehäuse bis zur Firmware",
-   "text": "Zwei OpenAI-Ingenieure haben mit GPT-6-Astra in weniger als einer Woche ein Hardware-Gerät für den Coding-Agenten Codex entworfen – vom Gehäuse über die Leiterplatte bis zur Firmware. Vor der Fertigung waren allerdings mehrere Korrekturrunden nötig, weil das Modell Produktionstoleranzen nicht durchgehend beherrschte. …",
-   "link": "https://the-decoder.de/openais-gpt-6-astra-designt-in-unter-einer-woche-ein-ki-gadget-vom-gehaeuse-bis-zur-firmware/",
-   "published": "2026-11-03T19:58:45+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-10T19:58:45+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/11/openai_ai_hardware.png"
-  },
-  {
-   "id": "n5aaf2dc6b9",
-   "topic": "welt",
-   "title": "Ukraine-Krieg: Bundeskanzler Friedrich Merz und der ukrainische Präsident Wolodymyr Selenskyj beraten in Berlin",
-   "text": "Der ukrainische Präsident Wolodymyr Selenskyj sucht vor neuen Verhandlungen mit Russland und den USA Rückhalt bei Bundeskanzler Friedrich Merz in Berlin. Der Kanzler fand deutliche Worte in Richtung Moskau.",
-   "link": "https://www.dw.com/de/ukraine-krieg-bundeskanzler-friedrich-merz-und-der-ukrainische-präsident-wolodymyr-selenskyj-beraten-in-berlin/a-79846015?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-03T19:26:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-07T19:26:00+00:00",
-   "img": "https://static.dw.com/image/79842785_302.jpg"
-  },
-  {
-   "id": "ne6d18cc011",
-   "topic": "politik",
-   "title": "Müllgebühren in Kassel und Frankfurt sollen ab 2027 deutlich steigen",
-   "text": "In Stadt und Landkreis Kassel müssen Haushalte ab Januar mehr für die Müllabfuhr zahlen. Auch Frankfurt plant höhere Gebühren. Ein Vergleich zeigt große Unterschiede zwischen Hessens Städten. In einer Großstadt sollen die Abgaben sogar sinken.",
-   "link": "https://www.hessenschau.de/wirtschaft/muellgebuehren-in-kassel-und-frankfurt-sollen-ab-2027-deutlich-steigen-v1,muellgebuehren-hessen-102.html",
-   "published": "2026-11-03T19:20:35+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-07T19:20:35+00:00",
-   "img": "https://www.hessenschau.de/wirtschaft/muellwerker-kassel-100~_t-1793733634390_v-16to9.jpg",
-   "tag": "Hessen",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Renten könnten 2027 um 4,1 Prozent steigen",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/rentenerhoehung-entwurf-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n0daaacce5c",
-   "topic": "welt",
-   "title": "Corona: Wie kommunizierten Politik, Wissenschaft und Medien in der Pandemie?",
-   "text": "Eine Kommission des Deutschen Bundestags wollte es genauer wissen und befragte Fachleute. Fazit: viel Kritik, wenig Lob. Was hätte besser laufen können?",
-   "link": "https://www.dw.com/de/corona-wie-kommunizierten-politik-wissenschaft-und-medien-in-der-pandemie/a-79844661?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-03T19:07:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-07T19:07:00+00:00",
-   "img": "https://static.dw.com/image/55296008_302.jpg"
-  },
-  {
-   "id": "n65764ad137",
-   "topic": "politik",
-   "title": "Renten könnten 2027 um 4,1 Prozent steigen",
-   "text": "Rentnerinnen und Rentner können sich auf spürbar steigende Bezüge einstellen. Der Rentenversicherungsbericht der Bundesregierung geht im kommenden Jahr von einer Steigerung von mehr als vier Prozent aus. Von K. Girschick.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/rentenerhoehung-entwurf-100.html",
-   "published": "2026-11-03T19:05:51+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T19:05:51+00:00",
-   "img": "https://images.tagesschau.de/image/17fdc558-340f-4273-b84d-ff571e7bb5d1/AAABndmPgZ0/AAABnSSvrFg/16x9-big/rente-416.jpg?width=1920",
-   "also": [
-    {
-     "source": "hessenschau (hr)",
-     "title": "Müllgebühren in Kassel und Frankfurt sollen ab 2027 deutlich steigen",
-     "link": "https://www.hessenschau.de/wirtschaft/muellgebuehren-in-kassel-und-frankfurt-sollen-ab-2027-deutlich-steigen-v1,muellgebuehren-hessen-102.html"
-    }
-   ]
-  },
-  {
-   "id": "nbca26a1153",
-   "topic": "it",
-   "title": "Top 10: Das beste günstige Tablet im Test",
-   "text": "Tablets bieten fast alles, was es für mobile Unterhaltung braucht. Wir zeigen die besten günstigen Tablets bis 300 Euro.",
-   "link": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-guenstige-tablet-im-test-testsieger-honor-kostet-nur-229-euro/wq0c4t9?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-03T19:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-08T19:00:00+00:00"
-  },
-  {
-   "id": "n15c24ff371",
-   "topic": "wirtschaft",
-   "title": "Wirtschaft vor acht vom 03.11.2026",
-   "text": "Wirtschaft vor acht vom 03.11.2026",
-   "link": "https://www.tagesschau.de/video/video-1677572.html",
-   "published": "2026-11-03T18:52:45+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T18:52:45+00:00",
-   "img": "https://images.tagesschau.de/image/e50901f2-cf8f-481e-80d5-711197686f27/AAABoaLBn7I/AAABnSSvrFg/16x9-big/sendungsbild-1821820.jpg?width=1920"
-  },
-  {
-   "id": "nbc225ddebe",
-   "topic": "welt",
-   "title": "Die US-Midterms - die nächste wichtige Wahl für Israel",
-   "text": "Ein Sieg der Demokraten bei den US-Zwischenwahlen könnte enorme Folgen für die Sicherheitspolitik Israels haben. Doch auch aus einem anderen Grund schauen die Menschen im Nahen Osten auf die Tage nach den Midterms. Von Tim Aßmann.",
-   "link": "https://www.tagesschau.de/ausland/asien/israel-usa-midterms-100.html",
-   "published": "2026-11-03T18:40:26+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T18:40:26+00:00",
-   "img": "https://images.tagesschau.de/image/6acea93a-c7d6-4ecc-8f81-1040c67038b1/AAABoaK2nfQ/AAABnSSvrFg/16x9-big/trump-netanjahu-israel-100.jpg?width=1920"
-  },
-  {
-   "id": "nafea15b940",
-   "topic": "welt",
-   "title": "Was eine Niederlage Trumps bei den Midterms für die EU bedeuten würde",
-   "text": "Was Trump entscheidet, hat Auswirkungen auf Europa und seine Bürger. Würde eine Niederlage bei den Midterms die USA berechenbarer für die Europäische Union machen - oder vielleicht gar das Gegenteil bewirken? Von Jean-Marie Magro.",
-   "link": "https://www.tagesschau.de/ausland/europa/us-midterms-europa-100.html",
-   "published": "2026-11-03T18:39:26+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-06T18:39:26+00:00",
-   "img": "https://images.tagesschau.de/image/5bb14bd2-716e-4be0-bf85-062f94973076/AAABoaK1fxM/AAABnSSvrFg/16x9-big/von-der-leyen-750.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Nach den \"Midterms\" - Präsident Trump und Vize Vance nach Republikaner-Niederlage bei US-Kongresswahlen uneins über Fortführung des Iran-Kriegs",
-     "link": "https://www.deutschlandfunk.de/praesident-trump-und-vize-vance-nach-republikaner-niederlage-bei-us-kongresswahlen-uneins-ueber-fort-106.html"
-    }
-   ]
   }
  ]
 }
