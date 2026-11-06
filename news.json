@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T16:46:43.749181+00:00",
+ "generated": "2026-11-06T23:09:21.302959+00:00",
  "briefing": [
   "nd57da7272d",
   "n5cad87b83a",
@@ -13,38 +13,452 @@
  "ranked": [
   {
    "id": "nd57da7272d",
-   "s": 40.1
+   "s": 38.5
   },
   {
    "id": "n5cad87b83a",
-   "s": 32.9
+   "s": 32.4
   },
   {
    "id": "nee452e0bfb",
-   "s": 31.9
-  },
-  {
-   "id": "n5988a59fd2",
-   "s": 31.8
-  },
-  {
-   "id": "nb32b67eb92",
    "s": 30.3
   },
   {
+   "id": "n5988a59fd2",
+   "s": 30.2
+  },
+  {
+   "id": "nb32b67eb92",
+   "s": 28.7
+  },
+  {
    "id": "nf2de1e36f6",
-   "s": 29.0
+   "s": 27.4
   },
   {
    "id": "nbfc348c90b",
-   "s": 28.0
+   "s": 26.4
   },
   {
    "id": "nf41bd8c7ca",
-   "s": 22.5
+   "s": 20.9
   }
  ],
  "items": [
+  {
+   "id": "nc52db2bf8c",
+   "topic": "politik",
+   "title": "Nach Wahlniederlage - Trump: Stabschefin Susie Wiles verlässt Weißes Haus - Nachfolger wird Stephen Miller",
+   "text": "Nach der Niederlage der Republikaner bei den Zwischenwahlen hat US-Präsident Trump personelle Konsequenzen gezogen. Trump erklärte auf seiner Online-Plattform, die Stabschefin im Weißen Haus, Wiles, gebe ihren Posten auf. Nachfolger werde ihr bisheriger Stellvertreter Miller.",
+   "link": "https://www.deutschlandfunk.de/trump-stabschefin-susie-wiles-verlaesst-weisses-haus-nachfolger-wird-stephen-miller-108.html",
+   "published": "2026-11-06T23:00:25+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-08T23:00:25+00:00",
+   "img": "https://bilder.deutschlandfunk.de/4c/2e/27/23/4c2e2723-e6f6-435f-9c8b-4153d8160085/susan-wiles-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Trumps Stabschefin Wiles verlässt das Weiße Haus",
+     "link": "https://www.tagesschau.de/ausland/amerika/trump-wiles-100.html"
+    }
+   ]
+  },
+  {
+   "id": "ndee3fc932c",
+   "topic": "politik",
+   "title": "Antisemitismus-Vorwurf - Berliner Landesverband fordert Abgeordnete Emde zum Mandatsverzicht auf",
+   "text": "Der Berliner Landesverband der Linkspartei hat die Abgeordnete Emde zum Mandatsverzicht aufgefordert. Die Vorsitzenden Wolter und Schirmer erklärten, Emde solle wegen ihrer Position zum Nahostkonflikt ihr Mandat im Abgeordnetenhaus in Berlin zurückgeben.",
+   "link": "https://www.deutschlandfunk.de/berliner-landesverband-fordert-abgeordnete-emde-zum-mandatsverzicht-auf-102.html",
+   "published": "2026-11-06T23:00:25+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-08T23:00:25+00:00",
+   "img": "https://bilder.deutschlandfunk.de/d7/a2/2f/d3/d7a22fd3-5253-46ff-8e64-bb075475afb7/vanessa-emde-die-linke-krankmeldung-abstimmung-umgang-100-1920x1920.jpg"
+  },
+  {
+   "id": "n278319d812",
+   "topic": "politik",
+   "title": "Nachfolge von Bundespräsident Steinmeier - Medienberichte: Auch CDU für Ilse Aigner",
+   "text": "Nach der CSU will nun auch die CDU ‌Medienberichten zufolge Ilse Aigner für das Amt der Bundespräsidentin nominieren. Dies berichteten \"Bild\", \"Spiegel\" und \"Süddeutsche Zeitung\" übereinstimmend. Mit einer offiziellen Bekanntgabe wird am Montag gerechnet.",
+   "link": "https://www.deutschlandfunk.de/medienberichte-auch-cdu-fuer-ilse-aigner-104.html",
+   "published": "2026-11-06T23:00:25+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-08T23:00:25+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Ilse Aigner soll laut ARD-Informationen Bundespräsidentin werden",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-csu-aigner-bundespraesidentin-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n58fad03b7f",
+   "topic": "politik",
+   "title": "Suchtgefahr - Tiktok widerspricht Vorwüfen der EU-Kommission",
+   "text": "Das Unternehmen Tiktok hat Vorwürfe der EU-Kommission zurückgewiesen, gegen europäisches Recht zu verstoßen. Eine Sprecherin teilte mit, die Kommission stelle die Architektur der Plattform und das Engagement für die Sicherheit der Nutzer verzerrt dar.",
+   "link": "https://www.deutschlandfunk.de/tiktok-widerspricht-vorwuefen-der-eu-kommission-104.html",
+   "published": "2026-11-06T23:00:25+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-08T23:00:25+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "EU-Kommission wirft TikTok Gesundheitsgefährdung vor",
+     "link": "https://www.tagesschau.de/ausland/europa/eu-tiktok-mentale-gesundheit-gefaehrdung-algorithmus-100.html"
+    }
+   ]
+  },
+  {
+   "id": "ne12bce8f92",
+   "topic": "politik",
+   "title": "Provinz Taiz - Viele Tote nach Angriffen auf Markt im Jemen",
+   "text": "Im Jemen sind bei Luftangriffen auf einen Markt in der Provinz Taiz zahlreiche Menschen getötet worden.",
+   "link": "https://www.deutschlandfunk.de/viele-tote-nach-angriffen-auf-markt-im-jemen-102.html",
+   "published": "2026-11-06T23:00:25+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-08T23:00:25+00:00",
+   "img": "https://bilder.deutschlandfunk.de/86/31/5f/36/86315f36-9968-4cf6-862e-280362482da3/jemen-taiz-tais-rotes-kreuz-hilfslieferung-besatzung-100-1920x1920.jpg"
+  },
+  {
+   "id": "n39aa950e05",
+   "topic": "politik",
+   "title": "Sachsen-Anhalt - AfD-Politiker Siegmund schließt mehrere Wahlgänge nicht mehr aus",
+   "text": "Der AfD-Politiker Siegmund schließt entgegen früheren Aussagen nicht mehr aus, bei der Ministerpräsidentenwahl in Sachsen-Anhalt auch in einem zweiten oder dritten Wahlgang anzutreten. Er verwies auf die Entscheidung der CDU-Fraktion, bei der Wahl nahezu geschlossen den Raum zu verlassen.",
+   "link": "https://www.deutschlandfunk.de/afd-politiker-siegmund-schliesst-mehrere-wahlgaenge-nicht-mehr-aus-106.html",
+   "published": "2026-11-06T23:00:25+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-08T23:00:25+00:00",
+   "img": "https://bilder.deutschlandfunk.de/fd/df/6b/47/fddf6b47-1eb6-4a43-9e14-386ef8fa59ad/ulrich-siegmund-afd-104-1920x1920.jpg"
+  },
+  {
+   "id": "nb5cbacfb5d",
+   "topic": "nfl",
+   "title": "S Talanoa Hufanga questionable for Sunday's game",
+   "text": "Broncos safety Talanoa Hufanga (ankle) is questionable for Sunday's game against the Panthers.",
+   "link": "https://sports.yahoo.com/articles/talanoa-hufanga-questionable-sundays-game-225701302.html",
+   "published": "2026-11-06T22:57:01+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-11T22:57:01+00:00"
+  },
+  {
+   "id": "n10a125319f",
+   "topic": "nfl",
+   "title": "Raiders Week 9: 49ers explosive offense, stingy defense are imposing",
+   "text": "San Francisco has the 4th-best scoring offense, 6th-best scoring defense providing a massive challenge for Las Vegas",
+   "link": "https://sports.yahoo.com/articles/raiders-week-9-49ers-explosive-224500316.html",
+   "published": "2026-11-06T22:45:00+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-11T22:45:00+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/36c759e229823f7378728d71381f4746.jpg"
+  },
+  {
+   "id": "n9527064b23",
+   "topic": "politik",
+   "title": "Politologin über Aigner: \"Sie hat viel politische Erfahrung\"",
+   "text": "Bayerns Landtagspräsidentin Ilse Aigner wird Unionskandidatin für die Wahl zur Bundespräsidentin. Genug Erfahrung habe sie, sagt die Politologin Münch in den tagesthemen. Diese werde auch dringend gebraucht.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-interview-tt-100.html",
+   "published": "2026-11-06T20:54:46+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-09T20:54:46+00:00",
+   "img": "https://images.tagesschau.de/image/890830ce-f3e2-4cc6-9c60-48f856b24345/AAABobKrX_4/AAABnSSvrFg/16x9-big/aigner-140.jpg?width=1920"
+  },
+  {
+   "id": "n2ebe2a4686",
+   "topic": "politik",
+   "title": "WTT Champions in Frankfurt: Winter und Franziska wahren Titelchancen",
+   "text": "Bei dem hochkarätig besetzten Tischtennis-Turnier in Frankfurt läuft es aus hessischer Sicht weiterhin gut: Sowohl Sabine Winter als auch Patrick Franziska ziehen ins Final-Wochenende ein.",
+   "link": "https://www.hessenschau.de/sport/mehr-sport/wtt-champions-in-frankfurt-winter-und-franziska-wahren-titelchancen-v1,wtt-freitag-100.html",
+   "published": "2026-11-06T20:41:07+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-10T20:41:07+00:00",
+   "img": "https://www.hessenschau.de/sport/mehr-sport/wtt-winter-freitag-100~_t-1793997667226_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "n5cad87b83a",
+   "topic": "politik",
+   "title": "Ilse Aigner soll laut ARD-Informationen Bundespräsidentin werden",
+   "text": "Sie wäre dort die erste Frau: Laut ARD-Hauptstadtstudio werden CDU und CSU Ilse Aigner als Kandidatin für das Amt der Bundespräsidentin vorschlagen. Gemeinsam mit der SPD hätten sie in der Bundesversammlung eine Mehrheit.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-csu-aigner-bundespraesidentin-100.html",
+   "published": "2026-11-06T20:36:48+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-09T20:36:48+00:00",
+   "img": "https://images.tagesschau.de/image/9aea46e7-124f-4c55-8c85-5a3c827109f2/AAABobF9tAA/AAABnSSvrFg/16x9-big/ilse-aigner-298.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Nachfolge von Bundespräsident Steinmeier - Medienberichte: Auch CDU für Ilse Aigner",
+     "link": "https://www.deutschlandfunk.de/medienberichte-auch-cdu-fuer-ilse-aigner-104.html"
+    }
+   ]
+  },
+  {
+   "id": "n39e9b30e77",
+   "topic": "welt",
+   "title": "Trumps Stabschefin Wiles verlässt das Weiße Haus",
+   "text": "Seit der Wahlniederlage der Republikaner bei den Midterms wird spekuliert, ob und wie US-Präsident Trump seinen Machtzirkel umbaut. Nun steht fest: Die Strippenzieherin Wiles geht, ihr Vize Miller übernimmt.",
+   "link": "https://www.tagesschau.de/ausland/amerika/trump-wiles-100.html",
+   "published": "2026-11-06T20:20:30+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-09T20:20:30+00:00",
+   "img": "https://images.tagesschau.de/image/1cd77871-0b49-4151-8d19-989f245b430d/AAABobKFGkk/AAABnSSvrFg/16x9-big/susie-wiles-104.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Nach Wahlniederlage - Trump: Stabschefin Susie Wiles verlässt Weißes Haus - Nachfolger wird Stephen Miller",
+     "link": "https://www.deutschlandfunk.de/trump-stabschefin-susie-wiles-verlaesst-weisses-haus-nachfolger-wird-stephen-miller-108.html"
+    }
+   ]
+  },
+  {
+   "id": "n5dafeada9b",
+   "topic": "nfl",
+   "title": "Is Drew Mestemaker really QB1? A troubling trend and lessons from Caleb Williams, Trevor Lawrence",
+   "text": "The Oklahoma State QB has become a popular QB1 choice, but his mistakes under pressure offer a warning – and some fascinating historical comparisons.",
+   "link": "https://www.cbssports.com/nfl/draft/news/is-drew-mestemaker-really-qb1-troubling-trend-lessons-from-caleb-williams-trevor-lawrence/",
+   "published": "2026-11-06T20:16:17+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-11T20:16:17+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/11/06/0c867297-3353-45f5-9601-6182a76968f9/mestemake.jpg"
+  },
+  {
+   "id": "n4bbae2bb1f",
+   "topic": "nfl",
+   "title": "Antonio Brown avoids jail time, receives punishment after plea deal in Miami shooting",
+   "text": "The former NFL star was accused of opening fire at a man last year",
+   "link": "https://www.cbssports.com/nfl/news/steelers-bucs-antonio-brown-takes-plea-deal-in-miami-shooting/",
+   "published": "2026-11-06T20:03:20+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-11T20:03:20+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/11/06/00b69c85-996e-41d5-9f1f-518242824221/antionbrown.png"
+  },
+  {
+   "id": "n65d8d0c93b",
+   "topic": "welt",
+   "title": "Bombendrohungen in Europa: Anzeichen auf koordinierten Angriff verdichten sich",
+   "text": "Erneut hat es in Europa zahlreiche Bombendrohungen gegeben - sowohl im Flugverkehr als auch gegen Medienhäuser. Spanien spricht von einem hybriden Angriff, der \"kein Zufall\" sei. Irland sieht eine \"koordinierte Kampagne\".",
+   "link": "https://www.tagesschau.de/ausland/europa/bombendrohungen-europa-100.html",
+   "published": "2026-11-06T19:39:20+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-09T19:39:20+00:00",
+   "img": "https://images.tagesschau.de/image/bc698291-00e6-4417-b67d-f273c2c25cb1/AAABobJfbWA/AAABnSSvrFg/16x9-big/ryanair-lissabon-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Europa - Bombendrohungen gegen Flüge in Europa weiten sich auf Medien aus",
+     "link": "https://www.deutschlandfunk.de/bombendrohungen-gegen-fluege-in-europa-weiten-sich-auf-medien-aus-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n3324fc093b",
+   "topic": "ki",
+   "title": "Neues Open-Weight-Modell Ripple-65B Preview soll besonders gut agentisch programmieren",
+   "text": "Ricursive Intelligence bringt mit Ripple-65B Preview ein offenes 65-Milliarden-Parameter-Sprachmodell, das laut Unternehmen auf dem Coding-Benchmark TerminalBench 2.1 den Bestwert unter offenen US-Modellen erreicht – bei Gesamtkosten von nur 32 Millionen Dollar. Auf anderen Benchmarks bleibt Ripple allerdings deutlich …",
+   "link": "https://the-decoder.de/neues-open-weight-modell-ripple-65b-preview-soll-besonders-gut-agentisch-programmieren/",
+   "published": "2026-11-06T19:11:04+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-13T19:11:04+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/11/ricurisve_intelligence.png"
+  },
+  {
+   "id": "nc5633ddff6",
+   "topic": "it",
+   "title": "Top 10: Die beste Powerbank ab 20.000 mAh im Test – Anker nicht Testsieger",
+   "text": "Zum Laden von Laptops unterwegs braucht es starke Powerbanks mit hoher Kapazität. Wir haben die besten mobilen Akkus ab 20.000 mAh getestet.",
+   "link": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-powerbank-ab-20000-mah-im-test-anker-nicht-testsieger/b1dg6rh?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-06T19:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-11T19:00:00+00:00"
+  },
+  {
+   "id": "nc2a83240c6",
+   "topic": "politik",
+   "title": "Russland bei Eishockey-WM? Deutschlands sportpolitisches Dilemma",
+   "text": "Die Eishockey-WM in Deutschland steht wegen der möglichen Teilnahme Russlands vor einem Boykott mehrerer Nationen und Sponsoren. Die Bundesregierung bringt das in ein Dilemma. Von Felix Jakobs.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/eishockey-wm-wie-umgehen-mit-russland-100.html",
+   "published": "2026-11-06T18:53:38+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-09T18:53:38+00:00",
+   "img": "https://images.tagesschau.de/image/f06decaf-b051-4d8e-80d5-8d1459e0cba1/AAABlgUgph8/AAABnSSvrFg/16x9-big/eishockey-163.jpg?width=1920"
+  },
+  {
+   "id": "n644e45f9d3",
+   "topic": "wirtschaft",
+   "title": "Wirtschaft vor acht vom 06.11.2026",
+   "text": "Wirtschaft vor acht vom 06.11.2026",
+   "link": "https://www.tagesschau.de/video/video-1679460.html",
+   "published": "2026-11-06T18:51:48+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-09T18:51:48+00:00",
+   "img": "https://images.tagesschau.de/image/eb426cef-b45c-4c5b-be7b-1296fdda5018/AAABobIzsJo/AAABnSSvrFg/16x9-big/sendungsbild-1823586.jpg?width=1920"
+  },
+  {
+   "id": "n95d3d2ee7d",
+   "topic": "it",
+   "title": "Deutschland will Manipulation von Satellitennavigation etwas entgegensetzen",
+   "text": "Cyberagentur, Bundeswehr und DLR suchen Technologien zur Abwehr und gezielten Beeinflussung von Signalen für GPS & Co. – vor dem Hintergrund massiver Störungen.",
+   "link": "https://www.heise.de/news/Deutschland-will-Manipulation-von-Satellitennavigation-etwas-entgegensetzen-11516136.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-06T18:32:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-11T18:32:00+00:00"
+  },
+  {
+   "id": "n69d46fd812",
+   "topic": "it",
+   "title": "Neue Datenschutzklausel bei M365 sorgt für Verwirrung",
+   "text": "Eine neue Klausel im Microsoft-Datenschutz sorgt für Unruhe im Internet. Rechtsexperten geben aber teils Entwarnung und erklären, was die Änderung bedeutet.",
+   "link": "https://www.heise.de/news/Neue-Datenschutzklausel-bei-M365-sorgt-fuer-Verwirrung-11516122.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-06T18:03:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-11T18:03:00+00:00"
+  },
+  {
+   "id": "n41162a6c5b",
+   "topic": "welt",
+   "title": "Die gestohlenen Kinder von Oleschky",
+   "text": "2022 verschleppten russische Soldaten Hannas Sohn Anton aus einem Heim in Oleschky. Eine niederländische NGO hilft bei der Suche - doch selbst wenn sie ihn findet, ist eine Rückkehr in die Ukraine nicht sicher. Von R. Barth.",
+   "link": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-kinder-100.html",
+   "published": "2026-11-06T17:48:38+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-09T17:48:38+00:00",
+   "img": "https://images.tagesschau.de/image/a111bf3a-9485-4c36-82cc-c621e4893902/AAABoWlYGkY/AAABnSSvrFg/16x9-big/gebaeude-oleshky-100.jpg?width=1920"
+  },
+  {
+   "id": "ne06a3ef31e",
+   "topic": "welt",
+   "title": "Verhaltene Reaktionen auf Trumps Ankündigung eines Ukraine-Abkommens",
+   "text": "Nach einem Treffen mit Kreml-Unterhändler Dmitrijew kündigte US-Präsident Trump ein \"großes\" Ukraine-Abkommen an. Alle würden begeistert sein, behauptete er. Doch Moskau und Brüssel dämpfen die Erwartungen.",
+   "link": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-reaktionen-100.html",
+   "published": "2026-11-06T17:46:51+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-09T17:46:51+00:00",
+   "img": "https://images.tagesschau.de/image/f1e87fc9-03d2-4e6d-8446-01b16e2ce7e5/AAABobH4baM/AAABnSSvrFg/16x9-big/trump-5432.jpg?width=1920"
+  },
+  {
+   "id": "ne980a4bf06",
+   "topic": "welt",
+   "title": "Midterms-Sieg für US-Demokraten: Wie viel Macht haben sie wirklich? Und können sich Progressive und Moderate einig werden?",
+   "text": "Die Demokraten haben Donald Trump die Mehrheit in beiden Kammern des US-Kongresses abgenommen. Doch der Präsident bleibt mächtig – und die Demokraten sind sich längst nicht einig, wie sie ihre neue Macht nutzen sollen.",
+   "link": "https://www.dw.com/de/midterms-sieg-für-us-demokraten-wie-viel-macht-haben-sie-wirklich-und-können-sich-progressive-und-moderate-einig-werden/a-79879388?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-06T17:44:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-10T17:44:00+00:00",
+   "img": "https://static.dw.com/image/79854705_302.jpg"
+  },
+  {
+   "id": "n7d2f49cbfb",
+   "topic": "it",
+   "title": "Onlinehändler: Hacker attackieren Mindfactory",
+   "text": "Mindfactory warnt nach einem Cyberangriff seine Kunden per E-Mail: Angreifer könnten Adressen, E-Mails und Telefonnummern erbeutet haben. ( Hacker , Security )",
+   "link": "https://www.golem.de/news/onlinehaendler-hacker-attackieren-mindfactory-2611-214956.html",
+   "published": "2026-11-06T17:36:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-11T17:36:02+00:00",
+   "img": "https://www.golem.de/2611/214956-607321-607319_rc.jpg"
+  },
+  {
+   "id": "n8f3c6a7f3f",
+   "topic": "wirtschaft",
+   "title": "Weltweiter KI-Ausverkauf: DAX rutscht nach Rekordhoch ab",
+   "text": "Sorgen um KI- und Halbleiterwerte lösen weltweit Verkäufe aus - und setzen auch den deutschen Aktienmarkt unter Druck. Die US-Börsen konnten sich inzwischen wieder berappeln.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-nasdaq-wall-street-100.html",
+   "published": "2026-11-06T17:30:36+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-09T17:30:36+00:00",
+   "img": "https://images.tagesschau.de/image/ef4cb9a5-48bb-4cf8-aa48-ff9441ee133e/AAABobEC3eg/AAABnSSvrFg/16x9-big/ki-apps-104.jpg?width=1920"
+  },
+  {
+   "id": "n307f0790fc",
+   "topic": "it",
+   "title": "TUMonline: Cyberangriff auf die TU München",
+   "text": "Hacker sind über ein Altsystem in die IT der TU München eingedrungen und könnten Daten von rund 60.000 Personen erbeutet haben. ( Cybercrime , Security )",
+   "link": "https://www.golem.de/news/tumonline-cyberangriff-auf-die-tu-muenchen-2611-214955.html",
+   "published": "2026-11-06T17:10:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-11T17:10:02+00:00",
+   "img": "https://www.golem.de/2611/214955-607317-607315_rc.jpg"
+  },
+  {
+   "id": "n3c8f5658cc",
+   "topic": "welt",
+   "title": "Anführer von Hungersekte in Kenia zu 200 Jahren Haft verurteilt.",
+   "text": "Der selbsternannte kenianische Pastor Mackenzie ist für den Mord an 191 Menschen verurteilt worden. Er soll sie aus angeblich religiösen Gründen zum Todesfasten verleitet haben - die meisten waren Kinder.",
+   "link": "https://www.tagesschau.de/ausland/afrika/kenia-urteil-sektenfuehrer-100.html",
+   "published": "2026-11-06T17:08:10+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-09T17:08:10+00:00",
+   "img": "https://images.tagesschau.de/image/0ee6aae7-d404-4265-b65c-b7a69d58cfcb/AAABobHBgfY/AAABnSSvrFg/16x9-big/mackenzie-102.jpg?width=1920"
+  },
+  {
+   "id": "nf79b47d564",
+   "topic": "politik",
+   "title": "Bundestag berät über umstrittene Autobahn-Reform",
+   "text": "Der Bundestag hat über eine geplante Reform der bundeseigenen Autobahn GmbH debattiert. Die Regierung will die Finanzierung ändern, um Autobahnen zu erhalten und ausbauen zu können. Doch das Vorhaben ist umstritten.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/autobahn-reform-102.html",
+   "published": "2026-11-06T17:04:16+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-09T17:04:16+00:00",
+   "img": "https://images.tagesschau.de/image/85f4522a-669a-4065-881f-10b8f9aa39c4/AAABobHRdOk/AAABnSSvrFg/16x9-big/autobahn-510.jpg?width=1920"
+  },
   {
    "id": "n6cdbf0818e",
    "topic": "wissenschaft",
@@ -69,7 +483,6 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-08T16:43:06+00:00",
-   "img": "https://bilder.deutschlandfunk.de/08/8d/cf/52/088dcf52-828e-4796-a782-8e6c734aa880/ilse-aigner-100-1920x1920.jpg",
    "also": [
     {
      "source": "Tagesschau",
@@ -125,8 +538,8 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Bombendrohungen auch gegen irische Medien",
-     "link": "https://www.tagesschau.de/ausland/europa/bombendrohung-oeffentlich-rechtlicher-sender-irland-100.html"
+     "title": "Bombendrohungen in Europa: Anzeichen auf koordinierten Angriff verdichten sich",
+     "link": "https://www.tagesschau.de/ausland/europa/bombendrohungen-europa-100.html"
     }
    ]
   },
@@ -271,26 +684,6 @@
    "type": "Fachmedium (IT)",
    "lang": "de",
    "expires": "2026-11-11T16:25:00+00:00"
-  },
-  {
-   "id": "n5cad87b83a",
-   "topic": "politik",
-   "title": "Ilse Aigner soll laut ARD-Informationen Bundespräsidentin werden",
-   "text": "Ihre Nominierung soll am Montag bekannt gegeben werden: Laut ARD-Hauptstadtstudio werden CDU und CSU Ilse Aigner als Kandidatin für das Amt der Bundespräsidentin vorschlagen. Sie wäre dort die erste Frau.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-csu-aigner-bundespraesidentin-100.html",
-   "published": "2026-11-06T16:21:13+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-09T16:21:13+00:00",
-   "img": "https://images.tagesschau.de/image/9aea46e7-124f-4c55-8c85-5a3c827109f2/AAABobF9tAA/AAABnSSvrFg/16x9-big/ilse-aigner-298.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Nachfolge von Bundespräsident Steinmeier - Medienberichte: Auch CDU für Ilse Aigner",
-     "link": "https://www.deutschlandfunk.de/medienberichte-auch-cdu-fuer-ilse-aigner-102.html"
-    }
-   ]
   },
   {
    "id": "n4cb5286ffc",
@@ -475,7 +868,8 @@
    "source": "Deutsche Welle",
    "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
    "lang": "de",
-   "expires": "2026-11-10T13:23:00+00:00"
+   "expires": "2026-11-10T13:23:00+00:00",
+   "img": "https://static.dw.com/image/79837109_302.jpg"
   },
   {
    "id": "n8ea03ea73d",
@@ -610,7 +1004,7 @@
     {
      "source": "Deutschlandfunk",
      "title": "Suchtgefahr - Tiktok widerspricht Vorwüfen der EU-Kommission",
-     "link": "https://www.deutschlandfunk.de/tiktok-widerspricht-vorwuefen-der-eu-kommission-100.html"
+     "link": "https://www.deutschlandfunk.de/tiktok-widerspricht-vorwuefen-der-eu-kommission-104.html"
     }
    ]
   },
@@ -767,19 +1161,6 @@
    "type": "Fachmedium (IT)",
    "lang": "de",
    "expires": "2026-11-11T06:30:00+00:00"
-  },
-  {
-   "id": "n8f3c6a7f3f",
-   "topic": "wirtschaft",
-   "title": "Marktbericht: Aus Wahleuphorie wird Wahlkater",
-   "text": "Die Furcht vor einer schärferen KI-Regulierung hat die Wall Street auf Talfahrt geschickt, vor allem Tech-Werte brechen ein. Der DAX wird sich dem Abwärtstrend nicht entziehen können.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-nasdaq-wall-street-100.html",
-   "published": "2026-11-06T06:26:17+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-09T06:26:17+00:00",
-   "img": "https://images.tagesschau.de/image/5c52df02-e6ba-4229-a355-64a0f5be2ce1/AAABnLJUK0w/AAABnSSvrFg/16x9-big/boerse-492.jpg?width=1920"
   },
   {
    "id": "n1306b5e95f",
@@ -1276,14 +1657,7 @@
    "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
    "lang": "de",
    "expires": "2026-11-09T18:15:00+00:00",
-   "img": "https://static.dw.com/image/79821196_302.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "ARD-DeutschlandTrend: Große Mehrheit hat Verständnis für Jugendproteste",
-     "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-november-108.html"
-    }
-   ]
+   "img": "https://static.dw.com/image/79821196_302.jpg"
   },
   {
    "id": "n89e51b14de",
@@ -1385,387 +1759,6 @@
    "type": "Fachmedium (IT)",
    "lang": "de",
    "expires": "2026-11-10T17:20:00+00:00"
-  },
-  {
-   "id": "ndd05d87fa4",
-   "topic": "nfl",
-   "title": "NFL playoff picture: Five games with the biggest postseason implications as Packers face pivotal test",
-   "text": "SportsLine projections reveal how Packers-Patriots and four other pivotal matchups could alter postseason chances",
-   "link": "https://www.cbssports.com/nfl/news/nfl-playoff-picture-standings-packers-patriots-2026/",
-   "published": "2026-11-05T17:18:10+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-10T17:18:10+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/11/04/2dd46c7c-d1d4-4ea8-b09f-a0d8f4c6ea32/drake-maye-patriots-8.jpg"
-  },
-  {
-   "id": "n86a60fb30a",
-   "topic": "wirtschaft",
-   "title": "Marktbericht: DAX springt auf Rekordhoch",
-   "text": "Die Märkte bleiben im Aufwind: Nach den US-Zwischenwahlen erreicht der DAX im frühen Handel einen neuen Höchststand. Rückenwind erhält er von günstigeren Ölpreisen und positiven Signalen aus der Industrie.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zwischenwahlen-100.html",
-   "published": "2026-11-05T17:16:27+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-08T17:16:27+00:00",
-   "img": "https://images.tagesschau.de/image/d388efc0-d931-4876-9fbe-df4840ef0ed9/AAABmhb629g/AAABnSSvrFg/16x9-big/dax-195.jpg?width=1920"
-  },
-  {
-   "id": "nc359597864",
-   "topic": "politik",
-   "title": "Christian Freuding wird neuer Generalinspekteur der Bundeswehr",
-   "text": "Wechsel an der Spitze der Bundeswehr: Christian Freuding wird neuer Generalinspekteur und damit ranghöchster Soldat der Truppe. Freuding sei der Richtige für \"das neue Zeitalter\", sagte Verteidigungsminister Pistorius.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/generalinspekteur-freuding-100.html",
-   "published": "2026-11-05T17:15:48+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-08T17:15:48+00:00",
-   "img": "https://images.tagesschau.de/image/8ed7e67b-7972-48fe-bcaf-cb3420cc0f2b/AAABoavrqLI/AAABnSSvrFg/16x9-big/christian-freuding-108.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Personalien - Freuding wird Generalinspekteur der Bundeswehr",
-     "link": "https://www.deutschlandfunk.de/freuding-wird-generalinspekteur-der-bundeswehr-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n6437214899",
-   "topic": "politik",
-   "title": "Tod von Aiwanger - Keinerlei Anzeichen für Fremdverschulden",
-   "text": "Der bayerische Vize-Regierungschef Aiwanger ist nach dem vorläufigen Ergebnis der Obduktion ohne Fremdverschulden gestorben. Das teilte die Staatsanwaltschaft in Berlin nach der bisherigen rechtsmedizinischen Untersuchung des Leichnams mit.",
-   "link": "https://www.deutschlandfunk.de/keinerlei-anzeichen-fuer-fremdverschulden-100.html",
-   "published": "2026-11-05T17:15:22+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-07T17:15:22+00:00",
-   "img": "https://bilder.deutschlandfunk.de/6f/71/73/34/6f717334-1497-40aa-a640-3fb59691ac0a/hubert-aiwanger-ist-gestorben-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Aiwanger starb laut ersten Erkenntnissen ohne Fremdverschulden",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-tod-ermittlungen-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n7b877c41cd",
-   "topic": "politik",
-   "title": "Personalien - Freuding wird Generalinspekteur der Bundeswehr",
-   "text": "​Der bisherige Heeresinspekteur Christian Freuding wird neuer Generalinspekteur der Bundeswehr.",
-   "link": "https://www.deutschlandfunk.de/freuding-wird-generalinspekteur-der-bundeswehr-100.html",
-   "published": "2026-11-05T17:15:22+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-07T17:15:22+00:00",
-   "img": "https://bilder.deutschlandfunk.de/e9/18/df/a5/e918dfa5-63fd-4021-812e-ae9b635bcdca/bundesaussenminister-pistorius-heeresinspektor-christian-freuding-generalinspekteur-bundeswehr-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Christian Freuding wird neuer Generalinspekteur der Bundeswehr",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/generalinspekteur-freuding-100.html"
-    }
-   ]
-  },
-  {
-   "id": "na236c82e08",
-   "topic": "politik",
-   "title": "Ungarische Außenpolitik - Premier Magyar nimmt weitere Kurskorrekturen vor",
-   "text": "Der ungarische Regierungschef Magyar nimmt weitere außenpolitische Kurskorrekturen vor.",
-   "link": "https://www.deutschlandfunk.de/premier-magyar-nimmt-weitere-kurskorrekturen-vor-100.html",
-   "published": "2026-11-05T17:15:22+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-07T17:15:22+00:00",
-   "img": "https://bilder.deutschlandfunk.de/aa/44/3d/80/aa443d80-4fe2-44e2-89fe-34cafc05877d/ungarn-ministerpraesident-magyar-akten-kommunistische-staatssicherheit-zugang-oeffnung-100-1920x1920.jpg"
-  },
-  {
-   "id": "ndcc67739d2",
-   "topic": "politik",
-   "title": "China - Kritik an erneuter Verurteilung des Hongkonger Demokratieaktivisten Joshua Wong",
-   "text": "Die erneute Verurteilung des Demokratie-Aktivisten Joshua Wong in Hongkong ist international auf Kritik gestoßen.",
-   "link": "https://www.deutschlandfunk.de/kritik-an-erneuter-verurteilung-des-hongkonger-demokratieaktivisten-joshua-wong-100.html",
-   "published": "2026-11-05T17:15:22+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-07T17:15:22+00:00",
-   "img": "https://bilder.deutschlandfunk.de/8a/1e/9e/07/8a1e9e07-0efb-4e8a-811f-99917596e9c7/joshua-wong-hongkong-100-1920x1920.jpg"
-  },
-  {
-   "id": "n6820659dd5",
-   "topic": "politik",
-   "title": "Rechtsextremismus - Bundestag debattiert über Aufarbeitung der NSU-Verbrechen",
-   "text": "Der Bundestag hat über die Aufdeckung der rechtsextremen Terrorzelle \"Nationalsozialistischer Untergrund\" vor 15 Jahren debattiert. Der innenpolitische Sprecher der CDU/CSU-Fraktion, Throm, kündigte an, dass in Nürnberg ein NSU-Dokumentationszentrum eingerichtet werden soll.",
-   "link": "https://www.deutschlandfunk.de/bundestag-debattiert-ueber-aufarbeitung-der-nsu-verbrechen-100.html",
-   "published": "2026-11-05T17:15:22+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-07T17:15:22+00:00",
-   "img": "https://bilder.deutschlandfunk.de/73/cb/28/3f/73cb283f-b56a-4199-b844-d73ddded4d3b/alexander-throm-cdu-100-1920x1920.jpg"
-  },
-  {
-   "id": "n08c02dc2f8",
-   "topic": "politik",
-   "title": "Halloween-Süßigkeiten - Neuer Metallfund, aber auch mehrfach Entwarnung",
-   "text": "In Sachsen-Anhalt und in Brandenburg sind erneut Metall-Teile in Halloween-Süßigkeiten gefunden worden.",
-   "link": "https://www.deutschlandfunk.de/neuer-metallfund-aber-auch-mehrfach-entwarnung-102.html",
-   "published": "2026-11-05T17:15:22+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-07T17:15:22+00:00"
-  },
-  {
-   "id": "nc30cdc0f30",
-   "topic": "nfl",
-   "title": "Drake Maye is the AFC offensive player of the month",
-   "text": "Patriots quarterback Drake Maye heard a lot of criticism in September, but it faded away in October.",
-   "link": "https://sports.yahoo.com/articles/drake-maye-afc-offensive-player-170907025.html",
-   "published": "2026-11-05T17:09:07+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-10T17:09:07+00:00"
-  },
-  {
-   "id": "n6202e7c64f",
-   "topic": "politik",
-   "title": "Kündigung wegen Kirchenaustritt ist unwirksam: Wiesbadenerin gewinnt vor Gericht",
-   "text": "Auf den Kirchenaustritt folgte die Kündigung - zu Unrecht. Eine Sozialpädagogin aus Wiesbaden, die für einen kirchlichen Verein arbeitete, hat erfolgreich gegen ihren Arbeitgeber geklagt. Das Bistum Limburg will eine Verfassungsbeschwerde prüfen.",
-   "link": "https://www.hessenschau.de/panorama/kuendigung-wegen-kirchenaustritt-ist-unwirksam-wiesbadenerin-gewinnt-vor-gericht-v1,urteil-kirchenaustritt-102.html",
-   "published": "2026-11-05T17:04:36+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-09T17:04:36+00:00",
-   "img": "https://www.hessenschau.de/gesellschaft/kirche-104~_t-1618907147295_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "n3a663741c2",
-   "topic": "welt",
-   "title": "Ukraine: Korruption und Mafiastrukturen bei Geheimdienst und Polizei?",
-   "text": "Ukrainische Antikorruptionsbehörden haben neue Ermittlungsergebnisse veröffentlicht, die schockieren: Der Korruptionsskandal zieht offenbar noch weitere Kreise als bisher bekannt - und betrifft auch Geheimdienst und Polizei. Von F. Kellermann.",
-   "link": "https://www.tagesschau.de/ausland/ukraine-korruption-116.html",
-   "published": "2026-11-05T17:03:34+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-08T17:03:34+00:00",
-   "img": "https://images.tagesschau.de/image/ad914db0-3836-4392-8519-371c55954844/AAABoaymX6M/AAABnSSvrFg/16x9-big/ukraine-flagge-114.jpg?width=1920"
-  },
-  {
-   "id": "nd66d7588b6",
-   "topic": "nfl",
-   "title": "Great player, bad pick? Ashton Jeanty, Jeremiyah Love and the high price of drafting a RB in the top 10",
-   "text": "The Raiders and Cardinals spent premium picks on RBs. Their slow starts raise a bigger question about draft value and missed opportunities.",
-   "link": "https://www.cbssports.com/nfl/news/great-player-bad-pick-ashton-jeanty-jeremiyah-love-drafting-rb-in-top-10/",
-   "published": "2026-11-05T17:02:13+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-10T17:02:13+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/11/05/9c1e3525-b51f-452f-8428-479b27cd50bc/jeanty.jpg"
-  },
-  {
-   "id": "n9eb2617182",
-   "topic": "it",
-   "title": "Forscher finden Hinweise auf vulkanische Aktivität auf dem Mars",
-   "text": "Auf dem Mars gibt es die größten Vulkane des Sonnensystems, aber keine direkten Anzeichen für aktuelle vulkanische Aktivität – bis jetzt.",
-   "link": "https://www.heise.de/news/Forscher-finden-Hinweise-auf-vulkanische-Aktivitaet-auf-dem-Mars-11513968.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-05T17:02:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-10T17:02:00+00:00"
-  },
-  {
-   "id": "nb55b763ee5",
-   "topic": "politik",
-   "title": "ARD-DeutschlandTrend: Große Mehrheit hat Verständnis für Jugendproteste",
-   "text": "82 Prozent der Menschen in Deutschland findet, dass die Politik die Anliegen junger Menschen nicht gut genug berücksichtigt. Die junge Generation selbst vertraut im ARD-DeutschlandTrend vor allem zwei Parteien. Von Christian Basl.",
-   "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-november-108.html",
-   "published": "2026-11-05T17:01:09+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-08T17:01:09+00:00",
-   "img": "https://images.tagesschau.de/image/cc3708c1-f48c-43a9-ad65-499b2ce07d74/AAABmamZfiU/AAABnSSvrFg/16x9-big/deutschlandtrend-3337.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "ARD-Deutschlandtrend: Große Mehrheit sieht junge Menschen politisch benachteiligt. Gen-Z-Proteste finden breite Zustimmung.",
-     "link": "https://www.dw.com/de/ard-deutschlandtrend-große-mehrheit-sieht-junge-menschen-politisch-benachteiligt-gen-z-proteste-finden-breite-zustimmung/a-79869492?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n4978e286ad",
-   "topic": "it",
-   "title": "(g+) Binance: Nordkoreas Hacker planten Milliardenraub monatelang",
-   "text": "Nikkei Asia rekonstruiert den Angriff auf die Kryptobörse und erklärt mit Experten, wie Nordkoreas Hacker vorgehen. Von Andrew Sharp ( Nordkorea , Security )",
-   "link": "https://www.golem.de/news/binance-nordkoreas-hacker-planten-milliardenraub-monatelang-2611-214903.html",
-   "published": "2026-11-05T17:00:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-10T17:00:02+00:00",
-   "img": "https://www.golem.de/2611/214903-607065-607063_rc.jpg"
-  },
-  {
-   "id": "n8b1e13e0cc",
-   "topic": "welt",
-   "title": "Trump kritisiert die Midterms-Auszählung im Bundesstaat Alaska",
-   "text": "Noch läuft die Auszählung der Senatoren-Wahl in Alaska. Es zeichnet sich ein knappes Rennen ab. Nun mischt sich US-Präsident Trump ein: Er fordert, die Stimmen für Dan J. Sullivan dem Republikaner Dan S. Sullivan zuzuschlagen.",
-   "link": "https://www.tagesschau.de/ausland/amerika/us-midterms-trump-alaska-100.html",
-   "published": "2026-11-05T16:58:22+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-08T16:58:22+00:00",
-   "img": "https://images.tagesschau.de/image/d6504445-52e6-4dea-a786-f6ab1c369d80/AAABoa-VHCY/AAABnSSvrFg/16x9-big/wahlhelfer-stimmzettel-100.jpg?width=1920"
-  },
-  {
-   "id": "ne3c5fdf116",
-   "topic": "it",
-   "title": "Glasfaser: Konkurrenz nennt Vorwürfe von Telekom-Chef \"zynisch\"",
-   "text": "Telekom-Chef Tim Höttges rechtfertigt die eigene niedrige Glasfaser-Auslastung von 17,9 Prozent mit anhaltend hohem Bautempo und wirft der Konkurrenz eine Ausbau-Bremse vor. ( Glasfaser , DSL )",
-   "link": "https://www.golem.de/news/glasfaser-konkurrenz-nennt-vorwuerfe-von-telekom-chef-zynisch-2611-214906.html",
-   "published": "2026-11-05T16:47:01+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-10T16:47:01+00:00",
-   "img": "https://www.golem.de/2611/214906-607079-607077_rc.jpg"
-  },
-  {
-   "id": "nf4f8303881",
-   "topic": "welt",
-   "title": "Drags, Diven und Identität: Wie Hassandra Berlins arabische Queer-Community aufbaut",
-   "text": "Hassandra gehört zu den bekanntesten Stimmen der queeren arabischen Kunstszene in Berlin. Mit dem 2023 gegründeten ADIRA Drag Festival schafft Hassandra gemeinsam mit anderen Räume für Austausch und Gemeinschaft.",
-   "link": "https://www.dw.com/de/drags-diven-und-identität-wie-hassandra-berlins-arabische-queer-community-aufbaut/a-79863753?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-05T16:37:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-09T16:37:00+00:00"
-  },
-  {
-   "id": "n86084f4dc7",
-   "topic": "wissenschaft",
-   "title": "Bilder der Woche: Eine Schönheit, die keiner haben will",
-   "text": "Diese invasive Insektenart vermehrt sich massenhaft, saugt ihre Wirtspflanzen aus und ist kaum zu bekämpfen. Nun wurde erstmals eine Population in Europa gesichtet.",
-   "link": "https://www.spektrum.de/alias/bilder-der-woche/laternentraegerzikade-eine-schoenheit-die-keiner-haben-will/2352920",
-   "published": "2026-11-05T16:30:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-19T16:30:00+00:00"
-  },
-  {
-   "id": "n21ef659663",
-   "topic": "it",
-   "title": "SpaceX treibt Mobilfunkpläne voran",
-   "text": "SpaceX will Starlink in den USA als integrierten Mobilfunkanbieter etablieren und greift dabei zu Technik von Qualcomm. Auch eine Übernahme ist im Gespräch.",
-   "link": "https://www.heise.de/news/SpaceX-treibt-Mobilfunkplaene-voran-11513211.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-05T16:30:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-10T16:30:00+00:00"
-  },
-  {
-   "id": "n522cd670e8",
-   "topic": "ki",
-   "title": "Chipdesign, Quant-Trading, Cyberangriffe: Neuer Benchmark soll zeigen, wie wenig KI-Agenten in echten Arbeitsumgebungen leisten",
-   "text": "SemiAnalysis konfrontiert KI-Agenten im neuen Benchmark GDPx mit simulierter Wissensarbeit – von Chipdesign bis Quant-Trading. Kein Modell knackt 12 Prozent, Claude Opus 5.5 führt knapp vor Gemini 4 Carbon. Kritiker bemängeln allerdings die geringe Aufgabenzahl pro Bereich und uneinheitliche Testbedingungen. Der …",
-   "link": "https://the-decoder.de/chipdesign-quant-trading-cyberangriffe-neuer-benchmark-soll-zeigen-wie-wenig-ki-agenten-in-echten-arbeitsumgebungen-leisten/",
-   "published": "2026-11-05T16:15:24+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-12T16:15:24+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/11/semianalysis.png"
-  },
-  {
-   "id": "n1c8a1f1727",
-   "topic": "ki",
-   "title": "Tencents Hy4 soll KI-Entwicklung selbst übernehmen und eigene Nachfolger trainieren",
-   "text": "Tencent hat mit Hy4 sein erstes multimodales Sprachmodell vorgestellt, das Bilder versteht und eigenständig Programme bedienen kann. Laut Artificial Analysis erreicht es im Intelligence Index 35 Punkte, solide, aber hinter Kimi K3.1 Pro. Bei anspruchsvoller Mathematik und komplexer Bildanalyse liegt Hy4 laut Tencent …",
-   "link": "https://the-decoder.de/tencents-hy4-soll-ki-entwicklung-selbst-uebernehmen-und-eigene-nachfolger-trainieren/",
-   "published": "2026-11-05T15:55:31+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-12T15:55:31+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/09/tencent.png"
-  },
-  {
-   "id": "n2ddedc2481",
-   "topic": "welt",
-   "title": "Britischer Komiker Brand der Vergewaltigung schuldig gesprochen",
-   "text": "Russell Brand - der britische Komiker und Schauspieler - blickt einer Gefängnisstrafe entgegen. Der 51-Jährige ist in einem Prozess um sexuelle Gewalt in mehreren Punkten für schuldig befunden worden.",
-   "link": "https://www.tagesschau.de/ausland/europa/russell-brand-verurteilung-100.html",
-   "published": "2026-11-05T15:42:30+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-08T15:42:30+00:00",
-   "img": "https://images.tagesschau.de/image/fe0f04f7-8477-4ba0-9a2b-11acb26a57fa/AAABoaxREqU/AAABnSSvrFg/16x9-big/russell-brand-102.jpg?width=1920"
-  },
-  {
-   "id": "n02725edd47",
-   "topic": "welt",
-   "title": "Wie der Konflikt der Tichanowskis die belarussische Opposition prägt",
-   "text": "Sergej Tichanowski kritisiert in Livestreams die Arbeit seiner Frau Swetlana Tichanowskaja und ihres Büros. Er stellt zudem ihre Legitimität infrage. Wie reagiert Swetlana Tichanowskaja auf die Kritik ihres Mannes?",
-   "link": "https://www.dw.com/de/wie-der-konflikt-der-tichanowskis-die-belarussische-opposition-prägt/a-79789242?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-05T15:34:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-09T15:34:00+00:00",
-   "img": "https://static.dw.com/image/74472861_302.jpg"
-  },
-  {
-   "id": "ne2d52a2a97",
-   "topic": "politik",
-   "title": "Wie der Führerschein günstiger werden soll",
-   "text": "Weniger Sonderfahrten, keine Präsenzpflicht im Theorieunterricht: Der Führerschein soll weniger kosten und die Ausbildung moderner werden. Der Bundestag hat mit den Stimmen von Union und SPD einen ersten Teil der Reform beschlossen.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-fuehrerschein-reform-100.html",
-   "published": "2026-11-05T15:33:46+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-08T15:33:46+00:00",
-   "img": "https://images.tagesschau.de/image/60a0757a-c615-4a84-a1d0-ef2a8555dfa2/AAABnkJwkBE/AAABnSSvrFg/16x9-big/fahrschule-244.jpg?width=1920"
-  },
-  {
-   "id": "n079d29997e",
-   "topic": "politik",
-   "title": "Aiwanger starb laut ersten Erkenntnissen ohne Fremdverschulden",
-   "text": "Einen Tag nach dem plötzlichen Tod des Freie-Wähler-Chefs Aiwanger liegen erste Ermittlungsergebnisse vor. Für ein Fremdverschulden gibt es demnach keine Anhaltspunkte. Die Freien Wähler müssen sich jetzt neu aufstellen.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-tod-ermittlungen-100.html",
-   "published": "2026-11-05T15:25:23+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-08T15:25:23+00:00",
-   "img": "https://images.tagesschau.de/image/4ce8454c-ad7e-4d63-b0cb-86db5fe55617/AAABoazIc-M/AAABnSSvrFg/16x9-big/hotel-neuer-fritz-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Tod von Aiwanger - Keinerlei Anzeichen für Fremdverschulden",
-     "link": "https://www.deutschlandfunk.de/keinerlei-anzeichen-fuer-fremdverschulden-100.html"
-    }
-   ]
   }
  ]
 }
