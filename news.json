@@ -1,50 +1,282 @@
 {
- "generated": "2026-11-05T23:38:36.629590+00:00",
+ "generated": "2026-11-06T06:47:56.022852+00:00",
  "briefing": [
+  "nb32b67eb92",
+  "nf2de1e36f6",
   "n9e21062d90",
   "n2d510726eb",
-  "nbf07732d5f",
-  "n9f66f471eb",
-  "n581221f0b2",
-  "n772659164f",
+  "n7a3da18ee4",
+  "nbb9a2dabc5",
   "n0cfc14aa5a",
   "n958326e534"
  ],
  "ranked": [
   {
+   "id": "nb32b67eb92",
+   "s": 32.8
+  },
+  {
+   "id": "nf2de1e36f6",
+   "s": 31.5
+  },
+  {
    "id": "n9e21062d90",
-   "s": 29.8
+   "s": 28.0
   },
   {
    "id": "n2d510726eb",
-   "s": 28.6
-  },
-  {
-   "id": "nbf07732d5f",
    "s": 27.0
   },
   {
-   "id": "n9f66f471eb",
+   "id": "n7a3da18ee4",
    "s": 27.0
   },
   {
-   "id": "n581221f0b2",
+   "id": "nbb9a2dabc5",
    "s": 27.0
-  },
-  {
-   "id": "n772659164f",
-   "s": 21.7
   },
   {
    "id": "n0cfc14aa5a",
-   "s": 20.3
+   "s": 18.5
   },
   {
    "id": "n958326e534",
-   "s": 16.9
+   "s": 15.1
   }
  ],
  "items": [
+  {
+   "id": "nebda3f708c",
+   "topic": "politik",
+   "title": "Bundesliga-Top-Duell gegen Wolfsburg: Eintracht-Frauen hoffen auf Spitzenspiel mit norwegischem Style",
+   "text": "Die Frauen von Eintracht Frankfurt eilen derzeit von Sieg zu Sieg. Nun soll am Freitagabend der nächste Erfolg im Bundesliga-Topspiel gegen den VfL Wolfsburg her. Flutlicht an.",
+   "link": "https://www.hessenschau.de/sport/fussball/eintracht-frankfurt-frauen/bundesliga-top-duell-gegen-wolfsburg-eintracht-frauen-hoffen-auf-spitzenspiel-mit-norwegischem-style-v1,eintracht-frauen-spitzenspiel-100.html",
+   "published": "2026-11-06T06:34:07+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-10T06:34:07+00:00",
+   "img": "https://www.hessenschau.de/sport/fussball/eintracht-frankfurt-frauen/oestenstadt-vor-wob-100~_t-1793946846422_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "nb76f7ce538",
+   "topic": "it",
+   "title": "KI-Boom: Neue Mega-Rechenzentren bedrohen Trinkwasserversorgung",
+   "text": "Der Wasserbedarf deutscher KI-Rechenzentren könnte sich bis 2030 mehr als verdoppeln. Die Politik soll gegenlenken. ( KI , GreenIT )",
+   "link": "https://www.golem.de/news/ki-boom-neue-mega-rechenzentren-bedrohen-trinkwasserversorgung-2611-214913.html",
+   "published": "2026-11-06T06:30:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-11T06:30:02+00:00",
+   "img": "https://www.golem.de/2611/214913-607120-607118_rc.jpg"
+  },
+  {
+   "id": "n109f7458cd",
+   "topic": "it",
+   "title": "heise+ | Werkzeug per Strom-Fingerabdruck erkennen: Shelly-Hardware gehackt",
+   "text": "Wie ein gehacktes Shelly-Energiemessgerät mit über 2.000 Messungen pro Sekunde den Gesamtverbrauch und die Betriebszeit einzelner Maschinen getrennt erfasst.",
+   "link": "https://www.heise.de/ratgeber/Werkzeug-per-Strom-Fingerabdruck-erkennen-Shelly-Hardware-gehackt-11490992.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+   "published": "2026-11-06T06:30:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-11T06:30:00+00:00"
+  },
+  {
+   "id": "n8f3c6a7f3f",
+   "topic": "wirtschaft",
+   "title": "Marktbericht: Aus Wahleuphorie wird Wahlkater",
+   "text": "Die Furcht vor einer schärferen KI-Regulierung hat die Wall Street auf Talfahrt geschickt, vor allem Tech-Werte brechen ein. Der DAX wird sich dem Abwärtstrend nicht entziehen können.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-nasdaq-wall-street-100.html",
+   "published": "2026-11-06T06:26:17+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-09T06:26:17+00:00",
+   "img": "https://images.tagesschau.de/image/5c52df02-e6ba-4229-a355-64a0f5be2ce1/AAABnLJUK0w/AAABnSSvrFg/16x9-big/boerse-492.jpg?width=1920"
+  },
+  {
+   "id": "n1306b5e95f",
+   "topic": "it",
+   "title": "Finanzkriminalität: KI filtert aus Millionen Dateien die entscheidenden Spuren heraus",
+   "text": "Die händische Auswertung von Ermittlungsunterlagen ist zeitraubend: Dabei nutzen Behörden jetzt eine eigene KI, das beschleunigt die Arbeit. ( KI , Finanzsoftware )",
+   "link": "https://www.golem.de/news/finanzkriminalitaet-ki-filtert-aus-millionen-dateien-die-entscheidenden-spuren-heraus-2611-214912.html",
+   "published": "2026-11-06T06:21:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-11T06:21:02+00:00",
+   "img": "https://www.golem.de/2611/214912-607116-607111_rc.jpg"
+  },
+  {
+   "id": "nab3a82f03e",
+   "topic": "wissenschaft",
+   "title": "Schwarzloch-Sterne: Das Geheimnis der kleinen, roten Punkte",
+   "text": "Mit der neuen Objektklasse der Schwarzloch-Sterne liefern Forschende vom MIT die Lösung für das kosmische Rätsel der winzigen roten Punkte. Allerdings gibt es jetzt neue Fragen. 🎙️",
+   "link": "https://www.spektrum.de/podcast/forschungsquartett-das-geheimnis-der-schwarzloch-sterne/2352856",
+   "published": "2026-11-06T06:14:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-20T06:14:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/STScI-01JFJZNJSD2VR3V9ME4RTRG2RD_roboto_dt_top.jpg.8334934.jpg?f=1280x720"
+  },
+  {
+   "id": "nf8111033da",
+   "topic": "it",
+   "title": "Nach US-Zwischenwahlen: Skepsis zum KI-Boom löst heftigen Börsenabsturz aus",
+   "text": "Bei den US-Zwischenwahlen wurde deutlich, wie stark die Ablehnung von Rechenzentren dort ist. Mit einem Tag Verzögerung haben die Börsen nun mit Wucht reagiert.",
+   "link": "https://www.heise.de/news/Nach-US-Zwischenwahlen-Skepsis-zum-KI-Boom-loest-heftigen-Boersenabsturz-aus-11514310.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-06T06:03:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-11T06:03:00+00:00"
+  },
+  {
+   "id": "nb32b67eb92",
+   "topic": "welt",
+   "title": "Trump trifft Kreml-Vertreter und stellt Abkommen in Aussicht",
+   "text": "Sowohl Vertreter Russlands als auch der Ukraine waren jetzt zu Gast im Weißen Haus. Doch den US-Präsidenten persönlich durfte nur der Kreml-Gesandte treffen. Anschließend kündigte Trump einen möglichen Deal an, nannte aber keine Details.",
+   "link": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-russland-108.html",
+   "published": "2026-11-06T06:00:41+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-09T06:00:41+00:00",
+   "img": "https://images.tagesschau.de/image/619686c0-a7cb-4865-b7dd-ba50c33715ca/AAABoa8R5R8/AAABnSSvrFg/16x9-big/trump-5422.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Ukraine-Krieg - Trump stellt nach Treffen mit Putin-Vertrautem mögliches Abkommen in Aussicht",
+     "link": "https://www.deutschlandfunk.de/trump-stellt-nach-treffen-mit-putin-vertrautem-moegliches-abkommen-in-aussicht-102.html"
+    }
+   ]
+  },
+  {
+   "id": "n3fa805ea27",
+   "topic": "it",
+   "title": "heise+ | E Muggeseggele: E-Enduro Zero XB im Test",
+   "text": "Elektro-Kleinenduros boomen, vor allem in den USA. Mit der 63 kg leichten XB für 4600 Euro will Zero ein Stück vom Kuchen abschneiden. Die Chancen stehen gut.",
+   "link": "https://www.heise.de/tests/E-Muggeseggele-E-Enduro-Zero-XB-im-Test-11509474.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+   "published": "2026-11-06T06:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-11T06:00:00+00:00"
+  },
+  {
+   "id": "n97a7a3e2c9",
+   "topic": "nfl",
+   "title": "Justin Jefferson says his frustration came from \"wanting to win\"",
+   "text": "Vikings receiver Justin Jefferson engaged in a rare display of frustration late in Sunday's 19-15 loss to the Lions.",
+   "link": "https://sports.yahoo.com/articles/justin-jefferson-says-frustration-came-052255952.html",
+   "published": "2026-11-06T05:22:55+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-11T05:22:55+00:00"
+  },
+  {
+   "id": "nd57da7272d",
+   "topic": "politik",
+   "title": "Bundestag plant härtere Strafen für den Einsatz von K.o.-Tropfen",
+   "text": "Immer wieder werden vor allem Frauen mit K.o.-Tropfen betäubt und erleben sexualisierte Gewalt. Der Bundestag will heute härtere Strafen beschließen. Aus Sicht der Opposition verfehlt das Gesetz aber den Kern des Problems. Von Felix Jakobs.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/ko-tropfen-gesetz-bundestag-100.html",
+   "published": "2026-11-06T05:17:40+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-09T05:17:40+00:00",
+   "img": "https://images.tagesschau.de/image/c4d08bd7-cba7-4df9-8c87-b00ac693d1ba/AAABoM1W1xs/AAABnSSvrFg/16x9-big/ko-tropfen-glaeser-100.jpg?width=1920"
+  },
+  {
+   "id": "ncb0dec65f3",
+   "topic": "nfl",
+   "title": "Jaguars Defense Drowns Ravens in Rainy Baltimore",
+   "text": "The Jacksonville Jaguars weathered the storm in Baltimore, and the Ravens had no answer for the elements or Anthony Campanile’s defense. In a rainy Thursday night showdown, Jacksonville completely smothered Baltimore, turning a hostile road environment into a blowout victory. Here’s everything you need to know from …",
+   "link": "https://sports.yahoo.com/articles/jaguars-defense-drowns-ravens-rainy-045036621.html",
+   "published": "2026-11-06T04:50:36+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-11T04:50:36+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/0d3264a2a2cf763db34ed530f0cd9e54.jpg"
+  },
+  {
+   "id": "nbc6e199d1d",
+   "topic": "welt",
+   "title": "Kongress lehnt Peñas Rücktritt ab - Staatsanwalt ermittelt",
+   "text": "In Paraguay schaltet sich nun die Staatsanwaltschaft ein. Präsident Peña erklärte zwar seinen Rücktritt - der Kongress nahm diesen aber nicht an und eröffnete ein Amtsenthebungsverfahren.",
+   "link": "https://www.tagesschau.de/ausland/paraguay-ruecktritt-abgelehnt-100.html",
+   "published": "2026-11-06T04:28:23+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-09T04:28:23+00:00",
+   "img": "https://images.tagesschau.de/image/94c28f9f-19db-42b3-affc-89e97f426193/AAABoa7G9xc/AAABnSSvrFg/16x9-big/paraguay-kongress-100.jpg?width=1920"
+  },
+  {
+   "id": "n79eb72e244",
+   "topic": "nfl",
+   "title": "Prisco's Week 9 NFL expert picks: Bengals rout Falcons in Madrid, Cowboys rebound",
+   "text": "Pete Prisco reveals all of his Week 9 picks, including the Bills handing the Vikings their second straight loss",
+   "link": "https://www.cbssports.com/nfl/news/priscos-week-9-nfl-expert-picks-jaguars-roll-over-lamar-jackson-less-ravens-cowboys-rebound/",
+   "published": "2026-11-06T01:27:51+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-11T01:27:51+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/11/01/5143695a-d373-4716-8023-283fff646506/imagn-joe-burrow-bengals.jpg"
+  },
+  {
+   "id": "nd5b0bb63aa",
+   "topic": "nfl",
+   "title": "Dak Prescott delivers blunt assessment of Cowboys' offensive identity: 'Are we proud of it? I don't know'",
+   "text": "Prescott's frustrations could be boiling over as Dallas reaches its midseason point",
+   "link": "https://www.cbssports.com/nfl/news/dak-prescott-cowboys-offensive-identity-comment-brian-schottenheimer/",
+   "published": "2026-11-06T01:19:02+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-11T01:19:02+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/09/04/8ee2bb09-8b54-4442-9ca9-842c66372049/dak-prescott-dallas-cowboys-imagn-images.jpg"
+  },
+  {
+   "id": "nf2de1e36f6",
+   "topic": "politik",
+   "title": "Bundestag korrigiert Panne bei Tabaksteuererhöhung",
+   "text": "Eigentlich sollte die Tabaksteuer erst zum Jahreswechsel erhöht werden - doch durch ein Versehen trat die Erhöhung schon jetzt in Kraft. Nun heißt es per Gesetzesänderung: Kommando zurück.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-138.html",
+   "published": "2026-11-06T00:55:35+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-09T00:55:35+00:00",
+   "img": "https://images.tagesschau.de/image/d3876004-9fe6-4ca8-9b05-b85dd2090a2a/AAABoUWv6Dk/AAABnSSvrFg/16x9-big/161026-tabaksteuer-mediathek-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Berlin - Bundestag korrigiert Panne bei Tabaksteuererhöhung",
+     "link": "https://www.deutschlandfunk.de/bundestag-korrigiert-panne-bei-tabaksteuererhoehung-102.html"
+    }
+   ]
+  },
+  {
+   "id": "n4f2fed1cfa",
+   "topic": "welt",
+   "title": "Kalifornien wandelt Todesstrafen in lebenslange Haftstrafen um",
+   "text": "In Kalifornien wird die Todesstrafe seit 20 Jahren nicht mehr vollstreckt. 548 Menschen sitzen dort aktuell im Todestrakt. Jetzt kündigte der scheidende Gouverneur Newsom an, ihre Strafen in lebenslange Haftstrafen umzuwandeln.",
+   "link": "https://www.tagesschau.de/ausland/amerika/kalifornien-todesstrafe-umwandlung-100.html",
+   "published": "2026-11-05T23:44:38+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-08T23:44:38+00:00",
+   "img": "https://images.tagesschau.de/image/6fb17741-aab1-4e9e-80ce-190e83c5a5bc/AAABoa1ffvo/AAABnSSvrFg/16x9-big/newsom-120.jpg?width=1920"
+  },
   {
    "id": "nc21d2f9846",
    "topic": "nfl",
@@ -93,7 +325,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-07T22:49:36+00:00",
-   "img": "https://bilder.deutschlandfunk.de/15/16/96/97/15169697-2178-45bf-a7b5-0ceb0d0df1a0/donald-trump-us-praesident-110-1920x1920.jpg"
+   "img": "https://bilder.deutschlandfunk.de/15/16/96/97/15169697-2178-45bf-a7b5-0ceb0d0df1a0/donald-trump-us-praesident-110-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Trump trifft Kreml-Vertreter und stellt Abkommen in Aussicht",
+     "link": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-russland-108.html"
+    }
+   ]
   },
   {
    "id": "n1a91d5e559",
@@ -106,7 +345,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-07T22:49:36+00:00",
-   "img": "https://bilder.deutschlandfunk.de/FI/LE/_9/45/FILE_945aa94a1266be8f39f78a835ef7c72b/lungenkrebs-jpg-108-1280x1280.jpg"
+   "img": "https://bilder.deutschlandfunk.de/FI/LE/_9/45/FILE_945aa94a1266be8f39f78a835ef7c72b/lungenkrebs-jpg-108-1280x1280.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Bundestag korrigiert Panne bei Tabaksteuererhöhung",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-138.html"
+    }
+   ]
   },
   {
    "id": "n9a28ce1333",
@@ -686,7 +932,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-08T16:58:22+00:00",
-   "img": "https://images.tagesschau.de/image/c74d76ff-3c36-4b7d-9d6f-262a04d07e36/AAABoaxKWOk/AAABnSSvrFg/16x9-big/donald-trump-994.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/d6504445-52e6-4dea-a786-f6ab1c369d80/AAABoa-VHCY/AAABnSSvrFg/16x9-big/wahlhelfer-stimmzettel-100.jpg?width=1920"
   },
   {
    "id": "ne3c5fdf116",
@@ -1483,243 +1729,6 @@
    "lang": "en",
    "expires": "2026-11-09T23:31:23+00:00",
    "img": "https://sportshub.cbsistatic.com/i/2026/11/04/b7fe991c-804c-4252-a2e3-71af5d9d3685/caleb-williams-bears.jpg"
-  },
-  {
-   "id": "n2acd93a9c6",
-   "topic": "nfl",
-   "title": "Jacoby Brissett trade gives Zay Flowers and the Ravens’ offense a fantasy lifeline",
-   "text": "Jacoby Brissett looks ready to save the day for fantasy football managers after reportedly being dealt to the Ravens.",
-   "link": "https://sports.yahoo.com/fantasy/article/jacoby-brissett-trade-gives-zay-flowers-and-the-ravens-offense-a-fantasy-lifeline-233113075.html",
-   "published": "2026-11-04T23:31:13+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-09T23:31:13+00:00"
-  },
-  {
-   "id": "n0c60d3e648",
-   "topic": "nfl",
-   "title": "Packers RB Josh Jacobs describes latest abuse allegations as an 'attack,' not worried about suspension from league",
-   "text": "At least three other women have accused Josh Jacobs of abuse after his arrest in May.",
-   "link": "https://sports.yahoo.com/nfl/article/packers-rb-josh-jacobs-describes-latest-abuse-allegations-as-an-attack-not-worried-about-suspension-from-league-232954880.html",
-   "published": "2026-11-04T23:29:54+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-09T23:29:54+00:00"
-  },
-  {
-   "id": "n2e976028bb",
-   "topic": "it",
-   "title": "Sven Knapp: Breko warnt vor Schein-Verhandlungen beim Open Access",
-   "text": "Der Bundestag debattiert über die Novelle des Telekommunikationsgesetzes - doch aus Sicht der alternativen Netzbetreiber steuert das Gesetz laut Breko gegen die eigenen Ziele. ( Breko , Open Access )",
-   "link": "https://www.golem.de/news/sven-knapp-breko-warnt-vor-schein-verhandlungen-beim-open-access-2611-214872.html",
-   "published": "2026-11-04T23:15:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-09T23:15:02+00:00",
-   "img": "https://www.golem.de/2611/214872-606925-606923_rc.jpg"
-  },
-  {
-   "id": "nffb835e5e2",
-   "topic": "it",
-   "title": "Tim Höttges: Telekom-Chef wirbt bei Bundesregierung für T-Mobile US-Fusion",
-   "text": "Während das vorläufige Aus für die Fusion zwischen der Deutschen Telekom und T-Mobile US vermeldet wurde, treibt Höttges das Projekt laut Insidern mit Nachdruck voran. ( Timotheus Höttges , Telekom )",
-   "link": "https://www.golem.de/news/tim-hoettges-telekom-chef-wirbt-bei-bundesregierung-fuer-t-mobile-us-fusion-2611-214871.html",
-   "published": "2026-11-04T22:23:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-09T22:23:02+00:00",
-   "img": "https://www.golem.de/2611/214871-606921-606919_rc.jpg"
-  },
-  {
-   "id": "n74952a2abe",
-   "topic": "nfl",
-   "title": "Matthew Stafford's wife calls out NFL over apparent scheduling disadvantage given to Rams",
-   "text": "Los Angeles will play in the NFL's first-ever Thanksgiving Eve game, which doesn't give the Rams a true bye week",
-   "link": "https://www.cbssports.com/nfl/news/matthew-staffords-wife-calls-out-nfl-rams-thanksgiving-eve/",
-   "published": "2026-11-04T21:27:54+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-09T21:27:54+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/11/04/ed6563ee-bd73-4033-8f89-b9d7bd6c43dc/stafford-rams.jpg"
-  },
-  {
-   "id": "n32c752da3e",
-   "topic": "welt",
-   "title": "Liveblog zu den Midterms: ++ Vance sieht Iran-Krieg als Grund für Wahlschlappe ++",
-   "text": "US-Vizepräsident Vance führt die Niederlagen der Republikaner auf den Iran-Krieg zurück. Laut Medienberichten will der derzeitige Sprecher des Repräsentantenhauses, Johnson, nicht erneut als Fraktionschef der Republikaner kandidieren.",
-   "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-106.html",
-   "published": "2026-11-04T21:26:33+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-07T21:26:33+00:00",
-   "img": "https://images.tagesschau.de/image/7383e65d-830d-44c4-914c-05a03a701938/AAABoaeCyWU/AAABnSSvrFg/16x9-big/jd-vance-134.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Nach den \"Midterms\" - Präsident Trump und Vize Vance nach Republikaner-Niederlage bei US-Kongresswahlen uneins über Fortführung des Iran-Kriegs",
-     "link": "https://www.deutschlandfunk.de/praesident-trump-und-vize-vance-nach-republikaner-niederlage-bei-us-kongresswahlen-uneins-ueber-fort-106.html"
-    }
-   ]
-  },
-  {
-   "id": "n200203a4fa",
-   "topic": "it",
-   "title": "Canva: Umstrukturierung und Stellenabbau",
-   "text": "Angesichts „neuer Technologien“ und langsameren Wachstums plant das Softwareunternehmen Canva eine umfassende Umstrukturierung mit schlankeren Strukturen.",
-   "link": "https://www.heise.de/news/Canva-Umstrukturierung-und-Stellenabbau-11512750.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-04T21:25:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-09T21:25:00+00:00"
-  },
-  {
-   "id": "n581221f0b2",
-   "topic": "welt",
-   "title": "Vance zu den Midterms: \"Der Grund für unsere Niederlage ist der Krieg\"",
-   "text": "Nach der Wahlschlappe der Republikaner geht in der Partei die Spurensuche los, warum sie solche herben Verluste gegen die Demokraten einstecken musste. Für Vizepräsident Vance ist klar: Der Iran-Krieg ist schuld. Von K. Fuß.",
-   "link": "https://www.tagesschau.de/ausland/amerika/midterms-vance-irankrieg-100.html",
-   "published": "2026-11-04T21:15:24+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-07T21:15:24+00:00",
-   "img": "https://images.tagesschau.de/image/dd13161f-e5e5-44f2-b730-449bb56102a0/AAABoI7eowY/AAABnSSvrFg/16x9-big/vance-184.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Nach den \"Midterms\" - Präsident Trump und Vize Vance nach Republikaner-Niederlage bei US-Kongresswahlen uneins über Fortführung des Iran-Kriegs",
-     "link": "https://www.deutschlandfunk.de/praesident-trump-und-vize-vance-nach-republikaner-niederlage-bei-us-kongresswahlen-uneins-ueber-fort-106.html"
-    }
-   ]
-  },
-  {
-   "id": "neafd9edf8f",
-   "topic": "politik",
-   "title": "Ryanair will Flüge von Kassel Airport anbieten - zwei Ziele im Süden",
-   "text": "Ab März 2027 soll es von Kassel aus wieder Flüge in den Süden geben: Wie die irische Billigfluglinie Ryanair und der Flughafen mitteilten, sind zwei wöchentliche Verbindungen nach Spanien und Italien geplant.",
-   "link": "https://www.hessenschau.de/wirtschaft/ryanair-will-fluege-von-kassel-airport-anbieten---zwei-ziele-im-sueden-v3,ryanair-kassel-100.html",
-   "published": "2026-11-04T20:49:31+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-08T20:49:31+00:00",
-   "img": "https://www.hessenschau.de/wirtschaft/ryanair-160~_t-1536656803484_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "n28fe815e96",
-   "topic": "it",
-   "title": "Digital Health: Wie gut sind Gesundheitsämter auf Pandemien vorbereitet?",
-   "text": "Trotz Millionenförderung bleibt in Gesundheitsämtern der digitale Flickenteppich. Im Digital-Health-Podcast geht es um die Frage, was für kommende Krisen fehlt.",
-   "link": "https://www.heise.de/news/Digital-Health-Wie-gut-sind-Gesundheitsaemter-auf-Pandemien-vorbereitet-11512713.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-04T20:32:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-09T20:32:00+00:00"
-  },
-  {
-   "id": "nbf07732d5f",
-   "topic": "politik",
-   "title": "\"Gen-Z\"-Protest: Bundestag debattiert über Konsequenzen nach Krawallen",
-   "text": "Die Krawalle vom Wochenende haben den Bundestag erreicht. In einer Aktuellen Stunde herrschte weitgehend Einigkeit in der Verurteilung der Gewalt - über ihre Ursachen und die angemessene Wortwahl gingen die Meinungen auseinander. Von F. Aischmann.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/gen-z-aktuelle-stunde-100.html",
-   "published": "2026-11-04T20:24:21+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-07T20:24:21+00:00",
-   "img": "https://images.tagesschau.de/image/ec43f7a5-fa42-4386-a1a0-938af32f30ce/AAABoagAR6s/AAABnSSvrFg/16x9-big/dobrindt-bundestag-102.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Rechtsextremismus - Bundestag debattiert über Aufarbeitung der NSU-Verbrechen",
-     "link": "https://www.deutschlandfunk.de/bundestag-debattiert-ueber-aufarbeitung-der-nsu-verbrechen-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n6a86911557",
-   "topic": "it",
-   "title": "Chipfertigung: EU investiert Hunderte Millionen in Chipdesign-Plattform",
-   "text": "Mit Investitionen in Höhe von 525 Millionen Euro fördert die EU eine neue Generation europäischer Chipdesign-Unternehmen. Europa will unabhängiger werden.",
-   "link": "https://www.heise.de/news/Europaeische-Chipdesign-Plattform-EU-investiert-Hunderte-Millionen-11512717.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-04T20:13:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-09T20:13:00+00:00"
-  },
-  {
-   "id": "n53eff4b95e",
-   "topic": "ki",
-   "title": "ChatGPT kann jetzt animierte GIFs erstellen - OpenAI rollt neue Bildfunktion aus",
-   "text": "OpenAI spendiert ChatGPT eine GIF-Funktion: Mit dem neuen Images-2.6-Modell lassen sich animierte GIFs per Textprompt oder Foto erstellen und anschließend in Geschwindigkeit und Einzelframes anpassen. Nutzer generieren inzwischen laut OpenAI mehr als vier Milliarden Bilder pro Woche. Der Artikel ChatGPT kann jetzt …",
-   "link": "https://the-decoder.de/chatgpt-kann-jetzt-animierte-gifs-erstellen-openai-rollt-neue-bildfunktion-aus/",
-   "published": "2026-11-04T19:30:20+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-11T19:30:20+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/11/openai_gif_cat.png"
-  },
-  {
-   "id": "n33c0d6e8c9",
-   "topic": "wissenschaft",
-   "title": "Außerirdischer Vulkanismus: Hat der Mars aktive Vulkane?",
-   "text": "Im Bereich des Marsvulkans Alba Mons fanden sich in Daten der europäischen Raumsonde Trace Gas Orbiter Spalten in der Oberfläche, aus denen offenbar Salzsäure als Gas austritt.",
-   "link": "https://www.spektrum.de/news/hinweise-auf-aktiven-vulkanismus-auf-dem-mars-gefunden/2352453",
-   "published": "2026-11-04T19:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-18T19:00:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/Alba_Mons_MOLA_zoom_64.jpg.8421903.jpg?f=1280x720"
-  },
-  {
-   "id": "n53232ac30e",
-   "topic": "wirtschaft",
-   "title": "Wirtschaft vor acht vom 04.11.2026",
-   "text": "Wirtschaft vor acht vom 04.11.2026",
-   "link": "https://www.tagesschau.de/video/video-1678250.html",
-   "published": "2026-11-04T18:58:13+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-07T18:58:13+00:00",
-   "img": "https://images.tagesschau.de/image/51a846e1-aa3b-4569-b9be-c32783748ef9/AAABoafs9ho/AAABnSSvrFg/16x9-big/sendungsbild-1822456.jpg?width=1920"
-  },
-  {
-   "id": "n026dd2c1ab",
-   "topic": "ki",
-   "title": "Anthropic-API-Nutzer können Wasserzeichen bei älteren Claude-Modellen leicht umgehen",
-   "text": "Anthropic weitet sein Text-Wasserzeichen auf vier weitere Claude-Modelle aus, getrieben von der Dezember-Deadline des EU-AI-Acts. Bei älteren Modellen vor der 4.7-Serie genügt allerdings eine kleine Änderung der Sampling-Parameter, um die Markierung zu umgehen. Der Artikel Anthropic-API-Nutzer können Wasserzeichen bei …",
-   "link": "https://the-decoder.de/anthropic-api-nutzer-koennen-wasserzeichen-bei-aelteren-claude-modellen-leicht-umgehen/",
-   "published": "2026-11-04T18:56:55+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-11T18:56:55+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/08/Claude-Watermark.png"
-  },
-  {
-   "id": "n65c88cbf9d",
-   "topic": "ki",
-   "title": "OpenAI übernimmt Entwickler-Tool-Firma Pierre für bessere KI-Coding-Werkzeuge",
-   "text": "OpenAI übernimmt das Entwickler-Toolunternehmen Pierre Computer Company, dessen Bibliotheken \"Trees\" und \"Diffs\" bereits im Coding-Agenten Codex zum Einsatz kommen. Zusammen mit dem kürzlich vorgestellten Git-Backend Pando baut OpenAI damit seine Infrastruktur für die Zusammenarbeit zwischen Entwicklern und KI-Agenten …",
-   "link": "https://the-decoder.de/openai-uebernimmt-entwickler-tool-firma-pierre-fuer-bessere-ki-coding-werkzeuge/",
-   "published": "2026-11-04T18:41:03+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-11T18:41:03+00:00"
   }
  ]
 }
