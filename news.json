@@ -1,50 +1,527 @@
 {
- "generated": "2026-11-07T13:01:59.994957+00:00",
+ "generated": "2026-11-07T19:26:00.534876+00:00",
  "briefing": [
+  "n3ec5331b3d",
   "n39e9b30e77",
+  "n1d8f430f79",
   "n5cad87b83a",
-  "nbb23cbed43",
-  "n5988a59fd2",
-  "nee452e0bfb",
-  "n132c0ecc56",
+  "n65d8d0c93b",
   "nde47d1606c",
-  "n76788f1e0b"
+  "n9a92244a89",
+  "ne12bce8f92"
  ],
  "ranked": [
   {
+   "id": "n3ec5331b3d",
+   "s": 42.8
+  },
+  {
    "id": "n39e9b30e77",
-   "s": 33.8
+   "s": 32.2
+  },
+  {
+   "id": "n1d8f430f79",
+   "s": 27.9
   },
   {
    "id": "n5cad87b83a",
-   "s": 28.9
+   "s": 27.3
   },
   {
-   "id": "nbb23cbed43",
+   "id": "n65d8d0c93b",
    "s": 27.1
   },
   {
-   "id": "n5988a59fd2",
-   "s": 27.0
-  },
-  {
-   "id": "nee452e0bfb",
-   "s": 27.0
-  },
-  {
-   "id": "n132c0ecc56",
-   "s": 26.5
-  },
-  {
    "id": "nde47d1606c",
-   "s": 23.0
+   "s": 21.4
   },
   {
-   "id": "n76788f1e0b",
-   "s": 22.9
+   "id": "n9a92244a89",
+   "s": 21.4
+  },
+  {
+   "id": "ne12bce8f92",
+   "s": 19.6
   }
  ],
  "items": [
+  {
+   "id": "n4bcf192094",
+   "topic": "politik",
+   "title": "Interview der Woche - Pistorius sieht Personalplanung der Bundeswehr auf gutem Weg - erstmal keine Wehrpflicht nötig",
+   "text": "Die Personalplanung der Bundeswehr ist nach den Worten von Verteidigungsminister Pistorius auf einem guten Weg. Zur Zeit ist eine Wiedereinführung der Wehrpflicht demnach nicht nötig. Pistorius sagte im Interview der Woche des Deutschlandfunks, die Vorgabe des Wehrdienstmodernisierungsgesetzes werde überschritten.",
+   "link": "https://www.deutschlandfunk.de/pistorius-sieht-personalplanung-der-bundeswehr-auf-gutem-weg-erstmal-keine-wehrpflicht-noetig-100.html",
+   "published": "2026-11-07T19:19:38+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-09T19:19:38+00:00",
+   "img": "https://bilder.deutschlandfunk.de/11/fc/12/a6/11fc12a6-d014-435f-bbfa-cb04448ef273/boris-pistorius-verteidigungsminister-106-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Pistorius rechnet derzeit nicht mit Rückkehr zur Wehrpflicht",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-diskussion-wehrpflicht-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n7054155e71",
+   "topic": "politik",
+   "title": "Polen - Tote und Verletzte nach Schüssen in Krakau - Polizei geht von Einzeltäter aus",
+   "text": "In der polnischen Stadt Krakau hat es nach Schüssen sechs Todesopfer und mindestens 15 Verletzte gegeben. Nach Angaben der Polizei eröffnete der Schütze aus einem vorbeifahrenden Auto heraus das Feuer auf Passanten. Die Hintergründe der Tat sind unklar.",
+   "link": "https://www.deutschlandfunk.de/tote-und-verletzte-nach-schuessen-in-krakau-polizei-geht-von-einzeltaeter-aus-100.html",
+   "published": "2026-11-07T19:19:38+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-09T19:19:38+00:00",
+   "img": "https://bilder.deutschlandfunk.de/02/4b/e6/7e/024be67e-44eb-4715-b14f-8af88d11caa2/krakau-schuesse-102-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Polen: Mindestens fünf Tote nach Schüssen in Krakau",
+     "link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Polen: Schütze feuert in Krakau aus Auto - mehrere Tote",
+     "link": "https://www.dw.com/de/polen-schütze-feuert-in-krakau-aus-auto-mehrere-tote/a-79887202?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "ncbda6b98ad",
+   "topic": "politik",
+   "title": "Frankreich - Neue Demonstrationen, aber deutlich weniger Teilnehmer",
+   "text": "In Frankreich hat es erneut Demonstrationen unter anderem gegen hohe Lebenshaltungskosten und Probleme im Bildungssystem gegeben.",
+   "link": "https://www.deutschlandfunk.de/neue-demonstrationen-aber-deutlich-weniger-teilnehmer-100.html",
+   "published": "2026-11-07T19:19:38+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-09T19:19:38+00:00",
+   "img": "https://bilder.deutschlandfunk.de/c8/70/4a/0e/c8704a0e-330b-4496-b79e-a51cd8c6810d/frankreich-paris-polizei-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Weniger Teilnehmer bei neuen Demos in Frankreich",
+     "link": "https://www.tagesschau.de/ausland/frankreich-proteste-246.html"
+    }
+   ]
+  },
+  {
+   "id": "n6214d8e8d6",
+   "topic": "politik",
+   "title": "Auszeichnung - Ehemaliger US-General Ben Hodges erhält Point-Alpha-Preis 2026",
+   "text": "Der ehemalige Oberkommandierende der US-Landstreitkräfte in Europa, Ben Hodges, hat den Point-Alpha-Preis 2026 erhalten.",
+   "link": "https://www.deutschlandfunk.de/ehemaliger-us-general-ben-hodges-erhaelt-point-alpha-preis-100.html",
+   "published": "2026-11-07T19:19:38+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-09T19:19:38+00:00",
+   "img": "https://bilder.deutschlandfunk.de/04/e7/50/cf/04e750cf-9d4f-4394-8911-1cecaf358314/ben-hodges-102-1920x1920.jpg"
+  },
+  {
+   "id": "nf2a8ad5bd0",
+   "topic": "politik",
+   "title": "Frankfurt am Main - Tausende Menschen demonstrieren für freie Gesellschaft im Iran - Preisverleihung für Reza Pahlavi",
+   "text": "Tausende Menschen haben in Frankfurt gegen die Mullah-Regierung im Iran demonstriert. Sie feierten den iranischen Exil-Oppositionspolitiker Reza Pahlavi, der zuvor in der Paulskirche im Namen des iranischen Volkes den Freiheitspreis der FDP-nahen Friedrich-Naumann-Stiftung entgegengenommen hatte.",
+   "link": "https://www.deutschlandfunk.de/tausende-menschen-demonstrieren-fuer-freie-gesellschaft-im-iran-preisverleihung-fuer-reza-pahlavi-100.html",
+   "published": "2026-11-07T19:19:38+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-09T19:19:38+00:00",
+   "img": "https://bilder.deutschlandfunk.de/92/83/1b/1f/92831b1f-306b-4c56-b1f3-5eabbd4a8de9/iran-proteste-frankfurt-100-1920x1920.jpg"
+  },
+  {
+   "id": "ndd30451f2b",
+   "topic": "politik",
+   "title": "Schwarz-rote Koalition - Klingbeil: \"Ringen mit Union hart um Kompromisse\"",
+   "text": "Der SPD-Kovorsitzende Klingbeil wirbt mit Blick auf Kritik an der schwarz-roten Koalition um Verständnis.",
+   "link": "https://www.deutschlandfunk.de/klingbeil-ringen-mit-union-hart-um-kompromisse-100.html",
+   "published": "2026-11-07T19:19:38+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-09T19:19:38+00:00",
+   "img": "https://bilder.deutschlandfunk.de/a3/cd/01/aa/a3cd01aa-7832-48f7-92f5-cc93ca8a33c9/murrack-klingbeil-100-1920x1920.jpg"
+  },
+  {
+   "id": "n8fa3a44584",
+   "topic": "welt",
+   "title": "FAQ: Was ist über die Schüsse in Krakau bekannt?",
+   "text": "Am Nachmittag hat ein Täter im polnischen Krakau aus einem Auto geschossen und mindestens sechs Menschen getötet. Weitere Personen wurden verletzt. Was bislang über die Tat bekannt ist.",
+   "link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-102.html",
+   "published": "2026-11-07T19:10:52+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-10T19:10:52+00:00",
+   "img": "https://images.tagesschau.de/image/035bdba7-3beb-4918-8149-fb5ddb739cac/AAABobaqOgE/AAABnSSvrFg/16x9-big/einsatzkraefte-historisches-stadtzentrum-102.jpg?width=1920"
+  },
+  {
+   "id": "neb015c1126",
+   "topic": "nfl",
+   "title": "Saints release RB Kendre Miller",
+   "text": "The Saints now roster just one player from their 2023 draft class.",
+   "link": "https://sports.yahoo.com/articles/saints-release-rb-kendre-miller-190119337.html",
+   "published": "2026-11-07T19:01:19+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-12T19:01:19+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/4fb6509f25894fec16d717f4e8b3c155.jpg"
+  },
+  {
+   "id": "ncdb9527265",
+   "topic": "nfl",
+   "title": "Daily Norseman Staff NFL Picks, Week 9",
+   "text": "Time to make the picks!",
+   "link": "https://sports.yahoo.com/articles/daily-norseman-staff-nfl-picks-190000226.html",
+   "published": "2026-11-07T19:00:00+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-12T19:00:00+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/f78b51021ffa27a91538a26a56bfd0cc.jpg"
+  },
+  {
+   "id": "nca4d3b50ca",
+   "topic": "it",
+   "title": "Top 10: Das beste Heizkörperthermostat im Test – Testsieger heizt ohne Cloud",
+   "text": "Smarte Heizkörperthermostate senken Heizkosten und steigern den Komfort. Unser Testsieger läuft sogar komplett ohne Cloud. Die besten Modelle ab 45 Euro.",
+   "link": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-heizkoerperthermostat-im-test-testsieger-heizt-ohne-cloud/1e43f3r?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-07T19:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-12T19:00:00+00:00"
+  },
+  {
+   "id": "n1d8f430f79",
+   "topic": "welt",
+   "title": "Weniger Teilnehmer bei neuen Demos in Frankreich",
+   "text": "Das zweite Mal in dieser Woche und das vierte Wochenende in Folge haben in Frankreich Menschen gegen hohe Lebenskosten oder Probleme im Bildungssystem protestiert. Allerdings kamen diesmal weniger Teilnehmer.",
+   "link": "https://www.tagesschau.de/ausland/frankreich-proteste-246.html",
+   "published": "2026-11-07T18:57:56+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-10T18:57:56+00:00",
+   "img": "https://images.tagesschau.de/image/5922e1ba-f927-46dd-9830-2a83cdeab4d7/AAABobbgQaA/AAABnSSvrFg/16x9-big/frankreich-888.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Frankreich - Neue Demonstrationen, aber deutlich weniger Teilnehmer",
+     "link": "https://www.deutschlandfunk.de/neue-demonstrationen-aber-deutlich-weniger-teilnehmer-100.html"
+    }
+   ]
+  },
+  {
+   "id": "nabace47f0f",
+   "topic": "politik",
+   "title": "Eintracht Frankfurt: Fan nach Tribünen-Sturz wieder ansprechbar",
+   "text": "Das Unentschieden von Eintracht Frankfurt beim SC Paderborn wird von einem medizinischen Notfall im Gästeblock überschattet. Inzwischen gibt es zumindest leichte Entwarnung.",
+   "link": "https://www.hessenschau.de/sport/fussball/eintracht-frankfurt/eintracht-frankfurt-fan-nach-tribuenen-sturz-wieder-ansprechbar-v1,eintracht-fan-stabil-100.html",
+   "published": "2026-11-07T18:39:07+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-11T18:39:07+00:00",
+   "img": "https://www.hessenschau.de/sport/fussball/eintracht-frankfurt/fans-paderborn-100~_t-1794076747180_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "nd85a6be3f4",
+   "topic": "welt",
+   "title": "Globaler Drogenhandel: Afrikas Rolle wandelt sich",
+   "text": "Jüngste Entdeckungen von Meth-Laboren zeigen: Teile Afrikas sind kein reines Drogentransit-Gebiet mehr, sondern werden selbst zu Produktionsstätten für synthetische Drogen.",
+   "link": "https://www.dw.com/de/globaler-drogenhandel-afrikas-rolle-wandelt-sich/a-79857092?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-07T18:35:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-11T18:35:00+00:00",
+   "img": "https://static.dw.com/image/79282503_302.jpg"
+  },
+  {
+   "id": "n3ec5331b3d",
+   "topic": "welt",
+   "title": "Polen: Mindestens fünf Tote nach Schüssen in Krakau",
+   "text": "Bei Schüssen in der polnischen Stadt Krakau sind laut Polizei mindestens sechs Menschen getötet und 15 Personen verletzt worden. Der mutmaßliche Täter konnte demnach gefasst werden.",
+   "link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html",
+   "published": "2026-11-07T18:27:27+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-10T18:27:27+00:00",
+   "img": "https://images.tagesschau.de/image/bee3ba3a-f8f6-43d9-a494-b75bb2b72fe1/AAABobanF1k/AAABnSSvrFg/16x9-big/einsatzkraefte-historisches-stadtzentrum-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Polen - Tote und Verletzte nach Schüssen in Krakau - Polizei geht von Einzeltäter aus",
+     "link": "https://www.deutschlandfunk.de/tote-und-verletzte-nach-schuessen-in-krakau-polizei-geht-von-einzeltaeter-aus-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Polen: Schütze feuert in Krakau aus Auto - mehrere Tote",
+     "link": "https://www.dw.com/de/polen-schütze-feuert-in-krakau-aus-auto-mehrere-tote/a-79887202?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "n9b34d1b5ae",
+   "topic": "nfl",
+   "title": "Saints motivated to face 'smiling' Shedeur Sanders after Browns QB offers bulletin board material",
+   "text": "The maligned New Orleans defense will have a chip on its shoulder in Sanders' first start of the season",
+   "link": "https://www.cbssports.com/nfl/news/saints-motivated-to-face-browns-shedeur-sanders/",
+   "published": "2026-11-07T18:00:37+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-12T18:00:37+00:00"
+  },
+  {
+   "id": "nd638e7f673",
+   "topic": "it",
+   "title": "Sabotage an Kühlsystemen: Warum deutsche Geheimdienste nun eingeschaltet sind",
+   "text": "Nach Angriffen auf Kühlsysteme in Supermärkten europaweit ermitteln nun auch Verfassungsschutz und BND. Die Täter nutzen Schwachstellen in Fernwartungszugängen.",
+   "link": "https://www.heise.de/news/Supermarkt-Kuehlsysteme-Deutsche-Geheimdienste-ermitteln-nach-Sabotageakten-11516390.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-07T17:32:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-12T17:32:00+00:00"
+  },
+  {
+   "id": "n326b2bc478",
+   "topic": "ki",
+   "title": "Anthropic will trotz Tech-Ausverkauf noch vor Thanksgiving an die Börse",
+   "text": "Anthropic hält trotz eines breiten Tech-Ausverkaufs an seinem Börsengang fest und peilt laut Financial Times eine Bewertung von 1,25 bis 1,75 Billionen Dollar an, deutlich unter den erhofften zwei Billionen. Der Claude-Entwickler will noch vor Thanksgiving 80 bis 100 Milliarden Dollar einsammeln. Auch Konkurrent …",
+   "link": "https://the-decoder.de/anthropic-will-trotz-tech-ausverkauf-noch-vor-thanksgiving-an-die-boerse/",
+   "published": "2026-11-07T17:21:25+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-14T17:21:25+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/08/anthropic_openai.png"
+  },
+  {
+   "id": "ndd017cf82d",
+   "topic": "nfl",
+   "title": "Rams' Quentin Lake apologizes to Justin Herbert for 'deli meat' remarks, Chargers not moving QB via trade",
+   "text": "Herbert leads the NFL in interceptions and holds the league's worst QBR through seven games",
+   "link": "https://www.cbssports.com/nfl/news/rams-quentin-lake-apologizes-justin-herbert-deli-meat-remarks-chargers/",
+   "published": "2026-11-07T17:20:13+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-12T17:20:13+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/11/07/bab0ecfc-656f-4a45-9309-06a792a5ec3a/jerb.png"
+  },
+  {
+   "id": "n8ba41758b2",
+   "topic": "it",
+   "title": "Brenner-Basistunnel: Cyberangriff auf Baufirma",
+   "text": "Unbekannte Täter griffen auf Daten der österreichisch-italienischen Baugesellschaft zu, die aus dem Internet erreichbar waren.",
+   "link": "https://www.heise.de/news/Brenner-Basistunnel-Cyberangriff-auf-Baufirma-11516406.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-07T17:20:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-12T17:20:00+00:00"
+  },
+  {
+   "id": "ne3a831d14b",
+   "topic": "welt",
+   "title": "Polen: Schütze feuert in Krakau aus Auto - mehrere Tote",
+   "text": "Im Zentrum der polnischen Stadt Krakau eröffnet ein Mann das Feuer auf Passanten. Die Polizei spricht derzeit von fünf Todesopfern und mindestens zehn Verletzten. Vieles ist noch unklar.",
+   "link": "https://www.dw.com/de/polen-schütze-feuert-in-krakau-aus-auto-mehrere-tote/a-79887202?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-07T17:00:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-11T17:00:00+00:00",
+   "img": "https://static.dw.com/image/79887089_302.jpg",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Polen - Tote und Verletzte nach Schüssen in Krakau - Polizei geht von Einzeltäter aus",
+     "link": "https://www.deutschlandfunk.de/tote-und-verletzte-nach-schuessen-in-krakau-polizei-geht-von-einzeltaeter-aus-100.html"
+    },
+    {
+     "source": "Tagesschau",
+     "title": "Polen: Mindestens fünf Tote nach Schüssen in Krakau",
+     "link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n8729ca53c8",
+   "topic": "ki",
+   "title": "\"FUCK. NOTHING WORKS.\" - KI-Modell Inkling 2 Small flucht in seinen Denkprotokollen",
+   "text": "Das KI-Modell Inkling 2 Small von Thinking Machines flucht in seinen internen Denkprozessen, insgesamt 316 Mal in 2.655 Benchmark-Durchläufen, wie eine Auswertung von Vals AI zeigt. Meist passiert es spät in langen Durchläufen, die ohnehin scheitern. Als Warnsignal für Fehler taugen die Flüche aber nicht: 96 Prozent …",
+   "link": "https://the-decoder.de/fuck-nothing-works-ki-modell-inkling-2-small-flucht-in-seinen-denkprotokollen/",
+   "published": "2026-11-07T16:24:00+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-14T16:24:00+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/11/neural_network_black.png"
+  },
+  {
+   "id": "n1f8ec99c31",
+   "topic": "wirtschaft",
+   "title": "Millionen junge Menschen ohne Berufsausbildung in Deutschland",
+   "text": "Die Zahl junger Erwachsener ohne Berufsabschluss ist alarmierend. Sie haben schlechtere Chancen am Jobmarkt und verdienen weniger. Zugleich suchen viele Unternehmen Fachkräfte. Von Nicole Würth.",
+   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/junge-menschen-keine-berufsausbildung-100.html",
+   "published": "2026-11-07T15:59:36+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-10T15:59:36+00:00",
+   "img": "https://images.tagesschau.de/image/cc0f09c1-3913-4fc5-8c72-f2a77e90409c/AAABoarHGVQ/AAABnSSvrFg/16x9-big/ausbildung-248.jpg?width=1920"
+  },
+  {
+   "id": "n3e329a5fc3",
+   "topic": "ki",
+   "title": "Je gründlicher KI nach KI-Fehlverhalten sucht, desto mehr harmlose Fälle meldet sie als verdächtig",
+   "text": "KI-Modelle können problematisches Verhalten anderer KI-Agenten in Protokollen oft erkennen, zeigt eine Untersuchung von Anthropic-Forscher Andy Hall. GPT-5 fand etwa 98 Prozent der Reward-Hacking-Fälle, doch je lückenloser die Suche sein soll, desto mehr Fehlalarme entstehen. Für zuverlässige Sicherheitskontrollen …",
+   "link": "https://the-decoder.de/je-gruendlicher-ki-nach-ki-fehlverhalten-sucht-desto-mehr-harmlose-faelle-meldet-sie-als-verdaechtig/",
+   "published": "2026-11-07T15:42:38+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-14T15:42:38+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/ai_auditing_reliability.png"
+  },
+  {
+   "id": "n742e9edb5a",
+   "topic": "wissenschaft",
+   "title": "Klimagipfel · Wo steht Deutschlands Klimapolitik?",
+   "text": "Deutschland hat seine CO₂-Emissionen seit 1990 fast halbiert. Dennoch verfehlt das Land bislang seine Klimaziele. Bei der Weltklimakonferenz geht es nun darum, Öl, Kohle und Gas zu ersetzen.",
+   "link": "https://www.tagesschau.de/video/video-1679822.html",
+   "published": "2026-11-07T15:33:48+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-21T15:33:48+00:00",
+   "img": "https://images.tagesschau.de/image/3c6ca730-6672-4fbd-ade8-f70e53b1d76a/AAABobAN73g/AAABnSSvrFg/16x9-big/solar-und-wind-energie-100.jpg?width=1920"
+  },
+  {
+   "id": "neceb7b770b",
+   "topic": "welt",
+   "title": "Reise mit Strapazen: Papst Leo XIV. ist in Südamerika zurück",
+   "text": "Der Pontifex besucht zuerst das streng laizistische Uruguay - eine stabile Demokratie, in der die Kirche jedoch nicht besonders populär ist. Auch gesundheitlich ist die Reise für den 71-Jährigen eine Herausforderung.",
+   "link": "https://www.dw.com/de/reise-mit-strapazen-papst-leo-xiv-ist-in-südamerika-zurück/a-79885738?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-07T15:09:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-11T15:09:00+00:00",
+   "img": "https://static.dw.com/image/79885767_302.jpg"
+  },
+  {
+   "id": "n99bf0990e0",
+   "topic": "welt",
+   "title": "Wofür Trumps neuer Stabschef Miller steht",
+   "text": "Seit Freitag ist Stephen Miller neuer Stabschef von Präsident Trump. Der 41-Jährige gilt als rechter Hardliner und Kopf hinter der strikten Einwanderungspolitik. Welches Signal sendet Trump mit der Personalie an Republikaner und Demokraten?",
+   "link": "https://www.tagesschau.de/ausland/amerika/trump-stabschef-miller-100.html",
+   "published": "2026-11-07T14:57:49+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-10T14:57:49+00:00",
+   "img": "https://images.tagesschau.de/image/15646591-1e61-481c-b10d-8b00ab988e21/AAABobaEBY4/AAABnSSvrFg/16x9-big/stephen-miller-104.jpg?width=1920"
+  },
+  {
+   "id": "n132c0ecc56",
+   "topic": "politik",
+   "title": "Pistorius rechnet derzeit nicht mit Rückkehr zur Wehrpflicht",
+   "text": "Die Wiedereinführung der Wehrpflicht scheint zum jetzigen Zeitpunkt offenbar nicht nötig. Verteidigungsminister Pistorius berichtet von einer positiven Entwicklung beim Bundeswehrpersonal - Spitzenvertreter der Union sehen das anders.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-diskussion-wehrpflicht-100.html",
+   "published": "2026-11-07T14:45:52+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-10T14:45:52+00:00",
+   "img": "https://images.tagesschau.de/image/bb9ce348-9f2a-41b0-80cb-98f103d36a67/AAABnmguNt8/AAABnSSvrFg/16x9-big/pistorius-606.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Interview der Woche - Pistorius sieht Personalplanung der Bundeswehr auf gutem Weg - erstmal keine Wehrpflicht nötig",
+     "link": "https://www.deutschlandfunk.de/pistorius-sieht-personalplanung-der-bundeswehr-auf-gutem-weg-erstmal-keine-wehrpflicht-noetig-100.html"
+    }
+   ]
+  },
+  {
+   "id": "nade362f1fd",
+   "topic": "welt",
+   "title": "Parlamentswahl in Neuseeland: Regierungspartei und Labour nahezu gleichauf",
+   "text": "Neuseeland hat ein neues Parlament gewählt. Doch angesichts eines extrem knappen Wahlausgangs könnte es bei der Frage, welche Regierung das Land künftig führt, letztlich auf die kleinen Parteien ankommen.",
+   "link": "https://www.tagesschau.de/ausland/ozeanien/neuseeland-parlamentswahl-102.html",
+   "published": "2026-11-07T14:41:43+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-10T14:41:43+00:00",
+   "img": "https://images.tagesschau.de/image/69dd39a9-cd4a-426a-b9a6-7022abbbfe87/AAABobZ1SjM/AAABnSSvrFg/16x9-big/neuseeland-parlamentswahl-104.jpg?width=1920"
+  },
+  {
+   "id": "n4cadb222f4",
+   "topic": "wissenschaft",
+   "title": "Polarlichter: Warum Polarlichter gebogen sind",
+   "text": "Ein neues Forschungsergebnis enthüllt, wie eine »Weltraumbatterie« Polarlichter antreibt und sie biegt.",
+   "link": "https://www.spektrum.de/news/warum-polarlichter-manchmal-wie-wellen-tanzen/2308995",
+   "published": "2026-11-07T14:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-21T14:00:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/Teaser_S082.jpg.2942185.jpg?f=1280x720"
+  },
+  {
+   "id": "n2c94c27fe7",
+   "topic": "it",
+   "title": "Other Worlds: Neue Stranger-Things-Serie spielt im Jahr 1955",
+   "text": "Netflix bringt ein Spin-off von Stranger Things: Other Worlds spielt in den 50er Jahren und kommt mit neuen Charakteren. ( Netflix , Streaming )",
+   "link": "https://www.golem.de/news/outer-worlds-neue-stranger-things-serie-spielt-im-jahr-1955-2611-214964.html",
+   "published": "2026-11-07T13:17:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-12T13:17:02+00:00",
+   "img": "https://www.golem.de/2611/214964-607358-607356_rc.jpg"
+  },
+  {
+   "id": "n55521fc9b9",
+   "topic": "welt",
+   "title": "Ukraine: Massive Stromprobleme nach russischen Angriffen",
+   "text": "Russische Attacken auf die Energie-und Verkehrsinfrastruktur der Ukraine haben in vielen Landesteilen schwere Schäden verursacht. In Kyjiw musste eine wichtige Brücke wieder gesperrt werden.",
+   "link": "https://www.dw.com/de/ukraine-massive-stromprobleme-nach-russischen-angriffen/a-79884371?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-07T13:08:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-11T13:08:00+00:00",
+   "img": "https://static.dw.com/image/79883626_302.jpg"
+  },
+  {
+   "id": "n706c89714f",
+   "topic": "welt",
+   "title": "Georgien nach Umzug vieler Kliniken aus Russland und der Ukraine neues Zentrum für Leihmutterschaften",
+   "text": "Seit 2022 hat sich Georgien zu einer Drehscheibe für Leihmutterschaften entwickelt. Viele Kliniken aus Russland und der Ukraine sind wegen des Krieges dorthin umgezogen. Die DW hat mit Leihmüttern und Kunden gesprochen.",
+   "link": "https://www.dw.com/de/georgien-nach-umzug-vieler-kliniken-aus-russland-und-der-ukraine-neues-zentrum-für-leihmutterschaften/a-79611216?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-07T13:03:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-11T13:03:00+00:00",
+   "img": "https://static.dw.com/image/71955101_302.jpg"
+  },
   {
    "id": "nde47d1606c",
    "topic": "politik",
@@ -83,26 +560,6 @@
    "lang": "de",
    "expires": "2026-11-09T12:59:17+00:00",
    "img": "https://bilder.deutschlandfunk.de/3c/79/02/7e/3c79027e-c3e7-440d-a0cb-f517f15a7b34/klaus-mueller-bundesnetzagentur-106-1920x1920.jpg"
-  },
-  {
-   "id": "n4bcf192094",
-   "topic": "politik",
-   "title": "Soldatinnen und Soldaten - Pistorius sieht Personalplanung der Bundeswehr auf gutem Weg - erstmal keine Wehrpflicht nötig",
-   "text": "Die Personalplanung der Bundeswehr ist nach den Worten von Verteidigungsminister Pistorius auf einem guten Weg. Zur Zeit ist eine Wiedereinführung der Wehrpflicht demnach nicht nötig. Pistorius sagte im Interview der Woche des Deutschlandfunks, die Vorgabe des Wehrdienstmodernisierungsgesetzes werde überschritten.",
-   "link": "https://www.deutschlandfunk.de/pistorius-sieht-personalplanung-der-bundeswehr-auf-gutem-weg-erstmal-keine-wehrpflicht-noetig-100.html",
-   "published": "2026-11-07T12:59:17+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-09T12:59:17+00:00",
-   "img": "https://bilder.deutschlandfunk.de/11/fc/12/a6/11fc12a6-d014-435f-bbfa-cb04448ef273/boris-pistorius-verteidigungsminister-106-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Pistorius rechnet derzeit nicht mit Rückkehr zur Wehrpflicht",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-diskussion-wehrpflicht-100.html"
-    }
-   ]
   },
   {
    "id": "na3ceb6f4ff",
@@ -265,19 +722,6 @@
      "link": "https://www.heise.de/news/Protest-gegen-Microsoft-Rechenzentrum-in-Amsterdam-viele-Festnahmen-11516304.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     }
    ]
-  },
-  {
-   "id": "n55521fc9b9",
-   "topic": "welt",
-   "title": "Ukraine: Massive Stromprobleme nach russischen Angriffen",
-   "text": "Russische Attacken auf die Energie-und Verkehrsinfrastruktur der Ukraine haben in vielen Landesteilen schwere Schäden verursacht. In Kyjiw musste eine wichtige Brücke wieder gesperrt werden.",
-   "link": "https://www.dw.com/de/ukraine-massive-stromprobleme-nach-russischen-angriffen/a-79884371?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-07T11:39:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-11T11:39:00+00:00",
-   "img": "https://static.dw.com/image/79883626_302.jpg"
   },
   {
    "id": "n27a5ff7a07",
@@ -476,26 +920,6 @@
    "type": "Wissenschaftsmagazin",
    "lang": "de",
    "expires": "2026-11-21T07:50:00+00:00"
-  },
-  {
-   "id": "n132c0ecc56",
-   "topic": "politik",
-   "title": "Pistorius rechnet derzeit nicht mit Rückkehr zur Wehrpflicht",
-   "text": "Die Wiedereinführung der Wehrpflicht scheint zum jetzigen Zeitpunkt offenbar nicht nötig. Verteidigungsminister Pistorius berichtet von einer positiven Entwicklung beim Bundeswehrpersonal. Er will künftig mehr Frauen für die Bundeswehr gewinnen.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-diskussion-wehrpflicht-100.html",
-   "published": "2026-11-07T07:02:40+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-10T07:02:40+00:00",
-   "img": "https://images.tagesschau.de/image/bb9ce348-9f2a-41b0-80cb-98f103d36a67/AAABnmguNt8/AAABnSSvrFg/16x9-big/pistorius-606.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Soldatinnen und Soldaten - Pistorius sieht Personalplanung der Bundeswehr auf gutem Weg - erstmal keine Wehrpflicht nötig",
-     "link": "https://www.deutschlandfunk.de/pistorius-sieht-personalplanung-der-bundeswehr-auf-gutem-weg-erstmal-keine-wehrpflicht-noetig-100.html"
-    }
-   ]
   },
   {
    "id": "n4c25de438a",
@@ -822,14 +1246,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-11-08T23:00:25+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "EU-Kommission wirft TikTok Gesundheitsgefährdung vor",
-     "link": "https://www.tagesschau.de/ausland/europa/eu-tiktok-mentale-gesundheit-gefaehrdung-algorithmus-100.html"
-    }
-   ]
+   "expires": "2026-11-08T23:00:25+00:00"
   },
   {
    "id": "n39aa950e05",
@@ -1208,14 +1625,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-11-08T16:43:06+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "EU-Kommission wirft TikTok Gesundheitsgefährdung vor",
-     "link": "https://www.tagesschau.de/ausland/europa/eu-tiktok-mentale-gesundheit-gefaehrdung-algorithmus-100.html"
-    }
-   ]
+   "expires": "2026-11-08T16:43:06+00:00"
   },
   {
    "id": "nfc214b528e",
@@ -1274,14 +1684,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-08T16:43:06+00:00",
-   "img": "https://bilder.deutschlandfunk.de/94/0e/09/ff/940e09ff-c2d4-4d73-98f5-6bfc78189a86/klimawandel-132-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "EU-Dienst Copernicus: 1,5-Grad-Marke wird 2026 wohl überschritten",
-     "link": "https://www.tagesschau.de/wissen/klima/copernicus-klimakrise-1komma5-grad-100.html"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/94/0e/09/ff/940e09ff-c2d4-4d73-98f5-6bfc78189a86/klimawandel-132-1920x1920.jpg"
   },
   {
    "id": "n782a94c8fb",
@@ -1359,14 +1762,7 @@
    "lang": "de",
    "expires": "2026-11-10T16:29:32+00:00",
    "img": "https://www.hessenschau.de/wirtschaft/tegut-netto-oder-edeka-100~_t-1793885451986_v-16to9.jpg",
-   "tag": "Hessen",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Klimawandel: 1,5-Grad-Marke wird schon wieder gerissen",
-     "link": "https://www.dw.com/de/klimawandel-1-5-grad-marke-wird-schon-wieder-gerissen/a-79875443?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
+   "tag": "Hessen"
   },
   {
    "id": "ncce487f31d",
@@ -1379,404 +1775,6 @@
    "type": "Fachmedium (IT)",
    "lang": "de",
    "expires": "2026-11-11T16:27:00+00:00"
-  },
-  {
-   "id": "nd460fc60c7",
-   "topic": "it",
-   "title": "Mehrheit der Unternehmen hat Homeoffice-Möglichkeiten reduziert",
-   "text": "Laut einer Bitkom-Umfrage haben viele deutsche Unternehmen Homeoffice reduziert. Noch bietet aber eine Mehrheit die Möglichkeit dazu.",
-   "link": "https://www.heise.de/news/Mehrheit-der-Unternehmen-hat-Homeoffice-Moeglichkeiten-reduziert-11515901.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-06T16:25:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-11T16:25:00+00:00"
-  },
-  {
-   "id": "n4cb5286ffc",
-   "topic": "welt",
-   "title": "Auch Senat in Polen stimmt für Lockerung des Abtreibungsrechts",
-   "text": "Nach der ersten Kammer hat in Polen auch der Senat für eine Liberalisierung des Abtreibungsrechts gestimmt. Das letzte Wort hat aber Präsident Nawrocki. Dessen Zustimmung gilt als unwahrscheinlich.",
-   "link": "https://www.tagesschau.de/ausland/europa/polen-aenderung-abreibungsrecht-100.html",
-   "published": "2026-11-06T16:19:52+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-09T16:19:52+00:00",
-   "img": "https://images.tagesschau.de/image/f6024f71-83b2-4e38-82f8-10f6db10df1c/AAABobGKEFc/AAABnSSvrFg/16x9-big/polen-parlament-103.jpg?width=1920"
-  },
-  {
-   "id": "n542540bec1",
-   "topic": "it",
-   "title": "8-Zoll-Floppy: US-Flughäfen migrieren weg von der Diskette",
-   "text": "Bisher nutzt die FAA teils noch uralte Diskettensysteme aus den Anfängen des Computerzeitalters. Das soll sich ändern. ( Flugzeug , Luftfahrt )",
-   "link": "https://www.golem.de/news/8-zoll-floppy-us-flughaefen-migrieren-weg-von-der-diskette-2611-214954.html",
-   "published": "2026-11-06T16:17:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-11T16:17:02+00:00",
-   "img": "https://www.golem.de/2611/214954-607306-607301_rc.jpg"
-  },
-  {
-   "id": "na9b5cd4fb8",
-   "topic": "nfl",
-   "title": "Week 9 NFL odds, lines, totals, spreads for every game, including Cowboys-Colts, Jets-Chiefs, Giants-Eagles",
-   "text": "Check the Week 9 NFL odds, spreads, moneylines, and totals for all 15 games, including Bears-Buccaneers",
-   "link": "https://www.cbssports.com/betting/news/week-9-nfl-betting-lines-odds-spreads-totals/",
-   "published": "2026-11-06T16:15:27+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-11T16:15:27+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/06/536ef36d-f7cc-4712-ac8b-82a3080e22f6/ceedee-lamb-dallas-cowboys-imagn-images-1.jpg"
-  },
-  {
-   "id": "nae242be1f3",
-   "topic": "welt",
-   "title": "Kanarische Inseln melden vermehrte Flüchtlingsankünfte",
-   "text": "Spanien schlägt Alarm. Die Zahl der ankommenden Flüchtlinge auf El Hierro, einer kleinen kanarischen Insel, steigt seit Anfang November wieder stark an. Die Behörden warnen vor Ausnahmezuständen wie 2024. Von Julia Macher.",
-   "link": "https://www.tagesschau.de/ausland/afrika/kanaren-fluechtlinge-106.html",
-   "published": "2026-11-06T15:48:14+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-09T15:48:14+00:00",
-   "img": "https://images.tagesschau.de/image/ce689a84-04bb-493c-bb01-cd0414b13e17/AAABobEwB3U/AAABnSSvrFg/16x9-big/gefluechtete-el-hierro-100.jpg?width=1920"
-  },
-  {
-   "id": "nbcca8c3922",
-   "topic": "it",
-   "title": "US-Rechenzentren unter Druck: Europas Chance auf KI-Milliarden",
-   "text": "Immer mehr US-Bürger wehren sich gegen neue Rechenzentren. Milliardeninvestitionen könnten deshalb nach Europa fließen, doch auch hier ist der Strom knapp. Eine Analyse von Mike Faust ( KI , Rechenzentrum )",
-   "link": "https://www.golem.de/news/us-rechenzentren-unter-druck-europas-chance-auf-ki-milliarden-2611-214941.html",
-   "published": "2026-11-06T15:13:01+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-11T15:13:01+00:00",
-   "img": "https://www.golem.de/2611/214941-607262-607260_rc.jpg"
-  },
-  {
-   "id": "n835e91a9dd",
-   "topic": "welt",
-   "title": "EU-Staatsanwaltschaft ermittelt nach Zugunglück in Spanien",
-   "text": "Nach dem schweren Zugunglück in Spanien mit 69 Toten ermittelt die EU-Staatsanwaltschaft wegen möglichen Subventionsbetrugs. Im Fokus stehen Gelder für die Bahnsicherheit. Bereits nach einem Unglück im Januar gab es Ermittlungen.",
-   "link": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-eu-ermittlungen-100.html",
-   "published": "2026-11-06T15:01:09+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-09T15:01:09+00:00",
-   "img": "https://images.tagesschau.de/image/4a524d3f-9c2c-47eb-8082-57fd41b73cdf/AAABobFb3Qg/AAABnSSvrFg/16x9-big/zugunglueck-spanien-160.jpg?width=1920"
-  },
-  {
-   "id": "nce19000957",
-   "topic": "wissenschaft",
-   "title": "Algebra: 18-Jähriger macht Fortschritte beim Chicken-Nuggets-Problem",
-   "text": "Welche Nugget-Zahlen kann man mit vier Packungsgrößen bestellen? Ein Schüler hat das Zahlenproblem in eine Landschaft aus Würfeln verwandelt – und damit neue Lösungswege eröffnet.",
-   "link": "https://www.spektrum.de/news/algebra-18-jaehriger-macht-fortschritte-beim-chicken-nuggets-problem/2353042",
-   "published": "2026-11-06T15:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-20T15:00:00+00:00"
-  },
-  {
-   "id": "n4155e18e52",
-   "topic": "wissenschaft",
-   "title": "Beliebtes Päuschen: Fast jeder zweite Erwachsene hält Mittagsschlaf",
-   "text": "Ein kurzer Powernap kann wieder fit machen. Eine Analyse zeigt: Mittagsschlaf ist beliebt in Deutschland. Eines gilt es aber zu beachten.",
-   "link": "https://www.spektrum.de/news/beliebtes-paeuschen-fast-jeder-zweite-erwachsene-haelt-mittagsschlaf/2353021",
-   "published": "2026-11-06T15:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-20T15:00:00+00:00"
-  },
-  {
-   "id": "nf41bd8c7ca",
-   "topic": "welt",
-   "title": "EU: Tiktok gefährdet mentale Gesundheit - Strafe droht",
-   "text": "Die EU-Kommission wirft Tiktok offiziell vor, nichts gegen suchtfördernde Mechanismen zu tun. Ohne angemessene und wirksame Gegenmaßnahmen kann es für die Kurzvideoplattform teuer werden.",
-   "link": "https://www.dw.com/de/eu-tiktok-gefährdet-mentale-gesundheit-strafe-droht/a-79876791?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-06T14:37:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-10T14:37:00+00:00",
-   "img": "https://static.dw.com/image/77055592_302.jpg"
-  },
-  {
-   "id": "n4c0c7eaf4f",
-   "topic": "wissenschaft",
-   "title": "Ehe und Partnerschaft: Wie es um die Liebe im Alter steht – das weiß die Forschung",
-   "text": "Schmetterlinge flattern vielleicht nicht mehr im Bauch, wenn man jahrzehntelang mit dem gleichen Partner zusammen ist. Dafür hat die Liebe im Alter andere Qualitäten.",
-   "link": "https://www.spektrum.de/news/ehe-und-partnerschaft-wie-es-um-die-liebe-im-alter-steht/2353017",
-   "published": "2026-11-06T14:30:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-20T14:30:00+00:00"
-  },
-  {
-   "id": "nf598051841",
-   "topic": "politik",
-   "title": "Übergriffe mit K.-o.-Tropfen: Warum anonyme Spurensicherung so wichtig ist",
-   "text": "Ob im Club, an der Bar oder beim Karneval: K.-o.-Tropfen werden oft zur unsichtbaren Gefahr. Die anonyme Spurensicherung in Kliniken ermöglicht Betroffenen, Beweise zu sichern, ohne sofort die Polizei einschalten zu müssen. Von Jan Koch.",
-   "link": "https://www.tagesschau.de/inland/gesellschaft/ko-tropfen-sexualisierte-gewalt-nachweis-100.html",
-   "published": "2026-11-06T14:27:53+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-09T14:27:53+00:00",
-   "img": "https://images.tagesschau.de/image/e8251f35-0ee3-4d33-bb05-06f4c1145f82/AAABniHYgeg/AAABnSSvrFg/16x9-big/getraenk-106.jpg?width=1920"
-  },
-  {
-   "id": "n664277efc2",
-   "topic": "welt",
-   "title": "Bombendrohungen auch gegen irische Medien",
-   "text": "Während weiter Flüge wegen Bombendrohungen umgeleitet werden, trifft es nun auch Medien: In Irland mussten Redaktionsgebäude geräumt werden. Es soll einen Zusammenhang geben. Aber wer steckt dahinter? Das bleibt unklar.",
-   "link": "https://www.tagesschau.de/ausland/europa/bombendrohung-oeffentlich-rechtlicher-sender-irland-100.html",
-   "published": "2026-11-06T13:49:52+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-09T13:49:52+00:00",
-   "img": "https://images.tagesschau.de/image/d29db17e-c52b-4210-8a01-5420e5ec67e6/AAABobEAuy0/AAABnSSvrFg/16x9-big/beamte-sender-rte-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Europa - Bombendrohungen gegen Flüge in Europa weiten sich auf Medien aus",
-     "link": "https://www.deutschlandfunk.de/bombendrohungen-gegen-fluege-in-europa-weiten-sich-auf-medien-aus-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n81379958be",
-   "topic": "welt",
-   "title": "Überlebende polnische NS-Opfer appellieren an die deutsche Zivilgesellschaft: Wiedergutmachung überfällig, \"humanitäre Geste\" dringend nötig.",
-   "text": "Polnische NS-Opfer warten auf \"humanitäre Geste\" aus Deutschland, doch im Haushaltsentwurf 2027 gibt es dafür kein Geld. Nun richten sie einen Hilferuf an die deutsche Zivilgesellschaft. Grüne sehen noch eine Chance.",
-   "link": "https://www.dw.com/de/überlebende-polnische-ns-opfer-appellieren-an-die-deutsche-zivilgesellschaft-wiedergutmachung-überfällig-humanitäre-geste-dringend-nötig/a-79874489?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-06T13:26:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-10T13:26:00+00:00"
-  },
-  {
-   "id": "nf82054c88e",
-   "topic": "welt",
-   "title": "Wie Berlins arabische Queers ihre Community aufbauen",
-   "text": "Hassandra gehört zu den bekanntesten Stimmen der queeren arabischen Kunstszene in Berlin. Mit dem 2023 gegründeten ADIRA Drag Festival schafft Hassandra gemeinsam mit anderen, Räume für Austausch und Gemeinschaft.",
-   "link": "https://www.dw.com/de/wie-berlins-arabische-queers-ihre-community-aufbauen/a-79863753?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-06T13:23:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-10T13:23:00+00:00",
-   "img": "https://static.dw.com/image/79837109_302.jpg"
-  },
-  {
-   "id": "n8ea03ea73d",
-   "topic": "wirtschaft",
-   "title": "Marktbericht: Zweifel am KI-Geschäft belasten die Branche",
-   "text": "Der weltweite Kursrutsch bei Tech- und Chipwerten schürt Zweifel, ob sich die hohen KI-Investitionen auszahlen. Zugleich wächst vor dem geplanten Börsengang der Widerstand gegen die Billionenbewertung von Anthropic. Von Melanie Böff.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/ki-boom-unter-druck-100.html",
-   "published": "2026-11-06T13:22:11+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-09T13:22:11+00:00",
-   "img": "https://images.tagesschau.de/image/4db0c3ea-709b-476e-a44e-7fc19abcb99e/AAABobD47bw/AAABnSSvrFg/16x9-big/anthropic-114.jpg?width=1920"
-  },
-  {
-   "id": "n64f742cb37",
-   "topic": "wirtschaft",
-   "title": "Tesla will Cybertruck-Produktion in Texas einstellen",
-   "text": "Der Cybertruck sollte Teslas Antwort auf die beliebten US-Pickups sein. Doch das Elektroauto blieb hinter den Erwartungen zurück. Nun will Elon Musk die Produktion in Texas beenden und Platz für ein anderes Produkt schaffen.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-produktion-cybertruck-100.html",
-   "published": "2026-11-06T13:09:10+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-09T13:09:10+00:00",
-   "img": "https://images.tagesschau.de/image/0e57ec04-bb0e-43a1-9ba3-42722e87581d/AAABobC8AqE/AAABnSSvrFg/16x9-big/tesla-cybertruck-106.jpg?width=1920"
-  },
-  {
-   "id": "n52ff8aadcd",
-   "topic": "wissenschaft",
-   "title": "EU-Dienst Copernicus: 1,5-Grad-Marke wird 2026 wohl überschritten",
-   "text": "Kurz vor der Klimakonferenz COP31 in Antalya gibt es ernüchternde Zahlen: Das 1,5-Grad-Ziel wird 2026 laut EU-Dienst Copernicus höchstwahrscheinlich überschritten. Der Oktober war zudem der wärmste seit Beginn der Aufzeichnungen.",
-   "link": "https://www.tagesschau.de/wissen/klima/copernicus-klimakrise-1komma5-grad-100.html",
-   "published": "2026-11-06T13:02:07+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-20T13:02:07+00:00",
-   "img": "https://images.tagesschau.de/image/f4bebb41-025e-4f86-a438-8a0981db65af/AAABobE1LXo/AAABnSSvrFg/16x9-big/hitze-852.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Wärmster Oktober der Messgeschichte - Copernicus: 1,5-Grad-Marke wird 2026 wohl erneut überschritten",
-     "link": "https://www.deutschlandfunk.de/copernicus-1-5-grad-marke-wird-2026-wohl-erneut-ueberschritten-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n1acf90cfa1",
-   "topic": "welt",
-   "title": "Mali: Fast 4.000 Vertriebene nach Angriff auf Souleye",
-   "text": "In Mali sollen fast 4.000 Vertriebene in Macina und Sarro in der Region Ségou im Zentrum des Landes Zuflucht gefunden haben - vor allem Frauen und Kinder, die vor dem Angriff auf das Dorf Souleye geflohen sind.",
-   "link": "https://www.dw.com/de/mali-fast-4-000-vertriebene-nach-angriff-auf-souleye/a-79854085?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-06T12:58:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-10T12:58:00+00:00",
-   "img": "https://static.dw.com/image/59152594_302.jpg"
-  },
-  {
-   "id": "ne768932f2e",
-   "topic": "welt",
-   "title": "Iran: Leben in Ungewissheit",
-   "text": "Die Menschen im Iran wissen kaum, was hinter den Kulissen geschieht. Widersprüchliche Informationen und Gerüchte über einen möglichen Atomangriff belasten zunehmend ihren Alltag.",
-   "link": "https://www.dw.com/de/iran-leben-in-ungewissheit/a-79875277?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-06T12:58:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-10T12:58:00+00:00",
-   "img": "https://static.dw.com/image/79304836_302.jpg"
-  },
-  {
-   "id": "n03b169d687",
-   "topic": "ki",
-   "title": "Elf Wochen Einblick bei Anthropic: METR sieht signifikantes Risiko für noch schnellere KI-Entwicklung",
-   "text": "Die gemeinnützige Organisation METR durfte elf Wochen lang Anthropics interne Forschungsdaten prüfen und kommt zum Ergebnis: Das Entwicklungstempo der Modelle hat sich etwa verdoppelt, rund 80 Prozent davon gehen auf KI-gestützte Forschung zurück. Die aussagekräftigsten Belege hat Anthropic allerdings geschwärzt – die …",
-   "link": "https://the-decoder.de/elf-wochen-einblick-bei-anthropic-metr-sieht-signifikantes-risiko-fuer-noch-schnellere-ki-entwicklung/",
-   "published": "2026-11-06T12:43:07+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-13T12:43:07+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/11/METR-Anthropic-Report.png"
-  },
-  {
-   "id": "nee452e0bfb",
-   "topic": "welt",
-   "title": "Klimawandel: 1,5-Grad-Marke wird schon wieder gerissen",
-   "text": "Schlechte Nachricht von Copernicus für den Klimaschutz: Nach dem Extremsommer wird 2026 so gut wie sicher das zweitwärmste Jahr seit Beginn der Aufzeichnungen. Oder kommt es noch schlimmer?",
-   "link": "https://www.dw.com/de/klimawandel-1-5-grad-marke-wird-schon-wieder-gerissen/a-79875443?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-06T12:20:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-10T12:20:00+00:00",
-   "img": "https://static.dw.com/image/79875472_302.jpg",
-   "also": [
-    {
-     "source": "hessenschau (hr)",
-     "title": "Mörfelden-Walldorf: Schon wieder ein Netto? Supermarkt-Pläne sorgen für Ärger",
-     "link": "https://www.hessenschau.de/wirtschaft/moerfelden-walldorf-schon-wieder-ein-netto-supermarkt-plaene-sorgen-fuer-aerger-v1,netto-edeka-walldorf-100.html"
-    }
-   ]
-  },
-  {
-   "id": "nda9c272afb",
-   "topic": "ki",
-   "title": "Inkling 2 Small soll das stärkste westliche Open-Weight-Modell sein und erreicht Googles Gemini 3.8 Flash",
-   "text": "Thinking Machines, das Start-up von Ex-OpenAI-CTO Mira Murati, stellt mit Inkling 2 Small ein Mixture-of-Experts-Modell mit 594 Milliarden Parametern vor. Es soll das stärkste westliche Open-Weight-Modell werden. Die bessere Agenten-Leistung wird allerdings durch einen deutlich höheren Tokenverbrauch erkauft. Der …",
-   "link": "https://the-decoder.de/inkling-2-small-soll-das-staerkste-westliche-open-weight-modell-sein-und-erreicht-googles-gemini-3-8-flash/",
-   "published": "2026-11-06T12:15:09+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-13T12:15:09+00:00"
-  },
-  {
-   "id": "n5988a59fd2",
-   "topic": "welt",
-   "title": "EU-Kommission wirft TikTok Gesundheitsgefährdung vor",
-   "text": "Der \"Rabbit Hole\"-Effekt führt zu einer weiteren Konfrontation zwischen der EU und TikTok. Die Brüsseler werfen der App vor, die Gesundheit Nutzender zu gefährden. TikTok droht eine heftige Strafe.",
-   "link": "https://www.tagesschau.de/ausland/europa/eu-tiktok-mentale-gesundheit-gefaehrdung-algorithmus-100.html",
-   "published": "2026-11-06T12:08:01+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-09T12:08:01+00:00",
-   "img": "https://images.tagesschau.de/image/224435ec-aaf5-46ba-be88-7ce069348b10/AAABobCyWYI/AAABnSSvrFg/16x9-big/tiktok-121.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Suchtgefahr - Tiktok widerspricht Vorwüfen der EU-Kommission",
-     "link": "https://www.deutschlandfunk.de/tiktok-widerspricht-vorwuefen-der-eu-kommission-104.html"
-    }
-   ]
-  },
-  {
-   "id": "nb5a10552f3",
-   "topic": "wirtschaft",
-   "title": "Millionen Euro verschwunden: Vucic-nahe Bank in Serbien geschlossen",
-   "text": "Die serbische Alta Bank ist geschlossen, ihr Besitzer verhaftet. Der mutmaßliche Vertraute des früheren Präsidenten Vucic soll knapp 400 Millionen Euro gestohlen haben. Auch staatliche Gelder könnten betroffen sein. Von Silke Hahne.",
-   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/nationalbank-serbien-diebstahl-400-millionen-100.html",
-   "published": "2026-11-06T11:58:26+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-09T11:58:26+00:00"
-  },
-  {
-   "id": "nb1410e7ba4",
-   "topic": "politik",
-   "title": "Bundestag beschließt härtere Strafen für Einsatz von K.-o.-Tropfen",
-   "text": "Täter mischen ihren Opfern K.-o.-Mittel unter, um sie gezielt wehrlos zu machen. Der Bundestag hat für solche Taten härtere Strafen beschlossen. Wie können sich Opfer schützen - und was droht jetzt den Tätern?",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/strafen-ko-tropfen-bundestag-100.html",
-   "published": "2026-11-06T11:28:21+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-09T11:28:21+00:00",
-   "img": "https://images.tagesschau.de/image/1cc31900-53af-4471-a9f9-1400395a1d9e/AAABobDBMok/AAABnSSvrFg/16x9-big/bar-cocktail-100.jpg?width=1920"
-  },
-  {
-   "id": "n32056b58c7",
-   "topic": "wirtschaft",
-   "title": "Welche Folgen die US-Midterms für die deutsche Wirtschaft haben",
-   "text": "Der Machtwechsel im US-Kongress könnte Unternehmen mehr Planbarkeit bringen. Zugleich befürchten Ökonomen, dass sich der Zollstreit fortsetzt. Worauf kann sich die deutsche Wirtschaft einstellen? Von Sebastian Schreiber.",
-   "link": "https://www.tagesschau.de/wirtschaft/midterms-wirtschaft-handelspolitik-100.html",
-   "published": "2026-11-06T11:17:25+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-09T11:17:25+00:00",
-   "img": "https://images.tagesschau.de/image/8e61c995-8334-4421-8e7e-cb9aa0a2280a/AAABobC21T4/AAABnSSvrFg/16x9-big/kapitol-washington-134.jpg?width=1920"
-  },
-  {
-   "id": "n09ae56017e",
-   "topic": "wirtschaft",
-   "title": "Industrieproduktion wächst überraschend - Autobranche legt zu",
-   "text": "Deutsche Industriebetriebe haben im September überraschend mehr produziert als im Vormonat. Vor allem die Autobranche sorgte für das Plus. Doch die Risikofaktoren für die wirtschaftliche Erholung bleiben.",
-   "link": "https://www.tagesschau.de/wirtschaft/konjunktur/industrieproduktion-wachstum-deutschland-100.html",
-   "published": "2026-11-06T10:42:54+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-09T10:42:54+00:00",
-   "img": "https://images.tagesschau.de/image/c0c0d162-e470-4877-9657-6d46341a203c/AAABoa_8mA8/AAABnSSvrFg/16x9-big/vw-1686.jpg?width=1920"
-  },
-  {
-   "id": "n144b2e076d",
-   "topic": "politik",
-   "title": "Was Aiwangers Tod für Bayerns Koalition bedeutet",
-   "text": "Mit Hubert Aiwanger verlieren die Freien Wähler ihr Zentrum und ihre Anziehungskraft. Das könnte die politischen Verhältnisse in Bayern nachhaltig verändern. Noch sind sie Regierungspartner der CSU. Von J. Wengert.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-soeder-analyse-100.html",
-   "published": "2026-11-06T09:30:52+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-09T09:30:52+00:00",
-   "img": "https://images.tagesschau.de/image/3f0f9936-ad9c-43b6-9b64-8a657fea245e/AAABoa435AM/AAABnSSvrFg/16x9-big/aiwanger-soeder-112.jpg?width=1920"
   }
  ]
 }
