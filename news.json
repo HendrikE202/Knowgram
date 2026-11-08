@@ -1,50 +1,332 @@
 {
- "generated": "2026-11-07T19:26:00.534876+00:00",
+ "generated": "2026-11-08T00:36:37.530513+00:00",
  "briefing": [
   "n3ec5331b3d",
   "n39e9b30e77",
-  "n1d8f430f79",
+  "ne68a8d456a",
   "n5cad87b83a",
-  "n65d8d0c93b",
+  "n6214d8e8d6",
+  "n1d8f430f79",
   "nde47d1606c",
-  "n9a92244a89",
-  "ne12bce8f92"
+  "n9a92244a89"
  ],
  "ranked": [
   {
    "id": "n3ec5331b3d",
-   "s": 42.8
+   "s": 42.3
   },
   {
    "id": "n39e9b30e77",
-   "s": 32.2
+   "s": 32.0
   },
   {
-   "id": "n1d8f430f79",
-   "s": 27.9
+   "id": "ne68a8d456a",
+   "s": 32.0
   },
   {
    "id": "n5cad87b83a",
-   "s": 27.3
+   "s": 27.0
   },
   {
-   "id": "n65d8d0c93b",
-   "s": 27.1
+   "id": "n6214d8e8d6",
+   "s": 26.7
+  },
+  {
+   "id": "n1d8f430f79",
+   "s": 26.6
   },
   {
    "id": "nde47d1606c",
-   "s": 21.4
+   "s": 20.1
   },
   {
    "id": "n9a92244a89",
-   "s": 21.4
-  },
-  {
-   "id": "ne12bce8f92",
-   "s": 19.6
+   "s": 20.1
   }
  ],
  "items": [
+  {
+   "id": "nbfbf8e481b",
+   "topic": "welt",
+   "title": "Französischer Präsidentschaftskandidat Mélenchon fordert NATO-Austritt",
+   "text": "Bei der französischen Präsidentschaftswahl im kommenden April könnte er stark abschneiden: der linke Kandidat Mélenchon. Jetzt hat er sein Programm vorgestellt - und sich dabei nicht nur gegen die NATO positioniert.",
+   "link": "https://www.tagesschau.de/ausland/europa/frankreich-melenchon-wahlprogramm-100.html",
+   "published": "2026-11-08T00:14:21+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-11T00:14:21+00:00",
+   "img": "https://images.tagesschau.de/image/c030e7f1-afd2-4583-91e2-9d3a57c6bc4b/AAABobh2JRE/AAABnSSvrFg/16x9-big/melenchon-130.jpg?width=1920"
+  },
+  {
+   "id": "n921f8c6607",
+   "topic": "nfl",
+   "title": "Falcons vs. Bengals: Cincinnati seeks first international win as division contenders travel to Madrid",
+   "text": "The NFL returns to Spain for the second straight season with a matchup that features many of the league's top offensive stars",
+   "link": "https://www.cbssports.com/nfl/news/falcons-vs-bengals-prediction-odds-where-to-watch/",
+   "published": "2026-11-08T00:01:11+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-13T00:01:11+00:00"
+  },
+  {
+   "id": "n8bc1f58adf",
+   "topic": "nfl",
+   "title": "Cowboys vs Colts: Writer predictions for Week 9",
+   "text": "Our score predictions for this week’s Cowboys game",
+   "link": "https://sports.yahoo.com/articles/cowboys-vs-colts-writer-predictions-000000989.html",
+   "published": "2026-11-08T00:00:00+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-13T00:00:00+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/0de12cf5c38a7ad946f10672a3b9116d.jpg"
+  },
+  {
+   "id": "n5a70d41dcc",
+   "topic": "nfl",
+   "title": "Intriguing players to watch in Falcons vs. Bengals",
+   "text": "Naming five Falcons who must bounce back in Madrid to spark an international fiesta and save Atlanta's playoff hopes.",
+   "link": "https://sports.yahoo.com/articles/intriguing-players-watch-falcons-vs-000000070.html",
+   "published": "2026-11-08T00:00:00+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-13T00:00:00+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/dbd4d2ed09f41124b34bb154e04ce50b.jpg"
+  },
+  {
+   "id": "n2091693859",
+   "topic": "politik",
+   "title": "Jerusalem - Israels Präsident Herzog beauftragt Oppositionspolitiker Eisenkot mit Regierungsbildung",
+   "text": "Der israelische Präsident Herzog wird den Oppositionspolitiker Eisenkot mit der Regierungsbildung beauftragen. Ein Sprecher des Präsidenten sagte, Eisenkot sei von Herzog für heute in dessen Amtssitz in Jerusalem eingeladen worden.",
+   "link": "https://www.deutschlandfunk.de/israels-praesident-herzog-beauftragt-oppositionspolitiker-eisenkot-mit-regierungsbildung-106.html",
+   "published": "2026-11-07T23:10:21+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-09T23:10:21+00:00",
+   "img": "https://bilder.deutschlandfunk.de/15/1b/7d/c9/151b7dc9-7817-4948-a554-a53742164076/gadi-eisenkot-104-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Oppositionsführer Eisenkot soll Israels neue Regierung bilden",
+     "link": "https://www.tagesschau.de/ausland/asien/regierungsbildung-israel-eisenkot-100.html"
+    }
+   ]
+  },
+  {
+   "id": "nf5552f6a73",
+   "topic": "politik",
+   "title": "Polen - Tote und Verletzte nach Schüssen in Krakau",
+   "text": "In der polnischen Stadt Krakau hat ein Mann sechs Menschen erschossen und mindestens 15 Menschen verletzt. Zuvor soll er bereits drei weitere Menschen in seinem Wohnhaus getötet haben, wie Polens Mininsterpräsident Tusk mitteilte. Die Polizei geht von einem Einzeltäter aus.",
+   "link": "https://www.deutschlandfunk.de/tote-und-verletzte-nach-schuessen-in-krakau-108.html",
+   "published": "2026-11-07T23:10:21+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-09T23:10:21+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Polen: Mindestens sechs Tote nach Schüssen in Krakau",
+     "link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Polen: Schütze feuert in Krakau aus Auto - mehrere Tote",
+     "link": "https://www.dw.com/de/polen-schütze-feuert-in-krakau-aus-auto-mehrere-tote/a-79887202?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "nc88041795f",
+   "topic": "politik",
+   "title": "Steinmeier-Nachfolge - CDU-Präsidium berät in Berlin",
+   "text": "In Berlin kommt am Abend das CDU-Präsidium zu Beratungen über die Nachfolge von Bundespräsident Steinmeier zusammen.",
+   "link": "https://www.deutschlandfunk.de/cdu-praesidium-beraet-in-berlin-100.html",
+   "published": "2026-11-07T23:10:21+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-09T23:10:21+00:00",
+   "img": "https://bilder.deutschlandfunk.de/74/af/be/3d/74afbe3d-056c-4fcf-8a34-7d20243222a5/berlin-koalitionsgespraeche-koalitionsverhandlungen-cdu-zentrale-spd-100-1920x1920.jpg"
+  },
+  {
+   "id": "n486d69b429",
+   "topic": "politik",
+   "title": "Digitaler Bundesparteitag - FDP will \"modernste Partei Deutschlands\" werden - Beratungen über Parteireform",
+   "text": "Die FDP berät heute über ihren weiteren politischen Kurs.",
+   "link": "https://www.deutschlandfunk.de/fdp-will-modernste-partei-deutschlands-werden-beratungen-ueber-parteireform-100.html",
+   "published": "2026-11-07T23:10:21+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-09T23:10:21+00:00",
+   "img": "https://bilder.deutschlandfunk.de/07/5d/7c/60/075d7c60-7e51-4e6d-b1d1-78aae493b339/fdp-kubicki-hoehne-100-1920x1920.jpg"
+  },
+  {
+   "id": "nb6d3603637",
+   "topic": "politik",
+   "title": "Diskussion um SPD-Vorsitz - Klingbeil lässt erneute Kandidatur offen",
+   "text": "Der SPD-Vorsitzende Klingbeil hat offengelassen, ob er im Januar erneut als Parteichef antreten wird.",
+   "link": "https://www.deutschlandfunk.de/klingbeil-laesst-erneute-kandidatur-offen-102.html",
+   "published": "2026-11-07T23:10:21+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-09T23:10:21+00:00"
+  },
+  {
+   "id": "n9d8c1919d8",
+   "topic": "politik",
+   "title": "Frankreich - Neue Demonstrationen, aber deutlich weniger Teilnehmer",
+   "text": "In Frankreich hat es erneut Demonstrationen unter anderem gegen hohe Lebenshaltungskosten und Probleme im Bildungssystem gegeben.",
+   "link": "https://www.deutschlandfunk.de/neue-demonstrationen-aber-deutlich-weniger-teilnehmer-104.html",
+   "published": "2026-11-07T23:10:21+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-09T23:10:21+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Weniger Teilnehmer bei neuen Demos in Frankreich",
+     "link": "https://www.tagesschau.de/ausland/frankreich-proteste-246.html"
+    }
+   ]
+  },
+  {
+   "id": "n8fa3a44584",
+   "topic": "welt",
+   "title": "FAQ: Was ist über die Schüsse in Krakau bekannt?",
+   "text": "Im polnischen Krakau hat ein Mann aus einem Auto geschossen und mindestens sechs Menschen getötet. Weitere Personen wurden verletzt, darunter auch Deutsche. Was bislang über die Tat bekannt ist.",
+   "link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-102.html",
+   "published": "2026-11-07T23:00:48+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-10T23:00:48+00:00",
+   "img": "https://images.tagesschau.de/image/035bdba7-3beb-4918-8149-fb5ddb739cac/AAABobaqOgE/AAABnSSvrFg/16x9-big/einsatzkraefte-historisches-stadtzentrum-102.jpg?width=1920"
+  },
+  {
+   "id": "n53c33ad9c5",
+   "topic": "wissenschaft",
+   "title": "Auf der Suche nach Exoplaneten: Dem Sternenlicht ein Schnippchen schlagen",
+   "text": "Eine neue Software für das James-Webb-Weltraumteleskop macht bislang verborgene Welten sichtbar. Auch erdähnliche Planeten könnten damit aufgespürt werden.",
+   "link": "https://www.spektrum.de/news/suche-nach-exoplaneten-dem-sternenlicht-ein-schnippchen-schlagen/2352788",
+   "published": "2026-11-07T22:30:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-21T22:30:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/STScI-01GB2S5HKVNRJ4CRBR9RKM9CEB_zuschnitt.jpg.8422540.jpg?f=1280x720"
+  },
+  {
+   "id": "n0f8d90dfff",
+   "topic": "nfl",
+   "title": "NFL fines Jaquan Brisker, two others for illegal Week 8 hits that placed opponents in concussion protocol",
+   "text": "Each of the players on the receiving end of those collisions will miss Week 9",
+   "link": "https://www.cbssports.com/nfl/news/nfl-fines-jaquan-brisker-two-others-for-illegal-week-8-hits/",
+   "published": "2026-11-07T22:01:31+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-12T22:01:31+00:00"
+  },
+  {
+   "id": "n3ec5331b3d",
+   "topic": "welt",
+   "title": "Polen: Mindestens sechs Tote nach Schüssen in Krakau",
+   "text": "Bei Schüssen in der polnischen Stadt Krakau sind laut Polizei mindestens sechs Menschen getötet und 16 Personen verletzt worden. Der mutmaßliche Täter konnte demnach gefasst werden. In seinem Wohnhaus wurden weitere Tote entdeckt.",
+   "link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html",
+   "published": "2026-11-07T21:51:26+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-10T21:51:26+00:00",
+   "img": "https://images.tagesschau.de/image/bee3ba3a-f8f6-43d9-a494-b75bb2b72fe1/AAABobanF1k/AAABnSSvrFg/16x9-big/einsatzkraefte-historisches-stadtzentrum-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Polen - Tote und Verletzte nach Schüssen in Krakau",
+     "link": "https://www.deutschlandfunk.de/tote-und-verletzte-nach-schuessen-in-krakau-108.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Polen: Schütze feuert in Krakau aus Auto - mehrere Tote",
+     "link": "https://www.dw.com/de/polen-schütze-feuert-in-krakau-aus-auto-mehrere-tote/a-79887202?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "n71a1532102",
+   "topic": "welt",
+   "title": "Bankenkrise: Anklage gegen Paraguays Ex-Präsidenten",
+   "text": "Nur einen Tag nach seiner Amtsenthebung muss sich Paraguays Ex-Präsident Peña wegen seiner Rolle im Bankenskandal vor der Justiz verantworten. Die Staatsanwaltschaft fordert Untersuchungshaft.",
+   "link": "https://www.tagesschau.de/ausland/amerika/ermittlungen-paraguay-pena-100.html",
+   "published": "2026-11-07T20:33:23+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-10T20:33:23+00:00",
+   "img": "https://images.tagesschau.de/image/9e147e56-f6c3-400e-b95b-a781c07ba6b5/AAABobe3Qgs/AAABnSSvrFg/16x9-big/pena-110.jpg?width=1920"
+  },
+  {
+   "id": "ne68a8d456a",
+   "topic": "welt",
+   "title": "Oppositionsführer Eisenkot soll Israels neue Regierung bilden",
+   "text": "Endet die Ära Netanjahu in Israel? Staatspräsident Herzog beauftragt den Oppositionspolitiker Eisenkot mit der Regierungsbildung. In den kommenden 28 Tagen soll er versuchen, eine Koalition zu schmieden.",
+   "link": "https://www.tagesschau.de/ausland/asien/regierungsbildung-israel-eisenkot-100.html",
+   "published": "2026-11-07T20:31:48+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-10T20:31:48+00:00",
+   "img": "https://images.tagesschau.de/image/1468c2f0-97fc-4df3-8608-e7ff13e7a1a9/AAABobeoupM/AAABnSSvrFg/16x9-big/eisenkot-116.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Jerusalem - Israels Präsident Herzog beauftragt Oppositionspolitiker Eisenkot mit Regierungsbildung",
+     "link": "https://www.deutschlandfunk.de/israels-praesident-herzog-beauftragt-oppositionspolitiker-eisenkot-mit-regierungsbildung-106.html"
+    }
+   ]
+  },
+  {
+   "id": "n2a662087ac",
+   "topic": "welt",
+   "title": "Papst in Uruguay: Schwierige Mission für Leo XIV.",
+   "text": "Zum Auftakt seiner Südamerika-Reise besucht Papst Leo XIV. Uruguay - ein Land, in dem der Glaube im Alltag kaum eine Rolle spielt. Doch im Armenviertel der Hauptstadt findet die soziale Arbeit der Kirche Anklang. Von Anne Herrberg.",
+   "link": "https://www.tagesschau.de/ausland/amerika/papst-reise-suedamerika-100.html",
+   "published": "2026-11-07T19:56:52+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-10T19:56:52+00:00",
+   "img": "https://images.tagesschau.de/image/c08b02e7-e2b9-49aa-9293-2aedfefde92c/AAABobeMIMM/AAABnSSvrFg/16x9-big/papst-leo-226.jpg?width=1920"
+  },
+  {
+   "id": "naad3d29b36",
+   "topic": "politik",
+   "title": "Point-Alpha-Preis an Ex-General Ben Hodges verliehen",
+   "text": "Am Point Alpha an der Grenze zu Thüringen standen sich im Kalten Krieg Soldaten der US-Armee und des Warschauer Pakts direkt gegenüber. Inzwischen ist ein renommierter Preis nach dem neuralgischen Punkt benannt. Er ging in diesem Jahr an einen Trump-Kritiker.",
+   "link": "https://www.hessenschau.de/gesellschaft/point-alpha-preis-an-ex-general-ben-hodges-verliehen-v1,point-alpha-preis-hodges-102.html",
+   "published": "2026-11-07T19:36:25+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-11T19:36:25+00:00",
+   "img": "https://www.hessenschau.de/gesellschaft/ben-hodges-point-alpha-100~_t-1794077741894_v-16to9.jpg",
+   "tag": "Hessen",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Auszeichnung - Ehemaliger US-General Ben Hodges erhält Point-Alpha-Preis 2026",
+     "link": "https://www.deutschlandfunk.de/ehemaliger-us-general-ben-hodges-erhaelt-point-alpha-preis-100.html"
+    }
+   ]
+  },
   {
    "id": "n4bcf192094",
    "topic": "politik",
@@ -76,11 +358,10 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-09T19:19:38+00:00",
-   "img": "https://bilder.deutschlandfunk.de/02/4b/e6/7e/024be67e-44eb-4715-b14f-8af88d11caa2/krakau-schuesse-102-1920x1920.jpg",
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Polen: Mindestens fünf Tote nach Schüssen in Krakau",
+     "title": "Polen: Mindestens sechs Tote nach Schüssen in Krakau",
      "link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html"
     },
     {
@@ -101,7 +382,6 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-09T19:19:38+00:00",
-   "img": "https://bilder.deutschlandfunk.de/c8/70/4a/0e/c8704a0e-330b-4496-b79e-a51cd8c6810d/frankreich-paris-polizei-100-1920x1920.jpg",
    "also": [
     {
      "source": "Tagesschau",
@@ -121,7 +401,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-09T19:19:38+00:00",
-   "img": "https://bilder.deutschlandfunk.de/04/e7/50/cf/04e750cf-9d4f-4394-8911-1cecaf358314/ben-hodges-102-1920x1920.jpg"
+   "img": "https://bilder.deutschlandfunk.de/04/e7/50/cf/04e750cf-9d4f-4394-8911-1cecaf358314/ben-hodges-102-1920x1920.jpg",
+   "also": [
+    {
+     "source": "hessenschau (hr)",
+     "title": "Point-Alpha-Preis an Ex-General Ben Hodges verliehen",
+     "link": "https://www.hessenschau.de/gesellschaft/point-alpha-preis-an-ex-general-ben-hodges-verliehen-v1,point-alpha-preis-hodges-102.html"
+    }
+   ]
   },
   {
    "id": "nf2a8ad5bd0",
@@ -146,21 +433,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-11-09T19:19:38+00:00",
-   "img": "https://bilder.deutschlandfunk.de/a3/cd/01/aa/a3cd01aa-7832-48f7-92f5-cc93ca8a33c9/murrack-klingbeil-100-1920x1920.jpg"
-  },
-  {
-   "id": "n8fa3a44584",
-   "topic": "welt",
-   "title": "FAQ: Was ist über die Schüsse in Krakau bekannt?",
-   "text": "Am Nachmittag hat ein Täter im polnischen Krakau aus einem Auto geschossen und mindestens sechs Menschen getötet. Weitere Personen wurden verletzt. Was bislang über die Tat bekannt ist.",
-   "link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-102.html",
-   "published": "2026-11-07T19:10:52+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-10T19:10:52+00:00",
-   "img": "https://images.tagesschau.de/image/035bdba7-3beb-4918-8149-fb5ddb739cac/AAABobaqOgE/AAABnSSvrFg/16x9-big/einsatzkraefte-historisches-stadtzentrum-102.jpg?width=1920"
+   "expires": "2026-11-09T19:19:38+00:00"
   },
   {
    "id": "neb015c1126",
@@ -216,7 +489,7 @@
     {
      "source": "Deutschlandfunk",
      "title": "Frankreich - Neue Demonstrationen, aber deutlich weniger Teilnehmer",
-     "link": "https://www.deutschlandfunk.de/neue-demonstrationen-aber-deutlich-weniger-teilnehmer-100.html"
+     "link": "https://www.deutschlandfunk.de/neue-demonstrationen-aber-deutlich-weniger-teilnehmer-104.html"
     }
    ]
   },
@@ -246,31 +519,6 @@
    "lang": "de",
    "expires": "2026-11-11T18:35:00+00:00",
    "img": "https://static.dw.com/image/79282503_302.jpg"
-  },
-  {
-   "id": "n3ec5331b3d",
-   "topic": "welt",
-   "title": "Polen: Mindestens fünf Tote nach Schüssen in Krakau",
-   "text": "Bei Schüssen in der polnischen Stadt Krakau sind laut Polizei mindestens sechs Menschen getötet und 15 Personen verletzt worden. Der mutmaßliche Täter konnte demnach gefasst werden.",
-   "link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html",
-   "published": "2026-11-07T18:27:27+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-10T18:27:27+00:00",
-   "img": "https://images.tagesschau.de/image/bee3ba3a-f8f6-43d9-a494-b75bb2b72fe1/AAABobanF1k/AAABnSSvrFg/16x9-big/einsatzkraefte-historisches-stadtzentrum-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Polen - Tote und Verletzte nach Schüssen in Krakau - Polizei geht von Einzeltäter aus",
-     "link": "https://www.deutschlandfunk.de/tote-und-verletzte-nach-schuessen-in-krakau-polizei-geht-von-einzeltaeter-aus-100.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Polen: Schütze feuert in Krakau aus Auto - mehrere Tote",
-     "link": "https://www.dw.com/de/polen-schütze-feuert-in-krakau-aus-auto-mehrere-tote/a-79887202?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
   },
   {
    "id": "n9b34d1b5ae",
@@ -349,12 +597,12 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Polen - Tote und Verletzte nach Schüssen in Krakau - Polizei geht von Einzeltäter aus",
-     "link": "https://www.deutschlandfunk.de/tote-und-verletzte-nach-schuessen-in-krakau-polizei-geht-von-einzeltaeter-aus-100.html"
+     "title": "Polen - Tote und Verletzte nach Schüssen in Krakau",
+     "link": "https://www.deutschlandfunk.de/tote-und-verletzte-nach-schuessen-in-krakau-108.html"
     },
     {
      "source": "Tagesschau",
-     "title": "Polen: Mindestens fünf Tote nach Schüssen in Krakau",
+     "title": "Polen: Mindestens sechs Tote nach Schüssen in Krakau",
      "link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html"
     }
    ]
@@ -1395,14 +1643,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-09T19:39:20+00:00",
-   "img": "https://images.tagesschau.de/image/bc698291-00e6-4417-b67d-f273c2c25cb1/AAABobJfbWA/AAABnSSvrFg/16x9-big/ryanair-lissabon-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Europa - Bombendrohungen gegen Flüge in Europa weiten sich auf Medien aus",
-     "link": "https://www.deutschlandfunk.de/bombendrohungen-gegen-fluege-in-europa-weiten-sich-auf-medien-aus-100.html"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/bc698291-00e6-4417-b67d-f273c2c25cb1/AAABobJfbWA/AAABnSSvrFg/16x9-big/ryanair-lissabon-100.jpg?width=1920"
   },
   {
    "id": "n3324fc093b",
@@ -1556,225 +1797,6 @@
    "lang": "de",
    "expires": "2026-11-11T17:10:02+00:00",
    "img": "https://www.golem.de/2611/214955-607317-607315_rc.jpg"
-  },
-  {
-   "id": "n3c8f5658cc",
-   "topic": "welt",
-   "title": "Anführer von Hungersekte in Kenia zu 200 Jahren Haft verurteilt.",
-   "text": "Der selbsternannte kenianische Pastor Mackenzie ist für den Mord an 191 Menschen verurteilt worden. Er soll sie aus angeblich religiösen Gründen zum Todesfasten verleitet haben - die meisten waren Kinder.",
-   "link": "https://www.tagesschau.de/ausland/afrika/kenia-urteil-sektenfuehrer-100.html",
-   "published": "2026-11-06T17:08:10+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-09T17:08:10+00:00",
-   "img": "https://images.tagesschau.de/image/0ee6aae7-d404-4265-b65c-b7a69d58cfcb/AAABobHBgfY/AAABnSSvrFg/16x9-big/mackenzie-102.jpg?width=1920"
-  },
-  {
-   "id": "nf79b47d564",
-   "topic": "politik",
-   "title": "Bundestag berät über umstrittene Autobahn-Reform",
-   "text": "Der Bundestag hat über eine geplante Reform der bundeseigenen Autobahn GmbH debattiert. Die Regierung will die Finanzierung ändern, um Autobahnen zu erhalten und ausbauen zu können. Doch das Vorhaben ist umstritten.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/autobahn-reform-102.html",
-   "published": "2026-11-06T17:04:16+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-09T17:04:16+00:00",
-   "img": "https://images.tagesschau.de/image/85f4522a-669a-4065-881f-10b8f9aa39c4/AAABobHRdOk/AAABnSSvrFg/16x9-big/autobahn-510.jpg?width=1920"
-  },
-  {
-   "id": "n6cdbf0818e",
-   "topic": "wissenschaft",
-   "title": "Absage von Kanzler Merz zur Teilnahme an UN-Klimakonferenz im türkischen Antalya",
-   "text": "Absage von Kanzler Merz zur Teilnahme an UN-Klimakonferenz im türkischen Antalya",
-   "link": "https://www.tagesschau.de/video/video-1679336.html",
-   "published": "2026-11-06T16:44:14+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-20T16:44:14+00:00",
-   "img": "https://images.tagesschau.de/image/4b920319-5386-4ae2-af7d-b8cca7181853/AAABobG2q5c/AAABnSSvrFg/16x9-big/sendungsbild-1823540.jpg?width=1920"
-  },
-  {
-   "id": "n9ba64b7c84",
-   "topic": "politik",
-   "title": "Nachfolge von Bundespräsident Steinmeier - Medienberichte: Auch CDU für Ilse Aigner",
-   "text": "Nach der CSU will nun auch die CDU ‌Medienberichten zufolge Ilse Aigner für das Amt der Bundespräsidentin nominieren. Dies berichteten \"Bild\", \"Spiegel\" und \"Süddeutsche Zeitung\" übereinstimmend. Mit einer offiziellen Bekanntgabe wird am Montag gerechnet.",
-   "link": "https://www.deutschlandfunk.de/medienberichte-auch-cdu-fuer-ilse-aigner-102.html",
-   "published": "2026-11-06T16:43:06+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-08T16:43:06+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Ilse Aigner im Porträt: Krisenerprobt, bürgernah - und bald Staatsoberhaupt?",
-     "link": "https://www.tagesschau.de/inland/ilse-aigner-portraet-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n9a1986c472",
-   "topic": "politik",
-   "title": "Suchtgefahr - Tiktok widerspricht Vorwüfen der EU-Kommission",
-   "text": "Das Unternehmen Tiktok hat Vorwürfe der EU-Kommission zurückgewiesen, gegen europäisches Recht zu verstoßen. Eine Sprecherin teilte mit, die Kommission stelle die Architektur der Plattform und das Engagement für die Sicherheit der Nutzer verzerrt dar.",
-   "link": "https://www.deutschlandfunk.de/tiktok-widerspricht-vorwuefen-der-eu-kommission-100.html",
-   "published": "2026-11-06T16:43:06+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-08T16:43:06+00:00"
-  },
-  {
-   "id": "nfc214b528e",
-   "topic": "politik",
-   "title": "Ukraine-Krieg - Nach Trump-Äußerungen: EU pocht auf Beteiligung Europas bei möglichen Friedensverhandlungen",
-   "text": "Führende Politiker in der EU pochen auf eine Beteiligung Europas bei der Suche ‌nach einer Friedenslösung ⁠für die ⁠Ukraine.",
-   "link": "https://www.deutschlandfunk.de/nach-trump-aeusserungen-eu-pocht-auf-beteiligung-europas-bei-moeglichen-friedensverhandlungen-102.html",
-   "published": "2026-11-06T16:43:06+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-08T16:43:06+00:00",
-   "img": "https://bilder.deutschlandfunk.de/80/3d/83/8b/803d838b-3269-4353-980c-c10487f062be/eu-hohe-vertreterin-europaeische-union-kaja-kallas-100-1920x1920.jpg"
-  },
-  {
-   "id": "nf8e66f62a8",
-   "topic": "politik",
-   "title": "Europa - Bombendrohungen gegen Flüge in Europa weiten sich auf Medien aus",
-   "text": "Die ‌Serie von Bombendrohungen gegen Passagierflüge ⁠in Europa hat sich ⁠fortgesetzt und auf Medien ausgeweitet.",
-   "link": "https://www.deutschlandfunk.de/bombendrohungen-gegen-fluege-in-europa-weiten-sich-auf-medien-aus-100.html",
-   "published": "2026-11-06T16:43:06+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-08T16:43:06+00:00",
-   "img": "https://bilder.deutschlandfunk.de/NO/VA/_d/3f/NOVA_d3ffa859b5a77631a054e8eb6c03a203/craft-13163325-asset-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Bombendrohungen in Europa: Anzeichen auf koordinierten Angriff verdichten sich",
-     "link": "https://www.tagesschau.de/ausland/europa/bombendrohungen-europa-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n4bc384d6ae",
-   "topic": "politik",
-   "title": "Sorge vor Engpässen - EU-Staaten wollen Methanvorgaben für Energie-Importe verschieben",
-   "text": "​Die EU-Staaten haben sich mehrheitlich darauf verständigt, bestimmte Vorgaben für Methanimporte um ein Jahr zu verschieben.",
-   "link": "https://www.deutschlandfunk.de/eu-staaten-wollen-methanvorgaben-fuer-energie-importe-verschieben-100.html",
-   "published": "2026-11-06T16:43:06+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-08T16:43:06+00:00",
-   "img": "https://bilder.deutschlandfunk.de/54/88/6a/03/54886a03-7b82-4517-9961-bda47a9571a5/eu-europa-trump-100-1920x1920.jpg"
-  },
-  {
-   "id": "nbfc348c90b",
-   "topic": "politik",
-   "title": "Wärmster Oktober der Messgeschichte - Copernicus: 1,5-Grad-Marke wird 2026 wohl erneut überschritten",
-   "text": "Die weltweite Durchschnittstemperatur wird in diesem Jahr voraussichtlich zum zweiten Mal nach 2024 mehr als 1,5 Grad über dem vorindustriellen Niveau liegen. Das erwartet der EU-Klimadienst Copernicus. Auch der Oktober war weltweit so warm wie nie zuvor seit Beginn der Wetteraufzeichnungen.",
-   "link": "https://www.deutschlandfunk.de/copernicus-1-5-grad-marke-wird-2026-wohl-erneut-ueberschritten-100.html",
-   "published": "2026-11-06T16:43:06+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-08T16:43:06+00:00",
-   "img": "https://bilder.deutschlandfunk.de/94/0e/09/ff/940e09ff-c2d4-4d73-98f5-6bfc78189a86/klimawandel-132-1920x1920.jpg"
-  },
-  {
-   "id": "n782a94c8fb",
-   "topic": "ki",
-   "title": "Nach OpenAI und Anthropic bringt auch Perplexity dauerhafte KI-Agenten für komplexe Aufgaben",
-   "text": "Perplexity führt mit \"Teammates\" Dauer-Agenten ein, die auf eigenen virtuellen Rechnern laufende Projekte selbstständig abarbeiten. Das Feature setzt das Max-Abo für 200 Dollar monatlich voraus – deutlich teurer als vergleichbare Angebote von OpenAI oder Anthropic. Der Markt für Always-on-Agenten wird damit immer …",
-   "link": "https://the-decoder.de/nach-openai-und-anthropic-bringt-auch-perplexity-dauerhafte-ki-agenten-fuer-komplexe-aufgaben/",
-   "published": "2026-11-06T16:43:05+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-13T16:43:05+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/11/perplexity.png"
-  },
-  {
-   "id": "nfbc017fae3",
-   "topic": "nfl",
-   "title": "NFL predictions: Fireworks between Falcons and Bengals",
-   "text": "The Falcons need a victory to stay afloat in the playoff hunt, but can it come against this Bengals team?",
-   "link": "https://sports.yahoo.com/articles/nfl-predictions-fireworks-between-falcons-163443058.html",
-   "published": "2026-11-06T16:34:43+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-11T16:34:43+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/613cc753862f3718494dc0fb72b63134.jpg"
-  },
-  {
-   "id": "n78708c580a",
-   "topic": "it",
-   "title": "YouTuber ortet Videoaufnahmen anhand von Flugzeuggeräuschen",
-   "text": "Ein YouTuber kombiniert Flugdaten mit Hintergrundgeräuschen in Videos, um Aufnahmeorte auf rund 100 Meter genau zu bestimmen.",
-   "link": "https://www.heise.de/news/YouTuber-ortet-Videoaufnahmen-anhand-von-Flugzeuggeraeuschen-11515927.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-06T16:31:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-11T16:31:00+00:00"
-  },
-  {
-   "id": "nbeb148cee7",
-   "topic": "nfl",
-   "title": "Jacoby Brissett trade grades: Cardinals earn high mark, Ravens stay afloat in mutually beneficial trade",
-   "text": "The Ravens needed a quarterback, and the Cardinals got valuable draft capital",
-   "link": "https://www.cbssports.com/nfl/news/jacoby-brissett-trade-grades-cardinals-ravens-trade-deadline/",
-   "published": "2026-11-06T16:30:50+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-11T16:30:50+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/11/04/176b876a-b3d6-41a3-839b-5dd8e7932d33/jacoby-brissett-cardinals.jpg"
-  },
-  {
-   "id": "n3a7eeb61d2",
-   "topic": "nfl",
-   "title": "2027 Bears mock draft: Post-Jeffery Simmons trade picks",
-   "text": "WCG’s lead draft analyst @jacobinfante24 shares his latest 2027 Bears mock draft after the Jeffery Simmons trade.",
-   "link": "https://sports.yahoo.com/articles/2027-bears-mock-draft-post-163000308.html",
-   "published": "2026-11-06T16:30:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-11T16:30:00+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/91dadccb75a7036be4e30c0fbd4949d5.jpg"
-  },
-  {
-   "id": "n71453076eb",
-   "topic": "politik",
-   "title": "Mörfelden-Walldorf: Schon wieder ein Netto? Supermarkt-Pläne sorgen für Ärger",
-   "text": "Der Tegut-Markt in Mörfelden-Walldorf ist geschlossen, doch sein geplanter Nachfolger sorgt bereits für Streit. Statt eines dritten Netto wünschen sich viele Einwohner einen Edeka mit Frischetheke. Jetzt macht auch der Bürgermeister Druck und verweist auf einen interessierten Edeka-Kaufmann.",
-   "link": "https://www.hessenschau.de/wirtschaft/moerfelden-walldorf-schon-wieder-ein-netto-supermarkt-plaene-sorgen-fuer-aerger-v1,netto-edeka-walldorf-100.html",
-   "published": "2026-11-06T16:29:32+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-10T16:29:32+00:00",
-   "img": "https://www.hessenschau.de/wirtschaft/tegut-netto-oder-edeka-100~_t-1793885451986_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "ncce487f31d",
-   "topic": "it",
-   "title": "Lokale KI: Das läuft auf deinem Rechner",
-   "text": "Lokale KI wird immer besser, die dafür benötigte Hardware immer teurer. c’t 3003 gibt Kaufberatung und Praxistipps.",
-   "link": "https://www.heise.de/news/Lokale-KI-Das-laeuft-auf-deinem-Rechner-11515316.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-06T16:27:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-11T16:27:00+00:00"
   }
  ]
 }
