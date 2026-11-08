@@ -1,50 +1,529 @@
 {
- "generated": "2026-11-08T10:23:53.346323+00:00",
+ "generated": "2026-11-08T17:55:58.887448+00:00",
  "briefing": [
   "n3ec5331b3d",
-  "nfa11854188",
   "ne68a8d456a",
+  "n24f9420b2a",
+  "nfa11854188",
+  "nea2ff650f6",
+  "nafc1d765ea",
+  "nefe2bd5e11",
   "n6214d8e8d6",
-  "n1d8f430f79",
-  "n132c0ecc56",
-  "n11cf765cc6",
-  "n199019d930"
+  "ne3ad5ea6fb"
  ],
  "ranked": [
   {
    "id": "n3ec5331b3d",
-   "s": 39.9
-  },
-  {
-   "id": "nfa11854188",
-   "s": 32.9
+   "s": 38.0
   },
   {
    "id": "ne68a8d456a",
-   "s": 29.5
+   "s": 37.6
   },
   {
-   "id": "n6214d8e8d6",
-   "s": 24.2
+   "id": "n24f9420b2a",
+   "s": 32.8
   },
   {
-   "id": "n1d8f430f79",
-   "s": 24.1
+   "id": "nfa11854188",
+   "s": 31.0
   },
   {
-   "id": "n132c0ecc56",
-   "s": 23.1
-  },
-  {
-   "id": "n11cf765cc6",
+   "id": "nea2ff650f6",
    "s": 22.9
   },
   {
-   "id": "n199019d930",
+   "id": "nafc1d765ea",
+   "s": 22.9
+  },
+  {
+   "id": "nefe2bd5e11",
+   "s": 22.7
+  },
+  {
+   "id": "n6214d8e8d6",
    "s": 22.3
+  },
+  {
+   "id": "ne3ad5ea6fb",
+   "s": 17.4
   }
  ],
  "items": [
+  {
+   "id": "nc88041795f",
+   "topic": "politik",
+   "title": "Steinmeier-Nachfolge - CDU-Präsidium berät in Berlin",
+   "text": "In Berlin kommt am Abend das CDU-Präsidium zu Beratungen über die Nachfolge von Bundespräsident Steinmeier zusammen.",
+   "link": "https://www.deutschlandfunk.de/cdu-praesidium-beraet-in-berlin-100.html",
+   "published": "2026-11-08T17:40:47+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-10T17:40:47+00:00",
+   "img": "https://bilder.deutschlandfunk.de/74/af/be/3d/74afbe3d-056c-4fcf-8a34-7d20243222a5/berlin-koalitionsgespraeche-koalitionsverhandlungen-cdu-zentrale-spd-100-1920x1920.jpg"
+  },
+  {
+   "id": "n06a187cde8",
+   "topic": "politik",
+   "title": "Israel - Oppositionspolitiker Eisenkot erhält offiziell Auftrag zur Regierungsbildung - \"Werde Israel aus der Krise führen\"",
+   "text": "Knapp zwei Wochen nach der Parlamentswahl in Israel hat Präsident Herzog den Oppositionspolitiker Eisenkot offiziell mit der Regierungsbildung beauftragt. Der Vorsitzende der Mitte-Partei Jaschar hat nun 28 Tage Zeit, um eine Koalition zu bilden.",
+   "link": "https://www.deutschlandfunk.de/oppositionspolitiker-eisenkot-erhaelt-offiziell-auftrag-zur-regierungsbildung-werde-israel-aus-der-k-100.html",
+   "published": "2026-11-08T17:40:47+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-10T17:40:47+00:00",
+   "img": "https://bilder.deutschlandfunk.de/43/14/ff/fb/4314fffb-4ff6-4f34-9c74-6ac0689ffc55/israel-eisenkot-herzog-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Israel: Netanjahu-Rivale Gadi Eisenkot soll Regierung bilden",
+     "link": "https://www.dw.com/de/israel-netanjahu-rivale-gadi-eisenkot-soll-regierung-bilden/a-79889744?maca=de-rss-de-all-1119-xml-mrss"
+    },
+    {
+     "source": "Tagesschau",
+     "title": "Israel: Oppositionsführer Eisenkot soll neue Regierung bilden",
+     "link": "https://www.tagesschau.de/ausland/asien/israel-auftrag-regierungsbildung-eisenkot-100.html"
+    }
+   ]
+  },
+  {
+   "id": "nea2ff650f6",
+   "topic": "politik",
+   "title": "UNO-Klimakonferenz - Guterres: \"Alle müssen mehr tun - und zwar jetzt\"",
+   "text": "Vor der morgen beginnenden Weltklimakonferenz im türkischen Antalya hat UNO-Generalsekretär Guterres die internationalen Staats- und Regierungschefs eindringlich zum Handeln aufgerufen. Man könne sich nicht länger in endlosen Diskussionen verlieren, in denen jeder versuche, die Verantwortung auf andere abzuwälzen …",
+   "link": "https://www.deutschlandfunk.de/guterres-alle-muessen-mehr-tun-und-zwar-jetzt-100.html",
+   "published": "2026-11-08T17:40:47+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-10T17:40:47+00:00",
+   "img": "https://bilder.deutschlandfunk.de/c5/5f/42/74/c55f4274-5fca-43f0-84ad-d64b99663601/cop31-klimakonferenz-antalya-100-1920x1920.jpg"
+  },
+  {
+   "id": "nafc1d765ea",
+   "topic": "politik",
+   "title": "Interview - Frankreichs Außenminister Barrot: \"Europa soll durch französische Vertreter bei anstehenden Ukraine-Gesprächen repräsentiert werden\"",
+   "text": "An den Verhandlungen zwischen Russland und der Ukraine unter US-amerikanischer Vermittlung sollen auch Vertreter Europas teilnehmen. Das sagte Frankreichs Außenminister Barrot in einem Interview mit dem Sender RTL.",
+   "link": "https://www.deutschlandfunk.de/frankreichs-aussenminister-barrot-europa-soll-durch-franzoesische-vertreter-bei-anstehenden-ukraine--100.html",
+   "published": "2026-11-08T17:40:47+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-10T17:40:47+00:00",
+   "img": "https://bilder.deutschlandfunk.de/6c/6f/a2/f0/6c6fa2f0-31a2-4e29-815d-d5958c79dbc2/frankreich-aussenminister-noel-barrot-russland-wahlkampf-einmischung-100-1920x1920.jpg"
+  },
+  {
+   "id": "nb5869b2720",
+   "topic": "politik",
+   "title": "Bundesliga - Köln verliert Nachbarschaftsduell gegen Leverkusen",
+   "text": "In der Fußball-Bundesliga hat der 1. FC Köln mit 1:2 gegen Bayer Leverkusen verloren. Die Leverkusener gingen durch ein Tor von Aleix García in der 7. Minute früh in Führung, konnten diese aber erst gegen Ende der Partie in der 85. Minute durch den Treffer von Patrik Schick ausbauen.",
+   "link": "https://www.deutschlandfunk.de/koeln-verliert-nachbarschaftsduell-gegen-leverkusen-102.html",
+   "published": "2026-11-08T17:40:47+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-10T17:40:47+00:00",
+   "img": "https://bilder.deutschlandfunk.de/03/82/71/05/03827105-b4e5-4349-b8e1-29d980080efc/bundesliga-koeln-leverkusen-100-1920x1920.jpg"
+  },
+  {
+   "id": "n0832c7367d",
+   "topic": "politik",
+   "title": "Niederlande - Mehr als 200.000 Menschen protestieren in Amsterdam gegen Israels Vorgehen im Gazastreifen",
+   "text": "In Amsterdam hat es Proteste gegen Israels Vorgehen im Gazastreifen gegeben.",
+   "link": "https://www.deutschlandfunk.de/mehr-als-200-000-menschen-protestieren-in-amsterdam-gegen-israels-vorgehen-im-gazastreifen-100.html",
+   "published": "2026-11-08T17:40:47+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-10T17:40:47+00:00",
+   "img": "https://bilder.deutschlandfunk.de/e6/d0/45/f3/e6d045f3-331b-4dea-aff0-7c2d5f669c31/amsterdam-red-line-demo-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Amsterdam: Zehntausende demonstrieren gegen Israels Gaza-Politik",
+     "link": "https://www.tagesschau.de/ausland/europa/demonstration-amsterdam-israel-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n307807854b",
+   "topic": "politik",
+   "title": "Flohmärkte, Märkte und Feste in Hessen: Termine bis zum 15. November",
+   "text": "Für alle, die gerne nach Schnäppchen und Raritäten suchen und kein Fest auslassen: eine Übersicht über die Flohmärkte, Märkte und Feste in Hessen bis Sonntag.",
+   "link": "https://www.hessenschau.de/freizeit/flohmaerkte-maerkte-und-feste-in-hessen-termine-bis-zum-15-november-v1,veranstaltungstipps-2646kw-100.html",
+   "published": "2026-11-08T17:33:07+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-12T17:33:07+00:00",
+   "img": "https://www.hessenschau.de/kultur/ronneburg-122~_t-1727446791270_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "nebbed5eb2f",
+   "topic": "nfl",
+   "title": "George Pickens will not play in Week 9",
+   "text": "Cowboys WR George Pickens will miss at least one game because of his injuries",
+   "link": "https://sports.yahoo.com/articles/george-pickens-not-play-week-173045268.html",
+   "published": "2026-11-08T17:30:45+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-13T17:30:45+00:00"
+  },
+  {
+   "id": "nd797669fec",
+   "topic": "nfl",
+   "title": "New York Jets discussion: Week 9 live chat during the Kansas City Chiefs game",
+   "text": "The Jets are on the road to take on Patrick Mahomes and the Kansas City Chiefs today",
+   "link": "https://sports.yahoo.com/articles/york-jets-discussion-week-9-173000668.html",
+   "published": "2026-11-08T17:30:00+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-13T17:30:00+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/4378f3ecab81b752dc2601c8e68a4009.jpg"
+  },
+  {
+   "id": "nd6ad679691",
+   "topic": "welt",
+   "title": "Wackelt Polens Ruf als sicheres Land?",
+   "text": "Der Terroranschlag in Krakau hat Polen schwer erschüttert. Trotzdem geht der Machtkampf zwischen dem Mitte-Links-Lager von Donald Tusk und der rechten Opposition weiter. Polens Ruf als sicheres Land wackelt.",
+   "link": "https://www.dw.com/de/wackelt-polens-ruf-als-sicheres-land/a-79893042?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-08T17:29:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-12T17:29:00+00:00",
+   "img": "https://static.dw.com/image/79892175_302.jpg"
+  },
+  {
+   "id": "n2e1b6385d1",
+   "topic": "nfl",
+   "title": "Odell Beckham Jr. set to make Vikings debut after signing to 53-man roster, per report",
+   "text": "Beckham will be available to play in Monday night's game vs. the Bills",
+   "link": "https://www.cbssports.com/nfl/news/vikings-signing-odell-beckham-jr-giants/",
+   "published": "2026-11-08T17:21:33+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-13T17:21:33+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/11/08/c22efd4d-4721-4861-8fd2-d74ec545f69d/objvikings.jpg"
+  },
+  {
+   "id": "n24f9420b2a",
+   "topic": "welt",
+   "title": "Amsterdam: Zehntausende demonstrieren gegen Israels Gaza-Politik",
+   "text": "Amsterdam ist erneut Schauplatz einer Großdemonstration gegen das israelische Vorgehen im Gazastreifen geworden. Der Protest verlief laut Polizei friedlich. Ministerpräsident Jetten war dieses Mal nicht dabei.",
+   "link": "https://www.tagesschau.de/ausland/europa/demonstration-amsterdam-israel-100.html",
+   "published": "2026-11-08T17:02:14+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-11T17:02:14+00:00",
+   "img": "https://images.tagesschau.de/image/cac8f4e0-8a53-49fc-a135-8f57f56a06a6/AAABobwcTQk/AAABnSSvrFg/16x9-big/demonstration-amsterdam-102.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Niederlande - Mehr als 200.000 Menschen protestieren in Amsterdam gegen Israels Vorgehen im Gazastreifen",
+     "link": "https://www.deutschlandfunk.de/mehr-als-200-000-menschen-protestieren-in-amsterdam-gegen-israels-vorgehen-im-gazastreifen-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n8c8f80068a",
+   "topic": "welt",
+   "title": "Israel: Netanjahu-Rivale Gadi Eisenkot soll Regierung bilden",
+   "text": "Die Machtverhältnisse im neu gewählten Parlament in Israel sind kompliziert. Dem Bündnis von Gadi Eisenkot fehlen 13 Mandate für eine eigene Regierungsmehrheit. Parteien der arabischen Minderheit könnten helfen.",
+   "link": "https://www.dw.com/de/israel-netanjahu-rivale-gadi-eisenkot-soll-regierung-bilden/a-79889744?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-08T16:40:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-12T16:40:00+00:00",
+   "img": "https://static.dw.com/image/79891763_302.jpg",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Israel - Oppositionspolitiker Eisenkot erhält offiziell Auftrag zur Regierungsbildung - \"Werde Israel aus der Krise führen\"",
+     "link": "https://www.deutschlandfunk.de/oppositionspolitiker-eisenkot-erhaelt-offiziell-auftrag-zur-regierungsbildung-werde-israel-aus-der-k-100.html"
+    },
+    {
+     "source": "Tagesschau",
+     "title": "Israel: Oppositionsführer Eisenkot soll neue Regierung bilden",
+     "link": "https://www.tagesschau.de/ausland/asien/israel-auftrag-regierungsbildung-eisenkot-100.html"
+    }
+   ]
+  },
+  {
+   "id": "nefe2bd5e11",
+   "topic": "welt",
+   "title": "Ukraine-Gespräche in Abu Dhabi: Europäer sind laut Frankreich \"gut vertreten\"",
+   "text": "Ab Dienstag soll in Abu Dhabi über einen möglichen Frieden in der Ukraine verhandelt werden. Laut dem französischen Außenminister Barrot ist auch Europa vertreten: Frankreich werde an den Gesprächen mit den Russen teilnehmen.",
+   "link": "https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-100.html",
+   "published": "2026-11-08T16:33:42+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-11T16:33:42+00:00",
+   "img": "https://images.tagesschau.de/image/bcbfacd2-b7ac-4314-9d86-ec6d822e9492/AAABobwG94w/AAABnSSvrFg/16x9-big/abu-dhabi-103.jpg?width=1920"
+  },
+  {
+   "id": "ncf372d0f74",
+   "topic": "it",
+   "title": "Neuer Reaktortyp soll Atommüll wiederverwerten",
+   "text": "Ein Forschungsreaktor der TU Dresden soll abgebrannte Brennelemente direkt nutzen und die Suche nach einem Endlager erübrigen.",
+   "link": "https://www.heise.de/news/Strom-aus-Atommuell-TU-Dresden-plant-Forschungsreaktor-11516673.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-08T16:30:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-13T16:30:00+00:00"
+  },
+  {
+   "id": "n639b8dbc02",
+   "topic": "nfl",
+   "title": "Week 9 NFL odds, lines, totals, spreads for every game, including Cowboys-Colts, Jets-Chiefs, Raiders-49ers",
+   "text": "Check the Week 9 NFL odds, spreads, moneylines, and totals for every game, including Bears vs. Buccaneers",
+   "link": "https://www.cbssports.com/betting/news/week-9-nfl-betting-odds-spreads-totals-lines/",
+   "published": "2026-11-08T16:24:36+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-13T16:24:36+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/09/14/c6a6342e-4278-41a5-83d9-8e6fe939826b/travis-kelce-chiefs.jpg"
+  },
+  {
+   "id": "n726c131d8d",
+   "topic": "welt",
+   "title": "Israel: Oppositionsführer Eisenkot soll neue Regierung bilden",
+   "text": "Nun ist es offiziell: Israels Präsident Herzog hat den Oppositionspolitiker Eisenkot mit der Regierungsbildung beauftragt. Der Ex-Militärchef appellierte an die anderen Parteien, \"unkonventionelle politische Schritte\" zu akzeptieren.",
+   "link": "https://www.tagesschau.de/ausland/asien/israel-auftrag-regierungsbildung-eisenkot-100.html",
+   "published": "2026-11-08T16:07:41+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-11T16:07:41+00:00",
+   "img": "https://images.tagesschau.de/image/17988e16-b321-4573-a2d7-f8ccec24da95/AAABobvLlHQ/AAABnSSvrFg/16x9-big/gadi-eisenkot-110.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Israel - Oppositionspolitiker Eisenkot erhält offiziell Auftrag zur Regierungsbildung - \"Werde Israel aus der Krise führen\"",
+     "link": "https://www.deutschlandfunk.de/oppositionspolitiker-eisenkot-erhaelt-offiziell-auftrag-zur-regierungsbildung-werde-israel-aus-der-k-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Israel: Netanjahu-Rivale Gadi Eisenkot soll Regierung bilden",
+     "link": "https://www.dw.com/de/israel-netanjahu-rivale-gadi-eisenkot-soll-regierung-bilden/a-79889744?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "n10a2b908e8",
+   "topic": "it",
+   "title": "Jensen Huang soll Beziehung zu chinesischer Spionin gehabt haben",
+   "text": "US-Berichte legen nahe, dass Jensen Huang einer Spionin nahestand, deren Arbeitgeber Exportbeschränkungen unterlaufen haben soll.",
+   "link": "https://www.heise.de/news/Jensen-Huang-soll-Beziehung-zu-chinesischer-Spionin-gehabt-haben-11516677.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-08T15:40:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-13T15:40:00+00:00"
+  },
+  {
+   "id": "ne3ad5ea6fb",
+   "topic": "wirtschaft",
+   "title": "Viele Gebäude weiterhin ohne Elementarschadenversicherung",
+   "text": "Immer häufiger führen Starkregen und Überschwemmungen zu teuren Schäden an Häusern. Nur gut die Hälfte der Gebäude in Deutschland sind gegen solche Folgen abgesichert. Experten sehen Handlungsbedarf. Von Katharina Wilhelm.",
+   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/klimaschaeden-versicherungen-100.html",
+   "published": "2026-11-08T15:28:00+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-11T15:28:00+00:00",
+   "img": "https://images.tagesschau.de/image/84cb3245-ee5e-4ddc-8677-95217907f565/AAABlZAeuA0/AAABnSSvrFg/16x9-big/hochwasser-schaden-100.jpg?width=1920"
+  },
+  {
+   "id": "nc8dad5d82b",
+   "topic": "it",
+   "title": "Top 10: Die beste Smartwatch für Damen",
+   "text": "Viele Hersteller bieten Smartwatches mit kompaktem Design für schmale Handgelenke an. Wir zeigen die besten Modelle.",
+   "link": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-fuer-damen-im-test-huawei-vor-apple-und-garmin/776dwe5?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-08T15:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-13T15:00:00+00:00"
+  },
+  {
+   "id": "n61f8cda4b3",
+   "topic": "it",
+   "title": "Privatfahrzeug: Umweltminister Carsten Schneider fährt 13 Jahre alten Diesel",
+   "text": "Umweltminister Carsten Schneider setzt auf bezahlbare Alternativen statt moralischer Appelle und fährt selbst einen alten Diesel. ( Elektroauto , Auto )",
+   "link": "https://www.golem.de/news/privatfahrzeug-umweltminister-carsten-schneider-faehrt-13-jahre-alten-diesel-2611-214971.html",
+   "published": "2026-11-08T14:17:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-13T14:17:01+00:00",
+   "img": "https://www.golem.de/2611/214971-607394-607392_rc.jpg"
+  },
+  {
+   "id": "nd21e4e49d9",
+   "topic": "ki",
+   "title": "KI-Forscher Andrej Karpathy filtert 43 Millionen Hacker-News-Kommentare zu einer kuratierten Video-Plattform",
+   "text": "Der OpenAI-Mitgründer und KI-Forscher Andrej Karpathy hat mit Anthropics Claude Code an einem Wochenende HackerTube gebaut: eine Video-Plattform, die aus 43 Millionen Hacker-News-Kommentaren 6.454 kuratierte Videos destilliert. Claude übernahm fast die gesamte Arbeit, vom Datenfiltern bis zur Server-Einrichtung. Eine …",
+   "link": "https://the-decoder.de/ki-forscher-andrej-karpathy-filtert-43-millionen-hacker-news-kommentare-zu-einer-kuratierten-video-plattform/",
+   "published": "2026-11-08T14:07:00+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-15T14:07:00+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/11/comments_to_youtube.png"
+  },
+  {
+   "id": "n5310ed9c49",
+   "topic": "wissenschaft",
+   "title": "Freistetters Formelwelt: Integrale sind erschöpfend – aber nicht so, wie Sie vielleicht denken",
+   "text": "Mathematik kann erschöpfen. Aber in vielen Fällen ist das nicht nur erwünscht, sondern sogar äußerst hilfreich – das wusste man schon in der Antike.",
+   "link": "https://www.spektrum.de/kolumne/antike-die-mathematik-der-erschoepfung/2352055",
+   "published": "2026-11-08T14:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-22T14:00:00+00:00"
+  },
+  {
+   "id": "n996d12f418",
+   "topic": "it",
+   "title": "Apple-Tastatur: Was das iPhone nicht zu Ende schreiben will",
+   "text": "Apple hat eine Wortvorhersage, die aber bei vielen politischen Begriffen, Drogen und heiklen Ausdrücken gezielt den Dienst quittiert. ( iOS , Apple )",
+   "link": "https://www.golem.de/news/apple-tastatur-was-das-iphone-nicht-zu-ende-schreiben-will-2611-214970.html",
+   "published": "2026-11-08T13:38:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-13T13:38:02+00:00",
+   "img": "https://www.golem.de/2611/214970-607390-607388_rc.jpg"
+  },
+  {
+   "id": "n1acf90cfa1",
+   "topic": "welt",
+   "title": "Mali: Fast 4.000 Vertriebene nach Angriff auf Souleye",
+   "text": "In Mali sollen fast 4000 Vertriebene in Macina und Sarro in der Region Ségou im Zentrum des Landes Zuflucht gefunden haben - vor allem Frauen und Kinder, die vor dem Angriff auf das Dorf Souleye geflohen sind.",
+   "link": "https://www.dw.com/de/mali-fast-4-000-vertriebene-nach-angriff-auf-souleye/a-79854085?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-08T13:37:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-12T13:37:00+00:00",
+   "img": "https://static.dw.com/image/59152594_302.jpg"
+  },
+  {
+   "id": "n4c07427704",
+   "topic": "welt",
+   "title": "Ukraine: AKW Saporischschja wieder vom Strom abgetrennt",
+   "text": "Das von russischen Einheiten kontrollierte ukrainische Atomkraftwerk Saporischschja muss abermals mit Notstromaggregaten versorgt werden. Die Gründe hierfür sind noch nicht bekannt.",
+   "link": "https://www.dw.com/de/ukraine-akw-saporischschja-wieder-vom-strom-abgetrennt/a-79890404?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-08T13:20:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-12T13:20:00+00:00",
+   "img": "https://static.dw.com/image/65845532_302.jpg"
+  },
+  {
+   "id": "n6b97c633e3",
+   "topic": "welt",
+   "title": "Moskau: Gedenktafel erinnert an DDR-Spionagechef Wolf",
+   "text": "Die DDR-Diktatur ist seit mehr als drei Jahrzehnten Geschichte. Markus Wolf, einer ihrer führenden Repräsentanten, wird nun in Moskau geehrt.",
+   "link": "https://www.dw.com/de/moskau-gedenktafel-erinnert-an-ddr-spionagechef-wolf/a-79890319?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-08T13:02:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-12T13:02:00+00:00",
+   "img": "https://static.dw.com/image/79890296_302.jpg"
+  },
+  {
+   "id": "n6d2bc0b92c",
+   "topic": "ki",
+   "title": "KI mit Bewusstsein: Chatbots sind Spiegel der Trainingsdaten, keine fühlenden Wesen",
+   "text": "Die drei prominenten Bewusstseinsforscher Anil Seth, Ned Block und Giulio Tononi argumentieren in einem Nature-Kommentar, dass heutige KI-Systeme nicht bewusst sind und es auf Silizium-Hardware auch nicht werden. Sie halten die Annahme, Bewusstsein hänge allein von Berechnungen ab, für \"fatal fehlerhaft\" und warnen …",
+   "link": "https://the-decoder.de/ki-mit-bewusstsein-chatbots-sind-spiegel-der-trainingsdaten-keine-fuehlenden-wesen/",
+   "published": "2026-11-08T12:31:21+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-15T12:31:21+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/ai_consciousness.png"
+  },
+  {
+   "id": "n3c80bc6052",
+   "topic": "welt",
+   "title": "Russische Luftangriffe: Erneut Hunderttausende Ukrainer ohne Strom",
+   "text": "Erneut hat Russland die ukrainische Energieversorgung schwer getroffen. In der Region Dnipropetrowsk haben 600.000 Menschen keinen Strom. Das besetzte Atomkraftwerk Saporischschja muss mit Notstromaggregaten gekühlt werden.",
+   "link": "https://www.tagesschau.de/ausland/europa/ukraine-stromausfall-120.html",
+   "published": "2026-11-08T12:05:57+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-11T12:05:57+00:00",
+   "img": "https://images.tagesschau.de/image/191b788d-eaa3-44e0-8d43-2c000d71fd4a/AAABobrngk4/AAABnSSvrFg/16x9-big/stadt-stromausfall-100.jpg?width=1920"
+  },
+  {
+   "id": "nc813f98b4a",
+   "topic": "welt",
+   "title": "Schüsse in Krakau: Staatsanwaltschaft geht Terrorismusverdacht nach",
+   "text": "Nach den Schüssen in Krakau geht die Staatsanwaltschaft von Terrorismus aus. Sechs Menschen starben. Es gibt Hinweise auf eine \"sehr radikale\" Gesinnung des Schützen. Auch drei Familienmitglieder wurden erschossen.",
+   "link": "https://www.tagesschau.de/ausland/europa/krakau-schuesse-trauer-102.html",
+   "published": "2026-11-08T11:19:37+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-11T11:19:37+00:00",
+   "img": "https://images.tagesschau.de/image/8e7acc0b-1350-4eb2-b37a-a80548dbbca8/AAABobrio8o/AAABnSSvrFg/16x9-big/krakau-schuesse-marktplatz-108.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Polen - Polizei bestätigt: Familie des Todesschützen von Krakau ist tot",
+     "link": "https://www.deutschlandfunk.de/polizei-bestaetigt-familie-des-todesschuetzen-von-krakau-ist-tot-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Polen: Schütze feuert in Krakau aus Auto - mehrere Tote",
+     "link": "https://www.dw.com/de/polen-schütze-feuert-in-krakau-aus-auto-mehrere-tote/a-79887202?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "nc5a90ddfae",
+   "topic": "ki",
+   "title": "Erfinder der \"bitteren Lektion\" warnt: KI-Wissenschaft ist noch lange nicht am Ziel",
+   "text": "Turing-Preisträger Richard Sutton bekräftigt: Rohe Rechenkraft allein reiche nicht für Intelligenz, es benötige grundlegend neue Lernverfahren. Ex-OpenAI-Forscher Tworek pflichtet bei: Blinde Transformer-Skalierung habe \"einer ganzen Generation von Wissenschaftlern den Verstand vernebelt\". Eine wachsende …",
+   "link": "https://the-decoder.de/erfinder-der-bitteren-lektion-warnt-ki-wissenschaft-ist-noch-lange-nicht-am-ziel/",
+   "published": "2026-11-08T11:05:41+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-15T11:05:41+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/11/ai_scaling_bitter_lesson-2.png"
+  },
+  {
+   "id": "nf3851c49d1",
+   "topic": "welt",
+   "title": "US-Militär attackiert Handelsschiff im Golf von Oman",
+   "text": "Im Golf von Oman hat das US-Militär auf ein Handelsschiff gefeuert, das gegen die US-Seeblockade verstoßen haben soll. Iran meldet den Brand zweier Frachter in der Straße von Hormus. Huthis greifen die saudische Hauptstadt Riad an.",
+   "link": "https://www.tagesschau.de/ausland/asien/usa-iran-seeblockade-angriff-handelsschiff-100.html",
+   "published": "2026-11-08T11:04:42+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-11T11:04:42+00:00",
+   "img": "https://images.tagesschau.de/image/15a557c5-1453-4cec-8231-10da1cbc3d08/AAABobrU-hk/AAABnSSvrFg/16x9-big/iran-schiff-100.jpg?width=1920"
+  },
   {
    "id": "n2091693859",
    "topic": "politik",
@@ -59,9 +538,14 @@
    "img": "https://bilder.deutschlandfunk.de/15/1b/7d/c9/151b7dc9-7817-4948-a554-a53742164076/gadi-eisenkot-104-1920x1920.jpg",
    "also": [
     {
+     "source": "Deutsche Welle",
+     "title": "Israel: Netanjahu-Rivale Gadi Eisenkot soll Regierung bilden",
+     "link": "https://www.dw.com/de/israel-netanjahu-rivale-gadi-eisenkot-soll-regierung-bilden/a-79889744?maca=de-rss-de-all-1119-xml-mrss"
+    },
+    {
      "source": "Tagesschau",
-     "title": "Oppositionsführer Eisenkot soll Israels neue Regierung bilden",
-     "link": "https://www.tagesschau.de/ausland/asien/regierungsbildung-israel-eisenkot-100.html"
+     "title": "Israel: Oppositionsführer Eisenkot soll neue Regierung bilden",
+     "link": "https://www.tagesschau.de/ausland/asien/israel-auftrag-regierungsbildung-eisenkot-100.html"
     }
    ]
   },
@@ -106,8 +590,8 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Nach Schüssen in Krakau: Eine Stadt steht unter Schock",
-     "link": "https://www.tagesschau.de/ausland/europa/polen-krakau-schuesse-102.html"
+     "title": "Schüsse in Krakau: Staatsanwaltschaft geht Terrorismusverdacht nach",
+     "link": "https://www.tagesschau.de/ausland/europa/krakau-schuesse-trauer-102.html"
     },
     {
      "source": "Deutsche Welle",
@@ -426,19 +910,6 @@
    "img": "https://static.dw.com/image/70681333_302.jpg"
   },
   {
-   "id": "nf3851c49d1",
-   "topic": "welt",
-   "title": "US-Militär attackiert Handelsschiff im Golf von Oman",
-   "text": "Im Golf von Oman hat das US-Militär auf ein Handelsschiff gefeuert, das gegen die US-Seeblockade verstoßen haben soll. Iran meldet unterdessen, dass zwei Frachter in der Straße von Hormus in Brand geraten seien.",
-   "link": "https://www.tagesschau.de/ausland/asien/usa-iran-seeblockade-angriff-handelsschiff-100.html",
-   "published": "2026-11-08T06:01:58+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-11T06:01:58+00:00",
-   "img": "https://images.tagesschau.de/image/2ac8994a-5ea1-4474-abc0-16b6fb5d6b79/AAABnKpubcc/AAABnSSvrFg/16x9-big/strasse-von-hormus-104.jpg?width=1920"
-  },
-  {
    "id": "n6b83eaf20f",
    "topic": "welt",
    "title": "Bankenskandal in Paraguay: Ex-Präsident Peña muss in Untersuchungshaft",
@@ -580,8 +1051,8 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Nach Schüssen in Krakau: Eine Stadt steht unter Schock",
-     "link": "https://www.tagesschau.de/ausland/europa/polen-krakau-schuesse-102.html"
+     "title": "Schüsse in Krakau: Staatsanwaltschaft geht Terrorismusverdacht nach",
+     "link": "https://www.tagesschau.de/ausland/europa/krakau-schuesse-trauer-102.html"
     },
     {
      "source": "Deutsche Welle",
@@ -589,19 +1060,6 @@
      "link": "https://www.dw.com/de/polen-schütze-feuert-in-krakau-aus-auto-mehrere-tote/a-79887202?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
-  },
-  {
-   "id": "nc88041795f",
-   "topic": "politik",
-   "title": "Steinmeier-Nachfolge - CDU-Präsidium berät in Berlin",
-   "text": "In Berlin kommt am Abend das CDU-Präsidium zu Beratungen über die Nachfolge von Bundespräsident Steinmeier zusammen.",
-   "link": "https://www.deutschlandfunk.de/cdu-praesidium-beraet-in-berlin-100.html",
-   "published": "2026-11-07T23:10:21+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-09T23:10:21+00:00",
-   "img": "https://bilder.deutschlandfunk.de/74/af/be/3d/74afbe3d-056c-4fcf-8a34-7d20243222a5/berlin-koalitionsgespraeche-koalitionsverhandlungen-cdu-zentrale-spd-100-1920x1920.jpg"
   },
   {
    "id": "n486d69b429",
@@ -658,7 +1116,19 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-10T23:00:48+00:00",
-   "img": "https://images.tagesschau.de/image/035bdba7-3beb-4918-8149-fb5ddb739cac/AAABobaqOgE/AAABnSSvrFg/16x9-big/einsatzkraefte-historisches-stadtzentrum-102.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/035bdba7-3beb-4918-8149-fb5ddb739cac/AAABobaqOgE/AAABnSSvrFg/16x9-big/einsatzkraefte-historisches-stadtzentrum-102.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Polen - Polizei bestätigt: Familie des Todesschützen von Krakau ist tot",
+     "link": "https://www.deutschlandfunk.de/polizei-bestaetigt-familie-des-todesschuetzen-von-krakau-ist-tot-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Polen: Schütze feuert in Krakau aus Auto - mehrere Tote",
+     "link": "https://www.dw.com/de/polen-schütze-feuert-in-krakau-aus-auto-mehrere-tote/a-79887202?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
   },
   {
    "id": "n53c33ad9c5",
@@ -738,8 +1208,13 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Jerusalem - Israels Präsident Herzog beauftragt Oppositionspolitiker Eisenkot mit Regierungsbildung",
-     "link": "https://www.deutschlandfunk.de/israels-praesident-herzog-beauftragt-oppositionspolitiker-eisenkot-mit-regierungsbildung-106.html"
+     "title": "Israel - Oppositionspolitiker Eisenkot erhält offiziell Auftrag zur Regierungsbildung - \"Werde Israel aus der Krise führen\"",
+     "link": "https://www.deutschlandfunk.de/oppositionspolitiker-eisenkot-erhaelt-offiziell-auftrag-zur-regierungsbildung-werde-israel-aus-der-k-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Israel: Netanjahu-Rivale Gadi Eisenkot soll Regierung bilden",
+     "link": "https://www.dw.com/de/israel-netanjahu-rivale-gadi-eisenkot-soll-regierung-bilden/a-79889744?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -811,8 +1286,8 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Nach Schüssen in Krakau: Eine Stadt steht unter Schock",
-     "link": "https://www.tagesschau.de/ausland/europa/polen-krakau-schuesse-102.html"
+     "title": "Schüsse in Krakau: Staatsanwaltschaft geht Terrorismusverdacht nach",
+     "link": "https://www.tagesschau.de/ausland/europa/krakau-schuesse-trauer-102.html"
     },
     {
      "source": "Deutsche Welle",
@@ -996,14 +1471,14 @@
    "img": "https://static.dw.com/image/79887089_302.jpg",
    "also": [
     {
+     "source": "Tagesschau",
+     "title": "Schüsse in Krakau: Staatsanwaltschaft geht Terrorismusverdacht nach",
+     "link": "https://www.tagesschau.de/ausland/europa/krakau-schuesse-trauer-102.html"
+    },
+    {
      "source": "Deutschlandfunk",
      "title": "Polen - Polizei bestätigt: Familie des Todesschützen von Krakau ist tot",
      "link": "https://www.deutschlandfunk.de/polizei-bestaetigt-familie-des-todesschuetzen-von-krakau-ist-tot-100.html"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Nach Schüssen in Krakau: Eine Stadt steht unter Schock",
-     "link": "https://www.tagesschau.de/ausland/europa/polen-krakau-schuesse-102.html"
     }
    ]
   },
@@ -1270,14 +1745,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-09T12:59:17+00:00",
-   "img": "https://bilder.deutschlandfunk.de/30/73/bc/f9/3073bcf9-0f13-4c23-96c4-a51486ac82cb/stephen-miller-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Trump setzt Stabschefin des Weißen Hauses vor die Tür",
-     "link": "https://www.dw.com/de/trump-setzt-stabschefin-des-weißen-hauses-vor-die-tür/a-79883871?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/30/73/bc/f9/3073bcf9-0f13-4c23-96c4-a51486ac82cb/stephen-miller-100-1920x1920.jpg"
   },
   {
    "id": "n9a92244a89",
@@ -1357,430 +1825,6 @@
    "lang": "de",
    "expires": "2026-11-12T12:27:02+00:00",
    "img": "https://www.golem.de/2611/214962-607354-607352_rc.jpg"
-  },
-  {
-   "id": "n3c32529ed0",
-   "topic": "nfl",
-   "title": "Bengals News: Cincinnati goes International",
-   "text": "The Bengals are getting prepped to take on the Falcons in Spain this Sunday.",
-   "link": "https://sports.yahoo.com/articles/bengals-news-cincinnati-goes-international-121900820.html",
-   "published": "2026-11-07T12:19:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-12T12:19:00+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/34519a721e2a2d7a69f5f9d7dcea3050.jpg"
-  },
-  {
-   "id": "n78a606015a",
-   "topic": "welt",
-   "title": "Schwere Schäden nach Raketenangriffen auf Kiew",
-   "text": "Russland hat kurz vor Wintereinbruch erneut die ukrainische Strom- und Wasserversorgung angegriffen. In einigen Teilen des Landes fiel der Strom aus. Präsident Selenskyj und Kiews Bürgermeister Klitschko streiten über die Verteidigung.",
-   "link": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html",
-   "published": "2026-11-07T12:13:38+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-10T12:13:38+00:00",
-   "img": "https://images.tagesschau.de/image/5c28c4b2-5237-4160-9e05-4876625a031a/AAABobTGlpg/AAABnSSvrFg/16x9-big/ukraine-angriffe-216.jpg?width=1920"
-  },
-  {
-   "id": "n24c84a7336",
-   "topic": "wissenschaft",
-   "title": "Angriff auf Hugging Face: Der größte KI-Hack ist deutlich beunruhigender als gedacht",
-   "text": "Hunderte KI-Agenten griffen Hugging Face an. Zunächst schien klar, wonach sie suchten. Doch eine unabhängige Untersuchung offenbart ein weitaus beunruhigenderes Motiv.",
-   "link": "https://www.spektrum.de/news/ki-agenten-hackten-hugging-face-um-ihre-taten-zu-vertuschen/2352869",
-   "published": "2026-11-07T12:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-21T12:00:00+00:00"
-  },
-  {
-   "id": "n641eb14466",
-   "topic": "it",
-   "title": "Amsterdam: Eskalation vor Microsoft-RZ-Baustelle endet mit 200 Festnahmen",
-   "text": "Was als Demonstration gegen ein neues Rechenzentrum begann, mündete in Amsterdam in einen der größten Polizeieinsätze der jüngsten Zeit. ( Microsoft , Rechenzentrum )",
-   "link": "https://www.golem.de/news/amsterdam-eskalation-vor-microsoft-rz-baustelle-endet-mit-200-festnahmen-2611-214961.html",
-   "published": "2026-11-07T11:53:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-12T11:53:02+00:00",
-   "img": "https://www.golem.de/2611/214961-607342-607340_rc.jpg",
-   "also": [
-    {
-     "source": "heise online",
-     "title": "Protest gegen Microsoft-Rechenzentrum in Amsterdam – viele Festnahmen",
-     "link": "https://www.heise.de/news/Protest-gegen-Microsoft-Rechenzentrum-in-Amsterdam-viele-Festnahmen-11516304.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    }
-   ]
-  },
-  {
-   "id": "n27a5ff7a07",
-   "topic": "it",
-   "title": "Drohnen-Vorfall in Leipzig: BKA fahndet mit KI-Bild",
-   "text": "Nachdem im August am Flughafen Leipzig/Halle eine Drohne mit Sprengstoff gefunden wurde, fahndet das BKA nun mit KI-Bildern von Verdächtigen.",
-   "link": "https://www.heise.de/news/BKA-fahndet-nach-Drohnen-Vorfall-in-Leipzig-mit-KI-Bild-11516328.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-07T11:37:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-12T11:37:00+00:00"
-  },
-  {
-   "id": "n92b5200977",
-   "topic": "politik",
-   "title": "Ilse Aigner im Porträt: Krisenerprobt, bürgernah - und bald Staatsoberhaupt?",
-   "text": "Ilse Aigner hat beste Chancen, die erste Bundespräsidentin Deutschlands zu werden. Obwohl sie bereits hohe Ämter auf Bundes- und Landesebene innehatte, stand sie nie in allererster Reihe. Ein Porträt von Anita Fünffinger.",
-   "link": "https://www.tagesschau.de/inland/ilse-aigner-portraet-100.html",
-   "published": "2026-11-07T11:30:37+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-10T11:30:37+00:00",
-   "img": "https://images.tagesschau.de/image/63349e36-d85c-4d78-ae34-e74ef5be0d6e/AAABobXFrsg/AAABnSSvrFg/16x9-big/ilse-aigner-308.jpg?width=1920"
-  },
-  {
-   "id": "n08dc61eabc",
-   "topic": "ki",
-   "title": "Feintuning gegen Propaganda: US-Start-up trainiert Alibabas Qwen-Modell auf \"westliche Werte\" um",
-   "text": "Nous Research hat mit Arete-27B Alibabas Qwen3.8-27B so nachtrainiert, dass die pro-chinesische Prägung weitgehend verschwindet: Die Propagandaquote sank von 22 auf unter ein Prozent, die allgemeinen Fähigkeiten blieben laut Tests erhalten. Dafür reichten 53 Millionen Token überwachtes Feintuning. Die politische …",
-   "link": "https://the-decoder.de/feintuning-gegen-propaganda-us-start-up-trainiert-alibabas-qwen-modell-auf-westliche-werte-um/",
-   "published": "2026-11-07T11:06:45+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-14T11:06:45+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/11/arete-27b-01-hero.jpg"
-  },
-  {
-   "id": "n82c0aeb873",
-   "topic": "welt",
-   "title": "Bandenchef bittet UN um Vermittlung in Haiti",
-   "text": "In Haiti werden nach einem Bandenangriff vier salvadorianische Militärangehörige vermisst. Um sie zu retten, schickt Präsident Bukele weitere Soldaten ins Land und droht den Gangs. Ein Bandenchef reagiert nun mit einem Brief an die UN. Von A. Demmer.",
-   "link": "https://www.tagesschau.de/ausland/amerika/haiti-banden-vereinte-nationen-100.html",
-   "published": "2026-11-07T10:51:13+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-10T10:51:13+00:00",
-   "img": "https://images.tagesschau.de/image/73d0bee3-e219-4c15-a9b1-f2f303685d6f/AAABobWYY5E/AAABnSSvrFg/16x9-big/soldaten-transportflugzeuge-100.jpg?width=1920"
-  },
-  {
-   "id": "n0e68300e8a",
-   "topic": "it",
-   "title": "Protest gegen Microsoft-Rechenzentrum in Amsterdam – viele Festnahmen",
-   "text": "Hunderte dringen auf die Baustelle eines Microsoft-Rechenzentrums in Amsterdam vor, die Polizei nimmt bis zu 200 Menschen fest. Was trieb die beiden Gruppen an?",
-   "link": "https://www.heise.de/news/Protest-gegen-Microsoft-Rechenzentrum-in-Amsterdam-viele-Festnahmen-11516304.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-07T10:31:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-12T10:31:00+00:00",
-   "also": [
-    {
-     "source": "Golem.de",
-     "title": "Amsterdam: Eskalation vor Microsoft-RZ-Baustelle endet mit 200 Festnahmen",
-     "link": "https://www.golem.de/news/amsterdam-eskalation-vor-microsoft-rz-baustelle-endet-mit-200-festnahmen-2611-214961.html"
-    }
-   ]
-  },
-  {
-   "id": "nab7049aec5",
-   "topic": "welt",
-   "title": "Trump setzt Stabschefin des Weißen Hauses vor die Tür",
-   "text": "Wenige Tage nach dem verheerenden Wahldebakel seiner Republikaner macht US-Präsident Donald Trump einen politischen Hardliner zu seinem Türhüter im Oval Office. Die Opposition faucht.",
-   "link": "https://www.dw.com/de/trump-setzt-stabschefin-des-weißen-hauses-vor-die-tür/a-79883871?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-07T10:24:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-11T10:24:00+00:00",
-   "img": "https://static.dw.com/image/77602450_302.jpg",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Nach Entlassung von Stabschefin Wiles - Trump rückt rechten Hardliner Stephen Miller ins Zentrum des Machtzirkels",
-     "link": "https://www.deutschlandfunk.de/trump-rueckt-rechten-hardliner-stephen-miller-ins-zentrum-des-machtzirkels-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n07f08992da",
-   "topic": "ki",
-   "title": "Benchmark lässt KI-Agenten an offenen Forschungsfragen arbeiten – keine einzige Einreichung erfüllt alle Anforderungen",
-   "text": "Der Benchmark \"Into the Unknown\" lässt neun KI-Agenten offene Forschungsfragen aus US-Nationallaboren bearbeiten. Keine der 135 Einreichungen erfüllt alle Anforderungen. 114 Arbeiten fallen bereits bei der Integritätsprüfung durch: Die Agenten behaupten Experimente, die nie stattfanden. GPT-6 Astra schneidet noch am …",
-   "link": "https://the-decoder.de/benchmark-laesst-ki-agenten-an-offenen-forschungsfragen-arbeiten-keine-einzige-einreichung-erfuellt-alle-anforderungen/",
-   "published": "2026-11-07T10:11:42+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-14T10:11:42+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/into-the-unknown-scientific-papers-benchmark-nano-banana-pro.jpg"
-  },
-  {
-   "id": "n3d6b490fa4",
-   "topic": "politik",
-   "title": "Katastrophenübung: Was wäre, wenn eine Dürre Deutschland lahmlegt?",
-   "text": "Jahrelang kaum Regen in Deutschland, heiße Sommer und dann seit Wochen eine extreme Hitzewelle. Das ist das Szenario von LÜKEX, einer Übung, die das Krisenmanagement von 180 beteiligten Organisationen verbessern soll. Von P. Sonnenberg.",
-   "link": "https://www.tagesschau.de/inland/gesellschaft/hitze-duerre-ausnahmezustand-krisenmanagement-100.html",
-   "published": "2026-11-07T09:44:35+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-10T09:44:35+00:00",
-   "img": "https://images.tagesschau.de/image/ced7e003-2805-42cf-8d4a-136cf8aaf057/AAABobDXrcI/AAABnSSvrFg/16x9-big/duerre-rhein-100.jpg?width=1920"
-  },
-  {
-   "id": "nbb23cbed43",
-   "topic": "politik",
-   "title": "Hubig will geleakte E-Mails zur Prüfung von AfD-Verbotsverfahren nutzen",
-   "text": "Justizministerin Hubig wirbt dafür, ein AfD-Verbotsverfahren zu prüfen - gegebenenfalls auch mithilfe der von Hackern veröffentlichten Mails aus den Reihen der Partei. In der schwarz-roten Koalition ist ein Verbotsverfahren jedoch umstritten.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/hubig-afd-verbotsverfahren-leak-100.html",
-   "published": "2026-11-07T09:28:52+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-10T09:28:52+00:00",
-   "img": "https://images.tagesschau.de/image/cc62aaec-9be1-4ab8-9152-b85193c4ac4d/AAABobVW4eg/AAABnSSvrFg/16x9-big/spd-hubig-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Bundesjustizministerin - Hubig will AfD-Leaks für Prüfung von Parteiverbot nutzen",
-     "link": "https://www.deutschlandfunk.de/hubig-will-afd-leaks-fuer-pruefung-von-parteiverbot-nutzen-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n787d651dfc",
-   "topic": "it",
-   "title": "Kameramarkt wächst, Canon und Nikon updaten – Fotonews der Woche 45/2026",
-   "text": "Kameraverkäufe steigen weltweit, Canon und Nikon bringen Firmware-Updates, Sony World Photography Awards ehren James Barnor.",
-   "link": "https://www.heise.de/news/Kameramarkt-waechst-Canon-und-Nikon-updaten-Fotonews-der-Woche-45-2026-11515640.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-07T09:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-12T09:00:00+00:00"
-  },
-  {
-   "id": "nb23ea7561b",
-   "topic": "welt",
-   "title": "Was passiert bei einer Bombendrohung im Flugzeug?",
-   "text": "Die Bombendrohungen im europäischen Luftverkehr alarmieren Behörden - und verunsichern Passagiere. Gibt es solche Vorfälle öfter? Und was passiert bei einer Bombendrohung an Bord? Ein Überblick über die wichtigsten Fragen.",
-   "link": "https://www.tagesschau.de/ausland/bombendrohungen-faq-100.html",
-   "published": "2026-11-07T08:10:26+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-10T08:10:26+00:00",
-   "img": "https://images.tagesschau.de/image/09372948-5e30-4d1a-a149-94422fc7b84a/AAABobQRL9c/AAABnSSvrFg/16x9-big/flugzeug-193.jpg?width=1920"
-  },
-  {
-   "id": "n361ae54211",
-   "topic": "welt",
-   "title": "News kompakt: Neuseeland vor knappem Wahlausgang",
-   "text": "Laut Hochrechnungen liegen National Party und Labour bei der neuseeländischen Parlamentswahl fast gleichauf. Die DW verurteilt das belarussische Vorgehen gegen Mitarbeiterinnen des Senders. Der DW-Nachrichtenüberblick.",
-   "link": "https://www.dw.com/de/news-kompakt-neuseeland-vor-knappem-wahlausgang/a-79883515?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-07T08:09:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-11T08:09:00+00:00",
-   "img": "https://static.dw.com/image/79883321_302.jpg"
-  },
-  {
-   "id": "n9e4687ad3d",
-   "topic": "wissenschaft",
-   "title": "Reich durch heiße Luft",
-   "text": "Wer erfand die Ammoniaksynthese und konnte damit Leben retten, aber auch vernichten?",
-   "link": "https://www.spektrum.de/raetsel/reich-durch-heisse-luft-ammoniaksynthese/2338501",
-   "published": "2026-11-07T07:50:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-21T07:50:00+00:00"
-  },
-  {
-   "id": "n4c25de438a",
-   "topic": "wissenschaft",
-   "title": "Wie lang ist die Teilstrecke?",
-   "text": "Wie lässt sich die Länge der Strecke ermitteln?",
-   "link": "https://www.spektrum.de/raetsel/wie-lang-ist-die-teilstrecke/2292026",
-   "published": "2026-11-07T07:02:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-21T07:02:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/2000x857-558.jpg.8421544.jpg?f=1280x720"
-  },
-  {
-   "id": "neeadf3771f",
-   "topic": "welt",
-   "title": "Gesundheitsbehörde: Größter Masernausbruch in den USA seit 35 Jahren",
-   "text": "Die USA erleben laut der Gesundheitsbehörde CDC den größten Masernausbruch seit 1991. Im Laufe des Jahres wurden bereits 5.182 Krankheitsfälle registriert. In Wisconsin starb erstmals seit mehr als dreieinhalb Jahrzehnten ein Baby.",
-   "link": "https://www.tagesschau.de/ausland/amerika/usa-masern-100.html",
-   "published": "2026-11-07T06:01:55+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-10T06:01:55+00:00",
-   "img": "https://images.tagesschau.de/image/dda9c1bf-5f7a-4eb5-996d-5b26807a5c39/AAABobQ9m2c/AAABnSSvrFg/16x9-big/cdc-100.jpg?width=1920"
-  },
-  {
-   "id": "ne12bce8f92",
-   "topic": "politik",
-   "title": "Provinz Taiz - Viele Tote nach Angriffen auf Markt im Jemen",
-   "text": "Im Jemen sind bei Luftangriffen auf einen Markt in der Provinz Taiz zahlreiche Menschen getötet worden.",
-   "link": "https://www.deutschlandfunk.de/viele-tote-nach-angriffen-auf-markt-im-jemen-102.html",
-   "published": "2026-11-07T05:54:03+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-09T05:54:03+00:00",
-   "img": "https://bilder.deutschlandfunk.de/86/31/5f/36/86315f36-9968-4cf6-862e-280362482da3/jemen-taiz-tais-rotes-kreuz-hilfslieferung-besatzung-100-1920x1920.jpg"
-  },
-  {
-   "id": "n8aad722ec9",
-   "topic": "politik",
-   "title": "Europaweite Vorfälle - Gefährliche Metallteile in Halloween-Süßigkeiten: Polizei prüft Einfluss von Sozialen Medien oder Chatgruppen",
-   "text": "Die Serie von Halloween-Süßigkeiten, in die gefährliche Metallobjekte gesteckt wurden, könnte durch Beiträge in Sozialen Medien oder Chatgruppen angeregt worden sein.",
-   "link": "https://www.deutschlandfunk.de/gefaehrliche-metallteile-in-halloween-suessigkeiten-polizei-prueft-einfluss-von-sozialen-medien-oder-100.html",
-   "published": "2026-11-07T05:54:03+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-09T05:54:03+00:00",
-   "img": "https://bilder.deutschlandfunk.de/89/c8/be/87/89c8be87-d971-468d-ac7d-bba5b89bf220/halloween-suessigkeiten-suesses-oder-saures-kinder-brauch-100-1920x1920.jpg"
-  },
-  {
-   "id": "n361ae89d61",
-   "topic": "politik",
-   "title": "Medienbericht - Geheimdienste schalten sich ein nach Cyberangriffen auf Kühlregale in deutschen Supermärkten",
-   "text": "Die Cyberangriffe auf deutsche Supermärkte beschäftigen einem Medienbericht zufolge inzwischen die Geheimdienste.",
-   "link": "https://www.deutschlandfunk.de/geheimdienste-schalten-sich-ein-nach-cyberangriffen-auf-kuehlregale-in-deutschen-supermaerkten-100.html",
-   "published": "2026-11-07T05:54:03+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-09T05:54:03+00:00",
-   "img": "https://bilder.deutschlandfunk.de/67/f2/16/d5/67f216d5-1e2d-4b3c-bba3-b8d286320902/supermarkt-kuehlung-cyberangriff-100-1920x1920.jpg"
-  },
-  {
-   "id": "n357875ccfd",
-   "topic": "politik",
-   "title": "Soldatinnen und Soldaten - Pistorius rechnet nicht mit Rückkehr zur Wehrpflicht: Bundeswehr kann Personalbedarf auch so decken",
-   "text": "Bundesverteidigungsminister Pistorius hat sich zuversichtlich geäußert, dass die Bundeswehr ihren Personalbedarf auch künftig ohne Rückkehr zur Wehrpflicht decken kann. Man habe aktuell mit rund 190.000 Soldatinnen und Soldaten den höchsten Stand seit 13 Jahren.",
-   "link": "https://www.deutschlandfunk.de/pistorius-rechnet-nicht-mit-rueckkehr-zur-wehrpflicht-bundeswehr-kann-personalbedarf-auch-so-decken-100.html",
-   "published": "2026-11-07T05:54:03+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-09T05:54:03+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Pistorius rechnet derzeit nicht mit Rückkehr zur Wehrpflicht",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-diskussion-wehrpflicht-100.html"
-    }
-   ]
-  },
-  {
-   "id": "nd2a7bd7c3c",
-   "topic": "politik",
-   "title": "Bundesjustizministerin - Hubig will AfD-Leaks für Prüfung von Parteiverbot nutzen",
-   "text": "Bundesjustizministerin Hubig will die im Internet veröffentlichten E-Mails der AfD für die Prüfung eines Verbotsverfahrens gegen die Partei nutzen.",
-   "link": "https://www.deutschlandfunk.de/hubig-will-afd-leaks-fuer-pruefung-von-parteiverbot-nutzen-100.html",
-   "published": "2026-11-07T05:54:03+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-09T05:54:03+00:00",
-   "img": "https://bilder.deutschlandfunk.de/94/e4/98/a5/94e498a5-e8fa-4eb5-8b26-461c3a5e5feb/justizministerin-hubig-104-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Hubig will geleakte E-Mails zur Prüfung von AfD-Verbotsverfahren nutzen",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/hubig-afd-verbotsverfahren-leak-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n98776bc838",
-   "topic": "politik",
-   "title": "USA - Vater von Herzogin Meghan festgenommen - Aufnahmen von Kindesmissbrauch entdeckt",
-   "text": "Der Vater der britischen Herzogin Meghan, Thomas Markle, ist in den USA wegen des Verdachts auf Besitz von kinderpornografischem Material vorübergehend festgenommen worden.",
-   "link": "https://www.deutschlandfunk.de/vater-von-herzogin-meghan-festgenommen-aufnahmen-von-kindesmissbrauch-entdeckt-100.html",
-   "published": "2026-11-07T05:54:03+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-09T05:54:03+00:00",
-   "img": "https://bilder.deutschlandfunk.de/NO/VA/_3/8c/NOVA_38ce99802e2fa942fb5c2f54e439fd0b/craft-13319474-asset-100-1920x1920.jpg"
-  },
-  {
-   "id": "n56d30333e0",
-   "topic": "it",
-   "title": "Smart Glasses zwischen Teilhabe, Missbrauch und Lifestyle | c't uplink",
-   "text": "Manche Menschen fürchten lückenlose Überwachung durch KI-Brillen, andere genießen dank der Technik mehr Lebensqualität. Der c’t uplink beleuchtet das Thema.",
-   "link": "https://www.heise.de/news/Smart-Glasses-zwischen-Teilhabe-Missbrauch-und-Lifestyle-c-t-uplink-11514694.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-07T05:30:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-12T05:30:00+00:00"
-  },
-  {
-   "id": "n35ceaeaf4f",
-   "topic": "welt",
-   "title": "Wiedergutmachung: Polnische NS-Opfer appellieren an die deutsche Zivilgesellschaft",
-   "text": "Polnische NS-Opfer warten auf \"humanitäre Geste\" aus Deutschland, doch im Haushaltsentwurf 2027 gibt es dafür kein Geld. Nun richten sie einen Hilferuf an die deutsche Zivilgesellschaft. Grüne sehen noch eine Chance.",
-   "link": "https://www.dw.com/de/wiedergutmachung-polnische-ns-opfer-appellieren-an-die-deutsche-zivilgesellschaft/a-79874489?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-07T05:23:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-11T05:23:00+00:00",
-   "img": "https://static.dw.com/image/72232464_302.jpg"
-  },
-  {
-   "id": "n21adb6e3cb",
-   "topic": "nfl",
-   "title": "The Vikings could be ready to make a trade for a quarterback, if they lose Monday night",
-   "text": "Tuesday could become very interesting, absent a Carson Wentz-led win vs. the Bills.",
-   "link": "https://sports.yahoo.com/articles/vikings-could-ready-trade-quarterback-050648342.html",
-   "published": "2026-11-07T05:06:48+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-12T05:06:48+00:00"
-  },
-  {
-   "id": "n552ab614bd",
-   "topic": "welt",
-   "title": "Trumps neuer Stabschef Miller: \"Ein Warnschuss in Richtung des künftigen Kongresses\"",
-   "text": "Auf Stabschefin Wiles folgt Hardliner Miller: Mit dieser Entscheidung reagiert Trump auf das Wahldebakel seiner Partei - und geht auf Konfrontationskurs zu den Demokraten. Doch auch Republikanern stößt die Personalie auf. Von C. Kühntopp.",
-   "link": "https://www.tagesschau.de/ausland/amerika/trump-miller-100.html",
-   "published": "2026-11-07T04:19:10+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-10T04:19:10+00:00",
-   "img": "https://images.tagesschau.de/image/9ba4af40-35be-4904-aca1-68b56c386797/AAABobQmDNQ/AAABnSSvrFg/16x9-big/trump-miller-102.jpg?width=1920"
-  },
-  {
-   "id": "n6981a8ec34",
-   "topic": "nfl",
-   "title": "Bears plan to work out defensive tackle Jordan Elliott",
-   "text": "The Bears intend to work out former Titans defensive tackle Jordan Elliott, who was released last month after a gun-related incident.",
-   "link": "https://sports.yahoo.com/articles/bears-plan-defensive-tackle-jordan-040848622.html",
-   "published": "2026-11-07T04:08:48+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-12T04:08:48+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/f6f236e049d834b1074cb7b484d58996.jpg"
   }
  ]
 }
