@@ -1,55 +1,342 @@
 {
- "generated": "2026-11-08T17:55:58.887448+00:00",
+ "generated": "2026-11-08T22:06:16.171504+00:00",
  "briefing": [
-  "n3ec5331b3d",
+  "n91ccbd72a6",
   "ne68a8d456a",
+  "n3ec5331b3d",
   "n24f9420b2a",
   "nfa11854188",
-  "nea2ff650f6",
-  "nafc1d765ea",
-  "nefe2bd5e11",
-  "n6214d8e8d6",
-  "ne3ad5ea6fb"
+  "nab29239f15",
+  "nfb74d159f0",
+  "n575cc88483"
  ],
  "ranked": [
   {
-   "id": "n3ec5331b3d",
-   "s": 38.0
+   "id": "n91ccbd72a6",
+   "s": 42.5
   },
   {
    "id": "ne68a8d456a",
-   "s": 37.6
+   "s": 37.0
+  },
+  {
+   "id": "n3ec5331b3d",
+   "s": 37.0
   },
   {
    "id": "n24f9420b2a",
-   "s": 32.8
+   "s": 31.7
   },
   {
    "id": "nfa11854188",
-   "s": 31.0
+   "s": 30.0
   },
   {
-   "id": "nea2ff650f6",
-   "s": 22.9
+   "id": "nab29239f15",
+   "s": 22.8
   },
   {
-   "id": "nafc1d765ea",
-   "s": 22.9
+   "id": "nfb74d159f0",
+   "s": 22.8
   },
   {
-   "id": "nefe2bd5e11",
-   "s": 22.7
-  },
-  {
-   "id": "n6214d8e8d6",
-   "s": 22.3
-  },
-  {
-   "id": "ne3ad5ea6fb",
-   "s": 17.4
+   "id": "n575cc88483",
+   "s": 22.5
   }
  ],
  "items": [
+  {
+   "id": "na6885f0839",
+   "topic": "nfl",
+   "title": "Josh Jacobs questionable to return with a hand injury",
+   "text": "Packers running back Josh Jacobs may be done for the day in New England.",
+   "link": "https://sports.yahoo.com/articles/josh-jacobs-questionable-return-hand-215818500.html",
+   "published": "2026-11-08T21:58:18+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-13T21:58:18+00:00"
+  },
+  {
+   "id": "nc6bf5beb6e",
+   "topic": "nfl",
+   "title": "Dan Campbell explains decision to bench Christian Mahogany",
+   "text": "The Detroit Lions benched Christian Mahogany vs. Dolphins, and Dan Campbell explained why.",
+   "link": "https://sports.yahoo.com/articles/dan-campbell-explains-decision-bench-212543752.html",
+   "published": "2026-11-08T21:51:45+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-13T21:51:45+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/b9f12e264760d0c88013ac2c46ebfa29.jpg"
+  },
+  {
+   "id": "nd707bff389",
+   "topic": "nfl",
+   "title": "10 NFL trades that need to happen: Derrick Henry to Patriots, Budda Baker to Bills among options",
+   "text": "Kirk Cousins returns to Minnesota, George Pickens heads to Las Vegas and more aggressive moves contenders should make before Tuesday's trade deadline",
+   "link": "https://www.cbssports.com/nfl/news/10-nfl-trades-deadline-derrick-henry-patriots-budda-baker-bills/",
+   "published": "2026-11-08T21:46:48+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-13T21:46:48+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/11/08/2e1f98e1-1531-4432-8aaa-92d1056212d6/der.jpg"
+  },
+  {
+   "id": "nc1c720cbe3",
+   "topic": "politik",
+   "title": "Landratswahl im Schwalm-Eder-Kreis: Stichwahl im Schwalm-Eder-Kreis",
+   "text": "Im Schwalm-Eder-Kreis muss sich in drei Wochen per Stichwahl entscheiden, wer neuer Landrat oder neue Landrätin wird. Ins Rennen gehen dann Luca Fritsch (SPD) und Anna-Maria Bischof (CDU).",
+   "link": "https://www.hessenschau.de/politik/landratswahl-im-schwalm-eder-kreis-stichwahl-im-schwalm-eder-kreis-v3,landratswahl-schwalm-eder-104.html",
+   "published": "2026-11-08T21:35:35+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-12T21:35:35+00:00",
+   "img": "https://www.hessenschau.de/panorama/homberg-efze-122~_t-1794118154317_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "ncf789b90ac",
+   "topic": "politik",
+   "title": "Steinmeier-Nachfolge - Merz legt sich auf Ilse Aigner als Kandidatin für Bundespräsidentenamt fest",
+   "text": "Bundeskanzler Merz will die bayerische Landtagspräsidentin Ilse Aigner für das Amt der Bundespräsidentin nominieren. Eine CDU-Sprecherin teilte mit, Merz habe am Abend im Parteipräsidium angekündigt, dass er Aigner morgen für die Nachfolge von Bundespräsident Steinmeier vorschlagen werde.",
+   "link": "https://www.deutschlandfunk.de/merz-legt-sich-auf-ilse-aigner-als-kandidatin-fuer-bundespraesidentenamt-fest-100.html",
+   "published": "2026-11-08T21:29:14+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-10T21:29:14+00:00",
+   "img": "https://bilder.deutschlandfunk.de/a9/2a/2a/f0/a92a2af0-60a3-4ab1-bfce-4b0e8599e8bd/merz-aigner-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Kanzler Merz will Aigner als Bundespräsidentin vorschlagen",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-merz-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Die CSU-Politikerin Ilse Aigner ist als erste Bundespräsidentin nun Favoritin",
+     "link": "https://www.dw.com/de/die-csu-politikerin-ilse-aigner-ist-als-erste-bundespräsidentin-nun-favoritin/a-79873744?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "n654410ace3",
+   "topic": "politik",
+   "title": "Als Bundespräsidentin vorgeschlagen - Wer ist Ilse Aigner?",
+   "text": "Ilse Aigner war Gemeinderätin in Oberbayern, saß im Landtag sowie im Bundestag und führte als Landtagspräsidentin die Geschäfte des bayerischen Parlaments. Jetzt könnte sie als erste Bundespräsidentin ins Schloss Bellevue einziehen.",
+   "link": "https://www.deutschlandfunk.de/wer-ist-ilse-aigner-100.html",
+   "published": "2026-11-08T21:29:14+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-10T21:29:14+00:00",
+   "img": "https://bilder.deutschlandfunk.de/a5/9b/2e/59/a59b2e59-5398-40d9-9e74-1fd411a435a6/ilse-aigner-csu-bundespraesidentin-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Kanzler Merz will Aigner als Bundespräsidentin vorschlagen",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-merz-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Die CSU-Politikerin Ilse Aigner ist als erste Bundespräsidentin nun Favoritin",
+     "link": "https://www.dw.com/de/die-csu-politikerin-ilse-aigner-ist-als-erste-bundespräsidentin-nun-favoritin/a-79873744?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "nab29239f15",
+   "topic": "politik",
+   "title": "Bundespräsidentschaft - Kritik von AfD und Linken an Entscheidung für Aigner",
+   "text": "Die AfD und die Linkspartei haben die geplante Nominierung der CSU-Politikerin Aigner für das Amt der Bundespräsidentin kritisiert.",
+   "link": "https://www.deutschlandfunk.de/kritik-von-afd-und-linken-an-entscheidung-fuer-aigner-100.html",
+   "published": "2026-11-08T21:29:14+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-10T21:29:14+00:00",
+   "img": "https://bilder.deutschlandfunk.de/9c/a9/ca/ec/9ca9caec-a71b-4a10-8eea-ad90d88f8c5f/weidel-afd-berlin-100-1920x1920.jpg"
+  },
+  {
+   "id": "nfb74d159f0",
+   "topic": "politik",
+   "title": "Haushaltsplanungen - Unionsfraktionsvorsitzender Frei: Koalition wird Plastiksteuer nicht umsetzen",
+   "text": "Die schwarz-rote Koalition wird die geplante Plastiksteuer nach den Worten von Unionsfraktionschef Frei nicht umsetzen.",
+   "link": "https://www.deutschlandfunk.de/unionsfraktionsvorsitzender-frei-koalition-wird-plastiksteuer-nicht-umsetzen-100.html",
+   "published": "2026-11-08T21:29:14+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-10T21:29:14+00:00",
+   "img": "https://bilder.deutschlandfunk.de/75/48/b3/4f/7548b34f-6e53-4261-96a5-4d31bd0fa0e5/plastik-114-1920x1920.jpg"
+  },
+  {
+   "id": "n734f7a4c2a",
+   "topic": "politik",
+   "title": "Chip-Hersteller - Nvidia startet Untersuchung zu möglicher Spionage bei Firmenchef Huang",
+   "text": "Der US-Chip-Hersteller Nvidia hat eine Untersuchung zu Berichten eingeleitet, nach denen Firmenchef Huang zum Ziel ausländischer Spionageaktivitäten geworden ist.",
+   "link": "https://www.deutschlandfunk.de/nvidia-startet-untersuchung-zu-moeglicher-spionage-bei-firmenchef-huang-100.html",
+   "published": "2026-11-08T21:29:14+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-10T21:29:14+00:00",
+   "img": "https://bilder.deutschlandfunk.de/49/6d/1b/4e/496d1b4e-a47c-4535-9f2d-8e0514004d02/nvidia-jensen-huang-100-1920x1920.jpg"
+  },
+  {
+   "id": "n3a82ec0380",
+   "topic": "politik",
+   "title": "Gegen Abhängigkeit von Russland - Moldau nimmt Stromleitung für Importe aus Rumänien in Betrieb",
+   "text": "Die Republik Moldau hat eine neue Hochspannungsleitung für Stromimporte aus dem Nachbarstaat Rumänien eröffnet, mit der die Energie-Abhängigkeit von Russland verringert werden soll.",
+   "link": "https://www.deutschlandfunk.de/moldau-nimmt-stromleitung-fuer-importe-aus-rumaenien-in-betrieb-100.html",
+   "published": "2026-11-08T21:29:14+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-10T21:29:14+00:00",
+   "img": "https://bilder.deutschlandfunk.de/8f/b6/a5/82/8fb6a582-57ec-4136-b98d-17faf2e1434b/maia-sandu-104-1920x1920.jpg"
+  },
+  {
+   "id": "n9a46cdb793",
+   "topic": "nfl",
+   "title": "Giants' J.J. McCarthy returns against Eagles after hip injury sent QB to locker room",
+   "text": "Jameis Winston briefly entered the Week 9 contest in relief of McCarthy",
+   "link": "https://www.cbssports.com/nfl/news/giants-j-j-mccarthy-hip-injury-update-vs-eagles/",
+   "published": "2026-11-08T20:41:40+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-13T20:41:40+00:00"
+  },
+  {
+   "id": "n310cfa6841",
+   "topic": "politik",
+   "title": "Unionsfraktionschef erteilt Plastiksteuer eine Absage",
+   "text": "Unionsfraktionschef Frei erteilt der geplanten Plastiksteuer eine Absage. Sie sei \"wirtschaftlich und ökologisch falsch\". Anders klingt das bei SPD-Fraktionschef Miersch, der auf laufende Verhandlungen verweist.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/plastiksteuer-absage-100.html",
+   "published": "2026-11-08T20:38:04+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-11T20:38:04+00:00",
+   "img": "https://images.tagesschau.de/image/0b4eb7e8-ea70-4f51-ab70-7582d3bc0166/AAABleXrA9I/AAABnSSvrFg/16x9-big/einwegverpackung-102.jpg?width=1920"
+  },
+  {
+   "id": "n575cc88483",
+   "topic": "welt",
+   "title": "Überschwemmungen in Gaza schüren Sorge vor neuer Katastrophe",
+   "text": "Starker Regen hat Teile des Gazastreifens überschwemmt. Laut dem Gesundheitsminister haben eine Million Vertriebene kein Dach mehr über dem Kopf. Hilfsorganisationen befürchten eine humanitäre Katastrophe. Von J.-C. Kitzler.",
+   "link": "https://www.tagesschau.de/ausland/asien/gaza-regenfaelle-humanitaere-lage-100.html",
+   "published": "2026-11-08T20:15:13+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-11T20:15:13+00:00",
+   "img": "https://images.tagesschau.de/image/44a105b9-9c17-4637-8e97-57afaf52ade8/AAABobykDyM/AAABnSSvrFg/16x9-big/gaza-regen-104.jpg?width=1920"
+  },
+  {
+   "id": "n91ccbd72a6",
+   "topic": "politik",
+   "title": "Kanzler Merz will Aigner als Bundespräsidentin vorschlagen",
+   "text": "Bislang hatte sich Kanzler Merz in der Frage zur Bundespräsidenten-Nachfolge zurückgehalten. Jetzt machte er es offiziell: Der CDU-Chef will am Montag Ilse Aigner dafür vorschlagen - als erste Frau in diesem Amt.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-merz-100.html",
+   "published": "2026-11-08T20:05:22+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-11T20:05:22+00:00",
+   "img": "https://images.tagesschau.de/image/6da58f42-1c07-49a0-b569-a2efe0a6b4c1/AAABobzD-w8/AAABnSSvrFg/16x9-big/aigner-merz-102.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Steinmeier-Nachfolge - Merz legt sich auf Ilse Aigner als Kandidatin für Bundespräsidentenamt fest",
+     "link": "https://www.deutschlandfunk.de/merz-legt-sich-auf-ilse-aigner-als-kandidatin-fuer-bundespraesidentenamt-fest-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Die CSU-Politikerin Ilse Aigner ist als erste Bundespräsidentin nun Favoritin",
+     "link": "https://www.dw.com/de/die-csu-politikerin-ilse-aigner-ist-als-erste-bundespräsidentin-nun-favoritin/a-79873744?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "nd5216acf96",
+   "topic": "politik",
+   "title": "Chef der Jungen Union: \"Junge Generation wird von der Politik vernachlässigt\"",
+   "text": "Viele junge Menschen fühlen sich politisch übergangen. Das liege auch daran, dass Pläne wie die Rentenreform nicht umgesetzt würden, sagt Winkel, Vorsitzender der Jungen Union, im Bericht aus Berlin. Die Regierung habe einiges wieder gut zu machen.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-junge-generation-100.html",
+   "published": "2026-11-08T19:43:02+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-11T19:43:02+00:00",
+   "img": "https://images.tagesschau.de/image/ffffe647-adfd-47e5-88b2-29a10420bb82/AAABobyRoyc/AAABnSSvrFg/16x9-big/sendungsbild-1824456.jpg?width=1920"
+  },
+  {
+   "id": "n1296e2f490",
+   "topic": "welt",
+   "title": "Die CSU-Politikerin Ilse Aigner ist als erste Bundespräsidentin nun Favoritin",
+   "text": "Sie wäre die erste Bundespräsidentin, auch die erste CSU-Politikerin im höchsten deutschen Staatsamt. Ilse Aigner ist nun bis zur Wahl in der Bundesversammlung am 30. Januar die Kandidatin und Favoritin.",
+   "link": "https://www.dw.com/de/die-csu-politikerin-ilse-aigner-ist-als-erste-bundespräsidentin-nun-favoritin/a-79873744?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-08T19:34:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-12T19:34:00+00:00",
+   "img": "https://static.dw.com/image/79873014_302.jpg",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Steinmeier-Nachfolge - Merz legt sich auf Ilse Aigner als Kandidatin für Bundespräsidentenamt fest",
+     "link": "https://www.deutschlandfunk.de/merz-legt-sich-auf-ilse-aigner-als-kandidatin-fuer-bundespraesidentenamt-fest-100.html"
+    },
+    {
+     "source": "Tagesschau",
+     "title": "Kanzler Merz will Aigner als Bundespräsidentin vorschlagen",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-merz-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n3e4540e6e0",
+   "topic": "it",
+   "title": "Top 10: Der beste Mini-PC mit Windows 11",
+   "text": "Mini-PCs sind kompakt und ideal für Office bis Gaming. Wir zeigen die besten Modelle aller Preisklassen aus über 80 Tests.",
+   "link": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-ueber-80-modelle-im-test/6cybv8w?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-08T19:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-13T19:00:00+00:00"
+  },
+  {
+   "id": "naafb4ed9b0",
+   "topic": "politik",
+   "title": "Parteitag: FDP bündelt Kräfte für Landtagswahlen kommendes Jahr",
+   "text": "Die FDP kämpft ums Überleben. Ihre letzte Chance dürften die Landtagswahlen kommendes Jahr sein. Während des digitalen Parteitags versuchte FDP-Chef Kubicki, die Liberalen als Gegengewicht zur Regierung zu etablieren. Von Lissy Kaufmann.",
+   "link": "https://www.tagesschau.de/inland/fdp-bundesparteitag-122.html",
+   "published": "2026-11-08T18:53:14+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-11T18:53:14+00:00",
+   "img": "https://images.tagesschau.de/image/89d8e7b4-83b5-47f6-b1b6-93504ec8c705/AAABobxqbLc/AAABnSSvrFg/16x9-big/kubicki-182.jpg?width=1920"
+  },
+  {
+   "id": "nad12894b8c",
+   "topic": "it",
+   "title": "TSMC könnte mit „3D DRAM“ ins Speichergeschäft einsteigen",
+   "text": "Statt nur Auftragsfertigung für andere soll TSMC einem Bericht zufolge auch eigene Chips planen. Und zwar mit dem lange erhofften 3D-DRAM.",
+   "link": "https://www.heise.de/news/TSMC-koennte-mit-3D-DRAM-ins-Speichergeschaeft-einsteigen-11516713.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-08T17:51:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-13T17:51:00+00:00"
+  },
   {
    "id": "nc88041795f",
    "topic": "politik",
@@ -1263,14 +1550,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-09T19:19:38+00:00",
-   "img": "https://bilder.deutschlandfunk.de/11/fc/12/a6/11fc12a6-d014-435f-bbfa-cb04448ef273/boris-pistorius-verteidigungsminister-106-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Pistorius rechnet derzeit nicht mit Rückkehr zur Wehrpflicht",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-diskussion-wehrpflicht-100.html"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/11/fc/12/a6/11fc12a6-d014-435f-bbfa-cb04448ef273/boris-pistorius-verteidigungsminister-106-1920x1920.jpg"
   },
   {
    "id": "n7054155e71",
@@ -1570,261 +1850,6 @@
    "lang": "de",
    "expires": "2026-11-14T15:42:38+00:00",
    "img": "https://the-decoder.de/wp-content/uploads/2026/10/ai_auditing_reliability.png"
-  },
-  {
-   "id": "n742e9edb5a",
-   "topic": "wissenschaft",
-   "title": "Klimagipfel · Wo steht Deutschlands Klimapolitik?",
-   "text": "Deutschland hat seine CO₂-Emissionen seit 1990 fast halbiert. Dennoch verfehlt das Land bislang seine Klimaziele. Bei der Weltklimakonferenz geht es nun darum, Öl, Kohle und Gas zu ersetzen.",
-   "link": "https://www.tagesschau.de/video/video-1679822.html",
-   "published": "2026-11-07T15:33:48+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-21T15:33:48+00:00",
-   "img": "https://images.tagesschau.de/image/3c6ca730-6672-4fbd-ade8-f70e53b1d76a/AAABobAN73g/AAABnSSvrFg/16x9-big/solar-und-wind-energie-100.jpg?width=1920"
-  },
-  {
-   "id": "neceb7b770b",
-   "topic": "welt",
-   "title": "Reise mit Strapazen: Papst Leo XIV. ist in Südamerika zurück",
-   "text": "Der Pontifex besucht zuerst das streng laizistische Uruguay - eine stabile Demokratie, in der die Kirche jedoch nicht besonders populär ist. Auch gesundheitlich ist die Reise für den 71-Jährigen eine Herausforderung.",
-   "link": "https://www.dw.com/de/reise-mit-strapazen-papst-leo-xiv-ist-in-südamerika-zurück/a-79885738?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-07T15:09:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-11T15:09:00+00:00",
-   "img": "https://static.dw.com/image/79885767_302.jpg"
-  },
-  {
-   "id": "n99bf0990e0",
-   "topic": "welt",
-   "title": "Wofür Trumps neuer Stabschef Miller steht",
-   "text": "Seit Freitag ist Stephen Miller neuer Stabschef von Präsident Trump. Der 41-Jährige gilt als rechter Hardliner und Kopf hinter der strikten Einwanderungspolitik. Welches Signal sendet Trump mit der Personalie an Republikaner und Demokraten?",
-   "link": "https://www.tagesschau.de/ausland/amerika/trump-stabschef-miller-100.html",
-   "published": "2026-11-07T14:57:49+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-10T14:57:49+00:00",
-   "img": "https://images.tagesschau.de/image/15646591-1e61-481c-b10d-8b00ab988e21/AAABobaEBY4/AAABnSSvrFg/16x9-big/stephen-miller-104.jpg?width=1920"
-  },
-  {
-   "id": "n132c0ecc56",
-   "topic": "politik",
-   "title": "Pistorius rechnet derzeit nicht mit Rückkehr zur Wehrpflicht",
-   "text": "Die Wiedereinführung der Wehrpflicht scheint zum jetzigen Zeitpunkt offenbar nicht nötig. Verteidigungsminister Pistorius berichtet von einer positiven Entwicklung beim Bundeswehrpersonal - Spitzenvertreter der Union sehen das anders.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-diskussion-wehrpflicht-100.html",
-   "published": "2026-11-07T14:45:52+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-10T14:45:52+00:00",
-   "img": "https://images.tagesschau.de/image/bb9ce348-9f2a-41b0-80cb-98f103d36a67/AAABnmguNt8/AAABnSSvrFg/16x9-big/pistorius-606.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Interview der Woche - Pistorius sieht Personalplanung der Bundeswehr auf gutem Weg - erstmal keine Wehrpflicht nötig",
-     "link": "https://www.deutschlandfunk.de/pistorius-sieht-personalplanung-der-bundeswehr-auf-gutem-weg-erstmal-keine-wehrpflicht-noetig-100.html"
-    }
-   ]
-  },
-  {
-   "id": "nade362f1fd",
-   "topic": "welt",
-   "title": "Parlamentswahl in Neuseeland: Regierungspartei und Labour nahezu gleichauf",
-   "text": "Neuseeland hat ein neues Parlament gewählt. Doch angesichts eines extrem knappen Wahlausgangs könnte es bei der Frage, welche Regierung das Land künftig führt, letztlich auf die kleinen Parteien ankommen.",
-   "link": "https://www.tagesschau.de/ausland/ozeanien/neuseeland-parlamentswahl-102.html",
-   "published": "2026-11-07T14:41:43+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-10T14:41:43+00:00",
-   "img": "https://images.tagesschau.de/image/69dd39a9-cd4a-426a-b9a6-7022abbbfe87/AAABobZ1SjM/AAABnSSvrFg/16x9-big/neuseeland-parlamentswahl-104.jpg?width=1920"
-  },
-  {
-   "id": "n4cadb222f4",
-   "topic": "wissenschaft",
-   "title": "Polarlichter: Warum Polarlichter gebogen sind",
-   "text": "Ein neues Forschungsergebnis enthüllt, wie eine »Weltraumbatterie« Polarlichter antreibt und sie biegt.",
-   "link": "https://www.spektrum.de/news/warum-polarlichter-manchmal-wie-wellen-tanzen/2308995",
-   "published": "2026-11-07T14:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-21T14:00:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/Teaser_S082.jpg.2942185.jpg?f=1280x720"
-  },
-  {
-   "id": "n2c94c27fe7",
-   "topic": "it",
-   "title": "Other Worlds: Neue Stranger-Things-Serie spielt im Jahr 1955",
-   "text": "Netflix bringt ein Spin-off von Stranger Things: Other Worlds spielt in den 50er Jahren und kommt mit neuen Charakteren. ( Netflix , Streaming )",
-   "link": "https://www.golem.de/news/outer-worlds-neue-stranger-things-serie-spielt-im-jahr-1955-2611-214964.html",
-   "published": "2026-11-07T13:17:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-12T13:17:02+00:00",
-   "img": "https://www.golem.de/2611/214964-607358-607356_rc.jpg"
-  },
-  {
-   "id": "n55521fc9b9",
-   "topic": "welt",
-   "title": "Ukraine: Massive Stromprobleme nach russischen Angriffen",
-   "text": "Russische Attacken auf die Energie-und Verkehrsinfrastruktur der Ukraine haben in vielen Landesteilen schwere Schäden verursacht. In Kyjiw musste eine wichtige Brücke wieder gesperrt werden.",
-   "link": "https://www.dw.com/de/ukraine-massive-stromprobleme-nach-russischen-angriffen/a-79884371?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-07T13:08:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-11T13:08:00+00:00",
-   "img": "https://static.dw.com/image/79883626_302.jpg"
-  },
-  {
-   "id": "n706c89714f",
-   "topic": "welt",
-   "title": "Georgien nach Umzug vieler Kliniken aus Russland und der Ukraine neues Zentrum für Leihmutterschaften",
-   "text": "Seit 2022 hat sich Georgien zu einer Drehscheibe für Leihmutterschaften entwickelt. Viele Kliniken aus Russland und der Ukraine sind wegen des Krieges dorthin umgezogen. Die DW hat mit Leihmüttern und Kunden gesprochen.",
-   "link": "https://www.dw.com/de/georgien-nach-umzug-vieler-kliniken-aus-russland-und-der-ukraine-neues-zentrum-für-leihmutterschaften/a-79611216?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-07T13:03:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-11T13:03:00+00:00",
-   "img": "https://static.dw.com/image/71955101_302.jpg"
-  },
-  {
-   "id": "nde47d1606c",
-   "topic": "politik",
-   "title": "Frankfurt am Main - Reza Pahlavi nimmt Freiheitspreis für iranisches Volk entgegen - und kritisiert Regierung in Teheran",
-   "text": "Begleitet von Demonstrationen mehrerer Tausend Menschen hat in Frankfurt am Main der iranische Oppositionspolitiker Reza Pahlavi den Freiheitspreis der Friedrich-Naumann-Stiftung entgegengenommen - stellvertretend für das iranische Volk. Pahlavi erklärte, er sehe seine Rolle als Brückenbauer.",
-   "link": "https://www.deutschlandfunk.de/reza-pahlavi-nimmt-freiheitspreis-fuer-iranisches-volk-entgegen-und-kritisiert-regierung-in-teheran-100.html",
-   "published": "2026-11-07T12:59:17+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-09T12:59:17+00:00",
-   "img": "https://bilder.deutschlandfunk.de/ca/82/e2/19/ca82e219-d6f7-4776-87c3-683df8d45edb/pahlavi-frankfurt-100-1920x1920.jpg"
-  },
-  {
-   "id": "nb3e5f35372",
-   "topic": "politik",
-   "title": "Im November - Pflegeversicherung bekommt weiteren Kredit",
-   "text": "Die Pflegeversicherung erhält angesichts ihrer angespannten Finanzlage in diesem Monat zusätzliches Geld vom Bund, jedoch lediglich in Form eines Kredits.",
-   "link": "https://www.deutschlandfunk.de/pflegeversicherung-bekommt-weiteren-kredit-100.html",
-   "published": "2026-11-07T12:59:17+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-09T12:59:17+00:00",
-   "img": "https://bilder.deutschlandfunk.de/3b/17/e4/ce/3b17e4ce-0a54-475b-a8ba-3a1d3e6ed345/pflegekassen-pflegeversicherung-altenpflege-100-1920x1920.jpg"
-  },
-  {
-   "id": "n2f1ab7c85b",
-   "topic": "politik",
-   "title": "Kontrollbehörde - CDU will Klaus Müller laut Bericht für zweite Amtszeit als Netzagenturchef vorschlagen",
-   "text": "Die CDU will den derzeitigen Chef der Bundesnetzagentur, Müller, nach Presseinformationen für eine zweite Amtszeit vorschlagen.",
-   "link": "https://www.deutschlandfunk.de/cdu-will-klaus-mueller-laut-bericht-fuer-zweite-amtszeit-als-netzagenturchef-vorschlagen-100.html",
-   "published": "2026-11-07T12:59:17+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-09T12:59:17+00:00",
-   "img": "https://bilder.deutschlandfunk.de/3c/79/02/7e/3c79027e-c3e7-440d-a0cb-f517f15a7b34/klaus-mueller-bundesnetzagentur-106-1920x1920.jpg"
-  },
-  {
-   "id": "na3ceb6f4ff",
-   "topic": "politik",
-   "title": "Nach Entlassung von Stabschefin Wiles - Trump rückt rechten Hardliner Stephen Miller ins Zentrum des Machtzirkels",
-   "text": "US-Präsident Trump hat nach dem Verlust der Mehrheiten seiner Partei im Kongress seine Stabschefin Susie Wiles entlassen. Mit Stephen Miller hat er stattdessen einen \"America First\"-Verfechter und Strippenzieher seiner radikalen Abschiebepolitik noch stärker ins Zentrum der Macht gerückt. Wer ist der neue Stabschef?",
-   "link": "https://www.deutschlandfunk.de/trump-rueckt-rechten-hardliner-stephen-miller-ins-zentrum-des-machtzirkels-100.html",
-   "published": "2026-11-07T12:59:17+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-09T12:59:17+00:00",
-   "img": "https://bilder.deutschlandfunk.de/30/73/bc/f9/3073bcf9-0f13-4c23-96c4-a51486ac82cb/stephen-miller-100-1920x1920.jpg"
-  },
-  {
-   "id": "n9a92244a89",
-   "topic": "politik",
-   "title": "USA Russland China - Peking bestätigt Gespräche über Treffen von Xi, Trump und Putin",
-   "text": "China hat bestätigt, dass es Gespräche über ein Treffen von Staatschef Xi mit US-Präsident Trump und dem russischen Präsidenten Putin gibt.",
-   "link": "https://www.deutschlandfunk.de/peking-bestaetigt-gespraeche-ueber-treffen-von-xi-trump-und-putin-100.html",
-   "published": "2026-11-07T12:59:17+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-09T12:59:17+00:00",
-   "img": "https://bilder.deutschlandfunk.de/75/e8/a2/56/75e8a256-97dc-4f4c-a0e5-1b563bfdabe2/trump-xi-108-1920x1920.jpg"
-  },
-  {
-   "id": "nb2c0b4a5a3",
-   "topic": "politik",
-   "title": "Iran-Demos heute in Frankfurt im Ticker",
-   "text": "In Frankfurt laufen derzeit mehrere Iran-Demonstrationen - unter anderem im Ostpark. Anlass ist die Verleihung des Freiheitspreises. Wir sind vor Ort und berichten im Ticker.",
-   "link": "https://www.hessenschau.de/panorama/iran-demos-heute-in-frankfurt-im-ticker--festnahme-mann-soll-gewalttaten-angekuendigt-haben,iran-demos-frankfurt-102.html",
-   "published": "2026-11-07T12:58:36+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-11T12:58:36+00:00",
-   "img": "https://www.hessenschau.de/panorama/demozug-frankfurt-104~_t-1794053866451_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "n95e238e040",
-   "topic": "ki",
-   "title": "KI-Agenten können laut Benchmark eigenständig in Firmennetzwerke einbrechen",
-   "text": "Im Benchmark von Vals AI knackt OpenAIs GPT-6 Sol Daybreak 80,8 Prozent der Angriffsziele in simulierten Firmennetzwerken. Schlimmer: Das Open-Weight-Modell DeepSeek V4.1 Flash erreicht 72,8 Prozent bei einem Zehntel der Kosten. Da offene Modelle nicht mehr eingeschränkt werden können, schrumpft laut Analysen das …",
-   "link": "https://the-decoder.de/ki-agenten-koennen-laut-benchmark-eigenstaendig-in-firmennetzwerke-einbrechen/",
-   "published": "2026-11-07T12:37:50+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-14T12:37:50+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/cyber_kraken.png"
-  },
-  {
-   "id": "ne62ac9932d",
-   "topic": "nfl",
-   "title": "The 236½-sack nightmare: Aaron Donald, Myles Garrett ready to 'have some fun'",
-   "text": "For the first time this season, Myles Garrett and Aaron Donald will be playing at the same time for the Rams. Will they form an unstoppable pass-rush duo?",
-   "link": "https://sports.yahoo.com/articles/236-sack-nightmare-aaron-donald-123000744.html",
-   "published": "2026-11-07T12:30:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-12T12:30:00+00:00",
-   "img": "https://media.zenfs.com/en/la_times_articles_853/82284d7db9fbec9fb9dfd42d6b8f236d.jpg"
-  },
-  {
-   "id": "n76788f1e0b",
-   "topic": "welt",
-   "title": "Ex-Mandela-Partei ANC erleidet Wahlschlappe in Südafrika",
-   "text": "Einst stand der ANC für die Befreiung der Schwarzen von der Apartheidsregierung. Doch nun befindet sich die Partei im Sinkflug. Die Wähler zeigen ihren Unmut über Arbeitslosigkeit, Kriminalität und Korruption.",
-   "link": "https://www.dw.com/de/ex-mandela-partei-anc-erleidet-wahlschlappe-in-südafrika/a-79884765?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-07T12:29:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-11T12:29:00+00:00",
-   "img": "https://static.dw.com/image/79853213_302.jpg"
-  },
-  {
-   "id": "n564718804c",
-   "topic": "it",
-   "title": "Elektroauto: Yangwang U9 Xtreme durchbricht die 500-km/h-Grenze",
-   "text": "Das elektrische Hypercar von Yangwang U9 Xtreme hat in Abu Dhabi 503,17 km/h erreicht. Die FIA hat den Wert offiziell anerkannt. ( BYD , Elektroauto )",
-   "link": "https://www.golem.de/news/elektroauto-yangwang-u9-xtreme-durchbricht-die-500-km-h-grenze-2611-214962.html",
-   "published": "2026-11-07T12:27:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-12T12:27:02+00:00",
-   "img": "https://www.golem.de/2611/214962-607354-607352_rc.jpg"
   }
  ]
 }
