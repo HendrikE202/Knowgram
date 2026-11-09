@@ -1,50 +1,812 @@
 {
- "generated": "2026-11-09T06:31:22.524256+00:00",
+ "generated": "2026-11-09T19:49:48.121483+00:00",
  "briefing": [
   "n91ccbd72a6",
   "n726c131d8d",
+  "ne78da5bd65",
+  "nbf3cc8a904",
+  "n5c8fc3dce2",
   "nacba0e9c61",
-  "n24f9420b2a",
-  "nfa11854188",
-  "n3ec5331b3d",
   "n43ff3630ec",
-  "nab29239f15"
+  "n4be02808e1"
  ],
  "ranked": [
   {
    "id": "n91ccbd72a6",
-   "s": 40.4
+   "s": 37.1
   },
   {
    "id": "n726c131d8d",
-   "s": 39.4
+   "s": 37.0
+  },
+  {
+   "id": "ne78da5bd65",
+   "s": 32.8
+  },
+  {
+   "id": "nbf3cc8a904",
+   "s": 32.6
+  },
+  {
+   "id": "n5c8fc3dce2",
+   "s": 32.5
   },
   {
    "id": "nacba0e9c61",
-   "s": 32.3
-  },
-  {
-   "id": "n24f9420b2a",
-   "s": 29.6
-  },
-  {
-   "id": "nfa11854188",
-   "s": 27.9
-  },
-  {
-   "id": "n3ec5331b3d",
-   "s": 27.0
+   "s": 28.9
   },
   {
    "id": "n43ff3630ec",
-   "s": 23.0
+   "s": 19.7
   },
   {
-   "id": "nab29239f15",
-   "s": 20.7
+   "id": "n4be02808e1",
+   "s": 17.8
   }
  ],
  "items": [
+  {
+   "id": "n9e7118c6f7",
+   "topic": "wissenschaft",
+   "title": "COP31 · Wie geht es weiter mit dem Klimaschutz?",
+   "text": "Fast 200 Staaten, zwei Wochen Verhandlungen, ein gemeinsames Ziel: den Klimawandel bremsen. Doch wie funktioniert die Weltklimakonferenz – und was kann sie tatsächlich erreichen?",
+   "link": "https://www.tagesschau.de/video/video-1681060.html",
+   "published": "2026-11-09T19:44:54+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-23T19:44:54+00:00",
+   "img": "https://images.tagesschau.de/image/9be9dfbf-e070-4598-868e-2ff6ae12b400/AAABocHTjDk/AAABnSSvrFg/16x9-big/09112026-topthema-cop31-100.jpg?width=1920"
+  },
+  {
+   "id": "nbcb10868cc",
+   "topic": "nfl",
+   "title": "Browns QB update: Todd Monken hasn't decided between Deshaun Watson and Shedeur Sanders for Week 10",
+   "text": "Sanders' performance against the Saints might earn another chance to start Sunday vs. the Texans",
+   "link": "https://www.cbssports.com/nfl/news/browns-starting-qb-deshaun-watson-shedeur-sanders-texans-2026/",
+   "published": "2026-11-09T19:38:06+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-14T19:38:06+00:00"
+  },
+  {
+   "id": "n048936afaf",
+   "topic": "nfl",
+   "title": "Seattle Seahawks 2026 trade deadline tracker",
+   "text": "Follow ongoing coverage of the 2026 NFL trade deadline, including whether or not the Seahawks make one more move.",
+   "link": "https://sports.yahoo.com/articles/seattle-seahawks-2026-trade-deadline-193641193.html",
+   "published": "2026-11-09T19:36:41+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-14T19:36:41+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/c9113646baf2c3518acb30f2bbdc24c4.jpg"
+  },
+  {
+   "id": "nfbe82e6d8e",
+   "topic": "welt",
+   "title": "Buenos Aires: Papst Leo XIV. feiert Messe vor zwei Millionen Menschen",
+   "text": "Argentinien ist im \"Papa-León-Fieber\": An einem gigantischen Freiluft-Gottesdienst nahmen gut zwei Millionen Menschen teil. Leo XIV. würdigte dabei die Bedeutung der Familie und plädierte für den Schutz der Schwachen.",
+   "link": "https://www.tagesschau.de/ausland/amerika/papst-leo-argentinien-100.html",
+   "published": "2026-11-09T19:34:13+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-12T19:34:13+00:00",
+   "img": "https://images.tagesschau.de/image/66cc38c8-763c-447b-8cf8-ad9a272272b5/AAABocGpaq0/AAABnSSvrFg/16x9-big/papst-leo-230.jpg?width=1920"
+  },
+  {
+   "id": "nd33a677477",
+   "topic": "nfl",
+   "title": "2026 NFL trade deadline tracker: Latest deals, grades as Andre Cisco heads to Detroit",
+   "text": "Track every completed deal before the Nov. 10 deadline, including Chicago's blockbuster addition of Jeffery Simmons and the Colts' trades of Quenton Nelson and DeForest Buckner",
+   "link": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-tracker-latest-deals-grades/",
+   "published": "2026-11-09T19:32:44+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-14T19:32:44+00:00"
+  },
+  {
+   "id": "n0c2275967a",
+   "topic": "nfl",
+   "title": "AFC Playoff Picture: Chiefs keep pace with their Week 9 win",
+   "text": "This is where things stand in the AFC after Kansas City’s sixth win of the season.",
+   "link": "https://sports.yahoo.com/articles/afc-playoff-picture-chiefs-keep-193000705.html",
+   "published": "2026-11-09T19:30:00+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-14T19:30:00+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/f4eb69811afbb7125f5037d5e8d7be2f.jpg"
+  },
+  {
+   "id": "nce1a84e2ad",
+   "topic": "politik",
+   "title": "Synagogen-Festakt in München: Ein Jubiläum in schwierigen Zeiten",
+   "text": "Am Jahrestag der NS-Pogromnacht feiert die Münchner Hauptsynagoge ihr 20-jähriges Bestehen. Die Holocaust-Überlebende Knobloch warnte dabei vor einem als \"aufrichtige Haltung getarnten Israelhass\". Von S. Berninger.",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/synagoge-muenchen-102.html",
+   "published": "2026-11-09T19:14:42+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-12T19:14:42+00:00",
+   "img": "https://images.tagesschau.de/image/1ff52e4d-7452-4afc-a63f-6a1d16b2cade/AAABocG78cM/AAABnSSvrFg/16x9-big/soeder-knobloch-merz-aigner-100.jpg?width=1920"
+  },
+  {
+   "id": "n1ff3dfc3b6",
+   "topic": "politik",
+   "title": "In eigener Sache - Vorübergehend keine Aktualisierung",
+   "text": "",
+   "link": "https://www.deutschlandfunk.de/voruebergehend-keine-aktualisierung-100.html",
+   "published": "2026-11-09T19:08:13+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-11T19:08:13+00:00"
+  },
+  {
+   "id": "n9d3bdef17a",
+   "topic": "politik",
+   "title": "In eigener Sache - Vorübergehend keine Aktualisierung",
+   "text": "Wegen einer technischen Wartung können wir die Nachrichten-Seite vorübergehend nicht aktualisieren. Wir sind vermutlich ab 21 Uhr wieder mit neuen Meldungen für Sie da.",
+   "link": "https://www.deutschlandfunk.de/voruebergehend-keine-aktualisierung-102.html",
+   "published": "2026-11-09T19:08:13+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-11T19:08:13+00:00"
+  },
+  {
+   "id": "n4be02808e1",
+   "topic": "politik",
+   "title": "Jahrestag Reichspogromnacht - Steinmeier und Merz rufen bei Gedenkfeiern zu Kampf gegen Antisemitismus auf",
+   "text": "Anlässlich des Jahrestags der Reichspogromnacht haben Bundespräsident Steinmeier und Bundeskanzler Merz zum Kampf gegen Antisemitismus aufgerufen. Steinmeier sagte bei der Gedenkstätte Buchenwald nahe Weimar, man müsse sich dem Judenhass entgegenstellen - ganz gleich, ob er von den politischen Rändern, aus der Mitte …",
+   "link": "https://www.deutschlandfunk.de/steinmeier-und-merz-rufen-bei-gedenkfeiern-zu-kampf-gegen-antisemitismus-auf-102.html",
+   "published": "2026-11-09T19:08:13+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-11T19:08:13+00:00",
+   "img": "https://bilder.deutschlandfunk.de/bf/08/4e/1c/bf084e1c-43eb-44c9-b6c2-cc8417b55a64/merz-muenchen-synagoge-100-1920x1920.jpg"
+  },
+  {
+   "id": "nbadd0487b4",
+   "topic": "politik",
+   "title": "Supermärkte - Frankreich macht iranische Revolutionsgarden für Cyberangriffe auf Kühlsysteme verantwortlich",
+   "text": "Frankreich macht die iranischen Revolutionsgarden für die Cyberangriffe auf Supermarkt-Kühlsysteme verantwortlich. Der französische Außenminister Barrot teilte mit, zu diesem Ergebnis seien Untersuchungen staatlicher Behörden gekommen.",
+   "link": "https://www.deutschlandfunk.de/frankreich-macht-iranische-revolutionsgarden-fuer-cyberangriffe-auf-kuehlsysteme-verantwortlich-102.html",
+   "published": "2026-11-09T19:08:13+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-11T19:08:13+00:00",
+   "img": "https://bilder.deutschlandfunk.de/NO/VA/_b/fb/NOVA_bfb2e6eb5a2fda672fcb953e892416b1/craft-13529717-asset-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühltruhen verantwortlich",
+     "link": "https://www.tagesschau.de/ausland/europa/kuehlanlagen-cyberangriffe-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n15eb1b2d75",
+   "topic": "politik",
+   "title": "Steinmeier-Nachfolge - Nach Nominierung: CSU-Politikerin Ilse Aigner bedankt sich für parteiübergreifenden Zuspruch",
+   "text": "Nach der Nominierung zur Kandidatin für das Amt der Bundespräsidentin hat sich die CSU-Politikerin Aigner für den parteiübergreifenden Zuspruch bedankt. Auf einer gemeinsamen Pressekonferenz mit Bundeskanzler Merz sagte sie, die Unterstützung mache sie demütig, aber auch mutig.",
+   "link": "https://www.deutschlandfunk.de/nach-nominierung-csu-politikerin-ilse-aigner-bedankt-sich-fuer-parteiuebergreifenden-zuspruch-102.html",
+   "published": "2026-11-09T19:08:13+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-11T19:08:13+00:00",
+   "img": "https://bilder.deutschlandfunk.de/b2/f7/4b/fd/b2f74bfd-4d38-40b6-8e12-d12c10c4f3c9/bundeskanzler-merz-ilse-aigner-csu-nominierung-bundespraesidentin-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Warum Merz sich doch für Aigner als Bundespräsidentin stark macht",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-kandidatin-bundespraesidentin-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "llse Aigner soll Bundespräsidentin werden. Sie wäre die erste Frau",
+     "link": "https://www.dw.com/de/llse-aigner-soll-bundespräsidentin-werden-sie-wäre-die-erste-frau/a-79895956?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "ne78da5bd65",
+   "topic": "politik",
+   "title": "Klimakonferenz in Antalya - Guterres: Neues Zeitalter der Klimaextreme erreicht",
+   "text": "Die Weltorganisation für Meteorologie hat zum Start der UNO-Klimakonferenz in Antalya vor neuen Wetterextremen gewarnt. WMO-Chefin Saulo sagte, man stelle sich darauf ein, dass 2027 auch durch das Wetterphänomen El Niño das wärmste je gemessene Jahr werden könnte. Hitzewellen, tropische Wirbelstürme und Unwetter mit …",
+   "link": "https://www.deutschlandfunk.de/guterres-neues-zeitalter-der-klimaextreme-erreicht-112.html",
+   "published": "2026-11-09T19:08:13+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-11T19:08:13+00:00",
+   "img": "https://bilder.deutschlandfunk.de/02/fb/80/07/02fb8007-40ef-47cd-b1f5-51d6d0e84717/duerre-trockener-boden-italien-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Auftakt der Klimakonferenz in Antalya",
+     "link": "https://www.tagesschau.de/video/video-1680758.html"
+    }
+   ]
+  },
+  {
+   "id": "n99c0f9e366",
+   "topic": "ki",
+   "title": "Meta stellt Muse Ember vor: Kleinstes Modell soll KI-Agenten günstiger und effizienter machen",
+   "text": "Meta stellt mit Muse Ember sein kleinstes und effizientestes KI-Modell vor, optimiert für repetitive Agenten-Aufgaben wie Tool-Aufrufe, Routing und Datenextraktion. Laut Meta liefert es mehr Intelligenz pro Dollar als Claude Haiku 5.5 oder GPT-6 Luna, schwächelt aber bei echten Programmieraufgaben. Der Artikel Meta …",
+   "link": "https://the-decoder.de/meta-stellt-muse-ember-vor-kleinstes-modell-soll-ki-agenten-guenstiger-und-effizienter-machen/",
+   "published": "2026-11-09T19:05:51+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-16T19:05:51+00:00"
+  },
+  {
+   "id": "n5de7716cb3",
+   "topic": "politik",
+   "title": "Blindenschrift aus Marburg: Wie Brailletec Menschen weltweit Teilhabe ermöglicht",
+   "text": "Ob tastbare Beschriftungen im Aufzug oder Druckplatten für Blindenschrift: Mit Brailletec sitzt in Marburg ein international führendes Spezialunternehmen für Blinden- und Sehbehindertentechnik. Und das als gemeinnützige Firma mit nur zehn Beschäftigten.",
+   "link": "https://www.hessenschau.de/gesellschaft/blindenschrift-aus-marburg-wie-brailletec-menschen-weltweit-teilhabe-ermoeglicht-v1,brailletec-marburg-100.html",
+   "published": "2026-11-09T19:00:12+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-13T19:00:12+00:00",
+   "img": "https://www.hessenschau.de/gesellschaft/brailletec-marburg-102~_t-1794250809018_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "nb50397c837",
+   "topic": "it",
+   "title": "Top 10: Speicher für Balkonkraftwerk im Test",
+   "text": "Wir zeigen die besten Speicher für Balkonkraftwerke. Viele Modelle lassen sich inzwischen lokal via Home Assistant ansteuern.",
+   "link": "https://www.heise.de/bestenlisten/testsieger/top-10-speicher-fuer-balkonkraftwerk-im-test-ohne-cloud-lokal-steuerbar/9g7b03h?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-09T19:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-14T19:00:00+00:00"
+  },
+  {
+   "id": "ne3bcfa43b8",
+   "topic": "wirtschaft",
+   "title": "Wirtschaft vor acht vom 09.11.2026",
+   "text": "Wirtschaft vor acht vom 09.11.2026",
+   "link": "https://www.tagesschau.de/video/video-1680998.html",
+   "published": "2026-11-09T18:54:48+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-12T18:54:48+00:00",
+   "img": "https://images.tagesschau.de/image/8edf3401-4fac-491c-9991-1744d9fa6059/AAABocGppXw/AAABnSSvrFg/16x9-big/sendungsbild-1825052.jpg?width=1920"
+  },
+  {
+   "id": "nb2186e0dce",
+   "topic": "ki",
+   "title": "Seedream 5.5: Bytedance will mit stabilem Multi-Edit und Transparenz professionelle Workflows bedienen",
+   "text": "Bytedance Seed stellt mit Seedream 5.5 ein Bildmodell vor, das auf professionelle Produktionsworkflows zielt. Das Modell soll stabiles Mehrfach-Editing über bis zu 100 Runden ermöglichen, nativ RGBA-Bilder mit transparentem Hintergrund erzeugen und laut Bytedance bei Realismus vor GPT‑Image-2.5 Sunburst liegen. Eine …",
+   "link": "https://the-decoder.de/seedream-5-5-bytedance-will-mit-stabilem-multi-edit-und-transparenz-professionelle-workflows-bedienen/",
+   "published": "2026-11-09T18:43:01+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-16T18:43:01+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/11/seedance_examples-scaled.png"
+  },
+  {
+   "id": "nbf3cc8a904",
+   "topic": "welt",
+   "title": "Weltklimakonferenz in Antalya: Erster Tag, erster Konflikt",
+   "text": "Im türkischen Antalya hat die UN-Klimakonferenz begonnen - mit eindringlichen Worten und einem vielversprechenden Vorschlag. Doch kaum eröffnet, gab es auch den ersten Konflikt. Von Benjamin Weber",
+   "link": "https://www.tagesschau.de/ausland/cop-136.html",
+   "published": "2026-11-09T18:19:45+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-12T18:19:45+00:00",
+   "img": "https://images.tagesschau.de/image/60a161d0-b947-45ca-8e99-e2a172de2be3/AAABocF_Rvw/AAABnSSvrFg/16x9-big/cop-138.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Weltklimakonferenz COP31 - Was kann der Gipfel in Antalya liefern?",
+     "link": "https://www.dw.com/de/weltklimakonferenz-cop31-was-kann-der-gipfel-in-antalya-liefern/a-79670957?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "n94fdbe47aa",
+   "topic": "it",
+   "title": "Die NASA sucht Astronauten für künftige Mondmissionen",
+   "text": "Die NASA sucht Besatzungen für künftige Mondlandungen und die Mondbasis. Daneben dürfen sich acht Unternehmen um neue Mondflüge bewerben.",
+   "link": "https://www.heise.de/news/Die-NASA-sucht-Astronauten-fuer-kuenftige-Mondmissionen-11518006.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-09T18:10:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-14T18:10:00+00:00"
+  },
+  {
+   "id": "n5c8fc3dce2",
+   "topic": "welt",
+   "title": "Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühltruhen verantwortlich",
+   "text": "In mehreren Ländern Europas hatte es zuletzt Cyberangriffe auf Supermarkt-Kühlanlagen gegeben - als möglicher Urheber galt Russland. Der französische Außenminister machte nun Iran für die Vorfälle in Frankreich verantwortlich.",
+   "link": "https://www.tagesschau.de/ausland/europa/kuehlanlagen-cyberangriffe-100.html",
+   "published": "2026-11-09T17:51:23+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-12T17:51:23+00:00",
+   "img": "https://images.tagesschau.de/image/f526d0b5-6aea-4321-bb81-fdf915d039f4/AAABocFH_aQ/AAABnSSvrFg/16x9-big/kuehlanlagen-frankreich-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Supermärkte - Frankreich macht iranische Revolutionsgarden für Cyberangriffe auf Kühlsysteme verantwortlich",
+     "link": "https://www.deutschlandfunk.de/frankreich-macht-iranische-revolutionsgarden-fuer-cyberangriffe-auf-kuehlsysteme-verantwortlich-102.html"
+    }
+   ]
+  },
+  {
+   "id": "n4ab4f8db1a",
+   "topic": "it",
+   "title": "Gehackte Kühlanlagen: Frankreich beschuldigt Iran als Urheber von Cyberattacken",
+   "text": "Hinter den Cyberattacken auf französische Supermarktketten sollen Hacker der iranischen Revolutionsgarden stecken. ( Security , Cyberwar )",
+   "link": "https://www.golem.de/news/gehackte-kuehlanlagen-frankreich-beschuldigt-iran-als-urheber-von-cyberattacken-2611-215010.html",
+   "published": "2026-11-09T17:42:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-14T17:42:01+00:00",
+   "img": "https://www.golem.de/2611/215010-607572-607570_rc.jpg"
+  },
+  {
+   "id": "n5532018a9e",
+   "topic": "it",
+   "title": "Microsoft prüft Rechenzentrumsverträge und lehnt ab",
+   "text": "Microsoft lässt Insiderinformationen zufolge einige Rechenzentrumsverträge auslaufen, darunter einen Mietvertrag mit Oracle.",
+   "link": "https://www.heise.de/news/Microsoft-laesst-Rechenzentrumsvertrag-mit-Oracle-auslaufen-11517608.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-09T17:30:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-14T17:30:00+00:00"
+  },
+  {
+   "id": "n5e7210ae8a",
+   "topic": "welt",
+   "title": "Russland-Ukraine-Gespräche in Abu Dhabi: Kommt es zu einem Durchbruch?",
+   "text": "Mit Vertretern der Geheimdienste und Diplomaten ist die russische Delegation bei den Gesprächen mit der Ukraine hochrangig besetzt. Auch Vertreter europäischer Staaten reisen nach Abu Dhabi. Was bedeutet das?",
+   "link": "https://www.dw.com/de/russland-ukraine-gespräche-in-abu-dhabi-kommt-es-zu-einem-durchbruch/a-79902965?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-09T17:29:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-13T17:29:00+00:00",
+   "img": "https://static.dw.com/image/77045019_302.jpg"
+  },
+  {
+   "id": "n417f996a4e",
+   "topic": "welt",
+   "title": "Wadephul zweifelt an Russlands Verhandlungswillen",
+   "text": "In Abu Dhabi geht es ab Dienstag um ein mögliches Ende des Ukraine-Kriegs. Sind das ernsthafte Friedensgespräche? Außenminister Wadephul zweifelt am Verhandlungswillen Russlands - und fordert Mitsprache für die Europäer.",
+   "link": "https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-102.html",
+   "published": "2026-11-09T17:19:07+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-12T17:19:07+00:00",
+   "img": "https://images.tagesschau.de/image/c83082f8-691a-4254-a060-9d12d96dad43/AAABocFH_4c/AAABnSSvrFg/16x9-big/wadephul-434.jpg?width=1920"
+  },
+  {
+   "id": "n99bc852b1e",
+   "topic": "wirtschaft",
+   "title": "Marktbericht: DAX erholt sich kräftig",
+   "text": "Der deutsche Aktienmarkt ist stark in die neue Woche gestartet. Während große Fragezeichen über der Technologiebranche bleiben, kam heute Entlastung von anderer Seite.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-170.html",
+   "published": "2026-11-09T17:18:50+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-12T17:18:50+00:00",
+   "img": "https://images.tagesschau.de/image/1d9254b0-75a1-48b6-a8e7-77746406dfc0/AAABns_HxYg/AAABnSSvrFg/16x9-big/boerse-518.jpg?width=1920"
+  },
+  {
+   "id": "nc4cb3cc3d0",
+   "topic": "ki",
+   "title": "Disney und Adobe entwickeln gemeinsam KI-Modelle für Parks, Studios und ESPN",
+   "text": "Disney und Adobe entwickeln gemeinsam generative KI-Werkzeuge für die Produktion des Unterhaltungskonzerns. Der Artikel Disney und Adobe entwickeln gemeinsam KI-Modelle für Parks, Studios und ESPN erschien zuerst auf The Decoder .",
+   "link": "https://the-decoder.de/disney-und-adobe-entwickeln-gemeinsam-ki-modelle-fuer-parks-studios-und-espn/",
+   "published": "2026-11-09T16:54:16+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-16T16:54:16+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/11/TWDC-MAX_Marquee_2000_1000.jpg"
+  },
+  {
+   "id": "nf1d9c91d3b",
+   "topic": "welt",
+   "title": "Russland: Letzte unabhängige Zeitung Nowaja Gaseta stellt Arbeit ein",
+   "text": "Sie galt als die letzte regierungskritische Stimme in Russland - bis heute. Nun hat die Zeitung Nowaja Gaseta ihren Betrieb eingestellt. Der Druck des Kreml wurde zu groß. Mitbegründer Muratow fand dazu klare Worte.",
+   "link": "https://www.tagesschau.de/ausland/europa/russland-zeitung-nowaja-gaseta-102.html",
+   "published": "2026-11-09T16:35:08+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-12T16:35:08+00:00",
+   "img": "https://images.tagesschau.de/image/646ac516-10c7-4ac0-840d-2fc3db6db38f/AAABocEp2f0/AAABnSSvrFg/16x9-big/nowaja-gaseta-114.jpg?width=1920"
+  },
+  {
+   "id": "n5d23e4a9bd",
+   "topic": "welt",
+   "title": "Frankreichs Linksradikale: \"Weniger polarisieren? Werde ich nicht tun\"",
+   "text": "In Frankreich könnte es zur Stichwahl ums Präsidentenamt zwischen der rechtsnationalen Le Pen und ihm kommen: Mélenchon, Anführer der Linksradikalen, euphorisiert - und polarisiert. Erfolg hat er besonders bei jungen Wählern. Von Carolin Dylla.",
+   "link": "https://www.tagesschau.de/ausland/europa/frankreich-melenchon-lfi-wahlkampf-100.html",
+   "published": "2026-11-09T16:25:48+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-12T16:25:48+00:00",
+   "img": "https://images.tagesschau.de/image/47d85ac9-ec36-4792-b57b-d98b6e882f48/AAABocEhTgg/AAABnSSvrFg/16x9-big/jean-luc-melenchon-106.jpg?width=1920"
+  },
+  {
+   "id": "nc6dbe7513c",
+   "topic": "welt",
+   "title": "Frankreich erhöht Mindestlohn um 1,6 Prozent",
+   "text": "Die Regierung in Paris will angesichts der anhaltenden Proteste offenbar ein Zeichen setzen: Die für Januar geplante Erhöhung des Mindestlohns wird nun vorgezogen. Ab Dezember soll es netto 24 Euro mehr geben pro Monat.",
+   "link": "https://www.tagesschau.de/ausland/europa/frankreich-erhoehung-mindestlohn-100.html",
+   "published": "2026-11-09T16:25:22+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-12T16:25:22+00:00",
+   "img": "https://images.tagesschau.de/image/9882f426-7cbf-4bbd-a5ca-33544a91c72a/AAABocDe8qY/AAABnSSvrFg/16x9-big/frankreich-demo-marseille-100.jpg?width=1920"
+  },
+  {
+   "id": "n5b7b89ed8f",
+   "topic": "politik",
+   "title": "Zucker-, Plastik- und Stromsteuer: Die offenen Baustellen im Haushalt",
+   "text": "Nachdem Finanzminister Klingbeil die Plastiksteuer angekündigt hatte, scheint jetzt wieder alles offen. Auch bei der Krypto- und Zuckersteuer ist offenbar alles im Fluss. Worüber die Koalition diskutiert. Von Lissy Kaufmann.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-steuerplaene-bundesregierung-100.html",
+   "published": "2026-11-09T16:24:36+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-12T16:24:36+00:00",
+   "img": "https://images.tagesschau.de/image/53742820-1f56-4d79-8620-8fc02c70097d/AAABocGYltE/AAABnSSvrFg/16x9-big/lars-klingbeil-236.jpg?width=1920"
+  },
+  {
+   "id": "n5bae628074",
+   "topic": "it",
+   "title": "Noch vor Irland: Singapur ist Apples größter Steuerschlupfwinkel",
+   "text": "Neue Offenlegungsregeln in den USA geben Einblick in Apples Gewinnverlagerungen in Niedrigsteuerländer. ( Apple , Wirtschaft )",
+   "link": "https://www.golem.de/news/noch-vor-irland-singapur-ist-apples-groesster-steuerschlupfwinkel-2611-215007.html",
+   "published": "2026-11-09T16:24:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-14T16:24:01+00:00",
+   "img": "https://www.golem.de/2611/215007-607564-607562_rc.jpg"
+  },
+  {
+   "id": "n41dfd3d41e",
+   "topic": "welt",
+   "title": "Warum die Affäre des Nvidia-CEOs mit einer mutmaßlichen chinesischen Spionin von Bedeutung ist",
+   "text": "Nvidia-Chef Jensen Huang hat sich für eine Affäre mit einer Frau entschuldigt, die nach Einschätzung der USA für China spioniert hat. Wie weitreichend sind die Folgen für das wertvollste Unternehmen der Welt?",
+   "link": "https://www.dw.com/de/warum-die-affäre-des-nvidia-ceos-mit-einer-mutmaßlichen-chinesischen-spionin-von-bedeutung-ist/a-79900932?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-09T16:24:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-13T16:24:00+00:00",
+   "img": "https://static.dw.com/image/75070893_302.jpg"
+  },
+  {
+   "id": "n920834f99e",
+   "topic": "wirtschaft",
+   "title": "Mobilfunkunternehmen Vodafone plant Abbau von 2.300 Stellen",
+   "text": "Der Telekommunikationskonzern Vodafone muss sparen. In Deutschland soll nun rund jeder fünfte Job wegfallen - insgesamt 2.300 Stellen. Dafür will der Konzern stärker Künstliche Intelligenz einsetzen.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vodafone-stellenabbau-102.html",
+   "published": "2026-11-09T16:09:03+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-12T16:09:03+00:00",
+   "img": "https://images.tagesschau.de/image/166ca868-0a0f-4ad9-9d5c-2d220ef48fcc/AAABocCm9EM/AAABnSSvrFg/16x9-big/vodafone-duesseldorf-100.jpg?width=1920"
+  },
+  {
+   "id": "n7f3b39c90c",
+   "topic": "wissenschaft",
+   "title": "Katastrophen: Wie menschliche Eingriffe Tsunamis in Seen begünstigen",
+   "text": "Seen wirken idyllisch, doch unter ihrer Oberfläche können sie eine große Gefahr bergen: Menschliche Eingriffe in die Landschaft fördern unter Umständen verheerende Tsunamis.",
+   "link": "https://www.spektrum.de/news/wie-menschliche-eingriffe-tsunamis-in-seen-beguenstigen/2353396",
+   "published": "2026-11-09T16:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-23T16:00:00+00:00"
+  },
+  {
+   "id": "na4352e5d54",
+   "topic": "welt",
+   "title": "Russell Brand zu mehr als zehn Jahren Haft verurteilt",
+   "text": "Vor wenigen Tagen war der Ex-Comedian in London wegen Vergewaltigung und sexueller Nötigung verurteilt worden. Nun wurde das Strafmaß verkündet: Er muss zehneinhalb Jahre in Haft. Inzwischen wurden neue Vorwürfe laut.",
+   "link": "https://www.tagesschau.de/ausland/russell-brand-strafmass-100.html",
+   "published": "2026-11-09T15:56:52+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-12T15:56:52+00:00",
+   "img": "https://images.tagesschau.de/image/c5ad47e9-fd25-428e-8f7e-2947bba5b65b/AAABocDsEzU/AAABnSSvrFg/16x9-big/russel-brand-100.jpg?width=1920"
+  },
+  {
+   "id": "n1200f7217e",
+   "topic": "welt",
+   "title": "Die Hetze von AfD und BSW gegen angebliche rumänische \"Sozialschmarotzer\" empört rumänische Politiker und Rumänen in Deutschland",
+   "text": "Alice Weidel und Sahra Wagenknecht werfen Rumänen pauschal vor, den deutschen Sozialstaat zu missbrauchen. In Rumänien und unter Rumänen in Deutschland stößt das auf scharfen Protest.",
+   "link": "https://www.dw.com/de/die-hetze-von-afd-und-bsw-gegen-angebliche-rumänische-sozialschmarotzer-empört-rumänische-politiker-und-rumänen-in-deutschland/a-79899421?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-09T15:54:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-13T15:54:00+00:00",
+   "img": "https://static.dw.com/image/78367463_302.jpg"
+  },
+  {
+   "id": "n060fa327ea",
+   "topic": "politik",
+   "title": "Steinmeier zu Novemberpogromen: \"Anlass, die Augen zu öffnen\"",
+   "text": "Bundespräsident Steinmeier hat zum Jahrestag der Novemberpogrome von 1938 die historische Verantwortung Deutschlands betont. Dass wieder mehr Juden hierzulande Opfer von Gewalt würden, mache ihn wütend. Es gebe \"Anlass, die Augen zu öffnen\".",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/novemberpogrome-jahrestag-100.html",
+   "published": "2026-11-09T15:51:17+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-12T15:51:17+00:00",
+   "img": "https://images.tagesschau.de/image/ba88ae5b-066d-431b-9caa-2d86931ba6f5/AAABocEBtSI/AAABnSSvrFg/16x9-big/steinmeier-1504.jpg?width=1920"
+  },
+  {
+   "id": "n302e7f3c7b",
+   "topic": "wissenschaft",
+   "title": "Janina Schreiber, ARD Istanbul, über die Erfolgsaussichten dieser Klimakonferenz",
+   "text": "Janina Schreiber, ARD Istanbul, über die Erfolgsaussichten dieser Klimakonferenz",
+   "link": "https://www.tagesschau.de/video/video-1680814.html",
+   "published": "2026-11-09T15:22:42+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-23T15:22:42+00:00",
+   "img": "https://images.tagesschau.de/image/4125034c-213e-4bcc-ab8e-4a5cefe54455/AAABocDli-U/AAABnSSvrFg/16x9-big/sendungsbild-1824964.jpg?width=1920"
+  },
+  {
+   "id": "n2af2fd3860",
+   "topic": "wissenschaft",
+   "title": "Hawaii-Sichelkleidervogel: Dieser kleine Vogel hat einen Zwei-Komponenten-Schnabel",
+   "text": "ʻAkiapōlāʻau, so der hawaiische Name, hat einen für die Tierwelt außergewöhnlichen Schnabel. Wie er sein Werkzeug zum Einsatz bringt, haben Fachleute nun anatomisch geklärt.",
+   "link": "https://www.spektrum.de/news/dieser-kleine-vogel-hat-einen-zwei-komponenten-schnabel/2353283",
+   "published": "2026-11-09T15:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-23T15:00:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/Akiapolaau__C__Bret_Nainoa_Mossman.JPG.8423542.gif?f=1280x720"
+  },
+  {
+   "id": "nfe4ba7c24c",
+   "topic": "politik",
+   "title": "Warum Merz sich doch für Aigner als Bundespräsidentin stark macht",
+   "text": "Lange hatte der Kanzler gezögert - nun ist es offiziell: Die CDU überlässt das höchste Staatsamt der kleinen Schwesterpartei aus Bayern. Die viel befürchtete Kritik in den eigenen Reihen ist ausgeblieben. Von Jannik Pentz.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-kandidatin-bundespraesidentin-100.html",
+   "published": "2026-11-09T14:48:54+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-12T14:48:54+00:00",
+   "img": "https://images.tagesschau.de/image/305b59b8-9dc9-460c-9bb4-6ba0b48f1eb8/AAABocDAhaM/AAABnSSvrFg/16x9-big/merz-aigner-118.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Steinmeier-Nachfolge - Nach Nominierung: CSU-Politikerin Ilse Aigner bedankt sich für parteiübergreifenden Zuspruch",
+     "link": "https://www.deutschlandfunk.de/nach-nominierung-csu-politikerin-ilse-aigner-bedankt-sich-fuer-parteiuebergreifenden-zuspruch-102.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "llse Aigner soll Bundespräsidentin werden. Sie wäre die erste Frau",
+     "link": "https://www.dw.com/de/llse-aigner-soll-bundespräsidentin-werden-sie-wäre-die-erste-frau/a-79895956?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "nda840399eb",
+   "topic": "politik",
+   "title": "Aigner soll Bundespräsidentin werden: \"Meine Sprache wird klar sein und verständlich\"",
+   "text": "Eine Bundespräsidentin \"mit Würde und Herz\": Kanzler Merz sieht Ilse Aigner als genau richtige Kandidatin. Die 61-Jährige zeigte sich bewegt von der Nominierung - und machte klar, wofür sie steht: eine Politik der Mitte.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-merz-bundespraesidentin-100.html",
+   "published": "2026-11-09T14:45:20+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-12T14:45:20+00:00",
+   "img": "https://images.tagesschau.de/image/5d5d22be-0a9e-4795-ba7f-4b4750b82e1d/AAABocCHU3k/AAABnSSvrFg/16x9-big/merz-aigner-114.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Steinmeier-Nachfolge - Nach Nominierung: CSU-Politikerin Ilse Aigner bedankt sich für parteiübergreifenden Zuspruch",
+     "link": "https://www.deutschlandfunk.de/nach-nominierung-csu-politikerin-ilse-aigner-bedankt-sich-fuer-parteiuebergreifenden-zuspruch-102.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "llse Aigner soll Bundespräsidentin werden. Sie wäre die erste Frau",
+     "link": "https://www.dw.com/de/llse-aigner-soll-bundespräsidentin-werden-sie-wäre-die-erste-frau/a-79895956?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "n4ee700815e",
+   "topic": "welt",
+   "title": "Von Panik keine Spur: Deutschland und seine Gasvorräte",
+   "text": "Die deutschen Gasspeicher sind zwar nicht nach Plan gefüllt, aber die Politik scheint das nicht zu sorgen. Die italienische Regierung wirft der Bundesregierung vor, durch Untätigkeit den Preis hochgetrieben zu haben.",
+   "link": "https://www.dw.com/de/von-panik-keine-spur-deutschland-und-seine-gasvorräte/a-79872731?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-09T14:40:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-13T14:40:00+00:00",
+   "img": "https://static.dw.com/image/79153629_302.jpg"
+  },
+  {
+   "id": "n2e7c0c15d7",
+   "topic": "welt",
+   "title": "llse Aigner soll Bundespräsidentin werden. Sie wäre die erste Frau",
+   "text": "Zum ersten Mal kein Mann. Und zum ersten Mal aus der bayerischen CSU. Bundeskanzler Friedrich Merz hat die erfahrene Politikerin Ilse Aigner in politisch turbulenten Zeiten vorgeschlagen.",
+   "link": "https://www.dw.com/de/llse-aigner-soll-bundespräsidentin-werden-sie-wäre-die-erste-frau/a-79895956?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-09T14:20:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-13T14:20:00+00:00",
+   "img": "https://static.dw.com/image/79900746_302.jpg",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Steinmeier-Nachfolge - Nach Nominierung: CSU-Politikerin Ilse Aigner bedankt sich für parteiübergreifenden Zuspruch",
+     "link": "https://www.deutschlandfunk.de/nach-nominierung-csu-politikerin-ilse-aigner-bedankt-sich-fuer-parteiuebergreifenden-zuspruch-102.html"
+    },
+    {
+     "source": "Tagesschau",
+     "title": "Warum Merz sich doch für Aigner als Bundespräsidentin stark macht",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-kandidatin-bundespraesidentin-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n77e033c551",
+   "topic": "wissenschaft",
+   "title": "Unkontrolliert agierende KI: Kann man eine KI einfach abschalten?",
+   "text": "Ein Notausschalter für außer Kontrolle geratene KIs klingt verlockend, ist aber kaum umsetzbar. Stattdessen braucht es Konzepte aus der IT-Sicherheit und Einsatzgrenzen für KI.",
+   "link": "https://www.spektrum.de/news/kill-switch-kann-man-ki-systeme-einfach-abschalten/2352091",
+   "published": "2026-11-09T14:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-23T14:00:00+00:00"
+  },
+  {
+   "id": "nc987afa18b",
+   "topic": "wirtschaft",
+   "title": "Affäre von Nvidia-Chef Huang: Darum geht es beim Spionage-Verdacht",
+   "text": "Der US-Chipkonzern Nvidia ermittelt gegen seinen Chef Jensen Huang wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin. Welche Vorwürfe konkret im Raum stehen - und welche Folgen sie haben könnten.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-nvidia-spionage-100.html",
+   "published": "2026-11-09T13:58:03+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-12T13:58:03+00:00"
+  },
+  {
+   "id": "n775e8aeb12",
+   "topic": "wirtschaft",
+   "title": "Nvidia-Affäre lässt Aktie einbrechen",
+   "text": "Die mutmaßliche Spionageaffäre um Nvidia-Chef Huang trifft den Chiphersteller und die gesamte KI-Branche zu einem äußerst ungünstigen Zeitpunkt. Wie es weitergeht, müssen nun Fakten entscheiden. Von D. Landmesser.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-nvidia-ki-huang-100.html",
+   "published": "2026-11-09T13:44:48+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-12T13:44:48+00:00",
+   "img": "https://images.tagesschau.de/image/6f6a4eef-a3c2-430d-8e62-0c53b07792e2/AAABocAHH4Y/AAABnSSvrFg/16x9-big/nvidia-180.jpg?width=1920"
+  },
+  {
+   "id": "n7b09e4a417",
+   "topic": "wissenschaft",
+   "title": "Auftakt der Klimakonferenz in Antalya",
+   "text": "Auftakt der Klimakonferenz in Antalya",
+   "link": "https://www.tagesschau.de/video/video-1680758.html",
+   "published": "2026-11-09T13:40:35+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-23T13:40:35+00:00",
+   "img": "https://images.tagesschau.de/image/88b0b8e3-b9f9-4e6e-b2c4-25b92e2b6400/AAABocCJnBo/AAABnSSvrFg/16x9-big/sendungsbild-1824908.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Klimakonferenz in Antalya - Guterres: Neues Zeitalter der Klimaextreme erreicht",
+     "link": "https://www.deutschlandfunk.de/guterres-neues-zeitalter-der-klimaextreme-erreicht-112.html"
+    }
+   ]
+  },
+  {
+   "id": "n2f3d3dee39",
+   "topic": "welt",
+   "title": "Terror auf Krakaus Marktplatz: Wie der erste Anschlag dieser Art Polens Sicherheitsgefühl erschütterte und das Land veränderte",
+   "text": "Der Terroranschlag von Krakau forderte sechs Menschenleben und erschüttert ganz Polen. Die Stadt will offen bleiben, doch das Gefühl von Sicherheit ist für viele verloren. Der Täter ist mittlerweile verstorben.",
+   "link": "https://www.dw.com/de/terror-auf-krakaus-marktplatz-wie-der-erste-anschlag-dieser-art-polens-sicherheitsgefühl-erschütterte-und-das-land-veränderte/a-79898241?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-09T13:29:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-13T13:29:00+00:00",
+   "img": "https://static.dw.com/image/79898296_302.jpg"
+  },
+  {
+   "id": "n9ae43c06e3",
+   "topic": "politik",
+   "title": "Das ist der Weg zum neuen Staatsoberhaupt",
+   "text": "Es soll eine Frau werden - und sie kommt aus der CSU: Ilse Aigner wäre in mehrfacher Hinsicht eine Premiere für Deutschland. Aber gewählt ist das neue Staatsoberhaupt noch nicht. Wer wählt da überhaupt und könnte es noch weitere Kandidaten geben?",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/bundespraesidentin-bundesversammlung-aigner-100.html",
+   "published": "2026-11-09T12:53:31+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-12T12:53:31+00:00",
+   "img": "https://images.tagesschau.de/image/0323293e-a16e-47e6-8d71-db49fe08b315/AAABob_JBQM/AAABnSSvrFg/16x9-big/steinmeier-1500.jpg?width=1920"
+  },
+  {
+   "id": "na7712b3be0",
+   "topic": "wirtschaft",
+   "title": "Commerzbank-Übernahme soll Anfang 2027 durch sein",
+   "text": "Noch diesen Monat könnte die UniCredit die letzten Genehmigungen für die Commerzbank-Übernahme erhalten. Auch die Fusion von Commerzbank und der HypoVereinsbank läuft wohl schneller als gedacht.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-uebernahme-unicredit-100.html",
+   "published": "2026-11-09T12:52:38+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-12T12:52:38+00:00",
+   "img": "https://images.tagesschau.de/image/4de5d769-2370-4f80-a346-bb0787711c3a/AAABn0EFae0/AAABnSSvrFg/16x9-big/commerzbank-274.jpg?width=1920"
+  },
+  {
+   "id": "n6343d86600",
+   "topic": "politik",
+   "title": "Opferbeauftragte Zupke warnt vor Verdrehung der DDR-Geschichte",
+   "text": "Der 9. November spielt eine besondere Rolle in der deutschen Geschichte. Die SED-Opferbeauftragte mahnt, das Erbe der friedlichen Revolution nicht politisch zu missbrauchen. Bundesweit wird heute auch der Pogromnacht vor 88 Jahren gedacht.",
+   "link": "https://www.tagesschau.de/inland/november-gedenken-100.html",
+   "published": "2026-11-09T11:50:06+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-12T11:50:06+00:00",
+   "img": "https://images.tagesschau.de/image/28668964-77c4-4190-9eeb-d8fedaf45ea0/AAABob8lszs/AAABnSSvrFg/16x9-big/akten-126.jpg?width=1920"
+  },
+  {
+   "id": "n5872045677",
+   "topic": "politik",
+   "title": "Schneider fordert Alternative zur Plastiksteuer",
+   "text": "\"Die Plastiksteuer machen wir nicht.\" Die Ansage von Unionsfraktionschef Frei war klar und deutlich - doch mit den Einnahmen daraus wird schon geplant. Umweltminister Schneider sieht jetzt die Union in der Pflicht.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/diskussion-plastiksteuer-100.html",
+   "published": "2026-11-09T09:03:50+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-12T09:03:50+00:00",
+   "img": "https://images.tagesschau.de/image/aefcdb76-f04a-4cd8-8ecc-a0e2ec954b03/AAABoQx7WsM/AAABnSSvrFg/16x9-big/gemuese-plastik-101.jpg?width=1920"
+  },
   {
    "id": "nbde315766e",
    "topic": "it",
@@ -130,13 +892,13 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Bundespräsidenten-Wahl: Merz bricht sein Schweigen und schlägt Aigner vor",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-100.html"
+     "title": "Warum Merz sich doch für Aigner als Bundespräsidentin stark macht",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-kandidatin-bundespraesidentin-100.html"
     },
     {
      "source": "Deutsche Welle",
-     "title": "Die CSU-Politikerin Ilse Aigner ist als erste Bundespräsidentin nun Favoritin",
-     "link": "https://www.dw.com/de/die-csu-politikerin-ilse-aigner-ist-als-erste-bundespräsidentin-nun-favoritin/a-79873744?maca=de-rss-de-all-1119-xml-mrss"
+     "title": "llse Aigner soll Bundespräsidentin werden. Sie wäre die erste Frau",
+     "link": "https://www.dw.com/de/llse-aigner-soll-bundespräsidentin-werden-sie-wäre-die-erste-frau/a-79895956?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -154,13 +916,13 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Bundespräsidenten-Wahl: Merz bricht sein Schweigen und schlägt Aigner vor",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-100.html"
+     "title": "Warum Merz sich doch für Aigner als Bundespräsidentin stark macht",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-kandidatin-bundespraesidentin-100.html"
     },
     {
      "source": "Deutsche Welle",
-     "title": "Die CSU-Politikerin Ilse Aigner ist als erste Bundespräsidentin nun Favoritin",
-     "link": "https://www.dw.com/de/die-csu-politikerin-ilse-aigner-ist-als-erste-bundespräsidentin-nun-favoritin/a-79873744?maca=de-rss-de-all-1119-xml-mrss"
+     "title": "llse Aigner soll Bundespräsidentin werden. Sie wäre die erste Frau",
+     "link": "https://www.dw.com/de/llse-aigner-soll-bundespräsidentin-werden-sie-wäre-die-erste-frau/a-79895956?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -175,7 +937,14 @@
    "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
    "lang": "de",
    "expires": "2026-11-13T06:15:00+00:00",
-   "img": "https://static.dw.com/image/79659283_302.jpg"
+   "img": "https://static.dw.com/image/79659283_302.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Weltklimakonferenz in Antalya: Erster Tag, erster Konflikt",
+     "link": "https://www.tagesschau.de/ausland/cop-136.html"
+    }
+   ]
   },
   {
    "id": "ne219ea1859",
@@ -304,7 +1073,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-23T03:59:05+00:00",
-   "img": "https://images.tagesschau.de/image/1a118cb5-f408-4cf0-8d4d-79c6d60dbaaf/AAABob5TYAg/AAABnSSvrFg/16x9-big/cop-134.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/1a118cb5-f408-4cf0-8d4d-79c6d60dbaaf/AAABob5TYAg/AAABnSSvrFg/16x9-big/cop-134.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Klimakonferenz in Antalya - Guterres: Neues Zeitalter der Klimaextreme erreicht",
+     "link": "https://www.deutschlandfunk.de/guterres-neues-zeitalter-der-klimaextreme-erreicht-112.html"
+    }
+   ]
   },
   {
    "id": "nba048979b7",
@@ -321,13 +1097,13 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Treffen der CDU-Gremien - Merz will Aigner als Kandidatin für das Amt der Bundespräsidentin vorstellen",
-     "link": "https://www.deutschlandfunk.de/merz-will-aigner-als-kandidatin-fuer-das-amt-der-bundespraesidentin-vorstellen-100.html"
+     "title": "Steinmeier-Nachfolge - Nach Nominierung: CSU-Politikerin Ilse Aigner bedankt sich für parteiübergreifenden Zuspruch",
+     "link": "https://www.deutschlandfunk.de/nach-nominierung-csu-politikerin-ilse-aigner-bedankt-sich-fuer-parteiuebergreifenden-zuspruch-102.html"
     },
     {
      "source": "Deutsche Welle",
-     "title": "Die CSU-Politikerin Ilse Aigner ist als erste Bundespräsidentin nun Favoritin",
-     "link": "https://www.dw.com/de/die-csu-politikerin-ilse-aigner-ist-als-erste-bundespräsidentin-nun-favoritin/a-79873744?maca=de-rss-de-all-1119-xml-mrss"
+     "title": "llse Aigner soll Bundespräsidentin werden. Sie wäre die erste Frau",
+     "link": "https://www.dw.com/de/llse-aigner-soll-bundespräsidentin-werden-sie-wäre-die-erste-frau/a-79895956?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -489,13 +1265,13 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Bundespräsidenten-Wahl: Merz bricht sein Schweigen und schlägt Aigner vor",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-100.html"
+     "title": "Warum Merz sich doch für Aigner als Bundespräsidentin stark macht",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-kandidatin-bundespraesidentin-100.html"
     },
     {
      "source": "Deutsche Welle",
-     "title": "Die CSU-Politikerin Ilse Aigner ist als erste Bundespräsidentin nun Favoritin",
-     "link": "https://www.dw.com/de/die-csu-politikerin-ilse-aigner-ist-als-erste-bundespräsidentin-nun-favoritin/a-79873744?maca=de-rss-de-all-1119-xml-mrss"
+     "title": "llse Aigner soll Bundespräsidentin werden. Sie wäre die erste Frau",
+     "link": "https://www.dw.com/de/llse-aigner-soll-bundespräsidentin-werden-sie-wäre-die-erste-frau/a-79895956?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -513,13 +1289,13 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Bundespräsidenten-Wahl: Merz bricht sein Schweigen und schlägt Aigner vor",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-100.html"
+     "title": "Warum Merz sich doch für Aigner als Bundespräsidentin stark macht",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-kandidatin-bundespraesidentin-100.html"
     },
     {
      "source": "Deutsche Welle",
-     "title": "Die CSU-Politikerin Ilse Aigner ist als erste Bundespräsidentin nun Favoritin",
-     "link": "https://www.dw.com/de/die-csu-politikerin-ilse-aigner-ist-als-erste-bundespräsidentin-nun-favoritin/a-79873744?maca=de-rss-de-all-1119-xml-mrss"
+     "title": "llse Aigner soll Bundespräsidentin werden. Sie wäre die erste Frau",
+     "link": "https://www.dw.com/de/llse-aigner-soll-bundespräsidentin-werden-sie-wäre-die-erste-frau/a-79895956?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -635,13 +1411,13 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Treffen der CDU-Gremien - Merz will Aigner als Kandidatin für das Amt der Bundespräsidentin vorstellen",
-     "link": "https://www.deutschlandfunk.de/merz-will-aigner-als-kandidatin-fuer-das-amt-der-bundespraesidentin-vorstellen-100.html"
+     "title": "Steinmeier-Nachfolge - Nach Nominierung: CSU-Politikerin Ilse Aigner bedankt sich für parteiübergreifenden Zuspruch",
+     "link": "https://www.deutschlandfunk.de/nach-nominierung-csu-politikerin-ilse-aigner-bedankt-sich-fuer-parteiuebergreifenden-zuspruch-102.html"
     },
     {
      "source": "Deutsche Welle",
-     "title": "Die CSU-Politikerin Ilse Aigner ist als erste Bundespräsidentin nun Favoritin",
-     "link": "https://www.dw.com/de/die-csu-politikerin-ilse-aigner-ist-als-erste-bundespräsidentin-nun-favoritin/a-79873744?maca=de-rss-de-all-1119-xml-mrss"
+     "title": "llse Aigner soll Bundespräsidentin werden. Sie wäre die erste Frau",
+     "link": "https://www.dw.com/de/llse-aigner-soll-bundespräsidentin-werden-sie-wäre-die-erste-frau/a-79895956?maca=de-rss-de-all-1119-xml-mrss"
     }
    ]
   },
@@ -673,13 +1449,13 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Treffen der CDU-Gremien - Merz will Aigner als Kandidatin für das Amt der Bundespräsidentin vorstellen",
-     "link": "https://www.deutschlandfunk.de/merz-will-aigner-als-kandidatin-fuer-das-amt-der-bundespraesidentin-vorstellen-100.html"
+     "title": "Steinmeier-Nachfolge - Nach Nominierung: CSU-Politikerin Ilse Aigner bedankt sich für parteiübergreifenden Zuspruch",
+     "link": "https://www.deutschlandfunk.de/nach-nominierung-csu-politikerin-ilse-aigner-bedankt-sich-fuer-parteiuebergreifenden-zuspruch-102.html"
     },
     {
      "source": "Tagesschau",
-     "title": "Bundespräsidenten-Wahl: Merz bricht sein Schweigen und schlägt Aigner vor",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-100.html"
+     "title": "Warum Merz sich doch für Aigner als Bundespräsidentin stark macht",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-kandidatin-bundespraesidentin-100.html"
     }
    ]
   },
@@ -1064,740 +1840,6 @@
    "type": "Wissenschaftsmagazin",
    "lang": "de",
    "expires": "2026-11-22T14:00:00+00:00"
-  },
-  {
-   "id": "n996d12f418",
-   "topic": "it",
-   "title": "Apple-Tastatur: Was das iPhone nicht zu Ende schreiben will",
-   "text": "Apple hat eine Wortvorhersage, die aber bei vielen politischen Begriffen, Drogen und heiklen Ausdrücken gezielt den Dienst quittiert. ( iOS , Apple )",
-   "link": "https://www.golem.de/news/apple-tastatur-was-das-iphone-nicht-zu-ende-schreiben-will-2611-214970.html",
-   "published": "2026-11-08T13:38:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-13T13:38:02+00:00",
-   "img": "https://www.golem.de/2611/214970-607390-607388_rc.jpg"
-  },
-  {
-   "id": "n1acf90cfa1",
-   "topic": "welt",
-   "title": "Mali: Fast 4.000 Vertriebene nach Angriff auf Souleye",
-   "text": "In Mali sollen fast 4000 Vertriebene in Macina und Sarro in der Region Ségou im Zentrum des Landes Zuflucht gefunden haben - vor allem Frauen und Kinder, die vor dem Angriff auf das Dorf Souleye geflohen sind.",
-   "link": "https://www.dw.com/de/mali-fast-4-000-vertriebene-nach-angriff-auf-souleye/a-79854085?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-08T13:37:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-12T13:37:00+00:00",
-   "img": "https://static.dw.com/image/59152594_302.jpg"
-  },
-  {
-   "id": "n4c07427704",
-   "topic": "welt",
-   "title": "Ukraine: AKW Saporischschja wieder vom Strom abgetrennt",
-   "text": "Das von russischen Einheiten kontrollierte ukrainische Atomkraftwerk Saporischschja muss abermals mit Notstromaggregaten versorgt werden. Die Gründe hierfür sind noch nicht bekannt.",
-   "link": "https://www.dw.com/de/ukraine-akw-saporischschja-wieder-vom-strom-abgetrennt/a-79890404?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-08T13:20:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-12T13:20:00+00:00",
-   "img": "https://static.dw.com/image/65845532_302.jpg"
-  },
-  {
-   "id": "n6b97c633e3",
-   "topic": "welt",
-   "title": "Moskau: Gedenktafel erinnert an DDR-Spionagechef Wolf",
-   "text": "Die DDR-Diktatur ist seit mehr als drei Jahrzehnten Geschichte. Markus Wolf, einer ihrer führenden Repräsentanten, wird nun in Moskau geehrt.",
-   "link": "https://www.dw.com/de/moskau-gedenktafel-erinnert-an-ddr-spionagechef-wolf/a-79890319?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-08T13:02:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-12T13:02:00+00:00",
-   "img": "https://static.dw.com/image/79890296_302.jpg"
-  },
-  {
-   "id": "n6d2bc0b92c",
-   "topic": "ki",
-   "title": "KI mit Bewusstsein: Chatbots sind Spiegel der Trainingsdaten, keine fühlenden Wesen",
-   "text": "Die drei prominenten Bewusstseinsforscher Anil Seth, Ned Block und Giulio Tononi argumentieren in einem Nature-Kommentar, dass heutige KI-Systeme nicht bewusst sind und es auf Silizium-Hardware auch nicht werden. Sie halten die Annahme, Bewusstsein hänge allein von Berechnungen ab, für \"fatal fehlerhaft\" und warnen …",
-   "link": "https://the-decoder.de/ki-mit-bewusstsein-chatbots-sind-spiegel-der-trainingsdaten-keine-fuehlenden-wesen/",
-   "published": "2026-11-08T12:31:21+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-15T12:31:21+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/ai_consciousness.png"
-  },
-  {
-   "id": "n3c80bc6052",
-   "topic": "welt",
-   "title": "Russische Luftangriffe: Erneut Hunderttausende Ukrainer ohne Strom",
-   "text": "Erneut hat Russland die ukrainische Energieversorgung schwer getroffen. In der Region Dnipropetrowsk haben 600.000 Menschen keinen Strom. Das besetzte Atomkraftwerk Saporischschja muss mit Notstromaggregaten gekühlt werden.",
-   "link": "https://www.tagesschau.de/ausland/europa/ukraine-stromausfall-120.html",
-   "published": "2026-11-08T12:05:57+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-11T12:05:57+00:00",
-   "img": "https://images.tagesschau.de/image/191b788d-eaa3-44e0-8d43-2c000d71fd4a/AAABobrngk4/AAABnSSvrFg/16x9-big/stadt-stromausfall-100.jpg?width=1920"
-  },
-  {
-   "id": "nc813f98b4a",
-   "topic": "welt",
-   "title": "Schüsse in Krakau: Staatsanwaltschaft geht Terrorismusverdacht nach",
-   "text": "Nach den Schüssen in Krakau geht die Staatsanwaltschaft von Terrorismus aus. Sechs Menschen starben. Es gibt Hinweise auf eine \"sehr radikale\" Gesinnung des Schützen. Auch drei Familienmitglieder wurden erschossen.",
-   "link": "https://www.tagesschau.de/ausland/europa/krakau-schuesse-trauer-102.html",
-   "published": "2026-11-08T11:19:37+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-11T11:19:37+00:00",
-   "img": "https://images.tagesschau.de/image/8e7acc0b-1350-4eb2-b37a-a80548dbbca8/AAABobrio8o/AAABnSSvrFg/16x9-big/krakau-schuesse-marktplatz-108.jpg?width=1920"
-  },
-  {
-   "id": "nc5a90ddfae",
-   "topic": "ki",
-   "title": "Erfinder der \"bitteren Lektion\" warnt: KI-Wissenschaft ist noch lange nicht am Ziel",
-   "text": "Turing-Preisträger Richard Sutton bekräftigt: Rohe Rechenkraft allein reiche nicht für Intelligenz, es benötige grundlegend neue Lernverfahren. Ex-OpenAI-Forscher Tworek pflichtet bei: Blinde Transformer-Skalierung habe \"einer ganzen Generation von Wissenschaftlern den Verstand vernebelt\". Eine wachsende …",
-   "link": "https://the-decoder.de/erfinder-der-bitteren-lektion-warnt-ki-wissenschaft-ist-noch-lange-nicht-am-ziel/",
-   "published": "2026-11-08T11:05:41+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-15T11:05:41+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/11/ai_scaling_bitter_lesson-2.png"
-  },
-  {
-   "id": "nf3851c49d1",
-   "topic": "welt",
-   "title": "US-Militär attackiert Handelsschiff im Golf von Oman",
-   "text": "Im Golf von Oman hat das US-Militär auf ein Handelsschiff gefeuert, das gegen die US-Seeblockade verstoßen haben soll. Iran meldet den Brand zweier Frachter in der Straße von Hormus. Huthis greifen die saudische Hauptstadt Riad an.",
-   "link": "https://www.tagesschau.de/ausland/asien/usa-iran-seeblockade-angriff-handelsschiff-100.html",
-   "published": "2026-11-08T11:04:42+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-11T11:04:42+00:00",
-   "img": "https://images.tagesschau.de/image/15a557c5-1453-4cec-8231-10da1cbc3d08/AAABobrU-hk/AAABnSSvrFg/16x9-big/iran-schiff-100.jpg?width=1920"
-  },
-  {
-   "id": "n2091693859",
-   "topic": "politik",
-   "title": "Jerusalem - Israels Präsident Herzog beauftragt Oppositionspolitiker Eisenkot mit Regierungsbildung",
-   "text": "Der israelische Präsident Herzog wird den Oppositionspolitiker Eisenkot mit der Regierungsbildung beauftragen. Ein Sprecher des Präsidenten sagte, Eisenkot sei von Herzog für heute in dessen Amtssitz in Jerusalem eingeladen worden.",
-   "link": "https://www.deutschlandfunk.de/israels-praesident-herzog-beauftragt-oppositionspolitiker-eisenkot-mit-regierungsbildung-106.html",
-   "published": "2026-11-08T10:05:53+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-10T10:05:53+00:00",
-   "img": "https://bilder.deutschlandfunk.de/15/1b/7d/c9/151b7dc9-7817-4948-a554-a53742164076/gadi-eisenkot-104-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Israel: Netanjahu-Rivale Gadi Eisenkot soll Regierung bilden",
-     "link": "https://www.dw.com/de/israel-netanjahu-rivale-gadi-eisenkot-soll-regierung-bilden/a-79889744?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Israel: Oppositionsführer Eisenkot soll neue Regierung bilden",
-     "link": "https://www.tagesschau.de/ausland/asien/israel-auftrag-regierungsbildung-eisenkot-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n5389f4d9e6",
-   "topic": "politik",
-   "title": "Berlin - Linkenabgeordnete Emde weist Rückzugsforderung des Landesvorstands zurück",
-   "text": "Die Berliner Politikerin der Linken, Emde, hat die Aufforderung des Landesvorstands zurückgewiesen, auf ihren Sitz im Abgeordnetenhaus zu verzichten.",
-   "link": "https://www.deutschlandfunk.de/linkenabgeordnete-emde-weist-rueckzugsforderung-des-landesvorstands-zurueck-102.html",
-   "published": "2026-11-08T10:05:53+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-10T10:05:53+00:00",
-   "img": "https://bilder.deutschlandfunk.de/d7/a2/2f/d3/d7a22fd3-5253-46ff-8e64-bb075475afb7/vanessa-emde-die-linke-krankmeldung-abstimmung-umgang-100-1920x1920.jpg"
-  },
-  {
-   "id": "n11cf765cc6",
-   "topic": "politik",
-   "title": "Ukraine-Krieg - Erneut russischer Angriff auf ukrainische Energieversorgung - 600.000 Menschen ohne Strom",
-   "text": "Nach einem erneuten russischen ⁠Angriff auf die Energieversorgung in der Ukraine ⁠sind ⁠laut den Behörden ⁠mehr als ⁠600.000 ‌Menschen im Osten des Landes ohne ​Strom.",
-   "link": "https://www.deutschlandfunk.de/erneut-russischer-angriff-auf-ukrainische-energieversorgung-600-000-menschen-ohne-strom-100.html",
-   "published": "2026-11-08T10:05:53+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-10T10:05:53+00:00",
-   "img": "https://bilder.deutschlandfunk.de/5b/c7/ec/81/5bc7ec81-db6e-4148-9645-7832ae6bd463/ukraine-russische-angriffe-100-1920x1920.jpg"
-  },
-  {
-   "id": "ne84231a5ae",
-   "topic": "politik",
-   "title": "Polen - Polizei bestätigt: Familie des Todesschützen von Krakau ist tot",
-   "text": "Die polnische Polizei hat bestätigt, dass es sich bei den drei Leichen im Haus des Todesschützen von Krakau um dessen Familienangehörige handelt. Ein Radiosender meldet unter Berufung auf einen Sprecher der Polizeizentrale in Warschau, die Toten seien die Eltern und die Schwester des Mannes.",
-   "link": "https://www.deutschlandfunk.de/polizei-bestaetigt-familie-des-todesschuetzen-von-krakau-ist-tot-100.html",
-   "published": "2026-11-08T10:05:53+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-10T10:05:53+00:00",
-   "img": "https://bilder.deutschlandfunk.de/02/4b/e6/7e/024be67e-44eb-4715-b14f-8af88d11caa2/krakau-schuesse-102-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Mindestens 21 Tote nach Bootsunglück vor Senegal gemeldet",
-     "link": "https://www.tagesschau.de/ausland/afrika/viele-tote-bootsunglueck-senegal-100.html"
-    }
-   ]
-  },
-  {
-   "id": "nb9eb150f20",
-   "topic": "politik",
-   "title": "Saudi-Arabien - Gebäude des saudischen Ölkonzerns Aramco bei Huthi-Angriff beschädigt",
-   "text": "Bei einem Raketenangriff der jemenitischen Huthi-Miliz auf die saudi-arabische Hauptstadt Riad ist ein Hochhaus des staatlichen Ölkonzerns Aramco beschädigt worden.",
-   "link": "https://www.deutschlandfunk.de/gebaeude-des-saudischen-oelkonzerns-aramco-bei-huthi-angriff-beschaedigt-102.html",
-   "published": "2026-11-08T10:05:53+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-10T10:05:53+00:00",
-   "img": "https://bilder.deutschlandfunk.de/44/12/6c/4c/44126c4c-f8a5-481f-a7dd-493718dd4002/saudi-arabien-110-1920x1920.jpg"
-  },
-  {
-   "id": "nfa11854188",
-   "topic": "politik",
-   "title": "Iran - Drei Männer wegen des Vorwurfs der Beteiligung an regierungskritischen Protesten hingerichtet",
-   "text": "Im Iran sind drei Männer hingerichtet worden, die wegen des Vorwurfs der Beteiligung an regierungskritischen Protesten im Januar verurteilt worden waren.",
-   "link": "https://www.deutschlandfunk.de/drei-maenner-wegen-des-vorwurfs-der-beteiligung-an-regierungskritischen-protesten-hingerichtet-102.html",
-   "published": "2026-11-08T10:05:53+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-10T10:05:53+00:00",
-   "img": "https://bilder.deutschlandfunk.de/5c/e7/b5/71/5ce7b571-e8b9-425b-acd6-92530ab25f1f/nachrichtenpodcast-102-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Iran richtet drei weitere Männer nach Massenprotesten hin",
-     "link": "https://www.dw.com/de/iran-richtet-drei-weitere-männer-nach-massenprotesten-hin/a-79889299?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "nfabba34c93",
-   "topic": "politik",
-   "title": "News zu Eintracht Frankfurt",
-   "text": "Hier bekommen Sie immer die neuesten Nachrichten über Eintracht Frankfurt.",
-   "link": "https://www.hessenschau.de/sport/fussball/eintracht-frankfurt/eintracht-frankfurt-news-ticker-das-eintracht-remis-in-paderborn-in-der-analyse,bundesliga-ticker-104.html",
-   "published": "2026-11-08T10:05:41+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-12T10:05:41+00:00",
-   "img": "https://www.hessenschau.de/sport/fussball/eintracht-frankfurt/eintracht-gute-besserung-100~_t-1794072417809_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "n01953674fd",
-   "topic": "nfl",
-   "title": "Which NFL games are Fox, CBS broadcasting? Week 9 coverage maps",
-   "text": "Which NFL games will be broadcast in your region in Week 9? Here are the coverage maps for Sunday's action.",
-   "link": "https://sports.yahoo.com/articles/nfl-games-fox-cbs-broadcasting-100348980.html",
-   "published": "2026-11-08T10:03:48+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-13T10:03:48+00:00",
-   "img": "https://media.zenfs.com/en/usa_today_sports_articles_558/7661ea741e6cb440937beed495e75c56.png"
-  },
-  {
-   "id": "n651739bb15",
-   "topic": "wissenschaft",
-   "title": "Gelassenheit im Alter: »Im mittleren Alter werden die Weichen gestellt«",
-   "text": "Zufriedenes Altern beginnt lange vor dem Ruhestand. Die Psychologin Pasqualina Perrig-Chiello erklärt, warum manche Menschen im Alter gelassen sind – und andere verbittern.",
-   "link": "https://www.spektrum.de/news/gelassenheit-im-alter-akzeptanz-sinn-und-vergebung-zaehlen/2332430",
-   "published": "2026-11-08T10:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-22T10:00:00+00:00"
-  },
-  {
-   "id": "n6dac63a36f",
-   "topic": "nfl",
-   "title": "Patriots vs. Packers: How to watch the Week 9 game on Sunday",
-   "text": "Everything you need to know about watching Sunday’s Patriots game.",
-   "link": "https://sports.yahoo.com/articles/patriots-vs-packers-watch-week-100000281.html",
-   "published": "2026-11-08T10:00:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-13T10:00:00+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/d75e67bd3d099fd08c961031658ab1c5.jpg"
-  },
-  {
-   "id": "n2908963393",
-   "topic": "it",
-   "title": "heise+ | Obsbot Talent 2 im Test: Mehrkamera-Streaming aus einem Gerät",
-   "text": "Mehrere Kameras, ein kompaktes Gerät: Obsbots Talent 2 mischt, streamt und zeichnet auf. Im Test zeigt sich, wie es als Regiecomputer fungiert.",
-   "link": "https://www.heise.de/tests/Obsbot-Talent-2-im-Test-Mehrkamera-Streaming-aus-einem-Geraet-11484037.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-   "published": "2026-11-08T10:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-13T10:00:00+00:00"
-  },
-  {
-   "id": "n7b28f058ef",
-   "topic": "welt",
-   "title": "Familienmitglieder des Schützen ebenfalls getötet",
-   "text": "Landesweit gilt in Polen nach den tödlichen Schüssen auf Passanten auf einem Marktplatz in Krakau Staatstrauer. Das Motiv des Schützen bleibt unklar. Er steht im Verdacht, auch seine Eltern und Schwester getötet zu haben.",
-   "link": "https://www.tagesschau.de/ausland/europa/krakau-schuesse-trauer-100.html",
-   "published": "2026-11-08T09:58:10+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-11T09:58:10+00:00",
-   "img": "https://images.tagesschau.de/image/9abd0f70-e013-42c1-89d5-8710c5472b62/AAABobqYEFU/AAABnSSvrFg/16x9-big/polen-krakau-100.jpg?width=1920"
-  },
-  {
-   "id": "n95612ab070",
-   "topic": "it",
-   "title": "Mobilfunk-Resilienz nach Blackout: 72-Stunden-Puffer kostet Milliarden",
-   "text": "Forscher beziffern die Kosten für eine 3-tägige Notstromabdeckung aller Mobilfunkmasten auf bis zu elf Milliarden Euro pro Jahr. Sie verweisen auf Alternativen.",
-   "link": "https://www.heise.de/news/Mobilfunk-Resilienz-nach-Blackout-72-Stunden-Puffer-kostet-Milliarden-11516559.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-08T09:55:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-13T09:55:00+00:00"
-  },
-  {
-   "id": "n2423e89edc",
-   "topic": "welt",
-   "title": "Holocaust: Ausstellung \"Nie wieder\" in Bonn. Erinnerungskultur unter Druck",
-   "text": "Es gibt nur noch wenige Zeitzeugen, die vom Holocaust erzählen können. Stattdessen werden Stimmen laut, man solle Schluss machen mit dem \"Schuldkult\". Wie kann Erinnerungskultur noch funktionieren?",
-   "link": "https://www.dw.com/de/holocaust-ausstellung-nie-wieder-in-bonn-erinnerungskultur-unter-druck/a-79810276?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-08T09:52:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-12T09:52:00+00:00",
-   "img": "https://static.dw.com/image/79793675_302.jpg"
-  },
-  {
-   "id": "n1477d61481",
-   "topic": "it",
-   "title": "Bei Dunkelflaute: Effizientere Wärmepumpe dank chemischem Speicher",
-   "text": "Damit Wärmepumpen bei einer Kältewelle verlässlich heizen, ist die Kombination mit Speichern sinnvoll. Eine effizientere Pumpe allein genügt nicht. ( Wärmepumpe , Akku )",
-   "link": "https://www.golem.de/news/bei-dunkelflaute-effizientere-waermepumpe-dank-chemischem-speicher-2611-214965.html",
-   "published": "2026-11-08T09:47:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-13T09:47:02+00:00",
-   "img": "https://www.golem.de/2611/214965-607366-607364_rc.jpg"
-  },
-  {
-   "id": "n47fc972d93",
-   "topic": "welt",
-   "title": "Iran richtet drei weitere Männer nach Massenprotesten hin",
-   "text": "Der iranische Machtapparat ging im vergangen Winter brutal gegen Protestierende vor. Jetzt wurden erneut gegen drei Demonstranten Todesurteile vollstreckt.",
-   "link": "https://www.dw.com/de/iran-richtet-drei-weitere-männer-nach-massenprotesten-hin/a-79889299?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-08T09:26:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-12T09:26:00+00:00",
-   "img": "https://static.dw.com/image/75470150_302.jpg",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Iran - Drei Männer wegen des Vorwurfs der Beteiligung an regierungskritischen Protesten hingerichtet",
-     "link": "https://www.deutschlandfunk.de/drei-maenner-wegen-des-vorwurfs-der-beteiligung-an-regierungskritischen-protesten-hingerichtet-102.html"
-    }
-   ]
-  },
-  {
-   "id": "na4f5d70907",
-   "topic": "ki",
-   "title": "Coding-Agenten liefern viel, aber selten fertig",
-   "text": "Der KI-Agenten-Benchmark Co-Design Bench von Alibaba konfrontiert Coding-Agenten mit echten, schwierigen Nutzeranfragen und zeigt ernüchternde Ergebnisse: Selbst GPT-6 Astra als Spitzenreiter löst nur 26,4 Prozent der Aufgaben vollständig. Auf älteren Benchmarks erreichen dieselben Modelle über 99 Prozent. Die Lücke …",
-   "link": "https://the-decoder.de/coding-agenten-liefern-viel-aber-selten-fertig/",
-   "published": "2026-11-08T09:10:59+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-15T09:10:59+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/co-design-bench-nano-banana-pro.jpg"
-  },
-  {
-   "id": "nd06e758dae",
-   "topic": "it",
-   "title": "(g+) Pizzarechner mit Flutter: Einstieg in Web-Apps leicht gemacht",
-   "text": "Mit Flutter/Dart kleine, kompakte Web-Apps bauen, ohne Javascript und HTML schreiben zu müssen - geht das überhaupt? Spoiler: Ja, das geht. Der Artikel zeigt, wie. Eine Anleitung von Stefanie Schmidt ( Softwareentwicklung , Ruby )",
-   "link": "https://www.golem.de/news/pizzarechner-mit-flutter-einstieg-in-web-apps-leicht-gemacht-2611-214942.html",
-   "published": "2026-11-08T09:00:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-13T09:00:02+00:00",
-   "img": "https://www.golem.de/2611/214942-607245-607243_rc.jpg"
-  },
-  {
-   "id": "n5e3c087367",
-   "topic": "welt",
-   "title": "Papst Leo XIV. setzt Südamerika-Reise fort",
-   "text": "Zum Auftakt seiner Südamerika-Reise traf Papst Leo XIV. in Uruguay auf Armut und Gläubige in einer meist säkularen Gesellschaft. Nun geht es nach Argentinien, dessen Staatschef den Pontifex bisher eher als Kritiker kennt. Von Tilmann Kleinjung.",
-   "link": "https://www.tagesschau.de/ausland/amerika/papst-leo-suedamerika-uruguay-100.html",
-   "published": "2026-11-08T08:27:56+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-11T08:27:56+00:00",
-   "img": "https://images.tagesschau.de/image/569e6360-4542-49fc-a185-0871ac39e241/AAABobqGs5o/AAABnSSvrFg/16x9-big/papst-uruguay-100.jpg?width=1920"
-  },
-  {
-   "id": "nc915716351",
-   "topic": "wissenschaft",
-   "title": "Kosmischen Katastrophen: Gammastrahlenausbrüche stellen die Physik auf den Kopf",
-   "text": "Die Erforschung der gewaltigsten Explosionen im Kosmos ist eine Geschichte voller Überraschungen – immer wieder bringen neue Beobachtungen das gängige Modell ins Wanken.",
-   "link": "https://www.spektrum.de/news/gammastrahlenausbrueche-wie-sie-die-physik-auf-den-kopf-stellen/2350618",
-   "published": "2026-11-08T08:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-22T08:00:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/stsci-h-i1956a-f-5760x3480-1-jpg.webp.jpeg.8226082.jpeg?f=1280x720"
-  },
-  {
-   "id": "neb0b57fd6e",
-   "topic": "welt",
-   "title": "Guatemalas Korruptionsbekämpfer riskieren ihr Leben",
-   "text": "Guatemalas Präsident Arévalo versucht, die Korruption im Land zu bekämpfen. Doch der Widerstand einflussreicher Kreise ist massiv. Der Mord an einem der bekanntesten Anwälte des Landes zeigt, wie entschlossen sie sind. Von A. Demmer.",
-   "link": "https://www.tagesschau.de/ausland/amerika/guatemala-kampf-korruption-100.html",
-   "published": "2026-11-08T07:39:28+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-11T07:39:28+00:00",
-   "img": "https://images.tagesschau.de/image/86a8cd8d-207e-47ea-b096-03a699f80c25/AAABoaus4WI/AAABnSSvrFg/16x9-big/tatort-fussballplatz-100.jpg?width=1920"
-  },
-  {
-   "id": "nd4a61396de",
-   "topic": "wirtschaft",
-   "title": "Wie der Aktienkauf rund um die Uhr funktionieren soll",
-   "text": "Die Deutsche Börse in Frankfurt ermöglicht ab sofort den Handel mit DAX-Werten auch nachts oder am Wochenende. Noch gibt es allerdings eine wichtige Hürde. Was Anleger wissen sollten. Von Alina Leimbach.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/aktien-kauf-nachts-100.html",
-   "published": "2026-11-08T07:35:33+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-11T07:35:33+00:00",
-   "img": "https://images.tagesschau.de/image/18371428-3210-4453-b7ab-1fd97fa2d32f/AAABm5eTw7w/AAABnSSvrFg/16x9-big/statuen-baer-bulle-deutsche-boerse-100.jpg?width=1920"
-  },
-  {
-   "id": "n199019d930",
-   "topic": "welt",
-   "title": "Mehr als 20 Verletzte nach Erdbeben in Zentraljapan",
-   "text": "Mehrere Regionen in Japan wurden in der Nacht von einem Erdbeben der Stärke 5,7 erschüttert. Am stärksten betroffen war die Präfektur Aichi. Medien berichten über mehr als 20 Verletzte. Laut Behörden könnten weitere Beben folgen.",
-   "link": "https://www.tagesschau.de/ausland/asien/japan-erdbeben-aichi-100.html",
-   "published": "2026-11-08T07:27:58+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-11T07:27:58+00:00",
-   "img": "https://images.tagesschau.de/image/38870537-2e1c-48c2-93aa-6716c4c8cf86/AAABoboOjEc/AAABnSSvrFg/16x9-big/japan-erdbeben-aichi-102.jpg?width=1920"
-  },
-  {
-   "id": "n0cd3665734",
-   "topic": "it",
-   "title": "Missing Link: Wenn die KI zuhört, wo Menschen es nicht mehr tun",
-   "text": "Vier Menschen, vier KI-Partner: Die Doku „Finding Connection“ zeigt, was Companion-Apps über eine Gesellschaft verraten, in der kaum noch jemand zuhört.",
-   "link": "https://www.heise.de/hintergrund/Missing-Link-Wenn-die-KI-zuhoert-wo-Menschen-es-nicht-mehr-tun-11516378.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-08T07:12:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-13T07:12:00+00:00"
-  },
-  {
-   "id": "n91fee27fe2",
-   "topic": "wissenschaft",
-   "title": "Wenn Gott sich offenbart …",
-   "text": "… was wird dann aus seinem Propheten? Eine Kurzgeschichte von Steven Berger. Die Futur-III-Kurzgeschichte des Monats.",
-   "link": "https://www.spektrum.de/kurzgeschichte/futur-iii-wenn-gott-sich-offenbart/2322098",
-   "published": "2026-11-08T07:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-22T07:00:00+00:00"
-  },
-  {
-   "id": "n8a60af9528",
-   "topic": "welt",
-   "title": "Grenzstreit zwischen Indien und China flammt erneut auf",
-   "text": "Im umstrittenen Grenzgebiet zwischen Indien und China ist es indischen Behörden zufolge wieder zu Konfrontationen gekommen. Bedeutet das das Ende des diplomatischen Tauwetters zwischen den beiden Ländern?",
-   "link": "https://www.dw.com/de/grenzstreit-zwischen-indien-und-china-flammt-erneut-auf/a-79878096?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-08T06:36:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-12T06:36:00+00:00",
-   "img": "https://static.dw.com/image/70681333_302.jpg"
-  },
-  {
-   "id": "n6b83eaf20f",
-   "topic": "welt",
-   "title": "Bankenskandal in Paraguay: Ex-Präsident Peña muss in Untersuchungshaft",
-   "text": "Mutmaßlicher Finanzbetrug, gefährdete öffentliche Gelder und Millionen betroffene Kunden: Der Zusammenbruch der Ueno-Bank stürzt Paraguay in eine schwere Krise. Ex-Präsident Santiago Peña muss nun in U-Haft.",
-   "link": "https://www.dw.com/de/bankenskandal-in-paraguay-ex-präsident-peña-muss-in-untersuchungshaft/a-79874532?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-08T05:54:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-12T05:54:00+00:00",
-   "img": "https://static.dw.com/image/79870876_302.jpg"
-  },
-  {
-   "id": "n00449a5029",
-   "topic": "politik",
-   "title": "Medienbericht: Kaum Geld aus Sondervermögen in Bildungsinfrastruktur geflossen",
-   "text": "Vom Sondervermögen des Bundes sollen auch Schulen, Kitas und Wissenschaft profitieren. Doch von den vorgesehenen Mitteln ist bislang offenbar nur ein Bruchteil in die Bildungsinfrastruktur geflossen. Die Grünen kritisieren das.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/sondervermoegen-bildungsinfrastruktur-100.html",
-   "published": "2026-11-08T03:28:25+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-11T03:28:25+00:00",
-   "img": "https://images.tagesschau.de/image/f8f677e9-6450-420b-b286-94a87282a5ea/AAABnmPDHgs/AAABnSSvrFg/16x9-big/klassenzimmer-stuehle-100.jpg?width=1920"
-  },
-  {
-   "id": "na196debda9",
-   "topic": "nfl",
-   "title": "Bears vs. Buccaneers: Chicago looks to tame Tampa's running game while staying atop the NFC North",
-   "text": "Plus, where to watch, what to know and a preview from an NFL expert",
-   "link": "https://www.cbssports.com/nfl/news/bears-vs-buccaneers-odds-prediction-where-to-watch/",
-   "published": "2026-11-08T03:00:52+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-13T03:00:52+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/11/06/2cccd712-3347-4e14-b821-ff0b49e6ee7f/bucsbacks.jpg"
-  },
-  {
-   "id": "nc86ccf145e",
-   "topic": "politik",
-   "title": "FDP vor Parteitag: Kubicki sucht den Weg aus der Krise",
-   "text": "Die FDP kommt heute zu einem digitalen Parteitag zusammen. Nach vielen Wahlniederlagen steckt die Partei in einer tiefen Krise. Bislang konnte das auch ihr neuer Vorsitzender Kubicki nicht ändern. Von Philipp Eckstein.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/fdp-kubicki-effekt-100.html",
-   "published": "2026-11-08T02:28:44+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-11T02:28:44+00:00",
-   "img": "https://images.tagesschau.de/image/c5c63d68-4ab5-4931-8779-0a67c552dcba/AAABnm9Gfq0/AAABnSSvrFg/16x9-big/kubicki-170.jpg?width=1920"
-  },
-  {
-   "id": "ndf3e770efe",
-   "topic": "welt",
-   "title": "Nach Schüssen in Krakau: Eine Stadt steht unter Schock",
-   "text": "Ein Mann schießt in Krakau aus seinem Auto, er tötet sechs Menschen und verletzt viele weitere. Nach der Tat steht Polens zweitgrößte Stadt unter Schock. Ermittler suchen Antworten auf die bohrende Frage: Warum? Von Palina Milling.",
-   "link": "https://www.tagesschau.de/ausland/europa/polen-krakau-schuesse-102.html",
-   "published": "2026-11-08T01:50:38+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-11T01:50:38+00:00",
-   "img": "https://images.tagesschau.de/image/68961771-7cd2-466f-9fc6-f5e1ef891cff/AAABobi2DQI/AAABnSSvrFg/16x9-big/krakau-trauer-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "China - Mindestens 14 Tote bei Hochhausbrand in Millionenstadt Taiyuan",
-     "link": "https://www.deutschlandfunk.de/mindestens-14-tote-bei-hochhausbrand-in-millionenstadt-taiyuan-100.html"
-    }
-   ]
-  },
-  {
-   "id": "nbfbf8e481b",
-   "topic": "welt",
-   "title": "Französischer Präsidentschaftskandidat Mélenchon fordert NATO-Austritt",
-   "text": "Bei der französischen Präsidentschaftswahl im kommenden April könnte er stark abschneiden: der linke Kandidat Mélenchon. Jetzt hat er sein Programm vorgestellt - und sich dabei nicht nur gegen die NATO positioniert.",
-   "link": "https://www.tagesschau.de/ausland/europa/frankreich-melenchon-wahlprogramm-100.html",
-   "published": "2026-11-08T00:14:21+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-11T00:14:21+00:00",
-   "img": "https://images.tagesschau.de/image/c030e7f1-afd2-4583-91e2-9d3a57c6bc4b/AAABobh2JRE/AAABnSSvrFg/16x9-big/melenchon-130.jpg?width=1920"
-  },
-  {
-   "id": "n921f8c6607",
-   "topic": "nfl",
-   "title": "Falcons vs. Bengals: Cincinnati seeks first international win as division contenders travel to Madrid",
-   "text": "The NFL returns to Spain for the second straight season with a matchup that features many of the league's top offensive stars",
-   "link": "https://www.cbssports.com/nfl/news/falcons-vs-bengals-prediction-odds-where-to-watch/",
-   "published": "2026-11-08T00:01:11+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-13T00:01:11+00:00"
-  },
-  {
-   "id": "n8bc1f58adf",
-   "topic": "nfl",
-   "title": "Cowboys vs Colts: Writer predictions for Week 9",
-   "text": "Our score predictions for this week’s Cowboys game",
-   "link": "https://sports.yahoo.com/articles/cowboys-vs-colts-writer-predictions-000000989.html",
-   "published": "2026-11-08T00:00:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-13T00:00:00+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/0de12cf5c38a7ad946f10672a3b9116d.jpg"
-  },
-  {
-   "id": "n5a70d41dcc",
-   "topic": "nfl",
-   "title": "Intriguing players to watch in Falcons vs. Bengals",
-   "text": "Naming five Falcons who must bounce back in Madrid to spark an international fiesta and save Atlanta's playoff hopes.",
-   "link": "https://sports.yahoo.com/articles/intriguing-players-watch-falcons-vs-000000070.html",
-   "published": "2026-11-08T00:00:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-13T00:00:00+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/dbd4d2ed09f41124b34bb154e04ce50b.jpg"
-  },
-  {
-   "id": "nf5552f6a73",
-   "topic": "politik",
-   "title": "Polen - Tote und Verletzte nach Schüssen in Krakau",
-   "text": "In der polnischen Stadt Krakau hat ein Mann sechs Menschen erschossen und mindestens 15 Menschen verletzt. Zuvor soll er bereits drei weitere Menschen in seinem Wohnhaus getötet haben, wie Polens Mininsterpräsident Tusk mitteilte. Die Polizei geht von einem Einzeltäter aus.",
-   "link": "https://www.deutschlandfunk.de/tote-und-verletzte-nach-schuessen-in-krakau-108.html",
-   "published": "2026-11-07T23:10:21+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-09T23:10:21+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Mindestens 21 Tote nach Bootsunglück vor Senegal gemeldet",
-     "link": "https://www.tagesschau.de/ausland/afrika/viele-tote-bootsunglueck-senegal-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n486d69b429",
-   "topic": "politik",
-   "title": "Digitaler Bundesparteitag - FDP will \"modernste Partei Deutschlands\" werden - Beratungen über Parteireform",
-   "text": "Die FDP berät heute über ihren weiteren politischen Kurs.",
-   "link": "https://www.deutschlandfunk.de/fdp-will-modernste-partei-deutschlands-werden-beratungen-ueber-parteireform-100.html",
-   "published": "2026-11-07T23:10:21+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-09T23:10:21+00:00",
-   "img": "https://bilder.deutschlandfunk.de/07/5d/7c/60/075d7c60-7e51-4e6d-b1d1-78aae493b339/fdp-kubicki-hoehne-100-1920x1920.jpg"
-  },
-  {
-   "id": "nb6d3603637",
-   "topic": "politik",
-   "title": "Diskussion um SPD-Vorsitz - Klingbeil lässt erneute Kandidatur offen",
-   "text": "Der SPD-Vorsitzende Klingbeil hat offengelassen, ob er im Januar erneut als Parteichef antreten wird.",
-   "link": "https://www.deutschlandfunk.de/klingbeil-laesst-erneute-kandidatur-offen-102.html",
-   "published": "2026-11-07T23:10:21+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-09T23:10:21+00:00"
-  },
-  {
-   "id": "n9d8c1919d8",
-   "topic": "politik",
-   "title": "Frankreich - Neue Demonstrationen, aber deutlich weniger Teilnehmer",
-   "text": "In Frankreich hat es erneut Demonstrationen unter anderem gegen hohe Lebenshaltungskosten und Probleme im Bildungssystem gegeben.",
-   "link": "https://www.deutschlandfunk.de/neue-demonstrationen-aber-deutlich-weniger-teilnehmer-104.html",
-   "published": "2026-11-07T23:10:21+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-09T23:10:21+00:00"
-  },
-  {
-   "id": "n8fa3a44584",
-   "topic": "welt",
-   "title": "FAQ: Was ist über die Schüsse in Krakau bekannt?",
-   "text": "Im polnischen Krakau hat ein Mann aus einem Auto geschossen und mindestens sechs Menschen getötet. Weitere Personen wurden verletzt, darunter auch Deutsche. Was bislang über die Tat bekannt ist.",
-   "link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-102.html",
-   "published": "2026-11-07T23:00:48+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-10T23:00:48+00:00",
-   "img": "https://images.tagesschau.de/image/035bdba7-3beb-4918-8149-fb5ddb739cac/AAABobaqOgE/AAABnSSvrFg/16x9-big/einsatzkraefte-historisches-stadtzentrum-102.jpg?width=1920"
-  },
-  {
-   "id": "n53c33ad9c5",
-   "topic": "wissenschaft",
-   "title": "Auf der Suche nach Exoplaneten: Dem Sternenlicht ein Schnippchen schlagen",
-   "text": "Eine neue Software für das James-Webb-Weltraumteleskop macht bislang verborgene Welten sichtbar. Auch erdähnliche Planeten könnten damit aufgespürt werden.",
-   "link": "https://www.spektrum.de/news/suche-nach-exoplaneten-dem-sternenlicht-ein-schnippchen-schlagen/2352788",
-   "published": "2026-11-07T22:30:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-21T22:30:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/STScI-01GB2S5HKVNRJ4CRBR9RKM9CEB_zuschnitt.jpg.8422540.jpg?f=1280x720"
-  },
-  {
-   "id": "n0f8d90dfff",
-   "topic": "nfl",
-   "title": "NFL fines Jaquan Brisker, two others for illegal Week 8 hits that placed opponents in concussion protocol",
-   "text": "Each of the players on the receiving end of those collisions will miss Week 9",
-   "link": "https://www.cbssports.com/nfl/news/nfl-fines-jaquan-brisker-two-others-for-illegal-week-8-hits/",
-   "published": "2026-11-07T22:01:31+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-12T22:01:31+00:00"
-  },
-  {
-   "id": "n3ec5331b3d",
-   "topic": "welt",
-   "title": "Polen: Mindestens sechs Tote nach Schüssen in Krakau",
-   "text": "Bei Schüssen in der polnischen Stadt Krakau sind laut Polizei mindestens sechs Menschen getötet und 16 Personen verletzt worden. Der mutmaßliche Täter konnte demnach gefasst werden. In seinem Wohnhaus wurden weitere Tote entdeckt.",
-   "link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html",
-   "published": "2026-11-07T21:51:26+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-10T21:51:26+00:00",
-   "img": "https://images.tagesschau.de/image/bee3ba3a-f8f6-43d9-a494-b75bb2b72fe1/AAABobanF1k/AAABnSSvrFg/16x9-big/einsatzkraefte-historisches-stadtzentrum-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "China - Mindestens 14 Tote bei Hochhausbrand in Millionenstadt Taiyuan",
-     "link": "https://www.deutschlandfunk.de/mindestens-14-tote-bei-hochhausbrand-in-millionenstadt-taiyuan-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n71a1532102",
-   "topic": "welt",
-   "title": "Bankenkrise: Anklage gegen Paraguays Ex-Präsidenten",
-   "text": "Nur einen Tag nach seiner Amtsenthebung muss sich Paraguays Ex-Präsident Peña wegen seiner Rolle im Bankenskandal vor der Justiz verantworten. Die Staatsanwaltschaft fordert Untersuchungshaft.",
-   "link": "https://www.tagesschau.de/ausland/amerika/ermittlungen-paraguay-pena-100.html",
-   "published": "2026-11-07T20:33:23+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-10T20:33:23+00:00",
-   "img": "https://images.tagesschau.de/image/9e147e56-f6c3-400e-b95b-a781c07ba6b5/AAABobe3Qgs/AAABnSSvrFg/16x9-big/pena-110.jpg?width=1920"
   }
  ]
 }
