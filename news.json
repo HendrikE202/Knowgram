@@ -1,50 +1,304 @@
 {
- "generated": "2026-11-09T19:49:48.121483+00:00",
+ "generated": "2026-11-10T03:34:47.622446+00:00",
  "briefing": [
   "n91ccbd72a6",
-  "n726c131d8d",
   "ne78da5bd65",
   "nbf3cc8a904",
   "n5c8fc3dce2",
+  "n40325239ce",
   "nacba0e9c61",
-  "n43ff3630ec",
-  "n4be02808e1"
+  "n20052b6f45",
+  "n814935ee9b"
  ],
  "ranked": [
   {
    "id": "n91ccbd72a6",
-   "s": 37.1
-  },
-  {
-   "id": "n726c131d8d",
    "s": 37.0
   },
   {
    "id": "ne78da5bd65",
-   "s": 32.8
+   "s": 30.9
   },
   {
    "id": "nbf3cc8a904",
-   "s": 32.6
+   "s": 30.7
   },
   {
    "id": "n5c8fc3dce2",
-   "s": 32.5
+   "s": 30.6
+  },
+  {
+   "id": "n40325239ce",
+   "s": 27.0
   },
   {
    "id": "nacba0e9c61",
-   "s": 28.9
+   "s": 27.0
   },
   {
-   "id": "n43ff3630ec",
-   "s": 19.7
+   "id": "n20052b6f45",
+   "s": 22.9
   },
   {
-   "id": "n4be02808e1",
-   "s": 17.8
+   "id": "n814935ee9b",
+   "s": 22.9
   }
  ],
  "items": [
+  {
+   "id": "n73768d6ced",
+   "topic": "nfl",
+   "title": "Josh Allen has run for 5,000 yards and only 4 other QBs can say that",
+   "text": "Josh Allen joins Jackson, Vick, Newton, and Wilson as the only quarterbacks with 5,000 career rushing yards.",
+   "link": "https://sports.yahoo.com/articles/josh-allen-run-5-000-033047865.html",
+   "published": "2026-11-10T03:30:47+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-15T03:30:47+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/e79dcd5db282cea8443e9e6e12cabe5d.jpg"
+  },
+  {
+   "id": "n423e1542ef",
+   "topic": "nfl",
+   "title": "Josh Johnson leaving Bengals practice squad to join Arizona Cardinals",
+   "text": "Josh Johnson finds himself on his 15th team as the potential Arizona Cardinals starting QB.",
+   "link": "https://sports.yahoo.com/articles/josh-johnson-leaving-bengals-practice-032906284.html",
+   "published": "2026-11-10T03:29:06+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-15T03:29:06+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/f2ea39fa7322f2be2fb271902025b970.jpg"
+  },
+  {
+   "id": "n445276d65c",
+   "topic": "politik",
+   "title": "Mögliche Spionageaffäre - Trump: FBI ermittelt im Zusammenhang mit Nvidia-Chef Huang",
+   "text": "Die US-Bundespolizei FBI hat Ermittlungen im Zusammenhang mit einer möglichen Spionageaffäre um den Chef des Nvidia-Konzerns Jensen Huang aufgenommen.",
+   "link": "https://www.deutschlandfunk.de/trump-fbi-ermittelt-im-zusammenhang-mit-nvidia-chef-huang-100.html",
+   "published": "2026-11-10T03:17:38+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-12T03:17:38+00:00"
+  },
+  {
+   "id": "n20052b6f45",
+   "topic": "politik",
+   "title": "USA - Republikanischer Abgeordneter stellt Antrag auf Amtsenthebung von Verteidigungsminister Hegseth",
+   "text": "US-Verteidigungsminister Hegseth muss sich möglicherweise einem Amtsenthebungsverfahren stellen.",
+   "link": "https://www.deutschlandfunk.de/republikanischer-abgeordneter-stellt-antrag-auf-amtsenthebung-von-verteidigungsminister-hegseth-106.html",
+   "published": "2026-11-10T03:17:38+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-12T03:17:38+00:00",
+   "img": "https://bilder.deutschlandfunk.de/19/9e/7a/3c/199e7a3c-88e2-4852-879f-3931d0728670/verteidigungsminister-pete-hegseth-100-1920x1920.jpg"
+  },
+  {
+   "id": "n814935ee9b",
+   "topic": "politik",
+   "title": "Ukraine-Hilfe - Bundeskanzler Merz fordert Beteiligung aller EU-Staaten",
+   "text": "Bundeskanzler Merz hat die EU-Staaten aufgefordert, sich an der Schließung der Milliarden-Lücke bei der Ukraine-Finanzierung zu beteiligen.",
+   "link": "https://www.deutschlandfunk.de/bundeskanzler-merz-fordert-beteiligung-aller-eu-staaten-102.html",
+   "published": "2026-11-10T03:17:38+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-12T03:17:38+00:00",
+   "img": "https://bilder.deutschlandfunk.de/88/00/d4/08/8800d408-39fe-4c94-8c37-f580ab6324bf/merz-206-1920x1920.jpg"
+  },
+  {
+   "id": "nfa7b78a8d5",
+   "topic": "politik",
+   "title": "Kandidatur als Bundespräsidentin - Aigner stellt sich im Bundestag vor",
+   "text": "Die Unionskandidatin für das Amt der Bundespräsidentin, Aigner, stellt sich heute im Bundestag vor.",
+   "link": "https://www.deutschlandfunk.de/aigner-stellt-sich-im-bundestag-vor-102.html",
+   "published": "2026-11-10T03:17:38+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-12T03:17:38+00:00",
+   "img": "https://bilder.deutschlandfunk.de/NO/VA/_0/d5/NOVA_0d5b59c583d7cc2e17ab680751d8b300/craft-13534051-asset-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Merz verteidigt Ablauf der Nominierung von Aigner",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-bundespraesidentin-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "llse Aigner soll Bundespräsidentin werden. Sie wäre die erste Frau",
+     "link": "https://www.dw.com/de/llse-aigner-soll-bundespräsidentin-werden-sie-wäre-die-erste-frau/a-79895956?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "ndb178a9ae3",
+   "topic": "politik",
+   "title": "Ticketbörsen - Bundesjustizministerin Hubig will gesetzlichen Preisdeckel einführen",
+   "text": "Bundesjustizministerin Hubig hat angesichts der Preise auf dem Ticket-Zweitmarkt angekündigt, dass Preisaufschläge künftig begrenzt würden.",
+   "link": "https://www.deutschlandfunk.de/bundesjustizministerin-hubig-will-gesetzlichen-preisdeckel-einfuehren-100.html",
+   "published": "2026-11-10T03:17:38+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-12T03:17:38+00:00",
+   "img": "https://bilder.deutschlandfunk.de/5e/7a/a9/77/5e7aa977-83c0-4c4c-a01c-5bb7fe1128c6/viagogo-ticket-zweitmarkt-100-1920x1920.jpg"
+  },
+  {
+   "id": "n70277b7379",
+   "topic": "politik",
+   "title": "Berliner Landgericht - Prozess gegen frührere RBB-Intendantin beginnt",
+   "text": "Am Berliner Landgericht beginnt heute der Strafprozess gegen die frühere RBB-Intendantin Schlesinger und drei weitere Angeklagte.",
+   "link": "https://www.deutschlandfunk.de/prozess-gegen-fruehrere-rbb-intendantin-beginnt-102.html",
+   "published": "2026-11-10T03:17:38+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-12T03:17:38+00:00",
+   "img": "https://bilder.deutschlandfunk.de/7a/5a/dc/64/7a5adc64-ea05-4d53-b26b-f58de65cebd8/patricia-schlesinger-114-1920x1920.jpg"
+  },
+  {
+   "id": "n39357910ed",
+   "topic": "welt",
+   "title": "Gespräche in Abu Dhabi: Gedämpfte Erwartungen der Ukraine",
+   "text": "Heute beginnen die trilateralen Verhandlungen in Abu Dhabi. Können die Gespräche mit den USA und Russland zu einem echten Frieden führen - oder gar zu einer Schwächung der Ukraine? In der Ukraine sind die Erwartungen gedämpft. Von F. Kellermann.",
+   "link": "https://www.tagesschau.de/ausland/europa/ukraine-erwartungen-gespraeche-100.html",
+   "published": "2026-11-10T01:13:48+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-13T01:13:48+00:00",
+   "img": "https://images.tagesschau.de/image/359f2fcf-a8ed-44fb-99fc-36c901fb94da/AAABocLfjcw/AAABnSSvrFg/16x9-big/ukraine-kiew-flagge-100.jpg?width=1920"
+  },
+  {
+   "id": "n94bfbd36dd",
+   "topic": "nfl",
+   "title": "Cardinals' Gardner Minshew feared to have suffered a torn UCL, could be out for season, per report",
+   "text": "Carson Beck would get the start if Minshew is sidelined",
+   "link": "https://www.cbssports.com/nfl/news/cardinals-gardner-minshew-feared-torn-ucl-could-out-for-season-report/",
+   "published": "2026-11-10T00:22:28+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-15T00:22:28+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/11/09/51ee102c-c165-46a9-aaf8-08d99a9d9eaa/minshew.jpg"
+  },
+  {
+   "id": "na948e0692b",
+   "topic": "politik",
+   "title": "Verkehrsminister Bilger verteidigt \"Tankrabatt\"",
+   "text": "Seit Oktober gibt es den \"Tankrabatt\". Verkehrsminister Bilger findet das richtig. Entlastung sei nötig gewesen, sagte er in der ARD-Arena. Kritisch blickt er auf Debatten über ein generelles Tempolimit.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/bilger-wahlarena-100.html",
+   "published": "2026-11-09T23:40:08+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-12T23:40:08+00:00",
+   "img": "https://images.tagesschau.de/image/04fb5198-54f4-440b-be52-62232f73736b/AAABocKLadA/AAABnSSvrFg/16x9-big/bilger-144.jpg?width=1920"
+  },
+  {
+   "id": "nbcb10868cc",
+   "topic": "nfl",
+   "title": "Browns QB update: Todd Monken hasn't decided between Deshaun Watson and Shedeur Sanders for Week 10",
+   "text": "Sanders' performance against the Saints might earn another chance to start Sunday vs. the Texans",
+   "link": "https://www.cbssports.com/nfl/news/browns-starting-qb-deshaun-watson-shedeur-sanders-texans-2026/",
+   "published": "2026-11-09T23:34:07+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-14T23:34:07+00:00"
+  },
+  {
+   "id": "nedcf12b0e2",
+   "topic": "it",
+   "title": "Grenzkontrollsystem: EU verklagt Konsortium um IBM",
+   "text": "Wegen wiederholter Verzögerungen bei der Entwicklung des europäischen Ein- und Ausreisesystems (EES) reicht die EU in Estland Klage gegen IBM und Partner ein.",
+   "link": "https://www.heise.de/news/Grenzkontrollsystem-EU-verklagt-Konsortium-um-IBM-11518072.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-09T21:35:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-14T21:35:00+00:00"
+  },
+  {
+   "id": "n0927840d01",
+   "topic": "politik",
+   "title": "Merz verteidigt Ablauf der Nominierung von Aigner",
+   "text": "199 Tage hat es gedauert, bis sich Kanzler Merz hinter Aigner als Kandidatin zur Bundespräsidentin stellte. Im tagesthemen-Interview verteidigt er den Prozess, der \"störungsfrei\" und \"harmonisch\" abgelaufen sei. Aigner sei die Richtige für das Amt.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-bundespraesidentin-100.html",
+   "published": "2026-11-09T21:27:31+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-12T21:27:31+00:00",
+   "img": "https://images.tagesschau.de/image/959a7fee-357f-4092-a4e7-843f1ce6ebbe/AAABocIW318/AAABnSSvrFg/16x9-big/sendungsbild-1825142.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Kandidatur als Bundespräsidentin - Aigner stellt sich im Bundestag vor",
+     "link": "https://www.deutschlandfunk.de/aigner-stellt-sich-im-bundestag-vor-102.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "llse Aigner soll Bundespräsidentin werden. Sie wäre die erste Frau",
+     "link": "https://www.dw.com/de/llse-aigner-soll-bundespräsidentin-werden-sie-wäre-die-erste-frau/a-79895956?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "n1d4e3e3308",
+   "topic": "welt",
+   "title": "Republikaner Massie will Hegseth des Amtes entheben",
+   "text": "Nach der Wahlniederlage bei den Midterms wächst der Druck auf die US-Republikaner - auch wegen des Iran-Kriegs. Nun hat der Trump-kritische Republikaner Massie ein Amtsenthebungsverfahren gegen Verteidigungsminister Hegseth auf den Weg gebracht.",
+   "link": "https://www.tagesschau.de/ausland/amerika/usa-amtsenthebungsverfahren-hegseth-100.html",
+   "published": "2026-11-09T20:48:39+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-12T20:48:39+00:00",
+   "img": "https://images.tagesschau.de/image/85834255-e228-40b1-8a1d-6641c23f17fb/AAABocIR93A/AAABnSSvrFg/16x9-big/hegseth-186.jpg?width=1920"
+  },
+  {
+   "id": "n197453f3c8",
+   "topic": "ki",
+   "title": "Zurück an die KI-Spitze: Anthropic stellt Claude Fable 5.2 und Mythos 5.2 vor",
+   "text": "Anthropic veröffentlicht mit Claude Fable 5.2 und Mythos 5.2 sein bisher stärkstes Modell in zwei Varianten: eine frei verfügbar, eine nur für geprüfte Organisationen. Die Modelle lösen laut Anthropic offene Physikprobleme, sind noch stärker in Cybersecurity, entwerfen funktionierende Betriebssysteme und schreiben …",
+   "link": "https://the-decoder.de/zurueck-an-die-ki-spitze-anthropic-stellt-claude-fable-5-2-und-mythos-5-2-vor/",
+   "published": "2026-11-09T20:42:23+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-16T20:42:23+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/11/fable_52_sand.png"
+  },
+  {
+   "id": "nb4474fce05",
+   "topic": "it",
+   "title": "Milliarden-Deal für Gasturbinen: Anthropic sichert sich Energiekapazitäten",
+   "text": "Angesichts des rasant steigenden Energiebedarfs für KI-Infrastruktur investiert der Claude-Entwickler erstmals direkt in Anlagen zur Stromerzeugung.",
+   "link": "https://www.heise.de/news/Milliarden-Deal-fuer-Gasturbinen-Anthropic-sichert-sich-Energiekapazitaeten-11518056.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-09T20:13:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-14T20:13:00+00:00"
+  },
+  {
+   "id": "nb40b9612ff",
+   "topic": "welt",
+   "title": "Steinmeier-Rede zum 9. November: Die Scham der Reichspogromnacht, vom Glück des Mauerfalls",
+   "text": "Der 9. November wühlt die Deutschen auf. Als Tag der größten Nazi-Verbrechen, als Tag des Falls der Berliner Mauer. Der Bundespräsident zieht Lehren für die Zukunft.",
+   "link": "https://www.dw.com/de/steinmeier-rede-zum-9-november-die-scham-der-reichspogromnacht-vom-glück-des-mauerfalls/a-79900308?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-09T20:07:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-13T20:07:00+00:00",
+   "img": "https://static.dw.com/image/79900783_302.jpg"
+  },
   {
    "id": "n9e7118c6f7",
    "topic": "wissenschaft",
@@ -57,18 +311,6 @@
    "lang": "de",
    "expires": "2026-11-23T19:44:54+00:00",
    "img": "https://images.tagesschau.de/image/9be9dfbf-e070-4598-868e-2ff6ae12b400/AAABocHTjDk/AAABnSSvrFg/16x9-big/09112026-topthema-cop31-100.jpg?width=1920"
-  },
-  {
-   "id": "nbcb10868cc",
-   "topic": "nfl",
-   "title": "Browns QB update: Todd Monken hasn't decided between Deshaun Watson and Shedeur Sanders for Week 10",
-   "text": "Sanders' performance against the Saints might earn another chance to start Sunday vs. the Texans",
-   "link": "https://www.cbssports.com/nfl/news/browns-starting-qb-deshaun-watson-shedeur-sanders-texans-2026/",
-   "published": "2026-11-09T19:38:06+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-14T19:38:06+00:00"
   },
   {
    "id": "n048936afaf",
@@ -206,8 +448,8 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Warum Merz sich doch für Aigner als Bundespräsidentin stark macht",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-kandidatin-bundespraesidentin-100.html"
+     "title": "Merz verteidigt Ablauf der Nominierung von Aigner",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-bundespraesidentin-100.html"
     },
     {
      "source": "Deutsche Welle",
@@ -612,8 +854,8 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Steinmeier-Nachfolge - Nach Nominierung: CSU-Politikerin Ilse Aigner bedankt sich für parteiübergreifenden Zuspruch",
-     "link": "https://www.deutschlandfunk.de/nach-nominierung-csu-politikerin-ilse-aigner-bedankt-sich-fuer-parteiuebergreifenden-zuspruch-102.html"
+     "title": "Kandidatur als Bundespräsidentin - Aigner stellt sich im Bundestag vor",
+     "link": "https://www.deutschlandfunk.de/aigner-stellt-sich-im-bundestag-vor-102.html"
     },
     {
      "source": "Deutsche Welle",
@@ -637,8 +879,8 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Steinmeier-Nachfolge - Nach Nominierung: CSU-Politikerin Ilse Aigner bedankt sich für parteiübergreifenden Zuspruch",
-     "link": "https://www.deutschlandfunk.de/nach-nominierung-csu-politikerin-ilse-aigner-bedankt-sich-fuer-parteiuebergreifenden-zuspruch-102.html"
+     "title": "Kandidatur als Bundespräsidentin - Aigner stellt sich im Bundestag vor",
+     "link": "https://www.deutschlandfunk.de/aigner-stellt-sich-im-bundestag-vor-102.html"
     },
     {
      "source": "Deutsche Welle",
@@ -675,13 +917,13 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Steinmeier-Nachfolge - Nach Nominierung: CSU-Politikerin Ilse Aigner bedankt sich für parteiübergreifenden Zuspruch",
-     "link": "https://www.deutschlandfunk.de/nach-nominierung-csu-politikerin-ilse-aigner-bedankt-sich-fuer-parteiuebergreifenden-zuspruch-102.html"
+     "title": "Kandidatur als Bundespräsidentin - Aigner stellt sich im Bundestag vor",
+     "link": "https://www.deutschlandfunk.de/aigner-stellt-sich-im-bundestag-vor-102.html"
     },
     {
      "source": "Tagesschau",
-     "title": "Warum Merz sich doch für Aigner als Bundespräsidentin stark macht",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-kandidatin-bundespraesidentin-100.html"
+     "title": "Merz verteidigt Ablauf der Nominierung von Aigner",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-bundespraesidentin-100.html"
     }
    ]
   },
@@ -892,8 +1134,8 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Warum Merz sich doch für Aigner als Bundespräsidentin stark macht",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-kandidatin-bundespraesidentin-100.html"
+     "title": "Merz verteidigt Ablauf der Nominierung von Aigner",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-bundespraesidentin-100.html"
     },
     {
      "source": "Deutsche Welle",
@@ -916,8 +1158,8 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Warum Merz sich doch für Aigner als Bundespräsidentin stark macht",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-kandidatin-bundespraesidentin-100.html"
+     "title": "Merz verteidigt Ablauf der Nominierung von Aigner",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-bundespraesidentin-100.html"
     },
     {
      "source": "Deutsche Welle",
@@ -1097,8 +1339,8 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Steinmeier-Nachfolge - Nach Nominierung: CSU-Politikerin Ilse Aigner bedankt sich für parteiübergreifenden Zuspruch",
-     "link": "https://www.deutschlandfunk.de/nach-nominierung-csu-politikerin-ilse-aigner-bedankt-sich-fuer-parteiuebergreifenden-zuspruch-102.html"
+     "title": "Kandidatur als Bundespräsidentin - Aigner stellt sich im Bundestag vor",
+     "link": "https://www.deutschlandfunk.de/aigner-stellt-sich-im-bundestag-vor-102.html"
     },
     {
      "source": "Deutsche Welle",
@@ -1265,8 +1507,8 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Warum Merz sich doch für Aigner als Bundespräsidentin stark macht",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-kandidatin-bundespraesidentin-100.html"
+     "title": "Merz verteidigt Ablauf der Nominierung von Aigner",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-bundespraesidentin-100.html"
     },
     {
      "source": "Deutsche Welle",
@@ -1289,8 +1531,8 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Warum Merz sich doch für Aigner als Bundespräsidentin stark macht",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-kandidatin-bundespraesidentin-100.html"
+     "title": "Merz verteidigt Ablauf der Nominierung von Aigner",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-bundespraesidentin-100.html"
     },
     {
      "source": "Deutsche Welle",
@@ -1336,7 +1578,6 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-10T21:29:14+00:00",
-   "img": "https://bilder.deutschlandfunk.de/49/6d/1b/4e/496d1b4e-a47c-4535-9f2d-8e0514004d02/nvidia-jensen-huang-100-1920x1920.jpg",
    "also": [
     {
      "source": "Tagesschau",
@@ -1411,8 +1652,8 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Steinmeier-Nachfolge - Nach Nominierung: CSU-Politikerin Ilse Aigner bedankt sich für parteiübergreifenden Zuspruch",
-     "link": "https://www.deutschlandfunk.de/nach-nominierung-csu-politikerin-ilse-aigner-bedankt-sich-fuer-parteiuebergreifenden-zuspruch-102.html"
+     "title": "Kandidatur als Bundespräsidentin - Aigner stellt sich im Bundestag vor",
+     "link": "https://www.deutschlandfunk.de/aigner-stellt-sich-im-bundestag-vor-102.html"
     },
     {
      "source": "Deutsche Welle",
@@ -1449,13 +1690,13 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Steinmeier-Nachfolge - Nach Nominierung: CSU-Politikerin Ilse Aigner bedankt sich für parteiübergreifenden Zuspruch",
-     "link": "https://www.deutschlandfunk.de/nach-nominierung-csu-politikerin-ilse-aigner-bedankt-sich-fuer-parteiuebergreifenden-zuspruch-102.html"
+     "title": "Kandidatur als Bundespräsidentin - Aigner stellt sich im Bundestag vor",
+     "link": "https://www.deutschlandfunk.de/aigner-stellt-sich-im-bundestag-vor-102.html"
     },
     {
      "source": "Tagesschau",
-     "title": "Warum Merz sich doch für Aigner als Bundespräsidentin stark macht",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-kandidatin-bundespraesidentin-100.html"
+     "title": "Merz verteidigt Ablauf der Nominierung von Aigner",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-bundespraesidentin-100.html"
     }
    ]
   },
@@ -1520,19 +1761,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-10T17:40:47+00:00",
-   "img": "https://bilder.deutschlandfunk.de/43/14/ff/fb/4314fffb-4ff6-4f34-9c74-6ac0689ffc55/israel-eisenkot-herzog-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Israel: Netanjahu-Rivale Gadi Eisenkot soll Regierung bilden",
-     "link": "https://www.dw.com/de/israel-netanjahu-rivale-gadi-eisenkot-soll-regierung-bilden/a-79889744?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Israel: Oppositionsführer Eisenkot soll neue Regierung bilden",
-     "link": "https://www.tagesschau.de/ausland/asien/israel-auftrag-regierungsbildung-eisenkot-100.html"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/43/14/ff/fb/4314fffb-4ff6-4f34-9c74-6ac0689ffc55/israel-eisenkot-herzog-100-1920x1920.jpg"
   },
   {
    "id": "nea2ff650f6",
@@ -1584,262 +1813,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-10T17:40:47+00:00",
-   "img": "https://bilder.deutschlandfunk.de/e6/d0/45/f3/e6d045f3-331b-4dea-aff0-7c2d5f669c31/amsterdam-red-line-demo-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Amsterdam: Zehntausende demonstrieren gegen Israels Gaza-Politik",
-     "link": "https://www.tagesschau.de/ausland/europa/demonstration-amsterdam-israel-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n307807854b",
-   "topic": "politik",
-   "title": "Flohmärkte, Märkte und Feste in Hessen: Termine bis zum 15. November",
-   "text": "Für alle, die gerne nach Schnäppchen und Raritäten suchen und kein Fest auslassen: eine Übersicht über die Flohmärkte, Märkte und Feste in Hessen bis Sonntag.",
-   "link": "https://www.hessenschau.de/freizeit/flohmaerkte-maerkte-und-feste-in-hessen-termine-bis-zum-15-november-v1,veranstaltungstipps-2646kw-100.html",
-   "published": "2026-11-08T17:33:07+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-12T17:33:07+00:00",
-   "img": "https://www.hessenschau.de/kultur/ronneburg-122~_t-1727446791270_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "nebbed5eb2f",
-   "topic": "nfl",
-   "title": "George Pickens will not play in Week 9",
-   "text": "Cowboys WR George Pickens will miss at least one game because of his injuries",
-   "link": "https://sports.yahoo.com/articles/george-pickens-not-play-week-173045268.html",
-   "published": "2026-11-08T17:30:45+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-13T17:30:45+00:00"
-  },
-  {
-   "id": "nd797669fec",
-   "topic": "nfl",
-   "title": "New York Jets discussion: Week 9 live chat during the Kansas City Chiefs game",
-   "text": "The Jets are on the road to take on Patrick Mahomes and the Kansas City Chiefs today",
-   "link": "https://sports.yahoo.com/articles/york-jets-discussion-week-9-173000668.html",
-   "published": "2026-11-08T17:30:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-13T17:30:00+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/4378f3ecab81b752dc2601c8e68a4009.jpg"
-  },
-  {
-   "id": "nd6ad679691",
-   "topic": "welt",
-   "title": "Wackelt Polens Ruf als sicheres Land?",
-   "text": "Der Terroranschlag in Krakau hat Polen schwer erschüttert. Trotzdem geht der Machtkampf zwischen dem Mitte-Links-Lager von Donald Tusk und der rechten Opposition weiter. Polens Ruf als sicheres Land wackelt.",
-   "link": "https://www.dw.com/de/wackelt-polens-ruf-als-sicheres-land/a-79893042?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-08T17:29:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-12T17:29:00+00:00",
-   "img": "https://static.dw.com/image/79892175_302.jpg"
-  },
-  {
-   "id": "n2e1b6385d1",
-   "topic": "nfl",
-   "title": "Odell Beckham Jr. set to make Vikings debut after signing to 53-man roster, per report",
-   "text": "Beckham will be available to play in Monday night's game vs. the Bills",
-   "link": "https://www.cbssports.com/nfl/news/vikings-signing-odell-beckham-jr-giants/",
-   "published": "2026-11-08T17:21:33+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-13T17:21:33+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/11/08/c22efd4d-4721-4861-8fd2-d74ec545f69d/objvikings.jpg"
-  },
-  {
-   "id": "n24f9420b2a",
-   "topic": "welt",
-   "title": "Amsterdam: Zehntausende demonstrieren gegen Israels Gaza-Politik",
-   "text": "Amsterdam ist erneut Schauplatz einer Großdemonstration gegen das israelische Vorgehen im Gazastreifen geworden. Der Protest verlief laut Polizei friedlich. Ministerpräsident Jetten war dieses Mal nicht dabei.",
-   "link": "https://www.tagesschau.de/ausland/europa/demonstration-amsterdam-israel-100.html",
-   "published": "2026-11-08T17:02:14+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-11T17:02:14+00:00",
-   "img": "https://images.tagesschau.de/image/cac8f4e0-8a53-49fc-a135-8f57f56a06a6/AAABobwcTQk/AAABnSSvrFg/16x9-big/demonstration-amsterdam-102.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Niederlande - Mehr als 200.000 Menschen protestieren in Amsterdam gegen Israels Vorgehen im Gazastreifen",
-     "link": "https://www.deutschlandfunk.de/mehr-als-200-000-menschen-protestieren-in-amsterdam-gegen-israels-vorgehen-im-gazastreifen-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n8c8f80068a",
-   "topic": "welt",
-   "title": "Israel: Netanjahu-Rivale Gadi Eisenkot soll Regierung bilden",
-   "text": "Die Machtverhältnisse im neu gewählten Parlament in Israel sind kompliziert. Dem Bündnis von Gadi Eisenkot fehlen 13 Mandate für eine eigene Regierungsmehrheit. Parteien der arabischen Minderheit könnten helfen.",
-   "link": "https://www.dw.com/de/israel-netanjahu-rivale-gadi-eisenkot-soll-regierung-bilden/a-79889744?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-08T16:40:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-12T16:40:00+00:00",
-   "img": "https://static.dw.com/image/79891763_302.jpg",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Israel - Oppositionspolitiker Eisenkot erhält offiziell Auftrag zur Regierungsbildung - \"Werde Israel aus der Krise führen\"",
-     "link": "https://www.deutschlandfunk.de/oppositionspolitiker-eisenkot-erhaelt-offiziell-auftrag-zur-regierungsbildung-werde-israel-aus-der-k-100.html"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Israel: Oppositionsführer Eisenkot soll neue Regierung bilden",
-     "link": "https://www.tagesschau.de/ausland/asien/israel-auftrag-regierungsbildung-eisenkot-100.html"
-    }
-   ]
-  },
-  {
-   "id": "nefe2bd5e11",
-   "topic": "welt",
-   "title": "Ukraine-Gespräche in Abu Dhabi: Europäer sind laut Frankreich \"gut vertreten\"",
-   "text": "Ab Dienstag soll in Abu Dhabi über einen möglichen Frieden in der Ukraine verhandelt werden. Laut dem französischen Außenminister Barrot ist auch Europa vertreten: Frankreich werde an den Gesprächen mit den Russen teilnehmen.",
-   "link": "https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-100.html",
-   "published": "2026-11-08T16:33:42+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-11T16:33:42+00:00",
-   "img": "https://images.tagesschau.de/image/bcbfacd2-b7ac-4314-9d86-ec6d822e9492/AAABobwG94w/AAABnSSvrFg/16x9-big/abu-dhabi-103.jpg?width=1920"
-  },
-  {
-   "id": "ncf372d0f74",
-   "topic": "it",
-   "title": "Neuer Reaktortyp soll Atommüll wiederverwerten",
-   "text": "Ein Forschungsreaktor der TU Dresden soll abgebrannte Brennelemente direkt nutzen und die Suche nach einem Endlager erübrigen.",
-   "link": "https://www.heise.de/news/Strom-aus-Atommuell-TU-Dresden-plant-Forschungsreaktor-11516673.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-08T16:30:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-13T16:30:00+00:00"
-  },
-  {
-   "id": "n639b8dbc02",
-   "topic": "nfl",
-   "title": "Week 9 NFL odds, lines, totals, spreads for every game, including Cowboys-Colts, Jets-Chiefs, Raiders-49ers",
-   "text": "Check the Week 9 NFL odds, spreads, moneylines, and totals for every game, including Bears vs. Buccaneers",
-   "link": "https://www.cbssports.com/betting/news/week-9-nfl-betting-odds-spreads-totals-lines/",
-   "published": "2026-11-08T16:24:36+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-13T16:24:36+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/09/14/c6a6342e-4278-41a5-83d9-8e6fe939826b/travis-kelce-chiefs.jpg"
-  },
-  {
-   "id": "n726c131d8d",
-   "topic": "welt",
-   "title": "Israel: Oppositionsführer Eisenkot soll neue Regierung bilden",
-   "text": "Nun ist es offiziell: Israels Präsident Herzog hat den Oppositionspolitiker Eisenkot mit der Regierungsbildung beauftragt. Der Ex-Militärchef appellierte an die anderen Parteien, \"unkonventionelle politische Schritte\" zu akzeptieren.",
-   "link": "https://www.tagesschau.de/ausland/asien/israel-auftrag-regierungsbildung-eisenkot-100.html",
-   "published": "2026-11-08T16:07:41+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-11T16:07:41+00:00",
-   "img": "https://images.tagesschau.de/image/17988e16-b321-4573-a2d7-f8ccec24da95/AAABobvLlHQ/AAABnSSvrFg/16x9-big/gadi-eisenkot-110.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Israel - Oppositionspolitiker Eisenkot erhält offiziell Auftrag zur Regierungsbildung - \"Werde Israel aus der Krise führen\"",
-     "link": "https://www.deutschlandfunk.de/oppositionspolitiker-eisenkot-erhaelt-offiziell-auftrag-zur-regierungsbildung-werde-israel-aus-der-k-100.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Israel: Netanjahu-Rivale Gadi Eisenkot soll Regierung bilden",
-     "link": "https://www.dw.com/de/israel-netanjahu-rivale-gadi-eisenkot-soll-regierung-bilden/a-79889744?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n10a2b908e8",
-   "topic": "it",
-   "title": "Jensen Huang soll Beziehung zu chinesischer Spionin gehabt haben",
-   "text": "US-Berichte legen nahe, dass Jensen Huang einer Spionin nahestand, deren Arbeitgeber Exportbeschränkungen unterlaufen haben soll.",
-   "link": "https://www.heise.de/news/Jensen-Huang-soll-Beziehung-zu-chinesischer-Spionin-gehabt-haben-11516677.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-08T15:40:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-13T15:40:00+00:00"
-  },
-  {
-   "id": "ne3ad5ea6fb",
-   "topic": "wirtschaft",
-   "title": "Viele Gebäude weiterhin ohne Elementarschadenversicherung",
-   "text": "Immer häufiger führen Starkregen und Überschwemmungen zu teuren Schäden an Häusern. Nur gut die Hälfte der Gebäude in Deutschland sind gegen solche Folgen abgesichert. Experten sehen Handlungsbedarf. Von Katharina Wilhelm.",
-   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/klimaschaeden-versicherungen-100.html",
-   "published": "2026-11-08T15:28:00+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-11T15:28:00+00:00",
-   "img": "https://images.tagesschau.de/image/84cb3245-ee5e-4ddc-8677-95217907f565/AAABlZAeuA0/AAABnSSvrFg/16x9-big/hochwasser-schaden-100.jpg?width=1920"
-  },
-  {
-   "id": "nc8dad5d82b",
-   "topic": "it",
-   "title": "Top 10: Die beste Smartwatch für Damen",
-   "text": "Viele Hersteller bieten Smartwatches mit kompaktem Design für schmale Handgelenke an. Wir zeigen die besten Modelle.",
-   "link": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-fuer-damen-im-test-huawei-vor-apple-und-garmin/776dwe5?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-08T15:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-13T15:00:00+00:00"
-  },
-  {
-   "id": "n61f8cda4b3",
-   "topic": "it",
-   "title": "Privatfahrzeug: Umweltminister Carsten Schneider fährt 13 Jahre alten Diesel",
-   "text": "Umweltminister Carsten Schneider setzt auf bezahlbare Alternativen statt moralischer Appelle und fährt selbst einen alten Diesel. ( Elektroauto , Auto )",
-   "link": "https://www.golem.de/news/privatfahrzeug-umweltminister-carsten-schneider-faehrt-13-jahre-alten-diesel-2611-214971.html",
-   "published": "2026-11-08T14:17:01+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-13T14:17:01+00:00",
-   "img": "https://www.golem.de/2611/214971-607394-607392_rc.jpg"
-  },
-  {
-   "id": "nd21e4e49d9",
-   "topic": "ki",
-   "title": "KI-Forscher Andrej Karpathy filtert 43 Millionen Hacker-News-Kommentare zu einer kuratierten Video-Plattform",
-   "text": "Der OpenAI-Mitgründer und KI-Forscher Andrej Karpathy hat mit Anthropics Claude Code an einem Wochenende HackerTube gebaut: eine Video-Plattform, die aus 43 Millionen Hacker-News-Kommentaren 6.454 kuratierte Videos destilliert. Claude übernahm fast die gesamte Arbeit, vom Datenfiltern bis zur Server-Einrichtung. Eine …",
-   "link": "https://the-decoder.de/ki-forscher-andrej-karpathy-filtert-43-millionen-hacker-news-kommentare-zu-einer-kuratierten-video-plattform/",
-   "published": "2026-11-08T14:07:00+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-15T14:07:00+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/11/comments_to_youtube.png"
-  },
-  {
-   "id": "n5310ed9c49",
-   "topic": "wissenschaft",
-   "title": "Freistetters Formelwelt: Integrale sind erschöpfend – aber nicht so, wie Sie vielleicht denken",
-   "text": "Mathematik kann erschöpfen. Aber in vielen Fällen ist das nicht nur erwünscht, sondern sogar äußerst hilfreich – das wusste man schon in der Antike.",
-   "link": "https://www.spektrum.de/kolumne/antike-die-mathematik-der-erschoepfung/2352055",
-   "published": "2026-11-08T14:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-22T14:00:00+00:00"
+   "img": "https://bilder.deutschlandfunk.de/e6/d0/45/f3/e6d045f3-331b-4dea-aff0-7c2d5f669c31/amsterdam-red-line-demo-100-1920x1920.jpg"
   }
  ]
 }
