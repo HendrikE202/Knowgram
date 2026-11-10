@@ -2605,4 +2605,69 @@ window.CARDS = [
       { h: "🎯 Grenzen und Anwendung", points: ["Auffällige Fehler, etwa ein Fehlschlag in einer Live-Demo, bleiben durchaus in Erinnerung","Der Effekt ist robust, wirkt aber je nach Situation und Person unterschiedlich stark","Praktisch: Bei Vortrag oder Stand-up weitermachen, statt sich ausführlich zu entschuldigen"] }
     ],
     text: "Du trägst ein peinliches Shirt und denkst, alle starren darauf. In einem berühmten Experiment der Psychologen Thomas Gilovich und Kollegen sagten die Probanden voraus, etwa die Hälfte der Anwesenden bemerke das Shirt. Es war nur ein Viertel. Wir stehen im Rampenlicht – nur in unserem eigenen Kopf." },
+  // ---- Neu 2026-11-10
+  {
+    id: "ma14", topic: "mathe", title: "6174: Die Zahl, bei der jede Rechnung landet", q: "Kaprekar-Konstante 6174",
+    more: ["ma9", "ma8"],
+    points: ["Vierstellige Zahl: Ziffern absteigend minus aufsteigend sortiert, immer wieder", "Fast jede Startzahl endet nach höchstens 7 Schritten bei 6174", "Entdeckt 1949 vom indischen Mathematiker D. R. Kaprekar"],
+    why: "Ein Beispiel dafür, wie aus einer simplen Rechenregel ein verblüffend stabiles Muster entsteht.",
+    slides: [
+      { h: "🔢 Probe aufs Exempel", steps: ["Start: 3524", "5432 − 2345 = 3087", "8730 − 0378 = 8352", "8532 − 2358 = 6174", "7641 − 1467 = 6174: Die Zahl bleibt von nun an stehen"] },
+      { h: "⚠️ Ausnahmen und Kniffe", points: ["Vier gleiche Ziffern wie 1111 ergeben sofort 0 und enden dort", "Führende Nullen zählen mit: 3087 wird zu 8730 − 0378", "Bei zweistelligen Zahlen gibt es keinen festen Punkt, nur einen Kreislauf: 09, 81, 63, 27, 45"] },
+      { h: "⏱️ Wie schnell?", big: { n: "7", l: "Schritte genügen höchstens, bis jede erlaubte vierstellige Startzahl bei 6174 ankommt" } },
+      { h: "🔍 Warum das stimmt", text: "Ein Beweis ist überschaubar: Die Differenz ist immer ein Vielfaches von 9, und es gibt nur wenige mögliche Ziffernkombinationen. Man kann sie alle durchrechnen. Bei dreistelligen Zahlen gibt es ein Gegenstück: 495, erreicht nach höchstens 6 Schritten. Bei anderen Stellenzahlen entstehen teils feste Punkte, teils Kreisläufe." }
+    ],
+    text: "Nimm eine vierstellige Zahl, etwa 3524. Ordne ihre Ziffern einmal absteigend, einmal aufsteigend an und ziehe die kleinere von der größeren Zahl ab. Wiederhole das mit dem Ergebnis. Nach wenigen Schritten landest du bei 6174, egal womit du gestartet bist. Danach bleibt die Rechnung dort hängen: Aus 6174 wird wieder 6174."
+  },
+  {
+    id: "ra14", topic: "raumfahrt", title: "Apollo 13: Gerettet von Klebeband und einem „Briefkasten“", q: "Apollo 13 Kohlendioxid Filter Adapter",
+    more: ["ra13", "ra2"],
+    points: ["April 1970: Tankexplosion, die Crew weicht in die Mondlandefähre aus", "Die Filter der Fähre reichten für drei Männer nicht, die der Kapsel passten nicht", "Das Bodenteam entwarf einen Adapter aus Material, das an Bord war"],
+    why: "Zeigt, wie unter Zeitdruck aus vorhandenen Teilen eine Lösung entsteht – das Problem war das Ausatmen, nicht der Sauerstoff.",
+    slides: [
+      { h: "🧩 Das Passproblem", text: "Kohlendioxid wird in Raumschiffen mit Lithiumhydroxid-Kartuschen gebunden. Die Fähre hatte runde Kartuschen, die für zwei Mann und rund zwei Tage reichten. Die Kommandokapsel hatte reichlich Ersatz, aber würfelförmig – er passte nicht in die runden Öffnungen. Steigendes CO₂ macht müde, löst Kopfschmerzen aus und beeinträchtigt später das Denken." },
+      { h: "🛠️ Der „Briefkasten“", steps: ["Ingenieure in Houston durften nur Dinge verwenden, die auch an Bord waren", "Sie bauten das Gerät am Boden nach und lasen die Anleitung per Funk vor", "Zutaten: Plastikbeutel, Pappe, Klebeband und ein Schlauch eines Raumanzugs", "Die Crew nannte die Konstruktion „Briefkasten“; die CO₂-Werte sanken wieder"], img: "Apollo 13 CO2 scrubber" },
+      { h: "👥 Drei statt zwei", big: { n: "3 statt 2", l: "Männer atmeten fast vier Tage in einer Fähre, die für zwei Mann ausgelegt war" } }
+    ],
+    text: "April 1970: Auf dem Weg zum Mond explodiert ein Sauerstofftank von Apollo 13. Die Besatzung rettet sich in die Mondlandefähre, gebaut für zwei Mann und zwei Tage. Der Sauerstoff reichte, doch das Ausatmen der drei Männer trieb das Kohlendioxid hoch. Die Lösung entstand im Zusammenspiel von Besatzung und Bodenteam. Auf der Erde landeten alle drei am 17. April."
+  },
+  {
+    id: "sc14", topic: "sc", title: "Heartbleed: Ein fehlender Check verrät den Speicher des Servers", q: "Heartbleed OpenSSL CVE-2014-0160",
+    more: ["sc7", "sc11"],
+    points: ["CVE-2014-0160: Fehler in der Heartbeat-Funktion von OpenSSL", "Der Server schickte so viele Bytes zurück, wie der Client behauptete, nicht wie er geschickt hatte", "Seit OpenSSL 1.0.1 (2012) enthalten, öffentlich im April 2014"],
+    why: "Ein klassischer Buffer Over-read zeigt, warum Eingaben, auch Längenangaben, nie ungeprüft vertraut werden darf.",
+    slides: [
+      { h: "🔬 Ablauf des Angriffs", steps: ["Client sendet eine Heartbeat-Anfrage mit kurzer Nutzlast, etwa „hi“", "Im Längenfeld behauptet er, es seien bis zu 64 KB", "Der Server kopiert so viele Bytes aus dem Speicher in die Antwort", "Die Antwort enthält „hi“ plus Fremdes: Schlüssel, Passwörter, Sitzungen", "Der Angreifer wiederholt das beliebig oft"] },
+      { h: "🕵️ Warum man es kaum merkte", points: ["Kein Login nötig, die Anfrage ist Teil des TLS-Protokolls", "In typischen Anwendungslogs bleibt kaum eine Spur", "Welche Daten abflossen, ließ sich nicht sicher sagen", "Im Speicher konnte auch der private Serverschlüssel liegen"] },
+      { h: "🛡️ Was Betriebe tun mussten", steps: ["OpenSSL auf eine korrigierte Version bringen (1.0.1g) und Dienste neu starten", "Zertifikate mit neuem Schlüssel neu ausstellen, alte widerrufen", "Passwörter und Sitzungstokens rotieren", "Perfect Forward Secrecy aktivieren, damit alter Mitschnitt nicht nachträglich lesbar wird", "Inventar prüfen: VPN, Router und Appliances nutzen OpenSSL oft mit"] },
+      { h: "📌 Folgen", big: { n: "~900", l: "Sozialversicherungsnummern wurden laut der kanadischen Steuerbehörde CRA 2014 über den Fehler abgegriffen" }, note: "Entdeckt unabhängig von Neel Mehta (Google) und dem Unternehmen Codenomicon" }
+    ],
+    text: "April 2014: Zwei Teams finden unabhängig voneinander einen Fehler in OpenSSL, der Software hinter Millionen verschlüsselter Webseiten. Wer eine Heartbeat-Anfrage mit falscher Längenangabe schickte, las bis zu 64 Kilobyte Arbeitsspeicher des Servers mit. Ursache war eine fehlende Längenprüfung, die beim Prüfen von Eingaben nie hätte fehlen dürfen."
+  },
+  {
+    id: "bi26", topic: "biologie", title: "Zikaden, die 17 Jahre warten und dann zu Milliarden erscheinen", q: "Magicicada Periodische Zikaden",
+    more: ["ma1", "bi12"],
+    points: ["Magicicada-Arten in Nordamerika leben 13 oder 17 Jahre als Larven unter der Erde", "Bruten schlüpfen synchron; 2024 trafen die Bruten XIII und XIX zusammen", "Warum Primzahl-Zyklen? Eine Hypothese, nicht abschließend belegt"],
+    why: "Ein Beispiel dafür, wie ein Zeitmuster im Erbgut eine Überlebensstrategie sein kann.",
+    slides: [
+      { h: "🕰️ Ein Leben in Etappen", steps: ["Weibchen legen Eier in Zweige", "Die Larven fallen zu Boden und graben sich ein", "13 oder 17 Jahre saugen sie Pflanzensaft aus Wurzeln", "Bei rund 18 °C Bodentemperatur graben sie sich frei und häuten sich", "Paarung, Eiablage, Tod nach wenigen Wochen"], img: "Magicicada exuvia" },
+      { h: "🧮 Die Primzahl-Hypothese", text: "Fressfeinde mit kurzen Zyklen von 2 bis 6 Jahren träfen einen 12-Jahres-Zyklus ständig, einen 13- oder 17-Jahres-Zyklus nur selten. Das spricht für Primzahlen. Aber: Modelle sind sich nicht einig, ob das allein reicht. Andere Erklärungen: Die Zyklen entstanden womöglich in Eiszeiten, und Primzahlen verhindern Kreuzungen verschiedener Bruten." },
+      { h: "📅 Der Doppelauftritt 2024", big: { n: "221", l: "Jahre lagen zwischen dem gemeinsamen Auftritt der Bruten XIII und XIX 1803 und 2024; der nächste ist für 2245 zu erwarten" } },
+      { h: "❓ Heuschrecken?", text: "In den USA heißen sie oft „locusts“, Heuschrecken. Das ist falsch: Zikaden sind eine eigene Insektengruppe, sie beißen und stechen nicht. Schäden entstehen vor allem an jungen Bäumen, wenn Weibchen ihre Eier in Zweige ritzen." }
+    ],
+    text: "In Nordamerika leben Zikaden, die 13 oder 17 Jahre unter der Erde Pflanzensäfte saugen, um dann in Milliarden gleichzeitig zu schlüpfen. Warum ausgerechnet Primzahlen? Eine Hypothese: Wer nur nach 13 oder 17 Jahren erscheint, trifft selten auf Fressfeinde mit kürzeren Zyklen. Als gesichert gilt das nicht, es ist eine Erklärung unter mehreren."
+  },
+  {
+    id: "ge21", topic: "geschichte", title: "Fenrir und die Fessel aus sechs Dingen, die es nicht gibt", q: "Fenrir Gleipnir Týr Edda",
+    more: ["ge12", "ge20"],
+    points: ["Fenrir ist ein Wolf, Sohn Lokis, den die Götter fürchten", "Gleipnir wird aus sechs Dingen gefertigt, die es heute angeblich nicht mehr gibt", "Týr legt seine Hand als Pfand in das Maul und verliert sie"],
+    why: "Zeigt, wie Mythen Naturbeobachtungen und Listen erklären sollen: Die „fehlenden Zutaten“ sind angeblich der Grund, warum es sie nicht gibt.",
+    slides: [
+      { h: "🧶 Die sechs Zutaten", text: "Nach Snorri bestand Gleipnir aus dem Tritt einer Katze, dem Bart einer Frau, den Wurzeln eines Berges, den Sehnen eines Bären, dem Atem eines Fisches und der Spucke eines Vogels. Weil dafür alles verbraucht wurde, gibt es laut Erzählung heute weder Katzentritte, die man hört, noch Frauen mit Bart." },
+      { h: "🔗 Die Fesselung", steps: ["Die Götter legen Fenrir die Kette Leding an; er sprengt sie", "Dann die stärkere Dromi; auch sie zerbricht", "Zwerge fertigen Gleipnir, dünn wie ein Seidenband", "Fenrir misstraut und verlangt ein Pfand: Týr legt die rechte Hand in sein Maul", "Gleipnir hält, Fenrir beißt zu, Týr verliert die Hand"], img: "Tyr Fenrir" },
+      { h: "📜 Woher wir das wissen", text: "Die ausführlichste Erzählung steht in Snorri Sturlusons Prosa-Edda, um 1220 in Island aufgeschrieben, rund 200 Jahre nach der Christianisierung. Ältere Dichtung der Lieder-Edda erwähnt Fenrir und Týrs Hand nur in Anspielungen. Wie viel Snorri geordnet oder ergänzt hat, ist Gegenstand der Forschung." },
+      { h: "⚔️ Das Ende beim Ragnarök", text: "Beim Weltuntergang Ragnarök soll Fenrir sich befreien und Odin verschlingen. Odins Sohn Víðarr tötet den Wolf anschließend. So deutet die Erzählung die Fessel als Aufschub, nicht als Lösung." }
+    ],
+    text: "Die Götter Asgards fürchteten den Wolf Fenrir und wollten ihn fesseln. Zwei eiserne Ketten sprengte er. Dann ließen sie Zwerge Gleipnir fertigen, dünn wie ein Seidenband und aus sechs Dingen gemacht, die es nicht gibt. So erzählt es Snorri Sturluson im 13. Jahrhundert. Den Preis zahlte der Gott Týr mit seiner Hand."
+  },
 ];
