@@ -1,55 +1,433 @@
 {
- "generated": "2026-11-10T21:18:21.336895+00:00",
+ "generated": "2026-11-11T06:22:37.706110+00:00",
  "briefing": [
   "n64b0c170c8",
   "n6c40bb85df",
+  "nf4c3a3d19b",
   "n5ec984a61e",
   "n39357910ed",
-  "n5c8fc3dce2",
-  "n55ce5d3c0d",
-  "n04b300a415",
-  "n6d2d6ab339",
-  "n1813b736ee"
+  "n05e079d30d",
+  "n2a2cbc833d",
+  "nf22f5f5d3c",
+  "n6fad653cfc"
  ],
  "ranked": [
   {
    "id": "n64b0c170c8",
-   "s": 40.1
+   "s": 37.8
   },
   {
    "id": "n6c40bb85df",
-   "s": 36.6
+   "s": 34.4
+  },
+  {
+   "id": "nf4c3a3d19b",
+   "s": 32.9
   },
   {
    "id": "n5ec984a61e",
-   "s": 31.2
+   "s": 28.9
   },
   {
    "id": "n39357910ed",
-   "s": 28.0
-  },
-  {
-   "id": "n5c8fc3dce2",
    "s": 27.0
   },
   {
-   "id": "n55ce5d3c0d",
-   "s": 22.8
+   "id": "n05e079d30d",
+   "s": 23.6
   },
   {
-   "id": "n04b300a415",
-   "s": 22.8
+   "id": "n2a2cbc833d",
+   "s": 22.9
   },
   {
-   "id": "n6d2d6ab339",
-   "s": 22.8
+   "id": "nf22f5f5d3c",
+   "s": 22.9
   },
   {
-   "id": "n1813b736ee",
-   "s": 21.3
+   "id": "n6fad653cfc",
+   "s": 19.5
   }
  ],
  "items": [
+  {
+   "id": "n04398de60a",
+   "topic": "it",
+   "title": "Satelliteninternet: Starlink Mini 2 hat jetzt einen Akku",
+   "text": "SpaceX stattet sein tragbares Starlink-Terminal mit einem integrierten Akku aus. ( Starlink , Satelliteninternet )",
+   "link": "https://www.golem.de/news/satelliteninternet-starlink-mini-2-hat-jetzt-einen-akku-2611-215064.html",
+   "published": "2026-11-11T06:14:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-16T06:14:02+00:00",
+   "img": "https://www.golem.de/2611/215064-607825-607823_rc.jpg"
+  },
+  {
+   "id": "nb03d49a75d",
+   "topic": "wissenschaft",
+   "title": "Wie Leica und Xiaomi die Smartphone-Fotografie neu denken",
+   "text": "Für gute Fotos reicht heute oft ein Smartphone. Doch wie kommt das fotografische Know-how einer Traditionsmarke wie Leica in eine Kamera, die in die Hosentasche passt? 🎙️",
+   "link": "https://www.spektrum.de/podcast/machen-statt-quatschen-die-smartphone-fotografie-neu-denken/2353468",
+   "published": "2026-11-11T06:13:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-25T06:13:00+00:00"
+  },
+  {
+   "id": "na69a1a81e5",
+   "topic": "wissenschaft",
+   "title": "Was können wir von der COP31 erwarten?",
+   "text": "Wie schaffen wir es als Weltgemeinschaft, die Erderwärmung möglichst gering zu halten? Diese Frage verhandeln aktuell die Vertreterinnen und Vertreter von fast 200 Staaten. 🎙️",
+   "link": "https://www.spektrum.de/podcast/mission-energiewende-was-koennen-wir-von-der-cop31-erwarten/2353462",
+   "published": "2026-11-11T06:13:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-25T06:13:00+00:00"
+  },
+  {
+   "id": "n6df0b5232e",
+   "topic": "politik",
+   "title": "News zu Eintracht Frankfurt",
+   "text": "Hier bekommen Sie immer die neuesten Nachrichten über Eintracht Frankfurt.",
+   "link": "https://www.hessenschau.de/sport/fussball/eintracht-frankfurt/eintracht-frankfurt-news-ticker-burkardt-zeigt-sich-weiter-treffsicher,bundesliga-ticker-104.html",
+   "published": "2026-11-11T06:10:20+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-15T06:10:20+00:00",
+   "img": "https://www.hessenschau.de/sport/fussball/eintracht-frankfurt/sge-collins-100~_t-1793087295409_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "nca03435a4f",
+   "topic": "it",
+   "title": "IT-Vorfall an Uni Tübingen: Tausende Datensätze abgeflossen",
+   "text": "Bei einem Cyberangriff haben die Täter Tausende Datensätze von der Universität Tübingen abgegriffen. Betroffen sind Mitarbeiter.",
+   "link": "https://www.heise.de/news/IT-Vorfall-an-Uni-Tuebingen-Tausende-Datensaetze-abgeflossen-11520090.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-11T06:03:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-16T06:03:00+00:00",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Cyberangriff auf Uni Tübingen - Tausende Datensätze gestohlen",
+     "link": "https://www.deutschlandfunk.de/tausende-datensaetze-gestohlen-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n8702ff815d",
+   "topic": "it",
+   "title": "Gigabit ist nicht alles: fireperf stresst die Firewall",
+   "text": "Wie gut bewältigen Firewalls viele Verbindungen? fireperf prüft das – und benötigt im Benchmark weniger CPU-Zeit als iperf3.",
+   "link": "https://www.heise.de/news/Gigabit-ist-nicht-alles-fireperf-stresst-die-Firewall-11519834.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-11T06:01:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-16T06:01:00+00:00"
+  },
+  {
+   "id": "ne1a57f34e2",
+   "topic": "wissenschaft",
+   "title": "Inseln: Die vielleicht letzten wilden Atolle der Welt entdeckt",
+   "text": "Bikar und Bokak stehen für etwas, das selten geworden ist auf der Welt: Gebiete, in denen der Mensch praktisch keine Spuren hinterlassen hat.",
+   "link": "https://www.spektrum.de/news/inseln-unberuehrteste-atolle-der-welt-entdeckt/2353400",
+   "published": "2026-11-11T06:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-25T06:00:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/Amphiprion_chrysopterus2_photo_Alan_Friedlander.jpg.8423856.jpg?f=1280x720"
+  },
+  {
+   "id": "n4b3969d0e8",
+   "topic": "it",
+   "title": "heise+ | E-Auto BYD mit Blade-Batterie 2.0: Blitzartig geladen",
+   "text": "In neun Minuten von zehn auf 97 Prozent: Das ist das Versprechen, das BYD für die neue Blade-Batterie 2.0 macht. Was ist der technische Hintergrund?",
+   "link": "https://www.heise.de/news/E-Auto-BYD-mit-Blade-Batterie-2-0-Blitzartig-geladen-11518514.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+   "published": "2026-11-11T06:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-16T06:00:00+00:00"
+  },
+  {
+   "id": "nebd4afdc3e",
+   "topic": "politik",
+   "title": "Zahl der Kriegsdienstverweigerer steigt weiter deutlich",
+   "text": "Der Wehrdienst bleibt weiterhin freiwillig. Die Musterung bei Männern ist allerdings verpflichtend. Die Zahl der Kriegsdienstverweigerungen steigt in diesem Jahr deutlich an.",
+   "link": "https://www.tagesschau.de/inland/kriegsdienstverweigerer-steigend-100.html",
+   "published": "2026-11-11T05:56:45+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-14T05:56:45+00:00",
+   "img": "https://images.tagesschau.de/image/90e033e0-defd-4b4b-bf51-40bb81c39473/AAABmQ4VB0k/AAABnSSvrFg/16x9-big/bundeswehr-jacken-100.jpg?width=1920"
+  },
+  {
+   "id": "neb3d905b1d",
+   "topic": "politik",
+   "title": "Vereinigte Arabische Emirate - Unterhändler der Ukraine und Russlands setzen Gespräche fort",
+   "text": "Unterhändler der Ukraine und Russlands setzen heute ihre Gespräche in Abu Dhabi fort. Nach Angaben des ukrainischen Präsidenten Selenskyj wird es dabei um eine Deeskalation im Energiebereich und ein mögliches Dreiertreffen auf Präsidentenebene unter Einbeziehung der USA gehen.",
+   "link": "https://www.deutschlandfunk.de/unterhaendler-der-ukraine-und-russlands-setzen-gespraeche-fort-100.html",
+   "published": "2026-11-11T05:56:21+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-13T05:56:21+00:00",
+   "img": "https://bilder.deutschlandfunk.de/34/3a/16/31/343a1631-aa4d-4b0d-a2ad-f6dff8e2ed66/abu-dhabi-ukraine-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Verhandlungen in Abu Dhabi über Ende des Ukraine-Krieges haben begonnen",
+     "link": "https://www.tagesschau.de/ausland/amerika/dreiergespraeche-usa-russland-ukraine-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n2a2cbc833d",
+   "topic": "politik",
+   "title": "Antalya - Gut hundert Staats- und Regierungschefs auf UNO-Klimakonferenz erwartet",
+   "text": "Auf der UNO-Klimakonferenz in der Türkei werden heute rund hundert Staats- und Regierungschefs zu einem zweitägigen Gipfeltreffen erwartet. Bundeskanzler Merz ist bei dem sogenannten \"Leaders' Summit\" nicht dabei. Von Umweltverbänden und aus der Opposition hat er sich deswegen Kritik eingehandelt.",
+   "link": "https://www.deutschlandfunk.de/gut-hundert-staats-und-regierungschefs-auf-uno-klimakonferenz-erwartet-100.html",
+   "published": "2026-11-11T05:56:21+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-13T05:56:21+00:00",
+   "img": "https://bilder.deutschlandfunk.de/9e/bc/27/73/9ebc2773-eb25-4ee7-8114-d6d47a66216a/cop-antalya-100-1280x1280.jpg"
+  },
+  {
+   "id": "nf22f5f5d3c",
+   "topic": "politik",
+   "title": "Weiter zurückgefallen - Deutschland liegt in einem neuen Klimaschutz-Index nur noch auf Rang 25",
+   "text": "Deutschland ist in einem aktuellen Klimaschutz-Index weiter zurückgefallen.",
+   "link": "https://www.deutschlandfunk.de/deutschland-liegt-in-einem-neuen-klimaschutz-index-nur-noch-auf-rang-102.html",
+   "published": "2026-11-11T05:56:21+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-13T05:56:21+00:00",
+   "img": "https://bilder.deutschlandfunk.de/NO/VA/_6/43/NOVA_643f2307432382fcb0a5802148dad77e/craft-12513045-asset-100-1920x1920.jpg"
+  },
+  {
+   "id": "n9c9380715a",
+   "topic": "politik",
+   "title": "Gaming - Download-Freigabe von \"GTA 6\" sorgt für erhöhten Datenverkehr im Internet",
+   "text": "Seitdem das Videospiel Grand Theft Auto 6 zur Installation heruntergeladen werden kann, kommt es zu einem erhöhten Datenverkehr im Internet.",
+   "link": "https://www.deutschlandfunk.de/download-freigabe-von-gta-6-sorgt-fuer-erhoehten-datenverkehr-im-internet-102.html",
+   "published": "2026-11-11T05:56:21+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-13T05:56:21+00:00",
+   "img": "https://bilder.deutschlandfunk.de/NO/VA/_4/90/NOVA_49011f851994716258a54e81b2db84fd/craft-13333851-asset-100-1920x1920.jpg"
+  },
+  {
+   "id": "nf4c3a3d19b",
+   "topic": "politik",
+   "title": "Cyberangriff auf Uni Tübingen - Tausende Datensätze gestohlen",
+   "text": "Unbekannte haben einen Cyberangriff auf die Universität Tübingen verübt.",
+   "link": "https://www.deutschlandfunk.de/tausende-datensaetze-gestohlen-100.html",
+   "published": "2026-11-11T05:56:21+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-13T05:56:21+00:00",
+   "img": "https://bilder.deutschlandfunk.de/e3/93/ac/d4/e393acd4-f5f8-412a-87f6-db97f6f28580/universitaet-tuebingen-namensstreit-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "heise online",
+     "title": "IT-Vorfall an Uni Tübingen: Tausende Datensätze abgeflossen",
+     "link": "https://www.heise.de/news/IT-Vorfall-an-Uni-Tuebingen-Tausende-Datensaetze-abgeflossen-11520090.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
+  },
+  {
+   "id": "n592766346e",
+   "topic": "politik",
+   "title": "USA - Amtsenthebungsverfahren gegen Verteidigungsminister Hegseth scheitert im Repräsentantenhaus",
+   "text": "Das Amtsenthebungsverfahren gegen US-Verteidigungsminister Hegseth ist gescheitert. Die Republikaner im Repräsentantenhaus stimmten nahezu geschlossen gegen den Vorstoß des republikanischen Abgeordneten Massie, der von den Demokraten unterstützt wurde.",
+   "link": "https://www.deutschlandfunk.de/amtsenthebungsverfahren-gegen-verteidigungsminister-hegseth-scheitert-im-repraesentantenhaus-100.html",
+   "published": "2026-11-11T05:56:21+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-13T05:56:21+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "US-Repräsentantenhaus lehnt Amtsenthebungsverfahren gegen Hegseth ab",
+     "link": "https://www.tagesschau.de/ausland/amerika/hegseth-amtsenthebungsverfahren-gestoppt-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "US-Republikaner will Amtsenthebung von Pentagon-Chef Hegseth",
+     "link": "https://www.dw.com/de/us-republikaner-will-amtsenthebung-von-pentagon-chef-hegseth/a-79906935?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "nb634c9a4d6",
+   "topic": "welt",
+   "title": "Papst Leo in Argentinien: Klartext gegen Mileis Kettensägen-Politik",
+   "text": "Papst Leo XIV. ist in Argentinien von Millionen Menschen gefeiert worden. Bei seinem Besuch kritisierte er die Sozialpolitik von Präsident Milei deutlich. Aber erreicht die Botschaft auch den Empfänger? Von T. Kleinjung.",
+   "link": "https://www.tagesschau.de/ausland/amerika/papst-argentinien-milei-100.html",
+   "published": "2026-11-11T05:54:38+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-14T05:54:38+00:00",
+   "img": "https://images.tagesschau.de/image/247f2c44-c272-4230-911e-d186afb8ddee/AAABockvycw/AAABnSSvrFg/16x9-big/cordoba-papst-102.jpg?width=1920"
+  },
+  {
+   "id": "nd1a22b759b",
+   "topic": "welt",
+   "title": "\"Digital Fairness Act\": Neue EU-Regeln für Influencer und Onlineshops?",
+   "text": "Die EU-Kommission legt heute einen Vorschlag für mehr Verbraucherschutz im Netz vor. Das Gesetz soll die Regeln für Werbung sowie Algorithmen verschärfen und nimmt Influencer, Onlineshops und Ticketverkäufer ins Visier. Von K. Schmidt.",
+   "link": "https://www.tagesschau.de/ausland/europa/digital-fairness-act-100.html",
+   "published": "2026-11-11T05:28:10+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-14T05:28:10+00:00",
+   "img": "https://images.tagesschau.de/image/ec537cd6-2a8f-439b-b007-490f00dd7670/AAABmuVO3W0/AAABnSSvrFg/16x9-big/eu-kommission-gebaeude-102.jpg?width=1920"
+  },
+  {
+   "id": "n7b0161a638",
+   "topic": "welt",
+   "title": "Wie Spaniens Mieterbewegung für den Generalstreik mobilisiert",
+   "text": "Zum ersten Mal seit 2012 findet in Spanien heute ein Generalstreik statt. Die Idee dazu stammt nicht von Arbeitnehmervertretern, sondern von einem Mieterverbund. Das dürfte auch den anstehenden Wahlkampf beeinflussen. Von J. Macher.",
+   "link": "https://www.tagesschau.de/ausland/europa/spanien-generalstreik-mieterbewegung-100.html",
+   "published": "2026-11-11T05:16:33+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-14T05:16:33+00:00",
+   "img": "https://images.tagesschau.de/image/ae6dd39a-cf05-486f-8847-891874a1f983/AAABockJUDw/AAABnSSvrFg/16x9-big/spanien-mieter-wohnungsschluessel-100.jpg?width=1920"
+  },
+  {
+   "id": "n68530d6093",
+   "topic": "nfl",
+   "title": "32 Teams. 32 Fantasy football facts to BULLY week 10",
+   "text": "Josh Norris and Hayden Winks are joined by Matt Harmon to serve up Stats vs. Film ahead of Week 10.",
+   "link": "https://sports.yahoo.com/article/32-teams-32-fantasy-football-facts-to-bully-week-10-042300583.html",
+   "published": "2026-11-11T04:23:00+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-16T04:23:00+00:00",
+   "img": "https://d29szjachogqwa.cloudfront.net/images/2026-11/83cb1c37-0c2d-4679-a1c9-832d7e517d45"
+  },
+  {
+   "id": "ne24db6fd30",
+   "topic": "nfl",
+   "title": "It’s time to play the rookies",
+   "text": "The Rams must feature CJ Daniels and Max Klare because they don’t have any other options",
+   "link": "https://sports.yahoo.com/articles/time-play-rookies-040733599.html",
+   "published": "2026-11-11T04:07:33+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-16T04:07:33+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/25f3fd7b77a03eaba9d88b453a9a151b.jpg"
+  },
+  {
+   "id": "n08fc15fd85",
+   "topic": "nfl",
+   "title": "NFL trade deadline: Ranking all 18 in-season deals as Kirk Cousins, Jeffery Simmons reshape Super Bowl race",
+   "text": "The Jaguars, Bears and Bills are among the teams that pulled off home-run moves",
+   "link": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-ranking-all-18-deals-kirk-cousins-jeffery-simmons/",
+   "published": "2026-11-11T01:27:42+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-16T01:27:42+00:00"
+  },
+  {
+   "id": "nc13b28b65c",
+   "topic": "politik",
+   "title": "Kommentar: Aigner hätte auch zu AfD und Linken gehen müssen",
+   "text": "Als Bundespräsidentin möchte Ilse Aigner Gräben überwinden. Bei ihrem Besuch im Bundestag versuchte sie allerdings nicht, die Türschwellen vor den Fraktionssälen von AfD und Linke zu überwinden. Ein schlechter Start, meint Maximilian Ulrich.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-kein-besuch-bei-afd-linke-100.html",
+   "published": "2026-11-11T01:20:58+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-14T01:20:58+00:00",
+   "img": "https://images.tagesschau.de/image/107b49e8-ab44-43ed-b804-6def95fc2d29/AAABocbu7EA/AAABnSSvrFg/16x9-big/aigner-166.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Kandidatur als Bundespräsidentin - Aigner stellt sich im Bundestag vor",
+     "link": "https://www.deutschlandfunk.de/aigner-stellt-sich-im-bundestag-vor-102.html"
+    }
+   ]
+  },
+  {
+   "id": "n11c0013932",
+   "topic": "politik",
+   "title": "Ilse Aigner stellt sich den Bundestagsfraktionen vor",
+   "text": "Freundlich und überparteilich präsentiert sich die wohl künftige Bundespräsidentin Ilse Aigner bei den Fraktionen im Bundestag. Nur bei zwei Parteien lässt sie sich nicht blicken. Von Uwe Berndt.",
+   "link": "https://www.tagesschau.de/inland/aigner-fraktionen-100.html",
+   "published": "2026-11-11T01:17:49+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-14T01:17:49+00:00",
+   "img": "https://images.tagesschau.de/image/6ca89cad-29d1-4adb-9697-a4e3fa3ddbea/AAABocdx-Ys/AAABnSSvrFg/16x9-big/aigner-168.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Kandidatur als Bundespräsidentin - Aigner stellt sich im Bundestag vor",
+     "link": "https://www.deutschlandfunk.de/aigner-stellt-sich-im-bundestag-vor-102.html"
+    }
+   ]
+  },
+  {
+   "id": "n73d78bbbe6",
+   "topic": "nfl",
+   "title": "NFL trade deadline aftermath: Which teams improved, which teams should have made moves",
+   "text": "The Vikings and Chiefs were among the teams that got better, but the Chargers really dropped the ball on Tuesday",
+   "link": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-aftermath-vikings-chiefs-improve/",
+   "published": "2026-11-11T00:55:18+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-16T00:55:18+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/11/11/643e399d-d0e5-4c84-bfa9-7254a81f2560/mahomes-chiefs.jpg"
+  },
+  {
+   "id": "n0f287a88a8",
+   "topic": "welt",
+   "title": "US-Repräsentantenhaus lehnt Amtsenthebungsverfahren gegen Hegseth ab",
+   "text": "Die Republikaner im US-Repräsentantenhaus haben einen Vorstoß zur Amtsenthebung von Verteidigungsminister Pete Hegseth abgewehrt. Sie stimmten nahezu geschlossen gegen eine entsprechende Resolution.",
+   "link": "https://www.tagesschau.de/ausland/amerika/hegseth-amtsenthebungsverfahren-gestoppt-100.html",
+   "published": "2026-11-11T00:19:26+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-14T00:19:26+00:00",
+   "img": "https://images.tagesschau.de/image/07d2895d-fb71-4b0f-9548-d17caea53e00/AAABnQYW5as/AAABnSSvrFg/16x9-big/hegseth-156.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "USA - Amtsenthebungsverfahren gegen Verteidigungsminister Hegseth scheitert im Repräsentantenhaus",
+     "link": "https://www.deutschlandfunk.de/amtsenthebungsverfahren-gegen-verteidigungsminister-hegseth-scheitert-im-repraesentantenhaus-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "US-Republikaner will Amtsenthebung von Pentagon-Chef Hegseth",
+     "link": "https://www.dw.com/de/us-republikaner-will-amtsenthebung-von-pentagon-chef-hegseth/a-79906935?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
   {
    "id": "n4b7b07f500",
    "topic": "nfl",
@@ -85,7 +463,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-13T21:08:29+00:00",
-   "img": "https://images.tagesschau.de/image/ba9868a2-8216-4787-aaaf-809aa58574d4/AAABocb3Se0/AAABnSSvrFg/16x9-big/abu-dhabi-140.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/413f48be-c711-47fe-8642-e85e2afea1d3/AAABockoku4/AAABnSSvrFg/16x9-big/abu-dhabi-144.jpg?width=1920"
   },
   {
    "id": "nb0c096f56b",
@@ -98,7 +476,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-13T21:04:36+00:00",
-   "img": "https://images.tagesschau.de/image/83dbe2dc-bb9d-48e3-9d41-083d596aa0f7/AAABocc35xk/AAABnSSvrFg/16x9-big/toledo-114.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/d1f033ab-21ab-4c84-8fc0-50de7556891e/AAABocd6jrY/AAABnSSvrFg/16x9-big/toledo-118.jpg?width=1920"
   },
   {
    "id": "n85014b60f8",
@@ -421,14 +799,14 @@
    "img": "https://images.tagesschau.de/image/d5807020-8f64-4fb4-8e3f-8a89ca546594/AAABocYoqD4/AAABnSSvrFg/16x9-big/hegseth-188.jpg?width=1920",
    "also": [
     {
+     "source": "Deutschlandfunk",
+     "title": "USA - Amtsenthebungsverfahren gegen Verteidigungsminister Hegseth scheitert im Repräsentantenhaus",
+     "link": "https://www.deutschlandfunk.de/amtsenthebungsverfahren-gegen-verteidigungsminister-hegseth-scheitert-im-repraesentantenhaus-100.html"
+    },
+    {
      "source": "Deutsche Welle",
      "title": "US-Republikaner will Amtsenthebung von Pentagon-Chef Hegseth",
      "link": "https://www.dw.com/de/us-republikaner-will-amtsenthebung-von-pentagon-chef-hegseth/a-79906935?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Deutschlandfunk",
-     "title": "USA - Republikanischer Abgeordneter stellt Antrag auf Amtsenthebung von Verteidigungsminister Hegseth",
-     "link": "https://www.deutschlandfunk.de/republikanischer-abgeordneter-stellt-antrag-auf-amtsenthebung-von-verteidigungsminister-hegseth-106.html"
     }
    ]
   },
@@ -605,14 +983,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-12T14:36:28+00:00",
-   "img": "https://bilder.deutschlandfunk.de/09/e9/64/58/09e96458-6ffc-425f-86b0-636a168a80ca/hackerangriff-supermaerkte-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühltruhen verantwortlich",
-     "link": "https://www.tagesschau.de/ausland/europa/kuehlanlagen-cyberangriffe-100.html"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/09/e9/64/58/09e96458-6ffc-425f-86b0-636a168a80ca/hackerangriff-supermaerkte-100-1920x1920.jpg"
   },
   {
    "id": "n058960c3c3",
@@ -731,14 +1102,14 @@
    "img": "https://static.dw.com/image/79870352_302.jpg",
    "also": [
     {
-     "source": "Tagesschau",
-     "title": "Pentagon-Chef Hegseth sieht in Amtsenthebungsantrag \"Schauprozess\"",
-     "link": "https://www.tagesschau.de/ausland/amerika/usa-hegseth-amtsenthebungsverfahren-100.html"
+     "source": "Deutschlandfunk",
+     "title": "USA - Amtsenthebungsverfahren gegen Verteidigungsminister Hegseth scheitert im Repräsentantenhaus",
+     "link": "https://www.deutschlandfunk.de/amtsenthebungsverfahren-gegen-verteidigungsminister-hegseth-scheitert-im-repraesentantenhaus-100.html"
     },
     {
-     "source": "Deutschlandfunk",
-     "title": "USA - Republikanischer Abgeordneter stellt Antrag auf Amtsenthebung von Verteidigungsminister Hegseth",
-     "link": "https://www.deutschlandfunk.de/republikanischer-abgeordneter-stellt-antrag-auf-amtsenthebung-von-verteidigungsminister-hegseth-106.html"
+     "source": "Tagesschau",
+     "title": "US-Repräsentantenhaus lehnt Amtsenthebungsverfahren gegen Hegseth ab",
+     "link": "https://www.tagesschau.de/ausland/amerika/hegseth-amtsenthebungsverfahren-gestoppt-100.html"
     }
    ]
   },
@@ -1098,8 +1469,8 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Abu Dhabi - Trilaterale Gespräche über Ende des Ukraine-Kriegs sollen morgen fortgesetzt werden",
-     "link": "https://www.deutschlandfunk.de/trilaterale-gespraeche-ueber-ende-des-ukraine-kriegs-sollen-morgen-fortgesetzt-werden-102.html"
+     "title": "Vereinigte Arabische Emirate - Unterhändler der Ukraine und Russlands setzen Gespräche fort",
+     "link": "https://www.deutschlandfunk.de/unterhaendler-der-ukraine-und-russlands-setzen-gespraeche-fort-100.html"
     }
    ]
   },
@@ -1217,12 +1588,11 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-12T03:17:38+00:00",
-   "img": "https://bilder.deutschlandfunk.de/19/9e/7a/3c/199e7a3c-88e2-4852-879f-3931d0728670/verteidigungsminister-pete-hegseth-100-1920x1920.jpg",
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Pentagon-Chef Hegseth sieht in Amtsenthebungsantrag \"Schauprozess\"",
-     "link": "https://www.tagesschau.de/ausland/amerika/usa-hegseth-amtsenthebungsverfahren-100.html"
+     "title": "US-Repräsentantenhaus lehnt Amtsenthebungsverfahren gegen Hegseth ab",
+     "link": "https://www.tagesschau.de/ausland/amerika/hegseth-amtsenthebungsverfahren-gestoppt-100.html"
     },
     {
      "source": "Deutsche Welle",
@@ -1259,8 +1629,8 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Aigner stellt sich Fraktionen vor - nicht bei AfD und Linken",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-vorstellung-bundestagsfraktionen-100.html"
+     "title": "Kommentar: Aigner hätte auch zu AfD und Linken gehen müssen",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-kein-besuch-bei-afd-linke-100.html"
     }
    ]
   },
@@ -1305,8 +1675,8 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "Abu Dhabi - Trilaterale Gespräche über Ende des Ukraine-Kriegs sollen morgen fortgesetzt werden",
-     "link": "https://www.deutschlandfunk.de/trilaterale-gespraeche-ueber-ende-des-ukraine-kriegs-sollen-morgen-fortgesetzt-werden-102.html"
+     "title": "Vereinigte Arabische Emirate - Unterhändler der Ukraine und Russlands setzen Gespräche fort",
+     "link": "https://www.deutschlandfunk.de/unterhaendler-der-ukraine-und-russlands-setzen-gespraeche-fort-100.html"
     }
    ]
   },
@@ -1371,14 +1741,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-12T21:27:31+00:00",
-   "img": "https://images.tagesschau.de/image/959a7fee-357f-4092-a4e7-843f1ce6ebbe/AAABocRXSAg/AAABnSSvrFg/16x9-big/sendungsbild-1825142.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Steinmeier-Nachfolge - Nach Nominierung: CSU-Politikerin Ilse Aigner bedankt sich für parteiübergreifenden Zuspruch",
-     "link": "https://www.deutschlandfunk.de/nach-nominierung-csu-politikerin-ilse-aigner-bedankt-sich-fuer-parteiuebergreifenden-zuspruch-102.html"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/959a7fee-357f-4092-a4e7-843f1ce6ebbe/AAABocRXSAg/AAABnSSvrFg/16x9-big/sendungsbild-1825142.jpg?width=1920"
   },
   {
    "id": "n1d4e3e3308",
@@ -1417,347 +1780,6 @@
    "type": "Fachmedium (IT)",
    "lang": "de",
    "expires": "2026-11-14T20:13:00+00:00"
-  },
-  {
-   "id": "nb40b9612ff",
-   "topic": "welt",
-   "title": "Steinmeier-Rede zum 9. November: Die Scham der Reichspogromnacht, vom Glück des Mauerfalls",
-   "text": "Der 9. November wühlt die Deutschen auf. Als Tag der größten Nazi-Verbrechen, als Tag des Falls der Berliner Mauer. Der Bundespräsident zieht Lehren für die Zukunft.",
-   "link": "https://www.dw.com/de/steinmeier-rede-zum-9-november-die-scham-der-reichspogromnacht-vom-glück-des-mauerfalls/a-79900308?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-09T20:07:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-13T20:07:00+00:00",
-   "img": "https://static.dw.com/image/79900783_302.jpg"
-  },
-  {
-   "id": "n9e7118c6f7",
-   "topic": "wissenschaft",
-   "title": "COP31 · Wie geht es weiter mit dem Klimaschutz?",
-   "text": "Fast 200 Staaten, zwei Wochen Verhandlungen, ein gemeinsames Ziel: den Klimawandel bremsen. Doch wie funktioniert die Weltklimakonferenz – und was kann sie tatsächlich erreichen?",
-   "link": "https://www.tagesschau.de/video/video-1681060.html",
-   "published": "2026-11-09T19:44:54+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-23T19:44:54+00:00",
-   "img": "https://images.tagesschau.de/image/9be9dfbf-e070-4598-868e-2ff6ae12b400/AAABocHTjDk/AAABnSSvrFg/16x9-big/09112026-topthema-cop31-100.jpg?width=1920"
-  },
-  {
-   "id": "n048936afaf",
-   "topic": "nfl",
-   "title": "Seattle Seahawks 2026 trade deadline tracker",
-   "text": "Follow ongoing coverage of the 2026 NFL trade deadline, including whether or not the Seahawks make one more move.",
-   "link": "https://sports.yahoo.com/articles/seattle-seahawks-2026-trade-deadline-193641193.html",
-   "published": "2026-11-09T19:36:41+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-14T19:36:41+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/c9113646baf2c3518acb30f2bbdc24c4.jpg"
-  },
-  {
-   "id": "nfbe82e6d8e",
-   "topic": "welt",
-   "title": "Buenos Aires: Papst Leo XIV. feiert Messe vor zwei Millionen Menschen",
-   "text": "Argentinien ist im \"Papa-León-Fieber\": An einem gigantischen Freiluft-Gottesdienst nahmen gut zwei Millionen Menschen teil. Leo XIV. würdigte dabei die Bedeutung der Familie und plädierte für den Schutz der Schwachen.",
-   "link": "https://www.tagesschau.de/ausland/amerika/papst-leo-argentinien-100.html",
-   "published": "2026-11-09T19:34:13+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-12T19:34:13+00:00",
-   "img": "https://images.tagesschau.de/image/66cc38c8-763c-447b-8cf8-ad9a272272b5/AAABocGpaq0/AAABnSSvrFg/16x9-big/papst-leo-230.jpg?width=1920"
-  },
-  {
-   "id": "n0c2275967a",
-   "topic": "nfl",
-   "title": "AFC Playoff Picture: Chiefs keep pace with their Week 9 win",
-   "text": "This is where things stand in the AFC after Kansas City’s sixth win of the season.",
-   "link": "https://sports.yahoo.com/articles/afc-playoff-picture-chiefs-keep-193000705.html",
-   "published": "2026-11-09T19:30:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-14T19:30:00+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/f4eb69811afbb7125f5037d5e8d7be2f.jpg"
-  },
-  {
-   "id": "nce1a84e2ad",
-   "topic": "politik",
-   "title": "Synagogen-Festakt in München: Ein Jubiläum in schwierigen Zeiten",
-   "text": "Am Jahrestag der NS-Pogromnacht feiert die Münchner Hauptsynagoge ihr 20-jähriges Bestehen. Die Holocaust-Überlebende Knobloch warnte dabei vor einem als \"aufrichtige Haltung getarnten Israelhass\". Von S. Berninger.",
-   "link": "https://www.tagesschau.de/inland/gesellschaft/synagoge-muenchen-102.html",
-   "published": "2026-11-09T19:14:42+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-12T19:14:42+00:00",
-   "img": "https://images.tagesschau.de/image/1ff52e4d-7452-4afc-a63f-6a1d16b2cade/AAABocG78cM/AAABnSSvrFg/16x9-big/soeder-knobloch-merz-aigner-100.jpg?width=1920"
-  },
-  {
-   "id": "n1ff3dfc3b6",
-   "topic": "politik",
-   "title": "In eigener Sache - Vorübergehend keine Aktualisierung",
-   "text": "",
-   "link": "https://www.deutschlandfunk.de/voruebergehend-keine-aktualisierung-100.html",
-   "published": "2026-11-09T19:08:13+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-11T19:08:13+00:00"
-  },
-  {
-   "id": "n9d3bdef17a",
-   "topic": "politik",
-   "title": "In eigener Sache - Vorübergehend keine Aktualisierung",
-   "text": "Wegen einer technischen Wartung können wir die Nachrichten-Seite vorübergehend nicht aktualisieren. Wir sind vermutlich ab 21 Uhr wieder mit neuen Meldungen für Sie da.",
-   "link": "https://www.deutschlandfunk.de/voruebergehend-keine-aktualisierung-102.html",
-   "published": "2026-11-09T19:08:13+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-11T19:08:13+00:00"
-  },
-  {
-   "id": "n4be02808e1",
-   "topic": "politik",
-   "title": "Jahrestag Reichspogromnacht - Steinmeier und Merz rufen bei Gedenkfeiern zu Kampf gegen Antisemitismus auf",
-   "text": "Anlässlich des Jahrestags der Reichspogromnacht haben Bundespräsident Steinmeier und Bundeskanzler Merz zum Kampf gegen Antisemitismus aufgerufen. Steinmeier sagte bei der Gedenkstätte Buchenwald nahe Weimar, man müsse sich dem Judenhass entgegenstellen - ganz gleich, ob er von den politischen Rändern, aus der Mitte …",
-   "link": "https://www.deutschlandfunk.de/steinmeier-und-merz-rufen-bei-gedenkfeiern-zu-kampf-gegen-antisemitismus-auf-102.html",
-   "published": "2026-11-09T19:08:13+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-11T19:08:13+00:00",
-   "img": "https://bilder.deutschlandfunk.de/bf/08/4e/1c/bf084e1c-43eb-44c9-b6c2-cc8417b55a64/merz-muenchen-synagoge-100-1920x1920.jpg"
-  },
-  {
-   "id": "nbadd0487b4",
-   "topic": "politik",
-   "title": "Supermärkte - Frankreich macht iranische Revolutionsgarden für Cyberangriffe auf Kühlsysteme verantwortlich",
-   "text": "Frankreich macht die iranischen Revolutionsgarden für die Cyberangriffe auf Supermarkt-Kühlsysteme verantwortlich. Der französische Außenminister Barrot teilte mit, zu diesem Ergebnis seien Untersuchungen staatlicher Behörden gekommen.",
-   "link": "https://www.deutschlandfunk.de/frankreich-macht-iranische-revolutionsgarden-fuer-cyberangriffe-auf-kuehlsysteme-verantwortlich-102.html",
-   "published": "2026-11-09T19:08:13+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-11T19:08:13+00:00",
-   "img": "https://bilder.deutschlandfunk.de/NO/VA/_b/fb/NOVA_bfb2e6eb5a2fda672fcb953e892416b1/craft-13529717-asset-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühltruhen verantwortlich",
-     "link": "https://www.tagesschau.de/ausland/europa/kuehlanlagen-cyberangriffe-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n15eb1b2d75",
-   "topic": "politik",
-   "title": "Steinmeier-Nachfolge - Nach Nominierung: CSU-Politikerin Ilse Aigner bedankt sich für parteiübergreifenden Zuspruch",
-   "text": "Nach der Nominierung zur Kandidatin für das Amt der Bundespräsidentin hat sich die CSU-Politikerin Aigner für den parteiübergreifenden Zuspruch bedankt. Auf einer gemeinsamen Pressekonferenz mit Bundeskanzler Merz sagte sie, die Unterstützung mache sie demütig, aber auch mutig.",
-   "link": "https://www.deutschlandfunk.de/nach-nominierung-csu-politikerin-ilse-aigner-bedankt-sich-fuer-parteiuebergreifenden-zuspruch-102.html",
-   "published": "2026-11-09T19:08:13+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-11T19:08:13+00:00",
-   "img": "https://bilder.deutschlandfunk.de/b2/f7/4b/fd/b2f74bfd-4d38-40b6-8e12-d12c10c4f3c9/bundeskanzler-merz-ilse-aigner-csu-nominierung-bundespraesidentin-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Merz verteidigt Ablauf der Nominierung von Aigner",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-bundespraesidentin-100.html"
-    }
-   ]
-  },
-  {
-   "id": "ne78da5bd65",
-   "topic": "politik",
-   "title": "Klimakonferenz in Antalya - Guterres: Neues Zeitalter der Klimaextreme erreicht",
-   "text": "Die Weltorganisation für Meteorologie hat zum Start der UNO-Klimakonferenz in Antalya vor neuen Wetterextremen gewarnt. WMO-Chefin Saulo sagte, man stelle sich darauf ein, dass 2027 auch durch das Wetterphänomen El Niño das wärmste je gemessene Jahr werden könnte. Hitzewellen, tropische Wirbelstürme und Unwetter mit …",
-   "link": "https://www.deutschlandfunk.de/guterres-neues-zeitalter-der-klimaextreme-erreicht-112.html",
-   "published": "2026-11-09T19:08:13+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-11T19:08:13+00:00",
-   "img": "https://bilder.deutschlandfunk.de/02/fb/80/07/02fb8007-40ef-47cd-b1f5-51d6d0e84717/duerre-trockener-boden-italien-100-1920x1920.jpg"
-  },
-  {
-   "id": "n99c0f9e366",
-   "topic": "ki",
-   "title": "Meta stellt Muse Ember vor: Kleinstes Modell soll KI-Agenten günstiger und effizienter machen",
-   "text": "Meta stellt mit Muse Ember sein kleinstes und effizientestes KI-Modell vor, optimiert für repetitive Agenten-Aufgaben wie Tool-Aufrufe, Routing und Datenextraktion. Laut Meta liefert es mehr Intelligenz pro Dollar als Claude Haiku 5.5 oder GPT-6 Luna, schwächelt aber bei echten Programmieraufgaben. Der Artikel Meta …",
-   "link": "https://the-decoder.de/meta-stellt-muse-ember-vor-kleinstes-modell-soll-ki-agenten-guenstiger-und-effizienter-machen/",
-   "published": "2026-11-09T19:05:51+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-16T19:05:51+00:00"
-  },
-  {
-   "id": "n5de7716cb3",
-   "topic": "politik",
-   "title": "Blindenschrift aus Marburg: Wie Brailletec Menschen weltweit Teilhabe ermöglicht",
-   "text": "Ob tastbare Beschriftungen im Aufzug oder Druckplatten für Blindenschrift: Mit Brailletec sitzt in Marburg ein international führendes Spezialunternehmen für Blinden- und Sehbehindertentechnik. Und das als gemeinnützige Firma mit nur zehn Beschäftigten.",
-   "link": "https://www.hessenschau.de/gesellschaft/blindenschrift-aus-marburg-wie-brailletec-menschen-weltweit-teilhabe-ermoeglicht-v1,brailletec-marburg-100.html",
-   "published": "2026-11-09T19:00:12+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-13T19:00:12+00:00",
-   "img": "https://www.hessenschau.de/gesellschaft/brailletec-marburg-102~_t-1794250809018_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "nb50397c837",
-   "topic": "it",
-   "title": "Top 10: Speicher für Balkonkraftwerk im Test",
-   "text": "Wir zeigen die besten Speicher für Balkonkraftwerke. Viele Modelle lassen sich inzwischen lokal via Home Assistant ansteuern.",
-   "link": "https://www.heise.de/bestenlisten/testsieger/top-10-speicher-fuer-balkonkraftwerk-im-test-ohne-cloud-lokal-steuerbar/9g7b03h?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-09T19:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-14T19:00:00+00:00"
-  },
-  {
-   "id": "ne3bcfa43b8",
-   "topic": "wirtschaft",
-   "title": "Wirtschaft vor acht vom 09.11.2026",
-   "text": "Wirtschaft vor acht vom 09.11.2026",
-   "link": "https://www.tagesschau.de/video/video-1680998.html",
-   "published": "2026-11-09T18:54:48+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-12T18:54:48+00:00",
-   "img": "https://images.tagesschau.de/image/8edf3401-4fac-491c-9991-1744d9fa6059/AAABocGppXw/AAABnSSvrFg/16x9-big/sendungsbild-1825052.jpg?width=1920"
-  },
-  {
-   "id": "nb2186e0dce",
-   "topic": "ki",
-   "title": "Seedream 5.5: Bytedance will mit stabilem Multi-Edit und Transparenz professionelle Workflows bedienen",
-   "text": "Bytedance Seed stellt mit Seedream 5.5 ein Bildmodell vor, das auf professionelle Produktionsworkflows zielt. Das Modell soll stabiles Mehrfach-Editing über bis zu 100 Runden ermöglichen, nativ RGBA-Bilder mit transparentem Hintergrund erzeugen und laut Bytedance bei Realismus vor GPT‑Image-2.5 Sunburst liegen. Eine …",
-   "link": "https://the-decoder.de/seedream-5-5-bytedance-will-mit-stabilem-multi-edit-und-transparenz-professionelle-workflows-bedienen/",
-   "published": "2026-11-09T18:43:01+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-16T18:43:01+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/11/seedance_examples-scaled.png"
-  },
-  {
-   "id": "nbf3cc8a904",
-   "topic": "welt",
-   "title": "Weltklimakonferenz in Antalya: Erster Tag, erster Konflikt",
-   "text": "Im türkischen Antalya hat die UN-Klimakonferenz begonnen - mit eindringlichen Worten und einem vielversprechenden Vorschlag. Doch kaum eröffnet, gab es auch den ersten Konflikt. Von Benjamin Weber",
-   "link": "https://www.tagesschau.de/ausland/cop-136.html",
-   "published": "2026-11-09T18:19:45+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-12T18:19:45+00:00",
-   "img": "https://images.tagesschau.de/image/60a161d0-b947-45ca-8e99-e2a172de2be3/AAABocF_Rvw/AAABnSSvrFg/16x9-big/cop-138.jpg?width=1920"
-  },
-  {
-   "id": "n94fdbe47aa",
-   "topic": "it",
-   "title": "Die NASA sucht Astronauten für künftige Mondmissionen",
-   "text": "Die NASA sucht Besatzungen für künftige Mondlandungen und die Mondbasis. Daneben dürfen sich acht Unternehmen um neue Mondflüge bewerben.",
-   "link": "https://www.heise.de/news/Die-NASA-sucht-Astronauten-fuer-kuenftige-Mondmissionen-11518006.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-09T18:10:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-14T18:10:00+00:00"
-  },
-  {
-   "id": "n5c8fc3dce2",
-   "topic": "welt",
-   "title": "Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühltruhen verantwortlich",
-   "text": "In mehreren Ländern Europas hatte es zuletzt Cyberangriffe auf Supermarkt-Kühlanlagen gegeben - als möglicher Urheber galt Russland. Der französische Außenminister machte nun Iran für die Vorfälle in Frankreich verantwortlich.",
-   "link": "https://www.tagesschau.de/ausland/europa/kuehlanlagen-cyberangriffe-100.html",
-   "published": "2026-11-09T17:51:23+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-12T17:51:23+00:00",
-   "img": "https://images.tagesschau.de/image/f526d0b5-6aea-4321-bb81-fdf915d039f4/AAABocFH_aQ/AAABnSSvrFg/16x9-big/kuehlanlagen-frankreich-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Cyberangriffe - Iran weist Vorwürfe Frankreichs zurück, für Hackerangriffe auf Kühlsysteme verantwortlich zu sein",
-     "link": "https://www.deutschlandfunk.de/iran-weist-vorwuerfe-frankreichs-zurueck-fuer-hackerangriffe-auf-kuehlsysteme-verantwortlich-zu-sein-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n4ab4f8db1a",
-   "topic": "it",
-   "title": "Gehackte Kühlanlagen: Frankreich beschuldigt Iran als Urheber von Cyberattacken",
-   "text": "Hinter den Cyberattacken auf französische Supermarktketten sollen Hacker der iranischen Revolutionsgarden stecken. ( Security , Cyberwar )",
-   "link": "https://www.golem.de/news/gehackte-kuehlanlagen-frankreich-beschuldigt-iran-als-urheber-von-cyberattacken-2611-215010.html",
-   "published": "2026-11-09T17:42:01+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-14T17:42:01+00:00",
-   "img": "https://www.golem.de/2611/215010-607572-607570_rc.jpg"
-  },
-  {
-   "id": "n5532018a9e",
-   "topic": "it",
-   "title": "Microsoft prüft Rechenzentrumsverträge und lehnt ab",
-   "text": "Microsoft lässt Insiderinformationen zufolge einige Rechenzentrumsverträge auslaufen, darunter einen Mietvertrag mit Oracle.",
-   "link": "https://www.heise.de/news/Microsoft-laesst-Rechenzentrumsvertrag-mit-Oracle-auslaufen-11517608.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-09T17:30:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-14T17:30:00+00:00"
-  },
-  {
-   "id": "n5e7210ae8a",
-   "topic": "welt",
-   "title": "Russland-Ukraine-Gespräche in Abu Dhabi: Kommt es zu einem Durchbruch?",
-   "text": "Mit Vertretern der Geheimdienste und Diplomaten ist die russische Delegation bei den Gesprächen mit der Ukraine hochrangig besetzt. Auch Vertreter europäischer Staaten reisen nach Abu Dhabi. Was bedeutet das?",
-   "link": "https://www.dw.com/de/russland-ukraine-gespräche-in-abu-dhabi-kommt-es-zu-einem-durchbruch/a-79902965?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-09T17:29:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-13T17:29:00+00:00",
-   "img": "https://static.dw.com/image/77045019_302.jpg"
-  },
-  {
-   "id": "n417f996a4e",
-   "topic": "welt",
-   "title": "Wadephul zweifelt an Russlands Verhandlungswillen",
-   "text": "In Abu Dhabi geht es ab Dienstag um ein mögliches Ende des Ukraine-Kriegs. Sind das ernsthafte Friedensgespräche? Außenminister Wadephul zweifelt am Verhandlungswillen Russlands - und fordert Mitsprache für die Europäer.",
-   "link": "https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-102.html",
-   "published": "2026-11-09T17:19:07+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-12T17:19:07+00:00",
-   "img": "https://images.tagesschau.de/image/c83082f8-691a-4254-a060-9d12d96dad43/AAABocFH_4c/AAABnSSvrFg/16x9-big/wadephul-434.jpg?width=1920"
-  },
-  {
-   "id": "n99bc852b1e",
-   "topic": "wirtschaft",
-   "title": "Marktbericht: DAX erholt sich kräftig",
-   "text": "Der deutsche Aktienmarkt ist stark in die neue Woche gestartet. Während große Fragezeichen über der Technologiebranche bleiben, kam heute Entlastung von anderer Seite.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-170.html",
-   "published": "2026-11-09T17:18:50+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-12T17:18:50+00:00",
-   "img": "https://images.tagesschau.de/image/1d9254b0-75a1-48b6-a8e7-77746406dfc0/AAABns_HxYg/AAABnSSvrFg/16x9-big/boerse-518.jpg?width=1920"
   }
  ]
 }
