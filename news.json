@@ -1,88 +1,698 @@
 {
- "generated": "2026-11-13T10:59:29.276663+00:00",
+ "generated": "2026-11-13T19:42:43.266387+00:00",
  "briefing": [
-  "n8dd7b11400",
+  "n8c9f95bfea",
   "n83104f354e",
+  "n755f677ae4",
   "n2ea5caaca9",
   "n524a9e3eae",
-  "n8c9f95bfea",
-  "neab30864eb",
-  "n1d7654e629",
-  "nfe64ba8618",
-  "n4fc891d26f",
-  "nd4d05c4d63"
+  "n48899ae4d5",
+  "n351f27f812",
+  "n736a8796e8",
+  "n7fb54d89a0",
+  "nf5be5b75a4"
  ],
  "ranked": [
   {
-   "id": "n8dd7b11400",
-   "s": 48.3
+   "id": "n8c9f95bfea",
+   "s": 39.7
   },
   {
    "id": "n83104f354e",
-   "s": 33.9
+   "s": 32.0
+  },
+  {
+   "id": "n755f677ae4",
+   "s": 32.0
   },
   {
    "id": "n2ea5caaca9",
-   "s": 32.4
+   "s": 30.2
   },
   {
    "id": "n524a9e3eae",
-   "s": 32.1
+   "s": 29.9
   },
   {
-   "id": "n8c9f95bfea",
-   "s": 31.9
+   "id": "n48899ae4d5",
+   "s": 24.2
   },
   {
-   "id": "neab30864eb",
-   "s": 29.0
+   "id": "n351f27f812",
+   "s": 22.9
+  },
+  {
+   "id": "n736a8796e8",
+   "s": 22.7
+  },
+  {
+   "id": "n7fb54d89a0",
+   "s": 22.1
+  },
+  {
+   "id": "nf5be5b75a4",
+   "s": 21.7
+  },
+  {
+   "id": "n0b98014e07",
+   "s": 21.7
   },
   {
    "id": "n1d7654e629",
-   "s": 23.0
-  },
-  {
-   "id": "nfe64ba8618",
-   "s": 23.0
-  },
-  {
-   "id": "n4fc891d26f",
-   "s": 23.0
-  },
-  {
-   "id": "nd4d05c4d63",
-   "s": 22.2
-  },
-  {
-   "id": "n73142471d8",
    "s": 20.8
   },
   {
-   "id": "n386e40e5b9",
-   "s": 20.6
+   "id": "nfe64ba8618",
+   "s": 20.8
   },
   {
-   "id": "n4613b1ae68",
+   "id": "n4fc891d26f",
+   "s": 20.8
+  },
+  {
+   "id": "n3f962d961c",
    "s": 20.5
   },
   {
-   "id": "n3280e9fed5",
+   "id": "n443e9c9df3",
    "s": 20.5
   },
   {
-   "id": "nbde34e7964",
-   "s": 19.5
+   "id": "n44752d7c44",
+   "s": 20.4
   },
   {
-   "id": "nf72773c2cb",
-   "s": 18.4
-  },
-  {
-   "id": "n36b019755f",
-   "s": 18.3
+   "id": "naed39402d1",
+   "s": 17.6
   }
  ],
  "items": [
+  {
+   "id": "nb8346d3bbf",
+   "topic": "politik",
+   "title": "60.000 Lichter in der Dunkelheit: \"Christmas Lights\" bringt Magie nach Bad König",
+   "text": "60.000 Lichter, 13 Audiostationen und eine fantasievolle Geschichte: \"Christmas Lights\" verwandelt den Kurpark Bad König wieder in eine Erlebniswelt. Das Erlebnis soll nicht nur verzaubern, sondern auch schwere Themen ansprechen.",
+   "link": "https://www.hessenschau.de/freizeit/60000-lichter-in-der-dunkelheit-christmas-lights-bringt-magie-nach-bad-koenig-v1,christmas-lights-bad-koenig-102.html",
+   "published": "2026-11-13T19:23:14+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-17T19:23:14+00:00",
+   "img": "https://www.hessenschau.de/freizeit/christmas-lights-bad-koenig-100~_t-1794597791300_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "n9d6619e3a3",
+   "topic": "nfl",
+   "title": "There’s a blueprint for beating the Vikings. Can the Packers execute it?",
+   "text": "Green Bay has several ways to turn the tables on Minnesota’s aggressive nature.",
+   "link": "https://sports.yahoo.com/articles/blueprint-beating-vikings-packers-execute-192300146.html",
+   "published": "2026-11-13T19:23:00+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-18T19:23:00+00:00"
+  },
+  {
+   "id": "naf0267bbaa",
+   "topic": "politik",
+   "title": "Europa-Gipfel in Irland - Europäische Staaten streben gemeinsame Sicherheitsprinzipien an",
+   "text": "Europa will sich mit einer Delegation aus Diplomaten mehrerer Länder an künftigen Friedensgesprächen zwischen Russland und der Ukraine beteiligen. Der Kontinent werde von Spitzen der Europäischen Union und von Vertretern der sogenannten Koalition der Willigen repräsentiert, kündigte Ratspräsident Costa nach einem …",
+   "link": "https://www.deutschlandfunk.de/europaeische-staaten-streben-gemeinsame-sicherheitsprinzipien-an-106.html",
+   "published": "2026-11-13T19:19:55+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-15T19:19:55+00:00",
+   "img": "https://bilder.deutschlandfunk.de/8c/58/d5/a9/8c58d5a9-022b-4e72-96b2-a820b97962c7/costa-in-dublin-100-1920x1920.jpg"
+  },
+  {
+   "id": "n59e1793cb3",
+   "topic": "politik",
+   "title": "Koalition - Diskussion um Senkung der Stromsteuer geht weiter",
+   "text": "Bundeskanzler Merz hält an den Plänen für eine Senkung der Stromsteuer fest. Es sei weiterhin sein Ziel, die Stromsteuer auf das europäische Minimum abzusenken, betonte der CDU-Vorsitzende. Dies solle ab dem nächsten Jahr in vollständiger Höhe geschehen.",
+   "link": "https://www.deutschlandfunk.de/diskussion-um-senkung-der-stromsteuer-geht-weiter-102.html",
+   "published": "2026-11-13T19:19:55+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-15T19:19:55+00:00",
+   "img": "https://bilder.deutschlandfunk.de/eb/98/0a/c5/eb980ac5-d1c5-4284-befc-b8558af6f32b/bundeskanzler-merz-cdu-klausurtagung-senkung-stromsteuer-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Kommentar zum Haushalt: Die Koalition geht auf dem Zahnfleisch",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-koalition-geht-auf-zahnfleisch-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n351f27f812",
+   "topic": "politik",
+   "title": "Kinderbetreuung - Bundesregierung beschließt Veränderungen beim Elterngeld",
+   "text": "Die Bundesregierung hat eine Reform des Elterngeldes auf den Weg gebracht.",
+   "link": "https://www.deutschlandfunk.de/bundesregierung-beschliesst-veraenderungen-beim-elterngeld-102.html",
+   "published": "2026-11-13T19:19:55+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-15T19:19:55+00:00",
+   "img": "https://bilder.deutschlandfunk.de/23/e5/f8/c5/23e5f8c5-437b-414c-9eb7-e9f9cc0953c3/vater-baby-100-1920x1920.jpg"
+  },
+  {
+   "id": "nc729f02e3d",
+   "topic": "politik",
+   "title": "Immobilienmarkt - Wohnungsbaugesellschaft des Bundes soll 2027 gegründet werden - Gelder bewilligt",
+   "text": "Bundesbauministerin Hubertz hat Details zur geplanten bundeseigenen Wohnungsbaugesellschaft vorgestellt.",
+   "link": "https://www.deutschlandfunk.de/wohnungsbaugesellschaft-des-bundes-soll-2027-gegruendet-werden-gelder-bewilligt-102.html",
+   "published": "2026-11-13T19:19:55+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-15T19:19:55+00:00",
+   "img": "https://bilder.deutschlandfunk.de/ce/47/10/13/ce471013-1070-4c88-9f4d-b0e0839c8777/bauministerin-hubertz-bundestag-100-1920x1920.jpg"
+  },
+  {
+   "id": "n48923dd9bb",
+   "topic": "politik",
+   "title": "Abstimmung - Bundestag billigt Reform der Geheimdienste - Befugnisse werden deutlich ausgeweitet",
+   "text": "Der Bundestag hat den Gesetzentwurf zur Reform der Geheimdienste gebilligt. Mit der Novelle werden die Befugnisse des Bundesnachrichtendienstes und des Bundesamts für Verfassungsschutz zur Abwehr von Sabotage, Spionage und Cyberangriffen deutlich erweitert.",
+   "link": "https://www.deutschlandfunk.de/bundestag-billigt-reform-der-geheimdienste-befugnisse-werden-deutlich-ausgeweitet-100.html",
+   "published": "2026-11-13T19:19:55+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-15T19:19:55+00:00",
+   "img": "https://bilder.deutschlandfunk.de/c9/33/17/4e/c933174e-c85f-48e4-a96c-416d355e3d29/geheimdienste-104-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Bundestag beschließt Reform: Mehr Befugnisse für die Nachrichtendienste",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienst-reform-beschlossen-100.html"
+    }
+   ]
+  },
+  {
+   "id": "neffe05322e",
+   "topic": "politik",
+   "title": "Interview der Woche - Bundestagspräsidentin Klöckner will Mitarbeiter des Parlaments stärker durchleuchten",
+   "text": "Bundestagspräsidentin Klöckner hat angesichts hybrider Bedrohungen eine stärkere Kontrolle von Parlamentsmitarbeitern angemahnt. Man brauche für Sicherheitsüberprüfungen von künftigen Mitarbeitern auch Informationen der Nachrichtendienste, sagte Klöckner im Interview der Woche des Deutschlandfunks.",
+   "link": "https://www.deutschlandfunk.de/bundestagspraesidentin-kloeckner-will-mitarbeiter-des-parlaments-staerker-durchleuchten-100.html",
+   "published": "2026-11-13T19:19:55+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-15T19:19:55+00:00",
+   "img": "https://bilder.deutschlandfunk.de/57/65/32/8a/5765328a-2d54-4e5a-8bef-49f3b87485db/julia-kloeckner-bundestagspraesidentin-102-1920x1920.jpg"
+  },
+  {
+   "id": "n7548c883a4",
+   "topic": "nfl",
+   "title": "Which 49ers could be All-Pros in 2026?",
+   "text": "The 49ers could have multiple players (and coaches) win big awards this season.",
+   "link": "https://sports.yahoo.com/articles/49ers-could-pros-2026-191617737.html",
+   "published": "2026-11-13T19:16:17+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-18T19:16:17+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/e442c5d6defeb5f0b60cf48499a8c0c8.jpg"
+  },
+  {
+   "id": "n20b816165e",
+   "topic": "nfl",
+   "title": "Star on the rise: Cowboys' Dak Prescott feels Jason Witten could 'absolutely' be an NFL head coach",
+   "text": "Dallas' future Hall of Fame tight end has risen quickly from being a Texas high school head coach to being the interim offensive coordinator at the University of Oklahoma",
+   "link": "https://www.cbssports.com/nfl/news/cowboys-dak-prescott-feels-jason-witten-could-absolutely-be-nfl-head-coach/",
+   "published": "2026-11-13T19:09:53+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-18T19:09:53+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2020/01/01/473dc797-3147-4740-b1e6-6a47a609ba97/template.jpg"
+  },
+  {
+   "id": "n8c53866c42",
+   "topic": "welt",
+   "title": "Nvidia-Skandal: US-Handelsminister Lutnick wegen Chip-Exporten unter Druck",
+   "text": "US-Handelsminister Lutnick steht in der Kritik. Sein Ministerium soll Warnungen vor der in den Nvidia-Skandal verwickelten Firma Megaspeed ignoriert haben. Kabinettskollege Bessent warf ihm Versäumnisse vor.",
+   "link": "https://www.tagesschau.de/ausland/usa-nvidia-finanzminister-handelminister-100.html",
+   "published": "2026-11-13T19:06:39+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-16T19:06:39+00:00",
+   "img": "https://images.tagesschau.de/image/434feb3c-9a0f-43d3-afd8-cab5dd0eaeed/AAABodZOA3k/AAABnSSvrFg/16x9-big/howard-lutnick-100.jpg?width=1920"
+  },
+  {
+   "id": "nead86f64a6",
+   "topic": "wirtschaft",
+   "title": "Wirtschaft vor acht vom 13.11.2026",
+   "text": "Wirtschaft vor acht vom 13.11.2026",
+   "link": "https://www.tagesschau.de/video/video-1683484.html",
+   "published": "2026-11-13T19:05:55+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-16T19:05:55+00:00",
+   "img": "https://images.tagesschau.de/image/289caee6-0e8b-4fb9-b580-0271b24f0d12/AAABodZNCng/AAABnSSvrFg/16x9-big/sendungsbild-1827162.jpg?width=1920"
+  },
+  {
+   "id": "ndf4046eaa6",
+   "topic": "it",
+   "title": "Bloß keine Schokolade: Der beste Adventskalender 2026 für Schlaumeier & Co.",
+   "text": "Adventskalender können mehr als nur Schokolade: Sie laden zum Werkeln, Rätseln, Experimentieren und Spielen ein. Wir zeigen unsere Top-5-Adventskalender 2026.",
+   "link": "https://www.heise.de/bestenlisten/testsieger/bloss-keine-schokolade-der-beste-adventskalender-2026-fuer-schlaumeier-und-co/30ewgv3?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-13T19:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-18T19:00:00+00:00"
+  },
+  {
+   "id": "n439a92abcb",
+   "topic": "welt",
+   "title": "EU einigt sich auf europäisches Team für Ukraine-Verhandlungen",
+   "text": "Lange wurde diskutiert, wer Europa bei Gesprächen mit Russland über ein Ende des Kriegs gegen die Ukraine vertreten soll. Nun gibt es eine Einigung: Das Team bilden Vertreter der EU-Institutionen und aus fünf Ländern - darunter auch Deutschland.",
+   "link": "https://www.tagesschau.de/ausland/eu-vertreter-ukraine-gespraeche-100.html",
+   "published": "2026-11-13T18:44:23+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-16T18:44:23+00:00",
+   "img": "https://images.tagesschau.de/image/c7de04a3-94b2-40c1-908c-35479fc47e03/AAABodY5obQ/AAABnSSvrFg/16x9-big/eu-dublin-100.jpg?width=1920"
+  },
+  {
+   "id": "n736a8796e8",
+   "topic": "welt",
+   "title": "Online ausgetrickst - EU will Verbraucher besser schützen",
+   "text": "Abo-Fallen, irreführende Verkaufstaktiken und Funktionen, die Nutzer zu endlosem Scrollen verleiten - das will die EU durch ein neues Gesetz eindämmen. Was würde sich ändern und geht der Vorschlag auch weit genug?",
+   "link": "https://www.dw.com/de/online-ausgetrickst-eu-will-verbraucher-besser-schützen/a-79943717?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-13T18:42:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-17T18:42:00+00:00",
+   "img": "https://static.dw.com/image/78319388_302.jpg"
+  },
+  {
+   "id": "n533db9a02a",
+   "topic": "nfl",
+   "title": "NFL Week 10 picks: Our experts face off on Vikings at Packers, Steelers at Bengals and more",
+   "text": "CBS Sports writers Jordan Dajani and Jared Dubin predict this weekend's top games",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-10-picks-experts-face-off-commanders-giants-vikings-packers/",
+   "published": "2026-11-13T18:08:43+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-18T18:08:43+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2025/12/24/2aa02a06-ae80-4232-a0c6-a2896198920e/burrowmiami.png"
+  },
+  {
+   "id": "naed39402d1",
+   "topic": "wirtschaft",
+   "title": "Marktbericht: DAX schwächelt nach Allzeithoch",
+   "text": "Nach seinem Allzeithoch vom Donnerstag ist der Deutsche Aktienindex heute auf der Stelle getreten - allerdings auf hohem Niveau. Im Wochenvergleich gewinnt das Börsenbarometer mehr als vier Prozent.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-100.html",
+   "published": "2026-11-13T17:57:57+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-16T17:57:57+00:00",
+   "img": "https://images.tagesschau.de/image/2351cbd8-2118-4ab8-94b8-3a9bb0f49b44/AAABnOFHOtk/AAABnSSvrFg/16x9-big/boerse-494.jpg?width=1920"
+  },
+  {
+   "id": "nd3e8a73fa8",
+   "topic": "it",
+   "title": "DSGVO: Tinder muss Millionen-Bußgeld zahlen",
+   "text": "Die irische Data Protection Commission hat gegen die europäische Tochter der Match Group ein Bußgeld wegen eines DSGVO-Verstoßes verhängt.",
+   "link": "https://www.heise.de/news/DSGVO-Tinder-muss-Millionen-Bussgeld-zahlen-11525093.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-13T17:42:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-18T17:42:00+00:00"
+  },
+  {
+   "id": "n2b4dd79355",
+   "topic": "ki",
+   "title": "Nach SpaceX-Vorbild: Auch beim Anthropic-IPO bleiben chinesische Bieter außen vor",
+   "text": "Chinesische Investoren dürfen laut einem Bloomberg-Bericht beim Anthropic-Börsengang keine Anteile zeichnen. Banken lehnen Kaufaufträge aus Festlandchina und Hongkong ab, unter Verweis auf die US-Exportkontrollvorschriften ITAR. Schon beim SpaceX-IPO galten ähnliche Einschränkungen, Anthropics Produkte sind in beiden …",
+   "link": "https://the-decoder.de/nach-spacex-vorbild-auch-beim-anthropic-ipo-bleiben-chinesische-bieter-aussen-vor/",
+   "published": "2026-11-13T17:39:53+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-20T17:39:53+00:00"
+  },
+  {
+   "id": "nadb788603e",
+   "topic": "it",
+   "title": "Generative KI stiftet Chaos in Brüssel und Straßburg",
+   "text": "Chatbots sorgen in Brüssel und Straßburg für eine Flut an Änderungsanträgen und Anfragen. Beamte und Abgeordnete schlagen Alarm wegen demokratischer Risiken.",
+   "link": "https://www.heise.de/news/KI-ueberflutet-EU-Institutionen-mit-Antraegen-und-Halluzinationen-11525079.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-13T17:21:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-18T17:21:00+00:00"
+  },
+  {
+   "id": "nd1435f577f",
+   "topic": "welt",
+   "title": "Ukraine und Russland greifen sich trotz Verhandlungen weiter an",
+   "text": "Trotz intensiver Verhandlungen über ein Ende des Ukraine-Krieges dauern die gegenseitigen Angriffe zwischen Kiew und Moskau an. Russland meldet sieben Tote, in der Ukraine wurden mindestens zwei Menschen getötet.",
+   "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-krieg-angriffe-autobomben-100.html",
+   "published": "2026-11-13T17:15:20+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-16T17:15:20+00:00",
+   "img": "https://images.tagesschau.de/image/eecb45d2-2e15-4d6a-8801-4d54cc64cf9e/AAABodUoTEY/AAABnSSvrFg/16x9-big/rettungskraefte-wohnhaus-100.jpg?width=1920"
+  },
+  {
+   "id": "n35078fa94b",
+   "topic": "it",
+   "title": "(g+) Opinion: Anthropic's Dario Amodei Can't Always Have His Way",
+   "text": "Anthropic PBC has benefited from the single-minded focus of a leader who doesn't waver from his decisions. But that advantage could become a liability. Von Parmy Olson ( Anthropic , Silicon Valley )",
+   "link": "https://www.golem.de/news/opinion-anthropic-s-dario-amodei-can-t-always-have-his-way-2611-215204.html",
+   "published": "2026-11-13T17:00:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-18T17:00:02+00:00",
+   "img": "https://www.golem.de/2611/215204-608468-608466_rc.jpg"
+  },
+  {
+   "id": "n0def15ec20",
+   "topic": "ki",
+   "title": "OpenAI startet mit der ChatGPT Wallet einen zweiten Anlauf beim KI-Shopping",
+   "text": "OpenAI startet mit der ChatGPT Wallet einen zweiten Anlauf beim KI-Shopping, nachdem der erste Ansatz \"Instant Checkout\" wieder verworfen wurde. Nutzer hinterlegen eine Karte und bestätigen jeden Kauf per Face ID oder Fingerabdruck, echte Kartendaten bleiben hinter Payment Tokens verborgen. Konkurrenten wie Anthropic …",
+   "link": "https://the-decoder.de/openai-startet-mit-der-chatgpt-wallet-einen-zweiten-anlauf-beim-ki-shopping/",
+   "published": "2026-11-13T16:49:21+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-20T16:49:21+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/11/ChatGPT-Wallet-title-scaled.png"
+  },
+  {
+   "id": "n5bfd4f1b5d",
+   "topic": "politik",
+   "title": "AfD will Ex-Fußballprofi Berthold als Bundespräsidenten nominieren",
+   "text": "Der ehemalige Fußballprofi Thomas Berthold soll nach ARD-Informationen für die AfD ins Rennen um das Amt des Bundespräsidenten gehen. Der Weltmeister von 1990 tat sich während der Corona-Pandemie als \"Querdenker\" hervor.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/berthold-afd-wahl-bundespraesident-100.html",
+   "published": "2026-11-13T16:37:14+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-16T16:37:14+00:00",
+   "img": "https://images.tagesschau.de/image/8a357c52-432c-4162-988c-fb5723ee6c98/AAABodZtqQ0/AAABnSSvrFg/16x9-big/thomas-berthold-110.jpg?width=1920"
+  },
+  {
+   "id": "na4691d3647",
+   "topic": "welt",
+   "title": "Merz beansprucht Teilnahme an künftigen Ukraine-Gesprächen",
+   "text": "Der Krieg gegen die Ukraine steht im Fokus des EU-Treffens in Dublin. Kanzler Merz erhält für seinen Vorstoß zur Finanzierung neuer Ukraine-Hilfen Rückendeckung - bei Gesprächen über ein Kriegsende sieht er Deutschland als \"gesetzt\" an.",
+   "link": "https://www.tagesschau.de/ausland/europa/ukraine-gipfel-eu-dublin-merz-100.html",
+   "published": "2026-11-13T16:36:49+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-16T16:36:49+00:00",
+   "img": "https://images.tagesschau.de/image/613de0f2-fee8-4cf4-a734-9b3483edb868/AAABodWQyBc/AAABnSSvrFg/16x9-big/merz-dublin-100.jpg?width=1920"
+  },
+  {
+   "id": "n24b048ce45",
+   "topic": "ki",
+   "title": "Claude for Manufacturing: Anthropics neues Plugin macht KI zum Assistenten in der Industrieautomation",
+   "text": "Anthropic bringt mit Claude for Manufacturing ein Plugin, das der KI direkten Zugriff auf Industriesoftware wie Autodesk Fusion, Oracle NetSuite und Infor gibt. Über 17 spezialisierte Skills erstellt die KI Angebote, vergleicht Lieferanten oder löst bei Verzögerungen nach menschlicher Freigabe Ersatzbestellungen aus. …",
+   "link": "https://the-decoder.de/claude-for-manufacturing-anthropics-neues-plugin-macht-ki-zum-assistenten-in-der-industrieautomation/",
+   "published": "2026-11-13T16:31:45+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-20T16:31:45+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/11/claude_for_manufactoring.png"
+  },
+  {
+   "id": "n7fb54d89a0",
+   "topic": "welt",
+   "title": "BND und Verfassungsschutz: Sind sie nach der Gesetzesreform \"echte Geheimdienste\" oder bleiben sie zahnlose Tiger?",
+   "text": "Deutschlands Geheimdienste dürfen künftig mehr tun, als Informationen über Feinde im In- und Ausland zu sammeln. Ist das mit dem Grundgesetz vereinbar? Die Diskussion geht weiter.",
+   "link": "https://www.dw.com/de/bnd-und-verfassungsschutz-sind-sie-nach-der-gesetzesreform-echte-geheimdienste-oder-bleiben-sie-zahnlose-tiger/a-79936888?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-13T16:06:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-17T16:06:00+00:00",
+   "img": "https://static.dw.com/image/59507615_302.jpg"
+  },
+  {
+   "id": "ndfdd416e2a",
+   "topic": "wirtschaft",
+   "title": "Cyberangriff auf Quantum Systems: Wie wurde der Drohnenhersteller zum Ziel?",
+   "text": "Nach dem Cyberangriff auf den bayerischen Drohnenhersteller Quantum Systems läuft die Suche nach den Tätern. Vieles deutet auf einen russischen Hintergrund hin. Das Unternehmen ist wichtiger Ausrüster des ukrainischen Militärs. Von Stephan Lina.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/quantum-systems-cyberangriff-102.html",
+   "published": "2026-11-13T16:02:19+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-16T16:02:19+00:00",
+   "img": "https://images.tagesschau.de/image/76e76dc2-084b-4083-b0f6-0170948898c1/AAABodV3-1Q/AAABnSSvrFg/16x9-big/quantum-systems-102.jpg?width=1920"
+  },
+  {
+   "id": "nb06230df42",
+   "topic": "wissenschaft",
+   "title": "Arbeit ohne Bewegung: Physiker bauen Motor mit Quanten-Antrieb im Labor",
+   "text": "Kein Kolben, kein Rotor, keine Verbrennung: Physiker haben einen Motor, der aus einem einzigen Quantensystem besteht, im Labor gebaut. Und er verrichtet tatsächlich Arbeit.",
+   "link": "https://www.spektrum.de/news/physiker-bauen-motor-mit-quanten-antrieb-im-labor/2354191",
+   "published": "2026-11-13T16:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-27T16:00:00+00:00"
+  },
+  {
+   "id": "nde5c64d2ad",
+   "topic": "wirtschaft",
+   "title": "IT-Störungen: Microsoft sieht \"deutliche Verbesserung\" der Lage",
+   "text": "Nach den weltweiten IT-Störungen scheint sich die Lage vor allem in Nordamerika und Europa zu entspannen. Das US-Technologieunternehmen Microsoft spricht von zum Teil \"umfassenden Verbesserungen\".",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-stoerung-100.html",
+   "published": "2026-11-13T15:40:27+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-16T15:40:27+00:00",
+   "img": "https://images.tagesschau.de/image/3928cacb-31d8-47cb-8498-e9f33774c65e/AAABodWRBtU/AAABnSSvrFg/16x9-big/microsoft-174.jpg?width=1920"
+  },
+  {
+   "id": "n755f677ae4",
+   "topic": "politik",
+   "title": "Kommentar zum Haushalt: Die Koalition geht auf dem Zahnfleisch",
+   "text": "Der Bundeshaushalt für das kommende Jahr steht. Doch die Einigung ist ohne Richtung, ohne Ambition und ohne Vision, findet Sabine Henkel. Union und SPD fehlt nicht nur Geld, sondern vor allem Mut und eine Strategie.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-koalition-geht-auf-zahnfleisch-100.html",
+   "published": "2026-11-13T15:40:10+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-16T15:40:10+00:00",
+   "img": "https://images.tagesschau.de/image/bf26840d-cc4e-40f0-8749-91ab552f8dd4/AAABodWQ96s/AAABnSSvrFg/16x9-big/paul-loebe-haus-110.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Koalition - Diskussion um Senkung der Stromsteuer geht weiter",
+     "link": "https://www.deutschlandfunk.de/diskussion-um-senkung-der-stromsteuer-geht-weiter-102.html"
+    }
+   ]
+  },
+  {
+   "id": "ndc30671f73",
+   "topic": "it",
+   "title": "Vodafone und andere: Telekommunikationsbranche streicht weltweit über 17.000 Stellen",
+   "text": "Der Stellenabbau bei Vodafone Deutschland ist Teil einer weltweiten Entlassungswelle im Telcosektor. KI dient vielen Konzernen vor allem als Vorwand. ( Telekommunikation , Studien )",
+   "link": "https://www.golem.de/news/vodafone-und-andere-telekommunikationsbranche-streicht-weltweit-ueber-17-000-stellen-2611-215195.html",
+   "published": "2026-11-13T14:46:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-18T14:46:02+00:00",
+   "img": "https://www.golem.de/2611/215195-608440-608438_rc.jpg"
+  },
+  {
+   "id": "ndb57c61c28",
+   "topic": "wirtschaft",
+   "title": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
+   "text": "Eine stundenlange Großstörung hat weltweit Dienste des US-Softwarekonzerns Microsoft lahmgelegt, unter anderem das E-Mail-Programm Outlook. Wen es getroffen hat und welche Hintergründe vermutet werden - ein Überblick.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
+   "published": "2026-11-13T14:43:02+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-16T14:43:02+00:00",
+   "img": "https://images.tagesschau.de/image/cf43b90e-dedd-4716-a8b6-a8f22d964037/AAABoYa7d7o/AAABnSSvrFg/16x9-big/microsoft-196.jpg?width=1920"
+  },
+  {
+   "id": "n64ee2edd74",
+   "topic": "wirtschaft",
+   "title": "EU-Emissionshandel: Mehr kostenlose Verschmutzungsrechte für die Industrie",
+   "text": "Europas Industrie soll nicht mehr so stark durch das System des Emissionshandels belastet werden. EU-Parlament und Mitgliedstaaten haben sich darauf verständigt, zusätzliche kostenlose Emissionszertifikate auszugeben. Von Andreas Meyer-Feist.",
+   "link": "https://www.tagesschau.de/wirtschaft/industrie-emissionen-co2-zertifikate-100.html",
+   "published": "2026-11-13T14:35:01+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-16T14:35:01+00:00",
+   "img": "https://images.tagesschau.de/image/30260b61-1455-432e-bbe3-e33e999495f8/AAABnC0Cnlo/AAABnSSvrFg/16x9-big/industrie-222.jpg?width=1920"
+  },
+  {
+   "id": "nf5be5b75a4",
+   "topic": "welt",
+   "title": "Microsoft sieht nach Panne keinen Hinweis auf Cyber-Angriff",
+   "text": "Ein Ausfall von Diensten des US-Techkonzerns Microsoft hat weltweit für Störungen bei Firmen und privaten Anwendern gesorgt. Der Konzern findet bislang keine Anzeichen für eine Cyberattacke.",
+   "link": "https://www.dw.com/de/microsoft-sieht-nach-panne-keinen-hinweis-auf-cyber-angriff/a-79940856?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-13T14:26:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-17T14:26:00+00:00",
+   "img": "https://static.dw.com/image/79937613_302.jpg"
+  },
+  {
+   "id": "n0b98014e07",
+   "topic": "welt",
+   "title": "Xi-Putin-Trump-Gipfel in China?",
+   "text": "Peking agiert vorsichtig angesichts der Spekulationen über ein mögliches Gipfeltreffen zwischen Xi, Putin und Trump. China möchte den Eindruck vermeiden, sich zu stark in den Ukraine-Krieg einzumischen.",
+   "link": "https://www.dw.com/de/xi-putin-trump-gipfel-in-china/a-79941737?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-13T14:20:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-17T14:20:00+00:00",
+   "img": "https://static.dw.com/image/77733980_302.jpg"
+  },
+  {
+   "id": "n7a4200a4a7",
+   "topic": "wissenschaft",
+   "title": "Riffe: Taucher entdecken gigantische Koralle",
+   "text": "Vor der australischen Cocos-Insel erstreckt sich eine Art Superorganismus in einem der Riffe. Erst jetzt wird Biologen klar, wie groß diese Korallenkolonie im Meer tatsächlich ist.",
+   "link": "https://www.spektrum.de/news/riffe-taucher-entdecken-gigantische-koralle/2354137",
+   "published": "2026-11-13T14:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-27T14:00:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/Mega-Coral-5-1.jpg.8424886.jpg?f=1280x720"
+  },
+  {
+   "id": "n7cd7867e8d",
+   "topic": "welt",
+   "title": "Bundeshaushalt 2027: Mehr Geld für Bundeswehr und Soziales, hohe Kredite und Streit um die Stromsteuer. Was der Etat für Deutschland konkret bedeutet",
+   "text": "Nach der Haushaltsbereinigungssitzung im Bundestag steht der Bundeshaushalt 2027 vor dem Abschluss. Welche politischen Schwerpunkte setzt die Regierung bei Verteidigung, Infrastruktur, Wirtschaft und Sozialausgaben?",
+   "link": "https://www.dw.com/de/bundeshaushalt-2027-mehr-geld-für-bundeswehr-und-soziales-hohe-kredite-und-streit-um-die-stromsteuer-was-der-etat-für-deutschland-konkret-bedeutet/a-79939318?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-13T13:38:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-17T13:38:00+00:00",
+   "img": "https://static.dw.com/image/79937210_302.jpg",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Haushaltsausschuss - Bundesetat für 2027 steht - Weiter Debatte über Stromsteuer",
+     "link": "https://www.deutschlandfunk.de/bundesetat-fuer-2027-steht-weiter-debatte-ueber-stromsteuer-100.html"
+    },
+    {
+     "source": "Tagesschau",
+     "title": "Nachtsitzung im Haushaltsausschuss: Etat für 2027 steht",
+     "link": "https://www.tagesschau.de/inland/bundeshaushalt-2027-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n34a1e25973",
+   "topic": "politik",
+   "title": "Kritik auch aus der Union an ausbleibender Stromsteuer-Senkung",
+   "text": "Der Bund darf 2027 sehr viel Geld ausgeben: Geplant sind mehr als 560 Milliarden Euro im Haushalt. Für eine Stromsteuersenkung reicht es aber weiterhin nicht. Die Kritik ist massiv, nicht nur bei der Opposition. Nun äußerte sich Kanzler Merz.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/stromsteuer-haushalt-kritik-merz-100.html",
+   "published": "2026-11-13T13:20:56+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-16T13:20:56+00:00",
+   "img": "https://images.tagesschau.de/image/15dfef23-d764-46ed-89b8-ff6c12569e9e/AAABoVT6oRw/AAABnSSvrFg/16x9-big/merz-klingbeil-170.jpg?width=1920"
+  },
+  {
+   "id": "nd5d84771d6",
+   "topic": "wissenschaft",
+   "title": "Was den Ebola-Ausbruch im Kongo so gefährlich macht",
+   "text": "Krieg, Flucht, Migration und Misstrauen erschweren den Kampf gegen Ebola im Kongo. Warum Vertrauen dabei womöglich genauso wichtig ist wie Impfstoffe und Medikamente. 🎙️",
+   "link": "https://www.spektrum.de/podcast/spektrum-podcast-was-den-ebola-ausbruch-im-kongo-so-gefaehrlich-macht/2354117",
+   "published": "2026-11-13T13:17:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-27T13:17:00+00:00"
+  },
+  {
+   "id": "ne40e0daed4",
+   "topic": "politik",
+   "title": "Bundestag beschließt Reform: Mehr Befugnisse für die Nachrichtendienste",
+   "text": "Heimlich Wohnungen betreten, Hackerangriffe, Falschinformationen: Deutsche Nachrichtendienste bekommen mehr Befugnisse. Der Bundestag hat die Reform nun beschlossen. Damit reagiert die Koalition auf die verschärfte Bedrohung.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienst-reform-beschlossen-100.html",
+   "published": "2026-11-13T13:11:16+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-16T13:11:16+00:00",
+   "img": "https://images.tagesschau.de/image/d8498805-a053-4ad6-8618-dc875355bcbf/AAABoNPzfmk/AAABnSSvrFg/16x9-big/bundesnachrichtendienst-128.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Abstimmung - Bundestag billigt Reform der Geheimdienste - Befugnisse werden deutlich ausgeweitet",
+     "link": "https://www.deutschlandfunk.de/bundestag-billigt-reform-der-geheimdienste-befugnisse-werden-deutlich-ausgeweitet-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n58e6851c24",
+   "topic": "wissenschaft",
+   "title": "Deutschland fällt im internationalen Klimaschutzindex zurück",
+   "text": "Deutschland fällt im internationalen Klimaschutzindex zurück",
+   "link": "https://www.tagesschau.de/video/video-1683158.html",
+   "published": "2026-11-13T12:34:20+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-27T12:34:20+00:00",
+   "img": "https://images.tagesschau.de/image/622c9a77-231a-4ee2-b063-b5744bdae1dc/AAABodTl1pM/AAABnSSvrFg/16x9-big/sendungsbild-1826922.jpg?width=1920"
+  },
+  {
+   "id": "n527f0ec9bd",
+   "topic": "welt",
+   "title": "Faktencheck: Wie erkenne ich KI-generierte Bilder?",
+   "text": "KI-generierte oder manipulierte Bilder überschwemmen die sozialen Medien. Sie sorgen für eine Flut an Fakes auf Social Media. Doch wie lässt sich erkennen, was echt ist und was nicht? Hier sind einige Tipps.",
+   "link": "https://www.dw.com/de/faktencheck-wie-erkenne-ich-ki-generierte-bilder/a-65252413?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-13T12:33:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-17T12:33:00+00:00",
+   "img": "https://static.dw.com/image/75179723_302.jpg"
+  },
+  {
+   "id": "nbed97ab745",
+   "topic": "welt",
+   "title": "Österreich: Barmherzige Brüder wegen Medikamentenpreisen in Kritik",
+   "text": "Ein Orden soll in Österreich Medikamente zu massiv überhöhten Preisen an eigene Krankenhäuser verkauft haben. Dadurch könnte Steuerzahlern ein Millionenschaden entstanden sein. Der Orden widerspricht. Von O. Soos.",
+   "link": "https://www.tagesschau.de/ausland/europa/oesterreich-orden-barmherzige-brueder-hohe-medikamentenpreise-100.html",
+   "published": "2026-11-13T12:02:42+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-16T12:02:42+00:00",
+   "img": "https://images.tagesschau.de/image/c552c73d-fa6b-4f50-b58f-5fcb2ce9320a/AAABodTGiTg/AAABnSSvrFg/16x9-big/barmherzige-brueder-100.jpg?width=1920"
+  },
   {
    "id": "naff3b406df",
    "topic": "ki",
@@ -128,6 +738,11 @@
    "expires": "2026-11-15T10:50:50+00:00",
    "img": "https://bilder.deutschlandfunk.de/03/cb/7d/e0/03cb7de0-d84c-4e68-be81-cd1f7a5cf52f/bundeshaushalt-beratungen-100-1920x1920.jpg",
    "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Bundeshaushalt 2027: Mehr Geld für Bundeswehr und Soziales, hohe Kredite und Streit um die Stromsteuer. Was der Etat für Deutschland konkret bedeutet",
+     "link": "https://www.dw.com/de/bundeshaushalt-2027-mehr-geld-für-bundeswehr-und-soziales-hohe-kredite-und-streit-um-die-stromsteuer-was-der-etat-für-deutschland-konkret-bedeutet/a-79939318?maca=de-rss-de-all-1119-xml-mrss"
+    },
     {
      "source": "Tagesschau",
      "title": "Nachtsitzung im Haushaltsausschuss: Etat für 2027 steht",
@@ -222,7 +837,7 @@
    "id": "nea84f194df",
    "topic": "welt",
    "title": "US-Einwanderungsbehörde ICE meldet Rekord bei Abschiebungen",
-   "text": "Fast eine halbe Million Menschen hat die US-Regierung binnen einen Jahres - laut eigenen Angaben. Das soll ein neuer Rekordwert sein. Es gibt aber Zweifel an der Transparenz der Daten.",
+   "text": "Fast eine halbe Million Menschen hat die US-Regierung binnen eines Jahres abgeschoben - laut eigenen Angaben. Das soll ein neuer Rekordwert sein. Es gibt aber Zweifel an der Transparenz der Daten.",
    "link": "https://www.tagesschau.de/ausland/amerika/ice-einwanderungsbehoerde-abschiedbungen-rekord-100.html",
    "published": "2026-11-13T10:38:44+00:00",
    "source": "Tagesschau",
@@ -280,19 +895,6 @@
    "type": "Fachmedium (IT)",
    "lang": "de",
    "expires": "2026-11-18T10:20:00+00:00"
-  },
-  {
-   "id": "ndb57c61c28",
-   "topic": "wirtschaft",
-   "title": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
-   "text": "Weltweit sind seit vielen Stunden Dienste des US-Softwarekonzerns Microsoft ausgefallen oder gestört, unter anderem das E-Mail-Programm Outlook. Wer davon betroffen ist und welche Hintergründe vermutet werden - ein Überblick.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
-   "published": "2026-11-13T10:15:39+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-16T10:15:39+00:00",
-   "img": "https://images.tagesschau.de/image/cf43b90e-dedd-4716-a8b6-a8f22d964037/AAABoYa7d7o/AAABnSSvrFg/16x9-big/microsoft-196.jpg?width=1920"
   },
   {
    "id": "n021809bb2b",
@@ -371,19 +973,6 @@
    "img": "https://images.tagesschau.de/image/4641a0a1-a6c2-4cde-a51b-c67e7e440bb0/AAABodRFmpE/AAABnSSvrFg/16x9-big/merz-selenskyj-146.jpg?width=1920"
   },
   {
-   "id": "naed39402d1",
-   "topic": "wirtschaft",
-   "title": "Marktbericht: DAX schwächelt nach vier Gewinntagen",
-   "text": "Nach vier Gewinntagen in Folge gehen es die Anleger heute etwas langsamer an - der DAX fällt leicht zurück. Auf Wochensicht liegt der deutsche Leitindex bislang aber noch weit in der Gewinnzone.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-100.html",
-   "published": "2026-11-13T09:25:51+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-16T09:25:51+00:00",
-   "img": "https://images.tagesschau.de/image/e145c37b-87b2-48ab-b778-e196f4c6e293/AAABocSDuHQ/AAABnSSvrFg/16x9-big/boerse-556.jpg?width=1920"
-  },
-  {
    "id": "n54f48a4f68",
    "topic": "politik",
    "title": "Handys im Straßenverkehr: Wie weit darf Überwachung gehen?",
@@ -453,7 +1042,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-16T08:36:42+00:00",
-   "img": "https://images.tagesschau.de/image/57047b20-af96-4492-bf49-83f593f4d887/AAABodKRo7M/AAABnSSvrFg/16x9-big/paul-loebe-haus-106.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/373fa2b6-9982-42ff-9ff3-e53cd0b01e8b/AAABodOV02k/AAABnSSvrFg/16x9-big/haushaltsausschuss-116.jpg?width=1920"
   },
   {
    "id": "nc253a5cc9e",
@@ -563,8 +1152,13 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-16T06:26:14+00:00",
-   "img": "https://images.tagesschau.de/image/373fa2b6-9982-42ff-9ff3-e53cd0b01e8b/AAABodOV02k/AAABnSSvrFg/16x9-big/haushaltsausschuss-116.jpg?width=1920",
+   "img": "https://images.tagesschau.de/image/57047b20-af96-4492-bf49-83f593f4d887/AAABodKRo7M/AAABnSSvrFg/16x9-big/paul-loebe-haus-106.jpg?width=1920",
    "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Bundeshaushalt 2027: Mehr Geld für Bundeswehr und Soziales, hohe Kredite und Streit um die Stromsteuer. Was der Etat für Deutschland konkret bedeutet",
+     "link": "https://www.dw.com/de/bundeshaushalt-2027-mehr-geld-für-bundeswehr-und-soziales-hohe-kredite-und-streit-um-die-stromsteuer-was-der-etat-für-deutschland-konkret-bedeutet/a-79939318?maca=de-rss-de-all-1119-xml-mrss"
+    },
     {
      "source": "Deutschlandfunk",
      "title": "Haushaltsausschuss - Bundesetat für 2027 steht - Weiter Debatte über Stromsteuer",
@@ -609,7 +1203,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-16T04:23:02+00:00",
-   "img": "https://images.tagesschau.de/image/72de333d-c45d-4e96-8883-3f8c64ed8f65/AAABm34Zn24/AAABnSSvrFg/16x9-big/handy-laptop-100.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/72de333d-c45d-4e96-8883-3f8c64ed8f65/AAABm34Zn24/AAABnSSvrFg/16x9-big/handy-laptop-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Abstimmung - Bundestag billigt Reform der Geheimdienste - Befugnisse werden deutlich ausgeweitet",
+     "link": "https://www.deutschlandfunk.de/bundestag-billigt-reform-der-geheimdienste-befugnisse-werden-deutlich-ausgeweitet-100.html"
+    }
+   ]
   },
   {
    "id": "nd8d57f15dd",
@@ -719,7 +1320,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-15T00:55:11+00:00",
-   "img": "https://bilder.deutschlandfunk.de/20/a5/97/46/20a59746-46c0-4982-a026-3c7fa5bb14f1/geheimagent-spion-100-1920x1920.jpg"
+   "img": "https://bilder.deutschlandfunk.de/20/a5/97/46/20a59746-46c0-4982-a026-3c7fa5bb14f1/geheimagent-spion-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Bundestag beschließt Reform: Mehr Befugnisse für die Nachrichtendienste",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienst-reform-beschlossen-100.html"
+    }
+   ]
   },
   {
    "id": "n5395a40c72",
@@ -770,6 +1378,11 @@
    "lang": "de",
    "expires": "2026-11-15T00:55:11+00:00",
    "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Bundeshaushalt 2027: Mehr Geld für Bundeswehr und Soziales, hohe Kredite und Streit um die Stromsteuer. Was der Etat für Deutschland konkret bedeutet",
+     "link": "https://www.dw.com/de/bundeshaushalt-2027-mehr-geld-für-bundeswehr-und-soziales-hohe-kredite-und-streit-um-die-stromsteuer-was-der-etat-für-deutschland-konkret-bedeutet/a-79939318?maca=de-rss-de-all-1119-xml-mrss"
+    },
     {
      "source": "Tagesschau",
      "title": "Nachtsitzung im Haushaltsausschuss: Etat für 2027 steht",
@@ -877,8 +1490,7 @@
    "source": "THE DECODER",
    "type": "Fachmedium (KI)",
    "lang": "de",
-   "expires": "2026-11-19T20:26:50+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/08/anthropic_claude.png"
+   "expires": "2026-11-19T20:26:50+00:00"
   },
   {
    "id": "n7a8d7d2761",
@@ -940,24 +1552,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-14T19:51:40+00:00",
-   "img": "https://bilder.deutschlandfunk.de/NO/VA/_4/b3/NOVA_4b3ae71c9be95fab798875c1294bb143/craft-13538857-asset-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Nvidia-Chef Huang tritt nach Spionageaffäre zurück",
-     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-ruecktritt-100.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Jensen Huang: Spionageaffäre und Affären: Nvidia verliert seinen Star-CEO",
-     "link": "https://www.dw.com/de/jensen-huang-spionageaffäre-und-affären-nvidia-verliert-seinen-star-ceo/a-79933045?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "THE DECODER",
-     "title": "Nvidia-Chef Huang gestürzt, Finanzchefin Kress übernimmt vorerst",
-     "link": "https://the-decoder.de/nvidia-chef-huang-gestuerzt-finanzchefin-kress-uebernimmt-vorerst/"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/NO/VA/_4/b3/NOVA_4b3ae71c9be95fab798875c1294bb143/craft-13538857-asset-100-1920x1920.jpg"
   },
   {
    "id": "n983ee3d826",
@@ -983,7 +1578,19 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-14T19:51:40+00:00",
-   "img": "https://bilder.deutschlandfunk.de/74/7f/a4/6e/747fa46e-7cf0-4642-9a42-57d1444c85cf/strompreise-102-1920x1920.jpg"
+   "img": "https://bilder.deutschlandfunk.de/74/7f/a4/6e/747fa46e-7cf0-4642-9a42-57d1444c85cf/strompreise-102-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Bundeshaushalt 2027: Mehr Geld für Bundeswehr und Soziales, hohe Kredite und Streit um die Stromsteuer. Was der Etat für Deutschland konkret bedeutet",
+     "link": "https://www.dw.com/de/bundeshaushalt-2027-mehr-geld-für-bundeswehr-und-soziales-hohe-kredite-und-streit-um-die-stromsteuer-was-der-etat-für-deutschland-konkret-bedeutet/a-79939318?maca=de-rss-de-all-1119-xml-mrss"
+    },
+    {
+     "source": "Tagesschau",
+     "title": "Nachtsitzung im Haushaltsausschuss: Etat für 2027 steht",
+     "link": "https://www.tagesschau.de/inland/bundeshaushalt-2027-100.html"
+    }
+   ]
   },
   {
    "id": "n9dcadbe6e7",
@@ -997,6 +1604,11 @@
    "lang": "de",
    "expires": "2026-11-14T19:51:40+00:00",
    "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Bundeshaushalt 2027: Mehr Geld für Bundeswehr und Soziales, hohe Kredite und Streit um die Stromsteuer. Was der Etat für Deutschland konkret bedeutet",
+     "link": "https://www.dw.com/de/bundeshaushalt-2027-mehr-geld-für-bundeswehr-und-soziales-hohe-kredite-und-streit-um-die-stromsteuer-was-der-etat-für-deutschland-konkret-bedeutet/a-79939318?maca=de-rss-de-all-1119-xml-mrss"
+    },
     {
      "source": "Tagesschau",
      "title": "Nachtsitzung im Haushaltsausschuss: Etat für 2027 steht",
@@ -1040,8 +1652,7 @@
    "source": "Yahoo Sports",
    "type": "Sportmedium",
    "lang": "en",
-   "expires": "2026-11-17T19:29:00+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/857f53a2c1078736f66b9875a13cbd2c.jpg"
+   "expires": "2026-11-17T19:29:00+00:00"
   },
   {
    "id": "nd3b9498f7d",
@@ -1053,14 +1664,7 @@
    "source": "THE DECODER",
    "type": "Fachmedium (KI)",
    "lang": "de",
-   "expires": "2026-11-19T19:25:43+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Kita-Startchancengesetz: Mehr Förderung mit weniger Geld?",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/kita-startchancengesetz-100.html"
-    }
-   ]
+   "expires": "2026-11-19T19:25:43+00:00"
   },
   {
    "id": "n3dd3334dfc",
@@ -1099,14 +1703,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-15T18:54:49+00:00",
-   "img": "https://images.tagesschau.de/image/c721bd53-d8e5-4717-8c8b-8e3e325892e3/AAABoc3GsAQ/AAABnSSvrFg/16x9-big/new-york-gebaeude-einsturz-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Mehrere Tote bei Hauseinsturz in New York",
-     "link": "https://www.dw.com/de/mehrere-tote-bei-hauseinsturz-in-new-york/a-79927649?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/c721bd53-d8e5-4717-8c8b-8e3e325892e3/AAABoc3GsAQ/AAABnSSvrFg/16x9-big/new-york-gebaeude-einsturz-100.jpg?width=1920"
   },
   {
    "id": "n83104f354e",
@@ -1220,645 +1817,6 @@
    "lang": "de",
    "expires": "2026-11-15T17:41:58+00:00",
    "img": "https://images.tagesschau.de/image/61ca22c3-28a1-4cca-93b6-77f4ec9d533e/AAABocSNXBk/AAABnSSvrFg/16x9-big/boerse-568.jpg?width=1920"
-  },
-  {
-   "id": "neb56dde3da",
-   "topic": "wirtschaft",
-   "title": "Bundesbank warnt vor erhöhten Risiken für das deutsche Finanzsystem",
-   "text": "Die Bundesbank sieht wachsende Gefahren für die Finanzbranche, weil Kredite zunehmend nicht zurückgezahlt werden. Aber auch Künstliche Intelligenz berge Risiken - und die Aggressivität von Cyberangriffen. Von Ursula Mayer.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/risiken-finanzsystem-bundesbank-100.html",
-   "published": "2026-11-12T17:31:15+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-15T17:31:15+00:00",
-   "img": "https://images.tagesschau.de/image/56cefa31-32a3-45e7-88a7-9847e5d79f89/AAABocrx_Uc/AAABnSSvrFg/16x9-big/frankfurt-banken-116.jpg?width=1920"
-  },
-  {
-   "id": "n55827a394f",
-   "topic": "nfl",
-   "title": "2026 NFL midseason awards: Expert picks for Super Bowl winner, MVP, Coach of the Year, OPOY and more",
-   "text": "The CBS Sports NFL staff predicts winners at the halfway point",
-   "link": "https://www.cbssports.com/nfl/news/2026-nfl-midseason-awards-expert-picks-super-bowl-mvp-coach-of-year-opoy-more/",
-   "published": "2026-11-12T17:29:58+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-17T17:29:58+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/11/12/1f236ea0-6ae6-45f1-ab86-039657791565/lombardi-trophy.jpg"
-  },
-  {
-   "id": "n71265cbd68",
-   "topic": "wirtschaft",
-   "title": "Nvidia-Chef Huang tritt nach Spionageaffäre zurück",
-   "text": "Der Chef des weltgrößten Chipkonzerns Nvidia, Jensen Huang, tritt wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin zurück. Seine Aufgaben übernehme vorübergehend die bisherige Finanzchefin Colette Kress, teilte der US-Konzern mit.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-ruecktritt-100.html",
-   "published": "2026-11-12T17:20:04+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-15T17:20:04+00:00",
-   "img": "https://images.tagesschau.de/image/427ba347-9971-42c5-b988-2e7d573ee1df/AAABoc6Zlzc/AAABnSSvrFg/16x9-big/jensen-huang-112.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Chiphersteller - Nvidia-Chef Huang verlässt nach Affären das Unternehmen",
-     "link": "https://www.deutschlandfunk.de/nvidia-chef-huang-verlaesst-nach-affaeren-das-unternehmen-100.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Jensen Huang: Spionageaffäre und Affären: Nvidia verliert seinen Star-CEO",
-     "link": "https://www.dw.com/de/jensen-huang-spionageaffäre-und-affären-nvidia-verliert-seinen-star-ceo/a-79933045?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "THE DECODER",
-     "title": "Nvidia-Chef Huang gestürzt, Finanzchefin Kress übernimmt vorerst",
-     "link": "https://the-decoder.de/nvidia-chef-huang-gestuerzt-finanzchefin-kress-uebernimmt-vorerst/"
-    }
-   ]
-  },
-  {
-   "id": "neaaeb40ca0",
-   "topic": "nfl",
-   "title": "NFL nightmare: How a six-win NFC East team could end up making the playoffs if Commanders beat the Giants",
-   "text": "This would be the NFL's worst nightmare",
-   "link": "https://www.cbssports.com/nfl/news/how-a-six-win-nfc-east-team-could-end-up-making-the-playoffs-commanders-giants/",
-   "published": "2026-11-12T17:20:02+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-17T17:20:02+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/11/12/5aaa7813-8d9a-4908-8d8b-05c3a559e636/daniels.jpg"
-  },
-  {
-   "id": "n5db9bf5b18",
-   "topic": "wissenschaft",
-   "title": "Multiple Sklerose: Hochaktive Hirnregionen sind besonders gefährdet",
-   "text": "Bei multipler Sklerose wird die graue Substanz an mehreren Stellen im Gehirn abgebaut – offenbar ausgehend von besonders aktiven und gut vernetzten Epizentren.",
-   "link": "https://www.spektrum.de/news/neurodegeneration-die-epizentren-der-multiplen-sklerose/2353911",
-   "published": "2026-11-12T16:30:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-26T16:30:00+00:00"
-  },
-  {
-   "id": "nf72773c2cb",
-   "topic": "welt",
-   "title": "Krieg gegen die Ukraine: Putin beharrt auf Gebietsansprüchen",
-   "text": "Bei einem Treffen mit den US-Unterhändlern Witkoff und Kushner hat der russische Präsident Putin seinen Anspruch auf ukrainische Gebiete erneuert. Eine mögliche Beteiligung Europas an Friedensgesprächen schloss er nicht aus.",
-   "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-putin-witkoff-kushner-100.html",
-   "published": "2026-11-12T16:29:23+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-15T16:29:23+00:00",
-   "img": "https://images.tagesschau.de/image/2a64b33d-f350-4060-a602-5e2ee57627fc/AAABoc_vwsU/AAABnSSvrFg/16x9-big/putin-witkoff-kushner-104.jpg?width=1920"
-  },
-  {
-   "id": "n2780f8fb10",
-   "topic": "welt",
-   "title": "Jensen Huang: Spionageaffäre und Affären: Nvidia verliert seinen Star-CEO",
-   "text": "Jensen Huang, der Nvidia zum Weltmarktführer bei KI-Chips gemacht hat, tritt als CEO zurück. Wie wirkt sich der Abgang dieser Leitfigur auf das Unternehmen und den KI-Wettlauf der USA mit China aus?",
-   "link": "https://www.dw.com/de/jensen-huang-spionageaffäre-und-affären-nvidia-verliert-seinen-star-ceo/a-79933045?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-12T16:26:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-16T16:26:00+00:00",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Chiphersteller - Nvidia-Chef Huang verlässt nach Affären das Unternehmen",
-     "link": "https://www.deutschlandfunk.de/nvidia-chef-huang-verlaesst-nach-affaeren-das-unternehmen-100.html"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Nvidia-Chef Huang tritt nach Spionageaffäre zurück",
-     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-ruecktritt-100.html"
-    },
-    {
-     "source": "THE DECODER",
-     "title": "Nvidia-Chef Huang gestürzt, Finanzchefin Kress übernimmt vorerst",
-     "link": "https://the-decoder.de/nvidia-chef-huang-gestuerzt-finanzchefin-kress-uebernimmt-vorerst/"
-    }
-   ]
-  },
-  {
-   "id": "nc45cafc033",
-   "topic": "welt",
-   "title": "Spanisches Parlament beschließt Maßnahmen für mehr Mieterschutz",
-   "text": "Spaniens Übergangsparlament hat mit einer Stimme Mehrheit Maßnahmen der linken Minderheitsregierung für mehr Mieterschutz angenommen. Die konservative PP-Partei will das Dekret wieder kippen. In zwei Wochen wird in Spanien gewählt.",
-   "link": "https://www.tagesschau.de/ausland/europa/spanien-parlament-wohnungsdekret-100.html",
-   "published": "2026-11-12T16:21:41+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-15T16:21:41+00:00",
-   "img": "https://images.tagesschau.de/image/d57e10e2-edd3-4704-930c-5f64d2c037f1/AAABodCQnrE/AAABnSSvrFg/16x9-big/spanien-wohnungsnot-116.jpg?width=1920"
-  },
-  {
-   "id": "n8dd7b11400",
-   "topic": "wirtschaft",
-   "title": "Rücktritt von Nvidia-Chef Huang: Vom Sympathieträger zum Sicherheitsrisiko",
-   "text": "Er war nicht nur Chef, sondern auch Gesicht von Nvidia: Jensen Huang formte den Chip-Riesen maßgeblich - als \"sympathischer Tech-Bro\" mit guten Kontakten zur Trump-Regierung. Bis er zum Risiko wurde. Von Gabi Biesinger.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rolle-100.html",
-   "published": "2026-11-12T16:17:54+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-15T16:17:54+00:00",
-   "img": "https://images.tagesschau.de/image/62a459a4-de47-412c-bc99-10728c9a25e5/AAABodAPyYk/AAABnSSvrFg/16x9-big/huang-120.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Chiphersteller - Nvidia-Chef Huang verlässt nach Affären das Unternehmen",
-     "link": "https://www.deutschlandfunk.de/nvidia-chef-huang-verlaesst-nach-affaeren-das-unternehmen-100.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Jensen Huang: Spionageaffäre und Affären: Nvidia verliert seinen Star-CEO",
-     "link": "https://www.dw.com/de/jensen-huang-spionageaffäre-und-affären-nvidia-verliert-seinen-star-ceo/a-79933045?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "THE DECODER",
-     "title": "Nvidia-Chef Huang gestürzt, Finanzchefin Kress übernimmt vorerst",
-     "link": "https://the-decoder.de/nvidia-chef-huang-gestuerzt-finanzchefin-kress-uebernimmt-vorerst/"
-    }
-   ]
-  },
-  {
-   "id": "n36b019755f",
-   "topic": "welt",
-   "title": "UN-Klimakonferenz: In Antalya kämpft die Weltgemeinschaft um Aufmerksamkeit für die Klimakrise - der deutsche Bundeskanzler fährt nicht in die Türkei",
-   "text": "Trotz Nationalismus und Populismus: In der Türkei hat diese Woche die UN-Klimakonferenz COP31 begonnen. Bundeskanzler Friedrich Merz nimmt nicht daran teil.",
-   "link": "https://www.dw.com/de/un-klimakonferenz-in-antalya-kämpft-die-weltgemeinschaft-um-aufmerksamkeit-für-die-klimakrise-der-deutsche-bundeskanzler-fährt-nicht-in-die-türkei/a-79926186?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-12T16:12:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-16T16:12:00+00:00",
-   "img": "https://static.dw.com/image/79912770_302.jpg"
-  },
-  {
-   "id": "nfbf480fa49",
-   "topic": "welt",
-   "title": "Gen-Z-Proteste: Ist die ältere Generation wirklich besser dran als junge Leute?",
-   "text": "Mieten, Bildung, Klimawandel: Junge Deutsche geht wegen düsterer Zukunftsaussichten auf die Straße. Die Babyboomer gelten ihnen oft als Bremser von Lösungen. Doch Daten zeigen: Auch Ältere leiden unter den Krisen.",
-   "link": "https://www.dw.com/de/gen-z-proteste-ist-die-ältere-generation-wirklich-besser-dran-als-junge-leute/a-79874373?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-12T16:10:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-16T16:10:00+00:00",
-   "img": "https://static.dw.com/image/79935417_302.jpg"
-  },
-  {
-   "id": "n1be8686a0c",
-   "topic": "politik",
-   "title": "\"Pflege ganz aktiv\" schafft mehr Freiraum in der Pflege",
-   "text": "Ein Modellprojekt in Rheinland-Pfalz ermöglicht ambulante Pflege nach individuellem Zeitbudget statt starrer Vorgaben. Erste Ergebnisse sind vielversprechend. Könnte so die Zukunft der Pflege aussehen? Von Claudia Hiller.",
-   "link": "https://www.tagesschau.de/inland/gesellschaft/pflege-neues-modell-ambulant-100.html",
-   "published": "2026-11-12T15:46:43+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-15T15:46:43+00:00",
-   "img": "https://images.tagesschau.de/image/d4d4bba8-d6ce-4574-94d0-882d936a9e45/AAABodBfH0k/AAABnSSvrFg/16x9-big/pflege-altenheim-104.jpg?width=1920"
-  },
-  {
-   "id": "n0adfa7ecf7",
-   "topic": "welt",
-   "title": "Nvidia-Chef Jensen Huang tritt nach Affären zurück",
-   "text": "Der CEO des wichtigsten Herstellers für KI-Prozessoren räumt seinen Stuhl. Auch wenn das US-Unternehmen offiziell keine Gründe nennt, ist die Sachlage klar. Im Kongress in Washington dürfte ein Nachspiel folgen.",
-   "link": "https://www.dw.com/de/nvidia-chef-jensen-huang-tritt-nach-affären-zurück/a-79932950?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-12T15:35:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-16T15:35:00+00:00",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Chiphersteller - Nvidia-Chef Huang verlässt nach Affären das Unternehmen",
-     "link": "https://www.deutschlandfunk.de/nvidia-chef-huang-verlaesst-nach-affaeren-das-unternehmen-100.html"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Nvidia-Chef Huang tritt nach Spionageaffäre zurück",
-     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-ruecktritt-100.html"
-    },
-    {
-     "source": "THE DECODER",
-     "title": "Nvidia-Chef Huang gestürzt, Finanzchefin Kress übernimmt vorerst",
-     "link": "https://the-decoder.de/nvidia-chef-huang-gestuerzt-finanzchefin-kress-uebernimmt-vorerst/"
-    }
-   ]
-  },
-  {
-   "id": "n86175774fd",
-   "topic": "ki",
-   "title": "Warum KI-Modelle ihre Gedanken verbergen können und weshalb Gegenmaßnahmen kaum greifen",
-   "text": "OpenAIs Sicherheitsteam hat systematisch untersucht, warum sich die Gedankenketten von Spitzenmodellen wie GPT-6 Astra zunehmend der Überwachung entziehen. Vier Trainingsschritte treiben die Erosion – darunter Architekturentscheidungen und Reinforcement Learning. Die Analyse zeigt: Der Transparenzverlust ist kein …",
-   "link": "https://the-decoder.de/warum-ki-modelle-ihre-gedanken-verbergen-koennen-und-weshalb-gegenmassnahmen-kaum-greifen/",
-   "published": "2026-11-12T15:14:11+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-19T15:14:11+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/03/CoT-Controllability.png"
-  },
-  {
-   "id": "n44a4d64196",
-   "topic": "welt",
-   "title": "Iran-Krieg: Eisenkot ruft Netanjahu zu Zurückhaltung auf",
-   "text": "Seit Tagen wird spekuliert, dass Israels Premier Netanjahu neue Angriffe auf Iran planen könnte. Oppositionschef Eisenkot, der derzeit versucht, eine Regierung ohne Netanjahu zu bilden, warnt diesen jetzt vor \"gefährlichen Schritten\".",
-   "link": "https://www.tagesschau.de/ausland/asien/eisenkot-netanjahu-100.html",
-   "published": "2026-11-12T14:28:14+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-15T14:28:14+00:00",
-   "img": "https://images.tagesschau.de/image/4e83b6c9-64c3-4423-94d7-fefad2ab1e5d/AAABoc_yjk4/AAABnSSvrFg/16x9-big/eisenkot-120.jpg?width=1920"
-  },
-  {
-   "id": "nd56b2547c7",
-   "topic": "welt",
-   "title": "Erneut Bombendrohungen gegen hunderte Schulen in Italien",
-   "text": "In Italien sind erneut Bombendrohungen an Schulen gesendet worden. Es sollen etwa 1.600 Einrichtungen betroffen sein. Die Regierung will Gebäude künftig nur noch räumen lassen, wenn konkrete Hinweise auf eine Gefahr vorliegen.",
-   "link": "https://www.tagesschau.de/ausland/europa/italien-schulen-bombendrohungen-100.html",
-   "published": "2026-11-12T14:25:28+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-15T14:25:28+00:00",
-   "img": "https://images.tagesschau.de/image/8daf501f-6a2c-4fe2-90f0-33638f979a13/AAABodCYN_Q/AAABnSSvrFg/16x9-big/schule-italien-evakuiert-100.jpg?width=1920"
-  },
-  {
-   "id": "n252f92d1db",
-   "topic": "ki",
-   "title": "Nvidia-Chef Huang gestürzt, Finanzchefin Kress übernimmt vorerst",
-   "text": "Jensen Huang ist laut einer Mitteilung am 12. November 2026 mit sofortiger Wirkung als CEO, Präsident und Vorstandsmitglied von Nvidia zurückgetreten. Der Artikel Nvidia-Chef Huang gestürzt, Finanzchefin Kress übernimmt vorerst erschien zuerst auf The Decoder .",
-   "link": "https://the-decoder.de/nvidia-chef-huang-gestuerzt-finanzchefin-kress-uebernimmt-vorerst/",
-   "published": "2026-11-12T14:08:40+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-19T14:08:40+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/05/huang_sccp_ai_screenshot-scaled.png",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Chiphersteller - Nvidia-Chef Huang verlässt nach Affären das Unternehmen",
-     "link": "https://www.deutschlandfunk.de/nvidia-chef-huang-verlaesst-nach-affaeren-das-unternehmen-100.html"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Nvidia-Chef Huang tritt nach Spionageaffäre zurück",
-     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-ruecktritt-100.html"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "Jensen Huang: Spionageaffäre und Affären: Nvidia verliert seinen Star-CEO",
-     "link": "https://www.dw.com/de/jensen-huang-spionageaffäre-und-affären-nvidia-verliert-seinen-star-ceo/a-79933045?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n4720b53983",
-   "topic": "welt",
-   "title": "Iran: Repressionen reichen bis ins Exil",
-   "text": "Beschlagnahmtes Vermögen, gesperrte Bankkonten und Drohungen gegenüber Familienangehörigen: Iranische Journalistinnen und Journalisten stehen unter Druck, auch wenn sie im Ausland leben.",
-   "link": "https://www.dw.com/de/iran-repressionen-reichen-bis-ins-exil/a-79930661?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-12T14:05:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-16T14:05:00+00:00",
-   "img": "https://static.dw.com/image/79933427_302.jpg"
-  },
-  {
-   "id": "nedda9e0e42",
-   "topic": "wissenschaft",
-   "title": "WHO-Bericht: Tuberkulose-Ziele verfehlt – 1,13 Millionen Tote",
-   "text": "Weniger Geld für die Tuberkulose-Bekämpfung, viele Fälle bleiben unentdeckt.",
-   "link": "https://www.spektrum.de/news/who-ziele-zur-bekaempfung-von-tuberkulose-wurden-verfehlt/2353981",
-   "published": "2026-11-12T14:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-26T14:00:00+00:00"
-  },
-  {
-   "id": "n8b7921586e",
-   "topic": "politik",
-   "title": "Keine Senkung der Stromsteuer: Bei der Union \"hat es ordentlich geknallt\"",
-   "text": "Die Senkung der Stromsteuer wird nun vermutlich doch nicht kommen - trotz anderslautender Versprechen. Bei der Union will man das noch nicht akzeptieren. Und die Opposition nimmt sich Kanzler Merz vor.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-kompromisse-stromsteuer-reaktionen-100.html",
-   "published": "2026-11-12T13:40:04+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-15T13:40:04+00:00",
-   "img": "https://images.tagesschau.de/image/c719ccdf-4c2e-4d89-8cc7-51bde98c7346/AAABn3WyiBE/AAABnSSvrFg/16x9-big/cdu-csu-fraktion-102.jpg?width=1920"
-  },
-  {
-   "id": "n77e4c8f247",
-   "topic": "welt",
-   "title": "Serbien gegen Deutschland: Spiel im fast leeren \"Marakana\" von Belgrad",
-   "text": "Wegen rassistischer Vorfälle und einer UEFA-Strafe empfängt Serbien Deutschland in der Nations League zu einem \"Geisterspiel\". Nun muss sich zeigen, ob der Mythos vom Heimvorteil im Belgrader Hexenkessel trägt.",
-   "link": "https://www.dw.com/de/serbien-gegen-deutschland-spiel-im-fast-leeren-marakana-von-belgrad/a-79928801?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-12T13:38:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-16T13:38:00+00:00",
-   "img": "https://static.dw.com/image/79930571_302.jpg"
-  },
-  {
-   "id": "nd438c8f063",
-   "topic": "welt",
-   "title": "EPG-Treffen in Irland: Europa will mit an den Tisch",
-   "text": "Kurze Gespräche und viel Diplomatie: Beim Treffen der Europäischen Politischen Gemeinschaft geht es heute um die Nachbereitung der Ukraine-Gespräche in Abu Dhabi und Moskau. Mit dabei: Selenskyj und der US-Sondergesandte Witkoff. Von S. López.",
-   "link": "https://www.tagesschau.de/ausland/europa/irland-europaeische-gemeinschaft-100.html",
-   "published": "2026-11-12T13:28:28+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-15T13:28:28+00:00",
-   "img": "https://images.tagesschau.de/image/ea811c51-bc9d-4366-83c2-55809b7f5226/AAABoc17d8I/AAABnSSvrFg/16x9-big/selenskyj-martin-100.jpg?width=1920"
-  },
-  {
-   "id": "n911fb12b41",
-   "topic": "politik",
-   "title": "Neuausrichtung der Bundeszentrale für politische Bildung sorgt für Streit",
-   "text": "Die Bundeszentrale für politische Bildung ist bekannt für den Wahl-O-Mat, Bildungsveranstaltungen und Info-Broschüren. Auf Weisung des Innenministeriums richtet sie sich neu aus. Doch darüber ist jetzt ein Streit ausgebrochen. Von D. K. Mäurer.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/bundeszentrale-fuer-politische-bildung-ausrichtung-100.html",
-   "published": "2026-11-12T12:52:24+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-15T12:52:24+00:00",
-   "img": "https://images.tagesschau.de/image/90f99846-de4b-4a1e-9225-2cc2244cd775/AAABodCcc4w/AAABnSSvrFg/16x9-big/bpb-102.jpg?width=1920"
-  },
-  {
-   "id": "n7f9439b338",
-   "topic": "welt",
-   "title": "Angriff auf Krankenhaus mit sechs Toten galt laut Israel Hamas",
-   "text": "Bei einem Angriff Israels auf eine Klinik in Gaza sind nach Behördenangaben sechs Menschen gestorben. Laut Israel nutzte die Hamas die Gebäude als Kommando- und Folterzentrum. Ein Mitglied der Terrororganisation sei Ziel des Angriffs gewesen.",
-   "link": "https://www.tagesschau.de/ausland/asien/gaza-israel-angriff-krankenhaus-100.html",
-   "published": "2026-11-12T12:50:17+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-15T12:50:17+00:00",
-   "img": "https://images.tagesschau.de/image/b158188e-3a00-49d2-b62b-ae695b61a15b/AAABoc8UAW4/AAABnSSvrFg/16x9-big/truemmer-gaza-104.jpg?width=1920"
-  },
-  {
-   "id": "n31dee81f09",
-   "topic": "wissenschaft",
-   "title": "Tiefseebergbau: Manganknollen wimmeln nur so von Leben",
-   "text": "Manganknollen sind offenbar wichtige Lebensräume für eine Vielzahl von Meeresbewohnern. Die Erkenntnis sollte bei Plänen zum Bergbau in der Tiefsee berücksichtigt werden.",
-   "link": "https://www.spektrum.de/news/tiefsee-manganknollen-beherbergen-vielfaeltiges-leben/2353926",
-   "published": "2026-11-12T12:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-26T12:00:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/newsimage429738.jpg.8424593.jpg?f=1280x720"
-  },
-  {
-   "id": "n560bf480a1",
-   "topic": "wirtschaft",
-   "title": "Warum immer mehr Menschen in die Schuldenfalle rutschen",
-   "text": "Die Zahl überschuldeter Menschen in Deutschland steigt im zweiten Jahr in Folge. Auslöser einer finanziellen Notlage sind häufig Krankheit, Sucht, Unfälle oder Arbeitslosigkeit. Betroffen sind vor allem Jüngere.",
-   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/mehr-menschen-ueberschuldet-schuldneratlas-100.html",
-   "published": "2026-11-12T11:31:51+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-15T11:31:51+00:00",
-   "img": "https://images.tagesschau.de/image/e006b93d-1f26-427e-a63b-6c608d866153/AAABoc7tHp8/AAABnSSvrFg/16x9-big/schuldnerberatung-114.jpg?width=1920"
-  },
-  {
-   "id": "nee7a6ab847",
-   "topic": "wissenschaft",
-   "title": "Die Vermessung des Universums: Euclid präsentiert seine erste große Himmelskarte",
-   "text": "Die europäische Weltraumbehörde ESA hat den ersten großen Datensatz des Weltraumteleskops Euclid veröffentlicht. Er umfasst bereits Hunderte Millionen kosmische Objekte.",
-   "link": "https://www.spektrum.de/news/die-vermessung-des-alls-euclid-enthuellt-erste-3d-karte-des-universums/2353375",
-   "published": "2026-11-12T11:10:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-26T11:10:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/5_Euclid-EWS-DR1-NorthPR_M81disk-R4-EQU-10K6K.4K.jpg.8423989.jpg?f=1280x720"
-  },
-  {
-   "id": "n847bcee475",
-   "topic": "politik",
-   "title": "Warum Minister beim Haushalt lieber pünktlich sind",
-   "text": "Beim Haushalt 2027 sind noch viele Baustellen offen. Meist bis in die frühen Morgenstunden feilt der Haushaltsausschuss am Etat. Für die Minister gilt: Pünktlichkeit ist essenziell, sonst drohen Abzüge, sagt Ausschussvorsitzende Paus. Von P. Eckstein.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-bereinigungssitzung-finanzen-100.html",
-   "published": "2026-11-12T11:08:50+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-15T11:08:50+00:00",
-   "img": "https://images.tagesschau.de/image/b066dc8e-4390-4551-b73a-8900570e4e58/AAABlNEDf5M/AAABnSSvrFg/16x9-big/reichstagsgebaeude-reichstagskuppel-102.jpg?width=1920"
-  },
-  {
-   "id": "nacf03f9907",
-   "topic": "politik",
-   "title": "Gesetzespläne - Bundestag beschließt Gesetz zur früheren Förderung von Kindern",
-   "text": "Der Bundestag hat mit großer Mehrheit ein Gesetz verabschiedet, mit dem die Förderung von Kindern schon im Kita-Alter verbessert werden soll. So sollen unter anderem verbindliche und weitgehend einheitliche Tests eingeführt werden, um sprachliche Schwächen und andere Entwicklungsdefizite frühzeitig zu erkennen.",
-   "link": "https://www.deutschlandfunk.de/bundestag-beschliesst-gesetz-zur-frueheren-foerderung-von-kindern-100.html",
-   "published": "2026-11-12T11:02:32+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-14T11:02:32+00:00",
-   "img": "https://bilder.deutschlandfunk.de/54/d7/f2/bc/54d7f2bc-53ff-4381-a2ee-eb285f434c49/bundestag-debatte-entscheidung-ko-tropfen-100-1920x1920.jpg"
-  },
-  {
-   "id": "n70d49b46d8",
-   "topic": "politik",
-   "title": "Haushalt 2027 - Koalition findet Etat-Kompromisse, Stromsteuer für Privathaushalte wird vorerst nicht gesenkt",
-   "text": "Union und SPD haben sich im Ringen über den Bundeshaushalt 2027 auf Kompromisse zu mehreren Streitpunkten geeinigt. So soll etwa die Stromsteuer für Privathaushalte offenbar vorerst nicht gesenkt werden, während andere Vorhaben gestrichen werden und über weitere noch verhandelt wird.",
-   "link": "https://www.deutschlandfunk.de/koalition-findet-etat-kompromisse-stromsteuer-fuer-privathaushalte-wird-vorerst-nicht-gesenkt-100.html",
-   "published": "2026-11-12T11:02:32+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-14T11:02:32+00:00"
-  },
-  {
-   "id": "n2b54370be5",
-   "topic": "politik",
-   "title": "Tarifkonflikt - IG-Metall plant ganztägige Warnstreiks",
-   "text": "Im Tarifkonflikt der Metall- und Elektroindustrie hat die IG Metall ⁠ganztägige ⁠Warnstreiks ⁠beschlossen.",
-   "link": "https://www.deutschlandfunk.de/ig-metall-plant-ganztaegige-warnstreiks-106.html",
-   "published": "2026-11-12T11:02:32+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-14T11:02:32+00:00"
-  },
-  {
-   "id": "n561bec5a36",
-   "topic": "politik",
-   "title": "Militärischer Internetdienst - Ukraine meldet erneut Drosselungen bei Starshield",
-   "text": "In der Ukraine kann das Militär derzeit den militärischen Internetdienst Starshield erneut nicht vollumfänglich nutzen.",
-   "link": "https://www.deutschlandfunk.de/ukraine-meldet-erneut-drosselungen-bei-starshield-100.html",
-   "published": "2026-11-12T11:02:32+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-14T11:02:32+00:00",
-   "img": "https://bilder.deutschlandfunk.de/6c/fb/4f/0d/6cfb4f0d-528e-4ce2-92bf-a14577de07de/ukraine-russland-krieg-angriff-raketen-drohnen-100-1920x1920.jpg"
-  },
-  {
-   "id": "necd5587123",
-   "topic": "politik",
-   "title": "Ukraine-Krieg - US-Unterhändler treffen Putin und später Selenskyj",
-   "text": "Nach ihrer Vermittlungsmission in Abu Dhabi sind die US-Gesandten Witkoff und Kushner in der russischen Hauptstadt Moskau eingetroffen. Später wollen die beiden in die irische Hauptstadt Dublin weiterreisen, um dort mit dem ukrainischen Präsidenten Selenskyj zusammenzukommen.",
-   "link": "https://www.deutschlandfunk.de/us-unterhaendler-treffen-putin-und-spaeter-selenskyj-100.html",
-   "published": "2026-11-12T11:02:32+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-14T11:02:32+00:00",
-   "img": "https://bilder.deutschlandfunk.de/4f/88/f2/ff/4f88f2ff-5474-4a64-804a-9caf5529759e/ukraine-russland-krieg-gespraeche-frieden-dmitriev-witkoff-kushner-moskau-100-1920x1920.jpg"
-  },
-  {
-   "id": "n7939af279f",
-   "topic": "politik",
-   "title": "Börsen-Rekord - Dax knackt Marke von 27.000 Punkten",
-   "text": "Der ‌Dax hat erstmals ⁠in seiner ⁠Geschichte die 27.000-Punkte-Marke übersprungen.",
-   "link": "https://www.deutschlandfunk.de/dax-knackt-marke-von-27-000-punkten-100.html",
-   "published": "2026-11-12T11:02:32+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-14T11:02:32+00:00",
-   "img": "https://bilder.deutschlandfunk.de/d8/fe/e7/c5/d8fee7c5-ee10-46d0-af4a-ac74bb885ca8/deutsche-boerse-parkett-100-1920x1920.jpg"
-  },
-  {
-   "id": "n2ab96c70dd",
-   "topic": "it",
-   "title": "Probefahrt DS No. 7: Unterwegs in der französischen Kuschelkiste",
-   "text": "Der DS 7 ist das bislang erfolgreichste Fahrzeug von DS. Das Auto wird als No. 7 neu aufgelegt - und setzt auf Komfort und Elektroantrieb. Von Tobias Költzsch ( Elektroauto , Auto )",
-   "link": "https://www.golem.de/news/probefahrt-ds-no-7-unterwegs-in-der-franzoesischen-kuschelkiste-2611-215083.html",
-   "published": "2026-11-12T11:00:01+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-17T11:00:01+00:00",
-   "img": "https://www.golem.de/2611/215083-607906-607904_rc.jpg"
-  },
-  {
-   "id": "n5a0afecc84",
-   "topic": "nfl",
-   "title": "The Bear’s Den: Leadership is on display in Chicago",
-   "text": "The Chicago Bears are on their bye week, but that doesn’t stop the news from happening.c",
-   "link": "https://sports.yahoo.com/articles/bear-den-leadership-display-chicago-110000527.html",
-   "published": "2026-11-12T11:00:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-17T11:00:00+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/a4a40b142a788169a77bb1cd65f12624.jpg"
-  },
-  {
-   "id": "nb150f5414f",
-   "topic": "nfl",
-   "title": "Giants news: Game preview, Arvell Reese named Defensive Player Of The Week, more",
-   "text": "New York Giants headlines for Thursday",
-   "link": "https://sports.yahoo.com/articles/giants-news-game-preview-arvell-110000603.html",
-   "published": "2026-11-12T11:00:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-17T11:00:00+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/d44ce3e9417cd952adc0ebc713e5cd34.jpg"
-  },
-  {
-   "id": "n2ce2337695",
-   "topic": "it",
-   "title": "heise+ | Große LLMs auf Desktop-Hardware im Test",
-   "text": "Die Inferenz-Engine Strata verspricht schnelle Antwortzeiten selbst auf einem durchschnittlichen Gaming-PC. Unsere Tests zeigen, ob und wie das funktioniert.",
-   "link": "https://www.heise.de/tests/Grosse-LLMs-auf-Desktop-Hardware-im-Test-11515298.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-   "published": "2026-11-12T11:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-17T11:00:00+00:00"
-  },
-  {
-   "id": "n29b29bc35e",
-   "topic": "it",
-   "title": "Sicherheitsupdate: Google stopft fünf kritische Löcher in Chrome",
-   "text": "Chrome ist anfällig für eine Remotecodeausführung außerhalb der Sandbox. Angreifbar ist der Browser unter Windows, MacOS und Linux. ( Chrome , Google )",
-   "link": "https://www.golem.de/news/sicherheitsupdate-google-stopft-fuenf-kritische-loecher-in-chrome-2611-215126.html",
-   "published": "2026-11-12T10:48:01+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-17T10:48:01+00:00",
-   "img": "https://www.golem.de/2611/215126-608113-608111_rc.jpg"
-  },
-  {
-   "id": "n1184c39cf7",
-   "topic": "politik",
-   "title": "Kita-Startchancengesetz: Mehr Förderung mit weniger Geld?",
-   "text": "Der Bundestag hat das Startchancengesetz beschlossen, das mehr Förderung für Kita-Kinder und verbindliche Tests vorsieht. Kritik gibt es wegen geplanter Kürzungen bei den Bundesmitteln. Von Chris Berdrow.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/kita-startchancengesetz-100.html",
-   "published": "2026-11-12T10:45:20+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-15T10:45:20+00:00",
-   "img": "https://images.tagesschau.de/image/d0cc50ad-3244-47e2-a58c-55a26efca276/AAABodCcGBw/AAABnSSvrFg/16x9-big/buchstaben-zahlen-tafel-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "THE DECODER",
-     "title": "Google stellt Gemini 4 Hydrogen vor: Schnelles KI-Modell für den Alltag für weniger Geld",
-     "link": "https://the-decoder.de/google-stellt-gemini-4-hydrogen-vor-schnelles-ki-modell-fuer-den-alltag-fuer-weniger-geld/"
-    }
-   ]
-  },
-  {
-   "id": "nfd61f83251",
-   "topic": "politik",
-   "title": "November in Hessen:Taschenlampenführungen und Lichtevents",
-   "text": "Ob Grabsteine, alte Gemäuer oder ein Wald - im Dunkel und bei spärlichem Licht bekommen Orte eine ganz eigene Stimmung: Mal gruselig, mal romantisch, auf jeden Fall besonders. Ein Überblick über die November-Angebote in Hessen.",
-   "link": "https://www.hessenschau.de/kultur/november-in-hessentaschenlampenfuehrungen-und-lichtevents-v1,taschenlampenfuehrungen-november-100.html",
-   "published": "2026-11-12T10:35:11+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-16T10:35:11+00:00",
-   "img": "https://www.hessenschau.de/kultur/marburg-by-night-100~_t-1794479708837_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "n4132cecd0b",
-   "topic": "welt",
-   "title": "Mehrere Tote bei Hauseinsturz in New York",
-   "text": "\"Das ganze Gebäude fing an zu schwanken, und dann ist es einfach eingestürzt\", sagt eine Zeugin des Unglücks. Für die Feuerwehrleute ist es ein gefährlicher Einsatz. Suchhunde sollen mögliche Verschüttete finden.",
-   "link": "https://www.dw.com/de/mehrere-tote-bei-hauseinsturz-in-new-york/a-79927649?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-12T10:34:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-16T10:34:00+00:00",
-   "img": "https://static.dw.com/image/79925717_302.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Im Stadtteil Brooklyn: Tote und Verletzte nach Gebäudeeinsturz in New York",
-     "link": "https://www.tagesschau.de/ausland/amerika/new-york-gebaeude-einsturz-104.html"
-    }
-   ]
   }
  ]
 }
