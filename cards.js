@@ -2670,4 +2670,57 @@ window.CARDS = [
     ],
     text: "Die Götter Asgards fürchteten den Wolf Fenrir und wollten ihn fesseln. Zwei eiserne Ketten sprengte er. Dann ließen sie Zwerge Gleipnir fertigen, dünn wie ein Seidenband und aus sechs Dingen gemacht, die es nicht gibt. So erzählt es Snorri Sturluson im 13. Jahrhundert. Den Preis zahlte der Gott Týr mit seiner Hand."
   },
+  // ---- Neu 2026-11-14
+  { id: "sw14", topic: "sw", title: "Wenn zwei Nutzer speichern und einer unbemerkt verliert", q: "Optimistisches Sperren Lost Update Versionsnummer", more: ["sw7", "db5"],
+    points: ["Ein „Lost Update“ entsteht, wenn zwei Transaktionen denselben Stand lesen und nacheinander schreiben", "Beim Speichern wird die gelesene Version mitgeprüft und hochgezählt (WHERE id = ? AND version = ?)", "Null betroffene Zeilen heißen Konflikt: Die Anwendung muss melden, neu laden oder zusammenführen"],
+    why: "Wer Formulare, REST-APIs oder Warenkörbe baut, begegnet diesem Fehler spätestens bei der ersten parallelen Nutzung.",
+    slides: [
+      { h: "🕰️ Der Ablauf im Detail", steps: ["Anna und Ben laden denselben Kunden, beide sehen Version 7", "Anna speichert: UPDATE … SET …, version = 8 WHERE id = 1 AND version = 7 – eine Zeile betroffen", "Ben speichert mit version = 7: null Zeilen betroffen, denn die Version steht schon auf 8", "Die Anwendung erkennt den Konflikt und zeigt eine Meldung oder lädt neu"] },
+      { h: "🌐 Dasselbe im Web: ETag", text: "In REST-APIs übernimmt der ETag-Header die Rolle der Versionsnummer. Der Client schickt beim Ändern If-Match mit dem zuletzt gelesenen ETag. Hat sich die Ressource inzwischen geändert, antwortet der Server mit 412 Precondition Failed. Manche APIs melden stattdessen 409 Conflict." },
+      { h: "⚖️ Pessimistisch als Gegenstück", text: "Pessimistisches Sperren (SELECT … FOR UPDATE) hält die Zeile gesperrt, bis die Transaktion endet. Das ist sicher, blockiert aber andere und kann Deadlocks auslösen. Optimistisch lohnt sich bei seltenen Konflikten; sind sie häufig, kosten die Wiederholungen mehr als eine Sperre." },
+      { h: "🧰 In der Praxis", points: ["JPA/Hibernate: ein Feld mit @Version, bei Konflikt fliegt eine OptimisticLockException", "Zeitstempel statt Zahl geht, ist aber wegen Genauigkeit und Uhren anfälliger", "Gute Oberflächen lassen die Nutzer wählen: überschreiben, übernehmen oder verwerfen"] }
+    ],
+    text: "Zwei Sachbearbeiter öffnen denselben Kundendatensatz, beide ändern etwas, beide speichern. Der Zweite überschreibt stillschweigend die Änderung des Ersten: ein „Lost Update“. Optimistisches Sperren verhindert das mit einer Versionsnummer, die beim Speichern mitgeprüft wird. Passt die Version nicht mehr, wird gar nicht erst geschrieben."
+  },
+  { id: "bf14", topic: "bf", title: "Vertrag sagt 28, Tarif sagt 30: Was gilt?", q: "Günstigkeitsprinzip Tarifvertrag Arbeitsvertrag", more: ["bf12", "bf7"],
+    points: ["Das Günstigkeitsprinzip (§ 4 Abs. 3 TVG) erlaubt Abweichungen vom Tarifvertrag nur zugunsten der Beschäftigten", "Der Tarifvertrag gilt nur bei beidseitiger Tarifbindung, Allgemeinverbindlicherklärung oder Verweis im Vertrag", "Verglichen werden sachlich zusammenhängende Regelungen, nicht einzelne Rosinen"],
+    why: "Viele IT-Firmen sind nicht tarifgebunden; dann entscheidet dein Vertrag, und du solltest wissen, woran du ihn messen kannst. Keine Rechtsberatung.",
+    slides: [
+      { h: "📊 Welche Regel zieht", steps: ["Zwingendes Gesetz setzt Mindeststandards, etwa beim Urlaub", "Ein geltender Tarifvertrag darf nur nach oben übertroffen werden", "Betriebsvereinbarungen stehen darunter, der Arbeitsvertrag zuletzt", "Faustregel: Nach unten ist eine Abweichung unzulässig, nach oben meist erlaubt"] },
+      { h: "🔢 Der gesetzliche Boden", big: { n: "20 Tage", l: "Mindesturlaub pro Jahr bei einer Fünf-Tage-Woche (24 Werktage nach dem Bundesurlaubsgesetz bei sechs Tagen)" } },
+      { h: "🍒 Kein Rosinenpicken", text: "Wer ein Gesamtpaket vergleicht, darf nicht aus Vertrag und Tarif jeweils das Beste herauspicken. Gerichte vergleichen Regelungen, die sachlich zusammengehören (Sachgruppenvergleich), etwa Arbeitszeit samt Vergütung. Eine kürzere Wochenarbeitszeit kann so gegen ein höheres Gehalt abgewogen werden." }
+    ],
+    text: "Im Arbeitsvertrag stehen 28 Urlaubstage, im Tarifvertrag 30. Welche Zahl gilt? Grundsätzlich die für dich bessere, denn das Günstigkeitsprinzip erlaubt Abweichungen vom Tarifvertrag nur zugunsten der Beschäftigten. Vorausgesetzt, der Tarifvertrag gilt überhaupt für dein Arbeitsverhältnis, und das ist keineswegs selbstverständlich."
+  },
+  { id: "ar14", topic: "ar", title: "Die Speere von Schöningen: Jagdwaffen aus der Zeit vor dem Neandertaler", q: "Schöninger Speere Hartmut Thieme Homo heidelbergensis", more: ["ar10", "bi6"],
+    points: ["Im Braunkohletagebau Schöningen (Niedersachsen) fand man ab 1994 Holzspeere von rund 300.000 Jahren", "Sie sind etwa 2 Meter lang, aus Fichtenholz, mit dem Schwerpunkt im vorderen Drittel wie moderne Wurfspeere", "Neben ihnen lagen Knochen von mindestens 20 Pferden: Hinweis auf geplante Jagd"],
+    why: "Die Funde widerlegen die alte Annahme, frühe Menschen seien nur Aasfresser gewesen.",
+    slides: [
+      { h: "🔦 Fund und Datierung", steps: ["1994: Hartmut Thieme entdeckt im Tagebau Schöningen den ersten Speer im Torf", "Bis 1998 folgen acht Wurfspeere, dazu Stoßlanzen und Wurfhölzer", "Der Torf hielt das Holz unter Luftabschluss feucht und damit erhalten", "Datierungen ordnen die Schicht einer Warmzeit vor rund 300.000 Jahren zu"] },
+      { h: "🐎 Die Beute", big: { n: "20+", l: "Pferde sind nach Knochenfunden an der Fundstelle verzeichnet; Schnittspuren zeigen, dass sie zerlegt wurden" } },
+      { h: "👤 Wer waren die Jäger?", text: "Die Schicht ist älter als der Neandertaler im engeren Sinn. Meist werden die Jäger dem Homo heidelbergensis zugeordnet, einer Menschenform, die als gemeinsamer Vorfahr gilt. Zugeordnet ist hier jedoch eine Vermutung, denn menschliche Knochen wurden an der Fundstelle nicht gefunden." },
+      { h: "🎯 Wurf oder Stoß?", text: "Ob die Speere geworfen oder nur gestoßen wurden, war lange umstritten. Nachbauten, die erfahrene Werfer ausprobierten, trafen Ziele noch aus rund 20 Metern. Das spricht für Wurfwaffen. Streng bewiesen ist die Nutzung im Einzelfall nicht.", img: "Schöningen spear replica" }
+    ],
+    text: "In einem Braunkohletagebau bei Schöningen stießen Archäologen 1994 auf Holzspeere, die rund 300.000 Jahre alt sind. Sie sind so gut ausbalanciert wie moderne Wurfspeere und lagen zwischen Knochen erlegter Pferde. Damit gelten sie als älteste fast vollständig erhaltene Jagdwaffen der Welt und sprechen für planvolle Gruppenjagd."
+  },
+  { id: "wi14", topic: "wirtschaft", title: "Der Cobra-Effekt: Wenn eine Prämie das Problem vergrößert", q: "Perverse Anreize Cobra-Effekt Hanoi Rattenplage 1902 Michael Vann", more: ["wi13", "wi10"],
+    points: ["Beim Cobra-Effekt löst eine gut gemeinte Belohnung genau das Verhalten aus, das sie bekämpfen soll", "Gut belegt ist der Fall Hanoi 1902: Für Rattenschwänze zahlte die Kolonialverwaltung eine Prämie", "Die Delhi-Geschichte mit den Kobras ist dagegen vermutlich nur eine Anekdote"],
+    why: "Anreize wirken, aber nicht immer so, wie ihre Erfinder planen. Wer Prämien, Kennzahlen oder Boni entwirft, sollte fragen: Wie lässt sich das austricksen?",
+    slides: [
+      { h: "🐀 Hanoi, 1902", steps: ["Die französische Kolonialverwaltung will die Ratten in der neuen Kanalisation loswerden", "Sie zahlt eine Prämie pro abgelieferten Rattenschwanz", "Bald tauchen Ratten ohne Schwanz auf: Die Jäger lassen sie laufen, damit sie sich vermehren", "Manche züchten Ratten, um Prämien zu kassieren; die Prämie wird abgeschafft"] },
+      { h: "🐍 Und die Kobras von Delhi?", text: "Der Name geht auf die Erzählung zurück, die britische Verwaltung habe in Delhi eine Prämie auf tote Kobras gesetzt, worauf Leute Kobras züchteten. Der Ökonom Horst Siebert prägte 2001 den Begriff. Für Delhi gibt es keinen sicheren Beleg; der Historiker Michael Vann hat dagegen die Hanoi-Fälle aus Archiven belegt." },
+      { h: "🏦 Ein neueres Beispiel", text: "Bei der US-Bank Wells Fargo wurden Verkaufsziele für neue Konten so streng verfolgt, dass Beschäftigte massenhaft Konten ohne Wissen der Kunden eröffneten. Das kam 2016 heraus; die Bank zahlte hohe Strafen. Der Anreiz zielte auf Zahlen, nicht auf zufriedene Kunden." }
+    ],
+    text: "Wie wird man eine Rattenplage los? 1902 bot die Kolonialverwaltung in Hanoi eine Prämie pro Rattenschwanz. Das Ergebnis: schwanzlose Ratten, die weiterliefen, und Leute, die Ratten züchteten. Ökonomen nennen so etwas Cobra-Effekt: Ein falsch gesetzter Anreiz belohnt genau das Verhalten, das er verhindern sollte."
+  },
+  { id: "bi27", topic: "biologie", title: "Die Schwebfliege, die eine Wespe spielt: Bluff als Überlebensstrategie", q: "Mimikry Bates Müller Schwebfliege Heliconius", more: ["zo2", "bi25"],
+    points: ["Bei der Bates’schen Mimikry ahmt ein harmloses Tier ein wehrhaftes nach, etwa die Schwebfliege eine Wespe", "Henry Walter Bates beschrieb das Prinzip 1862 nach Reisen am Amazonas", "Bei der Müller’schen Mimikry teilen sich mehrere wehrhafte Arten dasselbe Warnmuster"],
+    why: "Mimikry gilt als eines der frühen Beispiele für natürliche Selektion, die man im Freiland beobachten kann.",
+    slides: [
+      { h: "⚠️ Der Haken beim Bluff", text: "Der Bluff funktioniert nur, solange die Nachahmer seltener sind als das Vorbild. Werden Fälscher zu häufig, lernen Fressfeinde, dass Gelb-Schwarz oft harmlos schmeckt, und fressen auch die Originale. Deshalb bleiben Nachahmer meist eine kleine Minderheit." },
+      { h: "🦋 Müller: gemeinsam warnen", text: "Fritz Müller beschrieb 1878 an brasilianischen Schmetterlingen den zweiten Fall. Mehrere giftige Arten, zum Beispiel Heliconius, tragen ähnliche Muster. Jeder Räuber muss das Warnbild nur einmal schmerzhaft lernen, und die Verluste verteilen sich auf mehr Arten.", img: "Heliconius mimicry" },
+      { h: "🕷️ Auch der Jäger bluft", points: ["Aggressive Mimikry: Ein Räuber ahmt etwas Harmloses oder Lockendes nach", "Beispiel Photuris: Weibchen dieser Leuchtkäfer imitieren die Lichtsignale von Photinus-Weibchen und fressen angelockte Männchen", "Auch Verhalten und Geräusche können nachgeahmt werden, nicht nur Farben"] }
+    ],
+    text: "Schwebfliegen sehen aus wie Wespen, können aber nicht stechen. Wer sie frisst, riskiert nichts, doch Vögel meiden sie trotzdem. Diese Täuschung heißt Mimikry. Henry Walter Bates fiel sie in den 1850er-Jahren bei Schmetterlingen am Amazonas auf. Der Bluff klappt nur, solange das Vorbild häufiger ist als die Fälscher."
+  },
 ];
