@@ -1,55 +1,549 @@
 {
- "generated": "2026-11-14T01:27:02.445224+00:00",
+ "generated": "2026-11-14T10:27:22.142268+00:00",
  "briefing": [
-  "n8c9f95bfea",
   "n755f677ae4",
+  "nd10eb252c1",
+  "ne40e0daed4",
   "n2ea5caaca9",
-  "n524a9e3eae",
-  "nb26d0b83c7",
-  "n85216401e0",
-  "n753d518dfc",
-  "n8c53866c42",
-  "n736a8796e8"
+  "n0df6527272",
+  "n745e0f3594",
+  "n92d0163606",
+  "n922c8c93de",
+  "nb26d0b83c7"
  ],
  "ranked": [
   {
-   "id": "n8c9f95bfea",
-   "s": 38.2
+   "id": "n755f677ae4",
+   "s": 28.3
   },
   {
-   "id": "n755f677ae4",
-   "s": 30.6
+   "id": "nd10eb252c1",
+   "s": 28.0
+  },
+  {
+   "id": "ne40e0daed4",
+   "s": 27.7
   },
   {
    "id": "n2ea5caaca9",
-   "s": 28.8
+   "s": 27.0
   },
   {
-   "id": "n524a9e3eae",
-   "s": 28.5
+   "id": "n0df6527272",
+   "s": 26.2
+  },
+  {
+   "id": "n745e0f3594",
+   "s": 26.0
+  },
+  {
+   "id": "n92d0163606",
+   "s": 23.0
+  },
+  {
+   "id": "n922c8c93de",
+   "s": 22.6
   },
   {
    "id": "nb26d0b83c7",
-   "s": 22.9
-  },
-  {
-   "id": "n85216401e0",
-   "s": 22.9
-  },
-  {
-   "id": "n753d518dfc",
-   "s": 22.9
-  },
-  {
-   "id": "n8c53866c42",
-   "s": 21.4
-  },
-  {
-   "id": "n736a8796e8",
-   "s": 21.3
+   "s": 20.7
   }
  ],
  "items": [
+  {
+   "id": "n92d0163606",
+   "topic": "politik",
+   "title": "Ukraine - Selenskyj: USA haben Gebietsabtretungen an Russland im Gegenzug für eine NATO-Mitgliedschaft ins Gespräch gebracht",
+   "text": "Die USA haben nach Angaben des ukrainischen Präsidenten Selenskyj eine NATO-Mitgliedschaft seines Landes bei gleichzeitigen Gebietsabtretungen an Russland ins Gespräch gebracht.",
+   "link": "https://www.deutschlandfunk.de/selenskyj-usa-haben-gebietsabtretungen-an-russland-im-gegenzug-fuer-eine-nato-mitgliedschaft-ins-ges-100.html",
+   "published": "2026-11-14T10:24:02+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-16T10:24:02+00:00",
+   "img": "https://bilder.deutschlandfunk.de/54/48/fe/aa/5448feaa-710f-4b18-8d99-573ff6a166b9/selenskyj-186-1920x1920.jpg"
+  },
+  {
+   "id": "n94bee1ab4a",
+   "topic": "politik",
+   "title": "Cloud-Dienste - Microsoft gibt Ende der weltweiten Störungen bekannt",
+   "text": "Microsoft hat die weltweiten Störungen bei einigen seiner Dienste nach mehr als ⁠24 Stunden behoben.",
+   "link": "https://www.deutschlandfunk.de/microsoft-gibt-ende-der-weltweiten-stoerungen-bekannt-102.html",
+   "published": "2026-11-14T10:24:02+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-16T10:24:02+00:00"
+  },
+  {
+   "id": "na5acaa1179",
+   "topic": "politik",
+   "title": "Rente - Pläne: Abzüge bei Frührente sollen von 0,3 auf 0,4 Prozent pro Monat steigen",
+   "text": "Die Bundesregierung plant höhere Abzüge für Menschen, die vor Erreichen der Regelaltersgrenze in Rente gehen. Nach Angaben des CSU-Landesgruppenchefs Hoffmann sollen die Abschläge von 0,3 auf 0,4 Prozent pro Monat angehoben werden.",
+   "link": "https://www.deutschlandfunk.de/plaene-abzuege-bei-fruehrente-sollen-von-0-3-auf-0-4-prozent-pro-monat-steigen-100.html",
+   "published": "2026-11-14T10:24:02+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-16T10:24:02+00:00",
+   "img": "https://bilder.deutschlandfunk.de/49/d6/03/03/49d60303-6781-45d1-9958-81fc676e4b4b/rente-alter-102-1920x1920.jpg"
+  },
+  {
+   "id": "n23994cde95",
+   "topic": "politik",
+   "title": "Mecklenburg-Vorpommern - Parteitage: SPD und Grüne stimmen über Koalitionsvertrag ab",
+   "text": "In Mecklenburg-Vorpommern sind SPD und Grüne jeweils zu Parteitagen zusammengekommen, um über den Koalitionsvertrag abzustimmen.",
+   "link": "https://www.deutschlandfunk.de/parteitage-spd-und-gruene-stimmen-ueber-koalitionsvertrag-ab-100.html",
+   "published": "2026-11-14T10:24:02+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-16T10:24:02+00:00",
+   "img": "https://bilder.deutschlandfunk.de/36/b2/a3/26/36b2a326-ce91-4775-ba44-b7a2a9f3493e/manuela-schwesig-118-1920x1920.jpg"
+  },
+  {
+   "id": "n7fa03d0601",
+   "topic": "politik",
+   "title": "Trauerfeier - Angehörige und Wegbegleiter nehmen Abschied von Aiwanger",
+   "text": "In München wird des verstorbenen bayerischen Wirtschaftsministers und stellvertretenden Ministerpräsidenten Aiwanger gedacht.",
+   "link": "https://www.deutschlandfunk.de/angehoerige-und-wegbegleiter-nehmen-abschied-von-aiwanger-102.html",
+   "published": "2026-11-14T10:24:02+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-16T10:24:02+00:00",
+   "img": "https://bilder.deutschlandfunk.de/3a/c2/1a/2c/3ac21a2c-eb5e-4a01-9bd2-9e991493ced9/aiwanger-126-1920x1920.jpg"
+  },
+  {
+   "id": "n5721733c3c",
+   "topic": "politik",
+   "title": "Peru - Papst Leo XIV. feiert Messe mit 500.000 Gläubigen",
+   "text": "Papst Leo der Vierzehnte hat im Rahmen seiner Südamerikareise die peruanische Stadt Chiclayo besucht.",
+   "link": "https://www.deutschlandfunk.de/papst-leo-xiv-feiert-messe-mit-500-000-glaeubigen-100.html",
+   "published": "2026-11-14T10:24:02+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-16T10:24:02+00:00",
+   "img": "https://bilder.deutschlandfunk.de/9d/31/f4/ec/9d31f4ec-7c09-459c-b4aa-4e5f9a790eac/leo-papst-peru-100-1920x1920.jpg"
+  },
+  {
+   "id": "n42d1ba7630",
+   "topic": "politik",
+   "title": "Flugstopp in den USA: Ausfälle und Verspätungen auch ab Frankfurt",
+   "text": "Ein vorübergehender Flugstopp in den USA hat Auswirkungen auf den Flugplan in Frankfurt. Wer vom größten deutschen Flughafen in die USA reisen will, muss sich auf Verspätungen einstellen - einzelne Flüge fielen bereits aus.",
+   "link": "https://www.hessenschau.de/wirtschaft/flugstopp-in-den-usa-ausfaelle-und-verspaetungen-auch-ab-frankfurt-v2,usa-fluege-gestrichen-100.html",
+   "published": "2026-11-14T10:17:51+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-18T10:17:51+00:00",
+   "img": "https://www.hessenschau.de/wirtschaft/flughafen-frankfurt-168~_t-1788937670689_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "nd10eb252c1",
+   "topic": "wirtschaft",
+   "title": "Microsoft: Systeme nach Störung komplett wiederhergestellt",
+   "text": "Probleme bei Microsoft hatten zentrale Cloud-Dienste stundenlang lahmgelegt - Unternehmen und Verbraucher weltweit waren betroffen. Laut Microsoft laufen nun alle Systeme wieder. Hinweise auf böswillige Aktivitäten gebe es nicht.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-stoerung-behoben-100.html",
+   "published": "2026-11-14T10:17:44+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-17T10:17:44+00:00",
+   "img": "https://images.tagesschau.de/image/a26b9e2d-86af-4c40-851d-0bc71c016725/AAABodmK3dA/AAABnSSvrFg/16x9-big/microsoft-228.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Weltweite Störung - Microsoft: Probleme gingen auf Netzwerk-Update zurück",
+     "link": "https://www.deutschlandfunk.de/microsoft-probleme-gingen-auf-netzwerk-update-zurueck-104.html"
+    }
+   ]
+  },
+  {
+   "id": "n6d7c20d20e",
+   "topic": "it",
+   "title": "SpaceX: Starship startet erneut ohne Landung des Boosters",
+   "text": "Auch beim Flug 15 scheitert die Wiederverwendung des Starship-Systems. Wieder wurde der Booster vorzeitig gesprengt. Von Frank Wunderlich-Pfeiffer ( Starship , Raumfahrt )",
+   "link": "https://www.golem.de/news/spacex-starship-startet-erneut-ohne-landung-des-boosters-2611-215218.html",
+   "published": "2026-11-14T10:10:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-19T10:10:02+00:00",
+   "img": "https://www.golem.de/2611/215218-608525-608520_rc.jpg"
+  },
+  {
+   "id": "nb3c5f3f103",
+   "topic": "politik",
+   "title": "Bahn zieht positive Bilanz zu Alkoholverbot an Bahnhöfen",
+   "text": "Seit einem Monat ist bundesweit der Konsum von Alkohol an Bahnhöfen untersagt. Die Deutsche Bahn zeigt sich in einer ersten Bilanz zufrieden. Weniger Müll, weniger Konflikte - die Situation habe sich für Reisende und Mitarbeitende verbessert.",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/bahn-alkohol-verbot-bilanz-100.html",
+   "published": "2026-11-14T10:07:05+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-17T10:07:05+00:00",
+   "img": "https://images.tagesschau.de/image/9fe06521-e9d3-4c8b-b3f6-a46767c2e54e/AAABodl-Glc/AAABnSSvrFg/16x9-big/alkoholverbot-bahngelaende-100.jpg?width=1920"
+  },
+  {
+   "id": "n2e6143145a",
+   "topic": "nfl",
+   "title": "Drew Mestemaker is one win away from crashing the Heisman race",
+   "text": "Drew Mestemaker can lead Oklahoma State to an upset win over Texas Tech in Week 11. He can also claim more than just a win with a big game.",
+   "link": "https://sports.yahoo.com/articles/drew-mestemaker-one-win-away-100703900.html",
+   "published": "2026-11-14T10:07:03+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-19T10:07:03+00:00"
+  },
+  {
+   "id": "n7e6c5fabd2",
+   "topic": "wissenschaft",
+   "title": "Gummihand-Illusion: Gesichtsillusion bringt Kindheitserinnerungen zurück",
+   "text": "Je älter man wird, desto mehr verblassen die Kindheitserinnerungen. Aber wenn man das Gehirn glauben lässt, dass man jünger ist, erwachen die Erinnerungen zu neuem Leben.",
+   "link": "https://www.spektrum.de/news/koennen-sie-vergessene-kindheitserinnerungen-zurueckholen/2319861",
+   "published": "2026-11-14T10:05:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-28T10:05:00+00:00"
+  },
+  {
+   "id": "n0b3c5a548c",
+   "topic": "nfl",
+   "title": "Joe Burrow can join Peyton Manning as only QBs with 4 total TDs in 5 straight games",
+   "text": "A big game from Burrow on Sunday night would put him in some very exclusive company in NFL history.",
+   "link": "https://sports.yahoo.com/articles/joe-burrow-join-peyton-manning-100151255.html",
+   "published": "2026-11-14T10:01:51+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-19T10:01:51+00:00"
+  },
+  {
+   "id": "n6e85e567b9",
+   "topic": "welt",
+   "title": "Der Liedermacher Wolf Biermann wird 90 Jahre alt",
+   "text": "Sein Leben ist ein Spiegel deutsch-deutscher Zeitgeschichte. Mit Gitarre und frechem Mundwerk hat Wolf Biermann sie kommentiert, und mit 90 ist er kämpferisch wie eh und je.",
+   "link": "https://www.dw.com/de/der-liedermacher-wolf-biermann-wird-90-jahre-alt/a-79902741?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-14T09:59:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-18T09:59:00+00:00",
+   "img": "https://static.dw.com/image/79844530_302.jpg"
+  },
+  {
+   "id": "ndb57c61c28",
+   "topic": "wirtschaft",
+   "title": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
+   "text": "Eine stundenlange Großstörung hat weltweit Dienste des US-Softwarekonzerns Microsoft lahmgelegt, unter anderem das E-Mail-Programm Outlook. Wen es getroffen hat und welche Hintergründe vermutet werden - ein Überblick.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
+   "published": "2026-11-14T09:55:34+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-17T09:55:34+00:00",
+   "img": "https://images.tagesschau.de/image/cf43b90e-dedd-4716-a8b6-a8f22d964037/AAABoYa7d7o/AAABnSSvrFg/16x9-big/microsoft-196.jpg?width=1920"
+  },
+  {
+   "id": "nae162b3df6",
+   "topic": "it",
+   "title": "Autonomes Fahren: Tesla verkauft Cybercab an erste Privatkunden",
+   "text": "Mit Tesla verkauft erstmals ein Hersteller sein Robotaxi an Privatpersonen. Doch der Nutzen des Cybercab ist stark eingeschränkt. ( Cybercab , Elektroauto )",
+   "link": "https://www.golem.de/news/autonomes-fahren-tesla-verkauft-cybercab-an-erste-privatkunden-2611-215217.html",
+   "published": "2026-11-14T09:45:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-19T09:45:02+00:00",
+   "img": "https://www.golem.de/2611/215217-608518-608516_rc.jpg"
+  },
+  {
+   "id": "n2040f626ed",
+   "topic": "ki",
+   "title": "Robotermodell als Open Source: Runway gibt Robotik-Modell Praxis-1 mit Gewichten frei",
+   "text": "Runway veröffentlicht sein Robotik-Modell Praxis-1 mit offenen Gewichten und Quellcode unter Apache-2.0-Lizenz. Das Modell nutzt Wissen aus Videotraining für die Robotersteuerung und führt auf Nvidias RoboLab-120-Benchmark die Kategorie der World Action Models an. Komplexe Handlungsabläufe kann es allerdings noch …",
+   "link": "https://the-decoder.de/robotermodell-als-open-source-runway-gibt-robotik-modell-praxis-1-mit-gewichten-frei/",
+   "published": "2026-11-14T09:34:45+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-21T09:34:45+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2030/11/Runway-Praxis-1.jpg"
+  },
+  {
+   "id": "nba5e001be9",
+   "topic": "wissenschaft",
+   "title": "Plättchen in der Stellenwerttafel",
+   "text": "Heutiges Thema im »Christian Spannagel«-Video: Stellenwertsysteme.",
+   "link": "https://www.spektrum.de/video/christian-spannagel-plaettchen-in-der-stellenwerttafel/2354152",
+   "published": "2026-11-14T09:22:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-28T09:22:00+00:00"
+  },
+  {
+   "id": "n3f0e44f648",
+   "topic": "welt",
+   "title": "Weißes Haus kündigt Dreiertreffen Trumps mit Xi und Putin an",
+   "text": "Das gab es bislang noch nicht: Erstmals wollen US-Präsident Donald Trump, Chinas Staatschef Xi Jinping und Kremlchef Wladimir Putin zusammenkommen. Die Beratungen sind für den nächsten Donnerstag in China geplant.",
+   "link": "https://www.dw.com/de/weißes-haus-kündigt-dreiertreffen-trumps-mit-xi-und-putin-an/a-79946925?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-14T09:19:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-18T09:19:00+00:00",
+   "img": "https://static.dw.com/image/79946435_302.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Weißes Haus kündigt Dreiertreffen von Trump mit Putin und Xi an",
+     "link": "https://www.tagesschau.de/ausland/amerika/treffen-trump-putin-xi-100.html"
+    }
+   ]
+  },
+  {
+   "id": "nc5c004592e",
+   "topic": "it",
+   "title": "Adobe, VSCO und Hyänen – die Fotonews der Woche 46/2026",
+   "text": "Adobe zeigt die KI-Zukunft, VSCO verspricht Datenschutz, südkoreanische Fotografen fordern Ermittlungen und Netflix würdigt Avedon.",
+   "link": "https://www.heise.de/news/Adobe-VSCO-und-Hyaenen-die-Fotonews-der-Woche-46-2026-11524154.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-14T09:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-19T09:00:00+00:00"
+  },
+  {
+   "id": "n922c8c93de",
+   "topic": "welt",
+   "title": "Baut China Militärpräsenz in Südostasien aus?",
+   "text": "China intensiviert seine wirtschaftlichen Beziehungen in Südostasien. Neue Einrichtungen in Laos und Kambodscha werfen die Frage auf, ob Peking zugleich seinen militärischen Zugriff auf die Region erweitert.",
+   "link": "https://www.dw.com/de/baut-china-militärpräsenz-in-südostasien-aus/a-79939477?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-14T08:53:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-18T08:53:00+00:00",
+   "img": "https://static.dw.com/image/69205890_302.jpg"
+  },
+  {
+   "id": "n3d4b1f257f",
+   "topic": "wissenschaft",
+   "title": "Schwarze Löcher sichtbar machen – Ein Teleskop so groß wie die Erde",
+   "text": "Wie gelingt es, ein Schwarzes Loch in Millionen Lichtjahren Entfernung sichtbar zu machen? Das erklärt Anton Zensus vom Max-Planck-Institut für Radioastronomie.",
+   "link": "https://www.spektrum.de/video/urknall-weltall-und-das-leben-schwarze-loecher-sichtbar-machen/2354142",
+   "published": "2026-11-14T08:21:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-11-28T08:21:00+00:00"
+  },
+  {
+   "id": "na3b7e2c01c",
+   "topic": "politik",
+   "title": "Kassenärzte-Chef erwartet mehr Selbstzahler-Termine für gesetzlich Versicherte",
+   "text": "Wer längere Wartezeiten als gesetzlich Versicherter vermeiden will, muss künftig Behandlungen auch aus der eigenen Tasche zahlen - so die Einschätzung des Kassenärzte-Chefs. Grund seien die kürzlich beschlossenen Honorarkürzungen.",
+   "link": "https://www.tagesschau.de/inland/gesetzlich-versicherte-behandlung-selbstzahler-100.html",
+   "published": "2026-11-14T08:15:06+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-17T08:15:06+00:00",
+   "img": "https://images.tagesschau.de/image/d6eb0f59-a8f4-4f52-898e-274e57022adf/AAABodkf2xo/AAABnSSvrFg/16x9-big/andreas-gassen-116.jpg?width=1920"
+  },
+  {
+   "id": "n5934871590",
+   "topic": "welt",
+   "title": "News kompakt: Landesweites Startverbot an US-Flughäfen aufgehoben",
+   "text": "Wegen technischer Probleme stoppt die US-Luftfahrtbehörde alle Starts an Flughäfen im Land. US-Präsident Trump plant einen historischen Dreiergipfel mit den Staatschefs Putin und Xi. Der DW-Nachrichtenüberblick.",
+   "link": "https://www.dw.com/de/news-kompakt-landesweites-startverbot-an-us-flughäfen-aufgehoben/a-79946821?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-14T08:00:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-18T08:00:00+00:00",
+   "img": "https://static.dw.com/image/79946152_302.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "FAA hebt Startverbot an US-Flughäfen wieder auf",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-flugstopp-ende-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n20bf32ccfa",
+   "topic": "it",
+   "title": "Polarlicht bis Porträt: Licht und Himmel in den Bildern der Woche 46",
+   "text": "Dramatische Himmel, stille Momente und starke Kontraste: Sieben Aufnahmen zwischen Naturschauspiel und präziser Beobachtung.",
+   "link": "https://www.heise.de/news/Polarlicht-bis-Portraet-Licht-und-Himmel-in-den-Bildern-der-Woche-46-11522926.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-14T08:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-19T08:00:00+00:00"
+  },
+  {
+   "id": "n0b4efa8d8f",
+   "topic": "wirtschaft",
+   "title": "Warum in Polen schneller gebaut wird als in Deutschland",
+   "text": "Wird in Polen eine neue Straße oder Brücke errichtet, geht es deutlich schneller als westlich der Oder in Deutschland. Fachleuten zufolge gibt es dafür mehrere Gründe. Von Andre Kartschall und Jakub Paczkowski.",
+   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/bauen-polen-100.html",
+   "published": "2026-11-14T07:24:30+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-17T07:24:30+00:00",
+   "img": "https://images.tagesschau.de/image/b699a181-b38d-4d47-bfa7-b5fb396c059c/AAABobFEKGI/AAABnSSvrFg/16x9-big/baustelle-bruecke-kolbaskowo-102.jpg?width=1920"
+  },
+  {
+   "id": "nfa7dc1b579",
+   "topic": "welt",
+   "title": "Nach US-Zwischenwahlen: Migranten auf dem Weg Richtung USA",
+   "text": "Der Sieg der Demokraten bei den US-Midterms weckt in Mittelamerika neue Hoffnungen auf eine liberalere US-Einwanderungspolitik. Davon angetrieben haben sich in Mexiko mehr als 1.000 Migranten auf den Weg gemacht. Von J. Barke.",
+   "link": "https://www.tagesschau.de/ausland/amerika/migranten-usa-mexiko-110.html",
+   "published": "2026-11-14T07:21:14+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-17T07:21:14+00:00",
+   "img": "https://images.tagesschau.de/image/9070a02c-fdf1-4a59-a65c-f94b49cbb5e5/AAABodjujCY/AAABnSSvrFg/16x9-big/mexiko-migranten-122.jpg?width=1920"
+  },
+  {
+   "id": "n9594ec30b2",
+   "topic": "it",
+   "title": "Developer-Häppchen: Kiro schickt Bots los, Rider durchleuchtet Godot-Szenen",
+   "text": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Apache Storm, Lima, PhpStorm, AWS Kiro, ReSharper, Laravel, Node.js, Spring AI und Rider.",
+   "link": "https://www.heise.de/news/Developer-Haeppchen-Kiro-schickt-Bots-los-Rider-durchleuchtet-Godot-Szenen-11523808.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-14T07:17:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-19T07:17:00+00:00"
+  },
+  {
+   "id": "nc0e59f3ae5",
+   "topic": "welt",
+   "title": "Vorübergehendes Startverbot in den USA: \"Unglaublich veraltetes Flugsicherungssystem\"",
+   "text": "Stundenlang durften in den USA keine Flugzeuge starten. Die Regierung macht veraltete Technik verantwortlich. Mittlerweile ist das Verbot wieder aufgehoben - doch wann sich der Flugverkehr normalisieren wird, ist unklar. Von Nina Barth.",
+   "link": "https://www.tagesschau.de/ausland/amerika/usa-ende-startverbot-flughaefen-100.html",
+   "published": "2026-11-14T07:15:22+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-17T07:15:22+00:00",
+   "img": "https://images.tagesschau.de/image/db3c732d-062f-452e-b840-ddd218f43e52/AAABodke9Pc/AAABnSSvrFg/16x9-big/flughafen-los-angeles-100.jpg?width=1920"
+  },
+  {
+   "id": "n19aa1336da",
+   "topic": "welt",
+   "title": "Werner-Holzer-Preis für Katja Gloger und Jaafar Abdul Karim",
+   "text": "Die Russland-Korrespondentin Katja Gloger und DW-Journalist Jaafar Abdul Karim erhalten den renommierten Preis für Auslandsjournalismus. Bundestagspräsidentin Julia Klöckner dankt den beiden Preisträgern für ihren Mut.",
+   "link": "https://www.dw.com/de/werner-holzer-preis-für-katja-gloger-und-jaafar-abdul-karim/a-79945571?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-14T05:33:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-18T05:33:00+00:00",
+   "img": "https://static.dw.com/image/79945453_302.jpg"
+  },
+  {
+   "id": "n75f629256b",
+   "topic": "welt",
+   "title": "Die USA sind bei der COP31 nicht dabei - aber dennoch präsent",
+   "text": "Die US-Regierung fehlt nach dem Ausstieg aus dem Pariser Klimaabkommen erneut auf dem Klimagipfel. Dennoch sind viele Politiker aus den USA in Antalya. Sie setzen weiter auf das Geschäft mit erneuerbaren Energien. Von Jakob Mayr.",
+   "link": "https://www.tagesschau.de/ausland/amerika/cop31-usa-tuerkei-100.html",
+   "published": "2026-11-14T04:41:37+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-17T04:41:37+00:00",
+   "img": "https://images.tagesschau.de/image/74662585-3aca-45e4-bd69-d381da2ecb7c/AAABodhcaEk/AAABnSSvrFg/16x9-big/gavin-newsom-120.jpg?width=1920"
+  },
+  {
+   "id": "n3ca0b329b4",
+   "topic": "politik",
+   "title": "Keine Priorität für Klimaschutz in der Koalition",
+   "text": "Deutschland wird die selbst gesteckten Klimaziele für 2030 und 2040 verfehlen. Umwelt- und Naturschutzverbände werfen vor allem Kanzler Merz und Wirtschaftsministerin Reiche einen Rollback beim Klimaschutz vor. Von Susanne Henn.",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/klimaschutz-klimaziele-deutschland-100.html",
+   "published": "2026-11-14T04:40:44+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-17T04:40:44+00:00",
+   "img": "https://images.tagesschau.de/image/b5997f85-5df0-401c-be2c-1544d33bb0bf/AAABodSIH68/AAABnSSvrFg/16x9-big/chemiepark-leuna-kraftwerk-schkopau-100.jpg?width=1920"
+  },
+  {
+   "id": "n0df6527272",
+   "topic": "welt",
+   "title": "Weißes Haus kündigt Dreiertreffen von Trump mit Putin und Xi an",
+   "text": "Es wäre das erste Dreiertreffen der Staatschefs der USA, Russlands und Chinas. Laut Weißem Haus soll es beim kommenden Apec-Gipfel in Shenzhen stattfinden. Hauptthema: der Abbau von Atomwaffen. Auch der Iran-Krieg könnte zur Sprache kommen.",
+   "link": "https://www.tagesschau.de/ausland/amerika/treffen-trump-putin-xi-100.html",
+   "published": "2026-11-14T03:18:01+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-17T03:18:01+00:00",
+   "img": "https://images.tagesschau.de/image/9d3761e3-aa01-4a4b-a182-a99466c453f8/AAABodf8HlI/AAABnSSvrFg/16x9-big/matroschka-trump-putin-xi-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Weißes Haus kündigt Dreiertreffen Trumps mit Xi und Putin an",
+     "link": "https://www.dw.com/de/weißes-haus-kündigt-dreiertreffen-trumps-mit-xi-und-putin-an/a-79946925?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "n745e0f3594",
+   "topic": "welt",
+   "title": "FAA hebt Startverbot an US-Flughäfen wieder auf",
+   "text": "Nach mehreren Stunden läuft der Flugverkehr in den USA wieder an. Die Luftfahrtbehörde hob das zuvor verhängte Startverbot auf. US-Verkehrsminister Duffy nannte überlastete Kommunikationssysteme als Ursache.",
+   "link": "https://www.tagesschau.de/ausland/amerika/usa-flugstopp-ende-100.html",
+   "published": "2026-11-14T02:36:59+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-17T02:36:59+00:00",
+   "img": "https://images.tagesschau.de/image/3335c8db-b9b7-4025-9004-d01279760b2b/AAABodfHHKI/AAABnSSvrFg/16x9-big/usa-flugzeuge-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "News kompakt: Landesweites Startverbot an US-Flughäfen aufgehoben",
+     "link": "https://www.dw.com/de/news-kompakt-landesweites-startverbot-an-us-flughäfen-aufgehoben/a-79946821?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "n1dfd0adf78",
+   "topic": "nfl",
+   "title": "NFL Week 10 injury report: Chiefs' Kenneth Walker has new groin injury, Patriots' A.J. Brown questionable",
+   "text": "The final injury reports for every NFL team playing on Sunday in Week 10",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-10-injury-report-chiefs-kenneth-walker-aj-brown/",
+   "published": "2026-11-14T01:35:38+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-19T01:35:38+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/10/25/7ee4c0a6-d364-4bc9-b54c-2a854b173bad/kenneth-walker-chiefs.jpg"
+  },
+  {
+   "id": "n551257e675",
+   "topic": "nfl",
+   "title": "Vikings officially announce Kirk Cousins will start vs. Packers following trade deadline",
+   "text": "Minnesota traded for their old friend on Tuesday at the NFL trade deadline, and he will start for the Vikings right away on Sunday",
+   "link": "https://www.cbssports.com/nfl/news/vikings-officially-announce-kirk-cousins-start-vs-packers-lambeau-field-sunday/",
+   "published": "2026-11-14T01:33:03+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-19T01:33:03+00:00"
+  },
   {
    "id": "nb26d0b83c7",
    "topic": "politik",
@@ -131,7 +625,13 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-16T01:05:24+00:00",
-   "img": "https://bilder.deutschlandfunk.de/NO/VA/_f/1e/NOVA_f1ee74d815e7e98093562bcfad712b7b/craft-13546291-asset-100-1920x1920.jpg"
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Microsoft: Systeme nach Störung komplett wiederhergestellt",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-stoerung-behoben-100.html"
+    }
+   ]
   },
   {
    "id": "n753d518dfc",
@@ -144,7 +644,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-17T00:51:37+00:00",
-   "img": "https://images.tagesschau.de/image/70311613-6efe-4411-b26f-9638163067eb/AAABodbHq9A/AAABnSSvrFg/16x9-big/new-orleans-kreuzfahrtschiff-100.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/70311613-6efe-4411-b26f-9638163067eb/AAABodk9D7w/AAABnSSvrFg/16x9-big/new-orleans-kreuzfahrtschiff-100.jpg?width=1920"
   },
   {
    "id": "nb30a2a2722",
@@ -184,18 +684,6 @@
    "expires": "2026-11-18T22:05:00+00:00"
   },
   {
-   "id": "n551257e675",
-   "topic": "nfl",
-   "title": "Vikings officially announce Kirk Cousins will start vs. Packers following trade deadline",
-   "text": "Minnesota traded for their old friend on Tuesday at the NFL trade deadline, and he will start for the Vikings right away on Sunday",
-   "link": "https://www.cbssports.com/nfl/news/vikings-officially-announce-kirk-cousins-start-vs-packers-lambeau-field-sunday/",
-   "published": "2026-11-13T21:48:22+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-18T21:48:22+00:00"
-  },
-  {
    "id": "n3f710a4d0f",
    "topic": "politik",
    "title": "DEL: Chancenwucher kostet Löwen den Sieg gegen Bremerhaven",
@@ -221,19 +709,6 @@
    "lang": "en",
    "expires": "2026-11-18T21:05:09+00:00",
    "img": "https://sportshub.cbsistatic.com/i/2026/11/13/c9e4121c-2db2-4570-95b8-49430fcb7b67/texans-browns.jpg"
-  },
-  {
-   "id": "ndb57c61c28",
-   "topic": "wirtschaft",
-   "title": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
-   "text": "Eine stundenlange Großstörung hat weltweit Dienste des US-Softwarekonzerns Microsoft lahmgelegt, unter anderem das E-Mail-Programm Outlook. Wen es getroffen hat und welche Hintergründe vermutet werden - ein Überblick.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
-   "published": "2026-11-13T20:22:33+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-16T20:22:33+00:00",
-   "img": "https://images.tagesschau.de/image/cf43b90e-dedd-4716-a8b6-a8f22d964037/AAABoYa7d7o/AAABnSSvrFg/16x9-big/microsoft-196.jpg?width=1920"
   },
   {
    "id": "nde5c64d2ad",
@@ -754,19 +1229,7 @@
    "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
    "lang": "de",
    "expires": "2026-11-17T13:38:00+00:00",
-   "img": "https://static.dw.com/image/79937210_302.jpg",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Haushaltsausschuss - Bundesetat für 2027 steht - Weiter Debatte über Stromsteuer",
-     "link": "https://www.deutschlandfunk.de/bundesetat-fuer-2027-steht-weiter-debatte-ueber-stromsteuer-100.html"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Nachtsitzung im Haushaltsausschuss: Etat für 2027 steht",
-     "link": "https://www.tagesschau.de/inland/bundeshaushalt-2027-100.html"
-    }
-   ]
+   "img": "https://static.dw.com/image/79937210_302.jpg"
   },
   {
    "id": "n34a1e25973",
@@ -875,14 +1338,7 @@
    "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
    "lang": "de",
    "expires": "2026-11-17T10:51:00+00:00",
-   "img": "https://static.dw.com/image/79933682_302.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Fall Nvidia: US-Senatsausschuss lädt Handelsminister Lutnick und Huang vor",
-     "link": "https://www.tagesschau.de/ausland/amerika/nvidia-huang-us-handelsausschuss-100.html"
-    }
-   ]
+   "img": "https://static.dw.com/image/79933682_302.jpg"
   },
   {
    "id": "n3acc9e7b70",
@@ -895,19 +1351,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-15T10:50:50+00:00",
-   "img": "https://bilder.deutschlandfunk.de/03/cb/7d/e0/03cb7de0-d84c-4e68-be81-cd1f7a5cf52f/bundeshaushalt-beratungen-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Bundeshaushalt 2027: Mehr Geld für Bundeswehr und Soziales, hohe Kredite und Streit um die Stromsteuer. Was der Etat für Deutschland konkret bedeutet",
-     "link": "https://www.dw.com/de/bundeshaushalt-2027-mehr-geld-für-bundeswehr-und-soziales-hohe-kredite-und-streit-um-die-stromsteuer-was-der-etat-für-deutschland-konkret-bedeutet/a-79939318?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Nachtsitzung im Haushaltsausschuss: Etat für 2027 steht",
-     "link": "https://www.tagesschau.de/inland/bundeshaushalt-2027-100.html"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/03/cb/7d/e0/03cb7de0-d84c-4e68-be81-cd1f7a5cf52f/bundeshaushalt-beratungen-100-1920x1920.jpg"
   },
   {
    "id": "nbfd8182314",
@@ -1228,492 +1672,6 @@
    "lang": "de",
    "expires": "2026-11-16T08:22:34+00:00",
    "img": "https://images.tagesschau.de/image/220ae31e-e6bc-4ec0-bb8c-d747ebf7f694/AAABodQnoLk/AAABnSSvrFg/16x9-big/colom-104.jpg?width=1920"
-  },
-  {
-   "id": "nfb8bd03305",
-   "topic": "wissenschaft",
-   "title": "Hamed Abdel-Samad – With God on their Side",
-   "text": "Hat das aufklärerische Ideal der Trennung von Religion und Staat noch eine Zukunft? Über diese Frage und mehr spricht Hamed Abdel-Samad.",
-   "link": "https://www.spektrum.de/video/dai-heidelberg-hamed-abdel-samad-with-god-on-their-side/2353901",
-   "published": "2026-11-13T08:15:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-27T08:15:00+00:00"
-  },
-  {
-   "id": "n1ed18cb829",
-   "topic": "welt",
-   "title": "News kompakt: Microsoft-Störung trifft Nutzer weltweit",
-   "text": "Nach weltweiten Ausfällen kämpft Microsoft weiter mit Problemen bei seinen Cloud-Diensten. Bei den Verhandlungen über ein Ende des Ukraine-Kriegs sollen auch die Europäer mit am Tisch sitzen. Der DW-Nachrichtenüberblick.",
-   "link": "https://www.dw.com/de/news-kompakt-microsoft-störung-trifft-nutzer-weltweit/a-79936498?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-13T08:00:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-17T08:00:00+00:00",
-   "img": "https://static.dw.com/image/79936491_302.jpg"
-  },
-  {
-   "id": "n27ca321e61",
-   "topic": "wissenschaft",
-   "title": "Sozialer Kipppunkt: Bestandsrückgang bei Elefanten erreicht kritische Schwelle",
-   "text": "Populationseinbußen beim Asiatischen Elefanten führen zu einem sozialen Kipppunkt, bei dem der Zusammenhalt der Gemeinschaften zunehmend kollabiert.",
-   "link": "https://www.spektrum.de/news/artenschutz-sozialer-kipppunkt-bei-elefanten/2353922",
-   "published": "2026-11-13T08:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-11-27T08:00:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/P1340122.JPG.8424691.gif?f=1280x720"
-  },
-  {
-   "id": "nd4d05c4d63",
-   "topic": "welt",
-   "title": "Nobelpreisträgerin Mohammadi: Memoiren aus dem Gefängnis - Ein Leben im Kampf für Freiheit im Iran",
-   "text": "Im Gefängnis geschrieben und herausgeschmuggelt: Das Buch von Narges Mohammadi, Friedensnobelpreisträgerin von 2023, zeigt, welchen Preis es haben kann, sich dem Regime im Iran zu widersetzen und für Freiheit zu kämpfen.",
-   "link": "https://www.dw.com/de/nobelpreisträgerin-mohammadi-memoiren-aus-dem-gefängnis-ein-leben-im-kampf-für-freiheit-im-iran/a-79875768?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-13T07:45:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-17T07:45:00+00:00",
-   "img": "https://static.dw.com/image/77113062_302.jpg"
-  },
-  {
-   "id": "n524a9e3eae",
-   "topic": "wirtschaft",
-   "title": "Fall Nvidia: US-Senatsausschuss lädt Handelsminister Lutnick und Huang vor",
-   "text": "Der Chef ist zurückgetreten - doch die Aufarbeitung der Spionageaffäre um Jensen Huang und Nvidia beginnt erst. Huang und Handelsminister Lutnick sollen vor dem US-Senat aussagen. Es geht um mögliche Chip-Lieferungen nach China.",
-   "link": "https://www.tagesschau.de/ausland/amerika/nvidia-huang-us-handelsausschuss-100.html",
-   "published": "2026-11-13T07:27:43+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-16T07:27:43+00:00",
-   "img": "https://images.tagesschau.de/image/4f5c3720-697a-42e7-b683-4a6d6dd31036/AAABodO7cug/AAABnSSvrFg/16x9-big/huang-lutnick-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "US-Senat lädt Handelsminister und Ex-Nvidia-Chef Huang vor",
-     "link": "https://www.dw.com/de/us-senat-lädt-handelsminister-und-ex-nvidia-chef-huang-vor/a-79937955?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n8c9f95bfea",
-   "topic": "politik",
-   "title": "Nachtsitzung im Haushaltsausschuss: Etat für 2027 steht",
-   "text": "Nach über 15 Stunden beendete der Haushaltsausschuss seine Beratungen - jetzt steht der Etat für das kommende Jahr. Insgesamt sind Ausgaben in Höhe von 560,9 Milliarden Euro geplant - mehr als ursprünglich vorgesehen war.",
-   "link": "https://www.tagesschau.de/inland/bundeshaushalt-2027-100.html",
-   "published": "2026-11-13T06:26:14+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-16T06:26:14+00:00",
-   "img": "https://images.tagesschau.de/image/57047b20-af96-4492-bf49-83f593f4d887/AAABodKRo7M/AAABnSSvrFg/16x9-big/paul-loebe-haus-106.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Bundeshaushalt 2027: Mehr Geld für Bundeswehr und Soziales, hohe Kredite und Streit um die Stromsteuer. Was der Etat für Deutschland konkret bedeutet",
-     "link": "https://www.dw.com/de/bundeshaushalt-2027-mehr-geld-für-bundeswehr-und-soziales-hohe-kredite-und-streit-um-die-stromsteuer-was-der-etat-für-deutschland-konkret-bedeutet/a-79939318?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Deutschlandfunk",
-     "title": "Haushaltsausschuss - Bundesetat für 2027 steht - Weiter Debatte über Stromsteuer",
-     "link": "https://www.deutschlandfunk.de/bundesetat-fuer-2027-steht-weiter-debatte-ueber-stromsteuer-100.html"
-    }
-   ]
-  },
-  {
-   "id": "nac5a727eaa",
-   "topic": "welt",
-   "title": "Spionagevorwurf: Wie Ankara Kritiker unter Druck setzt",
-   "text": "Journalisten, Oppositionelle und Mitarbeiter westlicher Institutionen geraten in der Türkei unter Spionageverdacht. Experten sehen darin auch ein Instrument politischer Abschreckung.",
-   "link": "https://www.dw.com/de/spionagevorwurf-wie-ankara-kritiker-unter-druck-setzt/a-79932031?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-13T05:30:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-17T05:30:00+00:00",
-   "img": "https://static.dw.com/image/79917953_302.jpg"
-  },
-  {
-   "id": "ne6b0aed88b",
-   "topic": "welt",
-   "title": "Die AfD wird stärker. Warum ihre Verbindungen ins Neonazi-Milieu Fragen aufwerfen",
-   "text": "Die Alternative für Deutschland (AfD) ist zu einem Magneten für die extreme Rechte geworden. Viele Mitglieder und Mitarbeiter haben eine Vergangenheit in völkischen oder neonazistischen Organisationen.",
-   "link": "https://www.dw.com/de/die-afd-wird-stärker-warum-ihre-verbindungen-ins-neonazi-milieu-fragen-aufwerfen/a-79931450?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-13T05:12:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-17T05:12:00+00:00",
-   "img": "https://static.dw.com/image/79690234_302.jpg"
-  },
-  {
-   "id": "n48899ae4d5",
-   "topic": "politik",
-   "title": "Reform der Nachrichtendienste: \"Jahrhundertwerk\" oder \"Monster\"?",
-   "text": "Der Bundestag stimmt heute über eine Reform der Nachrichtendienste ab. Sie sollen mehr Befugnisse erhalten. Innenminister Dobrindt spricht von einem \"Jahrhundertwerk\" - andere von einem \"Monster\". Von Markus Sambale.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-reform-nachrichtendienste-100.html",
-   "published": "2026-11-13T04:23:02+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-16T04:23:02+00:00",
-   "img": "https://images.tagesschau.de/image/72de333d-c45d-4e96-8883-3f8c64ed8f65/AAABm34Zn24/AAABnSSvrFg/16x9-big/handy-laptop-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Abstimmung - Bundestag billigt Reform der Geheimdienste - Befugnisse werden deutlich ausgeweitet",
-     "link": "https://www.deutschlandfunk.de/bundestag-billigt-reform-der-geheimdienste-befugnisse-werden-deutlich-ausgeweitet-100.html"
-    }
-   ]
-  },
-  {
-   "id": "nd8d57f15dd",
-   "topic": "welt",
-   "title": "Nvidia: Huang-Affäre könnte zu Trump-Skandal werden",
-   "text": "Laut Medienberichten wurde Trump zwei Mal von der Affäre des Nvidia-Chefs Huang mit einer mutmaßlichen chinesischen Spionin unterrichtet. Doch der Präsident beteuert, von nichts gewusst zu haben. Von C. Kühntopp.",
-   "link": "https://www.tagesschau.de/ausland/amerika/nvidia-trump-100.html",
-   "published": "2026-11-13T02:36:47+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-16T02:36:47+00:00",
-   "img": "https://images.tagesschau.de/image/f9401978-bea2-4fa5-9226-a0299084e01c/AAABodPof7M/AAABnSSvrFg/16x9-big/huang-trump-102.jpg?width=1920"
-  },
-  {
-   "id": "n73142471d8",
-   "topic": "welt",
-   "title": "US-Unterhändler kündigen Europas Beteiligung bei Ukraine-Verhandlungen an",
-   "text": "Von Putin zu Selenskyj - die US-Unterhändler Kushner und Witkoff kommen mit Ankündigungen aus Moskau nach Dublin. Bei den Verhandlungen sollen künftig auch die Europäer teilnehmen.",
-   "link": "https://www.tagesschau.de/ausland/europa/epg-ukraine-usa-europa-100.html",
-   "published": "2026-11-13T02:19:34+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-16T02:19:34+00:00",
-   "img": "https://images.tagesschau.de/image/e23f9c75-5489-413a-b3d2-c23c8e6f730d/AAABodH246k/AAABnSSvrFg/16x9-big/dublin-epg-100.jpg?width=1920"
-  },
-  {
-   "id": "n8d38d52bf6",
-   "topic": "nfl",
-   "title": "Cardinals name Carson Beck starting QB: Rookie faces Aaron Donald, Myles Garrett in NFL debut",
-   "text": "Gardner Minshew's season-ending injury opens the door for Beck, whose first assignment comes against one of the NFL's most accomplished pass-rushing duos",
-   "link": "https://www.cbssports.com/nfl/news/cardinals-starting-qb-carson-beck-2026/",
-   "published": "2026-11-13T02:09:28+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-18T02:09:28+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/11/11/822f9bc9-e9d9-4f3f-81e8-a5a643d2869c/beck.jpg"
-  },
-  {
-   "id": "n541da0953e",
-   "topic": "nfl",
-   "title": "Giants vs. Commanders, Week 10: Live updates, discussion, score, highlights",
-   "text": "Follow Thursday’s action right here.",
-   "link": "https://sports.yahoo.com/articles/giants-vs-commanders-week-10-233121911.html",
-   "published": "2026-11-13T01:26:59+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-18T01:26:59+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/4ff23610085a4d8328aaf1a0b3642eee.jpg"
-  },
-  {
-   "id": "n386e40e5b9",
-   "topic": "welt",
-   "title": "EPG-Treffen in Dublin: Momentum für Friedensverhandlungen?",
-   "text": "Das Treffen in Dublin bringt neue Dynamik in die Friedensverhandlungen - am Abend kommen noch die US-Unterhändler Witkoff und Kushner aus Moskau angereist. NATO-Chef Rutte sieht Fortschritte. Von K. Schmid.",
-   "link": "https://www.tagesschau.de/ausland/europa/epg-dublin-momentum-100.html",
-   "published": "2026-11-13T01:22:12+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-16T01:22:12+00:00",
-   "img": "https://images.tagesschau.de/image/199ed634-ce58-43da-a5cb-c7b673f628a0/AAABodI8Qn0/AAABnSSvrFg/16x9-big/epg-dublin-100.jpg?width=1920"
-  },
-  {
-   "id": "n1c538deda1",
-   "topic": "nfl",
-   "title": "Seahawks-Raiders Thursday injury update: Charles Cross gets back to (limited) work!",
-   "text": "Charles Cross returns to practice in a limited fashion ahead of the Week 10 Raiders game.",
-   "link": "https://sports.yahoo.com/articles/seahawks-raiders-thursday-injury-charles-010840971.html",
-   "published": "2026-11-13T01:08:40+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-18T01:08:40+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/519098d2ab7048a4f8e02f7d51a87022.jpg"
-  },
-  {
-   "id": "n28c0ea9ee6",
-   "topic": "politik",
-   "title": "Dublin - Selenskyj und Kushner: Europäer werden bei nächsten Ukraine-Gesprächen dabei sein",
-   "text": "Der ukrainische Präsident Selenskyj und der US-Sondergesandte Kushner haben eine Beteiligung Europas bei den kommenden Gesprächen über ein Ende des Ukraine-Kriegs in Aussicht gestellt. Kushner sagte in der irischen Hauptstadt Dublin, er denke, dass der russische Präsident Putin bereit sei, es zu versuchen.",
-   "link": "https://www.deutschlandfunk.de/selenskyj-und-kushner-europaeer-werden-bei-naechsten-ukraine-gespraechen-dabei-sein-100.html",
-   "published": "2026-11-13T00:55:11+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-15T00:55:11+00:00",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Putin will Europäer bei Ukraine-Gesprächen einbeziehen",
-     "link": "https://www.dw.com/de/putin-will-europäer-bei-ukraine-gesprächen-einbeziehen/a-79936896?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n4613b1ae68",
-   "topic": "politik",
-   "title": "Geheimdienste - BND soll künftig auch Sabotage im Ausland betreiben dürfen - Bundestag könnte Befugnisse heute deutlich ausweiten",
-   "text": "Der Bundestag in Berlin stimmt heute über die geplante Reform der Geheimdienste ab. Damit sollen die Befugnisse des Bundesnachrichtendienstes und des Bundesamts für Verfassungsschutz für die Abwehr von Sabotage, Spionage und Cyberangriffen substanziell erweitert werden.",
-   "link": "https://www.deutschlandfunk.de/bnd-soll-kuenftig-auch-sabotage-im-ausland-betreiben-duerfen-bundestag-koennte-befugnisse-heute-deut-102.html",
-   "published": "2026-11-13T00:55:11+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-15T00:55:11+00:00",
-   "img": "https://bilder.deutschlandfunk.de/20/a5/97/46/20a59746-46c0-4982-a026-3c7fa5bb14f1/geheimagent-spion-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Bundestag beschließt Reform: Mehr Befugnisse für die Nachrichtendienste",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienst-reform-beschlossen-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n5395a40c72",
-   "topic": "politik",
-   "title": "Automobilindustrie - Mercedes stoppt alle neuen Investitionen in Deutschland und prüft Werksschließungen",
-   "text": "Der Autobauer Mercedes stoppt alle neuen Investitionen in Deutschland. Wie der Konzern mitteilte, fiel die Entscheidung angesichts hoher Preise und stockender Verhandlungen mit der Arbeitnehmerseite über Kostensenkungen.",
-   "link": "https://www.deutschlandfunk.de/mercedes-stoppt-alle-neuen-investitionen-in-deutschland-und-prueft-werksschliessungen-102.html",
-   "published": "2026-11-13T00:55:11+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-15T00:55:11+00:00"
-  },
-  {
-   "id": "n8050bc9548",
-   "topic": "politik",
-   "title": "Katholische Kirche - Papst Leo XIV. trifft auch in Peru Opfer sexuellen Missbrauchs in der Kirche",
-   "text": "Papst Leo XIV. hat in Peru Betroffene von sexualisierter Gewalt in der katholischen Kirche getroffen.",
-   "link": "https://www.deutschlandfunk.de/papst-leo-xiv-trifft-auch-in-peru-opfer-sexuellen-missbrauchs-in-der-kirche-102.html",
-   "published": "2026-11-13T00:55:11+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-15T00:55:11+00:00",
-   "img": "https://bilder.deutschlandfunk.de/48/4f/23/29/484f2329-213c-466f-a2f6-4b38e3e4ab0c/papst-leo-peru-100-1920x1920.jpg"
-  },
-  {
-   "id": "n404b5fcc6a",
-   "topic": "politik",
-   "title": "Bundeshaushalt - Kreditfinanzierter Autobahnausbau: Kritik an Klingbeil aus eigener Fraktion",
-   "text": "Die Haushaltspläne von Bundesfinanzminister Klingbeil zur bundeseigenen Autobahn GmbH stoßen auch in seiner eigenen SPD-Fraktion auf Kritik.",
-   "link": "https://www.deutschlandfunk.de/kreditfinanzierter-autobahnausbau-kritik-an-klingbeil-aus-eigener-fraktion-106.html",
-   "published": "2026-11-13T00:55:11+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-15T00:55:11+00:00"
-  },
-  {
-   "id": "n3280e9fed5",
-   "topic": "politik",
-   "title": "Nahostkonflikt - Ärzte ohne Grenzen kritisiert Luftangriff auf Krankenhaus im Gazastreifen",
-   "text": "Die Hilfsorganisation Ärzte ohne Grenzen hat den israelischen Luftangriff auf ein Krankenhaus im Gazastreifen kritisiert.",
-   "link": "https://www.deutschlandfunk.de/aerzte-ohne-grenzen-kritisiert-luftangriff-auf-krankenhaus-im-gazastreifen-102.html",
-   "published": "2026-11-13T00:55:11+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-15T00:55:11+00:00",
-   "img": "https://bilder.deutschlandfunk.de/bf/69/e0/91/bf69e091-7d96-4acd-84a6-7cd37c760c69/nasser-krankenhaus-angriff-100-1920x1920.jpg"
-  },
-  {
-   "id": "n2cf97f39cb",
-   "topic": "nfl",
-   "title": "NFL Week 10 upset alert: Why the red-hot Bengals are in danger on 'Sunday Night Football'",
-   "text": "Pittsburgh's rest advantage and formidable defense could end Cincinnati's winning streak, while Kirk Cousins gives Minnesota new life against Green Bay",
-   "link": "https://www.cbssports.com/nfl/news/nfl-week-10-upset-alert-2026-bengals-steelers/",
-   "published": "2026-11-13T00:51:47+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-18T00:51:47+00:00"
-  },
-  {
-   "id": "n4759f74afa",
-   "topic": "nfl",
-   "title": "Giants vs. Commanders prediction: New York, Washington look to rebound on 'TNF' after embarrassing Week 5 tie",
-   "text": "How to watch the 'Thursday Night Football' matchup, plus a preview and prediction",
-   "link": "https://www.cbssports.com/nfl/news/giants-vs-commanders-how-to-watch-odds-spread-preview-prediction/",
-   "published": "2026-11-13T00:50:51+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-18T00:50:51+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/11/12/76d41c88-c05e-41b8-811c-fdcd0b31d422/commanders-giants.jpg"
-  },
-  {
-   "id": "n0daee25673",
-   "topic": "wirtschaft",
-   "title": "Auch Outlook betroffen: Microsoft-Dienste weltweit mit Störungen",
-   "text": "Ein großflächiger Ausfall von Microsoft-Diensten, darunter Outlook: Innerhalb der Anwendungspalette des Technologiekonzerns kommt es weltweit zu Störungen. Das Unternehmen arbeite mit Hochdruck an einer Lösung.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-ausfall-100.html",
-   "published": "2026-11-12T23:08:03+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-15T23:08:03+00:00",
-   "img": "https://images.tagesschau.de/image/f88dd7d2-f43e-4a23-85cb-139aab8c4930/AAABodHzeW4/AAABnSSvrFg/16x9-big/microsoft-210.jpg?width=1920"
-  },
-  {
-   "id": "nbde34e7964",
-   "topic": "politik",
-   "title": "Bayerischer Drohnenhersteller Quantum Systems meldet Cyberangriff",
-   "text": "Der bayerische Rüstungskonzern Quantum Systems ist nach eigenen Angaben Opfer eines Cyberangriffs geworden. Der Vorfall fand im Oktober statt. Laut einem Medienbericht hat die Bundeswehr bereits reagiert.",
-   "link": "https://www.tagesschau.de/inland/quantum-systems-cyberangriff-100.html",
-   "published": "2026-11-12T21:09:07+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-15T21:09:07+00:00",
-   "img": "https://images.tagesschau.de/image/7aa52c28-02c2-447e-8843-707c8a2139e5/AAABodGXxPU/AAABnSSvrFg/16x9-big/quantum-systems-100.jpg?width=1920"
-  },
-  {
-   "id": "n37d274fe76",
-   "topic": "politik",
-   "title": "Niederlage im EuroCup: Skyliners Frankfurt gehen gegen Rom unter",
-   "text": "Die Skyliners Frankfurt haben im Europapokal-Spiel gegen Rom eine bittere Pleite kassiert. Für die Hessen, die so gut in die Saison gestartet waren, war es die dritte Niederlage in Folge.",
-   "link": "https://www.hessenschau.de/sport/basketball/skyliners-frankfurt/niederlage-im-eurocup-skyliners-frankfurt-gehen-gegen-rom-unter-v1,skyliners-rom-100.html",
-   "published": "2026-11-12T21:06:08+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-16T21:06:08+00:00",
-   "img": "https://www.hessenschau.de/sport/basketball/skyliners-frankfurt/skyliners-arcidiacono-102~_t-1794517568377_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "na992f51711",
-   "topic": "it",
-   "title": "Microsoft-365-Störung: Serverausfälle legen Teams, Exchange und Copilot lahm",
-   "text": "Eine Störung bei Microsoft 365 beeinträchtigt weltweit zahlreiche Cloud-Dienste wie Exchange Online, Teams, SharePoint, Copilot und Defender XDR.",
-   "link": "https://www.heise.de/news/Microsoft-365-Stoerung-Serverausfaelle-legen-Teams-Exchange-und-Copilot-lahm-11523565.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-12T21:01:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-17T21:01:00+00:00"
-  },
-  {
-   "id": "na6ebd3921a",
-   "topic": "ki",
-   "title": "Claude Meetings: Anthropic lässt Claude als Teilnehmer an Videoanrufe andocken",
-   "text": "Anthropic bringt Claude als sichtbaren Teilnehmer in Videocalls. Claude Meetings erstellt während des Gesprächs live Dokumente, Whiteboards und Protokolle, zunächst als Beta für Team- und Enterprise-Tarife auf Google Meet. Weitere Plattformen sollen folgen. Der Artikel Claude Meetings: Anthropic lässt Claude als …",
-   "link": "https://the-decoder.de/claude-meetings-anthropic-laesst-claude-als-teilnehmer-an-videoanrufe-andocken/",
-   "published": "2026-11-12T20:26:50+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-19T20:26:50+00:00"
-  },
-  {
-   "id": "n7a8d7d2761",
-   "topic": "welt",
-   "title": "Zeitenwende bei Polizei und Geheimdiensten - aber wie?",
-   "text": "Drohnen auf Flughäfen, Cyber-Angriffe im Internet - die Sicherheitslage ist angespannt. Wie wappnet sich Deutschlands Polizei? Und wie wollen Geheimdienste Gefahren aus dem In- und Ausland abwehren?",
-   "link": "https://www.dw.com/de/zeitenwende-bei-polizei-und-geheimdiensten-aber-wie/a-79934681?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-12T20:11:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-16T20:11:00+00:00",
-   "img": "https://static.dw.com/image/78257530_302.jpg"
-  },
-  {
-   "id": "n886bda8bba",
-   "topic": "it",
-   "title": "Erneute Starlink-Bremse behindert ukrainische Drohnenabwehr",
-   "text": "SpaceX bremst seine militärische Starlink-Variante Starshield in der Ukraine erneut. Damit scheitert die Abwehr russischer Drohnen.",
-   "link": "https://www.heise.de/news/Erneute-Starlink-Bremse-behindert-ukrainische-Drohnenabwehr-11523549.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-12T20:07:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-17T20:07:00+00:00"
-  },
-  {
-   "id": "naf2ec7b4a3",
-   "topic": "politik",
-   "title": "Automobilindustrie - Mercedes stoppt alle neuen Investitionen in Deutschland und prüft Werksschließungen",
-   "text": "Der Autobauer Mercedes stoppt alle neuen Investitionen in Deutschland. Wie der Konzern mitteilte, fiel die Entscheidung angesichts hoher Preise und stockender Verhandlungen mit der Arbeitnehmerseite über Kostensenkungen.",
-   "link": "https://www.deutschlandfunk.de/mercedes-stoppt-alle-neuen-investitionen-in-deutschland-und-prueft-werksschliessungen-100.html",
-   "published": "2026-11-12T19:51:40+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-14T19:51:40+00:00"
-  },
-  {
-   "id": "n776e8d3120",
-   "topic": "politik",
-   "title": "Chiphersteller - Nvidia-Chef Huang verlässt nach Affären das Unternehmen",
-   "text": "Der Chef des amerikanischen Chipherstellers Nvidia, Jensen Huang, tritt wegen einer möglichen Spionageaffäre und dem Bekanntwerden von außerehelichen Beziehungen zurück. Das teilte der Konzern mit Sitz in Kalifornien mit. Finanzvorständin Colette Kress soll demnach als Interims-Chefin einspringen.",
-   "link": "https://www.deutschlandfunk.de/nvidia-chef-huang-verlaesst-nach-affaeren-das-unternehmen-100.html",
-   "published": "2026-11-12T19:51:40+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-14T19:51:40+00:00",
-   "img": "https://bilder.deutschlandfunk.de/NO/VA/_4/b3/NOVA_4b3ae71c9be95fab798875c1294bb143/craft-13538857-asset-100-1920x1920.jpg"
-  },
-  {
-   "id": "n983ee3d826",
-   "topic": "politik",
-   "title": "COP31 - Inselstaaten sehen in der Klimakrise ihr Überleben bedroht",
-   "text": "Auf der Weltklimakonferenz in Antalya hat der Inselstaat Seychellen die Klimakrise als existenzbedrohend bezeichnet.",
-   "link": "https://www.deutschlandfunk.de/inselstaaten-sehen-in-der-klimakrise-ihr-ueberleben-bedroht-102.html",
-   "published": "2026-11-12T19:51:40+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-14T19:51:40+00:00",
-   "img": "https://bilder.deutschlandfunk.de/FI/LE/_7/b6/FILE_7b6b735641220d7a669a2fb066f95b5e/imago71356934h-jpg-100-768x768.jpg"
-  },
-  {
-   "id": "n190c4f9623",
-   "topic": "politik",
-   "title": "Bundeshaushalt 2027 - Ministerpräsidenten bestehen auf geringerer Stromsteuer",
-   "text": "Die Ministerpräsidenten haben die Bundesregierung aufgefordert, die Stromsteuer für alle zu senken. Der Koalitionsausschuss müsse dafür kommende Woche eine Lösung finden, sagte der rheinland-pfälzische Regierungschef und Vorsitzende der Ministerpräsidentenkonferenz, Schnieder. Der CDU-Politiker bezeichnete es als …",
-   "link": "https://www.deutschlandfunk.de/ministerpraesidenten-bestehen-auf-geringerer-stromsteuer-100.html",
-   "published": "2026-11-12T19:51:40+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-14T19:51:40+00:00",
-   "img": "https://bilder.deutschlandfunk.de/74/7f/a4/6e/747fa46e-7cf0-4642-9a42-57d1444c85cf/strompreise-102-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Bundeshaushalt 2027: Mehr Geld für Bundeswehr und Soziales, hohe Kredite und Streit um die Stromsteuer. Was der Etat für Deutschland konkret bedeutet",
-     "link": "https://www.dw.com/de/bundeshaushalt-2027-mehr-geld-für-bundeswehr-und-soziales-hohe-kredite-und-streit-um-die-stromsteuer-was-der-etat-für-deutschland-konkret-bedeutet/a-79939318?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Nachtsitzung im Haushaltsausschuss: Etat für 2027 steht",
-     "link": "https://www.tagesschau.de/inland/bundeshaushalt-2027-100.html"
-    }
-   ]
   }
  ]
 }
