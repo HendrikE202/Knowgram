@@ -1,50 +1,618 @@
 {
- "generated": "2026-11-19T11:40:42.359492+00:00",
+ "generated": "2026-11-19T20:38:15.334024+00:00",
  "briefing": [
-  "n955f3a6f81",
-  "n749a6320cf",
   "nf121a2cb46",
-  "n868ba5258d",
-  "na42111f710",
-  "n38938122bd",
-  "n9f93d2b4af",
-  "n5a7a4551bb"
+  "n510e8b393e",
+  "n955f3a6f81",
+  "ncd90db93ae",
+  "n9d27693b81",
+  "nd3df81c314",
+  "na019c420b1",
+  "n7348b944cd",
+  "nf2e5458da9"
  ],
  "ranked": [
   {
-   "id": "n955f3a6f81",
-   "s": 35.0
-  },
-  {
-   "id": "n749a6320cf",
-   "s": 32.9
-  },
-  {
    "id": "nf121a2cb46",
-   "s": 32.9
+   "s": 41.0
   },
   {
-   "id": "n868ba5258d",
-   "s": 32.4
+   "id": "n510e8b393e",
+   "s": 38.9
   },
   {
-   "id": "na42111f710",
-   "s": 27.0
+   "id": "n955f3a6f81",
+   "s": 32.7
   },
   {
-   "id": "n38938122bd",
-   "s": 23.0
-  },
-  {
-   "id": "n9f93d2b4af",
+   "id": "ncd90db93ae",
    "s": 22.9
   },
   {
-   "id": "n5a7a4551bb",
+   "id": "n9d27693b81",
    "s": 22.9
+  },
+  {
+   "id": "nd3df81c314",
+   "s": 22.9
+  },
+  {
+   "id": "na019c420b1",
+   "s": 22.7
+  },
+  {
+   "id": "n7348b944cd",
+   "s": 22.7
+  },
+  {
+   "id": "nf2e5458da9",
+   "s": 22.1
   }
  ],
  "items": [
+  {
+   "id": "n679f5ef204",
+   "topic": "it",
+   "title": "Spionagegericht: Großbritannien muss Auftrag für Apple-Hintertür gestehen",
+   "text": "Das britische Innenministerium hat Apple befohlen, eine Hintertür in die iCloud einzubauen. Ein Gericht zwingt das Ministerium dazu, das öffentlich zuzugeben.",
+   "link": "https://www.heise.de/news/Spionagegericht-Grossbritannien-muss-Auftrag-fuer-Apple-Hintertuer-gestehen-11531845.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-19T20:33:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-24T20:33:00+00:00"
+  },
+  {
+   "id": "ndedb6e244f",
+   "topic": "nfl",
+   "title": "Rams All-Pro WR Puka Nacua reportedly suspended 3 games for violating league's personal conduct policy",
+   "text": "Nacua is currently on injured reserve with knee and toe injuries.",
+   "link": "https://sports.yahoo.com/nfl/breaking-news/article/rams-all-pro-wr-puka-nacua-reportedly-suspended-3-games-for-violating-leagues-personal-conduct-policy-202946159.html",
+   "published": "2026-11-19T20:29:46+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-24T20:29:46+00:00"
+  },
+  {
+   "id": "n9b4a539151",
+   "topic": "politik",
+   "title": "Jugendproteste am Freitag: Tausende Demonstranten in Hessen erwartet",
+   "text": "Jugendorganisationen haben für Freitag zu Protesten gegen die Wehrpflicht und Sozialkürzungen aufgerufen. Allein in Frankfurt werden tausende Demonstranten erwartet. Nach den Ausschreitungen Ende Oktober bereitet sich die Polizei auf einen Großeinsatz vor.",
+   "link": "https://www.hessenschau.de/gesellschaft/jugendproteste-am-freitag-tausende-demonstranten-in-hessen-erwartet-v1,genz-demos-freitag-100.html",
+   "published": "2026-11-19T20:27:09+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-23T20:27:09+00:00",
+   "img": "https://www.hessenschau.de/gesellschaft/genz-demo-112~_t-1795120029311_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "n74757e683c",
+   "topic": "ki",
+   "title": "OpenAI-Agent sollte Fitness-Dokument schreiben und plante stattdessen heimliche E-Mail-Weiterleitung",
+   "text": "Ein internes OpenAI-Modell sollte ein Fitness-Dokument erstellen und begann stattdessen, Skripte für eine heimliche E-Mail-Weiterleitung an einen \"Angreifer\" zu planen. Der Agent erkannte den Widerspruch zu seinem eigentlichen Auftrag, tat ihn aber als Umgebungsfehler ab. OpenAI identifizierte ein Sicherheitstraining …",
+   "link": "https://the-decoder.de/openai-agent-sollte-fitness-dokument-schreiben-und-plante-stattdessen-heimliche-e-mail-weiterleitung/",
+   "published": "2026-11-19T20:21:01+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-26T20:21:01+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/11/agent_mail_compromise.png"
+  },
+  {
+   "id": "n4dcd265caf",
+   "topic": "politik",
+   "title": "Kanzleramt - \"Koalition der Willigen\": Merz dringt auf Beteiligung Europas bei Ukraine-Gesprächen",
+   "text": "Bundeskanzler Merz hat die USA und Russland dazu aufgerufen, Europa an den Verhandlungen über einen Frieden in der Ukraine zu beteiligen. Ein \"Jalta\"-Format werde den Frieden nicht bringen, sagte der CDU-Vorsitzende mit Blick auf den Gipfel von US-Präsident Trump mit den Staatschefs Russlands und Chinas, Putin und Xi …",
+   "link": "https://www.deutschlandfunk.de/koalition-der-willigen-merz-dringt-auf-beteiligung-europas-bei-ukraine-gespraechen-100.html",
+   "published": "2026-11-19T20:14:34+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-21T20:14:34+00:00",
+   "img": "https://bilder.deutschlandfunk.de/01/e8/53/c7/01e853c7-e008-4597-b90d-3737170f37fa/merz-berlin-koalition-der-willigen-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Koalition der Willigen in Berlin: \"Wir halten zur Ukraine\"",
+     "link": "https://www.dw.com/de/koalition-der-willigen-in-berlin-wir-halten-zur-ukraine/a-79990134?maca=de-rss-de-all-1119-xml-mrss"
+    },
+    {
+     "source": "Tagesschau",
+     "title": "\"Koalition der Willigen\": Ukrainer fordern Einheit und Entschlossenheit",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-koalition-stimmung-100.html"
+    }
+   ]
+  },
+  {
+   "id": "ncd90db93ae",
+   "topic": "politik",
+   "title": "Landtag - Sachsen-Anhalt: AfD-Politiker Siegmund will bereits am 8. Dezember als Ministerpräsident kandidieren",
+   "text": "Der AfD-Politiker Siegmund will sich früher als geplant im Landtag von Sachsen-Anhalt als Ministerpräsident zur Wahl stellen.",
+   "link": "https://www.deutschlandfunk.de/sachsen-anhalt-afd-politiker-siegmund-will-bereits-am-8-dezember-als-ministerpraesident-kandidieren-100.html",
+   "published": "2026-11-19T20:14:34+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-21T20:14:34+00:00",
+   "img": "https://bilder.deutschlandfunk.de/fd/df/6b/47/fddf6b47-1eb6-4a43-9e14-386ef8fa59ad/ulrich-siegmund-afd-104-1920x1920.jpg"
+  },
+  {
+   "id": "ndfddc5629f",
+   "topic": "politik",
+   "title": "Landtag - AfD erhält zwei Sitze im Parlamentarischen Kontrollgremium in Sachsen-Anhalt",
+   "text": "Der Landtag von Sachsen-Anhalt hat zwei AfD-Politiker in das Parlamentarische Kontrollgremium gewählt, das den Verfassungsschutz kontrolliert.",
+   "link": "https://www.deutschlandfunk.de/afd-erhaelt-zwei-sitze-im-parlamentarischen-kontrollgremium-in-sachsen-anhalt-100.html",
+   "published": "2026-11-19T20:14:34+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-21T20:14:34+00:00",
+   "img": "https://bilder.deutschlandfunk.de/dc/72/4c/33/dc724c33-9474-4426-93af-6dadccddf427/landtag-sachsen-anhalt-106-1920x1920.jpg"
+  },
+  {
+   "id": "nba47587bf2",
+   "topic": "politik",
+   "title": "Serbien - Studentenliste übernimmt ersten Schlüsselposten",
+   "text": "Gut drei Wochen nach der Wahl ist in Serbien die Machtübernahme der siegreichen Studentenliste einen Schritt weitergekommen.",
+   "link": "https://www.deutschlandfunk.de/studentenliste-uebernimmt-ersten-schluesselposten-104.html",
+   "published": "2026-11-19T20:14:34+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-21T20:14:34+00:00",
+   "img": "https://bilder.deutschlandfunk.de/5b/1c/66/1e/5b1c661e-9eb5-4576-a87f-da4cabc6bb41/serbien-parlament-aleksandar-cupic-wahl-praesident-volksvertretung-100-1920x1920.jpg"
+  },
+  {
+   "id": "n9d27693b81",
+   "topic": "politik",
+   "title": "KI-Firma - Anthropic startet mit kräftigem Kursplus an der Börse",
+   "text": "Die US-amerikanische KI-Firma Anthropic ist bei ihrem Börsengang mit einem deutlichen Plus in den Handel gestartet. Der erste Kurs an der Technologiebörse Nasdaq lag bei 111,50 US-Dollar und damit gut ein Drittel über dem Ausgabepreis. Somit erreichte Anthropic eine Marktkapitalisierung von mehr als zwei Billionen …",
+   "link": "https://www.deutschlandfunk.de/anthropic-startet-mit-kraeftigem-kursplus-an-der-boerse-100.html",
+   "published": "2026-11-19T20:14:34+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-21T20:14:34+00:00",
+   "img": "https://bilder.deutschlandfunk.de/65/71/05/e1/657105e1-a8dd-4be6-84a7-9535287be23e/anthropic-boersengang-nasdaq-100-1920x1920.jpg"
+  },
+  {
+   "id": "nd3df81c314",
+   "topic": "politik",
+   "title": "BSI-Lagebericht - Nutzung von Künstlicher Intelligenz verschärft Gefahr durch Cyberangriffe",
+   "text": "Die Gefährdung durch Cyber- und Hackerangriffe in Deutschland hat sich durch die missbräuchliche Nutzung Künstlicher Intelligenz deutlich verschärft.",
+   "link": "https://www.deutschlandfunk.de/nutzung-von-kuenstlicher-intelligenz-verschaerft-gefahr-durch-cyberangriffe-102.html",
+   "published": "2026-11-19T20:14:34+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-21T20:14:34+00:00",
+   "img": "https://bilder.deutschlandfunk.de/81/77/da/da/8177dada-7ae7-47f1-b4b4-a6928ffd2901/bsi-amt-100-1920x1920.jpg"
+  },
+  {
+   "id": "n28eb02da84",
+   "topic": "nfl",
+   "title": "Fantasy Football Rankings: Hayden Winks' QB/TE/DEF/K Blueprint for Week 11",
+   "text": "Fantasy football analyst Hayden Winks lays out the blueprint to the onesie positions in Week 11: QB, TE, DEF and K.",
+   "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-rankings-hayden-winks-qbtedefk-blueprint-for-week-11-200938137.html",
+   "published": "2026-11-19T20:09:38+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-24T20:09:38+00:00",
+   "img": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/projected-points-wk11_6768.png"
+  },
+  {
+   "id": "n0e09ae3ec5",
+   "topic": "nfl",
+   "title": "Texans vs. Colts prediction: Houston looks to bounce back vs. lowly Indy after rough Week 10 loss",
+   "text": "Plus, how to watch, what to know and a prediction before the 'Thursday Night Football' matchup",
+   "link": "https://www.cbssports.com/nfl/news/texans-vs-colts-how-to-watch-odds-preview-prediction/",
+   "published": "2026-11-19T20:02:11+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-24T20:02:11+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/11/19/1a79c277-935a-4d08-81f8-dc0da6c02a2e/texans-colts.jpg"
+  },
+  {
+   "id": "na019c420b1",
+   "topic": "welt",
+   "title": "Ukraine-Russland-Verhandlungen: Wer spricht für Europa und wer nicht?",
+   "text": "Ein europäisches Verhandlungsteam soll bei künftigen Ukraine-Russland-Gesprächen mit am Tisch sitzen. Doch wie haltbar ist diese Übereinkunft von vergangener Woche und was sagt sie über den Zustand Europas?",
+   "link": "https://www.dw.com/de/ukraine-russland-verhandlungen-wer-spricht-für-europa-und-wer-nicht/a-79996255?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-19T19:31:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-23T19:31:00+00:00",
+   "img": "https://static.dw.com/image/79943441_302.jpg"
+  },
+  {
+   "id": "n7348b944cd",
+   "topic": "politik",
+   "title": "Merz will baldige Gespräche mit Russland auf neutralem Boden",
+   "text": "Die \"Koalition der Willigen\" verspricht, der Ukraine \"so lange wie nötig\" zu helfen. Nach dem Gipfel in Berlin rief Kanzler Merz Russlands Präsident Putin auf, die Waffen niederzulegen. Einen Frieden könne es nur mit Beteiligung Europas geben.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/gipfel-koalition-willige-ukraine-100.html",
+   "published": "2026-11-19T19:22:45+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-22T19:22:45+00:00",
+   "img": "https://images.tagesschau.de/image/3b7c6fa0-d02a-48ae-ac35-cd33b8e7e3b2/AAABofS75Xg/AAABnSSvrFg/16x9-big/koalition-der-willigen-118.jpg?width=1920"
+  },
+  {
+   "id": "nfb4159e331",
+   "topic": "wirtschaft",
+   "title": "Wirtschaft vor acht vom 19.11.2026",
+   "text": "Wirtschaft vor acht vom 19.11.2026",
+   "link": "https://www.tagesschau.de/video/video-1686732.html",
+   "published": "2026-11-19T19:05:09+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-22T19:05:09+00:00",
+   "img": "https://images.tagesschau.de/image/67c49960-9490-48d8-914e-55bdd7131f46/AAABofUybEk/AAABnSSvrFg/16x9-big/sendungsbild-1830130.jpg?width=1920"
+  },
+  {
+   "id": "n703020f17f",
+   "topic": "ki",
+   "title": "KI-Branche wächst weiter stark, aber die Dynamik kühlt ab",
+   "text": "Token-Preise für KI-Modelle sind laut dem Ramp-AI-Index in sechs Wochen um 21 Prozent gefallen, während das Nutzungsvolumen ein Rekordhoch erreicht. Anthropic dominiert mit fast 59 Prozent der Token-Ausgaben. Daten von Ramp, Stripe und OpenRouter zeigen unabhängig voneinander: Die KI-Branche wächst weiter, aber die …",
+   "link": "https://the-decoder.de/ki-branche-waechst-weiter-stark-aber-die-dynamik-kuehlt-ab/",
+   "published": "2026-11-19T19:01:19+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-26T19:01:19+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2024/02/Throwing-money-at-AI.jpg"
+  },
+  {
+   "id": "n58e6ff03db",
+   "topic": "it",
+   "title": "Top 10: Die beste Smartwatch im Test – Apple Watch schlägt Samsung, Xiaomi & Co.",
+   "text": "Apple, Samsung, Google oder doch Xiaomi? Wearables ergänzen das Smartphone ideal. Wir zeigen die besten Smartwatches aus dutzenden Tests.",
+   "link": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-im-test-apple-watch-schlaegt-samsung-xiaomi-und-co/gee7t5m?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-19T19:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-24T19:00:00+00:00"
+  },
+  {
+   "id": "nbb167f4152",
+   "topic": "nfl",
+   "title": "Robert Kraft, Bill Belichick advance in Pro Football HoF selection process after last year's snub",
+   "text": "The two were snubbed in last year's vote",
+   "link": "https://www.cbssports.com/nfl/news/robert-kraft-bill-belichick-advance-hall-of-fame-selection-process/",
+   "published": "2026-11-19T18:51:32+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-24T18:51:32+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/11/19/3cc1c62c-8cea-4b93-9095-caaa6673d43a/kraft-belichick.jpg"
+  },
+  {
+   "id": "n17b967684f",
+   "topic": "welt",
+   "title": "Koalition der Willigen in Berlin: \"Wir halten zur Ukraine\"",
+   "text": "Die sogenannte Koalition der Willigen stärkt der Ukraine in Berlin den Rücken. Und alle blicken zum Treffen der USA, Russlands und China in Shenzhen. Von dort aus lädt Präsident Putin die Europäer nach Moskau ein.",
+   "link": "https://www.dw.com/de/koalition-der-willigen-in-berlin-wir-halten-zur-ukraine/a-79990134?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-19T18:46:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-23T18:46:00+00:00",
+   "img": "https://static.dw.com/image/79993927_302.jpg",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Kanzleramt - \"Koalition der Willigen\": Merz dringt auf Beteiligung Europas bei Ukraine-Gesprächen",
+     "link": "https://www.deutschlandfunk.de/koalition-der-willigen-merz-dringt-auf-beteiligung-europas-bei-ukraine-gespraechen-100.html"
+    },
+    {
+     "source": "Tagesschau",
+     "title": "\"Koalition der Willigen\": Ukrainer fordern Einheit und Entschlossenheit",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-koalition-stimmung-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n84f6ce1560",
+   "topic": "welt",
+   "title": "Dreiergipfel in Shenzhen: Xis Choreografie - assistiert von Trump und Putin",
+   "text": "Beim Gipfel von Xi, Trump und Putin ging es um schöne Bilder und Schmeicheleien. Konkrete Politik? Fehlanzeige. Doch China gelang es, ein Thema zu setzen, das vor allem seinen Interessen und denen Russlands dient. Von Marie von Mallinckrodt.",
+   "link": "https://www.tagesschau.de/ausland/asien/dreiergipfel-xi-trump-putin-100.html",
+   "published": "2026-11-19T18:30:48+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-22T18:30:48+00:00",
+   "img": "https://images.tagesschau.de/image/64f4a9b9-4e61-4435-b1cf-7382c4ed3995/AAABofRu2k8/AAABnSSvrFg/16x9-big/putin-xi-trump-102.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Shenzhen - Xi auf Dreier-Gipfel mit Putin und Trump: \"Alles tun, um einen Atomkrieg zu verhindern\"",
+     "link": "https://www.deutschlandfunk.de/xi-auf-dreier-gipfel-mit-putin-und-trump-alles-tun-um-einen-atomkrieg-zu-verhindern-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Trump, Xi, Putin: Gipfel in China mit hochtrabenden Worten",
+     "link": "https://www.dw.com/de/trump-xi-putin-gipfel-in-china-mit-hochtrabenden-worten/a-79988021?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "n5da97f12fc",
+   "topic": "it",
+   "title": "heise+ | Wie die Musikroboter von Ponytrap entstehen",
+   "text": "In dieser Werkstatt entstehen die Musikroboter von Ponytrap. Ihre Größe und der Schalldruck beim Proben stellen besondere Anforderungen an den Raum.",
+   "link": "https://www.heise.de/ratgeber/Wie-die-Musikroboter-von-Ponytrap-entstehen-11490567.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+   "published": "2026-11-19T18:15:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-24T18:15:00+00:00"
+  },
+  {
+   "id": "n666e238c2c",
+   "topic": "it",
+   "title": "Breko-Jahrestagung: Telekom-Konkurrenten drängen auf erste eigene Kupferabschaltung",
+   "text": "Bislang hat nur die Telekom selbst alte DSL-Netze für ihre Glasfaser abschalten dürfen. ( Breko , DSL )",
+   "link": "https://www.golem.de/news/breko-jahrestagung-telekom-konkurrenten-draengen-auf-erste-eigene-kupferabschaltung-2611-215437.html",
+   "published": "2026-11-19T17:49:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-24T17:49:01+00:00",
+   "img": "https://www.golem.de/2611/215437-609569-609567_rc.jpg"
+  },
+  {
+   "id": "nba18752026",
+   "topic": "it",
+   "title": "Hacking-Tool: Flipper One mit Rekordstart trotz offener Fragen",
+   "text": "Bei Kickstarter kann die neue Flipper-Version unterstützt werden. Diese kostet deutlich mehr als der Vorgänger, einige Spezifikationen sind offen. ( Flipper Zero , Linux )",
+   "link": "https://www.golem.de/news/hacking-tool-flipper-one-mit-rekordstart-trotz-offener-fragen-2611-215435.html",
+   "published": "2026-11-19T17:34:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-24T17:34:01+00:00",
+   "img": "https://www.golem.de/2611/215435-609561-609559_rc.jpg"
+  },
+  {
+   "id": "ned6c2756ba",
+   "topic": "wirtschaft",
+   "title": "Marktbericht: Keine Erholung trotz Anthropic-Euphorie",
+   "text": "Trotz der guten Stimmung im Technologiesektor rund um den Rekord-Börsengang von Anthropic ist der DAX abgerutscht. Der deutsche Leitindex schloss auf dem tiefsten Stand seit mehr als drei Wochen.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-100.html",
+   "published": "2026-11-19T17:33:52+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-22T17:33:52+00:00",
+   "img": "https://images.tagesschau.de/image/502eb764-80f1-439e-9b8c-78bb61db32e5/AAABocSMHEQ/AAABnSSvrFg/16x9-big/boerse-564.jpg?width=1920"
+  },
+  {
+   "id": "n79f3689571",
+   "topic": "wissenschaft",
+   "title": "Bilder der Woche: Es brodelt in der Großen Magellanschen Wolke",
+   "text": "Die Infrarotaufnahme des James-Webb-Weltraumteleskops zeigt das Sternentstehungsgebiet N159 mit ausgedehnten Gaswolken und filigranen Strukturen, in denen sich neue Sterne bilden.",
+   "link": "https://www.spektrum.de/alias/bilder-der-woche/sternengeburt-im-nebelkessel-es-brodelt-in-den-magellanschen-wolken/2354912",
+   "published": "2026-11-19T17:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-12-03T17:00:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/potm2610a.jpg.8426480.jpg?f=1280x720"
+  },
+  {
+   "id": "nf2e5458da9",
+   "topic": "wirtschaft",
+   "title": "Rekord an der Börse: Lehren aus dem Anthropic-Börsengang",
+   "text": "Anthropic gelingt der größte Börsengang aller Zeiten. Nach dem Absturz von Nvidia verbindet die KI-Branche damit neue Hoffnungen. Sind die Zweifel am Boom rund um Künstliche Intelligenz nun zerstreut? Von Angela Göpfert.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/anthropic-boersengang-ki-boom-100.html",
+   "published": "2026-11-19T16:54:27+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-22T16:54:27+00:00",
+   "img": "https://images.tagesschau.de/image/daf543ea-b8c4-46bc-8df5-327236c4b94a/AAABofRDns8/AAABnSSvrFg/16x9-big/anthropic-142.jpg?width=1920"
+  },
+  {
+   "id": "n3f5d856a55",
+   "topic": "welt",
+   "title": "Wadephul im Südkaukasus: Frieden sichern - Putin fernhalten?",
+   "text": "In Aserbaidschan und Armenien wirbt Bundesaußenminister Wadephul für die Unterzeichnung des Friedensvertrags zwischen den Nachbarn und lobt deren Annährung an den Westen. Für Russland hat er eine klare Botschaft.",
+   "link": "https://www.dw.com/de/wadephul-im-südkaukasus-frieden-sichern-putin-fernhalten/a-79993105?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-19T16:49:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-23T16:49:00+00:00",
+   "img": "https://static.dw.com/image/79973455_302.jpg"
+  },
+  {
+   "id": "n7be6e5a097",
+   "topic": "ki",
+   "title": "Neue US-Chip-Regeln: Moonshot AI streicht 150-Millionen-Deal, TSMC und Samsung stoppen Lieferungen",
+   "text": "Die verschärften US-Exportkontrollen für KI-Chips zeigen unmittelbare Wirkung: Chinas Moonshot AI stornierte einen 150-Millionen-Dollar-Deal in Indonesien, TSMC und Samsung stoppten Lieferungen an chinesische Kunden. Eine NYT-Recherche enthüllt zudem, wie Alibaba über ein Tarnnetzwerk Nvidia-Chips bis in die …",
+   "link": "https://the-decoder.de/neue-us-chip-regeln-moonshot-ai-streicht-150-millionen-deal-tsmc-und-samsung-stoppen-lieferungen/",
+   "published": "2026-11-19T16:34:41+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-26T16:34:41+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/07/us_vs_china_open_models.png"
+  },
+  {
+   "id": "n6c80e72449",
+   "topic": "welt",
+   "title": "Kürzungen bei Demokratie-Förderung treffen Projekte gegen Antisemitismus und Rassismus",
+   "text": "Zahlreiche Demokratie-Projekte in Deutschland verlieren Fördermittel. Betroffene Organisationen warnen und verweisen auf wachsende Herausforderungen durch den Rechtsextremismus.",
+   "link": "https://www.dw.com/de/kürzungen-bei-demokratie-förderung-treffen-projekte-gegen-antisemitismus-und-rassismus/a-79991213?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-19T16:30:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-23T16:30:00+00:00",
+   "img": "https://static.dw.com/image/79154627_302.jpg"
+  },
+  {
+   "id": "n2299116e3f",
+   "topic": "welt",
+   "title": "Cyber-Sicherheit: Wie verwundbar ist Deutschland? Antworten stehen im Lagebericht des Bundesamtes für Sicherheit in der Informationstechnik (BSI)",
+   "text": "Angriffe auf Privatpersonen, Wirtschaft oder öffentliche Verwaltungen nehmen zu und verunsichern die Bevölkerung. Wie reagieren Politik und Sicherheitsbehörden?",
+   "link": "https://www.dw.com/de/cyber-sicherheit-wie-verwundbar-ist-deutschland-antworten-stehen-im-lagebericht-des-bundesamtes-für-sicherheit-in-der-informationstechnik-bsi/a-79984323?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-19T16:24:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-23T16:24:00+00:00",
+   "img": "https://static.dw.com/image/57655914_302.jpg"
+  },
+  {
+   "id": "nb58719ad9a",
+   "topic": "wirtschaft",
+   "title": "Volkswagen will Nullrunden für zwei Jahre",
+   "text": "Nullrunden, weniger Zulagen und Änderungen bei der Arbeitszeit - Volkswagen will harte Einschnitte in der anstehenden Tarifrunde durchsetzen. Die IG Metall wirft dem Konzern vor, mit dem \"Messer in den Rücken\" der Arbeitnehmer zu fallen.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-nullrunde-100.html",
+   "published": "2026-11-19T16:11:57+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-22T16:11:57+00:00",
+   "img": "https://images.tagesschau.de/image/9c694147-9f22-41f9-9750-896c27ad5a23/AAABoWeZ3KI/AAABnSSvrFg/16x9-big/vw-1632.jpg?width=1920"
+  },
+  {
+   "id": "n4f603cf9d8",
+   "topic": "wirtschaft",
+   "title": "BASF bläst Evonik-Übernahme ab",
+   "text": "BASF nimmt Abstand von einer Übernahme des Konkurrenten Evonik. Der Chemiekonzern gibt die Pläne auf, nachdem Evonik zuvor zwei unverbindliche Kaufangebote zurückgewiesen hatte.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/basf-evonik-uebernahme-absage-100.html",
+   "published": "2026-11-19T15:55:43+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-22T15:55:43+00:00",
+   "img": "https://images.tagesschau.de/image/b5fd0634-2e70-4351-9916-50d3c401a857/AAABofRTPTA/AAABnSSvrFg/16x9-big/basf-178.jpg?width=1920"
+  },
+  {
+   "id": "n181b2f7872",
+   "topic": "welt",
+   "title": "EGMR-Urteil: Corona-Impfpflichten waren menschenrechtskonform",
+   "text": "Zur Bekämpfung der Covid-19-Pandemie wurden Personen, die beispielsweise in Krankenhäusern oder Rettungsdiensten arbeiteten, verpflichtet, sich gegen Corona impfen zu lassen. Nun hat der EGMR entschieden. Von A. Stephany.",
+   "link": "https://www.tagesschau.de/ausland/europa/egmr-corona-impfpflicht-100.html",
+   "published": "2026-11-19T15:24:28+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-22T15:24:28+00:00",
+   "img": "https://images.tagesschau.de/image/5c82f2c9-c084-4821-a88c-6a64ba8cb920/AAABofRUwNg/AAABnSSvrFg/16x9-big/klinik-flur-101.jpg?width=1920"
+  },
+  {
+   "id": "n94e749c71c",
+   "topic": "welt",
+   "title": "Cupic: Biobauer, Dozent und nun Serbiens Parlamentspräsident",
+   "text": "Ein Biobauer und Dozent, der sechs Kinder hat und in einem Dorf lebt. Aleksandar Cupic ist für Anhänger der Studentischen Liste der Inbegriff eines Volksvertreters. Nun ist er vorerst der mächtigste Mann in Serbien. Von Oliver Soos.",
+   "link": "https://www.tagesschau.de/ausland/europa/cupic-parlamentspraesident-serbien-100.html",
+   "published": "2026-11-19T15:08:53+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-22T15:08:53+00:00",
+   "img": "https://images.tagesschau.de/image/a4d13413-9957-4356-a53a-5bf6038c1510/AAABofQg7D8/AAABnSSvrFg/16x9-big/aleksandar-cupic-100.jpg?width=1920"
+  },
+  {
+   "id": "nab43f7388a",
+   "topic": "wissenschaft",
+   "title": "Super Timing: Supernova in flagranti erwischt",
+   "text": "Die Supernova SN 2026ahvu wurde nur einen Tag nach ihrem Aufleuchten entdeckt und bietet damit die seltene Gelegenheit, eine Sternexplosion von Beginn an zu verfolgen.",
+   "link": "https://www.spektrum.de/news/super-timing-fuer-eine-supernova-sternexplosion-in-flagranti-erwischt/2354907",
+   "published": "2026-11-19T15:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-12-03T15:00:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/noirlab2628b.jpg.8426410.jpg?f=1280x720"
+  },
+  {
+   "id": "nb1e3a127d9",
+   "topic": "welt",
+   "title": "UN-Gericht: Myanmar verantwortlich für Rohingya-Völkermord",
+   "text": "Mit unbeschreiblicher Gewalt werden die Rohingya in Myanmar verfolgt. Das höchste Gericht der UN sieht es als erwiesen an, dass 2017 ein großer Teil der muslimischen Minderheit ausgelöscht werden sollte.",
+   "link": "https://www.dw.com/de/un-gericht-myanmar-verantwortlich-für-rohingya-völkermord/a-79992591?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-19T14:47:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-23T14:47:00+00:00",
+   "img": "https://static.dw.com/image/79989967_302.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Internationaler Gerichtshof: Vorgehen Myanmars gegen Rohingya war Völkermord",
+     "link": "https://www.tagesschau.de/ausland/asien/urteil-voelkermord-rohingya-myanmar-100.html"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "title": "Urteil in Den Haag - Internationaler Gerichtshof macht Myanmar verantwortlich für Völkermord an Rohingya",
+     "link": "https://www.deutschlandfunk.de/internationaler-gerichtshof-macht-myanmar-verantwortlich-fuer-voelkermord-an-rohingya-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n51a935ff5d",
+   "topic": "wissenschaft",
+   "title": "Eine Prise Chemie: Das durchdringende Aroma des Sauerkrauts",
+   "text": "Schon seit Jahrhunderten machen Menschen Sauerkraut ein. Einige der wichtigen Prozesse bei dieser Fermentation wurden erst in den letzten Jahren aufgeklärt.",
+   "link": "https://www.spektrum.de/kolumne/eine-prise-chemie-das-durchdringende-aroma-des-sauerkrauts/2304960",
+   "published": "2026-11-19T14:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-12-03T14:00:00+00:00"
+  },
+  {
+   "id": "ncddb90647a",
+   "topic": "wirtschaft",
+   "title": "KI-gestützter Cyberangriff auf EU-Kommission",
+   "text": "Die Europäische Kommission in Brüssel ist Ziel eines KI-gestützten Hackerangriffs geworden. Ob Daten der mehr als 33.000 Beschäftigten gestohlen wurden, sagte die Behörde nicht. Auch die Verantwortlichen sind nicht bekannt.",
+   "link": "https://www.tagesschau.de/ausland/europa/cyberangriff-eu-kommission-100.html",
+   "published": "2026-11-19T13:56:39+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-22T13:56:39+00:00",
+   "img": "https://images.tagesschau.de/image/bca8f400-72f6-43f4-a58b-a033a91294d3/AAABofPwGaI/AAABnSSvrFg/16x9-big/berlaymont-102.jpg?width=1920"
+  },
+  {
+   "id": "nf121a2cb46",
+   "topic": "welt",
+   "title": "Internationaler Gerichtshof: Vorgehen Myanmars gegen Rohingya war Völkermord",
+   "text": "Myanmar wollte einen \"wesentlichen Teil\" der Minderheit der Rohingya vernichten: Zu dieser Einschätzung kommt der Internationale Gerichtshof. Das Land sei daher verantwortlich für einen Völkermord, urteilte das höchste UN-Gericht.",
+   "link": "https://www.tagesschau.de/ausland/asien/urteil-voelkermord-rohingya-myanmar-100.html",
+   "published": "2026-11-19T12:42:10+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-22T12:42:10+00:00",
+   "img": "https://images.tagesschau.de/image/22e181fc-2353-470d-bf86-18ae4db1a8a4/AAABofOSyf8/AAABnSSvrFg/16x9-big/igh-richter-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "UN-Gericht: Myanmar verantwortlich für Rohingya-Völkermord",
+     "link": "https://www.dw.com/de/un-gericht-myanmar-verantwortlich-für-rohingya-völkermord/a-79992591?maca=de-rss-de-all-1119-xml-mrss"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "title": "Urteil in Den Haag - Internationaler Gerichtshof macht Myanmar verantwortlich für Völkermord an Rohingya",
+     "link": "https://www.deutschlandfunk.de/internationaler-gerichtshof-macht-myanmar-verantwortlich-fuer-voelkermord-an-rohingya-100.html"
+    }
+   ]
+  },
   {
    "id": "n38938122bd",
    "topic": "welt",
@@ -56,7 +624,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-22T11:38:46+00:00",
-   "img": "https://images.tagesschau.de/image/279e1540-bb28-496b-808f-84f620ef8f04/AAABofNwFUI/AAABnSSvrFg/16x9-big/haubitze-caesar-100.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/279e1540-bb28-496b-808f-84f620ef8f04/AAABofObQ2k/AAABnSSvrFg/16x9-big/haubitze-caesar-100.jpg?width=1920"
   },
   {
    "id": "n19238c75a7",
@@ -84,8 +652,13 @@
    "img": "https://bilder.deutschlandfunk.de/80/8f/9f/cb/808f9fcb-5e18-4d41-8ac9-23aabf8549d6/den-haag-niederlande-myanmar-100-1920x1920.jpg",
    "also": [
     {
+     "source": "Deutsche Welle",
+     "title": "UN-Gericht: Myanmar verantwortlich für Rohingya-Völkermord",
+     "link": "https://www.dw.com/de/un-gericht-myanmar-verantwortlich-für-rohingya-völkermord/a-79992591?maca=de-rss-de-all-1119-xml-mrss"
+    },
+    {
      "source": "Tagesschau",
-     "title": "Internationaler Gerichtshof: Myanmar für Völkermord an Rohingya verantwortlich",
+     "title": "Internationaler Gerichtshof: Vorgehen Myanmars gegen Rohingya war Völkermord",
      "link": "https://www.tagesschau.de/ausland/asien/urteil-voelkermord-rohingya-myanmar-100.html"
     }
    ]
@@ -104,14 +677,14 @@
    "img": "https://bilder.deutschlandfunk.de/65/6e/12/97/656e1297-ca61-4097-9806-a17786f3ece3/xi-putin-trump-shenzen-100-1920x1920.jpg",
    "also": [
     {
+     "source": "Tagesschau",
+     "title": "Dreiergipfel in Shenzhen: Xis Choreografie - assistiert von Trump und Putin",
+     "link": "https://www.tagesschau.de/ausland/asien/dreiergipfel-xi-trump-putin-100.html"
+    },
+    {
      "source": "Deutsche Welle",
      "title": "Trump, Xi, Putin: Gipfel in China mit hochtrabenden Worten",
      "link": "https://www.dw.com/de/trump-xi-putin-gipfel-in-china-mit-hochtrabenden-worten/a-79988021?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Putin, Xi und Trump: Appelle für Weltfrieden und gegen Atomkrieg",
-     "link": "https://www.tagesschau.de/ausland/asien/gipfel-trump-putin-xi-shenzhen-100.html"
     }
    ]
   },
@@ -126,7 +699,19 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-21T11:26:51+00:00",
-   "img": "https://bilder.deutschlandfunk.de/88/00/d4/08/8800d408-39fe-4c94-8c37-f580ab6324bf/merz-206-1920x1920.jpg"
+   "img": "https://bilder.deutschlandfunk.de/88/00/d4/08/8800d408-39fe-4c94-8c37-f580ab6324bf/merz-206-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Koalition der Willigen in Berlin: \"Wir halten zur Ukraine\"",
+     "link": "https://www.dw.com/de/koalition-der-willigen-in-berlin-wir-halten-zur-ukraine/a-79990134?maca=de-rss-de-all-1119-xml-mrss"
+    },
+    {
+     "source": "Tagesschau",
+     "title": "\"Koalition der Willigen\": Ukrainer fordern Einheit und Entschlossenheit",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-koalition-stimmung-100.html"
+    }
+   ]
   },
   {
    "id": "n5a7a4551bb",
@@ -177,14 +762,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-22T11:26:18+00:00",
-   "img": "https://images.tagesschau.de/image/e5afe867-7f3c-4c20-8747-547d04171022/AAABofJDxFU/AAABnSSvrFg/16x9-big/krim-bruecke-144.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Angriff auf die Krim-Brücke: Welche Folgen Kyjiws Operation hat",
-     "link": "https://www.dw.com/de/angriff-auf-die-krim-brücke-welche-folgen-kyjiws-operation-hat/a-79979350?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/e5afe867-7f3c-4c20-8747-547d04171022/AAABofJDxFU/AAABnSSvrFg/16x9-big/krim-bruecke-144.jpg?width=1920"
   },
   {
    "id": "nc636369342",
@@ -231,26 +809,6 @@
    ]
   },
   {
-   "id": "nf121a2cb46",
-   "topic": "welt",
-   "title": "Internationaler Gerichtshof: Myanmar für Völkermord an Rohingya verantwortlich",
-   "text": "Der Internationale Gerichtshof kommt zu der Einschätzung, dass Myanmar einen \"wesentlichen Teil\" der Minderheit der Rohingya vernichten wollte. Das Land sei verantwortlich für Völkermord, urteilte das höchste UN-Gericht.",
-   "link": "https://www.tagesschau.de/ausland/asien/urteil-voelkermord-rohingya-myanmar-100.html",
-   "published": "2026-11-19T11:17:04+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-22T11:17:04+00:00",
-   "img": "https://images.tagesschau.de/image/22e181fc-2353-470d-bf86-18ae4db1a8a4/AAABofOSyf8/AAABnSSvrFg/16x9-big/igh-richter-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Urteil in Den Haag - Internationaler Gerichtshof macht Myanmar verantwortlich für Völkermord an Rohingya",
-     "link": "https://www.deutschlandfunk.de/internationaler-gerichtshof-macht-myanmar-verantwortlich-fuer-voelkermord-an-rohingya-100.html"
-    }
-   ]
-  },
-  {
    "id": "nd3cbe4966c",
    "topic": "it",
    "title": "Volkswagen öffnet Infotainment-System für Google-Dienste – aber nicht für Audi",
@@ -290,14 +848,14 @@
    "img": "https://static.dw.com/image/79988078_302.jpg",
    "also": [
     {
+     "source": "Tagesschau",
+     "title": "Dreiergipfel in Shenzhen: Xis Choreografie - assistiert von Trump und Putin",
+     "link": "https://www.tagesschau.de/ausland/asien/dreiergipfel-xi-trump-putin-100.html"
+    },
+    {
      "source": "Deutschlandfunk",
      "title": "Shenzhen - Xi auf Dreier-Gipfel mit Putin und Trump: \"Alles tun, um einen Atomkrieg zu verhindern\"",
      "link": "https://www.deutschlandfunk.de/xi-auf-dreier-gipfel-mit-putin-und-trump-alles-tun-um-einen-atomkrieg-zu-verhindern-100.html"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Putin, Xi und Trump: Appelle für Weltfrieden und gegen Atomkrieg",
-     "link": "https://www.tagesschau.de/ausland/asien/gipfel-trump-putin-xi-shenzhen-100.html"
     }
    ]
   },
@@ -349,7 +907,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-22T11:06:07+00:00",
-   "img": "https://images.tagesschau.de/image/c64bd25f-4fbb-4dcd-b6ec-ffc60a118cd3/AAABofM8IEc/AAABnSSvrFg/16x9-big/messebesucher-leuchtdisplay-100.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/3d3df91e-0f26-473b-9ee4-6e3a079cf0b6/AAABofPJDeE/AAABnSSvrFg/16x9-big/plattner-dobrindt-100.jpg?width=1920"
   },
   {
    "id": "n42e06aa1f9",
@@ -454,19 +1012,6 @@
    "img": "https://static.spektrum.de/fm/912/thumbnails/DSO_NOM4D_260610_R_cw_02.jpeg.8426613.jpeg?f=1280x720"
   },
   {
-   "id": "ned6c2756ba",
-   "topic": "wirtschaft",
-   "title": "Marktbericht: Anthropic-Börsengang schiebt DAX an",
-   "text": "Der DAX startet nach den gestrigen Kursverlusten einen Erholungsversuch und legt im frühen Handel zu. Der Optimismus vor dem Anthropic-Börsengang in den USA macht Anleger mutiger.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-100.html",
-   "published": "2026-11-19T09:31:32+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-22T09:31:32+00:00",
-   "img": "https://images.tagesschau.de/image/637010d4-8a67-4354-8847-b316454ab453/AAABocSOaSA/AAABnSSvrFg/16x9-big/boerse-572.jpg?width=1920"
-  },
-  {
    "id": "n31c04b7468",
    "topic": "ki",
    "title": "Offene OCR-Modelle sind in 18 Monaten auf ein Fünftel der Kosten gefallen",
@@ -490,14 +1035,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-22T09:27:34+00:00",
-   "img": "https://images.tagesschau.de/image/b5eddbdb-f575-4d65-8ec8-eafbd75bcf03/AAABoe9ydtc/AAABnSSvrFg/16x9-big/verteidigung-polen-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Treffen in Shenzen - Xi wirbt für engere Zusammenarbeit Chinas und Russlands",
-     "link": "https://www.deutschlandfunk.de/xi-wirbt-fuer-engere-zusammenarbeit-chinas-und-russlands-102.html"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/87bc5b07-6864-4621-8e65-9796be66262f/AAABofRhkWE/AAABnSSvrFg/16x9-big/kacorzyk-pistorius-100.jpg?width=1920"
   },
   {
    "id": "n26ef52ee8c",
@@ -640,7 +1178,19 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-22T04:19:46+00:00",
-   "img": "https://images.tagesschau.de/image/4c061342-cac5-4bda-8c71-585d834dd765/AAABm4JyyMQ/AAABnSSvrFg/16x9-big/kiew-406.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/4c061342-cac5-4bda-8c71-585d834dd765/AAABm4JyyMQ/AAABnSSvrFg/16x9-big/kiew-406.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Kanzleramt - \"Koalition der Willigen\": Merz dringt auf Beteiligung Europas bei Ukraine-Gesprächen",
+     "link": "https://www.deutschlandfunk.de/koalition-der-willigen-merz-dringt-auf-beteiligung-europas-bei-ukraine-gespraechen-100.html"
+    },
+    {
+     "source": "Deutsche Welle",
+     "title": "Koalition der Willigen in Berlin: \"Wir halten zur Ukraine\"",
+     "link": "https://www.dw.com/de/koalition-der-willigen-in-berlin-wir-halten-zur-ukraine/a-79990134?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
   },
   {
    "id": "n3ff81da2b2",
@@ -655,14 +1205,14 @@
    "expires": "2026-11-21T02:16:40+00:00",
    "also": [
     {
+     "source": "Tagesschau",
+     "title": "Dreiergipfel in Shenzhen: Xis Choreografie - assistiert von Trump und Putin",
+     "link": "https://www.tagesschau.de/ausland/asien/dreiergipfel-xi-trump-putin-100.html"
+    },
+    {
      "source": "Deutsche Welle",
      "title": "Trump, Xi, Putin: Gipfel in China mit hochtrabenden Worten",
      "link": "https://www.dw.com/de/trump-xi-putin-gipfel-in-china-mit-hochtrabenden-worten/a-79988021?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Putin, Xi und Trump: Appelle für Weltfrieden und gegen Atomkrieg",
-     "link": "https://www.tagesschau.de/ausland/asien/gipfel-trump-putin-xi-shenzhen-100.html"
     }
    ]
   },
@@ -945,14 +1495,14 @@
    "expires": "2026-11-20T20:29:05+00:00",
    "also": [
     {
+     "source": "Tagesschau",
+     "title": "Dreiergipfel in Shenzhen: Xis Choreografie - assistiert von Trump und Putin",
+     "link": "https://www.tagesschau.de/ausland/asien/dreiergipfel-xi-trump-putin-100.html"
+    },
+    {
      "source": "Deutsche Welle",
      "title": "Trump, Xi, Putin: Gipfel in China mit hochtrabenden Worten",
      "link": "https://www.dw.com/de/trump-xi-putin-gipfel-in-china-mit-hochtrabenden-worten/a-79988021?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Putin, Xi und Trump: Appelle für Weltfrieden und gegen Atomkrieg",
-     "link": "https://www.tagesschau.de/ausland/asien/gipfel-trump-putin-xi-shenzhen-100.html"
     }
    ]
   },
@@ -1063,7 +1613,7 @@
    "id": "nc17db9e478",
    "topic": "wissenschaft",
    "title": "Team aus Karlsruhe erhält Zukunftspreis für Mikrochip-Forschung",
-   "text": "Mit dem Deutschen Zukunftspreis des Bundespräsidenten soll besonders innovative Forschung ausgezeichnet werden. Dieses Jahr geht er an ein Forscher-Team, das an einer Technik gegen Datenstau bei Mikrochips arbeitet.",
+   "text": "Mit dem Deutschen Zukunftspreis des Bundespräsidenten soll besonders innovative Forschung ausgezeichnet werden. Dieses Jahr geht er an ein Forscher-Team, dessen Technik den Einsatz von lichtleitenden Mikrochips, die Daten schneller und energieeffizienter übertragen können, wesentlich einfacher macht.",
    "link": "https://www.tagesschau.de/wissen/forschung/zukunftspreis-110.html",
    "published": "2026-11-18T19:44:46+00:00",
    "source": "Tagesschau",
@@ -1217,524 +1767,6 @@
    "type": "Fachmedium (KI)",
    "lang": "de",
    "expires": "2026-11-25T17:36:33+00:00"
-  },
-  {
-   "id": "n9b57a42cdb",
-   "topic": "welt",
-   "title": "Ex-Ministerin Kneissl: Österreich prüft Aberkennung der Staatsbürgerschaft",
-   "text": "Österreichs Ex-Außenministerin Kneissl fiel schon während ihrer Amtszeit durch ihre Nähe zu Russland auf. Inzwischen lebt sie dort und stellt sich öffentlich hinter Putin. In ihrem Heimatland könnte das jetzt Folgen haben.",
-   "link": "https://www.tagesschau.de/ausland/europa/kneissl-staatsbuergerschaft-100.html",
-   "published": "2026-11-18T17:17:56+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-21T17:17:56+00:00",
-   "img": "https://images.tagesschau.de/image/4128a5e5-8c23-467c-b980-64a2311c60d8/AAABoe9q4v0/AAABnSSvrFg/16x9-big/kneissl-110.jpg?width=1920"
-  },
-  {
-   "id": "n4426114ee7",
-   "topic": "welt",
-   "title": "Brasilianischer Regenwald: Indigene verlassen offenbar aus Not ihre Isolation",
-   "text": "Offenbar aus Hunger heraus haben isoliert lebende Indigene in Brasilien Kontakt zur Außenwelt gesucht: Etwa 20 Angehörige der Awá kamen Berichten zufolge in ein Dorf, um nach Lebensmitteln zu fragen - \"ein beunruhigendes Zeichen\", so eine NGO.",
-   "link": "https://www.tagesschau.de/ausland/amerika/brasilien-awa-100.html",
-   "published": "2026-11-18T17:09:00+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-21T17:09:00+00:00",
-   "img": "https://images.tagesschau.de/image/ff511569-142c-4ea3-b12c-b67a196bf772/AAABoe_x1c8/AAABnSSvrFg/16x9-big/awa-100.jpg?width=1920"
-  },
-  {
-   "id": "nccca1e8f68",
-   "topic": "ki",
-   "title": "Microsoft bringt sieben eigene KI-Modelle, die vor allem günstiger sein sollen als GPT-6",
-   "text": "Microsofts KI-Abteilung MAI hat auf der Ignite sieben neue Modelle für Code, Sicherheit, Bilder, Sprache und Routing vorgestellt. Messlatte sind die Modelle des eigenen Partners OpenAI: MAI Code 2 erreicht laut Microsoft 98 Prozent der Leistung von GPT-6.1 Sol bei 40 Prozent der Kosten. Der Fokus liegt auf …",
-   "link": "https://the-decoder.de/microsoft-bringt-sieben-eigene-ki-modelle-die-vor-allem-guenstiger-sein-sollen-als-gpt-6/",
-   "published": "2026-11-18T17:02:36+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-25T17:02:36+00:00"
-  },
-  {
-   "id": "n7194b21ba7",
-   "topic": "wissenschaft",
-   "title": "Physik der Eisglätte: Reibung macht Eis rutschiger",
-   "text": "Die Frage, was Eis glitschig macht, ist überraschend umstritten. Neue Simulationen bringen verschiedene physikalische Erklärungsansätze zusammen.",
-   "link": "https://www.spektrum.de/news/physik-der-eisglaette-reibung-macht-eis-rutschiger/2354510",
-   "published": "2026-11-18T17:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-12-02T17:00:00+00:00"
-  },
-  {
-   "id": "n0bf3b8e7a4",
-   "topic": "welt",
-   "title": "Die \"Koalition der Willigen\" bei der Ukraine-Unterstützung trifft sich in Berlin. Europa will künftig über einen Frieden mitreden",
-   "text": "Die \"Koalition der Willigen\" bei der Ukraine-Unterstützung trifft sich in Berlin. Es geht auch darum, ob Europa über die Zukunft des Landes künftig mit verhandeln kann.",
-   "link": "https://www.dw.com/de/die-koalition-der-willigen-bei-der-ukraine-unterstützung-trifft-sich-in-berlin-europa-will-künftig-über-einen-frieden-mitreden/a-79960717?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-18T16:51:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-22T16:51:00+00:00",
-   "img": "https://static.dw.com/image/77949257_302.jpg"
-  },
-  {
-   "id": "nff797f2a55",
-   "topic": "it",
-   "title": "Glasfaser: Telekom baut in Bayern massiv FTTH - in München bricht das Tempo ein",
-   "text": "Mit 400.000 neuen Anschlüssen soll Bayern Schwerpunkt beim Glasfaserausbau der Telekom bleiben. In München bremst der Konzern das Tempo jedoch deutlich. ( Telekom , Glasfaser )",
-   "link": "https://www.golem.de/news/glasfaser-telekom-baut-in-bayern-massiv-ftth-in-muenchen-bricht-das-tempo-ein-2611-215374.html",
-   "published": "2026-11-18T16:46:05+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-23T16:46:05+00:00",
-   "img": "https://www.golem.de/2611/215374-609261-609259_rc.jpg"
-  },
-  {
-   "id": "naf442734e5",
-   "topic": "welt",
-   "title": "Tigray: Der Schwelbrand am Horn von Afrika lodert wieder auf",
-   "text": "Im Norden Äthiopiens nehmen die Spannungen abermals zu: Die Kämpfe verlagern sich an die Grenze zu Eritrea. Unterdessen verschärfen sich die Spannungen mit dem Sudan.",
-   "link": "https://www.dw.com/de/tigray-der-schwelbrand-am-horn-von-afrika-lodert-wieder-auf/a-79979704?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-18T16:38:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-22T16:38:00+00:00",
-   "img": "https://static.dw.com/image/79969678_302.jpg"
-  },
-  {
-   "id": "ne0e631ac7a",
-   "topic": "welt",
-   "title": "Deutsche Jugendliche im Netz: Vom freundlichen Chat zur sexuellen Erpressung",
-   "text": "Das Netz ist oft zentraler Ort der sexualisierten Gewalt gegen Jugendliche. Und die Eltern sind sich der Gefahren oft nicht bewusst. Die zuständige Bildungsministerin hat eine bundesweite Kampagne dagegen vorgestellt.",
-   "link": "https://www.dw.com/de/deutsche-jugendliche-im-netz-vom-freundlichen-chat-zur-sexuellen-erpressung/a-79981951?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-18T15:54:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-22T15:54:00+00:00",
-   "img": "https://static.dw.com/image/74665403_302.jpg"
-  },
-  {
-   "id": "ne3f9e9de1d",
-   "topic": "politik",
-   "title": "Einigung über Stromsteuersenkung: Die Koalition ist in eine neue Phase eingetreten",
-   "text": "Union und SPD haben sich auf eine Senkung der Stromsteuer geeinigt. Doch die Verhandlungen liefen Teilnehmern zufolge teils ruppig. Wie es zur Einigung kam und warum sie ein Vorgeschmack auf die kommenden Monate sein könnte. Von Tina Handel.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/stromsteuer-spritpreisdeckel-einigung-koalition-100.html",
-   "published": "2026-11-18T15:45:55+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-21T15:45:55+00:00",
-   "img": "https://images.tagesschau.de/image/24e569d6-ab8d-4fbb-8251-377c8131cf0c/AAABoe8uGwQ/AAABnSSvrFg/16x9-big/friedrich-merz-546.jpg?width=1920"
-  },
-  {
-   "id": "ne5efe94a1a",
-   "topic": "politik",
-   "title": "Kabinett will bei Unterhaltszahlungen für Alleinerziehende sparen",
-   "text": "Wenn Elternteile keinen Unterhalt zahlen, springt oft der Staat ein. Das Kabinett will dafür jetzt eine Einkommensgrenze einführen. Säumigen Zahlern sollen dafür härtere Strafen drohen - bis hin zu Fahrverboten.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/kabinett-unterhaltszahlung-verschaerfung-100.html",
-   "published": "2026-11-18T15:37:39+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-21T15:37:39+00:00",
-   "img": "https://images.tagesschau.de/image/a0b38ded-8afc-47f1-8190-84f6d1fcfc0e/AAABoe8qz2M/AAABnSSvrFg/16x9-big/mutter-kinder-106.jpg?width=1920"
-  },
-  {
-   "id": "n19416195ba",
-   "topic": "wirtschaft",
-   "title": "Deutscher Ökonom Brunnermeier als EZB-Chefvolkswirt nominiert",
-   "text": "Die Bundesregierung schlägt Markus Brunnermeier als nächsten Chefvolkswirt der Europäischen Zentralbank vor. Der Posten gilt als einflussreich, wenn es um geldpolitische Entscheidungen der Notenbank geht.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/bundesregierung-ezb-chefvolkswirt-100.html",
-   "published": "2026-11-18T15:36:01+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-21T15:36:01+00:00",
-   "img": "https://images.tagesschau.de/image/cae85c0c-14a0-4625-b708-d891af80fec2/AAABoe73Mc8/AAABnSSvrFg/16x9-big/markus-brunnermeier-100.jpg?width=1920"
-  },
-  {
-   "id": "na2362a53cb",
-   "topic": "welt",
-   "title": "Angriff auf die Krim-Brücke: Welche Folgen Kyjiws Operation hat",
-   "text": "Die Ukraine hat der Krim-Brücke schwere Schäden zufügen können. Was bedeutet das für Russland - militärisch und wirtschaftlich? Und was für das politische Ansehen von Wladimir Putin?",
-   "link": "https://www.dw.com/de/angriff-auf-die-krim-brücke-welche-folgen-kyjiws-operation-hat/a-79979350?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-18T15:26:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-22T15:26:00+00:00",
-   "img": "https://static.dw.com/image/79968219_302.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Krim-Brücke nach ukrainischem Angriff erneut gesperrt",
-     "link": "https://www.tagesschau.de/ausland/europa/krim-bruecke-angriff-ukraine-zugverkehr-gestoppt-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n64dbc09b41",
-   "topic": "welt",
-   "title": "EU-Kommission schlägt 45-Milliarden-Kredit für Ukraine vor",
-   "text": "Die Ukraine braucht für 2027 viel frisches Geld für den Staatshaushalt. Kanzler Merz will über die EU helfen, stellt aber Bedingungen. Nun gibt es einen Vorschlag aus Brüssel.",
-   "link": "https://www.dw.com/de/eu-kommission-schlägt-45-milliarden-kredit-für-ukraine-vor/a-79982843?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-18T15:13:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-22T15:13:00+00:00",
-   "img": "https://static.dw.com/image/79958472_302.jpg",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Ukraine-Krieg - Von der Leyen schlägt neues Darlehen für die Ukraine von 45 Milliarden Euro vor",
-     "link": "https://www.deutschlandfunk.de/von-der-leyen-schlaegt-neues-darlehen-fuer-die-ukraine-von-45-milliarden-euro-vor-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n4a80866984",
-   "topic": "wissenschaft",
-   "title": "Studie: Diese Themen machen Kindern und Jugendlichen Angst",
-   "text": "Kriege, Wirtschaftskrisen, Wohnungsnot: Viele Jugendliche sorgen sich um ihre Zukunft. Das zeigt die neue COPSY-Studie. Ob Kinder dauerhaft psychisch belastet sind, hängt aber von etwas anderem ab. Von Melanie Stinn.",
-   "link": "https://www.tagesschau.de/wissen/copsy-studie-2026-100.html",
-   "published": "2026-11-18T15:06:36+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-12-02T15:06:36+00:00",
-   "img": "https://images.tagesschau.de/image/e2362d35-115b-44f3-9bab-d3530cc30338/AAABoe8UX20/AAABnSSvrFg/16x9-big/jugendliche-238.jpg?width=1920"
-  },
-  {
-   "id": "nae3b4b907c",
-   "topic": "wissenschaft",
-   "title": "Weltraumschrott: Aufräumen im All",
-   "text": "Spezielle Satelliten sollen noch in diesem Jahrzehnt große Schrottteile aktiv aus dem Weltraum entfernen. Und bald darauf andere Raumfahrzeuge volltanken und reparieren.",
-   "link": "https://www.spektrum.de/news/weltraumschrott-die-orbitale-muellabfuhr-kommt/2262354",
-   "published": "2026-11-18T15:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-12-02T15:00:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/Clear_Space_Titel_V2_01-scaled.jpg.8426328.jpg?f=1280x720"
-  },
-  {
-   "id": "n12a895ffbf",
-   "topic": "politik",
-   "title": "DAK-Auswertung: Jugendliche konsumieren immer mehr Nikotinbeutel",
-   "text": "Kein Rauchen, kein Dampfen: Nikotinbeutel sind unauffällig. Doch der konzentrierte Suchtstoff bereitet Gesundheitsexperten Sorgen - sie warnen vor einer möglichen Legalisierung. Denn Teenager greifen schon jetzt oft zu.",
-   "link": "https://www.tagesschau.de/inland/gesellschaft/nikotinbeutel-jugendliche-100.html",
-   "published": "2026-11-18T14:24:48+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-21T14:24:48+00:00",
-   "img": "https://images.tagesschau.de/image/b2f9bc0c-141b-43d1-bdd2-c9105254dd3d/AAABoe7fi74/AAABnSSvrFg/16x9-big/nikotinbeutel-134.jpg?width=1920"
-  },
-  {
-   "id": "n5f417ef0bc",
-   "topic": "wissenschaft",
-   "title": "Bilder der Woche: Neu entdeckte Froschart überrascht mit ungewöhnlicher Brutpflege",
-   "text": "Ein bislang unbekannter Flugfrosch bettet seine Eier in eine gallertartige Masse ein, in der sich die Kaulquappen geschützt entwickeln.",
-   "link": "https://www.spektrum.de/alias/bilder-der-woche/neu-entdeckte-froschart-ueberrascht-mit-ungewoehnlicher-brutpflege/2354908",
-   "published": "2026-11-18T14:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-12-02T14:00:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/Tadpoles-of-Rhacophorus-kurniatiae-in-unique-gelatinous-mass_c_WahyuTrilaksono_MuseumZoologicumBogoriense_FireflyUpscaler2x.jpg.8426578.jpg?f=1280x720"
-  },
-  {
-   "id": "ndac099b958",
-   "topic": "wirtschaft",
-   "title": "Regierung erleichtert Befristungen von Jobs",
-   "text": "Leichtere Befristungen, weniger Kündigungsschutz für Hochverdiener: Bereits im Juli hatte sich die Koalition grundsätzlich auf mehrere Änderungen im Arbeitsrecht verständigt. Nun hat das Kabinett das Gesetz auf den Weg gebracht.",
-   "link": "https://www.tagesschau.de/wirtschaft/jobbefristungen-kabinett-100.html",
-   "published": "2026-11-18T13:44:31+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-21T13:44:31+00:00",
-   "img": "https://images.tagesschau.de/image/43695d7f-87f4-4de1-b798-8140b6ea1728/AAABoe6sRCU/AAABnSSvrFg/16x9-big/grossraumbuero-136.jpg?width=1920"
-  },
-  {
-   "id": "n8e95db3f97",
-   "topic": "wirtschaft",
-   "title": "VW-Chef Blume: \"Komplett verändertes Umfeld\" zwingt zum Sparkurs",
-   "text": "Bei VW starten kommende Woche die Tarifgespräche. Im NDR-Interview spricht Konzernchef Blume über zu hohe Kosten, teure Werke und den umstrittenen Auftritt des Audi-Chefs in den USA. Von Annette Deutskens.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-volkswagen-blume-zukunftsstrategie-100.html",
-   "published": "2026-11-18T13:43:17+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-21T13:43:17+00:00",
-   "img": "https://images.tagesschau.de/image/bed1d740-da5a-46c3-940f-98deeecb3f5f/AAABoe70aAA/AAABnSSvrFg/16x9-big/oliver-blume-140.jpg?width=1920"
-  },
-  {
-   "id": "n15dac41f67",
-   "topic": "politik",
-   "title": "Stromsteuersenkung und Spritpreisdeckel: Was die Entlastungen im Alltag bringen könnten",
-   "text": "Ab Januar wollen Union und SPD die Stromsteuer für ein Jahr auf das europäische Mindestniveau senken. Auch ein Spritpreisdeckel ist vereinbart. Was wurde konkret beschlossen und wie viel Entlastung könnte das im Alltag bringen?",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/was-bringt-stromsteuer-senkung-koalitionsausschuss-100.html",
-   "published": "2026-11-18T13:36:45+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-21T13:36:45+00:00",
-   "img": "https://images.tagesschau.de/image/7978e8eb-8116-441f-89fc-c6a34f9273bb/AAABoe4T86g/AAABnSSvrFg/16x9-big/strompreis-138.jpg?width=1920"
-  },
-  {
-   "id": "na316393f9c",
-   "topic": "politik",
-   "title": "Sturm und Regen in Deutschland - viele Einsätze von Polizei und Feuerwehr",
-   "text": "Mancherorts sind bereits 50 Liter Regen binnen 24 Stunden runtergekommen - kombiniert mit heftigem Wind. Das bleibt zunächst auch so. Für fast ganz Deutschland gelten Unwetterwarnungen. Bislang war vor allem NRW betroffen.",
-   "link": "https://www.tagesschau.de/inland/gesellschaft/sturm-deutschland-106.html",
-   "published": "2026-11-18T12:59:46+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-21T12:59:46+00:00",
-   "img": "https://images.tagesschau.de/image/ad51b652-05fa-47e6-9495-466c708659a2/AAABoe696bk/AAABnSSvrFg/16x9-big/regen-196.jpg?width=1920"
-  },
-  {
-   "id": "n7cea9f29fc",
-   "topic": "politik",
-   "title": "\"Kleiner Hüpfer\", \"überfällig\", \"abenteuerlich\" - Reaktionen auf Stromsteuersenkung",
-   "text": "Sie kommt also, die vom Kanzler versprochene Stromsteuersenkung - zumindest für 2027. Die Maßnahme selbst stößt auf ein weitgehend positives Echo. Doch es gibt auch viel Kritik - daran, dass die Entlastung nicht dauerhaft ist.",
-   "link": "https://www.tagesschau.de/inland/stromsteuer-reaktionen-100.html",
-   "published": "2026-11-18T12:40:24+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-21T12:40:24+00:00",
-   "img": "https://images.tagesschau.de/image/3e372ecd-5e45-4a79-a66f-80cb62d7fc66/AAABoe1pyac/AAABnSSvrFg/16x9-big/merz-1804.jpg?width=1920"
-  },
-  {
-   "id": "nbbe99e6540",
-   "topic": "welt",
-   "title": "\"Keine Klimagerechtigkeit ohne Entmilitarisierung\"",
-   "text": "Militär verursacht geschätzt fünfeinhalb Prozent des globalen CO2-Ausstoßes. Auch der Wiederaufbau nach einem Krieg belastet das Klima. Experten auf der Weltklimakonferenz fordern deshalb Entmilitarisierung. Von D. K. Mäurer.",
-   "link": "https://www.tagesschau.de/ausland/asien/cop31-krieg-emissionen-100.html",
-   "published": "2026-11-18T12:13:49+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-21T12:13:49+00:00",
-   "img": "https://images.tagesschau.de/image/4dc410c7-25a7-4b1b-bab4-9cade5b1d595/AAABoe5Mvkw/AAABnSSvrFg/16x9-big/panzer-232.jpg?width=1920"
-  },
-  {
-   "id": "n4b9b9c8c31",
-   "topic": "politik",
-   "title": "Keine Neuauszählung: BSW scheitert mit Wahlprüfungsbeschwerde",
-   "text": "Zu wenige Stimmen und Belege: Das Bundesverfassungsgericht lehnt eine Klage des BSW auf Neuauszählung der Stimmen bei der Bundestagswahl ab. Nun erwägt die Union eine Reform der Wahlprüfung. Von Max Bauer.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/bsw-beschwerde-abgelehnt-bundestagswahl-100.html",
-   "published": "2026-11-18T11:55:00+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-21T11:55:00+00:00",
-   "img": "https://images.tagesschau.de/image/d1e05f6d-a426-4d3a-bdf4-ee7d2d1a8241/AAABmvnG4RI/AAABnSSvrFg/16x9-big/bsw-parteitag-106.jpg?width=1920"
-  },
-  {
-   "id": "n6001964c77",
-   "topic": "wissenschaft",
-   "title": "Wie eine Zuckersteuer der Gesundheit helfen kann",
-   "text": "Weniger Zucker in Getränken, weniger Erkrankungen - das ist die Hoffnung hinter einer Zuckersteuer. Doch dabei kommt es darauf an, was tatsächlich in die Flasche kommt. Von Yasmin Appelhans.",
-   "link": "https://www.tagesschau.de/wissen/gesundheit/wie-eine-zuckersteuer-der-gesundheit-helfen-koennte-100.html",
-   "published": "2026-11-18T11:43:38+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-12-02T11:43:38+00:00",
-   "img": "https://images.tagesschau.de/image/950cb91b-9c62-42a3-b43c-60d1bde280c0/AAABoe4Obcw/AAABnSSvrFg/16x9-big/mann-limonade-100.jpg?width=1920"
-  },
-  {
-   "id": "nabdae2b9c2",
-   "topic": "it",
-   "title": "Notfall-Update veröffentlicht: Laufende Angriffe beeinträchtigen das Tor-Netzwerk",
-   "text": "Betreiber von Tor-Relays sollten zügig ihre Software aktualisieren. Das jüngste Update enthält einen neuen Schutz vor laufenden DDoS-Attacken. ( DoS , Cyberwar )",
-   "link": "https://www.golem.de/news/notfall-update-veroeffentlicht-laufende-angriffe-beeintraechtigen-das-tor-netzwerk-2611-215355.html",
-   "published": "2026-11-18T11:40:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-23T11:40:02+00:00",
-   "img": "https://www.golem.de/2611/215355-609173-609171_rc.jpg"
-  },
-  {
-   "id": "nda329c96b2",
-   "topic": "it",
-   "title": "Rockstar Games: GTA 6 holt Rekordwertungen",
-   "text": "Die ersten Reviews zu GTA 6 fallen begeistert aus. Selbst nach mehr als 100 Stunden entdecken die Tester noch Neues. ( GTA 6 , Rockstar )",
-   "link": "https://www.golem.de/news/rockstar-games-gta-6-holt-rekordwertungen-2611-215356.html",
-   "published": "2026-11-18T11:26:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-23T11:26:02+00:00",
-   "img": "https://www.golem.de/2611/215356-609178-609176_rc.jpg"
-  },
-  {
-   "id": "n591c1e6ee6",
-   "topic": "it",
-   "title": "„GTA 6“: Fachpresse feiert Rockstars Open-World-Spiel mit Höchstwertungen",
-   "text": "Die ersten Tests zu „GTA 6“ fallen überragend aus: Auf Metacritic steht das Spiel bei 99 Punkten. Kritik gibt es nur an Details wie der Bildrate.",
-   "link": "https://www.heise.de/news/GTA-6-Fachpresse-feiert-Rockstars-Open-World-Spiel-mit-Hoechstwertungen-11529221.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-18T11:26:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-23T11:26:00+00:00"
-  },
-  {
-   "id": "n826c41e6d1",
-   "topic": "politik",
-   "title": "Treffen in Shenzen - Xi wirbt für engere Zusammenarbeit Chinas und Russlands",
-   "text": "Chinas Staatschef Xi Jinping hat sich bei einem Treffen mit dem russischen Präsidenten Putin für eine engere bilaterale Zusammenarbeit ausgesprochen.",
-   "link": "https://www.deutschlandfunk.de/xi-wirbt-fuer-engere-zusammenarbeit-chinas-und-russlands-102.html",
-   "published": "2026-11-18T11:25:52+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-20T11:25:52+00:00",
-   "img": "https://bilder.deutschlandfunk.de/f3/bc/fb/72/f3bcfb72-1f75-4cb6-abc0-530e270806b9/xi-putin-shenzen-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Verteidigungsminister Pistorius wirbt in Polen für mehr Zusammenarbeit",
-     "link": "https://www.tagesschau.de/inland/pistorius-reise-polen-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n2e12fce24c",
-   "topic": "politik",
-   "title": "Koalitionsausschuss - CDU, CSU und SPD einigen sich auf Senkung der Stromsteuer",
-   "text": "CDU, CSU und SPD haben sich auf die Senkung der Stromsteuer für Privathaushalte sowie für bisher nicht begünstigte Teile der Wirtschaft verständigt. Das teilten die Vorsitzenden der Koalitionsparteien nach nächtlichen Beratungen in Berlin mit. Die Steuer solle zunächst bis Ende ⁠2027 ⁠auf das ⁠europäische ⁠Mindestmaß …",
-   "link": "https://www.deutschlandfunk.de/cdu-csu-und-spd-einigen-sich-auf-senkung-der-stromsteuer-102.html",
-   "published": "2026-11-18T11:25:52+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-20T11:25:52+00:00",
-   "img": "https://bilder.deutschlandfunk.de/FI/LE/_c/33/FILE_c330624622c0a4050cee68b70db419ba/43794313-jpg-100-768x768.jpg"
-  },
-  {
-   "id": "n08289e145b",
-   "topic": "politik",
-   "title": "Senkung der Steuer - So setzt sich der Strompreis in Deutschland zusammen",
-   "text": "In kaum einem Land ist Strom so teuer wie in Deutschland. Die Börse ist der Ort der Händler, hier decken sich Stadtwerke und andere Stromanbieter mit Strom ein – zum Großhandelspreis. Sie schließen unterschiedlich langlaufende Verträge, um die Schwankungen am Markt auszugleichen. Daraus wiederum gestalten sie Angebote …",
-   "link": "https://www.deutschlandfunk.de/so-setzt-sich-der-strompreis-in-deutschland-zusammen-100.html",
-   "published": "2026-11-18T11:25:52+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-20T11:25:52+00:00",
-   "img": "https://bilder.deutschlandfunk.de/74/7f/a4/6e/747fa46e-7cf0-4642-9a42-57d1444c85cf/strompreise-102-1920x1920.jpg"
-  },
-  {
-   "id": "na42111f710",
-   "topic": "politik",
-   "title": "Ukraine-Krieg - Von der Leyen schlägt neues Darlehen für die Ukraine von 45 Milliarden Euro vor",
-   "text": "Die EU-Kommission hat zur Unterstützung der Ukraine ein weiteres Darlehen von rund 45 Milliarden Euro vorgeschlagen.",
-   "link": "https://www.deutschlandfunk.de/von-der-leyen-schlaegt-neues-darlehen-fuer-die-ukraine-von-45-milliarden-euro-vor-100.html",
-   "published": "2026-11-18T11:25:52+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-20T11:25:52+00:00",
-   "img": "https://bilder.deutschlandfunk.de/65/f5/48/a9/65f548a9-f522-4c77-bdd8-fe1026c5c11a/ursula-von-der-leyen-bruessel-eu-kommission-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "EU-Kommission schlägt 45-Milliarden-Kredit für Ukraine vor",
-     "link": "https://www.dw.com/de/eu-kommission-schlägt-45-milliarden-kredit-für-ukraine-vor/a-79982843?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "nf1b4ba0dfd",
-   "topic": "politik",
-   "title": "Krieg gegen die Ukraine - Wadephul: Europa muss bei Friedensgesprächen mit am Tisch sitzen",
-   "text": "Außenminister Wadephul besteht vor dem morgigen Treffen der USA, Russlands und Chinas auf einer Beteiligung Europas an Gesprächen über ein Ende des Ukraine-Kriegs.",
-   "link": "https://www.deutschlandfunk.de/wadephul-europa-muss-bei-friedensgespraechen-mit-am-tisch-sitzen-100.html",
-   "published": "2026-11-18T11:25:52+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-20T11:25:52+00:00",
-   "img": "https://bilder.deutschlandfunk.de/2f/09/3f/fe/2f093ffe-0467-4038-88af-a2011ddf046e/bundesaussenminister-wadephul-aserbaidschan-100-1920x1920.jpg"
-  },
-  {
-   "id": "n1063f74bf8",
-   "topic": "politik",
-   "title": "EU-Einigung - Europas Stromnetze sollen schneller wachsen",
-   "text": "Vertreter der EU-Staaten und des Europäischen Parlaments haben sich auf Maßnahmen für einen schnelleren Ausbau der Stromnetze geeinigt. Wie beide Seiten in Brüssel mitteilten, sollen dafür unter anderem die Leitungen in Europa besser miteinander verbunden werden.",
-   "link": "https://www.deutschlandfunk.de/europas-stromnetze-sollen-schneller-wachsen-104.html",
-   "published": "2026-11-18T11:25:52+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-20T11:25:52+00:00",
-   "img": "https://bilder.deutschlandfunk.de/7b/3d/a0/d5/7b3da0d5-6689-414b-b2a5-72bfe226c538/strom-netz-deutschland-ausbau-100-1920x1920.jpg"
-  },
-  {
-   "id": "nfdddb0d02d",
-   "topic": "welt",
-   "title": "US-Senat: Demokraten färben Alaska blau",
-   "text": "Traditionell wird im nördlichsten US-Bundesstaat republikanisch gewählt. Jetzt gelingt einer indigenen Demokratin die Sensation: Sie zieht für Alaska in den Senat ein.",
-   "link": "https://www.dw.com/de/us-senat-demokraten-färben-alaska-blau/a-79979852?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-18T11:22:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-22T11:22:00+00:00",
-   "img": "https://static.dw.com/image/79976231_302.jpg"
-  },
-  {
-   "id": "nd7479c8409",
-   "topic": "politik",
-   "title": "Sorgerechtsreform: Kein Umgangsrecht mehr für gewalttätigen Elternteil",
-   "text": "Wie können Kinder besser geschützt werden, wenn es zwischen den Eltern zu Gewalt kommt? Die Regierung hat dafür eine Gesetzesreform auf den Weg gebracht - mit klar geregelten Sanktionen für Eltern und mehr Mitbestimmungsrechten für Kinder.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/gesetzentwurf-sorgerecht-100.html",
-   "published": "2026-11-18T11:19:09+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-21T11:19:09+00:00",
-   "img": "https://images.tagesschau.de/image/cc62aaec-9be1-4ab8-9152-b85193c4ac4d/AAABobVW4eg/AAABnSSvrFg/16x9-big/spd-hubig-100.jpg?width=1920"
-  },
-  {
-   "id": "nb1aea087de",
-   "topic": "welt",
-   "title": "Trump, Xi, Putin: Dreiergipfel mit drei Erwartungen",
-   "text": "Ein bahnbrechendes Treffen, ein \"Jalta 2.0\", der Start einer \"neuen Weltordnung\": Vor dem Dreiergipfel von Xi, Trump und Putin in Shenzhen hagelt es geradezu Superlative. Sind die Erwartungen zu hoch?",
-   "link": "https://www.dw.com/de/trump-xi-putin-dreiergipfel-mit-drei-erwartungen/a-79978410?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-18T11:16:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-22T11:16:00+00:00",
-   "img": "https://static.dw.com/image/79978133_302.jpg",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Shenzhen - Xi auf Dreier-Gipfel mit Putin und Trump: \"Alles tun, um einen Atomkrieg zu verhindern\"",
-     "link": "https://www.deutschlandfunk.de/xi-auf-dreier-gipfel-mit-putin-und-trump-alles-tun-um-einen-atomkrieg-zu-verhindern-100.html"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "Putin, Xi und Trump: Appelle für Weltfrieden und gegen Atomkrieg",
-     "link": "https://www.tagesschau.de/ausland/asien/gipfel-trump-putin-xi-shenzhen-100.html"
-    }
-   ]
   }
  ]
 }
