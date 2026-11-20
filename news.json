@@ -1,59 +1,281 @@
 {
- "generated": "2026-11-19T20:38:15.334024+00:00",
+ "generated": "2026-11-20T02:19:29.598085+00:00",
  "briefing": [
   "nf121a2cb46",
   "n510e8b393e",
   "n955f3a6f81",
+  "n20b63f9cbe",
+  "n69ccb7f11c",
+  "nb1239dda40",
   "ncd90db93ae",
-  "n9d27693b81",
   "nd3df81c314",
   "na019c420b1",
-  "n7348b944cd",
-  "nf2e5458da9"
+  "n9d27693b81"
  ],
  "ranked": [
   {
    "id": "nf121a2cb46",
-   "s": 41.0
+   "s": 39.6
   },
   {
    "id": "n510e8b393e",
-   "s": 38.9
+   "s": 37.5
   },
   {
    "id": "n955f3a6f81",
-   "s": 32.7
+   "s": 32.0
+  },
+  {
+   "id": "n20b63f9cbe",
+   "s": 27.9
+  },
+  {
+   "id": "n69ccb7f11c",
+   "s": 23.0
+  },
+  {
+   "id": "nb1239dda40",
+   "s": 22.6
   },
   {
    "id": "ncd90db93ae",
-   "s": 22.9
-  },
-  {
-   "id": "n9d27693b81",
-   "s": 22.9
+   "s": 21.5
   },
   {
    "id": "nd3df81c314",
-   "s": 22.9
+   "s": 21.5
   },
   {
    "id": "na019c420b1",
-   "s": 22.7
+   "s": 21.3
   },
   {
-   "id": "n7348b944cd",
-   "s": 22.7
+   "id": "n9d27693b81",
+   "s": 19.5
   },
   {
-   "id": "nf2e5458da9",
-   "s": 22.1
+   "id": "n38938122bd",
+   "s": 19.3
+  },
+  {
+   "id": "n5a7a4551bb",
+   "s": 19.3
+  },
+  {
+   "id": "n749a6320cf",
+   "s": 19.3
+  },
+  {
+   "id": "n00eb7624ec",
+   "s": 19.2
+  },
+  {
+   "id": "n868ba5258d",
+   "s": 18.8
+  },
+  {
+   "id": "n01a7d68e36",
+   "s": 18.5
   }
  ],
  "items": [
   {
+   "id": "nd39b532401",
+   "topic": "politik",
+   "title": "Gesellschaft - \"Flächendeckende Vernachlässigung\": Verbände rufen Politik zum Tag der Kinderrechte zum Handeln auf",
+   "text": "Anlässlich des Internationalen Tags der Kinderrechte fordern Verbände mehr politische Aufmerksamkeit für die Belange von Minderjährigen. Im Fokus stehen dabei die Bekämpfung von Kinderarmut, bessere Bildungschancen und stärkere Mitbestimmung junger Menschen.",
+   "link": "https://www.deutschlandfunk.de/flaechendeckende-vernachlaessigung-verbaende-rufen-politik-zum-tag-der-kinderrechte-zum-handeln-auf-100.html",
+   "published": "2026-11-20T02:13:15+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-22T02:13:15+00:00",
+   "img": "https://bilder.deutschlandfunk.de/d0/c9/16/1b/d0c9161b-cd00-472a-a50b-1c88826bc6c7/kinder-smartphone-104-1920x1920.jpg"
+  },
+  {
+   "id": "n4fd650bdf8",
+   "topic": "politik",
+   "title": "Vor den heutigen Jugendprotesten - Bundesschülerkonferenz wirft Politik falsche Prioritäten vor und mahnt mehr Fokus auf Bildung an",
+   "text": "Vor den für heute angekündigten Jugendprotesten hat die Bundesschülerkonferenz der Politik falsche Prioritäten vorgeworfen.",
+   "link": "https://www.deutschlandfunk.de/bundesschuelerkonferenz-wirft-politik-falsche-prioritaeten-vor-und-mahnt-mehr-fokus-auf-bildung-an-100.html",
+   "published": "2026-11-20T02:13:15+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-22T02:13:15+00:00",
+   "img": "https://bilder.deutschlandfunk.de/c9/d1/db/95/c9d1db95-04cf-4182-ad47-84cc8883dd8f/genz-regelt-karlsruhe-100-1920x1920.jpg"
+  },
+  {
+   "id": "n620669274b",
+   "topic": "politik",
+   "title": "Medienbericht - Spritklau: Landeskriminalämter registrieren teils massive Zunahmen",
+   "text": "Landeskriminalämter haben einem Medienbericht zufolge eine erhebliche Zunahme beim Diebstahl von Kraftstoffen festgestellt.",
+   "link": "https://www.deutschlandfunk.de/spritklau-landeskriminalaemter-registrieren-teils-massive-zunahmen-100.html",
+   "published": "2026-11-20T02:13:15+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-22T02:13:15+00:00",
+   "img": "https://bilder.deutschlandfunk.de/ca/c3/d4/14/cac3d414-89eb-43d3-9425-abbc3d15a1d8/benzinpreise-104-1920x1920.jpg"
+  },
+  {
+   "id": "n69ccb7f11c",
+   "topic": "politik",
+   "title": "ESG - Mehr Transparenz: EU plant drei neue Kategorien für nachhaltige ETFs, Fonds und andere Finanzprodukte",
+   "text": "Wer sein Geld beispielsweise mit nachhaltigen Aktien oder Anleihen vermehren will, soll nach dem Willen der Europäischen Union besser vor Täuschung geschützt werden.",
+   "link": "https://www.deutschlandfunk.de/mehr-transparenz-eu-plant-drei-neue-kategorien-fuer-nachhaltige-etfs-fonds-und-andere-finanzprodukte-100.html",
+   "published": "2026-11-20T02:13:15+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-22T02:13:15+00:00",
+   "img": "https://bilder.deutschlandfunk.de/NO/VA/_2/11/NOVA_211d3968845cdcc3ed34b23f1cf76591/craft-12401608-asset-100-1920x1920.jpg"
+  },
+  {
+   "id": "nb3d0e888b0",
+   "topic": "politik",
+   "title": "KI-Firma - Anthropic startet mit kräftigem Kursplus an der Börse",
+   "text": "Die US-amerikanische KI-Firma Anthropic ist bei ihrem Börsengang mit einem deutlichen Plus in den Handel gestartet. Der erste Kurs an der Technologiebörse Nasdaq lag bei 111,50 US-Dollar und damit gut ein Drittel über dem Ausgabepreis. Somit erreichte Anthropic eine Marktkapitalisierung von mehr als zwei Billionen …",
+   "link": "https://www.deutschlandfunk.de/anthropic-startet-mit-kraeftigem-kursplus-an-der-boerse-102.html",
+   "published": "2026-11-20T02:13:15+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-22T02:13:15+00:00"
+  },
+  {
+   "id": "n80516fcfb6",
+   "topic": "politik",
+   "title": "Karibikstaat - Dramatischer Staats- und Sicherheitskollaps hält an: Haitianische Polizei tötet 34 mutmaßliche Bandenmitglieder",
+   "text": "Bei einem Polizeieinsatz im karibischen Krisenstaat Haiti sind nach offiziellen Angaben 34 mutmaßliche Bandenmitglieder getötet worden.",
+   "link": "https://www.deutschlandfunk.de/dramatischer-staats-und-sicherheitskollaps-haelt-an-haitianische-polizei-toetet-34-mutmassliche-band-100.html",
+   "published": "2026-11-20T02:13:15+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-22T02:13:15+00:00"
+  },
+  {
+   "id": "n1c013bbf6c",
+   "topic": "nfl",
+   "title": "C.J. Stroud connects with Nico Collins to give Texans 7-3 lead",
+   "text": "The Texans were outplayed for most of the first quarter, but they have a 7-3 lead.",
+   "link": "https://sports.yahoo.com/articles/c-j-stroud-connects-nico-020230117.html",
+   "published": "2026-11-20T02:02:30+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-25T02:02:30+00:00"
+  },
+  {
+   "id": "nbf68f9b6f9",
+   "topic": "nfl",
+   "title": "There are worse backup plans than Beaux Limmer",
+   "text": "Coleman Shelton injured for Rams. Beaux Limmer returns to the starting lineup.",
+   "link": "https://sports.yahoo.com/articles/worse-backup-plans-beaux-limmer-020000209.html",
+   "published": "2026-11-20T02:00:00+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-25T02:00:00+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/25e52651412d2fb074a29f1082297022.jpg"
+  },
+  {
+   "id": "n20b63f9cbe",
+   "topic": "wirtschaft",
+   "title": "Medienberichte: Lufthansa will 1.000 Stellen streichen",
+   "text": "Insgesamt 1.000 Stellen in München und Frankfurt will man bei der Lufthansa Airlines streichen, das geht aus einem Brief an Mitarbeiter hervor. Auf Anfrage wollte die Airline dem internen Schreiben \"nichts hinzufügen\".",
+   "link": "https://www.tagesschau.de/wirtschaft/lufthansa-1000-stellen-100.html",
+   "published": "2026-11-20T01:56:36+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-23T01:56:36+00:00",
+   "img": "https://images.tagesschau.de/image/2841e225-4886-4828-8c4b-5ef6e85bc0ab/AAABofZ_wqM/AAABnSSvrFg/16x9-big/lufhansa-boeing-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "hessenschau (hr)",
+     "title": "Lufthansa will 1.000 Stellen streichen - auch Frankfurt betroffen",
+     "link": "https://www.hessenschau.de/wirtschaft/lufthansa-will-1000-stellen-streichen---auch-frankfurt-betroffen-v1,lufthansa-stellen-104.html"
+    }
+   ]
+  },
+  {
+   "id": "n67e5505647",
+   "topic": "nfl",
+   "title": "Bills to retire franchise legend Andre Reed's No. 83 during the 2027 season",
+   "text": "Reed is Buffalo's career leader in every major receiving category",
+   "link": "https://www.cbssports.com/nfl/news/bills-to-retire-andre-reeds-no-83-during-the-2027-season/",
+   "published": "2026-11-20T00:46:54+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-25T00:46:54+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/11/20/a1715ec3-4d95-4b41-bbec-5814a9db53e8/andrereedbills.jpg"
+  },
+  {
+   "id": "nb1239dda40",
+   "topic": "wirtschaft",
+   "title": "Arbeitskampf: IG Metall startet 24-Stunden-Warnstreiks",
+   "text": "In ganz Deutschland sollen Betriebe einen Tag lang stillstehen - seit Mitternacht rollt die Streikwelle der IG Metall an. Betroffen sind Betriebe der Metall- und Elektroindustrie.",
+   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/warnstreik-ig-metall-126.html",
+   "published": "2026-11-20T00:41:04+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-23T00:41:04+00:00",
+   "img": "https://images.tagesschau.de/image/04bf49bc-e6a4-487a-bbef-fcb909596702/AAABofZbVKE/AAABnSSvrFg/16x9-big/ig-metall-streik-110.jpg?width=1920"
+  },
+  {
+   "id": "n0e09ae3ec5",
+   "topic": "nfl",
+   "title": "Texans vs. Colts prediction: Houston looks to bounce back on 'TNF' vs. lowly Indy after rough Week 10 loss",
+   "text": "Plus, how to watch, what to know and a prediction before the 'Thursday Night Football' matchup",
+   "link": "https://www.cbssports.com/nfl/news/texans-vs-colts-how-to-watch-odds-preview-prediction/",
+   "published": "2026-11-20T00:38:59+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-25T00:38:59+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/11/19/1a79c277-935a-4d08-81f8-dc0da6c02a2e/texans-colts.jpg"
+  },
+  {
+   "id": "ne84df5be00",
+   "topic": "politik",
+   "title": "Lufthansa will 1.000 Stellen streichen - auch Frankfurt betroffen",
+   "text": "Die Lufthansa will an den großen Drehkreuzen Frankfurt und München rund 1.000 Vollzeitstellen streichen. Als Grund nennt der Vorstand Verluste im laufenden Geschäft. Offen ist, bis wann und welche Stellen wegfallen sollen.",
+   "link": "https://www.hessenschau.de/wirtschaft/lufthansa-will-1000-stellen-streichen---auch-frankfurt-betroffen-v1,lufthansa-stellen-104.html",
+   "published": "2026-11-19T23:06:06+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-23T23:06:06+00:00",
+   "img": "https://www.hessenschau.de/wirtschaft/flugzeug-104~_t-1789552909085_v-16to9.jpg",
+   "tag": "Hessen",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Medienberichte: Lufthansa will 1.000 Stellen streichen",
+     "link": "https://www.tagesschau.de/wirtschaft/lufthansa-1000-stellen-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n6d2ec352ae",
+   "topic": "it",
+   "title": "WTF: Schummelbremse Notfallwarnung: Südkorea lässt bei Aufnahmetests Handys läuten",
+   "text": "Südkorea offenbart Obsession über Uni-Aufnahmetests. Flughäfen werden gesperrt, und das Notfall-Warnsystem muss zum Aufspüren von Handys herhalten.",
+   "link": "https://www.heise.de/news/Suedkorea-aktiviert-Katastrophenalarmsystem-um-Handys-bei-Uni-Test-zu-finden-11531901.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-19T22:07:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-24T22:07:00+00:00"
+  },
+  {
    "id": "n679f5ef204",
    "topic": "it",
-   "title": "Spionagegericht: Großbritannien muss Auftrag für Apple-Hintertür gestehen",
+   "title": "Britische Regierung muss gestehen, dass sie Apple eine Hintertür befohlen hat",
    "text": "Das britische Innenministerium hat Apple befohlen, eine Hintertür in die iCloud einzubauen. Ein Gericht zwingt das Ministerium dazu, das öffentlich zuzugeben.",
    "link": "https://www.heise.de/news/Spionagegericht-Grossbritannien-muss-Auftrag-fuer-Apple-Hintertuer-gestehen-11531845.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
    "published": "2026-11-19T20:33:00+00:00",
@@ -175,8 +397,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-11-21T20:14:34+00:00",
-   "img": "https://bilder.deutschlandfunk.de/65/71/05/e1/657105e1-a8dd-4be6-84a7-9535287be23e/anthropic-boersengang-nasdaq-100-1920x1920.jpg"
+   "expires": "2026-11-21T20:14:34+00:00"
   },
   {
    "id": "nd3df81c314",
@@ -203,19 +424,6 @@
    "lang": "en",
    "expires": "2026-11-24T20:09:38+00:00",
    "img": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/projected-points-wk11_6768.png"
-  },
-  {
-   "id": "n0e09ae3ec5",
-   "topic": "nfl",
-   "title": "Texans vs. Colts prediction: Houston looks to bounce back vs. lowly Indy after rough Week 10 loss",
-   "text": "Plus, how to watch, what to know and a prediction before the 'Thursday Night Football' matchup",
-   "link": "https://www.cbssports.com/nfl/news/texans-vs-colts-how-to-watch-odds-preview-prediction/",
-   "published": "2026-11-19T20:02:11+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-24T20:02:11+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/11/19/1a79c277-935a-4d08-81f8-dc0da6c02a2e/texans-colts.jpg"
   },
   {
    "id": "na019c420b1",
@@ -577,7 +785,7 @@
   },
   {
    "id": "ncddb90647a",
-   "topic": "wirtschaft",
+   "topic": "welt",
    "title": "KI-gestützter Cyberangriff auf EU-Kommission",
    "text": "Die Europäische Kommission in Brüssel ist Ziel eines KI-gestützten Hackerangriffs geworden. Ob Daten der mehr als 33.000 Beschäftigten gestohlen wurden, sagte die Behörde nicht. Auch die Verantwortlichen sind nicht bekannt.",
    "link": "https://www.tagesschau.de/ausland/europa/cyberangriff-eu-kommission-100.html",
@@ -799,14 +1007,7 @@
    "source": "heise online",
    "type": "Fachmedium (IT)",
    "lang": "de",
-   "expires": "2026-11-24T11:20:00+00:00",
-   "also": [
-    {
-     "source": "THE DECODER",
-     "title": "Google Deepmind startet Genie 4-Rollout: Interaktive Welten per Textprompt in Echtzeit verändern",
-     "link": "https://the-decoder.de/google-deepmind-startet-genie-4-rollout-interaktive-welten-per-textprompt-in-echtzeit-veraendern/"
-    }
-   ]
+   "expires": "2026-11-24T11:20:00+00:00"
   },
   {
    "id": "nd3cbe4966c",
@@ -1595,178 +1796,6 @@
    "lang": "en",
    "expires": "2026-11-23T20:13:11+00:00",
    "img": "https://sportshub.cbsistatic.com/i/2026/11/18/0dfc3b41-b1ec-4135-a9c8-3766c814445b/jeff-hafley-dolphins.jpg"
-  },
-  {
-   "id": "nec4dca2b5b",
-   "topic": "nfl",
-   "title": "Steelers place Mason McCormick on injured reserve",
-   "text": "Pittsburgh will be down one of its top offensive lineman for at least four weeks; Steelers hope to get McCormick back for the playoffs.",
-   "link": "https://sports.yahoo.com/articles/steelers-place-mason-mccormick-injured-201225634.html",
-   "published": "2026-11-18T20:12:25+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-23T20:12:25+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/eec89e781dbb286bc918948338bcdec4.jpg"
-  },
-  {
-   "id": "nc17db9e478",
-   "topic": "wissenschaft",
-   "title": "Team aus Karlsruhe erhält Zukunftspreis für Mikrochip-Forschung",
-   "text": "Mit dem Deutschen Zukunftspreis des Bundespräsidenten soll besonders innovative Forschung ausgezeichnet werden. Dieses Jahr geht er an ein Forscher-Team, dessen Technik den Einsatz von lichtleitenden Mikrochips, die Daten schneller und energieeffizienter übertragen können, wesentlich einfacher macht.",
-   "link": "https://www.tagesschau.de/wissen/forschung/zukunftspreis-110.html",
-   "published": "2026-11-18T19:44:46+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-12-02T19:44:46+00:00",
-   "img": "https://images.tagesschau.de/image/0f01818e-9276-4c62-85d0-fe32a5d49eb6/AAABofAwtGU/AAABnSSvrFg/16x9-big/zukunftspreis-112.jpg?width=1920"
-  },
-  {
-   "id": "n801a2d7083",
-   "topic": "it",
-   "title": "WordPress-Update schließt zig Lücken",
-   "text": "WordPress bekämpft mit einem Zwischenupdate zahlreiche Bugs. Bitte unverzüglich updaten.",
-   "link": "https://www.heise.de/news/WordPress-Update-schliesst-zig-Luecken-11530196.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-18T19:38:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-23T19:38:00+00:00"
-  },
-  {
-   "id": "n87e8be904e",
-   "topic": "it",
-   "title": "Lyft-Übernahme: FreeNow verschwindet vom Markt",
-   "text": "Nach der Übernahme von FreeNow will Lyft wieder Mietwagen vermitteln. Mittelfristig wird die Marke FreeNow vom Markt verschwinden.",
-   "link": "https://www.heise.de/news/Nach-FreeNow-Uebernahme-Lyft-steigt-wieder-bei-Mietwagen-ein-11530160.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-18T19:20:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-23T19:20:00+00:00"
-  },
-  {
-   "id": "n8505fb4eeb",
-   "topic": "ki",
-   "title": "Google Deepmind startet Genie 4-Rollout: Interaktive Welten per Textprompt in Echtzeit verändern",
-   "text": "Google DeepMind öffnet mit Genie 4 sein bisher realistischstes Weltmodell für Google-AI-Ultra-Abonnenten. Es erzeugt interaktive 3D-Welten, die sich per Texteingabe in Echtzeit verändern lassen, erstmals inklusive nativem Sound. Eine Community-Galerie ermöglicht das Teilen und Remixen erstellter Welten. Der Artikel …",
-   "link": "https://the-decoder.de/google-deepmind-startet-genie-4-rollout-interaktive-welten-per-textprompt-in-echtzeit-veraendern/",
-   "published": "2026-11-18T19:07:25+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-25T19:07:25+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/Genie-4-Google-title.png",
-   "also": [
-    {
-     "source": "heise online",
-     "title": "Google Genie 4: Interaktive KI-Welten jetzt für Abonnenten verfügbar",
-     "link": "https://www.heise.de/news/Google-Genie-4-Interaktive-KI-Welten-jetzt-fuer-Abonnenten-verfuegbar-11530791.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    }
-   ]
-  },
-  {
-   "id": "nb177dfdcec",
-   "topic": "it",
-   "title": "Top 10: Die beste Screenbar im Test – Monitorlampe mit hellem Licht ab 23 Euro",
-   "text": "Screenbars leuchten den Schreibtisch blendfrei aus und kosten keinen Platz. Wir zeigen die zehn besten Monitorlampen aus 21 Tests.",
-   "link": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-screenbar-im-test-monitorlampe-mit-hellem-licht-ab-23-euro/1y3x1w6?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-18T19:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-23T19:00:00+00:00"
-  },
-  {
-   "id": "n52f322925b",
-   "topic": "wirtschaft",
-   "title": "Wirtschaft vor acht vom 18.11.2026",
-   "text": "Wirtschaft vor acht vom 18.11.2026",
-   "link": "https://www.tagesschau.de/video/video-1686102.html",
-   "published": "2026-11-18T18:59:41+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-21T18:59:41+00:00",
-   "img": "https://images.tagesschau.de/image/a9b796f0-a6c7-496a-b114-9c26fae1f2bb/AAABofAGQ40/AAABnSSvrFg/16x9-big/sendungsbild-1829534.jpg?width=1920"
-  },
-  {
-   "id": "nd02b624c78",
-   "topic": "nfl",
-   "title": "49ers might have just outsmarted the Vikings with unique travel plan for Week 11 NFC showdown in Mexico City",
-   "text": "The 49ers-Vikings game will be held at an elevation of almost 7,400 feet. The two teams are taking an opposite approach with their preparation",
-   "link": "https://www.cbssports.com/nfl/news/49ers-outsmarted-vikings-unique-travel-plan-week-11-nfc-showdown-mexico-city/",
-   "published": "2026-11-18T18:49:02+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-23T18:49:02+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/11/18/88be9fbb-66f5-4990-9f14-f3f42856f564/shanahan.jpg"
-  },
-  {
-   "id": "ne778165c1f",
-   "topic": "it",
-   "title": "Gartner widerspricht KI-Blase: Weltweiter KI-Ausbau \"ist womöglich noch zu klein\"",
-   "text": "Rund 2,4 Billionen US-Dollar sollen 2027 weltweit in KI-Infrastruktur fließen - weit mehr, als Endkunden bisher für Anwendungen zahlen. Gartner hält den massiven Vorab-Ausbau für nötig. ( KI , Studien )",
-   "link": "https://www.golem.de/news/gartner-widerspricht-ki-blase-ki-ausbau-ist-womoeglich-noch-zu-klein-2611-215377.html",
-   "published": "2026-11-18T18:12:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-23T18:12:02+00:00",
-   "img": "https://www.golem.de/2611/215377-609278-609276_rc.jpg"
-  },
-  {
-   "id": "n65be04a50c",
-   "topic": "welt",
-   "title": "Demokraten nominieren Jeffries als Chef des US-Repräsentantenhauses",
-   "text": "Trotz Vorbehalten einiger Progressiver haben die US-Demokraten ihren Fraktionschef Jeffries für den Vorsitz des US-Repräsentantenhauses nominiert. Als solcher könnte er auch Untersuchungen gegen die Trump-Regierung vorantreiben.",
-   "link": "https://www.tagesschau.de/ausland/amerika/jeffries-nominiert-100.html",
-   "published": "2026-11-18T18:11:40+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-21T18:11:40+00:00",
-   "img": "https://images.tagesschau.de/image/3f79ecb3-1431-4762-a7ce-4a9ec7f56719/AAABoe_Bh9Q/AAABnSSvrFg/16x9-big/jeffries-110.jpg?width=1920"
-  },
-  {
-   "id": "n811adadae4",
-   "topic": "welt",
-   "title": "Neuer EU-Kredit für Ukraine: \"Wir sind entschlossener denn je\"",
-   "text": "Die Ukraine braucht dringend Geld - den Großteil soll die EU nach Willen der Kommission übernehmen. Für die Rückzahlung sollen künftige russische Reparationen genutzt werden. Doch einige Mitgliedsstaaten sind dagegen. Von T. Hassel und C. Feld.",
-   "link": "https://www.tagesschau.de/ausland/europa/eu-ukraine-unsterstuetzung-100.html",
-   "published": "2026-11-18T18:02:26+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-21T18:02:26+00:00",
-   "img": "https://images.tagesschau.de/image/f315ab8d-9361-4165-b851-54e10a2f8eb3/AAABoe9v4Zk/AAABnSSvrFg/16x9-big/kubilius-leyen-dombrovskis-100.jpg?width=1920"
-  },
-  {
-   "id": "nf5faf69e78",
-   "topic": "wirtschaft",
-   "title": "Deutliche Kursverluste: DAX rutscht unter 26.000er-Marke",
-   "text": "Das Rekordhoch der vergangenen Woche ist längst wieder passé. Der Leitindex DAX endet mit einem deutlichen Minus und fällt bis auf 25.736 Punkte. Da helfen auch gute Zahlen aus der Industrie nichts.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nvidia-100.html",
-   "published": "2026-11-18T17:45:45+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-21T17:45:45+00:00",
-   "img": "https://images.tagesschau.de/image/18371428-3210-4453-b7ab-1fd97fa2d32f/AAABm5eTw7w/AAABnSSvrFg/16x9-big/statuen-baer-bulle-deutsche-boerse-100.jpg?width=1920"
-  },
-  {
-   "id": "n8be3589944",
-   "topic": "ki",
-   "title": "KI übernimmt das Chipdesign: OpenAI optimiert AMD-Grafikprozessoren mit eigenen Modellen",
-   "text": "OpenAI hat zusammen mit AMD bis zu 14 Prozent PPA-Verbesserung bei AMDs Flaggschiff-GPU-IP erzielt – in unter fünf Monaten wurde laut OpenAI der Fortschritt erzielt, der sonst ein Jahr dauert. AMD hat Änderungen bereits in ein zur Fertigung geschicktes Design übernommen. Auch Anthropic setzt KI im Chip-Kontext ein und …",
-   "link": "https://the-decoder.de/ki-uebernimmt-das-chipdesign-openai-optimiert-amd-grafikprozessoren-mit-eigenen-modellen/",
-   "published": "2026-11-18T17:36:33+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-25T17:36:33+00:00"
   }
  ]
 }
