@@ -1,50 +1,531 @@
 {
- "generated": "2026-11-21T11:03:04.791451+00:00",
+ "generated": "2026-11-21T19:16:05.433606+00:00",
  "briefing": [
   "n85c4bc1522",
+  "n3f3821c487",
+  "nfd23af6c7d",
   "n3f4502c8ed",
   "n7cbb72ff0a",
-  "nac992d7ee0",
-  "n670018c0c6",
-  "n41bfc6264b",
-  "nfd23af6c7d",
-  "na545c1b2d8"
+  "ne060e7b0cd",
+  "n5520fd281b",
+  "n99b07fadb5",
+  "n27deab4da5"
  ],
  "ranked": [
   {
    "id": "n85c4bc1522",
-   "s": 38.3
+   "s": 37.0
   },
   {
-   "id": "n3f4502c8ed",
-   "s": 32.7
-  },
-  {
-   "id": "n7cbb72ff0a",
-   "s": 28.7
-  },
-  {
-   "id": "nac992d7ee0",
-   "s": 28.0
-  },
-  {
-   "id": "n670018c0c6",
-   "s": 27.7
-  },
-  {
-   "id": "n41bfc6264b",
-   "s": 22.9
+   "id": "n3f3821c487",
+   "s": 33.0
   },
   {
    "id": "nfd23af6c7d",
-   "s": 22.9
+   "s": 30.9
   },
   {
-   "id": "na545c1b2d8",
-   "s": 20.9
+   "id": "n3f4502c8ed",
+   "s": 30.6
+  },
+  {
+   "id": "n7cbb72ff0a",
+   "s": 27.0
+  },
+  {
+   "id": "ne060e7b0cd",
+   "s": 23.0
+  },
+  {
+   "id": "n5520fd281b",
+   "s": 23.0
+  },
+  {
+   "id": "n99b07fadb5",
+   "s": 23.0
+  },
+  {
+   "id": "n27deab4da5",
+   "s": 22.3
   }
  ],
  "items": [
+  {
+   "id": "n836ae8bc56",
+   "topic": "wissenschaft",
+   "title": "Klimakonferenz · Droht die COP31 zu scheitern?",
+   "text": "Dass eine Weltklimakonferenz pünktlich endet, passiert praktisch nie. Auch die COP31 in Antalya ist schon seit mehr als 24 Stunden in der Verlängerung. Droht ein Rückfall bei den Klimazielen oder sogar ein Scheitern?",
+   "link": "https://www.tagesschau.de/video/video-1687762.html",
+   "published": "2026-11-21T19:10:47+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-12-05T19:10:47+00:00",
+   "img": "https://images.tagesschau.de/image/1a118cb5-f408-4cf0-8d4d-79c6d60dbaaf/AAABob5TYAg/AAABnSSvrFg/16x9-big/cop-134.jpg?width=1920"
+  },
+  {
+   "id": "ne060e7b0cd",
+   "topic": "welt",
+   "title": "Finnland meldet Drohnenangriff auf russischen Frachter in der Ostsee",
+   "text": "Vor Finnland ist in internationalen Gewässern ein russisches Handelsschiff von Drohnen getroffen worden. Es brach ein Feuer aus, zur Besatzung gibt es widersprüchliche Angaben.",
+   "link": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-drohnenangriff-russland-frachter-100.html",
+   "published": "2026-11-21T19:10:03+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-24T19:10:03+00:00",
+   "img": "https://images.tagesschau.de/image/4ffc6b7b-b5a0-479c-aad8-927bf984e3dc/AAABof4zEqY/AAABnSSvrFg/16x9-big/sparta-2-100.jpg?width=1920"
+  },
+  {
+   "id": "n3f3821c487",
+   "topic": "politik",
+   "title": "Nach Luftraumverletzungen - NATO-Generalsekretär Rutte sichert Polen Unterstützung zu",
+   "text": "Nach den erneuten russischen Luftraumverletzungen in Polen hat NATO-Generalsekretär Rutte dem Land Unterstützung zugesichert. Die NATO werde jeden Zentimeter polnischen Territoriums verteidigen, sagte Rutte bei einem Besuch in Warschau. Er sprach von einem gefährlichen Vorfall.",
+   "link": "https://www.deutschlandfunk.de/nato-generalsekretaer-rutte-sichert-polen-unterstuetzung-zu-102.html",
+   "published": "2026-11-21T19:04:51+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-23T19:04:51+00:00",
+   "img": "https://bilder.deutschlandfunk.de/20/ea/20/15/20ea2015-6f46-4694-b24f-625ccba4af9f/rutte-nato-102-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Raketeneinschlag: NATO-Generalsekretär sagt Polen Unterstützung zu",
+     "link": "https://www.dw.com/de/raketeneinschlag-nato-generalsekretär-sagt-polen-unterstützung-zu/a-80004889?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
+  },
+  {
+   "id": "n5520fd281b",
+   "topic": "politik",
+   "title": "Nach IGH-Urteil - Frankreich will UNO-Sicherheitsrat zu Myanmar einberufen",
+   "text": "Nach dem Urteil des Internationalen Gerichtshofs gegen Myanmar will Frankreich eine Sitzung des UNO-Sicherheitsrats beantragen.",
+   "link": "https://www.deutschlandfunk.de/frankreich-will-uno-sicherheitsrat-zu-myanmar-einberufen-102.html",
+   "published": "2026-11-21T19:04:51+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-23T19:04:51+00:00",
+   "img": "https://bilder.deutschlandfunk.de/f0/ee/c0/22/f0eec022-2647-4909-bfee-60e06ae71edf/uno-sicherheitsrat-112-1920x1920.jpg"
+  },
+  {
+   "id": "n81c0e916d2",
+   "topic": "politik",
+   "title": "Türkei - Präsident der Weltklimakonferenz drängt zu Kompromiss",
+   "text": "Bei der UNO-Weltklimakonferenz im türkischen Antalya ringen die Teilnehmer weiter um eine Einigung. Der Präsident der Konferenz, Kurum, rief die beteiligten Staaten zu einem Kompromiss auf. In den vergangenen Stunden seien bei den Themen Elektrifizierung und CO2-Abscheidung Fortschritte erzielt worden, betonte Kurum.",
+   "link": "https://www.deutschlandfunk.de/praesident-der-weltklimakonferenz-draengt-zu-kompromiss-100.html",
+   "published": "2026-11-21T19:04:51+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-23T19:04:51+00:00",
+   "img": "https://bilder.deutschlandfunk.de/NO/VA/_0/24/NOVA_0240946102be588f09696546ab52df98/craft-13545287-asset-100-1920x1920.jpg"
+  },
+  {
+   "id": "n99b07fadb5",
+   "topic": "politik",
+   "title": "Medienbericht - Regierungsgutachten empfiehlt Pkw-Maut in Deutschland",
+   "text": "Ein im Auftrag der Bundesregierung erstelltes Gutachten empfiehlt offenbar die Einführung einer Pkw-Maut für deutsche Autobahnen.",
+   "link": "https://www.deutschlandfunk.de/regierungsgutachten-empfiehlt-pkw-maut-in-deutschland-100.html",
+   "published": "2026-11-21T19:04:51+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-23T19:04:51+00:00",
+   "img": "https://bilder.deutschlandfunk.de/e1/ff/36/5d/e1ff365d-8b72-46d0-84ac-45415ecac7a6/pkw-maut-kosten-100-1920x1920.jpg"
+  },
+  {
+   "id": "nbb2b782c43",
+   "topic": "politik",
+   "title": "EU-Haushalt - Merz gegen Kompromissvorschlag von Ratspräsident Costa",
+   "text": "Bundeskanzler Merz hat das Kompromissangebot zum langfristigen Haushalt der Europäischen Union abgelehnt. Der jetzt vorliegende Vorschlag von Ratspräsident Costa sei ein erster Schritt, das Volumen sei aber weiterhin zu hoch, sagte Merz in Berlin.",
+   "link": "https://www.deutschlandfunk.de/merz-gegen-kompromissvorschlag-von-ratspraesident-costa-100.html",
+   "published": "2026-11-21T19:04:51+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-23T19:04:51+00:00",
+   "img": "https://bilder.deutschlandfunk.de/a2/68/4a/d9/a2684ad9-ac2e-40bd-8e48-b8806faada6a/bundeskanzler-merz-berlin-104-1920x1920.jpg"
+  },
+  {
+   "id": "nd699bf8c04",
+   "topic": "politik",
+   "title": "Weltwirtschaft - EU und Indonesien besiegeln umfassendes Handelsabkommen",
+   "text": "Die Europäische Union und Indonesien haben ein Handels- und ein Investitionsschutz-Abkommen unterzeichnet. Nach Angaben der EU-Kommission sollen die Einfuhrzölle auf mehr als 90 Prozent der Produkte abgeschafft werden.",
+   "link": "https://www.deutschlandfunk.de/eu-und-indonesien-besiegeln-umfassendes-handelsabkommen-100.html",
+   "published": "2026-11-21T19:04:51+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-23T19:04:51+00:00",
+   "img": "https://bilder.deutschlandfunk.de/c9/4d/ca/6a/c94dca6a-a190-479d-9639-1750bd093a30/eu-indonesien-100-1920x1920.jpg"
+  },
+  {
+   "id": "n1e8fdb7d8e",
+   "topic": "nfl",
+   "title": "Chicago Bears vs. New Orleans Saints: Week 11 Players to Watch",
+   "text": "Take a look at @BryanOrenchuk’s players to watch for New Orleans as the Saints visit Soldier Field in Week 11!",
+   "link": "https://sports.yahoo.com/articles/chicago-bears-vs-orleans-saints-190000658.html",
+   "published": "2026-11-21T19:00:00+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-26T19:00:00+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/7cc25a4b016c3fbae874d2c1fa573214.jpg"
+  },
+  {
+   "id": "n09fead57bb",
+   "topic": "it",
+   "title": "Top 10: Das beste Smartphone im Test – Motorola überraschender Testsieger",
+   "text": "Viel Power und Top-Kameras: Welches ist das beste Smartphone? Wir haben die Flaggschiffe getestet und küren den Sieger.",
+   "link": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-smartphone-im-test-motorola-ueberraschender-testsieger/5qx1bd1?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-21T19:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-26T19:00:00+00:00"
+  },
+  {
+   "id": "n108babb0c1",
+   "topic": "nfl",
+   "title": "Falcons Draft 2027: Five Prospects for Falcons Fans to Watch for Week 12 of College Football",
+   "text": "Five prospects who should be on Atlanta’s radar are playing today. Check ‘em out.",
+   "link": "https://sports.yahoo.com/articles/falcons-draft-2027-five-prospects-184702249.html",
+   "published": "2026-11-21T18:47:02+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-26T18:47:02+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/181d6307d11af77417906dc64e0b7fb6.jpg"
+  },
+  {
+   "id": "n0845210829",
+   "topic": "politik",
+   "title": "News zu Eintracht Frankfurt",
+   "text": "Hier bekommen Sie immer die neuesten Nachrichten über Eintracht Frankfurt.",
+   "link": "https://www.hessenschau.de/sport/fussball/eintracht-frankfurt/news-zu-eintracht-frankfurt--hellmann-wirbt-fuer-stadion-neubau-,bundesliga-ticker-104.html",
+   "published": "2026-11-21T18:39:43+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-25T18:39:43+00:00",
+   "img": "https://www.hessenschau.de/sport/fussball/eintracht-frankfurt/hellmann-nachdenklich-100~_t-1783439827527_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "n46aabe8a8a",
+   "topic": "wissenschaft",
+   "title": "Klimakonferenz · Droht die COP31 zu scheitern?",
+   "text": "Dass eine Weltklimakonferenz pünktlich endet, passiert praktisch nie. Auch die COP31 in Antalya ist schon seit mehr als 24 Stunden in der Verlängerung. Droht ein Rückfall bei den Klimazielen oder sogar ein Scheitern?",
+   "link": "https://www.tagesschau.de/video/video-1687670.html",
+   "published": "2026-11-21T18:21:38+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-12-05T18:21:38+00:00",
+   "img": "https://images.tagesschau.de/image/ad3da3e0-3263-4379-b470-b9287dee210d/AAABoeEzp00/AAABnSSvrFg/16x9-big/cop-antalya-100.jpg?width=1920"
+  },
+  {
+   "id": "nd6eb304860",
+   "topic": "nfl",
+   "title": "Titans' Jaylen Harrell hospitalized after serious car accident, remains in hospital in Tampa",
+   "text": "The Titans said edge defender Jaylen Harrell remains hospitalized and is receiving care after a serious car accident Friday night in his hometown of Tampa",
+   "link": "https://www.cbssports.com/nfl/news/titans-jaylen-harrell-car-accident-hospital-tampa/",
+   "published": "2026-11-21T18:09:36+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-26T18:09:36+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/11/21/60d2c558-9131-47b4-9a68-fb1d526ad75b/jaylen-harrell-titans.jpg"
+  },
+  {
+   "id": "na5f1fc3c7e",
+   "topic": "wissenschaft",
+   "title": "Riemannsche Vermutung: Mathe-Jahrhundertproblem mit KI gelöst?",
+   "text": "Die Riemannsche Vermutung über Primzahlen gilt als eines der größten Probleme der Mathematik. Nun könnte sie mithilfe der KI von Anthropic gelöst worden sein - fast zeitgleich mit dem Börsengang des US-Unternehmens.",
+   "link": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html",
+   "published": "2026-11-21T17:32:19+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-12-05T17:32:19+00:00",
+   "img": "https://images.tagesschau.de/image/0f0e8b4e-d884-4b6e-b9b7-7928a016f4c0/AAABof8F-Zo/AAABnSSvrFg/16x9-big/primzahlen-102.jpg?width=1920",
+   "also": [
+    {
+     "source": "THE DECODER",
+     "title": "Heiliger Gral der Mathematik offenbar gefallen: Anthropic-Forscher löst Riemannsche Vermutung mit KI",
+     "link": "https://the-decoder.de/heiliger-gral-der-mathematik-offenbar-gefallen-anthropic-forscher-loest-riemannsche-vermutung-mit-ki/"
+    },
+    {
+     "source": "heise online",
+     "title": "Riemannsche Vermutung: Anthropic-Mathematiker will KI-Beweis gefunden haben",
+     "link": "https://www.heise.de/news/Riemannsche-Vermutung-Anthropic-Mathematiker-will-KI-Beweis-gefunden-haben-11533452.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    },
+    {
+     "source": "Spektrum der Wissenschaft",
+     "title": "Riemannsche Vermutung bewiesen: KI löst offenbar wichtigstes Problem der Mathematik",
+     "link": "https://www.spektrum.de/news/anthropic-ki-claude-beweist-riemannsche-vermutung/2355427"
+    }
+   ]
+  },
+  {
+   "id": "n15fb76539e",
+   "topic": "it",
+   "title": "Internet Archive soll Gewerkschaft bekommen",
+   "text": "Das Internet Archive ist eine der wichtigsten Adressen im Web und soll eine Gewerkschaftsvertretung bekommen. Grünes Licht der Geschäftsleitung fehlt noch.",
+   "link": "https://www.heise.de/news/Internet-Archive-soll-Gewerkschaft-bekommen-11533592.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-21T17:22:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-26T17:22:00+00:00"
+  },
+  {
+   "id": "n27deab4da5",
+   "topic": "wirtschaft",
+   "title": "Scheitert die UN-Klimakonferenz in Antalya?",
+   "text": "Dass eine Weltklimakonferenz pünktlich endet, passiert praktisch nie. Auch die COP31 in Antalya ist schon seit mehr als 24 Stunden in der Verlängerung. Droht ein Rückfall bei den Klimazielen - oder sogar ein Scheitern?",
+   "link": "https://www.tagesschau.de/wissen/klima/klimakonferenz/cop31-haengepartie-abschlusserklaerung-100.html",
+   "published": "2026-11-21T16:29:15+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-24T16:29:15+00:00",
+   "img": "https://images.tagesschau.de/image/2617cbc8-b4c1-47b6-a5d0-9743b9d9405e/AAABof7T7cY/AAABnSSvrFg/16x9-big/cop31-118.jpg?width=1920"
+  },
+  {
+   "id": "na3e13d690c",
+   "topic": "it",
+   "title": "Killer-Roboter: UN-Konferenz endet ohne Mandat für verbindliches Verbot",
+   "text": "Trotz viel Unterstützung für strenge Regeln haben Staaten wie Russland und die USA erneut einen klaren Fahrplan gegen autonome Waffensysteme in Genf blockiert.",
+   "link": "https://www.heise.de/news/Killer-Roboter-UN-Konferenz-endet-ohne-Mandat-fuer-verbindliches-Verbot-11533596.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-21T16:28:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-26T16:28:00+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "\"Killerroboter\": UN-Konferenz endet mit Minimalkompromiss",
+     "link": "https://www.tagesschau.de/ausland/europa/regeln-fuer-killerroboter-100.html"
+    }
+   ]
+  },
+  {
+   "id": "nf5750e74b8",
+   "topic": "wirtschaft",
+   "title": "Ministerium will Autobahntankstellen vom Spritpreisdeckel ausnehmen",
+   "text": "Ab Januar soll der Preisdeckel für Benzin und Diesel gelten. Wirtschaftsministerin Reiche plant offenbar, Autobahntankstellen davon ausnehmen. Ihr neuer Gesetzentwurf ist noch in der Abstimmung zwischen den Ministerien.",
+   "link": "https://www.tagesschau.de/inland/spritpreis-autobahntankstellen-ausnahme-100.html",
+   "published": "2026-11-21T15:55:59+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-24T15:55:59+00:00",
+   "img": "https://images.tagesschau.de/image/98d0f323-0dad-4ac9-8b0b-6a153c4037a7/AAABof7AlbY/AAABnSSvrFg/16x9-big/tankstelle-398.jpg?width=1920"
+  },
+  {
+   "id": "ne766b37f43",
+   "topic": "nfl",
+   "title": "How to watch 49ers vs. Vikings in Mexico City: TV, streaming, betting odds for 'Sunday Night Football' clash",
+   "text": "The NFC-leading 49ers face the Vikings in a Mexico City duel at Estadio Azteca",
+   "link": "https://www.cbssports.com/nfl/news/how-to-watch-49ers-vikings-tv-streaming-betting-odds-sunday-night-football-clash/",
+   "published": "2026-11-21T15:47:28+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-26T15:47:28+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/11/21/6f999752-b20d-4b3b-be81-da7a04784c59/brock-purdy-49ers-5.jpg"
+  },
+  {
+   "id": "na448c332c2",
+   "topic": "welt",
+   "title": "Mexiko nimmt einen der meistgesuchten Drogenbosse fest",
+   "text": "Die USA fordern von Mexiko schon länger ein hartes Vorgehen gegen Kartelle. Nun ist den Behörden offenbar ein hochrangiger Drogenboss ins Netz gegangen. Der Mann zählte auf der Liste des FBI zu den meistgesuchten Verbrechern.",
+   "link": "https://www.tagesschau.de/ausland/amerika/mexiko-drogenkartell-chef-festnahme-100.html",
+   "published": "2026-11-21T15:36:57+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-24T15:36:57+00:00",
+   "img": "https://images.tagesschau.de/image/93302147-0fc0-4d9f-9e7e-3ebe2ae98112/AAABof6oAwU/AAABnSSvrFg/16x9-big/fausto-isidro-meza-100.jpg?width=1920"
+  },
+  {
+   "id": "n614f4e9690",
+   "topic": "wirtschaft",
+   "title": "Im Streit über EU-Budget legt Costa Kompromiss vor",
+   "text": "Die EU-Staaten ringen um einen neuen Budgetplan. Jetzt legt Ratspräsident Costa einen Kompromiss vor. Die Zeit wird langsam knapp: Bis Jahresende soll eine Einigung erzielt werden.",
+   "link": "https://www.tagesschau.de/wirtschaft/digitales/digitalsteuer-streit-eu-deutschland-100.html",
+   "published": "2026-11-21T15:01:28+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-24T15:01:28+00:00",
+   "img": "https://images.tagesschau.de/image/1cd1e7b7-11e0-4c39-8a02-8ff893748343/AAABof6A5Jo/AAABnSSvrFg/16x9-big/eu-eingang-100.jpg?width=1920"
+  },
+  {
+   "id": "n41ecb05e58",
+   "topic": "welt",
+   "title": "Kongo ist über geplanten Abschiebe-Deal mit Ruanda empört",
+   "text": "Viele Millionen Euro kämen einem Land zugute, das in der Region sein \"Unwesen\" treibe, sagt die kongolesische Außenministerin Kayikwamba Wagner. Auch der Wissenschaftliche Dienst des Bundestages meldet Bedenken an.",
+   "link": "https://www.dw.com/de/kongo-ist-über-geplanten-abschiebe-deal-mit-ruanda-empört/a-80010037?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-21T15:00:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-25T15:00:00+00:00",
+   "img": "https://static.dw.com/image/79769879_302.jpg",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Afrika - Kongo verurteilt EU-Asylpläne in Ruanda und wirft Europa Doppelmoral vor",
+     "link": "https://www.deutschlandfunk.de/kongo-verurteilt-eu-asylplaene-in-ruanda-und-wirft-europa-doppelmoral-vor-100.html"
+    }
+   ]
+  },
+  {
+   "id": "nf526f64c8c",
+   "topic": "ki",
+   "title": "Gezielte Suche schlägt das vollständige Einlesen langer Dokumente in KI-Modelle",
+   "text": "Nvidia-Forschende argumentieren, dass Sprachmodelle ihre riesigen, langsamen, teuren und ungenauen Kontextfenster oft gar nicht benötigen, und schlagen eine Alternative vor. In Tests lieferten Zwischenzusammenfassungen und gezielte Stichwortsuche meist gleichwertige Ergebnisse bei einem Bruchteil der Kosten. Das Team …",
+   "link": "https://the-decoder.de/gezielte-suche-schlaegt-das-vollstaendige-einlesen-langer-dokumente-in-ki-modelle/",
+   "published": "2026-11-21T14:56:45+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-28T14:56:45+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/11/you-dont-need-long-context-nano-banana-pro.jpg"
+  },
+  {
+   "id": "ndab2d2328f",
+   "topic": "ki",
+   "title": "Pseudo-buddhistisches Kloster in Vermont will zum \"Scientology für das Silicon Valley\" aufsteigen",
+   "text": "Ein buddhistisches Kloster in Vermont namens Maple will sich als spirituelle Autorität des Silicon Valley etablieren und gleichzeitig einen eigenen KI-Gott erschaffen. Laut einer Reportage des New Yorker zeichnet die Gruppe um Anführer Soryu Forall jeden Atemzug ihrer Mitglieder auf, um eine KI nach seinem Abbild zu …",
+   "link": "https://the-decoder.de/pseudo-buddhistisches-kloster-in-vermont-will-zum-scientology-fuer-das-silicon-valley-aufsteigen/",
+   "published": "2026-11-21T14:29:29+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-28T14:29:29+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/11/buddhist_ai_sect.png"
+  },
+  {
+   "id": "n23428b4285",
+   "topic": "welt",
+   "title": "\"Costa Concordia\"-Kapitän Schettino auf Bewährung aus Haft entlassen",
+   "text": "Aufgrund eines riskanten Manövers kenterte die \"Costa Concordia\" 2012 vor der Küste Italiens. 32 Menschen starben. Nun ist der ehemalige Kapitän des Schiffes aus dem Gefängnis entlassen worden. Von Anna Giordano.",
+   "link": "https://www.tagesschau.de/ausland/europa/costa-concordia-kapitaen-aus-haft-entlassen-100.html",
+   "published": "2026-11-21T14:07:14+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-24T14:07:14+00:00",
+   "img": "https://images.tagesschau.de/image/0c24484f-639f-48c0-ad82-342eb5c57366/AAABof5OYYo/AAABnSSvrFg/16x9-big/schettino-121.jpg?width=1920"
+  },
+  {
+   "id": "ncb0caba5fa",
+   "topic": "wissenschaft",
+   "title": "Tektonik: Ein Riesengebirge der Urzeit entdeckt?",
+   "text": "Das Eis der Antarktis verbirgt auch große Strukturen. Die Überreste von einem Gebirge deuten auf einen Bergstock mit enormen Höhen aus der Gondwana-Zeit hin.",
+   "link": "https://www.spektrum.de/news/tektonik-das-erste-riesengebirge-der-erde-entdeckt/2355425",
+   "published": "2026-11-21T13:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-12-05T13:00:00+00:00"
+  },
+  {
+   "id": "nd865bd1d5d",
+   "topic": "welt",
+   "title": "Italiens Ex-Polizeichef De Gennaro nimmt sich das Leben",
+   "text": "Gianni De Gennaro bekleidete lange Schlüsselpositionen im italienischen Sicherheitsapparat - sei es im Kampf gegen die Mafia, beim G8-Gipfel in Genua oder für die Geheimdienste. Kurz vor einer Gerichtsanhörung tötete er sich selbst.",
+   "link": "https://www.tagesschau.de/ausland/europa/italien-polizeichef-de-gennaro-tot-100.html",
+   "published": "2026-11-21T12:48:02+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-24T12:48:02+00:00",
+   "img": "https://images.tagesschau.de/image/59680543-e758-4c86-b9bd-47eec3847061/AAABof4dVkI/AAABnSSvrFg/16x9-big/gennaro-100.jpg?width=1920"
+  },
+  {
+   "id": "n299112c2bd",
+   "topic": "wirtschaft",
+   "title": "Nach Kühnes Tod: Kontinuität und Aufarbeitung bei Kühne+Nagel",
+   "text": "Der im Sommer verstorbene Klaus-Michael Kühne war einer der prägendsten Unternehmer der deutschen Nachkriegsgeschichte. Sein Umgang mit der Vergangenheit seines Imperiums war umstritten. Was wird daraus? Von Sandra Biegger.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/klaus-michael-kuehne-unternehmer-vergangenheit-schindellegi-schweiz-100.html",
+   "published": "2026-11-21T12:36:54+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-24T12:36:54+00:00",
+   "img": "https://images.tagesschau.de/image/d48bd407-8eda-449b-b9d1-4d8d6ab87d66/AAABofjuKPA/AAABnSSvrFg/16x9-big/kuehne-nagel-104.jpg?width=1920"
+  },
+  {
+   "id": "n952dc19627",
+   "topic": "ki",
+   "title": "OpenAI teilt Prompting-Tipps für GPT-6.2 Astra und Sol",
+   "text": "OpenAI hat für GPT-6.2 Astra und Sol neue Prompt-Vorlagen veröffentlicht, die typische Verhaltensweisen der Modelle korrigieren sollen, etwa zu knappe Antworten, unnötige Rückfragen und übermäßiges Testen beim Programmieren. Auch die API ändert sich: Nachträgliche Bearbeitungen des Gesprächsverlaufs können …",
+   "link": "https://the-decoder.de/openai-teilt-prompting-tipps-fuer-gpt-6-2-astra-und-sol/",
+   "published": "2026-11-21T12:14:35+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-28T12:14:35+00:00"
+  },
+  {
+   "id": "nb1634d990b",
+   "topic": "politik",
+   "title": "Hausärzte beklagen Mangel an Grippe-Impfstoff",
+   "text": "Sorry, kein Impfstoff da: Wer sich dieser Tage in der Hausarztpraxis gegen Grippe impfen lassen will, könnte mancherorts vertröstet werden. Der Hausärzteverband beklagt zu wenig Impfstoff. Die Apotheker sehen das weniger dramatisch.",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/grippe-impfstoff-hausaerzte-100.html",
+   "published": "2026-11-21T12:13:27+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-24T12:13:27+00:00",
+   "img": "https://images.tagesschau.de/image/3a989699-6525-473b-bcda-95fb3b5a3f4a/AAABof3Ts0M/AAABnSSvrFg/16x9-big/impfausweis-120.jpg?width=1920"
+  },
+  {
+   "id": "n8117e63a12",
+   "topic": "welt",
+   "title": "US-Berichte: Wieder Hackerangriff auf FBI",
+   "text": "Die Behörde war erst im September Opfer einer Cyberattacke geworden. Auch das Landwirtschaftsministerium soll diesmal im Visier von Hackern gestanden haben.",
+   "link": "https://www.dw.com/de/us-berichte-wieder-hackerangriff-auf-fbi/a-80009259?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-21T11:40:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-25T11:40:00+00:00",
+   "img": "https://static.dw.com/image/79542395_302.jpg"
+  },
+  {
+   "id": "nf2530820d1",
+   "topic": "politik",
+   "title": "Bilger fordert Bekenntnis der Autoindustrie zu Deutschland",
+   "text": "Die EU könnte Autokonzernen erlauben, auch nach 2035 neue Verbrenner und Hybride zu verkaufen. Verkehrsminister Bilger knüpft daran eine klare Erwartung: Deutschland müsse starker Produktionstandort bleiben.",
+   "link": "https://www.tagesschau.de/inland/bilger-fordert-bekenntnis-der-autohersteller-zu-deutschland-100.html",
+   "published": "2026-11-21T11:19:36+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-24T11:19:36+00:00",
+   "img": "https://images.tagesschau.de/image/673dcd9f-5137-4447-b004-64a6d4d7f425/AAABof24MAs/AAABnSSvrFg/16x9-big/autoindustrie-126.jpg?width=1920"
+  },
+  {
+   "id": "n2ffcbcacb3",
+   "topic": "it",
+   "title": "Anthropic: Mathematiker will mit Claude Riemann-Vermutung gelöst haben",
+   "text": "Levent Alpöge will mit Claude die Riemann-Vermutung bewiesen haben. Die Prüfung des Lean-Codes läuft noch. ( Claude , Wissen )",
+   "link": "https://www.golem.de/news/anthropic-mathematiker-will-mit-claude-riemann-vermutung-geloest-haben-2611-215500.html",
+   "published": "2026-11-21T11:06:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-26T11:06:02+00:00",
+   "img": "https://www.golem.de/2611/215500-609875-609873_rc.jpg"
+  },
   {
    "id": "nade7ace4e9",
    "topic": "politik",
@@ -140,14 +621,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-23T10:40:09+00:00",
-   "img": "https://bilder.deutschlandfunk.de/88/18/5a/f4/88185af4-ee5a-419d-948b-2f08639f5d4f/kiesewetter-102-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Gespräche mit Russland ja - aber wo?",
-     "link": "https://www.tagesschau.de/ausland/asien/russland-ukraine-gespraeche-europa-100.html"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/88/18/5a/f4/88185af4-ee5a-419d-948b-2f08639f5d4f/kiesewetter-102-1920x1920.jpg"
   },
   {
    "id": "nfd23af6c7d",
@@ -160,7 +634,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-23T10:40:09+00:00",
-   "img": "https://bilder.deutschlandfunk.de/6d/b4/5f/61/6db45f61-cc1a-45a0-b6ce-4cfc72623c3a/kayikwamba-wagner-100-1920x1920.jpg"
+   "img": "https://bilder.deutschlandfunk.de/6d/b4/5f/61/6db45f61-cc1a-45a0-b6ce-4cfc72623c3a/kayikwamba-wagner-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Kongo ist über geplanten Abschiebe-Deal mit Ruanda empört",
+     "link": "https://www.dw.com/de/kongo-ist-über-geplanten-abschiebe-deal-mit-ruanda-empört/a-80010037?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
   },
   {
    "id": "nf766830154",
@@ -220,6 +701,11 @@
    "expires": "2026-11-28T10:23:49+00:00",
    "img": "https://the-decoder.de/wp-content/uploads/2026/11/anthropic_riemann.png",
    "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Riemannsche Vermutung: Mathe-Jahrhundertproblem mit KI gelöst?",
+     "link": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html"
+    },
     {
      "source": "heise online",
      "title": "Riemannsche Vermutung: Anthropic-Mathematiker will KI-Beweis gefunden haben",
@@ -368,6 +854,11 @@
    "expires": "2026-11-26T09:09:00+00:00",
    "also": [
     {
+     "source": "Tagesschau",
+     "title": "Riemannsche Vermutung: Mathe-Jahrhundertproblem mit KI gelöst?",
+     "link": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html"
+    },
+    {
      "source": "THE DECODER",
      "title": "Heiliger Gral der Mathematik offenbar gefallen: Anthropic-Forscher löst Riemannsche Vermutung mit KI",
      "link": "https://the-decoder.de/heiliger-gral-der-mathematik-offenbar-gefallen-anthropic-forscher-loest-riemannsche-vermutung-mit-ki/"
@@ -434,7 +925,7 @@
    "id": "na88e9d41c4",
    "topic": "welt",
    "title": "\"Palisades Fire\" - Angeklagter im zweiten Anlauf schuldig gesprochen",
-   "text": "Bei dem Brand im Januar 2025 starben 31 Menschen: Nach dem verheerenden Feuer im Nobelvorort Pacific Palisades von Los Angeles ist der Angeklagte schuldig gesprochen worden. Ihm drohen bis zu 40 Jahre Haft.",
+   "text": "Bei dem Brand im Januar 2025 starben zwölf Menschen: Nach dem verheerenden Feuer im Nobelvorort Pacific Palisades von Los Angeles ist der Angeklagte schuldig gesprochen worden. Ihm drohen bis zu 40 Jahre Haft.",
    "link": "https://www.tagesschau.de/ausland/amerika/prozess-pacific-palisades-feuer-kalifornien-100.html",
    "published": "2026-11-21T08:14:03+00:00",
    "source": "Tagesschau",
@@ -479,7 +970,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-24T07:57:28+00:00",
-   "img": "https://images.tagesschau.de/image/ffa06e13-d57b-4235-a827-ba7b899299a2/AAABoeOz20A/AAABnSSvrFg/16x9-big/autonome-waffe-100.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/ffa06e13-d57b-4235-a827-ba7b899299a2/AAABoeOz20A/AAABnSSvrFg/16x9-big/autonome-waffe-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "heise online",
+     "title": "Killer-Roboter: UN-Konferenz endet ohne Mandat für verbindliches Verbot",
+     "link": "https://www.heise.de/news/Killer-Roboter-UN-Konferenz-endet-ohne-Mandat-fuer-verbindliches-Verbot-11533596.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
   },
   {
    "id": "n7f2ea5bc13",
@@ -1112,6 +1610,11 @@
    "img": "https://static.spektrum.de/fm/912/thumbnails/Complex_zeta.jpg.8133379.jpg?f=1280x720",
    "also": [
     {
+     "source": "Tagesschau",
+     "title": "Riemannsche Vermutung: Mathe-Jahrhundertproblem mit KI gelöst?",
+     "link": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html"
+    },
+    {
      "source": "THE DECODER",
      "title": "Heiliger Gral der Mathematik offenbar gefallen: Anthropic-Forscher löst Riemannsche Vermutung mit KI",
      "link": "https://the-decoder.de/heiliger-gral-der-mathematik-offenbar-gefallen-anthropic-forscher-loest-riemannsche-vermutung-mit-ki/"
@@ -1224,7 +1727,14 @@
    "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
    "lang": "de",
    "expires": "2026-11-24T15:16:00+00:00",
-   "img": "https://static.dw.com/image/80002373_302.jpg"
+   "img": "https://static.dw.com/image/80002373_302.jpg",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Nach Luftraumverletzungen - NATO-Generalsekretär Rutte sichert Polen Unterstützung zu",
+     "link": "https://www.deutschlandfunk.de/nato-generalsekretaer-rutte-sichert-polen-unterstuetzung-zu-102.html"
+    }
+   ]
   },
   {
    "id": "nadc17fa2a4",
@@ -1263,14 +1773,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-23T15:03:38+00:00",
-   "img": "https://images.tagesschau.de/image/d4ef0009-4ed9-4034-8b0d-4c38ac03a907/AAABofi4fic/AAABnSSvrFg/16x9-big/bundesrat-sitzung-102.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Vermittlungsausschuss - Bundesrat stoppt Startchancengesetz",
-     "link": "https://www.deutschlandfunk.de/bundesrat-stoppt-startchancengesetz-100.html"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/d4ef0009-4ed9-4034-8b0d-4c38ac03a907/AAABofi4fic/AAABnSSvrFg/16x9-big/bundesrat-sitzung-102.jpg?width=1920"
   },
   {
    "id": "n7199b45377",
@@ -1284,464 +1787,6 @@
    "lang": "de",
    "expires": "2026-12-04T15:00:00+00:00",
    "img": "https://static.spektrum.de/fm/912/thumbnails/Fig_10._Reconstruction_Remie_Bakker.jpg.8427649.jpg?f=1280x720"
-  },
-  {
-   "id": "n7f6924e824",
-   "topic": "politik",
-   "title": "Kritik an Ausnahmen bei Erbschaftsteuer nach Recherchen über Döpfner-Schenkung",
-   "text": "Springer-Chef Döpfner hat im Jahr 2020 von Verlegerin Friede Springer ein Milliarden-Aktienpaket übertragen bekommen - aber wohl kaum Schenkungsteuern gezahlt. Politiker von SPD und CDU fordern nun Änderungen.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/doepfner-erbschaftssteuer-100.html",
-   "published": "2026-11-20T14:58:12+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-23T14:58:12+00:00",
-   "img": "https://images.tagesschau.de/image/bbf38816-ae51-40b6-a2f6-68e5abba6646/AAABofk_W0E/AAABnSSvrFg/16x9-big/springer-doepfner-104.jpg?width=1920"
-  },
-  {
-   "id": "n6e93f75369",
-   "topic": "welt",
-   "title": "Kinderraub als Kriegswaffe: Hitlers Erbe, Putins System",
-   "text": "Als Kind von den Nazis verschleppt, als junge Frau mit dem Kinderraub durch Russland konfrontiert: Barbara Paciorkiewicz und Ksenija Koldin erzählen von Verlust, gewaltsamer Trennung und schwieriger Heimkehr.",
-   "link": "https://www.dw.com/de/kinderraub-als-kriegswaffe-hitlers-erbe-putins-system/a-80001588?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-20T14:18:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-24T14:18:00+00:00",
-   "img": "https://static.dw.com/image/80003412_302.jpg"
-  },
-  {
-   "id": "n1cd77dded9",
-   "topic": "ki",
-   "title": "Studien zeigen spürbaren Stellenabbau durch KI in China und sehen 70 Millionen Jobs bedroht",
-   "text": "Laut einer Analyse von zehn Millionen Stellenanzeigen durch Bloomberg News belastet künstliche Intelligenz Chinas schwachen Arbeitsmarkt zusätzlich. Besonders Berufseinsteiger und die Kreativbranche spüren den Umbruch: Über 90 Prozent der chinesischen Mikrodramen entstehen bereits per KI. Der ehemalige …",
-   "link": "https://the-decoder.de/studien-zeigen-spuerbaren-stellenabbau-durch-ki-in-china-und-sehen-70-millionen-jobs-bedroht/",
-   "published": "2026-11-20T14:14:03+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-27T14:14:03+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/07/china_flag_visual-1.png"
-  },
-  {
-   "id": "n14b1dbbbce",
-   "topic": "wissenschaft",
-   "title": "Rødhals-Mann: Nach ihm der Ackerbau",
-   "text": "Der »Rødhals-Mann« erlebte wohl persönlich den Einzug der Landwirtschaft im heutigen Dänemark: An seinen Knochen lässt sich ablesen, wie die Zeit der Jäger und Sammler endete.",
-   "link": "https://www.spektrum.de/news/rodhals-mann-nach-ihm-der-ackerbau/2355396",
-   "published": "2026-11-20T14:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-12-04T14:00:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/RodhalsSchaedel_21zu9_zuschnitt.jpg.8427604.jpg?f=1280x720"
-  },
-  {
-   "id": "n670018c0c6",
-   "topic": "welt",
-   "title": "Gespräche mit Russland ja - aber wo?",
-   "text": "Gesprächsbereit, aber nicht um jeden Preis: Verteidigungsminister Pistorius hat das Angebot Russlands für ein Treffen mit den Europäern begrüßt. Moskau käme dafür aber nicht infrage. Zudem bezweifelt er eine ehrliche Verhandlungsbereitschaft.",
-   "link": "https://www.tagesschau.de/ausland/asien/russland-ukraine-gespraeche-europa-100.html",
-   "published": "2026-11-20T13:59:25+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-23T13:59:25+00:00",
-   "img": "https://images.tagesschau.de/image/45ff9437-bd7d-4219-a362-32251b531299/AAABofkJ6zc/AAABnSSvrFg/16x9-big/boris-pistorius-214.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Nach Einladung Russlands - CDU-Politiker Kiesewetter: Gespräche mit Russland nur auf neutralem Boden",
-     "link": "https://www.deutschlandfunk.de/cdu-politiker-kiesewetter-gespraeche-mit-russland-nur-auf-neutralem-boden-100.html"
-    }
-   ]
-  },
-  {
-   "id": "nace0cd44e0",
-   "topic": "welt",
-   "title": "Deutschlands Verteidigungsminister will Militärpakt mit Polen ausbauen",
-   "text": "Die Erinnerung an den Holocaust wachhalten und die Verteidigung Europas stärken - das könnte die Überschrift sein für den Besuch von Bundesverteidigungsminister Boris Pistorius im Nachbarland Polen.",
-   "link": "https://www.dw.com/de/deutschlands-verteidigungsminister-will-militärpakt-mit-polen-ausbauen/a-80000181?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-20T13:25:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-24T13:25:00+00:00",
-   "img": "https://static.dw.com/image/80000685_302.jpg"
-  },
-  {
-   "id": "ncaa80039af",
-   "topic": "welt",
-   "title": "Junge Menschen profitieren: EU und Großbritannien nähern sich wieder an",
-   "text": "Großbritannien gehört seit Jahren nicht mehr zur Europäischen Union. Doch jetzt machen beide Seiten wieder Schritte aufeinander zu. Von einem der ersten Abkommen profitieren vor allem junge Menschen.",
-   "link": "https://www.tagesschau.de/ausland/europa/eu-grossbritannien-abkommen-102.html",
-   "published": "2026-11-20T12:03:18+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-23T12:03:18+00:00",
-   "img": "https://images.tagesschau.de/image/1f7276ad-9d48-48ae-addc-e451c90bce3e/AAABofisnOs/AAABnSSvrFg/16x9-big/eu-grossbritannien-fahnen-100.jpg?width=1920"
-  },
-  {
-   "id": "n36749557c7",
-   "topic": "welt",
-   "title": "Tote bei russischen Angriffen auf mehrere Brücken in Kiew",
-   "text": "Es ist eine Attacke ins Herz der ukrainischen Hauptstadt: Russland hat in Kiew erneut Brücken beschossen und beschädigt. Mehrere Menschen wurden getötet. Im Nachbarland Polen stürzten drei russische Flugobjekte ab.",
-   "link": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-bruecken-100.html",
-   "published": "2026-11-20T11:47:44+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-23T11:47:44+00:00",
-   "img": "https://images.tagesschau.de/image/3cb31290-02d9-4564-a65d-f9c8024c0744/AAABoffwWfg/AAABnSSvrFg/16x9-big/stadtansicht-rauch-kiew-100.jpg?width=1920"
-  },
-  {
-   "id": "n261517ee0a",
-   "topic": "politik",
-   "title": "Protest von \"Gen Z regelt\": Eine zersplitterte Bewegung",
-   "text": "Die Protestbewegung \"Gen Z regelt\" fordert von der Politik, viele verschiedene Lebens- und Gerechtigkeitsfragen für die junge Generation zu lösen. Hat sie damit Erfolg? Von Jan Koch.",
-   "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-regelt-proteste-106.html",
-   "published": "2026-11-20T11:40:48+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-23T11:40:48+00:00",
-   "img": "https://images.tagesschau.de/image/c0eb75bc-d932-4a5f-aa58-dc178aedd3fc/AAABofflCnM/AAABnSSvrFg/16x9-big/demonstration-generation-z-104.jpg?width=1920"
-  },
-  {
-   "id": "n875e24e65f",
-   "topic": "wissenschaft",
-   "title": "Warum die Jugend der Gen Z im Dauerkrisenmodus steckt",
-   "text": "Von Kriegen bis Klimawandel - Jugendliche sehen sich stärker als frühere Generationen durch einen Mix aus Dauerkrisen bedroht. Von der Politik fühlen sie sich im Stich gelassen und fürchten um ihre Zukunft. Von Sven Kästner.",
-   "link": "https://www.tagesschau.de/wissen/forschung/jugendliche-in-der-dauerkrise-100.html",
-   "published": "2026-11-20T11:40:13+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-12-04T11:40:13+00:00",
-   "img": "https://images.tagesschau.de/image/a5e5ea97-886a-406c-bbd2-8621dc969149/AAABofgQRSk/AAABnSSvrFg/16x9-big/schild-zukunftsangst-100.jpg?width=1920"
-  },
-  {
-   "id": "n92b8c53a55",
-   "topic": "it",
-   "title": "Von AMD und Nvidia: US-Handelsministerium genehmigte Chipverkäufe an China",
-   "text": "Das US-Handelsministerium hat auch Lieferungen genehmigt, die an Scheinfirmen oder Großkonzerne wie Alibaba und Tencent gehen sollten. ( KI , AMD )",
-   "link": "https://www.golem.de/news/von-amd-und-nvidia-us-handelsministerium-genehmigte-chipverkaeufe-an-china-2611-215462.html",
-   "published": "2026-11-20T11:30:01+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-25T11:30:01+00:00",
-   "img": "https://www.golem.de/2611/215462-609698-609696_rc.jpg"
-  },
-  {
-   "id": "n97db9722b4",
-   "topic": "it",
-   "title": "Metas KI-Gadget für die Hosentasche soll 300 Dollar kosten",
-   "text": "Metas KI-Gadget Muse Charm dürfte noch vor Jahresende erscheinen. Einem Bericht zufolge soll es 300 US-Dollar kosten und mit kostenlosem 5G starten.",
-   "link": "https://www.heise.de/news/Metas-KI-Gadget-fuer-die-Hosentasche-soll-300-Dollar-kosten-11532549.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-20T11:29:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-25T11:29:00+00:00"
-  },
-  {
-   "id": "n4fdf50c6f9",
-   "topic": "politik",
-   "title": "Gen-Z-Proteste in Hessen: Aktuelle Meldungen im Ticker",
-   "text": "Verschiedene Jugendorganisationen und Gewerkschaften wollen am Freitag auf die Straße gehen. Auch in mehreren Städten in Hessen sind Demonstrationen geplant. Die aktuellen Meldungen im Ticker.",
-   "link": "https://www.hessenschau.de/panorama/gen-z-proteste-in-hessen-aktuelle-meldungen-im-ticker--bka-keine-hinweise-auf-geplante-gewalt,genz-demo-freitag-100.html",
-   "published": "2026-11-20T11:24:56+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-24T11:24:56+00:00",
-   "img": "https://www.hessenschau.de/panorama/demo-willy-brandt-100~_t-1795170417624_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "n04cb33e563",
-   "topic": "it",
-   "title": "EV1: Kias kompaktes Elektroauto soll weniger als 22.000 Euro kosten",
-   "text": "Kias Elektro-Lineup beginnt beim EV2 - ein kleineres Auto soll 2027 fertig sein. Dabei dürfte es sich um den EV1 handeln. ( Kia , Elektroauto )",
-   "link": "https://www.golem.de/news/ev1-kias-kompaktes-elektroauto-soll-weniger-als-22-000-euro-kosten-2611-215461.html",
-   "published": "2026-11-20T11:15:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-25T11:15:02+00:00",
-   "img": "https://www.golem.de/2611/215461-609694-609692_rc.jpg"
-  },
-  {
-   "id": "n5f3f6f2ac9",
-   "topic": "it",
-   "title": "Stellenanzeigen verraten Apples Pläne für agentische KI",
-   "text": "Stellenanzeigen zeigen, dass Apple an einem autonomen KI-Agenten arbeitet, der Code schreibt, im Web surft und Apps steuert – Start frühestens Ende 2027.",
-   "link": "https://www.heise.de/news/Stellenanzeigen-verraten-Apples-Plaene-fuer-agentische-KI-11532377.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-20T11:11:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-25T11:11:00+00:00"
-  },
-  {
-   "id": "nd4974c5e35",
-   "topic": "nfl",
-   "title": "Drake Maye injury: Everything we know about the Patriots QB’s status",
-   "text": "Maye suffered an ankle injury in Week 10 that forced him out of the Patriots’ loss to the Lions.",
-   "link": "https://sports.yahoo.com/articles/drake-maye-injury-know-patriots-195552414.html",
-   "published": "2026-11-20T11:10:01+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-25T11:10:01+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/0f347fc66bf4d538f51ee4bfdc771aaf.jpg"
-  },
-  {
-   "id": "n427069c256",
-   "topic": "it",
-   "title": "SonicWall rät Kunden zum Entsorgen von Gen6-Firewalls",
-   "text": "SonicWall empfiehlt IT-Verantwortlichen, nicht mehr unterstützte Firewalls der Generation 6 außer Dienst zu stellen.",
-   "link": "https://www.heise.de/news/SonicWall-raet-Kunden-zum-Entsorgen-von-Gen6-Firewalls-11532307.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-20T11:10:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-25T11:10:00+00:00"
-  },
-  {
-   "id": "ndde1aef24e",
-   "topic": "nfl",
-   "title": "NFL Week 11 picks, best bets: 49ers over Vikings in prime time? Bengals cover vs. Commanders",
-   "text": "Jordan Dajani gives his picks for Week 11 of the 2026 NFL season",
-   "link": "https://www.cbssports.com/nfl/news/nfl-week-11-picks-best-bets-49ers-vikings-bengals-commanders/",
-   "published": "2026-11-20T11:00:57+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-25T11:00:57+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/11/19/131cc0ba-7549-4a1c-a28f-b4a64a029b38/s.jpg"
-  },
-  {
-   "id": "na36ceefd33",
-   "topic": "nfl",
-   "title": "Ravens upgrade Vega Ioane on 2nd injury report of Week 11",
-   "text": "The Ravens upgraded Vega Ioane on Thursday’s injury report, but Nnamdi Madubuike missed his second straight practice.",
-   "link": "https://sports.yahoo.com/articles/ravens-upgrade-vega-ioane-2nd-110000976.html",
-   "published": "2026-11-20T11:00:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-25T11:00:00+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/d0db9144d6261e88bd7dc705177e851d.png_up.jpg"
-  },
-  {
-   "id": "n73a9bca7d0",
-   "topic": "politik",
-   "title": "Deutsch-ukrainische Wirtschaftsforum: Merz fordert Kiew zu weiteren Reformen auf",
-   "text": "Bundeskanzler Merz hat die Ukraine zu weiteren Reformen aufgefordert.",
-   "link": "https://www.deutschlandfunk.de/deutsch-ukrainische-wirtschaftsforum-merz-fordert-kiew-zu-weiteren-reformen-auf-100.html",
-   "published": "2026-11-20T10:57:27+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-22T10:57:27+00:00",
-   "img": "https://bilder.deutschlandfunk.de/34/8e/af/7c/348eaf7c-857a-4fec-a095-0fbf85c9c5d3/bundeskanzler-merz-deutsch-ukrainisches-wirtschaftsforum-100-1920x1920.jpg"
-  },
-  {
-   "id": "nc6b6416843",
-   "topic": "politik",
-   "title": "Tarifkonflikt - 24-Stunden Warnstreiks der IG Metall: \"Die Produktion ruht\"",
-   "text": "Im Tarifkonflikt der Metall- und Elektroindustrie werden zahlreiche Betriebe teils ganztägig bestreikt.",
-   "link": "https://www.deutschlandfunk.de/24-stunden-warnstreiks-der-ig-metall-die-produktion-ruht-102.html",
-   "published": "2026-11-20T10:57:27+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-22T10:57:27+00:00"
-  },
-  {
-   "id": "nfb4d78da57",
-   "topic": "politik",
-   "title": "Länderkammer - Bundesrat billigt Frühstartrente und digitale Brieftasche",
-   "text": "Nach dem Bundestag hat auch der Bundesrat die sogenannte Frühstartrente gebilligt.",
-   "link": "https://www.deutschlandfunk.de/bundesrat-billigt-fruehstartrente-und-digitale-brieftasche-100.html",
-   "published": "2026-11-20T10:57:27+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-22T10:57:27+00:00",
-   "img": "https://bilder.deutschlandfunk.de/38/f2/b8/54/38f2b854-77be-4d8f-9b36-29ea5b720d0a/bundesrat-praesident-hendrik-wuest-gedenken-aiwanger-100-1920x1920.jpg"
-  },
-  {
-   "id": "nb0cd04d4f7",
-   "topic": "politik",
-   "title": "Vermittlungsausschuss - Bundesrat stoppt Startchancengesetz",
-   "text": "Der Bundesrat hat das von der Regierung geplante Startchancengesetz für die frühkindliche Bildung vorerst gestoppt.",
-   "link": "https://www.deutschlandfunk.de/bundesrat-stoppt-startchancengesetz-100.html",
-   "published": "2026-11-20T10:57:27+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-22T10:57:27+00:00",
-   "img": "https://bilder.deutschlandfunk.de/01/cc/1f/1d/01cc1f1d-fc2a-43a7-a07e-08c3f4cae38c/kita-sandkasten-spielzeug-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Bundesrat stoppt \"Startchancengesetz\" vorerst",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/bundesrat-startchancengesetz-fruehstartrente-notfallreform-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n65c3f8bae8",
-   "topic": "politik",
-   "title": "Galeria - Drei Filialen werden geschlossen",
-   "text": "Die insolvente Warenhauskette Galeria verkleinert ihr Filialnetz.",
-   "link": "https://www.deutschlandfunk.de/drei-filialen-werden-geschlossen-102.html",
-   "published": "2026-11-20T10:57:27+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-22T10:57:27+00:00",
-   "img": "https://bilder.deutschlandfunk.de/6f/bc/53/9b/6fbc539b-38b5-4cda-8cb2-56a254978d1d/filiale-galeria-karstadt-kaufhof-schild-100-1920x1920.jpg"
-  },
-  {
-   "id": "nb7b86290c9",
-   "topic": "politik",
-   "title": "Treffen in Brüssel - EU und Großbritannien gehen weiter aufeinander zu",
-   "text": "Knapp sieben Jahre nach dem Brexit streben die EU und Großbritannien eine weitreichende Wiederannäherung an.",
-   "link": "https://www.deutschlandfunk.de/eu-und-grossbritannien-gehen-weiter-aufeinander-zu-100.html",
-   "published": "2026-11-20T10:57:27+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-22T10:57:27+00:00",
-   "img": "https://bilder.deutschlandfunk.de/FI/LE/_9/92/FILE_992f62cf6deeb1950674d5a9c4cb2aca/216455239-jpg-100-768x768.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Gipfel in Brüssel: Annäherung zwischen Großbritannien und EU",
-     "link": "https://www.tagesschau.de/ausland/eu-uk-gipfel-102.html"
-    }
-   ]
-  },
-  {
-   "id": "n1c43a70d26",
-   "topic": "welt",
-   "title": "Urteil hindert İmamoğlu an Präsidentschaftskandidatur in der Türkei",
-   "text": "Der größte Rivale von Präsident Erdoğan sitzt bereits im Gefängnis. Nun verhindert ein weiteres Gerichtsurteil, dass İmamoğlu bei der nächsten Wahl kandidieren darf. Es geht dabei um seinen Hochschulabschluss.",
-   "link": "https://www.tagesschau.de/ausland/europa/tuerkei-imamoglu-104.html",
-   "published": "2026-11-20T10:41:07+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-23T10:41:07+00:00",
-   "img": "https://images.tagesschau.de/image/aa9bbbd0-4889-44cc-9016-eacb8bfdb00b/AAABofhGFmM/AAABnSSvrFg/16x9-big/imamoglu-168.jpg?width=1920"
-  },
-  {
-   "id": "nf0a612caac",
-   "topic": "ki",
-   "title": "Apple entwickelt eigenen KI-Agenten und erschwert der Konkurrenz den Zugriff auf seine Geräte",
-   "text": "Nachdem Meta, OpenAI, Anthropic und Google bereits eigene KI-Agenten anbieten, arbeitet nun auch Apple an einem solchen System – und erschwert gleichzeitig der Konkurrenz den Zugriff auf seine Geräte. Der Artikel Apple entwickelt eigenen KI-Agenten und erschwert der Konkurrenz den Zugriff auf seine Geräte erschien …",
-   "link": "https://the-decoder.de/apple-entwickelt-eigenen-ki-agenten-und-erschwert-der-konkurrenz-den-zugriff-auf-seine-geraete/",
-   "published": "2026-11-20T10:33:25+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-27T10:33:25+00:00"
-  },
-  {
-   "id": "nd447bece75",
-   "topic": "welt",
-   "title": "Alexander Zverev muss sich neuer Klage seiner Ex-Freundin stellen",
-   "text": "Die Ex-Partnerin von Tennisstar Alexander Zverev, Brenda Patea, hat erneut Klage gegen den deutschen Profi eingereicht. Im Mittelpunkt steht ein Interview nach dem Ende des Verfahrens wegen Vorwürfen häuslicher Gewalt.",
-   "link": "https://www.dw.com/de/alexander-zverev-muss-sich-neuer-klage-seiner-ex-freundin-stellen/a-80000131?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-20T10:11:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-24T10:11:00+00:00",
-   "img": "https://static.dw.com/image/79253569_302.jpg"
-  },
-  {
-   "id": "nd8c0f9e95c",
-   "topic": "wirtschaft",
-   "title": "Gender Pay Gap: Frauen arbeiten den Rest des Jahres kostenlos",
-   "text": "Von heute bis zum Jahresende arbeiten Frauen in der EU quasi unbezahlt - so groß ist die rechnerische Lohnlücke im Schnitt. Neue Transparenzregeln sollen Veränderung bringen, doch Deutschland hat die Frist der EU verstreichen lassen.",
-   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/gender-pay-gap-140.html",
-   "published": "2026-11-20T10:09:15+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-23T10:09:15+00:00",
-   "img": "https://images.tagesschau.de/image/c7e68607-669f-4d53-acad-672235cfc902/AAABoffKKHE/AAABnSSvrFg/16x9-big/geschaeftsfrauen-100.jpg?width=1920"
-  },
-  {
-   "id": "n2597254e2e",
-   "topic": "ki",
-   "title": "Hermes: Beliebter Open-Source-Agent zieht in Microsoft Teams ein",
-   "text": "Unternehmen können den Open-Source-Agenten Hermes Agent von Nous Research künftig direkt in Microsoft Teams nutzen. Der Artikel Hermes: Beliebter Open-Source-Agent zieht in Microsoft Teams ein erschien zuerst auf The Decoder .",
-   "link": "https://the-decoder.de/hermes-beliebter-open-source-agent-zieht-in-microsoft-teams-ein/",
-   "published": "2026-11-20T09:59:51+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-27T09:59:51+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/06/hermes-og-image-blue.png"
-  },
-  {
-   "id": "n1e06c3c7c1",
-   "topic": "wirtschaft",
-   "title": "Was die Volkswagen-Forderungen für Beschäftigte bedeuten könnten",
-   "text": "Kein Lohnplus, mehr Arbeit, weniger Extras: VW hat der IG Metall einen Forderungskatalog vorgelegt, der es in sich hat. Was auf die Beschäftigten zukommen könnte - und warum eine schnelle Einigung kaum möglich ist.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-tarifstreit-ig-metall-100.html",
-   "published": "2026-11-20T09:55:01+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-23T09:55:01+00:00",
-   "img": "https://images.tagesschau.de/image/be4e6705-b934-40de-b2f9-98a05b3abeff/AAABoVL-ZiA/AAABnSSvrFg/16x9-big/vw-1618.jpg?width=1920"
-  },
-  {
-   "id": "n568cbf0dad",
-   "topic": "wirtschaft",
-   "title": "Neue EU-Regeln ab heute: Mehr Schutz vor Verschuldung bei Kleinkrediten",
-   "text": "Mehr Schutz für Verbraucher, mehr Kontrolle bei Krediten: Von heute an gilt die neue Verbraucherkreditrichtlinie. Selbst kleine Beträge wie bei \"Heute kaufen, später zahlen\" verlangen von Anbietern nun mehr Aufwand. Von Juri Sonnenholzner.",
-   "link": "https://www.tagesschau.de/wirtschaft/kleinkredite-neue-regeln-verschuldung-100.html",
-   "published": "2026-11-20T09:22:00+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-23T09:22:00+00:00",
-   "img": "https://images.tagesschau.de/image/98eed3c0-b771-4df1-9f2a-7325989e6acf/AAABofONPdU/AAABnSSvrFg/16x9-big/smartphone-322.jpg?width=1920"
-  },
-  {
-   "id": "n6661375ad4",
-   "topic": "wissenschaft",
-   "title": "Was uns der Hugging-Face-Vorfall über KI-Sicherheit verrät",
-   "text": "Wie sicher ist KI? Das diskutieren Politik, Tech-Branche und Wissenschaft immer heftiger. Ein Grund: der Hugging-Face-Vorfall. Was steckt dahinter? 🎙️",
-   "link": "https://www.spektrum.de/podcast/hugging-face-vorfall-wie-gefaehrlich-ist-ki/2355295",
-   "published": "2026-11-20T09:12:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-12-04T09:12:00+00:00"
-  },
-  {
-   "id": "n6d3aebc3bc",
-   "topic": "wirtschaft",
-   "title": "Update Wirtschaft vom 20.11.2026",
-   "text": "Update Wirtschaft vom 20.11.2026",
-   "link": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1686922.html",
-   "published": "2026-11-20T08:48:20+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-23T08:48:20+00:00",
-   "img": "https://images.tagesschau.de/image/5c0e4b40-b8fb-427d-b7d9-108e594ad4dc/AAABofgkWYY/AAABnSSvrFg/16x9-big/sendungsbild-1830400.jpg?width=1920"
   }
  ]
 }
