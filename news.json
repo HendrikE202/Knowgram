@@ -1,96 +1,563 @@
 {
- "generated": "2026-11-22T01:20:17.475888+00:00",
+ "generated": "2026-11-22T11:26:13.539944+00:00",
  "briefing": [
+  "n557e2a6b5b",
+  "ne060e7b0cd",
+  "nd699bf8c04",
+  "n2a1a48efc7",
   "nfd23af6c7d",
   "n3f4502c8ed",
-  "ndfccadd5ab",
-  "n7cbb72ff0a",
-  "n8aacd7d678",
-  "n799cc94df5",
-  "n7424d51c31",
-  "n27deab4da5",
-  "n69b7817cc9",
-  "n892040fa1d"
+  "n71e74c351b",
+  "n87691ed246",
+  "nd6333b7c96"
  ],
  "ranked": [
   {
-   "id": "nfd23af6c7d",
-   "s": 29.3
-  },
-  {
-   "id": "n3f4502c8ed",
-   "s": 29.1
-  },
-  {
-   "id": "ndfccadd5ab",
-   "s": 28.7
-  },
-  {
-   "id": "n7cbb72ff0a",
-   "s": 27.0
-  },
-  {
-   "id": "n8aacd7d678",
-   "s": 23.0
-  },
-  {
-   "id": "n799cc94df5",
-   "s": 23.0
-  },
-  {
-   "id": "n7424d51c31",
-   "s": 23.0
-  },
-  {
-   "id": "n27deab4da5",
-   "s": 21.8
-  },
-  {
-   "id": "n69b7817cc9",
-   "s": 21.7
-  },
-  {
-   "id": "n892040fa1d",
-   "s": 21.7
+   "id": "n557e2a6b5b",
+   "s": 31.5
   },
   {
    "id": "ne060e7b0cd",
-   "s": 21.5
+   "s": 28.9
   },
   {
-   "id": "n3f3821c487",
-   "s": 21.4
+   "id": "nd699bf8c04",
+   "s": 28.9
   },
   {
-   "id": "n5520fd281b",
-   "s": 21.4
+   "id": "n2a1a48efc7",
+   "s": 28.0
   },
   {
-   "id": "n99b07fadb5",
-   "s": 21.4
+   "id": "nfd23af6c7d",
+   "s": 27.0
   },
   {
-   "id": "nf5750e74b8",
-   "s": 20.6
+   "id": "n3f4502c8ed",
+   "s": 27.0
   },
   {
-   "id": "n8117e63a12",
-   "s": 19.6
+   "id": "n71e74c351b",
+   "s": 22.9
   },
   {
-   "id": "n366c46e161",
-   "s": 18.4
+   "id": "n87691ed246",
+   "s": 22.9
   },
   {
-   "id": "n23396baca5",
-   "s": 17.0
-  },
-  {
-   "id": "n0562cbe1c9",
-   "s": 17.0
+   "id": "nd6333b7c96",
+   "s": 21.1
   }
  ],
  "items": [
+  {
+   "id": "n2a1a48efc7",
+   "topic": "welt",
+   "title": "COP31: Beschlusstext \"für Deutschland nicht zustimmungsfähig\"",
+   "text": "Die Weltklimakonferenz in Antalya ist schon in der Verlängerung, um ein Beschlusspapier wird heftig gerungen. Nun hat Umweltminister Schneider den Entwurf scharf zurückgewiesen - und erhebt Vorwürfe gegen einige Staaten.",
+   "link": "https://www.tagesschau.de/ausland/weltklimakonferenz-cop-droht-zu-scheitern-100.html",
+   "published": "2026-11-22T11:19:54+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-25T11:19:54+00:00",
+   "img": "https://images.tagesschau.de/image/e953bb69-d5fd-4d66-aeed-83af01d9bb73/AAABogKhx7c/AAABnSSvrFg/16x9-big/schneider-208.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Klimakonferenz in Antalya - Umweltminister Schneider: \"COP31-Beschlusstext für Deutschland nicht zustimmungsfähig\"",
+     "link": "https://www.deutschlandfunk.de/umweltminister-schneider-cop31-beschlusstext-fuer-deutschland-nicht-zustimmungsfaehig-102.html"
+    }
+   ]
+  },
+  {
+   "id": "n042ab178f1",
+   "topic": "nfl",
+   "title": "Are the Browns playing today? NFL Week 11 schedule",
+   "text": "The Cleveland Browns are 6-4 heading into Week 11. Here's whether Deshaun Watson and company will be playing this week or not.",
+   "link": "https://sports.yahoo.com/articles/browns-playing-today-nfl-week-110540228.html",
+   "published": "2026-11-22T11:05:40+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-27T11:05:40+00:00"
+  },
+  {
+   "id": "n5b34cc1834",
+   "topic": "nfl",
+   "title": "Are the Seahawks playing today? NFL Week 11 schedule, next game",
+   "text": "Drew Lock and the Seahawks hit the bye at 6-4, hoping Sam Darnold is back for the 49ers rematch. Here's when Seattle plays next.",
+   "link": "https://sports.yahoo.com/articles/seahawks-playing-today-nfl-week-110533927.html",
+   "published": "2026-11-22T11:05:33+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-27T11:05:33+00:00"
+  },
+  {
+   "id": "n78d23e0b0a",
+   "topic": "it",
+   "title": "Was das Videospiel GTA 6 über unsere Gegenwart erzählt",
+   "text": "Was Rockstars neuer Mega-Hit über die Gegenwart erzählt – Achtung Spoilergefahr für GTA6-Spieler!",
+   "link": "https://www.heise.de/news/Was-das-Videospiel-GTA-6-ueber-unsere-Gegenwart-erzaehlt-11533740.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-22T11:02:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-27T11:02:00+00:00"
+  },
+  {
+   "id": "ncd298df0a2",
+   "topic": "it",
+   "title": "E-Books und Bücher: Hackerangriff legt Hugendubel-Homepage und Tolino-Cloud lahm",
+   "text": "Hugendubel ist Opfer eines Hackerangriffs geworden und hat etliche Systeme vom Netz genommen. Das hat auch Auswirkungen auf E-Book-Reader. ( Cybercrime , Mobil )",
+   "link": "https://www.golem.de/news/e-books-und-buecher-hackerangriff-legt-hugendubel-homepage-und-tolino-cloud-lahm-2611-215513.html",
+   "published": "2026-11-22T10:58:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-27T10:58:02+00:00",
+   "img": "https://www.golem.de/2611/215513-609932-609927_rc.jpg"
+  },
+  {
+   "id": "n9a3f15be1a",
+   "topic": "politik",
+   "title": "Klimakonferenz in Antalya - Umweltminister Schneider: \"COP31-Beschlusstext für Deutschland nicht zustimmungsfähig\"",
+   "text": "Bei der Weltklimakonferenz in der Türkei ist weiter keine Einigung in Sicht. Zahlreiche Staaten, darunter Deutschland und Frankreich, lehnen den aktuellen Entwurf für eine Abschlusserklärung ab. Bundesumweltminister Schneider sagte in Antalya, das Papier gebe auf die Bedrohung durch die Klimakrise keine ausreichende …",
+   "link": "https://www.deutschlandfunk.de/umweltminister-schneider-cop31-beschlusstext-fuer-deutschland-nicht-zustimmungsfaehig-102.html",
+   "published": "2026-11-22T10:56:51+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-24T10:56:51+00:00",
+   "img": "https://bilder.deutschlandfunk.de/34/b9/74/bf/34b974bf-bddd-4df4-8d06-eca27c4df5b3/umweltminister-schneider-cop-antalya-weltklimakonferenz-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "COP31: Beschlusstext \"für Deutschland nicht zustimmungsfähig\"",
+     "link": "https://www.tagesschau.de/ausland/weltklimakonferenz-cop-droht-zu-scheitern-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n71e74c351b",
+   "topic": "politik",
+   "title": "Zentralrat der Juden - Präsident Schuster: \"Will junge Menschen stärker an jüdische Gemeinden binden\"",
+   "text": "Der Präsident des Zentralrats der Juden in Deutschland, Schuster, hat Schwerpunkte einer möglichen vierten Amtszeit skizziert.",
+   "link": "https://www.deutschlandfunk.de/praesident-schuster-will-junge-menschen-staerker-an-juedische-gemeinden-binden-100.html",
+   "published": "2026-11-22T10:56:51+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-24T10:56:51+00:00",
+   "img": "https://bilder.deutschlandfunk.de/db/6e/4f/91/db6e4f91-b497-468c-a687-0b55fe6c0f6e/josef-schuster-zentralrat-juden-deutschland-100-1920x1920.jpg"
+  },
+  {
+   "id": "nf5ad022be9",
+   "topic": "politik",
+   "title": "Dlf-Interview - Politikwissenschaftler Varwick: \"Großmachtrivalität bestimmt die Grammatik der internationalen Politik\"",
+   "text": "Der Politikwissenschaftler Johannes Varwick plädiert für einen eingeschränkten Multilateralismus, um Entscheidungen voranzubringen. Kleine Bündnisse, sogenannte Vorreiterallianzen, seien effizienter als die Konsens-Maschinerie, bei der alle Staaten zustimmen müssten. Dies werde gerade bei der Weltklimakonferenz in der …",
+   "link": "https://www.deutschlandfunk.de/politikwissenschaftler-varwick-grossmachtrivalitaet-bestimmt-die-grammatik-der-internationalen-polit-100.html",
+   "published": "2026-11-22T10:56:51+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-24T10:56:51+00:00",
+   "img": "https://bilder.deutschlandfunk.de/11/e3/7e/fe/11e37efe-267e-486e-837f-7606709bfc6e/johannes-varwick-100-1920x1920.jpg"
+  },
+  {
+   "id": "n9b4fa3c858",
+   "topic": "politik",
+   "title": "Ostsee - Löscharbeiten an russischem Frachter dauern nach Drohnenangriff an",
+   "text": "Die Löscharbeiten an einem von Drohnen getroffenen russischen Frachtschiff in der Ostsee gehen weiter.",
+   "link": "https://www.deutschlandfunk.de/loescharbeiten-an-russischem-frachter-dauern-nach-drohnenangriff-an-100.html",
+   "published": "2026-11-22T10:56:51+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-24T10:56:51+00:00",
+   "img": "https://bilder.deutschlandfunk.de/7f/3d/5d/c1/7f3d5dc1-aa9b-411d-82ee-e324a87c6483/finnland-frachter-russland-attacke-brand-100-512x512.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Finnland meldet Drohnenangriff auf russischen Frachter in der Ostsee",
+     "link": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-drohnenangriff-russland-frachter-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n442f1515a9",
+   "topic": "politik",
+   "title": "Spiegel-Interview - Kramp-Karrenbauer zur Schwäche der CDU: Partei muss sich breiter aufstellen",
+   "text": "Nach Einschätzung der früheren CDU-Chefin Kramp-Karrenbauer muss sich die Partei inhaltlich breiter aufstellen.",
+   "link": "https://www.deutschlandfunk.de/kramp-karrenbauer-zur-schwaeche-der-cdu-partei-muss-sich-breiter-aufstellen-100.html",
+   "published": "2026-11-22T10:56:51+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-24T10:56:51+00:00",
+   "img": "https://bilder.deutschlandfunk.de/18/1f/3d/ab/181f3dab-3538-40b8-b9be-205a30b0ea0d/annegret-kramp-karrenbauer-102-1920x1920.jpg"
+  },
+  {
+   "id": "n87691ed246",
+   "topic": "politik",
+   "title": "Politik - Grüne Bundestagsabgeordnete Slawik sieht Selbstbestimmungsgesetz als \"historischen Erfolg\" - offene Fragen bei konkreter Umsetzung",
+   "text": "Rund zwei Jahre nach Inkrafttreten des Selbstbestimmungsgesetzes hat die grüne Bundestagsabgeordnete Slawik von einem historischen Erfolg gesprochen.",
+   "link": "https://www.deutschlandfunk.de/gruene-bundestagsabgeordnete-slawik-sieht-selbstbestimmungsgesetz-als-historischen-erfolg-offene-fra-102.html",
+   "published": "2026-11-22T10:56:51+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-24T10:56:51+00:00",
+   "img": "https://bilder.deutschlandfunk.de/e5/4b/a5/43/e54ba543-4774-4a05-a023-a83e4811f258/nyke-slawik-grune-bundestag-100-1920x1920.jpg"
+  },
+  {
+   "id": "n821ceba2f2",
+   "topic": "it",
+   "title": "UN-Verhandlungen: Nur Minimalkompromiss gegen Killerroboter erreicht",
+   "text": "In Genf einigten sich mehr als 120 Staaten im Hinblick auf sogenannte Killerroboter nur auf weitere unverbindliche Beratungen. ( Militär , Roboter )",
+   "link": "https://www.golem.de/news/un-verhandlungen-nur-minimalkompromiss-gegen-killerroboter-erreicht-2611-215507.html",
+   "published": "2026-11-22T10:43:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-27T10:43:01+00:00",
+   "img": "https://www.golem.de/2611/215507-609913-609911_rc.jpg",
+   "also": [
+    {
+     "source": "heise online",
+     "title": "Killer-Roboter: UN-Konferenz endet ohne Mandat für verbindliches Verbot",
+     "link": "https://www.heise.de/news/Killer-Roboter-UN-Konferenz-endet-ohne-Mandat-fuer-verbindliches-Verbot-11533596.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    },
+    {
+     "source": "Tagesschau",
+     "title": "\"Killerroboter\": UN-Konferenz endet mit Minimalkompromiss",
+     "link": "https://www.tagesschau.de/ausland/europa/regeln-fuer-killerroboter-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n2d9c4183f8",
+   "topic": "ki",
+   "title": "Sicherheitsforscher schicken zwei Millionen KI-Anfragen mit gefälschten Zugangsdaten und decken gravierende Lücken auf",
+   "text": "Sicherheitsforscher von Dragos haben mit zwei Millionen gefälschten KI-Anfragen gravierende Schwachstellen in der KI-Lieferkette aufgedeckt: mindestens drei kompromittierte Anbieter, Hunderte gestohlene AWS-Schlüssel und Marktplatz-Wiederverkäufer, die Kundenanfragen einfach mitlasen. OpenRouter entfernte daraufhin …",
+   "link": "https://the-decoder.de/sicherheitsforscher-schicken-zwei-millionen-ki-anfragen-mit-gefaelschten-zugangsdaten-und-decken-gravierende-luecken-auf/",
+   "published": "2026-11-22T10:37:56+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-29T10:37:56+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/11/cybersecurity_data_leak.png"
+  },
+  {
+   "id": "na182fcb3c6",
+   "topic": "politik",
+   "title": "Analyse: Eintracht Frankfurt besteht Reifeprüfung gegen Hoffenheim",
+   "text": "Gegen Hoffenheim bleibt Eintracht Frankfurt in den entscheidenden Momenten cool und fährt, auch dank Keeper Noah Atubolu, einen Heimsieg ein. Dabei kochen bei Trainer Adi Hütter am Ende kurz die Emotionen hoch. Die Analyse in fünf Punkten.",
+   "link": "https://www.hessenschau.de/sport/fussball/eintracht-frankfurt/analyse-eintracht-frankfurt-besteht-reifepruefung-gegen-hoffenheim-v1,eintracht-hoffenheim-analyse-102.html",
+   "published": "2026-11-22T10:34:57+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-26T10:34:57+00:00",
+   "img": "https://www.hessenschau.de/sport/fussball/eintracht-frankfurt/sge-tsg-108~_t-1795343696557_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "nd1de593bed",
+   "topic": "wirtschaft",
+   "title": "Sind Einzelaktien eine Kostenfalle oder eine Goldgrube?",
+   "text": "Einzelaktien bieten etwas, was ein Welt-ETF kaum kann: Die Chance darauf, das Depot individueller zu gestalten und höhere Renditen zu erzielen. Gleichzeitig sind sie riskanter, zeitintensiver und komplexer. Von L.-M. Hiltscher und J. Bartlitz.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/boerse-investment-einzelaktien-etf-100.html",
+   "published": "2026-11-22T10:25:29+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-25T10:25:29+00:00",
+   "img": "https://images.tagesschau.de/image/7633e50a-12de-42ef-9ab0-b9d3d8dc93f8/AAABlCavHBs/AAABnSSvrFg/16x9-big/dax-244.jpg?width=1920"
+  },
+  {
+   "id": "na87cccd177",
+   "topic": "it",
+   "title": "GL.iNet: Schwachstelle entdeckt, Patch verfügbar",
+   "text": "Eine Lücke in den cloudbasierten Fernverwaltungsdiensten wird bereits ausgenutzt. Admins sollten schnell handeln.",
+   "link": "https://www.heise.de/news/GL-iNet-Schwachstelle-entdeckt-Patch-verfuegbar-11533722.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-22T10:02:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-27T10:02:00+00:00"
+  },
+  {
+   "id": "n1fbd5e716f",
+   "topic": "nfl",
+   "title": "Prisco's Week 11 NFL picks: 49ers over Vikings, Cowboys rout Titans, Panthers edge Ravens",
+   "text": "Pete Prisco reveals all of his Week 11 picks, including the Jaguars to handle the Giants on the road",
+   "link": "https://www.cbssports.com/nfl/news/priscos-week-11-nfl-picks-odds-expert-picks-predictions/",
+   "published": "2026-11-22T10:01:44+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-27T10:01:44+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/11/17/f32e94a1-42c8-4c88-94a2-5313288b7185/brock-purdy-49ers.jpg"
+  },
+  {
+   "id": "nfba254c200",
+   "topic": "it",
+   "title": "heise+ | Bildbearbeitung mit Affinity: Fotos entwickeln, retuschieren und exportieren",
+   "text": "Die kostenlose Bildbearbeitung Affinity enthält hervorragende Werkzeuge, um Urlaubsfotos zu entwickeln, zu retuschieren und auszugeben. So wirds gemacht.",
+   "link": "https://www.heise.de/ratgeber/Bildbearbeitung-mit-Affinity-Fotos-entwickeln-retuschieren-und-exportieren-11433118.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+   "published": "2026-11-22T10:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-27T10:00:00+00:00"
+  },
+  {
+   "id": "na0e2105517",
+   "topic": "ki",
+   "title": "Lean-Community bestätigt offiziell den Beweis der Riemannschen Vermutung",
+   "text": "Die Lean- und Mathlib-Community hat Levent Alpöges Beweis der Riemannschen Vermutung offiziell als korrekt bestätigt. Der 17 Millionen Zeilen lange Computercode wurde von Dutzenden unabhängigen Prüfern verifiziert. Die Lösung kam Jahre früher als erwartet: Terence Tao hatte sie erst für etwa 2050 prognostiziert und KI …",
+   "link": "https://the-decoder.de/lean-community-bestaetigt-offiziell-den-beweis-der-riemannschen-vermutung/",
+   "published": "2026-11-22T09:59:31+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-29T09:59:31+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/05/ai_and_math.png"
+  },
+  {
+   "id": "n2b11679322",
+   "topic": "welt",
+   "title": "UN-Klimakonferenz vor dem Scheitern?",
+   "text": "Der türkische Entwurf für den Abschlusstext des Klimagipfels nennt Öl, Kohle und Gas nicht ausdrücklich. Für Frankreich und Deutschland ist er damit nicht zustimmungsfähig.",
+   "link": "https://www.dw.com/de/un-klimakonferenz-vor-dem-scheitern/a-80012944?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-22T09:54:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-26T09:54:00+00:00",
+   "img": "https://static.dw.com/image/79149206_302.jpg"
+  },
+  {
+   "id": "n28942fe155",
+   "topic": "politik",
+   "title": "Künftiger Generalinspekteur will bei sexualisiertem Fehlverhalten durchgreifen",
+   "text": "Die Bundeswehr hat ein Problem mit sexualisiertem Fehlverhalten. Das belegt eine Studie. Der künftige Generalinspekteur der Bundeswehr, Freuding, will hier \"unerbittlich hart durchgreifen\". Die Zahlen seien \"unerträglich\".",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/bundeswehr-generalinspekteur-gegen-sexualisiertes-fehlverhalten-100.html",
+   "published": "2026-11-22T09:51:56+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-25T09:51:56+00:00",
+   "img": "https://images.tagesschau.de/image/c1199981-91f2-42b6-a91d-021ae253b598/AAABogKXsR4/AAABnSSvrFg/16x9-big/freuding-106.jpg?width=1920"
+  },
+  {
+   "id": "n90541cebde",
+   "topic": "welt",
+   "title": "Israel: Warum die Stadt Bat Yam Iran verklagt",
+   "text": "Mehr als ein Jahr nach dem verheerenden Raketenangriff auf ein Wohnviertel im israelischen Bat Yam sind viele Familien nicht in ihre Wohnungen zurückgekehrt. Nun hat die Stadt Klage gegen Iran eingereicht. Von Bettina Meier.",
+   "link": "https://www.tagesschau.de/ausland/asien/israel-bat-jam-raketenangriff-klage-iran-reportage-100.html",
+   "published": "2026-11-22T09:48:00+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-25T09:48:00+00:00",
+   "img": "https://images.tagesschau.de/image/77835ed6-01f3-4b3e-9414-b461b31fcd1a/AAABogKmxvw/AAABnSSvrFg/16x9-big/stern-168.jpg?width=1920"
+  },
+  {
+   "id": "n6f5a98d0fd",
+   "topic": "wissenschaft",
+   "title": "Die großen Fragen der Wissenschaft: »Es könnte einen Verlauf von Lebendigkeit geben«",
+   "text": "Ein Baum gilt als lebendig, ein Stein nicht. Was unterscheidet sie? Die Biophysikerin Petra Schwille versucht, diese Frage zu beantworten, indem sie künstliche Zellen erschafft.",
+   "link": "https://www.spektrum.de/news/was-ist-leben-forscherin-petra-schwille-baut-es-im-labor-nach/2351192",
+   "published": "2026-11-22T09:45:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-12-06T09:45:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/Shunshi_Vesicle.jpg.8420599.jpg?f=1280x720"
+  },
+  {
+   "id": "n77ba321e9e",
+   "topic": "ki",
+   "title": "OpenAIs GPT-6.2 antwortet kürzer und direkter, gesteht aber kaum noch Unsicherheit ein",
+   "text": "OpenAIs GPT-6.2 Astra und Sol antworten laut Artificial Analysis rund 40 Prozent kürzer und kommen schneller auf den Punkt als ihre Vorgänger, gestehen aber deutlich seltener Unsicherheit ein. Im Vergleich schneiden Anthropics Claude-Modelle bei Transparenz und Informationsgehalt klar besser ab. Die KI antwortet …",
+   "link": "https://the-decoder.de/gpt-6-2-antwortet-bis-zu-40-prozent-kuerzer-und-gesteht-unsicherheit-seltener-ein/",
+   "published": "2026-11-22T09:12:37+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-29T09:12:37+00:00"
+  },
+  {
+   "id": "n7447743e0a",
+   "topic": "politik",
+   "title": "Wie Armut Kinder in Deutschland krank macht",
+   "text": "Kinder aus armutsgefährdeten Familien haben ein höheres Risiko, krank zu werden - körperlich und psychisch. Dabei gibt es in Deutschland viele Hilfen. Warum kommen sie oft nicht an? Von Katharina Spreier.",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/armut-kinder-familien-100.html",
+   "published": "2026-11-22T08:26:52+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-25T08:26:52+00:00",
+   "img": "https://images.tagesschau.de/image/82b8fa1d-0f46-4482-8561-964d6aa70ac0/AAABldeZbTM/AAABnSSvrFg/16x9-big/kind-schatten-wand-100.jpg?width=1920"
+  },
+  {
+   "id": "n52f124b191",
+   "topic": "welt",
+   "title": "EU und Indonesien besiegeln Handelsabkommen",
+   "text": "Mit einem neuen Abkommen wollen EU und Indonesien Handel und Investitionen ausbauen. Besonders wichtig für Europa: der Zugang zu Rohstoffen wie Nickel und Kobalt für die Batterieindustrie.",
+   "link": "https://www.dw.com/de/eu-und-indonesien-besiegeln-handelsabkommen/a-80012521?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-22T08:18:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-26T08:18:00+00:00",
+   "img": "https://static.dw.com/image/73258353_302.jpg",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Weltwirtschaft - EU und Indonesien besiegeln umfassendes Handelsabkommen",
+     "link": "https://www.deutschlandfunk.de/eu-und-indonesien-besiegeln-umfassendes-handelsabkommen-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n2c6bd1b991",
+   "topic": "politik",
+   "title": "Gesetzentwurf des Justizministeriums: Femizide sollen eindeutig als Mord gelten",
+   "text": "\"Wer eine Frau tötet, weil sie sich von ihm trennen will, der muss als Mörder bestraft werden\": Justizministerin Hubig will den Mordparagrafen verschärfen und Femizide eindeutig als Mord erfassen. Ein Gesetzentwurf dazu liegt nun vor.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/femizide-mord-gesetzentwurf-100.html",
+   "published": "2026-11-22T08:16:45+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-25T08:16:45+00:00"
+  },
+  {
+   "id": "nc17d9fbc29",
+   "topic": "wissenschaft",
+   "title": "Sonde \"BepiColombo\" erreicht Merkur-Umlaufbahn",
+   "text": "Zehn Milliarden Kilometer hat \"BepiColombo\" zurückgelegt und ist endlich am Ziel angekommen: dem Merkur. Jetzt beginnt die eigentliche Arbeit der 1,7 Milliarden Euro teuren europäisch-japanischen Weltraummission.",
+   "link": "https://www.tagesschau.de/wissen/weltraum/merkur-sonde-esa-100.html",
+   "published": "2026-11-22T07:53:29+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-12-06T07:53:29+00:00",
+   "img": "https://images.tagesschau.de/image/13ec5600-cd7e-480c-a414-135a4f4f8877/AAABogI-8Es/AAABnSSvrFg/16x9-big/bepicolombo-104.jpg?width=1920"
+  },
+  {
+   "id": "nc45d7d490c",
+   "topic": "welt",
+   "title": "Australien: Social-Media-Verbot mit Lücken und Mängeln",
+   "text": "Jugendliche vor den Folgen von Social Media zu schützen, das war die Idee hinter dem Social-Media-Verbot in Australien. Ein Jahr danach zeigt sich, wo es bei der Umsetzung hakt. Von C. Justus und P. Nöhr.",
+   "link": "https://www.tagesschau.de/ausland/ozeanien/australien-social-media-108.html",
+   "published": "2026-11-22T07:26:24+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-25T07:26:24+00:00",
+   "img": "https://images.tagesschau.de/image/e72d8620-3202-49aa-8993-7d735b11e9bf/AAABofhDH_g/AAABnSSvrFg/16x9-big/sperre-social-media-seite-100.jpg?width=1920"
+  },
+  {
+   "id": "nc28966d2d6",
+   "topic": "wissenschaft",
+   "title": "Infografik: Wie Mitochondrien unser Verhalten beeinflussen",
+   "text": "Mitochondrien liefern dem energiehungrigen Organ nicht nur die Power, sondern modulieren auch neuronale Netzwerke. Schwächeln sie, leiden Motivation und Gefühlsleben.",
+   "link": "https://www.spektrum.de/news/infografik-wie-mitochondrien-unser-verhalten-beeinflussen/2345254",
+   "published": "2026-11-22T07:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-12-06T07:00:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/Infografik_Mitochondrien_Koh_Teaser_16zu9.jpg.jpg.8427532.jpg?f=1280x720"
+  },
+  {
+   "id": "n502cd7654f",
+   "topic": "wissenschaft",
+   "title": "Wie viele Möglichkeiten gibt es?",
+   "text": "Wie viele verschiedene Möglichkeiten gibt es, fünf verschiedene Zahlen mit dieser Voraussetzung auszuwählen?",
+   "link": "https://www.spektrum.de/raetsel/wie-viele-moeglichkeiten-gibt-es/2264914",
+   "published": "2026-11-22T07:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-12-06T07:00:00+00:00"
+  },
+  {
+   "id": "n3c9db3c9c8",
+   "topic": "politik",
+   "title": "Antisemitismusbeauftragte fordert mehr Engagement gegen Judenhass",
+   "text": "Antisemitismus so offen wie seit dem Holocaust nicht mehr: Bundesbeauftragte von Schnurbein warnt vor wachsendem Judenhass in Deutschland. Die \"AfD-Ideologie\" sei ein gefährlicher Angriff auf die Erinnerungskultur.",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/antisemitismusbeauftragte-102.html",
+   "published": "2026-11-22T05:47:26+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-25T05:47:26+00:00",
+   "img": "https://images.tagesschau.de/image/5836c0f1-1257-4bf7-9bdb-6d4b4f873133/AAABogHLiwA/AAABnSSvrFg/16x9-big/schnurbein-104.jpg?width=1920"
+  },
+  {
+   "id": "n557e2a6b5b",
+   "topic": "welt",
+   "title": "Klimakonferenz in Antalya: Staaten beraten neuen Entwurf für Abschlusserklärung",
+   "text": "Nach weit über 30 Stunden Verlängerung liegt der Klimakonferenz in Antalya ein neuer Entwurf für eine Abschlusserklärung vor. Ein klares Bekenntnis zur Abkehr von fossilen Energien enthält der Text nicht. Am Vormittag soll abgestimmt werden.",
+   "link": "https://www.tagesschau.de/ausland/europa/cop31-klimakonferenz-100.html",
+   "published": "2026-11-22T05:21:04+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-25T05:21:04+00:00",
+   "img": "https://images.tagesschau.de/image/86168682-dd57-4d10-8eda-1f1910d9925c/AAABogKIbOs/AAABnSSvrFg/16x9-big/cop31-120.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Weltklimakonferenz - Präsidentschaft kündigt neuen Entwurf für Abschlusserklärung an",
+     "link": "https://www.deutschlandfunk.de/praesidentschaft-kuendigt-neuen-entwurf-fuer-abschlusserklaerung-an-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n61d376b353",
+   "topic": "welt",
+   "title": "Spende an Nawalny: Russische Ornithologin sitzt in Haft",
+   "text": "Sofia Rosenfeld hat ihr Leben der Erforschung arktischer Wasservögel gewidmet. Wegen Spenden im Wert von 22 Euro muss sie für dreieinhalb Jahre in Haft. Freunde und Familie kämpfen für ihre Freilassung.",
+   "link": "https://www.dw.com/de/spende-an-nawalny-russische-ornithologin-sitzt-in-haft/a-80009856?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-22T05:19:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-26T05:19:00+00:00",
+   "img": "https://static.dw.com/image/79962452_302.jpg"
+  },
+  {
+   "id": "nd6333b7c96",
+   "topic": "wirtschaft",
+   "title": "IG Metall weitet Warnstreiks in norddeutscher Metall- und Elektroindustrie aus",
+   "text": "Bundesweit hatten am Freitag Beschäftigte der Metall- und Elektroindustrie ihre Arbeit niedergelegt. Im Norden will die IG Metall Küste jetzt nachlegen: Nochmal soll für 24 Stunden gestreikt werden - teils schon ab heute Abend.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-warnstreik-102.html",
+   "published": "2026-11-22T03:50:01+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-25T03:50:01+00:00",
+   "img": "https://images.tagesschau.de/image/63d28ea6-067c-417e-a4a1-eae3ebdaaeb3/AAABogFgCrw/AAABnSSvrFg/16x9-big/ig-metall-290.jpg?width=1920"
+  },
+  {
+   "id": "n2ed9fcbcc9",
+   "topic": "nfl",
+   "title": "NFL Week 11 last-minute picks, best bets: Fernando Mendoza's Raiders face tough task, Titans cover in Dallas",
+   "text": "Need some last-minute advice on how to bet the Week 11 slate? Allow us to be of assistance",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-11-last-minute-picks-best-bets-fernando-mendozas/",
+   "published": "2026-11-22T03:00:55+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-27T03:00:55+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/11/02/894689f3-0be5-43c9-ac5d-bddaa74be68f/bo-nix-broncos-10.jpg"
+  },
   {
    "id": "n22603ddb17",
    "topic": "politik",
@@ -101,7 +568,14 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-11-24T01:12:35+00:00"
+   "expires": "2026-11-24T01:12:35+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Klimakonferenz in Antalya: Staaten beraten neuen Entwurf für Abschlusserklärung",
+     "link": "https://www.tagesschau.de/ausland/europa/cop31-klimakonferenz-100.html"
+    }
+   ]
   },
   {
    "id": "n8aacd7d678",
@@ -296,7 +770,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-24T19:10:03+00:00",
-   "img": "https://images.tagesschau.de/image/4ffc6b7b-b5a0-479c-aad8-927bf984e3dc/AAABof4zEqY/AAABnSSvrFg/16x9-big/sparta-2-100.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/010edad1-2a48-40b7-8b0f-af68345ce325/AAABogJsFbg/AAABnSSvrFg/16x9-big/sparta-2-102.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Ostsee - Löscharbeiten an russischem Frachter dauern nach Drohnenangriff an",
+     "link": "https://www.deutschlandfunk.de/loescharbeiten-an-russischem-frachter-dauern-nach-drohnenangriff-an-100.html"
+    }
+   ]
   },
   {
    "id": "n3f3821c487",
@@ -373,7 +854,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-23T19:04:51+00:00",
-   "img": "https://bilder.deutschlandfunk.de/c9/4d/ca/6a/c94dca6a-a190-479d-9639-1750bd093a30/eu-indonesien-100-1920x1920.jpg"
+   "img": "https://bilder.deutschlandfunk.de/c9/4d/ca/6a/c94dca6a-a190-479d-9639-1750bd093a30/eu-indonesien-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "EU und Indonesien besiegeln Handelsabkommen",
+     "link": "https://www.dw.com/de/eu-und-indonesien-besiegeln-handelsabkommen/a-80012521?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
   },
   {
    "id": "n1e8fdb7d8e",
@@ -515,6 +1003,11 @@
    "lang": "de",
    "expires": "2026-11-26T16:28:00+00:00",
    "also": [
+    {
+     "source": "Golem.de",
+     "title": "UN-Verhandlungen: Nur Minimalkompromiss gegen Killerroboter erreicht",
+     "link": "https://www.golem.de/news/un-verhandlungen-nur-minimalkompromiss-gegen-killerroboter-erreicht-2611-215507.html"
+    },
     {
      "source": "Tagesschau",
      "title": "\"Killerroboter\": UN-Konferenz endet mit Minimalkompromiss",
@@ -888,14 +1381,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-23T10:40:09+00:00",
-   "img": "https://bilder.deutschlandfunk.de/6a/ff/d9/cb/6affd9cb-01df-4fa6-ba75-8383b35d705a/david-mcallister-cdu-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Gipfel in Brüssel: Annäherung zwischen Großbritannien und EU",
-     "link": "https://www.tagesschau.de/ausland/eu-uk-gipfel-102.html"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/6a/ff/d9/cb/6affd9cb-01df-4fa6-ba75-8383b35d705a/david-mcallister-cdu-100-1920x1920.jpg"
   },
   {
    "id": "n7d71768404",
@@ -1167,6 +1653,11 @@
    "img": "https://images.tagesschau.de/image/ffa06e13-d57b-4235-a827-ba7b899299a2/AAABoeOz20A/AAABnSSvrFg/16x9-big/autonome-waffe-100.jpg?width=1920",
    "also": [
     {
+     "source": "Golem.de",
+     "title": "UN-Verhandlungen: Nur Minimalkompromiss gegen Killerroboter erreicht",
+     "link": "https://www.golem.de/news/un-verhandlungen-nur-minimalkompromiss-gegen-killerroboter-erreicht-2611-215507.html"
+    },
+    {
      "source": "heise online",
      "title": "Killer-Roboter: UN-Konferenz endet ohne Mandat für verbindliches Verbot",
      "link": "https://www.heise.de/news/Killer-Roboter-UN-Konferenz-endet-ohne-Mandat-fuer-verbindliches-Verbot-11533596.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
@@ -1268,492 +1759,6 @@
    "lang": "de",
    "expires": "2026-11-23T02:13:20+00:00",
    "img": "https://bilder.deutschlandfunk.de/a8/92/35/e4/a89235e4-3866-4877-935e-ad7b8d381427/rente-118-1920x1920.jpg"
-  },
-  {
-   "id": "n32140819b9",
-   "topic": "politik",
-   "title": "Bericht - Mehr als 27.000 Zwangsräumungen im vergangenen Jahr, Zahl rückläufig",
-   "text": "In Deutschland hat es im vergangenen Jahr knapp 27.500 Zwangsräumungen gegeben.",
-   "link": "https://www.deutschlandfunk.de/mehr-als-27-000-zwangsraeumungen-im-vergangenen-jahr-zahl-ruecklaeufig-100.html",
-   "published": "2026-11-21T02:13:20+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-23T02:13:20+00:00",
-   "img": "https://bilder.deutschlandfunk.de/FI/LE/_7/62/FILE_762f962267e6e94e2bb43e489d80743a/haustuergeschaeft-jpg-100-768x768.jpg"
-  },
-  {
-   "id": "n5971053bd6",
-   "topic": "politik",
-   "title": "Jugendproteste - \"Gen Z regelt\"-Demonstrationen: Weniger Teilnehmer als erwartet - vereinzelte Ausschreitungen",
-   "text": "Bundesweit sind zehntausende Menschen für die Anliegen der jungen Generation auf die Straße gegangen.",
-   "link": "https://www.deutschlandfunk.de/gen-z-regelt-demonstrationen-weniger-teilnehmer-als-erwartet-vereinzelte-ausschreitungen-100.html",
-   "published": "2026-11-21T02:13:20+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-23T02:13:20+00:00",
-   "img": "https://bilder.deutschlandfunk.de/31/7b/4a/e1/317b4ae1-3282-4f4e-a0cf-9f4c4d64d708/gen-z-regelt-demonstrationen-jugendliche-verbesserungen-hochschulen-bildungspolitik-wehrpflicht-100-1920x1920.jpg"
-  },
-  {
-   "id": "ne46c90a708",
-   "topic": "politik",
-   "title": "Fußball-Bundesliga - Bayern und Köln trennen sich 1:1 - Kane verletzt sich",
-   "text": "In der Fußball-Bundesliga haben Bayern München und der 1. FC Köln unentschieden gespielt.",
-   "link": "https://www.deutschlandfunk.de/bayern-und-koeln-trennen-sich-1-1-kane-verletzt-sich-100.html",
-   "published": "2026-11-21T02:13:20+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-23T02:13:20+00:00",
-   "img": "https://bilder.deutschlandfunk.de/4f/98/67/54/4f986754-2edb-4b1b-9356-12ad43b2776c/bundesliga-bayern-koeln-102-1920x1920.jpg"
-  },
-  {
-   "id": "nd04fc01e53",
-   "topic": "politik",
-   "title": "Frankreich - Gesetz zur \"rechtmäßigen Verteidigung\" für Polizisten verabschiedet",
-   "text": "In Frankreich gilt künftig ein umstrittenes Polizeigesetz, mit dem Schüsse aus Dienstwaffen im Grundsatz als gerechtfertigt gelten sollen.",
-   "link": "https://www.deutschlandfunk.de/gesetz-zur-rechtmaessigen-verteidigung-fuer-polizisten-verabschiedet-100.html",
-   "published": "2026-11-21T02:13:20+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-23T02:13:20+00:00",
-   "img": "https://bilder.deutschlandfunk.de/f4/6a/8a/1b/f46a8a1b-9ed3-4996-a118-bea701da386d/frankreich-polizei-fussball-100-1920x1920.jpg"
-  },
-  {
-   "id": "n7c3420c784",
-   "topic": "nfl",
-   "title": "Braelon Allen making case for more touches in Jets’ crowded backfield",
-   "text": "Jets RB Braelon Allen has rushed for 638 yards this season, but head coach Aaron Glenn says starter Breece Hall remains the team's top option.",
-   "link": "https://sports.yahoo.com/articles/braelon-allen-making-case-more-013935099.html",
-   "published": "2026-11-21T01:39:35+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-26T01:39:35+00:00",
-   "img": "https://media.zenfs.com/en/ny_post_sports_articles_389/cf5a5508e7bc10a0634b841d88c059f1.jpg"
-  },
-  {
-   "id": "n97fad5c780",
-   "topic": "nfl",
-   "title": "Colts waive Daniel Jones: Indy not trading QB or Jonathan Taylor at deadline now a major second-guess",
-   "text": "Indy has put themselves in a very tough spot after sitting on the fence at the deadline.",
-   "link": "https://www.cbssports.com/nfl/news/colts-daniel-jones-not-trading-qb-jonathan-taylor-deadline-major-second-guess/",
-   "published": "2026-11-21T01:37:50+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-26T01:37:50+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/11/20/fad02f01-1f84-4389-beca-f03deb0c3bc4/template-pic.jpg"
-  },
-  {
-   "id": "n9e03d0c85f",
-   "topic": "nfl",
-   "title": "At 7-2, Have the Bears Met or Exceeded Your Preseason Expectations?",
-   "text": "A few of the WCG crew looks back on their preseason record prediction for the Bears.",
-   "link": "https://sports.yahoo.com/articles/7-2-bears-met-exceeded-010000295.html",
-   "published": "2026-11-21T01:00:00+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-26T01:00:00+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/90e41d3db44d16de7380c23721022111.jpg"
-  },
-  {
-   "id": "nbe69d5b671",
-   "topic": "nfl",
-   "title": "49ers lose shot at breaking NFL record for most miles traveled due to Week 11 travel detour en route to Mexico",
-   "text": "The 49ers are taking a detour in Week 11 that's going to cost them the NFL record for most miles traveled",
-   "link": "https://www.cbssports.com/nfl/news/49ers-lose-shot-breaking-nfl-record-most-miles-traveled-week-11-travel-detour/",
-   "published": "2026-11-20T23:51:41+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-25T23:51:41+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/11/20/7de32ef3-2dbc-4a33-9ee3-a8efe6b3e2d2/vikesniners.jpg"
-  },
-  {
-   "id": "ne5f098aab4",
-   "topic": "politik",
-   "title": "Gen-Z-Proteste in Hessen: Meldungen im Ticker",
-   "text": "Verschiedene Jugendorganisationen und Gewerkschaften sind am Freitag auf die Straße gegangen. In mehreren Städten in Hessen waren Demonstrationen geplant. Die Meldungen im Ticker.",
-   "link": "https://www.hessenschau.de/panorama/gen-z-proteste-in-hessen-meldungen-im-ticker--ticker-beendet,genz-demo-freitag-100.html",
-   "published": "2026-11-20T22:00:38+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-24T22:00:38+00:00",
-   "img": "https://www.hessenschau.de/politik/genz-demo-frankfurt-100~_t-1795200188469_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "ne5aae274cc",
-   "topic": "welt",
-   "title": "Mutmaßlicher Anschlagsplan: Dänen weisen russischen Diplomaten aus",
-   "text": "Russland soll auf dänischem Boden einen Anschlag auf einen ukrainisch-amerikanischen Rapper geplant haben. Als Reaktion wurde ein russischer Diplomat ausgewiesen. Zwei Verdächtige sitzen in Untersuchungshaft.",
-   "link": "https://www.tagesschau.de/ausland/europa/daenemark-attentatsversuch-100.html",
-   "published": "2026-11-20T21:28:00+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-23T21:28:00+00:00",
-   "img": "https://images.tagesschau.de/image/fdb97cf4-2dd2-4866-ba11-31f4c4c6202b/AAABofqwIi0/AAABnSSvrFg/16x9-big/daenemark-anschlagsplaene-100.jpg?width=1920"
-  },
-  {
-   "id": "n9fbccf5653",
-   "topic": "ki",
-   "title": "KI-Datenklau: OpenAI macht Nachahmer-Modellen das Leben schwer",
-   "text": "OpenAI verschärft den Schutz interner Denkprozesse bei GPT-6.2 Astra und GPT-6.2 Sol massiv. In adaptiven Red-Teaming-Tests sank die Erfolgsquote für das Auslesen geschützter Gedankengänge von 54 auf 0,2 Prozent. Parallel sperrt das Unternehmen wöchentlich tausende bis zehntausende Konten, die an koordinierten …",
-   "link": "https://the-decoder.de/ki-datenklau-openai-macht-nachahmer-modellen-das-leben-schwer/",
-   "published": "2026-11-20T20:31:50+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-27T20:31:50+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/02/ai_model_distill.jpeg"
-  },
-  {
-   "id": "n9463c8d27e",
-   "topic": "welt",
-   "title": "Großbritannien: Schuldsprüche in Vergewaltigungsprozess",
-   "text": "Der Fall erinnert an das Martyrium der Französin Gisèle Pelicot. Die Britin Joanne Young wurde über Jahre von ihrem Ehemann betäubt - und dann im Internet zur Vergewaltigung angeboten. Nun wurden vier Männer schuldig gesprochen. Von F. Hoppen.",
-   "link": "https://www.tagesschau.de/ausland/europa/joanne-young-100.html",
-   "published": "2026-11-20T20:25:44+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-23T20:25:44+00:00",
-   "img": "https://images.tagesschau.de/image/e31eb7e4-cd59-42b6-81c3-eba683721b8c/AAABofqLySg/AAABnSSvrFg/16x9-big/joanne-young-102.jpg?width=1920"
-  },
-  {
-   "id": "n67105f7c96",
-   "topic": "politik",
-   "title": "Antalya - Weltklimakonferenz geht in die Verlängerung - EU fordert Änderungen",
-   "text": "Die Weltklimakonferenz in der Türkei geht in die Verlängerung. Gerungen wird laut Medienberichten unter anderem um Formulierungen zu fossilen Brennstoffen. In dem aktuellen Entwurf der Abschlusserklärung wird ein Ausstieg aus Kohle, Öl und Gas nicht direkt erwähnt. Mehrere Länder kündigten ihren Widerstand dagegen an.",
-   "link": "https://www.deutschlandfunk.de/weltklimakonferenz-geht-in-die-verlaengerung-eu-fordert-aenderungen-100.html",
-   "published": "2026-11-20T20:18:52+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-22T20:18:52+00:00",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Klimagipfel in Antalya geht in die Verlängerung - News kompakt: Das Wichtigste kurz gefasst",
-     "link": "https://www.dw.com/de/klimagipfel-in-antalya-geht-in-die-verlängerung-news-kompakt-das-wichtigste-kurz-gefasst/a-80007922?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "nc15d8f9ae1",
-   "topic": "politik",
-   "title": "Gipfel in Brüssel - EU und Großbritannien vereinbaren Annäherung",
-   "text": "Großbritannien und die Europäische Union haben eine Wiederannäherung in mehreren Bereichen vereinbart. Beide Seiten einigten sich bei einem Gipfel in Brüssel laut Nachrichtenagenturen auf ‌einen erleichterten Handel mit ⁠Lebensmitteln, einfachere Aufenthaltsregeln für junge Menschen und eine Verbindung ihrer …",
-   "link": "https://www.deutschlandfunk.de/eu-und-grossbritannien-vereinbaren-annaeherung-100.html",
-   "published": "2026-11-20T20:18:52+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-22T20:18:52+00:00",
-   "img": "https://bilder.deutschlandfunk.de/e3/67/eb/e9/e367ebe9-8e4b-415f-9553-1e01a895a9b1/burnham-leyen-eu-gb-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Gipfel in Brüssel: Annäherung zwischen Großbritannien und EU",
-     "link": "https://www.tagesschau.de/ausland/eu-uk-gipfel-102.html"
-    }
-   ]
-  },
-  {
-   "id": "ne898bb3c77",
-   "topic": "politik",
-   "title": "Ukraine-Krieg - Pistorius: Einladung Putins auszuschlagen, wäre das falsche Signal",
-   "text": "Bundesverteidigungsminister ​Pistorius zeigt sich offen für das Gesprächsangebot des russischen Präsidenten Putin zum Ukraine-Krieg. Der SPD-Politiker sagte bei einem Besuch in Warschau, nur wer rede, könne am Ende zu Ergebnissen kommen.",
-   "link": "https://www.deutschlandfunk.de/pistorius-einladung-putins-auszuschlagen-waere-das-falsche-signal-100.html",
-   "published": "2026-11-20T20:18:52+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-22T20:18:52+00:00",
-   "img": "https://bilder.deutschlandfunk.de/cb/28/33/b1/cb2833b1-d07d-4f22-8dfb-0b2ba707443f/bundesverteidigungsminister-pistorius-warschau-polen-besuch-100-1920x1920.jpg"
-  },
-  {
-   "id": "n55cc1cab1e",
-   "topic": "politik",
-   "title": "\"Ziemlich dumm\" - Pistorius entschuldigt sich für scharfe Wortwahl zu Äußerung von US-Vertreter",
-   "text": "\"Ziemlich dumm\"Bundesverteidigungsminister Pistorius hat sich bei dem US-Regierungsvertreter Colby für eine ‌scharfe Wortwahl im Zusammenhang mit dem Ukraine-Krieg entschuldigt.",
-   "link": "https://www.deutschlandfunk.de/pistorius-entschuldigt-sich-fuer-scharfe-wortwahl-zu-aeusserung-von-us-vertreter-100.html",
-   "published": "2026-11-20T20:18:52+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-22T20:18:52+00:00",
-   "img": "https://bilder.deutschlandfunk.de/7a/70/3e/6f/7a703e6f-93cf-4193-a106-3636822117ba/verteidigungsminister-pistorius-bruessel-102-1920x1920.jpg"
-  },
-  {
-   "id": "n967b743118",
-   "topic": "politik",
-   "title": "Nach Parlamentswahl - Eisenkot bringt Minderheitsregierung für Israel ins Spiel",
-   "text": "In Israel zeichnet sich bei der komplizierten Regierungsbildung ein möglicher Kompromiss ab.",
-   "link": "https://www.deutschlandfunk.de/eisenkot-bringt-minderheitsregierung-fuer-israel-ins-spiel-100.html",
-   "published": "2026-11-20T20:18:52+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-22T20:18:52+00:00",
-   "img": "https://bilder.deutschlandfunk.de/NO/VA/_6/79/NOVA_6794f396c715d2160eedc647ca94d152/craft-13535524-asset-100-1920x1920.jpg"
-  },
-  {
-   "id": "n1ed2491fd2",
-   "topic": "politik",
-   "title": "Tech-Werte unter Druck - Dax verzeichnet höchstes Wochenminus seit März und fällt unter 25.000 Punkte",
-   "text": "Der Dax hat den größten Wochenverlust seit März verzeichnet.",
-   "link": "https://www.deutschlandfunk.de/dax-verzeichnet-hoechstes-wochenminus-seit-maerz-und-faellt-unter-25-000-punkte-100.html",
-   "published": "2026-11-20T20:18:52+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-22T20:18:52+00:00",
-   "img": "https://bilder.deutschlandfunk.de/ab/4d/46/6f/ab4d466f-43b0-4b52-ac9c-4fb844ba81bb/boerse-frankfurt-dax-welthandel-wertpapierboerse-verlust-aktienindex-absturz-100-1920x1920.jpg"
-  },
-  {
-   "id": "n0159059696",
-   "topic": "nfl",
-   "title": "Patriots finally get a Drake Maye injury update — and some bad A.J. Brown news",
-   "text": "After several days of waiting for answers, we finally know the real nature of Drake Maye’s injury.",
-   "link": "https://sports.yahoo.com/articles/patriots-finally-drake-maye-injury-200455340.html",
-   "published": "2026-11-20T20:04:55+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-25T20:04:55+00:00",
-   "img": "https://media.zenfs.com/en/ny_post_sports_articles_389/df3844226c413a5847f659e58df4ff1c.jpg"
-  },
-  {
-   "id": "n069ddd9da0",
-   "topic": "nfl",
-   "title": "Why the 49ers Vikings clash is ultimate immovable object vs. unstoppable force",
-   "text": "Brock Purdy has excelled this season when facing the blitz. Meanwhile, the Vikings is incredibly aggressive, leading to great results.",
-   "link": "https://sports.yahoo.com/articles/why-49ers-vikings-clash-ultimate-200330733.html",
-   "published": "2026-11-20T20:03:30+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-25T20:03:30+00:00",
-   "img": "https://media.zenfs.com/en/ny_post_sports_articles_389/6f2b98573ab0b5eea17a4b0009aebcf1.jpg"
-  },
-  {
-   "id": "n23396baca5",
-   "topic": "wirtschaft",
-   "title": "Mehr als 100 Betriebe beteiligt: IG Metall setzt weiter auf ganztätige Warnstreiks",
-   "text": "BMW und Audi in Bayern, Werften im Norden: Mehr als Hunderttausend Beschäftigte haben für 24 Stunden die Arbeit niedergelegt. Ein neues Gesprächsangebot hat die Streikwelle vorerst nicht gestoppt. In der kommenden Woche geht es weiter.",
-   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-streik-112.html",
-   "published": "2026-11-20T19:58:08+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-23T19:58:08+00:00",
-   "img": "https://images.tagesschau.de/image/7838880c-44a6-4545-b45e-37fc863a894e/AAABofpYMmQ/AAABnSSvrFg/16x9-big/streik-igmetall-100.jpg?width=1920"
-  },
-  {
-   "id": "n21a72c6ef0",
-   "topic": "politik",
-   "title": "Letzte Gen-Z-Demo endet vorzeitig - wenig Zulauf im strömenden Regen",
-   "text": "Tausende waren angekündigt, gekommen sind vielerorts deutlich weniger: Die Gen-Z-Proteste gegen Wehrpflicht und Sozialkürzungen blieben in Hessen hinter den Erwartungen zurück. Dauerregen und Streit unter den Organisatoren dürften dazu beigetragen haben.",
-   "link": "https://www.hessenschau.de/gesellschaft/letzte-gen-z-demo-endet-vorzeitig---wenig-zulauf-im-stroemenden-regen-v8,genz-demos-freitag-100.html",
-   "published": "2026-11-20T19:50:48+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-24T19:50:48+00:00",
-   "img": "https://www.hessenschau.de/panorama/gen-z-demo-frankfurt-102~_t-1795203166180_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "nbbe822aa00",
-   "topic": "nfl",
-   "title": "Colts release Daniel Jones: Landing spots for QB include Patriots, Ravens, Eagles",
-   "text": "Jones just completed his sixth straight game with an interception, the longest streak by a Colts player since Curtis Painter in 2011",
-   "link": "https://www.cbssports.com/nfl/news/colts-release-qb-daniel-jones-possible-landing-spots/",
-   "published": "2026-11-20T19:48:53+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-25T19:48:53+00:00"
-  },
-  {
-   "id": "nc26d0cf471",
-   "topic": "ki",
-   "title": "Signal schränkt Screenshots ein und warnt vor \"existenzieller Bedrohung\" durch KI-Agenten",
-   "text": "Signal blockiert Screenshots, um KI-Agenten wie Apples Siri AI, Googles Gemini Intelligence oder Metas Muse am Mitlesen privater Chats zu hindern. Der Messenger spricht von einer „existenziellen Bedrohung\" für den Datenschutz, räumt aber ein, dass der Schutz etwa auf macOS lückenhaft bleibt. Apple, Google und …",
-   "link": "https://the-decoder.de/signal-schraenkt-screenshots-ein-und-warnt-vor-existenzieller-bedrohung-durch-ki-agenten/",
-   "published": "2026-11-20T19:42:17+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-27T19:42:17+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/11/signal_ai_agents.png"
-  },
-  {
-   "id": "nf75fd526d3",
-   "topic": "nfl",
-   "title": "Patriots WR A.J. Brown expected to miss multiple weeks due to hamstring injury, per report",
-   "text": "Brown has already missed multiple games this season and is now expected to miss at least the next few contests",
-   "link": "https://www.cbssports.com/nfl/news/patriots-wr-aj-brown-hamstring-injury-update/",
-   "published": "2026-11-20T19:38:23+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-25T19:38:23+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/09/18/7eb6af76-784f-4592-99db-fd43a71ce343/aj-brown.jpg"
-  },
-  {
-   "id": "n263333442b",
-   "topic": "welt",
-   "title": "Weltbevölkerungsbericht: Die GenZ ist gebildet, aber verunsichert",
-   "text": "Noch nie waren junge Menschen so gut ausgebildet, noch nie standen sie gleichzeitig vor so vielen Herausforderungen. Weshalb sich junge Deutsche fragen: Wird es mir später besser gehen als meinen Eltern?",
-   "link": "https://www.dw.com/de/weltbevölkerungsbericht-die-genz-ist-gebildet-aber-verunsichert/a-80003564?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-20T19:22:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-24T19:22:00+00:00",
-   "img": "https://static.dw.com/image/80003946_302.jpg"
-  },
-  {
-   "id": "n0562cbe1c9",
-   "topic": "wirtschaft",
-   "title": "Wirtschaft vor acht vom 20.11.2026",
-   "text": "Wirtschaft vor acht vom 20.11.2026",
-   "link": "https://www.tagesschau.de/video/video-1687280.html",
-   "published": "2026-11-20T19:10:55+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-23T19:10:55+00:00",
-   "img": "https://images.tagesschau.de/image/376c7642-30d9-4983-896d-d49ee46f142a/AAABofpeUzE/AAABnSSvrFg/16x9-big/sendungsbild-1830716.jpg?width=1920"
-  },
-  {
-   "id": "na6bc68177c",
-   "topic": "it",
-   "title": "Schall, Rotation oder beides? Die beste elektrische Zahnbürste im großen Test",
-   "text": "Eine elektrische Zahnbürste putzt gründlicher als die Handzahnbürste. Wir zeigen die fünf besten aus unseren Tests, der Preistipp kostet nur 80 Euro.",
-   "link": "https://www.heise.de/bestenlisten/testsieger/schall-rotation-oder-beides-die-beste-elektrische-zahnbuerste-im-grossen-test/v70fyrr?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-20T19:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-25T19:00:00+00:00"
-  },
-  {
-   "id": "n7b666e825e",
-   "topic": "politik",
-   "title": "Jugendliche erneut zu Tausenden auf den Straßen",
-   "text": "Die Generation Z demonstriert wieder: Junge Menschen sind heute bundesweit für bessere Bildung, mehr Klimaschutz und gegen eine mögliche Wehrpflicht auf die Straßen gegangen. Meist blieb es friedlich.",
-   "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-114.html",
-   "published": "2026-11-20T18:54:49+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-23T18:54:49+00:00",
-   "img": "https://images.tagesschau.de/image/bf4b2059-d2fd-44c3-be5a-44e2f5804952/AAABofkNEG0/AAABnSSvrFg/16x9-big/gen-z-proteste-118.jpg?width=1920"
-  },
-  {
-   "id": "n795d0e0a71",
-   "topic": "it",
-   "title": "Tesla Assisted Driving: Tesla darf in Italien schon autonom fahren",
-   "text": "Italien lässt Teslas Fahrasssistenzsystem als erstes großes EU-Land zu. Damit wächst der Druck auf die EU vor der Abstimmung im Dezember. ( Tesla , Elektroauto )",
-   "link": "https://www.golem.de/news/tesla-assisted-driving-tesla-darf-in-italien-schon-autonom-fahren-2611-215496.html",
-   "published": "2026-11-20T18:46:01+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-25T18:46:01+00:00",
-   "img": "https://www.golem.de/2611/215496-609858-609856_rc.jpg"
-  },
-  {
-   "id": "nbf144ea983",
-   "topic": "ki",
-   "title": "Googles Gemini-App für Mac bekommt \"Computer Use\" und steuert Desktop-Apps im Hintergrund",
-   "text": "Google bringt \"Computer Use\" in die Gemini-App für den Mac: Die KI navigiert eigenständig durch Desktop-Programme, lokale Dateien und Webseiten, während Nutzer ungestört weiterarbeiten. Jeder Schritt läuft in einem isolierten Hintergrundfenster mit Live-Vorschau. Der Artikel Googles Gemini-App für Mac bekommt …",
-   "link": "https://the-decoder.de/googles-gemini-app-fuer-mac-bekommt-computer-use-und-steuert-desktop-apps-im-hintergrund/",
-   "published": "2026-11-20T18:30:31+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-27T18:30:31+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/09/gemini_blue.png"
-  },
-  {
-   "id": "nbde258d667",
-   "topic": "welt",
-   "title": "Vergewaltigungsvorwurf: Anzeige gegen Depardieu und Houellebecq",
-   "text": "Gegen den Schauspieler Gérard Depardieu und den Schriftsteller Michel Houellebecq liegt eine neue Anzeige vor - es geht um den Vorwurf der Gruppenvergewaltigung. Laut einem Medienbericht geschah diese 2018 bei einem Filmdreh. Von C. Rienäcker.",
-   "link": "https://www.tagesschau.de/ausland/europa/frankreich-vergewaltigungsvorwuerfe-depardieu-houellebecq-100.html",
-   "published": "2026-11-20T18:25:36+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-23T18:25:36+00:00",
-   "img": "https://images.tagesschau.de/image/01d0d63e-859a-476c-ad72-b97042e8fbe9/AAABof2vuXQ/AAABnSSvrFg/16x9-big/depardieu-126.jpg?width=1920"
-  },
-  {
-   "id": "n3e03be4dce",
-   "topic": "it",
-   "title": "Abbau: DB-Systel-Beschäftigte protestieren mit Flood the Office für Homeoffice",
-   "text": "Die Deutsche Bahn will ihre Belegschaft zurück ins Büro holen, doch es fehlen Schreibtische. Bei einer Protestaktion wurde auf den Fluren gearbeitet. ( Arbeit , Deutsche Bahn )",
-   "link": "https://www.golem.de/news/abbau-db-systel-beschaeftigte-protestieren-mit-flood-the-office-fuer-homeoffice-2611-215498.html",
-   "published": "2026-11-20T18:21:01+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-25T18:21:01+00:00",
-   "img": "https://www.golem.de/2611/215498-609867-609865_rc.jpg"
-  },
-  {
-   "id": "nc85070ad6e",
-   "topic": "it",
-   "title": "Anthropics IPO: Gemischtes Fazit trotz Rekord-Börsengangs",
-   "text": "Der Börsengang von Anthropic war historisch, doch der Aktienkurs sank direkt nach Handelsbeginn. Analysten wagen kaum eine Prognose, wie es weiter geht.",
-   "link": "https://www.heise.de/news/Anthropics-IPO-Gemischtes-Fazit-trotz-Rekord-Boersengangs-11528169.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-20T18:17:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-25T18:17:00+00:00"
-  },
-  {
-   "id": "n7cbb72ff0a",
-   "topic": "welt",
-   "title": "Gipfel in Brüssel: Annäherung zwischen Großbritannien und EU",
-   "text": "Sechs Jahre nach dem Brexit rücken Großbritannien und die EU wieder näher zusammen. Das war beim gemeinsamen Gipfel in Brüssel deutlich spürbar. Manche träumen sogar schon von einer Rückkehr Großbritanniens in die EU. Von Sarah López.",
-   "link": "https://www.tagesschau.de/ausland/eu-uk-gipfel-102.html",
-   "published": "2026-11-20T17:44:07+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-23T17:44:07+00:00",
-   "img": "https://images.tagesschau.de/image/ec783a36-ce52-49cd-83ec-8b5b9ae2a768/AAABofoZkxg/AAABnSSvrFg/16x9-big/burnham-eu-102.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Nach Gipfel in Brüssel - CDU-Politiker McAllister begrüßt Abkommen zwischen EU und Großbritannien",
-     "link": "https://www.deutschlandfunk.de/cdu-politiker-mcallister-begruesst-abkommen-zwischen-eu-und-grossbritannien-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n0e8c2f8c3f",
-   "topic": "it",
-   "title": "Mozilla genervt: Warum es immer noch keinen richtigen Firefox für iOS gibt",
-   "text": "In der EU muss Apple eigentlich Browser mit eigener Engine aufs iPhone lassen. Praktisch verhindern die Vorgaben des Konzerns das jedoch, kritisiert Mozilla.",
-   "link": "https://www.heise.de/news/Mozilla-genervt-Warum-es-immer-noch-keinen-richtigen-Firefox-fuer-iOS-gibt-11533296.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-20T17:42:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-25T17:42:00+00:00"
   }
  ]
 }
