@@ -1,55 +1,522 @@
 {
- "generated": "2026-11-22T11:26:13.539944+00:00",
+ "generated": "2026-11-22T19:41:23.511807+00:00",
  "briefing": [
+  "nced07701d9",
   "n557e2a6b5b",
+  "n27deab4da5",
+  "n0604a86da2",
   "ne060e7b0cd",
   "nd699bf8c04",
   "n2a1a48efc7",
-  "nfd23af6c7d",
-  "n3f4502c8ed",
-  "n71e74c351b",
-  "n87691ed246",
-  "nd6333b7c96"
+  "ncd1038cd7a",
+  "n75c035e4cd"
  ],
  "ranked": [
   {
+   "id": "nced07701d9",
+   "s": 31.0
+  },
+  {
    "id": "n557e2a6b5b",
-   "s": 31.5
+   "s": 29.4
+  },
+  {
+   "id": "n27deab4da5",
+   "s": 27.2
+  },
+  {
+   "id": "n0604a86da2",
+   "s": 27.2
   },
   {
    "id": "ne060e7b0cd",
-   "s": 28.9
+   "s": 27.0
   },
   {
    "id": "nd699bf8c04",
-   "s": 28.9
+   "s": 27.0
   },
   {
    "id": "n2a1a48efc7",
-   "s": 28.0
+   "s": 25.9
   },
   {
-   "id": "nfd23af6c7d",
-   "s": 27.0
+   "id": "ncd1038cd7a",
+   "s": 23.0
   },
   {
-   "id": "n3f4502c8ed",
-   "s": 27.0
-  },
-  {
-   "id": "n71e74c351b",
-   "s": 22.9
-  },
-  {
-   "id": "n87691ed246",
-   "s": 22.9
-  },
-  {
-   "id": "nd6333b7c96",
-   "s": 21.1
+   "id": "n75c035e4cd",
+   "s": 23.0
   }
  ],
  "items": [
+  {
+   "id": "n8e5665e421",
+   "topic": "nfl",
+   "title": "Bills lead Dolphins 20-6 at halftime",
+   "text": "The Bills have a big game against the Chiefs on Thanksgiving night, but they haven't gotten caught looking ahead against the Dolphins this Sunday.",
+   "link": "https://sports.yahoo.com/articles/bills-lead-dolphins-20-6-193636438.html",
+   "published": "2026-11-22T19:36:36+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-27T19:36:36+00:00"
+  },
+  {
+   "id": "n5409b22a37",
+   "topic": "nfl",
+   "title": "Series of Ravens miscues including fumble through end zone results in 14-point swing in favor of Panthers",
+   "text": "The Ravens got seven points right back with a kickoff return for a touchdown in a wild sequence of events in Charlotte.",
+   "link": "https://sports.yahoo.com/nfl/breaking-news/article/series-of-ravens-miscues-including-fumble-through-end-zone-results-in-14-point-swing-in-favor-of-panthers-193445013.html",
+   "published": "2026-11-22T19:34:45+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-27T19:34:45+00:00"
+  },
+  {
+   "id": "nced07701d9",
+   "topic": "politik",
+   "title": "COP31 - Nach Scheitern: Bundesregierung wirft Ölstaaten Blockade der Klimakonferenz vor",
+   "text": "Die Bundesregierung macht Ölstaaten wie Saudi-Arabien und Russland wegen ihres Agierens auf der Weltklimakonferenz in der Türkei Vorwürfe. Die längste Weltklimakonferenz aller Zeiten hatte sich am Sonntag trotz zweiwöchiger Verhandlungen nicht auf eine Abschlusserklärung einigen können. Mehrere Staaten - darunter …",
+   "link": "https://www.deutschlandfunk.de/nach-scheitern-bundesregierung-wirft-oelstaaten-blockade-der-klimakonferenz-vor-100.html",
+   "published": "2026-11-22T19:31:59+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-24T19:31:59+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Klimakonferenz · Droht die COP31 zu scheitern?",
+     "link": "https://www.tagesschau.de/video/video-1687762.html"
+    }
+   ]
+  },
+  {
+   "id": "ncd1038cd7a",
+   "topic": "politik",
+   "title": "Klimaschutz - Licht und Schatten am Rande der COP31",
+   "text": "Das Hauptziel der Klimakonferenz ist am Fehlen einer Abschlusserklärung gescheitert. Dennoch gab es Ergebnisse, so hatte etwa Bundesumweltminister Schneider das Treffen bereits einige Tage vor ihrem Ende als Erfolg gewertet. Jedoch gab es abseits der COP31 auch weitere Rückschläge.",
+   "link": "https://www.deutschlandfunk.de/licht-und-schatten-am-rande-der-cop-100.html",
+   "published": "2026-11-22T19:31:59+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-24T19:31:59+00:00",
+   "img": "https://bilder.deutschlandfunk.de/c8/78/8a/56/c8788a56-abe5-4ceb-98e9-6d0802f0a623/weltklimakonferenz-antalya-cop-100-1920x1920.jpg"
+  },
+  {
+   "id": "n75c035e4cd",
+   "topic": "politik",
+   "title": "NRW - AfD-Parteitag in Nordrhein-Westfalen einigt sich auf Programm für Landtagswahl",
+   "text": "Die nordrhein-westfälische AfD hat ihr Wahlprogramm für die Landtagswahl im kommenden Jahr beschlossen.",
+   "link": "https://www.deutschlandfunk.de/afd-parteitag-in-nordrhein-westfalen-einigt-sich-auf-programm-fuer-landtagswahl-102.html",
+   "published": "2026-11-22T19:31:59+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-24T19:31:59+00:00",
+   "img": "https://bilder.deutschlandfunk.de/48/52/ba/2e/4852ba2e-0d09-4d4f-8ec8-b8c89064da55/afd-nrw-marl-delegierte-aufstellungsparteitag-stimmkarten-100-1920x1920.jpg"
+  },
+  {
+   "id": "n2aa1668198",
+   "topic": "politik",
+   "title": "Drogen - Syrische Behörden vernichten 400 Millionen Captagon-Tabletten",
+   "text": "Die syrischen Behörden haben nach eigenen Angaben große Mengen beschlagnahmter Drogen vernichtet.",
+   "link": "https://www.deutschlandfunk.de/syrische-behoerden-vernichten-400-millionen-captagon-tabletten-100.html",
+   "published": "2026-11-22T19:31:59+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-24T19:31:59+00:00",
+   "img": "https://bilder.deutschlandfunk.de/ce/98/db/8d/ce98db8d-846f-4d01-982b-d531af285fac/droge-pille-captagon-schmuggler-kokain-angststoerung-halluzinationen-100-1920x1920.jpg"
+  },
+  {
+   "id": "nfe251d9556",
+   "topic": "politik",
+   "title": "Khartum - UNO meldet Angriff auf Wohnviertel im Sudan - Augenzeuge berichtet von Verschütteten",
+   "text": "In der Region der sudanesischen Hauptstadt Khartum sind Wohnhäuser mit Drohnen angegriffen worden.",
+   "link": "https://www.deutschlandfunk.de/uno-meldet-angriff-auf-wohnviertel-im-sudan-augenzeuge-berichtet-von-verschuetteten-100.html",
+   "published": "2026-11-22T19:31:59+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-24T19:31:59+00:00",
+   "img": "https://bilder.deutschlandfunk.de/NO/VA/_b/02/NOVA_b02a2bada282a5d33d041abf52c39f6d/craft-13285179-asset-100-1920x1920.jpg"
+  },
+  {
+   "id": "n9906150bb9",
+   "topic": "politik",
+   "title": "Türkei - Tausende demonstrieren in Istanbul für Pressefreiheit",
+   "text": "Nach der Schließung mehrerer oppositionsnaher Medien in der Türkei hat es in Istanbul Demonstrationen für Presse- und Meinungsfreiheit gegeben.",
+   "link": "https://www.deutschlandfunk.de/tausende-demonstrieren-in-istanbul-fuer-pressefreiheit-102.html",
+   "published": "2026-11-22T19:31:59+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-24T19:31:59+00:00",
+   "img": "https://bilder.deutschlandfunk.de/98/20/07/50/98200750-0ac0-4161-bccd-8ace18c3ad96/istanbul-demonstration-106-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Türkei: Tausende demonstrieren in Istanbul für Pressefreiheit",
+     "link": "https://www.tagesschau.de/ausland/europa/tuerkei-proteste-pressefreiheit-100.html"
+    }
+   ]
+  },
+  {
+   "id": "nee14b1aedf",
+   "topic": "politik",
+   "title": "Das sind die Drehorte des neuen Frankfurt-Tatorts \"4 Finger\"",
+   "text": "Von der Konstablerwache über die Töngesgasse bis zum Ratswegkreisel: Der neue hr-Tatort \"4 Finger\" führt das Ermittler-Duo quer durch Frankfurt – und in den Untergrund.",
+   "link": "https://www.hessenschau.de/kultur/das-sind-die-drehorte-des-neuen-frankfurt-tatorts-4-finger-v1,drehorte-tatort-4-finger-100.html",
+   "published": "2026-11-22T19:30:07+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-26T19:30:07+00:00",
+   "img": "https://www.hessenschau.de/kultur/tatort-vier-finger-filmstill-112~_t-1795170700239_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "n40c316af4b",
+   "topic": "politik",
+   "title": "TK-Chef Baas: Mehr Geld schafft keine Arzttermine",
+   "text": "Schneller zum Facharzt gegen Bezahlung? Die Einschätzung von Kassenärzte-Chef Gassen hat Kritik ausgelöst. Mehr Geld löse das Problem nicht, sagt TK-Chef Baas im Bericht aus Berlin - und fordert stattdessen ein grundlegend neues System.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-arzttermine-baas-100.html",
+   "published": "2026-11-22T19:24:22+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-25T19:24:22+00:00",
+   "img": "https://images.tagesschau.de/image/b842eb3c-1b14-4a03-b29e-37a1794517a0/AAABogRfKj0/AAABnSSvrFg/16x9-big/sendungsbild-1831402.jpg?width=1920"
+  },
+  {
+   "id": "n0d90ec8c8b",
+   "topic": "it",
+   "title": "Top 10: Bestes Thermostat für die Fußbodenheizung – smart nachrüsten ab 40 Euro",
+   "text": "Fußbodenheizung smart nachrüsten: Wir zeigen die besten Thermostate mit Matter, Zigbee & Co. – getestet in Hersteller-Apps, Home Assistant und Apple Home.",
+   "link": "https://www.heise.de/bestenlisten/testsieger/top-10-bestes-thermostat-fuer-die-fussbodenheizung-smart-nachruesten-ab-40-euro/yb0j4mx?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-22T19:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-27T19:00:00+00:00"
+  },
+  {
+   "id": "n03e45d9f18",
+   "topic": "welt",
+   "title": "Explosion auf russischem Schiff in Libyen - Behörden vermuten Drohnenangriff",
+   "text": "In einem Hafen der ostlibyschen Stadt Bengasi hat es eine Explosion auf einem russischen Kriegsschiff gegeben. Die Behörden gehen von einem Angriff mit Drohnen aus. Berichten zufolge wird die Ukraine verantwortlich gemacht.",
+   "link": "https://www.tagesschau.de/ausland/afrika/russisches-schiff-libyen-100.html",
+   "published": "2026-11-22T18:43:06+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-25T18:43:06+00:00",
+   "img": "https://images.tagesschau.de/image/0f5b220e-cf1e-49af-b9d0-f502ac4a9ee5/AAABogRppfc/AAABnSSvrFg/16x9-big/libyen-schiff-102.jpg?width=1920"
+  },
+  {
+   "id": "n8ac3790c12",
+   "topic": "it",
+   "title": "Internetwache der Berliner Polizei seit Samstag offline",
+   "text": "Auch am Sonntag können Bürger bei der Berliner Polizei keine Anzeigen online erstatten. Hintergrund ist laut dpa eine Sicherheitslücke.",
+   "link": "https://www.heise.de/news/Internetwache-der-Berliner-Polizei-seit-Samstag-offline-11533840.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-22T17:55:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-27T17:55:00+00:00"
+  },
+  {
+   "id": "nf6233017ca",
+   "topic": "politik",
+   "title": "Prien verurteilt Angriff auf FDP-Politikerin Preisler bei Demo",
+   "text": "Zwei Frauen sollen die Berliner FDP-Politikerin Preisler am Rande einer pro-palästinensischen Demonstration geschubst und getreten haben. Bundesfamilienministerin Prien kritisiert das scharf. Von Mario Kubina.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/prien-angriff-preisler-100.html",
+   "published": "2026-11-22T17:36:50+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-25T17:36:50+00:00",
+   "img": "https://images.tagesschau.de/image/0cd768bc-7da9-4a13-b607-9280ff7d6011/AAABnnkyHqc/AAABnSSvrFg/16x9-big/prien-128.jpg?width=1920"
+  },
+  {
+   "id": "n5b4e22ae8e",
+   "topic": "it",
+   "title": "Widerstand ist zwecklos: 30 Jahre „Star Trek – Der erste Kontakt“",
+   "text": "Im November 1996 kommt „Star Trek“ zum achten Mal ins Kino. Es ist der beste Teil der Filmreihe – auch wegen des kürzlich verstorbenen Patrick Stewart.",
+   "link": "https://www.heise.de/hintergrund/Widerstand-ist-zwecklos-30-Jahre-Star-Trek-Der-erste-Kontakt-11533820.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-22T17:33:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-27T17:33:00+00:00"
+  },
+  {
+   "id": "n8d084b9dab",
+   "topic": "wissenschaft",
+   "title": "Weltklimakonferenz COP31 endet ohne Einigung",
+   "text": "Die Teilnehmer der Weltklimakonferenz im türkischen Antalya haben sich nicht auf eine gemeinsame Abschlusserklärung einigen können. An dem Papier gab es unter anderem von Deutschland und der EU scharfe Kritik.",
+   "link": "https://www.tagesschau.de/video/video-1688020.html",
+   "published": "2026-11-22T16:57:25+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-12-06T16:57:25+00:00",
+   "img": "https://images.tagesschau.de/image/3e4e1944-1bd7-44ce-931f-1f9dff93726c/AAABogMmyAw/AAABnSSvrFg/16x9-big/cop31-124.jpg?width=1920"
+  },
+  {
+   "id": "n0f2a9002fc",
+   "topic": "welt",
+   "title": "Die COP31 scheiterte an der Frage, wie gefährdete Länder unterstützt werden sollen und wie das Ende von Kohle, Öl und Gas gestaltet werden soll",
+   "text": "Nach zwei Wochen zäher Verhandlungen ist der Klimagipfel COP31 ohne Einigung zu Ende gegangen. Damit wird der Ausstieg aus den fossilen Brennstoffen wieder fraglich. Ungelöst ist auch die Finanzierung der Klimaanpassung.",
+   "link": "https://www.dw.com/de/die-cop31-scheiterte-an-der-frage-wie-gefährdete-länder-unterstützt-werden-sollen-und-wie-das-ende-von-kohle-öl-und-gas-gestaltet-werden-soll/a-80014116?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-22T16:31:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-26T16:31:00+00:00",
+   "img": "https://static.dw.com/image/80012458_302.jpg"
+  },
+  {
+   "id": "n0604a86da2",
+   "topic": "welt",
+   "title": "Türkei: Tausende demonstrieren in Istanbul für Pressefreiheit",
+   "text": "Nach der Schließung mehrerer oppositionsnaher Medien sind in Istanbul Tausende Menschen auf die Straße gegangen. Zu der Demonstration hatte die größte Oppositionspartei Yeni aufgerufen.",
+   "link": "https://www.tagesschau.de/ausland/europa/tuerkei-proteste-pressefreiheit-100.html",
+   "published": "2026-11-22T16:19:14+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-25T16:19:14+00:00",
+   "img": "https://images.tagesschau.de/image/682da354-0dfb-470b-8c2f-1984242c15d0/AAABogPvbQw/AAABnSSvrFg/16x9-big/proteste-istanbul-124.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Türkei - Tausende demonstrieren in Istanbul für Pressefreiheit",
+     "link": "https://www.deutschlandfunk.de/tausende-demonstrieren-in-istanbul-fuer-pressefreiheit-102.html"
+    }
+   ]
+  },
+  {
+   "id": "nb37c301db2",
+   "topic": "nfl",
+   "title": "Why the Daniel Jones release looks even worse for Colts after reported Ravens offer",
+   "text": "Indianapolis reportedly rejected a trade offer from Baltimore at the deadline, only to release its $88 million quarterback two weeks later",
+   "link": "https://www.cbssports.com/nfl/news/daniel-jones-release-colts-qb-ravens-nfl-trade-deadline/",
+   "published": "2026-11-22T16:07:35+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-27T16:07:35+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/11/22/13fa4b95-e280-4552-9702-e7fc04636b87/d.jpg"
+  },
+  {
+   "id": "nb363f99418",
+   "topic": "nfl",
+   "title": "NFL week 11 anytime TD best bets: There's value on Mark Andrews and a Tony Pollard revenge game",
+   "text": "Tony Pollard faces his former team, Justin Jefferson reunites with Kirk Cousins on an international stage and Josh Downs makes his Chiefs home debut",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-11-anytime-td-best-bets-mark-andrews/",
+   "published": "2026-11-22T16:02:27+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-11-27T16:02:27+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/11/20/ff319bf8-41cb-42b5-b778-e6d0eed76e71/ma.jpg"
+  },
+  {
+   "id": "nf03ca9e38c",
+   "topic": "wirtschaft",
+   "title": "Gebrauchte Elektroautos: Alternative oder Schrott?",
+   "text": "Elektroautos sind gefragter denn je - auch angesichts steigender Kraftstoffpreise. Mit Verzögerung zeigt sich der Boom nun bei Gebrauchtwagenhändlern, allerdings mit Einschränkungen. Von Jörn Kersten.",
+   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/gebrauchte-elektroautos-100.html",
+   "published": "2026-11-22T15:36:15+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-25T15:36:15+00:00",
+   "img": "https://images.tagesschau.de/image/793344cc-312e-43d2-b2a5-3b0d699748fc/AAABobEKUZk/AAABnSSvrFg/16x9-big/e-autos-gebraucht-100.jpg?width=1920"
+  },
+  {
+   "id": "n952d44d8fa",
+   "topic": "welt",
+   "title": "Brand in indonesischer Süßwarenfabrik - viele Tote befürchtet",
+   "text": "Nach einem Feuer in einer Fabrik westlich von Indonesiens Hauptstadt Jakarta gibt es mehrere Tote. Etwa 60 Menschen sollen sich zum Zeitpunkt des Ausbruchs im Gebäude aufgehalten haben. Viele werden noch vermisst.",
+   "link": "https://www.tagesschau.de/ausland/asien/indonesien-brand-fabrik-tote-vermisste-100.html",
+   "published": "2026-11-22T15:21:42+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-25T15:21:42+00:00",
+   "img": "https://images.tagesschau.de/image/77451618-e14b-487b-99a5-cc5151a61333/AAABogO7eo4/AAABnSSvrFg/16x9-big/indonesien-490.jpg?width=1920"
+  },
+  {
+   "id": "n8d002b8559",
+   "topic": "ki",
+   "title": "KI-Agenten in simulierter Firma schreiben guten Code, verlieren aber bei realistischen Projekten den Faden",
+   "text": "Ein neuer Praxistest versetzt KI-Coding-Agenten in einen simulierten Entwicklerjob mit Kollegen, Projekt-Boards und unvollständigen Übergaben; in diesem unübersichtlichen Arbeitsalltag müssen sie eigenständig Software weiterentwickeln und offene Tickets zuverlässig abschließen. Selbst Opus 5.5 und Astra scheitern …",
+   "link": "https://the-decoder.de/ki-agenten-in-simulierter-firma-schreiben-guten-code-verlieren-aber-bei-realistischen-projekten-den-faden/",
+   "published": "2026-11-22T14:33:48+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-29T14:33:48+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/11/cowork-benchmark-chatgpt-5-6.jpg"
+  },
+  {
+   "id": "nd9c4919352",
+   "topic": "welt",
+   "title": "Türkischer Sender Sözcü TV: Journalismus unter Zwangsverwaltung",
+   "text": "Der regierungskritische türkische Sender Sözcü steht seit wenigen Tagen unter Zwangsverwaltung. Für die Journalisten war die Razzia ein Schock - wie hat sich seitdem ihre Arbeit verändert? Von Isabel Gotovac.",
+   "link": "https://www.tagesschau.de/ausland/asien/tuerkei-sender-soezcue-zwangsverwaltung-100.html",
+   "published": "2026-11-22T14:21:45+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-25T14:21:45+00:00",
+   "img": "https://images.tagesschau.de/image/1d5d0bae-f417-4d64-acba-327daba81a9f/AAABofl0j7U/AAABnSSvrFg/16x9-big/soezcue-104.jpg?width=1920"
+  },
+  {
+   "id": "n7161dfdec7",
+   "topic": "wissenschaft",
+   "title": "COP31 und das Ende des Multilateralismus: Gescheiterte Konferenz einer zerbrechenden Welt",
+   "text": "Der Weltklimagipfel COP31 endet ohne einen Beschlusstext in einem Eklat. Die internationale Ordnung droht, an ihrer größten Herausforderung zu scheitern, kommentiert Mike Zeitz.",
+   "link": "https://www.spektrum.de/kolumne/cop31-gescheiterte-konferenz-einer-zerbrechenden-welt/2352664",
+   "published": "2026-11-22T13:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-12-06T13:00:00+00:00"
+  },
+  {
+   "id": "n8b1a1508de",
+   "topic": "ki",
+   "title": "Perplexity lässt KI-Agenten \"das Web als Ganzes\" rund um die Uhr beobachten",
+   "text": "Perplexity startet eine Monitor-API, die das Web nach Zeitplan durchsucht und Agenten per Webhook nur bei relevanten Änderungen benachrichtigt. Ein eigenes Decision-Modell filtert dabei unwichtige Treffer heraus. Für Perplexity ist die API Teil einer breiteren Strategie, sich über Entwickler-Tools vom zunehmend …",
+   "link": "https://the-decoder.de/perplexity-laesst-ki-agenten-das-web-als-ganzes-rund-um-die-uhr-beobachten/",
+   "published": "2026-11-22T12:50:28+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-29T12:50:28+00:00"
+  },
+  {
+   "id": "nc82b341f5e",
+   "topic": "wissenschaft",
+   "title": "Freistetters Formelwelt: Fairer laufen mit der Evolvente",
+   "text": "In der Leichtathletik muss man schnell und fit sein – Mathematik spielt da keine Rolle. Wenn die Wettkämpfe aber auch fair ablaufen sollen, kommt man ohne diese Formel nicht aus.",
+   "link": "https://www.spektrum.de/kolumne/freistetters-formelwelt-die-evolvente/2352057",
+   "published": "2026-11-22T12:45:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-12-06T12:45:00+00:00"
+  },
+  {
+   "id": "n91a132d94a",
+   "topic": "ki",
+   "title": "KI-Modelle werden schneller besser, als sich ihre Fähigkeiten prüfen lassen",
+   "text": "METR berichtet, dass führende KI-Modelle wie Opus 5.5 und GPT-6 Astra bei Forschungsaufgaben rasant besser werden, sich aber immer schwerer messen lassen. Die Organisation warnt: Mit den aktuellen Daten lasse sich eine gefährliche Beschleunigung der KI-Entwicklung nicht ausschließen, sagt aber auch: Gängige Tests …",
+   "link": "https://the-decoder.de/ki-modelle-werden-schneller-besser-als-sich-ihre-faehigkeiten-pruefen-lassen/",
+   "published": "2026-11-22T12:40:43+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-11-29T12:40:43+00:00"
+  },
+  {
+   "id": "nfe161afb3c",
+   "topic": "welt",
+   "title": "Deutschland plant schärferes Vorgehen gegen Femizide",
+   "text": "Wer eine Frau aus Besitzdenken oder wegen einer Trennung tötet, soll künftig leichter als Mörder verurteilt werden. Ein Gesetzentwurf sieht dafür Änderungen im Strafgesetzbuch vor.",
+   "link": "https://www.dw.com/de/deutschland-plant-schärferes-vorgehen-gegen-femizide/a-80013513?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-22T12:34:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-26T12:34:00+00:00",
+   "img": "https://static.dw.com/image/78121325_302.jpg"
+  },
+  {
+   "id": "ne222d450e1",
+   "topic": "welt",
+   "title": "UN-Klimakonferenz COP31 ist in Antalya gescheitert",
+   "text": "Der türkische Entwurf für den Abschlusstext des Klimagipfels hat Öl, Kohle und Gas nicht erwähnt. Zu viele Delegationen haben ihre Zustimmung verweigert.",
+   "link": "https://www.dw.com/de/un-klimakonferenz-cop31-ist-in-antalya-gescheitert/a-80012944?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-22T12:19:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-26T12:19:00+00:00",
+   "img": "https://static.dw.com/image/80012748_302.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Scheitert die UN-Klimakonferenz in Antalya?",
+     "link": "https://www.tagesschau.de/wissen/klima/klimakonferenz/cop31-haengepartie-abschlusserklaerung-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n6cd2f9768c",
+   "topic": "it",
+   "title": "KI-Angst an der Wall Street: US-Tech-Aktien rutschen in den Bärenmarkt",
+   "text": "Die US-Technologiebörse erlebt ihre schlechteste Woche seit der Coronakrise. Aus der Euphorie über KI ist Unbehagen geworden. ( Börse , KI )",
+   "link": "https://www.golem.de/news/ki-angst-an-der-wall-street-us-tech-aktien-rutschen-in-den-baerenmarkt-2611-215510.html",
+   "published": "2026-11-22T12:04:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-27T12:04:02+00:00",
+   "img": "https://www.golem.de/2611/215510-609917-609915_rc.jpg"
+  },
+  {
+   "id": "n2c6bd1b991",
+   "topic": "politik",
+   "title": "Gesetzentwurf des Justizministeriums: Femizide sollen eindeutig als Mord gelten",
+   "text": "\"Wer eine Frau tötet, weil sie sich von ihm trennen will, der muss als Mörder bestraft werden\": Justizministerin Hubig will den Mordparagrafen verschärfen und Femizide eindeutig als Mord erfassen. Ein Gesetzentwurf dazu liegt nun vor.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/femizide-mord-gesetzentwurf-100.html",
+   "published": "2026-11-22T12:00:00+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-25T12:00:00+00:00"
+  },
+  {
+   "id": "n8f2e2ee695",
+   "topic": "welt",
+   "title": "Nach Drohnenangriff: Löscharbeiten an der \"Sparta II\" dauern an",
+   "text": "Noch immer laufen die Löscharbeiten an dem russischen Frachter in der Ostsee vor Finnland. Was das Schiff geladen hat, ist weiterhin unklar. Es war von einer Drohne getroffen worden - vermutlich aus der Ukraine.",
+   "link": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-frachter-drohne-100.html",
+   "published": "2026-11-22T11:41:16+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-25T11:41:16+00:00",
+   "img": "https://images.tagesschau.de/image/fbfd6c05-411d-4c85-8f98-050057fc6af4/AAABogMZlfs/AAABnSSvrFg/16x9-big/frachter-russland-sparta-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Ostsee - Löscharbeiten an russischem Frachter dauern nach Drohnenangriff an",
+     "link": "https://www.deutschlandfunk.de/loescharbeiten-an-russischem-frachter-dauern-nach-drohnenangriff-an-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n4f1c014121",
+   "topic": "it",
+   "title": "Mobilität: Toyota zeigt Kofferraum-E-Bike als Konzept",
+   "text": "Toyota zeigt mit dem BKE Concept ein faltbares Elektrogefährt für kurze Strecken. Die Idee wirkt durchdacht, die Faktenlage bleibt dünn. ( E-Bike , Toyota )",
+   "link": "https://www.golem.de/news/mobilitaet-toyota-zeigt-kofferraum-e-bike-als-konzept-2611-215509.html",
+   "published": "2026-11-22T11:30:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-11-27T11:30:01+00:00",
+   "img": "https://www.golem.de/2611/215509-609909-609907_rc.jpg"
+  },
   {
    "id": "n2a1a48efc7",
    "topic": "welt",
@@ -130,7 +597,6 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-24T10:56:51+00:00",
-   "img": "https://bilder.deutschlandfunk.de/34/b9/74/bf/34b974bf-bddd-4df4-8d06-eca27c4df5b3/umweltminister-schneider-cop-antalya-weltklimakonferenz-100-1920x1920.jpg",
    "also": [
     {
      "source": "Tagesschau",
@@ -180,8 +646,8 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "Finnland meldet Drohnenangriff auf russischen Frachter in der Ostsee",
-     "link": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-drohnenangriff-russland-frachter-100.html"
+     "title": "Nach Drohnenangriff: Löscharbeiten an der \"Sparta II\" dauern an",
+     "link": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-frachter-drohne-100.html"
     }
    ]
   },
@@ -222,19 +688,7 @@
    "type": "Fachmedium (IT)",
    "lang": "de",
    "expires": "2026-11-27T10:43:01+00:00",
-   "img": "https://www.golem.de/2611/215507-609913-609911_rc.jpg",
-   "also": [
-    {
-     "source": "heise online",
-     "title": "Killer-Roboter: UN-Konferenz endet ohne Mandat für verbindliches Verbot",
-     "link": "https://www.heise.de/news/Killer-Roboter-UN-Konferenz-endet-ohne-Mandat-fuer-verbindliches-Verbot-11533596.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "\"Killerroboter\": UN-Konferenz endet mit Minimalkompromiss",
-     "link": "https://www.tagesschau.de/ausland/europa/regeln-fuer-killerroboter-100.html"
-    }
-   ]
+   "img": "https://www.golem.de/2611/215507-609913-609911_rc.jpg"
   },
   {
    "id": "n2d9c4183f8",
@@ -422,18 +876,6 @@
      "link": "https://www.deutschlandfunk.de/eu-und-indonesien-besiegeln-umfassendes-handelsabkommen-100.html"
     }
    ]
-  },
-  {
-   "id": "n2c6bd1b991",
-   "topic": "politik",
-   "title": "Gesetzentwurf des Justizministeriums: Femizide sollen eindeutig als Mord gelten",
-   "text": "\"Wer eine Frau tötet, weil sie sich von ihm trennen will, der muss als Mörder bestraft werden\": Justizministerin Hubig will den Mordparagrafen verschärfen und Femizide eindeutig als Mord erfassen. Ein Gesetzentwurf dazu liegt nun vor.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/femizide-mord-gesetzentwurf-100.html",
-   "published": "2026-11-22T08:16:45+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-25T08:16:45+00:00"
   },
   {
    "id": "nc17d9fbc29",
@@ -692,7 +1134,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-24T20:21:36+00:00",
-   "img": "https://images.tagesschau.de/image/2617cbc8-b4c1-47b6-a5d0-9743b9d9405e/AAABof7T7cY/AAABnSSvrFg/16x9-big/cop31-118.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/2617cbc8-b4c1-47b6-a5d0-9743b9d9405e/AAABof7T7cY/AAABnSSvrFg/16x9-big/cop31-118.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "UN-Klimakonferenz COP31 ist in Antalya gescheitert",
+     "link": "https://www.dw.com/de/un-klimakonferenz-cop31-ist-in-antalya-gescheitert/a-80012944?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
   },
   {
    "id": "n69b7817cc9",
@@ -757,7 +1206,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-12-05T19:10:47+00:00",
-   "img": "https://images.tagesschau.de/image/1a118cb5-f408-4cf0-8d4d-79c6d60dbaaf/AAABob5TYAg/AAABnSSvrFg/16x9-big/cop-134.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/1a118cb5-f408-4cf0-8d4d-79c6d60dbaaf/AAABob5TYAg/AAABnSSvrFg/16x9-big/cop-134.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "COP31 - Nach Scheitern: Bundesregierung wirft Ölstaaten Blockade der Klimakonferenz vor",
+     "link": "https://www.deutschlandfunk.de/nach-scheitern-bundesregierung-wirft-oelstaaten-blockade-der-klimakonferenz-vor-100.html"
+    }
+   ]
   },
   {
    "id": "ne060e7b0cd",
@@ -939,7 +1395,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-12-05T18:21:38+00:00",
-   "img": "https://images.tagesschau.de/image/ad3da3e0-3263-4379-b470-b9287dee210d/AAABoeEzp00/AAABnSSvrFg/16x9-big/cop-antalya-100.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/ad3da3e0-3263-4379-b470-b9287dee210d/AAABoeEzp00/AAABnSSvrFg/16x9-big/cop-antalya-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "COP31 - Nach Scheitern: Bundesregierung wirft Ölstaaten Blockade der Klimakonferenz vor",
+     "link": "https://www.deutschlandfunk.de/nach-scheitern-bundesregierung-wirft-oelstaaten-blockade-der-klimakonferenz-vor-100.html"
+    }
+   ]
   },
   {
    "id": "nd6eb304860",
@@ -965,19 +1428,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-12-05T17:32:19+00:00",
-   "img": "https://images.tagesschau.de/image/0f0e8b4e-d884-4b6e-b9b7-7928a016f4c0/AAABof8F-Zo/AAABnSSvrFg/16x9-big/primzahlen-102.jpg?width=1920",
-   "also": [
-    {
-     "source": "THE DECODER",
-     "title": "Heiliger Gral der Mathematik offenbar gefallen: Anthropic-Forscher löst Riemannsche Vermutung mit KI",
-     "link": "https://the-decoder.de/heiliger-gral-der-mathematik-offenbar-gefallen-anthropic-forscher-loest-riemannsche-vermutung-mit-ki/"
-    },
-    {
-     "source": "heise online",
-     "title": "Riemannsche Vermutung: Anthropic-Mathematiker will KI-Beweis gefunden haben",
-     "link": "https://www.heise.de/news/Riemannsche-Vermutung-Anthropic-Mathematiker-will-KI-Beweis-gefunden-haben-11533452.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/0f0e8b4e-d884-4b6e-b9b7-7928a016f4c0/AAABof8F-Zo/AAABnSSvrFg/16x9-big/primzahlen-102.jpg?width=1920"
   },
   {
    "id": "n15fb76539e",
@@ -1001,19 +1452,7 @@
    "source": "heise online",
    "type": "Fachmedium (IT)",
    "lang": "de",
-   "expires": "2026-11-26T16:28:00+00:00",
-   "also": [
-    {
-     "source": "Golem.de",
-     "title": "UN-Verhandlungen: Nur Minimalkompromiss gegen Killerroboter erreicht",
-     "link": "https://www.golem.de/news/un-verhandlungen-nur-minimalkompromiss-gegen-killerroboter-erreicht-2611-215507.html"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "\"Killerroboter\": UN-Konferenz endet mit Minimalkompromiss",
-     "link": "https://www.tagesschau.de/ausland/europa/regeln-fuer-killerroboter-100.html"
-    }
-   ]
+   "expires": "2026-11-26T16:28:00+00:00"
   },
   {
    "id": "nf5750e74b8",
@@ -1078,14 +1517,7 @@
    "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
    "lang": "de",
    "expires": "2026-11-25T15:00:00+00:00",
-   "img": "https://static.dw.com/image/79769879_302.jpg",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Afrika - Kongo verurteilt EU-Asylpläne in Ruanda und wirft Europa Doppelmoral vor",
-     "link": "https://www.deutschlandfunk.de/kongo-verurteilt-eu-asylplaene-in-ruanda-und-wirft-europa-doppelmoral-vor-100.html"
-    }
-   ]
+   "img": "https://static.dw.com/image/79769879_302.jpg"
   },
   {
    "id": "nf526f64c8c",
@@ -1265,500 +1697,7 @@
    "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
    "lang": "de",
    "expires": "2026-11-25T10:53:00+00:00",
-   "img": "https://static.dw.com/image/78027897_302.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Erdbeben erschüttert Perus Andenregion",
-     "link": "https://www.tagesschau.de/ausland/amerika/peru-erdbeben-102.html"
-    }
-   ]
-  },
-  {
-   "id": "n79cd475a6e",
-   "topic": "it",
-   "title": "Windows-Update-Vorschau: Gesichts-Unlock im Dunkeln",
-   "text": "Microsoft hat die Vorschau der kommenden Patchday-Updates veröffentlicht. Windows Hello lernt darin Gesichtserkennung im Dunkeln.",
-   "link": "https://www.heise.de/news/Windows-Update-Vorschau-Gesichts-Unlock-im-Dunkeln-11533459.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-21T10:52:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-26T10:52:00+00:00"
-  },
-  {
-   "id": "n4319fdbcfa",
-   "topic": "it",
-   "title": "Verivox-Studie: Internettarife werden nach Rabatt fast dreimal so teuer",
-   "text": "Verivox hat 679 Internettarife ausgewertet. Nach dem Einstiegsrabatt steigt die Grundgebühr im Schnitt von 18,67 auf 53,48 Euro. ( Tarife , Telekom )",
-   "link": "https://www.golem.de/news/verivox-studie-internettarife-werden-nach-rabatt-fast-dreimal-so-teuer-2611-215503.html",
-   "published": "2026-11-21T10:44:01+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-26T10:44:01+00:00",
-   "img": "https://www.golem.de/2611/215503-609887-609885_rc.jpg"
-  },
-  {
-   "id": "n41bfc6264b",
-   "topic": "politik",
-   "title": "Kontrolle des Verfassungsschutzes - \"3:1 für Putin\": Grünenpolitiker von Notz kritisiert Wahl von AfD und BSW ins Parlamentarische Kontrollgremium in …",
-   "text": "Der Grünenpolitiker von Notz hat die Wahl von Abgeordneten der AfD und des BSW in das Parlamentarische Kontrollgremium des Landtags von Sachsen-Anhalt kritisiert. Von Notz sagte dem WDR, bei beiden Parteien stehe die Loyalität zur Bundesrepublik in ihrer bestehenden Form zumindest in Frage.",
-   "link": "https://www.deutschlandfunk.de/3-1-fuer-putin-gruenenpolitiker-von-notz-kritisiert-wahl-von-afd-und-bsw-ins-parlamentarische-kontro-100.html",
-   "published": "2026-11-21T10:40:09+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-23T10:40:09+00:00",
-   "img": "https://bilder.deutschlandfunk.de/ba/ef/06/33/baef0633-664d-4897-ab09-adfb102ab75d/von-notz-gruene-bundestag-102-1920x1920.jpg"
-  },
-  {
-   "id": "nf158aa8bb6",
-   "topic": "politik",
-   "title": "Nach Einladung Russlands - CDU-Politiker Kiesewetter: Gespräche mit Russland nur auf neutralem Boden",
-   "text": "Der CDU-Politiker Kiesewetter hat unterstrichen, dass mögliche Gespräche mit Russland zur Beendigung des Ukraine-Krieges nur auf neutralem Boden stattfinden könnten.",
-   "link": "https://www.deutschlandfunk.de/cdu-politiker-kiesewetter-gespraeche-mit-russland-nur-auf-neutralem-boden-100.html",
-   "published": "2026-11-21T10:40:09+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-23T10:40:09+00:00",
-   "img": "https://bilder.deutschlandfunk.de/88/18/5a/f4/88185af4-ee5a-419d-948b-2f08639f5d4f/kiesewetter-102-1920x1920.jpg"
-  },
-  {
-   "id": "nfd23af6c7d",
-   "topic": "politik",
-   "title": "Afrika - Kongo verurteilt EU-Asylpläne in Ruanda und wirft Europa Doppelmoral vor",
-   "text": "Die Demokratische Republik Kongo hat Deutschland und andere EU-Staaten für ihre Pläne kritisiert, abgelehnte Asylbewerber nach Ruanda zu bringen. Außenministerin Kayikwamba Wagner sagte der Süddeutschen Zeitung, der Kongo verurteile diese Partnerschaft.",
-   "link": "https://www.deutschlandfunk.de/kongo-verurteilt-eu-asylplaene-in-ruanda-und-wirft-europa-doppelmoral-vor-100.html",
-   "published": "2026-11-21T10:40:09+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-23T10:40:09+00:00",
-   "img": "https://bilder.deutschlandfunk.de/6d/b4/5f/61/6db45f61-cc1a-45a0-b6ce-4cfc72623c3a/kayikwamba-wagner-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Kongo ist über geplanten Abschiebe-Deal mit Ruanda empört",
-     "link": "https://www.dw.com/de/kongo-ist-über-geplanten-abschiebe-deal-mit-ruanda-empört/a-80010037?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "nf766830154",
-   "topic": "politik",
-   "title": "Mittelamerika - Hunderte abgeschobene Einwanderer ziehen zurück in Richtung US-Grenze",
-   "text": "In Mittelamerika hat sich erneut eine Gruppe abgeschobener Einwanderer auf den Fußmarsch zurück in die Vereinigten Staaten begeben.",
-   "link": "https://www.deutschlandfunk.de/hunderte-abgeschobene-einwanderer-ziehen-zurueck-in-richtung-us-grenze-100.html",
-   "published": "2026-11-21T10:40:09+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-23T10:40:09+00:00",
-   "img": "https://bilder.deutschlandfunk.de/fe/58/ed/08/fe58ed08-704d-450c-be66-fa2c9ca36652/migrantentrecks-100-1920x1920.jpg"
-  },
-  {
-   "id": "na545c1b2d8",
-   "topic": "politik",
-   "title": "USA - Medienberichte: Hacker dringen erneut in FBI-Datenbank ein - auch Landwirtschaftsministerium betroffen",
-   "text": "Die US-Bundespolizei FBI ist Medienberichten zufolge zum zweiten Mal innerhalb weniger Monate Ziel eines Cyberangriffs geworden.",
-   "link": "https://www.deutschlandfunk.de/medienberichte-hacker-dringen-erneut-in-fbi-datenbank-ein-auch-landwirtschaftsministerium-betroffen-100.html",
-   "published": "2026-11-21T10:40:09+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-23T10:40:09+00:00"
-  },
-  {
-   "id": "n6f74886c61",
-   "topic": "politik",
-   "title": "Nach Gipfel in Brüssel - CDU-Politiker McAllister begrüßt Abkommen zwischen EU und Großbritannien",
-   "text": "Der CDU-Europaabgeordnete McAllister hat die Wiederannäherung der EU und Großbritanniens begrüßt.",
-   "link": "https://www.deutschlandfunk.de/cdu-politiker-mcallister-begruesst-abkommen-zwischen-eu-und-grossbritannien-100.html",
-   "published": "2026-11-21T10:40:09+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-23T10:40:09+00:00",
-   "img": "https://bilder.deutschlandfunk.de/6a/ff/d9/cb/6affd9cb-01df-4fa6-ba75-8383b35d705a/david-mcallister-cdu-100-1920x1920.jpg"
-  },
-  {
-   "id": "n7d71768404",
-   "topic": "ki",
-   "title": "Heiliger Gral der Mathematik offenbar gefallen: Anthropic-Forscher löst Riemannsche Vermutung mit KI",
-   "text": "Anthropic-Mathematiker Levent Alpöge hat nach eigenen Angaben mithilfe von Claude die Riemannsche Vermutung bewiesen, das berühmteste offene Problem der Mathematik seit 167 Jahren. Der in Lean formalisierte Beweis umfasst über 250.000 Seiten. Nur Stunden später veröffentlichten Stanford-Forscher einen unabhängigen …",
-   "link": "https://the-decoder.de/heiliger-gral-der-mathematik-offenbar-gefallen-anthropic-forscher-loest-riemannsche-vermutung-mit-ki/",
-   "published": "2026-11-21T10:23:49+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-28T10:23:49+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/11/anthropic_riemann.png",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Riemannsche Vermutung: Mathe-Jahrhundertproblem mit KI gelöst?",
-     "link": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html"
-    },
-    {
-     "source": "heise online",
-     "title": "Riemannsche Vermutung: Anthropic-Mathematiker will KI-Beweis gefunden haben",
-     "link": "https://www.heise.de/news/Riemannsche-Vermutung-Anthropic-Mathematiker-will-KI-Beweis-gefunden-haben-11533452.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    }
-   ]
-  },
-  {
-   "id": "n32a651d609",
-   "topic": "it",
-   "title": "KI-Wettlauf: Trump droht Rechenzentren im Ausland mit enormer Steuer",
-   "text": "Trump will Konzerne zum Bau in den USA drängen. Der Ausbau stößt bei Wählern allerdings auf Widerstand. ( Donald Trump , KI )",
-   "link": "https://www.golem.de/news/ki-wettlauf-trump-droht-rechenzentren-im-ausland-mit-enormer-steuer-2611-215502.html",
-   "published": "2026-11-21T10:23:01+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-26T10:23:01+00:00",
-   "img": "https://www.golem.de/2611/215502-609883-609881_rc.jpg"
-  },
-  {
-   "id": "n0f49275ea6",
-   "topic": "wirtschaft",
-   "title": "\"Altersvorsorgedepot für nahezu alle Riester-Sparer interessant\"",
-   "text": "Die Bundesregierung stellt die Altersvorsorge ab dem kommenden Jahr neu auf. Die staatliche Förderung könnte beim neuen Altersvorsorgedepot für viele lukrativer sein als beim bisherigen \"Riestern\". Das sollte man beachten. Von P. Sauer.",
-   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-tipps-riester-100.html",
-   "published": "2026-11-21T10:20:52+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-24T10:20:52+00:00",
-   "img": "https://images.tagesschau.de/image/3d78b85a-444b-4405-bcd3-f6852feadded/AAABle0sLHE/AAABnSSvrFg/16x9-big/smartphone-boersenkurse-101.jpg?width=1920"
-  },
-  {
-   "id": "n13c7f59c9a",
-   "topic": "welt",
-   "title": "UN-Waffenkonvention: Einsatz von Killerrobotern bleibt unklar",
-   "text": "Killerroboter sind Waffensysteme, die mehr oder weniger selbstständig Ziele erkennen und angreifen können. UN-Beratungen über eine Regulierung endeten nur mit einem Minimalkonsens.",
-   "link": "https://www.dw.com/de/un-waffenkonvention-einsatz-von-killerrobotern-bleibt-unklar/a-80008965?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-21T10:20:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-25T10:20:00+00:00",
-   "img": "https://static.dw.com/image/78283556_302.jpg"
-  },
-  {
-   "id": "n40390377fb",
-   "topic": "wirtschaft",
-   "title": "Altersvorsorgedepot: Staatlich organisierter Fonds nicht startklar",
-   "text": "Zum Jahreswechsel startet das neue Modell der staatlichen Altersvorsorge, das Altersvorsorgedepot. Private Angebote gibt es längst - doch das öffentlich organisierte Basis-Fondsangebot wird dann wohl noch nicht bereit sein.",
-   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-staatlicher-fonds-nicht-startklar-100.html",
-   "published": "2026-11-21T10:16:17+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-24T10:16:17+00:00",
-   "img": "https://images.tagesschau.de/image/0c6d5cc7-4763-4984-83f0-1b96f3ffc74e/AAABnb-A6wU/AAABnSSvrFg/16x9-big/passanten-innenstadt-102.jpg?width=1920"
-  },
-  {
-   "id": "n35a63790f0",
-   "topic": "ki",
-   "title": "US-Techmarkt im freien Fall: Perfekter Sturm aus KI-Zweifeln, Skandalen und Inflationsangst",
-   "text": "Der Nasdaq 100 ist in den Bärenmarkt abgerutscht, mit dem größten Wochenverlust seit der Corona-Krise. Nvidia brach um 14 Prozent ein, die SEC prüft die Buchhaltung, und Anthropic verlor einen Tag nach seinem Rekord-IPO fast alle Kursgewinne. KI-Zweifel, Skandale, steigende Zinsen und politischer Gegenwind treffen …",
-   "link": "https://the-decoder.de/us-techmarkt-im-freien-fall-perfekter-sturm-aus-ki-zweifeln-skandalen-und-inflationsangst/",
-   "published": "2026-11-21T10:08:44+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-28T10:08:44+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/11/tech_crash_synth.png"
-  },
-  {
-   "id": "n3f4502c8ed",
-   "topic": "welt",
-   "title": "Erdbeben erschüttert Perus Andenregion",
-   "text": "Die Erschütterungen waren bis in die Hauptstadt Lima zu spüren: Ein Erdbeben der Stärke 6,7 hat die Andenregion in Peru erschüttert. Über Schäden oder Opfer ist bislang nichts bekannt.",
-   "link": "https://www.tagesschau.de/ausland/amerika/peru-erdbeben-102.html",
-   "published": "2026-11-21T09:51:28+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-24T09:51:28+00:00",
-   "img": "https://images.tagesschau.de/image/6b6c6cae-4905-4f19-a88d-119b19ec276d/AAABof1qMKc/AAABnSSvrFg/16x9-big/lima-erdbeben-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Schweres Erdbeben erschüttert Peru",
-     "link": "https://www.dw.com/de/schweres-erdbeben-erschüttert-peru/a-80008949?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n3b0159120c",
-   "topic": "wirtschaft",
-   "title": "GTA VI spielt laut Konzern fast vier Milliarden Dollar am ersten Tag ein",
-   "text": "Lange mussten GTA-Fans auf den sechsten Teil der Videospiel-Reihe warten - jetzt trägt der Hype Früchte. Nach Angaben von Rockstar Games erzielte das Spiel am ersten Verkaufstag einen Rekordumsatz von rund 3,8 Milliarden Dollar.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/milliardengewinn-gta-100.html",
-   "published": "2026-11-21T09:39:17+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-24T09:39:17+00:00",
-   "img": "https://images.tagesschau.de/image/2dc21d0a-7742-47b7-b951-a2b950e8014f/AAABof1N474/AAABnSSvrFg/16x9-big/gta-174.jpg?width=1920"
-  },
-  {
-   "id": "nbff214d93f",
-   "topic": "nfl",
-   "title": "Jaguars saw something in Liam Coen that other teams didn't",
-   "text": "The Jaguars identified Coen as their No. 1 candidate and re-shaped their front office to get him, at a time when other teams weren't even interviewing him.",
-   "link": "https://sports.yahoo.com/articles/jaguars-saw-something-liam-coen-093745685.html",
-   "published": "2026-11-21T09:37:45+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-26T09:37:45+00:00"
-  },
-  {
-   "id": "n51e5702605",
-   "topic": "ki",
-   "title": "Inkling 2 Mini: Neues KI-Modell denkt in Schleifen – und läuft trotzdem auf dem Laptop",
-   "text": "Thinking Machines veröffentlicht mit Inkling 2 Mini einen offenen Looped-Transformer, eine Architektur, bei der zwölf von 24 Schichten pro Token dreimal durchlaufen werden, sodass das Modell intern länger nachrechnet, ohne zusätzlichen Text auszugeben. Im Artificial-Analysis-Intelligence-Index zieht es mit Qwen3.8 27B …",
-   "link": "https://the-decoder.de/inkling-2-mini-neues-ki-modell-denkt-in-schleifen-und-laeuft-trotzdem-auf-dem-laptop/",
-   "published": "2026-11-21T09:33:02+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-11-28T09:33:02+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2025/09/thinking_machines_ca_illustration.png"
-  },
-  {
-   "id": "n99947efda3",
-   "topic": "it",
-   "title": "Riemannsche Vermutung: Anthropic-Mathematiker will KI-Beweis gefunden haben",
-   "text": "Levent Alpöge will mit Claude die Riemannsche Vermutung bewiesen haben. Die Prüfung läuft, ein zweiter Ansatz ohne KI liegt vor.",
-   "link": "https://www.heise.de/news/Riemannsche-Vermutung-Anthropic-Mathematiker-will-KI-Beweis-gefunden-haben-11533452.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-21T09:09:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-26T09:09:00+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Riemannsche Vermutung: Mathe-Jahrhundertproblem mit KI gelöst?",
-     "link": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html"
-    },
-    {
-     "source": "THE DECODER",
-     "title": "Heiliger Gral der Mathematik offenbar gefallen: Anthropic-Forscher löst Riemannsche Vermutung mit KI",
-     "link": "https://the-decoder.de/heiliger-gral-der-mathematik-offenbar-gefallen-anthropic-forscher-loest-riemannsche-vermutung-mit-ki/"
-    }
-   ]
-  },
-  {
-   "id": "n1b5c231246",
-   "topic": "wissenschaft",
-   "title": "Täuferreich: Als religiöse Fanatiker ganz Münster in einen Gottesstaat verwandelten",
-   "text": "In einer Zeit voller Umbrüche prophezeiten die Wiedertäufer das Ende der Welt. Und stellten dann vor fast 500 Jahren in Münster das Leben der Menschen radikal auf den Kopf.",
-   "link": "https://www.spektrum.de/news/taeuferreich-als-muenster-zum-gottesstaat-wurde/2230585",
-   "published": "2026-11-21T09:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-12-05T09:00:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/0788LM_2023_hell_Teaser.jpg.8263078.jpg?f=1280x720"
-  },
-  {
-   "id": "nc5659657bb",
-   "topic": "it",
-   "title": "KI-Kennzeichnung und National Geographic – die Fotonews der Woche 47/2026",
-   "text": "Frankfurter Gericht stärkt Fotografen-Rechte bei KI-Bildern. National Geographic kürt Pictures of the Year. Und VSCO startet einen Desktop-Editor.",
-   "link": "https://www.heise.de/news/KI-Kennzeichnung-und-National-Geographic-die-Fotonews-der-Woche-47-2026-11532822.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-21T09:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-26T09:00:00+00:00"
-  },
-  {
-   "id": "n12646496ae",
-   "topic": "welt",
-   "title": "Südafrikas vermeidbare Wasserkrise",
-   "text": "Marode Leitungen, zu hoher Verbrauch, geringe Investitionen: Die Wasserkrise in Südafrika gilt als weitgehend hausgemacht. Weil sich die Lage verschlimmert hat, reagieren die Behörden mit strengeren Regeln. Von Stephan Ueberbach.",
-   "link": "https://www.tagesschau.de/ausland/afrika/wassermangel-suedafrika-100.html",
-   "published": "2026-11-21T08:27:21+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-24T08:27:21+00:00",
-   "img": "https://images.tagesschau.de/image/c701043d-b493-4b19-acea-00fbd965ac43/AAABofi6LDo/AAABnSSvrFg/16x9-big/demonstration-suedafrika-100.jpg?width=1920"
-  },
-  {
-   "id": "na18d37a4e6",
-   "topic": "politik",
-   "title": "Liquiditätshilfen für Schweinehalter: \"Nur ein Tropfen auf den heißen Stein\"",
-   "text": "Schweinehaltung in Deutschland ist ein Verlustgeschäft - Liquiditätshilfen in Höhe von 25 Millionen Euro sollen jetzt den Betrieben helfen. Doch das Notfallprogramm allein wird nicht ausreichen, warnen Landwirte und Opposition. Von T. Lehning.",
-   "link": "https://www.tagesschau.de/inland/gesellschaft/schweinezucht-deutschland-exporte-100.html",
-   "published": "2026-11-21T08:26:38+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-24T08:26:38+00:00",
-   "img": "https://images.tagesschau.de/image/588d415c-5faf-4022-aadf-35404a995cb3/AAABofmYLNQ/AAABnSSvrFg/16x9-big/ferkel-schweinezucht-100.jpg?width=1920"
-  },
-  {
-   "id": "na88e9d41c4",
-   "topic": "welt",
-   "title": "\"Palisades Fire\" - Angeklagter im zweiten Anlauf schuldig gesprochen",
-   "text": "Bei dem Brand im Januar 2025 starben zwölf Menschen: Nach dem verheerenden Feuer im Nobelvorort Pacific Palisades von Los Angeles ist der Angeklagte schuldig gesprochen worden. Ihm drohen bis zu 40 Jahre Haft.",
-   "link": "https://www.tagesschau.de/ausland/amerika/prozess-pacific-palisades-feuer-kalifornien-100.html",
-   "published": "2026-11-21T08:14:03+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-24T08:14:03+00:00",
-   "img": "https://images.tagesschau.de/image/2e8a116a-f62e-4357-8076-8dff66240fe0/AAABof0TGU8/AAABnSSvrFg/16x9-big/pacific-palisades-108.jpg?width=1920"
-  },
-  {
-   "id": "ndfccadd5ab",
-   "topic": "welt",
-   "title": "Klimagipfel in Antalya geht in die Verlängerung - News kompakt: Das Wichtigste kurz gefasst",
-   "text": "Auf der COP31 können sich die fast 200 Teilnehmerstaaten bislang nicht einigen. Katar will massiv in Deutschland investieren und die Jugend hat in vielen deutschen Städten demonstriert. Der DW-Nachrichtenüberblick.",
-   "link": "https://www.dw.com/de/klimagipfel-in-antalya-geht-in-die-verlängerung-news-kompakt-das-wichtigste-kurz-gefasst/a-80007922?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-21T08:01:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-25T08:01:00+00:00",
-   "img": "https://static.dw.com/image/80007979_302.jpg",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Antalya - Weltklimakonferenz geht in die Verlängerung - EU fordert Änderungen",
-     "link": "https://www.deutschlandfunk.de/weltklimakonferenz-geht-in-die-verlaengerung-eu-fordert-aenderungen-114.html"
-    }
-   ]
-  },
-  {
-   "id": "n83b8ffad51",
-   "topic": "welt",
-   "title": "\"Killerroboter\": UN-Konferenz endet mit Minimalkompromiss",
-   "text": "\"Killerroboter\" können Ziele auswählen und Angriffe auslösen - ohne menschliche Beteiligung. Die UN sollten dafür Schranken erarbeiten. Das Wann und Wie bleibt aber auch wegen des Widerstands aus Russland und den USA ungeklärt.",
-   "link": "https://www.tagesschau.de/ausland/europa/regeln-fuer-killerroboter-100.html",
-   "published": "2026-11-21T07:57:28+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-24T07:57:28+00:00",
-   "img": "https://images.tagesschau.de/image/ffa06e13-d57b-4235-a827-ba7b899299a2/AAABoeOz20A/AAABnSSvrFg/16x9-big/autonome-waffe-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Golem.de",
-     "title": "UN-Verhandlungen: Nur Minimalkompromiss gegen Killerroboter erreicht",
-     "link": "https://www.golem.de/news/un-verhandlungen-nur-minimalkompromiss-gegen-killerroboter-erreicht-2611-215507.html"
-    },
-    {
-     "source": "heise online",
-     "title": "Killer-Roboter: UN-Konferenz endet ohne Mandat für verbindliches Verbot",
-     "link": "https://www.heise.de/news/Killer-Roboter-UN-Konferenz-endet-ohne-Mandat-fuer-verbindliches-Verbot-11533596.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    }
-   ]
-  },
-  {
-   "id": "n7f2ea5bc13",
-   "topic": "wissenschaft",
-   "title": "Vorsicht, Denkfalle!: Das Dankbarkeits-Paradox",
-   "text": "Wer dankbar ist, sagt »Danke«. Es könnte aber auch andersherum funktionieren, erklärt unser Psychologiekolumnist.",
-   "link": "https://www.spektrum.de/kolumne/als-ob-effekt-bestellt-denkfalle-43/2349418",
-   "published": "2026-11-21T07:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-12-05T07:00:00+00:00"
-  },
-  {
-   "id": "n366c46e161",
-   "topic": "welt",
-   "title": "Offenbar Hackerangriffe auf FBI und US-Agrarministerium",
-   "text": "Hacker sind Medienberichten zufolge in ein Zahlungssystem des US-Agrarministeriums und in eine Datenbank des FBI eingedrungen. Die Angriffe reihen sich in eine Serie von Systemausfällen und Technikpannen in den USA.",
-   "link": "https://www.tagesschau.de/ausland/amerika/usa-hackerangriffe-100.html",
-   "published": "2026-11-21T06:51:20+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-24T06:51:20+00:00",
-   "img": "https://images.tagesschau.de/image/c4a8129d-5713-48b5-b0cc-3d6541af9469/AAABlMc781U/AAABnSSvrFg/16x9-big/fbi-hauptquartier-100.jpg?width=1920"
-  },
-  {
-   "id": "n14b2900ff3",
-   "topic": "nfl",
-   "title": "NFL predictions: New York Jets vs Los Angeles Chargers - Battle of the Bottom Dwellers",
-   "text": "The Jets face Justin Herbert and the Chargers on Sunday",
-   "link": "https://sports.yahoo.com/articles/nfl-predictions-york-jets-vs-051917654.html",
-   "published": "2026-11-21T05:19:17+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-26T05:19:17+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/2a97c4fa7d64e1ec53c4a8c1109c7ea2.jpg"
-  },
-  {
-   "id": "n6b02fe38e1",
-   "topic": "welt",
-   "title": "Saudi-Arabien verschärft Vorgehen gegen Regimekritiker",
-   "text": "Die Menschenrechtslage in Saudi-Arabien bleibt düster. Allein 2026 fanden bisher 211 Hinrichtungen statt. Nutzt Saudi-Arabien den Iran-Krieg, um politischen Dissens zu unterdrücken?",
-   "link": "https://www.dw.com/de/saudi-arabien-verschärft-vorgehen-gegen-regimekritiker/a-80006017?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-21T05:14:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-25T05:14:00+00:00",
-   "img": "https://static.dw.com/image/79889199_302.jpg"
-  },
-  {
-   "id": "n83db1d8d5e",
-   "topic": "politik",
-   "title": "\"Gen Z regelt\": Jugendliche erneut zu Tausenden auf den Straßen",
-   "text": "Zehntausende junge Menschen haben friedlich für die Anliegen ihrer Generation demonstriert. Nach dem Ende der \"Gen Z regelt\"-Demos gab es mancherorts zwar doch noch Krawalle, eine Eskalation wie an Halloween blieb aber aus.",
-   "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-krawalle-gen-z-100.html",
-   "published": "2026-11-21T02:38:36+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-24T02:38:36+00:00",
-   "img": "https://images.tagesschau.de/image/2c703d3c-7472-41bf-bb2d-e59b13301821/AAABofv4RzI/AAABnSSvrFg/16x9-big/jugendproteste-120.jpg?width=1920"
-  },
-  {
-   "id": "n3fb1801d51",
-   "topic": "politik",
-   "title": "Antalya - Weltklimakonferenz geht in die Verlängerung - EU fordert Änderungen",
-   "text": "Die Weltklimakonferenz in der Türkei geht in die Verlängerung. Gerungen wird laut Medienberichten unter anderem um Formulierungen zu fossilen Brennstoffen. In dem aktuellen Entwurf der Abschlusserklärung wird ein Ausstieg aus Kohle, Öl und Gas nicht direkt erwähnt. Mehrere Länder kündigten ihren Widerstand dagegen an.",
-   "link": "https://www.deutschlandfunk.de/weltklimakonferenz-geht-in-die-verlaengerung-eu-fordert-aenderungen-114.html",
-   "published": "2026-11-21T02:13:20+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-23T02:13:20+00:00",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Klimagipfel in Antalya geht in die Verlängerung - News kompakt: Das Wichtigste kurz gefasst",
-     "link": "https://www.dw.com/de/klimagipfel-in-antalya-geht-in-die-verlängerung-news-kompakt-das-wichtigste-kurz-gefasst/a-80007922?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n976214b4ef",
-   "topic": "politik",
-   "title": "Private Rente - Staatliches Standardprodukt für Altersvorsorgedepot verzögert sich laut Bericht",
-   "text": "Bei der Einführung des neuen privaten Altersvorsorgedepots wird sich das staatlich verwaltete Standardprodukt nach Presseinformationen verzögern.",
-   "link": "https://www.deutschlandfunk.de/staatliches-standardprodukt-fuer-altersvorsorgedepot-verzoegert-sich-laut-bericht-100.html",
-   "published": "2026-11-21T02:13:20+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-23T02:13:20+00:00",
-   "img": "https://bilder.deutschlandfunk.de/a8/92/35/e4/a89235e4-3866-4877-935e-ad7b8d381427/rente-118-1920x1920.jpg"
+   "img": "https://static.dw.com/image/78027897_302.jpg"
   }
  ]
 }
