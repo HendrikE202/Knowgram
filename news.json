@@ -1,100 +1,519 @@
 {
- "generated": "2026-11-26T16:54:56.491975+00:00",
+ "generated": "2026-11-27T01:44:17.359752+00:00",
  "briefing": [
   "n493ef3f04c",
-  "nbbcdf481e5",
+  "nbad694a1e7",
   "nc46e0a4f41",
   "n5539dc48d3",
   "n3f114469c1",
-  "n7ae9edd48c",
+  "nc17a5ed741",
+  "n4708a1f93c",
   "n7dbc58a097",
   "n809d6f51f7",
-  "n6f307af62b",
-  "n651c3a158c"
+  "n6f307af62b"
  ],
  "ranked": [
   {
    "id": "n493ef3f04c",
-   "s": 34.3
+   "s": 32.1
   },
   {
-   "id": "nbbcdf481e5",
-   "s": 33.0
+   "id": "nbad694a1e7",
+   "s": 32.0
   },
   {
    "id": "nc46e0a4f41",
-   "s": 31.2
+   "s": 29.0
   },
   {
    "id": "n5539dc48d3",
-   "s": 31.1
+   "s": 28.8
   },
   {
    "id": "n3f114469c1",
-   "s": 28.0
+   "s": 25.7
   },
   {
-   "id": "n7ae9edd48c",
-   "s": 27.2
-  },
-  {
-   "id": "n7dbc58a097",
+   "id": "nc17a5ed741",
    "s": 23.0
   },
   {
+   "id": "n4708a1f93c",
+   "s": 21.0
+  },
+  {
+   "id": "n7dbc58a097",
+   "s": 20.8
+  },
+  {
    "id": "n809d6f51f7",
-   "s": 22.6
+   "s": 20.4
   },
   {
    "id": "n6f307af62b",
-   "s": 17.8
-  },
-  {
-   "id": "n651c3a158c",
    "s": 17.0
   },
   {
-   "id": "n92e3c8064a",
+   "id": "nbcda9273d0",
    "s": 17.0
   },
   {
-   "id": "nc18ac09018",
+   "id": "nde722c89b8",
    "s": 17.0
   },
   {
-   "id": "n2318368804",
+   "id": "naebd3b2acb",
    "s": 17.0
   },
   {
-   "id": "n4640f6d829",
+   "id": "nf9d7740a29",
    "s": 17.0
   },
   {
-   "id": "nba99332f71",
-   "s": 16.8
+   "id": "naf518ee7e5",
+   "s": 16.6
   },
   {
-   "id": "n163a44268e",
-   "s": 16.7
+   "id": "nebbf290327",
+   "s": 16.6
   },
   {
-   "id": "n421c419def",
-   "s": 14.6
+   "id": "n4ff9f62f05",
+   "s": 15.9
+  },
+  {
+   "id": "ncc8a9bc029",
+   "s": 14.9
   }
  ],
  "items": [
+  {
+   "id": "nc7c19d327d",
+   "topic": "politik",
+   "title": "Brüssel - Merz: Keine Einigung über EU-Finanzen - Gipfel wird vorzeitig beendet",
+   "text": "Der Sondergipfel zum langfristigen Haushalt der Europäischen Union ist vorzeitig beendet worden. Bundeskanzler Merz sagte in Brüssel, das Treffen habe kein Ergebnis zum künftigen Finanzrahmen gebracht. Man habe sich darauf verständigt, dass man es am heutigen Freitag nicht fortsetzen werde.",
+   "link": "https://www.deutschlandfunk.de/merz-keine-einigung-ueber-eu-finanzen-gipfel-wird-vorzeitig-beendet-100.html",
+   "published": "2026-11-27T01:37:39+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-29T01:37:39+00:00",
+   "img": "https://bilder.deutschlandfunk.de/24/55/56/8f/2455568f-dbcc-43da-a3df-434cb331ced6/merz-eu-gipfel-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Merz fordert weitere Kürzungen der EU-Finanzen",
+     "link": "https://www.tagesschau.de/ausland/europa/eu-haushalt-ukraine-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n0e34b5dbc8",
+   "topic": "politik",
+   "title": "Aktion Mensch - Arbeitslosigkeit von Menschen mit Schwerbehinderung auf Rekordhoch",
+   "text": "Die Arbeitslosigkeit unter Menschen mit einer Schwerbehinderung hat nach Angaben der \"Aktion Mensch\" 2025 ein Rekordhoch erreicht.",
+   "link": "https://www.deutschlandfunk.de/arbeitslosigkeit-von-menschen-mit-schwerbehinderung-auf-rekordhoch-104.html",
+   "published": "2026-11-27T01:37:39+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-29T01:37:39+00:00",
+   "img": "https://bilder.deutschlandfunk.de/b7/a6/09/2e/b7a6092e-7456-4b8c-8934-c5a5734776c2/rollstuhlfahrerin-arbeit-100-1920x1920.jpg"
+  },
+  {
+   "id": "ndc8842be40",
+   "topic": "politik",
+   "title": "Kinderrechte - \"Save the Children\" mahnt mehr Schutz vor Kinderehen an",
+   "text": "Die Hilfsorganisation \"Save the Children\" hat mehr Schutz von Mädchen vor Kinderehen angemahnt.",
+   "link": "https://www.deutschlandfunk.de/save-the-children-mahnt-mehr-schutz-vor-kinderehen-an-100.html",
+   "published": "2026-11-27T01:37:39+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-29T01:37:39+00:00",
+   "img": "https://bilder.deutschlandfunk.de/8b/39/8b/4e/8b398b4e-e16f-4583-8b5c-2c4645fb1ba8/indien-kinderehe-100-1920x1920.jpg"
+  },
+  {
+   "id": "n4f8040f1be",
+   "topic": "politik",
+   "title": "Wirtschaft - Einigung in der Metall- und Elektroindustrie \"klares Zukunftssignal\"",
+   "text": "Vertreter von Gewerkschaft und Arbeitgebern haben sich zufrieden mit dem Ergebnis des Tarifabschlusses in der Metall- und Elektroindustrie gezeigt. Sie sprachen von etwas \"Besonderem\", beziehungsweise etwas \"Außergewöhnlichem\", das in den Gesprächen gelungen sei. Konkret gibt es die Möglichkeit, von der …",
+   "link": "https://www.deutschlandfunk.de/einigung-in-der-metall-und-elektroindustrie-klares-zukunftssignal-104.html",
+   "published": "2026-11-27T01:37:39+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-29T01:37:39+00:00",
+   "img": "https://bilder.deutschlandfunk.de/c8/ab/5c/14/c8ab5c14-053e-4735-8d20-6903586a7e1d/tarifabschluss-metall-elektro-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Einigung im Tarifstreit der Metall- und Elektroindustrie",
+     "link": "https://www.tagesschau.de/wirtschaft/tarifabschluss-metall-elektroindustrie-100.html"
+    }
+   ]
+  },
+  {
+   "id": "nc17a5ed741",
+   "topic": "politik",
+   "title": "USA - Massive Stromausfälle und Verkehrsbehinderungen an Thanksgiving",
+   "text": "Ein schwerer Sturm hat in den USA am Feiertag Thanksgiving massive Stromausfälle und Verkehrsbehinderungen verursacht.",
+   "link": "https://www.deutschlandfunk.de/massive-stromausfaelle-und-verkehrsbehinderungen-an-thanksgiving-100.html",
+   "published": "2026-11-27T01:37:39+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-29T01:37:39+00:00",
+   "img": "https://bilder.deutschlandfunk.de/69/77/5d/3a/69775d3a-2aaa-4530-8e59-832c6004bdcf/new-york-sturm-100-1920x1920.jpg"
+  },
+  {
+   "id": "nae7d6d0177",
+   "topic": "politik",
+   "title": "Fußball - Europa League: Hoffenheim schlägt Sturm Graz, Leverkusen gewinnt in Zagreb - Conference League: Freiburg - Enschede 2:1",
+   "text": "In der Fußball Europa League hat die TSG Hoffenheim 3:1 gegen Sturm Graz gewonnen.",
+   "link": "https://www.deutschlandfunk.de/europa-league-hoffenheim-schlaegt-sturm-graz-leverkusen-gewinnt-in-zagreb-conference-league-freiburg-104.html",
+   "published": "2026-11-27T01:37:39+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-29T01:37:39+00:00",
+   "img": "https://bilder.deutschlandfunk.de/61/73/fb/2e/6173fb2e-a28d-4e11-9b0b-37dc59df8ebe/imago1086403020h-100-1920x1920.jpg"
+  },
+  {
+   "id": "n9e8e103a26",
+   "topic": "nfl",
+   "title": "Cowboys vs. Eagles recap: Dallas embarrassed by Philadelphia on Thanksgiving Day",
+   "text": "The Cowboys are a national embarrassment",
+   "link": "https://sports.yahoo.com/nfl/articles/cowboys-vs-eagles-recap-dallas-013557295.html",
+   "published": "2026-11-27T01:35:57+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-12-02T01:35:57+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/da95c9c6d4c450115bff9f907bc64c65.jpg"
+  },
+  {
+   "id": "n2c6d3191cc",
+   "topic": "nfl",
+   "title": "Eagles mount furious comeback, beat Cowboys 39-38 in Thanksgiving classic",
+   "text": "What looked like a blowout turned into a great one, as Philadelphia stormed back to win in Dallas.",
+   "link": "https://sports.yahoo.com/nfl/articles/eagles-mount-furious-comeback-beat-013411781.html",
+   "published": "2026-11-27T01:34:11+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-12-02T01:34:11+00:00"
+  },
+  {
+   "id": "n8239362720",
+   "topic": "welt",
+   "title": "Bosnien und Herzogowina: Dodik hebt Sohn auf den Thron",
+   "text": "Dodik hatte über 20 Jahre lang die Macht in der serbisch-dominierten Republika Srpska. 2025 musste er nach internationalem Druck zurücktreten, wegen seiner Separatismuspolitik. Nun macht er seinen Sohn zum Regierungschef. Von O. Soos.",
+   "link": "https://www.tagesschau.de/ausland/europa/dodik-bosnien-sohn-100.html",
+   "published": "2026-11-27T01:29:29+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T01:29:29+00:00",
+   "img": "https://images.tagesschau.de/image/d8f49345-b179-46cd-9cab-21fe8ea4924c/AAABohp8fFo/AAABnSSvrFg/16x9-big/dodik-122.jpg?width=1920"
+  },
+  {
+   "id": "n40c8c38e56",
+   "topic": "welt",
+   "title": "Merz verkündet vorzeitiges Ende des EU-Sondergipfels",
+   "text": "Die Vorstellungen unter den 27 Staats- und Regierungschefs lagen weit auseinander. So weit, dass sie laut Merz den zweiten angesetzten Tag des Gipfels ausfallen lassen. Es geht um viele Milliarden für den EU-Haushalt.",
+   "link": "https://www.tagesschau.de/ausland/europa/eu-haushalt-vorzeitig-beendet-100.html",
+   "published": "2026-11-27T00:02:22+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T00:02:22+00:00",
+   "img": "https://images.tagesschau.de/image/9661d086-75d2-4c4e-94da-70f83c687c91/AAABohpAjdo/AAABnSSvrFg/16x9-big/merz-1832.jpg?width=1920"
+  },
+  {
+   "id": "n2027f10c3b",
+   "topic": "nfl",
+   "title": "NFL Week 12 grades for Thanksgiving: Bears earn 'B' for stunning win over Lions, Packers leave L.A. with 'D'",
+   "text": "Caleb Williams delivers late magic to Rome Odunze in a wild shootout, while Detroit's defense collapses and Jordan Love struggles without Christian Watson",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-12-grades-thanksgiving-bears-earn-b-packers-get-d/",
+   "published": "2026-11-26T22:33:20+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-12-01T22:33:20+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/11/26/d8aee4f8-2d54-4f4f-9309-8d6ec17e6685/rome.jpg"
+  },
+  {
+   "id": "n0acece2e14",
+   "topic": "nfl",
+   "title": "It wouldn't shock me if ... for NFL Week 12: Steelers fall out of playoff picture minus Aaron Rodgers",
+   "text": "Our five bold calls for Week 12 include a career day for Quinshon Judkins and mounting pressure on the Seahawks to play Drew Lock",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-12-predictions-colston-loveland-thanksgiving/",
+   "published": "2026-11-26T21:44:28+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-12-01T21:44:28+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/11/05/bce1401f-e85c-48a9-aff3-33a6e5bb6554/mccarthy26.jpg"
+  },
+  {
+   "id": "n2a793d8697",
+   "topic": "it",
+   "title": "Verbraucherschutz: Temu verspricht Besserung im EWR",
+   "text": "Temu wird eine Palette an Irreführungen und Beeinflussungen unterlassen. Das verspricht der Händler der EU-Kommission.",
+   "link": "https://www.heise.de/news/Verbraucherschutz-Temu-verspricht-Besserung-im-EWR-11539845.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-26T21:44:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-12-01T21:44:00+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Chinesischer Online-Händler Temu sagt mehr Verbraucherschutz zu",
+     "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/temu-eu-verfahren-verbraucherschutz-100.html"
+    }
+   ]
+  },
+  {
+   "id": "nac803b9471",
+   "topic": "politik",
+   "title": "MT Melsungen unterliegt im deutsch-deutschen Champions-League-Duell Berlin",
+   "text": "Die MT Melsungen verliert auch das zweite Spiel in der Gruppenphase der Champions League. Gegen Berlins Mathias Gidsel finden die Nordhessen einfach kein Mittel.",
+   "link": "https://www.hessenschau.de/sport/handball/mt-melsungen/mt-melsungen-unterliegt-im-deutsch-deutschen-champions-league-duell-berlin-v1,melsungen-berlin-cl-100.html",
+   "published": "2026-11-26T21:37:43+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T21:37:43+00:00",
+   "img": "https://www.hessenschau.de/sport/handball/mt-melsungen/mt-berlin-102~_t-1795728860479_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "nbad694a1e7",
+   "topic": "welt",
+   "title": "Merz fordert weitere Kürzungen der EU-Finanzen",
+   "text": "Um mehr als 200 Milliarden Euro ist der EU-Haushaltsentwurf bereits gekürzt worden. Dem Kanzler reicht das aber noch nicht. Außerdem verknüpft Merz die schwierigen Verhandlungen weiterhin mit der Unterstützung für die Ukraine.",
+   "link": "https://www.tagesschau.de/ausland/europa/eu-haushalt-ukraine-100.html",
+   "published": "2026-11-26T21:37:41+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-29T21:37:41+00:00",
+   "img": "https://images.tagesschau.de/image/5f1a4a18-950f-4266-87b7-c7a64d0f5a4d/AAABohd7b3o/AAABnSSvrFg/16x9-big/merz-1830.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Brüssel - Merz: Keine Einigung über EU-Finanzen - Gipfel wird vorzeitig beendet",
+     "link": "https://www.deutschlandfunk.de/merz-keine-einigung-ueber-eu-finanzen-gipfel-wird-vorzeitig-beendet-100.html"
+    }
+   ]
+  },
+  {
+   "id": "naf518ee7e5",
+   "topic": "welt",
+   "title": "Rekord-Schmerzensgeld nach Missbrauch durch Priester - Bistum muss sich der Verantwortung stellen",
+   "text": "Es ist eine historische Entscheidung. Kölner Richter sehen die katholische Kirche in der maßgeblichen Verantwortung für den Missbrauch durch Kleriker. Das hat höhere Zahlungen an Betroffene zur Folge.",
+   "link": "https://www.dw.com/de/rekord-schmerzensgeld-nach-missbrauch-durch-priester-bistum-muss-sich-der-verantwortung-stellen/a-80065560?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-26T20:20:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-30T20:20:00+00:00",
+   "img": "https://static.dw.com/image/80065817_302.jpg"
+  },
+  {
+   "id": "nebbf290327",
+   "topic": "welt",
+   "title": "Das ehemalige Bündnis Sahra Wagenknecht (BSW) hat einen neuen Namen und flirtet mit der AfD. Hat die Partei noch eine Zukunft?",
+   "text": "Nach dem Scheitern bei der Bundestagswahl hat sich die BSW-Gründerin von der Spitze verabschiedet. Nur in Sachsen-Anhalt ist das Bündnis noch ein Faktor und flirtet mit der AfD. Der Parteitag könnte turbulent werden.",
+   "link": "https://www.dw.com/de/das-ehemalige-bündnis-sahra-wagenknecht-bsw-hat-einen-neuen-namen-und-flirtet-mit-der-afd-hat-die-partei-noch-eine-zukunft/a-80051078?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-26T20:09:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-30T20:09:00+00:00",
+   "img": "https://static.dw.com/image/78348823_302.jpg"
+  },
+  {
+   "id": "na48db4521f",
+   "topic": "it",
+   "title": "SAP: KI zuerst, 10.000 Mitarbeiter weniger",
+   "text": "Alle SAP-Abteilungen müssen melden, welche Stellen gestrichen werden können, berichtet Bloomberg. KI soll mindestens 10.000 überflüssig machen.",
+   "link": "https://www.heise.de/news/SAP-AI-First-10-000-Mitarbeiter-weniger-11539781.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-26T20:05:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-12-01T20:05:00+00:00"
+  },
+  {
+   "id": "nfa4a62c58e",
+   "topic": "wirtschaft",
+   "title": "Wirtschaft vor acht vom 26.11.2026",
+   "text": "Wirtschaft vor acht vom 26.11.2026",
+   "link": "https://www.tagesschau.de/video/video-1690646.html",
+   "published": "2026-11-26T19:23:55+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-29T19:23:55+00:00",
+   "img": "https://images.tagesschau.de/image/da2d438b-36f6-457b-858d-8c598fe0deb6/AAABohlQc20/AAABnSSvrFg/16x9-big/sendungsbild-1833630.jpg?width=1920"
+  },
+  {
+   "id": "n482cbecf63",
+   "topic": "politik",
+   "title": "FAQ zur \"Rente mit 63\": Was wird gerade diskutiert?",
+   "text": "Die Debatte über die \"Rente mit 63\" wird zunehmend unübersichtlich: Welche Vorschläge werden aktuell diskutiert? Was deutet auf Bewegung innerhalb der Koalition hin? Und warum ist das Thema so umstritten? Ein Überblick.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/abschlagsfreie-rente-100.html",
+   "published": "2026-11-26T19:16:09+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-29T19:16:09+00:00",
+   "img": "https://images.tagesschau.de/image/86a63833-211b-46b5-96c5-01dee3bf4d5e/AAABohlSIeo/AAABnSSvrFg/16x9-big/wandbild-142.jpg?width=1920"
+  },
+  {
+   "id": "n3342b2eea5",
+   "topic": "wissenschaft",
+   "title": "Deutsche Firmen forschen an Technik für Waffendepots im Weltraum",
+   "text": "Angesichts der globalen Bedrohungslage gewinnt der Weltraum beim Thema Verteidigung an Bedeutung. Eine neue Technologie aus Deutschland soll den schnellen Transport von Waffen aus dem Orbit auf die Erde ermöglichen. Von U. Gradwohl und L.Wager.",
+   "link": "https://www.tagesschau.de/wissen/waffendepots-orbit-100.html",
+   "published": "2026-11-26T19:15:35+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-12-10T19:15:35+00:00",
+   "img": "https://images.tagesschau.de/image/1b467c13-52f4-4d93-8299-ea82deefda42/AAABohgyC2k/AAABnSSvrFg/16x9-big/konzeptzeichnungen-atmos-100.jpg?width=1920"
+  },
+  {
+   "id": "nc10b48338e",
+   "topic": "ki",
+   "title": "Nicht der Riemann-Beweis ist entscheidend, sondern dass ein KI-System existiert, das ihn liefern kann",
+   "text": "Scott Aaronson, Komplexitätstheoretiker und Ex-OpenAI-Mitarbeiter, sieht in den jüngsten KI-Mathematik-Durchbrüchen weit mehr als akademische Erfolge: von wirtschaftlichen Umwälzungen bis zu Risiken für die Menschheit. Laut Aaronson sitzen KI-Labore zudem auf Ergebnissen, die aktuelle Verschlüsselungsverfahren brechen …",
+   "link": "https://the-decoder.de/nicht-der-riemann-beweis-ist-entscheidend-sondern-dass-ein-ki-system-existiert-das-ihn-liefern-kann/",
+   "published": "2026-11-26T19:11:46+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-12-03T19:11:46+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/09/math_geometry_openai_hodge.png"
+  },
+  {
+   "id": "n78022e67c9",
+   "topic": "it",
+   "title": "Black Friday: Dieser Over-Ear-Kopfhörer für 50 Euro schlägt Modelle für 590 Euro",
+   "text": "Zum Black Friday kosten viele getestete Over-Ear-Kopfhörer weniger. Wir zeigen die 10 besten aus über 50 Tests und die stärksten Angebote.",
+   "link": "https://www.heise.de/bestenlisten/testsieger/black-friday-dieser-over-ear-kopfhoerer-fuer-50-euro-schlaegt-modelle-fuer-590-euro/sl68nkv?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-26T19:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-12-01T19:00:00+00:00"
+  },
+  {
+   "id": "n19ad0b015a",
+   "topic": "it",
+   "title": "KI-orientierte Umstrukturierung: SAP erwägt erneut Abbau von mindestens 10.000 Arbeitsplätzen",
+   "text": "Nach dem Einstellungsstopp im Sommer plant SAP offenbar den nächsten großen Stellenabbau. Betroffen sein sollen vor allem Produktentwicklung und Vertrieb. ( SAP , KI )",
+   "link": "https://www.golem.de/news/ki-orientierte-umstrukturierung-sap-erwaegt-erneut-abbau-von-mindestens-10-000-arbeitsplaetzen-2611-215715.html",
+   "published": "2026-11-26T18:31:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-12-01T18:31:01+00:00",
+   "img": "https://www.golem.de/2611/215715-610894-610892_rc.jpg"
+  },
+  {
+   "id": "n735bea62b3",
+   "topic": "welt",
+   "title": "Rheinmetall-Arbeiter bei Angriff in Kuwait getötet",
+   "text": "In Kuwait sind bei einem Drohnenangriff zwei Italiener getötet worden, die bei dem deutschen Rüstungskonzern Rheinmetall beschäftigt waren. Italien weist Iran die Verantwortung zu, doch Teheran dementiert den Angriff.",
+   "link": "https://www.tagesschau.de/ausland/asien/kuwait-tote-angriff-kuwait-100.html",
+   "published": "2026-11-26T18:08:12+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-29T18:08:12+00:00",
+   "img": "https://images.tagesschau.de/image/ccaba250-9d08-4353-a869-90a0d68ef0b4/AAABoUmJP04/AAABnSSvrFg/16x9-big/karte-strasse-von-hormus-iran-anrainer-100.jpg?width=1920"
+  },
+  {
+   "id": "n51510805e0",
+   "topic": "welt",
+   "title": "Warum die Bundeswehr im Senegal trainiert",
+   "text": "Es ist die bislang größte Bundeswehr-Übung in Afrika: Im Senegal trainieren rund 1.000 Soldaten mit den dortigen Streitkräften die Evakuierung aus einem fiktiven Krisenstaat. Warum dort? Von Kai Küstner.",
+   "link": "https://www.tagesschau.de/ausland/afrika/senegal-uebung-bundeswehr-100.html",
+   "published": "2026-11-26T17:59:05+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-29T17:59:05+00:00",
+   "img": "https://images.tagesschau.de/image/9dbff2b8-8bf4-4666-b864-e28c48c07e49/AAABohOcv3M/AAABnSSvrFg/16x9-big/bundeswehr-flieger-100.jpg?width=1920"
+  },
+  {
+   "id": "n4708a1f93c",
+   "topic": "welt",
+   "title": "Krieg, Inflation, Migration: Warum Dauerkrisen den Ruf nach starken Führern fördern – und was dagegen hilft",
+   "text": "Nicht die Krisen selbst gefährden die Demokratie, sondern die Gefühle von Ohnmacht und Verlust sowie die Sehnsucht nach einfachen Lösungen. Die Forschung kennt aber auch Wege aus dem destruktiven Krisenmodus.",
+   "link": "https://www.dw.com/de/krieg-inflation-migration-warum-dauerkrisen-den-ruf-nach-starken-führern-fördern-und-was-dagegen-hilft/a-80063863?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-26T17:56:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-11-30T17:56:00+00:00",
+   "img": "https://static.dw.com/image/79591953_302.jpg"
+  },
   {
    "id": "n4ff9f62f05",
    "topic": "wirtschaft",
    "title": "Spanier Hernández de Cos soll Nachfolger von EZB-Chefin Lagarde werden",
    "text": "EZB-Chefin Lagarde hatte angekündigt, ihren Posten im Februar aufzugeben. Nun ist die Nachfolge geklärt: Die EU-Spitzen einigten sich auf den Spanier Hernández de Cos. Ein Deutscher ist als Chefvolkswirt vorgesehen.",
    "link": "https://www.tagesschau.de/wirtschaft/ezb-chef-de-cos-100.html",
-   "published": "2026-11-26T16:53:06+00:00",
+   "published": "2026-11-26T17:28:08+00:00",
    "source": "Tagesschau",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-11-29T16:53:06+00:00",
+   "expires": "2026-11-29T17:28:08+00:00",
    "img": "https://images.tagesschau.de/image/1344f117-a161-478f-b66c-dda7ca523d3b/AAABohhRpBA/AAABnSSvrFg/16x9-big/de-cos-100.jpg?width=1920"
+  },
+  {
+   "id": "n52a1b8dfe1",
+   "topic": "wirtschaft",
+   "title": "Marktbericht: DAX macht einen Sprung nach vorn",
+   "text": "Mit Rückenwind der Technologie-Aktien springt der DAX am Donnerstag wieder über die Marke von 25.000 Punkten. Doch das Grundvertrauen, ob und wie weit die Erholung trägt, bleibt angeschlagen.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-174.html",
+   "published": "2026-11-26T17:23:20+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-29T17:23:20+00:00",
+   "img": "https://images.tagesschau.de/image/61ca22c3-28a1-4cca-93b6-77f4ec9d533e/AAABocSNXBk/AAABnSSvrFg/16x9-big/boerse-568.jpg?width=1920"
+  },
+  {
+   "id": "n7926c317d8",
+   "topic": "ki",
+   "title": "OpenAI hat sich verrechnet: GPT-6.2-Nutzer erreichen ihre Limits jetzt 40 Prozent schneller",
+   "text": "OpenAI hat einen Abrechnungsfehler bei GPT-6.2 eingeräumt: Astra- und Sol-Nutzer erreichen ihre Limits nun 40 bzw. 25 Prozent schneller als in der Vorwoche. Als Ausgleich gibt es einen Extra-Reset und für Business-User kostenlosen Fast-Mode bis Jahresende. Parallel testet OpenAI die Zusammenlegung von Chat- und …",
+   "link": "https://the-decoder.de/openai-hat-sich-verrechnet-gpt-6-2-nutzer-erreichen-ihre-limits-jetzt-40-prozent-schneller/",
+   "published": "2026-11-26T17:20:56+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-12-03T17:20:56+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/10/openai.png"
+  },
+  {
+   "id": "na9f14ccee5",
+   "topic": "it",
+   "title": "Globale Aktionen: Amazon-Beschäftigte streiken am Black Friday an elf Standorten",
+   "text": "Verdi wirft dem Konzern Einschüchterung und Falschinformationen zu Streiks vor. Amazon weist das entschieden zurück. ( Black Friday , Amazon )",
+   "link": "https://www.golem.de/news/globale-aktionen-amazon-beschaeftigte-streiken-am-black-friday-an-elf-standorten-2611-215713.html",
+   "published": "2026-11-26T17:17:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-12-01T17:17:02+00:00",
+   "img": "https://www.golem.de/2611/215713-610886-610884_rc.jpg"
   },
   {
    "id": "nf77aab4c89",
@@ -185,14 +604,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-28T16:48:22+00:00",
-   "img": "https://bilder.deutschlandfunk.de/c7/b6/eb/48/c7b6eb48-ac38-457c-980e-c660bcde9ce5/mossad-israel-direktor-david-barnea-al-thani-treffen-verhandlunge-freilassung-geiseln-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Durch die Hintertür: Ex-Mossad-Chef sorgt im Bundestag für Wirbel",
-     "link": "https://www.dw.com/de/durch-die-hintertür-ex-mossad-chef-sorgt-im-bundestag-für-wirbel/a-80045432?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/c7/b6/eb/48/c7b6eb48-ac38-457c-980e-c660bcde9ce5/mossad-israel-direktor-david-barnea-al-thani-treffen-verhandlunge-freilassung-geiseln-100-1920x1920.jpg"
   },
   {
    "id": "n918f007bf4",
@@ -221,23 +633,10 @@
    "also": [
     {
      "source": "Deutschlandfunk",
-     "title": "IG Metall - Tarifeinigung in der Metall- und Elektroindustrie",
-     "link": "https://www.deutschlandfunk.de/tarifeinigung-in-der-metall-und-elektroindustrie-110.html"
+     "title": "Wirtschaft - Einigung in der Metall- und Elektroindustrie \"klares Zukunftssignal\"",
+     "link": "https://www.deutschlandfunk.de/einigung-in-der-metall-und-elektroindustrie-klares-zukunftssignal-104.html"
     }
    ]
-  },
-  {
-   "id": "n735bea62b3",
-   "topic": "welt",
-   "title": "Rheinmetall-Arbeiter bei Angriff in Kuwait getötet",
-   "text": "In Kuwait sind bei einem iranischen Drohnenangriff zwei Italiener getötet worden, die bei dem deutschen Rüstungskonzern Rheinmetall beschäftigt waren. EU-Kommissionspräsidentin von der Leyen will den Druck auf Iran erhöhen, die Angriffe zu beenden.",
-   "link": "https://www.tagesschau.de/ausland/asien/kuwait-tote-angriff-kuwait-100.html",
-   "published": "2026-11-26T16:42:32+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-29T16:42:32+00:00",
-   "img": "https://images.tagesschau.de/image/ccaba250-9d08-4353-a869-90a0d68ef0b4/AAABoUmJP04/AAABnSSvrFg/16x9-big/karte-strasse-von-hormus-iran-anrainer-100.jpg?width=1920"
   },
   {
    "id": "n236ddcf329",
@@ -390,7 +789,8 @@
    "source": "THE DECODER",
    "type": "Fachmedium (KI)",
    "lang": "de",
-   "expires": "2026-12-03T15:22:08+00:00"
+   "expires": "2026-12-03T15:22:08+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/11/us_china.png"
   },
   {
    "id": "n1df95f183b",
@@ -409,7 +809,7 @@
    "id": "n809d6f51f7",
    "topic": "welt",
    "title": "China: Der Fall Chen Jining und der Machtkampf in der KP",
-   "text": "2027 stehen Neuwahlen der Führung der Kommunistischen Partei (KP) an. Der überraschende Sturz des Hoffnungsträgers Chen Jining wirft viele Fragen auf. Bedeutet dies, dass sich letztlich alles beim Alten bleibt?",
+   "text": "2027 wird die Führung der Kommunistischen Partei (KP) neu gewählt. Da wirft der überraschende Sturz des Hoffnungsträgers Chen Jining viele Fragen auf. Bleibt jetzt alles beim Alten?",
    "link": "https://www.dw.com/de/china-der-fall-chen-jining-und-der-machtkampf-in-der-kp/a-80066009?maca=de-rss-de-all-1119-xml-mrss",
    "published": "2026-11-26T15:14:00+00:00",
    "source": "Deutsche Welle",
@@ -442,7 +842,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-29T14:38:50+00:00",
-   "img": "https://images.tagesschau.de/image/75db0ce9-0f45-4d72-af16-a0784729ac90/AAABohgx880/AAABnSSvrFg/16x9-big/paket-temu-104.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/75db0ce9-0f45-4d72-af16-a0784729ac90/AAABohgx880/AAABnSSvrFg/16x9-big/paket-temu-104.jpg?width=1920",
+   "also": [
+    {
+     "source": "heise online",
+     "title": "Verbraucherschutz: Temu verspricht Besserung im EWR",
+     "link": "https://www.heise.de/news/Verbraucherschutz-Temu-verspricht-Besserung-im-EWR-11539845.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
   },
   {
    "id": "n3d8e30ccf4",
@@ -508,14 +915,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-29T13:40:55+00:00",
-   "img": "https://images.tagesschau.de/image/04ae9c3b-3868-4a89-ba91-d975eccd7229/AAABohfECIw/AAABnSSvrFg/16x9-big/frauen-russland-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Orange Day - Gewalt gegen Frauen wird am heutigen Aktionstag bundesweit thematisiert",
-     "link": "https://www.deutschlandfunk.de/gewalt-gegen-frauen-wird-am-heutigen-aktionstag-bundesweit-thematisiert-100.html"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/04ae9c3b-3868-4a89-ba91-d975eccd7229/AAABohfECIw/AAABnSSvrFg/16x9-big/frauen-russland-100.jpg?width=1920"
   },
   {
    "id": "n3927e49b26",
@@ -645,23 +1045,10 @@
    "img": "https://images.tagesschau.de/image/37015892-b7ac-40f4-8e71-c5b885175263/AAABofKLkVQ/AAABnSSvrFg/16x9-big/dax-leitindex-100.jpg?width=1920"
   },
   {
-   "id": "nbad694a1e7",
-   "topic": "welt",
-   "title": "Merz fordert weitere Kürzungen der EU-Finanzen",
-   "text": "Um mehr als 200 Milliarden Euro ist der EU-Haushaltsentwurf bereits gekürzt worden. Dem Kanzler reicht das aber noch nicht. Außerdem verknüpft Merz die schwierigen Verhandlungen weiterhin mit der Unterstützung für die Ukraine.",
-   "link": "https://www.tagesschau.de/ausland/europa/eu-haushalt-ukraine-100.html",
-   "published": "2026-11-26T11:58:32+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-29T11:58:32+00:00",
-   "img": "https://images.tagesschau.de/image/5f1a4a18-950f-4266-87b7-c7a64d0f5a4d/AAABohd7b3o/AAABnSSvrFg/16x9-big/merz-1830.jpg?width=1920"
-  },
-  {
    "id": "n163a44268e",
    "topic": "politik",
    "title": "Zwei Mitglieder von früherer AfD-Jugend dürfen Waffen weiter besitzen",
-   "text": "Eine Organisation unter Extremismusverdacht - das reicht nicht, um Mitgliedern den Entzug waffenrechtlicher Erlaubnisse zu entziehen. Das hat das Bundesverwaltungsgericht entschieden. Geklagt hatten AfD-Politiker. Bei einem \"Reichsbürger\" sieht es anders aus.",
+   "text": "Eine Organisation unter Extremismusverdacht - das reicht nicht, um Mitgliedern waffenrechtliche Erlaubnisse zu entziehen. Das hat das Bundesverwaltungsgericht entschieden. Geklagt hatten AfD-Politiker. Bei einem \"Reichsbürger\" sieht es anders aus.",
    "link": "https://www.tagesschau.de/inland/innenpolitik/afd-waffen-urteil-100.html",
    "published": "2026-11-26T11:39:55+00:00",
    "source": "Tagesschau",
@@ -1099,14 +1486,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-28T19:36:24+00:00",
-   "img": "https://images.tagesschau.de/image/63f26e5b-f6b8-42ea-a783-30e1ba5708bc/AAABohQMMw4/AAABnSSvrFg/16x9-big/istanbul-demo-112.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Orange Day - Gewalt gegen Frauen wird am heutigen Aktionstag bundesweit thematisiert",
-     "link": "https://www.deutschlandfunk.de/gewalt-gegen-frauen-wird-am-heutigen-aktionstag-bundesweit-thematisiert-100.html"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/63f26e5b-f6b8-42ea-a783-30e1ba5708bc/AAABohQMMw4/AAABnSSvrFg/16x9-big/istanbul-demo-112.jpg?width=1920"
   },
   {
    "id": "n12ea552c6c",
@@ -1215,14 +1595,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-27T18:56:09+00:00",
-   "img": "https://bilder.deutschlandfunk.de/d7/c4/78/16/d7c47816-207e-43fd-921d-b08f9707d643/donald-trump-262-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "USA kündigen neue Zölle an - auch gegen EU und China",
-     "link": "https://www.tagesschau.de/ausland/amerika/usa-zoelle-124.html"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/d7/c4/78/16/d7c47816-207e-43fd-921d-b08f9707d643/donald-trump-262-1920x1920.jpg"
   },
   {
    "id": "nde722c89b8",
@@ -1431,401 +1804,6 @@
    "lang": "de",
    "expires": "2026-11-28T16:29:03+00:00",
    "img": "https://images.tagesschau.de/image/e02351ee-1433-42eb-9fb6-54de41ffc89e/AAABohNm188/AAABnSSvrFg/16x9-big/landwirt-duengemittel-100.jpg?width=1920"
-  },
-  {
-   "id": "n9724211729",
-   "topic": "wirtschaft",
-   "title": "KI-Ernüchterung an den Börsen greift um sich",
-   "text": "An den US-Börsen geht die Verkaufswelle bei Tech-Aktien weiter. Die alten Sorgen von Investoren wegen der Geschäfts mit Künstlicher Intelligenz bleiben - und neue sind hinzugekommen. Von Heidi Radvilas.",
-   "link": "https://www.tagesschau.de/wirtschaft/technologie/nvidia-rueckkehr-huang-boersen-100.html",
-   "published": "2026-11-25T16:28:08+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-28T16:28:08+00:00",
-   "img": "https://images.tagesschau.de/image/c7a4de4a-5590-486d-911c-3ad13b4db84f/AAABohHhObo/AAABnSSvrFg/16x9-big/nyse-480.jpg?width=1920"
-  },
-  {
-   "id": "nade42b7994",
-   "topic": "ki",
-   "title": "Amazon und Meta verhandeln über Zugang von KI-Shopping-Agent Muse zum Amazon-Onlineshop",
-   "text": "Amazon und Meta verhandeln über eine Wiederzulassung von Metas KI-Shopping-Agent Muse, den Amazon im September gesperrt hatte. Knackpunkte sind Werbeeinnahmen und die Kontrolle über Suchergebnisse – Amazons Werbegeschäft bringt 68,6 Milliarden Dollar im Jahr. Muse dominiert mit 51 Prozent Marktanteil bei agentischen …",
-   "link": "https://the-decoder.de/amazon-und-meta-verhandeln-ueber-zugang-von-ki-shopping-agent-muse-zum-amazon-onlineshop/",
-   "published": "2026-11-25T16:24:37+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-12-02T16:24:37+00:00"
-  },
-  {
-   "id": "n2b1159d8ba",
-   "topic": "politik",
-   "title": "Generaldebatte im Bundestag: Nachdenkliche Töne und ein Zugeständnis",
-   "text": "Selbstkritisch hat Bundeskanzler Merz im Bundestag den Kurs seiner Regierung verteidigt. Bei der Rede war es ungewöhnlich leise im Saal. Merz führte aus, wessen Kanzler er sein will - ein Zugeständnis an die SPD ging beinahe unter. Von S. Henkel.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-generaldebatte-merz-100.html",
-   "published": "2026-11-25T16:10:40+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-28T16:10:40+00:00",
-   "img": "https://images.tagesschau.de/image/09c3379e-212c-477e-9d65-2aed1e86e86f/AAABohN5NtI/AAABnSSvrFg/16x9-big/merz-1820.jpg?width=1920"
-  },
-  {
-   "id": "n651c3a158c",
-   "topic": "welt",
-   "title": "USA wollen neuen 15-Prozent-Zoll für EU-Importe",
-   "text": "Der US-Handelsbeauftragte bestätigt Berichte, wonach der Zollkonflikt zwischen den USA und deren wichtigsten Handelspartnern in die nächste Runde geht. Für etliche Länder könnte es teuer werden.",
-   "link": "https://www.dw.com/de/usa-wollen-neuen-15-prozent-zoll-für-eu-importe/a-80045806?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-25T15:57:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-29T15:57:00+00:00",
-   "img": "https://static.dw.com/image/72656408_302.jpg"
-  },
-  {
-   "id": "nf80dcd6297",
-   "topic": "welt",
-   "title": "\"Flamingo-Revolution\": Warum 600.000 Albaner auswanderten - und warum Albaniens Jugend heute gegen Premier Edi Rama protestiert, anstatt zu emigrieren",
-   "text": "Jugendproteste gegen ein erstarrtes politisches System und Korruption erschüttern die Regierung von Premier Edi Rama. Sie zeigen auch, dass immer weniger junge Menschen bereit sind, für eine bessere Zukunft auszuwandern.",
-   "link": "https://www.dw.com/de/flamingo-revolution-warum-600-000-albaner-auswanderten-und-warum-albaniens-jugend-heute-gegen-premier-edi-rama-protestiert-anstatt-zu-emigrieren/a-80033291?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-25T15:28:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-29T15:28:00+00:00",
-   "img": "https://static.dw.com/image/77742440_302.jpg"
-  },
-  {
-   "id": "n92e3c8064a",
-   "topic": "welt",
-   "title": "EU-Kommission wegen Untätigkeit bei Käfighaltung verurteilt",
-   "text": "Aktivisten hatten vor einigen Jahren rund 1,4 Millionen Unterschriften für ein Verbot der Käfighaltung gesammelt. Die EU-Kommission reagierte allerdings zu zögerlich, wie das EU-Gericht in Luxemburg feststellte.",
-   "link": "https://www.dw.com/de/eu-kommission-wegen-untätigkeit-bei-käfighaltung-verurteilt/a-80049946?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-25T15:19:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-29T15:19:00+00:00",
-   "img": "https://static.dw.com/image/80050447_302.jpg"
-  },
-  {
-   "id": "n8407373968",
-   "topic": "wirtschaft",
-   "title": "USA kündigen neue Zölle an - auch gegen EU und China",
-   "text": "Die USA haben neue Sonderzölle gegen die EU und weitere Handelspartner angekündigt. Für betroffene EU-Produkte ist ein Zollsatz von 15 Prozent vorgesehen, auf chinesische Waren soll eine Abgabe von 20 Prozent fällig werden.",
-   "link": "https://www.tagesschau.de/ausland/amerika/usa-zoelle-124.html",
-   "published": "2026-11-25T15:18:25+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-28T15:18:25+00:00",
-   "img": "https://images.tagesschau.de/image/9529bd48-dd16-4734-a442-58358ce3336a/AAABohL7BTM/AAABnSSvrFg/16x9-big/donald-trump-1018.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Trump-Regierung - USA kündigen neue Zölle gegen EU, China und andere Handelspartner an",
-     "link": "https://www.deutschlandfunk.de/usa-kuendigen-neue-zoelle-gegen-eu-china-und-andere-handelspartner-an-100.html"
-    }
-   ]
-  },
-  {
-   "id": "nc18ac09018",
-   "topic": "welt",
-   "title": "Tote und Vermisste nach Überflutung in Goldmine",
-   "text": "In einer illegal errichteten indonesischen Goldmine sind Bergleute von Wassermassen überrascht und eingeschlossen worden. Die Rettungsmaßnahmen laufen. Bisher wurden neun Tote geborgen.",
-   "link": "https://www.tagesschau.de/ausland/asien/unglueck-illegale-goldmine-indonesien-100.html",
-   "published": "2026-11-25T15:01:03+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-28T15:01:03+00:00",
-   "img": "https://images.tagesschau.de/image/6a208b04-649b-4680-a949-089705bc36cc/AAABohIQbJs/AAABnSSvrFg/16x9-big/goldmine-indonesien-100.jpg?width=1920"
-  },
-  {
-   "id": "nd8f7d31190",
-   "topic": "wissenschaft",
-   "title": "Bilder der Woche: Vulkan formt historisches Schlachtfeld um",
-   "text": "Am 19. Februar 1945 begann hier eine mehrwöchige, blutige Schlacht um eine winzige Insel. Nun schuf ein Vulkan neues Land an historischer Stätte - vorübergehend.",
-   "link": "https://www.spektrum.de/alias/bilder-der-woche/vulkan-neues-land-vor-historischem-schlachtfeld/2356063",
-   "published": "2026-11-25T15:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-12-09T15:00:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/iwojima_voll.jpg.8428680.jpg?f=1280x720"
-  },
-  {
-   "id": "n2318368804",
-   "topic": "welt",
-   "title": "Ungarn-Ukraine: Peter Magyar und Wolodymyr Selenskyj wagen Neustart",
-   "text": "Lange vergiftete Viktor Orbans prorussischer Kurs Ungarns Verhältnis zur Ukraine. Nun schaffen Premier Magyar und Präsident Selenskyj bei einem Treffen eine neue Vertrauensbasis - und vereinbaren konkrete Schritte.",
-   "link": "https://www.dw.com/de/ungarn-ukraine-peter-magyar-und-wolodymyr-selenskyj-wagen-neustart/a-80048613?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-25T14:52:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-29T14:52:00+00:00",
-   "img": "https://static.dw.com/image/80040962_302.jpg"
-  },
-  {
-   "id": "n2ecca435c0",
-   "topic": "welt",
-   "title": "FC Bayern beendet Spekulationen um Jamal Musiala",
-   "text": "Der FC Bayern und die Agentur Jamal Musialas geben ein Statement ab. Darin geht es um die neurologischen Symptome des Nationalspielers und den genauen Zeitpunkt, seit wann sie Spieler und Verein bekannt sind.",
-   "link": "https://www.dw.com/de/fc-bayern-beendet-spekulationen-um-jamal-musiala/a-80051092?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-25T14:50:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-29T14:50:00+00:00",
-   "img": "https://static.dw.com/image/80051576_302.jpg"
-  },
-  {
-   "id": "nd5790e3fa3",
-   "topic": "politik",
-   "title": "Wenn der Partner zuschlägt",
-   "text": "Alle drei Minuten erlebt eine Frau oder ein Mädchen in Deutschland häusliche Gewalt. Nur ein kleiner Teil der Taten wird angezeigt - aus Angst, Scham oder sozialer Isolation. Von Marion Försching.",
-   "link": "https://www.tagesschau.de/inland/gesellschaft/wenn-der-partner-zuschlaegt-gewalt-gegen-frauen-100.html",
-   "published": "2026-11-25T14:36:47+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-28T14:36:47+00:00",
-   "img": "https://images.tagesschau.de/image/7774f6e3-064c-4a3e-a219-f839640cf65d/AAABlfFkp_I/AAABnSSvrFg/16x9-big/frauenhaus-113.jpg?width=1920"
-  },
-  {
-   "id": "nf7ce5ca549",
-   "topic": "welt",
-   "title": "Gewalt gegen Frauen in Brasilien: Auf Streife gegen Femizide",
-   "text": "In Brasilien hat die Zahl der Frauenmorde vergangenes Jahr einen Höchststand erreicht. Eine Spezialeinheit der Polizei soll gefährdete Frauen schützen - unterwegs mit einer Patrouille in Rio de Janeiro. Von Xenia Böttcher.",
-   "link": "https://www.tagesschau.de/ausland/amerika/brasilien-gewalt-gegen-frauen-100.html",
-   "published": "2026-11-25T14:36:37+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-28T14:36:37+00:00",
-   "img": "https://images.tagesschau.de/image/d2698ee9-301c-411c-a510-7baf0ce2c41c/AAABohIH2-w/AAABnSSvrFg/16x9-big/venerando-maifrede-102.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Orange Day - Gewalt gegen Frauen wird am heutigen Aktionstag bundesweit thematisiert",
-     "link": "https://www.deutschlandfunk.de/gewalt-gegen-frauen-wird-am-heutigen-aktionstag-bundesweit-thematisiert-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n2dc3eb9023",
-   "topic": "wissenschaft",
-   "title": "Quantum Act: EU will Quantentechnologien mit 50 Milliarden Euro fördern",
-   "text": "Quantencomputer und -sensoren gelten als Schlüsseltechnologien. Mit viel Geld und einem neuen Gesetzesvorhaben soll Europas Industrie gestärkt und Abhängigkeiten verringert werden.",
-   "link": "https://www.spektrum.de/news/quantum-act-eu-will-die-quantenrevolution-nicht-verpassen/2356089",
-   "published": "2026-11-25T14:30:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-12-09T14:30:00+00:00"
-  },
-  {
-   "id": "ndc1e39dd1e",
-   "topic": "welt",
-   "title": "74 Peitschenhiebe für iranische Sängerin lösen Empörung aus",
-   "text": "Ein Onlinekonzert ohne Kopftuch - dafür erhielt die iranische Sängerin Parastu Ahmadi 74 Peitschenhiebe. Das löste international große Empörung aus. Die Strafe sei \"grausam und unmenschlich\" und eine Form der Folter.",
-   "link": "https://www.tagesschau.de/ausland/asien/iran-saengerin-peitschenhiebe-100.html",
-   "published": "2026-11-25T14:07:47+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-28T14:07:47+00:00",
-   "img": "https://images.tagesschau.de/image/f0d3522c-ad3d-4c22-a192-a646ea7d04ba/AAABnUmDVUA/AAABnSSvrFg/16x9-big/flagge-iran-112.jpg?width=1920"
-  },
-  {
-   "id": "nd2ee5a493f",
-   "topic": "wissenschaft",
-   "title": "Erwerbstätige Frauen in der Lebensmitte laut TK-Gesundheitsreport stärker belastet als Männer",
-   "text": "Erwerbstätige Frauen in der Lebensmitte laut TK-Gesundheitsreport stärker belastet als Männer",
-   "link": "https://www.tagesschau.de/video/video-1689712.html",
-   "published": "2026-11-25T14:05:33+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-12-09T14:05:33+00:00",
-   "img": "https://images.tagesschau.de/image/c7a86f90-d65e-4f65-aefe-44c6f5dfbc07/AAABohMGqHc/AAABnSSvrFg/16x9-big/sendungsbild-1832986.jpg?width=1920"
-  },
-  {
-   "id": "n21fa186008",
-   "topic": "welt",
-   "title": "Durch die Hintertür: Ex-Mossad-Chef sorgt im Bundestag für Wirbel",
-   "text": "Geplant war nur ein gut einstündiges Gespräch: Aber der Besuch von Ex-Mossad-Chef David Barnea in Berlin sorgte für Aufregung. Eine Menschenrechtsgruppe verlangte, den Gast in Deutschland festzunehmen.",
-   "link": "https://www.dw.com/de/durch-die-hintertür-ex-mossad-chef-sorgt-im-bundestag-für-wirbel/a-80045432?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-25T14:03:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-29T14:03:00+00:00",
-   "img": "https://static.dw.com/image/80043389_302.jpg",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Bundestag - Linken-Abgeordneten drohen Konsequenzen nach Blockade-Aktion gegen Ex-Mossad-Chef Barnea",
-     "link": "https://www.deutschlandfunk.de/linken-abgeordneten-drohen-konsequenzen-nach-blockade-aktion-gegen-ex-mossad-chef-barnea-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n637d858078",
-   "topic": "wirtschaft",
-   "title": "Discounter senken Butterpreis unter einen Euro",
-   "text": "Die Discounter Lidl und Aldi haben den Preis für ein Stück Butter unter einen Euro gesenkt. Das liege an gesunkenen Einkaufspreisen. Der Bauernverband kritisiert die Senkung als \"Ohrfeige für Milchbauern\".",
-   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/butter-preis-preiskampf-discounter-bauern-100.html",
-   "published": "2026-11-25T14:01:31+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-28T14:01:31+00:00",
-   "img": "https://images.tagesschau.de/image/a8784918-dc1e-473b-896f-23dec5aa79e5/AAABmjCv0a0/AAABnSSvrFg/16x9-big/butter-118.jpg?width=1920"
-  },
-  {
-   "id": "n636c7db8cb",
-   "topic": "welt",
-   "title": "EU-Parlament stimmt neuen Arzneimittelregeln zu",
-   "text": "Ob Antibiotika oder Fiebersäfte für Kinder: Immer wieder fehlen in Europa Medikamente - Grund ist auch die große Abhängigkeit von Asien. Das will die EU ändern. Das Parlament stimmte neuen Arzneimitteln-Regeln zu.",
-   "link": "https://www.tagesschau.de/ausland/europa/eu-parlament-arzneimittel-100.html",
-   "published": "2026-11-25T14:00:56+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-28T14:00:56+00:00",
-   "img": "https://images.tagesschau.de/image/bf982151-da3c-4ec9-b4ea-b6e7e3366ce3/AAABohHzVyI/AAABnSSvrFg/16x9-big/apotheke-224.jpg?width=1920"
-  },
-  {
-   "id": "n7651af0053",
-   "topic": "politik",
-   "title": "tagesschau in Einfacher Sprache startet WhatsApp-Kanal",
-   "text": "Langsamer gesprochen, erklärte Fachbegriffe, kaum Nebensätze - seit 2024 gibt es die tagesschau in Einfacher Sprache. Zehntausende nutzen sie jeden Tag. Nun wird das Angebot um einen WhatsApp-Kanal erweitert.",
-   "link": "https://www.tagesschau.de/inland/gesellschaft/einfache-sprache-102.html",
-   "published": "2026-11-25T13:45:35+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-28T13:45:35+00:00"
-  },
-  {
-   "id": "n6e26547acd",
-   "topic": "wirtschaft",
-   "title": "Kartenzahlung überholt erstmals Bargeld in Geschäften",
-   "text": "Verbraucher in der Eurozone nutzen immer häufiger Kartenzahlungen. Trotzdem bleibt Bargeld beliebt - vor allem geringe Summen werden nach wie vor oft bar bezahlt.",
-   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/ezb-zahlungsverhalten-bargeld-kartenzahlung-100.html",
-   "published": "2026-11-25T13:32:13+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-28T13:32:13+00:00",
-   "img": "https://images.tagesschau.de/image/7182a6c9-3789-4037-a9d8-d1b3b156a244/AAABohKlsL8/AAABnSSvrFg/16x9-big/kartenzahlung-144.jpg?width=1920"
-  },
-  {
-   "id": "n8996ac1b45",
-   "topic": "politik",
-   "title": "Was über die rechtsextremistische Gruppe \"Terror 18\" bekannt ist",
-   "text": "Sie sind fast noch Kinder und planten laut Bundesanwaltschaft schwerste Straftaten, etwa auf eine Flüchtlingsunterkunft. Nun gingen Ermittler gegen mutmaßliche Mitglieder der rechtsextremistischen Gruppe \"Terror 18\" vor. Was ist bekannt? Von Max Bauer.",
-   "link": "https://www.tagesschau.de/inland/terror-18-rechtsextremistische-gruppe-100.html",
-   "published": "2026-11-25T13:15:59+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-28T13:15:59+00:00",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Rechtsextremistische Chatgruppe \"Terror 18\" - Drei Teenager unter Terrorverdacht festgenommen - zwei Beschuldigte wieder auf freiem Fuß",
-     "link": "https://www.deutschlandfunk.de/drei-teenager-unter-terrorverdacht-festgenommen-zwei-beschuldigte-wieder-auf-freiem-fuss-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n79266bce69",
-   "topic": "ki",
-   "title": "Google-Deepmind-Entwicklungschef über mitforschende KI-Agenten bei Gemini und warum es nie einen AGI-Benchmark geben wird",
-   "text": "Google Deepmind setzt KI-Agenten ein, die eigenständig Experimente für kommende Gemini-Modelle durchführen. Forschungschef Koray Kavukcuoglu betont, von rekursiver Selbstverbesserung sei man noch entfernt – zur Kontrolle bleiben die internen Gedankenketten der Agenten bewusst untrainiert und damit prüfbar. AGI misst …",
-   "link": "https://the-decoder.de/google-deepmind-entwicklungschef-ueber-mitforschende-ki-agenten-bei-gemini-und-warum-es-nie-einen-agi-benchmark-geben-wird/",
-   "published": "2026-11-25T13:01:36+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-12-02T13:01:36+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/11/gemini-4-neon__blog-header__sm.width-1600.format-webp.webp"
-  },
-  {
-   "id": "nf5d11549d3",
-   "topic": "wirtschaft",
-   "title": "Nach Apple-Absprung: Samsung steigt bei AMS-Osram ein",
-   "text": "Nach dem Rückzug von Apple drohte eine teure Chipfabrik für AMS-Osram zum Verlustgeschäft zu werden. Nun investiert Samsung 210 Millionen Euro. Kann aus dem gescheiterten Milliardenprojekt ein Zukunftsgeschäft werden?",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/samsung-einstieg-osram-100.html",
-   "published": "2026-11-25T12:45:06+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-28T12:45:06+00:00",
-   "img": "https://images.tagesschau.de/image/b5e1bbd6-695a-4a28-a6b4-c5396e57be8a/AAABohJJc24/AAABnSSvrFg/16x9-big/osram-106.jpg?width=1920"
-  },
-  {
-   "id": "n4f2d13e21f",
-   "topic": "welt",
-   "title": "Umstrittener Abschiebefall: Salvadorianer Abrego García hat USA verlassen",
-   "text": "2025 war der Salvadorianer Abrego Garcia aus den USA abgeschoben worden - rechtswidrig. Er landete in einem berüchtigten Gefängnis und wurde so zum Symbol für Trumps umstrittene Politik. Nun eine neue Wendung: Abrego Garcia ist in Spanien.",
-   "link": "https://www.tagesschau.de/ausland/amerika/usa-abschiebepolitik-trump-garcia-100.html",
-   "published": "2026-11-25T11:19:15+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-28T11:19:15+00:00",
-   "img": "https://images.tagesschau.de/image/9b3725d9-58ff-41dd-ad4b-da4d9a5b62c1/AAABohJuZ1U/AAABnSSvrFg/16x9-big/abgredo-garcia-100.jpg?width=1920"
-  },
-  {
-   "id": "n4640f6d829",
-   "topic": "politik",
-   "title": "Bundestag legt Schweigeminute für Opfer von Femiziden ein",
-   "text": "Dass Bundestagspräsidentin Klöckner und viele andere bei der Generaldebatte Orange als Kleidungsfarbe gewählt hatten, war kein Zufall. Grund ist der Orange Day, an dem an Frauen erinnert wird, die Opfer von Gewalt wurden.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-orange-day-100.html",
-   "published": "2026-11-25T10:55:47+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-28T10:55:47+00:00",
-   "img": "https://images.tagesschau.de/image/aa4d6e30-d508-4f13-8eb7-f8859add416d/AAABohJY61Y/AAABnSSvrFg/16x9-big/kloeckner-294.jpg?width=1920"
-  },
-  {
-   "id": "n29ded36679",
-   "topic": "welt",
-   "title": "Run auf kostenlose Finnland-Reise für Singles",
-   "text": "Kostenlos durch Finnland reisen und sich dabei verlieben: Diese Idee der staatlichen Tourismusorganisation sorgt für große Nachfrage aus aller Welt. Hunderttausende Singles haben sich beworben. Was erwartet die 16 Auserwählten? Von A.-L. Beckmann.",
-   "link": "https://www.tagesschau.de/ausland/europa/single-urlaub-finnland-100.html",
-   "published": "2026-11-25T10:40:38+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-28T10:40:38+00:00",
-   "img": "https://images.tagesschau.de/image/eeb74c6a-3398-4afe-80eb-c8c557f9e98f/AAABohJJPjM/AAABnSSvrFg/16x9-big/finnland-nordlichter-100.jpg?width=1920"
-  },
-  {
-   "id": "nd76a38e4c3",
-   "topic": "politik",
-   "title": "Orange Day - Gewalt gegen Frauen wird am heutigen Aktionstag bundesweit thematisiert",
-   "text": "Am sogenannten Orange Day wird heute an Frauen erinnert, die Opfer von Gewalt geworden sind. Am internationalen Tag zur Beseitigung von Gewalt gegen Frauen sollen in Berlin mehrere Bundesministerien orange angestrahlt werden.",
-   "link": "https://www.deutschlandfunk.de/gewalt-gegen-frauen-wird-am-heutigen-aktionstag-bundesweit-thematisiert-100.html",
-   "published": "2026-11-25T08:31:39+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-27T08:31:39+00:00",
-   "img": "https://bilder.deutschlandfunk.de/1f/59/06/49/1f590649-b3df-4f83-93dc-f2d149af7bf0/femizide-deutschland-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Russland: Sieben von zehn ermordeten Frauen Opfer häuslicher Gewalt",
-     "link": "https://www.tagesschau.de/ausland/asien/mehr-frauen-in-russland-sterben-durch-gewalt-100.html"
-    }
-   ]
   }
  ]
 }
