@@ -1,92 +1,620 @@
 {
- "generated": "2026-11-27T01:44:17.359752+00:00",
+ "generated": "2026-11-27T12:22:22.989737+00:00",
  "briefing": [
-  "n493ef3f04c",
+  "n4ff0803a12",
+  "n0b5b8c5303",
   "nbad694a1e7",
-  "nc46e0a4f41",
   "n5539dc48d3",
-  "n3f114469c1",
-  "nc17a5ed741",
-  "n4708a1f93c",
-  "n7dbc58a097",
-  "n809d6f51f7",
-  "n6f307af62b"
+  "n67e9094c70",
+  "n96a1c8e728",
+  "n45564890f1",
+  "n0b1a6a8ec7",
+  "nfdfe02ce09"
  ],
  "ranked": [
   {
-   "id": "n493ef3f04c",
-   "s": 32.1
+   "id": "n4ff0803a12",
+   "s": 37.7
+  },
+  {
+   "id": "n0b5b8c5303",
+   "s": 31.6
   },
   {
    "id": "nbad694a1e7",
-   "s": 32.0
-  },
-  {
-   "id": "nc46e0a4f41",
-   "s": 29.0
+   "s": 29.3
   },
   {
    "id": "n5539dc48d3",
-   "s": 28.8
+   "s": 27.0
   },
   {
-   "id": "n3f114469c1",
-   "s": 25.7
+   "id": "n67e9094c70",
+   "s": 26.0
   },
   {
-   "id": "nc17a5ed741",
+   "id": "n96a1c8e728",
    "s": 23.0
   },
   {
-   "id": "n4708a1f93c",
-   "s": 21.0
+   "id": "n45564890f1",
+   "s": 23.0
   },
   {
-   "id": "n7dbc58a097",
-   "s": 20.8
+   "id": "n0b1a6a8ec7",
+   "s": 22.7
   },
   {
-   "id": "n809d6f51f7",
-   "s": 20.4
-  },
-  {
-   "id": "n6f307af62b",
-   "s": 17.0
-  },
-  {
-   "id": "nbcda9273d0",
-   "s": 17.0
-  },
-  {
-   "id": "nde722c89b8",
-   "s": 17.0
-  },
-  {
-   "id": "naebd3b2acb",
-   "s": 17.0
-  },
-  {
-   "id": "nf9d7740a29",
-   "s": 17.0
-  },
-  {
-   "id": "naf518ee7e5",
-   "s": 16.6
-  },
-  {
-   "id": "nebbf290327",
-   "s": 16.6
-  },
-  {
-   "id": "n4ff9f62f05",
-   "s": 15.9
-  },
-  {
-   "id": "ncc8a9bc029",
-   "s": 14.9
+   "id": "nfdfe02ce09",
+   "s": 22.6
   }
  ],
  "items": [
+  {
+   "id": "nf49bc4efd7",
+   "topic": "it",
+   "title": "Einschränkungen bei T-online-Mail: Telekom blockiert IMAP- und POP3-Zugriffe aus dem Ausland",
+   "text": "Wer sein T-online.de-Postfach aus dem Ausland über externe Mailprogramme abrufen will, scheitert. Die Deutsche Telekom bestätigt die Einschränkung. ( Telekom , Server )",
+   "link": "https://www.golem.de/news/einschraenkungen-bei-t-online-mail-telekom-blockiert-imap-und-pop3-zugriffe-aus-dem-ausland-2611-215740.html",
+   "published": "2026-11-27T12:20:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-12-02T12:20:01+00:00",
+   "img": "https://www.golem.de/2611/215740-611021-611019_rc.jpg"
+  },
+  {
+   "id": "n63a3c36a58",
+   "topic": "politik",
+   "title": "Bundesparteitag - BSW-Co-Vorsitzender De Masi schließt Koalitionen mit AfD aus",
+   "text": "Vor dem Bundesparteitag der BSW in Dresden hat deren Ko-Vorsitzender De Masi die Unterstützung einer AfD-geführten Regierung ausgeschlossen. De Masi sagte im Deutschlandfunk, er glaube nicht, dass es etwa in Sachsen-Anhalt zu einer grundsätzlichen Zusammenarbeit mit der AfD kommen werde.",
+   "link": "https://www.deutschlandfunk.de/bsw-co-vorsitzender-de-masi-schliesst-koalitionen-mit-afd-aus-100.html",
+   "published": "2026-11-27T12:19:30+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-29T12:19:30+00:00",
+   "img": "https://bilder.deutschlandfunk.de/7a/2d/33/67/7a2d3367-a892-46c3-a608-ddeb0616224d/fabio-de-masi-bsw-afd-streit-100-1920x1920.jpg"
+  },
+  {
+   "id": "n8e0cf56d8c",
+   "topic": "politik",
+   "title": "Berlin - CDU-Politiker Winkel verteidigt Kompromissvorschlag zur Rente mit 63 - bisher kein Einlenken der SPD",
+   "text": "Der stellvertretende Vorsitzende der Unionsfraktion im Bundestag, Winkel, hat sich bei der Rente mit 63 für einen Kompromiss ausgesprochen. Er verteidigte den Vorschlag, Geringverdienern die Frührente weiterhin abschlagsfrei zu ermöglichen.",
+   "link": "https://www.deutschlandfunk.de/cdu-politiker-winkel-verteidigt-kompromissvorschlag-zur-rente-mit-63-bisher-kein-einlenken-der-spd-100.html",
+   "published": "2026-11-27T12:19:30+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-29T12:19:30+00:00",
+   "img": "https://bilder.deutschlandfunk.de/41/5f/86/bb/415f86bb-d8f9-4a9c-8b4a-8b28e69abb6b/ju-deutschlandtag-winkel-100-1920x1920.jpg"
+  },
+  {
+   "id": "nc9d782d609",
+   "topic": "politik",
+   "title": "Bundeskongress - Juso-Chef: Kein Mensch weiß, wofür die SPD heute steht",
+   "text": "Vor dem Bundeskongress der SPD-Nachwuchsorganisation hat Juso-Chef Türmer ein mangelndes Profil seiner Partei beklagt.",
+   "link": "https://www.deutschlandfunk.de/juso-chef-kein-mensch-weiss-wofuer-die-spd-heute-steht-102.html",
+   "published": "2026-11-27T12:19:30+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-29T12:19:30+00:00",
+   "img": "https://bilder.deutschlandfunk.de/eb/d3/be/bf/ebd3bebf-5278-48c3-8e0f-b196d1ca8067/tuermer-spd-juso-100-1920x1920.jpg"
+  },
+  {
+   "id": "n96a1c8e728",
+   "topic": "politik",
+   "title": "Budget von mehr als 500 Milliarden - Bundestag stimmt über den Haushalt 2027 ab",
+   "text": "Im Bundestag stimmen die Abgeordneten heute abschließend über den Bundeshaushalt 2027 ab. Am Vormittag hatten die Abgeordneten zunächst den Etat für das Ministerium für Arbeit und Soziales beschlossen. Dieser ist der größte Posten des Bundeshaushalts. Er umfasst etwa die Rentenversicherung und die Grundsicherung im …",
+   "link": "https://www.deutschlandfunk.de/bundestag-stimmt-ueber-den-haushalt-2027-ab-100.html",
+   "published": "2026-11-27T12:19:30+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-29T12:19:30+00:00",
+   "img": "https://bilder.deutschlandfunk.de/95/82/43/57/95824357-45de-4b43-a597-f6ff46756758/generaldebatte-bundestag-der-tag-100-1920x1920.jpg"
+  },
+  {
+   "id": "n45564890f1",
+   "topic": "politik",
+   "title": "Brüssel - Beendigung des Sondergipfels zum EU-Haushalt - CDU-Europapolitiker Herbst warnt vor Feilschen um Beträge",
+   "text": "Nach dem Abbruch des Sondertreffens zum EU-Finanzplan für die nächsten Jahre steigt der Druck auf die Staats- und Regierungschefs vor dem Gipfel im Dezember. Bundeskanzler Merz sagte in Brüssel, die Verhandlungspositionen lägen noch zu weit auseinander.",
+   "link": "https://www.deutschlandfunk.de/beendigung-des-sondergipfels-zum-eu-haushalt-cdu-europapolitiker-herbst-warnt-vor-feilschen-um-betra-100.html",
+   "published": "2026-11-27T12:19:30+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-29T12:19:30+00:00",
+   "img": "https://bilder.deutschlandfunk.de/c9/e5/ea/f2/c9e5eaf2-7540-4bf2-b397-4ad6f00ead63/eu-gipfel-150-1920x1920.jpg"
+  },
+  {
+   "id": "nfa955a1be4",
+   "topic": "politik",
+   "title": "Gipfel ohne Ergebnis - Die Streitpunkte beim EU-Haushalt",
+   "text": "Beim EU-Gipfel in Brüssel ist keine Einigung zum nächsten mehrjährigen Haushalt zustande gekommen. Viele Streitpunkte sind offen, so beim Umfang des Budgets, den Einnahmequellen oder den Ukraine-Hilfen. Mehrere Staats- und Regierungschefs, darunter Bundeskanzler Friedrich Merz (CDU), zeigten sich aber zuversichtlich …",
+   "link": "https://www.deutschlandfunk.de/die-streitpunkte-beim-eu-haushalt-100.html",
+   "published": "2026-11-27T12:19:30+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-29T12:19:30+00:00",
+   "img": "https://bilder.deutschlandfunk.de/8c/38/9e/d1/8c389ed1-47f1-48a8-b8cd-64809e7f4705/billionen-euro-eu-budget-100-1920x1920.jpg"
+  },
+  {
+   "id": "n1141732bc9",
+   "topic": "it",
+   "title": "Verbraucherzentrale mahnt OpenAI und Anthropic ab",
+   "text": "Die Verbraucherzentrale Niedersachsen wirft OpenAI und Anthropic unzulässige Preisänderungsklauseln und intransparente Tarife vor.",
+   "link": "https://www.heise.de/news/Verbraucherzentrale-mahnt-OpenAI-und-Anthropic-ab-11540670.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-27T12:13:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-12-02T12:13:00+00:00"
+  },
+  {
+   "id": "nc172c31a5b",
+   "topic": "politik",
+   "title": "Mann nach Polizeieinsatz in Lebensgefahr - Ermittlungen gegen vier Beamte",
+   "text": "Bei einem Polizeieinsatz in einem Mehrfamilienhaus im Main-Taunus-Kreis ist ein 34-Jähriger lebensgefährlich verletzt worden. Gegen die vier beteiligten Beamten wird nun ermittelt.",
+   "link": "https://www.hessenschau.de/panorama/mann-nach-polizeieinsatz-in-lebensgefahr---ermittlungen-gegen-vier-beamte-v1,polizeieinsatz-ermittlungen-100.html",
+   "published": "2026-11-27T12:10:14+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-12-01T12:10:14+00:00",
+   "img": "https://www.hessenschau.de/panorama/polizei-sujet-132~_t-1720186197351_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "n0caabcebf0",
+   "topic": "welt",
+   "title": "UN sieht fünf \"Hunger-Hotspots\": Ernährungskrisen verschärfen sich",
+   "text": "Krieg, Dürre und Budgetkürzungen bei Hilfsorganisationen. Die UN sehen fünf Länder auf eine gefährliche Hungerkrise zusteuern und warnen vor den Auswirkungen. Die Welt müsse nun schnell handeln. Von Tilman Kleinjung.",
+   "link": "https://www.tagesschau.de/ausland/afrika/vereinte-nationen-hunger-hotspots-100.html",
+   "published": "2026-11-27T12:09:57+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T12:09:57+00:00",
+   "img": "https://images.tagesschau.de/image/1ba04718-4eba-4892-bbba-62e5e71bfdae/AAABohxvE8M/AAABnSSvrFg/16x9-big/kind-somalia-102.jpg?width=1920"
+  },
+  {
+   "id": "ndceff1f91d",
+   "topic": "it",
+   "title": "NFS2Root: 12 Jahre alter Kernel-Bug gewährt Root-Zugriff unter Linux",
+   "text": "Eine kritische Sicherheitslücke gefährdet unzählige Linux-Systeme. Angreifer können per NFS Schadcode einschleusen und gleich als Root ausführen. ( Sicherheitslücke , Ubuntu )",
+   "link": "https://www.golem.de/news/nfs2root-12-jahre-alter-kernel-bug-gewaehrt-root-zugriff-unter-linux-2611-215735.html",
+   "published": "2026-11-27T12:05:01+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-12-02T12:05:01+00:00",
+   "img": "https://www.golem.de/2611/215735-611011-611009_rc.jpg"
+  },
+  {
+   "id": "n61024bfbcc",
+   "topic": "it",
+   "title": "Bezahlkarten mit LED-Leuchteffekten dank NFC-Speisung",
+   "text": "Bezahlkarten mit Lichteffekten leuchten am drahtlosen Bezahlterminal auf. NFC-Energietransfer versorgt auch Handyhüllen mit E-Ink-Displays.",
+   "link": "https://www.heise.de/news/Bezahlkarten-mit-LED-Leuchteffekten-dank-NFC-Speisung-11540578.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-27T12:01:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-12-02T12:01:00+00:00"
+  },
+  {
+   "id": "n5eb6ff5582",
+   "topic": "wissenschaft",
+   "title": "Kometen im Dezember 2026: Die Aktivität von 10P/Tempel ist außergewöhnlich",
+   "text": "Der Komet 10P/Tempel zeigte dieses Jahr eine ungewöhnlich starke Aktivität. Nun stellt sich die Frage, wie sich der Komet weiterentwickeln wird – und ob er zerfällt.",
+   "link": "https://www.spektrum.de/news/kometen-im-dezember-2026-aktivitaet-von-10p-tempel-ist-aussergewoehnlich/2335135",
+   "published": "2026-11-27T12:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-12-11T12:00:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/LESERBILD_10P-Tempel_L_2026_08_16_19h37m-facebook.jpg.8399947.jpg?f=1280x720"
+  },
+  {
+   "id": "ne5d11178eb",
+   "topic": "nfl",
+   "title": "Cowboys news: Playoff hopes come crashing down in embarrassing loss",
+   "text": "Here is today’s Dallas Cowboys news.",
+   "link": "https://sports.yahoo.com/nfl/articles/cowboys-news-playoff-hopes-come-120000137.html",
+   "published": "2026-11-27T12:00:00+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-12-02T12:00:00+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/1f2e21b8203a5297c33399d92454420b.jpg"
+  },
+  {
+   "id": "n064ed09a64",
+   "topic": "nfl",
+   "title": "NFL Thanksgiving Winners & Losers",
+   "text": "3 winners and 3 losers from Turkey Day.",
+   "link": "https://sports.yahoo.com/nfl/articles/nfl-thanksgiving-winners-losers-120000767.html",
+   "published": "2026-11-27T12:00:00+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-12-02T12:00:00+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/46c6a005120e0ca324a500ec0adc3833.jpg"
+  },
+  {
+   "id": "n8672d09c9c",
+   "topic": "it",
+   "title": "Auch die Stillen kommen zu Wort: Neue App will Unterrichtsgespräche ändern",
+   "text": "Damit in Klassen nicht immer dieselben zu Wort kommen, haben Bildungsforscher die schnipp-App entwickelt. Ein Modell sortiert die Antworten.",
+   "link": "https://www.heise.de/news/Auch-die-Stillen-kommen-zu-Wort-Neue-App-will-Unterrichtsgespraeche-aendern-11540417.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-27T11:53:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-12-02T11:53:00+00:00"
+  },
+  {
+   "id": "nc79d3cf0b9",
+   "topic": "ki",
+   "title": "KI-Umbau: SAP plant laut Bericht den Abbau von mindestens 10.000 Stellen",
+   "text": "SAP plant im Zuge seiner KI-Neuausrichtung den Abbau von Stellen. Der Artikel KI-Umbau: SAP plant laut Bericht den Abbau von mindestens 10.000 Stellen erschien zuerst auf The Decoder .",
+   "link": "https://the-decoder.de/ki-umbau-sap-plant-laut-bericht-den-abbau-von-mindestens-10-000-stellen/",
+   "published": "2026-11-27T11:35:25+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-12-04T11:35:25+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "SAP erwägt offenbar Abbau von Tausenden Stellen",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/sap-stellenabbau-geplant-100.html"
+    },
+    {
+     "source": "Golem.de",
+     "title": "KI-orientierte Umstrukturierung: SAP erwägt erneut Abbau von mindestens 10.000 Arbeitsplätzen",
+     "link": "https://www.golem.de/news/ki-orientierte-umstrukturierung-sap-erwaegt-erneut-abbau-von-mindestens-10-000-arbeitsplaetzen-2611-215715.html"
+    }
+   ]
+  },
+  {
+   "id": "n08331d8611",
+   "topic": "welt",
+   "title": "Polizistin in Kabul: Verhüllt im Dienst für das Taliban-Regime",
+   "text": "In Afghanistan haben Frauen kaum noch Rechte. In der Öffentlichkeit muss ihr Gesicht verhüllt sein, Bildung ist kaum möglich. Gleichzeitig arbeiten einige Frauen bei der Polizei und sind so Teil des Systems der Taliban. Von F. Amler.",
+   "link": "https://www.tagesschau.de/ausland/asien/taliban-polizistin-100.html",
+   "published": "2026-11-27T11:11:16+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T11:11:16+00:00",
+   "img": "https://images.tagesschau.de/image/fb08e62c-c34b-4e0d-8f00-af534e7deffb/AAABohxgLJI/AAABnSSvrFg/16x9-big/sendungsbild-taliban-polizei-100.jpg?width=1920"
+  },
+  {
+   "id": "n0b1a6a8ec7",
+   "topic": "welt",
+   "title": "Thanksgiving-Sturm in den USA: Hunderttausende ohne Strom",
+   "text": "Ausgerechnet die 100. Ausgabe der New Yorker Thanksgiving-Parade musste wegen starker Windböen verschoben werden. Hunderte Flüge fielen aus, entlang der Ostküste gab es Überschwemmungen.",
+   "link": "https://www.dw.com/de/thanksgiving-sturm-in-den-usa-hunderttausende-ohne-strom/a-80073073?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-27T11:11:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-12-01T11:11:00+00:00",
+   "img": "https://static.dw.com/image/80070224_302.jpg"
+  },
+  {
+   "id": "n482cbecf63",
+   "topic": "politik",
+   "title": "FAQ zur \"Rente mit 63\": Was wird gerade diskutiert?",
+   "text": "Die Debatte über die \"Rente mit 63\" wird zunehmend unübersichtlich: Welche Vorschläge werden aktuell diskutiert? Was deutet auf Bewegung innerhalb der Koalition hin? Und warum ist das Thema so umstritten? Ein Überblick.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/abschlagsfreie-rente-100.html",
+   "published": "2026-11-27T11:09:55+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T11:09:55+00:00",
+   "img": "https://images.tagesschau.de/image/86a63833-211b-46b5-96c5-01dee3bf4d5e/AAABohlSIeo/AAABnSSvrFg/16x9-big/wandbild-142.jpg?width=1920"
+  },
+  {
+   "id": "n4ff0803a12",
+   "topic": "wirtschaft",
+   "title": "SAP erwägt offenbar Abbau von Tausenden Stellen",
+   "text": "Der Software-Konzern SAP will Medienberichten zufolge Tausende Stellen streichen. Hintergrund soll auch die Automatisierung durch Künstliche Intelligenz sein.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/sap-stellenabbau-geplant-100.html",
+   "published": "2026-11-27T11:09:46+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T11:09:46+00:00",
+   "img": "https://images.tagesschau.de/image/b3b8038c-db20-47f6-9613-94518993e6b8/AAABnAjAofI/AAABnSSvrFg/16x9-big/sap-144.jpg?width=1920",
+   "also": [
+    {
+     "source": "THE DECODER",
+     "title": "KI-Umbau: SAP plant laut Bericht den Abbau von mindestens 10.000 Stellen",
+     "link": "https://the-decoder.de/ki-umbau-sap-plant-laut-bericht-den-abbau-von-mindestens-10-000-stellen/"
+    },
+    {
+     "source": "Golem.de",
+     "title": "KI-orientierte Umstrukturierung: SAP erwägt erneut Abbau von mindestens 10.000 Arbeitsplätzen",
+     "link": "https://www.golem.de/news/ki-orientierte-umstrukturierung-sap-erwaegt-erneut-abbau-von-mindestens-10-000-arbeitsplaetzen-2611-215715.html"
+    }
+   ]
+  },
+  {
+   "id": "n5d8908f30e",
+   "topic": "politik",
+   "title": "Streit um Rentenreform: Arbeitsminister Schweitzer optimistisch",
+   "text": "Die Koalition ringt weiter um die Rentenreform. Arbeitsminister Schweitzer ist optimistisch, dass es bald zu einer Einigung kommt. Es lägen gute Vorschläge auf dem Tisch, sagte er im Bundestag. Dort wurde des Etat seines Ministeriums debattiert.",
+   "link": "https://www.tagesschau.de/inland/bundestag-haushalt-rentenreform-schweitzer-100.html",
+   "published": "2026-11-27T11:07:08+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T11:07:08+00:00",
+   "img": "https://images.tagesschau.de/image/213c5abd-da23-4a4b-80b6-9a8717817581/AAABohxxRjI/AAABnSSvrFg/16x9-big/schweitzer-180.jpg?width=1920"
+  },
+  {
+   "id": "nfdfe02ce09",
+   "topic": "welt",
+   "title": "Mutmaßlicher Hackerangriff auf deutschen Softwarekonzern SAP",
+   "text": "Der DAX-Konzern SAP hat nach eigenen Angaben \"verdächtige Aktivitäten\" festgestellt. Das Unternehmen versicherte, bislang gebe es keine Hinweise auf einen unbefugten Zugriff auf Kundendaten.",
+   "link": "https://www.dw.com/de/mutmaßlicher-hackerangriff-auf-deutschen-softwarekonzern-sap/a-80072576?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-27T10:41:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-12-01T10:41:00+00:00",
+   "img": "https://static.dw.com/image/64651886_302.jpg"
+  },
+  {
+   "id": "nfbf3340198",
+   "topic": "wissenschaft",
+   "title": "Tradwives",
+   "text": "Sozialpädagogin und Therapeutin Ruth Habeland sowie die Expertin für Konsumkultur Rebecca Wismeg-Kammerlan über das Thema »Tradwives«. 🎙️",
+   "link": "https://www.spektrum.de/podcast/wtf-talk-tradwives/2356232",
+   "published": "2026-11-27T10:13:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-12-11T10:13:00+00:00"
+  },
+  {
+   "id": "n12dad416e8",
+   "topic": "wissenschaft",
+   "title": "Warum ein Schlüssel für die Energiewende tief im Boden liegt",
+   "text": "Von Geothermie bis zur sicheren CO₂-Speicherung liefert Geowissenschaft unverzichtbare Bausteine für ein nachhaltiges Klima. Hören Sie diese Podcast-Folge von »Forschungsquartett«. 🎙️",
+   "link": "https://www.spektrum.de/podcast/forschungsquartett-ein-schluessel-fuer-die-energiewende/2356229",
+   "published": "2026-11-27T10:12:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-12-11T10:12:00+00:00"
+  },
+  {
+   "id": "n8c09e4b769",
+   "topic": "welt",
+   "title": "EU-Haushaltsgipfel endet vorzeitig ohne Konsens",
+   "text": "Man sei noch \"Lichtjahre\" von einer Einigung entfernt, sagt Italiens Ministerpräsidentin Meloni. Jetzt wächst der Druck auf die Staats- und Regierungschefs vor dem nächsten Gipfel im Dezember.",
+   "link": "https://www.dw.com/de/eu-haushaltsgipfel-endet-vorzeitig-ohne-konsens/a-80071476?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-27T10:00:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-12-01T10:00:00+00:00",
+   "img": "https://static.dw.com/image/80057886_302.jpg"
+  },
+  {
+   "id": "n8c77c43d3b",
+   "topic": "wirtschaft",
+   "title": "Wie Firmen mit Weiterbildung gegen Fachkräftemangel vorbeugen",
+   "text": "Der demografische Wandel kommt immer stärker am Arbeitsmarkt an. Auch gezielte Zuwanderung kann den Fachkräftemangel nicht mehr ausgleichen. Viele Firmen setzen daher auf Weiterbildung. Von Axel John.",
+   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/demografie-fachkraefte-weiterbildung-100.html",
+   "published": "2026-11-27T09:57:51+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T09:57:51+00:00",
+   "img": "https://images.tagesschau.de/image/5de11449-67c6-47b6-aff6-4ce972f227db/AAABoQYPP8g/AAABnSSvrFg/16x9-big/ausbildung-240.jpg?width=1920"
+  },
+  {
+   "id": "n64dbddfcaa",
+   "topic": "welt",
+   "title": "Westjordanland: Israelische Politiker sprechen von \"jüdischem Terror\"",
+   "text": "Die Gewalt radikaler Siedler gegen Palästinenser im Westjordanland hat massiv zugenommen. In Israel ist der Begriff \"jüdischer Terror\" kein Tabu mehr. Doch in der Regierung tobt ein Richtungsstreit. Von Julio Segador.",
+   "link": "https://www.tagesschau.de/ausland/asien/westjordanland-gewalt-100.html",
+   "published": "2026-11-27T09:57:35+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T09:57:35+00:00",
+   "img": "https://images.tagesschau.de/image/02f7cf1e-61a7-497d-bbc8-6635b3976964/AAABohxIOG4/AAABnSSvrFg/16x9-big/brandanschlag-westjordanland-102.jpg?width=1920"
+  },
+  {
+   "id": "n425adfffc4",
+   "topic": "wirtschaft",
+   "title": "Arbeitslosenzahl sinkt im November nur leicht - wenig Herbstbelebung",
+   "text": "Für die deutsche Wirtschaft sah es zuletzt wieder etwas besser aus. Doch die übliche Belebung des Arbeitsmarktes im Herbst ist größtenteils ausgeblieben. Auch im November ging die Zahl der Arbeitslosen nur leicht zurück.",
+   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/arbeitslosenzahlen-november-108.html",
+   "published": "2026-11-27T09:57:19+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T09:57:19+00:00",
+   "img": "https://images.tagesschau.de/image/10e43c96-8593-4495-90b7-255d39de2c64/AAABohxOctA/AAABnSSvrFg/16x9-big/agentur-fuer-arbeit-168.jpg?width=1920"
+  },
+  {
+   "id": "na990e4111c",
+   "topic": "wirtschaft",
+   "title": "Marktbericht: Anleger nutzen günstige Kurse zum Einkauf",
+   "text": "Der DAX setzt seine Erholung schwungvoll fort, unterstützt von der Aussicht auf einen starken Handelsstart an der Wall Street. Trotz der Kursgewinne bleibt die Frage, wie nachhaltig der KI-Boom ist.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-176.html",
+   "published": "2026-11-27T09:57:08+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T09:57:08+00:00",
+   "img": "https://images.tagesschau.de/image/7de8811d-fb9e-46a1-ab3b-f0f51448e01d/AAABocSLp9g/AAABnSSvrFg/16x9-big/boerse-562.jpg?width=1920"
+  },
+  {
+   "id": "n7057669d7c",
+   "topic": "wirtschaft",
+   "title": "Shopping: KI-Agenten werden beliebter",
+   "text": "Das Angebot an digitalen Einkaufshelfern steigt. Experten sehen Wachstumspotenzial. Doch Verbraucherschützer warnen vor Risiken, die Politik vor weiterem Ladensterben in den Städten. Von Heidi Radvilas.",
+   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/ki-agenten-einkaufen-handel-100.html",
+   "published": "2026-11-27T09:32:49+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T09:32:49+00:00",
+   "img": "https://images.tagesschau.de/image/41c580f3-d15d-4eb6-918a-d247346fb54b/AAABohefTig/AAABnSSvrFg/16x9-big/frau-smartphone-120.jpg?width=1920"
+  },
+  {
+   "id": "nb5787bf8b7",
+   "topic": "wirtschaft",
+   "title": "Update Wirtschaft vom 27.11.2026",
+   "text": "Update Wirtschaft vom 27.11.2026",
+   "link": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1690782.html",
+   "published": "2026-11-27T08:54:06+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T08:54:06+00:00",
+   "img": "https://images.tagesschau.de/image/481d383e-1e64-4210-878d-3227de36d38b/AAABohw2MHc/AAABnSSvrFg/16x9-big/sendungsbild-1833806.jpg?width=1920"
+  },
+  {
+   "id": "n6a2a94f937",
+   "topic": "welt",
+   "title": "KI-Desinformation überschattet Nigerias Wahl 2027",
+   "text": "Wenige Monate vor den Wahlen 2027 wächst in Nigeria die Sorge über den Einsatz von KI im Wahlkampf. Zweifel an der Integrität der Wahlen und der zuständigen Institutionen werden laut. Können die Menschen noch vertrauen?",
+   "link": "https://www.dw.com/de/ki-desinformation-überschattet-nigerias-wahl-2027/a-80022457?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-27T08:42:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-12-01T08:42:00+00:00",
+   "img": "https://static.dw.com/image/79855923_302.jpg"
+  },
+  {
+   "id": "n76fd3a8f8d",
+   "topic": "politik",
+   "title": "Parteitag in Dresden: Wie hält es das BSW mit der AfD?",
+   "text": "Das BSW ringt um den Kurs zur AfD: Die Parteispitze betont Distanz, in Sachsen-Anhalt kommen sich beide Parteien aber recht nahe. Bringt der Parteitag in Dresden einen Richtungsentscheid? Von Maximilian Ulrich.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/bsw-parteitag-afd-sachsen-anhalt-100.html",
+   "published": "2026-11-27T08:22:38+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T08:22:38+00:00",
+   "img": "https://images.tagesschau.de/image/23887d92-f1bd-4439-a5a4-5ec3a93dbb0f/AAABohwZbvE/AAABnSSvrFg/16x9-big/bsw-afd-112.jpg?width=1920"
+  },
+  {
+   "id": "na69cd63249",
+   "topic": "welt",
+   "title": "News kompakt: Neuseeland vor schwieriger Regierungsbildung",
+   "text": "Nach Neuseelands Parlamentswahl könnte eine neue Mitte-Partei über die Regierung entscheiden. Der EU-Sondergipfel zum langfristigen Haushalt ist wegen Differenzen vorzeitig zu Ende gegangen. Der DW-Nachrichtenüberblick.",
+   "link": "https://www.dw.com/de/news-kompakt-neuseeland-vor-schwieriger-regierungsbildung/a-80070525?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-27T08:01:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-12-01T08:01:00+00:00",
+   "img": "https://static.dw.com/image/79884626_302.jpg"
+  },
+  {
+   "id": "n0b5b8c5303",
+   "topic": "welt",
+   "title": "USA: Schwerer Sturm sorgt an Thanksgiving für massive Einschränkungen",
+   "text": "Gestrichene Flüge, Stromausfälle und Überschwemmungen: Ausgerechnet an Thanksgiving haben Starkregen und heftige Winde in vielen Teilen der USA für Chaos gesorgt. In einigen Bundesstaaten gilt der Notstand.",
+   "link": "https://www.tagesschau.de/ausland/amerika/usa-stuerme-thanksgiving-100.html",
+   "published": "2026-11-27T06:55:56+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T06:55:56+00:00",
+   "img": "https://images.tagesschau.de/image/c0ef12dd-7c19-48d5-bb02-60b084e0ccc9/AAABohzr4ls/AAABnSSvrFg/16x9-big/sturm-kueste-virginia-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "USA - Massive Stromausfälle und Verkehrsbehinderungen an Thanksgiving",
+     "link": "https://www.deutschlandfunk.de/massive-stromausfaelle-und-verkehrsbehinderungen-an-thanksgiving-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n789e167ca9",
+   "topic": "welt",
+   "title": "Parlamentswahl: Wie Spaniens Volkspartei die Ära Sánchez abwickeln will",
+   "text": "Spaniens konservative Volkspartei PP hat gute Aussichten, bei der Parlamentswahl am Wochenende stärkste Kraft zu werden. Sie verspricht dem Land tiefgreifende Änderungen. Wo will sie umsteuern? Von F. Welz.",
+   "link": "https://www.tagesschau.de/ausland/europa/spanien-wahl-volkspartei-100.html",
+   "published": "2026-11-27T05:43:42+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T05:43:42+00:00",
+   "img": "https://images.tagesschau.de/image/3d9a319b-f4bc-4be1-8646-c7b56e7be424/AAABohMPUaw/AAABnSSvrFg/16x9-big/nunez-feijoo-plakat-100.jpg?width=1920"
+  },
+  {
+   "id": "n2027f10c3b",
+   "topic": "nfl",
+   "title": "NFL Week 12 grades for Thanksgiving: Cowboys choke their way to a 'D,' Bears earn 'B' for big win",
+   "text": "Caleb Williams delivers late magic to Rome Odunze in a wild shootout, while Detroit's defense collapses and Jordan Love struggles without Christian Watson",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-12-grades-thanksgiving-bears-earn-b-packers-get-d/",
+   "published": "2026-11-27T05:13:44+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-12-02T05:13:44+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/11/26/d8aee4f8-2d54-4f4f-9309-8d6ec17e6685/rome.jpg"
+  },
+  {
+   "id": "n51e6ce6629",
+   "topic": "welt",
+   "title": "Neuseeland: Konservative verlieren Mehrheit - Labour hat auch keine",
+   "text": "Nach der Wahl zeichnete sich ein sehr knappes Rennen ab. Nun ist klar: Neuseelands rechtsgerichtete Regierungskoalition unter Premier Luxon hat keine Mehrheit mehr. Jetzt spielt eine neue Partei die entscheidende Rolle.",
+   "link": "https://www.tagesschau.de/ausland/ozeanien/neuseeland-parlamentswahl-106.html",
+   "published": "2026-11-27T05:09:05+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T05:09:05+00:00",
+   "img": "https://images.tagesschau.de/image/4b7d0999-6ad4-4c99-9d06-eb65e0ec826d/AAABohucsjg/AAABnSSvrFg/16x9-big/neuseeland-luxon-104.jpg?width=1920"
+  },
+  {
+   "id": "n8ff4caf6f3",
+   "topic": "nfl",
+   "title": "NFL Thanksgiving overreactions: Bears a shoo-in for NFC North title? Should Joe Milton be a full-time QB1?",
+   "text": "Plus, is Jahmyr Gibbs truly an MVP candidate?",
+   "link": "https://www.cbssports.com/nfl/news/nfl-thanksgiving-overreactions-bears-a-shoo-in-nfc-north-title-joe-milton-full-time-qb1/",
+   "published": "2026-11-27T05:07:38+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-12-02T05:07:38+00:00"
+  },
+  {
+   "id": "n67e9094c70",
+   "topic": "politik",
+   "title": "Rekordhohe Arbeitslosigkeit bei Menschen mit Schwerbehinderung",
+   "text": "Menschen mit Schwerbehinderung bekommen die gesamtwirtschaftliche Lage besonders stark zu spüren. Die Arbeitslosenquote bei ihnen lag im Jahresdurchschnitt 2025 mit zwölf Prozent fast doppelt so hoch wie im gesamten Arbeitsmarkt.",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/schwerbehinderung-arbeitslose-100.html",
+   "published": "2026-11-27T04:13:07+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T04:13:07+00:00",
+   "img": "https://images.tagesschau.de/image/20ac1aaa-6f8b-4bd2-8934-9c93d2b24776/AAABohsMcsU/AAABnSSvrFg/16x9-big/jobcenter-berlin-102.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Aktion Mensch - Arbeitslosigkeit von Menschen mit Schwerbehinderung auf Rekordhoch",
+     "link": "https://www.deutschlandfunk.de/arbeitslosigkeit-von-menschen-mit-schwerbehinderung-auf-rekordhoch-104.html"
+    }
+   ]
+  },
   {
    "id": "nc7c19d327d",
    "topic": "politik",
@@ -118,7 +646,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-29T01:37:39+00:00",
-   "img": "https://bilder.deutschlandfunk.de/b7/a6/09/2e/b7a6092e-7456-4b8c-8934-c5a5734776c2/rollstuhlfahrerin-arbeit-100-1920x1920.jpg"
+   "img": "https://bilder.deutschlandfunk.de/b7/a6/09/2e/b7a6092e-7456-4b8c-8934-c5a5734776c2/rollstuhlfahrerin-arbeit-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Rekordhohe Arbeitslosigkeit bei Menschen mit Schwerbehinderung",
+     "link": "https://www.tagesschau.de/inland/gesellschaft/schwerbehinderung-arbeitslose-100.html"
+    }
+   ]
   },
   {
    "id": "ndc8842be40",
@@ -164,7 +699,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-29T01:37:39+00:00",
-   "img": "https://bilder.deutschlandfunk.de/69/77/5d/3a/69775d3a-2aaa-4530-8e59-832c6004bdcf/new-york-sturm-100-1920x1920.jpg"
+   "img": "https://bilder.deutschlandfunk.de/69/77/5d/3a/69775d3a-2aaa-4530-8e59-832c6004bdcf/new-york-sturm-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "USA: Schwerer Sturm sorgt an Thanksgiving für massive Einschränkungen",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-stuerme-thanksgiving-100.html"
+    }
+   ]
   },
   {
    "id": "nae7d6d0177",
@@ -208,7 +750,7 @@
    "id": "n8239362720",
    "topic": "welt",
    "title": "Bosnien und Herzogowina: Dodik hebt Sohn auf den Thron",
-   "text": "Dodik hatte über 20 Jahre lang die Macht in der serbisch-dominierten Republika Srpska. 2025 musste er nach internationalem Druck zurücktreten, wegen seiner Separatismuspolitik. Nun macht er seinen Sohn zum Regierungschef. Von O. Soos.",
+   "text": "Milorad Dodik war über mehr als 20 Jahre der mächtige Mann in der serbisch dominierten Republika Srpska. 2025 musste er nach internationalem Druck zurücktreten. Nun macht er seinen Sohn zum Regierungschef. Von Oliver Soos.",
    "link": "https://www.tagesschau.de/ausland/europa/dodik-bosnien-sohn-100.html",
    "published": "2026-11-27T01:29:29+00:00",
    "source": "Tagesschau",
@@ -228,20 +770,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-30T00:02:22+00:00",
-   "img": "https://images.tagesschau.de/image/9661d086-75d2-4c4e-94da-70f83c687c91/AAABohpAjdo/AAABnSSvrFg/16x9-big/merz-1832.jpg?width=1920"
-  },
-  {
-   "id": "n2027f10c3b",
-   "topic": "nfl",
-   "title": "NFL Week 12 grades for Thanksgiving: Bears earn 'B' for stunning win over Lions, Packers leave L.A. with 'D'",
-   "text": "Caleb Williams delivers late magic to Rome Odunze in a wild shootout, while Detroit's defense collapses and Jordan Love struggles without Christian Watson",
-   "link": "https://www.cbssports.com/nfl/news/nfl-week-12-grades-thanksgiving-bears-earn-b-packers-get-d/",
-   "published": "2026-11-26T22:33:20+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-12-01T22:33:20+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/11/26/d8aee4f8-2d54-4f4f-9309-8d6ec17e6685/rome.jpg"
+   "img": "https://images.tagesschau.de/image/9661d086-75d2-4c4e-94da-70f83c687c91/AAABohw4ssc/AAABnSSvrFg/16x9-big/merz-1832.jpg?width=1920"
   },
   {
    "id": "n0acece2e14",
@@ -361,19 +890,6 @@
    "img": "https://images.tagesschau.de/image/da2d438b-36f6-457b-858d-8c598fe0deb6/AAABohlQc20/AAABnSSvrFg/16x9-big/sendungsbild-1833630.jpg?width=1920"
   },
   {
-   "id": "n482cbecf63",
-   "topic": "politik",
-   "title": "FAQ zur \"Rente mit 63\": Was wird gerade diskutiert?",
-   "text": "Die Debatte über die \"Rente mit 63\" wird zunehmend unübersichtlich: Welche Vorschläge werden aktuell diskutiert? Was deutet auf Bewegung innerhalb der Koalition hin? Und warum ist das Thema so umstritten? Ein Überblick.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/abschlagsfreie-rente-100.html",
-   "published": "2026-11-26T19:16:09+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-29T19:16:09+00:00",
-   "img": "https://images.tagesschau.de/image/86a63833-211b-46b5-96c5-01dee3bf4d5e/AAABohlSIeo/AAABnSSvrFg/16x9-big/wandbild-142.jpg?width=1920"
-  },
-  {
    "id": "n3342b2eea5",
    "topic": "wissenschaft",
    "title": "Deutsche Firmen forschen an Technik für Waffendepots im Weltraum",
@@ -422,7 +938,19 @@
    "type": "Fachmedium (IT)",
    "lang": "de",
    "expires": "2026-12-01T18:31:01+00:00",
-   "img": "https://www.golem.de/2611/215715-610894-610892_rc.jpg"
+   "img": "https://www.golem.de/2611/215715-610894-610892_rc.jpg",
+   "also": [
+    {
+     "source": "THE DECODER",
+     "title": "KI-Umbau: SAP plant laut Bericht den Abbau von mindestens 10.000 Stellen",
+     "link": "https://the-decoder.de/ki-umbau-sap-plant-laut-bericht-den-abbau-von-mindestens-10-000-stellen/"
+    },
+    {
+     "source": "Tagesschau",
+     "title": "SAP erwägt offenbar Abbau von Tausenden Stellen",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/sap-stellenabbau-geplant-100.html"
+    }
+   ]
   },
   {
    "id": "n735bea62b3",
@@ -571,14 +1099,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-11-28T16:48:22+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Streit um \"Rente mit 63\": Unionsabgeordnete schlagen \"Respekt-Rente\" vor",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/rente-kompromiss-koalition-100.html"
-    }
-   ]
+   "expires": "2026-11-28T16:48:22+00:00"
   },
   {
    "id": "n24d2294f85",
@@ -776,8 +1297,7 @@
    "source": "CBS Sports",
    "type": "Sportmedium",
    "lang": "en",
-   "expires": "2026-12-01T15:45:42+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/11/24/60947b64-944c-46c6-ae16-543242d856bc/template-pic.jpg"
+   "expires": "2026-12-01T15:45:42+00:00"
   },
   {
    "id": "n41be56e94c",
@@ -985,11 +1505,6 @@
      "source": "Deutsche Welle",
      "title": "KI-Rechenzentren im All: Eine Million Satelliten und Probleme",
      "link": "https://www.dw.com/de/ki-rechenzentren-im-all-eine-million-satelliten-und-probleme/a-80057290?maca=de-rss-de-all-1119-xml-mrss"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "SpaceX darf eine Million Satelliten für KI-Rechenzentren ins All schicken",
-     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-eine-million-satelliten-100.html"
     }
    ]
   },
@@ -1023,11 +1538,6 @@
      "source": "THE DECODER",
      "title": "US-Behörde genehmigt SpaceX eine Million Satelliten für KI-Rechenzentren im All",
      "link": "https://the-decoder.de/us-behoerde-genehmigt-spacex-eine-million-satelliten-fuer-ki-rechenzentren-im-all/"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "SpaceX darf eine Million Satelliten für KI-Rechenzentren ins All schicken",
-     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-eine-million-satelliten-100.html"
     }
    ]
   },
@@ -1119,14 +1629,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-29T09:39:12+00:00",
-   "img": "https://images.tagesschau.de/image/0676a960-eff1-4b54-8fe9-166d49a46b54/AAABohfTYPg/AAABnSSvrFg/16x9-big/razzia-polizei-140.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Rechtsextremistische Chatgruppe \"Terror 18\" - Drei Teenager unter Terrorverdacht festgenommen - zwei Beschuldigte wieder auf freiem Fuß",
-     "link": "https://www.deutschlandfunk.de/drei-teenager-unter-terrorverdacht-festgenommen-zwei-beschuldigte-wieder-auf-freiem-fuss-100.html"
-    }
-   ]
+   "img": "https://images.tagesschau.de/image/0676a960-eff1-4b54-8fe9-166d49a46b54/AAABohfTYPg/AAABnSSvrFg/16x9-big/razzia-polizei-140.jpg?width=1920"
   },
   {
    "id": "n5539dc48d3",
@@ -1217,14 +1720,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-28T03:16:46+00:00",
-   "img": "https://bilder.deutschlandfunk.de/86/e3/24/fb/86e324fb-539f-454a-aeef-f6d48d292abb/prostitution-104-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Expertenkommission fordert schärfere Regeln für Prostitution",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/neue-regeln-fuer-prostituition-empfehlungen-100.html"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/86/e3/24/fb/86e324fb-539f-454a-aeef-f6d48d292abb/prostitution-104-1920x1920.jpg"
   },
   {
    "id": "n421c419def",
@@ -1251,559 +1747,6 @@
    "lang": "de",
    "expires": "2026-11-28T03:16:46+00:00",
    "img": "https://bilder.deutschlandfunk.de/FI/LE/_b/37/FILE_b376d13ed471e4fddc98840297313a2b/dsc-7815-jpg-100-768x768.jpg"
-  },
-  {
-   "id": "n4c03fba804",
-   "topic": "politik",
-   "title": "Brüssel - EU-Staats- und Regierungschefs beraten über Haushalt - Kanzler Merz drängt auf gemeinsame Finanzierung neuer Ukraine-Hilfen",
-   "text": "Die Staats- und Regierungschefs der Europäischen Union kommen heute zu einem zweitägigen Sondergipfel in Brüssel zusammen.",
-   "link": "https://www.deutschlandfunk.de/eu-staats-und-regierungschefs-beraten-ueber-haushalt-kanzler-merz-draengt-auf-gemeinsame-finanzierun-100.html",
-   "published": "2026-11-26T03:16:46+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-28T03:16:46+00:00",
-   "img": "https://bilder.deutschlandfunk.de/8b/b5/4c/78/8bb54c78-27c8-4caa-a09c-34e52bf8bbf2/eu-rat-bundeskanler-merz-100-1920x1920.jpg"
-  },
-  {
-   "id": "nba5b204d95",
-   "topic": "nfl",
-   "title": "Christian Watson ruled out with a concussion",
-   "text": "Rams safety Kamren Kinchens was disqualified for the hit that injured Watson.",
-   "link": "https://sports.yahoo.com/nfl/articles/christian-watson-ruled-concussion-030945116.html",
-   "published": "2026-11-26T03:09:45+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-12-01T03:09:45+00:00"
-  },
-  {
-   "id": "nec0da6f233",
-   "topic": "nfl",
-   "title": "NFL on Thanksgiving halftime shows: Ranking the 10 most memorable performances",
-   "text": "A look at some of the most iconic performances from Turkey Days of the past",
-   "link": "https://www.cbssports.com/nfl/news/nfl-thanksgiving-2026-ranking-most-memorable-halftime-shows/",
-   "published": "2026-11-26T03:04:30+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-12-01T03:04:30+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/11/25/169e8487-51eb-4364-aacb-5d3a4a9fe0b8/thanksgiving-halftime.jpg"
-  },
-  {
-   "id": "nb0c71d0aa7",
-   "topic": "nfl",
-   "title": "Prisco's Week 12 NFL picks: Cowboys feast on Eagles, Bills win thriller over Chiefs",
-   "text": "Pete Prisco reveals all of his Week 12 picks, including the Steelers to upset the Broncos on Black Friday",
-   "link": "https://www.cbssports.com/nfl/news/pete-priscos-week-12-nfl-picks-odds-expert-picks/",
-   "published": "2026-11-26T03:02:15+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-12-01T03:02:15+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/11/13/0b5ba0fb-e8bd-4ba2-af0f-bb818b648aaa/josh-allen-buffalo-bills-imagn-images.jpg"
-  },
-  {
-   "id": "n1018258be0",
-   "topic": "it",
-   "title": "1Password: Kundendaten entfleucht",
-   "text": "Warum die Datenbank hacken, wenn man das Backend umschreiben kann? Kundendaten 1Passwords sind in unbefugte Hände gelangt. Obacht vor Phishing!",
-   "link": "https://www.heise.de/news/1Password-Kundendaten-entfleucht-11538455.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-26T02:11:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-12-01T02:11:00+00:00"
-  },
-  {
-   "id": "n493ef3f04c",
-   "topic": "wirtschaft",
-   "title": "SpaceX darf eine Million Satelliten für KI-Rechenzentren ins All schicken",
-   "text": "SpaceX plant im All ein Netz aus Satelliten, die als Rechenzentren dienen sollen. Die US-Behörden haben das Vorhaben nun erlaubt. Ziel ist es, die enorme Nachfrage nach Rechenleistung für Künstliche Intelligenz zu befriedigen.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-eine-million-satelliten-100.html",
-   "published": "2026-11-26T01:58:55+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-29T01:58:55+00:00",
-   "img": "https://images.tagesschau.de/image/ee1320b8-70a0-4194-b749-b4edd868901c/AAABohVSmy8/AAABnSSvrFg/16x9-big/spacex-326.jpg?width=1920",
-   "also": [
-    {
-     "source": "THE DECODER",
-     "title": "US-Behörde genehmigt SpaceX eine Million Satelliten für KI-Rechenzentren im All",
-     "link": "https://the-decoder.de/us-behoerde-genehmigt-spacex-eine-million-satelliten-fuer-ki-rechenzentren-im-all/"
-    },
-    {
-     "source": "Deutsche Welle",
-     "title": "KI-Rechenzentren im All: Eine Million Satelliten und Probleme",
-     "link": "https://www.dw.com/de/ki-rechenzentren-im-all-eine-million-satelliten-und-probleme/a-80057290?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n577324c9d1",
-   "topic": "it",
-   "title": "Datenschutzfreundliches DNS: Quad9 schließt Frankreich aus",
-   "text": "Der schweizerische DNS-Vermittler blockiert seit Dienstag Abfragen aus Frankreich. Grund ist ein Zensururteil, erstritten von beIN aus Katar.",
-   "link": "https://www.heise.de/news/Datenschutzfreundliches-DNS-Quad9-schliesst-Frankreich-aus-11538423.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-25T22:32:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-30T22:32:00+00:00"
-  },
-  {
-   "id": "n938030550a",
-   "topic": "it",
-   "title": "Homeoffice: Österreichische Arbeitgeber müssen für Internetanschluss zahlen",
-   "text": "Arbeitnehmer im Homeoffice haben in Österreich Anspruch auf teilweisen Ersatz der Kosten ihres Internetanschlusses. Auch wenn sie freiwillig zu Hause arbeiten.",
-   "link": "https://www.heise.de/news/Homeoffice-Oesterreichische-Arbeitgeber-muessen-fuer-Internetanschluss-zahlen-11538363.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-25T21:30:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-30T21:30:00+00:00"
-  },
-  {
-   "id": "n8c0d58ab66",
-   "topic": "welt",
-   "title": "Ägypten: Mindestens 30 Tote bei Großbrand auf Autobahn in Gizeh",
-   "text": "Ein mit Gasflaschen beladener Lkw hat bei einem Unfall auf einer Autobahn in der ägyptischen Stadt Gizeh einen Großbrand ausgelöst. Mindestens 30 Menschen starben bei dem Unglück, viele wurden verletzt.",
-   "link": "https://www.tagesschau.de/ausland/afrika/aegypten-brand-gizeh-tote-100.html",
-   "published": "2026-11-25T21:10:04+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-28T21:10:04+00:00",
-   "img": "https://images.tagesschau.de/image/375a2712-4ace-4f86-8427-3a1086acaa7d/AAABohSLUM0/AAABnSSvrFg/16x9-big/aegypten-grossbrand-100.jpg?width=1920"
-  },
-  {
-   "id": "n67e8b7793b",
-   "topic": "politik",
-   "title": "Streit um \"Rente mit 63\": Unionsabgeordnete schlagen \"Respekt-Rente\" vor",
-   "text": "Im Streit um die \"Rente mit 63\" gehen Unionsabgeordnete mit einem Kompromiss auf die SPD zu: Sie schlagen eine \"Respekt-Rente\" vor. Für Menschen mit kleinem Einkommen soll die abschlagsfreie Frühverrentung bestehen bleiben.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/rente-kompromiss-koalition-100.html",
-   "published": "2026-11-25T20:40:23+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-28T20:40:23+00:00",
-   "img": "https://images.tagesschau.de/image/07ecf457-1226-48da-b757-ae26a7a83fdf/AAABoUZVZxQ/AAABnSSvrFg/16x9-big/winkel-106.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "\"Respekt-Rente\" - Kompromissvorschlag aus der Union im Streit über \"Rente mit 63\" - gemischte Reaktionen der SPD",
-     "link": "https://www.deutschlandfunk.de/kompromissvorschlag-aus-der-union-im-streit-ueber-rente-mit-63-gemischte-reaktionen-der-spd-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n6b9f41b08a",
-   "topic": "ki",
-   "title": "US-Strategie gegen Chinas KI-Aufholjagd zeigt laut Bericht erste Wirkung",
-   "text": "Chip-Sperren, Anti-Destillation, schwindender Zugang zu Nvidia-Hardware im Ausland: Laut einem Bericht geraten Deepseek, Moonshot AI und Alibaba zunehmend unter Druck. Deepseek-Forscher schätzen den Rückstand auf US-Modelle intern bereits auf bis zu neun Monate, Tendenz steigend. Der Artikel US-Strategie gegen Chinas …",
-   "link": "https://the-decoder.de/us-strategie-gegen-chinas-ki-aufholjagd-zeigt-laut-bericht-erste-wirkung/",
-   "published": "2026-11-25T20:34:02+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-12-02T20:34:02+00:00"
-  },
-  {
-   "id": "nc9414ab901",
-   "topic": "politik",
-   "title": "Asteroidenabwehr: Esa-Sonde Hera zeigt menschengemachten Einschlagskrater",
-   "text": "Können Menschen einen Asteroiden auf Kollisionskurs mit der Erde ablenken? Erste Tests wurden schon gemacht. Eine aus Darmstadt gesteuerte Sonde der Esa lieferte jetzt spektakuläre Bilder und Ergebnisse dieser historischen Mission.",
-   "link": "https://www.hessenschau.de/panorama/asteroidenabwehr-esa-sonde-hera-zeigt-menschengemachten-einschlagskrater--v1,hera-ankunft-100.html",
-   "published": "2026-11-25T20:16:58+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-29T20:16:58+00:00",
-   "img": "https://www.hessenschau.de/panorama/hera-didymos-dimorphos-100~_t-1795637817966_v-16to9.png",
-   "tag": "Hessen"
-  },
-  {
-   "id": "n6f307af62b",
-   "topic": "welt",
-   "title": "Haushalt 2027: Rekordschulden verschärfen den Streit in der Koalition",
-   "text": "Der Bundeshaushalt erreicht neue Höchststände, während Rentenkassen, Verteidigung und schwache Konjunktur den Druck erhöhen. Zugleich wachsen die Spannungen zwischen Union und SPD über den künftigen Kurs.",
-   "link": "https://www.dw.com/de/haushalt-2027-rekordschulden-verschärfen-den-streit-in-der-koalition/a-80048368?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-25T20:02:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-29T20:02:00+00:00",
-   "img": "https://static.dw.com/image/80044498_302.jpg"
-  },
-  {
-   "id": "n37f523ef85",
-   "topic": "ki",
-   "title": "Anthropic-CEO Amodei wehrt sich gegen Vorwurf der Machtübergabe an KI",
-   "text": "Anthropic-CEO Dario Amodei wehrt sich gegen einen Axios-Bericht, wonach Mitarbeiter eine Machtübergabe an superintelligente Systeme für unvermeidlich halten. Governance durch KI sei \"genauso schlecht wie Autokratie\", so Amodei. Der Artikel Anthropic-CEO Amodei wehrt sich gegen Vorwurf der Machtübergabe an KI erschien …",
-   "link": "https://the-decoder.de/anthropic-ceo-amodei-wehrt-sich-gegen-vorwurf-der-machtuebergabe-an-ki/",
-   "published": "2026-11-25T19:55:50+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-12-02T19:55:50+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/09/anthropic_amodei.png"
-  },
-  {
-   "id": "nff9e360c24",
-   "topic": "welt",
-   "title": "Bestechungsvorwurf gegen Netanjahu könnte fallen gelassen werden",
-   "text": "Seit Jahren muss sich Israels Premier wegen Betrugs, Untreue und Bestechlichkeit vor Gericht verantworten. Jetzt haben Richter empfohlen, den letzten Anklagepunkt fallen zu lassen. Netanjahu sieht den ganzen Prozess als gescheitert.",
-   "link": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-korruptionsvorwuerfe-100.html",
-   "published": "2026-11-25T19:50:08+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-28T19:50:08+00:00",
-   "img": "https://images.tagesschau.de/image/847c043d-5aa0-49a9-900c-a52053a5a18e/AAABohQQeJM/AAABnSSvrFg/16x9-big/netanjahu-424.jpg?width=1920"
-  },
-  {
-   "id": "ne69553a6f4",
-   "topic": "wirtschaft",
-   "title": "Wirtschaft vor acht vom 25.11.2026",
-   "text": "Wirtschaft vor acht vom 25.11.2026",
-   "link": "https://www.tagesschau.de/video/video-1689964.html",
-   "published": "2026-11-25T19:49:52+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-28T19:49:52+00:00",
-   "img": "https://images.tagesschau.de/image/43cea2fe-c598-4656-bc1c-ffe14b8fa87e/AAABohRB5Ks/AAABnSSvrFg/16x9-big/sendungsbild-1833140.jpg?width=1920"
-  },
-  {
-   "id": "n4d08f1dfdf",
-   "topic": "welt",
-   "title": "Proteste gegen Gewalt an Frauen in Istanbul verboten",
-   "text": "Frauenrechtsorganisationen wollten in Istanbul gegen Gewalt an Frauen demonstrieren. Doch nach dem Demoaufruf wurden die Proteste verboten. Dennoch gingen am Abend zahlreiche Menschen auf die Straße.",
-   "link": "https://www.tagesschau.de/ausland/europa/tuerkei-orange-day-demo-verboten-100.html",
-   "published": "2026-11-25T19:36:24+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-28T19:36:24+00:00",
-   "img": "https://images.tagesschau.de/image/63f26e5b-f6b8-42ea-a783-30e1ba5708bc/AAABohQMMw4/AAABnSSvrFg/16x9-big/istanbul-demo-112.jpg?width=1920"
-  },
-  {
-   "id": "n12ea552c6c",
-   "topic": "politik",
-   "title": "Expertenkommission fordert schärfere Regeln für Prostitution",
-   "text": "Mehr Schutz vor Gewalt und Ausbeutung - Zwangsprostitution und Menschenhandel wirksamer bekämpfen: Die schwarz-rote Koalition will Prostitution neu regeln. Eine Expertenkommission empfiehlt nun strengere Regeln.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/neue-regeln-fuer-prostituition-empfehlungen-100.html",
-   "published": "2026-11-25T19:14:28+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-28T19:14:28+00:00",
-   "img": "https://images.tagesschau.de/image/9a213a40-dd68-439e-b51e-09a7da050841/AAABk9ScWlg/AAABnSSvrFg/16x9-big/prostitution-highheels-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Nach dem Bericht der Expertenkommission - Forderungen aus Union und von Grünen nach komplettem Verbot von Prostitution",
-     "link": "https://www.deutschlandfunk.de/forderungen-aus-union-und-von-gruenen-nach-komplettem-verbot-von-prostitution-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n6899225c6e",
-   "topic": "nfl",
-   "title": "Aaron Rodgers: Mike McCarthy fell asleep in meeting last week, broke down Steelers with \"1-2-3 Packers\"",
-   "text": "Rodgers's first comments since being benched by the Steelers came on The Pat McAfee Show.",
-   "link": "https://sports.yahoo.com/nfl/articles/aaron-rodgers-mike-mccarthy-fell-190649331.html",
-   "published": "2026-11-25T19:06:49+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-30T19:06:49+00:00"
-  },
-  {
-   "id": "n2c22309239",
-   "topic": "nfl",
-   "title": "Miami Dolphins fan confidence survey – Week 12 2026",
-   "text": "Our SB Nation Reacts fan confidence survey returns for the Miami Dolphins in Week 12.",
-   "link": "https://sports.yahoo.com/nfl/articles/miami-dolphins-fan-confidence-survey-190537701.html",
-   "published": "2026-11-25T19:05:37+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-30T19:05:37+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/f69fd61341c876bd45574240ea9f12e6.jpg"
-  },
-  {
-   "id": "na17e75c4ba",
-   "topic": "it",
-   "title": "Black-Friday-Deals im Check: Bei Mini-PC und Laptop trotz Speicherkrise sparen",
-   "text": "Zum Black Friday locken Online-Händler mit vermeintlich hohen Rabatten auf Mini-PCs und Laptops. Aber welche Angebote lohnen sich? Wir prüfen die Preise.",
-   "link": "https://www.heise.de/bestenlisten/deals/black-friday-deals-im-check-bei-mini-pc-und-laptop-trotz-speicherkrise-sparen/vxmjgm8?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-25T19:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-30T19:00:00+00:00"
-  },
-  {
-   "id": "n169a88e697",
-   "topic": "politik",
-   "title": "\"Respekt-Rente\" - Union schlägt Kompromiss im Streit um \"Rente mit 63\" vor",
-   "text": "Die Union hat im koalitionsinternen Streit um die abschlagsfreie Frühverrentung nach 45 Beitragsjahren einen Kompromissvorschlag vorgelegt. Ein entsprechendes Papier liegt unserem Hauptstadtstudio vor.",
-   "link": "https://www.deutschlandfunk.de/union-schlaegt-kompromiss-im-streit-um-rente-mit-63-vor-100.html",
-   "published": "2026-11-25T18:56:09+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-27T18:56:09+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Streit um \"Rente mit 63\": Unionsabgeordnete schlagen \"Respekt-Rente\" vor",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/rente-kompromiss-koalition-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n17d5a94a6a",
-   "topic": "politik",
-   "title": "Rechtsextremistische Chatgruppe \"Terror 18\" - Drei Teenager unter Terrorverdacht festgenommen - zwei Beschuldigte wieder auf freiem Fuß",
-   "text": "Nach der Festnahme von drei mutmaßlichen Mitgliedern einer rechtsextremistischen Terrorgruppe sind zwei der Beschuldigten wieder auf freiem Fuß. Ein Ermittlungsrichter am Amtsgericht Helmstedt sowie sein Amtskollege am Bundesgerichtshof in Karlsruhe setzten die Haftbefehle unter Auflagen außer Vollzug, wie eine …",
-   "link": "https://www.deutschlandfunk.de/drei-teenager-unter-terrorverdacht-festgenommen-zwei-beschuldigte-wieder-auf-freiem-fuss-100.html",
-   "published": "2026-11-25T18:56:09+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-27T18:56:09+00:00",
-   "img": "https://bilder.deutschlandfunk.de/86/b7/c8/1e/86b7c81e-2a78-455c-a1b0-bb29cdd261fc/bundesanwaltschaft-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Terrorverdacht - zwei Iraker in Köln und Heidelberg festgenommen",
-     "link": "https://www.tagesschau.de/inland/gesellschaft/terrorverdacht-festnahmen-102.html"
-    }
-   ]
-  },
-  {
-   "id": "nbcda9273d0",
-   "topic": "politik",
-   "title": "Trump-Regierung - USA kündigen neue Zölle gegen EU, China und andere Handelspartner an",
-   "text": "Die US-Regierung ‌plant ⁠neue Zölle ⁠gegen die Europäische Union und 13 weitere Wirtschaftspartner. Der Handelsbeauftragte Greer kündigte die Sonderabgaben nach dem Abschluss einer Untersuchung an, die sich mit unfairen Praktiken befasst habe.",
-   "link": "https://www.deutschlandfunk.de/usa-kuendigen-neue-zoelle-gegen-eu-china-und-andere-handelspartner-an-100.html",
-   "published": "2026-11-25T18:56:09+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-27T18:56:09+00:00",
-   "img": "https://bilder.deutschlandfunk.de/d7/c4/78/16/d7c47816-207e-43fd-921d-b08f9707d643/donald-trump-262-1920x1920.jpg"
-  },
-  {
-   "id": "nde722c89b8",
-   "topic": "politik",
-   "title": "Brüssel - EU-Kommission weist Begründung für neue US-Zölle zurück",
-   "text": "Die EU-Kommission hat die von Washington angegebene Begründung für neue US-Zölle zurückgewiesen.",
-   "link": "https://www.deutschlandfunk.de/eu-kommission-weist-begruendung-fuer-neue-us-zoelle-zurueck-100.html",
-   "published": "2026-11-25T18:56:09+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-27T18:56:09+00:00",
-   "img": "https://bilder.deutschlandfunk.de/30/81/e1/99/3081e199-1d17-418a-9406-19fe7c78d12c/eu-kommission-bruessel-102-1920x1920.jpg"
-  },
-  {
-   "id": "n020927c9a3",
-   "topic": "politik",
-   "title": "Europäisches Parlament - Neue Regeln gegen Engpässe bei Medikamenten - Beipackzettel künftig auch per QR-Code",
-   "text": "Das Europäische Parlament hat neue Maßnahmen zur Sicherung der Arzneimittelversorgung beschlossen.",
-   "link": "https://www.deutschlandfunk.de/neue-regeln-gegen-engpaesse-bei-medikamenten-beipackzettel-kuenftig-auch-per-qr-code-100.html",
-   "published": "2026-11-25T18:56:09+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-27T18:56:09+00:00",
-   "img": "https://bilder.deutschlandfunk.de/69/14/08/3e/6914083e-9cf9-4d5e-9de9-4785c61da216/apothekerschrank-apotheke-medikamente-100-1920x1920.jpg"
-  },
-  {
-   "id": "nda01599bc2",
-   "topic": "politik",
-   "title": "Fachtagung in Frankfurt - Drogenbeauftragter Streeck: Kommunen mit Crack-Problemen nicht alleine lassen",
-   "text": "er Bundesdrogenbeauftragte Streeck hat sich für eine niedrigschwellige Unterstützung für Crack-Abhängige ausgesprochen. Der CDU-Politiker äußerte sich in einer Videobotschaft auf einer Fachtagung in Frankfurt am Main.",
-   "link": "https://www.deutschlandfunk.de/drogenbeauftragter-streeck-kommunen-mit-crack-problemen-nicht-alleine-lassen-100.html",
-   "published": "2026-11-25T18:56:09+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-27T18:56:09+00:00",
-   "img": "https://bilder.deutschlandfunk.de/NO/VA/_d/71/NOVA_d7193477c7c24a4e50d5fe04852d518b/craft-13526729-asset-100-1920x1920.jpg"
-  },
-  {
-   "id": "n811f55aa0a",
-   "topic": "it",
-   "title": "GSM-R-Nachfolger: Fünf Teststrecken mit FRMCS",
-   "text": "Mit einer „Provisional Spec“ bewegt sich FRMCS in Richtung der finalen Version. Dabei sollen mehrere Pilotprojekte in verschiedenen Ländern helfen.",
-   "link": "https://www.heise.de/news/GSM-R-Nachfolger-Fuenf-Teststrecken-mit-FRMCS-11538285.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-25T18:31:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-30T18:31:00+00:00"
-  },
-  {
-   "id": "n43c0dc9440",
-   "topic": "nfl",
-   "title": "Biggest questions on Aaron Rodgers benching: Why did Steelers make abrupt quarterback change?",
-   "text": "Pittsburgh made a difficult decision while setting in motion their plans for the QB position moving forward",
-   "link": "https://www.cbssports.com/nfl/news/steelers-bench-aaron-rodgers-why-and-what-it-means-mason-rudolph/",
-   "published": "2026-11-25T18:24:16+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-11-30T18:24:16+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/11/25/fbb25eac-7a17-4b5e-b348-474eb05c28ab/mccarthyrudolph.jpg"
-  },
-  {
-   "id": "n4752408ed5",
-   "topic": "ki",
-   "title": "OpenAI will Firmendaten mit Private Inference vor sich selbst verstecken",
-   "text": "Unternehmen sollen OpenAIs stärkste Modelle auch für vertrauliche Aufgaben nutzen können, ohne dass OpenAI die Daten zu sehen bekommt. Der Artikel OpenAI will Firmendaten mit Private Inference vor sich selbst verstecken erschien zuerst auf The Decoder .",
-   "link": "https://the-decoder.de/openai-will-firmendaten-mit-private-inference-vor-sich-selbst-verstecken/",
-   "published": "2026-11-25T18:22:02+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-12-02T18:22:02+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/openai_altman.png"
-  },
-  {
-   "id": "naebd3b2acb",
-   "topic": "politik",
-   "title": "Ukraine-Hilfe polarisiert die Generaldebatte im Bundestag",
-   "text": "Im Bundestag wurde über den Haushalt 2027 debattiert. Darin auch enthalten: rund zwölf Milliarden Euro Ukraine-Hilfe. Für die AfD ist das eine Veruntreuung von Steuergeldern, für Kanzler Merz die Verteidigung \"unserer Freiheit\". Von Nicole Markwald.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-generaldebatte-ukraine-hilfe-100.html",
-   "published": "2026-11-25T18:10:19+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-28T18:10:19+00:00",
-   "img": "https://images.tagesschau.de/image/bcd27a52-99f9-4134-9b94-9d8b22e471c4/AAABohPD-PQ/AAABnSSvrFg/16x9-big/merz-weidel-114.jpg?width=1920"
-  },
-  {
-   "id": "nbb12597ddb",
-   "topic": "politik",
-   "title": "Sexualstrafverfahren in Hessen: Minister will immer eine Frau auf der Richterbank",
-   "text": "Weibliche Opfer von Gewalttaten sollen vor hessischen Landgerichten künftig nicht mehr einer rein männlich besetzten Richterbank gegenübersitzen. Dafür will Hessens Justizminister das Richtergesetz anpassen. Außerdem plant er eine weitere Bundesratsinitiative zum Thema Partnerschaftsgewalt.",
-   "link": "https://www.hessenschau.de/politik/sexualstrafverfahren-in-hessen-minister-will-immer-eine-frau-auf-der-richterbank-v1,orange-day-justiz-100.html",
-   "published": "2026-11-25T17:58:07+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-29T17:58:07+00:00",
-   "img": "https://www.hessenschau.de/panorama/landgericht-frankfurt-116~_t-1795629486896_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "n179ca2976f",
-   "topic": "wirtschaft",
-   "title": "TK-Gesundheitsreport Weiblich, mittelalt, leistungsstark - öfter krank?",
-   "text": "Im neuen Gesundheitsreport blickt die Techniker Krankenkasse auf die Situation von Frauen zwischen 35 und 55. Sie sind eine wichtige Gruppe von Arbeitnehmerinnen - und häufiger krank als gleichaltrige Männer. Von A. Kartschall.",
-   "link": "https://www.tagesschau.de/wirtschaft/gesundheit-frauen-wechseljahre-arbeitsplatz-100.html",
-   "published": "2026-11-25T17:37:52+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-28T17:37:52+00:00",
-   "img": "https://images.tagesschau.de/image/89d58984-3c83-48fc-a0e9-3c89041b820c/AAABn7z6jLY/AAABnSSvrFg/16x9-big/frau-am-computer-104.jpg?width=1920"
-  },
-  {
-   "id": "n0521520182",
-   "topic": "wissenschaft",
-   "title": "Asteroiden-Abwehr - einfach schießen und hoffen reicht nicht",
-   "text": "Was tun, wenn ein Asteroid auf die Erde zusteuert? Die Sonde \"Hera\" untersucht einen Asteroiden, an dem so ein Abwehrversuch getestet wurde. Noch fehlen viele Informationen, klar ist aber: Einfach wird das nicht. Von David Beck.",
-   "link": "https://www.tagesschau.de/wissen/sonde-hera-asteroid-100.html",
-   "published": "2026-11-25T17:30:09+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-12-09T17:30:09+00:00",
-   "img": "https://images.tagesschau.de/image/9b19d595-4f81-4faa-afa8-da07ce146ae8/AAABohNpmOQ/AAABnSSvrFg/16x9-big/didymos-asteroid-100.jpg?width=1920"
-  },
-  {
-   "id": "nd8b85dcc75",
-   "topic": "wissenschaft",
-   "title": "Spuren des Einschlags der DART-Mission: Hera-Sonde entdeckt riesigen Krater auf Dimorphos",
-   "text": "Am Abend des 25. November 2026 stellte die ESA neue Bilder der Hera-Sonde vor. Sie zeigen den riesigen Krater, den die NASA-Sonde DART auf Dimorphos hinterlassen hat.",
-   "link": "https://www.spektrum.de/news/spuren-des-einschlags-hera-entdeckt-riesigen-krater-auf-dimorphos/2356073",
-   "published": "2026-11-25T17:30:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-12-09T17:30:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/Ausschnitt_3.jpg.8428752.jpg?f=1280x720",
-   "also": [
-    {
-     "source": "heise online",
-     "title": "Nach Einschlag von Dart: Hera findet riesigen Krater auf Asteroiden Dimorphos",
-     "link": "https://www.heise.de/news/Weltraumsonde-Hera-entdeckt-hunderte-Mini-Asteroiden-rund-um-Dimorphos-11538102.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    }
-   ]
-  },
-  {
-   "id": "n605456381e",
-   "topic": "it",
-   "title": "Nach Einschlag von Dart: Hera findet riesigen Krater auf Asteroiden Dimorphos",
-   "text": "Die Asteroidensonde Hera hat bei Didymos und Dimorphos nicht nur einen deutlich sichtbaren Krater nach dem Einschlag der NASA-Sonde Dart entdeckt.",
-   "link": "https://www.heise.de/news/Weltraumsonde-Hera-entdeckt-hunderte-Mini-Asteroiden-rund-um-Dimorphos-11538102.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-25T17:30:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-30T17:30:00+00:00",
-   "also": [
-    {
-     "source": "Spektrum der Wissenschaft",
-     "title": "Spuren des Einschlags der DART-Mission: Hera-Sonde entdeckt riesigen Krater auf Dimorphos",
-     "link": "https://www.spektrum.de/news/spuren-des-einschlags-hera-entdeckt-riesigen-krater-auf-dimorphos/2356073"
-    }
-   ]
-  },
-  {
-   "id": "n83a23f91a1",
-   "topic": "it",
-   "title": "Wirtschaftskrieg: US-Gericht muss Huawei in wichtigsten Anklagepunkten freisprechen",
-   "text": "Ein US-Geschworenengericht hat Huawei schuldig gesprochen. Die wichtigsten Anklagepunkte wurden aber fallengelassen. Eine Analyse von Achim Sawall ( Huawei , Wirtschaft )",
-   "link": "https://www.golem.de/news/wirtschaftskrieg-us-gericht-muss-huawei-in-wichtigsten-anklagepunkten-freisprechen-2611-215662.html",
-   "published": "2026-11-25T17:22:01+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-30T17:22:01+00:00",
-   "img": "https://www.golem.de/2611/215662-610662-610660_rc.jpg"
-  },
-  {
-   "id": "n04b6346ed2",
-   "topic": "it",
-   "title": "(g+) Security: Die iranische Hackereinheit hinter den Kühlanlagen-Angriffen",
-   "text": "Die FT rekonstruiert mit Geheimdiensterkenntnissen und Expertenaussagen, wer mutmaßlich hinter den Angriffen auf Supermarkt-Kühlanlagen steckt. Von Tom Wilson ( Security , Stuxnet )",
-   "link": "https://www.golem.de/news/security-die-iranische-hackereinheit-hinter-den-kuehlanlagen-angriffen-2611-215660.html",
-   "published": "2026-11-25T17:00:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-11-30T17:00:02+00:00",
-   "img": "https://www.golem.de/2611/215660-610647-610645_rc.jpg"
-  },
-  {
-   "id": "nf9d7740a29",
-   "topic": "welt",
-   "title": "EU-Kommission erlaubt weiter Staatshilfen für Landwirte und Industrie",
-   "text": "Landwirte, Industrie und andere Unternehmen können wegen der anhaltenden Energiekrise weiterhin mit staatlichen Zuschüssen rechnen. Laut EU-Kommission bleibt es bis mindestens Ende Juni 2027 bei den gelockerten Regeln zur Beihilfe.",
-   "link": "https://www.tagesschau.de/ausland/europa/eu-staatshilfen-landwirte-industrie-100.html",
-   "published": "2026-11-25T16:29:03+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-28T16:29:03+00:00",
-   "img": "https://images.tagesschau.de/image/e02351ee-1433-42eb-9fb6-54de41ffc89e/AAABohNm188/AAABnSSvrFg/16x9-big/landwirt-duengemittel-100.jpg?width=1920"
   }
  ]
 }
