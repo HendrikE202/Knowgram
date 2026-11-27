@@ -1,55 +1,610 @@
 {
- "generated": "2026-11-27T12:22:22.989737+00:00",
+ "generated": "2026-11-27T23:27:58.577512+00:00",
  "briefing": [
   "n4ff0803a12",
+  "n0ae101d09a",
   "n0b5b8c5303",
   "nbad694a1e7",
-  "n5539dc48d3",
   "n67e9094c70",
-  "n96a1c8e728",
-  "n45564890f1",
-  "n0b1a6a8ec7",
-  "nfdfe02ce09"
+  "n31c635a9b9",
+  "ndc8842be40",
+  "ncd36d8c29b",
+  "n28a9a6cb2e"
  ],
  "ranked": [
   {
    "id": "n4ff0803a12",
-   "s": 37.7
+   "s": 34.9
+  },
+  {
+   "id": "n0ae101d09a",
+   "s": 30.6
   },
   {
    "id": "n0b5b8c5303",
-   "s": 31.6
+   "s": 28.9
   },
   {
    "id": "nbad694a1e7",
-   "s": 29.3
-  },
-  {
-   "id": "n5539dc48d3",
    "s": 27.0
   },
   {
    "id": "n67e9094c70",
-   "s": 26.0
+   "s": 23.2
   },
   {
-   "id": "n96a1c8e728",
-   "s": 23.0
+   "id": "n31c635a9b9",
+   "s": 22.8
   },
   {
-   "id": "n45564890f1",
-   "s": 23.0
+   "id": "ndc8842be40",
+   "s": 22.5
   },
   {
-   "id": "n0b1a6a8ec7",
-   "s": 22.7
+   "id": "ncd36d8c29b",
+   "s": 20.9
   },
   {
-   "id": "nfdfe02ce09",
-   "s": 22.6
+   "id": "n28a9a6cb2e",
+   "s": 20.4
   }
  ],
  "items": [
+  {
+   "id": "n00f1d0db2a",
+   "topic": "nfl",
+   "title": "Winners and Losers from the Denver Broncos 27-5 loss to the Pittsburgh Steelers",
+   "text": "That was ugly. The Broncos were dominated by the Steelers. The offense had its worst overall effort in a long time; Nix had three turnovers, with two of them leading to Steelers touchdowns, and they only managed 5 points, with two of those points coming from an Alex Singleton safety. It was all bad. The […]",
+   "link": "https://sports.yahoo.com/nfl/articles/winners-losers-denver-broncos-27-230700434.html",
+   "published": "2026-11-27T23:07:00+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-12-02T23:07:00+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/cb854d45e37224c742f137146fbd8463.jpg"
+  },
+  {
+   "id": "n43701b9eda",
+   "topic": "nfl",
+   "title": "T.J. Watt, Steelers defense make statement in first game without Aaron Rodgers",
+   "text": "Pittsburgh's running game remains a bit of a concern, but the defense scoring a pair of touchdowns helped a lot as the Steelers got back in the win column.",
+   "link": "https://sports.yahoo.com/nfl/articles/t-j-watt-steelers-defense-230630754.html",
+   "published": "2026-11-27T23:06:30+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-12-02T23:06:30+00:00"
+  },
+  {
+   "id": "n24d7ad48c4",
+   "topic": "politik",
+   "title": "Warnung vor möglichen Giftstoffen: Großbrand bei Grillanzünder-Hersteller in Alsfeld",
+   "text": "Bei einem Grillanzünder-Hersteller in Alsfeld ist ein Großbrand ausgebrochen. Die Bevölkerung wurde vor dem starken und möglicherweise giftigen Rauch gewarnt. In dem Betrieb hat es vor knapp einem Jahr schon einmal gebrannt.",
+   "link": "https://www.hessenschau.de/panorama/warnung-vor-moeglichen-giftstoffen-grossbrand-bei-grillanzuender-hersteller-in-alsfeld-v1,grossbrand-alsfeld-100.html",
+   "published": "2026-11-27T23:05:37+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-12-01T23:05:37+00:00",
+   "img": "https://www.hessenschau.de/panorama/grossbrand-alsfeld-102~_t-1795820994359_v-16to9.jpg",
+   "tag": "Hessen"
+  },
+  {
+   "id": "n2027f10c3b",
+   "topic": "nfl",
+   "title": "NFL Week 12 grades for Black Friday and Thanksgiving: Steelers ace post Aaron Rodgers test",
+   "text": "Caleb Williams delivers late magic to Rome Odunze in a wild shootout, while Detroit's defense collapses and Jordan Love struggles without Christian Watson",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-12-grades-thanksgiving-bears-earn-b-packers-get-d/",
+   "published": "2026-11-27T22:58:05+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-12-02T22:58:05+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/11/26/d8aee4f8-2d54-4f4f-9309-8d6ec17e6685/rome.jpg"
+  },
+  {
+   "id": "n34e8862dac",
+   "topic": "politik",
+   "title": "Frankreich - Medienbericht: Durchsuchung in der Parteizentrale des Rassemblement National",
+   "text": "In Frankreich ist einem Medienbericht zufolge in der Parteizentrale des Rassemblement National das Büro des Wahlprogrammkoordinators der Präsidentschaftskandidatin Le Pen durchsucht worden.",
+   "link": "https://www.deutschlandfunk.de/medienbericht-durchsuchung-in-der-parteizentrale-des-rassemblement-national-104.html",
+   "published": "2026-11-27T22:48:57+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-29T22:48:57+00:00",
+   "img": "https://bilder.deutschlandfunk.de/e1/06/7d/e2/e1067de2-6230-41ae-943b-92085b1ff504/die-nachrichten-kachel-2176-zu1224-100-768x768.jpg"
+  },
+  {
+   "id": "n31c635a9b9",
+   "topic": "politik",
+   "title": "Sozialpolitik - Entwurf aus Arbeitsministerium: Abschlagsfreie Rente nach 45 Jahren soll erhalten bleiben",
+   "text": "Bundesarbeitsminister Schweitzer plant, die abschlagsfreie Rente nach 45 Versicherungsjahren beizubehalten. Die Voraussetzungen dafür will der SPD-Politiker aber verschärfen. Demnach sollen künftig Zeiten des Bezugs von Arbeitslosen-, Kranken- und Übergangsgeld ebenso wenig angerechnet werden wie Minijobs und …",
+   "link": "https://www.deutschlandfunk.de/entwurf-aus-arbeitsministerium-abschlagsfreie-rente-nach-45-jahren-soll-erhalten-bleiben-102.html",
+   "published": "2026-11-27T22:48:57+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-29T22:48:57+00:00",
+   "img": "https://bilder.deutschlandfunk.de/35/0f/87/25/350f8725-adb7-45f5-b32b-e9438869034e/bundestag-bundesarbeitsminister-alexander-schweitzer-beratungen-haushalt-100-1920x1920.jpg"
+  },
+  {
+   "id": "nf20e20cf47",
+   "topic": "politik",
+   "title": "Bundeskongress - Juso-Chef: Kein Mensch weiß, wofür die SPD heute steht",
+   "text": "Juso-Chef Türmer hat der SPD Orientierungs- und Mutlosigkeit vorgeworfen.",
+   "link": "https://www.deutschlandfunk.de/juso-chef-kein-mensch-weiss-wofuer-die-spd-heute-steht-106.html",
+   "published": "2026-11-27T22:48:57+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-29T22:48:57+00:00",
+   "img": "https://bilder.deutschlandfunk.de/f6/b2/ca/89/f6b2ca89-1f15-4a9c-960f-04a1eb745b45/jusos-100-1920x1920.jpg"
+  },
+  {
+   "id": "na1bb8164ac",
+   "topic": "politik",
+   "title": "Parteien - BSW-Parteitag in Dresden: Streit über Umgang mit der AfD",
+   "text": "Auf dem BSW-Bundesparteitag ringen die Delegierten über den künftigen Kurs.",
+   "link": "https://www.deutschlandfunk.de/bsw-parteitag-in-dresden-streit-ueber-umgang-mit-der-afd-110.html",
+   "published": "2026-11-27T22:48:57+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-29T22:48:57+00:00",
+   "img": "https://bilder.deutschlandfunk.de/f3/a6/b7/40/f3a6b740-7e00-4a43-b450-3e5a16b67fc5/bsw-108-1920x1920.jpg"
+  },
+  {
+   "id": "n46b7ebe48c",
+   "topic": "politik",
+   "title": "Spanien - Gekenterter Tanker soll in Hafen von Cartagena geschleppt werden",
+   "text": "Der gestern vor der spanischen Insel Ibiza gekenterte Tanker soll in den Hafen von Cartagena geschleppt werden.",
+   "link": "https://www.deutschlandfunk.de/gekenterter-tanker-soll-in-hafen-von-cartagena-geschleppt-werden-104.html",
+   "published": "2026-11-27T22:48:57+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-29T22:48:57+00:00",
+   "img": "https://bilder.deutschlandfunk.de/59/c4/d7/ce/59c4d7ce-379f-4d0b-a3b5-8ebb13d8a3ae/tanker-ibiza-med-emre-100-1920x1920.jpg"
+  },
+  {
+   "id": "n080fcfe92e",
+   "topic": "politik",
+   "title": "Fußball-Bundesliga - Werder Bremen - Borussia Mönchengladbach: 3:3",
+   "text": "Werder Bremen und Borussia Mönchengladbach haben sich im Freitagsspiel der Fußball-Bundesliga unentschieden getrennt. Die Partie endete 3:3. Damit bleibt Mönchengladbach Tabellenletzter.",
+   "link": "https://www.deutschlandfunk.de/werder-bremen-borussia-moenchengladbach-3-108.html",
+   "published": "2026-11-27T22:48:57+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-29T22:48:57+00:00",
+   "img": "https://bilder.deutschlandfunk.de/17/3f/9a/5e/173f9a5e-30e9-4ab0-ae1f-d1c2154282fe/bremen-moenchengladbach-bundesliga-100-1920x1920.jpg"
+  },
+  {
+   "id": "n8795fa634e",
+   "topic": "nfl",
+   "title": "Jaguars lose WR Parker Washington, RB Bhayshul Tuten to injury as playoffs draw near",
+   "text": "Jacksonville's top target is evaluated week-to-week with a shoulder issue, while leading rusher Bhayshul Tuten is also out",
+   "link": "https://www.cbssports.com/nfl/news/jaguars-wr-parker-washington-out-week-12-considered-week-to-week-shoulder-injury-playoffs/",
+   "published": "2026-11-27T22:21:36+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-12-02T22:21:36+00:00",
+   "img": "https://sportshub.cbsistatic.com/i/2026/11/27/756eb327-7740-4e0b-af62-30759c6dc6a0/pw.jpg"
+  },
+  {
+   "id": "nabd2e6a660",
+   "topic": "politik",
+   "title": "Schweitzer zu Plänen für Rentenreform: \"Wir können zusammenkommen\"",
+   "text": "In den tagesthemen hat Bundesarbeitsminister Schweitzer seine Rentenpläne als Grundlage für einen Konsens bezeichnet. Man stabilisiere damit die Beiträge und tue etwas \"für die Fleißigen, die lange gearbeitet haben\".",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/schweitzer-interview-100.html",
+   "published": "2026-11-27T22:10:29+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T22:10:29+00:00",
+   "img": "https://images.tagesschau.de/image/b577bb9c-63ef-4810-811f-dc952930859b/AAABoh7oXzo/AAABnSSvrFg/16x9-big/sendungsbild-1834182.jpg?width=1920"
+  },
+  {
+   "id": "n04fc7cf2e7",
+   "topic": "politik",
+   "title": "Reaktionen auf Rentenpläne: \"Frührentner sollen also Haushaltslöcher stopfen\"",
+   "text": "Der Rentenentwurf von Arbeitsminister Schweitzer stößt auf ein geteiltes Echo. DGB-Chefin Fahimi kritisierte steigende Abschläge für Frührentner, lobte aber den Erhalt der \"Rente mit 63\". Aus der Union kommt deutlicher Widerstand.",
+   "link": "https://www.tagesschau.de/inland/rentenplaene-reaktionen-100.html",
+   "published": "2026-11-27T19:45:49+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T19:45:49+00:00",
+   "img": "https://images.tagesschau.de/image/2015f221-6df6-43c9-8148-76da5e1ece48/AAABoh5Ql7w/AAABnSSvrFg/16x9-big/fahimi-188.jpg?width=1920"
+  },
+  {
+   "id": "n83c545858d",
+   "topic": "ki",
+   "title": "OpenAI verklagt Apple wegen Diebstahls von Geschäftsgeheimnissen und unfairer Wettbewerbspraktiken",
+   "text": "OpenAI verklagt Apple vor einem kalifornischen Gericht wegen Diebstahls von Geschäftsgeheimnissen und Nötigung gemeinsamer Zulieferer. Die Gegenklage folgt auf Apples eigene Klage vom Sommer. Noch vor zwei Jahren integrierten beide Unternehmen ChatGPT gemeinsam ins iPhone, jetzt entwickelt OpenAI eigene Geräte, die …",
+   "link": "https://the-decoder.de/openai-verklagt-apple-wegen-diebstahls-von-geschaeftsgeheimnissen-und-unfairer-wettbewerbspraktiken/",
+   "published": "2026-11-27T19:27:37+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-12-04T19:27:37+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/11/openai_apple.png"
+  },
+  {
+   "id": "n58c6a986a7",
+   "topic": "it",
+   "title": "Top 10: Das beste Heizkörperthermostat im Test – ohne Cloud ab 30 Euro",
+   "text": "Smarte Heizkörperthermostate senken die Heizkosten und steigern den Komfort. Fast alle Modelle laufen ohne Cloud und sind zum Black Friday besonders günstig.",
+   "link": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-heizkoerperthermostat-im-test-ohne-cloud-ab-30-euro/1e43f3r?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-27T19:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-12-02T19:00:00+00:00"
+  },
+  {
+   "id": "nd97abc4d19",
+   "topic": "ki",
+   "title": "Verbotene Nvidia-Chips landeten trotz US-Exportsperre in chinesischem Rechenzentrum",
+   "text": "Laut einer Bloomberg-Recherche haben zwei chinesische Firmen Nvidias leistungsstarke Blackwell-Chips in einem Shanghaier Rechenzentrum mit Verbindungen zu Alice Huang installiert. Eine Seriennummer führte Bloomberg zum taiwanesischen Hersteller Gigabyte. Der Export solcher Chips nach China ist ohne US-Lizenz illegal. …",
+   "link": "https://the-decoder.de/verbotene-nvidia-chips-landeten-trotz-us-exportsperre-in-chinesischem-rechenzentrum/",
+   "published": "2026-11-27T18:08:02+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-12-04T18:08:02+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/11/jensen_huang_china.png"
+  },
+  {
+   "id": "n4472ccf930",
+   "topic": "it",
+   "title": "c't 3003 baut Fernseher mit KI-Agent um: Tizen wird zu „Apple TV“",
+   "text": "Schnell und einfach: Wir haben mit einem KI-Agenten die komplette Bedienoberfläche eines Samsung-TVs umgebaut – und Werbung und Tracker entfernt.",
+   "link": "https://www.heise.de/news/c-t-3003-baut-Fernseher-mit-KI-Agent-um-Tizen-wird-zu-Apple-TV-11541121.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-27T18:02:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-12-02T18:02:00+00:00"
+  },
+  {
+   "id": "n8a0ce3c1ba",
+   "topic": "it",
+   "title": "Strom und Gas: Deutschland zwischen Energiewende und Preisschocks",
+   "text": "Kartellwächter und Bundesnetzagentur legen ihren Energie-Monitoringbericht vor: Erneuerbare erreichen 55 Prozent Anteil, doch es kommt zu mehr Stromsperrungen.",
+   "link": "https://www.heise.de/news/Energiemarkt-2026-Solar-boomt-doch-Grosshandelspreise-ziehen-wieder-an-11541379.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-27T17:42:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-12-02T17:42:00+00:00"
+  },
+  {
+   "id": "na990e4111c",
+   "topic": "wirtschaft",
+   "title": "Marktbericht: Schnäppchenjagd an der Börse",
+   "text": "Dank starker US-Börsen am Black Friday kann auch der DAX seine Erholung fortsetzen. Nach einer tiefroten Vorwoche geht er am Ende versöhnlich ins Wochenende. Vor allem Technologie-Werte steigen.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-176.html",
+   "published": "2026-11-27T17:30:38+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T17:30:38+00:00",
+   "img": "https://images.tagesschau.de/image/a01f3845-7d93-4906-85df-771ddd7b7c12/AAABns-9-5Y/AAABnSSvrFg/16x9-big/boerse-506.jpg?width=1920"
+  },
+  {
+   "id": "n3a90f53382",
+   "topic": "welt",
+   "title": "Citroën-Fabrik wird zum Kunstmuseum: In Brüssel eröffnet das mit Spannung erwartete \"Kanal-Centre Pompidou\".",
+   "text": "Europas Kulturlandschaft bekommt Zuwachs: Auf dem Areal der einstigen Citroën-Fabrik in Brüssel öffnet das \"Kanal-Centre Pompidou\" seine Tore. Ein Museum, das auch Begegnungsstätte und Ideenschmiede sein will.",
+   "link": "https://www.dw.com/de/citroën-fabrik-wird-zum-kunstmuseum-in-brüssel-eröffnet-das-mit-spannung-erwartete-kanal-centre-pompidou/a-80075866?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-27T17:28:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-12-01T17:28:00+00:00",
+   "img": "https://static.dw.com/image/80079829_302.jpg"
+  },
+  {
+   "id": "n9a5abbd97d",
+   "topic": "it",
+   "title": "Mobilfunkstandard: China startet bereits in acht Provinzen 6G-Pilotprogramm",
+   "text": "Während in Europa und den USA noch über die künftige Netzarchitektur gestritten wird, bringt China 6G in die praktische Erprobung. ( 6G , Mobilfunk )",
+   "link": "https://www.golem.de/news/mobilfunkstandard-china-startet-bereits-in-acht-provinzen-6g-pilotprogramm-2611-215770.html",
+   "published": "2026-11-27T17:09:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-12-02T17:09:02+00:00",
+   "img": "https://www.golem.de/2611/215770-611162-611160_rc.jpg"
+  },
+  {
+   "id": "nb6ef364f3d",
+   "topic": "it",
+   "title": "(g+) Investment-Risiken: Das KI-Dilemma der Fondsmanager",
+   "text": "Die versteckten Abhängigkeiten von KI sollten selbst in breit gestreuten Portfolios nicht unterschätzt werden, warnt die Financial Times in meinem Meinungsbeitrag. Von The Editorial Board ( Wirtschaft , Börse )",
+   "link": "https://www.golem.de/news/investment-risiken-das-ki-dilemma-der-fondsmanager-2611-215768.html",
+   "published": "2026-11-27T17:00:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-12-02T17:00:02+00:00",
+   "img": "https://www.golem.de/2611/215768-611149-611147_rc.jpg"
+  },
+  {
+   "id": "ne28f865384",
+   "topic": "welt",
+   "title": "Der Generationenvertrag sicherte Jahrzehnte lang die Rente. Nun bringen Alterung und niedrige Geburtenzahlen das System an Grenzen",
+   "text": "Millionen Babyboomer gehen in den Ruhestand, während immer weniger Beitragszahler nachrücken. Warum das deutsche Rentensystem unter Druck gerät und weshalb die Politik um Reformen ringt.",
+   "link": "https://www.dw.com/de/der-generationenvertrag-sicherte-jahrzehnte-lang-die-rente-nun-bringen-alterung-und-niedrige-geburtenzahlen-das-system-an-grenzen/a-80072457?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-27T16:36:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-12-01T16:36:00+00:00",
+   "img": "https://static.dw.com/image/80067645_302.jpg"
+  },
+  {
+   "id": "n15272b56e5",
+   "topic": "politik",
+   "title": "Das plant Arbeitsminister Schweitzer für die Rente",
+   "text": "Seit Monaten ringt die Koalition um einen Kompromiss bei der Rente. Arbeitsminister Schweitzer hat nun einen ersten Entwurf vorgelegt. Einer der Punkte: Die \"Rente mit 63\" soll im Kern bestehen bleiben. Von Jan-Peter Bartels und Tim Aßmann.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-entwurf-arbeitsministerium-100.html",
+   "published": "2026-11-27T16:30:51+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T16:30:51+00:00",
+   "img": "https://images.tagesschau.de/image/eb4e4b7c-9b50-470b-abfe-ce3627d16970/AAABoh1I5C4/AAABnSSvrFg/16x9-big/handwerker-streicht-100.jpg?width=1920"
+  },
+  {
+   "id": "n58fbbaf7d5",
+   "topic": "wissenschaft",
+   "title": "So wichtig sind alte Tiere für ihre Art",
+   "text": "Ob Elefant, Wal, Löwe oder Fisch: Alte Tiere können für eine Population besonders wertvoll sein – warum der Naturschutz deshalb umdenken muss. 🎙️",
+   "link": "https://www.spektrum.de/podcast/spektrum-podcast-so-wichtig-sind-alte-tiere-fuer-ihre-art/2356417",
+   "published": "2026-11-27T16:10:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-12-11T16:10:00+00:00"
+  },
+  {
+   "id": "n66d6deda72",
+   "topic": "politik",
+   "title": "Beschlüsse im Bundestag - Stromsteuer sinkt, Zuckersteuer kommt",
+   "text": "Der Bundestag hat die Senkung der Stromsteuer für ein Jahr und eine Zuckersteuer bei Getränken beschlossen. Außerdem steigt die Abgabe auf hochprozentigen Alkohol. Auch Alkopops könnten teurer werden.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/beschluss-zuckersteuer-stromsteuer-100.html",
+   "published": "2026-11-27T16:09:18+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T16:09:18+00:00",
+   "img": "https://images.tagesschau.de/image/237b4c3c-396f-43ab-8d9a-8204407fe454/AAABoh2qjHM/AAABnSSvrFg/16x9-big/zucker-getraenke-100.jpg?width=1920"
+  },
+  {
+   "id": "n64ead4d440",
+   "topic": "ki",
+   "title": "Drei Studien schärfen den Gegenentwurf von KI-Pionier Yann LeCun zu großen Sprachmodellen",
+   "text": "Yann LeCun treibt mit seinem Start-up AMI Labs seine Alternative zu Sprachmodellen voran: Die JEPA-Architektur soll Maschinen ein inneres Weltmodell geben, das Ursache und Wirkung modelliert. Drei neue Studien zeigen Fortschritte bei Roboterplanung, effizienterem Training und Fehlerkorrektur – doch die Bausteine …",
+   "link": "https://the-decoder.de/drei-studien-schaerfen-den-gegenentwurf-von-ki-pionier-yann-lecun-zu-grossen-sprachmodellen/",
+   "published": "2026-11-27T15:59:56+00:00",
+   "source": "THE DECODER",
+   "type": "Fachmedium (KI)",
+   "lang": "de",
+   "expires": "2026-12-04T15:59:56+00:00",
+   "img": "https://the-decoder.de/wp-content/uploads/2026/11/lecun_wireframe.png"
+  },
+  {
+   "id": "nb867f02b7d",
+   "topic": "welt",
+   "title": "Schiffsunglück vor Ibiza: Gefahr für Umwelt gering",
+   "text": "Der Öltanker \"Med Emre\" treibt kieloben im Mittelmeer vor Ibiza. Eine größere Gefahr für die Umwelt geht von ihm nach ersten Erkenntnissen aber wohl nicht aus. Inzwischen wird die Abschleppung des Schiffs geplant.",
+   "link": "https://www.tagesschau.de/ausland/europa/tankerunglueck-ibiza-vorsichtige-entwarnung-100.html",
+   "published": "2026-11-27T15:03:21+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T15:03:21+00:00",
+   "img": "https://images.tagesschau.de/image/bf7faff1-4340-43e9-a3ff-22fff7cf333e/AAABoh0unGo/AAABnSSvrFg/16x9-big/tanker-ibiza-gekentert-100.jpg?width=1920"
+  },
+  {
+   "id": "ncd36d8c29b",
+   "topic": "welt",
+   "title": "Die internationalen Drohnen-Allianzen der Ukraine",
+   "text": "Ukrainisches Know-how trifft auf Europas finanzielle und industrielle Stärke: Deutschland und andere Partner bauen ihre Drohnenproduktion mit der Ukraine aus. Das verändert auch Europas Rüstungsindustrie.",
+   "link": "https://www.dw.com/de/die-internationalen-drohnen-allianzen-der-ukraine/a-80066338?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-27T15:01:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-12-01T15:01:00+00:00",
+   "img": "https://static.dw.com/image/80030729_302.jpg"
+  },
+  {
+   "id": "n0ae7e3fa19",
+   "topic": "wissenschaft",
+   "title": "Die fabelhafte Welt der Mathematik: Können wir den mathematischen Beweisen einer KI vertrauen?",
+   "text": "KI-Sprachmodelle liefern Beweise, die mitunter Millionen Zeilen umfassen. Dennoch lässt sich ihre Korrektheit prüfen, selbst wenn ihr Inhalt teilweise unverstanden bleibt.",
+   "link": "https://www.spektrum.de/kolumne/mathematik-woher-wissen-wir-dass-ki-beweise-korrekt-sind/2356105",
+   "published": "2026-11-27T15:01:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-12-11T15:01:00+00:00"
+  },
+  {
+   "id": "n31d518c267",
+   "topic": "wissenschaft",
+   "title": "Veränderliche Sterne: Mira spuckt erneut gewaltige Mengen an Materie ins All",
+   "text": "Ein Materieausbruch auf dem Roten Riesen Mira hat eine Gasschleife von der Größe der Saturnbahn hinterlassen. Starke Magnetfelder treiben die dahinterliegenden Sternwinde an.",
+   "link": "https://www.spektrum.de/news/veraenderliche-sterne-mira-spuckt-gewaltige-mengen-an-materie-ins-all/2356121",
+   "published": "2026-11-27T15:00:00+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-12-11T15:00:00+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/Mira_and_surrounding_sky_as_seen_in_visible_light.jpg.8428893.jpg?f=1280x720"
+  },
+  {
+   "id": "n6417155ff5",
+   "topic": "welt",
+   "title": "Woher kommen Afrikas Kleinwaffen – und warum lassen sie sich so schwer kontrollieren?",
+   "text": "Internationale Lieferungen, alte Kriegsbestände und gestohlene Waffenarsenale: Kleinwaffen befeuern Konflikte in Afrika. Regierungen versuchen, ihre Verbreitung einzudämmen – doch die Kontrolle bleibt schwierig.",
+   "link": "https://www.dw.com/de/woher-kommen-afrikas-kleinwaffen-und-warum-lassen-sie-sich-so-schwer-kontrollieren/a-80064257?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-27T14:34:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-12-01T14:34:00+00:00",
+   "img": "https://static.dw.com/image/68111874_302.jpg"
+  },
+  {
+   "id": "nf69334bb8f",
+   "topic": "politik",
+   "title": "Zentralrat der Juden reagiert scharf auf Kritik von AfD-Chefin Weidel",
+   "text": "Der Zentralrat der Juden positioniert sich seit Langem klar gegen die AfD. Parteichefin Weidel warf der Organisation nun vor, sie sei von der CDU \"fremdgesteuert\". Der Präsident des Zentralrats reagierte mit deutlichen Worten.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/zentralrat-der-juden-kritik-afd-100.html",
+   "published": "2026-11-27T14:13:55+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T14:13:55+00:00",
+   "img": "https://images.tagesschau.de/image/228e1c25-eaa7-45c8-addc-528ed0b723cb/AAABohzpYfU/AAABnSSvrFg/16x9-big/weidel-328.jpg?width=1920"
+  },
+  {
+   "id": "n0a56450a63",
+   "topic": "politik",
+   "title": "Deutschland: Beginn der Ski-Saison - mit Neuschnee und höheren Preisen",
+   "text": "Es ist ausreichend Schnee gefallen, es ist kalt genug und das Wetter spielt auch mit: In Deutschland hat Ski-Saison begonnen - an der Zugspitze und im Sauerland. Wintersportler müssen allerdings wieder tiefer in die Tasche greifen.",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/ski-saison-deutschland-100.html",
+   "published": "2026-11-27T14:12:31+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T14:12:31+00:00",
+   "img": "https://images.tagesschau.de/image/9d885923-a824-4a3e-bea4-72254274a27b/AAABoh0M4ZY/AAABnSSvrFg/16x9-big/skifahrer-zugspitze-100.jpg?width=1920"
+  },
+  {
+   "id": "n5706838d94",
+   "topic": "politik",
+   "title": "Spionageverdacht: Ex-BND-Chef Hanning bleibt in Untersuchungshaft",
+   "text": "Die Festnahme des Ex-BND-Chefs Hanning hatte im Oktober international Schlagzeilen produziert. Nun steht fest, dass der 80-Jährige vorerst in Haft bleibt. Gegen Hanning wird unter anderem wegen Spionageverdachts ermittelt.",
+   "link": "https://www.tagesschau.de/inland/bnd-hanning-untersuchungshaft-spionageverdacht-100.html",
+   "published": "2026-11-27T14:10:01+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T14:10:01+00:00",
+   "img": "https://images.tagesschau.de/image/7d71ee12-a790-4843-b41a-b246c18c8ca3/AAABoh04loo/AAABnSSvrFg/16x9-big/hanning-130.jpg?width=1920"
+  },
+  {
+   "id": "n0ae101d09a",
+   "topic": "politik",
+   "title": "Wer 2027 im Haushalt mehr Geld bekommt - und wer weniger",
+   "text": "Der Bundestag hat den Haushalt für 2027 beschlossen. Dabei gibt es deutliche Verschiebungen: mehr Geld für Verteidigung und Soziales, weniger für Gesundheit und Entwicklung. Wer profitiert, wer verliert?",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-2027-ueberblick-102.html",
+   "published": "2026-11-27T13:55:11+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T13:55:11+00:00",
+   "img": "https://images.tagesschau.de/image/dab0343c-d7b3-4621-a76a-6b2a7073eed5/AAABoh1GTlQ/AAABnSSvrFg/16x9-big/bundestag-abstimmung-142.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Budget von mehr als 500 Milliarden - Bundestag stimmt über den Haushalt 2027 ab",
+     "link": "https://www.deutschlandfunk.de/bundestag-stimmt-ueber-den-haushalt-2027-ab-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n23fe18cf27",
+   "topic": "wirtschaft",
+   "title": "Anthropics wilde erste Börsenwoche",
+   "text": "Der KI-Konzern Anthropic ging mit großen Erwartungen an die Börse. Der Start der Aktie in New York verlief spektakulär. Doch nach einer Woche fällt die Bilanz alles andere als rosig aus.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-anthropic-ipo-ki-100.html",
+   "published": "2026-11-27T13:44:03+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T13:44:03+00:00",
+   "img": "https://images.tagesschau.de/image/61468022-1c6c-4b32-9f9b-7ac157e174af/AAABoh1_IqI/AAABnSSvrFg/16x9-big/anthropic-156.jpg?width=1920"
+  },
+  {
+   "id": "nf1bf360f2e",
+   "topic": "welt",
+   "title": "Serbiens Studenten nominieren Professor als Staatsoberhaupt",
+   "text": "Die Parlamentswahl im September hatte Serbiens Studentenliste überraschend gewonnen. Nun soll Ende Dezember auch ein neuer Präsident gewählt werden. Ein Universitätsprofessor soll dafür ins Rennen gehen.",
+   "link": "https://www.tagesschau.de/ausland/europa/serbien-praesidentschaftswahl-professor-100.html",
+   "published": "2026-11-27T13:37:34+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T13:37:34+00:00",
+   "img": "https://images.tagesschau.de/image/88d78154-688d-49c2-9bde-8e141ca452c3/AAABoh0MLm0/AAABnSSvrFg/16x9-big/saicic-100.jpg?width=1920"
+  },
+  {
+   "id": "n9f5a3e5e9a",
+   "topic": "welt",
+   "title": "Save the Children: Kampf gegen Kinderehen verstärken",
+   "text": "Am UN-Welttag gegen Früh- und Zwangsverheiratung schlägt die Kinderschutzorganisation Alarm: Während sich in einigen Ländern positive Entwicklungen zeigten, trete man insgesamt auf der Stelle.",
+   "link": "https://www.dw.com/de/save-the-children-kampf-gegen-kinderehen-verstärken/a-80075792?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-27T13:28:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-12-01T13:28:00+00:00",
+   "img": "https://static.dw.com/image/60177872_302.jpg",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Kinderrechte - \"Save the Children\" mahnt mehr Schutz vor Kinderehen an",
+     "link": "https://www.deutschlandfunk.de/save-the-children-mahnt-mehr-schutz-vor-kinderehen-an-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n920573a433",
+   "topic": "wirtschaft",
+   "title": "Kommentar: Hernández de Cos - ein EZB-Chef im Sinne Frankreichs",
+   "text": "Der neue EZB-Rat steht fest - eingefädelt durch Emmanuel Macron. Der künftige EZB-Präsident Pablo Hernández de Cos steht eher für eine lockere Geldpolitik. In Zeiten hoher Inflation sind Konflikte programmiert. Von Klaus-Rainer Jackisch.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/neuer-ezb-chef-de-cos-geldpolitik-100.html",
+   "published": "2026-11-27T13:20:03+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T13:20:03+00:00",
+   "img": "https://images.tagesschau.de/image/0bf82890-9f7b-49e8-ab56-22b18236a1af/AAABohxAAjA/AAABnSSvrFg/16x9-big/de-cos-104.jpg?width=1920"
+  },
+  {
+   "id": "n5bc3f7c25c",
+   "topic": "welt",
+   "title": "Ursachensuche: EU streitet weiter ums Geld",
+   "text": "Druck aus Frankreich, Widerstand aus Deutschland und der Gastgeber mit einer ungewöhnlichen Verhandlungsstrategie. Es gibt mehrere Gründe, warum der EU-Sondergipfel zum Haushalt gescheitert ist. Von Sabrina Fritz.",
+   "link": "https://www.tagesschau.de/ausland/europa/eu-haushalt-gipfel-analyse-100.html",
+   "published": "2026-11-27T13:18:17+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T13:18:17+00:00",
+   "img": "https://images.tagesschau.de/image/a91070e7-bda4-4a9f-b7b5-3c55dee7e6f7/AAABohz8Yzw/AAABnSSvrFg/16x9-big/eu-flaggen-180.jpg?width=1920"
+  },
+  {
+   "id": "n28a9a6cb2e",
+   "topic": "welt",
+   "title": "Heraskewytsch begrüßt EU-Vorstoß gegen Athleten aus Russland",
+   "text": "Der ukrainische Skeletonfahrer Wladyslaw Heraskewytsch hat Pläne der Europäischen Union begrüßt, russische Sportler bei Wettkämpfen innerhalb der EU stärker einzuschränken.",
+   "link": "https://www.dw.com/de/heraskewytsch-begrüßt-eu-vorstoß-gegen-athleten-aus-russland/a-80076145?maca=de-rss-de-all-1119-xml-mrss",
+   "published": "2026-11-27T13:10:00+00:00",
+   "source": "Deutsche Welle",
+   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
+   "lang": "de",
+   "expires": "2026-12-01T13:10:00+00:00",
+   "img": "https://static.dw.com/image/75824013_302.jpg"
+  },
   {
    "id": "nf49bc4efd7",
    "topic": "it",
@@ -113,7 +668,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-29T12:19:30+00:00",
-   "img": "https://bilder.deutschlandfunk.de/95/82/43/57/95824357-45de-4b43-a597-f6ff46756758/generaldebatte-bundestag-der-tag-100-1920x1920.jpg"
+   "img": "https://bilder.deutschlandfunk.de/95/82/43/57/95824357-45de-4b43-a597-f6ff46756758/generaldebatte-bundestag-der-tag-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Wer 2027 im Haushalt mehr Geld bekommt - und wer weniger",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-2027-ueberblick-102.html"
+    }
+   ]
   },
   {
    "id": "n45564890f1",
@@ -178,7 +740,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-30T12:09:57+00:00",
-   "img": "https://images.tagesschau.de/image/1ba04718-4eba-4892-bbba-62e5e71bfdae/AAABohxvE8M/AAABnSSvrFg/16x9-big/kind-somalia-102.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/4ff340d4-b6d1-40e1-9808-4efff5bee40a/AAABoh0O-XQ/AAABnSSvrFg/16x9-big/frauen-essen-suden-100.jpg?width=1920"
   },
   {
    "id": "ndceff1f91d",
@@ -284,7 +846,7 @@
    "id": "n08331d8611",
    "topic": "welt",
    "title": "Polizistin in Kabul: Verhüllt im Dienst für das Taliban-Regime",
-   "text": "In Afghanistan haben Frauen kaum noch Rechte. In der Öffentlichkeit muss ihr Gesicht verhüllt sein, Bildung ist kaum möglich. Gleichzeitig arbeiten einige Frauen bei der Polizei und sind so Teil des Systems der Taliban. Von F. Amler.",
+   "text": "In Afghanistan haben Frauen kaum noch Rechte. In der Öffentlichkeit muss ihr Gesicht verhüllt sein, Bildung ist kaum möglich. Dennoch arbeiten einige Frauen bei der Polizei und sind so Teil des Systems der Taliban. Von F. Amler.",
    "link": "https://www.tagesschau.de/ausland/asien/taliban-polizistin-100.html",
    "published": "2026-11-27T11:11:16+00:00",
    "source": "Tagesschau",
@@ -447,19 +1009,6 @@
    "img": "https://images.tagesschau.de/image/10e43c96-8593-4495-90b7-255d39de2c64/AAABohxOctA/AAABnSSvrFg/16x9-big/agentur-fuer-arbeit-168.jpg?width=1920"
   },
   {
-   "id": "na990e4111c",
-   "topic": "wirtschaft",
-   "title": "Marktbericht: Anleger nutzen günstige Kurse zum Einkauf",
-   "text": "Der DAX setzt seine Erholung schwungvoll fort, unterstützt von der Aussicht auf einen starken Handelsstart an der Wall Street. Trotz der Kursgewinne bleibt die Frage, wie nachhaltig der KI-Boom ist.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-176.html",
-   "published": "2026-11-27T09:57:08+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-30T09:57:08+00:00",
-   "img": "https://images.tagesschau.de/image/7de8811d-fb9e-46a1-ab3b-f0f51448e01d/AAABocSLp9g/AAABnSSvrFg/16x9-big/boerse-562.jpg?width=1920"
-  },
-  {
    "id": "n7057669d7c",
    "topic": "wirtschaft",
    "title": "Shopping: KI-Agenten werden beliebter",
@@ -527,7 +1076,7 @@
   {
    "id": "n0b5b8c5303",
    "topic": "welt",
-   "title": "USA: Schwerer Sturm sorgt an Thanksgiving für massive Einschränkungen",
+   "title": "Schwerer Sturm sorgt in den USA an Thanksgiving für massive Einschränkungen",
    "text": "Gestrichene Flüge, Stromausfälle und Überschwemmungen: Ausgerechnet an Thanksgiving haben Starkregen und heftige Winde in vielen Teilen der USA für Chaos gesorgt. In einigen Bundesstaaten gilt der Notstand.",
    "link": "https://www.tagesschau.de/ausland/amerika/usa-stuerme-thanksgiving-100.html",
    "published": "2026-11-27T06:55:56+00:00",
@@ -556,19 +1105,6 @@
    "lang": "de",
    "expires": "2026-11-30T05:43:42+00:00",
    "img": "https://images.tagesschau.de/image/3d9a319b-f4bc-4be1-8646-c7b56e7be424/AAABohMPUaw/AAABnSSvrFg/16x9-big/nunez-feijoo-plakat-100.jpg?width=1920"
-  },
-  {
-   "id": "n2027f10c3b",
-   "topic": "nfl",
-   "title": "NFL Week 12 grades for Thanksgiving: Cowboys choke their way to a 'D,' Bears earn 'B' for big win",
-   "text": "Caleb Williams delivers late magic to Rome Odunze in a wild shootout, while Detroit's defense collapses and Jordan Love struggles without Christian Watson",
-   "link": "https://www.cbssports.com/nfl/news/nfl-week-12-grades-thanksgiving-bears-earn-b-packers-get-d/",
-   "published": "2026-11-27T05:13:44+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-12-02T05:13:44+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/11/26/d8aee4f8-2d54-4f4f-9309-8d6ec17e6685/rome.jpg"
   },
   {
    "id": "n51e6ce6629",
@@ -666,7 +1202,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-29T01:37:39+00:00",
-   "img": "https://bilder.deutschlandfunk.de/8b/39/8b/4e/8b398b4e-e16f-4583-8b5c-2c4645fb1ba8/indien-kinderehe-100-1920x1920.jpg"
+   "img": "https://bilder.deutschlandfunk.de/8b/39/8b/4e/8b398b4e-e16f-4583-8b5c-2c4645fb1ba8/indien-kinderehe-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Deutsche Welle",
+     "title": "Save the Children: Kampf gegen Kinderehen verstärken",
+     "link": "https://www.dw.com/de/save-the-children-kampf-gegen-kinderehen-verstärken/a-80075792?maca=de-rss-de-all-1119-xml-mrss"
+    }
+   ]
   },
   {
    "id": "n4f8040f1be",
@@ -703,7 +1246,7 @@
    "also": [
     {
      "source": "Tagesschau",
-     "title": "USA: Schwerer Sturm sorgt an Thanksgiving für massive Einschränkungen",
+     "title": "Schwerer Sturm sorgt in den USA an Thanksgiving für massive Einschränkungen",
      "link": "https://www.tagesschau.de/ausland/amerika/usa-stuerme-thanksgiving-100.html"
     }
    ]
@@ -795,14 +1338,7 @@
    "source": "heise online",
    "type": "Fachmedium (IT)",
    "lang": "de",
-   "expires": "2026-12-01T21:44:00+00:00",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Chinesischer Online-Händler Temu sagt mehr Verbraucherschutz zu",
-     "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/temu-eu-verfahren-verbraucherschutz-100.html"
-    }
-   ]
+   "expires": "2026-12-01T21:44:00+00:00"
   },
   {
    "id": "nac803b9471",
@@ -1184,569 +1720,6 @@
    "lang": "de",
    "expires": "2026-12-01T16:40:02+00:00",
    "img": "https://www.golem.de/2611/215712-610882-610880_rc.jpg"
-  },
-  {
-   "id": "n130d759042",
-   "topic": "welt",
-   "title": "Letzte Dienstreise nach Afrika: Bundespräsident Steinmeier fordert mehr Mut bei Investitionen in afrikanischen Staaten",
-   "text": "Elfenbeinküste, Ghana, Kenia: Bei seiner letzten Afrika-Reise fordert Bundespräsident Frank-Walter Steinmeier deutsche Unternehmen auf, die Chancen des Kontinents zu nutzen.",
-   "link": "https://www.dw.com/de/letzte-dienstreise-nach-afrika-bundespräsident-steinmeier-fordert-mehr-mut-bei-investitionen-in-afrikanischen-staaten/a-80059627?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-26T16:39:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-30T16:39:00+00:00",
-   "img": "https://static.dw.com/image/80047703_302.jpg"
-  },
-  {
-   "id": "nb4a130c8f7",
-   "topic": "it",
-   "title": "heise+ | Etikettendrucker in ein Netzwerk einbinden und mit QR-Codes steuern",
-   "text": "Der Etikettendrucker empfängt Druckaufträge über ein Webformular am Handy. Ein E-Paper-Display mit wechselndem QR-Code stellt personalisierte Aufträge sicher.",
-   "link": "https://www.heise.de/ratgeber/Etikettendrucker-in-ein-Netzwerk-einbinden-und-mit-QR-Codes-steuern-11490944.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-   "published": "2026-11-26T16:30:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-12-01T16:30:00+00:00"
-  },
-  {
-   "id": "n58a9655f47",
-   "topic": "politik",
-   "title": "Kein neues Hallenbad für Borken: Politik stoppt Millionenprojekt",
-   "text": "In Borken wird es vorerst kein neues Hallenbad geben. Das Stadtparlament hat die Neubau-Pläne mehrheitlich abgelehnt. Damit geht die Zahl der Schwimmbäder in der Region weiter zurück. Es wird aber über Alternativen nachgedacht.",
-   "link": "https://www.hessenschau.de/gesellschaft/kein-neues-hallenbad-fuer-borken-politik-stoppt-millionenprojekt-v1,hallenbad-borken-100.html",
-   "published": "2026-11-26T16:20:08+00:00",
-   "source": "hessenschau (hr)",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-30T16:20:08+00:00",
-   "img": "https://www.hessenschau.de/gesellschaft/hallenbad-startblock-symbol-100~_t-1795710006997_v-16to9.jpg",
-   "tag": "Hessen"
-  },
-  {
-   "id": "nb1daabf766",
-   "topic": "it",
-   "title": "Werbung auf dem iPhone: Apps nerven mit Live-Aktivitäten und Benachrichtigungen",
-   "text": "Aktuell gibt es wieder eine Flut an Werbebotschaften in Form von Benachrichtigungen und Live-Aktivitäten. Apple tut bisher wenig dagegen – aber vielleicht bald?",
-   "link": "https://www.heise.de/news/Werbung-auf-dem-iPhone-Apps-nerven-mit-Live-Aktivitaeten-und-Benachrichtigungen-11539199.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-26T16:19:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-12-01T16:19:00+00:00"
-  },
-  {
-   "id": "n3b5416e903",
-   "topic": "it",
-   "title": "Batterien: Mit dem falschen Heimspeicher kann es teuer werden",
-   "text": "Eine Studie zeigt gravierende Unterschiede bei Batteriespeichern für zu Hause. Mancher Gesamtwirkungsgrad liegt bei 60 Prozent. ( Akku , Smart Meter )",
-   "link": "https://www.golem.de/news/batterien-mit-dem-falschen-heimspeicher-kann-es-teuer-werden-2611-215709.html",
-   "published": "2026-11-26T16:15:01+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-12-01T16:15:01+00:00",
-   "img": "https://www.golem.de/2611/215709-610868-610866_rc.jpg"
-  },
-  {
-   "id": "n7007ad8b4a",
-   "topic": "wirtschaft",
-   "title": "Wofür steht der designierte EZB-Präsident Pablo Hernández de Cos?",
-   "text": "Der Spanier Pablo Hernández de Cos bringt viel geldpolitische Erfahrung mit. Welcher Kurs ist von dem 55-Jährigen Ökonomen zu erwarten, wenn er an die Spitze der Europäischen Zentralbank rückt?",
-   "link": "https://www.tagesschau.de/wirtschaft/konjunktur/nachfolger-ezb-de-cos-portrait-100.html",
-   "published": "2026-11-26T16:12:10+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-29T16:12:10+00:00",
-   "img": "https://images.tagesschau.de/image/bf3b5402-a539-47d4-89b3-8b9d1bc52dde/AAABohiCYKQ/AAABnSSvrFg/16x9-big/de-cos-102.jpg?width=1920"
-  },
-  {
-   "id": "nb4a577fdd6",
-   "topic": "it",
-   "title": "Autonome KI-Angriffe: BSI warnt vor Bedrohung durch AOF",
-   "text": "Attacken mit KI-Frameworks: Das BSI warnt und im heise security PRO-Talk diskutieren Sicherheitsverantwortliche, wie man die Gefahr in den Griff bekommen kann.",
-   "link": "https://www.heise.de/news/Kuenstliche-Intelligenz-als-Angreifer-Eine-neue-Aera-hat-begonnen-11539545.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-26T16:02:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-12-01T16:02:00+00:00"
-  },
-  {
-   "id": "n6b02ac0577",
-   "topic": "nfl",
-   "title": "Aaron Rodgers next team predictions: Patriots and Ravens are in the mix, but retirement the most likely option",
-   "text": "With Aaron Rodgers' time in the Steel City over, here's a closer look at where he could land, according to Kalshi",
-   "link": "https://www.cbssports.com/prediction/news/aaron-rodgers-next-team-predictions-patriots-and-ravens-are-in-the-mix-but-retirement-the-most-likely-option/",
-   "published": "2026-11-26T15:56:51+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-12-01T15:56:51+00:00",
-   "img": "https://sportshub.cbsistatic.com/i/2026/10/14/c5414500-95a2-4503-8a51-49429521c2d1/aaron-rodgers-pittsburgh-steelers-imagn-images.jpg"
-  },
-  {
-   "id": "n9818a31f73",
-   "topic": "nfl",
-   "title": "Thanksgiving and Black Friday NFL expert picks: Can Lions fend off Bears? Do Steelers save their season?",
-   "text": "CBSSports.com and SportsLine break down the Thanksgiving Eve, Thanksgiving triple-header, and the Black Friday games",
-   "link": "https://www.cbssports.com/nfl/news/thanksgiving-games-black-friday-nfl-expert-picks-lions-bears-steelers/",
-   "published": "2026-11-26T15:45:42+00:00",
-   "source": "CBS Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-12-01T15:45:42+00:00"
-  },
-  {
-   "id": "n41be56e94c",
-   "topic": "ki",
-   "title": "US-Chipregeln und Destillations-Blockaden zwingen Z.AI und Moonshot laut Insidern zur Verschiebung großer Sprachmodelle auf 2027",
-   "text": "Die chinesischen KI-Unternehmen Z.AI und Moonshot AI müssen ihre nächsten Flaggschiff-Modelle verschieben und suchen bei Trainingsdaten nach neuen Quellen. Der Artikel US-Chipregeln und Destillations-Blockaden zwingen Z.AI und Moonshot laut Insidern zur Verschiebung großer Sprachmodelle auf 2027 erschien zuerst auf …",
-   "link": "https://the-decoder.de/us-chipregeln-und-destillations-blockaden-zwingen-z-ai-und-moonshot-laut-insidern-zur-verschiebung-grosser-sprachmodelle-auf-2027/",
-   "published": "2026-11-26T15:22:08+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-12-03T15:22:08+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/11/us_china.png"
-  },
-  {
-   "id": "n1df95f183b",
-   "topic": "welt",
-   "title": "16 Monate gesperrt - Laura Freigang verpasst Fußball-WM in Brasilien",
-   "text": "Die Fußball-Nationalspielerin einigt sich außergerichtlich mit Anti-Doping-Agenturen und DFB. Sie wird die WM 2027 in Brasilien verpassen, ihr Verbleibt bei Bundesliga-Klub Eintracht Frankfurt ist ungewiss.",
-   "link": "https://www.dw.com/de/16-monate-gesperrt-laura-freigang-verpasst-fußball-wm-in-brasilien/a-80064996?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-26T15:18:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-30T15:18:00+00:00",
-   "img": "https://static.dw.com/image/64675593_302.jpg"
-  },
-  {
-   "id": "n809d6f51f7",
-   "topic": "welt",
-   "title": "China: Der Fall Chen Jining und der Machtkampf in der KP",
-   "text": "2027 wird die Führung der Kommunistischen Partei (KP) neu gewählt. Da wirft der überraschende Sturz des Hoffnungsträgers Chen Jining viele Fragen auf. Bleibt jetzt alles beim Alten?",
-   "link": "https://www.dw.com/de/china-der-fall-chen-jining-und-der-machtkampf-in-der-kp/a-80066009?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-26T15:14:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-30T15:14:00+00:00",
-   "img": "https://static.dw.com/image/80034136_302.jpg"
-  },
-  {
-   "id": "n4a923d7c0f",
-   "topic": "wissenschaft",
-   "title": "Birding in Vice City: Auch Vogelbeobachter haben ihren Spaß an GTA VI",
-   "text": "Mitten in der virtuellen Gangsterwelt lässt sich eine erstaunlich realistische Vogelbeobachtungstour unternehmen. Birder prüfen, wie wirklichkeitsnah die digitale Vogelwelt ist.",
-   "link": "https://www.spektrum.de/news/birding-in-vice-city-auch-vogelbeobachter-haben-ihren-spass-an-gta-vi/2356211",
-   "published": "2026-11-26T15:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-12-10T15:00:00+00:00",
-   "img": "https://static.spektrum.de/fm/912/thumbnails/633931504_pa.jpg.8429026.jpg?f=1280x720"
-  },
-  {
-   "id": "nc967001fbc",
-   "topic": "wirtschaft",
-   "title": "Chinesischer Online-Händler Temu sagt mehr Verbraucherschutz zu",
-   "text": "Der Onlinehändler Temu will Verbraucher in der EU besser schützen. So verzichtet das chinesische Unternehmen künftig nach eigenen Angaben auf gefälschte Bewertungen oder das Ausüben von Kaufdruck.",
-   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/temu-eu-verfahren-verbraucherschutz-100.html",
-   "published": "2026-11-26T14:38:50+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-29T14:38:50+00:00",
-   "img": "https://images.tagesschau.de/image/75db0ce9-0f45-4d72-af16-a0784729ac90/AAABohgx880/AAABnSSvrFg/16x9-big/paket-temu-104.jpg?width=1920",
-   "also": [
-    {
-     "source": "heise online",
-     "title": "Verbraucherschutz: Temu verspricht Besserung im EWR",
-     "link": "https://www.heise.de/news/Verbraucherschutz-Temu-verspricht-Besserung-im-EWR-11539845.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    }
-   ]
-  },
-  {
-   "id": "n3d8e30ccf4",
-   "topic": "welt",
-   "title": "Formel 1 in Katar: Warum findet das Rennen trotz Reisewarnung statt?",
-   "text": "Trotz Sicherheitsbedenken wegen des Iran-Kriegs veranstaltet die Formel 1 ihre letzten beiden Saisonrennen im Nahen Osten. Die Meinungen, ob man dort fahren sollte, gehen auseinander und spalten auch das Fahrerlager.",
-   "link": "https://www.dw.com/de/formel-1-in-katar-warum-findet-das-rennen-trotz-reisewarnung-statt/a-80061664?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-26T14:37:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-30T14:37:00+00:00",
-   "img": "https://static.dw.com/image/80065384_302.jpg"
-  },
-  {
-   "id": "n7ae9edd48c",
-   "topic": "welt",
-   "title": "Schiffsunglück vor Ibiza: Tanker mit 7.000 Tonnen Diesel gekentert",
-   "text": "Wegen möglicher Umweltgefahren aktivierten die spanischen Behörden einen Notfallplan: Vor der Küste Ibizas ist ein Tanker mit 7.000 Tonnen Diesel gekentert. Bei dem Unglück kam ein Seemann ums Leben.",
-   "link": "https://www.tagesschau.de/ausland/europa/tanker-ibiza-100.html",
-   "published": "2026-11-26T13:51:28+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-29T13:51:28+00:00",
-   "img": "https://images.tagesschau.de/image/c695290b-e5fc-4415-bf4b-538f1af53f76/AAABohdMOSg/AAABnSSvrFg/16x9-big/tanker-med-emre-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "Tanker vor Ibiza gekentert: Ein Besatzungsmitglied tot",
-     "link": "https://www.dw.com/de/tanker-vor-ibiza-gekentert-ein-besatzungsmitglied-tot/a-80062333?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n71fda2d441",
-   "topic": "welt",
-   "title": "Tanker vor Ibiza gekentert: Ein Besatzungsmitglied tot",
-   "text": "Mit 8,2 Millionen Litern Dieseltreibstoff in den Tanks geriet die \"Med Emre\" vor der spanischen Insel Ibiza in Seenot. Dann kenterte das Schiff. Wird es sinken?",
-   "link": "https://www.dw.com/de/tanker-vor-ibiza-gekentert-ein-besatzungsmitglied-tot/a-80062333?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-26T13:43:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-30T13:43:00+00:00",
-   "img": "https://static.dw.com/image/80058928_302.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Schiffsunglück vor Ibiza: Tanker mit 7.000 Tonnen Diesel gekentert",
-     "link": "https://www.tagesschau.de/ausland/europa/tanker-ibiza-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n4a2521636b",
-   "topic": "welt",
-   "title": "Russland: Sieben von zehn ermordeten Frauen Opfer häuslicher Gewalt",
-   "text": "Der Krieg gegen die Ukraine hinterlässt auch in der Statistik zu häuslicher Gewalt in Russland Spuren. Eine Studie zeigt: Viele Täter sind Kriegsteilnehmer. Und Verfahren können ausgesetzt werden, wenn Beschuldigte in den Krieg ziehen. Von L. Becker.",
-   "link": "https://www.tagesschau.de/ausland/asien/mehr-frauen-in-russland-sterben-durch-gewalt-100.html",
-   "published": "2026-11-26T13:40:55+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-29T13:40:55+00:00",
-   "img": "https://images.tagesschau.de/image/04ae9c3b-3868-4a89-ba91-d975eccd7229/AAABohfECIw/AAABnSSvrFg/16x9-big/frauen-russland-100.jpg?width=1920"
-  },
-  {
-   "id": "n3927e49b26",
-   "topic": "politik",
-   "title": "Erzbistum Köln: Rekordschmerzensgeld für Missbrauchsopfer",
-   "text": "Das Erzbistum Köln muss einem Missbrauchsopfer 550.000 Euro Schmerzensgeld zahlen - die bisher höchste Summe in einem solchen Fall. Das Oberlandesgericht Köln sieht die Kirche in der Verantwortung.",
-   "link": "https://www.tagesschau.de/inland/gesellschaft/missbrauch-kirche-schmerzensgeld-102.html",
-   "published": "2026-11-26T13:37:34+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-29T13:37:34+00:00",
-   "img": "https://images.tagesschau.de/image/093349eb-4a34-4a8a-99fc-ac81d718763f/AAABlesvJWo/AAABnSSvrFg/16x9-big/kreuz-133.jpg?width=1920"
-  },
-  {
-   "id": "ncc8a9bc029",
-   "topic": "wirtschaft",
-   "title": "BGH stärkt Rechte von Mietern bei Balkonkraftwerken",
-   "text": "Mieter haben einen Anspruch darauf, Solaranlagen an ihren Balkonen anzubringen. Vermieter können das nur in Ausnahmefällen verbieten. Dass die Hürden dafür hoch sind, hat der Bundesgerichtshof jetzt klargestellt. Von Antonetta Stephany.",
-   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/mietrecht-balkonkraftwerke-bgh-100.html",
-   "published": "2026-11-26T13:29:47+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-29T13:29:47+00:00",
-   "img": "https://images.tagesschau.de/image/e12cf8fd-f364-4852-be6a-d86ae22b0001/AAABohf6rX4/AAABnSSvrFg/16x9-big/balkonkraftwerk-170.jpg?width=1920"
-  },
-  {
-   "id": "ne87ec37ef4",
-   "topic": "welt",
-   "title": "Israel: Staatsanwältin im Netanjahu-Prozess vor Dilemma",
-   "text": "Im Korruptionsprozess gegen Israels Premier Netanjahu haben die Richter empfohlen, den Vorwurf wegen Bestechlichkeit fallen zu lassen. Netanjahus Lager feiert das als Triumph - und die Staatsanwaltschaft steht massiv unter Zugzwang. Von J. Segador.",
-   "link": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-prozess-bestechungsvorwurf-100.html",
-   "published": "2026-11-26T13:02:45+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-29T13:02:45+00:00",
-   "img": "https://images.tagesschau.de/image/9e132152-fd32-4da2-bc73-a858cf347cf6/AAABohfb0SI/AAABnSSvrFg/16x9-big/netanjahu-426.jpg?width=1920"
-  },
-  {
-   "id": "neb396b1af3",
-   "topic": "wissenschaft",
-   "title": "Kognition: Was ist Intelligenz?",
-   "text": "Was macht Intelligenz aus? Vier Experten aus Tierkognition, Neurobiologie, Psychologie und KI-Forschung beleuchten diese Frage aus unterschiedlichen Blickwinkeln.",
-   "link": "https://www.spektrum.de/news/was-ist-intelligenz-menschliches-denken-kuenstliche-intelligenz/2347617",
-   "published": "2026-11-26T13:00:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-12-10T13:00:00+00:00"
-  },
-  {
-   "id": "n36510c5a5a",
-   "topic": "ki",
-   "title": "US-Behörde genehmigt SpaceX eine Million Satelliten für KI-Rechenzentren im All",
-   "text": "Die US-Kommunikationsbehörde FCC hat SpaceX die Genehmigung für bis zu eine Million \"Starmind\"-Satelliten erteilt, die als orbitale Rechenzentren KI-Daten verarbeiten sollen. Erste Starts peilt SpaceX für 2027 an, die volle Konstellation soll bis 2040 stehen. Auch Google und Blue Origin arbeiten an KI-Infrastruktur im …",
-   "link": "https://the-decoder.de/us-behoerde-genehmigt-spacex-eine-million-satelliten-fuer-ki-rechenzentren-im-all/",
-   "published": "2026-11-26T12:43:07+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-12-03T12:43:07+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/11/SpaceX-xAI-Satellite-scaled.png",
-   "also": [
-    {
-     "source": "Deutsche Welle",
-     "title": "KI-Rechenzentren im All: Eine Million Satelliten und Probleme",
-     "link": "https://www.dw.com/de/ki-rechenzentren-im-all-eine-million-satelliten-und-probleme/a-80057290?maca=de-rss-de-all-1119-xml-mrss"
-    }
-   ]
-  },
-  {
-   "id": "n8fa689c261",
-   "topic": "welt",
-   "title": "Menschen in Hongkong gedenken der Opfer von Hochhausbrand",
-   "text": "Vor einem Jahr starben 168 Menschen bei einem verheerenden Brand in einem Hochhauskomplex in Hongkong. Heute haben die Menschen dort der Opfer gedacht. Eine offizielle Gedenkveranstaltung gab es aber nicht - auch auf Druck der Regierung.",
-   "link": "https://www.tagesschau.de/ausland/asien/hongkong-gedenken-hochhausbrand-100.html",
-   "published": "2026-11-26T12:42:48+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-29T12:42:48+00:00",
-   "img": "https://images.tagesschau.de/image/d869acba-86f7-4618-ba5a-b669620e0234/AAABohby5O0/AAABnSSvrFg/16x9-big/hochhaeuser-hongkong-100.jpg?width=1920"
-  },
-  {
-   "id": "n760cb41895",
-   "topic": "welt",
-   "title": "KI-Rechenzentren im All: Eine Million Satelliten und Probleme",
-   "text": "SpaceX darf eine Million Satelliten für den Aufbau von KI-Rechenzentren ins All schießen. Experten sind skeptisch: Zu viele ungelöste Probleme und offene Fragen. Eine davon ist, wem gehört eigentlich der Himmel?",
-   "link": "https://www.dw.com/de/ki-rechenzentren-im-all-eine-million-satelliten-und-probleme/a-80057290?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-26T12:32:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-30T12:32:00+00:00",
-   "img": "https://static.dw.com/image/79951752_302.jpg",
-   "also": [
-    {
-     "source": "THE DECODER",
-     "title": "US-Behörde genehmigt SpaceX eine Million Satelliten für KI-Rechenzentren im All",
-     "link": "https://the-decoder.de/us-behoerde-genehmigt-spacex-eine-million-satelliten-fuer-ki-rechenzentren-im-all/"
-    }
-   ]
-  },
-  {
-   "id": "nba99332f71",
-   "topic": "wirtschaft",
-   "title": "Marktbericht: Aktieninvestoren blicken vorsichtig nach vorn",
-   "text": "Nach einer massiven Talfahrt erholt sich der Aktienmarkt sprunghaft. Doch eine echte Trendwende an den Börsen ist derzeit nicht in Sicht. Chancen sind ebenso wie Risiken reichlich vorhanden.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/dax-erholung-chancen-risiken-100.html",
-   "published": "2026-11-26T12:04:38+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-29T12:04:38+00:00",
-   "img": "https://images.tagesschau.de/image/37015892-b7ac-40f4-8e71-c5b885175263/AAABofKLkVQ/AAABnSSvrFg/16x9-big/dax-leitindex-100.jpg?width=1920"
-  },
-  {
-   "id": "n163a44268e",
-   "topic": "politik",
-   "title": "Zwei Mitglieder von früherer AfD-Jugend dürfen Waffen weiter besitzen",
-   "text": "Eine Organisation unter Extremismusverdacht - das reicht nicht, um Mitgliedern waffenrechtliche Erlaubnisse zu entziehen. Das hat das Bundesverwaltungsgericht entschieden. Geklagt hatten AfD-Politiker. Bei einem \"Reichsbürger\" sieht es anders aus.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/afd-waffen-urteil-100.html",
-   "published": "2026-11-26T11:39:55+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-29T11:39:55+00:00",
-   "img": "https://images.tagesschau.de/image/e6b8ac05-d435-4f22-9b0d-02ba482d900d/AAABleXMVxo/AAABnSSvrFg/16x9-big/bundesverwaltungsgericht-100.jpg?width=1920"
-  },
-  {
-   "id": "ned103fb9e0",
-   "topic": "wissenschaft",
-   "title": "Mengenpuzzle",
-   "text": "Heutiges Thema im »Christian Spannagel«-Video: Mengenlehre.",
-   "link": "https://www.spektrum.de/video/christian-spannagel-mengenpuzzle/2356060",
-   "published": "2026-11-26T11:15:00+00:00",
-   "source": "Spektrum der Wissenschaft",
-   "type": "Wissenschaftsmagazin",
-   "lang": "de",
-   "expires": "2026-12-10T11:15:00+00:00"
-  },
-  {
-   "id": "nff62716edc",
-   "topic": "welt",
-   "title": "Streit um EU-Haushalt: Warum die Slowakei blockieren will",
-   "text": "Beim EU-Sondergipfel geht der slowakische Regierungschef Fico auf Konfrontation. Zusammen mit Polen, Ungarn und Tschechien will er die EU-Haushaltspläne blockieren - insbesondere die Ukraine-Hilfen. Innenpolitisch könnte ihm das nutzen. Von M. Allweiss.",
-   "link": "https://www.tagesschau.de/ausland/europa/slowakei-blockiert-eu-haushalt-100.html",
-   "published": "2026-11-26T11:04:32+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-29T11:04:32+00:00",
-   "img": "https://images.tagesschau.de/image/4ec55a08-6f91-40b3-b910-63f1ffa5c425/AAABohdB5EU/AAABnSSvrFg/16x9-big/fico-160.jpg?width=1920"
-  },
-  {
-   "id": "nbe21467610",
-   "topic": "politik",
-   "title": "SPD reagiert verhalten auf CDU-Vorstoß zur Rente",
-   "text": "Überzeugt der neue Vorschlag zur \"Rente mit 63\" aus der Union die SPD? Erste Reaktionen von den Sozialdemokraten deuten nicht auf eine Einigung hin. Die Union fordert dagegen, \"die ausgestreckte Hand zu ergreifen\".",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/rente-diskussion-104.html",
-   "published": "2026-11-26T10:41:10+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-29T10:41:10+00:00",
-   "img": "https://images.tagesschau.de/image/fc41f688-4538-4e38-8854-7666707e2d13/AAABoheVhdE/AAABnSSvrFg/16x9-big/rentner-328.jpg?width=1920"
-  },
-  {
-   "id": "n53417e5e69",
-   "topic": "ki",
-   "title": "Microsoft zeigt, wie Hacker aus China und Nordkorea fremde Netzwerke mit autonomen KI-Agenten in Minuten übernehmen",
-   "text": "Microsoft legt die technische Architektur von ARTEX offen, einem seit Juli 2026 verbreiteten KI-Framework, das Cyberangriffe mit spezialisierten Agenten nahezu ohne menschliches Eingreifen durchführt. Staatliche Gruppen aus China und Nordkorea sowie Kriminelle nutzen das System bereits. Microsoft empfiehlt …",
-   "link": "https://the-decoder.de/microsoft-zeigt-wie-hacker-aus-china-und-nordkorea-fremde-netzwerke-mit-autonomen-ki-agenten-in-minuten-uebernehmen/",
-   "published": "2026-11-26T10:12:06+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-12-03T10:12:06+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/microsoft_human_touch.png"
-  },
-  {
-   "id": "nc46e0a4f41",
-   "topic": "politik",
-   "title": "Terrorverdacht - zwei Iraker in Köln und Heidelberg festgenommen",
-   "text": "Die Bundesanwaltschaft hat zwei Männer in Köln und Heidelberg festnehmen lassen. Sie sollen einer pro-iranischen Gruppe angehört und Anschläge geplant haben - möglicherweise auch einen auf eine Synagoge in Köln. Von H. Schmidt.",
-   "link": "https://www.tagesschau.de/inland/gesellschaft/terrorverdacht-festnahmen-102.html",
-   "published": "2026-11-26T09:39:12+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-29T09:39:12+00:00",
-   "img": "https://images.tagesschau.de/image/0676a960-eff1-4b54-8fe9-166d49a46b54/AAABohfTYPg/AAABnSSvrFg/16x9-big/razzia-polizei-140.jpg?width=1920"
-  },
-  {
-   "id": "n5539dc48d3",
-   "topic": "politik",
-   "title": "Familienministerin Prien für bildschirmfreie Zeit bei Kleinkindern",
-   "text": "Bildschirme lenken ab - egal ob Smartphone, Tablet oder Fernsehen. Familienministerin Prien hat sich deshalb dafür ausgesprochen, dass Kleinkinder in den ersten drei Lebensjahren ohne Bildschirme aufwachsen sollen.",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/prien-fuer-bildschirmfreie-kleinkindzeit-100.html",
-   "published": "2026-11-26T09:07:40+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-29T09:07:40+00:00",
-   "img": "https://images.tagesschau.de/image/d9050f1b-567a-4d03-ab8e-869583f0cca2/AAABleawnt8/AAABnSSvrFg/16x9-big/kind-smartphone-104.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Medienkonsum - Bundesfamilienministerin Prien fordert 1.000 erste bildschirmfreie Tage für Kleinkinder",
-     "link": "https://www.deutschlandfunk.de/bundesfamilienministerin-prien-fordert-1-000-erste-bildschirmfreie-tage-fuer-kleinkinder-100.html"
-    }
-   ]
-  },
-  {
-   "id": "na5d1dd9627",
-   "topic": "welt",
-   "title": "EU-Geld für die Ukraine - wie gegen Korruption vorgegangen wird",
-   "text": "Die Ukraine braucht viel Geld wegen der Schäden durch russische Luftangriffe. Das kommt oft von der EU. Journalisten und Politiker decken Fälle mutmaßlicher Korruption auf - und bewegen damit etwas. Von F. Kellermann.",
-   "link": "https://www.tagesschau.de/ausland/europa/ukraine-korruption-118.html",
-   "published": "2026-11-26T07:53:31+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-29T07:53:31+00:00",
-   "img": "https://images.tagesschau.de/image/2c2700c3-b39d-4900-a9b6-5217f10fb419/AAABohbX-Ss/AAABnSSvrFg/16x9-big/sonnenaufgang-kiew-100.jpg?width=1920"
-  },
-  {
-   "id": "n92616b4861",
-   "topic": "nfl",
-   "title": "Christian Watson won't return against Rams",
-   "text": "Green Bay Packers WR Christian Watson enters concussion protocol in Week 12",
-   "link": "https://sports.yahoo.com/nfl/articles/christian-watson-wont-return-against-032029226.html",
-   "published": "2026-11-26T03:20:29+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-12-01T03:20:29+00:00"
-  },
-  {
-   "id": "n85292119ce",
-   "topic": "politik",
-   "title": "Bundestagspräsidentin - Klöckner will Sanktionen nach Blockade durch Linke-Politikerinnen im Bundestag",
-   "text": "Nach der Blockadeaktion zweier Linken-Abgeordneten im Parlament strebt Bundestagspräsidentin Klöckner Strafmaßnahmen an.",
-   "link": "https://www.deutschlandfunk.de/kloeckner-will-sanktionen-nach-blockade-durch-linke-politikerinnen-im-bundestag-102.html",
-   "published": "2026-11-26T03:16:46+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-28T03:16:46+00:00",
-   "img": "https://bilder.deutschlandfunk.de/3a/a9/78/fc/3aa978fc-ac4c-4ef8-807e-b710a81d435f/julia-kloeckner-112-1920x1920.jpg"
-  },
-  {
-   "id": "nb1bbff1eb4",
-   "topic": "politik",
-   "title": "Medienkonsum - Bundesfamilienministerin Prien fordert 1.000 erste bildschirmfreie Tage für Kleinkinder",
-   "text": "Bundesfamilienministerin Prien hat an Eltern appelliert, ihre Kinder in den ersten drei Lebensjahren ohne Fernsehen, Smartphone, Computer und Tablet aufwachsen zu lassen.",
-   "link": "https://www.deutschlandfunk.de/bundesfamilienministerin-prien-fordert-1-000-erste-bildschirmfreie-tage-fuer-kleinkinder-100.html",
-   "published": "2026-11-26T03:16:46+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-28T03:16:46+00:00",
-   "img": "https://bilder.deutschlandfunk.de/67/89/7a/b9/67897ab9-3036-40fc-a6e9-d9eec7a51ae2/kind-maedchen-handy-social-media-soziale-netzwerke-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Familienministerin Prien für bildschirmfreie Zeit bei Kleinkindern",
-     "link": "https://www.tagesschau.de/inland/innenpolitik/prien-fuer-bildschirmfreie-kleinkindzeit-100.html"
-    }
-   ]
-  },
-  {
-   "id": "nb9958e363f",
-   "topic": "politik",
-   "title": "Nach dem Bericht der Expertenkommission - Forderungen aus Union und von Grünen nach komplettem Verbot von Prostitution",
-   "text": "Nach dem Bericht einer Expertenkommission zum Schutz von Prostitierten kommen aus der Union und von den Grünen weitreichendere Forderungen.",
-   "link": "https://www.deutschlandfunk.de/forderungen-aus-union-und-von-gruenen-nach-komplettem-verbot-von-prostitution-100.html",
-   "published": "2026-11-26T03:16:46+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-28T03:16:46+00:00",
-   "img": "https://bilder.deutschlandfunk.de/86/e3/24/fb/86e324fb-539f-454a-aeef-f6d48d292abb/prostitution-104-1920x1920.jpg"
-  },
-  {
-   "id": "n421c419def",
-   "topic": "politik",
-   "title": "Schulregeln - Nordrhein-Westfalen verbietet Gesichtsschleier im Unterricht",
-   "text": "In Nordrhein-Westfalen ist das Tragen von Gesichtschleiern im Schulunterricht künftig untersagt.",
-   "link": "https://www.deutschlandfunk.de/nordrhein-westfalen-verbietet-gesichtsschleier-im-unterricht-100.html",
-   "published": "2026-11-26T03:16:46+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-28T03:16:46+00:00",
-   "img": "https://bilder.deutschlandfunk.de/FI/LE/_4/3a/FILE_43ae24df9303ba43fc127f87f30440ba/000-19q7ii-jpg-100-768x768.jpg"
-  },
-  {
-   "id": "n53361d62c4",
-   "topic": "politik",
-   "title": "Kultur - Deutscher Kleinkunstpreis 2027 unter anderem an Schweizer Kabarettistin Patti Basler",
-   "text": "Die Schweizer Kabarettistin Patti Basler erhält den Deutschen Kleinkunstpreis 2027 in der Sparte Kabarett.",
-   "link": "https://www.deutschlandfunk.de/deutscher-kleinkunstpreis-2027-unter-anderem-an-schweizer-kabarettistin-patti-basler-100.html",
-   "published": "2026-11-26T03:16:46+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-28T03:16:46+00:00",
-   "img": "https://bilder.deutschlandfunk.de/FI/LE/_b/37/FILE_b376d13ed471e4fddc98840297313a2b/dsc-7815-jpg-100-768x768.jpg"
   }
  ]
 }
