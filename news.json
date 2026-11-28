@@ -1,55 +1,394 @@
 {
- "generated": "2026-11-27T23:27:58.577512+00:00",
+ "generated": "2026-11-28T07:49:58.886643+00:00",
  "briefing": [
-  "n4ff0803a12",
+  "n7364c5edc2",
   "n0ae101d09a",
+  "n5d8908f30e",
   "n0b5b8c5303",
   "nbad694a1e7",
-  "n67e9094c70",
-  "n31c635a9b9",
   "ndc8842be40",
   "ncd36d8c29b",
   "n28a9a6cb2e"
  ],
  "ranked": [
   {
-   "id": "n4ff0803a12",
-   "s": 34.9
+   "id": "n7364c5edc2",
+   "s": 32.9
   },
   {
    "id": "n0ae101d09a",
-   "s": 30.6
+   "s": 28.5
+  },
+  {
+   "id": "n5d8908f30e",
+   "s": 27.8
   },
   {
    "id": "n0b5b8c5303",
-   "s": 28.9
+   "s": 27.0
   },
   {
    "id": "nbad694a1e7",
    "s": 27.0
   },
   {
-   "id": "n67e9094c70",
-   "s": 23.2
-  },
-  {
-   "id": "n31c635a9b9",
-   "s": 22.8
-  },
-  {
    "id": "ndc8842be40",
-   "s": 22.5
+   "s": 22.0
   },
   {
    "id": "ncd36d8c29b",
-   "s": 20.9
+   "s": 18.8
   },
   {
    "id": "n28a9a6cb2e",
-   "s": 20.4
+   "s": 18.3
   }
  ],
  "items": [
+  {
+   "id": "n68be69f57d",
+   "topic": "politik",
+   "title": "Bundesparteitag in Dresden - BSW-Mitgründer Ernst fordert deutliche Abgrenzung zur AfD und droht mit Austritt",
+   "text": "Der BSW-Mitgründer Ernst hat mit seinem Rückzug aus der Partei gedroht, wenn diese sich nicht deutlich von der AfD abgrenzt. Ernst sagte im Deutschlandfunk, er müsste austreten, wenn der Kurs des BSW nicht eindeutig sei.",
+   "link": "https://www.deutschlandfunk.de/bsw-mitgruender-ernst-fordert-deutliche-abgrenzung-zur-afd-und-droht-mit-austritt-102.html",
+   "published": "2026-11-28T07:37:36+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T07:37:36+00:00",
+   "img": "https://bilder.deutschlandfunk.de/76/de/e7/8d/76dee78d-ca5e-48e4-baef-9ab0e4646947/bsw-ernst-100-1920x1920.jpg"
+  },
+  {
+   "id": "nc2f5897f3a",
+   "topic": "politik",
+   "title": "Frankreich - Durchsuchung in Parteizentrale des Rassemblement National",
+   "text": "In Frankreich ist in der Parteizentrale des Rassemblement National das Büro des Wahlprogramm-Koordinators von Präsidentschaftskandidatin Le Pen durchsucht worden. Nach Informationen der Nachrichtenagentur AFP fand die Aktion bereits am 9. November statt. Auch die Wohnung des Mitarbeiters sei durchsucht worden.",
+   "link": "https://www.deutschlandfunk.de/durchsuchung-in-parteizentrale-des-rassemblement-national-100.html",
+   "published": "2026-11-28T07:37:36+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T07:37:36+00:00",
+   "img": "https://bilder.deutschlandfunk.de/d6/9a/99/aa/d69a99aa-4c80-4710-bd92-f8011d395d10/rassemblement-national-bueroraeume-durchsuchung-ermittlung-wahlkampffinanzierung-100-1920x1920.jpg"
+  },
+  {
+   "id": "n370465a643",
+   "topic": "politik",
+   "title": "Sozialpolitik - Bundesarbeitsminister Schweitzer verteidigt Entwurf für Rentenreform",
+   "text": "Bundesarbeitsminister Schweitzer hat seinen Entwurf für eine Rentenreform verteidigt. Der SPD-Politiker sprach in der ARD von einem tragfähigen Kompromissvorschlag. Auch seien die Gemeinsamkeiten in der schwarz-roten Koalition größer als die Unterschiede. Die Union hatte zuvor zurückhaltend reagiert.",
+   "link": "https://www.deutschlandfunk.de/bundesarbeitsminister-schweitzer-verteidigt-entwurf-fuer-rentenreform-100.html",
+   "published": "2026-11-28T07:37:36+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T07:37:36+00:00",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Kritik aus der Union an Rentenplänen von Arbeitsminister Schweitzer",
+     "link": "https://www.tagesschau.de/inland/rentenplaene-reaktionen-102.html"
+    }
+   ]
+  },
+  {
+   "id": "n3c6d010b3b",
+   "topic": "politik",
+   "title": "Bundesagentur für Arbeit - Nahles: \"Berufseinstieg fällt vielen Jugendlichen offenbar schwer\"",
+   "text": "Die Bundesagentur für Arbeit registriert bei Jugendlichen ein Zögern bei der Entscheidung für einen Berufseinstieg.",
+   "link": "https://www.deutschlandfunk.de/nahles-berufseinstieg-faellt-vielen-jugendlichen-offenbar-schwer-106.html",
+   "published": "2026-11-28T07:37:36+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T07:37:36+00:00",
+   "img": "https://bilder.deutschlandfunk.de/d9/15/c8/2f/d915c82f-ab41-4675-9325-1fe6dbcef18c/andrea-nahles-100-1920x1920.jpg"
+  },
+  {
+   "id": "n0eebab5737",
+   "topic": "politik",
+   "title": "Bundeskongress - Juso-Chef wirft SPD Orientierungs- und Mutlosigkeit vor",
+   "text": "Juso-Chef Türmer hat der SPD Orientierungs- und Mutlosigkeit vorgeworfen.",
+   "link": "https://www.deutschlandfunk.de/juso-chef-wirft-spd-orientierungs-und-mutlosigkeit-vor-108.html",
+   "published": "2026-11-28T07:37:36+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T07:37:36+00:00"
+  },
+  {
+   "id": "nb3c9c2a380",
+   "topic": "politik",
+   "title": "Erderwärmung - Umweltminister Schneider für Umbau an Rhein",
+   "text": "Bundesumweltminister Schneider plädiert angesichts des voranschreitenden Klimawandels für Änderungen am Rhein.",
+   "link": "https://www.deutschlandfunk.de/umweltminister-schneider-fuer-umbau-an-rhein-100.html",
+   "published": "2026-11-28T07:37:36+00:00",
+   "source": "Deutschlandfunk",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T07:37:36+00:00",
+   "img": "https://bilder.deutschlandfunk.de/NO/VA/_5/8a/NOVA_58acf1b915974df26c89ee02e6a8058a/craft-13523197-asset-100-1920x1920.jpg",
+   "also": [
+    {
+     "source": "Tagesschau",
+     "title": "Nach niedrigen Pegelständen im Sommer: Umweltminister will Rhein umbauen",
+     "link": "https://www.tagesschau.de/inland/umweltminister-schneider-rhein-umbau-100.html"
+    }
+   ]
+  },
+  {
+   "id": "nebef877cf5",
+   "topic": "wirtschaft",
+   "title": "So einfach kann man schlüssellose Autos mit Keyless Go knacken",
+   "text": "Autos, die ohne Schlüssel starten, haben eine Sicherheitslücke. Für Halter stellt sich die Frage: Wenn das Auto geklaut wird, zahlt jemand für den Schaden? Von H. Beckmann und L.-M. Hiltscher.",
+   "link": "https://www.tagesschau.de/wirtschaft/digitales/keyless-cars-sicherheitsluecke-100.html",
+   "published": "2026-11-28T07:21:53+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-12-01T07:21:53+00:00",
+   "img": "https://images.tagesschau.de/image/d1e483a2-3777-439e-80a3-6d3377d62dee/AAABog1XQzI/AAABnSSvrFg/16x9-big/autoschluessel-112.jpg?width=1920"
+  },
+  {
+   "id": "n2accc8011a",
+   "topic": "it",
+   "title": "Developer-Häppchen: Twig sortiert sprachgerecht, Qt Creator steuert KI-Agenten",
+   "text": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu MantisBT, Fastbelt, Twig, Qt Creator, W3C, IPFire, Kubernetes, Vim Classic und Kotlin.",
+   "link": "https://www.heise.de/news/Developer-Haeppchen-Twig-sortiert-sprachgerecht-Qt-Creator-steuert-KI-Agenten-11538863.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-28T07:17:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-12-03T07:17:00+00:00"
+  },
+  {
+   "id": "n7364c5edc2",
+   "topic": "politik",
+   "title": "Nach niedrigen Pegelständen im Sommer: Umweltminister will Rhein umbauen",
+   "text": "Niedrige Pegelstände an deutschen Flüssen führten im Sommer zu erheblichen Wirtschaftsschäden. Umweltminister Schneider fordert nun massive Investitionen in die Wasserinfrastruktur. Er will dem Rhein mehr Platz geben.",
+   "link": "https://www.tagesschau.de/inland/umweltminister-schneider-rhein-umbau-100.html",
+   "published": "2026-11-28T07:16:29+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-12-01T07:16:29+00:00",
+   "img": "https://images.tagesschau.de/image/dad3bc90-2dac-4c5b-9c6c-fa2734508eee/AAABoAA9jfU/AAABnSSvrFg/16x9-big/niedrigwasser-rhein-110.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Erderwärmung - Umweltminister Schneider für Umbau an Rhein",
+     "link": "https://www.deutschlandfunk.de/umweltminister-schneider-fuer-umbau-an-rhein-100.html"
+    }
+   ]
+  },
+  {
+   "id": "na273e09a6b",
+   "topic": "it",
+   "title": "Zwischen Flächigkeit und Tiefenwirkung: Die Bilder der Woche 48",
+   "text": "Sieben Fotografien, sieben Wege, Raum zu inszenieren: Die Bilder der Woche zeigen, wie Perspektive und Komposition unterschiedliche Bildwirkungen erzeugen.",
+   "link": "https://www.heise.de/news/Zwischen-Flaechigkeit-und-Tiefenwirkung-Die-Bilder-der-Woche-48-11540816.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-28T07:00:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-12-03T07:00:00+00:00"
+  },
+  {
+   "id": "n2dc5bcc990",
+   "topic": "nfl",
+   "title": "NFL predictions: Jets look for first AFC East victory under Aaron Glenn against tanking Dolphins",
+   "text": "The Jets look for payback against the Dolphins on Sunday",
+   "link": "https://sports.yahoo.com/betting/articles/nfl-predictions-jets-look-first-064531770.html",
+   "published": "2026-11-28T06:45:31+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-12-03T06:45:31+00:00",
+   "img": "https://media.zenfs.com/en/sb_nation_articles_115/6b13234c2a579c1389834d4855e91a1d.jpg"
+  },
+  {
+   "id": "n643a4c71d3",
+   "topic": "nfl",
+   "title": "The telling Jaxon-Smith Njigba stat that makes 49ers-Seahawks showdown even more interesting",
+   "text": "The 49ers' chances of beating the Seahawks Sunday don't bode well because of a key statistic.",
+   "link": "https://sports.yahoo.com/nfl/articles/telling-jaxon-smith-njigba-stat-064121814.html",
+   "published": "2026-11-28T06:41:21+00:00",
+   "source": "Yahoo Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-12-03T06:41:21+00:00",
+   "img": "https://media.zenfs.com/en/ny_post_sports_articles_389/194f368b79b828a684cbeb1521c3a995.jpg"
+  },
+  {
+   "id": "n67672bd353",
+   "topic": "politik",
+   "title": "Warnung vor möglichen Giftstoffen: Großbrand bei Grillanzünder-Hersteller in Alsfeld",
+   "text": "Ein Großbrand hat die Produktionshalle eines Grillanzünder-Herstellers in Alsfeld zerstört. Die Bevölkerung wird vor dem starken und möglicherweise giftigen Rauch gewarnt. In dem Betrieb brannte es vor knapp einem Jahr schon einmal.",
+   "link": "https://www.hessenschau.de/panorama/warnung-vor-moeglichen-giftstoffen-grossbrand-bei-grillanzuender-hersteller-in-alsfeld-v2,grossbrand-alsfeld-100.html",
+   "published": "2026-11-28T06:38:17+00:00",
+   "source": "hessenschau (hr)",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-12-02T06:38:17+00:00",
+   "tag": "Hessen"
+  },
+  {
+   "id": "n9f3adb03e1",
+   "topic": "it",
+   "title": "World of Warcraft: Für mich ist Forever das bessere Classic!",
+   "text": "Seit mehr als 20 Jahren kehrt unser Autor nach Azeroth zurück. Nach vielen Stunden mit WoW Forever glaubt er, sein WoW für die Rente gefunden zu haben. Ein Erfahrungsbericht von Benedikt Plass-Fleßenkämper ( World of Warcraft , MMORPG )",
+   "link": "https://www.golem.de/news/world-of-warcraft-fuer-mich-ist-forever-das-bessere-classic-2611-215323.html",
+   "published": "2026-11-28T06:30:02+00:00",
+   "source": "Golem.de",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-12-03T06:30:02+00:00",
+   "img": "https://www.golem.de/2611/215323-609013-609011_rc.jpg"
+  },
+  {
+   "id": "n47d6d61baf",
+   "topic": "wissenschaft",
+   "title": "Nutzen der Raumfahrt & Gedränge im Orbit? • Die Macht der Satellitenne",
+   "text": "Warum nimmt die Raumfahrt 2026 so viel Fahrt auf? Matti Häberlein zeichnet den Weg vom Space Shuttle zu wiederverwendbaren Raketen und großen Satellitennetzen n",
+   "link": "https://www.spektrum.de/video/nutzen-der-raumfahrt-und-gedraenge-im-orbit-die-macht-der-satellitenne/2356425",
+   "published": "2026-11-28T06:15:43+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-12-12T06:15:43+00:00"
+  },
+  {
+   "id": "n15041d4ad9",
+   "topic": "wissenschaft",
+   "title": "Die hellen und dunklen Halos der Galaxien",
+   "text": "STERNENGESCHICHTEN LIVE TOUR in D und Ö: Tickets unter https://sternengeschichten.live 🎙️",
+   "link": "https://www.spektrum.de/podcast/die-hellen-und-dunklen-halos-der-galaxien/2356422",
+   "published": "2026-11-28T06:14:53+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-12-12T06:14:53+00:00"
+  },
+  {
+   "id": "n99b651ef28",
+   "topic": "wissenschaft",
+   "title": "Über Lichtjahre und Krawall im All",
+   "text": "Es geht heute viel ums Weltall – teils zum Guten und teils zum Schlechten. Zunächst feiern unsere Nerds, dass eine der Voyager-Sonden aktuell einen Rekord aufgestellt hat; selbst wenn der vielleicht etwas willkürlich ist. Viel spannender ist natürlich die Frage, wie viele Rubik-Würfel dieses Objekt jetzt von uns …",
+   "link": "https://www.spektrum.de/podcast/ueber-lichtjahre-und-krawall-im-all/2356419",
+   "published": "2026-11-28T06:13:55+00:00",
+   "source": "Spektrum der Wissenschaft",
+   "type": "Wissenschaftsmagazin",
+   "lang": "de",
+   "expires": "2026-12-12T06:13:55+00:00",
+   "img": "https://static.spektrum.de/fm/912/thumbnails/NAW_Cover_nawik_2000.png.8376389.png?f=1280x720"
+  },
+  {
+   "id": "n5b495f33d2",
+   "topic": "it",
+   "title": "Jellyfin und KDE Plasma Bigscreen statt teurer Streaming-Abos | c’t uplink",
+   "text": "Wie Ihr mit Jellyfin Eure eigene Mediathek baut und mit Plasma Bigscreen einen DIY-Wohnzimmer-PC – darum geht es diese Woche in c’t uplink.",
+   "link": "https://www.heise.de/news/Jellyfin-und-KDE-Plasma-Bigscreen-statt-teurer-Streaming-Abos-c-t-uplink-11540760.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "published": "2026-11-28T05:30:00+00:00",
+   "source": "heise online",
+   "type": "Fachmedium (IT)",
+   "lang": "de",
+   "expires": "2026-12-03T05:30:00+00:00"
+  },
+  {
+   "id": "n84eeaed799",
+   "topic": "politik",
+   "title": "Kritik aus der Union an Rentenplänen von Arbeitsminister Schweitzer",
+   "text": "Der Vorschlag des Arbeitsministers zur Reform der Rente liegt auf dem Tisch - und der Gegenwind aus der Union ist recht rau. Dem Koalitionspartner stößt auf, dass die \"Rente mit 63\" im Kern erhalten bleibt. Doch nicht nur das.",
+   "link": "https://www.tagesschau.de/inland/rentenplaene-reaktionen-102.html",
+   "published": "2026-11-28T04:58:25+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-12-01T04:58:25+00:00",
+   "img": "https://images.tagesschau.de/image/0e430599-2cda-4821-8c37-65ff5c608f91/AAABoiCE0T8/AAABnSSvrFg/16x9-big/schweitzer-186.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Sozialpolitik - Bundesarbeitsminister Schweitzer verteidigt Entwurf für Rentenreform",
+     "link": "https://www.deutschlandfunk.de/bundesarbeitsminister-schweitzer-verteidigt-entwurf-fuer-rentenreform-100.html"
+    }
+   ]
+  },
+  {
+   "id": "n02ea39fb20",
+   "topic": "nfl",
+   "title": "Chargers poised to start DJ Uiagalelei with Justin Herbert ruled out for Week 12",
+   "text": "Uiagalelei's first career start marks a new low for Los Angeles' maligned offense",
+   "link": "https://www.cbssports.com/nfl/news/chargers-poised-to-start-dj-uiagalelei-with-justin-herbert-ruled-out-for-week-12/",
+   "published": "2026-11-28T03:43:58+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-12-03T03:43:58+00:00"
+  },
+  {
+   "id": "n9f4538ba8c",
+   "topic": "welt",
+   "title": "Treibstoffkrise in Malawi: Kaum Geld - und dann der Iran-Krieg",
+   "text": "Malawi leidet unter einer extremen Treibstoffkrise. Die fragile Wirtschaft hängt vom Tabakexport ab - zu schwachen Deviseneinnahmen kommt die Lage an der Straße von Hormus hinzu. Die Krise wirkt sich auf alle Lebensbereiche aus. Von C. Hauck.",
+   "link": "https://www.tagesschau.de/ausland/afrika/malawi-treibstoffkrise-100.html",
+   "published": "2026-11-28T03:34:41+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-12-01T03:34:41+00:00",
+   "img": "https://images.tagesschau.de/image/a9f1fee8-6eed-41fd-9fe2-7ca6f190ce94/AAABoiA4Jl0/AAABnSSvrFg/16x9-big/motorradfahrer-malawi-100.jpg?width=1920"
+  },
+  {
+   "id": "n4a63c7589e",
+   "topic": "welt",
+   "title": "US-Militär beschießt Frachter im Golf von Oman",
+   "text": "Im Golf von Oman hat das US-Militär nach eigenen Angaben ein Handelsschiff beschossen. Die Besatzung habe versucht, die US-Blockade iranischer Häfen zu durchbrechen. Das Schiff sei manövrierunfähig, die Crew unverletzt.",
+   "link": "https://www.tagesschau.de/ausland/asien/iran-usa-frachter-beschuss-golf-oman-100.html",
+   "published": "2026-11-28T03:27:38+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-12-01T03:27:38+00:00",
+   "img": "https://images.tagesschau.de/image/d4f33ed9-50ca-450e-b1f2-3fac2df5843b/AAABoiAxs5A/AAABnSSvrFg/16x9-big/oman-136.jpg?width=1920"
+  },
+  {
+   "id": "n81de180b3c",
+   "topic": "nfl",
+   "title": "NFL Week 12 injury report: Brock Purdy, Justin Herbert out as QB health dwindles across league",
+   "text": "Final injury reports for every team playing on Sunday in Week 12",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-12-injury-report-brock-purdy-justin-herbert-out/",
+   "published": "2026-11-28T02:36:32+00:00",
+   "source": "CBS Sports",
+   "type": "Sportmedium",
+   "lang": "en",
+   "expires": "2026-12-03T02:36:32+00:00"
+  },
+  {
+   "id": "n77a6241653",
+   "topic": "welt",
+   "title": "Durchsuchung bei Le Pens früherem Bürochef",
+   "text": "Er soll vertrauliche Informationen aus dem Innenministerium erhalten haben: In Frankreich sind die Parteizentrale des Rassemblement National und die Wohnung des früheren Bürochefs von Präsidentschaftskandidatin Le Pen durchsucht worden.",
+   "link": "https://www.tagesschau.de/ausland/europa/frankreich-durchsuchung-ex-mitarbeiter-le-pen-100.html",
+   "published": "2026-11-28T01:41:50+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-12-01T01:41:50+00:00",
+   "img": "https://images.tagesschau.de/image/f4196419-2393-4935-bab4-434033c5194c/AAABoh_Q1u8/AAABnSSvrFg/16x9-big/le-pen-242.jpg?width=1920"
+  },
+  {
+   "id": "n4f1d7bf044",
+   "topic": "politik",
+   "title": "Entwurf für Spritpreisdeckel liegt vor - Kabinett beschließt am Mittwoch",
+   "text": "Ein werktags berechneter Höchstpreis, Bußgeld bei Nichteinhaltung und Ausnahmen an Autobahnen: Der Spritpreisdeckel soll ab Januar gelten. Ein Entwurf ist nun in der Abstimmung. Das Kabinett könnte darüber am Mittwoch entscheiden.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/spritpreisdeckel-entwurf-kabinett-100.html",
+   "published": "2026-11-27T23:35:35+00:00",
+   "source": "Tagesschau",
+   "type": "Öffentlich-rechtlich",
+   "lang": "de",
+   "expires": "2026-11-30T23:35:35+00:00",
+   "img": "https://images.tagesschau.de/image/cf5a8317-6f6d-4d52-8005-d01621cc19e2/AAABoZwyatQ/AAABnSSvrFg/16x9-big/tankstelle-394.jpg?width=1920"
+  },
   {
    "id": "n00f1d0db2a",
    "topic": "nfl",
@@ -86,7 +425,6 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-12-01T23:05:37+00:00",
-   "img": "https://www.hessenschau.de/panorama/grossbrand-alsfeld-102~_t-1795820994359_v-16to9.jpg",
    "tag": "Hessen"
   },
   {
@@ -125,8 +463,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-11-29T22:48:57+00:00",
-   "img": "https://bilder.deutschlandfunk.de/35/0f/87/25/350f8725-adb7-45f5-b32b-e9438869034e/bundestag-bundesarbeitsminister-alexander-schweitzer-beratungen-haushalt-100-1920x1920.jpg"
+   "expires": "2026-11-29T22:48:57+00:00"
   },
   {
    "id": "nf20e20cf47",
@@ -138,8 +475,7 @@
    "source": "Deutschlandfunk",
    "type": "Öffentlich-rechtlich",
    "lang": "de",
-   "expires": "2026-11-29T22:48:57+00:00",
-   "img": "https://bilder.deutschlandfunk.de/f6/b2/ca/89/f6b2ca89-1f15-4a9c-960f-04a1eb745b45/jusos-100-1920x1920.jpg"
+   "expires": "2026-11-29T22:48:57+00:00"
   },
   {
    "id": "na1bb8164ac",
@@ -204,7 +540,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-30T22:10:29+00:00",
-   "img": "https://images.tagesschau.de/image/b577bb9c-63ef-4810-811f-dc952930859b/AAABoh7oXzo/AAABnSSvrFg/16x9-big/sendungsbild-1834182.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/b577bb9c-63ef-4810-811f-dc952930859b/AAABoh7oXzo/AAABnSSvrFg/16x9-big/sendungsbild-1834182.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Sozialpolitik - Bundesarbeitsminister Schweitzer verteidigt Entwurf für Rentenreform",
+     "link": "https://www.deutschlandfunk.de/bundesarbeitsminister-schweitzer-verteidigt-entwurf-fuer-rentenreform-100.html"
+    }
+   ]
   },
   {
    "id": "n04fc7cf2e7",
@@ -357,7 +700,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-30T16:30:51+00:00",
-   "img": "https://images.tagesschau.de/image/eb4e4b7c-9b50-470b-abfe-ce3627d16970/AAABoh1I5C4/AAABnSSvrFg/16x9-big/handwerker-streicht-100.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/eb4e4b7c-9b50-470b-abfe-ce3627d16970/AAABoh1I5C4/AAABnSSvrFg/16x9-big/handwerker-streicht-100.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Sozialpolitik - Bundesarbeitsminister Schweitzer verteidigt Entwurf für Rentenreform",
+     "link": "https://www.deutschlandfunk.de/bundesarbeitsminister-schweitzer-verteidigt-entwurf-fuer-rentenreform-100.html"
+    }
+   ]
   },
   {
    "id": "n58fbbaf7d5",
@@ -596,7 +946,7 @@
    "id": "n28a9a6cb2e",
    "topic": "welt",
    "title": "Heraskewytsch begrüßt EU-Vorstoß gegen Athleten aus Russland",
-   "text": "Der ukrainische Skeletonfahrer Wladyslaw Heraskewytsch hat Pläne der Europäischen Union begrüßt, russische Sportler bei Wettkämpfen innerhalb der EU stärker einzuschränken.",
+   "text": "Der ukrainische Skeletonfahrer Wladyslaw Heraskewytsch befürwortet Pläne der Europäischen Union, russische Sportler bei Wettkämpfen innerhalb der EU stärker einzuschränken.",
    "link": "https://www.dw.com/de/heraskewytsch-begrüßt-eu-vorstoß-gegen-athleten-aus-russland/a-80076145?maca=de-rss-de-all-1119-xml-mrss",
    "published": "2026-11-27T13:10:00+00:00",
    "source": "Deutsche Welle",
@@ -834,11 +1184,6 @@
      "source": "Tagesschau",
      "title": "SAP erwägt offenbar Abbau von Tausenden Stellen",
      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/sap-stellenabbau-geplant-100.html"
-    },
-    {
-     "source": "Golem.de",
-     "title": "KI-orientierte Umstrukturierung: SAP erwägt erneut Abbau von mindestens 10.000 Arbeitsplätzen",
-     "link": "https://www.golem.de/news/ki-orientierte-umstrukturierung-sap-erwaegt-erneut-abbau-von-mindestens-10-000-arbeitsplaetzen-2611-215715.html"
     }
    ]
   },
@@ -898,11 +1243,6 @@
      "source": "THE DECODER",
      "title": "KI-Umbau: SAP plant laut Bericht den Abbau von mindestens 10.000 Stellen",
      "link": "https://the-decoder.de/ki-umbau-sap-plant-laut-bericht-den-abbau-von-mindestens-10-000-stellen/"
-    },
-    {
-     "source": "Golem.de",
-     "title": "KI-orientierte Umstrukturierung: SAP erwägt erneut Abbau von mindestens 10.000 Arbeitsplätzen",
-     "link": "https://www.golem.de/news/ki-orientierte-umstrukturierung-sap-erwaegt-erneut-abbau-von-mindestens-10-000-arbeitsplaetzen-2611-215715.html"
     }
    ]
   },
@@ -917,7 +1257,14 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-30T11:07:08+00:00",
-   "img": "https://images.tagesschau.de/image/213c5abd-da23-4a4b-80b6-9a8717817581/AAABohxxRjI/AAABnSSvrFg/16x9-big/schweitzer-180.jpg?width=1920"
+   "img": "https://images.tagesschau.de/image/213c5abd-da23-4a4b-80b6-9a8717817581/AAABohxxRjI/AAABnSSvrFg/16x9-big/schweitzer-180.jpg?width=1920",
+   "also": [
+    {
+     "source": "Deutschlandfunk",
+     "title": "Sozialpolitik - Bundesarbeitsminister Schweitzer verteidigt Entwurf für Rentenreform",
+     "link": "https://www.deutschlandfunk.de/bundesarbeitsminister-schweitzer-verteidigt-entwurf-fuer-rentenreform-100.html"
+    }
+   ]
   },
   {
    "id": "nfdfe02ce09",
@@ -1222,14 +1569,7 @@
    "type": "Öffentlich-rechtlich",
    "lang": "de",
    "expires": "2026-11-29T01:37:39+00:00",
-   "img": "https://bilder.deutschlandfunk.de/c8/ab/5c/14/c8ab5c14-053e-4735-8d20-6903586a7e1d/tarifabschluss-metall-elektro-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Einigung im Tarifstreit der Metall- und Elektroindustrie",
-     "link": "https://www.tagesschau.de/wirtschaft/tarifabschluss-metall-elektroindustrie-100.html"
-    }
-   ]
+   "img": "https://bilder.deutschlandfunk.de/c8/ab/5c/14/c8ab5c14-053e-4735-8d20-6903586a7e1d/tarifabschluss-metall-elektro-100-1920x1920.jpg"
   },
   {
    "id": "nc17a5ed741",
@@ -1373,353 +1713,6 @@
      "link": "https://www.deutschlandfunk.de/merz-keine-einigung-ueber-eu-finanzen-gipfel-wird-vorzeitig-beendet-100.html"
     }
    ]
-  },
-  {
-   "id": "naf518ee7e5",
-   "topic": "welt",
-   "title": "Rekord-Schmerzensgeld nach Missbrauch durch Priester - Bistum muss sich der Verantwortung stellen",
-   "text": "Es ist eine historische Entscheidung. Kölner Richter sehen die katholische Kirche in der maßgeblichen Verantwortung für den Missbrauch durch Kleriker. Das hat höhere Zahlungen an Betroffene zur Folge.",
-   "link": "https://www.dw.com/de/rekord-schmerzensgeld-nach-missbrauch-durch-priester-bistum-muss-sich-der-verantwortung-stellen/a-80065560?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-26T20:20:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-30T20:20:00+00:00",
-   "img": "https://static.dw.com/image/80065817_302.jpg"
-  },
-  {
-   "id": "nebbf290327",
-   "topic": "welt",
-   "title": "Das ehemalige Bündnis Sahra Wagenknecht (BSW) hat einen neuen Namen und flirtet mit der AfD. Hat die Partei noch eine Zukunft?",
-   "text": "Nach dem Scheitern bei der Bundestagswahl hat sich die BSW-Gründerin von der Spitze verabschiedet. Nur in Sachsen-Anhalt ist das Bündnis noch ein Faktor und flirtet mit der AfD. Der Parteitag könnte turbulent werden.",
-   "link": "https://www.dw.com/de/das-ehemalige-bündnis-sahra-wagenknecht-bsw-hat-einen-neuen-namen-und-flirtet-mit-der-afd-hat-die-partei-noch-eine-zukunft/a-80051078?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-26T20:09:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-30T20:09:00+00:00",
-   "img": "https://static.dw.com/image/78348823_302.jpg"
-  },
-  {
-   "id": "na48db4521f",
-   "topic": "it",
-   "title": "SAP: KI zuerst, 10.000 Mitarbeiter weniger",
-   "text": "Alle SAP-Abteilungen müssen melden, welche Stellen gestrichen werden können, berichtet Bloomberg. KI soll mindestens 10.000 überflüssig machen.",
-   "link": "https://www.heise.de/news/SAP-AI-First-10-000-Mitarbeiter-weniger-11539781.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-26T20:05:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-12-01T20:05:00+00:00"
-  },
-  {
-   "id": "nfa4a62c58e",
-   "topic": "wirtschaft",
-   "title": "Wirtschaft vor acht vom 26.11.2026",
-   "text": "Wirtschaft vor acht vom 26.11.2026",
-   "link": "https://www.tagesschau.de/video/video-1690646.html",
-   "published": "2026-11-26T19:23:55+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-29T19:23:55+00:00",
-   "img": "https://images.tagesschau.de/image/da2d438b-36f6-457b-858d-8c598fe0deb6/AAABohlQc20/AAABnSSvrFg/16x9-big/sendungsbild-1833630.jpg?width=1920"
-  },
-  {
-   "id": "n3342b2eea5",
-   "topic": "wissenschaft",
-   "title": "Deutsche Firmen forschen an Technik für Waffendepots im Weltraum",
-   "text": "Angesichts der globalen Bedrohungslage gewinnt der Weltraum beim Thema Verteidigung an Bedeutung. Eine neue Technologie aus Deutschland soll den schnellen Transport von Waffen aus dem Orbit auf die Erde ermöglichen. Von U. Gradwohl und L.Wager.",
-   "link": "https://www.tagesschau.de/wissen/waffendepots-orbit-100.html",
-   "published": "2026-11-26T19:15:35+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-12-10T19:15:35+00:00",
-   "img": "https://images.tagesschau.de/image/1b467c13-52f4-4d93-8299-ea82deefda42/AAABohgyC2k/AAABnSSvrFg/16x9-big/konzeptzeichnungen-atmos-100.jpg?width=1920"
-  },
-  {
-   "id": "nc10b48338e",
-   "topic": "ki",
-   "title": "Nicht der Riemann-Beweis ist entscheidend, sondern dass ein KI-System existiert, das ihn liefern kann",
-   "text": "Scott Aaronson, Komplexitätstheoretiker und Ex-OpenAI-Mitarbeiter, sieht in den jüngsten KI-Mathematik-Durchbrüchen weit mehr als akademische Erfolge: von wirtschaftlichen Umwälzungen bis zu Risiken für die Menschheit. Laut Aaronson sitzen KI-Labore zudem auf Ergebnissen, die aktuelle Verschlüsselungsverfahren brechen …",
-   "link": "https://the-decoder.de/nicht-der-riemann-beweis-ist-entscheidend-sondern-dass-ein-ki-system-existiert-das-ihn-liefern-kann/",
-   "published": "2026-11-26T19:11:46+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-12-03T19:11:46+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/09/math_geometry_openai_hodge.png"
-  },
-  {
-   "id": "n78022e67c9",
-   "topic": "it",
-   "title": "Black Friday: Dieser Over-Ear-Kopfhörer für 50 Euro schlägt Modelle für 590 Euro",
-   "text": "Zum Black Friday kosten viele getestete Over-Ear-Kopfhörer weniger. Wir zeigen die 10 besten aus über 50 Tests und die stärksten Angebote.",
-   "link": "https://www.heise.de/bestenlisten/testsieger/black-friday-dieser-over-ear-kopfhoerer-fuer-50-euro-schlaegt-modelle-fuer-590-euro/sl68nkv?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "published": "2026-11-26T19:00:00+00:00",
-   "source": "heise online",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-12-01T19:00:00+00:00"
-  },
-  {
-   "id": "n19ad0b015a",
-   "topic": "it",
-   "title": "KI-orientierte Umstrukturierung: SAP erwägt erneut Abbau von mindestens 10.000 Arbeitsplätzen",
-   "text": "Nach dem Einstellungsstopp im Sommer plant SAP offenbar den nächsten großen Stellenabbau. Betroffen sein sollen vor allem Produktentwicklung und Vertrieb. ( SAP , KI )",
-   "link": "https://www.golem.de/news/ki-orientierte-umstrukturierung-sap-erwaegt-erneut-abbau-von-mindestens-10-000-arbeitsplaetzen-2611-215715.html",
-   "published": "2026-11-26T18:31:01+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-12-01T18:31:01+00:00",
-   "img": "https://www.golem.de/2611/215715-610894-610892_rc.jpg",
-   "also": [
-    {
-     "source": "THE DECODER",
-     "title": "KI-Umbau: SAP plant laut Bericht den Abbau von mindestens 10.000 Stellen",
-     "link": "https://the-decoder.de/ki-umbau-sap-plant-laut-bericht-den-abbau-von-mindestens-10-000-stellen/"
-    },
-    {
-     "source": "Tagesschau",
-     "title": "SAP erwägt offenbar Abbau von Tausenden Stellen",
-     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/sap-stellenabbau-geplant-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n735bea62b3",
-   "topic": "welt",
-   "title": "Rheinmetall-Arbeiter bei Angriff in Kuwait getötet",
-   "text": "In Kuwait sind bei einem Drohnenangriff zwei Italiener getötet worden, die bei dem deutschen Rüstungskonzern Rheinmetall beschäftigt waren. Italien weist Iran die Verantwortung zu, doch Teheran dementiert den Angriff.",
-   "link": "https://www.tagesschau.de/ausland/asien/kuwait-tote-angriff-kuwait-100.html",
-   "published": "2026-11-26T18:08:12+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-29T18:08:12+00:00",
-   "img": "https://images.tagesschau.de/image/ccaba250-9d08-4353-a869-90a0d68ef0b4/AAABoUmJP04/AAABnSSvrFg/16x9-big/karte-strasse-von-hormus-iran-anrainer-100.jpg?width=1920"
-  },
-  {
-   "id": "n51510805e0",
-   "topic": "welt",
-   "title": "Warum die Bundeswehr im Senegal trainiert",
-   "text": "Es ist die bislang größte Bundeswehr-Übung in Afrika: Im Senegal trainieren rund 1.000 Soldaten mit den dortigen Streitkräften die Evakuierung aus einem fiktiven Krisenstaat. Warum dort? Von Kai Küstner.",
-   "link": "https://www.tagesschau.de/ausland/afrika/senegal-uebung-bundeswehr-100.html",
-   "published": "2026-11-26T17:59:05+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-29T17:59:05+00:00",
-   "img": "https://images.tagesschau.de/image/9dbff2b8-8bf4-4666-b864-e28c48c07e49/AAABohOcv3M/AAABnSSvrFg/16x9-big/bundeswehr-flieger-100.jpg?width=1920"
-  },
-  {
-   "id": "n4708a1f93c",
-   "topic": "welt",
-   "title": "Krieg, Inflation, Migration: Warum Dauerkrisen den Ruf nach starken Führern fördern – und was dagegen hilft",
-   "text": "Nicht die Krisen selbst gefährden die Demokratie, sondern die Gefühle von Ohnmacht und Verlust sowie die Sehnsucht nach einfachen Lösungen. Die Forschung kennt aber auch Wege aus dem destruktiven Krisenmodus.",
-   "link": "https://www.dw.com/de/krieg-inflation-migration-warum-dauerkrisen-den-ruf-nach-starken-führern-fördern-und-was-dagegen-hilft/a-80063863?maca=de-rss-de-all-1119-xml-mrss",
-   "published": "2026-11-26T17:56:00+00:00",
-   "source": "Deutsche Welle",
-   "type": "Öffentlich-rechtlich (Auslandsrundfunk)",
-   "lang": "de",
-   "expires": "2026-11-30T17:56:00+00:00",
-   "img": "https://static.dw.com/image/79591953_302.jpg"
-  },
-  {
-   "id": "n4ff9f62f05",
-   "topic": "wirtschaft",
-   "title": "Spanier Hernández de Cos soll Nachfolger von EZB-Chefin Lagarde werden",
-   "text": "EZB-Chefin Lagarde hatte angekündigt, ihren Posten im Februar aufzugeben. Nun ist die Nachfolge geklärt: Die EU-Spitzen einigten sich auf den Spanier Hernández de Cos. Ein Deutscher ist als Chefvolkswirt vorgesehen.",
-   "link": "https://www.tagesschau.de/wirtschaft/ezb-chef-de-cos-100.html",
-   "published": "2026-11-26T17:28:08+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-29T17:28:08+00:00",
-   "img": "https://images.tagesschau.de/image/1344f117-a161-478f-b66c-dda7ca523d3b/AAABohhRpBA/AAABnSSvrFg/16x9-big/de-cos-100.jpg?width=1920"
-  },
-  {
-   "id": "n52a1b8dfe1",
-   "topic": "wirtschaft",
-   "title": "Marktbericht: DAX macht einen Sprung nach vorn",
-   "text": "Mit Rückenwind der Technologie-Aktien springt der DAX am Donnerstag wieder über die Marke von 25.000 Punkten. Doch das Grundvertrauen, ob und wie weit die Erholung trägt, bleibt angeschlagen.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-174.html",
-   "published": "2026-11-26T17:23:20+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-29T17:23:20+00:00",
-   "img": "https://images.tagesschau.de/image/61ca22c3-28a1-4cca-93b6-77f4ec9d533e/AAABocSNXBk/AAABnSSvrFg/16x9-big/boerse-568.jpg?width=1920"
-  },
-  {
-   "id": "n7926c317d8",
-   "topic": "ki",
-   "title": "OpenAI hat sich verrechnet: GPT-6.2-Nutzer erreichen ihre Limits jetzt 40 Prozent schneller",
-   "text": "OpenAI hat einen Abrechnungsfehler bei GPT-6.2 eingeräumt: Astra- und Sol-Nutzer erreichen ihre Limits nun 40 bzw. 25 Prozent schneller als in der Vorwoche. Als Ausgleich gibt es einen Extra-Reset und für Business-User kostenlosen Fast-Mode bis Jahresende. Parallel testet OpenAI die Zusammenlegung von Chat- und …",
-   "link": "https://the-decoder.de/openai-hat-sich-verrechnet-gpt-6-2-nutzer-erreichen-ihre-limits-jetzt-40-prozent-schneller/",
-   "published": "2026-11-26T17:20:56+00:00",
-   "source": "THE DECODER",
-   "type": "Fachmedium (KI)",
-   "lang": "de",
-   "expires": "2026-12-03T17:20:56+00:00",
-   "img": "https://the-decoder.de/wp-content/uploads/2026/10/openai.png"
-  },
-  {
-   "id": "na9f14ccee5",
-   "topic": "it",
-   "title": "Globale Aktionen: Amazon-Beschäftigte streiken am Black Friday an elf Standorten",
-   "text": "Verdi wirft dem Konzern Einschüchterung und Falschinformationen zu Streiks vor. Amazon weist das entschieden zurück. ( Black Friday , Amazon )",
-   "link": "https://www.golem.de/news/globale-aktionen-amazon-beschaeftigte-streiken-am-black-friday-an-elf-standorten-2611-215713.html",
-   "published": "2026-11-26T17:17:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-12-01T17:17:02+00:00",
-   "img": "https://www.golem.de/2611/215713-610886-610884_rc.jpg"
-  },
-  {
-   "id": "nf77aab4c89",
-   "topic": "politik",
-   "title": "IG Metall - Tarifeinigung in der Metall- und Elektroindustrie",
-   "text": "Im Tarifstreit der Metall- ‌und ⁠Elektroindustrie haben ⁠sich die Gewerkschaft IG Metall und die Arbeitgeber geeinigt. Demnach gibt es Gehaltssteigerungen von insgesamt 4,3 Prozent in zwei Schritten und eine Einmalzahlung.",
-   "link": "https://www.deutschlandfunk.de/tarifeinigung-in-der-metall-und-elektroindustrie-110.html",
-   "published": "2026-11-26T16:48:22+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-28T16:48:22+00:00",
-   "img": "https://bilder.deutschlandfunk.de/06/fe/12/fc/06fe12fc-0671-4d9c-b14d-7ba15a7248fd/fahne-ig-metall-100-1920x1920.jpg",
-   "also": [
-    {
-     "source": "Tagesschau",
-     "title": "Einigung im Tarifstreit der Metall- und Elektroindustrie",
-     "link": "https://www.tagesschau.de/wirtschaft/tarifabschluss-metall-elektroindustrie-100.html"
-    }
-   ]
-  },
-  {
-   "id": "n7dbc58a097",
-   "topic": "politik",
-   "title": "Europäische Zentralbank - Spanier soll neuer EZB-Präsident werden",
-   "text": "Der Spanier de Cos soll neuer Präsident der Europäischen Zentralbank werden.Darauf einigten sich die Staats- und Regierungschefs der EU beim Gipfel in Brüssel, wie der französische Präsident Macron mitteilte. Die Entscheidung muss noch formal bestätigt werden.",
-   "link": "https://www.deutschlandfunk.de/spanier-soll-neuer-ezb-praesident-werden-102.html",
-   "published": "2026-11-26T16:48:22+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-28T16:48:22+00:00",
-   "img": "https://bilder.deutschlandfunk.de/26/3a/ef/d6/263aefd6-e89c-4f77-9c4f-1c09aeede3d8/pablo-hernandez-de-cos-ezb-100-1920x1920.jpg"
-  },
-  {
-   "id": "n755b2db2b4",
-   "topic": "politik",
-   "title": "Handelspolitik - Wadephul kritisiert Ankündigung neuer US-Zölle - China und Japan protestieren gegen Zollpläne",
-   "text": "Bundesaußenminister Wadephul hat die drohenden neuen US-Zölle als Handelshemmnis kritisiert. Wadephul sagte in Berlin, die Bundesregierung habe die Ankündigung zur Kenntnis genommen. Man gehe aber davon aus, dass das sogenannte Turnberry-Abkommen eingehalten werde.",
-   "link": "https://www.deutschlandfunk.de/wadephul-kritisiert-ankuendigung-neuer-us-zoelle-china-und-japan-protestieren-gegen-zollplaene-100.html",
-   "published": "2026-11-26T16:48:22+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-28T16:48:22+00:00",
-   "img": "https://bilder.deutschlandfunk.de/48/b9/ce/0d/48b9ce0d-3775-447a-9ece-a28ddb83465a/wadephul-atlanta-100-1920x1920.jpg"
-  },
-  {
-   "id": "ne8d5f6140b",
-   "topic": "politik",
-   "title": "\"Respekt-Rente\" - Kompromissvorschlag aus der Union im Streit über \"Rente mit 63\" - gemischte Reaktionen der SPD",
-   "text": "Im Ringen um die abschlagsfreie Frühverrentung nach 45 Beitragsjahren sieht die Union Chancen auf eine Einigung mit der SPD. Mehrere Unionspolitiker haben einen Vorschlag vorgelegt. Die sogenannte Rente mit 63 soll demnach für Menschen mit kleinen Einkommen vollständig erhalten bleiben.",
-   "link": "https://www.deutschlandfunk.de/kompromissvorschlag-aus-der-union-im-streit-ueber-rente-mit-63-gemischte-reaktionen-der-spd-100.html",
-   "published": "2026-11-26T16:48:22+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-28T16:48:22+00:00"
-  },
-  {
-   "id": "n24d2294f85",
-   "topic": "politik",
-   "title": "Bundeswehr - Erste Frau an der Spitze eines Marinestützpunkts",
-   "text": "Der Marinestützpunkt Eckernförde wird künftig von Fregattenkapitänin Lydia Knaak geführt. Damit hat erstmals eine Frau das Kommando über einen deutschen Marinestützpunkt übernommen. Die 38-Jährige sagte, die Aufgabe erfülle sie mit Riesenstolz.",
-   "link": "https://www.deutschlandfunk.de/erste-frau-an-der-spitze-eines-marinestuetzpunkts-100.html",
-   "published": "2026-11-26T16:48:22+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-28T16:48:22+00:00",
-   "img": "https://bilder.deutschlandfunk.de/1b/42/b9/0f/1b42b90f-3774-45f0-9f67-e070dbe56619/fregattenkapitaenin-lydia-knaak-100-1920x1920.jpg"
-  },
-  {
-   "id": "nbbcdf481e5",
-   "topic": "politik",
-   "title": "Bundestag - Linken-Abgeordneten drohen Konsequenzen nach Blockade-Aktion gegen Ex-Mossad-Chef Barnea",
-   "text": "Die Protestaktion von Linken-Abgeordneten bei einer Bundestags-Veranstaltung mit Israels Ex-Geheimdienstchef Barnea hat Konsequenzen.",
-   "link": "https://www.deutschlandfunk.de/linken-abgeordneten-drohen-konsequenzen-nach-blockade-aktion-gegen-ex-mossad-chef-barnea-100.html",
-   "published": "2026-11-26T16:48:22+00:00",
-   "source": "Deutschlandfunk",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-28T16:48:22+00:00",
-   "img": "https://bilder.deutschlandfunk.de/c7/b6/eb/48/c7b6eb48-ac38-457c-980e-c660bcde9ce5/mossad-israel-direktor-david-barnea-al-thani-treffen-verhandlunge-freilassung-geiseln-100-1920x1920.jpg"
-  },
-  {
-   "id": "n918f007bf4",
-   "topic": "nfl",
-   "title": "Bears vs. Lions live updates, inactives, where to watch: Detroit hosts Caleb Williams and Chicago to fight for No. 1 in the NFC North",
-   "text": "The Bears and Lions open up Thanksgiving football.",
-   "link": "https://sports.yahoo.com/nfl/live/bears-lions-score-live-updates-inactives-highlights-stats-where-to-watch-week-12-thanksgiving-164414224.html",
-   "published": "2026-11-26T16:44:14+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-12-01T16:44:14+00:00"
-  },
-  {
-   "id": "n3f114469c1",
-   "topic": "wirtschaft",
-   "title": "Einigung im Tarifstreit der Metall- und Elektroindustrie",
-   "text": "Die Beschäftigten in der Metall- und Elektroindustrie sollen in zwei Stufen insgesamt 4,3 Prozent mehr Lohn erhalten. Darauf haben sich Arbeitgeber und IG Metall geeinigt. Der Pilotabschluss ermöglicht aber auch Ausnahmen.",
-   "link": "https://www.tagesschau.de/wirtschaft/tarifabschluss-metall-elektroindustrie-100.html",
-   "published": "2026-11-26T16:43:33+00:00",
-   "source": "Tagesschau",
-   "type": "Öffentlich-rechtlich",
-   "lang": "de",
-   "expires": "2026-11-29T16:43:33+00:00",
-   "img": "https://images.tagesschau.de/image/58ebaf0a-293f-4bc6-8a47-7d107e0d0a47/AAABohiAjyk/AAABnSSvrFg/16x9-big/flaggen-ig-metall-100.jpg?width=1920",
-   "also": [
-    {
-     "source": "Deutschlandfunk",
-     "title": "Wirtschaft - Einigung in der Metall- und Elektroindustrie \"klares Zukunftssignal\"",
-     "link": "https://www.deutschlandfunk.de/einigung-in-der-metall-und-elektroindustrie-klares-zukunftssignal-104.html"
-    }
-   ]
-  },
-  {
-   "id": "n236ddcf329",
-   "topic": "nfl",
-   "title": "Bears-Lions Inactives: D’Marco Jackson and Keyshaun Elliott will play",
-   "text": "Full list of inactive players for the Bears and Lions from @wiltfongjr.",
-   "link": "https://sports.yahoo.com/nfl/articles/bears-lions-inactives-d-marco-164105166.html",
-   "published": "2026-11-26T16:41:05+00:00",
-   "source": "Yahoo Sports",
-   "type": "Sportmedium",
-   "lang": "en",
-   "expires": "2026-12-01T16:41:05+00:00",
-   "img": "https://media.zenfs.com/en/sb_nation_articles_115/30d4017e6dd354926c28a9533e0c3150.jpg"
-  },
-  {
-   "id": "n72750439e1",
-   "topic": "it",
-   "title": "Höhenwind: Windpark auf 5.100 Meter Höhe eröffnet",
-   "text": "Im Himalaya geht ein Windpark auf einem Gebirgskamm in Betrieb. Aufgrund stärkerer Winde soll der Ertrag deutlich höher sein als anderswo. ( Windkraft , Windpark )",
-   "link": "https://www.golem.de/news/hoehenwind-windpark-auf-5-100-meter-hoehe-eroeffnet-2611-215712.html",
-   "published": "2026-11-26T16:40:02+00:00",
-   "source": "Golem.de",
-   "type": "Fachmedium (IT)",
-   "lang": "de",
-   "expires": "2026-12-01T16:40:02+00:00",
-   "img": "https://www.golem.de/2611/215712-610882-610880_rc.jpg"
   }
  ]
 }
